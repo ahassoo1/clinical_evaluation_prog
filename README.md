@@ -88,7 +88,6 @@ python visualize_results_llm.py
 ├── dialogues/            # Contains the clinical dialogue text files.
 ├── output/               # Stores all generated files (samples, results, visualizations).
 ├── prompts/              # Contains the evaluation prompt templates.
-├── .env                  # Local environment variables (API keys).
 ├── requirements.txt      # Python package dependencies.
 ├── sample_dialogues.py   # Script to sample dialogues for evaluation.
 ├── evaluate_dialogues.py # Script to run evaluation using OpenAI.
