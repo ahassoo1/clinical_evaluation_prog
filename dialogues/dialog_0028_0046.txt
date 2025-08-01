@@ -1,0 +1,27 @@
+DOCTOR: Alright, Ms. Creagh. So, what brings you in today?
+PATIENT: Good morning, Doctor Memmolo. It’s about… well, a pressure in my bladder. It’s been bothering me for a little while now, and I thought it was best to get it checked out.
+DOCTOR: A pressure, you say. “A little while” is…how long exactly?
+PATIENT: Hmm… let me think. It started, I believe, around the beginning of June. So, about two months now. It doesn’t come and go completely, but it definitely gets worse at times. And it’s… uncomfortable, to say the least.
+DOCTOR: Two months. And you said it worsens… can you describe when it worsens?
+PATIENT: Yes, of course. It seems to be worse after I’ve been sitting for a long period, like when I’m working at my computer designing. Also, if I drink a lot of fluids quickly, it feels… more full, and the pressure increases. It’s not painful, exactly, just… a very persistent feeling of needing to go, even when I’ve just gone. Does that make sense?
+DOCTOR: So, sitting and fluids. Any other specific triggers you've noticed?
+PATIENT: That’s a good question. Let me consider… I haven’t noticed anything directly related to what I drink, really. Just the amount. And… … sometimes after I’ve been stressed, I feel it more. When I’m working on a tight deadline, for example, it seems to intensify. Though, that could just be my imagination, truthfully. I do tend to hold everything in when I’m busy.
+DOCTOR: Stress, naturally. Alright. Let’s move on. Any changes in your urine – color, odor, frequency, or difficulty?
+PATIENT: Yes, actually. My frequency has increased a bit, I think. I find myself going to the restroom more often than I used to. It’s not dramatically different, but noticeable. The color and odor seem normal, I haven’t noticed anything unusual there. And no difficulty, thankfully. It doesn’t hurt to go, and the flow is… regular, I suppose. Is that helpful information?
+DOCTOR: Increased frequency. Good. Any fever, chills, back pain, or nausea?
+PATIENT: No, Doctor. I haven't experienced any fever, chills, or nausea. And thankfully, no back pain either. I am very relieved to say that. I tend to get worried easily when something feels off, so that’s good to know it's not those things.
+DOCTOR: Alright. Have you had any previous medical problems?
+PATIENT: Yes, I have. I was diagnosed with mild hypertension about five years ago, but it’s well-managed with medication. Aside from that… … nothing major. I had a standard appendectomy when I was a teenager, but no complications. Oh, and I have seasonal allergies, but those aren’t really relevant, I imagine. Would you like a full list of my medications?
+DOCTOR: Hypertension, managed. Fine. No need to list everything. Any family history of… kidney problems or bladder issues?
+PATIENT: That’s a good question. Let me think… My maternal grandmother had some issues with urinary incontinence later in life, but I don’t believe it was ever officially diagnosed. And… … my uncle on my father’s side had kidney stones once, but that was many years ago. Other than that, not that I’m aware of. Is it important if it’s just on one side of the family or the other?
+DOCTOR: Incontinence and stones. Okay. And what about your social history?
+PATIENT: Social history? Oh, you mean… lifestyle? I’m married, as you know, and I don't smoke. I rarely drink alcohol, perhaps a glass of wine with dinner occasionally. I work from home as a graphic designer, so my activity level is… moderate. I try to walk at least 30 minutes most days, but it's not always possible with deadlines. Is there anything specific you're looking for?
+DOCTOR: No, no. Just standard questions. Any allergies to medications?
+PATIENT: No, thankfully. I don't have any known allergies to medications. I’ve taken a variety of things over the years—antibiotics for minor infections, antihistamines for my allergies—and I’ve never had a reaction. I always make sure to tell my pharmacist everything I'm currently taking, just to be safe. Is that sufficient?
+DOCTOR: Fine. Let’s have a look. If you'll just lie down for me. I’ll need to palpate your abdomen and listen to your bladder. It won't take long.
+PATIENT: Certainly, Doctor. That sounds perfectly reasonable. Just let me know if there's anything I should be doing or if you'd like me to position myself differently.
+DOCTOR: Alright. Relax. Bladder sounds…full, but not distended. No significant tenderness to palpation. Normal bowel sounds. We'll need a urine sample. And a basic blood panel to rule out infection and assess kidney function. Nurse will get you set up for that.
+PATIENT: Okay, that sounds sensible. I’m happy to provide a sample and get the blood work done. Is there anything I should do to prepare for the sample, like drink a certain amount of water? And… … do you have any initial thoughts on what might be causing this? I know you haven't done all the tests yet, but… just a preliminary idea, if you have one.
+DOCTOR: Drink normal fluids. Don’t overdo it. As for a preliminary idea… it could be a simple urinary tract irritation. Or… stress, as you mentioned. But we need to rule out anything more serious. Let's get the tests done first. The nurse will be in shortly. I have other patients waiting.
+PATIENT: Okay, I understand. Thank you, Doctor. I will wait for the nurse then. I appreciate you taking the time to listen to me, and I’ll be sure to follow your instructions regarding the tests. I’ll try not to overthink things until we have the results.
+DOCTOR: Good. That’s all.

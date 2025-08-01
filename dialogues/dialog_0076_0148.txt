@@ -1,0 +1,28 @@
+DOCTOR: Alright, Mrs. Stepno, good to meet you. So, what brings you in today?
+PATIENT: Oh, um… good to meet you too, Doctor… Ruocco, is it? It’s a bit… difficult to explain, truthfully. It’s my… well, it's a pain. Down there. A pain in… that area. I’m not quite sure how it started, to be honest. It just… is.
+DOCTOR: "Down there," right. Vague complaints are... unhelpful, frankly. But we’ll try. Is it a sharp pain?
+PATIENT: Oh, my apologies, Doctor. I… I don't recall much detail, truly. Sharp… hmm. Not exactly sharp, I don't think. More of a… dull ache? Sometimes. And sometimes… it feels like a heavy feeling. It's hard to describe. Is that… unhelpful? I’m sorry.
+DOCTOR: It is unhelpful, Mrs. Stepno. A dull ache could mean anything. Is it constant, or does it come and go?
+PATIENT: Oh dear… I understand. It… comes and goes, I believe. More often when I’ve been… working. With the wood, you know? But even when I’m resting… it’s there, sometimes. A little. Not as bad, but… present. I’m terribly sorry for being so vague. My memory… it isn't what it used to be.
+DOCTOR: Woodworking… right. And how long has this been going on?
+PATIENT: Oh, goodness. That’s… a difficult question. It feels like… a while. Several weeks, perhaps? Maybe longer. It's difficult to pinpoint, honestly. I didn’t think much of it at first, just assumed it was from… the physical work. But it hasn’t gone away.
+DOCTOR: Anything else accompany the pain?
+PATIENT: Accompany it…? Oh… let me see. No fever, I don't believe. No… unusual discharge, thankfully. No… trouble with… going to the bathroom. Just… the pain. Sometimes it feels a little… swollen, perhaps? But I could be imagining that. It’s hard to tell.
+DOCTOR: Swollen… You know, Mrs. Stepno, a little pain and vague swelling could be a lot of things. Do you have any relevant medical history I should be aware of?
+PATIENT: Oh, goodness. Medical history… well, I have Medicare, so I must have something documented. I… I had some trouble with my blood pressure a few years back, I think. But it was managed. And… I had a surgery, a long time ago. On my… abdomen. But that was… decades ago. I really don’t remember much about it. I'm afraid my memory is quite poor.
+DOCTOR: Abdominal surgery… Medicare should have records. Any family history of… anything relevant?
+PATIENT: Oh… family history. My mother… she had some trouble with her heart, I believe. And my brother… he had some issues with… digestion, perhaps? But I don't know the specifics, truthfully. We weren't very close. And it was a long time ago. I wish I could be more helpful, Doctor. I truly do. It's just… everything feels a little hazy.
+DOCTOR: Right. Vague family history, vague symptoms… Okay, Mrs. Stepno, I’m going to need to do a quick physical exam. It's standard procedure, of course. I need to see what's going on, not just listen to recollections. Is that alright?
+PATIENT: Oh, yes, of course, Doctor. Absolutely. Anything you need. A physical exam sounds… very sensible. I understand. Whatever you need to see, please… just let me know. I'm ready.
+DOCTOR: Alright. Please lie down on the table. I’ll listen to your abdomen first, then do a palpation. I'll try to be as quick as possible.
+PATIENT: Oh, yes, of course. I… I will just lie here, yes? And you… do what you need to do, Doctor. I understand. Just let me know if you need me to do anything.
+DOCTOR: Okay. Breathing sounds normal. No obvious masses detected upon initial auscultation. Any tenderness here?
+PATIENT: Oh… no, not particularly. Ooh, perhaps… just a little there. On the… left side. But it's not… sharp. Just a little uncomfortable. Is that… normal? I’m sorry if I’m being difficult.
+DOCTOR: A little tenderness, you say. And how about here?
+PATIENT: Oh… Oh, that’s… a little more noticeable. Yes, there. A little… achey. It’s… hard to say. It feels… different than before. Is something… wrong, Doctor? I’m terribly sorry, I’m probably just making it worse by talking.
+DOCTOR: Okay. Based on this limited exam—and frankly, Mrs. Stepno, you are not making this easy—it could be musculoskeletal. But the tenderness… I'm not ruling out other possibilities. I'm going to order a complete blood count and a pelvic ultrasound, just to be thorough. It's standard procedure.
+PATIENT: Oh… an ultrasound? Is it… something serious, Doctor? Musculoskeletal… is that… bad? I understand you want to be thorough, but… what are you looking for? And will it be painful? I’m sorry to ask so many questions, but… I get worried easily.
+DOCTOR: Don’t jump to conclusions, Mrs. Stepno. Musculoskeletal just means muscle and bone. An ultrasound is painless, it uses sound waves. I'm ordering it to rule out anything more serious. I'll have the lab draw the blood now, and schedule the ultrasound for tomorrow morning. It’s standard procedure. I'll review the results as soon as they come in. The nurse will be in shortly to take your blood. Do you have any allergies to latex or other materials?
+PATIENT: Oh… well, that’s… reassuring, about the ultrasound being painless. And about it not being serious… I’m very grateful for that, Doctor. No allergies, thankfully. No latex or anything like that. Just… a bit of a nervous disposition, I suppose. Thank you for being patient with me, Doctor. And for explaining everything so clearly. I truly appreciate it. What should I do in the meantime? Should I avoid any activities?
+DOCTOR: Avoid strenuous activity until we have the results, Mrs. Stepno. And try to… relax. I’ll call you as soon as I have something. Now, if you’ll excuse me, I have other patients waiting. The nurse will be in shortly. .
+PATIENT: Oh… very well, Doctor. I will try to relax, and avoid strenuous activity. Thank you again for your time. .

@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Mr. Popova. I’m Dr. Murtic. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Please, call me Aldine. Well, it’s this headache I’ve been havin’. Right at the back of me head, you know? Been botherin’ me for a little while now.
+DOCTOR: A headache, alright. “A little while” is rather vague, Aldine. Can you be a bit more specific?
+PATIENT: Hmm… let me think. It started, oh, maybe… three weeks ago? Started kinda slow, just a dull ache. Thought it was from bendin’ over too much doin’ nails, you know? But it hasn't gone away, and now it's a bit sharper. Not constant sharp, mind you, just comes and goes. I can usually still get on with things, but sometimes it's… distracting.
+DOCTOR: Distracting. Right. And is it on one side, or both?
+PATIENT: Both sides, mostly. It's hard to say exactly where, you know? It feels like it's spreadin' all over the back of me head. Not down the sides, not in me forehead, just… there. Right at the back. Sometimes feels like a pressure too, more than a pain.
+DOCTOR: Pressure, you say. Alright. And have you noticed anything that makes it worse?
+PATIENT: Well now, let me see… bendin’ over does make it worse, like I said before. And… bright lights, definitely bright lights. And if I get stressed, you know, a lot of customers at the salon, it kinda ramps up. Not immediately, but later on that day. Not sure if that makes sense.
+DOCTOR: It's…typical. Alright. Any other symptoms?
+PATIENT: Other symptoms? Hmm… not really. Maybe a little tired sometimes, but I'm 87, Doctor! A little tiredness comes with the territory, you know? No dizziness, no blurry vision, no nothin' like that. Just the headache and the tiredness.
+DOCTOR: Alright. And do you have any medical conditions that I should be aware of?
+PATIENT: Medical conditions… nothin’ serious, thank goodness. I have a bit of arthritis in me hands, which is why I had to retire from doin’ the really fancy nails. But that's it. And high blood pressure, the doctor told me years ago, but I don't take nothin’ for it. He said to watch me salt intake, and I do, mostly.
+DOCTOR: "Mostly." And any allergies to medications?
+PATIENT: No, no allergies that I know of. I haven't taken much medication in me life, to be honest. A bit of paracetamol for aches and pains, but nothin' regularly. Never had a reaction to nothin’, thank goodness.
+DOCTOR: Alright. Well, I’m going to need to do a quick physical exam, just to get a better picture of things. Can you sit up straight for me?
+PATIENT: Yes, of course, Doctor. Straight as I can, anyway. Old bones don’t move as easy as they used to, you know.
+DOCTOR: Alright. Let's start with your reflexes. Just relax your arm... and again... Now your legs. Relax... good. Strength seems alright… Now, can you follow my finger with your eyes?
+PATIENT: Yes, Doctor, I can. No problem at all. Just tell me where to look, and I’ll look. I’m a bit slow, but me eyes still workin’, thank goodness.
+DOCTOR: Pupils are reactive. Skull is… normal. Some mild tenderness in the neck muscles, but nothing significant. Blood pressure is…elevated, as you said. Let me listen to your heart and lungs now. Take a deep breath for me… and again…
+PATIENT: Alright, Doctor. As you can hear, me lungs ain't what they used to be, but I’ve always been a bit of a smoker, you know? Old habits.
+DOCTOR: Right. Well, Mr. Popova, based on what you've told me and the brief exam, it sounds like you're likely experiencing a tension headache, possibly exacerbated by stress and your history of high blood pressure. However, given your age and slightly elevated blood pressure, and the fact that it’s been ongoing for three weeks, I want to be cautious.
+PATIENT: Cautious, you say? That sounds… sensible, Doctor. I appreciate that. What does “cautious” mean, exactly?
+DOCTOR: It means I'm going to order some blood work and a CT scan of your head. The blood work will rule out any underlying inflammation or other medical issues contributing to the headaches. The CT scan will allow us to visualize your brain and ensure there's nothing structurally causing the pain – no tumors, no bleeding, nothing like that. It's a precaution, understand?
+PATIENT: A CT scan… that sounds… serious. Is it painful, Doctor? And what about the blood work? Lots of needles? I don’t mind a little prick, but… lots of needles…
+DOCTOR: The CT scan is painless, Mr. Popova. You'll simply lie on a table while the machine takes some images. As for the blood work, yes, there will be a few vials drawn, but it's a standard procedure. A little discomfort, that's all. We'll send you to the lab downstairs immediately. Do you have any insurance?
+PATIENT: No, Doctor, I don't have any insurance. Never really got around to it, to be honest. Always figured I was healthy enough. What… what will that cost, then? The scan and the blood work, I mean?
+DOCTOR: That's… unfortunate. The scan will be several hundred dollars, and the blood work… at least a hundred. I can write you a referral to the city hospital, they may have financial assistance programs available. In the meantime, I'm going to prescribe you a low dose muscle relaxant to help manage the pain. It's not a long-term solution, but it should provide some relief while we wait for the test results. Do you understand?
+PATIENT: Several hundred dollars… that's… a lot. I don't know if I can afford that, Doctor. The city hospital, you say? I'll have to look into that. And the muscle relaxant… will that make me sleepy? I like to keep busy, you know, at the salon.
+DOCTOR: It may cause some drowsiness, Mr. Popova. It’s a side effect. However, I assure you, managing your headache is paramount. Take it at night. I'll also give you a list of resources for financial assistance with medical bills. I’m doing what I can. Now, do you have any other questions, or shall we get you scheduled for the scan and blood work?
+PATIENT: No, Doctor, I think that’s all for now. Thank you… I think. I’ll look into the hospital, and try to find some money for the tests. Thank you for your time. .
+DOCTOR: Alright. The receptionist will schedule everything on your way out. Try to get it done as soon as possible. And please, do try to reduce your stress levels. It won't help. .

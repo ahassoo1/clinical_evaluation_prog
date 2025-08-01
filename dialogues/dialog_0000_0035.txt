@@ -1,0 +1,28 @@
+DOCTOR: Right. Well, Mrs. Sucich, welcome. I'm Dr. Batara. So, tell me, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. It’s lovely to meet you. Well, it’s these hiccups, you see. They just won’t stop! Started yesterday morning, and they’ve been going on ever since. It’s quite tiring, really. Not painful, just… persistent.
+DOCTOR: Hiccups, hmm?
+PATIENT: Yes, persistent is the word. I’ve tried everything my granddaughter told me to do. Drinking water upside down, holding my breath… even a spoonful of sugar! Nothing seems to work. She’s a very sensible girl, usually, but even she’s stumped.
+DOCTOR: Sensible granddaughters are nice, but online advice… well. Alright. And you said they started yesterday morning?
+PATIENT: Yes, yesterday morning. I was having my breakfast – a bit of papaya and toast, lovely papaya, actually – and then hic! There it was. And it hasn't really let up since. It’s just… random, you know? No pattern to it at all. Sometimes a few minutes between them, sometimes one right after the other.
+DOCTOR: Hmm. Any other symptoms along with the hiccups, Mrs. Sucich?
+PATIENT: No, not really. I feel perfectly fine otherwise. No heartburn, no stomach pain… just the hiccups! I’ve been eating normally, sleeping normally. I even managed my usual morning walk, though it was a bit awkward with all the… well, you can imagine!
+DOCTOR: “Awkward,” yes. Alright. And are you on any medications currently?
+PATIENT: Oh, goodness, yes. Let me think… I take something for my blood pressure – a little white pill, I think it’s called Amlodipine. And sometimes, when my arthritis flares up, I take Naproxen. But that’s it, Doctor. Nothing else regularly. I try to avoid taking too many pills if I can, you know?
+DOCTOR: Alright, Amlodipine and Naproxen. And no allergies to medications, as far as I see here?
+PATIENT: No, no allergies. Never had any trouble with medications, thankfully. My mother always said I had a strong stomach. She was a very practical woman, my mother. Always knew what was best. Though she wouldn't have believed these hiccups! She’d have said it was just nerves.
+DOCTOR: Well, sometimes it is nerves. But let’s rule out anything else. I’m going to listen to your heart and lungs, and just have a quick feel of your abdomen. Just to be thorough. Is that alright?
+PATIENT: Oh, yes, of course, Doctor. Whatever you think is best. I trust your judgement. I always say, it’s best to be sure. Go ahead, please.
+DOCTOR: Alright. Heart sounds are regular. Lungs are clear. Abdomen… soft, no tenderness. Nothing obviously concerning there. Blood pressure is a little elevated, 148 over 82, but not dramatically so. It fluctuates, you know. Now, tell me, have you noticed any changes in your diet recently?
+PATIENT: Not really, Doctor. I eat pretty much the same things every day. Papaya and toast for breakfast, a bit of fish and vegetables for lunch, and usually something light for dinner. I do enjoy a cup of tea in the afternoon, though – Earl Grey, with a little bit of milk. And sometimes, if my granddaughter’s visiting, she brings me a little bit of chocolate. But nothing out of the ordinary, I assure you.
+DOCTOR: Chocolate… alright. And any recent illnesses?
+PATIENT: Oh, no, nothing. I had a little cold back in March, but that cleared up quickly. I’m generally quite healthy for my age, you know. I walk every morning, I eat my vegetables… I try to take good care of myself. It’s just these hiccups! They’re so… unsettling. It’s like my body is trying to tell me something, but I don’t know what.
+DOCTOR: Unsettling is a good word. Well, persistent hiccups in someone your age can sometimes be a sign of something underlying. It’s rare, but we need to investigate. I’m going to order a chest X-ray and some blood work, just to rule out anything serious. It's likely nothing, but better safe than sorry. Does that sound acceptable?
+PATIENT: Oh, goodness. A chest X-ray and blood work… It sounds a bit daunting, Doctor, but if you think it’s best… then yes, absolutely. I trust your judgement. I’d rather be sure, you’re right. Where would I go for those tests? And how long will it take to get the results?
+DOCTOR: Alright. I’m sending the order to the lab and radiology department at the hospital - it's just a few miles down the road. They should be able to fit you in tomorrow morning. The lab results typically take 24 to 48 hours, and the X-ray results usually come back within a few hours. The hospital will call you directly to schedule the appointments. Here’s the referral form, with the hospital’s contact information. I’ll also have my nurse call you tomorrow to confirm everything. In the meantime, try to relax. And avoid carbonated drinks – they won't help. We’ll get to the bottom of this.
+PATIENT: Oh, that’s very kind of you, Doctor. Thank you. A little unsettling, all these tests, but… well, you’re right, better to be safe. And no carbonated drinks, you say? Alright, I can certainly manage that. I’ll just stick to my Earl Grey, then. Thank you again, Doctor Batara. I appreciate your thoroughness.
+DOCTOR: Good. And Mrs. Sucich?
+PATIENT: Yes, Doctor?
+DOCTOR: Don’t spend too much time worrying. Most likely, it's just a bit of a nuisance. But we need to rule things out, you understand. My nurse will be in touch. That will be all for today.
+PATIENT: Yes, of course. You’re right, probably just a nuisance. I do tend to worry, I admit. Alright then. Thank you for your time, Doctor. And thank you to your nurse as well. I’ll see you when I have the results, then. Goodbye.
+DOCTOR: Goodbye, Mrs. Sucich.
+PATIENT: .

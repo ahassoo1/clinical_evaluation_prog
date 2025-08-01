@@ -1,0 +1,22 @@
+DOCTOR: Right. Adyn Swaby, 19 years old. So, what brings you in today?
+PATIENT: Oh, um… well, it’s my speech. It’s been… a bit off, lately. Hard to explain, really. It feels… slurred, sometimes. I don't really remember when it started, exactly. Just… gradually, I suppose.
+DOCTOR: “Gradually,” you say. And is this slurring constant, or does it come and go?
+PATIENT: Oh, it definitely comes and goes. Some days I don't even notice it, and others… well, others it’s harder for people to understand me, I think. It’s not all the time, thankfully. I just… worry about it. It’s a bit unsettling, not knowing when it'll happen.
+DOCTOR: Right. And has anything changed recently?
+PATIENT: Changed… hmm. That's a good question. Let me think… Not that I recall, really. Everything’s been pretty much the same, to be honest. Work’s been… work. Usual construction stuff. My husband and I haven’t been on holiday or anything. Nothing particularly stressful, either. I… I’m drawing a blank, I’m afraid. My memory isn’t the best.
+DOCTOR: Construction work… physically demanding, I presume?
+PATIENT: Oh, yes, very. Lots of lifting, walking, being on my feet all day. It’s honest work, though. Keeps you busy. It is tiring, of course, but I'm used to it. I've been doing it for… well, a little while now. Does that… matter? I don't know if that would cause this.
+DOCTOR: It's… unlikely, but we need to rule things out. Have you experienced any headaches, dizziness, or weakness alongside this speech issue?
+PATIENT: Headaches… sometimes, yes. But I get those often, honestly. Just regular headaches. Not anything new. Dizziness… not really. Maybe a little lightheaded sometimes, but that could just be from being on my feet all day, you know? Weakness… no, I don't think so. I feel alright, physically. It's just… the way I talk. It's the speech that's bothering me. Does that make sense? I feel perfectly fine other than that.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: Oh, um… just Medicare, really. I don’t take anything regularly. Not for anything, thankfully. Just the usual check-ups and things covered by the insurance. I don’t have any prescriptions or anything like that. I’m generally quite healthy, if that helps. Is this… is this something serious, do you think? I'm starting to worry a bit now.
+DOCTOR: Alright. Let's do a quick neurological exam. Just to be thorough. Can you follow my finger with your eyes?
+PATIENT: Yes, of course. Like this? Is that alright? I hope I’m doing it correctly. I get a bit anxious during these things, if I’m honest.
+DOCTOR: Yes, that's fine. Good. Now, can you squeeze my hands?
+PATIENT: Like this? Is that too hard? Or not hard enough? I’m trying to get it right. I hope I’m not making this difficult. It’s just… I’m not very good at knowing how much force I’m using, you know?
+DOCTOR: Alright. And can you say “hello” for me?
+PATIENT: Hello. Does that… sound alright? I think it sounded a bit strange, but I’m not sure. It’s hard to tell, isn’t it? I’m trying my best.
+DOCTOR: Your reflexes are normal, and your speech… is mildly slurred, but inconsistent. It's difficult to assess without a more consistent presentation. I suspect it's likely stress or fatigue related. Construction work is demanding. But, to be safe, I'll order a basic blood panel to rule out any underlying deficiencies. I’m not convinced it's anything serious, but we have to be thorough.
+PATIENT: Oh. Well, that's… reassuring, I suppose. Stress or fatigue… that makes sense, actually. I have been quite tired lately. But I didn’t think it would affect my speech. A blood panel sounds good, though. Just to be on the safe side. When will I get the results? And… will I need to come back again?
+DOCTOR: The lab results should be back in about a week. The receptionist will contact you to schedule a follow-up if anything concerning arises. If your symptoms worsen significantly before then, go to the emergency room. Otherwise, try to get more rest and stay hydrated. Next patient.
+PATIENT: Oh, alright. A week… I’ll try to remember that. And I will, about the rest. Thank you, Doctor. .

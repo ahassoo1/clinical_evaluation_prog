@@ -1,0 +1,39 @@
+DOCTOR: Right, hello. Jase, is it?
+PATIENT: Yeah, that's me. Hi. It's... Jase Nahrwold. Sorry, I always forget how to say my last name properly.
+DOCTOR: No worries, happens all the time. So, what brings you in today?
+PATIENT: Um... well, it’s my stomach. It’s been… off. For a while now, actually. Mostly diarrhea. It's been pretty constant, and it's...annoying, to be honest. I think I've had it for a couple of weeks? Maybe longer. It’s hard to keep track.
+DOCTOR: A couple of weeks, you said?
+PATIENT: Yeah, roughly. It comes and goes, but it’s mostly there. It's not like, super bad all the time, but… frequent. And it messes up my plans, you know? I feel like I have to be near a bathroom all the time. It's just… inconvenient.
+DOCTOR: Okay. Any blood in the stool?
+PATIENT: Oh, um... I think so? Sometimes. It's not a lot, like, not bright red, more… darker? I don’t really pay attention, if that sounds bad. It just… happens. I'm not really sure what I'm looking for, honestly. Does that make sense?
+DOCTOR: Darker…okay. And any cramping or pain with the diarrhea?
+PATIENT: Yeah, a bit. Like, not awful, but my stomach feels…tight. And gassy. Really gassy. It’s… uncomfortable. Mostly lower down, I guess? Not, like, sharp pain, just… a general ache.
+DOCTOR: Any fever or chills with this?
+PATIENT: Um… not that I've noticed. I haven't been feeling sick, like with a cold or anything. Just… the stomach stuff. I might have felt a little warm sometimes, but I just thought it was the weather. It’s been pretty hot, hasn’t it?
+DOCTOR: Alright. Anything you’ve eaten recently that might have upset your stomach?
+PATIENT: Oh, geez. That's a hard one. I eat pretty normally, I think? I had some… spicy curry a couple of days ago. But I eat spicy food all the time, so I don’t think that was it. And… I had a sandwich from that new deli last week. But my husband had one too, and he’s fine. I really don't know. I don't think I've eaten anything obviously bad. Does that help?
+DOCTOR: Not especially, no. And any nausea or vomiting?
+PATIENT: No, thankfully not. Just… the other stuff. No throwing up, no feeling like I want to throw up. Just… a lot of bathroom trips. It’s really wearing me out, to be honest. It's making it hard to go to work.
+DOCTOR: Okay. And what kind of work do you do?
+PATIENT: I'm a sales representative. Mostly on the phone, making calls and stuff. Not very physical, thankfully. But it’s hard to concentrate when I’m worried about… well, you know. And I have to be able to get to meetings sometimes. It's just awkward. I don't want to be, uh, indisposed during a client call.
+DOCTOR: Right, right. Okay, let's just do a quick exam, okay?
+PATIENT: Okay, sure. Whatever you think is best. I'm happy to do whatever you need. I just want this to stop, you know? It’s just… really annoying.
+DOCTOR: Alright. Lie down for me, please. I’m going to listen to your abdomen and feel around a bit. Let me know if anything feels particularly tender.
+PATIENT: Okay. Here we go. Just let me know if anything hurts, right?
+DOCTOR: Okay… breathes deep for me, if you can. Deep breath in… and out… Alright. Not much going on in there right now. Now, I’m just going to gently press on your abdomen. Tell me if you feel any pain. Starting on your right side… Any discomfort there?
+PATIENT: No, that’s… okay. A little pressure, but not pain. It's just... sensitive, I guess. Is that normal?
+DOCTOR: Sensitive is good to know. Let me know if this feels different. And how about here?
+PATIENT: Ooh, yeah, that’s a little more…uncomfortable. Not sharp pain, just… a dull ache. Kind of like how my stomach usually feels, but…more pronounced. Is that bad?
+DOCTOR: Alright… a little tenderness there is… not unexpected, given what you’ve told me. No guarding or rebound tenderness, which is good. Let’s check your reflexes…
+PATIENT: Okay. What am I doing with the reflexes? I'm not very good at these things. Do I just… lay still?
+DOCTOR: Just relax. I’ll tap your knees with this little hammer. It might cause your leg to kick. Perfectly normal. Just let it happen.
+PATIENT: Okay, they kicked! Both of them. I guess that means everything is working, right? Sorry, I'm just a little… jittery. It’s been a long couple of weeks.
+DOCTOR: Yes, that's perfectly normal. Good reflexes. Okay, I think I have enough information for now. I want to order a stool sample to rule out any infections. And also a blood test to check for inflammation.
+PATIENT: Okay, that sounds good. A stool sample… and a blood test. Will that take long? And... will it tell me what’s wrong? Is it something serious? I'm getting a bit worried now.
+DOCTOR: It's standard procedure, Jase. It will take a couple of days to get the results. These tests will help us rule out the more common causes of diarrhea – things like bacterial infections or parasites. It doesn’t necessarily mean it is something serious. Often, it’s just a temporary upset. We'll get the results and then discuss them. I'm also going to prescribe you something to help manage the symptoms in the meantime.
+PATIENT: Okay. Manage the symptoms... That sounds good. Anything to make it stop. What kind of medication is it? And... what if the tests do show something serious? I have a history of… stomach problems, in my family. My mom… she had some issues, years ago. I don't want it to be anything like that.
+DOCTOR: I'm prescribing you loperamide. It's an anti-diarrheal medication, it should help slow things down. As for your family history, it's good to be aware of that. If the tests come back showing something concerning, we'll discuss it thoroughly. We can arrange for further investigations, if needed, or refer you to a gastroenterologist. But let's not jump to conclusions. We'll take things one step at a time. In the meantime, stay hydrated, eat bland foods, and rest. Do you have any allergies to any medications?
+PATIENT: No, no allergies. And… okay. One step at a time. That sounds… manageable. Bland foods… I can do that. My husband is a good cook, he can probably manage bland. He’ll be happy to know he’s being put on bland food duty. Is there anything else I should be doing? Anything I should avoid?
+DOCTOR: Avoid dairy, caffeine and sugary drinks for the time being. The paper has all the instructions regarding the medication and the stool sample. Once you have the results, call the clinic and schedule a follow up appointment. And if you notice any blood in your stool, or a high fever, please come in immediately. Do you have any questions?
+PATIENT: No, I think that's everything. Thank you, Doctor Gorga. You’ve… calmed me down a bit, honestly. I was getting really worried there. I'll call if anything changes, and I'll schedule a follow-up. Thank you again. .
+DOCTOR: Alright. Get well soon.

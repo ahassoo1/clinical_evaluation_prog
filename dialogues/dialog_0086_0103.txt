@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Vankampen. I'm Dr. Murtic. So, what brings you in today?
+PATIENT: Morning, Doctor. Please, call me Albino. It's my back. Lower back, mostly. Been botherin' me for… well, a while now. Feels kinda achy, you know? Like somethin's just… worn out.
+DOCTOR: “A while now,” is not particularly helpful, Albino. Can you be more specific?
+PATIENT: Oh, sorry, Doctor. You're right. Hmm... maybe six months, I think? Started slow, just a little stiffness after I'd been sittin' too long. Now it's pretty much all the time, though some days are worse than others. It feels… brittle, if that makes sense? Like it could snap. Especially when I bend over.
+DOCTOR: Brittle… Right. And does anything relieve it, Albino?
+PATIENT: Not much, really. Layin' down helps a bit. And heat. A warm bath. But it doesn't last. I try to stay movin', you know? Don't want to get stiff. But even walkin' sometimes makes it worse. It’s a funny thing. I used to be able to do anything.
+DOCTOR: And what about pain?
+PATIENT: Pain… it’s not a sharp pain, Doctor. It's more like a dull ache. Like a heavy weight. And sometimes, when I try to twist, it feels like somethin' is… grating. Like bone on bone, maybe? It’s not constant pain, but it's always there, you know? And some days, it flares up real bad. Like yesterday, I bent to pick up a newspaper and… oof. Couldn't straighten up for a good ten minutes.
+DOCTOR: Hmm. And you said six months. Has anything changed in those six months?
+PATIENT: Well, now that you mention it… it's gotten worse since the fall. About three months ago, I tripped on the rug in the kitchen. Didn't break anything, thankfully, just a bad bruise on my hip. But the back pain really kicked up after that. I thought it was just from shock at first, but it just hasn't gone away. And I feel… shorter, maybe? I don't know if that makes sense.
+DOCTOR: A fall, you say?
+PATIENT: Yes, Doctor. Tripped right over the corner of the rug. Old rug, always wanted to get rid of it. I landed pretty hard, mostly on my side, but my back took a bit of the impact. Nothing felt broken, but it scared me. My daughter came over and checked me over, said I was probably just bruised, but like I said, the back hasn't been the same since.
+DOCTOR: Right. And what does your daughter do, exactly?
+PATIENT: She’s a nurse, Doctor. A good one too, works at the city hospital. That’s why I let her check me out instead of goin’ to the doctor right away. She said I was likely just shaken up and to take it easy, but… it's been six months. And she’s busy, you know? I don’t want to bother her with it all the time.
+DOCTOR: Hmm. Very well. Let’s have a look. If you could just lie down on the examination table, please. We'll start with a physical assessment.
+PATIENT: Okay, Doctor. Sounds good. It's a bit high, if you don't mind me sayin'. I'm not as nimble as I used to be. Just let me know if you need me to move a certain way.
+DOCTOR: Alright. Now, tell me if this hurts. And please, be precise. A simple “yes” or “no” will suffice.
+PATIENT: Oof! Yes. That one hurts. Right there… kinda deep, feel like somethin’s pinched. Not a sharp pain, but definitely tender. A little achy after you press it too.
+DOCTOR: And what about here?
+PATIENT: Not so much there, Doctor. Just… the usual ache. It's more the spot you just pressed that's botherin' me. Feels kinda… bony, if that makes sense. Like there’s not much cushion there anymore.
+DOCTOR: Alright. Now, can you bend forward, as far as you comfortably can?
+PATIENT: Okay… Oof. That’s about as far as I can go without… somethin' complainin'. Feels tight, you know? Like somethin's blockin' me.
+DOCTOR: And when you bend backwards?
+PATIENT: Oh, no. Don't think so, Doctor. Too risky. Makes me feel… unstable. I might fall. I don't want to risk makin’ it worse. I can feel it in my bones, if you know what I mean. It just doesn't feel right.
+DOCTOR: Right. Very well. Let’s not push it. I’m going to listen to your back now.
+PATIENT: Okay, Doctor. Whatever you think is best. Just let me know if you need me to do anything. I'm a bit worried, to be honest. Never had back trouble before this fall.
+DOCTOR: Alright. Now, I’m going to check your reflexes. Just relax your legs.
+PATIENT: Okay, Doctor. Relax… I always hated doctors tappin’ on my knees. Reminds me of when I was a kid. Just get it over with.
+DOCTOR: Hmm. And the other side?
+PATIENT: Okay… Ooh! That one felt a bit stronger, I think. Still not what it used to be, mind you. Used to be able to kick a football pretty good, back in the day. But that was a long time ago.
+DOCTOR: Alright. That’s enough for now. Lie back down. I'll be right back. I need to review your… limited… medical history. And possibly order some imaging.
+PATIENT: Okay, Doctor. Limited history… She doesn't seem very impressed. Just want to know what’s wrong with my back.

@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Ms. Yadao. I'm Dr. Donate. So, what brings you in today?
+PATIENT: Good morning, Doctor. Well, it’s a bit embarrassing to talk about, but I’m having trouble… going to the bathroom. Specifically, starting to go, you know? It just… doesn’t want to go easily, if that makes any sense.
+DOCTOR: Right. Difficulty initiating urination. Okay. And how long has this been going on?
+PATIENT: Oh, let me think… it’s been a few weeks, I’d say. Maybe a month? It started gradually, just a little extra effort, but now it's… noticeable. Not every time, mind you, but often enough to worry me. It's not painful, just… frustrating.
+DOCTOR: Frustrating, I understand. And is it difficult to completely empty your bladder when you do go, or just starting?
+PATIENT: No, once I get going, it’s fine. It’s mostly the beginning part. I feel like I have to… push a little, or wait a bit longer than usual. It doesn’t feel like there's anything left after, you know? It empties completely, I think.
+DOCTOR: Alright. And have you noticed any changes in your urine – color, smell, anything unusual?
+PATIENT: Hmm, let me think… no, not really. It looks pretty normal, I suppose. The color is the usual pale yellow, and I haven’t noticed any strange smells. I drink plenty of water, so it's usually quite clear actually. I haven’t paid that much attention, to be honest, until this trouble started. I mostly notice the difficulty, not what it looks like.
+DOCTOR: Okay. And are you experiencing any other symptoms?
+PATIENT: No, not really. I haven't had any fever, or pain in my back, or anything like that. Just this… problem. Sometimes I feel like I need to go a little more often than usual, but that might just be me being careful after noticing the trouble starting. It's hard to say.
+DOCTOR: Alright. Let's get a quick look at your medical history, if you don’t mind. Have you been diagnosed with anything significant in the past?
+PATIENT: Oh, yes. Let me see… I had my gallbladder removed years ago, maybe thirty years now. And I had a bit of arthritis in my knees, but it’s pretty well managed with some over-the-counter stuff. No diabetes, no heart problems. Just the usual aches and pains for someone my age, I suppose. And I get the yearly flu shot, of course. Medicare insists on it!
+DOCTOR: Alright, gallbladder removal, arthritis. Anything else?
+PATIENT: No, I don’t think so. Oh, wait! I had a bladder infection once, a long time ago, when I was younger. But that was… oh, goodness, fifty years ago? It was treated with antibiotics and I haven't had any problems since. I don’t remember the name of the antibiotic, unfortunately. It was so long ago!
+DOCTOR: A bladder infection a long time ago. Okay. And are you currently taking any medications, prescription or over-the-counter, including vitamins or supplements?
+PATIENT: Just the arthritis stuff, you know, ibuprofen when my knees bother me. And a multivitamin every morning. Nothing else. I try to avoid taking too many pills if I can, honestly. I remember my mother always saying too many pills will just rot your insides!
+DOCTOR: Alright. And do you have any allergies to medications, food, or anything else?
+PATIENT: No, not that I know of. I’ve never had a bad reaction to anything. I used to help my mother with her gardening, and she grew all sorts of things. I ate everything! I’ve never had to worry about allergies. I think I'd know if I had one by now, wouldn't I?
+DOCTOR: Okay. Well, Ms. Yadao, it sounds like we have a fairly straightforward case here. Now, I'd like to do a quick physical exam, just to rule out anything obvious. Is that alright?
+PATIENT: Yes, that's fine, Doctor. Whatever you think is best. I trust your judgment. Just let me know if it will be… uncomfortable. I'm not as young as I used to be, you know.
+DOCTOR: Alright. If you could lie down on the examination table, please. I'll need to listen to your abdomen and do a quick neurological exam. I'm just checking for any tenderness or masses. And now I'm going to check your reflexes. This will just involve tapping on your knees and ankles.
+PATIENT: Okay, Doctor. Just let me know what you're doing as you go, alright? It’s just… makes me feel a bit better knowing what to expect. It is a little chilly in here, isn’t it?
+DOCTOR: Reflexes are normal. Abdomen is soft, no masses palpated, but slightly tender suprapubically. Not significant. Your bladder does feel full, so I’ll have you empty it now. We’ll check your post-void residual volume. That’ll tell us if you’re completely emptying your bladder. Go ahead and use the restroom when you’re ready. I’ll be right here.
+PATIENT: Alright. Post-void residual… is that something bad? Is my bladder not working properly? I drink a lot of water, I always have. Perhaps that's the problem?
+DOCTOR: It's not necessarily a problem, Ms. Yadao. It’s just a measurement. Many things can affect it, including simply drinking a lot of fluids. We’re gathering information. Don't jump to conclusions. Go ahead and use the restroom, and I'll see you when you’re finished. Don’t take too long.
+PATIENT: .
+DOCTOR: .

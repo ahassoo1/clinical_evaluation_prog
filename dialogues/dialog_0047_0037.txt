@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Mrs. Kilton. I’m Dr. Press. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It is nice to meet you. I… I have been having trouble breathing. A whistling sound, when I breathe. It is not good.
+DOCTOR: A whistling sound, you say?
+PATIENT: Yes. Like… a small bird, maybe? But inside my chest. It comes and goes. Sometimes when I walk, it is worse. And sometimes, even when I am just sitting. It makes me a little… scared, to be honest.
+DOCTOR: Right. And how long has this been going on, Mrs. Kilton?
+PATIENT: Hmm… let me think. It started… maybe two weeks ago? At first, it was just a little bit. I thought it was just from walking too much. I like to walk in the park. But it has gotten worse each day, I think. Not much, but a little.
+DOCTOR: And is this whistling sound constant when it's happening, or does it come and go in bursts?
+PATIENT: It comes and goes. Not all the time. Sometimes I can breathe normally for an hour, maybe more. Then, whoosh, it starts again. It is… unpredictable. I do not know when it will happen. It is a little worrying.
+DOCTOR: Alright. And are you experiencing any other symptoms along with this whistling sound?
+PATIENT: Hmm… other symptoms? Let me see. I have been a little tired, yes. More tired than usual. And I cough a little sometimes, but not a lot. Just a small cough. Not a bad cough. Is that what you mean?
+DOCTOR: Yes, that's helpful. Is this cough a dry cough, or do you bring anything up when you cough?
+PATIENT: Oh. Um… a dry cough, I think. Nothing comes up. Just… air. It is not a strong cough, like when you have a cold. It is… a gentle cough. Mostly just when I lie down, I think.
+DOCTOR: Right. And have you noticed any swelling in your ankles or feet?
+PATIENT: Swelling? No, not that I have noticed. My feet are… normal. I wear sandals, you know? So I would see if they were swollen. No, no swelling. I check them every day. It is important to check these things, you know?
+DOCTOR: Of course. Now, let's talk about your medical history, Mrs. Kilton. Do you have any existing medical conditions, like heart problems, lung issues, or anything else I should be aware of?
+PATIENT: Oh, medical history… Let me see. I had my gallbladder out many years ago. That was a long time ago, though. And my blood pressure is a little high, the doctor told me. But I take a pill for that, every day. Otherwise… no, not really. I am usually quite healthy. I used to be a trainer, you know. For athletes. So I take care of myself.
+DOCTOR: Alright. And what medications are you currently taking for your blood pressure?
+PATIENT: Um… let me see… It is a small white pill. I think it is… Lisinopril? Yes, Lisinopril. Ten milligrams, I think. Every morning with my breakfast. I have been taking it for… oh, maybe five years? I try to remember everything, but it is hard sometimes, you know?
+DOCTOR: Yes, well, we can confirm all of that. Do you have any allergies to any medications or anything else?
+PATIENT: No, not that I know of. I have never had a bad reaction to anything. I eat everything. I like spicy food, you know? And I have tried many different things. No allergies. My daughter is allergic to cats, but I am not.
+DOCTOR: Very good. Now, have you ever smoked?
+PATIENT: No, never. My husband smoked, a long time ago, but I never liked it. It smelled terrible, you know? And it is bad for you. I always told him that. He quit many years ago, thankfully. I do not smoke. Never have.
+DOCTOR: Alright. And what about alcohol?
+PATIENT: Oh, just a little sometimes. A glass of wine with dinner, maybe. Or a small beer. Not every day, though. Maybe once or twice a week. I do not drink much. It does not agree with me, you know? Makes me sleepy. Just a little sometimes.
+DOCTOR: Alright. Now, let's have a listen to your chest. Please take a deep breath for me.
+PATIENT: Okay, Doctor. I will try. It is hard, you know? My chest feels a little tight. Is that okay?
+DOCTOR: I do hear some wheezing, particularly on exhale. It's subtle, but it's there. Your breath sounds are a little diminished in the lower lobes as well. Now, I'm going to check your oxygen saturation.
+PATIENT: Oh. Is that bad, Doctor? The wheezing? I knew something was wrong. My granddaughter always tells me I am worrying too much, but… I feel it. What does the number mean? Is it low?
+DOCTOR: Your oxygen saturation is 92%. That’s a little on the low side, Mrs. Kilton, but not critically low. It suggests there's some difficulty with oxygen exchange. Based on what you’ve told me and what I’m hearing, it sounds like you may be experiencing some early signs of… bronchitis, possibly asthma, or perhaps even COPD, though we'd need more testing to confirm that. You really should have mentioned this sooner. These things don't just appear overnight.
+PATIENT: Oh dear. COPD? My brother had that. It was very bad. I thought it was just… a little cough. I did not think it was serious. I am sorry, Doctor. I do not understand all of these things. What does this mean for me? Will I have to use one of those… breathing machines?
+DOCTOR: Let’s not jump to conclusions. We need to run some tests before we can say definitively what’s going on. I’m going to order a chest X-ray and a pulmonary function test – that will measure how well your lungs are working. In the meantime, I’m going to prescribe you a bronchodilator inhaler. It will help open up your airways and make it easier to breathe. It's important you use it as directed, and we’ll see how you respond. Here. This is what the inhaler looks like, and these are the instructions. If your breathing gets significantly worse, or if you develop a fever, go to the emergency room immediately. Do you understand?
+PATIENT: Yes, Doctor. I understand. A chest X-ray and a breathing test… and this inhaler. And go to the emergency room if it gets worse. The emergency room… Is that very serious? This sounds… quite a lot. Will someone explain everything to me? I am a little scared, Doctor.
+DOCTOR: It's standard procedure, Mrs. Kilton. We need to rule out anything serious. And yes, the technician will explain the tests to you, but frankly, it’s a simple X-ray and breathing into a machine. As for the inhaler, use two puffs every four to six hours as needed for shortness of breath. The instructions are all there. I have a very busy schedule, so I won't be able to explain everything again. The lab will contact you to schedule the tests. Do you have any other questions... quickly?
+PATIENT: Oh. Um… no, I think that is all. Thank you, Doctor. I will… I will try to remember everything. I hope it is not too serious. .
+DOCTOR: .

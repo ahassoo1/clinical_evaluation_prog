@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Pipolo. Andrew, is it?
+PATIENT: Yes, Andrew. Just Andrew is fine. Look, Doc, I ain't got all day, so if we can just get this sorted... my eyes are just dry. Real dry. Been that way a bit now.
+DOCTOR: “Real dry,” you say. Alright. And how long exactly is “a bit now,” Andrew?
+PATIENT: Hmm… geez. Maybe… a couple months? Hard to say exactly. Time kinda… runs together when you’re older, ya know? It’s just… scratchy. Like sand. And blurry sometimes. Not all the time, though. Mostly when I'm working.
+DOCTOR: Right. Well, “a couple of months” is… something. And you say it’s worse when you’re working. What kind of work do you do, Andrew?
+PATIENT: Cement work. I'm a cement mason. Been doin' it… well, a long time. Outside mostly. Lots of dust. Sun. Wind. That's probably it, right? Dust and sun.
+DOCTOR: Well, it could be. You’re not exactly protecting your eyes doing that sort of work, are you?
+PATIENT: Nah. Not really. Never thought much about it, to be honest. Just… get the job done. Gloves, good boots… but eyes? Never. Should I have been?
+DOCTOR: “Should you have been?
+PATIENT: Well, should I? I dunno. Seems like a silly thing to worry about when you got concrete to pour. But… yes, probably. Now, are we gonna fix ‘em or… ? I got a job startin’ next week.
+DOCTOR: Alright, alright. Let's have a look. I'm going to need to do a quick exam. Just to rule out anything… more serious. Please, sit up straight.
+PATIENT: Fine. Just… quick, Doc. Real quick. My back ain't what it used to be.
+DOCTOR: Okay, look straight ahead. Follow my finger… good. Other eye… yes. Now, tell me what you see on this card…
+PATIENT: Card? That… that's blurry, Doc. Real blurry. I can kinda see the big letter on top… is that an ‘E’? Everything else is just… shapes. Like someone scribbled on it. I ain't never been good with letters. Mostly just read plans, ya know? Numbers.
+DOCTOR: Pupils are… reactive, but slightly diminished. Conjunctiva is a bit dry and irritated, as you said. No obvious foreign bodies. It’s not urgent, but it’s definitely impacting your vision. This is likely chronic dry eye, exacerbated by your work environment. The sun, the dust… it’s a perfect storm.
+PATIENT: A storm? Great. Just what I needed. So… what do I do about it? Can you give me somethin' for it? I gotta see to pour concrete, Doc. I can't be walkin' into walls.
+DOCTOR: Alright. I can prescribe some artificial tears. Use them frequently – four to six times a day. And I strongly recommend you start wearing some form of eye protection – safety glasses or goggles – when you’re working. It’s really non-negotiable. We can also discuss a mild lubricating ointment for nighttime use. But honestly, the eye protection is the most important thing. It's preventative.
+PATIENT: Tears? Like… eye drops? And goggles? Goggles in August? It’ll be hotter than blazes! But… okay. Eye drops. Goggles. I guess I can try. Will the drops make my vision clear enough to do the job? I ain't lookin' for perfect, just… not dangerous. And how much will these drops cost? I ain't got insurance, ya know.
+DOCTOR: The drops won't restore perfect vision, Andrew. They'll lubricate the eyes, reduce irritation, and hopefully, make things more comfortable. As for cost… it varies. Generic brands are relatively inexpensive – maybe ten to fifteen dollars. I'm writing you a prescription for Systane Ultra. Try that first. And look, I understand not wanting to wear goggles, but frankly, you're risking more than just discomfort. Dust and debris can cause serious corneal abrasions. It’s a serious issue. Here. Take this to the pharmacy. I'll also write a note recommending you consider appropriate eye protection – it might help when purchasing them.
+PATIENT: Alright, alright. Systane. Goggles. I get it, Doc. You said your piece. Ten to fifteen dollars, huh? Okay. That ain't terrible. Thanks. I appreciate it. Can I go now? I really gotta get goin'. Sun's waitin' for no one.
+DOCTOR: Yes, you can go. Please, follow up if your symptoms worsen or don’t improve. And seriously, Andrew… the eye protection. Next!
+PATIENT: Right. I will. Thanks again, Doc. Goggles in August… who ever heard of such a thing? .

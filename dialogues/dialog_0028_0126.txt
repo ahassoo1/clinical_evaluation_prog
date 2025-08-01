@@ -1,0 +1,25 @@
+DOCTOR: Right. Mr. Erxleben, is it?
+PATIENT: Yes, that’s correct. Christen Erxleben. Though, most folks just call me Chris.
+DOCTOR: Chris, then. So, what brings you in today?
+PATIENT: Well, to be blunt, I’m just… awfully thirsty all the time. And hungry. Even after I’ve eaten a good meal, I feel like I could eat another one right after. It’s been going on for a few weeks now, and it’s starting to get… irritating, to be honest.
+DOCTOR: A few weeks, you say?
+PATIENT: Yes, roughly. Maybe four or five weeks now? It started gradually, just feeling a bit more thirsty than usual, and then the hunger kicked in. It's not… debilitating, but it’s constant, if that makes sense. I’m hoping it’s not something serious, to be frank. I've got things to do, you know?
+DOCTOR: Of course. Constant thirst and hunger… Have you noticed any changes in your…bathroom habits?
+PATIENT: Bathroom habits? Um… not really, no. Not that I’ve noticed, anyway. Everything seems… normal, if you want to put it that way. I mean, I go when I need to, and… well, you know. Is that important?
+DOCTOR: It can be. Increased urination can sometimes accompany these symptoms. Have you been feeling any fatigue, or perhaps blurred vision?
+PATIENT: Blurred vision… now that you mention it, yes, a little. Just occasionally, though. Not all the time. And I have been feeling more tired than usual, I suppose. Working long hours at the depot, so I just put it down to that, to be honest. Is that what this might be about?
+DOCTOR: Fatigue and blurred vision... Alright. And what about your weight?
+PATIENT: Weight? Well, I haven’t weighed myself recently, but my trousers have been feeling a bit tighter, if that’s any indication. Not a huge amount, mind you, but enough to notice. I was about 190 pounds last time I checked, maybe a few months back. I'm 5'8", if that helps.
+DOCTOR: Right. And any family history of… diabetes, perhaps?
+PATIENT: Diabetes… hmm. My mother’s side, yes. My grandmother, I believe, had it. Type 2, I think. She was a bit older when it started, though. Late 70s, I think. My mother didn't have it, thankfully.
+DOCTOR: Alright. And do you smoke?
+PATIENT: No, never have. Never will. Always thought it was a foolish habit.
+DOCTOR: Any other medications, or supplements, you're taking?
+PATIENT: No, nothing at all. Just the occasional painkiller for a bad back, but that's about it. And I don’t take those often, maybe once or twice a year. Just over-the-counter stuff, ibuprofen, that sort of thing.
+DOCTOR: Alright. Let’s take a quick look at your blood pressure and do a basic blood sugar check, just to be sure. It’s probably nothing, but we need to rule things out. Roll up your sleeve.
+PATIENT: Right. Sounds sensible enough. Hopefully it won’t take too long. I have a delivery to oversee this afternoon.
+DOCTOR: 140 over 90… not ideal. Now, a quick finger prick. … 210. Hmm. It’s elevated. Don’t panic, it’s just one reading. But… we need to confirm this. I'm ordering a fasting blood sugar test, and a comprehensive metabolic panel. You'll need to fast for at least eight hours before the test. I'll give you a requisition form. Come back tomorrow morning.
+PATIENT: Tomorrow morning? Eight hours fasting… That’s a bit inconvenient, to be honest. Is that absolutely necessary? I mean, could it not wait until later in the week? But… alright. If you say so. A requisition form, then. And what exactly does that entail? Is it a lot of blood?
+DOCTOR: It's a standard blood draw. A few vials. It’s to rule out type 2 diabetes, given your symptoms, family history, and this initial reading. It’s better to be certain. The lab is down the hall, third door on the left. Take this form with you, and schedule an appointment. Now, if you'll excuse me, I have other patients waiting.
+PATIENT: Right. A waste of a day, if you ask me, but… alright. Thank you, Doctor. I’ll schedule it, then.
+DOCTOR: Yes, yes. See you tomorrow.

@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Ms. Reihner. I’m Dr. Deschane. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. My back… it is painful. I would like to get this sorted as quickly as possible, if you please.
+DOCTOR: “As quickly as possible,” of course. Well, we all want that. Let's start with the basics. Can you tell me where exactly on your back is the pain located?
+PATIENT: It is… lower. Right at the small of my back. Both sides, mostly. It feels like a dull ache, but sometimes sharp, if I move wrong. It started a few weeks ago, I think. Perhaps three? I recall it worsening with the fence work.
+DOCTOR: Three weeks, coinciding with fence work… alright. And when you say “worse”, can you quantify that for me?
+PATIENT: Quantify…? You mean… how much worse? Before, it was just a little ache after a long day. Now, it is difficult to even bend over to put my boots on. It wakes me at night sometimes, if I roll over. I’m not one for complaining, so it must be bad.
+DOCTOR: “Not one for complaining…” Yes, well, that doesn’t help me assess the situation, does it?
+PATIENT: No, I suppose not. I apologize. It is just… I have always been one to handle things myself. But this… this is not going away. And the work… I need to work.
+DOCTOR: Alright, Ms. Reihner. I understand you need to get back to work. Let’s go through a bit more detail. Have you had any similar back pain episodes in the past?
+PATIENT: Yes. When I was younger, lifting hay bales on the ranch. It was years ago, though. A different kind of pain, perhaps. This feels… deeper. And it hasn’t gone away with rest like that one did. That one… healed in a week, maybe two. This is still here.
+DOCTOR: Previous episodes with hay bales… alright. And are you experiencing any pain radiating from your back?
+PATIENT: Radiating…? You mean… going somewhere else? Yes, sometimes. Down my legs. Not all the way to my feet, thankfully. More in my thighs. It comes and goes. When I stand for too long, mostly.
+DOCTOR: Thighs, with prolonged standing. Any numbness, tingling, or weakness in your legs or feet at all?
+PATIENT: No. No numbness or tingling. Just… ache. Like they are tired. My legs feel tired easily, but not weak. I can still walk and work, though it is uncomfortable. I have not fallen or anything.
+DOCTOR: No numbness, no weakness. Alright. Let’s move on to other things. Any issues with your bladder or bowels?
+PATIENT: No. Everything is… normal. I apologize if that is too personal a question. I am not used to discussing such things with doctors. It is… private.
+DOCTOR: It is necessary, Ms. Reihner, not merely a matter of polite conversation. We need to rule out more serious causes. Now, have you noticed any fever, chills, or unexplained weight loss recently?
+PATIENT: No fever, no chills. And no weight loss. I have… perhaps lost a little appetite because of the pain, but I have not weighed myself. I eat when I can. I assure you, Doctor, I am not ill, simply… in pain. Is there something serious you suspect?
+DOCTOR: Let's not jump to conclusions. We are simply gathering information. Now, Ms. Reihner, I’m going to need to perform a physical examination. Can you please lie down on the examination table?
+PATIENT: Yes. That is… fine. Please let me know if I am doing something wrong. I am not very flexible these days.
+DOCTOR: Just relax. I’m going to start by palpating your spine and surrounding muscles to assess for tenderness or spasm. I’ll also check your range of motion. Please tell me immediately if anything causes sharp pain. Any pain here?
+PATIENT: Yes. Right there. On the left side. That is… tender. Not a sharp pain, but… a deep ache. Like a bruise, almost. Be careful, please.
+DOCTOR: Alright, and how about here?
+PATIENT: Yes. That side too. It is… the same. Both sides are tender, but the left is… worse. It feels like something is swollen, even though I do not see anything. It is a very uncomfortable feeling.
+DOCTOR: Okay, Ms. Reihner, I’m going to ask you to gently bend forward, as far as you comfortably can. Please stop if you experience any significant pain. And now, bend backward.
+PATIENT: It… hurts. Not a sharp pain, but… a pull. I cannot go very far. And backwards… even worse. I can barely move. It feels like something is blocking me. This is… very unpleasant.
+DOCTOR: Limited range of motion, tenderness bilaterally, with greater tenderness on the left… Alright. Now, I’m going to check your reflexes and sensation in your legs. Please lie flat on your back.
+PATIENT: Yes. Please be gentle. I do not like surprises. This is… unsettling. I prefer to know what you are doing before you do it.
+DOCTOR: Very well, Ms. Reihner. I’m going to gently tap on your knees with this reflex hammer. This will check your reflexes. Please relax your legs. And now, I’m going to lightly touch your legs with this cotton swab to assess sensation. Tell me if you can feel that.
+PATIENT: Yes. I feel that. Both sides. It feels… normal. The tapping… that is… strange. It makes my legs jump. Is something wrong? That feels… abnormal.
+DOCTOR: Reflexes present bilaterally, sensation intact… Alright. Based on my examination and what you’ve told me, it appears you are experiencing a lumbar strain, likely exacerbated by the physical work. However, given your limited range of motion and the tenderness, I want to rule out other possibilities. I’m going to order some X-rays to assess your spine and rule out any fractures or other structural abnormalities. I’ll also order a basic blood work panel to check for inflammation.
+PATIENT: X-rays and blood work…? That sounds… serious. Is it something bad? I just thought it was a pulled muscle. I am worried now, Doctor. Will I be able to work?
+DOCTOR: Ms. Reihner, it is standard procedure. We do not jump to conclusions. It does not necessarily mean something is seriously wrong. It simply means we are being thorough. As for your work… we need to see the results of the tests before determining that. I will have the radiology department take the X-rays now, and the blood work can be drawn in the lab next door. Once I have the results, we can discuss a treatment plan. In the meantime, I recommend you avoid any strenuous activity and take over-the-counter pain relievers, such as ibuprofen or naproxen, as directed on the label. Do you have any allergies to any medications?
+PATIENT: No. No allergies. Just… worried. I do not like this. But if you think it is necessary… then I will do it. Can I get a note for work? To explain why I need to take time off? They are… strict.
+DOCTOR: Yes, I can provide a note stating you require medical evaluation and may need to limit your physical activity. It will not detail the specifics of your condition; that is your private medical information. I will send it to the front desk, and they can fax it to your employer. Now, please follow the nurse to the radiology department for your X-rays, and then to the lab for the blood work. We will review the results as soon as they are available. Do you have any questions before you go?
+PATIENT: No. I think… that is all. Thank you, Doctor. I hope it is nothing serious.
+DOCTOR: We'll know soon enough, Ms. Reihner. .

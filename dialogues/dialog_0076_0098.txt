@@ -1,0 +1,37 @@
+DOCTOR: Right. Demondre, is it?
+PATIENT: Yeah, that’s me. Demondre Heindel. It’s nice to meet you, Doctor… Ruocco, right? I think I read your name on the door.
+DOCTOR: Ruocco is fine. Look, I have a rather full schedule today, so if we could just get straight to the point… What brings you in?
+PATIENT: Oh, sure, no problem. Well, to be honest, I ain’t really sick sick. Just… curious, I guess. I was kinda close to needing some help a while back when I was on a long trip, and I figured I should probably get checked out just in case. Never really had a doctor before, if you know what I mean. Thought I’d see what all this is about.
+DOCTOR: "Just in case." Right. Well, preventative care is… acceptable, I suppose. Though usually people come when something is wrong. Still. So, you were on a trip… what sort of trip?
+PATIENT: It was a sailing trip. I work on boats, see? Mostly oilin’ stuff, keepin’ the engines runnin’ smooth. It was a long one, went all the way around the Caribbean. That’s where I started feelin’ a little… off. Not bad, just tired, and kinda achy. It went away after I got back, but I been thinkin’ about it.
+DOCTOR: Sailing. Right. And this “ache”… where exactly was this ache?
+PATIENT: Everywhere, kinda. Like when you got the flu, you know? But not as bad. Mostly in my back and legs, I think. And my arms felt weak sometimes. It was hard to tell 'cause the work I do is pretty hard on your body anyway. It coulda just been that, to be honest.
+DOCTOR: “Everywhere” is… not helpful, Mr. Heindel. We need specifics. Back… upper, lower?
+PATIENT: Oh, sorry. Lower back, mostly. And kinda in my thighs. Like when you been sittin’ for too long, but it didn't really go away when I stood up. It's better now, like I said, but I was worried it was somethin' serious. I don't wanna end up stuck on a boat with nothin' to help.
+DOCTOR: Right. And how long ago was this “somethin’ serious” feeling?
+PATIENT: Hmm… it was maybe… three months ago? Around the time the trip ended. It lasted a couple weeks, then slowly faded. Like it just… went away. That's why I ain’t really worried, but I figured it couldn't hurt to get it checked out. My ex-wife always said I was too slow to get help, so I’m tryin’ to be better about that.
+DOCTOR: Three months. And you've had no recurrence of these symptoms since?
+PATIENT: Nope. Not a bit. I been back at work for a while now, and feelin' pretty good. Regular tired, you know? Work tired. But nothin’ like before. No aches, no weakness, nothin’. That's why I'm kinda wonderin' if I just wasted your time, honestly. Maybe I shoulda just stayed home.
+DOCTOR: Wasted my time?
+PATIENT: Oh, no, sir, I didn't mean it like that! I just… I ain't used to doctors and all. And I was worried about botherin’ you with somethin' that might be nothin’. I just figured it was better to be safe. I apologize.
+DOCTOR: Alright, alright. Let's just get through this. Any other symptoms at all?
+PATIENT: Let me think… No fever, no cough, no nothin' like that. I been sleepin' okay, eatin' okay. Everything else feels normal. Oh! Now that you mention it, I was kinda thirsty a lot on the trip. But it was hot, and we were workin’ hard, so I figured it was just that. Is that somethin' I should tell you?
+DOCTOR: Thirsty… how much more thirsty than usual?
+PATIENT: Well, I was drinkin’ a lot of water, I guess. More than I normally do. Like, a couple extra big bottles a day. And I was still feelin’ kinda parched sometimes. It wasn't bad thirsty, just… noticeable. I'm not sure if that even matters. It coulda just been the sun.
+DOCTOR: Right. And any changes in your urination?
+PATIENT: Urinating? You mean… pee-in'? Uh… no, not that I noticed. Same as always, I guess. I don't really pay attention to that kinda stuff. Is somethin' wrong? Should I be payin' attention to that kinda stuff?
+DOCTOR: Alright. Let's move on. Any family history of… anything significant?
+PATIENT: Hmm… my mom had high blood pressure, I think. And my grandpa… he had somethin' with his heart, I think. But I don't really know much about it. We didn't talk about that kinda stuff much. And my dad… well, I didn't know my dad, so I got no idea. Sorry I can't be more help.
+DOCTOR: Right. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Nope. Never touched 'em. Not my thing. I work on boats, gotta keep my head clear. Clean livin', that's me. Well, mostly. Except for the occasional soda. Does that count?
+DOCTOR: No, soda does not count. Now, let’s do a quick physical exam, if you don’t mind. It won’t take long.
+PATIENT: Okay, sure. Whatever you need. I guess that's what doctors do, right? Check you over? Just let me know if it's gonna be somethin' weird. I ain't real fond of needles.
+DOCTOR: Just lie down on the table, Mr. Heindel. I’ll start with your blood pressure and pulse. And don’t worry, I’m not planning on any needles right now. 140 over 90… pulse is 88… slightly elevated, but not concerning. Lungs clear… heart sounds regular… Abdomen soft, non-tender… Reflexes normal… strength good… overall, he seems… relatively healthy.
+PATIENT: Okay… so what do you think? Am I gonna die or somethin'? Seriously, I got a lot of trips planned.
+DOCTOR: Mr. Heindel, you are not going to die. You seem to be in reasonably good health, despite your… vague complaints. Your blood pressure is slightly elevated, which could be due to stress or anxiety, or simply the fact that I’m examining you. Based on what you’ve told me, and the physical exam, I suspect you may have experienced a mild viral illness a few months ago, which has fully resolved. However, to be thorough, I recommend a basic blood panel to check your kidney function, electrolytes, and glucose levels. And we should repeat your blood pressure reading in a few weeks, after you’ve had a chance to relax. Do you understand?
+PATIENT: Uh… yeah, I think so. Blood work and check my blood pressure again. Glucose levels? What’s that for? And kidney function… is somethin' wrong with my kidneys? I just thought I was a little tired, that's all. Is this gonna be expensive? I don't have a lot of extra money.
+DOCTOR: Mr. Heindel, glucose levels are a routine test to check for diabetes. And checking your kidney function is also routine. It doesn't mean anything is wrong with your kidneys, it’s just… preventative. As for the cost… I don’t handle the billing directly. You’ll need to contact the insurance company to find out what’s covered. Medicare should cover most of it, but I can’t guarantee anything. I’ll write you a referral for the blood work. The lab is just down the hall. Go there, get it done, and then schedule a follow-up appointment with me in a few weeks to discuss the results. Is that clear?
+PATIENT: Okay, okay… referral for blood work, check with Medicare… follow-up appointment. So, I ain't actually sick sick? Just need some tests to make sure? And you said a few weeks? How many weeks is “a few”? Like, two? Three? I got a trip planned for the end of the month… I don't wanna miss that.
+DOCTOR: Mr. Heindel, I've already told you, you do not appear to be seriously ill. "A few" weeks means two to three. And if your blood work is normal, you will be perfectly fine to go on your trip. Here is the referral. Go to the lab, get the tests done, and schedule the follow-up. I have other patients waiting. Is there anything else?
+PATIENT: No, I… I think that’s it. Thank you, Doctor Ruocco. You're a good doctor, even if you're kinda… busy. I’ll go get the tests done now. .
+DOCTOR: Good day. Honestly, some people…

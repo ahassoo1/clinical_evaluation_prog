@@ -1,0 +1,27 @@
+DOCTOR: Alright, Ms. Fornes. Let's get this over with. What brings you in today?
+PATIENT: Oh, hi Doctor Pehrson. Well, it’s just a check-up really. My husband reminded me it was time for some shots, you know, keepin’ up with things. Routine stuff, I guess. I don’t always remember what I need when it’s not botherin’ me.
+DOCTOR: Shots, right. Well, "routine" depends on what you've had done. And frankly, I need more than “when it’s not botherin’ me” to go on. Do you have any idea which shots you're due for?
+PATIENT: Oh dear. No, not really. I just… my husband, Dale, he handles most of that. He usually tells me what I need. I just come in and get it done. I’m terrible with remembering dates and what I’ve already gotten. Is there a list somewhere? Maybe from before?
+DOCTOR: A list?
+PATIENT: Well, I mean, do you keep records here? At the clinic? I’ve been comin’ here for years, I figured maybe there’s somethin’ on file. It's okay if there isn't, I just thought I’d ask.
+DOCTOR: Right. Records… yes, we do keep records. Though, honestly, some of these systems aren't the greatest. Let's see... Fornes, Teah… Hmm. Limited information here. Last visit was… two years ago. Tetanus booster. That's about it. So, we need to figure out what else you need. Do you have any idea about your flu shots?
+PATIENT: Flu shots… Dale always makes sure I get those. Every fall, usually around October or November. So… I think I’m probably up to date on those. But I couldn’t say for sure. He keeps the little cards, but they’re at home with him. He’s out fishin’ right now.
+DOCTOR: Of course he is. Look, this is why it’s important to know these things. Alright. Are you generally healthy otherwise?
+PATIENT: Oh yes, very! I mean, I’m 53, so things creak a little sometimes. But no big problems. I walk a lot, help out with the community garden, and Dale and I eat pretty well. No diabetes, no heart trouble… just the usual aches and pains of gettin’ older. I haven’t been sick with anything serious in years, thankfully.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: Nope, none that I know of. Never had a bad reaction to anything. I've taken antibiotics for a sinus infection now and then, and some pain relievers when I’ve pulled somethin’ in the garden, but always okay. Nothing serious, never.
+DOCTOR: Okay. Any major surgeries?
+PATIENT: Nope, thankfully. Nothing like that. Just a wisdom tooth out when I was young, and that was ages ago. I try to stay out of the hospital if I can. I prefer bein’ outside, you know? Fresh air and sunshine are the best medicine.
+DOCTOR: Alright. Any family history of, say, heart disease, cancer, diabetes?
+PATIENT: Hmm… Well, my mom had some trouble with her blood sugar later in life, I think. Not full-blown diabetes, but the doctor kept an eye on it. And my grandpa, on my dad’s side, he had heart trouble. That's about it, really. No one else that I can recall had anything major. It was a long time ago, though, and I wasn’t always the best at rememberin’ things like that. My memory… it ain’t what it used to be.
+DOCTOR: Right. Okay. Take a deep breath… and exhale. Anything botherin' you?
+PATIENT: No, not really. Just… you know, the usual aches and pains. My knees get a little stiff sometimes, especially when it’s cold. And my back… well, that just complains every now and then. But nothin’ I can’t manage with a little stretching and some ibuprofen. Old age, I guess.
+DOCTOR: Abdomen is soft… no tenderness. Blood pressure is 130/80. Pulse is 72. Lungs are clear. Seems… reasonably healthy for your age. We should probably get you updated on your tetanus booster, and maybe a flu shot, even though it's early.
+PATIENT: Oh, good. That’s good to hear. Yes, that sounds sensible. The flu shot is a good idea, and I always forget to ask Dale about the tetanus. He’ll be pleased I came. Is there anything else I should be worryin’ about? Or any other shots I might need?
+DOCTOR: Worrying is your husband’s department. Look, for someone your age, we could discuss a pneumococcal vaccine. It protects against pneumonia. But honestly, unless you're frequently sick, it’s probably not essential. And a shingles vaccine is something to consider down the line, but we'll worry about that later. Right now, let's just get you up to date on the basics.
+PATIENT: Oh… shingles? I've heard stories about that one. Sounds awful. Maybe we should talk about that later then. But for now, the tetanus and the flu shot sound good. Whenever you’re ready. Do I need to roll up my sleeve now?
+DOCTOR: Yes, roll up your sleeve. The faster we get this over with, the better. And please, try to remember what shots you've received next time. It makes my job significantly easier. There. That's the tetanus booster and the flu shot. Don't expect to feel amazing, but it shouldn't be anything major.
+PATIENT: Ooh, that was a bit of a pinch! But I’ve had worse. Thank you, Doctor Pehrson. I will try to remember next time, I promise. Dale will be glad I came, and I’m glad to be all up to date. Is there anything else I need to do, or can I just… go?
+DOCTOR: No, you can go. Just... keep an eye out for any severe reactions, which is unlikely, but always possible. If you develop a fever, rash, or difficulty breathing, go to the emergency room. And please try to be more organized next time. This is a waste of both our time. Next!
+PATIENT: Alright. Thank you anyway, Doctor Pehrson. I’ll tell Dale you said hi. And I will try to remember. .
+DOCTOR: .

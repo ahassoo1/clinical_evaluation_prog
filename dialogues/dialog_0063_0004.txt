@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Ms. Fornes. I am Dr. Jules. So, tell me, what brings you in today?
+PATIENT: Morning, Doctor. Just here for my shots, like we talked about. Routine stuff, you know? Keep everything up to date.
+DOCTOR: Yes, well, “routine” is a relative term, isn’t it?
+PATIENT: You got that right! Things change, don't they? What all are we lookin' at today, specifically? Just so I know what to expect.
+DOCTOR: We are assessing your immunization status and administering any necessary vaccinations, as you requested. Though, frankly, a basic medical history review is always prudent before injecting… well, anything, into the system. Have you had a general check-up recently?
+PATIENT: Oh, no, not recently. Honestly, I haven't been to the doctor much in the last few years. Been keepin' busy with work, and… well, things just come up. Is that a problem? I feel fine, mostly. Just want to stay on top of things, you know? I figured the shots were the most important part.
+DOCTOR: "Mostly" is insufficient, Ms. Fornes. A lack of preventative care is a problem. Very well. Let’s at least establish a baseline. Do you have any known allergies?
+PATIENT: Hmm... allergies. Let me think. Not to anything food-wise, no. Bees, yeah, I’m allergic to bee stings. Bad reaction once when I was a kid. And... dust sometimes bothers me, makes me sneeze a lot. But that’s about it, I think. Nothing major, really.
+DOCTOR: Bee stings noted. Dust is… ubiquitous. Are you currently taking any medications—prescription, over-the-counter, herbal supplements… anything at all?
+PATIENT: Nope. Nothing at all. I try to stay away from pills if I can help it. Just old-fashioned hard work and a good night's sleep usually does the trick for me. Though sleep's been a little harder lately, but that's just...life, I guess.
+DOCTOR: "Life." Right. Very well. And do you have any significant medical history?
+PATIENT: Significant medical history… Let me see. I broke my arm when I was little, fell out of a tree. Nothing serious. And… my mom had some heart trouble when she got older, but that was a long time ago. I haven't had any big health issues myself, knock on wood. I’m pretty sturdy, you know? Workin' construction keeps you that way.
+DOCTOR: Construction, yes. And your father?
+PATIENT: My dad… he was a fisherman, mostly. Healthy as a horse his whole life, really. Lived a long time, but he passed away a few years back. Natural causes, I think. He always said the sea kept him strong. He always told me to stay active, too. That's why I took up building.
+DOCTOR: Very well. Now, Ms. Fornes, before we proceed with any vaccinations, I need to perform a brief physical examination. It’s standard procedure. Please have a seat on the examination table.
+PATIENT: Okay, sounds good. Just let me know if you need me to move a certain way. This old body doesn't bend like it used to!
+DOCTOR: Please lie back. I need to auscultate your lungs and heart. And please, try to remain still.
+PATIENT: Alright, I'm ready when you are. Just let me know if anything feels...weird. I’m not a fan of doctors poking and prodding, but I understand it has to be done.
+DOCTOR: Respiration is slightly diminished bilaterally, but within acceptable parameters for someone with… a physical profession. Heart rate is regular, but slightly elevated. Blood pressure is 130/85. I'll need to check your reflexes next. Please extend your arms.
+PATIENT: Okay. Just like that? Everything feels alright so far, just a bit cold in here, maybe? But yeah, go ahead. I’m ready.
+DOCTOR: Reflexes are… somewhat diminished, but not alarming. Strength is adequate. Now, please follow my finger with your eyes. Do not move your head.
+PATIENT: I’m followin’ it… yeah, right there… keepin’ my head still… it’s a little blurry though, if I’m bein’ honest. Just regular blurry, you know? Happens sometimes, especially when I’ve been workin’ all day. Is that bad?
+DOCTOR: "Regular blurry," you say. Ms. Fornes, I am concerned about your visual acuity. Have you had a recent eye exam?
+PATIENT: No, not recently. Not for…a long time, actually. Probably should have, now that I think about it. But I can still see okay, you know? Enough to get by. It’s been gettin' a little worse lately, though. Things are a little fuzzier around the edges, especially at night. But I figured it was just…age. Is it something serious?
+DOCTOR: "Just age" is rarely the full answer, Ms. Fornes. Given your diminished reflexes, slightly elevated blood pressure, and now your reported visual changes, I recommend a full neurological and ophthalmological work-up. Do you have a primary care physician I can contact, or would you prefer a referral?
+PATIENT: Oh, boy. Sounds like a lot. No, I don't really have a regular doctor. Haven't needed one in years. A referral would be great, if that's alright. I trust your judgment, Doctor. What kind of doctors are we talkin’ about? And…is it gonna be expensive? I don't have insurance, you know.
+DOCTOR: A neurologist to assess the diminished reflexes and a comprehensive eye exam with an ophthalmologist, Ms. Fornes. As for the cost… that is a valid concern. I will provide you with information regarding clinics that offer a sliding scale fee based on income. It will still be an expense, unfortunately. Now, about the vaccinations… given these recent findings, I recommend postponing them until after you've had the necessary evaluations. We don’t want to complicate matters.
+PATIENT: That sounds…reasonable. Postponing the shots is fine. Better safe than sorry, right? And thank you for the information about the clinics with the sliding scale. That would be a big help. So, no shots today then? Just the referrals?
+DOCTOR: Correct. No vaccinations today, Ms. Fornes. Here are the referrals, and the list of clinics. Please schedule appointments as soon as possible. I will document these findings and advise a follow-up consultation with me once you've received the results of the evaluations. Is there anything else I can assist you with?
+PATIENT: No, I think that’s everything, Doctor. Thank you for…well, for bein’ thorough, even if it wasn’t what I expected. And for the information about the clinics. I really appreciate it. I’ll make those appointments right away. Have a good day.
+DOCTOR: Very well. You have my card should you require further assistance. Good day, Ms. Fornes.

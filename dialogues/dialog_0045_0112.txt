@@ -1,0 +1,30 @@
+DOCTOR: Alright, Keoni. Have a seat. So, what brings you in today?
+PATIENT: Thank you, Doctor Billman. It's… well, it's a bit embarrassing, to be honest. I’ve been going to the restroom rather frequently, lately. It’s just… more often than it used to be, and it’s a bit disruptive. I’m not entirely sure when it started, or what might have caused it, if that helps.
+DOCTOR: Disruptive, huh?
+PATIENT: Yes, sir. It’s… difficult to explain without sounding dramatic, but it interferes with, well, everything. Work, outings… even just relaxing at home. It's… unsettling, always needing to be near a restroom. I apologize for being vague; my memory isn’t what it used to be, and I find it difficult to pinpoint details.
+DOCTOR: Right. So, frequent urination. Okay. Let's try to get some specifics here. When you say "frequent," how many times a day would you estimate you're going?
+PATIENT: Oh dear. That is difficult… I haven’t really counted, to be perfectly honest. It feels like… every couple of hours, at least. Perhaps more when I drink anything – water, tea… even a small amount. It’s… hard to say exactly. Before this started, it would have been… normal, I suppose. Three or four times, maybe? Now… it feels like much more than that. I truly apologize for not being more precise.
+DOCTOR: And is it… just frequent, or is there any pain or burning when you urinate?
+PATIENT: No, not exactly pain, sir. More of a… discomfort, occasionally. A sort of… stinging, but very mild. It doesn’t happen every time, but it’s there sometimes. It's fleeting, and not severe, but noticeable. I wouldn’t describe it as painful, no. Mostly it’s just… the constant urge to go, really. It’s that which is troubling me the most.
+DOCTOR: Okay. Any fever, chills, nausea, or lower abdominal pain?
+PATIENT: No, sir, I don’t believe so. No fever that I’ve noticed. I haven't had any chills, and definitely no nausea. And my lower abdomen… feels normal, as far as I can tell. No pain, no tenderness… just… regular. I’m quite certain. I've been… a bit distracted with everything, but I would have noticed those things, wouldn't I?
+DOCTOR: Alright. And are you sexually active?
+PATIENT: Oh. I… I am divorced, Doctor Billman. I haven't been… actively involved in a relationship for some time now. So, no, not currently. I apologize if that’s… an awkward question. It feels a little… personal.
+DOCTOR: Right, right. Just need to cover all bases. Any changes in your diet or fluid intake recently?
+PATIENT: Hmm… not drastically, sir. I've been trying to drink more water, actually, because of the weather. It’s been very hot. And… I suppose I’ve been having a bit more tea than usual. Herbal tea, mostly. Chamomile, peppermint… nothing caffeinated. I can’t say my diet has changed significantly, no. Mostly the same. I do try to eat healthily… but I haven’t made any major alterations to my routine, if that makes sense.
+DOCTOR: Alright. Let's do a quick exam. I want to check a urine sample, and I'll listen to your abdomen, just to be sure. Standard procedure. Do you have any allergies to medications?
+PATIENT: Yes, that sounds sensible, Doctor Billman. A urine sample… yes, perfectly alright. And… allergies… I don't believe so, sir. Not that I’m aware of. I haven't had any reactions to any medications in the past, as far as I remember. Although, it's been a while since I've needed… a great deal of medication. Just occasional pain relievers, perhaps. Nothing serious. Is there anything specific I should mention?
+DOCTOR: No, just wanted to be sure. Okay. Well, let's head in the back. I'll get you a cup for the sample, and then we can take a quick listen. Don't worry, it won't take long. Follow me.
+PATIENT: Very well, Doctor Billman. Thank you. I appreciate your attention to this matter. It’s… reassuring to have it looked into. I do hope it’s nothing serious.
+DOCTOR: Just sit here, and collect about two ounces in the cup. Try not to get any stool in there. There's a lid to put on it when you're finished. I’ll be right back.
+PATIENT: Two ounces… and no stool. Very well.
+DOCTOR: Alright, take your time. Let me know when you’re finished.
+PATIENT: Doctor Billman? I... I've collected the sample. It was… rather difficult, to be honest. I do apologize if it's not… a perfect specimen. I’m ready whenever you are.
+DOCTOR: Alright. Lie down on the table, and I'll listen to your abdomen.
+PATIENT: Very well, Doctor Billman. I… I hope I’m not making a fuss. It’s just… I haven’t been to a doctor in quite some time.
+DOCTOR: Hmm. Everything seems normal. No tenderness, no masses. It could just be a mild irritation, possibly from drinking a lot of fluids. But we'll send the sample off to the lab just to rule anything out.
+PATIENT: That’s… reassuring to hear, Doctor Billman. Mild irritation… that’s better than… other possibilities. The lab… how long will it take to get the results? And… is there anything I should be doing in the meantime? Perhaps adjust my fluid intake?
+DOCTOR: The lab usually takes about three to five business days. I'll have my nurse contact you with the results. In the meantime, try cutting back on your fluid intake slightly. And avoid any sugary drinks. If it doesn't improve within a week, or if you develop a fever, chills, or lower abdominal pain, you should go to the emergency room immediately. Anything else?
+PATIENT: Three to five business days… and avoid sugary drinks. I can certainly do that. And… I will be mindful of those symptoms. No, sir, I don't believe so. That answers my questions, for now. I appreciate your time and attention, Doctor Billman. Even though it wasn't… entirely comforting news, it’s better to know. Thank you.
+DOCTOR: Alright. The nurse will let you know when the results are in. Don't worry too much. Probably nothing serious. You can get dressed now. And have a good day.
+PATIENT: Very well, Doctor Billman. Thank you again. I shall… await the nurse's call. Have a good day as well, sir.

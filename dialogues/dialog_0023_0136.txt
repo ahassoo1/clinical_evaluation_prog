@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I’m Dr. Versace. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Um... it's my belching. It’s been happening a lot lately. It’s… embarrassing, really.
+DOCTOR: “Embarrassing,” yes. Well, many things bring people into my office, Ms. Fogelstrom. Let’s try to be clinical about this. “Lately” – can you give me a timeframe?
+PATIENT: Hmm… maybe the last… two weeks? It started slowly, just after I eat sometimes. Now it happens even when I haven't eaten, or just drank water. It's not always after I eat, you know? Sometimes it just… comes.
+DOCTOR: So, roughly two weeks, and it’s becoming more frequent, independent of food intake. Is it painful, Ms. Fogelstrom, or more… just disruptive?
+PATIENT: No, not really painful. Just… loud. And it makes me feel… full, even when I'm not. Like there’s too much air inside. It’s just… uncomfortable, mostly.
+DOCTOR: "Too much air," you say. Do you notice anything that seems to trigger it, Ms. Fogelstrom?
+PATIENT: Hmm… I drink a lot of soda. Maybe that? I like the fizzy ones. And sometimes… when I’m nervous I think I swallow a lot of air. I don’t mean to, but… it just happens.
+DOCTOR: Soda… and anxiety-related air swallowing. Alright. Are you experiencing any other symptoms alongside this belching?
+PATIENT: No, not really. Just… sometimes my stomach feels a little bit… bloaty, I guess? But not always. And… well, sometimes I feel a little tired, but I work long hours, so… I don’t know if that’s connected.
+DOCTOR: “Bloaty,” and fatigue from work. Ms. Fogelstrom, do you have any history of heartburn, indigestion, or any other stomach problems?
+PATIENT: No, never. I eat pretty normally, I think. Not too much fried food, not too much spicy food. Nothing like that. My abuela always said to eat everything in moderation. I try to follow her advice.
+DOCTOR: No prior GI issues, adherence to grandmother’s dietary advice. Any allergies, Ms. Fogelstrom?
+PATIENT: No, no allergies that I know of. I can eat anything, really. I've never had a reaction to anything. I do get bitten by mosquitoes a lot, but that’s not an allergy, right?
+DOCTOR: No, Ms. Fogelstrom, mosquito bites are not typically considered allergies. Are you currently taking any medications—prescription, over-the-counter, vitamins, supplements—anything at all?
+PATIENT: No, I don’t take anything regularly. Sometimes I take something for a headache, but that’s it. Just… the usual pain reliever. Nothing special. I try to stay away from medicine if I can.
+DOCTOR: No regular medications. Alright. Let's do a quick physical examination. Please lie down on the examination table. I'll listen to your abdomen.
+PATIENT: Okay. Is that going to take long, Doctor? I have to go back to work soon.
+DOCTOR: It will be brief, Ms. Fogelstrom. Just a few moments. Please. Let’s proceed.
+PATIENT: Okay. Is there anything special I need to do? Like, should I breathe a certain way?
+DOCTOR: Relax, Ms. Fogelstrom. Just breathe normally. I’m listening for bowel sounds. Bowel sounds are present in all four quadrants, normoactive. Abdomen is soft, non-tender to palpation. No guarding or rebound tenderness. No masses palpated. Normal auscultation and palpation. No acute findings.
+PATIENT: Okay. That’s good, right? So, what does that mean?
+DOCTOR: It means there is no immediate cause for concern, Ms. Fogelstrom. Your examination is unremarkable. It is likely related to your soda intake and possibly swallowing air due to anxiety. However, to rule out other possibilities, I recommend a simple blood test to check for Helicobacter pylori infection and a basic metabolic panel. It’s a routine precaution.
+PATIENT: Okay… blood tests. I don't like needles very much, Doctor. But... if it will help, I guess I can do it. What exactly are we looking for with these tests? And… how long will it take to get the results?
+DOCTOR: The blood test is standard procedure, Ms. Fogelstrom. It will confirm or exclude H. pylori, a bacteria that can cause digestive issues. The basic metabolic panel will assess your overall health and electrolyte balance. As for the results, the lab usually takes 24 to 48 hours. In the meantime, I suggest reducing your soda intake drastically, and trying to be mindful of swallowing air—perhaps practicing some deep, slow breathing exercises. If the symptoms persist or worsen despite these measures, and after the lab results are in, we can discuss further investigation—perhaps a referral to a gastroenterologist. Do you understand?
+PATIENT: Yes, Doctor, I think so. Less soda, breathe slowly… and then the blood test. Okay. So… where do I go for the blood test? And… will you call me with the results, or do I need to call you?
+DOCTOR: The phlebotomy lab is just down the hall, Ms. Fogelstrom. They will draw the samples. The results will be sent directly to my office. My staff will contact you if anything concerning is found. Do not call us to check on the progress of the results. We will contact you. Now, do you have any other concerns at this time, or can we consider this consultation complete?
+PATIENT: No, I don’t think so. Less soda, breathe… and wait for the phone call. Okay. Thank you, Doctor.
+DOCTOR: You're welcome, Ms. Fogelstrom. Please, try to follow the recommendations. Have a good day. .
+PATIENT: .

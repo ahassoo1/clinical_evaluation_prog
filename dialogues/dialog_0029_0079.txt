@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Ms. Hainley. I'm Dr. Chora. Thanks for coming in today. So, what brings you in to see me?
+PATIENT: Oh, hi Doctor. It's... well, I’ve been bruising really easily lately. Like, way more than usual, and it's kinda scaring me. I'm on a blood thinner, so I figured I should get it checked out, you know?
+DOCTOR: Okay, I understand. Bruising easily, especially while on a blood thinner, is definitely something we need to look into. To start, can you tell me a bit more about when you first noticed this increased bruising?
+PATIENT: Hmm... let me think. It started, I'd say, maybe three weeks ago? It was just little things at first, like bumping my arm on the counter. But then it started happening with nothing. Just walking around, I’d find a new bruise. It's mostly on my legs and arms, I think.
+DOCTOR: Okay, three weeks ago, mostly legs and arms, and appearing sometimes with no obvious injury. And you mentioned being on a blood thinner - can you tell me what medication you're taking and why you were prescribed it?
+PATIENT: It's called... Warfarin, I think? Yeah, Warfarin. The doctor put me on it about six months ago. I had a blood clot in my leg, a DVT, they called it. Said the Warfarin would help prevent more from forming. It's been fine, usually. Just... this bruising is new.
+DOCTOR: Okay, Warfarin for a DVT six months ago. That’s good to know. And you've been taking it consistently since then?
+PATIENT: Yes, every day. Same time, same dose. I’m really good about taking pills, honestly. I even have one of those little pill organizers, you know, with all the days of the week? Never miss a dose. That's why this is so weird.
+DOCTOR: Good, that’s very helpful. Have you noticed any other symptoms along with the bruising?
+PATIENT: Let me think... No, not really. No bleeding gums, no nosebleeds, no... anything like that. Just the bruises. Maybe a little tired, but honestly, who isn't tired these days? I don't think that's related.
+DOCTOR: Alright. And have you had any recent illnesses, infections, or changes in your diet or activity level in the last few weeks?
+PATIENT: No, nothing like that. I haven't been sick, and I'm eating the same stuff I always do. Maybe I’ve been walking a bit more than usual, just trying to get some exercise, but that’s it. Honestly, I'm starting to worry a little. Is this serious?
+DOCTOR: It's good you're bringing this to my attention. It's always best to investigate unexplained bruising, especially with a medication like Warfarin. Let’s do a quick physical exam, and then I’ll want to order some blood work to check your INR, platelet count, and a complete blood count. Does that sound alright?
+PATIENT: Yeah, okay. That sounds... good. Whatever you think is best. I just want to figure out what’s going on. I've got things to do, you know? But yeah, blood work is fine.
+DOCTOR: Alright. Let's start with the exam. Please have a seat on the examination table. I’m going to take a look at the bruising on your arms and legs, and I’ll also listen to your heart and lungs and check your abdomen.
+PATIENT: Okay. Just let me know if you need me to move anything, or whatever.
+DOCTOR: Okay, breathing sounds clear. Heart rate is regular. Now, let me just feel your abdomen… Any tenderness here?
+PATIENT: No, not really. It feels… normal, I guess? Maybe a little sore, but I mean, I had a big lunch, so… That’s a little tender, right there, but I think it’s just from eating too much.
+DOCTOR: Okay, that’s good to know. Alright. I'm seeing quite a bit of bruising on both legs, varying in color. No significant swelling at this point. I'm going to order a CBC, PT/INR, and a basic metabolic panel. This will help us understand if the Warfarin is within a therapeutic range, if your platelet count is normal, and check your kidney function. Do you have any known allergies to any medications or anything else?
+PATIENT: No allergies, thankfully. Never had any problems with anything like that. Just… get the tests done. I need to know what's going on. And how long will that take? I have a meeting this afternoon.
+DOCTOR: Alright, good. The lab is just down the hall, it should only take about 15-20 minutes to draw the blood and send it off. The results usually come back within an hour or two, but sometimes it can take a little longer depending on how busy the lab is. I’ll have the nurse contact you as soon as we have them. In the meantime, try to avoid any activities that could cause further injury. I’m putting in the orders now.
+PATIENT: Okay, an hour or two. Fine. I guess I can reschedule my meeting. Just... please hurry. I really appreciate it, Doctor. Let me know if you need anything else from me.
+DOCTOR: Okay, I understand. The nurse will be in shortly to draw your blood. We'll get this sorted out as quickly as possible. Is there a phone number where we can best reach you with the results?
+PATIENT: Yeah, it's 555-1212. And please, text me if it’s faster. I'm kinda always on my phone, you know? Thanks again, Doctor.
+DOCTOR: Excellent. 555-1212, we’ll text you with the results as soon as they are available. I'll have the nurse come in now to draw your blood.
+PATIENT: Okay, great. Thanks again, Doctor. I really appreciate it. Hopefully, it’s nothing serious.

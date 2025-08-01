@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Ms. Creagh. I'm Dr. Deschane. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Thank you for seeing me. I’ve been having a lot of pressure in my bladder, and it’s been…uncomfortable, to say the least. It's been going on for a little over a week now, I believe.
+DOCTOR: A week, alright. And when you say pressure, can you describe that a little more specifically?
+PATIENT: Certainly. It feels…full, even right after I’ve gone to the restroom. And there's this…urge to go constantly, even if there isn’t much to go, if that makes sense. It’s not painful, exactly, but very bothersome. It’s disrupting my sleep a little, too, having to get up.
+DOCTOR: Disrupting your sleep, yes. So, a sense of fullness immediately post-void, and frequent urging…hmm. Have you noticed any changes in your urine itself?
+PATIENT: Yes, actually. I have noticed it seems a little darker than usual. Not dramatically, but…I generally drink a lot of water, so it's usually very pale. And it sometimes smells a bit stronger, though I’m not sure if that’s just my imagination. I haven’t seen any blood, thankfully.
+DOCTOR: Darker urine, stronger odor… alright. And you mentioned drinking a lot of water. Has that changed at all recently?
+PATIENT: No, Doctor, I don’t believe so. I usually have at least eight glasses a day, sometimes more if I've been active. It's been pretty consistent, as far as I can recall. I make sure to stay hydrated.
+DOCTOR: Very good. And, Ms. Creagh, do you have any medical conditions that you’re currently being treated for?
+PATIENT: No, I don't. I'm generally quite healthy. I have Medicare, and I go for my yearly checkups, but my doctor hasn’t mentioned anything concerning. My husband likes to say I’m a bit of a health nut, to be honest!
+DOCTOR: Alright. Any surgeries in the past?
+PATIENT: No, no surgeries. Never had any need for them, thankfully. I had my tonsils out when I was a little girl, but that was many years ago, and it was a very straightforward procedure. Nothing since then.
+DOCTOR: And what about your family?
+PATIENT: Do you mean, is there a family history of anything relevant? Let me think… My mother had some issues with kidney stones when she was older, I believe, but that was quite a while ago. And my grandmother, on my father’s side, had diabetes, though she managed it well with diet and medication. I don’t believe anyone else has had similar problems.
+DOCTOR: Kidney stones, you say?
+PATIENT: Yes, Doctor. My mother. She had them a couple of times, I recall. It was very painful for her. She needed to go to the hospital for it both times, I think, but she recovered fully each time. It was several years ago now, though, maybe fifteen or twenty years. I don’t remember all the details.
+DOCTOR: Alright. And, Ms. Creagh, do you have any allergies to medications?
+PATIENT: No, Doctor, I don’t. I’ve never had any allergic reactions to anything, as far as I’m aware. I’m very careful about what I take, and I always check with a pharmacist before trying anything new.
+DOCTOR: Are you currently taking any medications at all?
+PATIENT: No, Doctor, I'm not. I prefer to avoid medication whenever possible, if I can. Just a multivitamin occasionally, but that’s it. I try to get everything I need from my diet.
+DOCTOR: Very well. Now, Ms. Creagh, let's perform a quick physical exam. Please have a seat on the examination table.
+PATIENT: Certainly, Doctor. Is there anything specific I should do? Would you like me to…empty my bladder before we begin?
+DOCTOR: No, that won’t be necessary at this time. Please lie back, and I’ll listen to your abdomen.
+PATIENT: Okay, Doctor. Just let me know if you need me to adjust my position or anything like that.
+DOCTOR: Alright. Normal bowel sounds. No tenderness to palpation, though you do seem slightly sensitive in the suprapubic region. Now, I’m going to listen to your back. Please take a deep breath… and exhale. Again… and exhale. Lungs clear. Blood pressure is 128/76. Pulse 72. No edema. Now, I’m going to perform a brief neurological exam. Follow my finger with your eyes…
+PATIENT: Okay, Doctor. I’m following it… I can see it clearly. Is there anything else I should be doing?
+DOCTOR: No, just follow along, Ms. Creagh. Squeeze my hands when I tell you. Alright, squeeze… good. Now relax. Now squeeze again… excellent. Reflexes are normal. Now, I’d like to obtain a urine sample. I’ll leave you some privacy to do that. A clean catch is preferred. There's a cup in the restroom, and instructions are on the counter. When you're finished, just leave it on the counter, and I'll take it to the lab.
+PATIENT: Okay, Doctor. A clean catch, you said? I believe I remember how to do that. I’ll go take care of that now. Thank you.
+DOCTOR: …
+PATIENT: Here you are, Doctor. It took a little longer than expected, to be honest, but I believe it’s a clean sample. Let me know if you need anything else from me.
+DOCTOR: Alright. We'll send this off to the lab for a complete urinalysis and culture. Given your symptoms – the frequent urination, the urgency, the slight discomfort, and the darker urine – and the family history of kidney stones, I suspect either a urinary tract infection or, less likely, the beginning of stone formation. We need to rule out infection first. It’s also possible it’s simply bladder irritation, but we shouldn't assume.
+PATIENT: That makes sense, Doctor. I appreciate you explaining everything so thoroughly. A UTI would certainly be…unpleasant. Is there anything I should be doing while we wait for the results? Should I increase my water intake even more? Or avoid certain foods?
+DOCTOR: For now, increase your fluid intake. Water is best. Avoid caffeine, alcohol, and spicy foods as these can irritate the bladder. And, frankly, Ms. Creagh, I would advise against self-treating with over-the-counter remedies until we have the lab results. It could mask the symptoms and make diagnosis more difficult. We’ll have the results back within 24-48 hours. I will call you with the findings and discuss the next steps at that time. Do you have any questions for me before you leave?
+PATIENT: No, Doctor, that is very clear. Thank you so much for your time and attention. I feel much better knowing what’s going on, and I appreciate you explaining everything so well. I will follow your instructions and wait for your call. Thank you again.
+DOCTOR: Very well. Should you experience a fever, flank pain, or blood in your urine before I call, go to the emergency room immediately. Otherwise, we’ll speak soon. Have a good day, Ms. Creagh.

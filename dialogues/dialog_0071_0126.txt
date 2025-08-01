@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Christen. Or… is it pronounced differently?
+PATIENT: Good morning, Doctor Galena. Christen is fine, yes. It’s a Scottish name, you’ve got it right. Though most folks just call me Chris.
+DOCTOR: Chris, then. Right, good. Well, Chris, what brings you in today?
+PATIENT: Well, to be frank, I've been awfully thirsty lately. And hungry, too. It's… unusual for me. I seem to be constantly reaching for a glass of water, or a snack. It’s been going on for a few weeks now, I suppose. It's just… bothersome.
+DOCTOR: A few weeks, you say. And has anything else changed alongside the thirst and hunger?
+PATIENT: Hmm… that’s a good question. Let me think. Not that I've noticed, specifically. I suppose I've been… a bit more tired than usual, but I put that down to work, honestly. Shipping and Receiving is rather physical, you see. I wouldn't say it’s different tired, just… more of it.
+DOCTOR: Right, more tired. And the thirst and hunger… is it constant, or does it come and go?
+PATIENT: It's fairly constant, I’d say. Not a crippling thirst, mind you, just… always there. Like I need to be sipping something. And the hunger… it’s not like a craving for anything specific, just an emptiness that needs filling. Even after I’ve eaten, it doesn’t entirely go away, if that makes sense?
+DOCTOR: It does make sense, Chris. That’s helpful. Have you noticed any changes in your… well, have you been going to the bathroom more often than usual?
+PATIENT: Oh. Right. Yes, actually. Now that you mention it, I have. More frequent trips, both during the day and… well, at night, too. I thought it was just the water, to be honest.
+DOCTOR: Okay. And are you experiencing any blurry vision, or unexplained weight loss?
+PATIENT: Blurry vision… no, not really. My eyesight isn't the best naturally, I've worn glasses for years, but it hasn't gotten worse, if that makes sense. As for weight loss… I haven't weighed myself recently, I must admit. My ex-wife always kept track of that sort of thing. I… don’t really keep tabs on it now.
+DOCTOR: Alright, no weight loss that you've noticed. And just to be thorough, Chris, any recent illnesses?
+PATIENT: No, nothing recent. I had a bit of a cold last winter, but nothing major. I generally try to stay healthy. I don’t have the time for being unwell, with work and all.
+DOCTOR: Okay. And what about your family history?
+PATIENT: Family history… hmm. That’s a bit tricky. My father… he had some heart trouble, later in life. My mother… she had a touch of arthritis, I believe. Nothing too serious that I can recall. They both passed away several years ago now. I don’t… I don’t really know much beyond that, to be honest. We weren’t a particularly close family.
+DOCTOR: Alright, heart trouble and arthritis. That’s good to know. Now, Chris, I'd like to do a quick physical exam, if that's alright with you. Just listen to your heart and lungs, check your blood pressure, things like that. It’ll only take a few minutes. Is that okay?
+PATIENT: Yes, that’s perfectly alright, Doctor. The sooner we figure this out, the better. I've got a busy schedule, so I appreciate you getting straight to it.
+DOCTOR: Excellent. If you could just have a seat here, and we'll get started. Deep breaths, if you would. Okay… and one more. Blood pressure is a little elevated, 140 over 90. Heart sounds are normal, lungs are clear. Any tenderness here?
+PATIENT: No, nothing particularly tender. It feels… normal, I suppose. A bit bloated sometimes, if I'm honest, but nothing painful. I wouldn't say it's a constant discomfort, more of a… fullness.
+DOCTOR: Alright. And no recent injuries or surgeries, correct?
+PATIENT: No, none at all. I managed to avoid any major mishaps, thankfully. A few scrapes and bruises over the years with the shipping, but nothing requiring a doctor's visit.
+DOCTOR: Alright, Chris. Based on what you've told me, and the quick exam, it could be a number of things. But with the increased thirst, frequent urination, and fatigue… we need to rule out diabetes. I'd like to order a blood glucose test, as well as a complete metabolic panel. That'll give us a clearer picture of what's going on. Does that sound alright?
+PATIENT: Yes, that sounds… sensible. If that’s what you think is best, Doctor, then yes, please. I trust your judgement. The sooner we know, the better, as I said. Is there anything I need to do to prepare for the test? Like fasting or anything?
+DOCTOR: Yes, for the blood glucose test, you will need to fast for at least eight hours beforehand. So, no food or sugary drinks. Water is fine. The lab will give you specific instructions when they schedule the appointment. I’ll also print out a requisition form for the lab, and a list of symptoms to monitor in the meantime. If you experience any unexplained weight loss, blurry vision, or increased fatigue, please contact the clinic immediately. Do you have any questions for me before we wrap up?
+PATIENT: No, I don’t think so. That all sounds… clear enough. Fasting, monitor symptoms, contact the clinic if anything changes. I appreciate you taking the time to see me, Doctor. Hopefully, it’s nothing too serious. If you don’t mind, I do have another appointment this afternoon, so…
+DOCTOR: Of course, Chris. We’ll get these tests done and figure out what’s going on. It’s likely nothing too serious, but it’s always best to be cautious. Here’s the requisition form and symptom list. You can schedule the tests at the lab down the street. Let me know if you have any trouble. Alright. Well, have a good day, and try not to worry too much. We'll be in touch soon with the results.
+PATIENT: Thank you, Doctor. I appreciate your time. I will. Goodbye.

@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Ms. Fogelstrom. Have a seat. So, what brings you in today?
+PATIENT: Good morning to you too. Um… it’s my… belching. It’s been happening a lot. It’s… embarrassing, really.
+DOCTOR: Belching. Right. And how long has this… issue been going on?
+PATIENT: Oh, gosh… maybe a month now? It started… after a big party. Lots of food, lots of… soda. But it hasn’t stopped. Even when I eat healthy now. It just… comes up. Sometimes really loud!
+DOCTOR: A month. And you say it happens even with a healthy diet now?
+PATIENT: Yes. Like, even if I have just… rice and beans, or chicken and salad. Not spicy things, you know? Just… normal food. It doesn't seem to matter. It's just… poof! I don’t understand.
+DOCTOR: Hm. And are you experiencing any other symptoms alongside this… belching?
+PATIENT: Other symptoms? Let me think… No, not really. My stomach… sometimes it feels a little full, maybe? But not pain. And… I guess I feel a little tired sometimes, but everyone is tired, right? Nothing major, definitely.
+DOCTOR: “Everyone is tired” isn’t a medical diagnosis, Ms. Fogelstrom. But alright. Any nausea?
+PATIENT: No, no nausea. I haven't thrown up, or even felt like I was going to. Just… the belching. And a little bit… uncomfortable sometimes, like too much air. But I don’t get sick or anything.
+DOCTOR: Let me just pull up your chart here… Okay. No prior history of digestive issues noted. Allergies?
+PATIENT: No allergies that I know of. I can eat anything. I like all kinds of food! I haven't ever had a bad reaction to anything, not that I remember.
+DOCTOR: And are you currently taking any medications?
+PATIENT: No, I don't take anything. Just… vitamins sometimes, but not regularly. Nothing the doctor gave me, just… stuff I bought at the store.
+DOCTOR: Alright. Well, it sounds like you might be swallowing too much air. You mentioned a party… are you a smoker?
+PATIENT: Oh, no! Not me. I don’t smoke. Never have. And I don't chew gum either. I drink soda, sometimes, but not a lot. I like water better.
+DOCTOR: Well, Ms. Fogelstrom, sometimes these things just happen. It’s likely just a bit of trapped gas. Try eating smaller meals, and avoiding carbonated beverages as much as possible. It’s probably nothing serious. Do you have any other concerns, or is that all?
+PATIENT: So… just eat slower? And drink less soda? That’s it? But it’s been a month! I was worried it was something… bad. It just feels… so strange. But okay. No, I don't think that's all. Thank you, Doctor.
+DOCTOR: Right. Well, if it persists, or you develop any other symptoms – pain, bloating, nausea, anything – then come back, and we’ll consider further investigation. But for now, I wouldn't worry about it. Try those dietary changes, and see if that helps. Is there anything else today?
+PATIENT: No, I think that's everything. Thank you for seeing me. I was just… embarrassed to talk about it, but I'm glad I did. Hopefully, it will just go away.
+DOCTOR: Alright. Have a good day, Ms. Fogelstrom. .
+PATIENT: Okay, you too. Thank you again. .

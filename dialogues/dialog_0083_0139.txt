@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Mr. Shanor. Welcome to the clinic. I'm Dr. Alanes. It’s nice to meet you. What brings you in to see me today?
+PATIENT: Good morning, Doctor. Yes, good morning. I… need check for referee. For sports. They want me to get checked. For fitness. It’s for… work.
+DOCTOR: Okay, a sports physical for work. That's perfectly alright. To clarify, is this a requirement for a new position, or is this a routine check for a current role?
+PATIENT: Routine. I… been referee for long time. They just… want check every year now. For insurance, maybe? I not sure. They send me here.
+DOCTOR: I understand. A yearly check is a good precaution. So, it sounds like this is primarily to fulfill a requirement, but ensuring your health and fitness for refereeing is important too. To get started, let's go through a bit of your medical history. Have you had any significant illnesses or injuries in the past?
+PATIENT: Injuries… yes. Many. Little ones. Ankle, mostly. From running. Also… shoulder, once. Old now. No big problems. I… not sick for long time. Just… colds sometimes. Nothing special.
+DOCTOR: Okay, ankles and a shoulder injury. And generally healthy aside from the occasional cold. That’s good to know. Can you tell me a bit more about the shoulder injury?
+PATIENT: It was… five years ago? Maybe six. I… fell. During game. Basketball game. It hurt a lot. I see doctor then. They… give me medicine. And… physical therapy. It better now. But… sometimes, when I lift heavy things, it feels a little… ache-y. Just a little.
+DOCTOR: Alright, a shoulder injury five or six years ago, treated with medication and physical therapy, with occasional mild aching with heavy lifting. That's helpful. Do you recall what the doctor at that time diagnosed?
+PATIENT: I… not remember the name. He… said something about… muscle? And… something pulled. Not broken. I think. It was a long time ago. I don't keep good track of these things. Sorry.
+DOCTOR: No need to apologize at all, Mr. Shanor. It was some time ago. A muscle strain or sprain is quite common. Now, thinking about your general health – do you have any ongoing medical conditions, like high blood pressure, diabetes, or heart problems?
+PATIENT: No. No high blood pressure. Doctor check before. Everything okay. No diabetes. I eat… normal food. Not too much sugar. And… no heart problems. I… feel okay. Usually. I get tired sometimes. But… who doesn’t?
+DOCTOR: That's good to hear. And just to be thorough, are you currently taking any medications, including over-the-counter medications or supplements?
+PATIENT: No. Nothing. I… take nothing. Sometimes, if I have headache, I take… Tylenol? But… not often. Just when it’s really bad. That’s all.
+DOCTOR: Okay, no regular medications, and only Tylenol occasionally for headaches. Do you have any allergies to medications, food, or anything else?
+PATIENT: No. No allergies. I… not know of any. I eat everything. I… have been stung by bee once. But… that was long time ago. No big problem. Just… hurt a little. Not allergic, I think.
+DOCTOR: Alright, no known allergies. That’s good. Now, just a few questions about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No. No smoke. No drink… much. Sometimes, small glass of wine. With dinner. Very small. And… no drugs. Never. I… not like those things.
+DOCTOR: Okay, very occasional small glass of wine, and no other substance use. That’s helpful to know. Finally, do you have any family history of significant medical conditions, like heart disease, cancer, or diabetes?
+PATIENT: My… father had heart problems. A long time ago. He… very old when he sick. My mother… she okay. Very healthy. Until… she very old. No cancer. I think. I not sure. Family… not talk much about these things. Sorry.
+DOCTOR: That's alright, Mr. Shanor. It's common for families not to discuss medical history in detail. Knowing your father had heart problems is good information. Now, I'd like to do a brief physical exam. Is that alright with you?
+PATIENT: Yes. Okay. Physical exam. Okay. Let’s get it over with. I have things to do. But… yes. Okay. Let’s do it.
+DOCTOR: Certainly. It won't take long. First, I'll check your height and weight. Then, I'll listen to your heart and lungs, and take a look at your ears, nose, and throat. After that, I'll check your reflexes and a few other basic things. If you could step on the scale for me, please. And then we can get started.
+PATIENT: Okay. Scale. 174… something. And… 134. I think. What next?
+DOCTOR: Excellent. 174 centimeters and 134 pounds. That's good to know. Now, if you'll just have a seat on the examination table, please. I'm going to listen to your heart and lungs now. I'll need you to take a few deep breaths for me. Heart sounds are regular, no murmurs. Lung sounds are clear, bilaterally. Good air entry.
+PATIENT: Okay. Deep breaths. Is that all? It feels… cold. This thing. The… stethoscope.
+DOCTOR: Yes, that’s good. It can be a little cold, I apologize. Now, I’m just going to take a quick look at your ears, nose, and throat. Ears are clear. Nose is clear. Throat is clear, no signs of infection. Now I’m going to test your reflexes. Please relax your arms. I'll tap on your tendons with this little hammer.
+PATIENT: Okay. Relax arms. Tap… tap. Get it over with. This is… weird.
+DOCTOR: Reflexes are 2+ bilaterally, normal response. Good strength in upper and lower extremities. Alright, Mr. Shanor, that completes the physical exam. Everything appears to be within normal limits. Your heart and lungs sound healthy, your reflexes are normal, and your strength is good. Do you have any specific concerns or anything you'd like me to take a closer look at?
+PATIENT: No. No concerns. Everything… feels okay. I just… need paper. For work. They need me to have paper. From doctor. To say I okay. Is that all? Can I go now?
+DOCTOR: Yes, that's perfectly alright. Everything does appear to be within normal limits, which is excellent. I'll go ahead and print out a physical exam form for you, stating that you are cleared for sports activity. Just one moment... Here you are. This form states you are in good health and cleared for sports refereeing. I recommend maintaining a healthy lifestyle and staying hydrated. Do you have any questions for me before you go?
+PATIENT: No. No questions. Thank you. Okay. Goodbye.
+DOCTOR: You're very welcome, Mr. Shanor. Have a good day, and be safe out there. .

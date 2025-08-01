@@ -1,0 +1,38 @@
+DOCTOR: Alright, Ms. Reihner, good to meet you. So, tell me, what brings you in today?
+PATIENT: Good day, Doctor Batara. I am here because of the pain. It is... troublesome. I would like to be quick, if possible. I have things to attend to.
+DOCTOR: “Troublesome,” right. Well, we’ll try to be efficient. But rushing through things isn’t always helpful, you understand. “Pain” is… broad. Can you tell me where it is, exactly?
+PATIENT: It is in my back. Lower back, mostly. It started... well, I do not recall the exact date, but some weeks ago now. It is a constant ache, but sometimes it flares up sharp when I bend over. Especially when I am working. My job... it involves a lot of bending.
+DOCTOR: Okay, lower back pain, several weeks in duration, aggravated by bending, particularly at work. And what kind of work do you do, Ms. Reihner?
+PATIENT: I erect fences. Building them, mostly. It is physical labor. I… put up posts, stretch wire, that sort of thing. It used to be with my husband, but… well, that is another story. Now I do it myself, or with a hired hand when I can afford it.
+DOCTOR: Right. So, quite physical. And when you say it “flares up sharp,” can you describe that sharpness?
+PATIENT: It is... a stabbing pain. Like a hot needle, quickly, then it fades back to the ache. It does not last long, usually. But it is enough to make me stop what I am doing. It happens more often now than it did at first. I try to ignore it, but… it is difficult.
+DOCTOR: "Try to ignore it," yes. That’s often the first thing people do. And does anything relieve the pain?
+PATIENT: Not much, honestly. Sitting does not make it worse, and lying down... sometimes, for a little while. But it always comes back. I have tried those over-the-counter pain relievers, the red ones… they help a little, but not for long. I do not like taking them all the time.
+DOCTOR: Right. Ibuprofen, or something similar. And when you say “all the time,” how many a day are you taking, roughly?
+PATIENT: Usually two, when it is bad. Sometimes three. But I do not take them every day. Only when I have to work, or when it flares up badly. I worry about my stomach, you see. Those things… they are not good for you. I do not want to cause myself other problems.
+DOCTOR: Sensible. We don't want to trade one problem for another. Have you noticed any pain radiating down your legs?
+PATIENT: No. The pain stays in my back. It does not go down my legs. Though, sometimes my back feels… stiff. Very stiff in the mornings. It takes a while to loosen up. But no pain down my legs.
+DOCTOR: Alright. And any numbness or tingling in your legs or feet?
+PATIENT: No, Doctor. No numbness or tingling. Everything feels… normal there. It is only the back that is troublesome. I am a practical woman, and I need my back to work. That is why I am here.
+DOCTOR: Right. Well, let’s have a look. If you don’t mind, I’d like to do a quick physical exam, just to get a better sense of things. Can you lie down on the examination table for me?
+PATIENT: Yes, Doctor. That is fine. I will lie down. As quickly as possible, if you please.
+DOCTOR: Of course. Just take your time. I’ll need you to lie on your back first. Then we’ll try a few gentle movements. I’ll explain everything as I go. Now, can you point to exactly where the pain is the worst?
+PATIENT: It is… right here. It is a dull ache, mostly. But when I move… it is sharp, right in that spot.
+DOCTOR: Okay, I'm just going to feel around a bit. Tell me if anything feels particularly tender. Mm-hmm. And that?
+PATIENT: There. That is it. That hurts. Not all the time, but when you press there… yes. That is where it is worst. It is… a deep ache, but sharp when you push.
+DOCTOR: Alright. Now, can you gently bend forward for me, reaching towards your toes?
+PATIENT: It hurts. I cannot go very far. It is… tight. It feels like something is blocking me. I do not want to push it too hard. I have done that before, and it made things worse.
+DOCTOR: Okay, I understand. No need to push it. And when you bend to each side, is that as limited?
+PATIENT: Yes. Both sides are the same. Tight and painful. It is worse bending to the left, I think. But not much. It is… just uncomfortable. I try to avoid bending at all, if I can. It is better to just keep still.
+DOCTOR: Alright. And can you stand up for me, please?
+PATIENT: Yes, Doctor. It is… better standing than sitting, I think. But still uncomfortable. I do not like standing for too long, though.
+DOCTOR: Alright. Now, I'm going to have you lie back down. And I’m going to lift your leg, just straight up. Tell me if you feel any pain shooting down your leg. We'll start with your right leg.
+PATIENT: Alright. Go ahead. No… no pain down my leg. It feels… tight in my back, but not down my leg.
+DOCTOR: And now your left leg.
+PATIENT: There. That one… that one is worse. Not pain down my leg, but a sharp ache in my back. Right where it hurts when I stand. It is… a deeper ache than with the other leg.
+DOCTOR: Alright. Thank you, Ms. Reihner. That’s enough for now. Based on what you’ve told me and the physical exam, it sounds like you likely have a lumbar strain, possibly with some muscle spasm. The tenderness on the left side and the increased discomfort with the straight leg raise test suggest some irritation there. However, to rule out anything more serious, I’d like to order some X-rays of your lower back. It's just a precaution. Does that sound okay?
+PATIENT: X-rays... yes, that sounds sensible. If it will rule things out, I agree. I do not want anything serious. I need to know what is happening. When can I have them done? And will they take long? I have things to do.
+DOCTOR: Okay, I’m ordering them now. You can have them done at the imaging center across the street. It shouldn’t take long – maybe 20-30 minutes, including paperwork. They’ll send the results back to me, and I’ll have a look at them as soon as they arrive. In the meantime, I recommend avoiding any heavy lifting or strenuous activity. You can take over-the-counter pain relievers as needed, but don't exceed the recommended dosage. And if the pain worsens or you develop any numbness or tingling in your legs, please call the office immediately. Does that all make sense?
+PATIENT: Yes, Doctor. That makes sense. No heavy lifting, pain relievers as needed, and call if it gets worse. I can do that. And the X-rays are across the street? That is good. I believe that is everything, yes? I would like to be on my way. Thank you for your time.
+DOCTOR: Yes, that's everything for now. I'll have the radiologist review the X-rays and will call you with the results as soon as I have them. Here’s the referral slip. And please don't hesitate to call if you have any questions or concerns. Get well soon, Ms. Reihner. .
+PATIENT: Thank you, Doctor Batara. I appreciate your help. I will follow your instructions. .

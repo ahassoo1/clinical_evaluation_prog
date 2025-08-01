@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I’m Dr. Chora. Welcome to the clinic. So, what brings you in today?
+PATIENT: Good morning, Doctor. It’s… the belching. I keep belching. It’s embarrassing, really. It just happens, you know? Not all the time, but… a lot.
+DOCTOR: Okay. Belching, alright. And how long has this been going on?
+PATIENT: Hmm… that’s a good question. Maybe… two months? I think it started around June. It wasn’t so bad then, just a little. Now it’s… more. More often, and… louder, maybe? I don’t know. It’s hard to say exactly.
+DOCTOR: Alright. So, starting around June, gradually getting worse. Can you describe when it happens?
+PATIENT: Oh, okay. When… well, sometimes after I eat. Not every time, but often. And sometimes… just when I’m sitting, doing nothing. Like, I’ll be watching TV and… burp …see? That’s the problem! It doesn’t seem to have a reason. Does that make sense?
+DOCTOR: It does make sense. And is there anything specific you've eaten before these episodes?
+PATIENT: That’s… tricky. I eat a lot of different things. Cuban food, mostly. Rice and beans, pork… sometimes chicken. I don’t think it’s one thing, you know? I tried not eating spicy food for a week, but it didn't help. I really don't know if something is making it worse.
+DOCTOR: Okay. And are you experiencing any other symptoms alongside the belching?
+PATIENT: Hmm… let me think. No… not really. Sometimes my stomach feels a little… full. Like, after I eat, even if I don’t eat a lot. But no pain, no heartburn, nothing like that. Just the… the air. It's just the belching. And the feeling full sometimes.
+DOCTOR: Alright. No pain, no heartburn, just the belching and occasional fullness. Have you noticed any weight loss recently?
+PATIENT: Weight loss? No, not that I know of. Maybe a little, but I haven't been weighing myself. I'm pretty much the same as always, I think. I eat good food, you know? I like to cook. So I don't think it's that.
+DOCTOR: Okay. Let's talk about your medical history. Do you have any existing medical conditions?
+PATIENT: Not really. I haven’t been to the doctor in… a long time, to be honest. I usually don't get sick. Just… normal things, like a cold sometimes. Nothing serious. No… diabetes, no heart problems, nothing like that. I don’t have insurance, so… I try to stay healthy.
+DOCTOR: Okay. No significant medical history. Any surgeries in the past?
+PATIENT: No, never had surgery. Nothing like that. I've been lucky, I guess. Mostly just… bumps and bruises when I was a kid. But nothing that needed a doctor or… a hospital. Just the normal things.
+DOCTOR: Alright. No surgeries. And what about your family?
+PATIENT: My family… my mom is okay, she’s older now. She has a little trouble with her knees, but nothing serious. My dad… he passed away a few years ago. He had high blood pressure, I think. And my brother is healthy, works construction. No… I don’t think anyone in my family has problems with… their stomach, or… belching. Not that I know of, anyway. It's kind of embarrassing to talk about with them!
+DOCTOR: Okay. And are you currently taking any medications?
+PATIENT: No, no medications. I don’t like taking pills if I can help it. Just… vitamins sometimes, but nothing regular. Like, if I'm feeling a little tired, I'll take a multivitamin. But that’s it. I try to get everything I need from my food.
+DOCTOR: Okay. No medications. Let's do a quick physical exam, if that’s alright. I’ll listen to your abdomen.
+PATIENT: Yes, okay. That's fine. I hope it doesn’t take long. I… I don’t like being poked and prodded too much. But if you think it will help, then yes, go ahead.
+DOCTOR: Alright, Ms. Fogelstrom. Breathing deeply for me… Okay. I’m hearing some normal bowel sounds, a little bit of gurgling, which is expected. Any tenderness when I press here?
+PATIENT: No, that doesn't hurt. Just… feels normal. Maybe a little… full, but not pain. Like after I eat, you know? A little pressure, but not bad. It doesn't hurt when you push. Just… there.
+DOCTOR: Okay. No significant tenderness. Your heart and lungs sound clear. Given your history and the physical exam, it sounds like you may be experiencing some trapped gas. It’s not usually a serious concern. Have you tried any over-the-counter remedies for gas, like simethicone or activated charcoal?
+PATIENT: No, I haven’t. I don't even know what those are. I… I just try to ignore it, usually. I didn’t think it was something I needed to take medicine for. It's just… belching. Is it something bad? Should I be worried?
+DOCTOR: No, it doesn’t sound like anything serious, Ms. Fogelstrom. However, since it’s been going on for two months and is bothersome, we can try a few things. I recommend trying an over-the-counter simethicone – it helps break up gas bubbles. Also, try eating smaller, more frequent meals, and avoid carbonated beverages. Since you don't have insurance, I'll give you some information on some affordable options. If it doesn't improve after a week or gets worse, or you develop other symptoms like nausea, vomiting, or abdominal pain, you should see a gastroenterologist. Does that sound alright?
+PATIENT: Okay, yes. Smaller meals… and no soda. I drink a little soda sometimes, but… I can stop. And simethicone… I’ll try to find that at the store. Is it expensive? And… a gastroenterologist? That sounds… serious. Hopefully, it won’t come to that. Thank you, Doctor. You made me feel a little better.
+DOCTOR: You’re welcome, Ms. Fogelstrom. Simethicone is generally very affordable, usually a few dollars. And a gastroenterologist is just a specialist, if needed. We'll start with the simple things first. Here’s some information on managing gas and dietary changes. If you have any questions or concerns, don't hesitate to call the clinic. Is there anything else I can help you with today?
+PATIENT: No, I think that's everything. Thank you again, Doctor Chora. You've been very helpful. I appreciate you taking the time to listen to me. I'll try those things and see if it gets better. Have a good day. .
+DOCTOR: You have a good day as well, Ms. Fogelstrom. Take care. .

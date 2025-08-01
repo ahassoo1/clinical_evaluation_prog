@@ -1,0 +1,35 @@
+DOCTOR: Hello Jailenne, welcome to the clinic. I’m Dr. Maskal. It's nice to meet you. So, to start, what brings you in today?
+PATIENT: Hi Dr. Maskal, it’s nice to meet you too. Um, well, I’ve just been getting chills, you know? Like, not a fever with them, just…cold shivers. It’s been going on for a couple of days now.
+DOCTOR: Okay, chills for a couple of days. And you haven’t had any fever accompanying those chills?
+PATIENT: No, that's right. No fever. I checked my temperature a couple of times just to be sure, and it's been normal. It’s just… unsettling, being cold when it’s not really cold out.
+DOCTOR: Alright, that's good you've been checking your temperature. And you said it’s been a couple of days – can you tell me a little more about when it started, and if anything specific seemed to trigger it?
+PATIENT: Hmm… let me think. It started… I guess Sunday? Maybe late Saturday. And no, nothing really triggered it, not that I can think of. I hadn't done anything different, hadn't been anywhere new… just woke up feeling a bit…brrr. It’s weird.
+DOCTOR: Okay, so starting Saturday or Sunday, no specific trigger that you’re aware of. Besides the chills, have you noticed any other symptoms at all?
+PATIENT: Not really, no. I’ve been a little tired, maybe? But I always am a bit tired, to be honest. Nothing major. No cough, no sore throat, no aches… just the chills and feeling a little blah.
+DOCTOR: Alright, just the chills and some fatigue. Now, when you say fatigue, is that just feeling generally worn out, or is it more like a weakness?
+PATIENT: Um… just worn out, I think. Like I don’t have much energy, you know? Not like my arms are heavy or anything. Just… less motivated to do things, and I get tired easily. I went for a short walk yesterday and felt pooped afterwards, which isn't totally unusual for me, but still.
+DOCTOR: Okay, so fatigue and reduced energy. Now, let’s talk a bit about your general health. Do you have any medical conditions that you’re aware of, like diabetes, high blood pressure, or anything else?
+PATIENT: Nope, nothing like that. I’m pretty healthy, actually. I try to eat okay, and I do walk when I can. No high blood pressure, no diabetes… the doctor always says my check-ups are good. I did have a really bad bout of the flu a couple years ago, but that was it.
+DOCTOR: Good to hear your check-ups are generally good. And you said a bad flu a couple of years ago - do you remember when specifically that was?
+PATIENT: Let me think… it was winter of 2023, I think? Early 2023. I was really knocked out for a week or so. Fever, cough, the whole thing. But I recovered fine, and haven’t been seriously sick since.
+DOCTOR: Okay, flu in early 2023. Now, have you had any surgeries in the past?
+PATIENT: Nope, no surgeries. Never needed any, thankfully! Everything's original, you could say.
+DOCTOR: Alright, no surgeries. And what about your family – any major medical conditions that run in your family, like heart disease, cancer, or autoimmune disorders?
+PATIENT: Hmm… my mum has high blood pressure, and my grandfather on my dad’s side had heart problems. Nothing else really springs to mind. My dad is pretty healthy, and my sister's okay too. No cancer that I know of, no autoimmune stuff… It’s a pretty healthy family overall, I think.
+DOCTOR: Okay, high blood pressure in your mother and heart problems in your grandfather. And are you currently taking any medications?
+PATIENT: No, I'm not on any medications at all. Just a daily vitamin, but that's it. Nothing prescribed by a doctor or anything.
+DOCTOR: Okay, just a daily vitamin. And do you have any allergies to medications, food, or anything else?
+PATIENT: Nope, no allergies. I can eat pretty much anything and I've never had a bad reaction to any medication. I'm pretty lucky that way!
+DOCTOR: Okay, no allergies. Now, just to get a more complete picture, could you tell me a little about your lifestyle?
+PATIENT: Sure. Well, I work as a health education specialist, so I’m always talking about healthy living! I try to eat a balanced diet, mostly Mediterranean food. I don’t smoke, and I only drink occasionally, like a glass of wine with dinner sometimes. I live alone and I'm divorced, so it's pretty quiet. I try to stay active, walking when I can, and I enjoy reading. Overall, pretty normal, I guess.
+DOCTOR: Alright, that sounds like a healthy lifestyle overall. Okay, Jailenne, thank you for all that information. It’s helpful. Now, I’d like to do a quick physical exam, if that’s alright with you. I’ll listen to your heart and lungs, check your temperature and blood pressure, and just take a general look. Does that sound okay?
+PATIENT: Yes, that sounds fine. Go ahead, please.
+DOCTOR: Okay. Your temperature is 98.6 Fahrenheit, which is normal. Now I'm going to listen to your heart and lungs. Your heart sounds regular, no murmurs, rubs, or gallops. Lungs are clear to auscultation bilaterally. Your lymph nodes are not enlarged. Your blood pressure is 120/80, which is within the normal range. Do you feel any tenderness when I press here?
+PATIENT: No, that doesn’t hurt. That feels…normal. Everything feels okay so far.
+DOCTOR: Okay, good. I don't feel any significant abnormalities on examination. Given your symptoms – chills without fever, fatigue, and a normal physical exam – it could be a mild viral infection, or potentially even just stress or a bit of burnout. However, to rule out anything more serious, I'd like to order a complete blood count and a comprehensive metabolic panel . These tests will give us a better look at your overall health and help identify any potential underlying causes for your symptoms. How does that sound?
+PATIENT: Okay, that sounds sensible. I'm happy to get some tests done to rule things out. What exactly does those tests involve, like, is it just a blood draw? And will I need to fast beforehand?
+DOCTOR: Yes, it’s just a standard blood draw. And yes, for the comprehensive metabolic panel, you will need to fast for 8-12 hours beforehand, meaning no food or sugary drinks. You can drink water. The CBC doesn’t require fasting. I’ll give you a lab requisition form to take with you, and the lab will provide specific instructions. I’ll also schedule a follow-up appointment for a week from today to discuss the results. Does that work for you?
+PATIENT: That sounds perfect, thank you. A week from today is fine. And thank you for explaining everything so clearly. I appreciate it.
+DOCTOR: You’re very welcome, Jailenne. I'm glad I could help. Here's the lab requisition form, and the receptionist will schedule your follow-up appointment on your way out. In the meantime, if your symptoms worsen – if you develop a fever, cough, shortness of breath, or any other concerning symptoms – please don’t hesitate to contact us immediately. Do you have any other questions for me today?
+PATIENT: No, I think that covers everything. Thank you again, Dr. Maskal. I feel much better knowing we're getting things checked out.
+DOCTOR: You’re very welcome. Take care, and we'll see you next week. .

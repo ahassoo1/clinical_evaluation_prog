@@ -1,0 +1,22 @@
+DOCTOR: Alright, Emileigh. So, what brings you in today?
+PATIENT: Um… hi. I just moved here. To be closer to… my husband. And I guess I need to, like, get checked out? I don't really… remember what I need for. It's a new area, and I have Medicare. Is that okay?
+DOCTOR: Medicare is fine. It’s… common for people to forget things when they’re relocating. But “get checked out” isn’t very specific. Do you have any particular symptoms?
+PATIENT: Symptoms? Not really… I feel… okay, I think. Just tired a lot. And maybe a little achy? But that could be anything. I do a lot of… stuff with my hands. Work stuff. Mechanical things. I forget what the doctor before said I should look out for. It was a while ago.
+DOCTOR: “Tired a lot” and “achy” could mean a million things. What kind of “work stuff” do you do with your hands?
+PATIENT: Um… I build things. Fix things. Mostly machines. Little ones, mostly. Like… engines and stuff. It’s kinda hard to explain. I'm a… a technician, I think? It’s physical work. Lots of… tightening bolts, and… …wiring. Sometimes. I forget the names of things. Sorry. Is that important?
+DOCTOR: It could be important. Repetitive movements can cause issues. Wiring… electrical work. Alright. And how long have you been feeling tired and achy?
+PATIENT: Oh, gosh. A while. I mean, I've always been a little tired, I think. But it’s maybe worse since we moved? Like, a few months? I don't really keep track of dates very well. It's just…a general feeling, you know? Not like a specific pain, just…ugh. I dunno.
+DOCTOR: “A few months.” Right. And any other symptoms?
+PATIENT: Um… No, not really. I mean… sometimes my hands feel kinda numb? But that happens when I'm working, so it's probably just… from that. And I’ve been… eating kinda badly, I guess. My husband's been busy, and I’m not a good cook. Is that something I should worry about?
+DOCTOR: Numbness in your hands is relevant, especially with your work. And poor diet… contributes to a lot of things. Okay. Let's do a quick physical exam, just to get a baseline. Can you raise your arms above your head?
+PATIENT: Yeah, sure. Ooh, that's a little stiff. Does that mean something's wrong? Sorry, I'm not very good at this.
+DOCTOR: Okay. Some crepitus in your shoulders, and limited range of motion. Your grip strength seems… adequate. Any pain with these movements?
+PATIENT: Crep-what? And… grip strength? I don’t know. It hurts a little when I move them that way, yeah. Not like, sharp pain. Just… a dull ache. Like, when I've been working all day. Is that bad? I told you, I forget what the last doctor said…
+DOCTOR: “Crepitus” is just a crackling sound, indicates some wear and tear. It’s… common, especially with physical work. Alright. Let's check your reflexes.
+PATIENT: Oh! That tickles. Did I… do okay? I'm really bad at… doctor stuff. I always feel kinda silly when people poke me.
+DOCTOR: They’re present, but not as robust as they should be. We'll need to run some blood work to rule out any underlying inflammation or vitamin deficiencies. Also, given your history, an X-ray of your hands and wrists wouldn't be a bad idea. Just to check for any structural issues. Any allergies I should be aware of?
+PATIENT: Allergies? Um… I don't think so. Maybe… a little itchy when I'm around cats? But that’s just a mild rash. Nothing serious. My husband does all the remembering, usually. Is blood work and… X-rays going to cost a lot of money? I'm worried about that. I just got Medicare…
+DOCTOR: The cat allergy is unlikely to be relevant, but good to know. Medicare should cover most of it, but there may be a copay. We’ll have the billing department look into it for you. Alright. I'm going to order the blood work and X-rays now. The lab and radiology are down the hall. We’ll schedule a follow-up appointment to discuss the results in about a week. In the meantime, try to rest your hands when possible and maintain a balanced diet. Do you have any questions for me?
+PATIENT: Um… balanced diet. Right. Okay. I… I guess not. Not right now. Thank you, Doctor. I just… hope it's nothing serious. It's hard to remember all this stuff. Where do I go for the blood work?
+DOCTOR: Down the hall, first door on the left. The technician will explain everything. Don’t worry, it’s just routine. And try to write down any new symptoms you experience between now and your follow-up appointment. It will make things easier. .
+PATIENT: Okay. Thank you again. .

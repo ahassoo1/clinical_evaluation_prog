@@ -1,0 +1,21 @@
+DOCTOR: Right. Criston Secondi, 36 years old. So, what brings you in today?
+PATIENT: Uh, yes, that is me. I… my pee is orange. It started, I think, maybe three days ago? Not sure exactly. It's… strange color.
+DOCTOR: Orange, you say?
+PATIENT: Yes. Like… not red, not brown. Orange. Like a carrot, maybe? I don’t know… I drink water, you know? Regular water. Not much soda. Is that bad? Should I stop drinking water?
+DOCTOR: Well, stopping water isn’t generally advisable. Though, perhaps the type of water is the issue. Let’s not jump to conclusions. How much water are we talking about per day?
+PATIENT: Um… I don’t measure. Maybe… two, three big glasses? Sometimes more if it's hot. I work outside, you know? Engineering… with the roads. It gets warm. I try to drink when I feel thirsty. Is two glasses not enough?
+DOCTOR: “Try” being the operative word, it seems. Two to three large glasses is… minimal, frankly. Especially given your occupation. Tell me, have you noticed any other changes?
+PATIENT: Other changes? Hmm… Let me think. No… not really. Maybe a little tired, but that’s the work, I think. Long hours. No pain, no… nothing else. Just the orange pee. And I’m drinking water, I promise! I'm not… ignoring it. It just… happened.
+DOCTOR: Alright. Fatigue can be… a symptom of many things, naturally. And I appreciate you assuring me about the water intake – though we should definitely aim for more. Now, let's delve a little deeper. Do you have any history of liver problems?
+PATIENT: Liver problems? No, not that I know of. My mother… she had some heart trouble, but not me. I’ve never been to the doctor much, to be honest. Just for check-ups when I was a kid, I think. Never anything serious. Should I be worried about my liver? Is that what orange pee means?
+DOCTOR: It can indicate liver issues, yes. Though, it's not a definitive sign. Sometimes it's just dehydration, or certain vitamins. But given your… infrequent doctor visits, we need to rule things out. Have you been taking any new medications, vitamins, or supplements recently?
+PATIENT: No, no new medicines. Same pills for my blood pressure, I've had that for maybe five years now. And… sometimes a multivitamin, when I remember. Nothing special. Just the normal kind, from the store. I don't take much, honestly. I forget sometimes. I have a busy job.
+DOCTOR: Blood pressure medication, you say. And a multivitamin “sometimes.” Right. Let’s do a quick physical exam and then we’ll order a urinalysis and some blood work. Just to be thorough. Please step onto the scale for me.
+PATIENT: Okay, okay. Yes, I will. Scale… right. Just want to make sure it’s not something bad, yes? I worry sometimes, with the work. Lots of dust and… everything. I’m glad you are checking.
+DOCTOR: Hmm. 231 pounds. And your height is listed as 6’5”. That puts your BMI… considerably higher than optimal. Alright. Now, let’s listen to your heart and lungs, and I’ll palpate your abdomen. Please lie back on the examination table.
+PATIENT: Okay. Six foot five… yes, that is right. I am tall. I… eat normal, I think. Maybe a little more when I am tired from work. Palpate… is that pushing on my belly? It doesn’t hurt, but it feels… strange. Is everything okay?
+DOCTOR: It feels… somewhat firm. Not acutely painful, as you said. Heart sounds are regular, lungs are clear. Now, let’s take a look at your urine sample. The nurse will be in shortly with a cup. Please try to provide a midstream sample. And I’d strongly advise you to schedule a follow-up appointment to discuss the results. And we will be discussing dietary changes.
+PATIENT: Okay. Dietary changes… yes. I understand. Midstream… the nurse will tell me what that means, yes? I hope it’s nothing serious. I have work tomorrow. And… my wife, she will be worried. Is there anything I should do now? Like, stop drinking water? Or eat something special?
+DOCTOR: No, do not stop drinking water. Continue hydrating as much as possible. As for diet, simply avoid excessive sugar and processed foods until we have the lab results. And try to get some rest. That is all. The nurse will be in momentarily.
+PATIENT: Okay. No stopping water. Less sugar. More rest. I can do that. Thank you, doctor. I will wait for the nurse then. .
+DOCTOR: Very well.

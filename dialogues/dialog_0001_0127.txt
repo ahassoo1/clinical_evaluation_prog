@@ -1,0 +1,36 @@
+DOCTOR: Alright, Gedalya, is it?
+PATIENT: Yes, that’s correct. Gedalya Schaust. It’s nice to meet you, Doctor Pehrson.
+DOCTOR: Yeah, yeah. Look, I'm pretty busy today, so let’s just get straight to it. What brings you in?
+PATIENT: Well, um, for the past few months, I’ve been getting… weaker. It started gradually, just feeling a bit more tired than usual, I thought. But now… it’s harder to do things. And my eyelids… they feel heavy, and they’re starting to droop. It’s a bit worrying, to be honest.
+DOCTOR: Weakness and heavy eyelids… right. Okay. Months, you said?
+PATIENT: Yes, approximately. It’s hard to pinpoint exactly when it started, but I’d say… maybe six months ago? It was subtle at first, easily dismissed. But it’s definitely gotten worse in the last couple of months. Is that helpful? I'm not very good at remembering exact dates, if that makes things difficult.
+DOCTOR: Six months. Fine. Any other symptoms?
+PATIENT: Let me think… well, sometimes I have a bit of trouble swallowing, but I thought that was just because I was stressed. And… honestly, I've been a bit more clumsy than usual. Dropping things, bumping into furniture. Nothing major, but… noticeable. I don't know if those are related, though.
+DOCTOR: Trouble swallowing and clumsiness. Okay. You said you’re Swedish, right?
+PATIENT: Yes, I am. Born and raised in Sweden, actually. I moved here a few years ago… for work. Is my… heritage relevant to this? I wasn't sure if that was something you needed to know.
+DOCTOR: Look, sometimes things run in families. Just routine. Do any of your relatives have… muscle problems?
+PATIENT: That’s… a good question. I haven’t really discussed health issues with my family much, to be honest. My parents are both… quite healthy, as far as I know. My grandfather on my mother’s side, he had some problems with his balance when he got older, but I don’t know if that’s the same thing. I’m really not sure. We weren’t very close. Is there a specific condition you’re thinking of? Perhaps if you described it, I could try to recall if anyone had similar symptoms?
+DOCTOR: Nevermind. Let’s move on. Any allergies?
+PATIENT: No, not that I’m aware of. I’ve never had a reaction to anything… food, medication, pollen, anything like that. I have sensitive skin, but that’s just a minor annoyance. I haven’t needed to take allergy medication, or anything, ever.
+DOCTOR: Okay. And are you currently taking any medications, prescriptions, over-the-counter, supplements, anything at all?
+PATIENT: No, nothing at all. I try to stay away from medication if I can. I haven’t needed anything regularly, and I haven't been taking anything specifically for this weakness. I was hoping to figure out what’s causing it before starting any treatment.
+DOCTOR: Alright. Let’s have you lie down on the exam table. We'll just take a quick look. Don't make this harder than it needs to be.
+PATIENT: Okay, certainly. Is there a specific position I should lie in? I’ll try my best to cooperate. I'm a bit nervous, if you don’t mind me saying.
+DOCTOR: Just lie flat. On your back. We'll start with some basic neurological checks. Don't overthink it.
+PATIENT: Okay, I’m lying down. Just let me know what you’d like me to do. Is there anything I need to prepare for? I’m a little unsteady on my feet, so please be gentle.
+DOCTOR: Follow my finger. Don’t strain your eyes. Just keep them on the tip. And tell me if you see double.
+PATIENT: I can follow it… yes. No, I don’t see double. It's a little… blurry sometimes, but not double vision. Is that normal? I sometimes have trouble focusing.
+DOCTOR: Smile. Show me your teeth.
+PATIENT: Like this? It feels a bit… weak, I think. It doesn't feel as natural as usual. Is that what you’re looking for?
+DOCTOR: Stick your tongue out.
+PATIENT: Like this? It feels… a bit difficult to control. And it feels a bit… thick, maybe? It doesn’t feel as nimble as it used to.
+DOCTOR: Alright. Now, try to push against my hand. I need to see how strong your grip is. Don’t strain yourself, just a firm push.
+PATIENT: I’m pushing… is that enough? It feels… difficult. It’s not very strong, I’m afraid.
+DOCTOR: Okay. Now, sit up slowly. Don’t use your arms if you can help it. Try to use your core.
+PATIENT: Oh… that was harder than I thought. I had to use my arms… my back is a bit sore. Is that normal? I’m not very strong right now, I’m afraid.
+DOCTOR: Alright. Based on this quick assessment, we need to do some bloodwork. And I'm going to order an MRI of your brain and spine. I want to rule out a few things. It could be a number of things, honestly. Probably nothing serious, but we need to be thorough.
+PATIENT: An MRI…? Oh. That sounds… serious. What sort of things are you ruling out, Doctor? Is it something I should be very concerned about? The bloodwork… is that just to check for deficiencies or something? I’m a little overwhelmed, if I’m honest. It would be helpful if you could explain things a little more clearly.
+DOCTOR: Look, I'm not going to scare you with a laundry list of possibilities. Let’s just say it could be a nerve issue, a muscle problem, or something else entirely. The MRI will give us a clearer picture. The bloodwork is to rule out anything obvious - vitamin deficiencies, infections, that sort of thing. It's standard procedure. We'll get the results in a few days. Just try not to worry about it. I'll have the nurse schedule everything for you. Next.
+PATIENT: Oh… Okay. A few days…? That feels like a long time to wait. Is there anything I can do in the meantime? Should I avoid any activities? And… what if it is something serious? Will I need… treatment? I understand you’re busy, but any reassurance would be greatly appreciated.
+DOCTOR: Look, I'm telling you, it's probably nothing. But just… avoid anything strenuous. Don't lift heavy objects, don't push yourself. And yes, if it is something serious, we'll discuss treatment options. But right now, we don't know anything. I have other patients waiting. The nurse will explain everything about the tests, the scheduling, and provide you with a referral to a neurologist if needed. Let's just leave it at that. .
+PATIENT: Oh… Okay… I understand. Thank you, Doctor. I'll… wait for the nurse then.

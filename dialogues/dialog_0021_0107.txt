@@ -1,0 +1,25 @@
+DOCTOR: Alright, Mr. Puder. Have a seat. So, what brings you in today?
+PATIENT: Okay, thank you. My heart… it feels like it’s flapping. Not always, but… sometimes it goes really fast, then normal, then fast again. It feels… strange. Like a bird in my chest. It started maybe… a month ago? Not sure exactly.
+DOCTOR: A month, you say. “Flapping,” hm. Okay. And does this happen with any particular activity?
+PATIENT: No, not really. I work… I work with the machines, the chemical stuff. It happens at work, it happens at home… when I am watching TV with my wife, sometimes. It doesn’t seem to care. It just… does it. It’s not always when I am doing something, you know? I was just… sitting. And then, flap flap flap. Then okay.
+DOCTOR: Right. So, it’s… spontaneous, then. Not linked to exertion or stress, as far as you can tell. And how long does each… episode last?
+PATIENT: Hmm. Sometimes… maybe a few seconds? Sometimes longer. Maybe… a minute? I don't really watch the clock when my heart is doing this. It’s… worrying, you know? So I just… wait for it to stop. It always does stop, but it is scary. My wife, she gets scared too.
+DOCTOR: Okay. "Scary" is good to know. And other than the sensation of it flapping, are there any other symptoms when this happens?
+PATIENT: No… not really. Maybe… a little tired sometimes after. But I work long hours, so I am always tired. Oh! Sometimes… my chest feels a little… tight. Not pain, exactly. Just… squeezed. But that doesn’t always happen. Just sometimes. Like, maybe half the times? I don’t know numbers very well. Sorry.
+DOCTOR: Right. A little tightness in the chest, intermittently. And it sounds like this has been going on for about a month now. Have you ever had anything like this happen before?
+PATIENT: No. Never. This is new. I always been healthy, I think. I work hard, eat okay… My wife, she makes sure I eat vegetables. But this… this is different. I never felt this before. It makes me worry what is happening inside, you know?
+DOCTOR: Alright. And do you have any medical problems that I should be aware of?
+PATIENT: No. Nothing. No problems. I don't take any pills. I don't see doctors much. I only come when something is really wrong. My wife says I am stubborn. She wants me to come more often.
+DOCTOR: Okay. Any allergies to medications or anything else?
+PATIENT: No. Nothing. I eat everything. My wife, she likes to try new foods, and I eat whatever she makes. No allergies. No problems with any food or anything like that. She makes spicy food sometimes, very spicy, but I can handle it.
+DOCTOR: Alright. Well, let’s have a listen to your heart and lungs, then. Just to get a baseline, you understand. It’s probably nothing, but we should check. Could you please lie back on the examination table?
+PATIENT: Okay, yes. That sounds good. Whatever you think is best, Doctor. Just… tell me if something is wrong.
+DOCTOR: Alright. Your heart rate is a little fast, even at rest - around 90 beats per minute. Lungs are clear. No murmurs that I can detect, but I'm recommending an EKG to get a better look. And since you’ve mentioned chest tightness, we should also do a basic blood test just to rule anything serious out. Does that sound okay?
+PATIENT: Okay… EKG and blood test. Yes, that sounds… good. Whatever you think is best. Is it something bad, Doctor? The fast heart?
+DOCTOR: It's likely nothing serious, Mr. Puder. A fast heart rate can have many causes – stress, caffeine, even just being anxious about getting it checked. But it's best to be thorough. The EKG and blood test will give us a clearer picture, and then we can decide what, if anything, needs to be done. The nurse will be in shortly to draw your blood and get you set up for the EKG. Don't worry too much, alright?
+PATIENT: Okay. No worries. My wife will be happy you are checking. She gets very worried. I just… want to know what is happening.
+DOCTOR: Alright. Well, we're doing that. The nurse will be in shortly. I’ll review the results as soon as they come in. If anything is concerning, we will discuss it. Otherwise, I'll just let you know everything looks normal. Do you have any questions for me right now?
+PATIENT: No, I think… I think that’s all. Thank you, Doctor. Just… thank you for listening. It makes me feel better to talk about it.
+DOCTOR: Alright. Good. That's what I'm here for. The nurse will be in shortly. Don’t hesitate to let us know if you feel any chest pain or discomfort before then.
+PATIENT: Okay, I will. Thank you again, Doctor. .
+DOCTOR: .

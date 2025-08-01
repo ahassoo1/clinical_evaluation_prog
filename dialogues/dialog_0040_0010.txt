@@ -1,0 +1,28 @@
+DOCTOR: Alright, Jahaad, is it?
+PATIENT: Yes, that is correct. Jahaad Tomassoni. It’s a pleasure to meet you, Doctor… Osga, was it? Though, truthfully, I don’t quite recall how I arrived here today. Everything feels a bit… hazy.
+DOCTOR: Hazy, you say?
+PATIENT: Yes, unfortunately. It’s…difficult to pinpoint exactly when things started feeling unclear. I do know I’ve noticed some swelling, which is why I scheduled an appointment. It’s mostly… around my face, I believe? Though, again, my memory isn’t the best at the moment. Perhaps you could guide me with some questions?
+DOCTOR: Of course. Swelling… well, that could be anything. When did you first notice this swelling?
+PATIENT: That’s precisely what I’m struggling with, Doctor. I wish I could give you a precise date. It feels… recent, but beyond that, I’m afraid I’m quite unsure. Perhaps within the last week or so? It’s all rather frustrating, I apologize. I don't mean to be difficult.
+DOCTOR: A week... right. And has this swelling been constant, or does it come and go?
+PATIENT: That’s a good question. I… believe it’s been fairly consistent. It hasn't completely disappeared at any point, if that makes sense. It might be slightly more pronounced in the mornings, but it’s generally present throughout the day. It’s hard to be certain, though. Everything feels a bit… subjective at the moment.
+DOCTOR: Subjective, yes. Right. Any pain associated with the swelling?
+PATIENT: No, thankfully, there hasn’t been any pain. It’s not tender to the touch, or anything like that. It’s more of a… visual concern, I suppose. And a bit unsettling, given I can’t quite recall why it’s happening. Is that… unusual, Doctor? To not remember the onset of something like this?
+DOCTOR: Unusual?
+PATIENT: Yes, I suppose. It’s just… I’ve been feeling generally out of sorts, and the memory lapses are… concerning. I’ve always had a good memory, and to suddenly struggle with recalling even recent events is quite unlike me. It’s not just the swelling, although that’s what prompted the appointment. It’s… everything feels a bit disconnected. Perhaps this is too much information? I apologize. I don’t want to overwhelm you.
+DOCTOR: Well, let’s just get a look, shall we?
+PATIENT: Certainly, Doctor. Please, take your time. I’m happy to cooperate in any way I can. I just hope we can figure out what's going on. It’s… unsettling to feel this way. Are you going to examine me now? If so, please let me know what you'd like me to do.
+DOCTOR: Alright. Let’s have a quick look at your throat, and I'll feel around your neck. Just open wide and say “ah.”
+PATIENT: Yes, of course. Ah… Is that alright, Doctor? Do you need me to stick my tongue out as well? I’m happy to do whatever you need. It feels a little strange, but I understand it’s necessary.
+DOCTOR: Hmm. Looks normal enough. Now, let me palpate your lymph nodes. Relax your neck. Anything here tender?
+PATIENT: No, Doctor, I don’t feel any tenderness. It feels… normal, as far as I can tell. Although, truthfully, I’m not entirely sure what I should be feeling. Is there something I should be looking out for? Perhaps you could describe it to me?
+DOCTOR: You’re telling me?
+PATIENT: Yes, I apologize. That was rather foolish of me. I simply meant… could you perhaps tell me what a tender lymph node feels like, so I can better understand if something is amiss? I’m not very familiar with medical terminology, and I wouldn’t want to misinterpret anything. Perhaps a description would be helpful? I'm trying my best to be a helpful patient, Doctor.
+DOCTOR: Look, it's a feeling. Like a bump. I’ll know it when I feel it. Let’s move on. Any recent illnesses?
+PATIENT: Ah, yes. That makes sense. A bump. As for recent illnesses… that’s another area where my memory is hazy. I believe I had a mild cold about a month ago, perhaps a little longer? It was nothing serious, just a runny nose and a slight cough. It resolved on its own, without any medication. Is that helpful, Doctor? Or am I misremembering again?
+DOCTOR: A month ago. Alright. Any allergies?
+PATIENT: No, Doctor, I don’t have any known allergies. I’ve never experienced any reactions to food, medication, or anything else, as far as I’m aware. No hay fever, no skin rashes, nothing like that. I’m quite fortunate in that regard, I suppose. Is this information useful? I’m starting to feel a little… anxious, Doctor. It’s unsettling to have so many gaps in my memory.
+DOCTOR: Look, a little anxiety is normal. You’re a young man. It’s probably just stress. Now, are you on any medications?
+PATIENT: Yes, you're right, anxiety is normal. And no, Doctor, I am not currently on any medications. I haven’t needed to take anything regularly. Not even over-the-counter remedies, beyond the occasional pain reliever for a headache. I’m generally quite healthy, or at least, I was. Before all of this. Is…is this something serious, Doctor? I’m starting to worry.
+DOCTOR: Alright. Well, let's not jump to conclusions. We'll get some bloodwork done, just to rule things out. Probably nothing. But it's better to be safe. The nurse will be in to draw some samples. Stop bothering me, I have other patients.
+PATIENT: Bloodwork sounds… reasonable, Doctor. Yes, I understand. I apologize for taking up so much of your time. I appreciate you taking the time to examine me, and I’ll cooperate fully with the nurse. Thank you, Doctor Osga. I’ll wait here. .

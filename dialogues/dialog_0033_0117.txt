@@ -1,0 +1,20 @@
+DOCTOR: Right. Mr. Reyno, yes. So, what brings you in today?
+PATIENT: Uh, yeah, that's me. I... I been coughin'. A bad cough. And... there was some stuff. Red stuff. When I coughed. I smoke, you know. Always have.
+DOCTOR: Yes, I see that noted in your… limited chart. A cough, and some hemoptysis – blood when you cough. How long has this been going on?
+PATIENT: Hemop- what now? Blood... yeah, that's what I said. A few days, maybe? Not sure exactly. Time kinda... blends together. It's been worse lately, though. Definitely worse.
+DOCTOR: Hemoptysis means coughing up blood, Mr. Reyno. We need to be precise. A few days, worse lately… Can you quantify that?
+PATIENT: Quant... what? Look, it's just... more red. More of it each time. Used to be just a little streak. Now... now it's... well, it worries me. I don't know how much is too much. I don't keep track of stuff like that.
+DOCTOR: Right. Well, "more" isn’t particularly helpful for a medical assessment. Has this been accompanied by any fever, chills, night sweats, weight loss, or shortness of breath?
+PATIENT: Fever… maybe? I felt warm a couple nights ago. Hard to say. I get warm easily. No chills, I don’t think. Definitely lost some weight, but… that happens. I don't eat as good as I should. And breathin'? I get outta breath walkin' up hills. Always have.
+DOCTOR: Alright. And your smoking history?
+PATIENT: Smoking… well, a long time. Since I was… seventeen, maybe? A pack a day. Sometimes more, sometimes less. It's been... a habit. A long, bad habit.
+DOCTOR: Yes, well. That is a habit. We'll need to listen to your lungs, and I may want to order a chest X-ray. Please, sit up straight.
+PATIENT: X-ray? Sounds… serious. What’s that gonna show? Is it gonna hurt?
+DOCTOR: It's a standard diagnostic procedure, Mr. Reyno. It won't hurt. It's to rule things out. Now, take a deep breath… and exhale. Your breathing sounds… congested. There are some wheezes present. We need to get a clearer picture. I’ll have the nurse schedule you for an X-ray.
+PATIENT: Congested… like a highway? Look, doc, I’m an old man who smokes too much. Is it my lungs? Is it… bad? I gotta get back to work, you know. Power ain't gonna fix itself.
+DOCTOR: It could be related to your smoking history, Mr. Reyno. Or it could be something else entirely. I'm not going to speculate. I’ve ordered the X-ray, and we’ll discuss the results when they come back. Until then, I recommend you avoid strenuous activity. I'll also have the nurse give you a sputum cup to collect a sample; we'll send that to the lab as well. Is that understood?
+PATIENT: Sputum? You want me to… cough in a cup? Okay. Yeah, I guess. But I told you, I gotta get back to work. How long's this gonna take? And what if it is bad?
+DOCTOR: The lab results and X-ray will take a few days, Mr. Reyno. And frankly, worrying about "what ifs" won’t expedite the process. We'll cross that bridge when we come to it. The nurse will explain the sputum collection procedure. Now, are there any other symptoms I should be aware of?
+PATIENT: No... not that I can think of. Just tired. Always tired. And this cough, of course. Look, doc, I appreciate you lookin' at me, but I really gotta get back. Folks depend on me.
+DOCTOR: Very well, Mr. Reyno. The nurse will escort you to the X-ray department, and provide you with the sputum cup. I expect you to follow through with these instructions. We'll be in touch with the results. Next patient.
+PATIENT: Okay, okay. I will. Thanks, doc. .

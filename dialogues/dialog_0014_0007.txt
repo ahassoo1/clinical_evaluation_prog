@@ -1,0 +1,23 @@
+DOCTOR: Alright, Lakiya. So, what brings you in today?
+PATIENT: It’s… my back. It hurts. A lot. I want to get this over with quickly, if that’s alright with you, Doctor.
+DOCTOR: Yes, well, we all want to be quick about these things. "Back pain," right. Okay. And how long has your back been hurting?
+PATIENT: About… three weeks now. It started slow, just a little ache after work. Now, it’s hard to even bend over. I work with fences, you see. Lots of lifting and… well, everything.
+DOCTOR: Fencing, right. Physical job. Three weeks… and it's progressively gotten worse. Is the pain in a specific spot, or is it more widespread?
+PATIENT: It’s mostly… low down. Right in the small of my back. Sometimes it goes down my left leg a little. Not all the way, just… feels tight there. Like a pulled muscle, but it hasn’t gone away.
+DOCTOR: Low back pain radiating down the left leg… alright. Is it a sharp pain, a dull ache, burning… or something else?
+PATIENT: It’s… a deep ache, mostly. But when I try to stand up straight sometimes, it’s a sharp stab. Just for a moment. Then it goes back to aching. It’s… hard to explain. It just hurts.
+DOCTOR: Yes, pain often is. A deep ache with sharp exacerbations… and when you say "exacerbations," is that with certain movements?
+PATIENT: Yes. Standing up. Bending over. Lifting anything. Even just… sitting for too long. It’s pretty much anything I do, honestly. It’s been… difficult. And I don’t want to be out of work for long, if I can help it. I have Medicare, but… it’s not the same as having a paycheck.
+DOCTOR: Right. Well, let’s not get ahead of ourselves. We’ll try to figure this out. Have you tried anything for it so far?
+PATIENT: Just… ibuprofen. The over-the-counter kind. It helps a little, but not much. And it makes my stomach feel bad. I don’t like taking pills if I don’t have to. My husband… he used to make me chamomile tea when I was sore. But… he’s gone now. It doesn't help like it used to.
+DOCTOR: Chamomile tea…right. Ibuprofen, not very effective… Alright. Do you have any other medical problems?
+PATIENT: No, not really. I had my gallbladder out years ago, but that was fine. Just… the usual aches and pains of getting older, I guess. I try to stay active. Walking when my back allows. I had a check-up last year and everything was normal. Just this back… it won’t quit.
+DOCTOR: Gallbladder removal… and a normal check-up last year. Alright. Any family history of back problems or arthritis?
+PATIENT: My mother had arthritis in her hands, real bad. But she didn’t have back problems. My father… he worked on a ranch his whole life. Strong back, always. Didn't complain much about anything. I don't know about anything else. We didn't talk about medical things much.
+DOCTOR: Right. Okay. Well, let’s have a look at your back then. If you don't mind. Could you please stand up and bend forward slowly?
+PATIENT: Alright. But please be quick. I don’t like bending over when it hurts.
+DOCTOR: Okay, alright. There's some muscle spasm here, and it’s quite tender to the touch. You have a limited range of motion, and bending forward clearly exacerbates the pain. I'm also checking your reflexes and sensation in your legs… everything seems normal there. Hmm. It sounds like a muscle strain, but given the radiating pain down your leg, we need to rule out something more serious. I'm going to order an X-ray just to be safe. And I'll prescribe something stronger than ibuprofen for the pain, but it's not a long-term solution. We need to figure out what's causing this.
+PATIENT: X-ray? Alright, if you think it’s necessary. But I really don't want to be on strong pills. I just want it to stop hurting so I can work. Is it going to take long? I have things to do.
+DOCTOR: The X-ray won't take long. Just a few minutes. And the medication is short-term, to get you through the worst of it. We’ll see what the X-ray shows, and then we can discuss a plan. We can look at physical therapy if it's just a muscle strain. If there's something else going on, we'll need to consult a specialist. Here's a referral for the X-ray. Go to the radiology department down the hall. They'll take a look and send the results back to me. I'll call you with the results as soon as I have them. Do you have any questions?
+PATIENT: No, I don’t think so. Just… hurry, please. I don’t like being in pain. Thank you. I guess. I’ll go do the X-ray now.
+DOCTOR: Alright. Go ahead. And try to rest your back as much as possible until we get the results.

@@ -1,0 +1,23 @@
+DOCTOR: Right. Well, Mrs. Nissenbaum, let's try to be concise, shall we?
+PATIENT: Concise is good. Look, I don’t have all day. Woke up this morning, couldn't hear out of my right ear. And my face… feels a bit droopy on that side too. It’s quite alarming, really.
+DOCTOR: Hmm. Droopy face and hearing loss… and it came on this morning, you say?
+PATIENT: Yes, this morning. Not gradually, not over weeks, this morning. Honestly, doctor, are you even listening? It's rather obvious, isn't it? It’s not something one overlooks.
+DOCTOR: Yes, yes, this morning. I am listening. It's just... details are important. Have you experienced any dizziness, weakness, or trouble speaking?
+PATIENT: Dizziness? No. Weakness… not really. Though this whole thing is unsettling, so perhaps I feel a bit shaky. Speaking is fine. Perfectly fine. I'm telling you all this. Honestly, it's just… the ear and the face. It's quite obvious.
+DOCTOR: And have you had any fever, headache, or changes in vision?
+PATIENT: No fever. No headache. Vision is perfectly normal, thank you. Look, I assure you, if there were anything else, I would mention it. I’m not an idiot. Are we getting anywhere with this, or are we just going through a checklist?
+DOCTOR: Alright. Let’s just… confirm a few things. Can you smile for me?
+PATIENT: Must we? Very well. There. Happy now? It’s clearly not right, as I already told you.
+DOCTOR: Arms up, please. And stick your tongue out. Yes, both.
+PATIENT: Honestly. Is this some sort of game? Fine. There. Arms up. Tongue out. Now what? It's quite undignified, you know.
+DOCTOR: Hmm. And any history of recent illness?
+PATIENT: Recent illness? No. I haven't been anywhere near anyone who's been sick. I keep a very clean house. This all appeared this morning, remember? I haven't had time to get sick. It’s simply…sudden.
+DOCTOR: Alright. Based on what you're telling me—and frankly, the rather obvious presentation—it could be Bell's palsy. But we need to rule out other possibilities. Do you have any allergies to medications?
+PATIENT: Allergies? No. I take nothing. I prefer natural remedies, when necessary. Honestly, doctor, Bell’s…what did you call it? Sounds rather…dramatic. Is it serious? And what does “rule out” even mean?
+DOCTOR: Bell's palsy is inflammation of the facial nerve. It causes weakness or paralysis on one side of the face. It's not typically life-threatening, but it can be concerning. “Rule out” means we need to be sure it’s not something more serious, like a stroke. Do you have any family history of stroke or neurological conditions?
+PATIENT: Stroke? Good heavens, no! My family is very healthy. We have good genes, I assure you. This sounds… alarmingly complicated. Look, is there a test you can do to tell me what it is? I don’t have time for speculation. And frankly, I’m starting to feel quite patronized.
+DOCTOR: Very well. We can order an MRI to rule out a stroke or other structural problem. However, it will require a referral and likely a significant wait time. In the meantime, I can prescribe a course of corticosteroids to reduce inflammation, if you’re amenable. Do you understand that this is not a definitive diagnosis, and further investigation may be necessary?
+PATIENT: MRI… wait time… corticosteroids… Honestly. Fine. Do what you must. But if it's going to take weeks, I’m not sure it’s worth the bother. Prescribe whatever pill you think is best. Just…make it quick, please. I have a lunch appointment.
+DOCTOR: Very well. Here’s a prescription for Prednisone, a standard course. Follow the instructions carefully. And I strongly recommend you schedule an MRI as soon as possible. I’ll provide a referral. Do you have any further questions… or shall we consider this concluded?
+PATIENT: No. No further questions. This has been… thoroughly unhelpful, but I suppose it’s something. Referral, yes. The quicker, the better. Thank you. Or rather, I suppose I should say thank you. I really must be going. .
+DOCTOR: Right. Very well. Good day, Mrs. Nissenbaum. I trust you'll schedule that MRI promptly. .

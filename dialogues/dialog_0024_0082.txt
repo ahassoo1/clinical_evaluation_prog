@@ -1,0 +1,21 @@
+DOCTOR: Good morning, Mr. Tayar. I am Dr. Mutnick. So, let’s get straight to it. What brings you in today?
+PATIENT: Morning. Uh… travel, I think. My wife… she liked to travel. Now I need… shots? Something for going places. I don’t really… remember where, exactly. Just… travel stuff.
+DOCTOR: “Travel stuff,” you say. Right. Well, that’s… helpful. Perhaps we can be more specific. Do you have any recollection of where you might be traveling?
+PATIENT: No. Not really. It was… her idea, always. I just… helped. Somewhere hot, maybe? She liked the sun. Not… cold places. Does that help? I don’t know what I need, doctor. Just tell me. It's for… going somewhere.
+DOCTOR: Very well. Let’s start with the basics. Are you experiencing any current symptoms?
+PATIENT: Symptoms? Like… sick? No. I feel okay. A little tired, maybe. But I always feel a little tired. Nothing… bad. Just normal tired. Old tired. Is that what you mean?
+DOCTOR: “Old tired” is not a medical term, Mr. Tayar. Are you experiencing fever, chills, body aches, cough, nausea, vomiting, diarrhea... anything at all out of the ordinary?
+PATIENT: No! No fever. No… chills. My stomach is okay, I think. Maybe a little… slow sometimes. But that’s just… old age, right? Like I said. I don’t get sick easy. Never have. My wife… she was the one who got sick. Not me. This is for her trip. Well, a trip. I just need… what do I need?
+DOCTOR: Right. Let's review your past medical history then. Do you have any known medical conditions – diabetes, high blood pressure, heart disease, anything like that?
+PATIENT: No. Nothing. I worked. Always worked. Building things. Airplane parts. Good work. Didn't have time for… sickness. She… she had things. A little cough sometimes. But I didn't. Healthy. Always healthy. Except… sad, now. But not sick.
+DOCTOR: Very well. And have you had any surgeries in the past?
+PATIENT: No. Never. I fixed things. I didn’t need fixing. Just… strong. Always strong. She… she had some things done. Little things, I think. I don’t remember. It was a long time ago. Just tell me what I need for this trip, doctor. It’s… important. For her memory, you see?
+DOCTOR: I understand you are concerned about your wife, Mr. Tayar. However, to advise you properly, I need a complete medical history. Do you recall any significant illnesses in your family – heart disease, cancer, diabetes, anything like that?
+PATIENT: Family… hmm. My mother… she was small. Always small. Sickly, maybe? I don’t know. I didn’t see her much. My father… strong. Like me. Worked hard. No sickness. Just… gone. Long ago. I don’t… I don’t remember much about anyone. It's just me now, really. And… her memory. That’s why I’m here. What shots, doctor?
+DOCTOR: Alright. Let's try this another way. Are you currently taking any medications – prescription, over-the-counter, vitamins, supplements… anything at all?
+PATIENT: No. Never took pills. Didn't need them. Strong man. Just worked. Sometimes a little… tea. For the cold. But that’s not medicine, right? Just… warm. She… she took things. Lots of things. Little bottles, little pills. I didn’t ask. Just… let her be. I don't take anything. What do I need? For the trip?
+DOCTOR: Very well. Given your insistence, and lack of any concrete information, I will proceed with a basic set of vaccinations recommended for international travel. However, without knowing your destination, I can only offer general protection. We'll do tetanus, diphtheria, pertussis… and influenza. Do you have any allergies to medications?
+PATIENT: Allergies? No. Never had allergies. Worked with everything. Metal, paint, everything. Didn't get sick. She… she was allergic to something. Pollen, maybe? Little red eyes. I don't get sick, doctor. Just do what you need to do. For the trip. Please. Is that okay? I just want to… remember.
+DOCTOR: Very well. Nurse will prepare the vaccinations. Please sit comfortably. We'll start with the tetanus booster. Standard procedure, please. And note the patient’s… limited recall in the chart. Stop.
+PATIENT: .
+DOCTOR: .

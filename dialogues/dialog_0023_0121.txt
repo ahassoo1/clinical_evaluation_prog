@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Pipolo. I’m Dr. Versace. So, tell me, what brings you in to see me today?
+PATIENT: Morning. Just… my eyes feel dry. Real dry. Been that way a bit now. Don’t like it.
+DOCTOR: “A bit now.” Can you be more specific?
+PATIENT: Hmm… maybe a month? A month or so. Hard to say for sure. Time goes by. Gets cold, gets hot… eyes just feel scratchy. Especially when I’m workin’. Concrete dust, ya know?
+DOCTOR: Concrete dust, right. And what sort of work do you do, Mr. Pipolo?
+PATIENT: I… cement work. Been doin’ it a long time. Concrete finishin’. Floors, walls, that kinda thing. It’s… hard work.
+DOCTOR: So, you’ve been exposed to concrete dust for quite some time, then. Do you use any protective eyewear while you work?
+PATIENT: Eyewear? Not… really. Never got in the habit, I guess. Always just blinked it away. Didn't think it'd be a problem.
+DOCTOR: I see. And when you say "scratchy," is it a constant irritation, or does it come and go?
+PATIENT: Comes and goes. Worse when it's windy, or… like I said, when I’m workin’. When I’m inside, not so bad. But when the dust flies… oh boy. Gets real bad real quick.
+DOCTOR: Alright. Any pain with it?
+PATIENT: No, not pain. Just… uncomfortable. Like there's sand in 'em. Makes me blink a lot. Doesn't hurt, just… annoying.
+DOCTOR: And have you noticed any changes in your vision?
+PATIENT: Vision? Not that I’ve noticed. Things look… blurry sometimes, but I’m old. Eyes get blurry when you get old, right? I don’t know.
+DOCTOR: Have you tried any over-the-counter remedies for this dryness?
+PATIENT: Remedies? Like… drops? No, I haven’t. Never thought of it. Just kinda… put up with it. Always have.
+DOCTOR: Alright, Mr. Pipolo. I’m going to take a quick look at your eyes. Just to get a better idea of what’s going on. Could you sit up and look straight ahead for me?
+PATIENT: Okay. Sure. Straight ahead… like this?
+DOCTOR: Hmm. There’s some mild injection – redness – in both eyes. The corneas look clear, but I do see some superficial punctate erosions. Not severe, but present. It appears you have some corneal irritation, likely from the concrete dust. These little erosions are scratches on the surface of your eye.
+PATIENT: Scratches? Oh dear. That don't sound good. Will it… fix itself? I got work to do.
+DOCTOR: It's not quite as dramatic as a deep scratch, Mr. Pipolo. They usually heal on their own, yes, but continued exposure without protection will just keep re-irritating them. That's why I’m concerned. I recommend a lubricating eye drop, four times a day. And, and this is important, you must wear safety glasses or goggles when you’re working with concrete. It’s the only way to prevent this from getting worse. Do you understand?
+PATIENT: Drops and… glasses. Okay. Glasses… I guess I can get some glasses. Four times a day... I'll try to remember. What kinda drops? And where do I get 'em? I don't want anything fancy.
+DOCTOR: I've written down the name of a basic artificial tear solution – Systane Ultra. You can get it at any pharmacy - Walgreens, Rite Aid, even most supermarkets have them now. Over-the-counter. No prescription needed. And, I’m going to write you a short note for your work, excusing you from tasks with heavy dust exposure until you get appropriate eye protection. It's a simple case of irritation, but it's important you take it seriously to avoid further damage. Do you have any questions for me?
+PATIENT: Okay. Drops and a note. Thank you, Doctor. No… I think that’s all. I just wanna get back to work. I appreciate your help.
+DOCTOR: Very well. Try to be diligent with the drops and protect your eyes. If the irritation doesn't improve within a week, or if you experience any changes in your vision, please return for a follow-up appointment. Have a good day, Mr. Pipolo.
+PATIENT: Alright. Thank you again. Bye.

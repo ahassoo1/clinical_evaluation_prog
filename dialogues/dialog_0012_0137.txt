@@ -1,0 +1,36 @@
+DOCTOR: Hi Lindra, it's good to meet you. I'm Dr. Yoshino. So, what brings you in to see me today?
+PATIENT: Hello Doctor. Is good to meet you too. My… how you say… the place for old people? I need paper say I okay for go there. My son, he say I need this paper.
+DOCTOR: Okay, I understand. It sounds like you need a form completed for a senior living facility. No problem, we can definitely get that taken care of for you. To do that, I’ll need to ask you some questions about your health, just to make sure I have a complete picture. Is that alright?
+PATIENT: Yes, yes. That is okay. Ask me. I try to remember.
+DOCTOR: Great. Let's start with why you think you might need to be in a senior living facility. Are you having trouble with things at home?
+PATIENT: Hmm… trouble… not so much trouble. Just… getting older. Harder to do things. Cook, clean… my husband, he help, but he older too. Is better… safer… maybe in a place where people can help more.
+DOCTOR: Okay, that makes sense. It sounds like you're thinking about it for peace of mind and extra support. That's a really good reason. So, let's talk a little bit about your health overall. Have you been seeing a regular doctor?
+PATIENT: Yes. I have doctor. In the town. Doctor Ramirez. I see him… maybe two times a year. For check-up. He good doctor.
+DOCTOR: That's good to know. Do you remember what he checks for during those check-ups?
+PATIENT: Hmm… he listen to my heart. And take my… how you say… pressure? With the band on my arm. And sometimes he poke my arm for blood. He ask me if I feel okay. That is what he do.
+DOCTOR: Okay, that sounds like a pretty standard check-up. Have you been diagnosed with any medical conditions – like diabetes, high blood pressure, or anything else?
+PATIENT: High blood pressure, yes. Doctor Ramirez, he tell me that. I take a little pill… every morning. A white one. And sometimes my knees… they hurt. He say it is old age.
+DOCTOR: Okay, so you have high blood pressure that’s managed with medication, and you experience some knee pain. Do you know the name of the medication you take for your blood pressure?
+PATIENT: No, I do not know the name. I just take the white pill. My husband, he get it for me. He know the name.
+DOCTOR: Okay, that's alright. We can look that up later. Let's talk about any surgeries or hospital stays you've had. Have you ever had any operations or been in the hospital for anything?
+PATIENT: Hmm… let me think. Long time ago… when I was young woman, I have baby, with surgery. But that was many years ago. And… one time, I fall. Break my arm. They put it in a cast. But… that is all I remember. Nothing new.
+DOCTOR: Okay, so a C-section many years ago and a broken arm that was set with a cast. Nothing recent. Now, are you currently taking any medications besides the white pill for your blood pressure?
+PATIENT: Just the white pill. And… sometimes, for my knees. When they hurt bad. A little pain pill. Orange one. But not every day. Only when I need.
+DOCTOR: Okay, so the white pill for blood pressure and an orange pain pill for your knees as needed. Do you have any allergies to medications, food, or anything else?
+PATIENT: No, I do not think so. I eat everything. And… no allergies. Never had bad reaction to anything.
+DOCTOR: Okay, that's good. Now, just a few questions about your family. Do you have a family history of any serious medical conditions, like heart disease, diabetes, or cancer?
+PATIENT: Hmm… my mother, she have… how you say… the sugar? Diabetes. And my father… he have problems with his heart. He very sick when he old. My sister… she have the cancer. But… that is long time ago.
+DOCTOR: Okay, so a family history of diabetes, heart disease, and cancer. Thank you for sharing that. Now, let's talk a little bit about your lifestyle. Do you smoke, drink alcohol, or use any other substances?
+PATIENT: No, no. I do not smoke. And I do not drink alcohol. Just… sometimes I have a little coffee. In the morning.
+DOCTOR: Okay, just a little coffee in the morning. That’s good to know. Finally, let’s talk about your living situation. You mentioned your husband helps you at home. Can you tell me a little bit more about your daily routine and what you're able to do on your own?
+PATIENT: Yes. We live in a small house. Is okay. I cook some of the meals. And I clean a little. But… getting harder. My husband, he do more now. I can walk, but… not so far. And sometimes my knees hurt bad. I read books. And watch television. Is… quiet life.
+DOCTOR: Okay, a quiet life with some assistance from your husband. That gives me a good picture. Now, I’d like to do a quick physical exam, if that’s alright with you. I’ll listen to your heart and lungs, check your blood pressure, and take a look at your knees. Does that sound okay?
+PATIENT: Yes, that is okay. You do what you need.
+DOCTOR: Great. Okay, deep breaths in… and out… good. Your heart sounds regular, and your lungs are clear. Now, let's check your blood pressure. Your blood pressure is a little elevated, but that’s not uncommon. Now, let’s take a look at your knees. Can you bend them for me?
+PATIENT: Yes. This one hurt more. Is stiff. And sometimes… it crack.
+DOCTOR: Okay, I see some mild swelling and tenderness, especially on the left side, and your range of motion is a little limited. It sounds like you likely have some osteoarthritis in your knees, which is very common as we get older. Alright, that completes the exam. Based on what you've told me, and the exam, it sounds like you are generally in stable health, but you do have some osteoarthritis in your knees and your blood pressure is a little elevated. You're also considering a move to a senior living facility to get some extra support, which is completely reasonable. Would you like me to complete the form for you?
+PATIENT: Yes, please. The paper. For the place. I want to go there.
+DOCTOR: Okay, great. Alright, I’ve completed the form. Here you go. This form indicates you're medically stable for independent living, but I recommend you continue seeing your primary care physician, Dr. Ramirez, for regular check-ups to manage your blood pressure and monitor your arthritis. I would also suggest some physical therapy for your knees to help with strength and range of motion. I can give you a referral if you’d like. Do you have any questions for me?
+PATIENT: No, I think that is all. Thank you, Doctor. You are very kind.
+DOCTOR: You're very welcome, Lindra. I'm glad I could help. Remember, it’s always good to stay proactive about your health. If anything changes or you have any concerns, don't hesitate to reach out to Dr. Ramirez or schedule an appointment with me. Have a good day, and I hope everything goes smoothly with the senior living facility.
+PATIENT: Thank you. You too.

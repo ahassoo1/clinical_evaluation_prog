@@ -1,0 +1,22 @@
+DOCTOR: Alright, Mr. Secondi. So, what brings you in today?
+PATIENT: Uh, hi doctor. It's… my pee. It's orange. Like, really orange. Not a little bit, but… orange. I noticed it yesterday, and it’s still the same this morning. It worries me a little.
+DOCTOR: Orange urine, huh?
+PATIENT: Yeah. I drink water, you know? Normal amount. Not a lot, not a little. I don’t know why it’s orange. Is it… bad? Should I be worried?
+DOCTOR: Look, a lot of things can turn your urine different colors. Usually it’s nothing. But… okay. Have you noticed any pain when you urinate?
+PATIENT: No, no pain. Not at all. It just… looks wrong. And I don't know what I ate that would make it orange. I ate chicken yesterday, and rice. Nothing… special. Is it something I should stop eating?
+DOCTOR: Chicken and rice… Right. And any fever, chills, nausea, or vomiting?
+PATIENT: No, nothing like that. I feel okay, actually. Just… the pee. It's a bit embarrassing to talk about, but it's really bothering me. I don’t usually notice these things, but my wife told me to come get it checked.
+DOCTOR: Alright. No recent history of… anything relevant, apparently. Any medications you're taking?
+PATIENT: No. Nothing at all. I don't like taking pills if I can help it. Just… normal stuff. Vitamins sometimes, but I haven't taken them in a few days. Just the regular multivitamin, you know? The kind you get at the store.
+DOCTOR: Vitamins… Okay. Let's take a look. I’m going to need a urine sample. We’ll rule out anything serious. Follow me. Don't make a mess.
+PATIENT: Okay. Yeah, sure. A sample. No problem. I can do that. Where… where do I go?
+DOCTOR: Through there. Private room. Instructions are on the wall. And try to be accurate. I haven't got all day.
+PATIENT: Okay. Accurate… right. I understand. Thank you, doctor. I'll be quick.
+DOCTOR: Honestly, the things I deal with… Alright. Waits impatiently.
+PATIENT: Okay, I… I have it. Sorry if it took a minute. It's… it's in there.
+DOCTOR: Finally. Let's see what we’re dealing with. Hmm… No blood, no protein… Glucose is normal. It could be dehydration, but you said you were drinking normally. Sometimes certain foods… though chicken and rice aren't typically culprits. Look, Mr. Secondi, it’s probably nothing. But just to be safe, I’m going to order a full urinalysis. And maybe, maybe, lay off the chicken for a few days. See if it clears up. I'll have the results sent to your primary care physician. Do you have a primary care physician?
+PATIENT: Yes, I do. Dr. Benali. She's… she's in the city. I see her once a year, usually. Is… is it something I should be really worried about, doctor? Because my wife, she worries a lot.
+DOCTOR: Look, I've told you, it’s probably nothing. But we’re checking. Worrying won’t help. We’ll rule out anything serious with the lab work. If it doesn't clear up in a week, then you see Dr. Benali. Understand?
+PATIENT: Okay. A week. And see Dr. Benali if it doesn't get better. I understand. Thank you, doctor. Is that… is that all? I can go now?
+DOCTOR: Yes, you can go. Don't call unless it gets significantly worse. And try to relax. Honestly, some people… Stop worrying about every little thing. Next!
+PATIENT: Okay. Right. Thank you, doctor. .

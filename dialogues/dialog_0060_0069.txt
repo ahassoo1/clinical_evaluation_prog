@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Paguioso. I’m Dr. Nooruddin. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It’s PaguiO, actually – P-A-G-U-I-O. And I'm here for a vaccination, if that's right? I think it was recommended to me, something about keeping up-to-date.
+DOCTOR: Right, yes, Mr. PaguiO. My apologies. It’s easy to mishear. And yes, you are due for a booster. Let’s see... according to your records, you’ve had the initial series, but it's been a few years. We just want to make sure you’re fully protected. Before we do that, though, I always like to get a quick overview of your general health. Have you been feeling alright generally?
+PATIENT: Yes, generally I've been fine, thank you for asking. No complaints, really. A little tired sometimes, but I think that’s just getting older! I work a lot with planning things at work, so it can be stressful at times, but nothing major.
+DOCTOR: Mm-hm. Stress can certainly take its toll. Alright, well, let’s just run through a few things to be thorough. Do you have any chronic health conditions – things like diabetes, high blood pressure, heart problems, anything like that?
+PATIENT: No, not that I know of. My doctor back home – well, my previous doctor – always said I was pretty healthy. Blood pressure was sometimes a little high when I was nervous at appointments, but usually okay. I don’t think I have diabetes, no. I do like my sweets, though!
+DOCTOR: Right. Well, high blood pressure can run in families, and a fondness for sweets isn’t ideal, but we’ll get a reading today. Have you ever had any surgeries, or been hospitalized for anything significant?
+PATIENT: No surgeries, thankfully. And no significant hospital stays. I broke my arm when I was a little boy, climbing a tree… but that was a long time ago! Just a cast for a few weeks. Nothing serious.
+DOCTOR: Alright. And what about allergies?
+PATIENT: No known allergies, Doctor. I eat everything… well, almost everything! I haven't had a reaction to anything, as far as I can remember. My mother always said I had a strong stomach.
+DOCTOR: Okay. And are you currently taking any medications – prescription or over-the-counter?
+PATIENT: No, nothing at all. I try to avoid taking pills if I can help it. Just a bit of ibuprofen now and then for a headache, but that's it. Really, I'm quite healthy, Doctor.
+DOCTOR: Right. Well, that's good to hear. Just to complete the picture, let’s quickly check your vital signs. I’ll need to take your blood pressure, pulse, and temperature. Then we can proceed with the booster. Do you mind if I listen to your heart and lungs as well?
+PATIENT: No, not at all. That sounds perfectly fine. Whatever you need to do, Doctor. I trust your judgement.
+DOCTOR: Alright. If you could just sit here and relax. Let’s start with your blood pressure. Left arm, please.
+PATIENT: Okay, here you go. Is this alright? I sometimes get a little nervous at the doctor, so it might be a bit high.
+DOCTOR: Hmm. Blood pressure is a little elevated – 142/90. Not alarmingly so, but we’ll want to keep an eye on it. Heart and lungs sound clear. Temperature is normal. Weight is… 91 kilograms?
+PATIENT: Yes, that's right. 91 kilograms. I… I’ve always been a bit on the smaller side. Is that… a problem? I don’t really pay much attention to those things.
+DOCTOR: Well, given your height of 155 centimeters, your BMI is 37.7, which puts you in the obese category. While I don’t want to cause unnecessary alarm, it’s important to address this, as it significantly increases your risk of heart disease, diabetes, and other health problems. We can discuss some lifestyle modifications – diet and exercise – later. For now, let’s proceed with the booster. Have you had any previous reactions to vaccinations?
+PATIENT: Oh. I… I didn't realize. No, I haven’t had any reactions to vaccinations before, not that I remember. Just a bit of soreness sometimes, but nothing serious. It's good to know about the weight, I suppose. We can talk about that later, yes.
+DOCTOR: Alright. We'll give you the standard influenza booster. It's the most effective way to protect yourself this season. It may cause some mild side effects – soreness at the injection site, a low-grade fever, or muscle aches – but these typically resolve within a day or two. Roll up your sleeve, please.
+PATIENT: Okay. Just let me know when you’re about to… do it. I don’t like surprises.
+DOCTOR: There. All done. Just keep that area clean and dry. And if you develop a high fever, severe muscle aches, or any difficulty breathing, contact the clinic immediately. Do you have any questions?
+PATIENT: No, I think I’m okay. Just… a little sore, as you said. Thank you, Doctor. About the weight… is there anything specific I should be doing? Or eating? I'm not much of a cook, so… simple things would be helpful.
+DOCTOR: Look, it's a matter of common sense. Reduce your portion sizes. Avoid processed foods, sugary drinks, and excessive carbohydrates. Eat more fruits, vegetables, and lean protein. And frankly, exercise. Even a brisk walk for thirty minutes a day would make a difference. I can give you a brochure with some basic dietary guidelines, but ultimately, it's up to you to take responsibility for your health. It’s not my job to hold your hand. Do you have any other concerns?
+PATIENT: No, I think that’s all. Thank you for the vaccination. Have a good day, Doctor.
+DOCTOR: Right. You too. .

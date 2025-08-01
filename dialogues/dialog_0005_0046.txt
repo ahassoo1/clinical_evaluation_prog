@@ -1,0 +1,29 @@
+DOCTOR: Alright, Ms. Creagh, have a seat. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor Donate. Thank you for seeing me. I’ve been having some… discomfort, a pressure in my bladder, and it’s been bothering me for a little while now. It’s not painful, exactly, just… persistent.
+DOCTOR: Persistent, huh?
+PATIENT: Yes. It feels like I need to go to the bathroom more often than usual, even when I don’t really need to. And sometimes, when I do need to go, it’s… difficult to start. It’s a bit embarrassing to talk about, honestly.
+DOCTOR: Embarrassing things are what I’m paid for, Ms. Creagh. Don't worry about it. Now, how long has this been going on?
+PATIENT: Oh, well… let me think. It started maybe three months ago, I’d say. At first, it was just occasionally, especially if I drank a lot of water before bed. But the last month or so it’s been… pretty consistent, almost every day. I thought it might just be something I was doing, but it hasn’t gotten better on its own.
+DOCTOR: And is this happening at all times of day, or is it worse at a specific time?
+PATIENT: It’s… probably worse in the evenings, after I’ve been on my feet all day. I’m a graphic designer, so I do a lot of standing when I’m working on larger projects. But it happens throughout the day, just… more noticeable when I’m tired, I think. And sometimes, it wakes me up at night.
+DOCTOR: Okay. And have you noticed any other symptoms along with this – any burning when you urinate, blood in your urine, fever, or pain in your back or sides?
+PATIENT: No, thankfully. No burning, no blood, and no fever. My back does get a little sore sometimes, but I often work at my computer for long stretches, so I just assumed it was from that. It’s not really a sharp pain, just a dull ache. I haven’t noticed anything else unusual, really.
+DOCTOR: Alright. And what about your fluid intake?
+PATIENT: I try to drink a good amount of water throughout the day – probably eight glasses, maybe a little more if I’m being active. I don’t drink a lot of soda, mostly just water and sometimes tea. I definitely haven’t changed my drinking habits recently. Would it help if I kept a log of how much I drink each day?
+DOCTOR: It could. But frankly, eight glasses is… a lot. Are you sure it's not excessive?
+PATIENT: Well… I always thought it was a good thing. My mother always encouraged me to drink plenty of water. Maybe I am overdoing it? I suppose I hadn’t really thought about it. I just always make sure I have water with me. Perhaps I could cut back a bit and see if that makes a difference. Would you say four to six glasses is more reasonable?
+DOCTOR: More reasonable, yes. Now, let's talk about your medical history. Do you have any existing medical conditions that I should be aware of?
+PATIENT: No, not really. I’ve always been quite healthy, thankfully. I had the usual childhood illnesses, but nothing serious. I've been married for five years, and I'm currently covered by Medicare. I had a routine check-up last year, and everything was normal then. I don't take any medications regularly. Oh, and I had my appendix removed when I was twelve, but that was a long time ago. Is that relevant?
+DOCTOR: Appendix removal… barely relevant. Okay. Any family history of bladder problems, kidney issues, or anything like that?
+PATIENT: Hmm… That’s a good question. My grandmother, on my mother’s side, had some sort of urinary tract infection a few times when she was older, but I don’t know much about the details. It wasn’t a frequent issue, as far as I know. My mother doesn’t have any bladder problems that she’s mentioned, and my father was very healthy throughout his life. I’m not aware of anyone else in my family with kidney issues, no. Would knowing more about my grandmother’s situation be helpful? Perhaps I could ask my mother.
+DOCTOR: It could be. Alright, let’s move on. Do you smoke?
+PATIENT: No, I don't smoke. Never have. And my husband doesn’t either. We both try to live a fairly healthy lifestyle, all things considered. We enjoy going for walks and cooking healthy meals. We try to avoid things that would be detrimental to our health.
+DOCTOR: Good. Now, let’s do a quick exam. I'm going to need you to lie down on the examination table.
+PATIENT: Certainly, Doctor. That sounds fine. Is there anything specific you'll be looking for during the exam? I just like to know what to expect, if you don’t mind me asking.
+DOCTOR: Just a basic abdominal exam, and I'll quickly check a urine sample. It will help rule out an infection. Nothing to worry about. Lie down, and we'll get it over with.
+PATIENT: Very well. I understand. Please let me know if there’s anything I should do or if I need to adjust my position. I’m ready when you are.
+DOCTOR: Alright. Just relax. Deep breaths. Now… any tenderness here?
+PATIENT: Ooh, yes. A little bit. Not painful, exactly, but… sensitive. Especially right there, on the lower left side. It’s not constant, though. It only bothers me when you press on it. Is that… concerning?
+DOCTOR: Hmm. Alright. Now, I need a urine sample. There's a cup in the bathroom. Try to get a midstream sample – that means start urinating, then collect a sample about halfway through. Don’t worry if it's not perfectly sterile, but try to be as clean as possible. I’ll be right here.
+PATIENT: Certainly, Doctor. A midstream sample. I understand. I’ll be right back with it. And thank you for explaining everything so clearly. It makes me feel a little less anxious.
+DOCTOR: “Patient reports mild tenderness in the lower left quadrant. Obtaining urine sample.” Honestly, people will come in for the smallest things…

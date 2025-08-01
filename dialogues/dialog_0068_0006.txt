@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Ms. Weichers. I'm Dr. Sham. So, what brings you in today?
+PATIENT: Good morning, Doctor. It is… a little embarrassing to talk about, but I have been coughing up some blood. It happened a few times now. Not a lot, but enough to worry me.
+DOCTOR: Coughing up blood… right. And this has occurred a few times now, you said?
+PATIENT: Yes. Maybe… four or five times in the last week? It is always with a regular cough, not… a bad one. And it is not a huge amount, like in a movie. Just… streaks. It worries me because… well, it’s blood.
+DOCTOR: Streaks of blood with a regular cough…Okay. And can you tell me, Ms. Weichers, roughly how much would you say each time?
+PATIENT: That is… difficult to say, Doctor. Maybe… a teaspoon? Less than a tablespoon, for sure. It’s hard to measure when you are… coughing! I try not to panic and look at it too closely. It just makes me more scared.
+DOCTOR: Understandable. A teaspoon… okay. And has anything changed recently?
+PATIENT: Hmm… not that I can think of. My life is… quite quiet, Doctor. I work, I come home, I take care of my garden. I lost my husband two years ago, so it’s just me now. No new travel, no new… hobbies. I haven’t been sick with a cold or anything, either.
+DOCTOR: Alright. And just to be thorough, Ms. Weichers, are you experiencing any other symptoms?
+PATIENT: No, Doctor. Nothing else that I have noticed. No fever, no pain in my chest, no… shortness of breath. I feel a little tired, but that is normal for me. I am still grieving, you see. Does that make sense?
+DOCTOR: It does, Ms. Weichers. I’m sorry for your loss. Let's do a quick physical exam, just to listen to your lungs and check a few things. Is that alright?
+PATIENT: Yes, Doctor. That is fine. Whatever you think is best. I trust your judgment.
+DOCTOR: Alright. If you could just have a seat here, and I'll listen to your lungs with the stethoscope. Then I'll just take your blood pressure and check your pulse.
+PATIENT: Okay, Doctor. I will try to be very still.
+DOCTOR: Deep breath… and again… Okay. Your lungs sound… clear. No wheezing or crackles that I can hear right now. Blood pressure is 128 over 76. Pulse is 72 and regular. Any pain when I press here?
+PATIENT: No, Doctor. That does not hurt. It feels… normal. I do not feel any pain at all. Is something wrong? I am worrying now.
+DOCTOR: It's too early to say definitively, Ms. Weichers. Your exam doesn't reveal anything immediately concerning, but coughing up blood, even a small amount, warrants further investigation. Just to be safe, I'd like to order a chest X-ray and a complete blood count. The X-ray will help us visualize your lungs, and the blood count will give us a better understanding of your overall health. Does that sound alright?
+PATIENT: Yes, Doctor. That sounds… sensible. If it will help figure out what is happening, then yes, please. An X-ray and blood test. Will it take long to get the results?
+DOCTOR: The lab should be able to get the blood work done fairly quickly, results usually within a few hours. The X-ray… depends on the facility’s workload, but typically within 24-48 hours. We can schedule a follow-up appointment to discuss the results as soon as they are available. In the meantime, if you cough up a significant amount of blood, or develop any chest pain, shortness of breath, or fever, please go to the emergency room immediately. Do you have any questions for me right now?
+PATIENT: No, Doctor. That… that all makes sense. I understand. Thank you for explaining it so clearly. 24 to 48 hours for the X-ray, and I will go to the emergency room if anything changes. I… I think that is everything. Thank you again.
+DOCTOR: You're very welcome, Ms. Weichers. I'll have the nurse draw your blood and schedule the X-ray. We'll be in touch as soon as we have the results. Try to stay calm, and don't hesitate to call if you have any concerns. .
+PATIENT: Thank you, Doctor. I will. Bye bye to you too. .

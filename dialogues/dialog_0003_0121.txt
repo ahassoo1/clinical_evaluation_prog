@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Mr. Pipolo. I am Dr. Yackey. So, tell me, what brings you in today?
+PATIENT: Morning, Doctor. Just… my eyes. They feel real dry. Been that way a bit now. Don’t like it.
+DOCTOR: Dry eyes, hm?
+PATIENT: Yeah. Just… dry. Like sand in ‘em sometimes. Makes it hard to see good when I’m workin’. I pour concrete, you know? Need to see straight.
+DOCTOR: Concrete work. Right. And how long exactly has this “dryness” been bothering you?
+PATIENT: Hmm… let me think. Maybe… six months? Hard to say for sure. Time kinda… slips away when you’re busy. It ain't been forever, but it ain't new, neither.
+DOCTOR: Six months. And have you tried anything for it?
+PATIENT: Just… blinkin’ more. And I try to not stare into the sun when I’m out there. But it don’t seem to help much. Is there somethin’ I should be doin’? I don’t know nothin’ about eye stuff.
+DOCTOR: Well, blinking is… basic. Let's review some basics. Do you have any other symptoms?
+PATIENT: Symptoms? Like… other things wrong? I dunno. Sometimes they feel… scratchy. And blurry when I wake up. That’s about it, I guess. Just dry and scratchy. And not seein' good sometimes. I ain’t a complainer, Doc.
+DOCTOR: Scratchy… blurry upon waking. Alright. And are you currently taking any medications, Mr. Pipolo?
+PATIENT: Nope. Never been much for pills. Just… whatever the body needs, I guess. I eat, I sleep… try to stay warm. That's about it. No medicines.
+DOCTOR: No medications. Any allergies, sir?
+PATIENT: Nope. Never had allergies. Workin’ with concrete, you get used to… stuff. Dust, mostly. Doesn’t bother me none. Not that I know of, anyways.
+DOCTOR: Alright. And family history?
+PATIENT: Family history… Hmm. My mother, she had… bad eyesight when she got old. Real blurry. Needed glasses, I think. That’s all I can really remember. She lived a long time though. Out on the islands, you know? Things weren't always well-documented.
+DOCTOR: Alright. Let's just do a quick exam, then we can discuss this further. If you could just sit up straight and look forward.
+PATIENT: Okay. Whatever you need, Doc. Just wanna get this fixed if I can. Makes work hard when you can't see.
+DOCTOR: Pupils are equal, round, reactive to light… slight conjunctival injection… corneal surface appears a little… rough. Your corneal surface is somewhat dry and irritated, consistent with dry eye syndrome. It's fairly common, especially given your profession. We'll start with some artificial tears. Use them frequently throughout the day.
+PATIENT: Artificial… tears? Like, eye drops? Will that really help? I gotta go back to work tomorrow, Doc. Don't wanna be fiddlin' with drops all day. But… okay. Whatever you think. How often? And… are they expensive? I ain’t got a lot to spare.
+DOCTOR: Four to six times a day, Mr. Pipolo. And they shouldn't be excessively expensive. I'll prescribe a basic brand. If that doesn't provide sufficient relief, we can discuss other options, but let's start with this. Try to avoid rubbing your eyes, and ensure adequate hydration. Drink plenty of water. Do you have any other concerns?
+PATIENT: Okay, four to six times. I can do that, I guess. No rubbin’. Water… yeah, I drink water. Nope. I think that's it, Doc. Just wanna see better. Thanks. I gotta get goin’ if I’m gonna make dinner.
+DOCTOR: Very well. If your symptoms worsen, or do not improve within two weeks, schedule a follow-up appointment. Have a good day, Mr. Pipolo. .
+PATIENT: You too, Doc. .

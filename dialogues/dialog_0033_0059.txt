@@ -1,0 +1,37 @@
+DOCTOR: Right. Adyn Swaby, 19 years old. So, what brings you in today?
+PATIENT: Oh, um... well, it's my speech. It's been... a bit off, lately. Like, I’m not saying things as clearly as I usually do, I don't think. It’s hard to explain, really. It just feels…slurred, sometimes. I don’t really remember when it started, to be honest. Just…gradually, I suppose.
+DOCTOR: "Gradually" isn't terribly helpful, Ms. Swaby. But alright. And is this slurring constant, or does it come and go?
+PATIENT: Oh, goodness. You're right. I… I don’t have a good sense of time, I’m afraid. It comes and goes, yes. More often when I’m tired, I think. Or… when I’ve been talking for a while. It's not always there, thankfully. But it’s enough to worry me, you know?
+DOCTOR: Right. Fatigue-related. Anything else accompany this…slurring?
+PATIENT: Hmm… let me think. Sometimes my words… feel a bit mixed up, too. Not a lot, but enough that my husband has to ask me to repeat myself. And, now that you mention it… maybe a little bit of dizziness? It's not constant, and it’s not bad dizziness, just… a little unsteady sometimes. I don’t know if that's related, though. Everything feels a bit… foggy, if that makes sense.
+DOCTOR: Foggy. We'll get to the bottom of this. Do you have any relevant past medical history?
+PATIENT: Oh, goodness. That’s a hard question. I… honestly, I don’t remember much about past illnesses. I’ve always been fairly healthy, I think. I had the usual childhood things, I suppose. Nothing serious. I have Medicare, so I’ve seen doctors before, but I don't really recall specific diagnoses or anything. I’m sorry. Is that…helpful?
+DOCTOR: Not particularly. Any surgeries?
+PATIENT: No, no surgeries. Definitely not. I… I would remember that, wouldn't I? I've never had anything like that. Just the regular check-ups and things. I really don’t have a good memory for things like that, I'm afraid. My husband usually handles all of that sort of thing.
+DOCTOR: Alright. And what about family history?
+PATIENT: Oh, family history… My mother… she had high blood pressure, I believe. And my grandfather… on her side… he had something with his heart, maybe? I'm not sure, really. I wasn't very close to him, and my mother didn't talk about it much. It was a long time ago. I don’t know a lot of details, I’m sorry. Is that…enough?
+DOCTOR: Barely. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh, goodness no! Absolutely not. I don't smoke. I might have a small glass of wine with dinner occasionally, but that's it. And definitely no drugs. Never have, never will. I work in construction management, you know? Need a clear head for that.
+DOCTOR: Alright. And are you currently taking any medications, even over-the-counter ones?
+PATIENT: Um… let me think. I take a multivitamin, sometimes. And… occasionally, ibuprofen for a headache. But that’s it, really. Nothing regularly. Just the basics. I don't really like taking pills if I can avoid it. Is that…helpful? I’m really trying to remember everything.
+DOCTOR: Fine. Let's do a quick neurological exam. Please follow my finger with your eyes, but don't move your head.
+PATIENT: Okay, yes. I can do that. Is this alright? I'm a little worried this might make me dizzy.
+DOCTOR: No obvious deficits noted. Now, can you smile for me?
+PATIENT: Okay. Like this? Is that alright? I hope I'm doing this correctly. I get nervous during these things.
+DOCTOR: Facial symmetry appears intact. Now, stick your tongue out.
+PATIENT: Okay. Is this alright? It feels a bit strange, I must admit. I hope I’m not doing anything wrong.
+DOCTOR: Tongue midline. Now, I'm going to check your reflexes. This might be a little startling.
+PATIENT: Oh. Okay. Startling, you say? That doesn't sound very pleasant. I hope it won't be too bad. I'm a little afraid of things like this, I must admit.
+DOCTOR: Patellar reflexes 2+ bilaterally. Now, can you squeeze my hands as tightly as you can?
+PATIENT: Okay. Like this? Is that alright? I'm trying to squeeze as hard as I can. It’s a bit difficult, actually.
+DOCTOR: Grip strength appears normal bilaterally. All right. Now, let’s listen to your heart and lungs. Please take a few deep breaths.
+PATIENT: Okay. Is this alright? I hope I'm breathing deeply enough. I sometimes forget to breathe properly when I get nervous.
+DOCTOR: Lungs clear to auscultation bilaterally. Heart sounds regular rate and rhythm, no murmurs appreciated. Alright. Based on this preliminary exam, it’s difficult to pinpoint a specific cause. The symptoms are…vague. Given the gradual onset and intermittent nature, and lack of any clear neurological deficits, it could be a number of things.
+PATIENT: Oh. That…doesn’t sound good. A number of things? What sort of things? Is it something serious? I'm starting to feel a bit frightened, to be honest.
+DOCTOR: It could be anything from a mild viral illness to…well, several other possibilities. I’m not prepared to speculate without further investigation. We need some blood work to rule out common causes, and I’d like to order an MRI of the brain just to be certain. I’ll also refer you to a neurologist for a second opinion. They specialize in these sorts of things.
+PATIENT: Oh. An MRI… and a neurologist… That sounds…serious. Is it something really bad? I mean, is it something I should be very worried about? I don’t like the sound of this at all.
+DOCTOR: Ms. Swaby, it is standard procedure to investigate unexplained neurological symptoms. I am not saying you have anything to be overly concerned about. However, it is my professional responsibility to rule out all possibilities. The MRI is precautionary. The neurologist will provide a more comprehensive evaluation. I’ll have the lab orders and referral information printed for you shortly. It’s best to get this sorted out promptly. Do you have any other questions, or shall we proceed?
+PATIENT: Oh. No… no, I don’t think so. Just… when will I hear back about the results? And… will the neurologist call me directly? I… I’m just very worried. It’s just that I don’t… I don’t understand any of this. It’s all a bit overwhelming.
+DOCTOR: The lab should contact you with the results within a few days. The neurologist’s office will call to schedule an appointment. I've included their contact information on the referral form. Frankly, Ms. Swaby, I’ve done what I can at this stage. Further questions are best directed to the specialists. Is there anything else?
+PATIENT: Oh. No… no, I think that’s all. Thank you… I suppose. I’ll… I’ll go and schedule the appointment then. Thank you again. .
+DOCTOR: .

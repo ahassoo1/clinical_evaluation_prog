@@ -1,0 +1,27 @@
+DOCTOR: Right. Mrs. Kilton, is it?
+PATIENT: Yes, that is correct. Margret Kilton. It is nice to meet you, Doctor… Osga, is it?
+DOCTOR: Osga will do. Look, I’m quite busy today, so let’s just get straight to it. What brings you in?
+PATIENT: Oh, yes, of course. Sorry to take your time. Well, I have been… having trouble breathing, sometimes. Like a whistling sound when I breathe out. It’s been happening for… maybe a week now? Not all the time, but enough to worry me.
+DOCTOR: A week, you say?
+PATIENT: Yes. About a week. It seems to get worse when I walk, even just a little bit. Not bad bad, you understand. Just… more noticeable. I used to be able to walk for miles, you know. As an athletic trainer, I always kept very active.
+DOCTOR: Athletic trainer… right. And any other symptoms along with this… whistling?
+PATIENT: Hmm… let me think. No fever, no cough. I haven't felt sick, just… short of breath. And a little tired, maybe? But I am an older woman, so it's hard to say if that's new. I do feel a bit more winded than usual after doing things, even simple things.
+DOCTOR: Any chest pain?
+PATIENT: No, no chest pain. Not at all. It's just… uncomfortable, the breathing. Like I’m not getting enough air. It doesn’t hurt, just… worrying. Do you need me to explain more?
+DOCTOR: No, no, that's… sufficient for now. Have you noticed any swelling in your ankles or feet?
+PATIENT: Oh! Yes, now that you mention it… a little. They feel puffy at the end of the day. I thought it was just from being on my feet too long, but maybe it’s something else? I do try to put them up when I can, but… sometimes I forget. Old age, you know.
+DOCTOR: Right. Okay. Any history of… heart problems?
+PATIENT: Not that I know of. My father… he had high blood pressure, I think. But he lived to be eighty-five, so it couldn’t have been too bad. I’ve never been told I have a problem with my heart. I try to eat healthy, you know, lots of vegetables. I always tell my patients to take care of their bodies! It's very important.
+DOCTOR: Alright. Let's have a listen to your chest and take a quick look. If you don't mind. Please sit up there.
+PATIENT: Oh, yes, of course. Whatever you need, Doctor. Is there a step stool? My legs aren’t what they used to be.
+DOCTOR: There is one over there. Hurry up, please. I have other patients waiting.
+PATIENT: Oh! Thank you, Doctor. I am ready when you are.
+DOCTOR: Take a deep breath… and exhale. Again. Hmm. Wheezing is present bilaterally. Reduced breath sounds at the bases. Your oxygen saturation is… acceptable. But you're clearly having some difficulty.
+PATIENT: Oh dear. That doesn't sound good, does it? “Wheezing”? What does that mean exactly? Is it serious? I am a bit worried now, Doctor. I just want to be able to breathe normally again.
+DOCTOR: It could be a number of things. Most likely, it’s just some mild asthma or bronchitis. But given your age, we need to rule out anything more serious. I'm going to order a chest X-ray and a blood test. We’ll check your oxygen levels again, just to be sure.
+PATIENT: Oh. An X-ray… and a blood test? That sounds… thorough. Is it very expensive? My insurance is private, but… you never know. And will the X-ray show what's wrong? I hope it isn't anything too serious, Doctor. I just want to feel better.
+DOCTOR: Look, I'm not an insurance expert. The lab will bill your insurance directly. As for the X-ray, it will give us a better idea of what's going on. It won't necessarily tell us everything. I’m referring you to the radiology department. They’ll call you to schedule an appointment. Here. Go there and get it done as soon as possible. And try to rest. And stop walking so much.
+PATIENT: Oh. Very well. Rest… and no walking. It will be difficult, you know, after being so active for so long. Thank you, Doctor. And… what should I do if I have trouble breathing before I can get the X-ray? Should I go to the hospital? Or call you?
+DOCTOR: If you’re struggling to breathe, go to the nearest emergency room. Don't bother calling me. I have other patients. Next!
+PATIENT: Oh. I see. Emergency room… right. Thank you, Doctor. I… I think that’s all I needed to know. .
+DOCTOR: .

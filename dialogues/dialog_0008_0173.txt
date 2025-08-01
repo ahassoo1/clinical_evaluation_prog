@@ -1,0 +1,34 @@
+DOCTOR: Good morning, Jailenne. I’m Dr. Cumper. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Well, I've been getting chills, and it's been bothering me for a few days now. Not like a fever chill, just…cold. It comes and goes.
+DOCTOR: Okay, chills coming and going for a few days. Can you tell me a little more about those chills?
+PATIENT: Hmm…let me think. They don't really seem to happen at a specific time. Sometimes it's when I’m sitting around, other times I feel them when I'm moving about. It's hard to pinpoint. And it’s not like I’m shivering or anything, just…a cold feeling inside. Does that make sense?
+DOCTOR: Yes, that makes sense. So, it's not associated with a particular activity or time of day. Have you noticed any other symptoms along with the chills?
+PATIENT: Yeah, actually. I’ve been feeling a bit tired, more than usual. And my muscles ache a little, like I’ve been doing a workout or something, but I haven’t. Oh, and I think I had a bit of a headache yesterday, but it wasn't too bad. Just a dull one.
+DOCTOR: Okay, fatigue, muscle aches, and a mild headache along with the chills. Have you had any cough, sore throat, congestion, nausea, vomiting, or diarrhea?
+PATIENT: No, none of that. No cough, no sore throat, nothing stuffy. And definitely no stomach issues. Just the cold feeling, tired, and a bit achy. I did sleep a little strangely last night, kept waking up, but that happens sometimes.
+DOCTOR: Alright. And have you taken your temperature at all since these symptoms started?
+PATIENT: No, I haven’t. I don’t really keep a thermometer around, to be honest. I just figured it wasn’t a fever thing, you know? Because I haven’t felt feverish.
+DOCTOR: Okay, no thermometer reading. Let’s take a look at your chart here… I see you’ve had a general check-up about a year ago, everything was normal then. Any known allergies I should be aware of?
+PATIENT: No allergies that I know of. Never had a reaction to anything, thankfully. I eat pretty much everything. My mom always joked I had a cast-iron stomach!
+DOCTOR: Good to know. And are you currently taking any medications, including over-the-counter medications or supplements?
+PATIENT: No, nothing at all. I try to stay away from pills if I can. I drink a lot of water, eat my vegetables, that sort of thing. I really don’t like taking anything unless I absolutely have to.
+DOCTOR: Okay, no medications. Now, a few questions about your medical history, if you don’t mind. Have you had any serious illnesses or surgeries in the past?
+PATIENT: Let me think... I had my tonsils out when I was a kid, that’s about it. Nothing major since then, thankfully. No chronic illnesses, no big surgeries. I’ve been pretty lucky, health-wise. Just the usual colds and flus, like everyone gets.
+DOCTOR: Alright, tonsils out as a child, otherwise healthy. And what about your family?
+PATIENT: My mom’s side has a history of…well, a lot of people with high blood pressure, I think. And my dad, he had diabetes later in life. But nothing really close family-wise that I’m worried about. Both my parents are still around, thankfully, and they're doing okay for their age.
+DOCTOR: Okay, family history of hypertension and diabetes. And lastly, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, none of that. Never smoked a day in my life. I’ll have a glass of wine with dinner sometimes, but I don’t drink often. And definitely no drugs. I’m pretty boring that way!
+DOCTOR: Okay, good. That's helpful to know. Alright, Jailenne, I’d like to do a quick physical exam, if that’s alright with you. Just listen to your heart and lungs, check your throat, and feel your lymph nodes. It shouldn’t take long. Is that okay?
+PATIENT: Yes, that's fine. Go ahead. Whatever you think is best. I trust your judgement, Doctor.
+DOCTOR: Okay, let’s start with your heart and lungs. Take a nice, deep breath for me…and another one…Good. Your heart sounds regular, and your lungs are clear. Now, can you open your mouth and say “ah”?
+PATIENT: Ahhh…
+DOCTOR: Your throat looks a little bit red, but nothing too concerning. No obvious signs of infection. Now, I’m going to gently feel your lymph nodes in your neck. Your lymph nodes feel slightly enlarged, but not dramatically so. They're tender to the touch, though.
+PATIENT: Okay. That feels…a little sore, yeah. But not awful. Is that…bad? I'm not usually one to go to the doctor unless something's really wrong. I'm a bit worried now, to be honest.
+DOCTOR: It's okay to be worried, Jailenne, but let's not jump to conclusions. Slightly enlarged and tender lymph nodes, combined with the fatigue, chills, and mild headache, could suggest a few things. It could be a viral infection, like a common cold or the flu, even though you don’t have a cough. It could also be something else, but I don't think it's anything immediately alarming. To be on the safe side, I'd like to order a complete blood count, or CBC, to check for any signs of infection or inflammation. Does that sound alright?
+PATIENT: Yes, that sounds good. A blood test sounds sensible. I'd rather be safe than sorry. How long will it take to get the results? And do I need to do anything special to prepare for it?
+DOCTOR: Good. The lab is just down the hall, and they can draw the blood right away. You don't need to fast or anything special. It usually takes about 24 to 48 hours to get the results back. We can call you with the results, or you can check the patient portal on our website. While we’re waiting for those results, I recommend getting plenty of rest, drinking lots of fluids, and taking over-the-counter pain relievers like ibuprofen or acetaminophen if you have a fever or muscle aches. Does that all sound good?
+PATIENT: Yes, that sounds perfect. Plenty of rest and fluids, I can definitely do that. And I'll check the patient portal. Thank you, Doctor. I feel a little better just knowing we're checking things out.
+DOCTOR: You're welcome, Jailenne. I'm glad I could help. We’ll get those results back to you as soon as possible. In the meantime, if your symptoms worsen – if you develop a high fever, severe headache, difficulty breathing, or any other concerning symptoms – please don’t hesitate to call us or go to the nearest emergency room. Do you have any other questions for me today?
+PATIENT: No, I think that covers everything. Thank you again, Doctor Cumper. I appreciate your time and patience. I'll head down to the lab now.
+DOCTOR: You're very welcome, Jailenne. Get some rest, and we'll be in touch soon. Have a good day. .
+PATIENT: Okay, you too, Doctor. Bye!

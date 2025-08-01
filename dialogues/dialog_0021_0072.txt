@@ -1,0 +1,43 @@
+DOCTOR: Right. Ebony Heidenthal, 38. So, what brings you in today?
+PATIENT: Well, it’s a bit embarrassing, to be honest. I’ve been…forgetting things. More than usual, I think. It's just little things, mostly, but it's starting to worry me.
+DOCTOR: "Forgetfulness." Right. It always starts with little things, doesn't it?
+PATIENT: Yeah, that’s what I thought too. Like, I’ll go into a room and…forget why I went in there. Or I'll start telling a story and completely lose my train of thought. It's not all the time, but enough that I noticed. And my sister pointed it out, actually. She said I was repeating myself at dinner last week.
+DOCTOR: Your sister pointed it out. Hmm. Family always notices, don’t they?
+PATIENT: They do! She's…observant, let's say. And honestly, she's probably right. I just brushed it off at first, thinking I was just tired. But it keeps happening, and I figured I should probably get it checked out. It's just…scary, you know?
+DOCTOR: Scary is a good word for it. Well, we'll see what's going on. Let's start with some basics. Do you have any other symptoms?
+PATIENT: Other symptoms… not really. I mean, I've been a little more tired than usual, maybe? But I work long hours, so that’s not that unusual. No headaches, no dizziness… just the forgetting. And the tiredness, I guess. Oh, and maybe a little more easily frustrated than normal. Is that a symptom?
+DOCTOR: Frustration… can be. It's all connected, you know. Alright. And how long has this been going on?
+PATIENT: Hmm. That’s a good question. I think…maybe six months? It started gradually, like. At first it was just occasionally misplacing things, but now it’s…more noticeable. I’d say the last three months it’s really been getting worse. Does that make sense?
+DOCTOR: Three months of progression... alright. And are there any particular times of day when it's worse?
+PATIENT: That's a tough one. I don't think so, really. It seems pretty random. It could be morning, afternoon, evening…it doesn't really seem to matter. Though, if I'm really stressed at work, it definitely feels worse. But that's probably just being stressed, right?
+DOCTOR: Stress can do a lot. Let’s go through your medical history. Any major illnesses or surgeries?
+PATIENT: Not really. I broke my arm when I was a kid, and I had my wisdom teeth out, but that’s about it. I’m generally pretty healthy. I do have a bit of high blood pressure, but it's controlled with medication. And…oh, I had the flu last winter, but everyone gets the flu, right? Nothing else, I don’t think.
+DOCTOR: High blood pressure, okay. What medication are you taking for that?
+PATIENT: I'm taking… Lisinopril, I think it is. 20 milligrams, once a day. I’ve been on it for about five years now. It seems to be doing its job, my doctor checks it regularly.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: No, not that I know of. I’ve never had a reaction to anything. I can take most things without a problem, as far as I’m aware. Is this… is this going to be a long process? I have a patient coming in at 4:30.
+DOCTOR: Well, we have to rule things out, don't we?
+PATIENT: Right, of course. I just… I didn't realize it would be so many questions. Do you think it could be something serious? I mean, what could it be?
+DOCTOR: It could be a number of things. Stress, medication side effects... sometimes it's just normal aging. But we need to rule out anything more concerning. We'll do a quick physical exam, just to get a baseline. Then we can talk about some possible tests. Would that be alright?
+PATIENT: Yeah, that sounds good. A physical exam is fine. I just… I’m a little anxious, to be honest. Is there anything I should be worried about specifically?
+DOCTOR: Don’t jump to conclusions, alright?
+PATIENT: Okay. Easier said than done, though. But… yeah, you’re right. Don’t jump to conclusions. What kind of physical exam are we talking about? Just the usual stuff? Blood pressure, reflexes…?
+DOCTOR: Just the basics. Neurological check, reflexes, vital signs... I want to listen to your heart and lungs. Standard stuff. If anything stands out, we'll investigate further. Let's start with your blood pressure. Please, have a seat.
+PATIENT: Okay. Just let me know if I need to do anything special. I'm not great with medical stuff, honestly. I usually just… tell people what hurts.
+DOCTOR: You tell me what hurts, I'll figure it out. Now, relax your arm for me. Don’t talk while I’m taking your reading.
+PATIENT: 
+DOCTOR: 142 over 88. A little elevated, but not terrible. Alright. Now, let's listen to your heart. Take a deep breath for me. Heart sounds are regular, no murmurs. Lungs are clear. Now, I'm going to check your reflexes. Please relax. Reflexes are 2+ bilaterally. Good. Now, can you follow my finger with your eyes without moving your head?
+PATIENT: Yes, I can. No problem. Is everything okay so far? You seem… focused. Is something wrong?
+DOCTOR: Just being thorough. Now, I want you to squeeze my hands as tight as you can. Good strength. Now, can you tell me today's date?
+PATIENT: Today's date… August 2nd… 2025, right? Is that right? I'm usually pretty good with dates...
+DOCTOR: Alright. Now, let's do a short memory test. I'm going to say three words, and I want you to repeat them back to me after I finish. Ready?
+PATIENT: Yes. Ready. Go ahead.
+DOCTOR: Okay. The words are: apple, table, penny. Remember those. Now, I’m going to ask you a few questions about your medical history, and then I’ll ask you to repeat the words. Can you repeat the words now?
+PATIENT: Apple… um… table… and… oh dear. What was the third one? I’m so sorry. It’s right on the tip of my tongue… It started with a… a ‘p’?
+DOCTOR: Don't worry about it. It happens. It's just a quick test. Now, we'll need to run some blood work to rule out any underlying issues. Also, I think an MRI of the brain would be a good idea. Are you comfortable with that?
+PATIENT: An MRI… as in, in one of those machines? I’ve heard those are… loud. And… claustrophobic. Is it really necessary?
+DOCTOR: It's the best way to get a clear picture of what's going on. We need to rule out anything structural. You can get mild sedation if you're anxious. It's a precaution. We'll also check your vitamin B12 levels and thyroid function, just to be thorough. Do you have any questions?
+PATIENT: Vitamin B12… and thyroid… Okay. I guess… I guess that makes sense. Sedation… yes, please. If I have to do it, I'd definitely want sedation. Will the MRI show… you know… if something is really wrong? Like, something serious?
+DOCTOR: It will show if there are any abnormalities. It doesn’t automatically mean anything is wrong. We'll discuss the results when they are available. Let's get the lab order and MRI scheduled. My assistant will handle that for you. Do you have any other concerns before we finish?
+PATIENT: No… I think that’s all. Just… try to be quick, please. This is really unsettling. Thank you, Doctor.
+DOCTOR: Alright. We’ll get this sorted as quickly as possible. My assistant will explain everything. Have a good day. .

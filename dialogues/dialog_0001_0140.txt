@@ -1,0 +1,22 @@
+DOCTOR: Alright, Mr. Schieber, good to see you… I guess. So, what brings you in today?
+PATIENT: Yes, well. It’s… unpleasant. Something in my mouth. White patches. Quite bothersome, actually. I haven’t much time for this, you understand.
+DOCTOR: White patches, huh?
+PATIENT: Yes, white. Not some other color, Doctor. It’s… it’s difficult to eat, and frankly, it’s rather embarrassing. Is this going to take long? I have… commitments.
+DOCTOR: Right, right. Commitments. Look, I need a little more to go on than “white patches.” How long have they been there?
+PATIENT: Oh, honestly? I don’t keep meticulous records of my oral flora, Doctor. Perhaps a week? Maybe a little longer. It hardly seems relevant. It just appeared. And as I said, it’s uncomfortable.
+DOCTOR: A week… okay. Any pain?
+PATIENT: Of course there’s pain! It feels like… well, like something is wrong in my mouth. A burning sensation, mostly. It's not a pleasant experience. Must we go through every minor detail?
+DOCTOR: Alright, alright. Any fever?
+PATIENT: Fever? I haven’t taken my temperature. I don’t generally go around monitoring my core body temperature unless I feel… terribly ill. Which, thankfully, I am not. This is simply a nuisance, really. Is there a quick remedy for this, or… ?
+DOCTOR: Let’s just take a look, alright?
+PATIENT: Very well. But do be quick about it. I truly don't have all day. And please, try not to poke too much. It's quite sensitive.
+DOCTOR: Open wide. And try to relax. This will be faster if you cooperate. Hmm… yes, I see them. Quite prominent. Any difficulty swallowing?
+PATIENT: Somewhat, yes. It feels… constricted. As if something is blocking the passage. It’s hardly life-threatening, Doctor. Are you certain you’ve dealt with something like this before? It feels… uncommon. Is it contagious, by any chance? My wife would be most displeased.
+DOCTOR: Constricted… okay. It could be thrush. Very common, actually. And yes, it can be contagious, though usually not a major concern with good hygiene. Have you been using any new mouthwashes or inhalers recently?
+PATIENT: Mouthwashes? No. Inhalers… well, my wife insisted I try one for a slight cough I had last month, but I found it unpleasant and discontinued its use promptly. It tasted… medicinal. Would that have caused this? It seems… preposterous. This is surely something more serious.
+DOCTOR: Alright. Let's not jump to conclusions. It could be the inhaler. It disrupts the natural flora in your mouth. I’m going to write you a prescription for an anti-fungal mouthwash, okay?
+PATIENT: A mouthwash? That’s it? Is that truly sufficient? I was hoping for a more… definitive solution. Still. If you insist. As long as it doesn't taste dreadful. And can we be certain it won’t interfere with my other… obligations? A metallic taste, for example, would be most unwelcome.
+DOCTOR: Look, it's a reasonable first step. If it doesn't improve in a week, then we can talk about other options. The taste is… minty. Not dreadful. And no, it shouldn't interfere with your… obligations. Just rinse twice a day, after meals. Now, do you have any allergies I should be aware of?
+PATIENT: Allergies? No, nothing significant. A slight reaction to bee stings as a child, but that was decades ago. Really, Doctor, I fail to see the relevance. Is there anything else? I truly must be going. I have a… meeting. A rather important one. And this has taken far longer than anticipated.
+DOCTOR: Alright, alright. Just follow the instructions. If it gets worse, or doesn't improve in a week, schedule another appointment. And please, try to be more proactive about your health. Now, if you’ll excuse me, I have other patients waiting.
+PATIENT: Yes, well. Thank you, I suppose. Though I remain unconvinced of the efficacy of this… treatment. Good day, Doctor. And try to be punctual with your own appointments.

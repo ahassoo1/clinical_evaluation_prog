@@ -1,0 +1,36 @@
+DOCTOR: Alright, Arbin, so you’re here today… what brings you in?
+PATIENT: Oh, hi Doc. Well, it’s kinda strange, but I’ve been really bothered by the light lately. Like, really bothered. It feels like… everything’s just too bright, even on cloudy days. It’s been happening for a couple of weeks now, I think. Maybe three? It’s hard to keep track sometimes, honestly.
+DOCTOR: Hmm. “Bothered by the light.” Okay. And it's been… a few weeks. Right. Is it a pain with the brightness, or just… uncomfortable?
+PATIENT: No, not pain, thankfully. Just… really uncomfortable. Like, it makes my eyes ache, and I get a headache pretty quickly. And it feels like I have to squint all the time. It’s making it hard to read, even. Which is bad, 'cause I kinda need to see things for work, you know? I’m a dental assistant.
+DOCTOR: Dental assistant, alright. So, bright light causing eye ache and headache… and impacting your ability to read. Do you notice it more with certain types of light?
+PATIENT: That's a good question… hmm. I think… yeah, actually. Fluorescent lights are the worst, definitely. Like, the ones in the office? They give me a proper headache. Sunlight isn’t as bad, but it still feels too strong, even with sunglasses. Regular light bulbs, like at home, aren’t too bad though. It's weird.
+DOCTOR: "Regular light bulbs aren't too bad." Alright. And has anything changed recently?
+PATIENT: Changed? Let me think… Not really, not that I can think of. I moved into a new place a couple months ago, but the lights in there are pretty normal, you know? Old-fashioned bulbs. Work’s been the same, same office, same fluorescent lights… Oh! Actually… my wife… she passed away about six months ago. So, things have been… different overall, I guess, but not anything specific with the lights.
+DOCTOR: I see. And I apologize for your loss. It is… understandable that things feel different. But we need to focus on the physical symptoms. Let’s try to rule out any straightforward causes first. Have you noticed any changes in your vision otherwise?
+PATIENT: Oh, no worries, Doc. Thanks. And yeah, you’re right, gotta focus on what’s going on with my eyes. Um… changes in my vision? Not really. Everything looks clear, I think. Maybe a little blurry when I’m really tired, but I figured that was just… being tired. I haven’t needed to get a new glasses prescription or anything. Everything’s been pretty stable, as far as I can tell.
+DOCTOR: Alright. And any other symptoms?
+PATIENT: Hmm… let me think. No… not really. I haven’t been feeling sick or anything. No blurry vision, no spots, no double vision. No pain… just the headache and the uncomfortable feeling with the light. Oh! Wait… sometimes my eyes feel… gritty? Like there's something in them, even when there isn't. It happens mostly in the morning, I think.
+DOCTOR: "Gritty" feeling in the mornings. Okay. Well, we should probably take a look. If you don’t mind, I’d like to do a quick eye exam. Just to check the basics. It's unlikely to be anything serious, but better to be sure. Do you have your glasses with you?
+PATIENT: Yeah, sure, that sounds good. I appreciate you checking things out. And yeah, I have them right here. Here you go.
+DOCTOR: Alright. If you’ll just sit here, and look straight ahead. We'll start with your visual acuity.
+PATIENT: Okay, sounds good. Just let me know if I need to do anything special. I'm a bit nervous, Doc, but I trust you.
+DOCTOR: Alright. Read the smallest line you can see. One eye at a time. Don't strain. Just tell me what you see.
+PATIENT: Okay… um… let me see. …E… F… P… T… … Okay, I can see those. But they’re kinda blurry, to be honest. Is that bad?
+DOCTOR: Not necessarily. We'll check the other eye. Now, cover your left eye with your hand. And read the chart again. Start with the top line if you need to.
+PATIENT: Okay, covering my left eye now. …Um… okay. Top line… then… R… W… T… D… P… … O… is that an O? It’s kinda fuzzy. I can see some of the letters, but not all of them very clearly.
+DOCTOR: Alright. Now, I'm just going to shine this light in your eyes, one at a time. It won't hurt. I'm checking your pupillary response. Just look straight ahead.
+PATIENT: Okay, sounds good. Just let me know if it’s too bright. It’s a little bright, but I can handle it. It’s not as bad as the fluorescent lights, thankfully.
+DOCTOR: Pupils are normal size and reactive. Now, I’m going to briefly assess your extraocular movements. Just follow my finger with your eyes, don’t move your head.
+PATIENT: Okay, following your finger. Up and down… and around… this way? Is that okay? I'm trying not to move my head, Doc.
+DOCTOR: Alright. Everything seems normal so far. Now, I’m going to use a slit lamp to examine the front of your eyes. It's just a magnified light. This will give me a better look at your cornea and other structures. Don't worry, it won’t touch your eye.
+PATIENT: Okay… a slit lamp, got it. As long as it doesn’t touch my eye, I’m good. Just let me know if I need to do anything. Is there anything I should be focusing on?
+DOCTOR: Just relax and keep looking straight ahead. Hmm. There’s some mild superficial punctate keratitis. And some dryness. Not severe, but noticeable.
+PATIENT: Punctate… keratitis? And dryness? What does that mean, Doc? Is it something serious? Should I be worried?
+DOCTOR: It's not serious, no. It just means there are some small spots on your cornea, likely due to dryness or irritation. It's quite common, especially with prolonged screen time or dry environments. Your symptoms—light sensitivity, gritty feeling, headache—are consistent with this. It's probably causing a bit of corneal inflammation, which is why the light bothers you. It’s unlikely to be a major problem.
+PATIENT: Okay… that’s… reassuring. So, it’s not something terrible? Is there anything I can do about it? Like, eye drops or something?
+DOCTOR: I’ll prescribe you some artificial tears. Use them four times a day. And I recommend taking breaks from screens, blinking frequently, and using a humidifier if your environment is dry. Avoid rubbing your eyes. If it doesn't improve within a week or gets worse, come back and we'll reassess. But honestly, it’s likely just dryness. Don't overthink it.
+PATIENT: Okay, artificial tears four times a day, take breaks from screens, blink more, humidifier… and don’t rub my eyes. Got it. That sounds… manageable. Thank you, Doc. I really appreciate you figuring out what’s going on. And for not making me worry too much.
+DOCTOR: Right. I’ll send the prescription to your pharmacy. Is there anything else I can help you with today?
+PATIENT: No, I think that’s everything. You’ve been a great help, Doc. Thank you again for seeing me. I’ll pick up the eye drops and try to follow your advice. Hopefully, they’ll do the trick.
+DOCTOR: Good. Get well. Don't hesitate to call if things worsen.
+PATIENT: Okay, I will. Thank you again, Doc. Have a good day.

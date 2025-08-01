@@ -1,0 +1,32 @@
+DOCTOR: Well, hello there, Mr. Goodstein. I’m Dr. Havird. So, what brings you in to see me today?
+PATIENT: Good day, Doctor Havird. It is very nice to meet you. I am here… well, it is a bit embarrassing to discuss, but I have… a lot of gas. Too much, I think. It is causing me some… discomfort.
+DOCTOR: Right. Gas. Yes. Many things can cause that. Discomfort… can you be a bit more specific about the discomfort, Mr. Goodstein?
+PATIENT: Certainly, Doctor. It is mostly… bloating. My stomach feels very full, even after not eating much. And it… moves around. Sometimes it is on the left side, sometimes the right. It doesn't hurt hurt, just… uncomfortable. Like a balloon, perhaps? And… well, the passing of gas is… frequent.
+DOCTOR: A balloon, alright. Frequent, you say. And it shifts around… hmm. Okay. And how long has this been going on?
+PATIENT: Let me think… it has been… perhaps three weeks now? It started… gradually, I believe. At first it was just a little more than usual, but it has gotten… worse over time. Three weeks, I would say. Yes. And it seems… worse after I eat.
+DOCTOR: Three weeks… and definitely related to eating. What specifically are you eating, Mr. Goodstein?
+PATIENT: That is a good question, Doctor. I mostly eat… simple foods. I have a small apartment, so I cannot cook much. Usually sandwiches, sometimes soup from the store. Bread is a regular, and… I drink a lot of soda. Also, I have a fondness for… beans. Perhaps that is it? I do enjoy beans.
+DOCTOR: Soda and beans, you say. Right. Well, those can contribute. But we need to rule out other things. Any recent changes to your diet besides what you've mentioned?
+PATIENT: No, Doctor, not that I recall. Everything has been… the same for a very long time. Sandwiches, soup, soda, occasionally beans. I do sometimes have a small piece of fruit, like an apple. But that is… infrequent. No, nothing different. I am quite a creature of habit, you see.
+DOCTOR: Alright. And any… other symptoms at all?
+PATIENT: Other symptoms? Let me consider. No… no stomach pain, like a burning. No… nausea. No… I have not been feeling… unwell, just… bloated and gassy. No change in… my bowel habits, if you understand what I mean. I am not… constipated, nor… the opposite. Just… the gas.
+DOCTOR: Okay. No pain, no nausea, bowel habits normal. Alright. And any family history of… digestive problems?
+PATIENT: That is… a difficult question, Doctor. My mother… she had some… troubles. Not with gas, specifically. She had a sensitive stomach, I believe. She complained of… discomfort often. My father… I do not recall him having any troubles. He ate everything. Yes. My mother had the sensitive stomach, though.
+DOCTOR: Sensitive stomach… alright. And have you had any surgeries or serious illnesses in the past?
+PATIENT: No, Doctor. I have been… quite healthy, all my life. Nothing serious. A few colds, of course, and the occasional… flu. But nothing that required… surgery. I have been very lucky, I think. I have avoided all serious illnesses.
+DOCTOR: Alright. Now, I’m going to do a quick physical exam, just to rule out anything obvious. Is that alright?
+PATIENT: Certainly, Doctor. That sounds… sensible. Yes, please do. I have nothing to… hide. I am ready when you are. I trust your judgment completely.
+DOCTOR: Good. If you could lie down on the table, please. I'm going to listen to your abdomen, and just gently feel around. Tell me if anything feels particularly uncomfortable, alright?
+PATIENT: Very well, Doctor. Please, begin when you are ready. I will inform you of any discomfort immediately, as you requested.
+DOCTOR: Okay… Deep breaths, please. In… and out… Alright. Not much in the way of unusual sounds… Any tenderness here?
+PATIENT: No, Doctor. That feels… normal. Perhaps a little pressure, but no… pain. Just the usual… fullness. That does not… hurt.
+DOCTOR: And here?
+PATIENT: No, Doctor. Still no… pain. A bit of… bloating, I suppose. Like a… balloon, as I said earlier. It is… uncomfortable, but not… painful. On the left side it feels a little… tighter, perhaps. But nothing I would describe as… hurt.
+DOCTOR: Alright. Just a bit of tightness on the left… Okay. Everything seems… reasonably normal to palpation. Not much in the way of acute findings. Given your history and the exam, it sounds like you’re likely experiencing excessive gas, possibly due to your diet.
+PATIENT: That is… relieving to hear, Doctor. So… it is not something serious? Perhaps I should… reduce my soda consumption? And… limit the beans?
+DOCTOR: Likely not serious, no. Reducing soda—absolutely. It introduces a lot of air. And beans… well, they're known gas producers. Try cutting back on those for a week or two and see if it makes a difference. Also, try to eat slowly, and avoid carbonated beverages altogether. We can also consider an over-the-counter simethicone product, like Gas-X, if you're particularly uncomfortable.
+PATIENT: That sounds… reasonable, Doctor. I can certainly attempt that. Less soda… less beans. And I will look into this… simethicone. Do you have any… recommendations for brands?
+DOCTOR: Any brand will do, really. Gas-X is a common one, but there are generics that work just as well. Look in the digestive health aisle at the pharmacy. If it doesn't improve after a week or two of dietary changes and the simethicone, or if you develop any other symptoms—like abdominal pain, nausea, vomiting, blood in your stool, or unexplained weight loss—please come back immediately. It's best to rule things out.
+PATIENT: Certainly, Doctor. I understand completely. No new symptoms, and I will focus on less soda and beans. Thank you for your… patience, and for explaining everything so clearly. I feel much better now.
+DOCTOR: You’re welcome, Mr. Goodstein. Try those changes, and we'll see how you do. Here’s a handout on managing gas and bloating. If you have any questions, don’t hesitate to call the clinic. Have a good day.
+PATIENT: Thank you kindly, Doctor Havird. I will read this carefully. And again, I appreciate your time and… advice. Have a pleasant day to you as well. .

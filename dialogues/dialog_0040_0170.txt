@@ -1,0 +1,25 @@
+DOCTOR: Right, Mr. Putney, yes. Forty-nine. Okay. So, what brings you in today?
+PATIENT: Life insurance thing. Medical exam. Gotta get it done. The sooner the better, really.
+DOCTOR: A life insurance exam. Right. Well, we'll try to be quick. It’s… paperwork mostly, but I still need to ask a few questions. Just standard things. Don’t make this complicated, alright?
+PATIENT: Yeah, no, I get it. Just wanna get it over with. Ask away. I’ll answer as best I can.
+DOCTOR: Alright. Let’s start with… any significant medical problems you’ve had?
+PATIENT: Hmm… significant? Well, I had my appendix out when I was a kid. That was… a long time ago. Other than that… not really. I get a little achy sometimes, you know, getting older. But nothing a little rest doesn’t fix. Does that count?
+DOCTOR: "A little achy." Right. Okay. And when you say "sometimes," how often are we talking?
+PATIENT: Oh, jeez. Not every day. Maybe… a couple times a month? Mostly when the weather changes. My joints, you know? Old sports injury, I think. Played a lot of basketball when I was younger.
+DOCTOR: Basketball. Figures. Any pain medication for this… achiness?
+PATIENT: Nah. I don't really take anything. Like I said, just rest. Maybe some ibuprofen if it's really bad, but that's it. Maybe once or twice a year.
+DOCTOR: Ibuprofen… wonderful. Alright. Any allergies to medications, food, or anything else?
+PATIENT: Nope. Never had any allergies that I know of. I eat pretty much anything. My wife used to make all sorts of stuff… before. Never had a reaction to anything.
+DOCTOR: Okay, good. Let’s skip the family history then. Not relevant. Any current medications you're taking?
+PATIENT: Like I said, just the occasional ibuprofen. That’s it. Nothing regular. I don’t like taking pills if I can avoid it.
+DOCTOR: Fine. Alright. Let's do a quick physical exam. Just basic stuff, don’t worry. Blood pressure, pulse, listen to your heart and lungs. Standard. Sit up straight.
+PATIENT: Okay, sure. Whatever gets this over with quicker. Go ahead.
+DOCTOR: 140 over 90. Not ideal. A little… irregular. Nothing major, probably just anxiety. Clear. Soft. No tenderness. Alright. Weight is… 97 pounds?
+PATIENT: Uh, yeah. That’s right. I've been… losing a little weight lately, actually. Stress, I guess. It’s been a rough year. But yeah, 97. Is that a problem?
+DOCTOR: 97 kilograms, Mr. Putney. Not pounds. And yes, it's a problem. That puts your BMI well into the obese range. We'll need to document this. And I'm going to order some basic blood work. Cholesterol, glucose, just to get a baseline. Routine.
+PATIENT: Oh! Kilograms. Right. Sorry, brain’s a little foggy. Yeah, I… I know I’ve put on some weight. Been meaning to get to it. Blood work? Okay, sure. Whatever you think is necessary. Just let me know when and where.
+DOCTOR: The lab is down the hall, room 3. They’ll need a requisition form, which I’ll print out for you. Fasting blood work, so no eating or drinking after midnight tonight. Here. And honestly, Mr. Putney, you need to consider lifestyle changes. Diet, exercise… it’s all connected. This isn't just about the life insurance. This is about your health.
+PATIENT: Yeah, I know, I know. I keep hearing that. Look, things have been… complicated. My divorce, you know? It kinda knocked the wind outta me. I’ll try, okay? I promise. Just… gotta get through this exam first. Thanks. Where do I go for this blood work exactly?
+DOCTOR: Down the hall, room 3. Can’t miss it. They’ll take your insurance card. Honestly, it’s pretty straightforward. Alright, I think that’s everything for now. Just get the blood work done, and we’ll review the results next week. I'll schedule a follow-up. Don't bother calling unless something is urgent. Do you have any other questions?
+PATIENT: No, I think that's it. I mean, I wish it was easier, but… no. Thanks for getting this done. I'll go do the blood work now. Room 3, right? Thanks again. .
+DOCTOR: Yes, room 3. And try to eat something healthy tonight. Honestly, some people… .

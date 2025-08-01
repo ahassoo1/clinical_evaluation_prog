@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Brum. I’m Dr. Korrell. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. It’s… my head. Back of my head hurts. Been hurting a few days now. Not… real bad, but enough to bother me. Feels like a… pressure, maybe?
+DOCTOR: Pressure, you say. And how many days precisely has this been going on?
+PATIENT: Hmm… let me think. Started… maybe Tuesday? Yes, Tuesday. August first was Tuesday, right? So, three days. Three days now the headache’s been with me. Not all the time, you understand. Comes and goes.
+DOCTOR: Tuesday… alright. And would you describe it as a constant pressure, or does it come in waves?
+PATIENT: Waves, I think. Not… steady. It’ll be gone for a little bit, then come back. Like… a little thump, then quiet. Then thump again. Not a big thump, you understand. Just… noticeable. It’s hard to explain.
+DOCTOR: A “thump,” you say. Interesting. And is this headache associated with anything else?
+PATIENT: Associated… you mean, does something make it happen? Well… I been working pretty hard at the rail yard. Lots of lifting. Maybe that? I’m old, you know. Things don't bounce back like they used to. But I don’t know for sure. It just… started after a long shift.
+DOCTOR: Lifting, you say. And any other symptoms along with the headache?
+PATIENT: No… not really. Maybe a little tired. But I am ninety years old! It’s hard to tell what’s from the headache and what’s just… being me. No blurry vision. No… dizziness. Nothing like that. Just the head pain. Back of the head.
+DOCTOR: Alright. And have you had any fever, or experienced any nausea or vomiting with this headache?
+PATIENT: No, Doctor. No fever. And no… sick to my stomach. Nothing like that. I eat okay. My appetite is… not the best, but that’s been true for a while. It's not a new thing. Just the headache, really. It's just… worrying me a little. I don’t like feeling this.
+DOCTOR: Alright. Let’s have a look at your blood pressure and do a quick neurological exam, just to be thorough. It’s standard procedure.
+PATIENT: Okay. That sounds… good. Whatever you think is best, Doctor. I trust your judgement. What… what does the exam involve? Is it… painful? I don't like needles.
+DOCTOR: No needles, Mr. Brum. It’s just a series of simple tests – checking your reflexes, strength, and coordination. We'll also look at your eyes. It shouldn't be uncomfortable at all. Just follow my instructions. Please, have a seat here on the table.
+PATIENT: Okay… okay. I can do that. Simple tests. Good. Just tell me what to do, Doctor. I'll try my best. My memory isn't what it used to be, but I'll remember what you say, I think.
+DOCTOR: Alright, let's start with your reflexes. Please relax your arm. I’m just going to tap on your tendon here. This won’t hurt, just a quick tap. And the other side now... Good. Those are… diminished, but not alarming for your age. Now, can you squeeze my hands as tightly as you can?
+PATIENT: Like this, Doctor? Is that… tight enough? I’m trying. My hands are a little stiff, you know. From the work. Years and years of work. Am I doing it right?
+DOCTOR: Yes, that’s fine. And now, can you follow my finger with your eyes, without moving your head?
+PATIENT: Like this, Doctor? Is that… good? It's a little hard, you know. My eyes get tired easily. And sometimes… sometimes they don't want to go where I tell them to. It’s just old age, I suppose. Am I… messing it up?
+DOCTOR: Alright. Well. Given your age and the diminished reflexes and mild tracking issues… it’s not entirely unexpected. But the headache, with the reported lifting… it’s concerning enough to warrant some imaging. We need to rule out anything serious.
+PATIENT: Imaging? What kind of… imaging? Like… a picture of my head? Is it dangerous? I don’t like being… poked and prodded. And is it expensive? I don't have insurance, you see. It’s just me, now. My wife… she’s gone.
+DOCTOR: Yes, it's a picture of your head – a CT scan. It’s not painful, just a quick scan. The primary concern is to rule out any bleeding or other structural issues. As for the cost… I’m aware you’re uninsured. I’ll write a referral to St. Jude’s hospital. They have financial assistance programs. It's the most responsible course of action. We need to know what we are dealing with before proceeding. I'll also prescribe you a mild pain reliever in the meantime. But that's just symptomatic relief. It won't address the underlying cause.
+PATIENT: Okay… a picture. And financial help. That's… good. St. Jude's… I've heard of them. Kind people, I think. Bleeding… you think there might be bleeding? That sounds… bad. My wife… she had a bad fall once. I don’t want… I don't want that again. Is it… serious, Doctor? Really serious?
+DOCTOR: Mr. Brum, I’ve explained that it’s to rule out bleeding. We don't know if there is any bleeding. That’s the point of the scan. Worrying prematurely won't help. The headache, combined with your history and the physical findings… it necessitates further investigation. It's standard procedure. Now, I'll write the referral and the prescription. Do you have any allergies to medications?
+PATIENT: No allergies, Doctor. Never had any. Just… old. That’s all. Just very, very old. A picture… and then we'll see. I trust you, Doctor. Do what you think is best. Just… please be quick. I don’t like waiting. Makes me anxious.
+DOCTOR: Alright, Mr. Brum. Here’s the referral to St. Jude’s and a prescription for acetaminophen. Take two tablets every six hours as needed for pain. The hospital will contact you to schedule the CT scan. It’s best to get it done as soon as possible. I’ll also write a brief work note excusing you from heavy lifting for the next week, pending the scan results. Any questions?
+PATIENT: No… no questions, Doctor. Just… thank you. For everything. I appreciate your help. I really do. I'll go make the appointment at St. Jude's tomorrow. Thank you again, Doctor Korrell. .
+DOCTOR: Very well. Get it done quickly.

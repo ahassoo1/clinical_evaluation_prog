@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Mr. Radillo. I am Dr. Jules. Now, please, try to be concise. What brings you in today?
+PATIENT: Good morning, Doctor Jules. It is good to meet you. I have… a problem with my ear. It is leaking something. Not much, but it is there. For maybe three days now.
+DOCTOR: Leaking, you say. Three days. Hmm. Is it… pus?
+PATIENT: Pus? I do not know what that is, Doctor. It is… clear, mostly. Sometimes a little yellow. Not bloody, if that is what you are asking. It does not hurt, but it is… bothersome. Like water trickling.
+DOCTOR: Very well. And is this one ear, or both?
+PATIENT: Only the left ear, Doctor. The right one is perfectly fine. I noticed it after I showered yesterday. I think the water made it more… noticeable. It was already a little wet before, but the shower… it flowed out more.
+DOCTOR: You were showering. And you think that caused it?
+PATIENT: Yes, Doctor. I was washing my hair and then… drip. It is hard to say for sure, but that is when I really saw it. Before that, I just felt… a dampness. A small dampness. I wipe it with a towel each time.
+DOCTOR: Do you experience any pain, pressure, or ringing in the ear?
+PATIENT: No pain, Doctor. Not any. And no pressure. No ringing either. It is… quiet, except when I wipe the water. Then I hear a small… squishing sound. Is that normal? I do not know what is normal.
+DOCTOR: Squishing. Right. Have you had any recent illnesses?
+PATIENT: No, Doctor. Nothing. I feel very good, usually. I had a small cold in February, but that was months ago. Nothing since. I eat well, I sleep well… just this ear. It is… a nuisance, really. Not dangerous, I hope?
+DOCTOR: Let's not jump to conclusions. Have you ever had any problems with your ears before this?
+PATIENT: No, Doctor. Never. I have always had good hearing, even now. My wife… my ex-wife, she always complained she could not hear, but I could always hear everything. This is new. Completely new. I have never had this happen before.
+DOCTOR: And do you use any… earplugs?
+PATIENT: Earplugs? No, Doctor. I am a teacher, at the college. I do not use earplugs. I need to hear the students. They do not always speak very clearly. Why do you ask? Is that… related?
+DOCTOR: Just gathering information, Mr. Radillo. Now, tell me, do you have any allergies?
+PATIENT: No allergies, Doctor. I have eaten everything since I was a small boy. Shellfish, peanuts, nuts… everything. My mother used to make very spicy food, and I eat it all. No problems. Never.
+DOCTOR: Very well. Let’s have a quick look at the ear. Please, sit forward. I will need to use an otoscope.
+PATIENT: Okay, Doctor. I will sit forward. Please be careful. It does not hurt, but I do not want to make it worse. What is an… oto-scope? Is it like a small light?
+DOCTOR: Hmm. There is some fluid present in the middle ear. The tympanic membrane appears slightly… dull. It appears to be otitis media with effusion. Essentially, fluid buildup. Not particularly alarming at this stage.
+PATIENT: Otitis… what-is-media? Effusion? Is that… bad? Will I lose my hearing? I need my hearing for my job, Doctor. The students… they will not understand me if I cannot hear them. Please explain, slowly. What does this mean?
+DOCTOR: It means fluid in your middle ear. It’s not uncommon. It doesn’t necessarily mean you'll lose your hearing, but it can cause temporary muffled hearing and discomfort. Given your profession, we should monitor it. I’m going to prescribe some… a decongestant, to help clear the fluid. If it doesn’t improve within a week, we will need to consider a referral to an audiologist.
+PATIENT: A… decon-gestant? Like a medicine? And if it does not get better, I must see another doctor? An… aud-ee-ologist? Is that one who works with ears? This is all very complicated, Doctor. Will this medicine make me sleepy? I have classes to teach. And what if it does get worse? Will I have to stop teaching?
+DOCTOR: Yes, a medicine. It should not make you excessively sleepy, but read the label carefully. The audiologist specializes in hearing. If it worsens, or doesn't improve after a week, then we'll discuss stopping teaching. Let's not get ahead of ourselves. Here is the prescription. Take as directed. And try to avoid getting water in your ear. Do you have any further questions, or can we be finished here?
+PATIENT: No, Doctor. I think I understand. Mostly. Avoid water. Take the medicine. See another doctor if it gets worse. Thank you, Doctor Jules. I appreciate your time. And your patience. It is… a lot to take in. I will be careful. Perhaps I will stay home and rest this weekend. Just in case.
+DOCTOR: Very well. Take care, Mr. Radillo. And try not to worry unnecessarily. Good day. .
+PATIENT: Good day to you too, Doctor. Thank you again.

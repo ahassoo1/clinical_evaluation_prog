@@ -1,0 +1,41 @@
+DOCTOR: Alright, Mr. Shanor. Good to meet you. So, what brings you in to see me today?
+PATIENT: Uh, yes. Hello Doctor. I… need check for referee. For fitness. I need paper say I okay. For work. Is… for games. I referee basketball.
+DOCTOR: A referee physical, huh?
+PATIENT: Yes. Exactly. Need to… show them I strong enough. Not old. I am 31. But they… want paper. From doctor. So I can… keep working. Is important.
+DOCTOR: Right. Well, we can certainly do a physical. It's… not exactly a typical complaint, but we'll get it done. Just to be clear, you want me to assess your overall fitness to be a referee, not treat an injury from refereeing, correct?
+PATIENT: Yes, yes. Not hurt. Just… check. Make sure I can… run, and see good. No problems. Is good to know before season start. Not after. You understand?
+DOCTOR: Yes, I understand. A preventative physical. Okay. Let’s start with a little bit of your medical history. Have you been seeing a primary care doctor regularly?
+PATIENT: Uh… not really. I… work a lot. And… my wife, she… took care of that. Before. Now… I don’t go much. But I feel okay. Mostly. Is why I am here, right? To make sure I okay.
+DOCTOR: Alright. So, infrequent doctor visits. That's good to know. Have you been hospitalized for anything?
+PATIENT: No. Never. No hospital. I… broke arm when little boy. But not hospital. Doctor… put in cast. That is all. Long time ago. Maybe ten years old? Something like that.
+DOCTOR: Okay, no hospitalizations, a broken arm as a child. Any surgeries?
+PATIENT: No. No surgeries. Never had. Just… cast for arm. That is it. Really. I am… pretty healthy. Just want to be sure. Before season. You know?
+DOCTOR: Right, "pretty healthy". And what about your family?
+PATIENT: Family… my mother, she okay. Old. But… she in China. I… talk to her sometimes. My father… he gone. Long time. And my wife… she… passed away last year. No kids. Is just me now. Is… why I work so much.
+DOCTOR: I see. I'm… sorry to hear about your wife. That must be difficult. Let's stick to medical history, if you don't mind. Does anyone in your family have any significant medical problems?
+PATIENT: Uh… my mother, she have… high blood pressure, I think. Doctor told her. And my father… he had… heart problems. But… I don’t know much. He… sick for long time. Before he… gone. Is not very clear. We… not talk much about it.
+DOCTOR: Okay, high blood pressure in your mother, heart problems in your father. Any allergies to medications, food, or anything else?
+PATIENT: No allergies. Never had. I… eat everything. And… I don't take medicine. Unless… really bad headache. But… not often. Maybe… aspirin. But… that is all. I… don’t like taking pills.
+DOCTOR: Alright. Well, that’s a fairly concise medical history. Now, before we get to the physical exam, are you currently experiencing any symptoms at all?
+PATIENT: No. No symptoms. I feel… tired sometimes. But… that is work. Not… sick. No pain. No… funny feelings. Just… need to make sure I strong enough. For the games. Is important. I don't want to… fall down during game. That would be bad.
+DOCTOR: Alright. Well, we'll do a quick assessment. Let's start with your vital signs: blood pressure, pulse, and temperature. Then we'll listen to your heart and lungs, and do a brief neurological check. Please sit up on the exam table. And… try not to tense up, okay?
+PATIENT: Okay. Yes. I sit. I… try not to tense. Is good. Just… quick, please? I… have work later. Games start soon. I want to be ready. Is that okay? Quick check?
+DOCTOR: Yes, I understand. We'll keep it as brief as possible. Blood pressure is... 130 over 82. Not bad. Now, let me listen to your heart and lungs. Take a deep breath for me... and exhale. Again... deep breath... and exhale. Everything sounds... clear. A little fast, but clear. Now, stand up for me. I'm going to check your reflexes.
+PATIENT: Okay. I stand. Reflexes? Is… like with hammer? I… saw that in movies. Is okay. Do it quick, please? I… not like doctor things very much. Just… need paper. To show them. For games.
+DOCTOR: Yes, like in the movies. Just a quick tap. Okay, both reflexes are present and equal. Now, let’s do a quick strength test. Can you squeeze my hands as tightly as you can?
+PATIENT: Okay. I squeeze. Is strong, I think. I… lift weights sometimes. For arms. Not much. But… I try. Is strong. Enough for basketball? You think? Is that good enough?
+DOCTOR: Adequate. Now, can you push against my hands?
+PATIENT: Okay. I push. Is… is that enough? I… don’t want to hurt you. I… try not to be too strong. Just show you I can… push. For games. Is important. Is that okay?
+DOCTOR: Yes, that's sufficient. Now, let’s do a quick range of motion check. Can you touch your toes?
+PATIENT: Is… okay. Not very good. I… not very flexible. Old muscles, maybe? From work? Is that bad? I… need to show them I can… move. For the games. Is that enough? I… feel little pain in back. But… not much. Is okay?
+DOCTOR: A little stiffness. And the back pain... is that new?
+PATIENT: Uh… not new new. Is… sometimes. When I bend. Or… lift heavy things. But… goes away. I… rub it. And… take little rest. Is okay. Mostly. I… don’t want to make big deal. Just… need paper. To show them I can referee. Is important. Is that bad? The back? Is that too bad?
+DOCTOR: Alright. Well, it could be a minor muscle strain. But without further investigation, I can't be certain. I'm going to recommend an X-ray to rule out anything serious. And I’d like you to follow up with a physical therapist. Do you have any questions?
+PATIENT: X-ray? Physical… therapist? Is that… necessary? I just… need paper. To show them. For games. Is… expensive, maybe? I… don't have much money. Can I… just get paper? If I say I feel okay? I… really need to work. Games start soon. Is that possible? Just… paper. Please?
+DOCTOR: Mr. Shanor, I understand you want a paper to show your employer. However, as a physician, I have an ethical obligation to ensure your health and safety. I can't simply sign off on a physical exam when you’re reporting back pain and haven’t had a proper evaluation. Look, I will write a preliminary note stating you’ve been evaluated, but I strongly recommend you follow up with the X-ray and physical therapy. I'm not comfortable clearing you for strenuous activity without that information. It's irresponsible. Do you understand?
+PATIENT: Irresponsible… yes. I… understand. But… games. Start soon. People… expect me. I… referee for long time. Okay. X-ray… and… physical therapist. But… how long? Is… expensive. And… I have work. Games. Can I… get paper first? And… then do X-ray? Maybe? If I still feel okay? I… really need to work. Please? I… don't want to lose job. Is important.
+DOCTOR: Mr. Shanor, I'm going to write a preliminary note stating you’ve been evaluated with a complaint of back pain and are pending further evaluation with X-ray and physical therapy. This is the most I can do ethically at this time. I will include a recommendation for a prompt appointment. It will be up to your employer to decide if that’s sufficient. I’m also going to provide you with a list of local imaging centers and physical therapy clinics. It’s your responsibility to schedule those appointments. Do you understand?
+PATIENT: Yes. I understand. Pending… evaluation. And… I schedule. List… okay. I… thank you. For paper. And… list. Is… is paper ready now? Can I… see it? Before I go? I… need to show it to them. Soon. Before games. Thank you.
+DOCTOR: Here. It states you were evaluated on August 2, 2025, with a complaint of back discomfort, pending further investigation with X-ray and physical therapy. It also includes my contact information should they have any questions. Please, Mr. Shanor, prioritize those appointments. Your health is more important than a basketball game. Do you have any other questions for me today?
+PATIENT: Okay. Yes. Thank you. No. No questions. I… think that is all. Thank you for… paper. And… list. I… will try. To schedule. Thank you. Have a… good day. .
+DOCTOR: Alright. You too. And… please, take care of yourself. .

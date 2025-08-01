@@ -1,0 +1,21 @@
+DOCTOR: Right. Mr. Brum, is it?
+PATIENT: Yes, Mitchell Brum. That is me. It's good to meet you, Doctor... Ruocco, yes? I think my granddaughter told me your name.
+DOCTOR: Yes, Ruocco. Look, I'm a busy man, so if you could just get straight to the point… What brings you in today?
+PATIENT: Oh, yes, sorry. It's my head. Back of my head hurts. Been hurting for… maybe three days now? Not all the time, but it comes and goes. Like a… a dull ache. Not a bad pain, just… there. I don’t know if that makes sense.
+DOCTOR: Three days. Right. And is this… a new headache, or have you had headaches before?
+PATIENT: Oh, I've had headaches before, yes. But not… like this one. Usually, if I work too hard in the sun, or don't drink enough water, I get a headache. But this… this is different. It’s when I'm resting, mostly. Sometimes even when I’m sleeping. It woke me up last night, actually.
+DOCTOR: Resting headaches… Hmm. Any other symptoms?
+PATIENT: No… not really. I feel a little tired, maybe? Old man tired, you know? But I'm always a little tired. No dizziness, no blurry vision, nothing like that. Just… the ache in the back of my head. And it makes me worry. My wife… she used to get bad headaches. Before… well, before she passed.
+DOCTOR: Right. And your wife's headaches were… similar?
+PATIENT: Similar… yes, I think so. Hard to remember exactly, it's been a long time. But she would get them in the back of the head too. And she would feel very tired. She went to the doctor many times, but they… they never really knew what was wrong. That's why I'm a little scared, maybe. I don’t want… I don’t want the same thing to happen.
+DOCTOR: Look, I understand your concern. But worrying won't help, will it?
+PATIENT: No, you're right. Worrying doesn’t help. My granddaughter always tells me that. But it's hard not to, when I remember… well, never mind. What do you think it is, Doctor? Is it something serious?
+DOCTOR: It could be a number of things. Tension headache, muscle strain… Getting older isn't easy on the body, you know. But we should rule out anything more serious. Let’s take a quick look at your reflexes and a few other things. Then we’ll decide what to do next. Can you follow my finger?
+PATIENT: Yes, I can follow your finger. No problem. I try to keep my eyes sharp, even at my age. I used to need good eyes working on the rail yard, you know. Lots of signals to watch. Is this good? Am I doing it right?
+DOCTOR: Yes, yes, that’s fine. Alright. Now, I'm going to check your reflexes. Relax your arm. Just let it drop.
+PATIENT: Okay, relaxing… Like this? Is that right? I haven’t had my reflexes checked in… oh, goodness, I don’t even remember. Is it supposed to be… quick? It feels a little strange.
+DOCTOR: Hmm. And the other side. Alright. Not much to report there, honestly. A little slow, but that’s to be expected at your age. Now, can you tell me if you’ve noticed any changes in your vision lately?
+PATIENT: Changes in my vision… let me think. Not blurry, not really. Maybe things aren’t as bright as they used to be? And it's harder to read small print. I need my granddaughter to help me with the newspaper sometimes. But that's just getting old, isn't it? I don’t think it's suddenly worse, if that makes sense. It's just been… slow over time.
+DOCTOR: Right. Slow decline. Expected. Look, Mr. Brum, I don't see anything obviously wrong here. It's likely just age-related changes, maybe a bit of tension. I'd recommend some over-the-counter pain reliever for the headaches and try to get more rest. If they get worse, come back and see me. Is that understood?
+PATIENT: So… you don’t know what’s causing it? You think it’s just… old age? I was hoping for… something more concrete. But okay. Pain reliever… and rest. My granddaughter says I don't get enough sleep. I worry a lot, you see. Thank you, Doctor. I appreciate you looking at me. .
+DOCTOR: .

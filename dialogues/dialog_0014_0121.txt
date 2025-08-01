@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. Pipolo, good to meet you. I'm Dr. Osterholm. So, what brings you in today?
+PATIENT: Dry eyes. That’s why I’m here. Been happenin’ a while now. Feels like sand… in ‘em. Don’t like it.
+DOCTOR: Dry eyes, alright. And it feels like sand... hmm. How long has this "sand" feeling been going on, exactly?
+PATIENT: Oh… a long time. Maybe… six months? Hard to say for sure. Time kinda… slips away when you get old. It just got worse lately, that’s for sure. Makes it hard to see when I’m workin’.
+DOCTOR: Six months, okay. And you said it’s interfering with your work?
+PATIENT: Yes ma'am. I'm a cement mason, you see. Lots of dust. Makes it worse. Can't be blinkin' all day, gotta focus on gettin' things level.
+DOCTOR: A cement mason…right. And you're saying you can't blink as much when you're working because you need to concentrate?
+PATIENT: That's right. Gotta get the concrete smooth, see? Can't be stoppin' every few seconds to blink. And the dust… well, it gets everywhere.
+DOCTOR: Alright. So, dust exposure and reduced blinking…that's… common, unfortunately. Have you tried anything to alleviate it already?
+PATIENT: Just… try to ignore it. Doesn’t work real good, though. I don’t know… eye drops? I ain’t never really used nothin’ for my eyes before.
+DOCTOR: Eye drops… yes, well, that’s usually the first step. I suppose. Have you noticed any redness, blurry vision, or pain with your eyes?
+PATIENT: No pain, no. Just… dry. And sometimes, when it’s real bad, things look kinda… hazy. Not blurry, just… not sharp. Like lookin' through a screen door, maybe.
+DOCTOR: Alright, “hazy” vision… interesting. Let's just take a quick look at your eyes, alright?
+PATIENT: Fine. Get it over with. I got things to do.
+DOCTOR: Alright, Mr. Pipolo. Look straight ahead for me. Shines the light briefly in each eye, observing the reflexes, then uses a cotton swab to gently examine the eyelids. Hmm. Palpebral conjunctiva appears a little dry, and there's some mild corneal staining. Looks up from the exam, making notes. Nothing alarming, but definitely signs of dryness. I’m going to check your tear production next.
+PATIENT: Tear… production? What’s that mean? Sounds complicated. You gonna poke me with somethin’?
+DOCTOR: No poking, Mr. Pipolo. It's very simple. I’m going to place a small strip of paper near your lower eyelid and see how much moisture your eyes produce in a few minutes. Just relax. Positions a Schirmer strip in the patient's lower eyelid. Don’t blink for two minutes. Try not to think about it.
+PATIENT: Two minutes?! That's a long time to not blink. Just… hurry up.
+DOCTOR: Just trying to gather information, Mr. Pipolo. Watches the strips, then removes them. Alright. Examines the strips, measuring the wetting. Hmm. Tear production is…low. Not surprisingly. Looks like you have classic dry eye syndrome. We can try some artificial tears to start. Do you have any allergies to medications?
+PATIENT: Allergies? Nope. Never had none. I mostly just… eat what I catch. And don’t bother with fancy things. So, eye drops, huh? What kinda eye drops?
+DOCTOR: We'll start with a preservative-free artificial tear. The preservatives in some drops can actually make dryness worse. I'll write you a prescription for Systane Ultra. Use them four times a day, or as needed. Prints a prescription. If that doesn't improve things in a couple of weeks, we can consider a slightly stronger formulation, or perhaps a plug to block your tear drain. But let's start simple. Any questions about that?
+PATIENT: Plug… in my tear drain? That sounds awful. Look, I just want somethin’ to make my eyes feel better. I ain't wantin’ no plugs. And…Systane Ultra… is it expensive? I ain’t got a lot of money, you know.
+DOCTOR: Mr. Pipolo, we're not talking about plugs yet. I simply mentioned it as a possible future option, should the eye drops not be sufficient. As for the cost… it shouldn't be exorbitant. Checks a database on the computer It's generally around \$15-\$20 a bottle. You can also often find coupons online. The important thing is to address the dryness before it becomes a bigger problem. Now, I’m going to send you to the front desk to schedule a follow-up appointment in four weeks to see how you're doing. Does that sound alright?
+PATIENT: Four weeks? That seems like a long time to wait… but okay. Just… get me outta here. I gotta get back to work.
+DOCTOR: Alright, Mr. Pipolo. The front desk will schedule your follow-up. Try to use the eye drops regularly, and if your symptoms worsen before then, please don’t hesitate to call. Starts typing notes into the chart. Have a good day.
+PATIENT: Okay, okay. Thank you, Doctor. Grumbling quietly Eye drops… hope they work. Starts towards the door.

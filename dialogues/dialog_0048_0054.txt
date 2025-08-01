@@ -1,0 +1,27 @@
+DOCTOR: Right. Mr. Tati, is it?
+PATIENT: Yeah, that's me. Rayshon. Just Rayshon is okay. I got… something with my chest, I think. Been going on a while.
+DOCTOR: "A while." Could you be a bit more specific, please?
+PATIENT: Umm… specific… Okay, okay. I cough a lot. Like, a lot. And I get… tired. Really tired. Even after sleeping. And my nose… it feels blocked all the time, then runny. Then blocked again. It’s… annoying. Happens a lot, maybe a few times a year? I dunno, hard to remember exactly.
+DOCTOR: A few times a year… and this has been going on for how long, exactly?
+PATIENT: Hmm… That’s a good question. A long time. Maybe… two, three years? Maybe longer? I work a lot, don't really keep track of things like that. It just… is. It's always been kinda like this, on and off. More on now, though, I think. It’s worse.
+DOCTOR: Right. Well, it sounds like… something. Do you have any fever, chills, or night sweats?
+PATIENT: Fever…? Not really. I mean, I feel hot sometimes, but I just thought that was from working hard in the sun. No chills… and no… night sweats, no. I sleep pretty normal, I think. Maybe a little sweaty sometimes, but… everyone sweats when they sleep, right?
+DOCTOR: Yes, well. And what about any pain?
+PATIENT: Pain…? Sometimes. Not like, a sharp pain. Just… achey. In my chest, kinda. And my head sometimes, when I got the blocked nose. It feels… full. Like pressure. Not bad enough to take anything for it, usually. Just annoying.
+DOCTOR: Alright. And do you smoke?
+PATIENT: Smoke? No, no. Never smoke. Bad for you, right? I work with tires all day, don't need anything else messing up my lungs. My wife, she doesn't like it either.
+DOCTOR: Do you have any allergies?
+PATIENT: Allergies…? Umm… I don’t know. Maybe? Sometimes my nose gets itchy, and I sneeze a lot when there's dust. But everyone sneezes when there's dust, right? I haven't ever… been tested or anything. Is that what you mean?
+DOCTOR: Right. And what about medications?
+PATIENT: Medications? Not really. Just… painkillers, sometimes. When my back hurts from work. The usual stuff you can buy at the shop. Nothing special. And… sometimes I take something for the blocked nose, the decongestant ones. But it doesn't really help much. Just makes me a little sleepy.
+DOCTOR: Alright. Let's have a listen to your lungs, shall we?
+PATIENT: Okay, okay. Sure. Whatever you need. Just tell me if it’s gonna be cold. I hate cold things on my chest.
+DOCTOR: It’ll be… brief. Take a deep breath… and exhale. Again. Hmm. Sounds… a little congested. Not alarming, but… something. Do you have any family history of… anything like this?
+PATIENT: Family history… Umm… my father, he always coughed a lot when he got old. But he smoked, you know? Always smoking. And my mother… she was okay, I think. No coughing. I don’t really know, to be honest. We don’t talk about that stuff much. Just… coughing, old age. It was normal. Is something wrong?
+DOCTOR: It's… difficult to say. It could be a simple upper respiratory infection, exacerbated by your work environment. However, given the prolonged nature of your symptoms, we should rule out anything more serious. I'm going to order a chest x-ray, just to be safe. And a basic blood panel to check for inflammation. Do you have insurance?
+PATIENT: Insurance…? No, no insurance. Never got around to it. Too expensive, you know? And I never really… needed it. Just little things, usually. Is that gonna be… expensive? I don’t have a lot of money.
+DOCTOR: Well, that complicates things. The x-ray will be… a cost. We can discuss payment options with the billing department. However, I strongly advise you consider some form of coverage in the future. Now, let’s get this order processed. Do you have any other concerns?
+PATIENT: Other concerns…? Umm… just… will it take long? I got work tomorrow. And… Will it be bad? I just wanna be able to work, you know? And… my wife, she’s been saying I should go to the doctor for a long time. I don't wanna worry her. Can you tell me what you think it could be? Just so I know?
+DOCTOR: Look, it could be a variety of things. Bronchitis, pneumonia, even… something less serious. That's why we're getting the x-ray. Don't self-diagnose. It's… unproductive. The results will be available within 24-48 hours. We'll schedule a follow-up appointment once we have them. Until then, try to rest, stay hydrated, and avoid dust. Is that understood?
+PATIENT: Okay… Rest… hydrate… avoid dust. 24-48 hours… that’s a long time. Will I be able to work? It’s… important. My wife… she worries.
+DOCTOR: I cannot guarantee you will be able to work. That depends on the results of the x-ray. Now, if you’ll excuse me, I have other patients waiting. The receptionist will schedule your follow-up appointment. .

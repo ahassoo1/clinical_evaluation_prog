@@ -1,0 +1,40 @@
+DOCTOR: Good morning, Mr. Schwer. I'm Dr. Murtic. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just… want to check things. Family, you know? Lots of trouble with hearts and… other stuff. My mom, my brother… always something. I want to be sure I’m okay. Just peace of mind, I guess.
+DOCTOR: Right. “Checking things.” Understandable. A lot of families have… predispositions. But “checking things” is rather vague, Mr. Schwer. Can you be a little more specific?
+PATIENT: Specific… hmm. Well, I get tired. More tired than I used to. And sometimes… a little short of breath. Not always, but… when I walk uphill, for sure. And my chest… feels funny sometimes. Not pain, exactly. Just… tight. Does that make sense?
+DOCTOR: It's a start. “Tightness” is… not particularly helpful, medically speaking, but we can explore it. When did you first start noticing this increased fatigue and shortness of breath?
+PATIENT: Hmm. Good question. Maybe… six months ago? It started slow. I thought it was just getting older, you know? But it’s been getting worse little by little. Especially this summer. Hot weather makes it bad.
+DOCTOR: Six months… alright. And is this shortness of breath happening with any specific activity besides walking uphill?
+PATIENT: Not really… unless I’m really rushing. Like, trying to catch a bus or something. Or… if I bend over to pick something up. That makes me a little winded too. Not bad, just… noticeable.
+DOCTOR: Okay. And have you noticed any swelling in your ankles or feet, Mr. Schwer?
+PATIENT: Swelling…? Let me think. I… sometimes my shoes feel a little tight at the end of the day. But I thought that was just… my feet. You know? Old man feet. I don’t think it’s swelling swelling, if that makes sense.
+DOCTOR: Right. “Old man feet.” Look, Mr. Schwer, I need you to be precise. Any visible puffiness around your ankles, especially at night?
+PATIENT: Oh. Visible puffiness… hmm. Now that you mention it… yeah. A little. Especially if I sit for a long time. My wife used to tell me I should put my feet up. She’s… gone now. But yeah, a little puffiness. Sorry. I don't… I don't know medical words.
+DOCTOR: Alright. Puffiness, especially with prolonged sitting. We’ll address that. Have you had any chest pain at all, Mr. Schwer?
+PATIENT: No, Doctor. No pain. Like I said, it's not pain. It’s… a squeezing. Like someone is hugging my chest tight. But not hurting. Does that make any sense? It comes and goes.
+DOCTOR: A “squeezing” sensation. Right. And does this "squeezing" occur with any particular activity, or does it seem to happen randomly?
+PATIENT: Random, mostly. Sometimes when I'm just sitting and watching TV. Sometimes after I mow the lawn. It’s hard to say. Doesn't seem to follow a pattern. It’s… annoying, mostly.
+DOCTOR: Alright. Annoying. Let’s move on to some other questions. Do you have any history of high blood pressure, high cholesterol, or diabetes, Mr. Schwer?
+PATIENT: High… I think so. The doctor told me a few years ago I had to watch my salt. And something about cholesterol… numbers too high. I try to eat right, but… it’s hard. I don’t know much about any of it. Never got diabetes, I don't think.
+DOCTOR: Alright. We'll confirm your medication list shortly. And you’ve been told to watch your salt intake. Good. Now, are you currently taking any medications?
+PATIENT: Just one, I think. A little white pill. For… pressure, I think. I get it filled at the drugstore every month. Can't remember the name right now. Old age, you know?
+DOCTOR: Right. "Old age." I see. Well, we’ll get that sorted. Let's talk family history. You mentioned your mother and brother had "trouble." Can you elaborate on what kind of trouble?
+PATIENT: My mom… she died of a heart attack. When I was young. And my brother… he had something with his heart too. They had to put… a tube in him, I think. He’s still alive, but… he’s not doing good. Always tired. Like me.
+DOCTOR: Alright. Maternal history of heart attack, brother with cardiac issues requiring intervention. This is... helpful. Now, do you smoke, or have you ever smoked?
+PATIENT: No, never. My wife… she didn’t like it. I quit a long time ago, even before I got married. Never really liked it much anyway.
+DOCTOR: Good. And how about alcohol consumption?
+PATIENT: Just a glass of wine with dinner sometimes. Nothing much. Maybe three or four times a week. Nothing heavy.
+DOCTOR: Alright. Moderate alcohol consumption. Okay, Mr. Schwer, I’m going to listen to your heart and lungs, and then I’ll check your ankles for swelling. Please lie back on the examination table. Then we can talk about the next steps, likely some blood work and perhaps an EKG.
+PATIENT: Okay, Doctor. Sounds good. I hope it's not anything serious.
+DOCTOR: Let's not jump to conclusions. We need to gather more information. Please lie down, and we'll proceed.
+PATIENT: Okay. Just let me know if I need to do anything.
+DOCTOR: Alright, Mr. Schwer. Just breathe normally. Deep breath in… and out… again… Okay. There is some mild pitting edema in both ankles, as you described. Not severe, but present. Now, I’m going to need to check your blood pressure and pulse. Blood pressure is slightly elevated. Pulse is regular, but a little fast. Alright. Based on what you’ve told me, and these preliminary findings, it could be several things. Your symptoms – fatigue, shortness of breath, chest tightness – along with your family history and these physical exam findings suggest we need to investigate a possible cardiac issue and rule out fluid retention. We will need some blood work to check your kidney function, electrolytes and cardiac enzymes. And an EKG to look at your heart rhythm.
+PATIENT: Okay. Blood work and… EKG. Sounds… serious. What does that mean? Is it bad?
+DOCTOR: It doesn't necessarily mean it’s “bad”, Mr. Schwer. It means we need information. The blood work will tell us how well your kidneys are functioning, and the EKG will help determine if there are any abnormalities with your heart’s electrical activity. It’s a standard procedure to rule things out and get a clearer picture. We don't want to panic before we have facts. The nurse will be in shortly to draw your blood. And we have an EKG machine right here in the office. It will only take a few minutes. I will also order a chest X-Ray to see if there is fluid around your lungs, which may explain the crackling sound I heard. Do you have any allergies to medications, or latex?
+PATIENT: No allergies that I know of. No latex, no… anything. I just… I don't want to end up like my brother. He’s always in and out of the hospital.
+DOCTOR: We’re not going to jump to conclusions, Mr. Schwer. Each case is individual. We are simply gathering information to determine the cause of your symptoms and ensure you receive the appropriate care. The nurse will be in shortly to explain the blood work and EKG procedure. In the meantime, try to relax. Do you have any questions for me before we proceed?
+PATIENT: No… not right now. Just… when will I get the results?
+DOCTOR: The blood work usually takes a couple of hours to come back. We'll review the results as soon as they're available. The EKG will be read immediately, and I will discuss the findings with you directly. I anticipate having some initial results by this afternoon. The chest X-Ray will take longer, likely a day or two for the radiologist to provide the report. We’ll schedule a follow-up appointment to discuss everything in detail once we have all the information. Do you have any transportation arranged for a follow-up appointment?
+PATIENT: Yeah, my neighbor, George, usually drives me. He's a good guy. That’s… good to know. I guess I just wait for the nurse now?
+DOCTOR: Yes. The nurse will be in shortly. She will explain the procedure and draw your blood. Try to remain calm, and if you feel any discomfort during the procedure, let her know immediately. I’ll leave you to it. We'll get this sorted.
+PATIENT: Okay, Doctor. Thank you. .

@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Pithan. I am Dr. Jules. Now, please, tell me – what brings you in to see me today?
+PATIENT: Well, good morning, Doctor. It’s this cough. Been hacking up stuff for… honestly, I’ve lost track. And I’m just tired all the time. Gets a sinus infection pretty regular too, on top of it all. I just want it to stop, you know?
+DOCTOR: Yes, well, “tired all the time” is hardly a diagnosis, is it?
+PATIENT: No, I guess not. It’s just… draining. Makes it hard to get anything done. And the coughing fits, they leave me wiped out for hours. It's been going on for months, at least. I’m not even sure how long, to be honest. It just… started.
+DOCTOR: Months, you say. And have you noticed anything that specifically makes it worse?
+PATIENT: Hmm… not really. Seems to be all the time. Maybe a little worse when it’s cold, but even in the summer it's there. Dust doesn’t seem to bother it much, and I haven't been around any… well, anything different really. It just is. I don’t know if that helps.
+DOCTOR: “Chronic cough, no obvious exacerbating factors.” Right. And have you experienced any fever, chills, or night sweats with this cough?
+PATIENT: No, not really. Maybe a little warm sometimes, but nothing like a proper fever. Definitely no chills, and I haven’t been waking up soaked in sweat or anything. It’s mostly just… the cough and the tiredness. And the stuffiness. My head feels full most of the time.
+DOCTOR: Very well. And have you ever been diagnosed with asthma, bronchitis, or any other respiratory condition?
+PATIENT: No, not that I remember. I was a kid a long time ago, things weren't like they are now with… checkups and all. I’ve always been pretty healthy, until this started. Never had anything like this before, I can tell you that much.
+DOCTOR: Alright. Let’s move on to some other things then. Do you smoke, or have you smoked in the past?
+PATIENT: No, never touched the stuff. My grandpa smoked, though. Terrible habit. Made him cough a lot, too. But me? Nope. Never.
+DOCTOR: Good. Any known allergies to medications, foods, or anything else?
+PATIENT: Not that I'm aware of. I took some allergy medicine once, years back, for hay fever, and it worked fine. But I don't really… react to anything. At least, not that I’ve noticed.
+DOCTOR: Very well. Are you currently taking any medications at all – prescription, over-the-counter, vitamins, anything?
+PATIENT: Nope. Just… trying to get through the day, mostly. I take some ibuprofen sometimes, if my head’s really pounding, but that’s about it. Nothing regular, though.
+DOCTOR: Alright, Mr. Pithan. I suppose we should have a quick listen to your lungs then. Please, lie back on the examination table.
+PATIENT: Okay. Hope you don't mind, Doc. Old bones don't move like they used to.
+DOCTOR: Hmm. There’s some… wheezing. And a slight… congestion. I’ll need to document this. Your oxygen saturation appears normal. Let’s check your sinuses.
+PATIENT: Sinuses, huh? I figured that was part of it. They feel awful full. Do what you gotta do, Doc. Just try and be quick, if you don't mind. It’s… uncomfortable.
+DOCTOR: There is tenderness upon palpation of the frontal and maxillary sinuses. Inflammation is present. Mr. Pithan, based on this cursory examination, it appears you may be suffering from chronic bronchitis with secondary sinus infection. However, given your history and the prolonged nature of these symptoms, a chest X-ray is warranted to rule out any more serious underlying conditions.
+PATIENT: A chest X-ray… great. More trouble. Look, Doc, is it something bad? Like… pneumonia or something? I just want to know. I'm not a fan of hospitals, if you catch my drift. And I haven't got a lot of time to be messing around with tests.
+DOCTOR: Mr. Pithan, I am a physician, and it is my duty to ensure a proper diagnosis. “Something bad” is a vague term. While it may not be pneumonia, we cannot rule it out without further investigation. Furthermore, the prolonged nature of your cough could indicate other, more concerning conditions. I can arrange for a chest X-ray at the clinic, or you may need to visit the hospital, depending on availability. We need to rule out anything serious. Do you understand?
+PATIENT: Fine. Fine, do the X-ray. Just… let me know how long it’ll take. And if it's going to be expensive. I'm on a fixed income, Doc. This whole thing is already giving me a headache. I just… want to feel better, you know?
+DOCTOR: Very well. I’ll have the technician schedule you for an X-ray immediately. The cost will depend on your insurance coverage, but I’ll have the billing department contact you with an estimate. In the meantime, I’m prescribing you an expectorant to help with the cough and a nasal decongestant for the sinus congestion. If your symptoms worsen—fever, difficulty breathing, or chest pain—you are to go to the nearest emergency room immediately. Do you understand?
+PATIENT: Yeah, I understand. Fever, breathing trouble, chest pain… got it. And the… expectorant and decongestant? Will those actually help? I've tried so many things already, Doc.
+DOCTOR: They will help manage your symptoms while we await the results of the X-ray. They are not a cure, Mr. Pithan, but they should provide some relief. I’ll print out the prescriptions now. Here you are. Please take these to the pharmacy. We’ll schedule a follow-up appointment to discuss the X-ray results as soon as they are available. Is there anything else I can assist you with today?
+PATIENT: No, I guess not. Just… thanks, Doc. I appreciate it. Hopefully, this'll finally get things sorted out. I’ll go get these filled.
+DOCTOR: Very well. Goodbye, Mr. Pithan.

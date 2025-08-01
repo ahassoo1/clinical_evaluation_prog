@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Mr. Bulaong. I’m Dr. Versace. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Um... my chest hurts. Not all the time, but... yeah. It’s my chest. It’s like a pain, you know? It's kinda... weird.
+DOCTOR: "Kinda weird" isn’t terribly helpful, Mr. Bulaong. Can you describe the pain for me?
+PATIENT: Oh. Sorry, Doctor. I don't... how to say? Not sharp. More like... heavy. Like someone is pushing on it. And sometimes it feels... like burning a little bit? It's in both sides, not just one spot. Does that make sense?
+DOCTOR: Alright, "heavy" and "burning," both sides. And how long has this been going on?
+PATIENT: Hmm... let me think. Maybe... two weeks? I think it started after I was on the roof, working. But I do a lot of roofs, so I don’t know for sure. It comes and goes. Not every day.
+DOCTOR: Working on roofs… and you didn’t think to mention this immediately?
+PATIENT: Oh. Sorry, Doctor. I didn't think it was... important. Just chest pain, you know? I thought maybe I pulled a muscle. It's just...it's still hurting. And my wife told me to come see someone. She worries a lot.
+DOCTOR: Alright. And when it occurs, does anything specifically bring it on?
+PATIENT: Um... Not really. Sometimes when I move my arms too much, maybe? Or... when I lay down sometimes. It’s hard to say. It just… happens. And then it goes away. But it's kinda worrying me now, I guess.
+DOCTOR: Do you have any shortness of breath with this pain, Mr. Bulaong?
+PATIENT: No, Doctor. I can breathe okay. Not hard to breathe. Just… the pain. That's all. I don't get tired faster or anything like that. It doesn’t make it hard to work, just… uncomfortable.
+DOCTOR: Let’s move on to some other questions. Do you have any nausea, vomiting, or any recent fever, chills or sweats?
+PATIENT: No, no fever. No sick feeling. I haven’t thrown up, and I feel okay when I eat. Just... normal. I mean, as normal as someone who climbs roofs can be, I guess.
+DOCTOR: Do you have any medical problems that I should be aware of?
+PATIENT: Not really. I mean, I pulled my back once, working, but it healed. And... my wife says I snore a lot. That’s it, I think. Nothing the doctor has ever seen before. And I don’t take any pills, if that matters.
+DOCTOR: Alright. Any surgeries in the past?
+PATIENT: No surgeries. Never had one. I try to stay healthy, you know? I need to climb roofs all day. Can’t do that if I’m always sick or… cut open.
+DOCTOR: Family history then. Any heart problems or sudden death in your family?
+PATIENT: Hmm… That’s a good question. My grandpa, on my mom's side, he… he got sick. Real sick. But I don’t know what kind of sick. I was young. And my wife’s grandma, she had high blood pressure, I think. But not… heart problems. I don’t think so.
+DOCTOR: Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, Doctor. I don't smoke. And I don’t really drink. Maybe a little beer with my wife sometimes, on the weekend. But not much. And I definitely don’t do… those other things. I need to be clear-headed on the roof. Very important.
+DOCTOR: Alright. Let’s do a quick physical exam. I'm going to listen to your heart and lungs, and feel around your chest. Please remove your shirt.
+PATIENT: Okay. Alright. Is it… is it cold in here? I didn’t realize I was wearing so much… under this shirt.
+DOCTOR: Alright. Your heart rate is normal. Lungs are clear. There's some tenderness when I press here and here. Any pain with that?
+PATIENT: Yeah. A little bit. Right there. Not real bad, but… yeah. It feels like the pain I get when I'm working. And when I lay down. A little bit sore. What do you think it is, Doctor? Is it something bad? My wife is going to be so worried.
+DOCTOR: It could be costochondritis – inflammation of the cartilage in the rib cage. It's fairly common, often caused by strain or repetitive movements. However, given your age and the nature of your work, we can't rule out other possibilities. I’m going to order a chest X-ray and an EKG to be safe. Also, I want you to get a blood test to check for any inflammation. We need to rule out anything more serious.
+PATIENT: Okay. That sounds… good. I guess. X-ray and blood tests. Will those tell you what's wrong? What if it is something bad? My wife… she's already worried about me falling off the roof. Is it okay if I just… rest for a few days? Maybe it will get better?
+DOCTOR: Rest is certainly advisable, Mr. Bulaong, but it won’t give us a diagnosis. The tests will help determine if it's costochondritis, or if further investigation is needed. I’ll have the lab order slip and X-ray request printed for you. Please go to the lab and radiology department; they’re both located on the ground floor. I want you to follow up with me in three days with the results. If your pain worsens significantly – if you experience shortness of breath, dizziness, or severe chest pressure – go to the emergency room immediately. Do you understand?
+PATIENT: Yes, Doctor. I understand. Three days. And if it gets worse… emergency room. Okay. Thank you, Doctor. I… I hope it’s just costochondritis.
+DOCTOR: We'll know more after the tests. Stop by the front desk to schedule your follow-up appointment before you leave. Have a good day, Mr. Bulaong.
+PATIENT: Okay. Yes, I will. Thank you again, Doctor. .
+DOCTOR: .

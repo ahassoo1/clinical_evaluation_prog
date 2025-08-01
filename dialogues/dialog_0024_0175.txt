@@ -1,0 +1,28 @@
+DOCTOR: Good afternoon, Mr. Way. I am Dr. Mutnick. So, let’s get right to it, shall we?
+PATIENT: Afternoon, Doctor. Yes, let’s. It’s… well, it’s my back. Been bothering me for a bit now.
+DOCTOR: “A bit now,” is remarkably vague, Mr. Way. Could you be more specific?
+PATIENT: Oh, sorry, sorry. Right. Um… maybe three, four weeks now? Started kinda slow, just a little ache after I’d been standing for a while. Now it’s… well, it’s just painful most of the time, you know? Even when I’m sitting.
+DOCTOR: Right. And where specifically is the pain, Mr. Way?
+PATIENT: It’s… lower back, mostly. Right in the middle. Sometimes it feels like it’s shooting down into my… well, my bottom, a little bit. Not all the way down my leg, thankfully. Mostly just right there in my lower back. It’s hard to explain, it’s just… there.
+DOCTOR: “Just there” is not a precise anatomical location, Mr. Way. Do you have any radiating pain?
+PATIENT: Radiating… you mean like, does it spread? Yeah, a little. Like I said, sometimes it goes into my… you know, where my tailbone is. Not sharp pain, more like a dull ache that goes with the main pain. Is that what you mean by radiating? Sorry, I’m not good with these terms.
+DOCTOR: It appears we will have to work through this deliberately. Has anything specific exacerbated the pain?
+PATIENT: Hmm… well, I do a lot of walking, for work. Operations Research… means I go around checking on things, visiting different sites. And that definitely makes it worse. Standing for too long, that's bad. Sitting for too long isn’t great either, actually. It’s just… difficult to avoid, you know?
+DOCTOR: So, prolonged sitting and standing. Noted. Any history of trauma to your back?
+PATIENT: Trauma… like an injury? No, not really. Nothing I can remember, anyway. I was pretty active when I was younger, played basketball, but I don't recall ever really hurting my back bad. Maybe just the usual aches and pains after a game, but nothing serious. Oh, wait… a few years ago, I lifted a really heavy box at work. Didn’t feel anything right away, but maybe that had something to do with it? It was pretty heavy.
+DOCTOR: “Pretty heavy” is insufficiently quantifiable, Mr. Way. Approximately how much weight was this box?
+PATIENT: Oh, goodness. I have no idea. It was… a big box. Full of files. Probably… fifty, sixty pounds? Maybe more. I really don't know. It was a struggle to lift it, if that helps. I just asked a coworker to help me get it moved. I’m not the strongest guy, you know?
+DOCTOR: Right. And any numbness or weakness in your legs or feet?
+PATIENT: No, thankfully. No numbness or weakness. That's what I was worried about. Everything feels normal, except for the pain, you know? I can walk, I can stand… it just hurts. A lot.
+DOCTOR: Very well. Let us proceed with a physical examination, Mr. Way. Please lie face down on the examination table.
+PATIENT: Okay, sure. Here goes… Hopefully it won’t be too bad.
+DOCTOR: I detect some muscle spasm. Tenderness upon palpation, L4-L5. Does this exacerbate the pain?
+PATIENT: Oof! Yeah, that’s… that’s it right there. Definitely feels worse when you press there. A little sharp pain, right in the middle of my back. That's where it hurts the most, usually.
+DOCTOR: And now bend forward. And now backward. Now, sideways. Limited range of motion. Pain noted with forward flexion. Straight leg raise… negative. No radiculopathy apparent. Based on this cursory examination, it appears to be a lumbar strain. A common ailment.
+PATIENT: Lumbar strain… okay. That sounds… not terrible? Is that something serious? Like, will I need surgery or something? What does that mean I need to do to get better?
+DOCTOR: Surgery is highly improbable, Mr. Way. In most cases, lumbar strain resolves with conservative management. I will prescribe a course of nonsteroidal anti-inflammatory drugs to manage the pain. And I recommend physical therapy. Focus on core strengthening exercises. Avoid heavy lifting and prolonged sitting or standing. And return in two weeks if symptoms do not improve. Do you have any further questions?
+PATIENT: Okay, that… that sounds good. No surgery is good. Physical therapy… I can do that, I think. And avoid lifting, got it. NSAIDs… are those like ibuprofen? Will they make me sleepy? And is there anything else I should be doing? Like, heat or ice?
+DOCTOR: Yes, NSAIDs are similar to ibuprofen. They may cause mild drowsiness. Avoid operating heavy machinery until you assess your tolerance. As for heat or ice… ice initially, for the first 48 hours, to reduce inflammation. Afterwards, heat may provide some relief. This outlines the instructions. I trust you can read and comprehend?
+PATIENT: Yes, yes, I can read it, thank you. Okay. Ice for two days, then heat. No heavy lifting, and take the medicine. Physical therapy… I’ll schedule that. Thank you, Doctor. That makes me feel a lot better. I appreciate your help. And thank you for not saying I need surgery.
+DOCTOR: Quite alright, Mr. Way. Adherence to the prescribed regimen is paramount. Should you experience any worsening symptoms—numbness, weakness, or loss of bowel control—seek immediate medical attention. Do not delay. Now, if you will excuse me, I have other patients awaiting my attention.
+PATIENT: Yes, of course. I understand. Thank you again, Doctor. I will. Goodbye.

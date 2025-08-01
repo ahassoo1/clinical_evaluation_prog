@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Pipolo. I'm Dr. Cumper. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just... my eyes. They feel real dry. Been that way a bit now. Not fun.
+DOCTOR: Okay, dry eyes. And how long has this been going on for, roughly?
+PATIENT: Hmm... a few weeks, maybe? Hard to say exactly. Time kinda... slips away, you know? Not as sharp as it used to be. But a few weeks, I think. Feels longer some days.
+DOCTOR: Right, I understand. A few weeks. And is it constant dryness, or does it come and go?
+PATIENT: It's mostly constant. Worse when I'm workin', though. All that dust and wind… cement dust gets everywhere. Makes it real bad.
+DOCTOR: Okay, so it's exacerbated by your work. Do you wear any eye protection while you're working with the cement?
+PATIENT: Eye protection? Not always. Should I be? I usually just try to blink a lot. Old habits, I guess. Never really bothered me too much 'til lately.
+DOCTOR: Right. Well, blinking is good, but it sounds like that's not quite enough anymore. We should definitely talk about getting some proper eye protection for work. Before we get into that though, are you experiencing any pain with the dryness?
+PATIENT: Nah, no real pain. Just... gritty. Like sand in 'em. And blurry sometimes. Makes it hard to see the lines real good when I'm doin' concrete. Important work, you know? Gotta be precise.
+DOCTOR: Okay, gritty sensation and blurriness. Have you noticed any redness, discharge, or changes in your vision besides the blurriness?
+PATIENT: Redness… maybe a little? Hard to tell with my eyes. They're just… old. Not as clear as they used to be. No discharge, though. And the blurriness… it comes and goes. Worse at the end of the day.
+DOCTOR: Alright. And are you currently using any eye drops, or any other medications for your eyes?
+PATIENT: No, sir. Never used eye drops in my life. Just… water, sometimes, if they feel real bad. Don't think that helps much, though.
+DOCTOR: Okay. Do you have any allergies that you know of?
+PATIENT: Allergies? Not that I know of. Never been one for sniffles or sneezes. Been pretty lucky, I guess. Lived a long life without much bother.
+DOCTOR: Alright. And what about any medical conditions you have, like diabetes or high blood pressure?
+PATIENT: Not that I know of, Doctor. I haven’t been to a doctor in… well, a long time. Everything’s always been… okay. Just gettin’ old, I figure. That’s the biggest problem.
+DOCTOR: Okay. I see. I'm going to do a quick exam of your eyes. Would that be alright?
+PATIENT: Sure, go ahead. Quick is good. I got things to do, you know? But alright, take a look. Just don’t poke ‘em too hard. They’re sensitive.
+DOCTOR: Okay, Mr. Pipolo, looking straight ahead. Now follow my finger... up and down... left and right... good. And now, can you read the bottom line on this chart for me?
+PATIENT: Uh… hold on. That’s… blurry. Real blurry. I can see the top letters, but… not the bottom. It’s just a bunch of shapes. I used to have good eyes. Used to be able to see a hawk flyin' a mile away. Not anymore, I guess.
+DOCTOR: Alright. Your vision is reduced, as you noted. I do see some dryness and mild irritation of your conjunctiva, but nothing alarming at this point. It seems likely this is primarily dry eye, potentially worsened by your work environment. We need to rule out other things, but for now, let's start with some lubricating eye drops. I recommend using artificial tears four times a day, even when your eyes don't feel dry. And we really need to get you some safety glasses for work. Do you have a pair?
+PATIENT: Four times a day… alright. I can try that. And safety glasses… no, I don’t. Never got around to it. Where do I get those? And how much do they cost? I’m on a fixed income, you know.
+DOCTOR: Right, fixed income. Completely understand. You can get safety glasses at most hardware stores, like Home Depot or Lowe's. They usually range from about $10 to $30 depending on the features. I can write you a note recommending them if that would help. As for the eye drops, I can give you a sample to start, and then you can get them at any pharmacy. They're relatively inexpensive, usually under $15 a bottle. We should also check your tear ducts to make sure they aren't blocked, but we can do that another day. How does that sound?
+PATIENT: That sounds… alright. Eye drops and glasses. A sample is good. Don't wanna spend money if I don't need it. And another day for the… tear ducts. Yeah, that’s fine. Just gettin’ old, you know. Thanks, Doctor. Can I go now? I got cement waitin’.
+DOCTOR: Certainly, Mr. Pipolo. Here’s the sample and the note. Use the drops as directed, and get yourself some proper eye protection. If your eyes don’t improve within a week or get worse, please schedule another appointment. And don’t hesitate to come back sooner if you experience any pain or sudden vision changes. Do you have any other questions for me today?
+PATIENT: No, I think that's all. Just... gettin' old. Thanks again, Doctor.
+DOCTOR: Alright. Take care, Mr. Pipolo. Have a good day, and be careful out there.

@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. McKinnon, have a seat. So, what brings you in today?
+PATIENT: Thanks, Doc. Muscle weakness, mostly. It's… hard to explain exactly when it started, but it feels like it's getting worse. It’s just… tiring, you know? Everything takes more effort.
+DOCTOR: "Tiring," right. Well, that could be… a lot of things. We need to be specific. When you say muscle weakness, where are you feeling it?
+PATIENT: Everywhere, really. But… it’s most noticeable in my arms and legs, I guess. Like, carrying groceries is a whole ordeal now. And climbing stairs… forget about it. It used to be nothing. Now… it feels like I’m lifting weights. Does that make sense?
+DOCTOR: It… makes some sense. So, this started gradually?
+PATIENT: Yeah, gradually. Not like a sudden injury or anything. It just… slowly got harder to do things. It's been maybe a few months now, I don’t know exactly. I wasn’t really paying attention until it started getting in the way of… well, everything, honestly.
+DOCTOR: "Not really paying attention," right. And has anything else changed along with this weakness?
+PATIENT: Hmm… let me think. Not that I’ve noticed, really. No fever, no… rashes, nothing like that. I have been a little more tired than usual, but I figured that was just… life, you know? Working, not sleeping enough. I haven't really felt sick, just… weak.
+DOCTOR: Alright. And any changes in your diet?
+PATIENT: No, not really. Same as always, I guess. I eat… normal food. Nothing fancy. Mostly just trying to get by. I haven’t changed anything intentionally.
+DOCTOR: "Normal food." Okay. And any family history of anything like this?
+PATIENT: That’s… a good question. My dad, he had some problems with his joints when he got older, a lot of aches and pains. But I don’t think it was… weakness exactly. Just… old age, I guess. My mom was healthy as a horse, if you believe in that sort of thing. She lived to be 90.
+DOCTOR: Right. And what about… work?
+PATIENT: Work? It's… physical. Auto damage appraisals. Lots of walking, bending, getting under cars sometimes. It’s not glamorous. But it pays the bills. Honestly, I've been dreading going back, figuring it's just gonna make this worse.
+DOCTOR: So, you’re concerned work is exacerbating the problem. Alright. Let’s do a quick physical exam. Just basic strength and reflexes, okay?
+PATIENT: Yeah, okay, sure. Whatever you need. Just… I hope we can figure something out. It’s getting… frustrating. I can’t keep living like this.
+DOCTOR: Alright. Please lie down on the table face up. I’m going to check your reflexes first, then we’ll move to strength testing. Extend your arms, palms up. Okay, reflexes are… present, but a little diminished. Now, squeeze my hands. Don't hold back. Okay, grip strength is…weak. And now, can you push against my hand with your feet?
+PATIENT: Okay, yeah, that felt… okay. A little weird. Here. Here. It feels… harder than it should be. I’m trying.
+DOCTOR: Alright. Strength is…reduced, as expected. I’m going to listen to your heart and lungs, just to rule anything else out. Heart and lungs sound…clear. I’m going to have you sit up now. Okay. Get up and walk a few steps for me.
+PATIENT: Here. Is… is that okay? It’s… wobbly. I usually don’t feel like this.
+DOCTOR: Right. Wobbly. Okay. Well, based on this quick exam, and given your history, it could be a number of things. Honestly, it's hard to say without further testing. It could be something neurological, something muscular, or even just…deconditioning. I’m going to order some blood work to check your vitamin levels and rule out any obvious deficiencies. I also want you to get a MRI of your lumbar spine, just to see if there's anything going on there. I’m not going to pretend this is a simple fix. It'll likely take a few weeks to get the results back, and then we'll go from there. In the meantime, I recommend…light activity, if you can manage it. Don't push yourself. And avoid anything that makes the weakness worse. Does that make sense?
+PATIENT: Yeah, okay. Blood work and an MRI. That… sounds like a lot. Light activity. I can try. It just… sucks, you know? Waiting and not knowing. But… thank you, Doc. For… at least looking into it. Is there anything I should be watching out for, anything that means I should come back sooner?
+DOCTOR: Look, this is rural medicine, alright?
+PATIENT: I… I don’t… I’m not sure what that means. Should I go to a different doctor?
+DOCTOR: No. Look, what I mean is, we’re limited in resources here. If you experience any sudden worsening of your weakness—like, you can’t move your arms or legs at all, or you develop any numbness or tingling, or—and this is important—any difficulty breathing or swallowing, go to the emergency room immediately. Don’t wait for me to call you back. Otherwise, schedule a follow-up appointment with me in about four weeks. And try to manage your expectations. It's probably just…getting old.
+PATIENT: Okay… sudden worsening. Numbness. Breathing. Right. Four weeks. Thank you, Doc.

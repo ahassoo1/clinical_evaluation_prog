@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Ms. Aslan. I'm Dr. Sham. So, what brings you in to see me today?
+PATIENT: Good morning, Dr. Sham. Well, I've been getting chills, and it's a little worrying. It's not like a normal cold chill, you know? It comes and goes.
+DOCTOR: Hmm, okay. Chills that come and go… Can you tell me a little more about these chills?
+PATIENT: Yeah, sure. It started maybe three days ago? They don’t really happen all the time, more like… waves. I'll be perfectly fine, warm even, and then suddenly I feel really cold, like I need a sweater. Then it passes after a bit. It's just... weird. I haven't felt sick otherwise, no fever or anything.
+DOCTOR: Okay. No fever, that’s good. And it's been three days... Have you noticed anything with these chills?
+PATIENT: Let me think… Not really, actually. I mean, I’ve been a little tired, but honestly, who isn’t? I work a lot. Maybe a bit more thirsty than usual, but I thought that was just the heat. It’s been pretty warm lately. I haven’t noticed anything else that seems connected, no aches or anything like that.
+DOCTOR: Alright. So, chills, a bit of fatigue, increased thirst… Do you have any other symptoms at all?
+PATIENT: No, nothing else comes to mind. I haven’t coughed, no sore throat, no stomach issues… honestly, that’s what’s so strange about it. It just feels off, you know? Like something isn’t quite right, but I can’t put my finger on it.
+DOCTOR: Right, understandable. Let’s get a quick look at your vitals, and I'll do a brief physical exam. Just standard things… temperature, blood pressure, listen to your heart and lungs. Does that sound alright?
+PATIENT: Yeah, that sounds fine. Whatever you think is best, Dr. Sham. I’m happy to do whatever you need.
+DOCTOR: Blood pressure is 120 over 80, pulse is 72, regular. Lungs sound clear. Temperature is 98.6 Fahrenheit. Nothing immediately concerning there. Do you have any known allergies to medications?
+PATIENT: No, no allergies that I know of. I haven't really taken much medication in the past, just the occasional pain reliever for headaches, but nothing serious. Never had a reaction to anything.
+DOCTOR: Alright. And are you currently taking any medications, even over-the-counter things?
+PATIENT: Just a multivitamin, every morning. And sometimes I’ll take ibuprofen if my head really hurts, but that's it. Not regularly, though. Really just when I need it.
+DOCTOR: Okay. Multivitamin, ibuprofen as needed… Now, thinking about your medical history, have you had any serious illnesses or surgeries in the past?
+PATIENT: Hmm… nothing major. I had my tonsils out when I was a kid, I guess? And I broke my arm once, a really silly accident. But that was years ago, and I recovered fully. Nothing chronic or anything like that. I've generally been pretty healthy, to be honest.
+DOCTOR: Right, tonsillectomy as a child, broken arm… And what about your family?
+PATIENT: Let me think… My mom has high blood pressure, and my dad had diabetes, but other than that, nothing too serious on either side that I know of. Both are still alive, thankfully. They’re getting older, so… you know. Nothing like, genetically passed down that I'm aware of.
+DOCTOR: Alright. That’s good to know. And just a couple more questions, if you don't mind. Do you smoke, or drink alcohol?
+PATIENT: No, I don’t smoke, never have. And I rarely drink alcohol. Maybe a glass of wine with dinner occasionally, but I don’t really like it much. It makes me feel a bit tired. I’m not a big drinker at all.
+DOCTOR: Okay. Non-smoker, rarely drinks… Now, thinking about your lifestyle, what do you do for work?
+PATIENT: I’m a Health Education Specialist. It’s… a lot of sitting at a desk, honestly, but I do get out to give presentations sometimes. And lots of emails! It's pretty stressful, but I like helping people. It keeps me busy, that’s for sure.
+DOCTOR: Okay, that's good information. Stressful work, mostly desk work... Just to summarize… chills, fatigue, slightly increased thirst, no fever, no other significant symptoms. Past medical history unremarkable. Family history of hypertension and diabetes. Non-smoker, rarely drinks, stressful job... It's a bit vague, honestly. Hmm. I'm going to order a complete blood count and a metabolic panel, just to rule out some possibilities. Would that be alright with you?
+PATIENT: Yeah, that sounds good. Whatever helps figure out what's going on. A blood test sounds fine with me. I just want to know what’s causing it, you know? It's just a little worrying feeling unwell for no clear reason.
+DOCTOR: Right, completely understandable. I’ll get the lab orders sent over to the nurse now. It should just be a routine blood draw, and the results should be back within a couple of days. In the meantime, make sure you're getting enough fluids, and try to manage your stress as much as possible. If the chills worsen, or you develop a fever, headache, or any other new symptoms, please don’t hesitate to call the office. Any questions for me before I finalize this?
+PATIENT: No, I think that covers everything. Thank you, Dr. Sham. I appreciate you taking the time to listen. I’ll make sure to drink more water, and try to relax a bit. I’ll keep an eye on things and call if anything changes.
+DOCTOR: Right, very good. I’ll have the nurse come in and draw the blood, and then we'll follow up once the results are back. Thank you for coming in today, Ms. Aslan. Get well soon.
+PATIENT: Thank you, Dr. Sham. Bye bye!

@@ -1,0 +1,30 @@
+DOCTOR: Good afternoon, Ms. Luft. I am Dr. Blim. Now, please tell me, what brings you in to see me today?
+PATIENT: Good afternoon, Doctor. Well, it’s… about the cancer. I was told to come see someone about it. It’s been… a little hard to understand everything, to be honest.
+DOCTOR: “Cancer,” you say. And who informed you of this diagnosis, Ms. Luft?
+PATIENT: Um… the hospital. After my husband… passed. They did a lot of tests then. I don't really remember the doctor's name. It was all… a lot at once. They just said it was cancer and I needed to see someone regularly.
+DOCTOR: “Regularly.” Very well. And what, specifically, were you told about this cancer?
+PATIENT: They said… something about it being in my chest. And… needing treatment. I think they said “stage two,” but like I said, it was a blur. I mostly just remember being very tired and sad. They gave me a lot of papers, but… I haven’t really looked at them closely. I’m sorry.
+DOCTOR: Ms. Luft, it is rather… unhelpful to present without having reviewed the documentation provided by your previous physician. However. “Chest,” you say. Any pain?
+PATIENT: No, not really pain. More… pressure, sometimes. Like something is heavy. And… I get winded easily. Even just walking to the mailbox. It hasn't been too bad, honestly, until recently. Maybe that’s why they want to see me now? I don't know.
+DOCTOR: “Recently.” And how long is “recently”?
+PATIENT: About a month, I think. Maybe six weeks. It started slowly, just feeling a little more tired than usual. Then the pressure started, and it got harder to breathe. I just… figured it was grief, at first. Everything has been hard since… since my husband.
+DOCTOR: Grief can certainly manifest in various ways. But we must rule out the physiological. Have you noticed any coughing?
+PATIENT: Yes, actually. A little bit. Not a bad cough, but… dry. And it happens more when I lie down. It doesn't bother me too much, but I've been using a cough drop or two at night. I hadn’t really thought about it being connected to… this.
+DOCTOR: “Dry cough, worse when recumbent.” Do you have any history of asthma or allergies, Ms. Luft?
+PATIENT: No, sir. Never had asthma or allergies. I was always pretty healthy, until… well, until all of this. My husband, he had a little bit of high blood pressure, but that was it.
+DOCTOR: And what medications, if any, are you currently taking?
+PATIENT: Just the cough drops, really. And… a little something for my nerves, sometimes. It’s not… a regular thing. My sister gave it to me after the funeral. I think it’s called… lorazepam? A small dose. Only when I can’t sleep. Oh, and I take a daily vitamin.
+DOCTOR: “Lorazepam.” Alright. And do you smoke, Ms. Luft?
+PATIENT: No, sir. Never have. My husband… he used to, a long time ago, but he quit years before we met. He said it wasn’t worth it. I've always been very careful with my health. Well, except for not reading all those papers, I guess.
+DOCTOR: Very well. Let us proceed with a physical examination. Please lie down on the examination table. We’ll start with auscultation of your lungs and chest. And please refrain from speaking unless I ask you to. I have limited time today.
+PATIENT: Okay, sir. Is there anything I should be doing?
+DOCTOR: Simply breathe normally, Ms. Luft. Deep breaths. Your respiratory effort seems… diminished. I detect some mild wheezing bilaterally. Chest expansion is slightly restricted. Now, I will percuss your chest. This may be mildly uncomfortable.
+PATIENT: Okay. Is that… normal, Doctor? It feels… a little strange.
+DOCTOR: "Normal" is a relative term, Ms. Luft. The percussion reveals… diminished resonance in both lung fields. This, combined with your history… suggests potential consolidation. Now, I need to check your lymph nodes. Please turn your head slightly to the left. Some mild tenderness here. And a slight enlargement.
+PATIENT: Oh, that's… a little sore, yes. I hadn’t noticed it before. Is that bad? It doesn’t really hurt, just… uncomfortable. Is it… the cancer? I'm sorry to ask so many questions. I just… I’m scared.
+DOCTOR: Ms. Luft, it is premature to draw conclusions. However, the constellation of symptoms—cough, diminished respiratory effort, consolidation, lymphadenopathy— warrants further investigation. We will need a chest X-ray and a CT scan to determine the extent of any potential abnormality. And a biopsy will likely be necessary. I will put in the orders now. You will need to schedule these tests with the radiology department.
+PATIENT: Oh. A CT scan and a… biopsy? That sounds… serious. Will it hurt? And how long will it take to get the results? I don’t think I can handle a lot of waiting. Is there anything… anything else I should be doing? Or… expecting?
+DOCTOR: Ms. Luft, these tests are standard procedure for evaluating potential pulmonary pathology. The CT scan is painless; the biopsy may cause mild discomfort, but local anesthesia will be administered. As for the results, it depends on the radiology department's workload. Expect at least a week, perhaps longer. In the meantime, I recommend avoiding strenuous activity. And… try to manage your anxiety. It will not assist the diagnostic process. Here is the referral for the radiology department. Schedule the tests as soon as possible. Do you have any further questions?
+PATIENT: Um… just… will Medicare cover all of this? I don't have a lot of money, and I'm worried about the cost. And… is it likely to be… really bad? I’m sorry. I know you said not to worry, but… I just… It’s just a lot to take in.
+DOCTOR: Medicare should cover the majority of the costs, Ms. Luft. However, you may be responsible for a co-payment or deductible. Contact Medicare directly for specific coverage details. As for the severity… it is far too early to speculate. We must await the results of the tests before drawing any conclusions. I have other patients waiting. Please schedule these tests promptly. And try to remain calm. Good day, Ms. Luft. .
+PATIENT: .

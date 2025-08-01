@@ -1,0 +1,19 @@
+DOCTOR: Good morning, Zelina. I’m Dr. Nestingen. So, tell me, what brings you in today?
+PATIENT: Ugh, finally. Look, it's my breath. It smells bad. Really bad. I don't need a long explanation or anything, just... fix it. It's embarrassing, okay? I don't have time for this.
+DOCTOR: Right. Well, "bad breath," or halitosis as we call it, can have several causes. It's not always a simple fix, you understand. But we'll try to get to the bottom of it. When did you first notice this… issue?
+PATIENT: Honestly? I don't know. It's been… a while. Probably since… the divorce, actually. Look, does it matter when? It smells bad now. And I work outside, people can smell it. It’s not exactly a good look for highway maintenance, alright? I just need something strong. Like, really strong.
+DOCTOR: Highway maintenance… right. Okay. And has anything changed in your routine recently?
+PATIENT: Routine? What routine? I work long hours, I eat when I can, I sleep when I'm not working. It's pretty consistent, actually – consistently exhausting. I don't have time for fancy hobbies or… whatever you're getting at. No, nothing’s changed.
+DOCTOR: Very well. Do you smoke, or use any tobacco products?
+PATIENT: Are you serious? Do I look like the type? No. I need my lungs for… you know, breathing while I'm directing traffic. Honestly, this feels like you're just going through a checklist. Just tell me what I need to take to make it stop.
+DOCTOR: It’s necessary to rule things out, Zelina. Have you had any recent dental work?
+PATIENT: Dental work? Ugh, no. And frankly, I don't plan on it. Dentists are expensive, and I have bills. I’m perfectly capable of brushing my teeth, thank you very much. It's not like I've been neglecting it. It just… persists. Does that make sense? Just fix it, please.
+DOCTOR: Alright. Let’s try a quick examination, then. Open your mouth, please. I’m going to take a look at your tongue and the back of your throat.
+PATIENT: Fine. Just get it over with. I have a shift starting in a couple of hours.
+DOCTOR: Hmm. Tongue appears slightly coated, but no visible lesions or significant inflammation. Gums appear… healthy enough, though there's some minor redness. Any pain when I press here?
+PATIENT: No. It doesn't hurt. See? Nothing wrong. It's just… bad breath. Is that all you needed to know? Can we get to the solution now? I really don’t have all day. And honestly, I don’t appreciate having my mouth poked at.
+DOCTOR: Alright. Given your history—or lack thereof—and the exam, it’s likely this is related to… inadequate oral hygiene, possibly coupled with dehydration from your work. It's often a buildup of bacteria. I’m going to recommend a rigorous oral hygiene routine – brush twice a day, floss daily, and use an antibacterial mouthwash. Plenty of water intake. And I strongly suggest you consider a dental check-up, even if it’s just a cleaning. We can look into some assistance programs for affordable dental care. Now, I will write you a prescription for a chlorhexidine mouthwash. It's quite strong and will help reduce the bacterial load. Use as directed.
+PATIENT: Chlorhexidine? Sounds… intense. Alright, fine. A prescription is good. As long as it works. And no lectures about dental checkups, alright? I said I don’t have time. Just… give me the prescription. I need to get back to work. And honestly, you're making this much more complicated than it needs to be. It's just bad breath.
+DOCTOR: Here you are. Use as directed, Zelina, and complete the full course, even if symptoms improve. If the problem persists after two weeks, schedule an appointment with a dentist. And, frankly, considering your occupation, dehydration can be a significant factor, so prioritize water intake. Is there anything else?
+PATIENT: No. That’s it. Just... thanks, I guess. .
+DOCTOR: .

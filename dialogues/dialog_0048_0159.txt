@@ -1,0 +1,33 @@
+DOCTOR: Right. Elijiah Fratoni, age 26. So, what brings you in today?
+PATIENT: Uh, hi Doctor Sink. It's… well, it's kinda embarrassing, but I'm havin' a real hard time gettin' up outta chairs. Like, a real hard time. It's been goin' on for a couple weeks now, and it's gettin' worse. I work out in the oil fields, so you know, gotta be able to, uh, get up.
+DOCTOR: Oil fields, you say?
+PATIENT: Yeah, roustabout mostly. Lots of heavy liftin', movin' stuff around, that kinda thing. It’s not… glamorous. But it pays the bills, or did, anyway. It’s kinda hard to do my job if I can’t get off my butt, you know?
+DOCTOR: Right. And this difficulty...is it sudden, or did it come on gradually?
+PATIENT: Gradually, I think. It started kinda slow, just feelin’ a little stiff after sittin’ for a long time. Then it got to where I needed a hand to push off, and now… well, now I sometimes feel like I’m stuck. It's not painful, exactly, just… effort. A lot of effort. It’s kinda weird. And it feels worse after I've been doin' somethin' physical, like even just walkin’ a bit. Does that make sense?
+DOCTOR: "Effort," you say. And worse after physical activity...Hmm. Do you recall any specific injury that might have triggered this?
+PATIENT: No, not really. Nothin’ I can think of. I get bumped and bruised all the time, it’s part of the job, but nothin’ major. I mean, I twisted my ankle a few months back, but that healed up fine. It wasn’t while I was sittin’ or anything. And I definitely didn’t fall or anything that I remember. It just… started. Which is what makes it so frustrating, ya know? I can't point to somethin’ that caused it.
+DOCTOR: Alright. And are you experiencing any weakness in your legs?
+PATIENT: Weakness… not exactly. They feel fine when I’m walkin’ around, or even liftin’ stuff. It’s just gettin’ started from a sittin' position that's the problem. Like, they don’t wanna move. It’s hard to explain. It's not a burnin' or tingly weakness, it's just… stubborn. Like they're heavy or somethin'. Does that make any sense at all?
+DOCTOR: Hmm. Alright. Well, let's have you stand up for me, if you'd be so kind. We'll just see how that goes. I'll need to observe your technique.
+PATIENT: Yeah, okay. But… uh, warnin' ya, it's gonna be a struggle. Maybe I should… I dunno. Is there somethin’ I can grab onto? Just in case? I don’t wanna fall.
+DOCTOR: There's the chair arm. But try to do it as you normally would. I need to see what’s happening. Don’t anticipate the difficulty. Just… stand.
+PATIENT: Whoa. See? That's… that's not normal, is it? That took a lot. A lot. I feel kinda shaky now.
+DOCTOR: No, that is…not ideal. Your range of motion appears within normal limits, but there’s definite effort involved, and some instability. Let’s check your reflexes. Just relax your legs.
+PATIENT: Okay, yeah, sure. Relax… easy for you to say. Just tell me if it's gonna hurt, okay? I've had a few bumps and bruises, and I don't wanna make somethin’ worse. It's just… I get nervous when people start hittin' my legs with stuff. Is this a normal thing?
+DOCTOR: It's a standard neurological assessment. It shouldn’t hurt, just a tap. But alright, I’ll be gentle. Now, just let your leg hang loose.
+PATIENT: Okay, yeah, it jumped. Felt kinda weird. Not painful, just… surprising. Is that… good? Bad? I honestly don't know what's supposed to happen. I never paid attention in health class.
+DOCTOR: It’s…adequate. Now, let’s try the other side.
+PATIENT: Hmm. That one felt… less jumpy? Like, not as much. Is that bad? The other one felt stronger, I think. Does that mean somethin’s wrong with this one?
+DOCTOR: Alright. It appears you have some mild asymmetry in your reflexes. Now, I’m going to ask you to rise onto your toes and then walk on your heels for me.
+PATIENT: Okay… rise onto my toes… and then walk on my heels? Is there a reason we're doin' this? I mean, I'm not a dancer or nothin'. Just tryin' to understand what we're lookin' for.
+DOCTOR: Just routine. Rule things out. Now, up on your toes.
+PATIENT: Whoa. Okay, that's… not as easy as it looks. My ankles are kinda shaky. And it feels like I'm gonna fall over. Is this gonna be a test of my balance or somethin'? 'Cause I'm pretty sure I'm terrible at those.
+DOCTOR: Alright. Now, walk on your heels.
+PATIENT: Okay, that’s… really hard. My calves are already burnin'. And I feel like I'm gonna trip. Honestly, I feel like a baby giraffe learnin' to walk. Is this… normal? 'Cause I’m seriously worryin’ now.
+DOCTOR: Alright. Based on this brief examination, it appears you have some weakness and instability in your lower extremities. It's difficult to determine the exact cause without further testing. It could be a musculoskeletal issue, a neurological problem, or something else entirely. We'll need to order some bloodwork and possibly an MRI to rule things out. However, given your history and lack of insurance, I recommend seeing a specialist. A physical therapist might be a better starting point for you.
+PATIENT: A specialist? MRI? That sounds… expensive. And I don't even know any physical therapists. Honestly, I was kinda hopin’ for somethin’ simple, like a pulled muscle or somethin’. I don’t have a lot of money, Doctor Sink. I… I lost my wife last year, and things have been tough. It’s just… a chair. I need to be able to do my job. Do you… do you have any recommendations? Any places that maybe offer a discount or somethin’?
+DOCTOR: Look, I understand your financial situation. Unfortunately, I cannot recommend specific providers that offer discounts, as that would be a conflict of interest. However, you can try contacting your local health department or searching online for low-cost physical therapy options. I'll print out a list of general resources for you. But I have other patients waiting. This is all I can do. Do you have any other questions?
+PATIENT: Okay… thank you. I guess. Just one thing. Do you… do you think it’s somethin’ serious? Like, will I ever be able to work again? I mean, I’m not askin’ for a diagnosis, just… your honest opinion.
+DOCTOR: Look, I've barely examined you. It’s impossible to say without the proper testing. Don’t jump to conclusions. And frankly, worrying won’t help. I recommend you follow up with a specialist as soon as possible. Now, if you’ll excuse me…
+PATIENT: Okay. Thank you, Doctor. I appreciate your time. .
+DOCTOR: .

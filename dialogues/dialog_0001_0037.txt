@@ -1,0 +1,24 @@
+DOCTOR: Alright, Mrs. Kilton, have a seat. So, what brings you in today?
+PATIENT: Oh, thank you, Doctor. It is... the breathing. I have been… wheezing. It makes it hard to catch my breath sometimes. Not all the time, but… enough to worry me.
+DOCTOR: Wheezing, huh?
+PATIENT: Yes. It sounds… like a whistle, I think. When I breathe out. Is that… normal? I do not know much about these things.
+DOCTOR: Normal isn't exactly the word I'd use. How long has this been going on?
+PATIENT: Oh, goodness. Let me think… maybe a month? A little longer, perhaps. It started small, just when I walked up the stairs. But now… even sometimes when I am sitting. It is not every time, but more often.
+DOCTOR: Right. And anything make it worse?
+PATIENT: Hmm… yes. When it is warm, I think. And…dusty. My daughter, she cleans a lot, which is good, but… the dust makes it harder. Also, when I am upset. Worrying makes it worse, definitely.
+DOCTOR: Okay. Any history of asthma or COPD in your family?
+PATIENT: Asthma… I do not think so. My mother, she had a bad cough sometimes, but not… wheezing. And COPD… I do not know that word. Is that something bad? My father, he smoked for many years, but I do not know what he had.
+DOCTOR: COPD is, well, it's a lung disease. Never mind. Let’s stick to you for now. Any other symptoms?
+PATIENT: Oh. Okay. Just the breathing. And sometimes… a little tired. But I am an older woman, so… maybe that is just age. I do not feel sick, if that makes sense. No fever, no bad cough, just… hard to get enough air.
+DOCTOR: Alright. Let's listen to your lungs then. Just breathe normally. Deep breaths in and out.
+PATIENT: Okay, Doctor. I will try. Is this… will this tell you what is wrong?
+DOCTOR: Hmm. There's some wheezing there, as you said. And a little bit of… diminished breath sounds on both sides. Not terrible, but definitely present. It could be a number of things, truthfully. Do you have any allergies that you know of?
+PATIENT: Oh. That does not sound good. Allergies… I do not think so. I like flowers, and I have been around cats, and I have not had any problems. But… maybe I am allergic and do not know? It is possible. I never had a test, you see.
+DOCTOR: Alright. Well, it’s unlikely a new allergy is suddenly causing this at your age, but we can’t rule it out. Any medications you’re currently taking?
+PATIENT: Oh, yes. Just a little pill for my blood pressure. And a vitamin D, the doctor told me I was low. That is all. I do not like to take many pills, if I can help it.
+DOCTOR: Right, blood pressure medication and vitamin D. Both good. Look, Mrs. Kilton, it sounds like you're likely dealing with some mild airway inflammation. Could be a touch of bronchitis, maybe early COPD – we'd need tests to know for sure. I'm going to prescribe you an inhaler to help open up your airways when you're feeling short of breath. We'll see if that helps. If it doesn’t improve in a week, or gets worse, come back and we'll do some further testing. Does that sound alright?
+PATIENT: An inhaler… yes, that sounds good. If it can help me breathe easier, that would be wonderful. A test… I do not like tests, but if you think it is necessary, then I will do it. One week… I will try to remember. Thank you, Doctor.
+DOCTOR: Alright. The pharmacy number is on there. And try to avoid dust as much as possible, alright?
+PATIENT: Yes, I will. My daughter is very good at cleaning, so maybe she can help with the dust. Thank you again, Doctor Pehrson. You have been very kind.
+DOCTOR: Just try the inhaler, and if things don't improve, give us a call. I have other patients waiting, so… have a good day.
+PATIENT: Oh. Yes, of course. I will. Thank you. Have a good day to you too, Doctor. .

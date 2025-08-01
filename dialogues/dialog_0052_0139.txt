@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Shanor. My name is Dr. Patricia Shely. It’s a pleasure to meet you. To begin, could you tell me what brings you in to see me today?
+PATIENT: Morning, Doctor Shely. Just… fitness check. For… refereeing. Need paper say I okay. Want to be quick, if possible.
+DOCTOR: Certainly, Mr. Shanor. A fitness check for refereeing purposes, understood. And you’d like this to be as efficient as possible. To ensure I have a complete picture, even for a routine check, I’ll need to ask a few questions and perform a brief examination. Is that agreeable to you?
+PATIENT: Okay. Few questions is… alright. Brief is good. I don't have much time today.
+DOCTOR: Excellent. Let's start with your medical history. Have you had any significant illnesses or been hospitalized for anything in the past?
+PATIENT: Hmm… not really. I… had the flu, maybe, a long time ago. Nothing serious. My wife… she was sick, but… that was a few years back. I don't remember exactly. Is that what you need to know?
+DOCTOR: Thank you for letting me know. When you say "not really," could you clarify if you've had any major medical conditions diagnosed, like diabetes, heart problems, or asthma?
+PATIENT: No, no… nothing like that. I work hard. Physical job. Always been okay. Strong. My wife… she had problems with… I don't know the name. Lung thing. But I never been sick like that.
+DOCTOR: Alright, that's helpful. And have you ever had any surgeries or been seriously injured?
+PATIENT: No surgery. Cut my hand once, working… with the bricks. Needed stitches, but small. Nothing big. Just… a cut. Happens.
+DOCTOR: Thank you. Now, thinking about your family – are there any significant medical conditions that run in your family, such as heart disease, cancer, diabetes, or stroke?
+PATIENT: Hmm… my mother… she had high blood pressure, I think. Old age thing, maybe. My father… he was strong, like me. Never sick. Nothing I remember being… serious. Sorry. I'm not good at remembering these things.
+DOCTOR: That's perfectly alright, Mr. Shanor. You're not expected to be a medical historian. Knowing your mother had high blood pressure is helpful, thank you. Do you have any allergies to medications, foods, or anything else?
+PATIENT: No allergies. Never had a problem. I eat everything. Work outside, sometimes get bitten by bugs, but no… reaction. Just itchy. Normal.
+DOCTOR: Excellent. And are you currently taking any medications, including over-the-counter medications, vitamins, or herbal supplements?
+PATIENT: No. Nothing. Just… water. And sometimes tea. Work is… hard. I need energy. That's all. No pills, nothing.
+DOCTOR: Very good. Now, before we move on to a brief physical exam, could you briefly describe your typical daily activity level?
+PATIENT: I… work. All day. Lifting, carrying, fixing. Refractory materials, you know? Hot work. Very physical. Then… go home. Eat. Sleep. Sometimes watch TV. Not much else. It’s a hard job. Keeps me busy.
+DOCTOR: Okay, that’s helpful. Now, I’d like to perform a quick physical exam just to ensure everything is as it should be. Is that acceptable?
+PATIENT: Yes. Quick is good. Get it over with. I have things to do.
+DOCTOR: Certainly. First, I'm going to listen to your heart and lungs. Please take a few deep breaths for me. Your heart sounds strong and regular, and your lungs are clear. Now, I’d like to check your blood pressure. Blood pressure is 130 over 80. That’s within the normal range. Your abdomen feels soft, and there’s no tenderness. Finally, I’ll quickly check your reflexes. Your reflexes are normal. Everything appears to be within normal limits.
+PATIENT: Okay. Good. So… I’m okay? Can I get paper now? For refereeing? I need to go.
+DOCTOR: Yes, Mr. Shanor, everything appears to be within normal limits at this time. Here is a form stating you have undergone a medical evaluation and are cleared for refereeing activities as of today, August 2nd, 2025. It includes my name, contact information, and a brief summary of the examination. Is there anything else I can assist you with today?
+PATIENT: No. That's all. Thank you, Doctor. Good. Okay. Goodbye.
+DOCTOR: You’re very welcome, Mr. Shanor. Have a safe and healthy day. .

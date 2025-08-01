@@ -1,0 +1,19 @@
+DOCTOR: Good morning, Mr. Dhanoa. I am Dr. Blim. Now, let’s not waste any time. What brings you in to see me today?
+PATIENT: Morning, Doc. It’s about this ringing in my ears. It’s been happening for a bit now, and it’s… annoying, to say the least.
+DOCTOR: “A bit now”?
+PATIENT: Yeah, maybe… three, four weeks? It comes and goes, but when it's there, it’s hard to ignore. It’s like a high-pitched whine, mostly. Sometimes it’s just a buzzing. It’s in both ears, but the left one is worse, I think.
+DOCTOR: And has anything… specific… preceded these episodes?
+PATIENT: Hmm... not really that I can think of. Work's been the same, same usual noise with customers and the kitchen. Nothing loud more than usual, anyway. I did go to a concert a couple of months back, but that was before this started, if that makes a difference.
+DOCTOR: A concert, you say?
+PATIENT: Yeah. A reggae concert, down at the stadium. It was good, but pretty loud, you know? Lots of bass. But like I said, it was a while ago. I thought maybe it was that at first, but it's been going on too long for just that, hasn't it?
+DOCTOR: It’s… plausible, but often these things resolve on their own. Have you noticed any dizziness, hearing loss, or fullness in your ears along with the ringing?
+PATIENT: No, thankfully. Nothing like that. Just the ringing. It's mostly just... frustrating. Makes it hard to concentrate, especially at work. I haven’t noticed my hearing getting worse, though. Everything sounds pretty normal, except for the whine.
+DOCTOR: Very well. Let's proceed with a brief otoscopic examination, and I’ll perform a quick Weber and Rinne test. Please sit up straight and remain still.
+PATIENT: Okay, no problem. Whatever you need, Doc. Just… the quicker we get this sorted, the better, to be honest.
+DOCTOR: Alright. Both tympanic membranes appear normal. Weber is midline, and Rinne is… normal bilaterally. No obvious signs of conductive hearing loss. Now, let’s get your vitals just to have a baseline. Blood pressure, pulse… 120/80, pulse 72. Not particularly enlightening.
+PATIENT: Right… So, what does that mean? Is it something serious? I've got bills to pay, you know? I can’t be missing work if I can help it.
+DOCTOR: It appears to be tinnitus, Mr. Dhanoa. In many cases, the cause is idiopathic – meaning we don’t know exactly what’s causing it. Often it resolves spontaneously. However, given the persistence, we should rule out any underlying issues. I’m going to order a basic audiogram to assess your hearing range more precisely. And, I’ll also order a complete blood count. Just to be thorough.
+PATIENT: Okay… Audiogram, blood count… sounds expensive. Will my insurance cover that? I've got private, but… you know how it is. And how long will it take to get the results? I really need to know if it’s anything serious, or if it's just something I gotta live with.
+DOCTOR: Insurance coverage is not my purview, Mr. Dhanoa. You will need to verify that with your provider. As for the results, the lab usually takes 48-72 hours. In the meantime, I recommend avoiding loud noises and managing your stress levels. I’m not convinced it’s anything dire, but we must be methodical. I'll send the orders to the lab directly. You can schedule the appointments at your convenience. Is there anything else?
+PATIENT: No, I think that’s all. Just… try and keep it moving, Doc? I really appreciate you seeing me, and hopefully it's nothing to worry about. Thanks.
+DOCTOR: Very well. I’ll see you when the results are in. And please, try not to dwell on it. Unnecessary anxiety is detrimental to your overall health. Dismissed.

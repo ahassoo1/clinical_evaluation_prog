@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I am Dr. Eaddy. Please, have a seat. Now, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Thank you. Um… it’s my… burping. I burp a lot. It’s been happening for… a little while now, I think. Not sure exactly how long.
+DOCTOR: Burping, you say?
+PATIENT: Yes. Like… a lot. It’s not painful, just… embarrassing, you know? Especially if I’m with friends. It just… comes out. Sometimes after I eat, sometimes not.
+DOCTOR: I see. And is there anything specific you eat that seems to trigger these… episodes?
+PATIENT: Trigger? I don’t know. I eat a lot of different things. Rice and beans, chicken, sometimes fish… I like soda too, but I drink it not so much now. I don’t think it’s just one thing, Doctor. I wish it was.
+DOCTOR: A varied diet… and you’ve noticed it isn’t consistently linked to specific foods. Hmm. And besides the… social inconvenience, are there any other symptoms you’ve been experiencing?
+PATIENT: No… not really. Sometimes my stomach feels a little… full, but I think that’s just from eating too much. No pain, no… other things. Just the burping. A lot of burping.
+DOCTOR: Alright. Now, let’s go through some general questions, if you don't mind. Have you had any significant medical conditions in the past?
+PATIENT: Hmm… not really. I had the flu a couple times, but nothing serious. And… when I was little, I broke my arm, but that’s it, I think. Nothing the doctor needed to keep me for a long time. Does that count?
+DOCTOR: No, a broken arm and the flu are not what I was referring to. Any ongoing health issues?
+PATIENT: Oh. No, no. Nothing like that. I’m usually… healthy. I work, I sleep, I eat… I try to stay active, but it's hot now, you know? It's hard to go outside. So, nothing really wrong with me, Doctor. Just the burping.
+DOCTOR: Alright. And has anyone in your family had any… digestive problems?
+PATIENT: Hmm... My grandmother, she had some stomach problems sometimes. But she was old, you know? She ate a lot of… everything. I don’t know what it was, exactly. And my uncle, he gets heartburn sometimes. But that’s it, I think. Nothing big.
+DOCTOR: Alright. Now, are you currently taking any medications, prescription or over-the-counter?
+PATIENT: No, Doctor. I don't take anything. I don't like taking pills if I can help it. I try to stay away from them. Just… if I have a headache, maybe a little bit of something, but not often.
+DOCTOR: Very well. Now, tell me about your typical diet on a normal day. Be as specific as you can. What do you eat for breakfast, lunch, and dinner?
+PATIENT: Okay… breakfast, usually rice and eggs. Sometimes with a little bit of bread. Lunch… usually chicken and beans with some salad. And dinner… depends. Sometimes fish, sometimes more chicken and beans. Or rice and pork. I drink water with everything. And, like I said, sometimes a little soda. Not every day, though. It makes me feel… funny sometimes. Does that make sense?
+DOCTOR: Alright. Now, I'm going to perform a brief physical examination, if you don’t mind. I’ll listen to your abdomen and chest. Just lie back on the examination table, please.
+PATIENT: Okay, Doctor. Is it going to be… uncomfortable?
+DOCTOR: No, it will not be uncomfortable. It is merely a listening exercise. Take a deep breath… and exhale. I'm hearing some… rather prominent bowel sounds. Now, breathe deeply for me, please. Lungs sound clear. Your heart rate and blood pressure are within normal limits. I do not detect any obvious abnormalities.
+PATIENT: Okay… good. So… what does that mean, Doctor? Is it something bad? The bowel sounds?
+DOCTOR: It suggests your digestive system is… active. Prominent bowel sounds can be associated with gas, bloating, and… burping. Given your history and the examination findings, it’s likely this is a functional issue. In simpler terms, it appears your body is simply processing food and generating gas as a result. It's not necessarily something bad, but it's also not particularly desirable. We can try some dietary modifications. Avoid carbonated beverages, limit fatty foods, and eat smaller, more frequent meals. If the symptoms persist despite these changes, you may want to consider a consultation with a gastroenterologist.
+PATIENT: Oh… so it’s just… the food? I can try that, Doctor. No more soda, smaller meals… I think I can do that. But what if it doesn't help? Should I… see another doctor? A… a gastro…? What is that doctor for, exactly? And how much would that cost? I don't have insurance, you know. It’s hard to pay for everything.
+DOCTOR: A gastroenterologist specializes in digestive health. They can perform more detailed tests to rule out any underlying conditions. However, given your age and the nature of your symptoms, it's unlikely to be anything serious. The cost will vary, and I cannot provide you with a precise figure. You would need to contact the specialist's office directly to inquire about their fees. For now, I recommend the dietary changes. If your symptoms persist for more than a month despite these changes, then you can consider a consultation. Do you have any other questions?
+PATIENT: Okay. A month… I can try for a month. No, I think that’s all for now, Doctor. Thank you for… listening to me. It’s just… embarrassing to talk about burping all the time. I’ll try the diet and see if it helps. And maybe I’ll try not to drink so much soda. Thank you. .
+DOCTOR: Very well. I wish you good health, Ms. Fogelstrom. .

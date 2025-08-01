@@ -1,0 +1,32 @@
+DOCTOR: Right. Mrs. Kilton, is it?
+PATIENT: Yes, that is right. Margret Kilton. It is nice to meet you, Doctor Sink.
+DOCTOR: Yes, yes. Let’s not waste time. What brings you in today?
+PATIENT: Oh, well. I have been… having trouble breathing. A whistling sound, when I breathe. It feels… tight in my chest sometimes. It has been happening for maybe a week now.
+DOCTOR: A week, you say?
+PATIENT: Yes. About a week. It is not… constant. Sometimes it is better, sometimes worse. Especially when I try to do my exercises. I am an athletic trainer, you see. I like to keep moving.
+DOCTOR: An athletic trainer at your age?
+PATIENT: Oh, yes! I have been doing it a long time. It keeps me young! Though… maybe it is making this breathing problem worse. I do not know. Is that possible, Doctor? It is just… when I push myself, it feels harder to breathe.
+DOCTOR: Alright. Any fever, cough, or chest pain with this… tightness?
+PATIENT: No, no fever. And not much of a cough. Just a little bit, sometimes. More like a… clearing of my throat. And no pain, not really. Just… uncomfortable. Like someone is squeezing my chest a little bit. Is that… normal? I do not want to worry you.
+DOCTOR: Normal is… subjective. Do you smoke, or have you ever smoked?
+PATIENT: Oh, no, never. I do not smoke. My husband, he used to, a long time ago, but I always told him no. It is very bad for the health, you see. I always tried to be careful.
+DOCTOR: Good. Any known allergies to medications?
+PATIENT: Hmm… let me think. I do not think so. I had a little reaction to something once, a long time ago, when I was a little girl. A rash, I think. But nothing serious. Nothing I remember needing to tell a doctor about before. I am not sure.
+DOCTOR: Okay. And are you currently taking any medications?
+PATIENT: Just a little pill for my blood pressure. The doctor gave it to me last year. It is a small white one. I take it every morning. And sometimes, when my arthritis acts up, I take something for that too, but not every day.
+DOCTOR: Name of the blood pressure medication, please?
+PATIENT: Oh dear. That is a good question. I… I do not remember the name. It is a small white pill, like I said. My daughter helps me with my medications sometimes. She knows all the names. I should have asked her before I came. I am sorry.
+DOCTOR: Alright. Well, let’s have a listen to your lungs. Please sit up straight.
+PATIENT: Okay. Yes, of course. Is there anything I need to do? Should I breathe in deeply? I want to be helpful.
+DOCTOR: Yes, breathe in deeply through your mouth… and exhale. Again. Hmm. A bit of wheezing. Not alarming, but present. Now, cough if you can. Okay.
+PATIENT: Okay. Like that? Is it bad, Doctor? It feels… strange to cough on command. I hope I am doing it right.
+DOCTOR: Your oxygen saturation is 94%, which is acceptable. Blood pressure is 138/82. Pulse is 78. It seems likely you're experiencing some mild bronchospasm, possibly related to exercise. It could be early asthma, or simply reactive airway disease.
+PATIENT: Oh dear. Broncho… what now? And… asthma? I have never had asthma before. Is that… serious? I just thought it was maybe I was pushing myself too hard at the gym. Reactive… what did you say? I am sorry, Doctor, I am not very good with these words. Could you explain it to me a little simpler?
+DOCTOR: Look, it means your airways are a little sensitive. They tighten up when you exert yourself. It’s not necessarily serious, but it needs to be managed. I'm going to prescribe you a bronchodilator inhaler. It will open up your airways. Use it before exercise, and as needed. I also recommend you cut back on the strenuous activity for a week, and see if your symptoms improve.
+PATIENT: Oh, an inhaler. Like the people with asthma use? Alright. That sounds… okay. Will it make me feel strange? And what if it does not work? Should I stop exercising completely? I do enjoy my exercise very much. It keeps me feeling young, you see.
+DOCTOR: It may cause some mild jitters, but nothing significant. If it doesn’t improve your symptoms within a week, or if they worsen, then we’ll discuss further investigation. Don't stop exercising completely, just reduce the intensity. Do you have any other questions?
+PATIENT: Oh, alright. Reduce the intensity. Yes, I can do that. Hmm… What if I forget to use it before exercising? Will it be okay if I just use it after I feel the tightness? And… how often can I use it? I do not want to become dependent on it.
+DOCTOR: Look, it's preventative. It works best before exertion. Using it after is less effective. And you won't become dependent on it if you use it as directed. Twice a day before exercise, and as needed. Any other questions?
+PATIENT: Oh. Twice a day. Alright. Yes, that is… understandable. No, I think that is all. Thank you, Doctor Sink. You have been very helpful. Even if I am a little forgetful sometimes. I will try my best to remember everything you have told me. Is there anything I need to do before I leave? A follow-up appointment, perhaps?
+DOCTOR: Follow-up in a month, if symptoms persist. Otherwise, don't bother. The nurse will schedule it for you on your way out. Now, if you’ll excuse me, I have other patients waiting. .
+PATIENT: Oh, alright. A month. Yes, that sounds good. Thank you again, Doctor. .

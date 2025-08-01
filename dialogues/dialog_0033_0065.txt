@@ -1,0 +1,27 @@
+DOCTOR: Right. Well, Ms. Selbitschka, let’s get straight to it. What brings you in today?
+PATIENT: Thank you, Doctor. I… well, I’ve gained weight. Quite a bit, really, and I haven’t changed anything in my diet or exercise. It’s rather concerning.
+DOCTOR: Concerning, yes. Weight gain. Right. And how long has this been going on?
+PATIENT: Oh, let me think… approximately six months, I would say. It started gradually, and then… it just seemed to accelerate in the last couple of months. It’s… noticeable, Doctor.
+DOCTOR: Six months. And you're certain there haven't been any changes to your usual routine?
+PATIENT: Positive, Doctor. I work the same hours, eat the same foods… my husband would certainly notice if I was sneaking extra desserts, and he hasn’t mentioned a thing! I do the same chores around the house. It's very puzzling.
+DOCTOR: Hmm. And are you experiencing any other symptoms alongside the weight gain?
+PATIENT: Now that you mention it… I have been feeling more tired than usual, yes. And… a little bit colder, even when the house is warm. It's not a constant shivering, but… a chill. Does that make sense?
+DOCTOR: Tiredness and chills. Okay. Let’s move on to some other things. Any changes in your bowel habits?
+PATIENT: Oh… well, yes, actually. I… I haven’t been as regular, if you understand. More… constipated, I suppose. It's a bit embarrassing to discuss, but you asked. It's been happening alongside the weight gain, I think.
+DOCTOR: Constipation. Alright. Any changes in your skin?
+PATIENT: Changes in my skin…? Not really, no. It feels… dry, perhaps, but I always use lotion. I live in a dry climate. I haven't noticed any rashes or anything unusual like that. No, I don't think so.
+DOCTOR: And how about your menstrual cycle, Ms. Selbitschka?
+PATIENT: Oh. Well, that… that stopped about a year ago, Doctor. I am forty-one, you see. I assumed it was… the change of life. I hadn’t really thought it was connected to the weight gain, but… perhaps it is?
+DOCTOR: Okay. Menopause. Right. Have you experienced any hot flashes or night sweats?
+PATIENT: No, not really. A little warmer sometimes, but nothing… dramatic. Not like what I’ve read about, anyway. Just… a mild warmth. It's mostly the tiredness and the weight. And the… the chill. It’s all very strange.
+DOCTOR: Alright. Let's do a quick physical exam. I'll listen to your heart and lungs, and feel your thyroid. Then we’ll take a look at your abdomen. Do you have any allergies to medications or latex?
+PATIENT: No, Doctor. No allergies that I am aware of. I haven’t needed much medication in my life, thankfully. The exam sounds… thorough, which is good. I just want to find out what's going on. I'm starting to worry.
+DOCTOR: Good. Please lie down on the table. We'll start with your thyroid.
+PATIENT: Certainly, Doctor. Whatever you need. I hope you can discover the cause of this… this problem. It's rather disruptive.
+DOCTOR: Hmm. Your thyroid feels… slightly enlarged. Not dramatically, but noticeable. Heart sounds are regular. Lungs are clear. Now, I'm going to listen to your abdomen. Please relax. Bowel sounds are present, but somewhat sluggish. No tenderness. Let's get some blood work done to check your thyroid function and rule out any other possibilities.
+PATIENT: Sluggish… that sounds concerning. Blood work… yes, of course. Whatever is necessary to find out what's happening. I just want to feel normal again. Will the blood work take long? I have a bit of grocery shopping to do later today.
+DOCTOR: The blood work itself won't take long. About ten minutes. But it will take a couple of days to get the results back. I'll have the lab call you directly with the findings. I’m also going to order a TSH test, a free T4, and a CBC. Here. Take this to the lab. And just to be on the safe side, I'm going to refer you to an endocrinologist for a more comprehensive evaluation. I don’t want to jump to conclusions, but these symptoms warrant further investigation. I'll give you a referral slip as well.
+PATIENT: An endocrinologist… that sounds… serious. But I suppose it's best to be thorough. Two days… that feels like a long time to wait. Will they call me even if everything is normal? I don’t want to bother them unnecessarily. And… is this likely to be something… serious? I apologize for asking, but it’s worrying me greatly.
+DOCTOR: Look, Ms. Selbitschka, I understand your anxiety. But worrying won't help. It could be a simple thyroid issue, or it could be something else. We need the results to know for sure. They will call you regardless of the outcome. And frankly, it's better to be cautious. I'll also put a note in your chart recommending a dietary consultation. Weight gain can sometimes be managed with lifestyle changes. But let's focus on finding the underlying cause first. Do you have any further questions?
+PATIENT: No… I think that’s all, Doctor. Thank you for your time… and for being thorough. I just… I want to feel like myself again. I appreciate you taking my concerns seriously. I suppose I’ll go to the lab now. Thank you again.
+DOCTOR: Alright. You're welcome. The lab is just down the hall. Take care. .

@@ -1,0 +1,27 @@
+DOCTOR: Right. Andrew Pipolo, 83 years old. Hmm. Well, Mr. Pipolo, let's get down to it. What brings you in to see me today?
+PATIENT: Dry eyes. They just… feel dry. Been that way a while now, I guess. Don't know why.
+DOCTOR: "Dry eyes," you say. And how long is "a while," exactly?
+PATIENT: Oh, jeez. A long time. Maybe… six months? Hard to say for sure. Things kinda blur together when you get to be my age, you know? It's not painful, just… scratchy. Like there's sand in 'em.
+DOCTOR: Right, six months. And is it constant, this scratchiness?
+PATIENT: No, no. Not all the time. Worse when it's windy, I think. And when I'm working. I do cement work, you know. Outside. Lots of dust.
+DOCTOR: Cement work, eh?
+PATIENT: Yeah. Been doin' it… a long time. Since I was a young man. It's good work. Keeps you busy. But the dust… not so good for the eyes, I reckon.
+DOCTOR: Well, that certainly narrows things down. Dust exposure is… predictable, shall we say. Any other symptoms?
+PATIENT: Other… symptoms? Let me think. Sometimes my eyes feel… tired. Like they need a rest. And sometimes… blurry. But that could just be my age too. I don't know.
+DOCTOR: Alright. And do you wear glasses or contacts currently?
+PATIENT: No, never have. Tried 'em once, a long time ago. Didn't like 'em. Made things worse, I think. Just got used to things the way they are.
+DOCTOR: Okay. No corrective lenses. Have you noticed any redness, discharge, or changes in your vision besides the blurriness?
+PATIENT: Redness… sometimes, I guess. Not much. And no… no discharge. Just… dry and tired. Like I said. And blurry when I stare at somethin' for too long. Like readin' a paper or somethin'.
+DOCTOR: Alright. Let's have a quick look at your eyes, shall we?
+PATIENT: Okay. Whatever you need. Just want this over with, if you don't mind. Got things to do.
+DOCTOR: Right. If you could just sit there and look straight ahead. I'm going to shine a light in your eyes. Hmm. Conjunctiva is a little dry, as expected. Corneas appear clear, but there's some mild punctate erosions. Eyelids show no significant inflammation. Okay. Everything appears… relatively normal for your age and occupation. It seems like you have classic dry eye syndrome, likely exacerbated by your work environment.
+PATIENT: Dry eye… syndrome? Is that serious? Need medicine or somethin'?
+DOCTOR: “Serious” is a strong word. It's not life-threatening, Mr. Pipolo. It's… uncomfortable. And it can lead to more problems if left unaddressed, but it's manageable. We can try some lubricating eye drops. Over-the-counter. I'll write you a prescription for Systane Ultra. Use them four times a day, or as needed. If that doesn't help, we can consider a slightly stronger option. But let’s start with the basics. Do you have any allergies to eye drops or any other medications?
+PATIENT: No. Never had no allergies. Never had much trouble with nothin', really. Just… gettin' old.
+DOCTOR: Alright. Good. And are you currently taking any other medications, even over-the-counter ones?
+PATIENT: Nope. Don't take nothin'. Don't believe in 'em much. Tried somethin' for my knee once, didn't do nothin'. Just tough it out, that's what I say.
+DOCTOR: Right. No medications. Okay. So, to recap: you have dry eye syndrome, likely related to your occupation. We’ll start with Systane Ultra four times a day. Try to avoid rubbing your eyes, and consider wearing some sort of eye protection when you're working with cement. Here’s your prescription. If your symptoms don't improve within a week or worsen at any point, come back and see me. Do you have any questions?
+PATIENT: No. I don't think so. Just… eye drops. Four times a day. Got it. Thanks, Doc. Can I go now?
+DOCTOR: Yes, you can go. Try to follow the instructions, Mr. Pipolo. And if you start experiencing any pain, redness, or significant vision changes, see an ophthalmologist immediately. Have a good day.
+PATIENT: Alright. Will do. Thanks again.
+DOCTOR: .

@@ -1,0 +1,27 @@
+DOCTOR: Right. Mr. McKinnon, yes?
+PATIENT: Yeah, that’s me. Edric McKinnon. Look, I appreciate you seeing me, doc. I’m not one for spending a lot of time in waiting rooms, if you don’t mind. Just want to figure out what’s going on and get it sorted, if that’s possible.
+DOCTOR: Yes, well, we all have places to be. Though a proper assessment takes time. But, alright. What brings you in today?
+PATIENT: It’s…my muscles, mostly. They feel really weak. It started a couple weeks ago, just feeling a bit tired after normal stuff, but now it's… harder to do things. Like, carrying groceries is a struggle, and even getting up from a chair feels like a workout sometimes. It's not painful, exactly, just…gone. Like there's no power behind it.
+DOCTOR: Weakness, you say. Okay. And where exactly are you noticing this weakness?
+PATIENT: Mostly in my legs and arms. My grip isn’t what it used to be, and my legs feel like jelly after walking even a short distance. It seems to be getting worse each day, honestly. It's not all the time, but it’s frequent enough to be worrying me. And it's both sides, not just one arm or one leg.
+DOCTOR: Both sides… hm. And have you noticed any other symptoms alongside the weakness?
+PATIENT: Let me think… I've been feeling more tired than usual, yeah. Just… generally run down. And, this might sound weird, but I’ve been a little clumsier. Dropped my phone a couple times, tripped over nothing. Nothing major, but not usually like me. Oh, and my appetite’s been a bit off. Not really hungry, even for things I usually like.
+DOCTOR: Tiredness, clumsiness, appetite changes… all very nonspecific. Have you had any fever, chills, night sweats, or any recent weight loss?
+PATIENT: No fever, no chills, and I don’t think I’ve had night sweats. Weight loss… maybe a little? I haven't really been trying to lose weight, and I haven't weighed myself recently to be honest. I'm usually around… well, I'm a bit stocky, about 180 pounds give or take. But no intentional weight loss. It’s probably just from not eating as much, if anything.
+DOCTOR: Alright. And have you had any medical problems in the past?
+PATIENT: Not really. I had the usual childhood stuff, chickenpox, that sort of thing, but nothing major. No broken bones, no surgeries, no serious illnesses. I've always been pretty healthy, to be honest. That's why this is so strange. I don’t even take regular medication.
+DOCTOR: Any family history of muscular problems?
+PATIENT: Hmm… that’s a good question. My dad was always pretty strong, worked construction his whole life. My mom… she had some arthritis in her hands when she got older, but nothing like muscle weakness. I don’t recall anyone having anything specific like muscular dystrophy or anything like that. We weren’t really a family that talked much about health problems, if that makes sense. It was just… ignored, mostly.
+DOCTOR: Right. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no, and no. Never touched any of it. Not my thing. Always been a straight edge, doc. I drink a lot of water, try to eat healthy when I can, but I work long hours, so sometimes it's hard. Mostly just tired.
+DOCTOR: Alright. Let’s have a look at you then. Could you stand up for me and walk a few steps?
+PATIENT: Yeah, sure. Here we go. Just a little stiff, usually. I’ll try to walk normal.
+DOCTOR: Hmm. Noticeable gait instability. Reduced range of motion in the ankles. And… minimal strength in dorsiflexion. Can you push against my hands here, resisting my force?
+PATIENT: Okay. It’s…harder than it looks. Not as strong as it used to be. Sorry, I’m trying. It’s like there’s just no…oomph. I feel it tiring out quick too.
+DOCTOR: Reduced strength bilaterally. Reflexes… somewhat diminished. Do you have any trouble swallowing or breathing?
+PATIENT: No trouble swallowing, thankfully. And I can breathe just fine. Not short of breath at all. No choking or anything like that. It's just… this weakness. It's frustrating. I need my strength for work, doc. What do you think it is? I'm worried it's something serious.
+DOCTOR: Well, your symptoms are concerning, but not definitive. It could be a number of things - a vitamin deficiency, perhaps, or some kind of neurological issue. Given your lack of prior medical history, and the bilateral nature of the weakness, we need to rule out some more serious possibilities. I’m going to order a complete blood count, a comprehensive metabolic panel, and a creatine kinase level to check for muscle damage. And I think a referral to a neurologist would be prudent, just to be safe.
+PATIENT: Okay. That sounds… thorough, I guess. A neurologist, huh? That sounds… serious. What does all that mean, doc? Is it something I should be really worried about? And how long will it take to get those results? I have bills to pay, you know. Can't be out of work for too long.
+DOCTOR: We need to get the results before we can worry. It could be nothing, or it could be something that requires treatment. The bloodwork will take a few days, and the neurologist’s appointment… well, they're usually booked out, so it might be a week or two. In the meantime, try to avoid strenuous activity. And if you experience any difficulty breathing or swallowing, go to the emergency room immediately. I'll have the lab requisition and referral information printed out for you now.
+PATIENT: Right. Okay. Emergency room if it gets worse. A week or two… great. Well, thanks, doc. I appreciate you taking a look, even if it's not good news yet. .
+DOCTOR: .

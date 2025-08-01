@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Mr. Kingan. I'm Dr. Donate. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just need a checkup for a team tryout. Gotta make sure I'm still able to, you know, do things. Don't want to pull a muscle before I even get started.
+DOCTOR: A team tryout, huh?
+PATIENT: Yeah. Local one. Been…keeping myself in shape, but figured it’s best to be safe. Getting old, you know? Not as quick as I used to be.
+DOCTOR: Sixty-two is… certainly a time when things start to decline. Alright. Well, “keeping yourself in shape” is rather vague. Can you tell me specifically what your activity level is?
+PATIENT: Uh… right. Well, I walk a lot. Pretty much every day. And… I lift some weights. Not heavy, mind you. Just enough to… keep things from completely falling apart. Used to do more, but… life happened.
+DOCTOR: “Some weights.” Right. And how long have you been maintaining this… routine?
+PATIENT: Oh, gosh… a few months now? Maybe longer. It all kinda blends together, to be honest. It's not like I keep a log or anything. Just… when I feel up to it, I do a little something.
+DOCTOR: So, intermittent exercise for an undefined period. And you’re concerned about a muscle pull for a tryout?
+PATIENT: Well, yeah! I mean, I don’t want to sound worried, but… a pulled muscle at my age? That's a whole thing. Recovery takes longer, you know? I just wanna make sure I’m not gonna hurt myself.
+DOCTOR: Alright. Let's try to get some specifics. Do you experience any pain currently?
+PATIENT: No, not really. A little stiffness in the mornings, but nothing I can't walk off. Honestly, I’ve felt worse.
+DOCTOR: "Honestly." Well, that’s reassuring, I suppose. Have you ever had any significant injuries?
+PATIENT: Hmm… I twisted my ankle playing volleyball years ago. Badly. Needed crutches for a while. But that was… decades ago. And I think I pulled a hamstring once, but it wasn't serious. Nothing a little rest didn’t fix.
+DOCTOR: Okay. And are you currently taking any medications?
+PATIENT: Nope. Don’t take anything regularly. Just… aspirin if my head hurts. That's it.
+DOCTOR: Alright. Any allergies to medications, or anything else for that matter?
+PATIENT: Nah. Nothing I know of. I eat pretty much anything. Unless it’s trying to eat me first.
+DOCTOR: Alright, Mr. Kingan. Let’s do a quick physical exam. I’m going to check your range of motion, reflexes, and listen to your heart and lungs. It's just a basic check to see if there are any glaring issues. Please sit up on the examination table.
+PATIENT: Sounds good, Doctor. Just… try not to pull anything on me while you’re at it, okay?
+DOCTOR: I assure you, Mr. Kingan, I am quite careful. Now, can you please extend your right arm straight out?
+PATIENT: There. Careful now, it’s a little… creaky.
+DOCTOR: Okay. And now, can you rotate your wrist clockwise and then counterclockwise?
+PATIENT: Like this? It feels… okay. A little stiff, but… yeah. I told you it was creaky.
+DOCTOR: Alright. Now, let’s check your reflexes. Please relax your leg. I'm going to tap just below your kneecap.
+PATIENT: Here you go. Don’t hit me too hard, okay?
+DOCTOR: Okay. And now the other leg. Now, if you don’t mind, I’m just going to listen to your heart and lungs. Please take a deep breath in… and out.
+PATIENT: Alright, done. Is everything okay? You’re awfully quiet.
+DOCTOR: Well, Mr. Kingan, your reflexes are a little sluggish, and your breath sounds are somewhat diminished. Your range of motion is within normal limits, but you do exhibit some discomfort with certain movements. I’m not going to say there’s anything majorly wrong, but your overall physical condition isn’t ideal for strenuous activity. Honestly, I’m a little concerned about you pushing yourself too hard in this tryout.
+PATIENT: So… you're saying I shouldn’t do it? But I’ve been training! I feel… pretty good, for my age.
+DOCTOR: "Pretty good" is subjective, Mr. Kingan. Based on my examination, and frankly, your vague medical history, I strongly advise against participating in anything that could put significant strain on your body. It's a risk you simply don’t need to take. We could order some imaging – a chest X-ray to look at your lungs, perhaps – but even without that, I believe it’s best to err on the side of caution. I can write you a note excusing you from the tryout, if you'd like.
+PATIENT: …Yeah. Okay. A note would… probably be best. I don't wanna end up in the hospital, I guess.
+DOCTOR: Alright. Here you go. This should suffice. I also recommend a follow-up with a specialist – a pulmonologist, given your diminished breath sounds. I can give you a referral, if you'd like. And frankly, Mr. Kingan, you should consider a more structured exercise program, supervised by a qualified professional. Do you have any questions?
+PATIENT: No, I… I think I got it. Pulmonologist, exercise program… Yeah. Thanks, Doctor. I guess that’s all. Can I… go now?
+DOCTOR: Yes, Mr. Kingan, you can go. And please, take my advice seriously. Don't push yourself. Have a good day. .
+PATIENT: .

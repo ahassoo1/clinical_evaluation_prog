@@ -1,0 +1,17 @@
+DOCTOR: Alright, Mr. Aluia, good to see you… or, well, to have you here. Look, I’m Dr. Pehrson. Busy day, so let’s get straight to it. What brings you in today?
+PATIENT: Oh, hi Doctor. It’s these… bumps on my legs. On my shins, mostly. They’re really hurting, and they’re red. Not itchy, just… sore. Been bothering me for a few weeks now, I think. Maybe a month? Time gets away from me, you know.
+DOCTOR: A month, huh?
+PATIENT: Yeah, roughly. It started when I was doing a bit more work outside, helping my son with the garden. Nothing too heavy, but more than usual, I guess. I thought it was just from that, but it hasn't gone away. It actually feels… worse sometimes now.
+DOCTOR: Garden work… alright. Any fever, chills, or anything else going on with you?
+PATIENT: No, no fever or chills. Nothing like that. Just the pain in my legs. I feel… okay, otherwise. A little tired, maybe, but I'm 71, Doctor. That's just getting old, right? I eat okay, I think. My wife makes sure of that.
+DOCTOR: Right. "Eating okay" is… helpful. Any swelling around the bumps?
+PATIENT: Hmm… swelling. Let me see… Yeah, a little bit, I think. Not a lot, but they do feel kind of puffy around them. It’s hard to tell, though, my legs… they swell a bit anyway, sometimes. It's the heat, maybe?
+DOCTOR: Alright. Let's take a look. Could you sit up on the exam table for me?
+PATIENT: Oh, sure, Doctor. Here we go… Old bones aren’t as helpful as they used to be! Is this okay? Do you need me to move my legs a certain way?
+DOCTOR: Hmm… yes. Red, raised nodules, some tenderness to palpation… slight edema as you mentioned. No warmth noted. Okay. History suggests… possibly stasis dermatitis. Have you had any venous insufficiency issues?
+PATIENT: Venous… what now? I’m sorry, Doctor, I don’t know what that is. My legs… they sometimes feel heavy, especially at the end of the day. And I think my wife mentioned something about… varicose veins, a long time ago? I never really paid much attention. Does that have something to do with it?
+DOCTOR: Varicose veins… alright. Look, it’s probably nothing serious. We'll just put some topical steroids on it, see if that clears it up. I'm going to write you a prescription. Don’t push yourself too hard with the gardening, alright?
+PATIENT: Okay, that sounds good, Doctor. Steroids… like the stuff athletes use? Just kidding! But seriously, thank you. And I’ll try to take it easy. My son will probably complain, but I’ll try. Will this medicine have any… side effects? Should I be worried about anything?
+DOCTOR: Topical steroids are very different from the other stuff. Minimal side effects. Maybe some skin thinning if you use too much for too long. Just apply a thin layer to the affected areas twice a day. If it doesn’t improve in two weeks, or if it gets worse, come back and we'll re-evaluate. Anything else?
+PATIENT: No, I think that’s everything, Doctor. Thank you for seeing me. And writing the prescription. I appreciate it. I’ll try not to bother you again too soon! .
+DOCTOR: Alright. Next! Have a good day. .

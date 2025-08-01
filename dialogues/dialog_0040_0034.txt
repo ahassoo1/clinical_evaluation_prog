@@ -1,0 +1,22 @@
+DOCTOR: Alright, Emileigh, is it?
+PATIENT: Yeah, that’s me. Hi. It’s nice to meet you, Dr… Osga, right? I just moved here, so I don’t really know anyone yet.
+DOCTOR: Yes, Osga. Look, I have a fairly full schedule today, so let’s try to be concise, shall we?
+PATIENT: Oh, okay, sure. Sorry. Um… I’m here because… well, I needed to find a doctor, and my insurance said to come here. I don’t really… have anything wrong, exactly. Just trying to get settled, you know? Is this like, a check-up?
+DOCTOR: “Settled.” Right. Medicare, rural… Honestly, most people come in with something. A check-up is fine, I suppose. Though, honestly, at your age, it's probably unnecessary. But, alright. Let's just get through the basics. Any major illnesses in the family?
+PATIENT: Um… that’s a hard question. I don’t… I didn’t really know my mom’s side of the family, and my dad… he didn’t talk about it much. I think he had… something with his heart, maybe? But I don’t remember details. Sorry. It was a long time ago.
+DOCTOR: Vague family history. Wonderful. Alright. Any allergies to medications?
+PATIENT: Hmm… not that I know of. I haven’t really taken much medicine, ever. I think… maybe when I was a little kid, for a fever? But I don’t remember what it was. I get pretty sleepy if I take anything, I think. But that could just be me being tired, haha.
+DOCTOR: "Sleepy." Right. And do you currently take any medications at all?
+PATIENT: No, not right now. Nothing. Just… vitamins sometimes, if I remember. But mostly I just… try to eat okay. Does that make sense? I work with machines all day, so I try to keep going, you know? It's kinda hard to explain.
+DOCTOR: Machines?
+PATIENT: Yeah! I'm a… a technician. Mechanical stuff. Fixing things, building things… I work at the mill, mostly. It's pretty loud, but it's good work. Does that… is that important? I just thought you were asking what I do all day.
+DOCTOR: It might be. Loud environments… occupational health concerns. Alright. Let’s just move on. Height and weight are on the chart, but I'll need to confirm. Stand up, please.
+PATIENT: Oh, okay! Sure. I'm not very tall, if that helps. And… yeah, the weight is probably right. I like good food, haha.
+DOCTOR: 150 centimeters, 82 kilograms… Alright. Now, let’s do a quick listen to your heart and lungs. Just breathe normally.
+PATIENT: Okay. I'm kinda ticklish, just so you know. Especially on my back. Is everything okay so far? I feel a little silly standing here, haha.
+DOCTOR: Heart rate is… within normal limits. Lungs are clear, though you do have slightly… diminished breath sounds. Possibly due to being short. It’s not alarming. Do you smoke?
+PATIENT: No, never! My dad… he didn't like smoking. And I don't really like the smell of it. I work around a lot of dust at the mill though… is that… bad? It kinda gets everywhere. I wear a mask sometimes, but not always.
+DOCTOR: Dust exposure... typical for your line of work, I suppose. Alright. Any recent illnesses?
+PATIENT: Hmm… not really. I had a cold a couple months ago, I think. But it didn't last long. Just a little sniffly and tired. Nothing serious. I just stayed home and drank a lot of tea. You know, the usual. Is that what you mean by "illnesses?" Like, something I needed to see a doctor for? Because I haven't had that in a long time.
+DOCTOR: No recent doctor visits. Vague illness history. Dust exposure. This is… sufficient for now. Alright. I'll recommend a yearly check-up to monitor these things. For now, I'll order a basic blood test just to get a baseline. .
+PATIENT: Oh, okay! That sounds good. A blood test… is that just to check everything’s okay? And… yearly check-ups, right. I can do that. Is there anything else I need to do, or… you know? Like, do I need to fast before the blood test? Or… anything?

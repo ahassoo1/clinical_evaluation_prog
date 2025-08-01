@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Ms. Reihner. I’m Dr. Trestrail. So, what brings you in today?
+PATIENT: Good morning, Doctor. I am here because of pain. It is… quite painful, actually. I would like to be quick, if possible.
+DOCTOR: Pain, alright. And you want to be quick, I understand. Can you tell me a little more about this pain?
+PATIENT: Yes. It is in my back. Lower back, mostly. It started… about a week ago, I think. It was not so bad at first, just a little ache after work. Now… now it hurts to even sit. And bending over? Forget it.
+DOCTOR: A week ago, starting as a mild ache after work, now preventing sitting and bending. Okay. And what kind of pain is it?
+PATIENT: It is… a dull pain. Not sharp, exactly. More like a heavy weight pressing on me. Sometimes it feels like it goes down my leg a little, but not all the way. Does that make sense?
+DOCTOR: A dull, heavy pressure, and occasionally radiating down the leg… partially. Yes, that gives me something to work with. When you say “after work,” what kind of work do you do, Ms. Reihner?
+PATIENT: I erect fences. It’s… physical work. Lots of lifting, digging… and walking in uneven ground. It is hard on the body.
+DOCTOR: Fence erection… lifting, digging, uneven terrain. I see. And when you're not at work, does anything specific seem to make the pain worse?
+PATIENT: Hmm… lying flat on my back is bad. Really bad. And… trying to twist. Just reaching for something on a high shelf… no. It is better to just… not move much.
+DOCTOR: Lying flat and twisting aggravate it, minimizing movement helps. Alright. Have you tried anything to relieve the pain already?
+PATIENT: Yes. I took some pills. Over-the-counter. Ibuprofen, I believe. Did not help much. And my daughter rubbed my back, but… only for a little while. She has children, you see. She is busy.
+DOCTOR: Ibuprofen offered minimal relief. Understandable. Okay, Ms. Reihner, I'm going to need to do a quick physical exam. Can you please lie down on the examination table for me?
+PATIENT: Yes, alright. If it will be quick, that is. It is a little high.
+DOCTOR: There we go. Better?
+PATIENT: Yes, much better. Thank you. Just let me know what you want me to do. I don't want to waste time.
+DOCTOR: Alright. I'm just going to feel along your spine and the muscles on either side. Tell me if anything feels particularly tender. Now, can you gently try to lift your right leg, keeping it straight?
+PATIENT: Yes. Ouch. That… that is not good. A sharp pain down my leg when I lift it.
+DOCTOR: Sharp pain with straight leg raise. Alright, and now the left leg. Same thing – lift it as high as you comfortably can.
+PATIENT: That one is better. Not much pain at all. Just a little stretching.
+DOCTOR: Okay. And can you bend forward, as far as you comfortably can, towards your toes?
+PATIENT: No. That… that is as far as I can go. It hurts. It’s not a good feeling.
+DOCTOR: Alright. Based on what you've told me and the examination, it appears you may have a lumbar radiculopathy – a pinched nerve in your lower back causing the pain radiating down your leg. The fact that lifting your right leg reproduces the pain is particularly suggestive. However, we need to confirm this with imaging. I’m going to order an X-ray of your lumbar spine to rule out any fractures or other structural issues. Do you have any allergies to contrast dye?
+PATIENT: Contrast dye? I… I do not know. I have never had an X-ray before, I don't think. I’m not sure about allergies. I… I’ve never had a reaction to anything, as far as I know.
+DOCTOR: Alright. We won’t be using contrast dye for a standard X-ray. It’s just a routine precaution. I'll send you to radiology right away. They will explain the procedure to you. It’s very quick and painless. In the meantime, I'm going to prescribe you a muscle relaxant and a non-steroidal anti-inflammatory to help manage the pain. Avoid any heavy lifting, twisting, or prolonged sitting. Do you have any questions for me at this point, Ms. Reihner?
+PATIENT: No. No questions. Just… when can I go home? I have things to do.
+DOCTOR: Alright. The radiology department is just down the hall, third door on the left. Once they've completed the X-ray, come back and let the nurse know. They'll give you your prescriptions and we can schedule a follow-up appointment to discuss the results. It should be relatively quick, Ms. Reihner. I'm going to give you a work note excusing you from heavy lifting and strenuous activity for two weeks. Here you go. Do try to rest. And if the pain becomes unbearable, or you experience any numbness or weakness in your legs, go to the emergency room immediately. Understand?
+PATIENT: Yes, I understand. Thank you, Doctor. Two weeks, no lifting. Emergency room if… if it gets worse. I think that is everything. Can I go now?
+DOCTOR: Yes, Ms. Reihner, you can go now. The nurse will escort you to radiology. Please follow up with me after you’ve had the X-ray. And please, take it easy. .
+PATIENT: Thank you again, Doctor. .

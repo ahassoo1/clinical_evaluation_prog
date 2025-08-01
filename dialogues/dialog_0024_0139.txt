@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Shanor. I am Dr. Mutnick. So, let’s get straight to it. What brings you in today?
+PATIENT: Good morning, Doctor. Referee… fitness check, yes? I need this done. Fast, if possible.
+DOCTOR: A fitness check… for refereeing. Right. While I appreciate your directness, Mr. Shanor, a proper medical evaluation requires a bit more detail than simply stating you “need it done.” For the record, and to ensure I’m covering all necessary bases, could you elaborate on why you require this check?
+PATIENT: Okay, okay. The… association. They want everyone checked. New rules. Before you can… work games. They want to make sure… no problems. I lost my wife… last year. So, I just want to get this done quickly. Sorry.
+DOCTOR: I understand. A new requirement from the association. And I am sorry to hear about your loss, Mr. Shanor. Though grief is not a medical condition, I acknowledge it can certainly impact one’s overall wellbeing. Let's focus on the medical aspect. To proceed, I need a comprehensive history. Have you experienced any recent changes in your health?
+PATIENT: Changes…? Not really. I work. Fix the… inside of the furnaces. Hot work. Sometimes tired. But always tired. Is that… a change? I don’t know. Everything feels… slow. But that’s… just life, I think.
+DOCTOR: "Slow," you say. Can you be more specific?
+PATIENT: Like… takes longer to get up in the morning. Harder to… run. Not much running in my job, but… for the referee thing. Used to be faster. Not sick, Doctor. Just… old, maybe? Thirty-one is old, right?
+DOCTOR: Thirty-one is not old, Mr. Shanor. However, your description is relevant. When did you first notice this increasing fatigue and… slowness?
+PATIENT: Maybe… six months ago? After… after everything with my wife. It started then. I don't… I don't know dates very well. But… after the funeral. It's been getting… worse slowly. Not fast. Like everything else.
+DOCTOR: Alright. And have you noticed any other symptoms accompanying this fatigue?
+PATIENT: Um… sometimes dizzy. Not fall-down dizzy. Just… light. And… I sweat more now. Even when it’s not hot. Like… just walking to work. I have to change my shirt sometimes. Is that… bad?
+DOCTOR: Sweating and dizziness… pertinent. Any chest pain, shortness of breath, palpitations, or unexplained weight loss?
+PATIENT: No pain. Short of… no. Heart feels okay. Sometimes beats fast when I… when I try to run. But that’s just… being out of shape, I think. Weight? Maybe a little. Hard to say. I eat… less now. Not because I want to. Just… no appetite.
+DOCTOR: Very well. And are you currently taking any medications, vitamins, or supplements?
+PATIENT: No. Nothing. I… I don’t like taking pills. Never needed them before. Except… sometimes a painkiller for my back. From the work. But not… regularly.
+DOCTOR: Any allergies to medications, food, or anything else?
+PATIENT: No. Nothing. I can eat anything. No problems. I… I think. Never had allergies. My wife… she was allergic to cats. But that’s… not me.
+DOCTOR: Alright, Mr. Shanor. Let’s proceed with a brief physical examination. I’ll need to check your blood pressure, pulse, respiration rate, and listen to your heart and lungs. Then we’ll do a neurological assessment. Do you have any objections?
+PATIENT: No. No objections. Just… make it fast, please? I have… things to do.
+DOCTOR: Very well. Please, have a seat. Blood pressure is 130/85. Slightly elevated, but not alarming. Pulse is 88, regular. Heart sounds are normal, though slightly rapid. No murmurs detected. Lungs are clear to auscultation bilaterally. Now, I need to check your reflexes. Please extend your arms.
+PATIENT: Okay. Hurry, please.
+DOCTOR: Reflexes are… diminished. Not absent, but certainly not brisk. Strength is 5 out of 5 in all extremities, though I detect some mild weakness in the lower legs. Now, I'm going to check your gait. Please stand and walk a few steps. Your gait is… slightly unsteady. A bit shuffling. Alright. Based on this preliminary examination, I am concerned. I need to order some blood work and a thyroid panel. Also, an EKG to rule out any cardiac abnormalities.
+PATIENT: EKG? Is that… serious? I just need this fitness check. For the referee thing. What’s wrong?
+DOCTOR: Mr. Shanor, I am not making any definitive diagnoses at this point. However, your symptoms – the fatigue, dizziness, sweating, diminished reflexes, unsteady gait – are concerning enough to warrant further investigation. The EKG is a simple test to assess your heart function. It's a precautionary measure. I also recommend a referral to a neurologist for a more comprehensive evaluation. I will order these tests immediately. The lab technician will contact you to schedule an appointment. Do you have any questions?
+PATIENT: Neurologist? This is… more than a fitness check. No. No questions. Just… can I still… referee? Until I get the results? I don't want to lose my… my games.
+DOCTOR: Mr. Shanor, I strongly advise against refereeing any games until we have the results of these tests. Your health is paramount. Continuing to exert yourself could exacerbate any underlying condition. I will provide you with a temporary medical restriction form. You will need to submit this to the association. I’ll have the nurse schedule a follow-up appointment for when the results are available. That will be all. .

@@ -1,0 +1,33 @@
+DOCTOR: Right. Mr. Brum, is it?
+PATIENT: Yes, that is me. Mitchell Brum. But everyone calls me Mitch. Is okay?
+DOCTOR: If you insist. Though, professionally, Mr. Brum is preferred. Now, let’s not waste time. What brings you in today?
+PATIENT: Ah. Sorry. Old habit. I have… a headache. In the back of my head. It’s been… a few days now. Not bad bad, but… always there. Like a weight.
+DOCTOR: A headache. Right. And how long exactly has this “weight,” as you put it, been present?
+PATIENT: Let me think… maybe four, five days? Started… Tuesday, I believe. Yes, Tuesday. We had a little rain Tuesday. Maybe that… I don't know. It just started then. Not a sharp pain, never been that. Just… there.
+DOCTOR: And can you describe the location more precisely?
+PATIENT: Hmm. Back of the head… right where the skull curves. And… it feels like it goes up a little, to the side. Not my forehead, not my temples. Just… the back. Like someone is holding a small stone there, always. Is that… clear? I try to explain, but… hard to put into words.
+DOCTOR: Adequate. Any associated symptoms?
+PATIENT: Associated… what does that mean? Like… with the headache? No fever, I don't think. No… blurry vision. I eat okay, sleep okay. Maybe a little tired, but I am ninety years old! Is normal to be tired, no? I don't… feel sick, just… this headache. Sometimes, a little dizzy, but that could be… getting up too fast.
+DOCTOR: Alright. Any nausea or vomiting?
+PATIENT: No, Doctor. No sickness. Nothing coming up. Just… the headache. And the tiredness. I drink my coffee, like always. Black, two sugars. Maybe I should cut back on the sugar? My wife… she always said… But that was a long time ago. Sorry, I get… lost sometimes. The headache doesn’t make it easy to think.
+DOCTOR: We’ll address the headache. Have you experienced anything like this before?
+PATIENT: Hmm. Not exactly like this. I get little headaches sometimes, behind the eyes. From the sun, maybe. Or if I don't drink enough water. But this… this is different. More… constant. And in the back. Never felt it there before. I worked with the trains my whole life. Lots of loud noises. Maybe that… damaged something? I don't know. I'm just an old man, Doctor.
+DOCTOR: Any family history of headaches, migraines, or neurological conditions?
+PATIENT: My mother… she had bad headaches. Always complaining. But she was a dramatic woman. Everything was a problem. My father… strong as an ox. Never sick a day in his life. And my sister… she moved to America when we were young. Haven't seen her in sixty years. I don't know about her. We lost touch. Does that help? I don't remember much about their sicknesses, to be honest. Long time ago.
+DOCTOR: Right. And are you currently taking any medications?
+PATIENT: No, Doctor. Nothing. I don’t like taking pills. My wife… she was always taking pills. For her nerves, she said. I always told her, fresh air and sunshine is better. But… she didn’t listen. Now, I just have a little headache. That’s all. Is there something wrong with me, Doctor? I'm getting worried.
+DOCTOR: Let’s not jump to conclusions. Do you have any allergies?
+PATIENT: No, I don't think so. Never had a problem with anything. I eat everything. Mangoes, bananas, beans, rice… I like food. Never had a rash, never had trouble breathing. My wife… she was allergic to cats. But I never liked cats anyway. Does that matter? I don’t understand why you ask so many questions. Is the headache something serious?
+DOCTOR: It is standard procedure, Mr. Brum. Now, I'm going to perform a brief neurological exam. Just follow my instructions. Can you tell me your date of birth, just to confirm?
+PATIENT: Oh. Sorry. Yes. May 12th, 1935. I remember that day well. My father took me fishing. Caught a big one! I was very proud. Is that… important for the headache? I keep forgetting what we are talking about. This is very strange.
+DOCTOR: Okay. Now, follow my finger with your eyes. Don't move your head. Left… right… up… down. Any dizziness or double vision?
+PATIENT: No dizziness. And no… doubling. Everything is clear. Just… a little tired. My eyes are old, Doctor. I’ve looked at a lot of things in my life. Trains, mostly. And my wife… I looked at her for a long time. Is this helping you figure out what is wrong? This headache… it’s getting to me. I just want it to go away.
+DOCTOR: Squeeze my hands. Now, the other hand. Good. Now, can you stand up for me?
+PATIENT: Yes, Doctor. I can stand. A little wobbly, but I can stand. Old bones, you know. Everything creaks. Is something… seriously wrong? I don't like hospitals. Or doctors. But I want this headache to stop. Is there a pill you can give me? Just something to make it go away?
+DOCTOR: Alright. Based on your symptoms and this brief examination, it's difficult to pinpoint a definitive cause. It could be tension headache, possibly related to age and stress. However, given your age, it’s best to be cautious. I’m going to order a CT scan of your head to rule out anything more serious. We’ll also check your blood pressure. Do you have any difficulty getting to the imaging center?
+PATIENT: A CT scan? Is that… dangerous? I don't like being poked and prodded. And I don't have a car, Doctor. I walk everywhere. My wife… she used to drive. But she’s gone now. I don’t know how I would get there. Is it very expensive? I don't have much money. Just my pension. This is all very… worrying. I just want to go home.
+DOCTOR: The CT scan is relatively safe, Mr. Brum. It's a standard procedure. As for transportation, the clinic can assist you with arranging a ride. It may be covered by a local assistance program; we'll need to check. Let me see what options are available… In the meantime, I can prescribe a mild pain reliever to manage the headache. It won’t solve the problem, but it may provide some temporary relief. Do you have any allergies to any medications?
+PATIENT: No, Doctor. No allergies. Never had a problem with any pill. Though, like I said, I don't like taking them. But if it helps… I suppose I can try. Is this headache… something I should be really scared about? My wife… she had a friend who… never mind. Is a silly story. But, please. Be honest with me. Is it bad?
+DOCTOR: Mr. Brum, it's impossible to say definitively without the results of the CT scan. Worrying won't help. We are taking appropriate steps to investigate the cause of your headache. It could be nothing, or it could be something that needs treatment. We will know more once we have the imaging results. I’ll arrange for the CT scan, and we’ll discuss the findings when they are available. Now, is there anything else?
+PATIENT: .
+DOCTOR: .

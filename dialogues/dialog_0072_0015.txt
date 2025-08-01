@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Ms. Boham. I’m Dr. Hembrey. It says here you’re forty years old. Welcome to the clinic. So, to start, could you tell me what brings you in today?
+PATIENT: Good morning, Doctor. Yes, forty years. It is… my sinuses, I think. They been… bothering me. Not good. It’s hard to say how bad, exactly. Just… pressure. A lot of pressure.
+DOCTOR: Pressure, alright. And how long has this pressure been going on, Ms. Boham?
+PATIENT: Hmm. That is… a good question. Not very long, I don’t think. Maybe… a week? Or two? It is hard to remember. Things been busy. My husband, he works… a lot.
+DOCTOR: A week or two. And would you describe it as constant pressure, or does it come and go?
+PATIENT: It… comes and goes, I think. But more comes than goes, maybe? It is worse when I… lie down, I think. And when it is cold. Not good with the cold.
+DOCTOR: Worse when lying down and with cold temperatures. Do you have any other symptoms accompanying this pressure?
+PATIENT: Other symptoms… Hmm. Maybe… a little tired. But I always a little tired. And… sometimes my nose feels… stuffy? But not always. It’s hard to say what is from the sinuses and what is… just me.
+DOCTOR: Okay. Fatigue and occasional nasal stuffiness. Have you noticed any fever, chills, or body aches with this?
+PATIENT: Fever… No, I don’t think so. Not that I know of. My husband, he checks sometimes, but… not recently. Chills… no. Body aches… maybe a little? But I work hard. It is hard work, what I do. So, maybe aches from that. I don’t know. Is that bad?
+DOCTOR: It’s not necessarily bad, Ms. Boham. We're just trying to get a complete picture. Have you experienced any facial pain, or tenderness to the touch around your sinuses – perhaps across your cheeks, forehead, or around your eyes?
+PATIENT: Facial pain… Sometimes, yes. A little. Across my cheeks, maybe. Not all the time. It is… hard to tell if it is from the work, or from… the sinuses. I drill rocks all day. It makes my face hurt sometimes. It is a very hard job. I am sorry.
+DOCTOR: I understand your job is physically demanding, Ms. Boham. Let's try to differentiate. When you lie down, is the pain worse on one side of your face than the other?
+PATIENT: Hmm. When I lie down… I think… maybe the left side? Yes, maybe the left side is a little worse. But not much. It is hard to tell. Everything feels… tight. And sometimes my head… hurts a little too. It is all mixed up.
+DOCTOR: Alright. We're gathering information. Now, have you noticed any changes in your sense of smell or taste recently?
+PATIENT: Sense of smell… No, I don’t think so. I can smell… everything. My husband, he cooks. I can smell that. Sometimes too much! Taste… no, everything tastes… normal. I think. I like spicy food. I can taste the spice. Is that good?
+DOCTOR: Yes, that’s good. Now, Ms. Boham, have you ever had sinus infections before?
+PATIENT: Sinus infections… I don’t think so. Maybe? It is hard to remember. My husband, he tells me about things. But I forget. I have been sick sometimes… colds, maybe? But not… infections. I don’t think so. Everything feels… fuzzy.
+DOCTOR: Alright. And are you currently taking any medications, including over-the-counter medications, vitamins, or herbal supplements?
+PATIENT: No, Doctor. Nothing. I don't take nothing. My husband, he says I need to rest more, but… I work. I don't have time for… medicine. I am sorry.
+DOCTOR: Very well. Now, do you have any allergies to medications, food, or anything else?
+PATIENT: Allergies… No, I don't think so. Nothing that I know of. My husband, he asks me, but I tell him no. I have never… reacted to anything. I think. Is that important? I am sorry if I am… not helpful. It is hard to remember everything.
+DOCTOR: Alright, Ms. Boham. Let's do a quick physical exam. I'm going to listen to your lungs and check your sinuses for tenderness. Would that be alright?
+PATIENT: Yes, Doctor. That is… okay. Whatever you need. I trust you. I am ready. I hope it is not too bad. I have to go back to work later, you see.
+DOCTOR: Alright. Please lean forward. I'm going to listen to your lungs first. Take a deep breath in… and out… Good. Lungs are clear. Now, I'm going to palpate your sinuses. This might be a little tender. Okay. Any tenderness here… or here… And here… hmm. There is some tenderness on the left side, as you mentioned. No significant swelling.
+PATIENT: Ouch. Yes, that… hurts a little. Not too bad, but… yes. It is better when you don’t press, though. I told you it was the left side. It is always the left side. Maybe… maybe I hit it at work? I don’t remember. Is it bad?
+DOCTOR: Alright, Ms. Boham. Based on your symptoms and the examination, it appears you likely have acute sinusitis, possibly with some localized tenderness on the left side. It’s difficult to pinpoint the exact cause without further testing, but it could be viral or bacterial. However, given your lack of insurance and the mild nature of your symptoms – despite your discomfort – I'm not going to order a CT scan at this time. We will treat this conservatively. I’m going to recommend over-the-counter saline nasal rinses twice daily, and you can take over-the-counter ibuprofen for the pain. If your symptoms worsen, or you develop a fever, chills, or severe facial pain, you must seek immediate medical attention. Do you understand?
+PATIENT: Saline… nasal rinses? Like… water in my nose? And ibuprofen… for the pain? I understand. No insurance… yes. It is… difficult. If it gets worse… I understand. But… what if I get too busy to come back? I have work, you see. I hope it doesn't get worse. Thank you, Doctor. .
+DOCTOR: Ms. Boham, it is imperative that you prioritize your health. If you develop a fever, or the pain becomes unbearable, you need to be seen. Do you have any further questions for me?

@@ -1,0 +1,38 @@
+DOCTOR: Hi Criston, welcome to the clinic. I'm Dr. DeCosta. It’s nice to meet you. So, tell me, what brings you in today?
+PATIENT: Hello Doctor. Nice to meet you too. I... uh... my pee is orange. It started a few days ago. I don't know why. It's a little scary.
+DOCTOR: Okay, orange urine, that’s definitely something worth checking out. It can be a little alarming, so you’re right to get it looked at. It’s good you came in. First, let’s talk a little more about it. When you say a few days ago, can you be a little more specific?
+PATIENT: Um... I think it was maybe Tuesday? Yes, Tuesday I noticed it. Before that, everything was normal. I drink a lot of water, usually. Maybe not enough water, but... a lot. I work outside, it's very hot.
+DOCTOR: Okay, Tuesday… and you work outside in the heat, drinking a lot of water. That gives us a starting point. Just to be thorough, have you noticed any other symptoms along with the orange urine?
+PATIENT: No... not really. I feel okay. Maybe a little tired, but I always feel a little tired. Working in the sun does that to you. No pain, no... uh... nothing else is different. Just the color. It's like… carrot juice. But pee.
+DOCTOR: Alright, “carrot juice” is a good description – helps me visualize it. No pain, no other changes… that’s good. Now, let's go through a bit of your medical history, just to rule things out. Have you had any medical problems in the past?
+PATIENT: Um... I broke my arm when I was a little boy. And I had the flu, many times. Nothing serious. My wife, she says I get sick easily. But no... no big problems. I don't take any medicine, usually. Sometimes, for headaches. But not often.
+DOCTOR: Okay, a broken arm as a child, the flu, occasional headaches… nothing major. And you generally don't take any medications?
+PATIENT: Yes, that's right. Only for the headache, sometimes. Like... ibuprofen, I think it's called? The white pills. My wife buys them. I don't know much about medicine.
+DOCTOR: Okay, ibuprofen occasionally for headaches. Good to know. And do you have any allergies to medications, food, or anything else?
+PATIENT: No, no allergies. My wife always asks me this question. I tell her, nothing. I can eat anything. I can touch anything. No problems. She worries a lot.
+DOCTOR: Okay, no known allergies, which is great. Now, a little about your family… Does anyone in your family have any significant medical problems?
+PATIENT: Uh... my father, he has... problems with his heart, I think. He is old. And my mother, she has... sugar problems? Diabetes, maybe? My wife knows more about this. She always talks to them about health. I just work.
+DOCTOR: Okay, your father with heart problems and your mother possibly with diabetes. That's helpful to know. And finally, just a couple quick questions about your lifestyle. Do you smoke?
+PATIENT: No! Never. I don’t like smoking. It’s bad for you. My wife would kill me if I smoked. She is very healthy, always exercise. I try to eat good too, but it’s hard with my job. It's very hot, very dusty. Makes you thirsty.
+DOCTOR: Good, no smoking. And do you drink alcohol?
+PATIENT: Sometimes. A little bit. Only on the weekends, maybe. With dinner. Not every weekend. Just... a glass of wine, or a beer. Not much. My wife drinks a little too. We are not big drinkers.
+DOCTOR: Okay, occasional alcohol, a glass of wine or beer on the weekends. That's good to know. Alright, Criston, that gives me a good starting point. Now, I’m going to need to do a quick physical exam and order some lab work to figure out what's going on with your urine. Is that okay with you?
+PATIENT: Yes, okay. That's good. Whatever you think is best, Doctor. I just want to know why my pee is orange. It scares my wife.
+DOCTOR: Absolutely. I understand. It’s good you're both getting it checked out. Okay, if you could just lie down on the table for me?
+PATIENT: Yes, okay. What will you do? Is it painful?
+DOCTOR: No, it shouldn’t be painful at all. I’m just going to listen to your heart and lungs, feel your abdomen, and check your skin. I’ll also need a urine sample, of course. Take a deep breath for me… and exhale. Good. Now another one… Everything sounds normal so far. Any tenderness here?
+PATIENT: No, not really. A little bit hard, maybe. But not pain. I work hard, maybe that's why.
+DOCTOR: Okay, a little firmness, understandable with your job. Now I'm going to check your skin. I'm not seeing anything unusual here, skin looks good. Now, could you please collect a urine sample for me?
+PATIENT: Yes, okay. Where do I... uh... go? Is there a bathroom?
+DOCTOR: Right through there. There’s a private bathroom. I’ll leave you to it. Just collect a sample in the cup provided, and I'll come back for it when you’re done. Take your time.
+PATIENT: Yes, okay.
+DOCTOR: 
+PATIENT: Here you go. It's... uh... very orange.
+DOCTOR: Thank you, Criston. Yes, I see it. I'm going to send this off to the lab for analysis. It should take a couple of days to get the results back. We’ll check your kidney and liver function, look for signs of infection, and see if anything else is going on. In the meantime, it's important to stay well-hydrated. Keep drinking plenty of water, even if you don’t feel thirsty. Do you have any questions for me right now?
+PATIENT: Stay hydrated, yes. My wife tells me that too. Um... is it serious? Like... will I be okay? My wife is very worried. And... uh... can I still work? I need the money.
+DOCTOR: I understand your concerns, Criston. It's good you're thinking about your wife and your work. It’s too early to say definitively if it’s serious. Orange urine can be caused by a number of things, some of which are harmless, like dehydration or certain foods. Others are more concerning, so that’s why we need the lab results. As for work, you can likely continue working, but please be mindful of staying hydrated and avoiding strenuous activity if you start to feel unwell. If you experience any fever, nausea, vomiting, or significant fatigue, stop working immediately and contact me. Do you want me to give you a sick note, just in case?
+PATIENT: A sick note... yes, please. That would make my wife happy. She worries a lot. Thank you, Doctor. You are very kind. So... we wait for the results. And drink water. I will tell my wife. She will be very relieved you are doing something.
+DOCTOR: You’re very welcome, Criston. I'm glad I can help ease your mind. Here you go. It’s just for a couple of days, just in case. The lab should have the results back within 48 hours. I'll call you as soon as I have them. In the meantime, if anything changes – any new symptoms, or if you start to feel worse – don’t hesitate to call me. Is there anything else I can help you with today?
+PATIENT: No, I think that's all. Thank you again, Doctor. You have been very helpful. I will wait for your call. And... I will drink more water. Goodbye.
+DOCTOR: You're very welcome, Criston. I’m glad I could help. Take care, and don’t worry too much. We’ll get to the bottom of this. Goodbye.
+PATIENT: Goodbye, Doctor. Thank you.

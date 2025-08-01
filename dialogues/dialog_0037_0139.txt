@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Mr. Shanor. Welcome to the clinic. I’m Dr. Octavis AX. It’s good to meet you. So, to start, can you tell me a little bit about what brings you in today?
+PATIENT: Morning, Doctor. Just…fitness check. For…referee. Need paper say I okay. Want quick, if possible. My wife…she would want me to keep busy.
+DOCTOR: Okay, a fitness-to-referee check – I understand. We can definitely do that. Just to be thorough, even for a routine check, I'll need to ask a few questions and do a brief physical exam. It won't take long, I promise. First, can you tell me a bit about the level of activity involved in refereeing?
+PATIENT: Uh…run a lot. Up and down court. Basketball mostly. Sometimes…volleyball. Not so much anymore. It's…fast. Sometimes long games. Not every day, though. Maybe…two times week? Depends.
+DOCTOR: Okay, so running, quick movements, basketball and some volleyball – a couple of times a week. That gives me a good starting point. Have you noticed any changes in your ability to keep up with that level of activity recently?
+PATIENT: No…not really. Little…tired sometimes. Old. You know? But I still can do it. No problem. Not like…can't run at all. Just…slower maybe. Wife…she always say I push too hard.
+DOCTOR: I understand. It's good you're aware of your limits, and it's even better that your wife looks out for you. "Little tired" is good to know. Now, can you tell me about any pain you've been experiencing?
+PATIENT: Pain? Uh…sometimes knee. Old injury. Basketball. Long time ago. Not bad. Just…ache after games. Sometimes morning. I take…medicine. Helps.
+DOCTOR: Okay, so some knee pain, especially after games and in the mornings, that’s managed with medication. Do you remember when you initially injured your knee?
+PATIENT: Hmm…long time ago. Maybe…ten years? More? College. Bad fall. Tore something. Doctor…fixed it. Surgery. Been okay since. Mostly. Just…gets sore.
+DOCTOR: Alright, a knee injury about ten years ago, repaired with surgery. And it's been mostly okay since, just occasional soreness. What kind of medicine are you taking for the soreness, if you don’t mind me asking?
+PATIENT: Uh…ibuprofen. The…white pills. Over the counter. Not…strong stuff. Just help with the ache. Not every day. Only after game.
+DOCTOR: Okay, ibuprofen as needed for knee soreness after games. That’s helpful to know. Do you have any other medical conditions like high blood pressure, diabetes, or heart problems?
+PATIENT: No. No. Doctor say I healthy. Just…old. Checkups every year. Everything okay. Blood pressure…normal. No sugar problems.
+DOCTOR: That's good to hear. And you mentioned annual checkups – when was your last physical exam?
+PATIENT: Last one…March. Doctor Lee. Downtown. Everything good then. Cholesterol…little high, he say. But nothing to worry about. He want me to…eat more vegetables.
+DOCTOR: Okay, a physical exam in March with Dr. Lee, cholesterol was a little high, and he recommended more vegetables – I’ll make a note of that. Do you have any allergies to medications, foods, or anything else?
+PATIENT: No allergies. Never had one. I eat everything. No problem. Wife…she allergic to cats. But I not.
+DOCTOR: Okay, no known allergies. Good. And are you currently taking any other medications besides the ibuprofen?
+PATIENT: No. Just ibuprofen. Sometimes…vitamins. Multivitamins. Wife buy them. For…old people.
+DOCTOR: Alright, just ibuprofen and occasional multivitamins. Now, let's talk about your family history. Are there any significant medical conditions that run in your family – things like heart disease, diabetes, cancer, or high blood pressure?
+PATIENT: Uh…father…heart problems. Had surgery. Long time ago. Mother…no. Healthy. Sister…diabetes. But she…not take care of herself. Eat too much sugar.
+DOCTOR: Okay, so a history of heart problems in your father and diabetes in your sister. That's helpful to know. And what about your lifestyle?
+PATIENT: Lifestyle? I…work. Fix things. Heavy work. Sometimes long hours. Smoke…a little. Not much. Used to be more. Wife…she always tell me stop.
+DOCTOR: Okay, heavy work, and you smoke a little. How many cigarettes would you say you smoke in a typical day?
+PATIENT: Maybe…five? Six? Not every day. When stressed. After work sometimes. Trying to cut back.
+DOCTOR: Alright, five to six cigarettes a day when stressed. Thank you for being honest about that. Now, before we do a brief physical exam, is there anything else you think I should know?
+PATIENT: No…I think that’s everything. Just want to be okay for refereeing. Wife…she would be happy. I want to finish quickly, if possible.
+DOCTOR: Okay, Mr. Shanor, I understand. We'll keep it quick, but thorough. Let's do a quick check of your heart, lungs, blood pressure, and a look at your knees. If you could please sit up on the table, we'll start with listening to your heart and lungs. It will only take a moment.
+PATIENT: Okay. Hurry up is okay, right? Just…need paper.
+DOCTOR: Yes, we'll keep it quick. Your heart sounds regular, no murmurs detected. Lungs are clear, good breath sounds bilaterally. Blood pressure is 142/88. A little elevated, but not drastically so. A little tenderness on the inner aspect of your right knee, but no significant swelling. Range of motion is good. Overall, a fairly normal exam. The elevated blood pressure and slight knee tenderness are things to keep an eye on, but nothing that would immediately prevent you from refereeing.
+PATIENT: Okay. Good. So…paper? I need paper for league.
+DOCTOR: Here you go. This form states that you've had a physical exam today, August 2nd, 2025, and are cleared for participation in athletic activities, with a note about monitoring your blood pressure. I've also included a recommendation to increase your vegetable intake and consider reducing your smoking. I would also recommend scheduling a follow-up appointment with your primary care physician, Dr. Lee, to discuss your blood pressure and smoking in more detail. Would you like me to provide you with a referral?
+PATIENT: Okay. Thank you, Doctor. Very much. No referral. I can call Dr. Lee. Just…happy to have paper. Wife will be happy. Thank you again.
+DOCTOR: You’re very welcome, Mr. Shanor. I’m glad we could get this sorted out. Remember, taking care of your health is important, and I’m here if you have any further questions or concerns. Have a good day, and best of luck with your refereeing! .
+PATIENT: Thank you, Doctor. You too.

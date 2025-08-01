@@ -1,0 +1,35 @@
+DOCTOR: Alright, Ms. Reihner, good to meet you. So, what brings you in today?
+PATIENT: Good day, Doctor Billman. It is… painful. My back, mostly. I wish to be quick, if that is alright. I have things to do.
+DOCTOR: Yes, well, we all do. "Painful," you say. Can you tell me a little more about this back pain?
+PATIENT: It is… hard to explain. It is not a sharp pain, exactly. More like… a heavy ache. Constant. It started… maybe three weeks ago? After I was building a fence for Old Man Hemlock. A lot of bending and lifting. I do not remember falling, or anything like that. Just… woke up with it. And it has not gone away.
+DOCTOR: Three weeks, started after building a fence…bending and lifting. Okay. And where exactly is the pain located?
+PATIENT: It is… low. In my lower back. Right across, you understand? Not on one side, but… the whole width. And sometimes it goes down my legs a little. Not to my feet, thankfully. Just… in the thighs. Does that make sense? I am not good at explaining these things.
+DOCTOR: Low back, across the width, radiating into the thighs...yes, that's helpful. Is it worse with any particular movements?
+PATIENT: Yes. Bending, of course. And… standing for a long time. Sitting is alright, if I have a good chair. But getting up from a chair… that is the worst. Like someone is pulling on me. I have to use my arms to push myself up. It is… embarrassing, to be honest.
+DOCTOR: Right. So, bending, prolonged standing, difficulty rising from a seated position. And you said it started gradually after the fence building?
+PATIENT: Yes, gradually. It did not happen all at once. One day, I just… felt more tired in my back than usual. And then it got worse each day. I thought it would go away on its own, but… it has not. I keep taking what the store sells for aches, but it does little.
+DOCTOR: Alright. And you’ve been taking over-the-counter pain relievers, and they haven’t provided much relief. Do you have any numbness, tingling, or weakness in your legs or feet?
+PATIENT: No, thankfully. No tingling, no numbness. My legs… they feel normal. I can walk alright. I just… get tired easier. And sometimes, like I said, they ache a little after a long day. But nothing… strange. Nothing like losing feeling.
+DOCTOR: Good. That's good. Now, let’s talk a little more broadly. Any fever, chills, or unexplained weight loss recently?
+PATIENT: No. No fever, no chills. And my weight… I have not noticed any change. I eat the same things, more or less. I do not have much appetite these days, but that is probably just… being old and tired. I do not know.
+DOCTOR: Alright. And are you having any problems with your bowel or bladder?
+PATIENT: No. Everything… works normally, if you understand. No trouble there. I apologize for being so… blunt. It is just… I do not like talking about these things. I just want to know if you can fix my back.
+DOCTOR: I understand. It's alright. We'll get to that. Now, just to be thorough, have you had any previous back problems, surgeries, or injuries?
+PATIENT: No. Never. I have been a fence builder my whole life. Strong work, but… nothing like this. Never broken a bone, never had surgery. Just… aches and pains from working hard. This is… different. And worse. It worries me.
+DOCTOR: Alright. No prior back problems, surgeries, or injuries. Let's talk about your medical history generally. Do you have any other medical conditions, like diabetes, heart problems, or arthritis?
+PATIENT: No. Nothing like that. Doctor said my blood pressure was a little high once, years ago, but it went back down. I take nothing for it. Just… try to eat healthy. I have Medicare, if that is useful. Is this taking long? I really do need to get back.
+DOCTOR: No, not definitively. Just trying to get a complete picture, Ms. Reihner. Medicare is noted. Alright. Now, any allergies to medications?
+PATIENT: No. None that I know of. I have taken all sorts of things for colds and headaches over the years. Nothing ever… reacted badly. I do not have a fancy list. Just… what the store has. Is this it? Can you tell me what is wrong?
+DOCTOR: Alright. Well, based on what you've told me, it sounds like a muscle strain, possibly aggravated by the fence building. But it's difficult to say for certain without an examination. I'd like to check your range of motion, reflexes, and strength. Is that alright?
+PATIENT: Yes. Yes, that is… alright. As long as it does not take too long. I just want to know if I need to stop working. I have bills to pay, you understand. And I do not want to lay in bed all day.
+DOCTOR: Alright. Please lie down on the table face down. I'm going to gently feel along your spine and ask you to move in certain ways. Just let me know if anything causes pain. And please, don’t hesitate to tell me if it’s too uncomfortable. Okay, just relax. Any tenderness here?
+PATIENT: Yes. Right there. That… that is sore. Not a sharp pain, but… a dull ache. Like someone is pressing on it. It feels… tight. Is that normal?
+DOCTOR: Yes, tightness is common with muscle strains. And here?
+PATIENT: Yes. It hurts more when you press there. And… a little to the side. Does that mean it is… bad? I do not like this. It is making me anxious.
+DOCTOR: Alright. Now, I’m going to ask you to lift your right leg, keeping it straight. And now your left leg. Any pain with either of those?
+PATIENT: Yes. Lifting my left leg… that is… uncomfortable. It pulls on my back. Not terrible, but… noticeable. The right leg is alright. No pain there. Does that mean something is… wrong with my left side?
+DOCTOR: It could indicate some nerve involvement, Ms. Reihner. It's not necessarily serious, but it warrants further investigation. I'd like to order some X-rays of your lower back to rule out any fractures or other structural problems. And then, we'll discuss a possible referral to physical therapy. Does that sound acceptable?
+PATIENT: X-rays? Physical therapy? That sounds… expensive. I am on a fixed income, Doctor. Will Medicare cover that? I do not want a lot of bills. And I really do need to get back to work.
+DOCTOR: Medicare should cover the X-rays, and likely a portion of physical therapy. We'll have to check the specifics. As for getting back to work, that depends on the results of the X-rays. I would advise against heavy lifting until we know what we’re dealing with. I'll write the order for the X-rays now. In the meantime, you can continue taking over-the-counter pain relievers as needed, and try to avoid any activities that aggravate your pain. Do you have any questions about that?
+PATIENT: No. No questions. Just… when can I get the X-rays done? And will they tell me if I can go back to work? I need to know. I really do need to know.
+DOCTOR: The radiology department will contact you to schedule the appointment. They are located at… Once the results are in, they will send them to my office, and we'll schedule a follow-up appointment to discuss them. As for work, I can’t give you a definitive answer until I see the results. Now, if there's nothing else… .

@@ -1,0 +1,40 @@
+DOCTOR: Alright, Mr. Gyamfi. So, what brings you in today?
+PATIENT: Good day to you, Doctor… Todoro…vich, yes? It is… a thing with the words. They do not come so easy now. Like they are… hiding. It’s been a few months, I think. Not a big problem, but… annoying. My wife, she would always say I have a good vocabulary, but… well.
+DOCTOR: Right. "Words are hiding," you say. And this has been going on for a few months. Okay. So, it's not a sudden thing then. Can you be a little more specific?
+PATIENT: Specific… yes. Hmm. It is not that I cannot think of the word, you understand. More like… the word is on the tip of my tongue, but it will not come out. Sometimes I know what I want to say, but I use… other words. Wrong words, maybe? It is… frustrating. I do not like to be misunderstood.
+DOCTOR: So, you’re aware of what you mean to say, but the correct words aren’t… accessible?
+PATIENT: Accessible… yes, that is a good word. Not accessible. Like… a locked room. I know the thing is in there, but I cannot find the key. It happens more when I am… talking quickly, I believe. When I have much to say. Slowing down helps… a little.
+DOCTOR: Okay. So, it’s exacerbated by speaking quickly, and slowing down offers some improvement. Have you noticed if it happens more frequently in certain situations?
+PATIENT: Situations… Hmm. Not that I can recall, precisely. I used to enjoy a good debate, you know. With friends. At the pub. But that was… some time ago. It does not seem to be worse when I am tired, or stressed. Though… perhaps a little worse when I am trying to explain something complicated.
+DOCTOR: Alright. And has this… difficulty with word-finding… impacted your ability to do your usual activities?
+PATIENT: Activities… yes. Well, my work is mostly paperwork now. Compensation and benefits… it does not require much… lively conversation. But… I used to enjoy helping people understand their options. Explaining things clearly. It is harder now, when I stumble over the words. People look… confused. It is… disheartening.
+DOCTOR: Okay. So, primarily affecting your ability to communicate effectively at work. Let’s go through some other things, just to get a clearer picture. Do you have any history of stroke, head injury, or neurological problems?
+PATIENT: No, Doctor. Nothing of that sort. I have been… quite fortunate in my health, all things considered. A few colds, the usual aches and pains of getting older, but… nothing serious. My wife… she had some troubles with her heart, but that was… different. Very different.
+DOCTOR: Alright. Any family history of similar issues?
+PATIENT: Similar issues… Hmm. That is a difficult question. My mother… she was not a very talkative woman. Perhaps she had trouble with words, but… no one ever spoke of it. My father… he was a very precise man. Very careful with his language. No, I do not recall any family members with… this specific problem.
+DOCTOR: Do you take any medications currently, Mr. Gyamfi?
+PATIENT: Only what the doctor prescribes for my blood pressure, Doctor. A small pill each morning. And… sometimes, if I cannot sleep, a little something to help. But nothing else. I am not one for… unnecessary things.
+DOCTOR: Alright. And any allergies to medications?
+PATIENT: No, Doctor. I have always been very lucky with that as well. No allergies to speak of. I can take most things without trouble. My wife… she was allergic to bee stings, but… that is not my problem.
+DOCTOR: Okay. Well, Mr. Gyamfi, based on what you’ve told me, it sounds like you may be experiencing aphasia. It's often associated with stroke, but you've indicated no history of that. It could be a number of things, really. I’d like to do a quick neurological exam, just to get a baseline. Is that alright?
+PATIENT: Aphasia…? That sounds… serious. Like something… very wrong. No stroke, Doctor, I assure you. But… a quick exam, yes. That sounds… sensible. If it will help determine what is happening, then… yes, please. I would appreciate it, very much. Though… what does this exam involve, precisely?
+DOCTOR: It's just a series of simple tests to assess your speech, comprehension, and ability to form sentences. I'll ask you to name some objects, repeat some phrases, and follow simple instructions. It shouldn't take long. If you could sit here, please. We'll start with naming these common objects. What is this?
+PATIENT: …This… this is… a writing… implement. A… tool for… marking. It… it escapes me. It is for… letters.
+DOCTOR: A pen, Mr. Gyamfi. It’s a pen. And this?
+PATIENT: …Water. It is… for drinking. To… quench thirst. A… liquid. Cool… and… refreshing. It… it feels wrong to take so long.
+DOCTOR: And this, Mr. Gyamfi?
+PATIENT: …This… this is… for… for opening. For… security. A… metal… thing. It… it is on the tip of my tongue! It is… something to do with… a lock! But the word… the word… it will not come.
+DOCTOR: Okay. Now, can you repeat after me?
+PATIENT: Yes, Doctor. I can certainly try. Please, proceed.
+DOCTOR: "No ifs, ands, or buts." Repeat that for me.
+PATIENT: …No… ifs… ands… or… boots.
+DOCTOR: "The quick brown fox jumps over the lazy dog."
+PATIENT: …The… quick… brown… fox… jumps… over… the… lazy… dog… it is… difficult. Very… difficult.
+DOCTOR: Alright, Mr. Gyamfi. That’s enough for now. Based on these preliminary findings, it does appear you’re experiencing some expressive aphasia. Now, it's important to rule out any underlying causes. I'm going to order an MRI of your brain. It's the best way to determine if there's any structural damage. I’ll also refer you to a neurologist for a comprehensive evaluation. We need to find out why this is happening. Do you have any questions?
+PATIENT: MRI…? A neurologist…? This is… more serious than I thought. Structural damage…? …Will this… will this be… painful? And… what if there is damage? Can it be… fixed? I… I do not understand.
+DOCTOR: The MRI isn’t painful, Mr. Gyamfi. You’ll just lie in a scanner for a bit. As for whether it can be “fixed”… that depends on the cause. We need to see the results first. The neurologist will explain your options. I’m going to give you a referral slip for the neurologist and the information for the imaging center. I also want you to avoid any strenuous mental activity until we have more information – no debates, no complicated paperwork. Do you understand?
+PATIENT: No debates… No complicated paperwork… …Yes, Doctor. I… I understand. Though… what is strenuous mental activity, precisely? And… how long should I… refrain? It feels… unsettling, not knowing.
+DOCTOR: Strenuous mental activity means anything that requires significant concentration or effort – complex problem-solving, detailed writing, trying to recall specific words… Essentially, anything that makes you struggle. Until we have the MRI results, I’d say… a week. Just take it easy. If you experience any changes in your symptoms – weakness, numbness, vision problems – go to the emergency room immediately. Do you have any other questions?
+PATIENT: Emergency room…? No, Doctor. I believe that is all for now. …Thank you, Doctor. For… explaining. Though… I confess, I am still… very worried.
+DOCTOR: Alright. You’ll receive a call to schedule the MRI and the neurologist appointment. Have a good day, Mr. Gyamfi. And please, try not to dwell on it. We'll figure it out.
+PATIENT: …Try not to dwell… .

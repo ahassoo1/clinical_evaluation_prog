@@ -1,0 +1,27 @@
+DOCTOR: Right. Mr. Kochubey, is it?
+PATIENT: Yeah, that's right. Bradlee Kochubey. It's... uh, a bit of a mouthful, I guess.
+DOCTOR: Yes, well. Let’s not dwell on names. You’re here today because…?
+PATIENT: Oh, right! The surgery. I'm… getting ready for that, I think. It's about losing weight, you know? My wife helped me set up the appointment. Honestly, I don't remember all the details. It was a lot to take in.
+DOCTOR: Weight loss surgery. Yes, I see a referral here. From…Dr. Abernathy, was it?
+PATIENT: Dr. Abernathy… yeah, that sounds right. He’s a good doctor, I think. I just... don't always remember things so well. He did a lot of tests, I know that much.
+DOCTOR: Hmm. Yes, quite a few. Bloodwork, EKG… and a consultation with a nutritionist. Did you follow through with the nutritionist appointment?
+PATIENT: A nutritionist… I… think so? Maybe? My wife would know for sure. I had a lot on my mind at the time. I'm sorry, I'm not very good with dates and appointments.
+DOCTOR: Right. Well, it was strongly recommended. It's rather important to adjust your diet before a significant surgical procedure. We need a baseline, Mr. Kochubey. Now, let’s focus on you. What specifically are you hoping to achieve with this surgery?
+PATIENT: Oh, um… well, I just want to feel better, you know? It’s hard to… do things. Get around. My wife worries a lot. And I want to be able to… play with my grandkids, when they visit. That’s important. Mostly, I just want to be healthy. Is that… too simple?
+DOCTOR: No, it’s… concise. Have you attempted any weight loss programs prior to this referral?
+PATIENT: Uh… I tried… a few things. Diets, I guess. My wife made me salads sometimes. And I walked a bit. But it never really… stuck, you know? I'd lose a little, then gain it back. It was frustrating. I'm not very good at sticking to things, I guess.
+DOCTOR: I see. And what is your typical diet now, Mr. Kochubey?
+PATIENT: Oh, boy… It’s not great, honestly. A lot of… fast food. My wife works long hours, so it’s easy. And… I like the taste, I guess. Burgers, fries… pizza. I try to have some vegetables sometimes, but… not enough. I know it's bad.
+DOCTOR: Understandable. Now, any allergies to medications or foods?
+PATIENT: Um… I don’t think so. I haven’t had any problems with medications before, but… honestly, I don't really remember. My wife usually handles all that. Should I know this?
+DOCTOR: It’s… preferable. Let's proceed with a quick physical exam, then. Standard procedure before any surgical intervention. Please step onto the scale.
+PATIENT: Okay, sure. A physical exam sounds good. I just… hope it doesn’t take too long.
+DOCTOR: 139 pounds. And your height is listed as 155 centimeters. That's… a BMI of 36.8. We are well into obese territory, Mr. Kochubey. Now, blood pressure. Please extend your arm.
+PATIENT: Okay… Thirty-six point eight… that sounds… not good, right? I’m not really a numbers person.
+DOCTOR: 140 over 90. Heart sounds are normal. Lungs are clear. Pulse is 82. I’m noting some mild abdominal adiposity, as expected. Anything else you’ve noticed?
+PATIENT: Abdominal…what? I… my stomach’s a bit big, I guess? That’s probably what you mean? And sometimes I get… heartburn? Especially after I eat something greasy. It's not too bad, usually. Just a bit uncomfortable.
+DOCTOR: Mild epigastric discomfort, consistent with dietary habits. Now, do you have any history of diabetes?
+PATIENT: Diabetes? I don’t think so. My wife would tell me if I did, right? I mean, she keeps track of all my medical stuff. I've never been told I have diabetes. Is that something I should know about?
+DOCTOR: Alright. Based on this limited assessment, you are a candidate for bariatric surgery. However, the success rate is significantly improved with lifestyle modifications prior to the procedure. I’m referring you back to Dr. Abernathy for further evaluation and a mandatory consultation with a registered dietician. Do not proceed with surgery until you’ve completed both. Do you understand?
+PATIENT: Uh… A dietician… okay. And don't do the surgery yet… So, more appointments? I guess so. I understand. It sounds… like a lot. But… if it helps, I'll do it. I just hope I can keep track of everything. .
+DOCTOR: Very well. My assistant will schedule those for you. I have other patients waiting. . Next time, please attempt to recall any medical history. It will expedite the process. . That is all.

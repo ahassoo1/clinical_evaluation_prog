@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Ms. Bonck. I’m Dr. Versace. So, tell me, what brings you in to see me today?
+PATIENT: Um, hi. Good morning. It's... it's kinda a check-up, I think? We just moved here. I have Medicare, and someone said I should come in and, like, get set up with a doctor? I don't really... remember everything super clearly.
+DOCTOR: Right, a new patient establishing care. And you said you recently relocated?
+PATIENT: Yeah, that’s right. Just a few weeks ago. From… somewhere up north. It’s fuzzy, honestly. Lots of trees, water… that’s all I really picture. It was… home, I think. But this place is nice too! Everything is so… different.
+DOCTOR: I see. And is this… memory issue something new, or has this been ongoing?
+PATIENT: Oh, um... it's kinda always been like this, I guess? Not bad bad, just... things don't stick real good. Like, I remember how to do stuff, you know? I work with machines, so that part’s fine. But dates and names and stuff… they just kinda float away. It hasn’t gotten worse lately, if that makes sense?
+DOCTOR: So, a generally long-standing issue with recall. We'll need to document that. And you mentioned you work with machines...what type of work do you do, Ms. Bonck?
+PATIENT: Um, I’m a… a technician, I think? Mechanical stuff. Like, fixing things, building things... I work with engines mostly. Small ones, for boats and… stuff. It’s good work, I like it. My husband helps too, he's really good with the… the computer parts of things.
+DOCTOR: Right, so physically demanding work then, and requiring some dexterity. Do you experience any pain or limitations with your work currently?
+PATIENT: No, not really. My back gets a little sore sometimes, but nothing I can't work through. Mostly just tired, you know? It's… a lot of lifting and bending and… being on my feet. But I’m used to it. My hands get kinda greasy too, but that's just part of the job!
+DOCTOR: Alright. And to get a more complete picture, let’s go through a quick review of your systems. Have you been experiencing any fevers, chills, or night sweats recently?
+PATIENT: No, not that I remember. Everything feels… normal. I haven’t been sick or anything. Sometimes I feel a little warm after working outside, but that’s just the sun, I think. No chills, though. Definitely no chills.
+DOCTOR: Okay. How about your appetite and weight?
+PATIENT: Um… my appetite’s okay, I guess. My husband does most of the cooking, so I eat what he makes. I think I’ve… maybe lost a little weight since we moved? But not much. It's hard to tell. I'm… usually around 150 pounds, give or take. I don't really keep track, sorry.
+DOCTOR: Alright. Any changes in your bowel habits or urinary function?
+PATIENT: Oh… um. Everything’s pretty regular, if you know what I mean? No problems there. Nothing different, really. I… I don't really like talking about stuff like that, sorry. Is that okay?
+DOCTOR: Yes, that's perfectly alright. Let’s move on. Do you have any chest pain, shortness of breath, or palpitations?
+PATIENT: No, nothing like that. I get a little winded sometimes when I’m climbing hills, but I’m not exactly… a runner, you know? Just normal, I think. No pain, though. And… palpitations? What’s that?
+DOCTOR: Palpitations are when your heart feels like it’s racing or fluttering. But never mind. Let’s talk about your medications. Are you currently taking any prescription medications, vitamins, or supplements?
+PATIENT: Um… I think I take a multivitamin sometimes? But my husband usually gets it for me, so I'm not really sure. And… no, I don't take any prescription stuff. Never have, as far as I remember. Maybe something for my… my knees, a long time ago? But it was just for a little while. I stopped taking it. It didn’t really help, I think.
+DOCTOR: Alright. Do you have any allergies to medications, food, or anything else?
+PATIENT: No, not that I know of. My husband always double-checks before I try anything new, just in case. I haven't had any bad reactions to anything, so I think I'm good. No allergies, as far as I remember! It's kinda hard to keep track, though. Sorry.
+DOCTOR: Right. And finally, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh, no! Definitely not. My husband doesn't like any of that stuff, and I don’t either. Never have. We just… like to relax at home, watch TV, that's all. No, none of that, thank you.
+DOCTOR: Alright, Ms. Bonck. Let’s do a brief physical exam, just to get a baseline. Can you step onto the scale for me?
+PATIENT: Okay, yeah, sure. No problem. I hope I’m not too heavy. I’ve been eating a lot of my husband’s cooking since we moved!
+DOCTOR: 82 kilograms. That’s… a bit higher than you indicated. And your height is 150 centimeters. Now, let's listen to your heart and lungs. Please take a deep breath in… and out.
+PATIENT: Okay… um… Is everything okay? It feels kinda cold. I hope I’m doing it right.
+DOCTOR: Your heart sounds regular, but slightly fast. Lungs are clear. Blood pressure is 130/85. Now, open your mouth and say "ah".
+PATIENT: Okay… ahhhhh. Is that okay? It feels… weird. I hope you can see everything alright. I think my throat's a little dry.
+DOCTOR: Throat looks normal. Reflexes are… adequate. Now, let’s discuss some potential causes for your memory issues. Given your history, and the slightly elevated blood pressure, we’ll need to run some blood work to rule out any underlying medical conditions. I'm particularly concerned about thyroid function and vitamin deficiencies.
+PATIENT: Oh… okay. Blood work? Does that mean something's wrong? I just… I always forget things, it's never bothered me too much before. Will it hurt? And… how long will it take to get the results?
+DOCTOR: It doesn’t necessarily mean something is wrong, Ms. Bonck. It's a precaution. The blood draw itself will be a minor discomfort – a quick pinch. The results usually take 3-5 business days. I'll also recommend a basic cognitive assessment to get a better understanding of your memory function. It's a simple test, nothing to be concerned about. We need to rule out everything before considering other possibilities. Do you have any questions?
+PATIENT: Um… Will this… cost a lot of money? My husband and I, we don't have a ton of extra money. And… the cognitive assessment… what does that involve? Will I… will I fail? I just… I don't want to worry my husband.
+DOCTOR: Medicare should cover most of the costs, Ms. Bonck, but you will need to confirm your coverage with them. The cognitive assessment is a series of simple questions and tasks, it is not a test to “pass or fail”. It’s simply a way to gather information. I’ll also write you a prescription for a daily multivitamin in the meantime. Now, I want you to schedule a follow-up appointment in two weeks to discuss the results. Do you understand?
+PATIENT: Okay… Medicare… okay. And the assessment… it's not a test. Good. Two weeks… I think I can remember that. Thank you, Doctor. That… that makes me feel a little better. I’ll… I'll call Medicare and schedule the appointment. .

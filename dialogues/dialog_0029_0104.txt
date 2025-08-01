@@ -1,0 +1,16 @@
+DOCTOR: Good afternoon, Ms. Ottaviani. I'm Dr. Chora. So, what brings you in to see me today?
+PATIENT: Well, Doctor, if I’m being frank, I don’t have a lot of time. My throat… it hurts. Has been for a bit now. It's just… unpleasant. I need to know what it is and how to fix it, quickly.
+DOCTOR: Okay, I understand you want to get this sorted out quickly. “A bit now” is a little vague though. Can you tell me how long exactly your throat has been hurting?
+PATIENT: Honestly? I… don’t recall precisely. A week? Maybe more. Time blends together, you know? It’s been… a while since my husband passed. It’s not like I’m keeping track of these things. Just… it hurts when I swallow. Is that important?
+DOCTOR: Yes, that is important. Pain with swallowing is definitely something we need to explore. A week or more… okay. And is it a constant pain, or does it come and go?
+PATIENT: It comes and goes. Mostly when I eat. Or drink. Things like that. It's… a nuisance. And I haven’t the energy for nuisances, Doctor. I have responsibilities at the plant. Very important responsibilities.
+DOCTOR: Alright. So, pain when swallowing, triggered mostly by eating or drinking, coming and going for about a week or more. Have you noticed any fever, chills, or body aches along with the sore throat?
+PATIENT: Fever? Doctor, I don't bother with thermometers. I feel if I'm sick. And no, I haven’t been shivering or anything dramatic. Just… a sore throat. Is this going to take long? I have a shift starting in a few hours.
+DOCTOR: Okay. No fever, no chills. Let’s take a quick look at your throat, just to get a visual. Please open your mouth for me and say “Ah.”
+PATIENT: There. Is that sufficient? Honestly, I don’t enjoy having people poke around in there. It's… unsanitary, you know.
+DOCTOR: Alright, alright. I see some mild redness in the back of your throat, but nothing overly concerning at first glance. Your tonsils don't appear swollen, and there’s no obvious white coating. Any tenderness when I press here?
+PATIENT: Ouch! Yes, that’s… a bit sensitive, actually. Not terribly painful, just… uncomfortable. Are you sure you need to do this? It's rather… invasive.
+DOCTOR: Okay. Tenderness in the neck, along with the sore throat and pain when swallowing. It could be a simple viral infection, or perhaps some early signs of strep throat. Just to be sure, I'd like to quickly do a rapid strep test. It's a quick swab, and it will give us a pretty definitive answer. Would that be alright?
+PATIENT: A swab? Honestly, Doctor… Must you? I suppose if it gets me out of here quicker… Fine. But be quick about it. And gentle. I don’t appreciate unnecessary discomfort. Really.
+DOCTOR: Alright. Just open wide and say "Ah" again. This will only take a moment. Okay, all done. Now we just wait a few minutes for the results to appear. Please have a seat, and I'll be with you shortly.
+PATIENT: Very well. The sooner this is over, the better. . Honestly, the things one has to endure… .

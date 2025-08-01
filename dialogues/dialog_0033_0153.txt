@@ -1,0 +1,33 @@
+DOCTOR: Right. Mr. Krahn, is it?
+PATIENT: Yes, that’s right. Krahn. Though, honestly, people just call me Brando. Look, is this going to take long? I’ve got… things to get back to.
+DOCTOR: Well, “long” depends on what’s going on. I need to understand why you’re here today. Just give me the basics, please. What brought you in to see me?
+PATIENT: Oh. Right. The… performance thing. They said I needed a check-up. Some kind of… clearance? I usher at the theater mostly, sell tickets sometimes. They want to make sure I don’t, uh… fall over during a show, I guess? It’s a little silly, honestly. I've been doing this for years.
+DOCTOR: Yes, well, liability, I suppose. And preventative care is always a good thing, even if you feel perfectly fine. So, you’re concerned about… dizziness?
+PATIENT: Dizziness? Not particularly. I… I don’t really remember anything specific happening. Maybe? It’s all a bit fuzzy, to be honest. I get a little… lightheaded sometimes, but I just sit down. Old age, probably.
+DOCTOR: "Lightheaded." And how often would you say this happens?
+PATIENT: Oh, goodness. Not often. A few times a month, maybe? It's hard to say, really. Like I said, my memory isn't what it used to be. It usually happens when I’ve been on my feet for a long time, I think. Standing in the lobby, greeting folks... you know.
+DOCTOR: Right. And any other symptoms accompany this “lightheadedness”?
+PATIENT: Hmm… let me think. Sometimes my hands feel a little… shaky. Not terrible, just… a little wobbly. And… occasionally, a bit of a ringing in my ears. But that could be anything, I suppose. Loud theater, lots of people talking… it’s a noisy place.
+DOCTOR: Alright. And are you currently taking any medications for anything at all?
+PATIENT: No, no medications. Never have been much for pills, if I can help it. I try to stay healthy, eat my vegetables… though I did have a donut with my coffee this morning. Don't tell anyone.
+DOCTOR: Very well. Any allergies to anything?
+PATIENT: Allergies? Not that I know of. I've never had a reaction to anything… not that I recall, anyway. I eat pretty much anything. Except maybe liver. I don't much care for liver.
+DOCTOR: And your family history… are there any heart problems, strokes, or anything similar that runs in your family?
+PATIENT: Oh, dear. That’s a tough one. My family… we didn't really talk about health much. My parents are gone now. And I wasn't very close with my… relatives. I think my mother’s brother might have had something… with his heart? But it was a long time ago, and I don’t remember the details. Very vague recollections, I’m afraid.
+DOCTOR: Right. Well. Let’s do a quick physical exam then, shall we?
+PATIENT: Yes, yes, that sounds… fine. Let’s just get this over with, if you don't mind. I really do have things to attend to.
+DOCTOR: Please, have a seat. I’ll listen to your heart and lungs first. Then we’ll check your reflexes and balance. Please remove your shoes and socks.
+PATIENT: Alright, alright. Shoes and socks off… Just let me know if anything feels… odd. I’m not very coordinated these days.
+DOCTOR: Heart sounds… slightly diminished, but regular rhythm. Lungs are clear to auscultation bilaterally. Blood pressure is 140/90… a little elevated. Pulse is 72 and regular. Now, let's check your reflexes. Patellar reflexes are 2+ bilaterally. Now, stand up slowly for me, and let’s see how your balance is.
+PATIENT: Oh dear… a bit wobbly, aren't I? It feels alright, but… I wouldn't trust myself to run a marathon, that's for sure. Is this… bad?
+DOCTOR: It's not necessarily bad, but it's certainly not optimal. You do have some mild balance issues. Let's just do a Romberg test. Please stand with your feet together, arms at your sides, and close your eyes.
+PATIENT: Oh… whoa… I… I don’t feel very good. Everything’s a little… spinny.
+DOCTOR: Alright, alright, sit back down. That’s enough of that. You're exhibiting some instability. Given your age and these findings, I think we need to order some further testing.
+PATIENT: Testing? What kind of testing? Is it… serious? I just need this clearance so I can go back to work. I don't want to spend a fortune on tests if it's nothing, you know?
+DOCTOR: Well, to rule out any underlying neurological or cardiovascular issues, I’d like to order a complete blood count, a basic metabolic panel, and an EKG. We should also consider a CT scan of the brain, given the instability and the report of dizziness. As for cost… I understand your concerns, but we need to be thorough. I will have the office look into potential financial assistance programs, given your uninsured status. But this is a matter of safety, Mr. Krahn. I'd also like to refer you to a neurologist for a proper assessment.
+PATIENT: A CT scan… a neurologist… Oh dear. This is getting complicated. I just want to know if I can stand in a lobby without falling over! I really don’t want to go through all this… is there anything else I can do? Maybe I can just… be extra careful?
+DOCTOR: "Extra careful" isn't a diagnosis, Mr. Krahn. Your symptoms, coupled with the instability we observed, require investigation. Until we have more information, I strongly advise against returning to work. We need to rule out anything serious before you put yourself, or others, at risk. I'll have the office schedule these tests for you as soon as possible. I understand this is inconvenient, but your health is the priority. Do you have any other medical conditions I should be aware of?
+PATIENT: No… no, nothing else. Honestly, I’m starting to feel a bit overwhelmed. This is… a lot. I guess… just schedule the tests, then. Whatever you think is best. And please, keep the costs as low as possible, alright? I'm on a fixed income.
+DOCTOR: Alright. Here's the referral to the neurologist, Dr. Lee. And here's the lab order. The lab is just down the hall. The office will contact you to schedule the CT scan. I've noted your financial concerns on the paperwork. We'll do what we can. I’ll need you to follow up with me once you’ve had the tests done. Any questions?
+PATIENT: No… I think that’s everything. Thank you… I guess. It's just… a lot to take in. I’ll go get these tests done. I suppose I'll see you later then.
+DOCTOR: Very well. Please don't hesitate to contact the office if you experience any worsening symptoms. Have a good day, Mr. Krahn.

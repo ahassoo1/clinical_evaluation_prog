@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Mr. Asthore. I am Dr. Blim. I see you're 83 years young. Now, let’s get straight to it. What brings you in to see me today?
+PATIENT: Good morning, Doctor. Yes, 83. Feels older some days, I tell you what. Well, it’s this… weakness. It’s been getting worse, you see. Not all at once, but… slow. It’s in my legs mostly, but my arms too, sometimes. Makes things… difficult.
+DOCTOR: Weakness, you say. “Slow,” is it?
+PATIENT: Yes, slow. Not like a fall or anything sudden. It just… feels like they don’t want to go sometimes. Like they're heavy. It makes walking… tricky. I used to be very strong, you know. Worked with athletes for many years. Not so much now.
+DOCTOR: Athletes, you say?
+PATIENT: Yes, sir. Athletic Trainers, that was my job. For a long time. Football, mostly. High school, college… helped keep the boys going. Used to be able to lift a grown man, easy. Now… ...not so much. It’s frustrating, I don’t mind telling you.
+DOCTOR: Very well. And how long has this… progressive weakness been occurring?
+PATIENT: Hmm… that’s a good question. It’s hard to say exactly. Maybe… a year now? A little more, maybe? It started small. Just a little tired feeling. I thought it was just getting old, honestly. But it’s kept… creeping. I didn’t think much of it at first.
+DOCTOR: “Creeping,” is it?
+PATIENT: Yes, creeping. That’s the best way to describe it, I think. Not fast, not painful, just… less. Less strength, less… go. It’s hard to explain. It doesn’t happen all the time, but more and more often. Especially after I’ve been… using my legs, you know? Walking around, standing.
+DOCTOR: And are you experiencing any other symptoms alongside this weakness?
+PATIENT: Other symptoms… let me think. Well, sometimes I get a little… blurry vision. Not all the time, and it goes away, but it’s there sometimes. And my balance isn’t what it used to be. I’ve stumbled a few times, but haven’t fallen yet, thankfully. Does that count?
+DOCTOR: Blurry vision and balance issues. Very good. Now, do you have any history of diabetes, sir?
+PATIENT: Diabetes? No, Doctor. Never been told I had diabetes. My wife, she keeps track of these things. She’d know if I did. She's always telling me to watch my sugar, though. Old man’s problem, she says. But no, no diabetes that I know of.
+DOCTOR: I see. And what about your medications?
+PATIENT: Medications… Well, I take something for my blood pressure. A small pill, every morning. And sometimes something for my arthritis, when it’s acting up. But that’s it, mostly. Nothing fancy. I try not to take too many pills, if I can help it.
+DOCTOR: Let’s proceed with a brief physical examination. Please stand for me. I’d like to check your strength and reflexes. And could you walk a few steps for me, sir?
+PATIENT: Alright, Doctor. Happy to. Just… be patient with me, okay? Old bones don't move like they used to. There. How is that?
+DOCTOR: Your gait is somewhat unsteady, and there is noticeable weakness in both lower extremities. Reflexes are diminished bilaterally, and there appears to be some muscle atrophy. I'd also like to check your upper extremities. Please extend your arms and hold them against my resistance.
+PATIENT: Alright. It’s… getting harder, you see? I used to be able to hold a weight up there all day. This… isn’t the same.
+DOCTOR: Very well. Based on your symptoms and this brief examination, I suspect you may be experiencing some form of neuropathy. It is difficult to say definitively without further testing, of course. We will need to run some blood work to check for vitamin deficiencies and underlying conditions. I will also order a nerve conduction study to assess the extent of the nerve damage. We need to rule out a number of possibilities.
+PATIENT: Neuropathy? Nerve… what now? Is that serious, Doctor? I just thought it was old age, you know? What kind of tests are we talking about? Blood work is fine, I guess, but a… nerve study sounds… unpleasant.
+DOCTOR: Neuropathy simply means damage to the nerves, sir. It can be caused by a variety of factors, including vitamin deficiencies, diabetes—which we're ruling out—and other underlying medical conditions. As for the nerve conduction study, it is a non-invasive test that measures the speed of electrical signals through your nerves. It involves placing small electrodes on your skin, and while it may be slightly uncomfortable, it is not dangerous. It is necessary to determine the cause and severity of your condition. I'll explain everything in more detail when we have the results. Now, do you have any allergies to medications?
+PATIENT: Allergies… Hmm… not that I know of. My wife always asks me that before I take anything new, and she’d tell me if there was something. I don’t react to anything, usually. Just getting old, I guess. Everything hurts a little bit anyway!
+DOCTOR: Very well. I will order the blood work and schedule the nerve conduction study for you. We will discuss the results and formulate a treatment plan at your follow-up appointment. I suggest you take it easy in the meantime, and avoid any strenuous activities. Now, is there anything else you’d like to discuss today, Mr. Asthore?
+PATIENT: No, Doctor, I think that’s everything. Just… I hope it’s not too serious. I’m a simple man, you see. Just want to be able to walk my dog again, that’s all. Thank you for your time.
+DOCTOR: Very well. The nurse will schedule your follow-up appointment and provide you with the necessary lab requisitions. Do try to follow my instructions. And, yes, attempting to walk your dog may exacerbate the condition. A little common sense, Mr. Asthore. That's all I ask. Good day.
+PATIENT: Yes, sir. Common sense. I’ll try. Thank you again, Doctor.

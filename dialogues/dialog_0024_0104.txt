@@ -1,0 +1,17 @@
+DOCTOR: Good morning, Ms. Ottaviani. I am Dr. Mutnick. Please, have a seat. Now, let’s get right to it. What brings you in today?
+PATIENT: Doctor… Mutnick, is it? Yes. Well, it’s my throat. It hurts. Been hurting for… a bit. I just want to be quick about this, if you don’t mind. I have things to do.
+DOCTOR: A bit is rather vague, Ms. Ottaviani. When did you first notice the throat pain?
+PATIENT: Honestly, I don't recall exactly. A week? Maybe more. It comes and goes, you see. It's not… constant. And really, what difference does it make when it started? It hurts now.
+DOCTOR: It makes a difference, Ms. Ottaviani, because the duration of symptoms can indicate the cause. Is it associated with any fever, cough, or runny nose?
+PATIENT: Fever? I haven’t checked. Runny nose… sometimes, I suppose. Everyone gets a runny nose. It's August, isn't it? Things are always running in August. I don’t see what that has to do with my throat. Are we getting anywhere?
+DOCTOR: A runny nose could indicate a common cold, or even allergies. It's important to be thorough. Have you noticed any difficulty swallowing or changes to your voice?
+PATIENT: Swallowing is… fine. Mostly. Sometimes it's a bit scratchy, yes. And my voice? It sounds normal to me. Look, Doctor, I am a practical woman. I work with machines all day. I don’t have time for… feelings. Is there something wrong or not? Just tell me what you think.
+DOCTOR: Ms. Ottaviani, I understand you're a busy woman, however, a proper medical evaluation requires more than a simple “wrong or not.” I need to actually examine you. Please open your mouth and say "Ah."
+PATIENT: There. Happy? It's probably just dust. My workplace is… not very clean. Can we be finished now?
+DOCTOR: I see some mild redness of the pharynx, Ms. Ottaviani. Your tonsils do not appear enlarged, and there's no visible exudate. Do you have any known allergies to medications?
+PATIENT: Medications… honestly, I can’t recall. It’s been a long time since I’ve needed anything. My late husband took care of all that. I don’t believe I’m allergic to anything specifically. But I really don’t want to spend all day listing everything I might have encountered. Is this going to take much longer?
+DOCTOR: Very well. Have you had a fever recently?
+PATIENT: I already told you, Doctor, I haven’t checked for a fever. I don't sit around taking my temperature. I feel… warm sometimes, like anyone does. Is this necessary? I'm wasting valuable time here.
+DOCTOR: Ms. Ottaviani, with all due respect, a fever is a crucial symptom. It indicates your body is fighting an infection. I need to know if you've been experiencing one. I will ask one final time: have you taken your temperature, and if so, what was the reading?
+PATIENT: This is ridiculous! I came in here for a simple throat ache, not an interrogation. I haven't taken my temperature, and frankly, I don’t intend to. If you can’t help me without a detailed medical history and a personal temperature log, then I'll find a doctor who can. .
+DOCTOR: Very well, Ms. Ottaviani. It seems a definitive diagnosis is not possible without more information. I would recommend you monitor your symptoms closely. If you develop a fever, difficulty breathing, or severe pain, please seek immediate medical attention. Perhaps an urgent care facility would be more… accommodating. .

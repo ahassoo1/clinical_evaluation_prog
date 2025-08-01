@@ -1,0 +1,21 @@
+DOCTOR: Good morning, Mr. Tayar. I am Dr. Paraskevopoulos. It says here you’re twenty-two years old. Now, please tell me, what brings you in to see me today?
+PATIENT: Morning. Yeah, twenty-two. Look, it’s about…travel. I need…shots, I think? For going somewhere. My wife…she would always take care of this. She knew everything. It’s…for a trip. A long trip.
+DOCTOR: I see. Travel vaccinations, then. Certainly. And where are you planning to travel to, Mr. Tayar?
+PATIENT: Somewhere…hot. Very hot. Lots of…sand. I don’t…remember the name. It was her favorite place. She…always talked about it. Before. It’s…far away. Really far. Does it matter? Just need what I need to go.
+DOCTOR: It does matter, Mr. Tayar. Different regions require different vaccinations. Knowing the specific location allows me to provide the correct protection. While I understand this is difficult, even a general idea would be helpful. Perhaps a continent?
+PATIENT: Continent…? Is that…like a big place? She said…Asia, maybe? Or Africa? One of those places with…animals. And heat. Lots of heat. She liked the…markets. Colorful things. I don't know! It all feels…blurry now.
+DOCTOR: Very well. Asia and Africa are both quite large, and have varying vaccination requirements depending on the specific country. To narrow it down, do you recall anything about the culture, the language, or any particular cities she mentioned?
+PATIENT: Cities…? She liked…the desert. Big sand dunes. And…camels. Lots of camels. She bought…a little statue. A camel statue. It was a gift for…her mother. She said the place…had old buildings. Very old. And spicy food. Very, very spicy. Is that…helpful? I just need to go. She wanted me to go.
+DOCTOR: Camels, deserts, old buildings, spicy food… While that paints a picture, Mr. Tayar, it’s still rather broad. Could it have been Egypt?
+PATIENT: Egypt…? Maybe…maybe! Yes! She had a book…a big book about Egypt. And the pyramids! She loved the pyramids. And…and the Nile river! Yes! That sounds…right. Egypt! Is that…good? Will I need a lot of shots?
+DOCTOR: Egypt it is, then. Excellent. And yes, travel to Egypt does require several vaccinations, depending on your prior immunization history and the areas you intend to visit. Let's start with a review of your records. Do you have any documentation of prior vaccinations?
+PATIENT: Records…? I…don’t think so. She always took care of that too. Everything. The doctor…the appointments…everything. I don’t…have anything. I just know I haven’t been sick. Not in a long time. But I didn't go anywhere without her.
+DOCTOR: Very well. In that case, we will need to proceed as if you have no prior vaccinations. I will need to administer a series of immunizations to ensure your protection. Before we do that, let’s review your medical history. Have you ever had any serious illnesses?
+PATIENT: Serious…? I had…the flu, once. A long time ago. But that’s it. Nothing else. I’m…usually healthy. She always said I was strong. Except…now. It’s not…easy, being healthy now. It's just...different. But I'm okay. Mostly.
+DOCTOR: Very good. And have you ever had any surgeries or been hospitalized for any reason?
+PATIENT: No. Never. No surgeries. No hospital. She always took care of me. Everything at home. She…she knew what to do. Just…everything. She handled it all. I…never had to worry about hospitals.
+DOCTOR: Alright. And what about allergies?
+PATIENT: Allergies…? Hmm… I don’t think so. I like…spicy food. Very spicy. She liked it too. Maybe…dust? Sometimes I cough when there’s a lot of dust. But it’s not…bad. Just a little cough. Does that count? I don't really...react to much.
+DOCTOR: A mild cough with dust exposure is unlikely to be a significant allergy, Mr. Tayar. Now, are you currently taking any medications?
+PATIENT: No. No medications. Nothing. She…she would give me vitamins sometimes. But that’s it. Just vitamins. Now…nothing. It’s…quiet now. Too quiet. Everything’s different. Without her…I don’t even remember what she used to give me. It's all blurry.
+DOCTOR: Very well. Let's proceed with the physical examination to assess your overall health and determine which vaccinations are necessary. Please lie down on the examination table. I will need to listen to your heart and lungs, check your blood pressure, and examine your abdomen.

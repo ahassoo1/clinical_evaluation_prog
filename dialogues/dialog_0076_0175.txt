@@ -1,0 +1,29 @@
+DOCTOR: Alright, Mr. Way, yes?
+PATIENT: Yeah, that’s me. Michael Way. Thanks for seeing me, Doc. It’s… well, it’s been bothering me for a bit now.
+DOCTOR: Bothering you how?
+PATIENT: It’s my back, mostly. Lower back. Just a dull ache at first, you know? But it’s gotten sharper lately. Makes it hard to… well, to bend over, even. And sitting for too long isn’t good either.
+DOCTOR: Right, lower back pain. Common enough. How long has this been going on, exactly?
+PATIENT: Hmm… let me think. It started, I guess, maybe… three, four weeks ago? It wasn’t bad enough to really do anything about it at first. Just a little stiffness after gardening, things like that. But the last week or so it’s really picked up. It’s… constant now, pretty much.
+DOCTOR: Gardening, you say?
+PATIENT: Yeah, I like to keep busy. Small vegetable patch, mostly tomatoes and peppers. Nothing too strenuous, but… bending, reaching, lifting… I suppose that could be it. My wife keeps telling me I should hire someone, but I like being out there. Plus, the tomatoes taste better when you grow ‘em yourself, you know?
+DOCTOR: Yes, well. Let’s focus on the pain itself. On a scale of one to ten, one being barely noticeable and ten being the worst pain imaginable, what number would you give it right now?
+PATIENT: Oh, okay. Um… right now? Probably a… six, maybe seven. It’s not crippling, but it’s definitely there, you know? And sometimes, when I try to stand up straight, it shoots up to an eight for a few seconds. It’s… unpredictable.
+DOCTOR: Unpredictable. Right. Any numbness or tingling in your legs or feet?
+PATIENT: No, thankfully not. No numbness or tingling. It’s just… achey. And stiff. Like an old man, I tell ya! But no, no weird feelings in my legs or feet. Just the back.
+DOCTOR: Alright. And have you tried anything to alleviate the pain?
+PATIENT: Yeah, my wife gave me some of that… I think it was ibuprofen? The regular kind you get at the drugstore. It helps a little, takes the edge off for a bit, but it doesn’t last. And I’ve been trying to stretch a bit, but it’s hard when it hurts to move. Honestly, I mostly just try to avoid doing anything that makes it worse.
+DOCTOR: Avoidance is rarely a long-term solution, Mr. Way. Let’s have a look at your back, shall we?
+PATIENT: Yeah, alright. Whatever you think is best, Doc. Just… be gentle, okay? It’s a little sensitive.
+DOCTOR: If you could just lie face down on the table for me, please. I'll need to palpate your spine and surrounding muscles. I’ll be as careful as possible.
+PATIENT: Okay, okay. Here goes. A little cold, this table is. Hope I don't catch a chill.
+DOCTOR: Alright. Tell me if anything feels particularly tender. I’m just assessing the range of motion and identifying any areas of discomfort. Hmm… yes, I feel some muscle spasm here, on the left side. And there’s some tenderness along the spinous processes. Can you tell me when specifically does it hurt the most?
+PATIENT: It’s… yeah, that spot is a little sore. Ouch. It hurts the most when I try to twist. Like, if I’m reaching for something behind me. Or bending over to put on my shoes. That’s when it really catches. And… honestly, even coughing sometimes. It’s ridiculous.
+DOCTOR: Alright. Coughing, you say?
+PATIENT: Yeah, like a sharp pain, right there. It’s not every time, but… enough to make me stop and catch my breath. It feels like something’s pulled, maybe? I don’t know, I’m not a doctor. I just know it hurts. And it's getting more frequent, too. It used to be just after gardening, now it’s… all the time, just varying degrees of bad.
+DOCTOR: Hmm. Well, it doesn't sound like anything immediately catastrophic. Likely a muscular strain, possibly with some facet joint irritation. However, given your age and the fact that it's persistent… and the coughing… I'm going to order some X-rays just to rule out anything more serious.
+PATIENT: X-rays, huh? Okay. Sounds… sensible. I don’t want anything broken or anything. Is that going to be expensive? I, uh… I don't really have insurance. It’s just my wife and I, you know? We're on a fixed income.
+DOCTOR: Yes, well. We can discuss payment options with the billing department. I wouldn’t want financial concerns to delay necessary care. The X-rays will give us a clearer picture of what’s going on. In the meantime, I’m going to prescribe you a muscle relaxant and a stronger anti-inflammatory. Use them as directed, and try to avoid any strenuous activity. We'll schedule a follow-up appointment once we have the results of the X-rays. Does that sound alright?
+PATIENT: Okay, alright. Muscle relaxant and anti-inflammatory… yeah, that sounds good. Anything to get some relief. And scheduling a follow-up, yeah, that works. Thank you, Doc. I appreciate you looking into it. Hopefully, it’s nothing too serious. I just want to be able to get back to my tomatoes, you know?
+DOCTOR: Yes, well. Tomatoes are important, I suppose. The X-ray order will be sent to the radiology department. They’ll contact you to schedule the appointment. Try to rest, Mr. Way. And if the pain worsens significantly before your follow-up, go to the nearest emergency room. Now, if that’s all… I have other patients waiting.
+PATIENT: Okay, alright. Thank you again, Doc. Rest, X-rays, emergency room… got it. I appreciate your time. .
+DOCTOR: .

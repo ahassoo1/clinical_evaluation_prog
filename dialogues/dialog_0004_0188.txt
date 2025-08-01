@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Secondi. I’m Dr. Deschane. So, tell me, what brings you in today?
+PATIENT: Morning, Doctor. It’s… my pee. It’s orange. I noticed it yesterday, and it’s still like that today. It worries me a little. I drink water, you know? A good amount.
+DOCTOR: Orange urine, alright. And you say you’ve been maintaining your usual fluid intake?
+PATIENT: Yes, Doctor. Same as always. Maybe… a little more water, because I was worried about it. But not a lot more. I don’t know if that makes a difference.
+DOCTOR: It could. Let's try to be precise, Mr. Secondi. When you say “a good amount,” roughly how many glasses of water do you drink in a typical day?
+PATIENT: Uh… hmm. Maybe… six? Seven glasses? Big glasses, you know? Like, this big. I drink water with lunch, dinner… and some in between. It’s hard to say exactly. I don’t count them.
+DOCTOR: Alright. And have you noticed any other changes?
+PATIENT: Like… what kind of changes, Doctor? You mean with my pee? It doesn’t hurt to go, and it smells… normal, I think. No fever, no stomach pain. I feel okay, really. Just the color is… strange.
+DOCTOR: Any changes in your stool?
+PATIENT: Stool? You mean… poop? No, Doctor. It’s… normal. Everything is normal except the pee color. I’m starting to worry I’m sick with something bad. I have work tomorrow.
+DOCTOR: And what sort of work do you do, Mr. Secondi?
+PATIENT: I’m an engineering technician. I work with… machines, mostly. Big machines. Some outside work, some in the office. It’s… physical sometimes. Not always. I check the machines, fix things… make sure they are working good. It’s a good job.
+DOCTOR: Do you take any medications, prescription or over-the-counter?
+PATIENT: No, Doctor. Nothing. I don't like taking pills if I can help it. Just… sometimes I take something for a headache, but not often. Just when it's really bad. Like ibuprofen, you know? The blue ones. But I haven't taken anything in weeks.
+DOCTOR: Alright. I'd like to do a quick exam, just to rule out anything obvious. We’ll check your abdomen and take a urine sample. Is that alright with you?
+PATIENT: Yes, Doctor. That’s okay. Whatever you need. I just want to know what’s wrong with my pee. The orange color… it scares me a little. You think it’s serious?
+DOCTOR: Let’s not jump to conclusions, Mr. Secondi. Many things can cause a change in urine color. We’ll gather some information and then we can discuss it. Please lie down on the table. I'll start with listening to your abdomen.
+PATIENT: Okay, Doctor. I hope it's nothing bad. I really need to be at work tomorrow.
+DOCTOR: Alright. No obvious tenderness or masses. Now, we’ll need a urine sample. I’ll leave you some privacy. There’s a cup in the bathroom. Please try to collect a mid-stream sample – start urinating, then collect a small amount in the cup. Let me know when you're finished.
+PATIENT: Okay, Doctor. Mid-stream… I think I understand. I will try.
+DOCTOR: Thank you, Mr. Secondi. We'll send this off to the lab for a urinalysis. That will give us a better idea of what's going on. In the meantime, do you have any allergies to medications?
+PATIENT: No, Doctor. No allergies. Never had any problems with medicines before. I can take… penicillin, I think. Or… amoxicillin. Whatever they give. I don't remember the names, but I have never had a bad reaction to anything. I’m pretty healthy, usually.
+DOCTOR: Alright. We'll wait for the lab results. They usually take about an hour. In the meantime, I'd like to discuss a couple of possibilities. While it's unlikely to be serious, orange urine can sometimes be caused by dehydration, certain medications, or liver problems. More commonly, it's caused by something harmless like food dyes or supplements. We’ll rule out anything concerning with the lab work. Do you take any vitamins or supplements?
+PATIENT: Supplements? Hmm… My wife, she buys me some. For… energy. Little pills. I don’t remember the name, but she says they are good for me. I take them every morning with breakfast. They are… orange, actually. Little orange pills. Could that be it?
+DOCTOR: It's certainly a possibility, Mr. Secondi. That’s a good piece of information. It seems increasingly likely that the supplement is the culprit. However, we still need to rule out other causes with the urinalysis, just to be thorough. We'll get those results as soon as they're available and discuss them with you then. In the meantime, I recommend temporarily stopping the supplement to see if the urine color returns to normal. Do you understand?
+PATIENT: Yes, Doctor. I understand. Stop the orange pills. Okay. My wife will be mad, but… I need to know what's wrong with my pee. So I will stop them. Thank you, Doctor. I feel a little better now, knowing it might be something simple. How long until the results are back? About one hour, you said?
+DOCTOR: Yes, approximately one hour. The nurse will come and get you when they’re ready. In the meantime, if you experience any pain, fever, or difficulty urinating, please notify us immediately. Otherwise, just try to relax. We’ll have answers for you soon.
+PATIENT: Okay, Doctor. I will. Thank you very much. I appreciate your help. I will wait here.
+DOCTOR: Alright. .

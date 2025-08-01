@@ -1,0 +1,29 @@
+DOCTOR: Right, Mr. Bulaong. Welcome to the clinic. So, tell me, what brings you in today?
+PATIENT: Uh, hi. It's... my chest. It hurts a little. Not all the time, but... yeah. It's my chest.
+DOCTOR: “A little” is rather vague, isn’t it?
+PATIENT: Yeah, sorry. It's not bad bad. Like... sometimes when I move, or... I don't know. It's just... uncomfortable. Mostly on this side.
+DOCTOR: And how long has this “uncomfortable” feeling been going on?
+PATIENT: Hmm... maybe a week? A little more than a week, I think. It started... after I was fixing a roof. Lots of reaching and... you know, working with my arms up high.
+DOCTOR: Fixing a roof, you say. And you’ve noticed it’s worse with movement, particularly reaching?
+PATIENT: Yeah, that's right. Reaching up, or even... if I twist too fast. It's not a sharp pain, more like... a ache. And sometimes it feels... kind of full, you know? Like... heavy.
+DOCTOR: “Full and heavy.” Right. Have you noticed any shortness of breath with this, or any pain radiating into your arm or jaw?
+PATIENT: No, no shortness of breath. And no, it doesn't go into my arm or jaw. Just... in my chest. Like right here. It's not bad enough to worry about, I don't think. But my wife said I should come get it checked.
+DOCTOR: Wives always worry, don’t they?
+PATIENT: Yeah, she does. She's a good woman. She just... she gets scared easy. I didn’t want to worry her more, but she made me come. Is it something bad?
+DOCTOR: Well, at your age, and given the activity you were doing, it's likely musculoskeletal. Probably a strained muscle or some inflammation from reaching and working overhead. But we can't rule things out without a proper examination. Let’s have a listen to your lungs and heart, just to be certain. Would that be alright?
+PATIENT: Yeah, that sounds good. Whatever you think is best. I trust you. Listening sounds... smart. I just... hope it's not something serious. I gotta work, you know? Fixing roofs. Gotta make money.
+DOCTOR: Alright, if you’ll just hop up on the table and lie back. I'll need you to remove your shirt, if you don’t mind. We’ll start with listening to your heart and lungs, and then I’ll feel around your chest to check for any tenderness. Don’t worry, it shouldn’t be painful. Let's just get this sorted out quickly, shall we?
+PATIENT: Okay. Shirt off, huh? Alright. Hope it's quick, like you said. It's a little chilly in here.
+DOCTOR: Take a deep breath in... and out... again... Good. Lungs sound clear, thankfully. Heart rate is normal. Now, let's check for tenderness. I’m going to gently press on your chest in a few places. Tell me if anything feels particularly sore. Does this feel painful?
+PATIENT: Ooh, yeah. Right there. That's where it hurts. Not bad bad, but... yeah. That's the spot. A little sore. Like a bruise, almost. But I don't remember hitting anything.
+DOCTOR: Hmm. Tenderness is localized, that’s something. Not radiating. Alright. And you haven't noticed any swelling or redness in that area?
+PATIENT: No, no swelling. And no redness. Just... sore. Like you said, when I reach, or twist. It's been like that for a week now. I didn't see any redness. My wife would have noticed. She notices everything.
+DOCTOR: Well, it sounds like a musculoskeletal strain, most likely from the work on the roof. It’s fairly common. We can get an X-ray just to be absolutely certain there’s no fracture, but I suspect it's just a pulled muscle. Does that sound reasonable?
+PATIENT: An X-ray? Uh... I guess so. If you think it's best. I just... I don't want to spend a lot of money if it's just a pulled muscle. How much would an X-ray cost?
+DOCTOR: Let’s not get ahead of ourselves. I’m not convinced an X-ray is necessary at this point. It's an expense, you’re right. Let’s start with some conservative treatment - rest, ice, and over-the-counter pain relievers. If it doesn’t improve in a week or so, then we can discuss imaging. How does that sound?
+PATIENT: Rest, ice... yeah, I can do that. Over-the-counter... like ibuprofen? A week, huh? Okay. If it doesn’t get better, then we talk about the X-ray. That sounds... good. Less money is always good.
+DOCTOR: Exactly. Ibuprofen will help with the inflammation. Take two tablets with food, three times a day. Avoid strenuous activity for at least a week. If the pain worsens, or you develop any shortness of breath, or any pain radiating into your arm or jaw, go to the nearest emergency room immediately, understand?
+PATIENT: Okay. Ibuprofen, three times a day. No heavy work. And go to the hospital if it gets worse. Got it. No shortness of breath, no arm pain... okay. Thank you, doctor. That makes me feel a lot better.
+DOCTOR: Good. It's likely just a strain, as I said. Don't overdo it, and give it time to heal. If there's no improvement in a week, make an appointment, and we'll revisit it. Now, off you go. I have other patients waiting.
+PATIENT: Okay, okay. Thank you again, doctor. I appreciate it. I’ll see you if it doesn’t get better. Have a good day.
+DOCTOR: Mm-hm. You too. Next!

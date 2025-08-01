@@ -1,0 +1,41 @@
+DOCTOR: Good morning, Mr. Bulaong. Welcome to the clinic. I’m Dr. Beinborn. It’s nice to meet you. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um, well, my chest… it hurts. Not all the time, but sometimes. It’s like a pain… in my breast. It’s been happening for… a little while now, I think.
+DOCTOR: Okay, chest pain. I see. And you said “a little while now”… can you be a bit more specific?
+PATIENT: Hmm… maybe two, three weeks? It’s hard to say exactly. I work a lot, on roofs, so I don’t always pay attention to dates. It comes and goes. It’s not always there.
+DOCTOR: Right, working on roofs… that’s good to know. And it comes and goes. Can you describe the pain for me?
+PATIENT: It’s… not a sharp pain. More like… a heavy ache? Sometimes it feels like… full feeling? Not like something is broken, just… uncomfortable. And it’s not just one spot, it can be… all over, kinda. Mostly on the left side, I think.
+DOCTOR: Okay, a heavy ache, a full feeling, mostly on the left side… and it comes and goes. Does anything specifically seem to trigger it, or make it worse?
+PATIENT: Hmm… not that I’ve noticed. Working makes it… feel something, but I’m always working! Maybe… when I lay down? Sometimes it feels… more when I’m trying to sleep. But even then, it’s not every night.
+DOCTOR: Okay, so possibly worse when laying down, but not consistently. And you said it’s mostly on the left side. Does the pain radiate, or spread anywhere else – your arm, neck, back, jaw perhaps?
+PATIENT: No, not really. It stays in my chest, I think. Doesn’t go up my arm or anything. Sometimes my shoulders are sore from work, but that’s… different. This is… in the chest. Like, where my… you know… breast is.
+DOCTOR: Okay, localized to the chest, not radiating. You mentioned it feels like it’s where your breast is. Have you noticed any changes to the breast itself – any lumps, discharge, redness, or skin changes?
+PATIENT: No… I don’t think so. I haven’t really… looked closely. I just feel the pain. Everything looks… normal, I guess. I mean, it’s always been kinda flat, if that makes sense. Not… big. I haven't noticed anything different about how it looks.
+DOCTOR: Okay, no visible changes that you’ve noticed. Now, let’s talk a bit more broadly. Have you had any other symptoms along with this chest pain – shortness of breath, nausea, sweating, dizziness, palpitations, or fatigue?
+PATIENT: Hmm… I get tired, yeah. But I work on roofs all day! So I always feel tired. Nothing… extra tired. I haven’t been sweating or anything. And no, no dizziness or… what was the other one? Pal… pal-pit-a-shuns? No, I don't think so. Just the pain, and the tiredness from work.
+DOCTOR: Okay, just pain and work-related fatigue. Let's move on to your medical history. Have you ever been diagnosed with any medical conditions, like heart problems, diabetes, high blood pressure, or anything else?
+PATIENT: No, not that I know of. I haven’t really been to the doctor much. I usually just… push through. I don’t get sick often, and when I do, it’s just a cold. I haven’t had any big problems… until this chest pain.
+DOCTOR: Alright. And have you ever had any surgeries or been hospitalized for anything?
+PATIENT: No, never. No surgeries, no hospital. I broke my arm when I was a little kid, but that’s it. Just a cast. Nothing serious.
+DOCTOR: Okay, no significant medical or surgical history. Now, are there any medical conditions that run in your family – heart disease, cancer, diabetes, things like that?
+PATIENT: Hmm… my father… he had problems with his heart, I think. He was always… tired. He died when I was young, so I don’t remember much. And my mother… she had… I don’t know what it was. She died young too. Nobody really talked about it.
+DOCTOR: Okay, some family history of early mortality, with potential heart problems in your father. Do you know anything about your mother's cause of death?
+PATIENT: No, not really. It was… a long time ago. Something with… her stomach, maybe? But I was just a boy. Nobody talked about it much. It wasn’t… a nice thing to talk about. They just said she got sick.
+DOCTOR: Okay. Let's talk about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no smoking. I drink… sometimes, with my wife. A little beer, maybe on the weekends. Nothing much. And no, I don’t use any drugs. Never have.
+DOCTOR: Okay, minimal alcohol use. Now, are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: No, nothing. I don't take anything. Just… try to rest when I can. I don't like taking pills if I can avoid it.
+DOCTOR: Alright. And finally, do you have any allergies to medications, food, or anything else?
+PATIENT: No, not that I know of. I can eat anything. My wife makes good food! Never had a reaction to anything.
+DOCTOR: Okay, no known allergies. Now, Mr. Bulaong, I’d like to do a brief physical exam. Is that alright with you?
+PATIENT: Yes, that's fine. Whatever you think is best, Doctor.
+DOCTOR: Okay. I'm going to listen to your heart and lungs, and then I'll take a look at your chest, and feel around gently. Just let me know if anything feels uncomfortable. Your heart sounds… regular, but a little fast. And your lungs are clear. Now, I’m going to gently palpate your chest. Does this bring on any pain?
+PATIENT: Yes… a little. When you press… right here. It's not a sharp pain, but it's the same kind of ache. Not too bad, just… uncomfortable.
+DOCTOR: Okay, tenderness to palpation on the left side of your chest. I don’t feel any distinct lumps or masses at this time. Now, let’s check your blood pressure. Your blood pressure is a bit elevated, 140/90. Your pulse is 88. Given your symptoms, family history, and the findings on the exam, I think it’s important to run some tests to get a better understanding of what’s going on. Would you be willing to get an EKG, and some blood work?
+PATIENT: An… EKG? And blood work? What will those… show? I don’t really like needles. But if it will help… I guess so. If you think it’s important, Doctor.
+DOCTOR: Okay, I understand your hesitation. The EKG, or electrocardiogram, is a quick, painless test that checks the electrical activity of your heart. It can help us see if there are any signs of a heart problem. The blood work will check for things like inflammation and other markers that could give us clues as to what’s causing your chest pain. It's possible the pain isn't related to your heart, but given your history and the tenderness you’re experiencing, it’s best to be thorough. We can start with the EKG first, and then do the blood work. If everything looks normal, we can discuss other potential causes and treatment options. Does that sound okay?
+PATIENT: Okay… that sounds… alright. EKG first, then blood work. If it’s not my heart, that’s good. I don’t want to worry my wife. Where do we do the EKG? Is it… a lot of wires? I don’t like feeling trapped.
+DOCTOR: Okay, good. We'll start with the EKG. It doesn't take long, and it's not very invasive. It involves placing some small, sticky patches – electrodes – on your chest, arms, and legs. They connect to a machine with some wires, but it’s not very restrictive. You'll lie down comfortably while the machine records your heart's electrical activity. It won't take more than five or ten minutes. The technician will explain everything to you before they start. I'll review the results as soon as they're available. Let me get the order for that started, and I’ll have the technician come get you when they’re ready.
+PATIENT: Okay… thank you, Doctor. I appreciate you… explaining everything. I hope it’s nothing serious.
+DOCTOR: You're very welcome, Mr. Bulaong. That's what I'm here for. We'll take it one step at a time. Let’s get those tests done and see what they reveal. The technician, Maria, should be with you shortly. In the meantime, try to relax. Do you have any questions before Maria arrives?
+PATIENT: No… I think that’s all. Just… a little worried, but I trust you, Doctor. Thank you.
+DOCTOR: Okay. Well, I’m going to step out for a moment to review some other patients’ charts. Maria will be here any minute. She’ll take good care of you. Don’t hesitate to let me or Maria know if you feel uncomfortable at any time.

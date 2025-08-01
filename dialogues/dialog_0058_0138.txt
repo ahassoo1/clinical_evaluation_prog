@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Ms. Tofani. I'm Dr. Todorovich. So, what brings you in to see me today?
+PATIENT: Oh, good morning, Doctor. It’s nice to meet you. Let me see… well, it’s a bit hard to explain, honestly. My memory isn’t what it used to be. It’s… family history, mostly. My son, he’s been worried about me. Something about… weakness on one side? And terrible headaches run in the family, you see. My mother had them something awful. I just wanted to get it checked out, just in case.
+DOCTOR: Right, family history is important. Weakness on one side… and headaches. Okay. When did you first start noticing this weakness?
+PATIENT: Oh dear… when did I first notice it? That’s a good question. It comes and goes, you know? It’s not… constant. I think… maybe a few months ago? It’s hard to say for sure. A little bit of trouble lifting my arm sometimes. Not all the time, though. And I get these… spells. Like a fog, and then a headache. It’s all a bit jumbled in my head, I’m afraid.
+DOCTOR: A few months ago, intermittent weakness… and these spells with headache. Can you describe the headache for me?
+PATIENT: Oh, the headaches… they’re… throbbing, mostly. Right on the side of my head. Sometimes it feels like it’s behind my eye, too. And it makes me a little nauseous, if I’m being honest. Not enough to… well, you know. But queasy. They can last for hours, or just come and go quickly. It's hard to predict. My mother used to say hers felt like an ice pick, but mine aren't quite that bad.
+DOCTOR: Throbbing headache, primarily on one side, sometimes behind the eye, with nausea. And you said intermittent weakness… on which side is that occurring?
+PATIENT: Oh, let me think… it’s… the right side, I believe. Yes, the right arm and leg feel a little heavy sometimes. Not always, and it doesn’t happen all the time, but that’s where I notice it. And sometimes my face feels a little… droopy on that side, but I could be imagining things. It’s hard to tell, really. My son pointed it out, but I’m not always sure what I’m feeling.
+DOCTOR: Okay, so right-sided weakness, potentially some facial droop. It’s good your son is observant. Now, just to get a complete picture, have you noticed any changes in your vision, speech, or balance?
+PATIENT: Vision… hmm. No, I don’t think so. I wear glasses, you know, for reading, but my eyesight hasn’t gotten any worse lately. Speech… no, I don’t think so either. Maybe a little slow sometimes, but that’s just old age! And balance… well, I’m not as steady as I used to be, but that’s probably just my knees. I haven't fallen or anything, though. No, I don't think so. Everything feels normal except for the headache and the weakness.
+DOCTOR: Alright. No changes in vision, speech, or balance reported. Let's do a quick physical exam, just to get a better sense of things. Can you follow my finger with your eyes, without moving your head?
+PATIENT: Yes, of course. I can do that. Just tell me when to look. It’s a little hard sometimes, you know, keeping my head still.
+DOCTOR: Good. Now, can you smile for me?
+PATIENT: Certainly, Doctor. Is that alright? It feels a little… strange, but I can smile.
+DOCTOR: Okay. And can you stick out your tongue?
+PATIENT: Yes, of course. Here you go. It feels a little clumsy, doesn’t it?
+DOCTOR: Alright. Now, can you squeeze my hands as tightly as you can?
+PATIENT: Yes, of course. Here we go. I’m trying my best. It feels a little harder than usual, if I’m being honest.
+DOCTOR: Okay. And finally, can you lift both your arms out to the sides?
+PATIENT: Yes, of course. Here we go… Oh, this one feels a little… heavy. It's not as strong as the other one, is it?
+DOCTOR: No, it’s not. Okay, Ms. Tofani. Thank you. That was helpful. Based on what you’ve told me and what I've observed in the exam, I’m concerned about possible stroke symptoms. It’s important to rule that out. I’m going to order a CT scan of your brain immediately, and I'll also order some blood work. We need to act quickly. Do you understand?
+PATIENT: Oh dear. Stroke symptoms? That sounds… frightening. A CT scan? Blood work? Yes, I understand. If you think it’s necessary, then of course. I trust your judgment, Doctor. Just… tell me what to do. I’m a little scared now, if I’m being honest.
+DOCTOR: It's good that we're checking it out. The CT scan will help us see if there's any bleeding or blockage in your brain. The blood work will give us more information about your overall health. A nurse will be in shortly to take you for the scan and draw some blood. It's important to stay calm, and we'll monitor you closely. Is your son available to come to the clinic?
+PATIENT: Yes, he is! He dropped me off and said he’d wait nearby. He’s very worried about me, you see. Yes, please, could you call him? I’d feel much better if he was here. His number is… um… Just a moment… here we are. 555-123-4567.
+DOCTOR: Okay, I’ve contacted your son. He’s on his way. In the meantime, the nurse should be here any minute to get you ready for the CT scan. Do you have any allergies to contrast dye?
+PATIENT: Oh, that’s good. Thank you. Contrast dye… let me think. I don’t think so. I’ve had scans before, a few years ago, and I don’t remember any problems. But my memory… you understand. I’m not sure. I've never had a reaction, but I suppose it’s best to be careful. Perhaps it’s best to ask before?
+DOCTOR: .
+PATIENT: Yes, absolutely. It’s always best to be cautious. I’ll make a note to have the nurse ask you detailed questions about allergies before the scan. Thank you for letting me know. Just try to relax, Ms. Tofani. We're going to take good care of you. .

@@ -1,0 +1,24 @@
+DOCTOR: Right, Mr. Pipolo?
+PATIENT: Yeah, that’s me. Andrew Pipolo. Just… Andrew is fine. You got a minute? I ain’t got all day, you know.
+DOCTOR: Andrew, yes, of course. I’m Dr. Gorga. So, what brings you in today?
+PATIENT: My eyes. They’re… dry. Real dry. Feels like sand in ‘em sometimes. Been happenin’ a while now, I guess. Not sure how long. Old age, probably.
+DOCTOR: Dry eyes… okay. And is this constant, or does it come and go?
+PATIENT: Comes and goes. Mostly just… when it's windy, or when I’m workin’ outside. Cement dust ain’t helpin’, I can tell ya that. But even when it ain’t windy, they get scratchy. Especially at night.
+DOCTOR: Right, scratchy, worse at night…and you mentioned cement dust. Do you wear any kind of eye protection when you're working with that?
+PATIENT: Sometimes. I got some glasses… the plastic kind. But they fog up a lot. And they don’t keep all the dust out. It's hard to see good when you're pourin' concrete, you know? Gotta be quick.
+DOCTOR: I see. Okay. Have you noticed any blurry vision, or any pain in your eyes, besides the dryness?
+PATIENT: Blurry? Not really. Not that I noticed. Pain… no, not pain. Just… irritated. Like somethin’s rubbin’ on ‘em. And tired. My eyes get real tired. Especially after a long day. You know, I'm 83. Things get tired.
+DOCTOR: Right, tired…Okay. And are you on any medications currently, Andrew?
+PATIENT: Nope. Don't take nothin'. Never have. I try to stay healthy. Fresh air, good food… well, mostly good food. Don't need no pills. They just make things worse.
+DOCTOR: Alright. Any allergies that you know of?
+PATIENT: Allergies? Hmm. Not that I’m aware of. Never had a problem with flowers or nothin’. Dust bothers me, but that’s just… dust. Everyone gets bothered by dust, don't they? I don't think that's an allergy.
+DOCTOR: Fair enough. Okay. Now, let's just take a quick look at your eyes. If you don’t mind. Just a quick exam. I’ll need you to look straight ahead.
+PATIENT: Alright, alright. Get it over with. I got things to do. Straight ahead, you say?
+DOCTOR: Okay… a little dryness, as you said. Some mild redness. Your pupils react normally to light, which is good. Hmm. Not a lot of fluid there. It's possible it's just age related dryness exacerbated by the dust, but we should rule out other causes. I'm gonna check your blood pressure, just as a standard precaution.
+PATIENT: Blood pressure? What's that got to do with my eyes? I just want somethin' for the dryness. It's botherin' me. Hurry it up, will ya?
+DOCTOR: Just routine, Andrew. Some medications for other conditions can affect your eyes, and blood pressure can sometimes be a factor. 135 over 80… not bad for your age. Okay. It's likely just dry eye syndrome, but given your age and the irritation, I’d like to recommend a lubricating eye drop. Something over the counter, to start. And I'm going to suggest you try to minimize the dust exposure as much as possible. A tighter-fitting pair of goggles might help. We can also look into some tear duct plugs, but let's start with the drops and goggles. How does that sound?
+PATIENT: Drops and goggles… alright. As long as it works. Where do I get ‘em? And how often do I put the drops in? I ain’t gonna remember a complicated schedule.
+DOCTOR: You can get them at any pharmacy – Walgreens, CVS, whatever’s convenient. For the drops, start with a few times a day when your eyes feel dry. There are different brands, but look for one that says “preservative-free” if you’re using them frequently. As for a schedule… just as needed, really. When they feel scratchy, put a drop or two in. If it doesn’t improve within a week or two, come back and we’ll talk about other options. Does that make sense?
+PATIENT: As needed… alright. Not too complicated. Preservative-free… got it. Okay. I think that's all I need. Thanks, Doc. Now, if you'll excuse me… I got cement to pour.
+DOCTOR: Alright, Andrew. Just take it easy, and if things don’t improve, don’t hesitate to come back. Here's a printout with some information about dry eye syndrome and lubricating eye drops. Have a good day. And be careful with that cement!
+PATIENT: Yeah, yeah. Thanks. .

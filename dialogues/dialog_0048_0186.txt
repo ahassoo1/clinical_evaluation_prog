@@ -1,0 +1,28 @@
+DOCTOR: Right. Mr. Kingan, is it?
+PATIENT: Yeah, that’s me. Lamark. Look, doc, I gotta be quick today if that’s alright. Got a tryout later.
+DOCTOR: Yes, well, we all have commitments. Though, I assure you, a rushed medical history is rarely…useful. But alright. What brings you in today?
+PATIENT: Like I said, tryout. For the…uh…the Eagles. Basketball team. They need a physical before I can actually, you know, try out. I’m hoping everything’s still okay. I haven’t really been to a doctor in…a while.
+DOCTOR: “A while” is a rather imprecise measurement, Mr. Kingan. But alright. And you're experiencing something that prompted this now, or is this purely preventative?
+PATIENT: No, no, nothing wrong, exactly. Just…they require it. And I'm not getting any younger, right? Figured I should make sure nothing's gonna…give out during practice. I feel alright, mostly. A little creaky in the mornings, but who doesn't?
+DOCTOR: “Creaky.” Right. Well, we'll have to document that. Let's start with some basics. Do you have any known allergies – medications, food, anything like that?
+PATIENT: Hmm… allergies. Not that I know of. Never really had a bad reaction to anything. I eat pretty much everything. My mom always said I had an iron stomach. Though, I think I was a little itchy after eating shrimp once, a long time ago. But that could have been the laundry detergent, honestly.
+DOCTOR: “Iron stomach.” How… reassuring. Alright. And are you currently taking any medications – prescription, over-the-counter, supplements, anything at all?
+PATIENT: Nope. Nothing. I try to stay away from pills if I can. A little ginseng sometimes, for energy, but that’s it. My brother sells it. Says it's good for…everything. I mostly just drink a lot of tea.
+DOCTOR: Ginseng. Of course. Alright. Let's move on to your past medical history. Have you been diagnosed with any chronic conditions – high blood pressure, diabetes, heart problems, anything like that?
+PATIENT: Nah, nothing like that. I’ve been pretty lucky, I guess. Broke my wrist when I was a kid, climbing a tree. And a bad sprain in college playing…well, never mind what I was playing. But that’s about it. Never been seriously sick, you know?
+DOCTOR: Right. No serious illness. And have you ever had any surgeries?
+PATIENT: Nope. Never. Still got all my original parts, doc.
+DOCTOR: That is…good to hear, I suppose. Now, family history. Are there any significant medical conditions that run in your family – heart disease, cancer, diabetes, anything like that?
+PATIENT: Hmm… my dad, he had some trouble with his heart later in life. But he smoked like a chimney, so…you know. My grandma, she had…arthritis, I think. Lots of aches and pains. My mom was pretty healthy, actually. Lived a long life.
+DOCTOR: Alright. And just to clarify, by “long life” are we talking… past eighty?
+PATIENT: Yeah, she was… eighty-seven, I think. Something like that. She was tough. Always working in the garden. Didn't let anything slow her down.
+DOCTOR: Alright. Now, social history. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Nope. Never been a smoker. I'll have a beer with dinner sometimes, but that’s about it. And definitely no… other stuff. Always been pretty straight-laced, I guess.
+DOCTOR: Right. “Straight-laced.” Well, that is…encouraging. Now, let's get a physical exam. Please step onto the scale. And please remove your shoes. We need accurate measurements, Mr. Kingan.
+PATIENT: Alright, alright. Here we go. Just tryin’ to get this over with, doc.
+DOCTOR: One hundred and twenty-nine pounds. And you stated your height is… one point eight three meters?
+PATIENT: Yep, that’s right. Six foot. Give or take. Used to be a little heavier, back in my playing days. Lost a bit of weight as I… slowed down.
+DOCTOR: One point eight two meters. Alright. Now, let’s check your blood pressure. Please extend your arm. One forty over ninety… elevated. And your pulse is… eighty-four. A little fast. Murmur… faint. Do you experience any shortness of breath or chest pain?
+PATIENT: Shortness of breath? Not really. Sometimes I get a little winded after running up the stairs, but who doesn't? Chest pain… nope, never. But that murmur… is that bad?
+DOCTOR: “Who doesn’t?
+PATIENT: .

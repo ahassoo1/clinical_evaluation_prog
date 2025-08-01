@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Osumi. I’m Dr. Yackey. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Thank you for seeing me. Well, to be frank, I’m hoping to talk about losing some weight. It’s… becoming a bit of a problem, and I was wondering if there’s anything you could prescribe to help. I’ve tried on my own, you know, but it's not really working like it used to.
+DOCTOR: Weight loss, yes. A common complaint. And you've attempted… self-management?
+PATIENT: Yes, sir. For a long time, actually. Mostly just… eating less and trying to walk more. I used to be very active, building things, but it's harder now. My knees, you see. And honestly, it seems like no matter what I do, it just doesn’t come off like it used to. It’s frustrating.
+DOCTOR: Right. And how long has this… difficulty been progressing?
+PATIENT: Oh, goodness. Let me think… it’s been gradual, but I’d say… maybe the last five years or so. It started slowly, just a little bit here and there, but now… well, now it’s noticeable. Especially around the middle.
+DOCTOR: Five years. And have you noticed any changes in your appetite?
+PATIENT: No, not really. I still feel hungry at the same times, and I don’t think I’m eating more than I used to. It’s just… it doesn’t seem to go anywhere. I'm eating less, but the number on the scale doesn't change. It's quite perplexing, really.
+DOCTOR: Perplexing. Have you had any bloodwork done recently?
+PATIENT: Bloodwork? Not recently, no. I had some done a couple of years ago, I think, when I had a check-up with my previous doctor, but nothing since then. I don't recall anything being…wrong, but my memory isn’t what it used to be.
+DOCTOR: Right. Well, before we discuss any… interventions, it would be prudent to rule out any underlying medical conditions. I’ll order a complete metabolic panel, lipid panel, and thyroid stimulating hormone. We need a baseline. Have you any allergies to medications that I should be aware of?
+PATIENT: That sounds… sensible, Doctor. I appreciate you being thorough. Allergies… let me think. No, not that I’m aware of. I’ve never had a reaction to anything, thankfully. Though, I haven't taken many medications over the years. Just some things for aches and pains now and then.
+DOCTOR: And what medications are you currently taking for these aches and pains?
+PATIENT: Well, mostly just ibuprofen, when needed. And sometimes a little bit of that cream… the one you rub on? For my knees, you see. I can’t recall the name right offhand. It comes in a blue tube, I believe. Nothing regular, Doctor, just when they really bother me.
+DOCTOR: Ibuprofen, topical analgesic… Fine. Now, do you have any family history of diabetes, thyroid problems, or heart disease?
+PATIENT: Let me see… my mother, she had… something with her sugar, I believe. Diabetes, yes, that was it. And my father… he had a bad heart. A very bad heart. Passed away when he was fairly young, you know.
+DOCTOR: Diabetes and cardiac history. Noted. Alright, Mr. Osumi, I’m going to need to perform a brief physical exam. I’ll listen to your heart and lungs, check your blood pressure and pulse, and palpate your abdomen. Then we'll get those lab results ordered. Please, if you would, just step up on the scale for me.
+PATIENT: Certainly, Doctor. Whatever you think is best. I suppose it's best to know everything, isn’t it?
+DOCTOR: 80 kilograms. Height… 1.7 meters. Blood pressure is 140/90. Pulse is 72, regular. Auscultation of the lungs is clear. Heart sounds… normal S1 and S2, no murmurs detected. Abdomen is soft, non-tender. I’ll order the lab work now. Please go to the lab and they will draw your blood. We’ll schedule a follow-up appointment to discuss the results in one week. Do you have any questions for me at this time?
+PATIENT: One week, alright. No, not right now, Doctor. I think I’m a bit overwhelmed, to be honest. Just… getting the bloodwork done is enough for the moment. Thank you for your time.
+DOCTOR: Very well. The lab results will be sent to my office, and my staff will contact you to schedule a follow-up appointment. Have a good day, Mr. Osumi.
+PATIENT: Thank you, Doctor. Good day to you as well.

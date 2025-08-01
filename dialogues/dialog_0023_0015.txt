@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Ms. Boham. I’m Dr. Versace. So, what brings you in today?
+PATIENT: Good morning, Doctor. It is… my sinuses, I think. They bother me. It has been… a little while now. I do not remember exactly how long.
+DOCTOR: Alright. “A little while now” isn’t terribly specific, unfortunately. Can you try to recall when you first noticed the sinus issues?
+PATIENT: Hmm… that is hard. Maybe… before the summer? Or was it… after? Everything feels… mixed up a little. I work a lot, you see. The noise… it makes it hard to think sometimes.
+DOCTOR: So, roughly a couple of months then?
+PATIENT: Yes… maybe. A couple of months sounds… right, I think. It is not a bad pain, Doctor. Just… always there. Like a pressure.
+DOCTOR: And where exactly do you feel this pressure?
+PATIENT: It is… here, and here. All around my face, almost. Sometimes it feels… worse when I bend over.
+DOCTOR: Do you have any other symptoms along with the pressure?
+PATIENT: Other… symptoms? Well… sometimes I feel… tired. Very tired. And maybe… a little stuffy nose. But it comes and goes. I do not know if that is the same thing.
+DOCTOR: Okay. And have you noticed any fever, chills, or cough accompanying this?
+PATIENT: No, Doctor. No fever, no chills. And I do not cough. Not much, anyway. Just… sometimes a little tickle in my throat. But not a real cough.
+DOCTOR: Alright. Have you tried anything to alleviate the symptoms yourself?
+PATIENT: I drink a lot of water. And sometimes… I try to rest. But with my job… it is hard to rest. I don't take any medicine, Doctor. I don't like taking pills.
+DOCTOR: Understandable. Now, let's go through some general health questions. Do you have any known allergies to medications, food, or anything else?
+PATIENT: Allergies… hmm. I don’t think so. Not that I know of. My mama always said I was a strong girl, didn't react to much. I have a little trouble with dust, maybe? Makes me sneeze sometimes, but not a bad allergy. Nothing I take medicine for.
+DOCTOR: Alright. And are you currently taking any medications at all?
+PATIENT: No, Doctor. Like I said, I do not like taking pills. Nothing at all. Just water, and try to sleep when I can.
+DOCTOR: Okay. And have you had any previous surgeries or serious illnesses?
+PATIENT: Hmm… let me think. I had my tonsils out when I was a little girl. A long time ago. And… maybe a bad flu once? But nothing else, I don't remember. I work very hard, I don't get sick often.
+DOCTOR: Tonsillectomy… noted. Do you have any family history of sinus problems, allergies, or asthma?
+PATIENT: My… my mama, she had bad allergies. Always sneezing. And my abuela, she had trouble breathing sometimes. I think it was… asthma? But I do not know for sure.
+DOCTOR: Alright. And finally, do you smoke or drink alcohol?
+PATIENT: No, Doctor. No smoking. And… I drink a little wine sometimes with my husband. Just a small glass, on special occasions.
+DOCTOR: Okay, Ms. Boham. Now, I'd like to perform a quick physical exam, if you don't mind. I'll check your ears, nose, throat, and listen to your lungs. Is that alright?
+PATIENT: Yes, Doctor. That is fine. Whatever you think is best.
+DOCTOR: Alright, let’s start with your ears. Open your mouth, please. Say "ah." Take a deep breath in… and out… again… good. And finally, just feeling around your sinuses. Okay. Your ears look clear, no signs of infection. Your throat is slightly red, but nothing alarming. Your lungs sound clear. Your sinuses are… tender to palpation, as expected, on both sides, primarily over the maxillary sinuses. No significant swelling or masses palpated.
+PATIENT: Okay, Doctor. That sounds… good? Tender… is that bad?
+DOCTOR: “Good” isn’t necessarily the word I’d use, Ms. Boham. Tender simply means that pressure elicits discomfort. It’s consistent with what you’ve described – chronic sinus pressure. Based on your history and the exam, it appears you’re experiencing chronic sinusitis, likely not an acute infection. Now, given your history of avoiding medication, we can start with conservative management. I recommend a saline nasal rinse twice a day to help clear the nasal passages. A warm compress over your sinuses may also provide some relief. I can show you how to do that. If your symptoms persist or worsen despite these measures after a week or two, we may need to consider other options, including a referral to an ENT specialist. Do you have any questions about that?
+PATIENT: Saline… nasal rinse? What does that… involve, Doctor? And warm compress… like a wet cloth? I can do that, I think. But the ENT… is that a… specialist?
+DOCTOR: A saline nasal rinse involves flushing your nasal passages with a saltwater solution. It helps to clear congestion and remove irritants. You can purchase a pre-mixed saline solution at the pharmacy, or I can provide instructions on how to make your own. It uses a squeeze bottle or a neti pot. It sounds… unpleasant, but it's quite effective. As for the ENT specialist – yes, they specialize in ear, nose, and throat problems. If conservative management isn't enough, they can investigate further and recommend other treatments if necessary, like allergy testing or, in rare cases, surgery. We're not at that stage yet, Ms. Boham. Let's start with the saline rinse and warm compresses for now. I’ll write out detailed instructions. If those do not help, then we will revisit the possibility of seeing a specialist. Does that sound acceptable?
+PATIENT: Yes… that sounds… better. Saline rinse… and warm cloth. I can do that. I will try very hard. And thank you, Doctor. For explaining everything so… clearly.
+DOCTOR: Very well. Here are the instructions for the saline rinse and warm compress. Please follow them carefully. I also recommend staying well-hydrated. If your symptoms worsen – if you develop a fever, severe headache, facial swelling, or vision changes – please seek immediate medical attention. I'll schedule a follow-up appointment in two weeks to see how you're doing. In the meantime, don’t hesitate to call the office if you have any concerns. Do you have any other questions for me today?
+PATIENT: No, Doctor. I think… that is everything. Thank you again. I will… try my best with the rinse. And I will call if anything… changes.
+DOCTOR: Very good. I have documented all our discussion today. Remember, staying consistent with the saline rinse is key. It was a pleasure meeting you, Ms. Boham. Get well soon.
+PATIENT: It was a pleasure meeting you too, Doctor Versace. Thank you for your help. Goodbye. .

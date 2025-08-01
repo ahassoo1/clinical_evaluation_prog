@@ -1,0 +1,45 @@
+DOCTOR: Hi Yamir, good to meet you. I'm Dr. Decosta. So, what brings you in to see me today?
+PATIENT: Uh, hello Doctor. I… need check for referee. For fitness. I need paper say I okay. Is for… work.
+DOCTOR: Okay, I understand. You need a physical exam to get a note for work, confirming you're fit for duty. No problem, we can definitely do that. Just to be clear, is this a new requirement from your employer, or is this a routine check-up?
+PATIENT: New. Very new. They… change rules. Before, no need. Now… they want paper. I… don't really understand why.
+DOCTOR: Okay, that makes sense. Sometimes employers change things up. No worries, we’ll get you what you need. To start, can you tell me a little bit about the type of work you do?
+PATIENT: I fix… the inside of ovens. Big ovens. For… factories. Very hot. Lots of lifting. Not easy work. Is… refractory materials. I repair them.
+DOCTOR: Okay, so you're a refractory materials mechanic – repairing the insides of large, industrial ovens. That is physically demanding work, and being in a hot environment adds another layer. Good to know. Let's go through some things to make sure you're healthy enough for that. Have you been experiencing any pain or discomfort recently – anywhere in your body?
+PATIENT: Hmm… sometimes my back… a little sore. After long day. But… I always work. I take medicine. Is okay most of time.
+DOCTOR: Okay, back soreness after a long day – that’s common with that kind of work. And you manage it with medication?
+PATIENT: Yes. Just… normal pain pills. From store. Not… doctor pills. Over counter.
+DOCTOR: Alright, over-the-counter pain relievers. Good to know. And have you noticed any other symptoms alongside the back pain?
+PATIENT: No. Just… tired. But I always tired. From work. Not new tired.
+DOCTOR: Okay, so the fatigue is your baseline, not something new. That’s helpful to know. Besides the back and fatigue, have you had any other health concerns recently?
+PATIENT: No. I… I had wife. But she… gone. That is… main thing. No new sickness.
+DOCTOR: I'm very sorry to hear about your wife. That must be incredibly difficult. Thank you for sharing that with me. Putting that aside for a moment, and focusing on your physical health, let’s go through a quick review of your systems. Have you had any recent changes in your appetite or weight?
+PATIENT: No change. I eat… normal. Maybe little less when very hot. But same weight. I check. Scale.
+DOCTOR: Okay, weight is stable, and appetite is generally normal. Have you been having any trouble sleeping, aside from what you’d expect from a physically demanding job?
+PATIENT: Sometimes… hard to sleep. I think about… things. But I sleep. A few hours. Always.
+DOCTOR: Okay, some difficulty sleeping but still getting a few hours. Good. Any issues with your digestion?
+PATIENT: No. Everything… goes okay. No problem. Sorry. Is… not nice to talk about.
+DOCTOR: That's perfectly alright, Yamir. You don’t need to share anything you’re not comfortable with. Let's move on. Have you noticed any changes in your vision or hearing?
+PATIENT: No. I see okay. I hear okay. Maybe little… ringing in ears. But always. From loud noises at work.
+DOCTOR: Okay, some ringing in your ears, which you attribute to the noise at work - that makes sense. Have you had any shortness of breath or chest pain?
+PATIENT: No. No chest pain. Sometimes… hard to breathe when very hot. But normal. From heat.
+DOCTOR: Okay, shortness of breath related to the heat. Just to be thorough, have you had any recent coughs or fevers?
+PATIENT: No cough. No fever. I… healthy. Except back. And… sad.
+DOCTOR: Okay, no cough or fever. And I appreciate your honesty about feeling sad. Alright, Yamir. Let’s do a quick physical exam, just to get a baseline and make sure everything looks good. Is that okay with you?
+PATIENT: Yes. Okay. Let's do it. Quick is good. I need get back to work.
+DOCTOR: Great. If you don't mind, please step up onto the examination table. I'm going to listen to your heart and lungs, and then check your reflexes and range of motion. We'll also take your blood pressure and pulse. Okay, take a few deep breaths for me. Good. Heart sounds are regular. Lungs are clear to auscultation bilaterally. Reflexes are 2+ and equal bilaterally. Range of motion is slightly limited in the lower back with forward flexion, but no acute pain with movement. Blood pressure is 130/80, pulse is 78 and regular. Abdomen is soft, non-tender, and non-distended. Everything seems okay so far, but to be completely thorough, I'd like to check your back a bit closer. Is that alright?
+PATIENT: Yes. Okay. Check back. Is always sore. But I work.
+DOCTOR: Okay, I'm feeling some muscle tightness and tenderness in your lower back, particularly on the left side. No signs of acute injury. Does this pain radiate down your legs at all?
+PATIENT: No. No go down legs. Just… back. Sometimes… hard to bend over.
+DOCTOR: Okay, just localized to the back, no radiation down the legs. That's good. And bending over is difficult. I’m going to recommend a simple X-ray of your lower back just to rule out any structural issues. Would you be comfortable with that?
+PATIENT: X-ray? Is… safe? I don’t want… problems.
+DOCTOR: That’s a very valid concern, Yamir. X-rays do use radiation, but the amount is very small – similar to what you’re exposed to on a long airplane flight. The benefits of ruling out any potential problems with your spine far outweigh the small risk. We take all necessary precautions to minimize exposure, and we only do it when it’s medically appropriate. Would you like me to explain the process a little more, or perhaps provide you with some information about the risks and benefits?
+PATIENT: Explain. Please. I don’t understand… risks.
+DOCTOR: Certainly. The main risk associated with X-rays is the exposure to a small amount of radiation. Over a lifetime, repeated exposure can slightly increase your risk of developing cancer, but the risk from a single X-ray is very, very low – much lower than many other everyday exposures, like from natural background radiation or certain medical tests. Here at the clinic, we use the lowest possible dose of radiation needed to get a clear image, and we’ll use a lead apron to protect other parts of your body. The benefit of getting an X-ray is that it can help us identify any underlying problems with your spine, like arthritis, fractures, or other structural issues, that might be contributing to your back pain. Ultimately, the decision is up to you, but I recommend it as a precautionary measure to get a clearer picture of what’s going on and ensure you’re able to continue working safely. Does that make sense?
+PATIENT: Yes. That… makes sense. Okay. Do X-ray. But… quick, please? I need… get back.
+DOCTOR: Okay, absolutely. We'll get it done as quickly as possible. I'm ordering the X-ray now. The technician will come in shortly to get you set up. It should only take a few minutes. In the meantime, while we wait, let me ask you a few questions about your work environment. What kind of safety measures do you have in place at work to protect your back?
+PATIENT: Uh… not much. We lift… heavy things. Sometimes two people. But mostly… just lift. No special machine.
+DOCTOR: Okay, so mostly manual lifting with occasional assistance. That's definitely something we need to address. Regardless of the X-ray results, I’d like to talk about proper lifting techniques and ways to minimize strain on your back at work. I can also provide you with some resources on ergonomics and back safety. Would you be open to that?
+PATIENT: Yes. Okay. Lifting… good. If help back. Please.
+DOCTOR: Great. I'll put together some information for you on proper lifting techniques and ergonomic tips. Alright, the technician is here now to take you for your X-ray. They’ll explain the process in detail. I’ll be here to review the results as soon as they're available. Do you have any questions before you head off?
+PATIENT: No. I think… okay. Thank you, Doctor.
+DOCTOR: You're very welcome, Yamir. Get the X-ray done, and I’ll see you shortly. Don't hesitate to let me or the technician know if you have any concerns.

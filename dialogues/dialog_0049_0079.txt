@@ -1,0 +1,21 @@
+DOCTOR: Good morning, Ms. Hainley. I’m Dr. Nestingen. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. It’s… well, I’ve been bruising really easily lately. And I’m on a blood thinner, so it's a bit worrying. It seems to be getting worse, even with the same dose.
+DOCTOR: A blood thinner, you say?
+PATIENT: Yep. Warfarin. Been on it for… oh, about five years now, I think. Doctor Kimo started me on it after the… well, never mind. It’s just, I bumped my arm on the table yesterday and got a bruise the size of my hand. And I don’t remember bumping it that hard.
+DOCTOR: Five years is a considerable time. And you're saying this bruising is new, despite remaining on a stable dose of warfarin?
+PATIENT: Exactly! That’s what’s got me concerned. Same pills, same everything. No changes to my diet or… anything I can think of. It just started a few weeks ago, really noticing it more and more. It's not like I'm walking into walls or anything. Just… appearing.
+DOCTOR: Alright. We'll need to explore this further. Have you noticed any other symptoms?
+PATIENT: Other symptoms… hmm. Let me think. Not really. Maybe a bit more tired than usual, but I figured that was just… life, you know? No bleeding gums, no nosebleeds, nothing like that. Just the bruising. And the tiredness, now that you mention it. It's hard to say if that's related, though.
+DOCTOR: And any changes to your medications besides the warfarin?
+PATIENT: No, nothing at all. Just the warfarin, every day, same time. I keep it really regular. Honestly, I’m pretty good about keeping track of things, that’s why this is so weird. It's not like I forgot to take a pill or something. I'm usually really careful.
+DOCTOR: Right. Well, let’s do a quick physical exam. I’d like to see the bruising, and just check a few things. Can you roll up your sleeves, please?
+PATIENT: Sure, no problem. There, you can see. It’s not just my arms, either, there's a little on my legs too. It doesn't hurt, it just… is. And it’s getting bigger, faster.
+DOCTOR: Hmm. Yes, these are… quite extensive. And varying in age, it seems. Any recent infections?
+PATIENT: No, nothing at all. No colds, no flu, no anything. I’m pretty healthy, usually. I haven’t been sick in ages. I work from home, so I don't really get around people much. Is something wrong? You look… serious.
+DOCTOR: It's difficult to say definitively without further investigation. Given the easy bruising and your report of fatigue, we need to rule out some possibilities. I'd like to order a complete blood count – that will give us a baseline. And a coagulation panel to check your INR and other clotting factors. We also should consider other causes. Do you have a family history of bleeding disorders?
+PATIENT: Bleeding disorders… hmm. Not that I know of. My dad was… pretty stoic, never talked much about health stuff. My mom… she had high blood pressure, but that’s it. And she definitely wasn’t a bruiser. Honestly, no one on either side of the family that I can recall ever had problems like this. Is it something serious? You're starting to worry me a bit.
+DOCTOR: It’s prudent to investigate thoroughly. While it may be nothing, we must rule out more serious possibilities. I’m also going to order a peripheral blood smear. That will allow us to examine the blood cells under a microscope. And, given your fatigue, let’s check your iron levels and vitamin B12. Do you mind if I draw a little blood now?
+PATIENT: Okay, yeah, that sounds… thorough. Bloodwork is fine. Get whatever you need. I just want to know what’s going on. The not knowing is worse than anything. Just… let me know if it’s going to hurt a lot. I’m not a big fan of needles.
+DOCTOR: It will be a routine blood draw. A slight pinch, but nothing more. The phlebotomist will be in shortly. Once the results are back – and it typically takes a few days – we’ll schedule a follow-up appointment to discuss them. In the meantime, continue taking your warfarin as prescribed. And if you experience any unusual bleeding – nosebleeds, heavy periods, blood in your stool – go to the emergency room immediately. Do you understand?
+PATIENT: Yes, I understand. Warfarin as usual, watch for bleeding, and come back when the results are in. Okay. That’s… helpful. Thanks, Doctor. I’ll go wait for the phlebotomist. Hopefully, it won't be too long.
+DOCTOR: Very well. .

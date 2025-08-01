@@ -1,0 +1,24 @@
+DOCTOR: Good afternoon, Ms. Stepno. I'm Dr. Yackey. So, let’s get straight to it. What brings you in today?
+PATIENT: Oh, good afternoon to you too, Doctor. Well, it's… a pain. A pain down there. It’s been… troubling me. Honestly, I don't quite remember when it started, exactly. It feels… uncomfortable, mostly.
+DOCTOR: “Troubling” is…vague, Ms. Stepno. We need specifics for proper assessment. Can you describe the pain?
+PATIENT: Yes, of course, Doctor. I understand. Specifics… It's not a sharp pain, not like a cut or anything. More of a… dull ache, I suppose. Sometimes it feels… heavy? And it's… on one side, I think. The left side, perhaps? It’s hard to be sure, truly. It comes and goes, you see.
+DOCTOR: “Comes and goes” and “perhaps” aren’t terribly helpful, Ms. Stepno. Is the pain constant at any time?
+PATIENT: No, no, it’s never constant, Doctor. That would be…awful. It’s more noticeable after I’ve been…working. I do a lot of woodworking, you see. Bending, lifting…things like that. Then it’s more…pronounced. But when I’m resting, it fades. Mostly.
+DOCTOR: Woodworking, you say. And it's exacerbated by physical exertion. Has anything, specifically, made it worse recently?
+PATIENT: Exacerbated… That means made it worse, yes? Let me think… I did lift a rather large piece of walnut a few days ago. It was quite heavy, even with help. And… after that, it definitely felt more uncomfortable than usual. But truthfully, Doctor, my memory isn’t what it used to be. It’s all a bit… blurred.
+DOCTOR: Right. Well, Ms. Stepno, we'll proceed. Have you experienced any…other symptoms alongside this pain?
+PATIENT: Other symptoms… Well, I’ve been feeling a bit… tired lately. More than usual, perhaps. And… I don't know if this is related, but I’ve been going to the bathroom a bit more frequently. Is that… something to be concerned about?
+DOCTOR: Increased fatigue and frequency of urination. Are there any changes to your urine itself—color, odor, difficulty urinating?
+PATIENT: Oh, goodness. Let me think… The color… I don’t believe so. It seems normal. No unusual odor that I’ve noticed. And… no, no difficulty. It flows as it should. Though… I suppose I do have to get up once during the night sometimes, now, which I didn’t used to. Just once, mind you.
+DOCTOR: Alright. I suppose a quick examination is in order. Please, lie down on the examination table. I’ll need to palpate your abdomen. Please inform me immediately if anything causes significant discomfort.
+PATIENT: Palpate…yes, of course, Doctor. You just want to… feel my tummy? Yes, alright. I will, certainly, let you know if anything feels…uncomfortable. Though, I'm not entirely sure what I should expect.
+DOCTOR: Just relax, Ms. Stepno. Deep breaths. Now, tell me if you feel any tenderness in this area… or here… or perhaps… lower down on your left side.
+PATIENT: Ooh… yes, there. That’s… a little tender. Not terribly painful, but… definitely noticeable. It’s a sort of… ache, when you press there. Is that…bad?
+DOCTOR: Tenderness noted in the left lower quadrant. It could be a number of things, Ms. Stepno. We'll need to rule out a few possibilities. I’d like to order a complete blood count and a urinalysis, just to start. And, given your age and symptoms, I think a pelvic ultrasound would be prudent.
+PATIENT: An ultrasound… Is that… something serious, Doctor? I mean, what are we looking for, exactly? I don’t want to worry unnecessarily. My nerves aren’t what they used to be, you see.
+DOCTOR: It's standard procedure, Ms. Stepno. We're simply ruling things out. Could be muscular, could be something else. The ultrasound will give us a clearer picture. Don't dwell on it. I’ll have the order sent to the lab and radiology. They will contact you to schedule the appointments.
+PATIENT: Very well, Doctor. If you think it’s best. I suppose I should just schedule them then. Is there anything else I should be doing? Any specific instructions before the tests? I want to be as helpful as possible.
+DOCTOR: No specific preparations. Just drink plenty of water before the ultrasound. And try to relax, Ms. Stepno. I’ll review the results as soon as they’re available and contact you to discuss them. In the meantime, if the pain becomes significantly worse, or you experience any fever, nausea, or vomiting, go to the nearest emergency room immediately. Here is the order. Now, is there anything else?
+PATIENT: Oh. No, I don't think so, Doctor. Just… the test. And try to relax, you said. Thank you for your time. I appreciate you looking into this for me. I shall schedule the tests as soon as possible.
+DOCTOR: Very well. Have a good day, Ms. Stepno. And please, don’t hesitate to contact the office if you have any concerns.
+PATIENT: .

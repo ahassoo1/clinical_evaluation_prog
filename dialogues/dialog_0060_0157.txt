@@ -1,0 +1,17 @@
+DOCTOR: Good morning, Ms. Dudney. I’m Dr. Nooruddin. So, tell me, what brings you in to see me today?
+PATIENT: High blood pressure, the nurse said. Honestly, I don't even know why I need to be here for it. It's just...a number, right? My husband makes me come to these things.
+DOCTOR: A number that can tell us a lot, actually. It’s good your husband encourages you to get things checked out. High blood pressure, or hypertension, isn't something to dismiss. It rarely feels like something's wrong, which is why it's called the 'silent killer'. We want to make sure it’s not causing any damage, and that it doesn't become a problem. Now, the nurse took your blood pressure, and it was elevated. Do you know what your numbers were, roughly?
+PATIENT: No, I really don’t. I try not to bother with remembering things like that. Numbers just stress me out. Is it…bad? Because honestly, I feel perfectly fine. I was working in the field all morning.
+DOCTOR: Alright. Well, that’s why we're here – to find out how concerning it is. It’s good you were working this morning; that gives us a baseline. Feeling fine doesn’t always mean everything is fine, unfortunately. Let’s start with a little bit of your medical history. Have you ever been diagnosed with high blood pressure before?
+PATIENT: No. Never. And my mother didn’t have it, and neither did my grandmother. We’re strong people, we don’t get these kinds of…weaknesses.
+DOCTOR: I see. Well, genetics are only part of the picture, Ms. Dudney. Lifestyle plays a large role as well. Okay. Have you had any other medical conditions diagnosed in the past?
+PATIENT: Nope. Nothing. Just the usual…colds, maybe. I haven’t been sick in years, honestly. I eat alright, I guess. Nothing fancy. Can we hurry this up? I have a survey site I need to get back to.
+DOCTOR: Alright. We’ll try to be efficient. Let's talk about medications, then. Are you currently taking any prescription medications, vitamins, or herbal supplements?
+PATIENT: Just a multivitamin. Every other day, I think. My sister told me to. Something about needing it for…energy. That’s it. Absolutely nothing else. Don't waste your time writing that down, it’s not important.
+DOCTOR: Okay. And do you have any allergies to medications, foods, or anything else?
+PATIENT: Nope. Not a single one. I eat everything. Dust bothers me a little, but that’s not an allergy, that's just…dust. Look, is there a point to all these questions? It feels like a waste of time.
+DOCTOR: Ms. Dudney, I understand your frustration, but gathering this information is important for me to get a complete picture of your health. It helps me determine if there’s an underlying cause for your elevated blood pressure and the best way to manage it. Now, let’s talk about your lifestyle a bit more. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Absolutely not. That's ridiculous. I work hard. I don't have time for…that. My husband doesn't drink, and I certainly wouldn't do anything he wouldn't approve of. Honestly, what kind of question is that?
+DOCTOR: Just routine questions, Ms. Dudney. It's important to ask. Okay. What about your diet?
+PATIENT: Like I said, alright. Normal food. Burgers, sometimes. Chicken. Salad, when my husband makes it. I don't eat a lot of junk. And I definitely don't spend my time looking at food labels or counting calories. I have better things to do. .
+DOCTOR: Alright. And how about exercise?

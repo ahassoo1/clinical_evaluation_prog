@@ -1,0 +1,29 @@
+DOCTOR: Right. Mr. Komarov, is it?
+PATIENT: Yeah, that’s me. Arbin Komarov. But please, just Arbin is fine.
+DOCTOR: Very well, Arbin. So, what brings you in today?
+PATIENT: Well, it’s kinda strange, to be honest. The sun… it’s been botherin’ me. Not like a sunburn, exactly. More like… my eyes are super sensitive to it now. Everything’s just really bright, even with sunglasses. It started a few months back, I guess.
+DOCTOR: "A few months," you say. And has this sensitivity been… constant, or does it come and go?
+PATIENT: It’s been pretty constant, yeah. Some days are worse than others, but it's always there. Even on cloudy days, bright light feels… harsh, you know? It gives me a headache sometimes, if I'm out for too long.
+DOCTOR: Headaches… alright. And are these headaches focused around your eyes, or elsewhere?
+PATIENT: Mostly around my eyes, yeah. Like a pressure, right behind them and in my forehead. Not like a throbbing pain, more… dull and heavy. It’s hard to explain. And it feels worse when I'm looking at bright things – like the computer screen at work, or even just white paper.
+DOCTOR: Right. And what do you do for work, Arbin?
+PATIENT: I’m a dental assistant. So, lots of bright lights and staring at teeth all day, unfortunately. It’s… probably not helping things, to be honest with you. It's kinda hard when everything is so…reflective.
+DOCTOR: A dental assistant. Of course. Let’s see… I suppose we should rule out anything obvious. Have you had your eyes checked recently?
+PATIENT: Hmm… not really. It’s been… a while, I guess. Maybe five years? I usually just deal with it, but it’s getting harder to ignore, especially with the sun being so strong lately. I don't really have family around here anymore to remind me to go to these things, if that makes sense.
+DOCTOR: Five years?
+PATIENT: Yeah, I know, I know. Not good. I've been… busy, and honestly, a bit distracted since my wife passed. It's just… everything sort of blurred together for a while. It's been two years now, but… still. I'm tryin' to get back on track, though. Really.
+DOCTOR: Alright. Well, we'll need to get a proper examination done. I'll need to check your pupils, visual fields, and perhaps some basic refraction. Just standard procedure. It's unlikely to be anything serious, but it's best to be thorough. Please, have a seat.
+PATIENT: Sounds good. Whatever you think is best. I appreciate you takin' the time to look at it. It's been botherin' me for a while, like I said.
+DOCTOR: Alright. First, I need you to focus on this point in the distance. Do not avert your gaze, even when I shine the light. Pupils appear normal size and reactive. Now, I want you to follow my finger…
+PATIENT: Okay, I'm followin' it. Is this… checkin' for anything specific? I don't mind sayin' if somethin' hurts, or if it's too bright. Just let me know.
+DOCTOR: Just assessing your visual fields. It’s… a routine check. Now, look straight ahead. Fundi appear… normal. No obvious hemorrhages or exudates. However… I do notice some slight pallor of the optic disc. It’s subtle, but worth noting.
+PATIENT: Pallor? What does that mean? Is that… bad? I'm not very good with medical stuff, so please bear with me. Is it somethin' serious?
+DOCTOR: It simply means a slight paleness of the optic nerve. It could indicate a number of things. It’s not necessarily serious, but it’s not something to ignore either. Given your occupation and the duration of your symptoms… and the pallor, I'm leaning towards a possible optic neuritis. Have you experienced any loss of vision in either eye?
+PATIENT: Loss of vision? Not really… not that I’ve noticed, anyway. Everything’s been blurry, like I said, but I just figured it was from starin' at screens all day, or maybe just gettin’ older. It hasn’t been like, suddenly I can’t see or anything. But… now that you mention it, maybe my left eye feels a little bit weaker than my right? It's hard to tell. I haven’t really paid attention.
+DOCTOR: Right. A subtle weakness… That’s concerning. Given the totality of your symptoms, and the pallor of the optic disc, I recommend a referral to a neurologist for further evaluation. We need to rule out any underlying inflammatory or demyelinating conditions. And an MRI of the brain and orbits.
+PATIENT: MRI? That sounds… serious. Is it somethin’ really bad? I mean, what are we lookin' for here? I don’t wanna jump to conclusions, but… my wife, she… she had headaches a lot before… before she got sick.
+DOCTOR: It's a precautionary measure, Mr. Komarov. We’re simply ruling things out. It could be something minor, a simple nerve inflammation. But given your symptoms and the subtle findings, it's best to be thorough. Here's a referral to Dr. Anya Sharma. She's an excellent neurologist. Make an appointment as soon as possible. I will also order a complete blood count and a comprehensive metabolic panel to rule out any systemic causes. Do you have any allergies I should be aware of?
+PATIENT: Okay… Dr. Sharma. I’ll… I’ll make an appointment. Allergies… uh, not really. A little bit of hay fever sometimes, in the spring, but that’s about it. Nothing serious. Is there… anything I should be worried about specifically while I’m waiting for the appointment? Should I avoid anything? Like, drivin’ or… workin’?
+DOCTOR: Avoid prolonged exposure to bright light if possible. And if you experience any sudden loss of vision, severe pain, or double vision, go to the emergency room immediately. Otherwise, you can continue with your normal activities. But be mindful of your symptoms, and don't hesitate to seek immediate attention if they worsen. I've sent the lab orders to your insurance. That will be all. If you have any further questions, you can contact my office.
+PATIENT: Okay… bright light, and watch for any sudden changes. Got it. Thank you, Doctor Sink. I appreciate you takin' the time. I… I hope it’s nothing serious.
+DOCTOR: .

@@ -1,0 +1,21 @@
+DOCTOR: Good morning, Mr. Croonquist. I’m Dr. Yackey. Now, what brings you in today?
+PATIENT: Morning, Doctor. Uh… lab work, right? That’s what the lady on the phone said. Just need to get that done. Don’t really remember why exactly, to be honest. Old age, you know?
+DOCTOR: Yes, well. The records indicate a routine check-up, specifically blood work to monitor your cholesterol and… other things. Frankly, the notes are rather sparse. Do you have any current symptoms you're experiencing?
+PATIENT: Symptoms? Hmm… not that I’ve noticed. Everything feels… pretty normal, I suppose. A little achy sometimes, but that’s just getting old, isn’t it? Can’t recall anything specific that’s bothering me. Is this going to take long?
+DOCTOR: "Pretty normal" is… not a diagnosis, Mr. Croonquist. We need to be a bit more precise than that. Any changes in your appetite?
+PATIENT: Appetite… not really. I eat when I’m hungry, don’t eat when I’m not. Nothing fancy. Mostly just… whatever’s easy. Soup, sometimes. Toast. No, no changes, I don't think. Honestly, I forget what I had for breakfast half the time. Is this important?
+DOCTOR: It’s helpful to know if there’s been any unintentional weight loss, Mr. Croonquist. Have you lost any weight recently?
+PATIENT: Weight… You know, now that you mention it… my trousers might be a little looser. But I figured that was just… well, everything shrinking, you know? Old age again. Hard to say for sure. I don’t weigh myself. Don’t see the point.
+DOCTOR: Right. Let's move on. Any issues with your… bladder or bowels?
+PATIENT: Oh. That's… a personal question, isn't it? Everything's… working, I guess. Look, Doctor, I really just came for the lab work. Is that possible, or are we going to go over my entire life history?
+DOCTOR: Fine. We’ll proceed with the blood work. But I need a basic medical history, Mr. Croonquist. Have you been diagnosed with any chronic conditions – diabetes, high blood pressure, heart problems – anything at all?
+PATIENT: Chronic…conditions? Goodness. That sounds serious. Let me think… I had a bad back once, years ago. And a touch of the flu now and then. But nothing… chronic. Doctor, honestly, my memory isn't what it used to be. I think I was always pretty healthy. Maybe I saw a specialist once, for my… knees? But I don’t recall what they said.
+DOCTOR: Alright. Any surgeries?
+PATIENT: Surgeries… now that’s a good question. Let me see… I think… maybe my appendix? A long time ago. When I was a young man. And… possibly a mole removed from my back. But honestly, it was so long ago, I barely remember. Is this really necessary for the blood work?
+DOCTOR: It’s helpful to have a complete picture, Mr. Croonquist. Family history, then. Are your parents or siblings still living?
+PATIENT: Oh, family… That was a long time ago. My parents are… gone. Both of them. And I had a brother, but… he moved to America, years ago. I haven’t heard from him in decades. We weren't very close. I don't know anything about their… health problems. Really, I just lived my own life. Look, can we please just get the blood work done?
+DOCTOR: Very well. Let's proceed with the lab work. I’ll need to draw a sample from your arm. But I strongly advise you to see a specialist for a more comprehensive evaluation of your overall health, given your… limited recall and potential for unintentional weight loss. I'll write a referral. Now, please roll up your sleeve.
+PATIENT: Fine, fine. Just the blood work. That’s all I wanted. The quicker we get this over with, the better. And don't bother with the referral, thank you. I’ll be alright.
+DOCTOR: Very well. This may sting momentarily. Try to relax. Alright, sample collected. We'll send this off to the lab. Results should be available in approximately five to seven business days. Do you have any allergies to latex or other materials?
+PATIENT: Latex? Not that I know of. Never had a problem with… bandages before. Just eager to get home now, if you don't mind. Thanks for your time, Doctor. I think that's everything, isn't it?
+DOCTOR: Yes, that will be all for today. The lab results will be sent to your primary care physician. Here is a copy of the requisition form for your records. I reiterate my recommendation for a full evaluation, but ultimately, the decision is yours. Have a good day, Mr. Croonquist.

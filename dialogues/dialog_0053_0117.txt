@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Reyno. I'm Dr. Pitmon. So, what brings you in to see me today?
+PATIENT: Morning. Uh, it’s this cough. Been…coughing up stuff. Some of it has…red in it. Not a lot, but it’s there. Been happening for a little while now. I smoke, you know. Always have.
+DOCTOR: Right. A cough, with some blood-tinged sputum. And you mentioned you have a history of smoking?
+PATIENT: Yep. A long history. Don’t remember exactly how long, but a long time. Used to be a lot more, now it’s…less. Trying to cut back, but it’s hard.
+DOCTOR: I understand it can be difficult. And how long has this cough with the…discoloration been going on specifically?
+PATIENT: Hmm…discoloration. Right. A few weeks, maybe? Hard to say. Things kinda…blend together after a while, you know? It wasn't much at first, just a little streak now and then. Now it's…more noticeable.
+DOCTOR: A few weeks, and increasing in frequency. Okay. Have you noticed any other symptoms alongside the cough?
+PATIENT: Other symptoms…let me think. I get tired easier, I guess. But I'm not getting any younger, right? No fever, no chills. Just…tired. And the cough, of course.
+DOCTOR: Fatigue alongside the cough. Alright. Any shortness of breath, Mr. Reyno?
+PATIENT: Shortness of breath…sometimes. When I walk up the hill to the store, I gotta stop and catch my breath. But I always figured that was just…the hill. Or the smoking. I don’t know.
+DOCTOR: Right. And have you experienced any chest pain at all, with the cough or otherwise?
+PATIENT: Chest pain…not really pain, exactly. More like…a tightness. Sometimes, when I cough hard. It goes away pretty quick. Look, is this gonna take long? I got things to do.
+DOCTOR: We're getting there, Mr. Reyno. Just trying to get a clear picture. Tightness with coughing…okay. Now, have you had any recent infections – a cold, the flu, pneumonia, anything like that?
+PATIENT: Recent…hmm. I get a cold every now and then, like everyone else. But nothing bad. I don't remember being sick with anything serious in…well, I don't remember. It's all a bit of a blur.
+DOCTOR: Alright. And what about your past medical history, generally?
+PATIENT: Past medical… Medicare covers me. Does that count? Honestly, I don’t go to the doctor much. Never really needed to. Just…tired now, and this cough. I guess that's why I'm here.
+DOCTOR: Right. So, limited medical history. Any surgeries or hospitalizations you recall?
+PATIENT: No. Never had surgery. Never been in the hospital. Nope. Just…this. And I’d like to get this sorted out, if we can. I got wood to chop, you know?
+DOCTOR: Alright, Mr. Reyno. Let’s do a quick physical exam, then we can discuss some possibilities. I'm going to listen to your lungs and check your oxygen saturation. Is that alright with you?
+PATIENT: Yeah, fine. Whatever you need to do. Just…hurry, please. I don't like being poked and prodded.
+DOCTOR: Okay. Take a deep breath in…and out…again…and again. Alright. I'm hearing some wheezing in your lower lobes. And your oxygen saturation is a little low – 92%. That’s not ideal. Now, I'm going to palpate your lymph nodes. This is just to check for any swelling.
+PATIENT: Swelling? What kind of swelling? Is something bad happening? I told you, I just have a cough!
+DOCTOR: Mr. Reyno, I’m just being thorough. Palpating your lymph nodes helps rule things out. It’s a standard part of an exam. I’m feeling some mild swelling in your supraclavicular nodes. Now, given your smoking history, cough with blood-tinged sputum, fatigue, and these findings, we need to consider a few possibilities. It could be bronchitis, but we also need to rule out more serious conditions like pneumonia or even…something more concerning. I recommend a chest X-ray and a sputum culture to get a clearer picture. Are you willing to proceed with those tests?
+PATIENT: X-ray? Culture? Sounds…serious. What are you thinking it is? And how long will this take? I really need to get going. Look, can’t you just give me something for the cough? An antibiotic, or somethin’?
+DOCTOR: Mr. Reyno, I understand your concern, but prescribing antibiotics without knowing the cause of your cough would be irresponsible and could even be harmful. We need to identify the specific infection, if there is an infection, before we can determine the appropriate treatment. The X-ray will help us visualize your lungs and identify any abnormalities. The sputum culture will analyze the mucus you're coughing up to detect any bacteria or other pathogens. These tests are essential for making an accurate diagnosis and ensuring you receive the best possible care. Will you agree to the X-ray and sputum culture?
+PATIENT: Fine. Whatever. Do the tests. Just…get it over with. But I expect results fast. And I'm not stayin' here all day.
+DOCTOR: Alright. I'll have the nurse draw up the order for the X-ray and prepare you for the sputum sample collection. It will take approximately 30-45 minutes to get the X-ray done, and the results should be available within 24-48 hours. In the meantime, I recommend you rest and avoid any strenuous activity. And please, please try to cut back on the smoking. It's significantly exacerbating your condition. The nurse will be in shortly to assist you. Do you have any questions before I leave?
+PATIENT: No. No questions. Just…get it done. And hurry.
+DOCTOR: Very well. I’ll leave you to the nurse.

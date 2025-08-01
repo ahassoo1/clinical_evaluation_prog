@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Aluia. I’m Dr. Voytek. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, it’s these bumps on my legs. They’re on my shins, and they really hurt. Been bothering me for a little while now, you know? Red and… well, bumpy.
+DOCTOR: Okay, bumps on your shins that are red and painful. “A little while now” – can you be a bit more specific?
+PATIENT: Hmm… let me think. Maybe… three, four weeks now? Started with just one, I think, and then more kept popping up. It’s hard to say exactly, honestly. I don’t pay that close attention to things like that, you know? My wife, she notices things more.
+DOCTOR: Alright, three or four weeks, starting with one and progressing. And are they painful constantly, or does the pain come and go?
+PATIENT: It’s not always hurting, Doctor. It’s more when I walk a lot, or if I, uh… bump into something. Like, if I accidentally kick the furniture, that’s when it really stings. Just a sharp pain, then it calms down. Mostly just a dull ache the rest of the time, if that makes sense.
+DOCTOR: Okay, so aggravated by walking or trauma, sharp pain with impact, otherwise a dull ache. Have you noticed any other symptoms along with the bumps?
+PATIENT: Hmm… not really, Doctor. No fever, no swelling anywhere else, nothing like that. My legs don’t feel hot, and they aren’t itchy. Just… these painful bumps. I did notice they seem a little… harder than they used to be, maybe? But I could be imagining things.
+DOCTOR: Alright, no fever, no swelling, not itchy, and you feel like they’ve gotten harder. Okay. Now, have you had anything like this happen before?
+PATIENT: No, Doctor, never. Not like this. I've had my share of scrapes and bruises from work, you know, being a mover and all, but never bumps that hurt like this. It’s a different kind of pain.
+DOCTOR: Okay. And just to get a full picture, can you tell me about any other medical conditions you have?
+PATIENT: Well, I’ve got a little bit of high blood pressure, Doctor. The doctor has me on some pills for that. And my knees aren’t what they used to be, but that’s just old age, I suppose. Other than that, I’m pretty healthy, for my age. I have Medicare, if that helps.
+DOCTOR: Okay, high blood pressure managed with medication, and some knee pain. Let’s talk about those medications for your blood pressure. Do you know the name of them?
+PATIENT: Uh… let me think. My wife handles most of that. I believe it’s… Lisinopril? Yes, I think that's it. Lisinopril. I take one pill every morning. And I usually don’t have any problems with it.
+DOCTOR: Okay, Lisinopril, one pill daily. And no allergies to any medications that you know of?
+PATIENT: No, Doctor, no allergies. Never had a reaction to anything. I can eat anything, take any medicine… well, except maybe too much!
+DOCTOR: Alright, good. Now, before we do a quick exam, can you tell me about your family history?
+PATIENT: Hmm… family history. My mother, she had diabetes. And my father, he had heart trouble. Lots of us have high blood pressure, it seems. My wife’s side of the family, they’re pretty healthy, actually. Not much trouble there.
+DOCTOR: Okay, diabetes in your mother, heart trouble in your father, and high blood pressure runs in the family. And lastly, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, Doctor, none of that. Never smoked a cigarette in my life. I used to have a beer with dinner sometimes, but I stopped that a long time ago. And definitely no drugs. Just a simple man, you know?
+DOCTOR: Alright, that's helpful. Now, if you don’t mind, I’d like to take a quick look at your legs. Could you please point to the bumps we were talking about?
+PATIENT: Sure, Doctor. Right here. See? And here... and a couple more on this leg too. They’re mostly on my shins, like I said.
+DOCTOR: Okay, I see. They are red, raised, and tender to the touch. They do feel firm. There’s no warmth or swelling around them. Based on what you've told me and the exam, it could be shin splints, but given the raised nature and firmness, we need to rule out other possibilities. I'd like to order some blood work, just to be safe. And potentially an X-ray of your shins. Would that be alright?
+PATIENT: Blood work and an X-ray? Sounds… thorough, Doctor. Okay, if you think it’s best. I trust your judgment. Just… how long will it take to get the results? And will it hurt?
+DOCTOR: The blood draw itself is a quick pinch, shouldn't be too painful. The X-ray is painless, it just involves standing still for a few moments. As for the results, the blood work usually takes 2-3 business days, and the X-ray report should be available within a day or two. We'll call you as soon as we have them. In the meantime, try to avoid activities that aggravate the pain. Rest, ice, and elevate your legs when you can. Does that sound manageable?
+PATIENT: Rest, ice, and elevate… yes, I can do that. My wife will be glad to hear that, she always tells me to take it easy. Two to three days for the blood work… alright. Thank you, Doctor. I appreciate you looking into this. Is there anything else I should be doing? Or anything I should be watching out for?
+DOCTOR: You're welcome, Mr. Aluia. If the pain gets significantly worse, or if you develop a fever, chills, or any drainage from the bumps, please call the office immediately. Also, if the bumps start to change color or size rapidly, let us know. We'll schedule a follow-up appointment once we have the results. Does that sound good?
+PATIENT: Yes, that sounds good, Doctor. No fever, changes in the bumps… I’ll keep an eye on it. Thank you again for everything. I think I’m all set for now.
+DOCTOR: Alright. The nurse will be in shortly to draw your blood and schedule your X-ray. It was nice meeting you, Mr. Aluia. Take care, and don't hesitate to call if you have any questions or concerns.

@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. Raghunathan, have a seat. So, what brings you in today?
+PATIENT: Thank you, Doctor. Well, I’ve noticed a lump… a mass, I guess you’d call it, in my lower abdomen. It’s been there for a little while, and it doesn't seem to be going away.
+DOCTOR: A lump, huh?
+PATIENT: Yes. It’s… it’s not painful, exactly. More of a… discomfort. A fullness, sometimes. It’s just concerning, you know? It feels different than anything I’ve felt before.
+DOCTOR: Right. Different how?
+PATIENT: That’s a good question. It’s hard to explain. It’s not like a muscle ache, or… gas pains. It’s deeper, I think. And it feels…firm. Not soft and squishy, if that makes sense. It's just… solid.
+DOCTOR: Solid, alright. And how long now has it been…“there”?
+PATIENT: Hmm… let me think. It’s been maybe… six weeks? Possibly a little longer. I first noticed it when I was… well, getting ready for a dance performance. I was stretching and that's when I felt it. It wasn’t very noticeable at first, just a slight bump. But it’s grown a bit since then.
+DOCTOR: Dance performance, okay. And has anything…changed with it?
+PATIENT: Well, like I said, it’s gotten a little bigger. And sometimes, if I’ve been doing a lot of physical activity, it feels… heavier. Not painful, just…more present, you know? It doesn’t seem to bother me when I'm resting.
+DOCTOR: Alright, alright. Let's have a look. Lie back on the table for me, will you?
+PATIENT: Yes, of course. Is there anything I should be doing? Or…is it just a visual exam?
+DOCTOR: Just relax. I'll need to feel around a bit. Try to empty your bladder if you haven't already.
+PATIENT: Yes, I did go to the restroom before coming in. I'll just… relax.
+DOCTOR: Hmm… yes, I feel something. Firm, as you said. Not particularly tender to the touch, thankfully. It's about… two centimeters in diameter. Located in the lower left quadrant. No rebound tenderness. Bowel sounds are present. Alright. Do you have any history of hernias?
+PATIENT: No, Doctor, I don’t. I’ve never been told I have a hernia. I’ve been pretty healthy, all things considered. My family… my father had some issues with his heart when he was older, but nothing like this. I’m married, and my wife keeps telling me to come in if I notice anything. She's a bit of a worrier, bless her.
+DOCTOR: Alright. And any recent weight loss?
+PATIENT: No, not really. I might have lost a pound or two, but nothing significant. It’s probably just from the summer heat, honestly. It's been so warm, I haven’t been eating as much. I haven’t been feeling particularly hungry lately, but I wouldn’t say I’ve been actively trying to lose weight.
+DOCTOR: Any changes in your bowel habits?
+PATIENT: No, not that I've noticed. Everything seems… regular, if you know what I mean. No constipation, no diarrhea, nothing like that. Just… normal. I apologize if I’m not being very helpful. I’m just not sure what this could be.
+DOCTOR: Alright. Well, it could be a number of things. Muscle strain, a lipoma…even a swollen lymph node. But given it hasn’t resolved, and you’re understandably concerned, I think we should get a CT scan to rule out anything more serious. It's better to be safe than sorry. I'll put in an order for one now.
+PATIENT: That sounds… sensible, Doctor. A CT scan. Yes, I agree. Better to be safe. Will you explain the process to me, or is there someone who can? I’ve never had one before.
+DOCTOR: The nurse will go over the details. It's pretty straightforward. You'll lie on a table, and a machine takes pictures. No big deal. They may give you some contrast dye, but it's generally well-tolerated. I'll also order some routine blood work just to get a baseline. And, frankly, I don't want to waste any more of your time, or mine. We'll get the results back as soon as possible. Stop by next week to discuss them.
+PATIENT: Alright. That sounds… alright. Blood work and a CT scan. I appreciate you taking the time to examine me, Doctor. And thank you for ordering the tests. Should I schedule the tests directly, or will the nurse handle that as well?
+DOCTOR: The nurse will schedule everything. She's much better organized than I am. Just see her on your way out. Next! .
+PATIENT: .

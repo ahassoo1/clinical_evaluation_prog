@@ -1,0 +1,25 @@
+DOCTOR: Alright, Ms. Redeye, have a seat. So, what brings you in today?
+PATIENT: Oh, thank you, Doctor. It’s… the hiccups. They just won't stop. It’s been, honestly, a couple of days now. More than two, definitely. It’s… embarrassing, really.
+DOCTOR: Hiccups, huh?
+PATIENT: Yes. And it’s not like, little polite hiccups. They’re… big. And frequent. I tried drinking water upside down, you know, like you see in the movies. Didn’t do a thing.
+DOCTOR: Upside down… right. Well, those home remedies rarely work, frankly. How often would you say these “big” hiccups are occurring?
+PATIENT: Oh, goodness. Let me think… at first, it was maybe every few minutes. Now? Probably every other breath. It’s… distracting. And it makes me jump. See? There it is again. Ugh.
+DOCTOR: Alright. And are you experiencing anything else with these hiccups?
+PATIENT: Hmm. That’s a good question. Let me think… No, not really. No pain, no heartburn, no… dizziness. Just… the hiccups. Though, I suppose I am a little tired. But that’s probably just… life, you know?
+DOCTOR: Tired… Well, that could be anything. Any recent changes in your diet?
+PATIENT: Not really. I eat pretty much the same things all the time. I own a little entertainment place, so I'm usually snacking on whatever we have on hand for customers, you know? Chips, pretzels, little sandwiches… nothing fancy. Nothing new, anyway.
+DOCTOR: Okay. And any history of… well, anything significant?
+PATIENT: Significant…? Oh dear. Let me see. I had pneumonia when I was younger, maybe… twenty years ago? And… a divorce, a long time ago. Is that significant? Other than that, not really. I've always been pretty healthy. A bit overweight, perhaps, but… healthy.
+DOCTOR: Alright. Let's have a listen to your lungs, just to be sure. If you could just lie down on your back for me.
+PATIENT: Oh, of course. This way, then? I hope it's not anything serious. It's just… so annoying.
+DOCTOR: Lungs are clear. Blood pressure is a little elevated, but not alarmingly so. Heart rate is normal. Tell me, are you on any medications currently?
+PATIENT: No, I'm not. Never have been, really. I try to avoid them if I can. I don't like the idea of putting things in my body I don't need.
+DOCTOR: Alright. And any allergies to anything?
+PATIENT: No allergies that I know of. I eat everything. Well, almost everything. I’m not a fan of olives, but that’s a preference, not an allergy. I’ve never had a reaction to anything.
+DOCTOR: Okay. This is… unusual. Prolonged hiccups with no apparent cause. We can try a few things. I’m going to order a chest X-ray just to rule anything out, and then we'll go from there. It's probably just some irritation of the diaphragm, honestly. I'll write you a referral.
+PATIENT: Oh. An X-ray? That sounds… serious. Is it something awful, Doctor? I mean, you said it was probably just irritation… but still. Will it show something bad?
+DOCTOR: Look, Ms. Redeye, I'm ordering an X-ray as a precaution. It’s standard procedure when something like this doesn’t resolve on its own. It doesn’t mean you have anything awful, alright?
+PATIENT: Oh, okay. A precaution. That makes me feel a little better. A little. So… what do I do after I get the X-ray? Do I come back here? Do I just… wait for you to call?
+DOCTOR: The radiology department will send the results directly to me. Once I have them, my office will call to schedule a follow-up appointment. Don't worry about it too much. Just get the X-ray done as soon as possible. Next patient.
+PATIENT: Oh, alright. Thank you, Doctor. As soon as possible. Okay. I appreciate you looking into it. .
+DOCTOR: .

@@ -1,0 +1,36 @@
+DOCTOR: Alright, Mr. Pavlovic, good to meet you. So, you’re here today… what brings you in?
+PATIENT: Oh, hello Doctor… Donate, is it? Yes, yes. It’s this cough. Been… a while now. Dry, mostly. Just… bothersome. I don't quite remember when it started, to be honest. Seems like… a long time. It just… is.
+DOCTOR: A long time, huh?
+PATIENT: Yes. A long time. Maybe… since the winter? Or was it spring? My memory isn’t what it used to be. My wife… she always remembered everything. Now… it's like trying to catch smoke.
+DOCTOR: Right. Well, we'll try to figure it out. So, just this dry cough, mostly?
+PATIENT: Mostly. Sometimes… a little phlegm, maybe? But not much. And it doesn't… hurt, exactly. Just… makes me tired. I have to… stop and catch my breath sometimes, you know? Especially when I'm… doing things. Though, I don't do much these days.
+DOCTOR: Okay, tired with exertion. And the phlegm is occasional?
+PATIENT: Yes, occasional. It’s… clear, I think. Or whitish. Hard to say for sure. I don’t really… pay attention to it, to be honest. I just want the coughing to stop. It keeps me up at night, sometimes.
+DOCTOR: Alright. And aside from the cough and the fatigue, have you noticed anything else?
+PATIENT: Hmm… let me think. Not really. I get… winded easily, but that’s just old age, I suppose. And my appetite isn’t what it used to be, but… well, who needs much food at my age? Oh! My legs… they swell up a little sometimes. At the end of the day.
+DOCTOR: Swelling in the legs… at the end of the day, you said?
+PATIENT: Yes, yes. Mostly my ankles. Not terribly bad, mind you. Just… noticeable. My wife used to rub them with some… some kind of lotion. I can’t remember what it was called. She knew all sorts of things.
+DOCTOR: Alright. We’ll get to the bottom of all this. Have you had any chest pain, fever, chills, or shortness of breath other than what you mentioned with exertion?
+PATIENT: Chest pain… no, not really. A little… tightness sometimes, but I figured that was just… anxiety. Worrying about things, you know? Fever… not that I’ve noticed. No chills, either. Shortness of breath… well, just when I walk too far. Or climb the stairs. Nothing… sudden.
+DOCTOR: Okay. And what about your medical history?
+PATIENT: Medical history… Oh dear. That was a long time ago. I remember… I had pneumonia, once. A very bad bout. But that was… decades ago. And my wife… she always took care of the doctor things. I just… showed up when she told me to. I don't recall much else, honestly.
+DOCTOR: Alright. Do you know if you have any chronic conditions like diabetes, heart problems, or high blood pressure?
+PATIENT: Diabetes… no, I don't think so. My wife always made sure we ate healthy. Heart problems… maybe? The doctor once mentioned something about my heart being… enlarged, I think? But it was a long time ago. High blood pressure… I honestly don't know. She handled all that. I took some pills, sometimes. Little white ones, I think.
+DOCTOR: Okay. And any surgeries or hospitalizations other than the pneumonia?
+PATIENT: Hmm… I had my appendix out when I was young. A long, long time ago. And… I broke my arm once, falling off a ladder. But that was just a simple break. Nothing major. I don't think I've been hospitalized for anything else. My wife… she kept me out of hospitals as much as possible.
+DOCTOR: Alright. What about medications?
+PATIENT: Medications… Oh, goodness. Let me see. I take something for my… arthritis, I think. Little yellow pills. And something for my water… to help me go to the bathroom. That’s all I can think of right now. I used to take a pill for my heart, but the doctor stopped that a while back.
+DOCTOR: Okay. And any allergies to medications or anything else?
+PATIENT: Allergies… Not that I know of. Never had a reaction to anything, as far as I can remember. My wife always checked everything very carefully before I took it. She was very cautious, bless her heart. I just… trusted her.
+DOCTOR: Alright. Well, let's do a quick physical exam. I’d like to listen to your lungs and heart, and check your legs. If you could just sit up there for me.
+PATIENT: Oh, alright. Sounds good, Doctor. I'm not as steady as I used to be, you know.
+DOCTOR: Okay. Your breathing sounds a little… diminished on both sides. And I do hear a bit of a murmur with your heart, as you mentioned the doctor said something about it before. And yes, there's some swelling in your ankles, as you said. It's pitting edema, meaning it leaves an indentation when I press on it. This is all consistent with… well, what happens as people get older. It doesn't necessarily mean anything serious, but we need to rule a few things out.
+PATIENT: Oh dear. Is it… bad, Doctor? My wife… she always said I needed to take better care of myself. I suppose I didn't listen enough. What do you need to… rule out?
+DOCTOR: Well, the shortness of breath, the swelling, and the murmur could be due to a number of things. It could be simple fluid retention, which is common. But it could also be a sign of something more serious, like heart failure or a problem with your kidneys. To be safe, I'm going to order some blood work and a chest X-ray. That'll give us a better idea of what's going on. Does that sound alright?
+PATIENT: Oh… blood work and an X-ray. That sounds… serious, Doctor. I haven’t had an X-ray in… decades, I think. Is it going to hurt? And will the blood work take a lot? I don’t like needles, you know.
+DOCTOR: The X-ray won’t hurt at all. You just stand still for a few seconds while the machine takes a picture. And the blood work… yes, there will be a small needle prick, but it’s very quick. A few vials, that’s all. It's necessary to get a clear picture of what's going on, and frankly, at your age, it's better to be cautious. I'll have the nurse draw the blood and send you to radiology for the X-ray. Once we get the results back, we can discuss them and figure out the best course of action. It's likely nothing to worry about, but we need to rule things out. Do you understand?
+PATIENT: Yes, Doctor. I understand. Blood work and an X-ray… I suppose I can manage that. Just… please, be quick with the needle. And tell me if it’s going to hurt. My wife… she always held my hand when I got shots.
+DOCTOR: Alright. I’ll make a note for the nurse. They’re very good at what they do. They will explain everything to you. Once the results are back—and it will likely be a few days—we will schedule a follow-up appointment to discuss them. Here’s the lab order and the radiology request. The nurse will take it from here. Do you have any other questions for me right now?
+PATIENT: No, Doctor. I don't think so. Just… thank you. For everything. I appreciate you taking the time to listen. I just… want to feel better. That's all.
+DOCTOR: Alright. Well, we’ll do our best. Just remember, it’s likely nothing serious. But it's better to be safe. The nurse will be in shortly to draw your blood. I have other patients waiting, so I'll let you get started.
+PATIENT: .

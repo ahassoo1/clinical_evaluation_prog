@@ -1,0 +1,44 @@
+DOCTOR: Good morning, Ms. Licano. I’m Dr. Deschane. So, what brings you in today?
+PATIENT: Oh, good morning, Doctor. It’s… well, it’s this tiredness. Just… always tired. It’s been going on for a while now, I guess. Honestly, it’s hard to say how long. Everything feels a bit blurry these days.
+DOCTOR: "A while now," is… not particularly helpful, Ms. Licano. We need to establish a timeframe for proper assessment. Can you try to recall when you first noticed this persistent fatigue?
+PATIENT: Ugh, timelines… right. Honestly? Maybe… after my husband passed? It’s hard to separate everything, you know? Grief and… just feeling run down. It’s all mixed up. Was that… 2020? I think so. Or maybe 2021? It all feels like one long… haze.
+DOCTOR: So, approximately 2020, following your husband’s passing. And this fatigue has been continuous since then?
+PATIENT: Continuous… yeah, I think so. Some days are worse than others, definitely. But it’s always there. Like… a weight. It’s not just being sleepy, you know? It’s… everything feels like too much effort. Even getting out of bed.
+DOCTOR: And are there any other symptoms accompanying this fatigue, Ms. Licano?
+PATIENT: Hmm… let me think. I get… achy, sometimes. My joints, mostly. And I forget things… a lot. You probably noticed that already! It's not like… big things, usually. Just… where I put my glasses, what I was doing… little things.
+DOCTOR: Aches and forgetfulness. Can you describe the aches?
+PATIENT: Oh, they're just… all over. Mostly my knees and hips, but sometimes my back too. Not sharp pain, just… dull and constant. Like I’ve done too much gardening, even when I haven’t. It’s worse in the mornings, I think. And in the cold weather. It's… annoying.
+DOCTOR: Alright. And the forgetfulness… has it been getting worse, or has it stayed relatively the same?
+PATIENT: Oh, I think it’s worse. It’s hard to tell, really. I keep misplacing things, forgetting appointments… little things that I used to never do. My daughter keeps having to remind me. It's embarrassing, to be honest.
+DOCTOR: Alright. And are you experiencing any changes in your appetite or weight?
+PATIENT: Oh, no. Not really. I eat about the same, I think. Maybe a little less, now that I don’t… well, I used to bake a lot for my husband. Now… not so much. And my weight… I haven’t weighed myself in ages. I used to be quite thin. Still am, I guess. I don’t really pay attention to that sort of thing.
+DOCTOR: Ms. Licano, do you have any difficulty sleeping?
+PATIENT: Oh, yes, sometimes. I fall asleep alright, usually. But I wake up a lot during the night. Just… restless. And I don’t always feel rested when I get up, even if I’ve slept for a good eight hours. It’s frustrating. It’s… just one thing after another.
+DOCTOR: Alright. And have you noticed any changes in your bowel habits?
+PATIENT: Oh, dear. Well… sometimes. A little… irregular. Nothing major, you know? Just… not as regular as it used to be. Is that important? I don't really like talking about this.
+DOCTOR: It's relevant, Ms. Licano. Everything is relevant. And before we proceed, do you have any allergies to medications?
+PATIENT: Oh. Right, sorry. Um… I don’t think so. Not that I know of, anyway. I’ve never really had a bad reaction to anything. Except… I think I was a little itchy once after taking an antibiotic, years ago. But it wasn't a big deal.
+DOCTOR: And are you currently taking any medications, prescription or over-the-counter?
+PATIENT: Just… Medicare helps with some things. Oh! And I take a vitamin D supplement sometimes, in the winter. My daughter told me to. Something about the sun. And… oh, I take something for my blood pressure, I think. A small white pill. But I don't really remember the name.
+DOCTOR: Ms. Licano, it is imperative that you know what medications you are taking. This is... concerning. Do you have any records of your medications or perhaps know the name of the pharmacy you use?
+PATIENT: Oh, dear, don’t get upset! It’s just… things are blurry, you know? I used to handle all of it, but… since my husband… My daughter usually helps with the refills. I think it’s… Miller’s Pharmacy? Down on Main Street. Yes, that’s right! Miller’s. I’m sorry. It’s just… hard to keep track of everything.
+DOCTOR: Alright. We will verify your medications with Miller’s Pharmacy. Now, let's proceed with a brief physical examination. Please step onto the scale for me.
+PATIENT: Oh, alright. I hope it’s not too much trouble.
+DOCTOR: 108 pounds. That is… quite low. And your height is listed as 187 centimeters. Correct?
+PATIENT: Yes, I think so. I've always been tall, I suppose. Is that bad? I don't really keep track of those numbers.
+DOCTOR: BMI is 30.9… indicative of obesity, despite your low weight. Please lie down on the examination table. I'm going to listen to your heart and lungs.
+PATIENT: Obesity? But… I’m so thin! Oh. Alright. I hope everything is alright. This is all a bit much.
+DOCTOR: Heart sounds are regular, but slightly diminished. Lungs are clear to auscultation bilaterally. Now, I'm going to palpate your abdomen. Please relax. Any tenderness here?
+PATIENT: Oh, um… A little. Just… a dull ache. Like a pressure, really. It's not sharp, but it’s… always there. It's worse when I'm… constipated, I think. My daughter keeps telling me to drink more water.
+DOCTOR: Mild tenderness to palpation in the lower abdomen, no guarding or rebound. And your knees?
+PATIENT: Oh, they’re just achy. Right there, that’s a bit sore. And this side too. Not terrible, just… uncomfortable. It's worse in the mornings, and when it’s cold. Like they’re… creaking.
+DOCTOR: Moderate crepitus bilaterally in the knees, mild swelling. Range of motion is limited. Now, I’m going to check your reflexes.
+PATIENT: Oh… I hate those things. They always make my leg jump. Are you sure you have to?
+DOCTOR: Reflexes are diminished bilaterally. Now, if you’ll just follow my finger with your eyes...
+PATIENT: Oh… alright. Is everything alright? This is taking a long time.
+DOCTOR: Slightly sluggish pursuit. Now, I’m going to need to draw some blood for routine labs. Complete blood count, comprehensive metabolic panel, thyroid function tests, vitamin D level, and inflammatory markers. If you’ll follow me…
+PATIENT: Oh, blood work? I… I don’t like needles. Really don’t. Is it absolutely necessary? Maybe my daughter can talk to you about it? She’s much better with this sort of thing.
+DOCTOR: Ms. Licano, blood work is essential to determine the cause of your fatigue and assess your overall health. It is not optional. I understand you are apprehensive, but we need to proceed. It will be quick. And I assure you, our phlebotomist is very skilled. Let's go.
+PATIENT: Oh… alright. But… can my daughter come with me? Just to… hold my hand? I really don’t like this. Please?
+DOCTOR: Very well. Your daughter may accompany you. But I expect full cooperation during the blood draw. If you'll follow me…and please, try to remain calm. This will be much easier for everyone.
+PATIENT: Oh, thank you. That helps a lot. I just… I don’t do well with this sort of thing.

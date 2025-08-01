@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Mr. Sobkowic. I'm Dr. Deschane. So, tell me, what brings you in to see me today?
+PATIENT: Chest hurt. And… heart go boom-boom too fast. Blood pressure… number high, nurse say. I no like.
+DOCTOR: Yes, the nurse gave me a preliminary report. “Chest hurt” is…vague, Mr. Sobkowic. Can you describe the pain?
+PATIENT: Vague? It hurt. Like… someone sitting on my chest. Heavy. Not sharp, not… cutting. Just… heavy. I old man, not good with… explain feelings.
+DOCTOR: Right. “Heavy.” And how long has this been happening, this “heavy” feeling?
+PATIENT: Maybe… two, three days? Hard to say. I busy. Wife need help with garden. Things to do. Not sit around feel chest.
+DOCTOR: I understand you're a busy man, Mr. Sobkowic. But it's important we get a clear picture of what's going on. Does anything make the pain worse?
+PATIENT: Hmm. Walking up hill. That bad. And… when I angry. Wife… she talk a lot. Make me… upset. Then chest hurt more.
+DOCTOR: So exertion and…emotional distress seem to bring it on. And does anything relieve the pain?
+PATIENT: Sitting down. Quiet. Stop thinking about… wife’s talking. Then… little better. Not much better, but… less.
+DOCTOR: Alright. And you mentioned your heart “going boom-boom too fast.” Is that happening at the same time as the chest pain, or does it happen separately?
+PATIENT: Sometimes together. Sometimes… just boom-boom. I feel… weak when that happen. Like gonna fall down.
+DOCTOR: Okay. And how often would you say this “boom-boom” sensation occurs?
+PATIENT: Not every day. Maybe… two, three times a week? Sometimes more if… you know. Wife.
+DOCTOR: Right. We'll get to the bottom of this. Now, have you ever had this happen before?
+PATIENT: No! Never. I healthy man. Always work hard. This new thing. Worry me. I no want trouble.
+DOCTOR: “Always work hard” doesn’t preclude medical issues, Mr. Sobkowic. Let’s review your past medical history. Have you ever been diagnosed with high blood pressure, high cholesterol, diabetes, or any heart conditions?
+PATIENT: No. Doctor say I strong. Just… take vitamin. That all. I forget name of doctor now. Old doctor.
+DOCTOR: Very well. Any surgeries or hospitalizations in the past?
+PATIENT: No surgery. One time… fall off ladder. Broke arm. But that long time ago. Small thing.
+DOCTOR: Alright. And what about your family?
+PATIENT: Family? My… mother, she die old. Father too. No heart problem, I think. Just… old.
+DOCTOR: And do you take any medications currently, besides the vitamins you mentioned?
+PATIENT: Just… the vitamin. Small pill. Wife buy. She worry too much.
+DOCTOR: Do you have any allergies to medications or anything else, Mr. Sobkowic?
+PATIENT: No. I eat everything. No problem. I Korean, we eat spicy!
+DOCTOR: Alright. Now, I’m going to need to listen to your heart and lungs, and take your blood pressure again. Then we'll discuss some possible next steps. Please lie back on the examination table.
+PATIENT: Okay, okay. Hurry up. I have garden to do.
+DOCTOR: Your blood pressure is elevated, as the nurse noted. Your heart does have a slight murmur, and your breathing is a little shallow. Do you smoke, Mr. Sobkowic?
+PATIENT: Smoke? No! I no smoke. Bad for health. Wife no allow.
+DOCTOR: Do you drink alcohol?
+PATIENT: Sometimes. Small glass of soju with dinner. Korean drink. Not much.
+DOCTOR: Alright, Mr. Sobkowic. Based on what you've told me and my examination, you're experiencing chest pain and palpitations, likely related to elevated blood pressure and possibly some underlying cardiac issues. Given your age, these symptoms need to be investigated further. I'm ordering an EKG, a chest X-ray, and some blood work to get a clearer picture.
+PATIENT: Too much test! I just want pill to make heart stop boom-boom. I no want X-ray.
+DOCTOR: Mr. Sobkowic, I understand you're frustrated, but these tests are necessary to determine the cause of your symptoms and ensure you receive the appropriate treatment. We can't simply prescribe medication without knowing what's going on. I will also need you to see a cardiologist for a full evaluation. I'm going to make a referral now. It’s important to rule out any serious problems. Do you understand?
+PATIENT: Cardiologist? More doctor? This is too much! I just want to go home and take care of garden. Wife will be mad. I no like this.
+DOCTOR: Mr. Sobkowic, I appreciate your concerns, but your health is my priority. Ignoring these symptoms could have serious consequences. I’m not dismissing your feelings, but I need you to follow my recommendations. I'll order the tests and make the referral. The cardiologist will contact you to schedule an appointment. In the meantime, avoid strenuous activity and monitor your symptoms. If you experience worsening chest pain or shortness of breath, go to the nearest emergency room immediately. Do you have any questions about that?

@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Lucia. I’m Dr. Cumper. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Um, it’s my…belching. It’s been happening a lot. It’s kinda embarrassing, but…yeah, lots of belching.
+DOCTOR: Okay, belching. I understand it can be a bit disruptive. How long has this been going on for?
+PATIENT: Hmm… maybe a couple weeks now? I don't really keep track of days, you know? But it started after… well, after I ate a lot of beans at my friend’s party. It hasn’t really stopped since. I thought it would go away, but… it didn’t.
+DOCTOR: Alright, a couple weeks, starting after a bean-heavy party. That gives us a good starting point. Is it constant belching, or does it come and go?
+PATIENT: It comes and goes. It’s worse after I eat, definitely. And sometimes at night, when I’m trying to sleep. Not always at night, but often. Other times, I'm okay for a few hours. It’s… unpredictable, I guess.
+DOCTOR: Okay, unpredictable, worse with eating, and sometimes bothers you at night. Anything specific seem to trigger it besides eating?
+PATIENT: Hmm… not that I notice. Maybe… when I get nervous? Like, if I have to talk to people I don’t know very well, sometimes it happens then. But I don't always belch when I'm nervous, so I'm not sure. It's probably just the eating, mostly.
+DOCTOR: Alright. And are you experiencing any other symptoms along with the belching?
+PATIENT: No, not really. My stomach sometimes feels a little…bloated, maybe? But not always. And I feel tired, but… I always feel a little tired. I don’t think that’s from the belching. I work a lot. Does that make sense?
+DOCTOR: Okay, some bloating at times, but you attribute the tiredness to work. Let's talk about your diet a bit more. Besides the beans at the party, what does a typical day of eating look like for you?
+PATIENT: Okay. Um… for breakfast, usually just coffee and maybe a little bit of toast. Lunch is usually something quick, like a sandwich. And dinner… I try to cook, but sometimes I just get something easy, like rice and chicken. I drink a lot of soda. I know I shouldn’t.
+DOCTOR: Alright, coffee, a quick lunch, and dinner varies, plus a fair amount of soda. Okay. Do you notice if certain foods trigger the belching more than others?
+PATIENT: Hmm… I think…spicy food makes it worse. And anything with a lot of onion. But honestly, it's hard to tell. Like I said, it just happens sometimes. It’s very confusing! It’s not like one thing always makes it happen, you know?
+DOCTOR: Okay, spicy food and onion seem to be potential triggers, but it’s not consistent. Let’s quickly go over your medical history. Have you been diagnosed with any medical conditions?
+PATIENT: No, not really. I haven't been to the doctor in… a long time, actually. I just try to deal with things myself. My mother always said to rest and drink tea, so that's what I usually do. I don’t have any… serious problems, I don't think.
+DOCTOR: Alright. Any surgeries in the past?
+PATIENT: No, never had any surgery. Nothing like that. I’m… pretty healthy, usually. Just this belching thing is annoying. Really annoying! See? Right now! It just happened.
+DOCTOR: Okay. And are you currently taking any medications, over-the-counter or prescribed?
+PATIENT: No, I don't take anything. Not even vitamins. Like I said, I usually just try to rest when I feel bad. I don't really like taking pills if I can help it.
+DOCTOR: Alright, no medications. Any allergies to anything – foods, medications, environmental factors?
+PATIENT: No, I don’t think so. I mean, sometimes I get a little itchy when I’m around cats, but that’s it. Not a serious allergy, just a little itchy. Nothing I need to worry about.
+DOCTOR: Okay, no significant allergies. And just to confirm, are you experiencing any other symptoms at all – things like heartburn, nausea, vomiting, weight loss, changes in your bowel habits, or any abdominal pain?
+PATIENT: No, nothing like that. No heartburn, no feeling sick, no…throwing up. My weight is the same, maybe a little more because I work so much. And my…bowels are okay. Everything is… normal, except for the belching. It's just the belching, Doctor. Really.
+DOCTOR: Alright. Let’s do a quick physical exam, just to listen to your abdomen and see if anything stands out. Is that okay with you?
+PATIENT: Yes, that’s okay. Whatever you think is best, Doctor. I just want it to stop.
+DOCTOR: Okay, Lucia, take a deep breath for me... and exhale. Good. Another deep breath… and exhale. I’m listening to your bowel sounds now. They seem… slightly hyperactive, but not overly concerning. Your abdomen is soft, no tenderness to the touch. Do you feel any pain when I press here?
+PATIENT: No, that doesn't hurt. It feels… normal. Like you said, soft. It doesn’t feel different than usual, really. Ooh, maybe a little there? Just a tiny bit. But not bad.
+DOCTOR: Okay, a little bit of tenderness there, but generally soft. Based on what you’ve told me, and the exam, it sounds like you likely have some degree of increased gas in your digestive system. The beans at the party likely triggered it, and certain foods – like spicy food and onion – seem to exacerbate it. The hyperactive bowel sounds suggest your digestive system is working a bit overtime. Given your history of being generally healthy and no significant symptoms, I'm not overly concerned. However… .

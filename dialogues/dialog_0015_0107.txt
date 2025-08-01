@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Puder. I'm Dr. Trestrail. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. My heart… it feels funny sometimes. Like it’s flapping, not beating normal. It’s been happening for a little while now. Not all the time, but enough to worry me.
+DOCTOR: "Flapping," you say?
+PATIENT: Yes. Like a bird. Not fast flapping, but… uneven. Like it skips a beat, then goes too fast. It makes me feel tired, sometimes. Not a big tired, just… weak. I don’t know if that makes sense.
+DOCTOR: It’s difficult to diagnose based on subjective descriptions, Mr. Puder. When did you first notice this “flapping,” as you call it?
+PATIENT: Hmm… let me think. Maybe… three months ago? Around May. I was working, lifting some boxes, and then I felt it. It went away after a bit, and then it started happening again a few weeks later. Not every day, though. It's hard to remember exactly when it started, but that feels right.
+DOCTOR: And has anything specific seemed to trigger these episodes since then?
+PATIENT: Not really. I mean, sometimes when I'm working hard. Lifting things, like I said before. Or… when I get really hot. It happened once when I was helping my wife with the garden in the sun. But it doesn't always happen then. It just… happens. I don't know what causes it. It's confusing.
+DOCTOR: Alright. And when you feel this, do you experience any other symptoms?
+PATIENT: Sometimes I get a little dizzy. Not fall-down dizzy, just… lightheaded. And my chest… it feels a little tight, like someone is squeezing it. But it goes away when the flapping stops. And I get a little bit sweaty, too. But not much. Mostly just the heart feeling funny and the light head.
+DOCTOR: You mentioned lightheadedness and chest tightness. Are you experiencing any pain in your chest, Mr. Puder?
+PATIENT: No, not pain. It's not sharp or anything. Just… tight. Like a band around it. Not bad, like I said. But enough to notice. And it only happens when my heart does the flapping thing. It doesn't hurt to breathe, or anything. Just… tight.
+DOCTOR: And have you ever been diagnosed with high blood pressure, or any other heart conditions?
+PATIENT: No, never. I don’t think so. I haven't been to the doctor much, if I’m honest. I usually just try to tough things out. My wife, she keeps telling me to come in when something is wrong, but… I don’t usually bother. This… this feels different, though. That’s why I’m here.
+DOCTOR: Alright. And what about your family history?
+PATIENT: My father… he had problems with his legs. Swelling, and stuff. The doctor said it was from working too hard. I don't think it was heart problems. And my mother… she was okay. Healthy, mostly. No heart trouble that I know of. I don't really know much about my grandparents, they lived far away. Sorry I can’t be much help with that.
+DOCTOR: Do you currently take any medications, or have any allergies to medications?
+PATIENT: No medications. And no allergies that I know of. I've taken some pills for headaches before, like ibuprofen, but nothing serious. Never had a reaction. I don’t like taking pills if I can help it. They make me feel sick sometimes.
+DOCTOR: Very well. I’m going to listen to your heart and lungs now, Mr. Puder. Please remove your shirt and lie back on the examination table.
+PATIENT: Okay, Doctor. Is it cold in here? I feel a little chilly already.
+DOCTOR: Please take a deep breath and exhale slowly. Hmm. I detect a slightly irregular rhythm. Not alarming, but present. Your lungs are clear. Now, I’d like to check your blood pressure and pulse.
+PATIENT: Okay. It feels funny when you listen with that thing. Is it normal to feel a little… jumpy? My heart is doing that flapping thing a little bit now, I think.
+DOCTOR: Your blood pressure is 130/85. Pulse is 88 and irregular. As I suspected. The irregularity is subtle, but it’s there. Given your symptoms and the findings on examination, I believe we should order an electrocardiogram – an EKG – to assess your heart rhythm more thoroughly. It's a simple test, painless. We'll also do some blood work to check your electrolyte levels and rule out any underlying issues.
+PATIENT: EKG? Is that… is that bad? I don't like tests. And blood work? Will it hurt? I'm not good with needles, Doctor. Is this going to be expensive? I don't have insurance, you see.
+DOCTOR: Mr. Puder, an EKG is not a painful test. It involves placing small stickers on your chest to record your heart’s electrical activity. As for the blood work, it will be a small prick – a minor discomfort. We need these tests to determine the cause of your symptoms and ensure your well-being. I understand your concerns about cost. We can discuss options for affordable testing. However, ignoring these symptoms is not advisable. Let me print out the lab requisition forms. The lab is located across the street. We'll schedule a follow-up appointment to review the results once they are available.
+PATIENT: Okay. If you think it’s important… I’ll do it. But… that needle thing. Will it be a big one? And how long will it take? I have to get back to work, you see. My wife… she needs me.
+DOCTOR: It will be a standard needle, Mr. Puder. The blood draw shouldn't take more than ten minutes. I will provide a note for your employer explaining your absence. Here are the forms. Take these to the lab across the street. They will draw the blood. We’ll schedule a follow-up appointment for next week to discuss the results. Please call the clinic to schedule. Do you have any further questions, or shall we proceed?
+PATIENT: No, I think that's all. Just… the needle. I really don't like needles. Thank you, Doctor. I guess I'll go do the blood thing now. Hopefully it won’t take too long.
+DOCTOR: The sooner you have the blood work done, the sooner we can determine the cause of your symptoms. That’s all that matters, Mr. Puder. .
+PATIENT: .

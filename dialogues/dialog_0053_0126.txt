@@ -1,0 +1,18 @@
+DOCTOR: Alright, Mr. Erxleben. So, what brings you in today?
+PATIENT: Right, well… it’s been a bit odd, to be frank. I’ve just been… awfully thirsty, and hungry, constantly. It feels like I can drink a gallon of water and still be parched, and I’ve been eating more than usual, but it doesn’t… quite satisfy it, if that makes any sense. It’s been going on for a few weeks now, I suppose.
+DOCTOR: A few weeks, you say. Constant thirst and hunger… and it’s not relieving the feeling, even with increased intake. Hmm. And has anything else changed alongside this?
+PATIENT: Not that I've noticed, not directly. I… well, my ex-wife and I finalized the divorce a couple of months back, so there’s been a bit of… adjustment, naturally. But I wouldn’t say that's caused it. I’m sleeping alright, going to work… usual routine, really. I haven’t been feeling particularly tired, or anything like that. No fever, no… I don’t know, aches or pains. Just… this.
+DOCTOR: Divorce is… stressful. Though I doubt that’s the primary cause of increased thirst and hunger. Let’s try to be clinical here. Are you urinating more frequently than usual?
+PATIENT: Oh. Right. Yes, actually. Now that you mention it, I am. Quite a bit more, I suppose. I just… hadn’t really connected the two, to be honest. I figured I was drinking more, so… well, you know. I suppose it is a bit odd, thinking about it.
+DOCTOR: Increased urination and increased thirst… along with increased appetite. Alright. Have you noticed any blurring of your vision?
+PATIENT: Blurring of vision…? No, not really. My eyesight’s never been the best, I’ve worn glasses since I was a lad, but it hasn’t gotten any worse, if that makes sense. Just… the usual. I had my eyes tested last year, everything was stable then.
+DOCTOR: Alright. And what about any unexplained weight loss, despite the increased appetite?
+PATIENT: Weight loss…? Now that is a bit concerning, actually. I hadn't weighed myself recently, but… my trousers have been feeling a bit looser. Not dramatically, mind you, but… yes, I suppose I have lost a bit of weight. I just assumed it was… stress. Or, you know, not eating as much junk food.
+DOCTOR: "Stress" seems to be covering quite a lot here, Mr. Erxleben. Let's move on. Do you have any family history of… diabetes?
+PATIENT: Diabetes… hmm. My mother’s side, yes. My grandmother, I believe, had it. Type 2, I think. She was always a bit… stout, and loved her sweets. She needed insulin in the end, I recall. My mother never developed it, thankfully. But yes, there's a family history, you’re right to ask.
+DOCTOR: Alright. And do you smoke?
+PATIENT: No. Never touched a cigarette in my life. Always thought it was a dreadful habit. My father smoked, and it… wasn’t a pleasant experience, to put it mildly.
+DOCTOR: Alright, Mr. Erxleben. We’re going to need to do a quick blood test to check your blood sugar levels. Your symptoms, combined with the family history… it's prudent to rule out diabetes. We’ll also check your kidney function and electrolytes. Just routine, but necessary. Do you have any allergies to anything that I should be aware of before we proceed?
+PATIENT: No allergies, no. Penicillin’s fine, latex gloves, everything. I’m quite robust, generally. Blood test sounds… sensible, I suppose. If you think it’s best. Just… how long will it take? I have a delivery scheduled for three o’clock, and… well, it’s rather important.
+DOCTOR: It’ll be quick. Ten minutes, tops. We have a phlebotomist on call. It shouldn’t interfere with your delivery. Now, if you’ll follow me to the lab…
+PATIENT: Right. Ten minutes, good. I appreciate that. Lead the way, then.

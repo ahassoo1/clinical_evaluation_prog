@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Ms. Aslan. I am Dr. Mutnick. So, please, tell me – and concisely, if you would – what brings you in today?
+PATIENT: Morning, Doctor. Well, I've just been feeling really cold lately, like…chills. It’s been going on for a few days now, and it's kind of bothering me. Not a fever, I don't think – just constantly cold, even when it's warm out.
+DOCTOR: "Constantly cold," you say. Hmm. And you haven’t bothered to take your temperature to ascertain if this is merely a subjective feeling or an actual elevation?
+PATIENT: Oh, no, I haven’t. I…don't really have a thermometer, actually. And honestly, I just figured it was maybe the air conditioning, or something. I just feel cold, you know? It's hard to explain. Like a deep chill.
+DOCTOR: Very well. Let's attempt to establish some baseline data, shall we?
+PATIENT: Okay, sounds good. Whatever you need. Is there a room I need to go to? Or can you just…check me here?
+DOCTOR: We’ll manage here. Please, remove your jacket. And tell me, Ms. Aslan, have you noticed any other symptoms accompanying this…chill?
+PATIENT: Okay, sure. Let me think… not really. Maybe a little tired, but I always feel a bit tired. No cough, no sore throat, no runny nose. Just…cold. And maybe a tiny bit achy, like my muscles feel a little stiff, but nothing major. It's mostly just the chills, honestly. It's weird.
+DOCTOR: “A little tired,” “a little achy” – these are hardly helpful descriptions. Do you have any known allergies, Ms. Aslan?
+PATIENT: Oh, right, allergies! Um… not that I know of. I mean, I've never had a really bad reaction to anything. Dust maybe? Sometimes my eyes get a little itchy when I'm cleaning, but that’s it. Nothing I take medicine for or anything. Honestly, I don't really pay much attention to allergies.
+DOCTOR: Most people underestimate the significance of allergies. Are you currently taking any medications, prescription or over-the-counter?
+PATIENT: No, I'm not. I try to stay away from medication if I can. I usually just try to rest if I'm not feeling well. Nothing I take regularly, though.
+DOCTOR: Very well. Let me listen to your lungs. Take a deep breath… and exhale. Another one, please. Any recent travel, Ms. Aslan?
+PATIENT: No recent travel, no. I haven't been anywhere in… oh, gosh, probably over a year. Just staying local, you know? Work’s been busy. Everything feels normal to me, but I'm not a doctor! Is something wrong?
+DOCTOR: Your lymph nodes are slightly…palpable. Not alarming, but noteworthy. And what do you do for work, Ms. Aslan?
+PATIENT: I'm a Health Education Specialist. I work at the community center, mostly doing workshops on healthy living – nutrition, exercise, stuff like that. It’s pretty active, always on my feet, talking to people. Which is probably why I'm tired, honestly. It's a demanding job, even if it's rewarding.
+DOCTOR: Hmm. A Health Education Specialist. How… ironic. Tell me, Ms. Aslan, have you experienced any night sweats, weight loss, or unusual headaches recently?
+PATIENT: Oh, wow. That’s… a weird question! No, no night sweats, no weight loss, no unusual headaches. Definitely not. I might have lost a little weight, but that’s probably just because work has been stressful and I haven't been eating as well. But nothing serious. Definitely no night sweats! That sounds…bad.
+DOCTOR: Very well. It is likely a mild viral illness, Ms. Aslan. These things are unfortunately common. I recommend rest, fluids, and over-the-counter pain relievers if you experience discomfort. Avoid strenuous activity for the next few days. If your symptoms worsen, then you may consider returning. Do you have any further questions?
+PATIENT: Okay, that sounds…reasonable. Rest and fluids. I can definitely do that. No, I don't think so. Just…make sure it’s not anything serious? Like…the night sweats thing kind of scared me. But if it's just a virus, that’s good. Thank you, Doctor. I appreciate it.
+DOCTOR: As long as your symptoms remain mild, there is no cause for alarm. However, should they worsen – especially if you develop a fever, persistent cough, or difficulty breathing – seek immediate medical attention. It's far better to be cautious. Now, if you'll excuse me, I have other patients waiting. .
+PATIENT: Okay, will do. Thank you again, Doctor Mutnick. I appreciate your time. Have a good day!

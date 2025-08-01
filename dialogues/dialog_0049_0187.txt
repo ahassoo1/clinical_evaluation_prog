@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Sobkowicz. I'm Dr. Nestingen. So, what brings you in to see me today?
+PATIENT: Hmph. Chest… feels funny. Like bird flapping inside. And heart… goes too fast sometimes. Blood pressure… wife say it high. She always check. Waste of time, if you ask me.
+DOCTOR: “Funny,” is rather vague, Mr. Sobkowicz. Can you describe this “funny” feeling?
+PATIENT: Vague? What more you want? It feels bad! Like… tight. And skip. Like heart miss a beat, then jump. Old man heart, what do you expect? Not like young people heart. I work hard my whole life, emergency management… always stress. Is that what you want to know?
+DOCTOR: Emergency management… right. And how long have you been experiencing this tightness and skipping, Mr. Sobkowicz?
+PATIENT: Oh… a long time. Months, maybe? Hard to say. Comes and goes. When I worry too much about… things. Things happening. You know. Everything happening. I try not to pay attention. Makes it worse.
+DOCTOR: And your wife… she's been monitoring this for months as well?
+PATIENT: Yes, yes. She likes to worry. Always checking… pulse, blood… everything. Drives me crazy. But… she is wife. She mean well. She say it get worse when I watch the news. Too much bad news these days.
+DOCTOR: So, primarily with stress and watching the news. Do you have any other symptoms along with this… fluttering and tightness?
+PATIENT: Hmm… sometimes feel… dizzy. Not fall down dizzy. Just… light. And… tired. Very tired. Old man tired, you understand. But maybe more tired than usual. Don't sleep good either. Too much thinking.
+DOCTOR: Alright. And are you experiencing any shortness of breath, chest pain – a squeezing or pressure – or swelling in your ankles or legs?
+PATIENT: No squeezing. Just… uncomfortable. Like something heavy. Ankles… maybe little puffy sometimes. Wife say it from salt. She always complain about my salt. Everything is my fault, if you ask me.
+DOCTOR: Let’s focus on you, Mr. Sobkowicz, not your wife. Have you ever been diagnosed with any medical conditions before?
+PATIENT: Hmph. High blood pressure, she says. But I feel fine most of the time. Just… old. Never had… serious anything. A few colds, maybe. Back pain from work. Emergency management is hard on the back. Always running around.
+DOCTOR: And are you currently taking any medications for this high blood pressure or anything else?
+PATIENT: No. She want me to take pills. But I don’t like pills. Make me feel… strange. She keep telling me I need them. But I say no. I try to eat healthy. Sometimes.
+DOCTOR: Alright. And do you have any allergies to medications or anything else?
+PATIENT: No allergies. Never had. I eat anything. I lived long time, you know? Never had problem with… food. Or pills. I just don’t like them.
+DOCTOR: Very well. I'm going to listen to your heart and lungs, and then I’ll check your blood pressure. Please lie back on the examination table.
+PATIENT: Hmph. Fine. But don't take too long. I have things to do.
+DOCTOR: Heart rate is a bit fast, irregular… approximately 98 beats per minute. Lungs are clear, but slightly diminished breath sounds bilaterally. Blood pressure is elevated, 160/95. "BP 160/95, HR 98 and irregular. Diminished breath sounds bilaterally." Now, let’s just do a quick check of your ankles. Please point your toes upwards. Mild pitting edema bilaterally.
+PATIENT: Edema? What's edema? See? Always something. She'll be happy now. "See, doctor, he needs pills!" She always say that. Just old man ankles. I sit too much.
+DOCTOR: Edema is swelling, Mr. Sobkowicz. It can be caused by a number of things. Given your symptoms – the palpitations, the elevated blood pressure, the fatigue, and the edema – I think we need to run some tests to get a better understanding of what's going on. I'm going to order an EKG, a basic metabolic panel, and a complete blood count. We'll also need a thyroid stimulating hormone test.
+PATIENT: Tests? More waiting? More poking? Look, I just want to know if I'm going to die or not. Is that too much to ask? Just tell me. I don't need… tests.
+DOCTOR: Mr. Sobkowicz, I understand your frustration. However, I cannot provide a definitive diagnosis without further information. These tests will help me rule out potential causes of your symptoms and determine the best course of action. It could be something simple, or it could be something more serious. I need to be thorough. We'll get these tests done as quickly as possible. In the meantime, I recommend limiting your salt intake and avoiding excessive stress. And perhaps… listen to your wife occasionally.
+PATIENT: Hmph. Fine. But no promises about the wife. And make it quick. I don't have all day. And don't tell me about salt. I know about salt.
+DOCTOR: Very well. The nurse will be in shortly to draw your blood and do an EKG. I'll review the results as soon as they're available and contact you to discuss them. "Referral to cardiology for evaluation of palpitations and irregular heart rhythm pending test results." I'm also going to give you a printout with some information about managing stress. If your symptoms worsen – particularly if you experience chest pain or shortness of breath – go to the emergency room immediately. Do you understand?
+PATIENT: Emergency room? See? You already think it's something bad. Fine, fine. I understand. But don’t expect me to be happy about it. I'm going home now.
+DOCTOR: Very well. Please let the nurse know when you're ready to leave. Have a… day. .
+PATIENT: .

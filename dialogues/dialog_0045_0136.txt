@@ -1,0 +1,33 @@
+DOCTOR: Alright, Lucia, have a seat. So, what brings you in to see me today?
+PATIENT: Oh, thank you, Doctor. Um... it's my... belching. It’s been happening a lot. Like, a lot a lot. It's kinda embarrassing, to be honest.
+DOCTOR: Belching, huh?
+PATIENT: Yes. Not just a little one now and then, you know? Big ones. And... sometimes it hurts my tummy a little after. Not bad pain, just… uncomfortable. I don’t know if that makes sense.
+DOCTOR: It does, it does. Okay. And how long has this been going on?
+PATIENT: Hmm... let me think. Maybe… two, three weeks? It started kinda slow, just after meals, but now it happens even when I haven’t eaten. It's weird.
+DOCTOR: Okay, two or three weeks. And you said it's happening even when you haven't eaten?
+PATIENT: Yes, sir. That's the part that worries me, I think. Usually it was just after I eat, you know? Like, too much soda or something. But now... even in the morning, before breakfast. Sometimes even at night. It's just... poof.
+DOCTOR: Right. And are you experiencing any other symptoms along with the belching?
+PATIENT: Um... well, sometimes my stomach feels a little… bloated? Like, full of air, even if I haven't eaten much. And maybe a little heartburn now and then, but not a lot. I don't really get sick to my stomach, if that makes sense.
+DOCTOR: Bloating and occasional heartburn, okay. Have you noticed anything specific that makes it worse?
+PATIENT: Hmm... well, I tried drinking less soda, like you said. It helped a little, maybe. But it still happens even when I drink water. I think… maybe when I’m stressed? I had a lot of work last week, and it was really bad then.
+DOCTOR: Stress can definitely play a part. Any changes in your diet other than cutting back on soda?
+PATIENT: No, not really. Same as usual, I think. I eat rice and beans a lot, with some chicken or fish sometimes. And fruit, of course. Nothing new, nothing different.
+DOCTOR: Alright. And do you have any known allergies to any medications or foods?
+PATIENT: No, sir. I don't think so. I’ve never had a bad reaction to anything. I'm pretty careful about what I eat.
+DOCTOR: Okay. And are you currently taking any medications, even over-the-counter ones?
+PATIENT: No, sir. Nothing. I don't really like taking pills if I can help it. I try to just let things… work themselves out, you know?
+DOCTOR: Alright. Well, let’s take a listen to your abdomen, just to get a baseline. Can you lie down on the exam table for me?
+PATIENT: Okay, yes, of course. Is it going to be cold? I get cold easily.
+DOCTOR: No, it shouldn’t be cold. Just lie flat on your back, and I’ll listen with my stethoscope. Nothing to worry about.
+PATIENT: Okay. I hope I’m not making this too difficult. I don't usually go to doctors.
+DOCTOR: Breathe normally. Okay... Everything sounds normal so far. No unusual gurgling or anything like that. A little tenderness when I press here… …and here. It’s not severe, but you’re right, it is a little sensitive. Any pain with this?
+PATIENT: Yes, a little. Just a dull ache, not sharp or anything. It feels… better when I sit up, I think. It’s kinda hard to explain. Like a pressure, more than pain.
+DOCTOR: Okay, pressure more than pain, better when you sit up. That's helpful. Let’s sit up now. Alright. Given your history and what I’m hearing, it could be a bit of trapped gas, possibly related to stress and diet. It's a common issue. But we should rule out anything else. I'm going to order some blood work, just to check your overall health and make sure there isn’t anything else going on.
+PATIENT: Okay, yes, that sounds good. Blood work is okay. I don't like being sick, but if it makes sure nothing bad is happening, that's good. Will it be expensive? I don't have insurance, you see.
+DOCTOR: I understand. Without insurance, it can be costly. I'll order the basic panel, which should give us the most information for the least expense. I'll also write a note for the lab to see if they have any assistance programs for patients without insurance. We can also discuss some simple dietary changes and over-the-counter remedies that might help in the meantime. Do you have any questions about that?
+PATIENT: That would be very kind, thank you. Dietary changes… yes, I can try that. What kind of changes? Less beans, maybe? I love my beans… I just want to feel normal again.
+DOCTOR: Alright. Okay, less beans might help, but we don't need to eliminate them completely. Try eating smaller portions, and make sure they're well-cooked. Avoid carbonated beverages altogether, even water if it causes bloating. Smaller, more frequent meals are better than large ones. And try to avoid foods that are known to cause gas, like broccoli, cauliflower, and cabbage. Here's a handout with a more detailed list. As for the blood work, the lab is just down the hall. They’ll give you the instructions. After we get the results back, we can discuss everything further. Does that sound alright?
+PATIENT: Yes, that sounds good, thank you, Doctor. Smaller meals, less soda, and avoid broccoli... I can do that. I think. I appreciate you writing the note for the lab, too. That's very kind of you. So, just go down the hall and they'll take some blood?
+DOCTOR: Exactly. Just tell them you're here for the blood work Dr. Billman ordered. They’ll handle everything from there. And if you have any questions at all after you leave, don’t hesitate to call the office. Hopefully, we can get this sorted out quickly and get you feeling better. Do you have any other concerns before you go?
+PATIENT: No, sir. I think that’s everything. Thank you so much for your help. You were very patient with me, and I appreciate you explaining everything so clearly. I’ll go do the blood work now.
+DOCTOR: You're very welcome, Lucia. That’s what I’m here for. Just take it easy, follow those suggestions, and we'll see what the blood work tells us. Have a good day.

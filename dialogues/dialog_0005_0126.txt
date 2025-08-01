@@ -1,0 +1,18 @@
+DOCTOR: Alright, Mr. Erxleben, have a seat. So, what brings you in today?
+PATIENT: Right, thank you, Doctor. Well, it’s a bit… unusual, to be honest. I’ve been awfully thirsty lately, no matter how much I drink, and… I feel hungry all the time. It’s not like a normal hunger, it’s… constant.
+DOCTOR: Thirsty and hungry, huh?
+PATIENT: Yes. And it’s been going on for… oh, I don’t know, maybe a month now? It’s just… persistent. It’s starting to become quite bothersome, to be frank. I haven’t changed anything in my diet, or exercise routine, or anything.
+DOCTOR: A month, you say. And no other symptoms?
+PATIENT: No, not that I’ve noticed. Well… I suppose I’ve been feeling a little more tired than usual, but I put that down to work. It’s a busy time of year at the warehouse. Nothing… dramatic.
+DOCTOR: Alright. And what does a typical day look like for you at this warehouse?
+PATIENT: Well, I'm a shipping and receiving clerk, mostly. A lot of lifting, checking inventory, paperwork, that sort of thing. It’s quite physical, always on my feet. I work ten-hour shifts, five days a week. It's… demanding.
+DOCTOR: Ten hours on your feet. And are you urinating more frequently than usual?
+PATIENT: Now that you mention it… perhaps a little. Not drastically, but I have been going to the bathroom more often, yes. I hadn't really connected the two, to be honest.
+DOCTOR: Hm. Well, thirst, hunger, frequent urination… it could be a number of things. Let’s get some basic blood work done to rule out the obvious. We'll check your glucose levels, kidney function, and a basic metabolic panel. It's a standard procedure. Have you had any bloodwork done recently?
+PATIENT: No, Doctor. Not recently. Not for… well, years, I suppose. Will it take long? I have… commitments later this afternoon.
+DOCTOR: It won’t be long, a few minutes, really. The phlebotomist is just down the hall. I'll have the results sent to me, and we’ll go over them. In the meantime, try not to drink too much water. We need an accurate reading. Do you have any allergies I should be aware of?
+PATIENT: No allergies, Doctor. None that I know of. Right, then. Phlebotomist down the hall, you say? Very good. I’ll… go and find them. I appreciate your time.
+DOCTOR: Alright. Don’t hesitate to let the nurse know if you feel faint during the blood draw. And try to relax. It's likely nothing serious, but we need to be thorough. Down the hall, first door on the left.
+PATIENT: Right. Thorough. Of course. Thank you, Doctor.
+DOCTOR: Another one convinced they're a medical expert because of Dr. Google. Honestly…
+PATIENT: .

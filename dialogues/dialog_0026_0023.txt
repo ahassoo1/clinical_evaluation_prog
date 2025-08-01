@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Mr. Bulaong. It's nice to meet you. I'm Dr. Finco. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um, well, my chest… it hurts. Not all the time, but… yeah, it hurts. Like a pain, in my chest.
+DOCTOR: Okay, chest pain. I understand. Could you tell me a little more about that pain?
+PATIENT: It's… hard to say. Not like, a bad pain, you know? More like… sore. Sometimes it feels like… a full feeling. And it’s not just one spot. It's… everywhere, kinda. Both sides.
+DOCTOR: Alright, "sore" and a "full feeling," both sides… that’s helpful. And when did this start?
+PATIENT: Hmm… not sure exactly. Maybe… a few weeks now? It comes and goes. Not every day. Sometimes when I'm working on the roof, it feels worse. But not always.
+DOCTOR: Okay, a few weeks, comes and goes, worse with roof work… Do you notice anything specifically that brings it on besides working on the roof?
+PATIENT: Not really, no. Just… happens. Sometimes when I lie down, maybe? But not always. My wife, she says I… well, she says I’ve been more quiet lately. But I don’t think that's the pain, you know?
+DOCTOR: I understand. And it's good that your wife has noticed something. We'll try to get to the bottom of this. You mentioned it sometimes happens when lying down. Does the position you're in make a difference?
+PATIENT: Um… yeah, maybe. When I lie on my stomach, it feels… better. When I lie on my back, it feels… more full. Like a weight on my chest.
+DOCTOR: Okay, better lying on your stomach, more full on your back… That gives me a little more to work with. Now, have you had any other symptoms along with this chest pain?
+PATIENT: No, not really. No fever. No cough. Just the pain. Sometimes… I feel tired, but I work hard, you know? Roofing is hard work. Maybe that's just from that.
+DOCTOR: Alright, no fever, no cough, tiredness likely related to work. Let’s talk a little bit about your medical history, if you don't mind. Have you ever been diagnosed with any medical conditions?
+PATIENT: No, not really. I haven't been to the doctor much. Just when I broke my arm when I was a kid. That's it. Nothing… serious.
+DOCTOR: Okay, no previous diagnoses besides the broken arm. Have you had any surgeries?
+PATIENT: No, no surgeries. Never needed any.
+DOCTOR: Alright, no surgeries. And what about your family?
+PATIENT: Um… my mama, she had… trouble with her heart when she was old. But I don't know much about it. She lived far away. And my papa, he was always healthy.
+DOCTOR: Okay, mother with heart trouble, father healthy. And what about your lifestyle?
+PATIENT: I work. A lot. Roofing. Like I said. And I… I drink some beer sometimes. Not every day. And I don't smoke.
+DOCTOR: Okay, roofing, some beer, no smoking. Now, do you have any allergies to medications or anything else?
+PATIENT: No, I don't think so. Never had any trouble with medicine before. I don't take much medicine, though. Mostly just… pain pills when I really need them.
+DOCTOR: Alright, no known allergies. And what medications are you currently taking, even those pain pills you mentioned?
+PATIENT: Just… when I hurt. Like, ibuprofen. You know? For my back, sometimes. Or my knees. Not every day. Maybe once a month.
+DOCTOR: Okay, ibuprofen as needed. Now, Mr. Bulaong, I’m going to do a quick physical exam, if that's alright with you. Just listen to your heart and lungs, check your blood pressure, and a few other things. It will only take a few minutes. Is that okay?
+PATIENT: Yeah, that’s okay. Sounds good.
+DOCTOR: Alright. Your blood pressure is a little elevated, and I hear a slight murmur, which we'll want to investigate further. I also notice some tenderness when I press on your chest. Is that where you feel the pain?
+PATIENT: Yeah, that’s it. Right there. When you push. It's not a bad pain, but… yeah, that's where it hurts. Does that mean something bad?
+DOCTOR: It doesn’t necessarily mean something bad, Mr. Bulaong. There are many possible causes for chest pain. The tenderness could be related to the muscles in your chest wall, especially with the physical work you do. But the murmur I heard is something we need to look into a bit more. I'd like to order an EKG, just to get a better picture of your heart's electrical activity. I also think it would be helpful to get a chest X-ray, to rule out anything else going on in your lungs or around your heart. Does that sound alright?
+PATIENT: Yeah, okay. That sounds… good. Whatever you think is best, Doctor. EKG and… X-ray. Will it… will it hurt?
+DOCTOR: No, neither one will hurt, Mr. Bulaong. The EKG involves placing some small stickers on your chest to record your heart's activity – it's completely painless. And the X-ray is just a quick image of your chest – you'll stand in front of a machine for a few seconds. Do you have any questions about either one?
+PATIENT: No, I think I understand. Stickers and… standing in a machine. Okay. When do we do them?
+DOCTOR: We can do those right away. The nurse will get you set up for the EKG first, and then we’ll head over for the X-ray. While we're waiting for the results, I'd also like to talk about some lifestyle changes that might help, like managing stress and maybe cutting back on the beer a bit. But let's get these tests done first and see what they show.
+PATIENT: Okay. Sounds… good. Let’s do the tests.
+DOCTOR: Alright. I’ll have the nurse come in to start with the EKG. Could you please get Mr. Bulaong set up for an EKG and then send him over for a chest X-ray?
+PATIENT: Okay. Thank you, Doctor.

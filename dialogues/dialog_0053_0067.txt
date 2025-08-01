@@ -1,0 +1,20 @@
+DOCTOR: Alright, Mr. Ruocco, have a seat. So, what brings you in today?
+PATIENT: Oh, uh… well, it’s my chest. Hurts when I… when I take a big breath. Not all the time, just when I try to… fill my lungs, you know? It’s been… a little while now. Hard to say how long. Things blur these days.
+DOCTOR: A little while, you say. Right. And is this pain… sharp?
+PATIENT: Sharp… hmm. Not really sharp. More like… a dull ache? A tightness, maybe? It’s… uncomfortable. Not like a bad pain, just… bothersome. I don't know if that makes sense. It’s hard to explain.
+DOCTOR: It's alright, Mr. Ruocco. We'll figure it out. Dull ache and tightness… and you only notice it with deep breaths. Does anything make it worse?
+PATIENT: Worse… let me think. Not really. Maybe… maybe when I’m doing something… physical? Like… with work. I used to do a lot of building, you know? Construction. But now… not so much. It’s just… there. Sometimes. I really don't know. My memory isn’t what it used to be.
+DOCTOR: Construction, you say. And how long ago did you stop doing that regularly?
+PATIENT: Oh, goodness… a long time. Maybe… ten years? Fifteen? It’s all a bit of a… jumble. I helped out here and there, but… not like I used to. It was… good work. Hard work. But… a long time ago.
+DOCTOR: Right. So, primarily when you exert yourself. Any coughing?
+PATIENT: Coughing… not really. No. I… I don’t think so. Maybe a little, sometimes, but… just a normal cough. Not… anything special. I haven’t been sick or anything. Just… this chest thing.
+DOCTOR: Alright. Let's have a listen to your chest, shall we?
+PATIENT: Oh… okay. Whatever you think is best, Doctor. I… I trust your judgment.
+DOCTOR: Alright, breathe deeply for me, if you can. And try to relax. Okay. Breathing sounds are a little… diminished on both sides, as you’d expect with age. No wheezing or crackles that I can detect. Feels… relatively clear. I’m also going to check your pulse and blood pressure. Pulse is a little fast, 88, but not alarming. Blood pressure is 140/90… a bit elevated, but not unexpected.
+PATIENT: Elevated? Is that… bad? I don’t really understand all that doctor stuff. My wife… she used to keep track of all that. But… she’s gone now. It’s just me.
+DOCTOR: It's not ideal, Mr. Ruocco, but it's not immediately concerning. It's something we'll keep an eye on. Given your age and history… and the fact that you're experiencing chest discomfort with exertion… it’s likely this is just age-related changes and some mild deconditioning. But to rule out anything more serious, I’d like to get a chest X-ray. Just to be safe.
+PATIENT: An X-ray… alright. If you think it’s best. I… I don’t want to be a bother. I just want this… tightness to go away. Is it going to be expensive? I… I don’t have insurance.
+DOCTOR: Look, Mr. Ruocco, I understand you don’t have insurance. We can discuss payment options after the X-ray. But frankly, ruling out something serious is more important than the cost at this point. I'm ordering the X-ray now. The technician will call you when they're ready. It's a simple procedure, shouldn't take long. And after that, we'll talk about some simple exercises you can do to strengthen your chest muscles. Does that sound acceptable?
+PATIENT: Exercises… alright. Yes, that sounds… good. If it helps. I just… I’m tired of feeling… this way. Thank you, Doctor. I appreciate you taking the time. I… I think that’s all I remember right now.
+DOCTOR: Alright. The X-ray technician is just down the hall. Go ahead and head that way. We’ll review the results when they're available. And please, try to rest and take things easy until then. .
+PATIENT: Okay. Thank you again, Doctor. .

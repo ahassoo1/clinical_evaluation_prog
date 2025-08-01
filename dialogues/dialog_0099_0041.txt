@@ -1,0 +1,33 @@
+DOCTOR: Right, Mr. Astore. Dorman, is it?
+PATIENT: Yes, that is right. Dorman Astore. Good to meet you, Doctor… Overgaard, yes? It’s a good name.
+DOCTOR: Overgaard is fine. Look, I haven't got all day, so let’s get straight to it. What brings you in today?
+PATIENT: Oh, alright. Doctor. Well, it’s… my legs. They’re just getting weaker, you see? It's been happening slow, over time. Not a sudden thing. Makes walking… difficult.
+DOCTOR: “Slow, over time,” right. Vague. Okay. And how long exactly is “over time”?
+PATIENT: Hmm… let me think. It started… maybe a year ago? Just a little bit harder to get up from the chair. Now, it’s… well, I need help sometimes with stairs. It's not every day, but… more and more.
+DOCTOR: A year. Okay. And is this weakness just in your legs, or are you noticing it anywhere else?
+PATIENT: Just my legs, mostly. Though… sometimes my hands feel a bit clumsy. Not shaky, exactly… just not as quick as they used to be. It’s hard to explain. Not painful, just… slower. Like they don’t listen right away.
+DOCTOR: “Don’t listen right away.” Right. Any other symptoms?
+PATIENT: Well… sometimes I get tired. More tired than I used to, even after a good sleep. And… I don’t see as good as I used to. But I figured that was just getting old! Maybe that’s not… the legs, though.
+DOCTOR: Alright. Any history of falls?
+PATIENT: Oh, yes. A couple. Not bad ones, thankfully. I stumble sometimes, you see? More of a wobble, then a gentle sit-down. My wife helps me now, mostly when we’re out walking. She’s a good woman.
+DOCTOR: Medicare, I see. And what medications are you currently taking?
+PATIENT: Just the one, Doctor. For my blood pressure. Lisinopril, I think it’s called. I take it every morning with my breakfast. That’s all. I try to stay healthy, you see. Eat good food, walk when I can... or used to walk.
+DOCTOR: Alright. Let’s have a look at those legs, shall we?
+PATIENT: Yes, alright. That sounds good, Doctor. Just let me get myself over there… it's a little slow going, you see.
+DOCTOR: Take your time. Now, if you could just step onto the table for me. I'll need to check your reflexes.
+PATIENT: Yes, Doctor. Slow and steady… There we go. It’s a little wobbly, but I’m on. Ready when you are.
+DOCTOR: Hmm. Patellar reflexes are… diminished bilaterally. Not absent, but weak. Now, can you point your toes?
+PATIENT: Yes, I can try. Like this? It’s… not as strong as it used to be.
+DOCTOR: Dorsiflexion is weak. Plantarflexion… also weak. Now, squeeze my hands as hard as you can. Both at the same time.
+PATIENT: Is that alright? It’s… hard to get a good grip, you see. It feels like my hands just don’t want to listen.
+DOCTOR: Grip strength is reduced bilaterally. As is… well, a lot of things. Now, let’s have a look at your feet. Take off your shoes and socks, please. I want to check your sensation.
+PATIENT: Alright, Doctor. There we go. It's a little chilly in here, you see. Just let me know what you want me to do.
+DOCTOR: Can you feel this?
+PATIENT: Hmm… yes, I think so. A little bit. It's… not very strong, Doctor. Like a very light tickle. Is that what you’re looking for? It’s hard to tell, you see. My feet feel… numb sometimes.
+DOCTOR: Well, it seems we have quite a bit to discuss. It's likely you're experiencing peripheral neuropathy, possibly exacerbated by vascular issues. The diminished reflexes, weakness, reduced sensation… it all points in that direction. Given your age and these findings, we'll need to rule out other causes, of course. We need to get some blood work done to check your blood sugar, vitamin levels, and kidney function. We’ll also order a nerve conduction study to assess the extent of the nerve damage.
+PATIENT: Oh… neuropathy? That sounds… serious, Doctor. I don't know much about that. What does that mean? And… what can we do about it?
+DOCTOR: It means the nerves in your legs and feet are damaged. It’s common in older patients, especially those with diabetes – though you haven't indicated a history of that. It can cause weakness, numbness, pain… the symptoms you’re experiencing. We need to determine the underlying cause before we can formulate a treatment plan. The blood work and nerve conduction study will help us with that. In the meantime, it’s important to manage your blood pressure. Continue taking your Lisinopril as prescribed. And… try to avoid any activities that could cause you to fall. I’m going to write you a referral to a neurologist for the nerve conduction study. And a lab order for the blood work. I'll also give you a list of resources about peripheral neuropathy. It’s… a complicated condition. Do you have any questions?
+PATIENT: A neurologist…? So many tests… It's a lot to take in, Doctor. I suppose… if it's what we have to do. Will the tests… will they hurt? And… what if it’s something… bad? Just… is there anything I can do right now to feel a little better?
+DOCTOR: The tests aren't particularly painful, Mr. Astore. The neurologist will explain everything in detail. As for “something bad”… we don’t know yet. That’s why we're doing the tests. Honestly, worrying won’t help. Right now, focus on keeping your blood pressure under control, avoid falls, and don't hesitate to use assistive devices if you need them. A cane, a walker… whatever helps you stay stable. And… if you develop any new or worsening symptoms, call the office immediately. Here are your orders. The lab is just down the hall. Schedule an appointment with the neurologist as soon as possible. Anything else?
+PATIENT: No… I think that's all, Doctor. Thank you… I suppose. It’s a lot to think about. Have a good day, Doctor.
+DOCTOR: .

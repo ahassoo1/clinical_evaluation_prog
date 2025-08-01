@@ -1,0 +1,25 @@
+DOCTOR: Alright, Mr. Putney. So, you're here today... what brings you in?
+PATIENT: Yeah, hi. It’s for… life insurance. They need me to get checked out, you know? A medical thing for the paperwork. I just wanna get it over with, if that’s okay.
+DOCTOR: Right, a life insurance physical. Well, we can certainly do that. It’s… prudent, I suppose. Though, frankly, people come in for actual medical issues far more often. But, alright. Let’s get some basics down first. Have you been feeling generally well?
+PATIENT: Yeah, mostly. No big problems. A little tired sometimes, but who isn’t, right? Work's tiring, you know? I manage a small hotel… keeps you on your feet. I haven't really been sick, like with a cold or anything, for… well, I can’t even remember when.
+DOCTOR: “A little tired” can mean a lot of things, Mr. Putney. Is it just at the end of the day, or is it… interfering with things?
+PATIENT: Nah, not interfering. Just… when I sit down after work, I'm just out. And maybe I take a little longer to get going in the mornings. Nothing I can't handle with coffee. Really. It’s probably just the hours. Long days, you know? Six, sometimes seven days a week.
+DOCTOR: Right. Well, we should still rule out anything… untoward. Any family history of, let's say, early heart disease or diabetes?
+PATIENT: Um… my mom, she had… problems with her sugar, I think. She was always going to the doctor for that. And my dad… he just got old, you know? Just… wore out. He wasn't really sick with anything specific, just… old age. It was a long time ago, though. I don’t really know a whole lot of details, to be honest. We didn’t talk about that stuff much.
+DOCTOR: Alright. Let's take a quick look at your vitals, and then we can do a basic exam, just to be thorough. Do you have any allergies to medications?
+PATIENT: Not that I know of. Never had a reaction to anything. I don't take much, though, mostly just pain relievers for my back when it acts up. And, um… I think I had penicillin as a kid, but I don’t remember anything bad happening. A long time ago.
+DOCTOR: Okay, good. Just want to be sure. Now, how about your weight?
+PATIENT: Uh… I try not to think about it too much. I’ve… put on a few since my divorce. About 20 pounds, I guess. I'm about six feet tall, and… I’d say around 215 now? Something like that. I haven't weighed myself recently.
+DOCTOR: The record indicates 97 kilograms, which is about 214 pounds. Alright. We’ll get a current weight in a moment. Let’s just do a quick listen to your heart and lungs, and check your blood pressure, and then we’ll go from there. Do you mind if I take a look at your throat and ears while I'm at it?
+PATIENT: No, no problem. Whatever you need to do. Just wanna get this over with, you know? As long as it’s quick.
+DOCTOR: Alright. Breathing sounds are… slightly diminished, but nothing alarming. Heart rate is regular. Blood pressure is a little elevated, 140 over 90. Not terribly concerning, given your stress levels, likely. Now, open your mouth for me… Ah. Throat looks clear. Ears are unremarkable. Let's just palpate your abdomen. Any pain or tenderness here?
+PATIENT: No, nothing. Just… feels normal, I guess. I eat pretty regular, mostly. Nothing fancy, just… what I can get. Sometimes I get heartburn, but that's about it. Oh, that’s a little tender there… on the right side? Just a little. I think I maybe slept funny last night.
+DOCTOR: A little tenderness, you say. Alright. We’ll keep that in mind. I’m going to listen to your abdomen now. Take a few deep breaths. Sounds… normal. Let’s just check your reflexes. Follow my finger with your eyes… good. Now, can you squeeze my hands?
+PATIENT: Okay, sure. Is that strong enough? I used to do a lot of work with my hands, building things… before I got into hotel management. It’s mostly paperwork now.
+DOCTOR: Reflexes are… adequate. Alright. I think we have enough for a basic assessment. Given your age and history, and your slightly elevated blood pressure, I recommend a lipid panel and a blood glucose test. Just to rule out anything serious. And, frankly, because the insurance company will probably require it.
+PATIENT: Yeah, okay. Whatever you think is best. I just want to get this done, you know? I've got things to do. How long will these tests take? And where do I go to get them done?
+DOCTOR: Alright. The bloodwork should be pretty quick. We have a lab right here in the clinic, so it’ll just be a few vials. It'll take about ten minutes to draw the blood and send it off. Results usually come back in three to five business days. The lab tech will explain everything. In the meantime, I’m going to write up a preliminary report for the insurance company. Do you have any questions for me before we proceed?
+PATIENT: No, I think that’s it. Just… let me know when I can go. I appreciate it, Doc. Hopefully everything’s okay.
+DOCTOR: Alright. The lab tech is ready for you. Just follow the hallway to the left, and they'll take care of everything. I'll review the results when they come back, and we can discuss them then. And try to get a little more rest, Mr. Putney. It might do you some good.
+PATIENT: Okay, thanks.
+DOCTOR: .

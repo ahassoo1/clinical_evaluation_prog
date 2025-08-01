@@ -1,0 +1,19 @@
+DOCTOR: Alright, Tammie. Have a seat. So, what brings you in today?
+PATIENT: Well, Doctor Billman… if you must know, my throat. It hurts. Terribly. I haven't much time, so if we could just… get on with it, that would be appreciated. It's been bothering me for… oh, a few days, I suppose. Not a pleasant experience, I assure you.
+DOCTOR: A few days, huh?
+PATIENT: Yes, a few. It's… scratchy. And makes it difficult to… speak properly. Not that anyone really listens these days, anyway. Is this going to take long? I have… arrangements. Very important arrangements.
+DOCTOR: Right. “Scratchy.” And is it just scratchy, or is there any pain when you swallow?
+PATIENT: Pain… well, naturally there is some pain. Do you expect me to be comfortable with something irritating my throat? Honestly. It’s… a sharp pain, sometimes. When I… attempt to eat. Which, frankly, is becoming less and less appealing. Is this necessary, Doctor? All these questions?
+DOCTOR: Necessary?
+PATIENT: Yes! Necessary to ask every single minute detail about my discomfort? I explained it’s painful. Is that not sufficient? I haven’t the patience for… elaborate inquiries. I have a very… sensitive constitution, you understand. And a schedule. A very full schedule.
+DOCTOR: Alright, alright. Let's try this. Any fever?
+PATIENT: Fever? Honestly, Doctor, are you suggesting I haven’t noticed if I am warm? Of course I know if I have a fever. It's… uncomfortable. And I haven't. Not that I've checked with a… thermometer, mind you. I simply know. It's a feeling. Do you understand feelings, Doctor? Or is everything just… charts and numbers to you?
+DOCTOR: Okay. Have you noticed any cough?
+PATIENT: Cough? A little. Perhaps. A tiny one. It’s… insignificant. Not worth mentioning, really. I don’t make a fuss over… minor ailments. It’s simply… there. And it’s quite irritating, if you must know. Honestly, Doctor, I feel like I’m being interrogated. Is this standard procedure?
+DOCTOR: And have you been around anyone else who's been sick recently?
+PATIENT: Sick people? Goodness, no! I avoid such company at all costs. I have standards, Doctor. Very high standards. I wouldn’t associate with… unwell individuals. Absolutely not. Why would I? It’s… unsanitary. And frankly, quite unpleasant. Is this truly relevant? I feel like I’m wasting my time.
+DOCTOR: Alright. Let’s take a look at your throat. Open wide, please. And try to relax. It'll be quicker that way.
+PATIENT: Relax? You expect me to relax while you… poke around in my throat? I find that highly improbable, Doctor. And rather… invasive. But very well. If it must be done. Just… be quick about it. And gentle, if possible. I have a… delicate constitution, you understand.
+DOCTOR: Hmm. Your throat is a little red, some mild swelling. No obvious exudate. Say "ah." Alright. Your tonsils aren't significantly enlarged. Lungs sound clear. Looks like a mild viral pharyngitis. Probably just a common cold. Try rest, fluids, and over-the-counter pain relievers. If it doesn’t improve in a week, or you develop a fever, come back.
+PATIENT: A… common cold? After all this questioning? A common cold? Honestly, Doctor, I expected… more. And over-the-counter remedies? I assure you, I have far more sophisticated methods of dealing with minor ailments. But… very well. If that is your professional opinion. Though I highly doubt it. A week, you say? And if it doesn’t improve? I suppose I’ll be forced to return. Is there anything else? I’d really like to be on my way.
+DOCTOR: No. Just try to get some rest. And if you develop a high fever, difficulty breathing, or severe pain, go to the emergency room immediately. Do you understand?

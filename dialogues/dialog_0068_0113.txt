@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Segretto. I’m Dr. Sham. What brings you in to see me today?
+PATIENT: Oh, good morning to you too, Doctor. Well, it’s…it’s my waterworks, really. Going too much, if you know what I mean. It’s…annoying, mostly. Just have to keep going. Not a big deal, I suppose, but my wife, bless her heart, she keeps fussing.
+DOCTOR: Annoying… frequent urination. Right. How long has this been going on, Mr. Segretto?
+PATIENT: Oh, goodness. That’s a tough one. Seems like…always? No, not always, but…a long while. Maybe a few months? Hard to say, really. I don’t keep track of such things. It just…started being more noticeable, I think. Don’t remember doing anything different, though.
+DOCTOR: A few months… more noticeable. Okay. And roughly how often would you say you’re needing to go now, compared to…before it became noticeable?
+PATIENT: Oh, jeez. Before…well, a normal amount, I guess. Now? Seems like every hour, maybe less. Especially at night! Waking my wife up, poor thing. It’s not…a stream, you understand. It’s just…gotta go, even if it’s just a little. Drives me half-mad.
+DOCTOR: Every hour, especially at night… and not a strong stream, more frequent small amounts. Alright. Do you experience any pain or burning when you urinate, Mr. Segretto?
+PATIENT: Pain? No, no pain. Not really. Just…the need to go. A discomfort, maybe? But not a burn, no. It's just… inconvenient. Honestly, I think I just drink too much tea. My wife keeps telling me that.
+DOCTOR: Okay. Any fever, chills, or lower abdominal pain accompanying this?
+PATIENT: Fever? No, I don't feel feverish. And chills…well, it gets cold sometimes, but that's just…old age, I suppose. Abdominal pain…no, nothing like that. Just a bit of a…twinge sometimes, you know, old man stuff. Nothing to worry about, I'm sure.
+DOCTOR: Alright. And have you noticed any changes in the color or smell of your urine?
+PATIENT: Color… hmm. It looks…yellow, I guess. Like it always does. I don’t spend much time looking at it, if you know what I mean. Smell? Can’t say I’ve noticed anything different. I suppose it smells like…urine. What should it smell like? Honestly, Doctor, I don't pay attention to such things.
+DOCTOR: That's alright, Mr. Segretto. Just checking. Now, do you have any history of diabetes, or has that ever been mentioned by a doctor?
+PATIENT: Diabetes? Not that I recall. Never been told. My father… he had some trouble with his feet, but I don’t know if that was diabetes. We didn’t have good doctors back then, not like you folks now. Mostly just home remedies, you know?
+DOCTOR: Alright. And any problems with your kidneys, or any kidney stones or infections in the past?
+PATIENT: Kidneys? No, never had any trouble with those. I’ve had aches and pains, of course, all over, being my age. But nothing specific with my kidneys. Stones? Never passed a stone. I think I’d remember that. Honestly, Doctor, I'm pretty sure my insides are still all working the way they should, for a man my age. It’s just this…waterworks business.
+DOCTOR: Okay. Are you currently taking any medications, Mr. Segretto?
+PATIENT: Oh, just what the doctor gives me, you know? For my blood pressure. A little white pill, I think. And sometimes something for my knees, when they’re acting up. Nothing regular, though. My wife handles all that. She keeps the pills organized. I wouldn't know what they are if you paid me.
+DOCTOR: Alright. Well, Mr. Segretto, given your symptoms, and the fact that you’re waking up at night, it’s important to rule out a few things. I’d like to do a quick urine test here in the office. That will help us see if there’s any infection or sugar in your urine. And I think a simple blood test would be a good idea, just to check your kidney function and blood sugar levels. Does that sound alright?
+PATIENT: Urine test? Blood test? Oh, goodness. Sounds…complicated. I suppose if you think it's necessary. I just don’t like needles, you know? And all this talk of sugar…is this diabetes? My wife is going to be furious if I have diabetes. She's always telling me to lay off the sweets. Fine, fine, do what you need to do, Doctor. But be quick about it, alright?
+DOCTOR: I understand. We’ll be as quick as possible. It's just to be thorough, Mr. Segretto. A simple urine sample, and a small blood draw. It will help us get a clearer picture. Let's start with the urine sample. There’s a restroom just down the hall. I'll give you a cup, and you just need to collect a sample. Do you think you can manage that?
+PATIENT: Oh, I can manage that, alright. Going to the bathroom isn't a problem, as you know! Just… don’t expect a fancy specimen, Doctor. It’s just…water, you know? Alright, let's get this over with. Show me the way. And try not to poke too hard with that needle later, alright?
+DOCTOR: Down the hall, first door on the right. There’s a private room in there. I’ll meet you back here when you're finished. Take your time. And I'll do my best to be gentle with the blood draw.
+PATIENT: Fine, fine. Gentle is good. Needles and tests…what did I ever do to deserve this? All this fuss over a little water…
+DOCTOR: .
+PATIENT: .

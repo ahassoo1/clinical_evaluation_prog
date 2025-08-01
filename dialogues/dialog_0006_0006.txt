@@ -1,0 +1,22 @@
+DOCTOR: Alright, uh, Ms. Weichers, is it?
+PATIENT: Yes, that is correct. Jeannemarie Weichers. It is nice to meet you, Doctor Gorga.
+DOCTOR: Yes, nice to meet you too. So… what brings you in today?
+PATIENT: Well, I have been… coughing up a little blood. It scared me, so I thought I should come see a doctor right away. It’s not a lot, but enough to worry me.
+DOCTOR: <stage>Raises an eyebrow, quickly typing into the computer. Vague recollection of a similar case… maybe?
+PATIENT: Okay. And… how long has this been happening? The coughing up blood, I mean.
+DOCTOR: Right, right. How long… a few days?
+PATIENT: About three days now, I think. It started small, just a little speck or two, but yesterday it was… more noticeable. I didn't do anything different, so I am a little worried. Do you think it is serious, Doctor?
+DOCTOR: Well, any blood is worth checking out, certainly. Three days… and no other symptoms?
+PATIENT: No, not really. Just… tired. But I am always a little tired. I work very hard. No fever, no chest pain, no… I don’t know, other things. Just the blood and feeling a little more tired than usual. Is that helpful? I'm sorry if this isn't very good information.
+DOCTOR: No, no, it’s… it’s something. Tiredness is common, yes. We’ll get to the bottom of it. Let's do a quick exam, just to listen to your lungs, alright?
+PATIENT: Yes, of course. That sounds good, Doctor. Whatever you think is best. I trust your judgement.
+DOCTOR: Alright. Just a quick listen… deep breaths in and out for me, please. Okay… breathe in… and out… Good. Sounds… relatively clear, but I do hear a slight… wheeze on the left side. Nothing major, but we should note that. And just open your mouth, say “ah”… Throat looks okay. A little redness, but nothing concerning. I'll check your pulse and blood pressure as well. Pulse is… normal. Blood pressure is 120 over 80. Perfectly acceptable.
+PATIENT: Okay, that's good to hear, I think. A slight wheeze… is that bad? I don't remember ever having a wheeze before. Should we be worried about that? I apologize for asking so many questions, I just get anxious easily.
+DOCTOR: No, no, questions are good! A slight wheeze can be a lot of things. Allergies, a minor irritation… sometimes it just happens. It could indicate something more, which is why we’ll do a few more tests just to be sure. I’d like to order a chest x-ray and a sputum sample, just to get a better look. Does that sound alright?
+PATIENT: Yes, that sounds very sensible, Doctor. An x-ray and a sample… yes, I can do that. Where should I go to have those done? And how long will it take to get the results? I hope it is not anything too serious.
+DOCTOR: Okay, alright. The x-ray… you can go to the imaging center across the street – 123 Main Street. Tell them Dr. Gorga sent you. And the sputum sample… the nurse will give you a container and instructions on how to collect it. Just bring it back to the clinic when you’ve got it. Results… usually a day or two for the x-ray, a few days for the sputum culture. We'll call you as soon as we have them. In the meantime… try to rest, stay hydrated. If the coughing gets worse – a lot more blood, difficulty breathing – go to the emergency room immediately, understand?
+PATIENT: Yes, I understand. 123 Main Street for the x-ray, and the nurse will give me the container. Rest and stay hydrated, and emergency room if it gets worse. Thank you, Doctor. That makes me feel a little better, knowing we are doing something. I appreciate your help. Is there anything else I should do?
+DOCTOR: <stage>Rubs his forehead, scanning the chart again. Vaguely recalls a follow-up protocol… maybe?
+PATIENT: No, I think that’s everything for now. Just follow those instructions, and we'll talk as soon as we get the results. Don’t hesitate to call if you have any questions or concerns before then. The number is on the card. Alright, well, get some rest. And hopefully it's nothing too serious.
+DOCTOR: .
+PATIENT: Thank you again, Doctor Gorga. You have been very kind. I will follow your instructions carefully. Have a good day. .

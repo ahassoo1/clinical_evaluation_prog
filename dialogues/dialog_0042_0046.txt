@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Marialena. Welcome to the clinic. My name is Dr. VODZAK. It’s lovely to meet you. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It’s very nice to meet you as well. I’m here because I’ve been having some…pressure on my bladder. It’s been bothering me for a little while now, and I thought it best to get it checked out.
+DOCTOR: Okay, bladder pressure. I understand. And when you say “a little while now,” could you be a bit more specific?
+PATIENT: Certainly. I’d say it started, oh, about three weeks ago, maybe a little longer. It’s not constant, but it comes and goes throughout the day. It feels…full, even when I haven’t had much to drink.
+DOCTOR: Okay, three weeks, intermittent, and a sensation of fullness even with limited fluid intake. That's helpful. Can you describe the pressure itself?
+PATIENT: Hmm… it’s not painful, exactly. More like a heavy feeling, low down, you know? Like something is…bearing down. And sometimes, when I need to go, it’s hard to start. It doesn’t happen every time, but enough that I noticed it.
+DOCTOR: Okay, a heavy feeling, low down, and some difficulty initiating urination occasionally. Thank you. Have you noticed any changes in your urine – color, smell, anything like that?
+PATIENT: Yes, actually. Now that you mention it, the color has been a little darker than usual. Not dramatically, but I’ve definitely noticed it’s not the pale yellow it normally is. I haven’t noticed any change in the smell, though.
+DOCTOR: Alright, darker urine color along with the pressure and difficulty starting. Have you experienced any burning or discomfort while urinating?
+PATIENT: No, Doctor, thankfully not. No burning or any pain during urination. Just the pressure beforehand, and sometimes the trouble getting it started, as I mentioned.
+DOCTOR: Good. That’s good to know. And have you noticed any fever, chills, or lower back pain accompanying this?
+PATIENT: No, thankfully none of those. No fever, no chills, and my back feels completely normal. I haven’t had any aches or pains there at all.
+DOCTOR: Okay. Now, let’s talk a little bit about your medical history. Do you have any known medical conditions?
+PATIENT: Well, nothing major. I was diagnosed with mild asthma as a child, but I haven’t had an attack in years. I mostly just avoid things that trigger it – strong perfumes, that sort of thing. Other than that, I’m generally quite healthy, I believe. I have Medicare, if that’s relevant.
+DOCTOR: That’s good to know. And have you ever had any surgeries or been hospitalized for anything?
+PATIENT: No, I haven’t had any surgeries. And I’ve never been hospitalized, thankfully. Just the usual childhood illnesses, like chickenpox, when I was little. Nothing serious enough to require a hospital stay, though.
+DOCTOR: Alright, good. And what about your family?
+PATIENT: On my mother’s side, my grandmother had diabetes, type 2 I believe. And my uncle has high blood pressure. My father’s side… well, I don’t know as much about their medical history, unfortunately. We weren’t very close.
+DOCTOR: Okay, a family history of type 2 diabetes and hypertension. Thank you. And can you tell me a little bit about your lifestyle?
+PATIENT: Certainly. I work as a graphic designer, so I spend a lot of time sitting at a computer. I try to get some exercise when I can – walks mostly, maybe a yoga class once a week. I'm married, and we generally eat a healthy diet, lots of fruits and vegetables. I drink water throughout the day, but I do enjoy a cup of coffee in the morning.
+DOCTOR: Okay, graphic designer, some exercise, generally healthy diet, and coffee. And do you smoke or drink alcohol?
+PATIENT: No, I don’t smoke. Never have. And I rarely drink alcohol. Perhaps a glass of wine with dinner on special occasions, but it’s not a regular habit.
+DOCTOR: Okay, no smoking, minimal alcohol. Finally, are you currently taking any medications, vitamins, or supplements?
+PATIENT: No, I’m not taking any regular medications. I sometimes take a vitamin D supplement during the winter months, just because of the lack of sunlight, but that’s it. Nothing prescribed by a doctor, and nothing I take daily.
+DOCTOR: Alright, that’s very helpful, Marialena. Thank you for being so thorough. Now, I’d like to do a quick physical exam, if that’s alright with you. Just to check a few things. We’ll start with your vital signs, then I’d like to listen to your abdomen and do a quick neurological check. Is that okay?
+PATIENT: Yes, that sounds perfectly fine, Doctor. Please, go ahead. I'm ready whenever you are. I appreciate you taking the time to check everything thoroughly.
+DOCTOR: Excellent. If you’d be comfortable, please have a seat here. Blood pressure is 122/78, pulse is 72 and regular, respiration is 16, and temperature is 98.6 Fahrenheit. Abdomen sounds are normal, no bruits detected. Neurological exam is within normal limits. Now, I’d like to perform a quick urinalysis, if that’s alright. It will help us check for infection or other abnormalities in your urine. Would you be able to provide a sample?
+PATIENT: Yes, absolutely. A urinalysis sounds like a good idea. I can provide a sample right away. Where would you like me to go?
+DOCTOR: Excellent. There's a private restroom just down the hall. There are instructions in there, and a specimen cup. Just bring the cup back to me when you’re finished, and I’ll send it to the lab. I'll be right here when you return.

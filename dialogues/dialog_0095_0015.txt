@@ -1,0 +1,40 @@
+DOCTOR: Good morning, Mikeisha. I’m Dr. Vanochten. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Thank you for seeing me. Um... my nose. It feels... bad. Like pressure, maybe? I don't... I don't know the words. It's been this way for... a little while, I think. Not a long time, but not just yesterday, either.
+DOCTOR: Okay, “feels bad” is a good start. Pressure is helpful. And “a little while” is okay, too. Let’s try to narrow that down. Could you tell me roughly how long you’ve been noticing this pressure?
+PATIENT: Oh... hmm. Days? Maybe two weeks? It is hard to remember, Doctor. Things... slip my mind sometimes. It is not so bad usually, just... there. But it feels worse when I... when I bend over, I think? Or when it is very cold.
+DOCTOR: Okay, two weeks give or take. And it's worse with bending over and in the cold – that’s useful information. Do you have any other symptoms along with the pressure?
+PATIENT: Other... symptoms? Let me think. Sometimes my head... feels heavy. Not like a pain, exactly. Just… full. And maybe… a little bit of dripping. From my nose, I mean. Not… not bad, but it is there. I always carry a tissue.
+DOCTOR: Okay, a heavy head and some nasal dripping. Is the dripping clear, or is there any color to it?
+PATIENT: Color? Oh… um. I think… sometimes a little yellow? But mostly it is clear. I don't… I don't look at it very closely, Doctor. I just… wipe it away. I am sorry.
+DOCTOR: No need to apologize at all, Mikeisha. It’s perfectly alright. Just trying to get a clearer picture. Any fever, chills, or cough?
+PATIENT: Fever… I do not think so. I have not… felt hot. No chills, either. And no cough, Doctor. Just… this nose. And the heavy head, sometimes. It does not keep me from working, though.
+DOCTOR: Alright. And are you experiencing any pain in your face?
+PATIENT: Pain… not really pain, Doctor. Like I said, it is more… full. But sometimes, around my eyes, it feels… tight? Like pressure, again. A little bit uncomfortable, but not… hurting.
+DOCTOR: Okay, tightness around your eyes with the pressure. Do you have any allergies that you know of?
+PATIENT: Allergies…? Oh… I don't think so. I have never… been told I have allergies. We did not… have much time for doctors when I was small, Doctor. And now… well, it is expensive.
+DOCTOR: I understand. Any past medical problems that you've been treated for?
+PATIENT: Past… problems? Oh… um. I had my babies, of course. But… nothing else that I remember. I work with the drills, you know? It is… hard work. Sometimes my back hurts, but that is from the work. Not… a problem that a doctor fixed.
+DOCTOR: Alright. And do you take any medications currently, even over-the-counter?
+PATIENT: Medications…? No, Doctor. I don't take anything. I try not to. My husband, he… he doesn’t like me taking pills. He says it makes me… sleepy.
+DOCTOR: Okay. And no history of surgeries?
+PATIENT: Surgeries…? No. Never had one. I am thankful for that.
+DOCTOR: Alright. Now, thinking about your family – do any of your close relatives have issues with sinuses, allergies, or frequent colds?
+PATIENT: My… family? My mother, she… she always had a little cough. Especially in the winter. But I don’t… I don’t think it was sinuses, exactly. Just… a cough. My husband, he is very healthy. Never sick.
+DOCTOR: Okay. And are you a smoker, or are you around people who smoke?
+PATIENT: No, Doctor. I do not smoke. And my husband, he does not smoke either. We both… we both work outside mostly. Fresh air is good, yes?
+DOCTOR: Yes, fresh air is good. Last question for now. Do you feel like you've been exposed to anything unusual recently – like dust, mold, strong chemicals?
+PATIENT: Unusual…? Let me think. At work, sometimes there is dust from the drills, yes? And… the smell of gasoline. But we always wear masks. Not… strong, I don’t think. Nothing unusual, no.
+DOCTOR: Okay, Mikeisha, thank you for that information. It sounds like you’ve been dealing with this nasal pressure for around two weeks, possibly a bit longer, with some accompanying head fullness and occasional dripping. It’s worse when bending over and in the cold. Now, I’d like to take a quick look at your nose and ears and listen to your lungs, if that’s alright with you. It will just take a few moments.
+PATIENT: Yes, Doctor. That is… that is fine. Whatever you think is best. I trust you.
+DOCTOR: Okay. Alright, Mikeisha. Your ears look good, and your lungs sound clear. Your nasal passages are a little inflamed, and I can see some clear discharge. Based on what you've told me and what I've observed, it sounds like you likely have a case of sinusitis – inflammation of the sinuses. The dust and gasoline exposure at work could be contributing factors. It's not severe at this point, but it's causing you discomfort.
+PATIENT: Sinusitis… so that is what is wrong? From the dust? Oh dear. Is it… is it serious, Doctor? Will I need… pills?
+DOCTOR: It's good to know what's causing the issue, yes. It doesn't sound serious right now, thankfully. It's a common condition. And you don’t necessarily need pills, but there are a few options we can consider. Because it's mild, we can start with some conservative measures. I'd recommend nasal saline rinses a couple of times a day to help clear the congestion. Also, staying well hydrated and avoiding dust or strong irritants when possible. If those measures don’t provide enough relief within a week, we can discuss a decongestant or, if it's not improving, potentially a short course of antibiotics. Would you like me to explain how to do the nasal rinses?
+PATIENT: Nasal rinses…? Yes, please, Doctor. I do not… I have never done that before. I am a little bit worried I will do it wrong. And what do I do if it… if it hurts?
+DOCTOR: No worries at all. It's perfectly normal to be unsure. It's quite simple, really. You can use a neti pot or a squeeze bottle - you can get them at most pharmacies. You mix a packet of saline solution with distilled or previously boiled water - never use tap water directly. Then, you lean over a sink, tilt your head to one side, and gently pour the solution into one nostril. It should flow out of the other nostril. It might feel a little strange at first, but it shouldn’t be painful. If it feels uncomfortable, you’re probably not tilting your head enough, or the water isn’t lukewarm. You can also start with a very small amount of water, and gradually increase it as you get more comfortable. Does that make sense so far?
+PATIENT: Yes… I think so. Distilled water, not tap. And tilt my head. It sounds… a little bit difficult, but I will try. What if it goes… up my nose?
+DOCTOR: That’s a common concern! If you use a gentle flow and tilt your head properly, it shouldn’t go up your nose. It’s more likely to flow down and out the other nostril. If it does accidentally go up, it might cause a brief stinging sensation, but it’s not harmful. Try to blow your nose gently afterwards to clear any remaining solution. We'll start with trying the rinses and staying hydrated. If you're not feeling any better in a week, or if you develop a fever, worsening headache, or facial pain, please come back to see me right away. We might need to consider other options then. Do you have any questions about that?
+PATIENT: No… I do not think so. Just… practice. And distilled water. You have explained it very well, Doctor. I am… thankful.
+DOCTOR: You're very welcome, Mikeisha. I’m glad I could help. I’ll write down the instructions for the nasal rinses for you, just in case. Here you go. And remember, if you're concerned about anything, don't hesitate to call the office. Is there anything else I can help you with today?
+PATIENT: No, Doctor. I think that is all. Thank you again for your time, and for explaining everything so clearly.
+DOCTOR: You're very welcome, Mikeisha. Get well soon, and please don’t hesitate to reach out if you have any further questions. Have a good day.
+PATIENT: Thank you, Doctor. You too.

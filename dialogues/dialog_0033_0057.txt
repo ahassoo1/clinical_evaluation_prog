@@ -1,0 +1,22 @@
+DOCTOR: Right. Chellsea, is it?
+PATIENT: Yes, that is correct. Chellsea Luft. It’s nice to meet you, Doctor… DeCHENE, was it?
+DOCTOR: Yes, DeCHENE. Though, frankly, I have a lot of patients. Let’s not dwell on pleasantries. What brings you in today?
+PATIENT: Well, it's… about the cancer. I was told to come see you. To discuss things further, I believe. It’s been… difficult.
+DOCTOR: Cancer. Yes, the referral note was… vague. Could you be more specific?
+PATIENT: Specific… hmm. I was diagnosed a few months ago, with… I think it was lung cancer. They found it during a routine check-up, actually. I don't really know much beyond that. It's all been very fast, and… a little confusing, honestly.
+DOCTOR: Lung cancer at your age is… unusual. Do you smoke, or have you ever smoked?
+PATIENT: No, sir, I’ve never smoked. Not even tried. My husband… he smoked a little, but I never did. It was one of the things… well, never mind. Does that make things… stranger?
+DOCTOR: It complicates matters, certainly. Have you had any symptoms?
+PATIENT: Symptoms… yes, a few. I’ve been very tired, even after sleeping. And I’ve had a cough, but it doesn’t really produce anything. Mostly just… a dry tickle. And some aches in my bones, I think. But honestly, it's hard to tell what's the cancer and what's just… feeling down.
+DOCTOR: “Feeling down” isn’t a medical diagnosis, Chellsea. When did these symptoms begin?
+PATIENT: I understand, sir. It was… probably about three months ago. Around the same time I got the diagnosis, actually. The tiredness started first, then the cough, and the aches came a little later. I thought I was just stressed, to be honest. Everything changed so quickly after… after my husband passed.
+DOCTOR: And the initial diagnosis… what stage were you told it was?
+PATIENT: I… I honestly don't remember. They used a lot of words I didn't understand. Something about… cells and spreading? I think it was… early? They said they wanted to start treatment quickly. That’s all I really grasped, to be frank. I was… a bit overwhelmed.
+DOCTOR: Vague again. Alright. Let's do a quick examination. I need to listen to your lungs and feel your lymph nodes. It’s standard procedure. Please sit back.
+PATIENT: Okay. That sounds… alright. I hope it won’t take too long. I have an appointment later this afternoon.
+DOCTOR: Your breathing is… slightly wheezy, but not alarming. A few nodes are slightly enlarged, but again, not immediately concerning. We’ll need some imaging to get a clearer picture. A CT scan, at the very least. And I’d like to review the original pathology report. Do you have a copy with you?
+PATIENT: I… I don’t think so. They sent something to my insurance, Medicare, but I haven't received a copy myself. Would the hospital be able to send it to you? I don't want to delay things, but I wasn't really given much information, and I don't know where to start looking.
+DOCTOR: Medicare. Always a hassle. We can request the report directly from the hospital, but it will take time. Several days, at least. In the meantime, I’ll order a basic blood work panel to assess your overall health. That should give us something to work with. Nurse will be in shortly to take your blood. Do you have any allergies I should be aware of?
+PATIENT: No, sir. No known allergies. I've always been… pretty healthy, actually. It's just… this. This whole thing is just… unexpected.
+DOCTOR: Unexpected things happen. Nurse will be with you shortly. I'll review the results as soon as they’re available. In the meantime, try not to dwell on things. It won’t do you any good.
+PATIENT: Okay. Thank you, Doctor. I will try. .

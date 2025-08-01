@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Ms. Queener. I am Dr. Jules. Now, please, tell me, what brings you in today?
+PATIENT: Oh, good morning, Doctor. It’s… my leg. It’s been swelling up, you see. After the… the treatments. It’s just… bigger than usual, and it feels a little uncomfortable. Not painful, exactly, just… full.
+DOCTOR: “Treatments,” you say?
+PATIENT: Yes, the… the cancer treatments. I had them at the hospital, months ago now. For… well, you’ll see it on the paper, right? I don’t really remember all the names. It was a lot.
+DOCTOR: Yes, well, the records are… voluminous, as you say. Let’s focus on this swelling. When did you first notice it becoming more pronounced?
+PATIENT: Oh… um. Let me think. It started… maybe a week ago? No, more like ten days. It wasn’t too bad at first, just a little puffiness in the ankle. But it’s gotten bigger each day, I think. It's hard to tell, really. I don’t pay that much attention.
+DOCTOR: Right. And is this swelling in one leg, or both?
+PATIENT: Oh! Just the left one. My left leg. The right one is perfectly fine. I… I noticed that right away, because I always walk a little funny, and I thought it was just… me. But it’s definitely worse on this side now.
+DOCTOR: Very well. Have you experienced any changes in the skin texture or color?
+PATIENT: Oh… hmm. I don’t think so. It looks normal, mostly. Maybe a little… shiny? But I could be imagining things. I haven't really… looked closely, to be honest. It doesn't hurt, so I don’t fuss with it.
+DOCTOR: And have you noticed any pain in your calf, or any warmth or redness?
+PATIENT: No, no pain at all. Not in the calf, not anywhere. And… it doesn't feel warm. Just… big. And a little… tight, maybe? Like it’s harder to move my foot. But it's probably just me being old!
+DOCTOR: Alright. Let's do a quick examination. Please, sit back and elevate your left leg on that stool. I need to assess the circumference and check for any pitting edema.
+PATIENT: Oh, okay. Yes, alright. Is this high enough? I don’t think I’ve done this before…
+DOCTOR: Hmm. Yes, there is definite edema, and the circumference is… noticeably larger than the right leg. And yes, there is pitting edema present. Now, let me check your pulses… Pulses are present, though somewhat diminished.
+PATIENT: Oh. Diminished? Is that… bad? I don't like the sound of that. I thought everything was okay, because I can still walk… mostly.
+DOCTOR: "Diminished" simply means they are not as strong as they should be. It is not necessarily cause for immediate alarm, especially given your history of cancer treatment. It could be a consequence of the therapy. We need to rule out a few possibilities, however. I'm going to order a Doppler ultrasound to assess the blood flow in your leg. It will help us determine if there is a blood clot. It's a simple, non-invasive test.
+PATIENT: Oh! A blood clot? Oh dear. That sounds… serious. Is it common? After… everything? I just want to get back to normal, you know?
+DOCTOR: Post-treatment swelling can sometimes be associated with venous insufficiency or, in rarer cases, thrombosis. We need to be thorough. I will also order a D-dimer blood test. It helps detect blood clot formation. We will get the results back within 24-48 hours. In the meantime, I'm prescribing compression stockings. Wear them daily, especially when you're walking or standing for extended periods. It will help improve circulation and reduce the swelling. Here you are. Now, do you have any other questions, or shall we consider this consultation concluded?
+PATIENT: Oh, compression stockings. Okay. Twenty-four to forty-eight hours… that seems a long time to wait. Is there… anything else I should be doing? Elevate it more? Anything I should avoid?
+DOCTOR: Yes, elevate your leg whenever possible. Avoid prolonged standing or sitting without movement. And do not ignore any new or worsening pain, redness, or warmth in your leg. If those symptoms develop, go to the nearest emergency room immediately. I believe that covers everything. I have other patients waiting. Have a good day, Ms. Queener. And please, follow the instructions carefully. .
+PATIENT: Oh. Right. Okay. Thank you, Doctor. I… I will. Thank you. Bye…

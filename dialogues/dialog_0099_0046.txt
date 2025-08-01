@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Creagh. I’m Dr. Overgaard. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, for the past few weeks, I’ve been having a… a persistent pressure in my bladder. It’s quite bothersome, actually.
+DOCTOR: Okay. A persistent pressure… and how long exactly have these past “few weeks” been?
+PATIENT: Hmm, let me think… it started around the middle of July, so approximately three weeks, maybe a little longer. It comes and goes, but it’s been fairly consistent now for about a week, almost constant.
+DOCTOR: Right. Constant for a week… and is this pressure associated with any difficulty actually urinating?
+PATIENT: No, thankfully not difficulty. I’m able to go when I need to, and the stream is… normal, I suppose. It just feels like there’s always something there, even right after I’ve gone. Does that make sense?
+DOCTOR: Yes, that makes sense. A sensation of incomplete emptying, even after voiding. And have you noticed any changes in your urine itself?
+PATIENT: No, nothing that I've consciously noticed. The color seems normal, and I haven’t seen any blood or anything unusual like that. I haven’t really… looked, to be honest, unless it’s obviously different. I hope that’s not a problem!
+DOCTOR: Well, it's always good to be observant, but no, not a problem. Alright. Any pain or burning when you urinate?
+PATIENT: No, no pain at all. It doesn’t hurt to go, and there’s no burning sensation. It’s purely the pressure, like a fullness that won’t go away. It's more uncomfortable than painful, I'd say.
+DOCTOR: Alright. And have you noticed any other symptoms alongside this pressure?
+PATIENT: No, not really. I haven't had any fever, chills, or back pain. Just this persistent pressure. I have been a little more tired lately, but I chalked that up to… well, life, I suppose. It's been a busy summer.
+DOCTOR: Okay. Let’s see… Ms. Creagh, your chart indicates you're 31 years old, height 165 cm, weight 64 kg. Medicare coverage… Right. Have you had any previous medical issues, surgeries, or hospitalizations I should be aware of?
+PATIENT: No, nothing major. I had my tonsils removed when I was a child, and I’ve had the usual colds and flu, but no serious illnesses or surgeries. I’ve been pretty healthy overall, thankfully. I do have some mild seasonal allergies, but that’s it.
+DOCTOR: Allergies noted. And what about your family history?
+PATIENT: Hmm… my mother had high blood pressure, and my grandmother on my father’s side had diabetes, type 2 I believe. Otherwise, I don’t recall any other significant family health concerns. Everyone lived to a reasonably old age, if that means anything.
+DOCTOR: It does. Alright. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh, no, nothing like that. I don't smoke, and I rarely drink alcohol, maybe a glass of wine with dinner occasionally. And definitely no recreational drugs. I'm very careful about my health.
+DOCTOR: Right. And are you currently taking any medications, vitamins, or supplements?
+PATIENT: No, not at the moment. I used to take a daily multivitamin, but I stopped a few months ago. I haven’t felt the need for anything else. Just trying to eat healthy and get enough sleep, mostly.
+DOCTOR: Alright. Now, Ms. Creagh, I'd like to do a quick physical exam, if that's alright with you. Just to get a better understanding of what's going on. Specifically, I'll need to check your abdomen and do a quick pelvic exam. Is that acceptable?
+PATIENT: Yes, that’s perfectly acceptable, Doctor. I understand. Please, go ahead. I’ll do my best to be still. Is there anything I should do to prepare?
+DOCTOR: No, nothing specific. Just relax as much as possible. I’ll need you to lie down on the table first. And then we’ll get started. Let me know if you feel any discomfort during the exam. Alright, let's start with your abdomen. I'm going to gently palpate to see if there's any tenderness or masses. Take a deep breath for me… Good. Hmm. No significant tenderness to the touch… Your bladder does feel a bit full, as expected. Now, I'm just going to listen to your abdomen with the stethoscope… Sounds normal. Okay. Now, for the pelvic exam. I'll explain each step as I go. I’m going to insert a speculum…
+PATIENT: .
+DOCTOR: .

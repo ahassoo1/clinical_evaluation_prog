@@ -1,0 +1,21 @@
+DOCTOR: Good morning, Mr. Secondi. Welcome to the clinic. I’m Dr. Pirl. It’s nice to meet you. Now, could you tell me what brings you in today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um, well, my pee is orange. It started a few days ago, and it's… worrying me a little. I don’t know what it means.
+DOCTOR: I understand your concern, Mr. Secondi. Orange urine can be caused by several things, most of them quite benign, but we should investigate to be certain. Let's start with a few questions. First, have you noticed any pain or burning sensation when you urinate?
+PATIENT: No, no pain. Nothing like that. It just… looks different. Like, a strong orange color. Not a little bit, but really orange. I drink a lot of water, so usually it’s very pale.
+DOCTOR: Alright, that’s good to know. And have you noticed any changes in your bowel movements?
+PATIENT: Changes… um. Not really. Everything seems normal there. Maybe a little… softer, but I ate some figs yesterday. They do that sometimes, you know? But other than that, no. Is that important?
+DOCTOR: It can be, Mr. Secondi. Sometimes changes in stool color or consistency can give us clues. Now, have you started any new medications, vitamins, or supplements recently?
+PATIENT: No, no new medicine. I take something for my blood pressure, but I’ve been taking that for years. Nothing new at all. My wife gives me the pills, so I would know if she changed something, and she hasn’t.
+DOCTOR: Good. And do you have any known allergies to medications or anything else?
+PATIENT: No allergies that I know of. Never had a problem with anything. I eat everything. My wife worries about me eating too much, but not about allergies.
+DOCTOR: That’s good to hear. Now, Mr. Secondi, I’d like to ask a bit about your past medical history, if you don't mind. Have you ever been diagnosed with any liver problems, kidney issues, or any urinary tract infections?
+PATIENT: No, never. I’ve been pretty healthy, actually. I had the flu once, a long time ago, but that’s it. My doctor back home, he always said my blood tests were good. Nothing about liver or kidneys or… what was the other thing? Infections? Never.
+DOCTOR: Alright. And have any close family members – parents, siblings – had any history of liver disease, kidney problems, or unusual urinary issues?
+PATIENT: Um… my father, he had problems with his stomach when he was old. But I don’t think it was the liver. He just… didn’t eat right, I think. And my mother, she was healthy all her life. No problems with kidneys or… anything like that, as far as I know. My sister… she has some high blood pressure, but not anything else.
+DOCTOR: Okay. Now, just to clarify, Mr. Secondi, when you say the orange color started a few days ago, can you recall if anything else changed around the same time?
+PATIENT: Hmm… let me think. I started helping my neighbor with his garden. We were pulling weeds and… he gave me some orange juice afterwards. Very sweet orange juice. Maybe that’s it? Could that make my pee orange? I drank a lot of it.
+DOCTOR: That’s a very good question, Mr. Secondi, and a very plausible explanation. Certain vitamins, like those found in large quantities in orange juice, can indeed change the color of your urine. However, to be absolutely certain and rule out any other possibilities, I would like to do a quick urinalysis. It’s a simple test – just a sample of your urine – and it will give us a clearer picture. Would that be alright with you?
+PATIENT: Yes, that’s fine. A sample is okay. I just want to know it’s nothing serious. Where do I… do it?
+DOCTOR: Certainly, Mr. Secondi. There’s a private bathroom just down the hall. I’ve left a collection cup and instructions on the counter. Once you have the sample, please bring it back to me, and we'll send it to the lab. It usually takes about an hour or so for the results to come back. While we wait, is there anything else you'd like to discuss?
+PATIENT: No, I think that’s everything. Just the pee. I hope it’s the orange juice. Thank you, Doctor. I’ll go now.
+DOCTOR: You're very welcome, Mr. Secondi. Take your time, and I’ll be here when you return. I suspect it's nothing to worry about, but it’s always best to be thorough.

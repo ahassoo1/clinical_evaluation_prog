@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Mr. Puder. I am Dr. Paraskevopoulos. It says here you’re 35 years old. Please, have a seat. Now, to begin, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Yes, 35. My heart… it feels funny sometimes. Like it's racing, but not always. It’s hard to explain. It’s why I came.
+DOCTOR: "Funny," is not particularly helpful in a medical assessment, Mr. Puder. Could you be more specific?
+PATIENT: Specific… okay. It feels like a fast flapping, inside my chest. Not a strong beat, more like… lots of little beats very quickly. It comes and goes. Sometimes it lasts a long time, sometimes just a few seconds. It doesn’t hurt, just… strange. Does that make more sense?
+DOCTOR: Slightly. When you say “long time,” could you quantify that for me?
+PATIENT: Quantify… you mean how long? Sometimes it goes on for… maybe an hour? Once, it went on all day, but that was only one time. Usually, it’s just a few minutes, but sometimes it’s longer, like I said. An hour, maybe. Sometimes more. It’s hard to keep track. I was working when it started most times.
+DOCTOR: And what sort of work do you do, Mr. Puder?
+PATIENT: I work with… chemicals. Like, in a factory. I make sure the machines are working right, that the stuff is mixing okay. It’s… equipment operator, I think they call it. Lots of pipes and buttons and… things. It’s not easy work, but it’s a job.
+DOCTOR: Do you wear any protective gear while working with these chemicals, Mr. Puder?
+PATIENT: Yes, always. Gloves, mask… sometimes a whole suit, depending on what I’m mixing. We have to. The boss makes sure of it. It’s… important. You know, for safety. I always wear it.
+DOCTOR: Very well. Now, let us move onto your medical history. Have you ever been diagnosed with any medical conditions, Mr. Puder?
+PATIENT: No, never. I don't get sick much. Just… this heart thing. I haven't seen a doctor in… a long time. Maybe ten years? Just for check-ups. Nothing serious before this. Not that I remember, anyway.
+DOCTOR: And have you ever had any surgical procedures?
+PATIENT: No, never. No surgeries. Broken a bone once, when I was a little kid, but that's it. Just a cast on my arm. Nothing with my heart, or anything important.
+DOCTOR: Let's discuss your family history, Mr. Puder. Are your parents still living?
+PATIENT: Yes, both still alive. They live in Yemen, far away. I talk to them sometimes on the phone. My father… he has high blood pressure, I think. My mother… she's always healthy. Very strong woman. That's all I know, really. They don’t talk much about doctor stuff. It’s… not a custom.
+DOCTOR: Do you smoke, Mr. Puder?
+PATIENT: No. Never smoked. I don't like it. It smells bad, and… it’s bad for you. My wife doesn't smoke either. Never.
+DOCTOR: Do you consume alcohol, Mr. Puder?
+PATIENT: Sometimes. Just a little bit, on special days. Like, with dinner, maybe a glass of wine. Not every day. Not a lot. My wife drinks a little too, sometimes. It’s… okay, but not too much.
+DOCTOR: Now, are you currently taking any medications, prescription or over-the-counter, Mr. Puder?
+PATIENT: No. Nothing. I don't like taking pills if I don't need them. I try to stay healthy. Just… this heart thing. That’s why I’m here. No medications at all.
+DOCTOR: Very well. Now, I'm going to listen to your heart and lungs, and take your blood pressure. Please lie back on the examination table.
+PATIENT: Okay. I will lie down. Is it cold?
+DOCTOR: No, Mr. Puder, it is not cold. Simply lie back and relax. Your heart rate is slightly elevated, but rhythm is regular. Lungs are clear bilaterally. Blood pressure is 130/85. Now, do you experience any other symptoms – shortness of breath, chest pain, dizziness, or lightheadedness – alongside this “flapping” sensation?
+PATIENT: No. No chest pain, not at all. And I can breathe okay. Sometimes, maybe a little tired, but that’s from working hard. And… no dizziness. No lightheadedness. Just the heart thing. No, nothing else. Just… strange feeling. Sometimes, when I try to sleep, it bothers me. That’s all.
+DOCTOR: Given your description, and based on a preliminary examination, it’s possible you are experiencing palpitations. However, to rule out any underlying cardiac or thyroid issues, I’d like to order some tests. A complete blood count, a basic metabolic panel, and an EKG—electrocardiogram—to assess your heart’s electrical activity. Also, a TSH test to check your thyroid function. Do you understand?
+PATIENT: Tests… okay. Complete… what? And… EKG? Is that… safe? I don’t understand all these words. What do they do? And… will it take long? I just want to know what's wrong with my heart, not… lots of tests.
+DOCTOR: Mr. Puder, these tests are standard procedure to determine what is wrong with your heart. A complete blood count checks for various conditions, including anemia. The basic metabolic panel assesses your kidney function and electrolyte balance. An EKG is a painless non-invasive procedure that records your heart's electrical activity, helping us identify any irregularities. They are quite straightforward. The lab is just down the hall. It will take approximately thirty minutes to an hour for all of the tests to be completed. I will review the results and contact you with the findings. Do you have any allergies to latex or any other materials that I should be aware of before you proceed with the testing?
+PATIENT: Latex… I don’t know. I haven’t used it much. I work with chemicals, not… rubber. I don’t think I’m allergic to anything. But… is it expensive? I don’t have insurance. I don’t want to get a big bill. Just tell me what I have to do, and if it will cost a lot of money.
+DOCTOR: Mr. Puder, I understand your financial concerns. The cost will depend on the lab’s specific fees, but I will ensure the minimum necessary tests are performed. We can discuss potential payment options or explore financial assistance programs if needed. However, these tests are essential for accurate diagnosis. To proceed, I need to know if you have ever experienced any reaction to bandages, gloves, or any other rubber products. This is crucial information. If you are unsure, please simply state so, and we will take precautions. Do you understand?
+PATIENT: I… I think I’m okay with bandages. Never had a problem. Gloves… sometimes my skin gets a little itchy, but I thought that was from the chemicals. Not a big reaction. Just a little itchy sometimes. I don’t know about the chemicals causing it… maybe they do. It’s hard to tell. Can we just… do the tests quickly? I don’t want to wait long. And I hope it doesn’t cost too much.
+DOCTOR: Very well. The nurse will escort you to the lab. They will be aware of your concerns regarding potential skin sensitivity. I will review the results as soon as they are available and contact you. Please do not hesitate to contact the office if you experience any worsening of symptoms while you await the results. Now, if there’s nothing further…
+PATIENT: Okay. Thank you, Doctor. I will go with the nurse. I hope everything is okay.
+DOCTOR: Very well. .

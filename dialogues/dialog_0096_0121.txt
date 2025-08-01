@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Mr. Pipolo. I'm Dr. Burlingham. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just...my eyes. They feel real dry. Been that way a bit now. Don't like it.
+DOCTOR: “Real dry,” you say. Hmm. And how long exactly is “a bit now,” Mr. Pipolo?
+PATIENT: Oh, geez. Time...time gets away from ya, you know? Maybe...a month? Two? Hard to say for sure. It's not like a sudden thing, just...worse and worse.
+DOCTOR: A month or two…right. And is it constant dryness, or does it come and go?
+PATIENT: Comes and goes, I think. Worse when I’m workin’. Cement dust, you know? Gets everywhere. But even when I’m not, they feel scratchy sometimes.
+DOCTOR: Cement dust, of course. You work with cement, then?
+PATIENT: Yep. Cement mason. Been doin’ it a long time. Sixty years, maybe more. Gets in your lungs, gets in your eyes… everything.
+DOCTOR: Sixty years is…a considerable amount of time to be exposed to that. Alright. And besides the scratchiness, do you have any other symptoms?
+PATIENT: Hmm. Not really. Maybe...blurry sometimes. Not all the time, just when they're real dry. And I gotta blink a lot.
+DOCTOR: Blurry vision with the dryness… alright. Any redness?
+PATIENT: Redness? I dunno. Never really looked. I ain't one for lookin' at my eyes. Just feel 'em.
+DOCTOR: Right. Well, I'm going to have a look for you then, Mr. Pipolo. Please sit back and let me examine your eyes. It won’t take long.
+PATIENT: Okay, Doctor. Just get it over with quick, if you could. Got things to do.
+DOCTOR: Of course. Just a quick look. Okay… a little bit of injection, some dryness of the conjunctiva, but nothing terribly alarming. Pupils are equal and reactive to light. And you said you’ve been doing this work for sixty years?
+PATIENT: Sixty years, give or take. Started when I was a young man. Good money, hard work. Always wore glasses when I needed 'em, though.
+DOCTOR: Alright. Well, it sounds like you have classic symptoms of dry eye, likely exacerbated by your occupation. Sixty years of cement dust… that’s quite a lot of irritation. We can try some lubricating eye drops, over-the-counter, to see if that provides some relief. Have you ever used artificial tears before?
+PATIENT: Nope. Never used nothin'. Just kinda… put up with it. Seemed easier.
+DOCTOR: Well, "putting up with it" isn’t always the best approach, Mr. Pipolo. You only get one set of eyes. I'm going to recommend Systane Ultra lubricating eye drops. Use them four times a day, or as needed. If that doesn’t improve things after a week, come back and we can discuss other options. Do you have any allergies to any medications?
+PATIENT: Nope. Never been allergic to nothin'. Lucky, I guess. So… just put drops in my eyes? Sounds easy enough.
+DOCTOR: Yes, just the drops. Here's a printout with the instructions. And if the dryness gets significantly worse – pain, blurred vision that doesn’t improve, any discharge – you need to see someone immediately. Don't just "put up with it". Any other questions for me?
+PATIENT: No. I think that’s it. Just want to get goin’. Thank you, Doctor.
+DOCTOR: Very well. Try the drops, Mr. Pipolo. And please, take care of your eyes. Dismissed. .
+PATIENT: Okay. Thanks again. .

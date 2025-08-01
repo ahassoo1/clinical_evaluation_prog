@@ -1,0 +1,25 @@
+DOCTOR: Well, good morning, Lakiya. I'm Dr. Fourney. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. My back… it is painful. Has been for some time now. I would like to get it looked at, if you please. I want to be quick, if that is alright.
+DOCTOR: Alright, alright. "Quick" isn’t always best when it comes to your health, but we’ll try to be efficient. “Some time now”… can you be a little more specific?
+PATIENT: Specific… yes. It began March 12th, 2025. I remember the date exactly. We were putting up fence at the Peterson ranch… a lot of lifting. It has not gotten better since, only worse. Mostly when I bend or try to lift things.
+DOCTOR: March 12th… Peterson ranch… lifting. Okay. And when you say “worse”, can you describe the pain?
+PATIENT: It is a… a sharp ache. Not constant, but when I move… it feels like something is pulling. Sometimes it shoots down my leg, the left one. It makes it hard to sleep.
+DOCTOR: Sharp ache…radiating down the left leg…difficulty sleeping. Hmm. Do you notice anything specifically that makes it better or worse?
+PATIENT: Rest helps, if I can manage it. Lying flat. But… my work. It is fence work. There is not much resting to do. Heat seems to make it worse. Also, being cold does not help.
+DOCTOR: Well, that's not terribly surprising, is it?
+PATIENT: No, Doctor. I suppose not. But I needed to tell you everything. I do not want to waste your time with things you already know.
+DOCTOR: Right. Well, let’s move on. Have you tried anything for the pain?
+PATIENT: Yes. I have been using a cream my neighbor gave me. It smells like mint. It helps a little, for a short time. And I take aspirin, when it gets really bad. But it does not… fix it.
+DOCTOR: Mint cream… aspirin. Okay. Now, are you having any numbness or tingling in your leg, or any weakness?
+PATIENT: Weakness, yes. My left leg… sometimes it feels like it will give out when I stand for too long. Numbness… not exactly. But it feels… cold, even when it isn’t. Does that make sense?
+DOCTOR: Coldness… yes, I understand. Alright. Let’s do a quick physical exam. Can you stand for me, please?
+PATIENT: Yes, Doctor. Here. Be careful.
+DOCTOR: Alright. Now, I’m going to have you bend forward and touch your toes. Don't force it, just go as far as you can comfortably. Let me know if you feel any shooting pain. Hmm. Limited range of motion… and a noticeable wince at approximately 45 degrees. Now, let’s try some reflexes. Patellar and Achilles reflexes are… diminished on the left side. And there’s some tenderness to palpation along the lumbar spine, especially at L4-L5. Muscle strength is 4/5 in the left lower extremity, which is slightly weaker than the right. I also note some decreased sensation to light touch along the lateral aspect of the left lower leg and foot. Alright. That gives us something to work with.
+PATIENT: So… what does that mean? Is it serious? I have work to do.
+DOCTOR: "Serious" is a strong word. But you’ve likely irritated a nerve in your lower back – possibly a herniated disc pressing on the sciatic nerve, causing what we call sciatica. The diminished reflexes and decreased sensation confirm nerve involvement. Work is important, of course, but ignoring this could lead to chronic pain and even weakness. We need to get some imaging done – an MRI of your lumbar spine will give us a better look at what's going on. I’m going to order that for you right away. In the meantime, I recommend avoiding heavy lifting and bending. We can also discuss some pain management options, though I’m not a fan of masking symptoms long-term.
+PATIENT: MRI… yes. Alright. Avoid lifting. That will be… difficult. What about the pain? The aspirin is not enough. Will you give me something stronger?
+DOCTOR: I can prescribe you a short course of a muscle relaxant and a non-steroidal anti-inflammatory medication. It’s not ideal, and you need to understand they only address the symptoms, not the underlying problem. I also want you to start physical therapy – a qualified therapist can teach you proper lifting techniques and exercises to strengthen your back muscles. I'm writing the prescriptions now. And frankly, Lakiya, if you continue to push yourself with heavy lifting before proper healing, you're just going to prolong this. Do you understand?
+PATIENT: Yes, Doctor. I understand. Physical therapy… alright. And the medication. I will try to rest. Although it is not easy. When can I expect the MRI? I would like to get this sorted out quickly.
+DOCTOR: The imaging center is booked, so the earliest appointment is August 9th. I will have the results sent to my office, and we'll schedule a follow-up appointment to discuss them. In the meantime, strictly limit activity. If you experience any numbness in your saddle area, or loss of bowel or bladder control, go to the emergency room immediately. Those are signs of a more serious nerve compression. Do you have any other questions?
+PATIENT: No, Doctor. That is… everything, I believe. August 9th. I will try my best. Thank you. .
+DOCTOR: Very well. Try to follow those instructions. And don't hesitate to call if anything changes. .

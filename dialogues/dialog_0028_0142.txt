@@ -1,0 +1,30 @@
+DOCTOR: Alright, Mr. Lawther. So, you’re here today… tell me, in your own words, what brings you in?
+PATIENT: Um, right. Well, it's… my head. It gets really bad sometimes. And I get kinda sweaty when it happens, and my heart feels like it’s racing. It's been happening on and off, I think. Honestly, it’s a bit fuzzy when exactly it started, but… a while now, I guess? I don't really keep track of that sort of thing.
+DOCTOR: "A while now," is not particularly helpful, Mr. Lawther. Vague symptoms require… specifics. Is this a constant headache, or does it come and go?
+PATIENT: Oh, sorry. No, it doesn’t hurt all the time. It comes and goes. Like… waves, almost. It'll be fine for days, or a week even, and then BAM. Really bad pain. It's not like a normal headache, if that makes sense? It's…deeper? And like I said, the sweating and heart thing happen with the really bad ones. Not the little aches, just the big ones.
+DOCTOR: "Deeper," is also not a medical term, Mr. Lawther. Can you describe the location of the pain?
+PATIENT: Uh… everywhere? No, wait. It usually starts… around my forehead, I think. Then it kinda spreads to the back of my head and sometimes… my eyes feel it too. It’s hard to pinpoint, honestly. It's not just one spot. Does that make sense? I’m terrible at explaining this, I know.
+DOCTOR: Right. "Everywhere" again. We need to rule out… things. Have you noticed any other symptoms with these headaches?
+PATIENT: Other symptoms… hmm. Let me think. Sometimes I feel a bit dizzy, yeah. Not like falling-down dizzy, just… lightheaded. And… I think I’ve been a bit more tired than usual, but… well, I’m always tired. I got divorced not too long ago, so… I figured it was that. I don't know if that's related.
+DOCTOR: Divorce is… stressful. Let’s focus on the medical side. Any nausea or vomiting with these headaches?
+PATIENT: Nausea… sometimes, yeah. Not always, but definitely a few times. And… no vomiting, thankfully. It just feels kinda… queasy. Like I might, but it hasn't actually happened. And it usually stops when the headache starts to go away.
+DOCTOR: Alright. Any changes in your vision?
+PATIENT: Changes in my vision… not that I’ve noticed. Everything looks pretty normal, I think. Maybe a little blurry sometimes, but I wear glasses. It's been like that for years, so I just assumed it was my prescription. I haven’t had it checked in… a while, though.
+DOCTOR: And you haven’t bothered to update it. Are you on any medications currently?
+PATIENT: No, nothing at all. Never really been much of a pill person. I tried something for sleep once, but it made me feel weird, so I stopped. Just… nothing regular. I don't even take anything for headaches, just try to tough it out.
+DOCTOR: "Tough it out." Remarkable. Any family history of headaches or neurological problems?
+PATIENT: Uh… my mum used to get migraines, I think? Really bad ones. She’d have to lie down in a dark room for hours. My grandad… I think he had something with his memory, towards the end, but I wasn’t very close to him. Honestly, I don't know much about it. Everyone just kinda… didn’t talk about health stuff much.
+DOCTOR: Right. Well. Let's move on to a physical examination. I'll need to check your reflexes and neurological function. Please lie down on the examination table.
+PATIENT: Okay, sure. Sounds good.
+DOCTOR: Pupils are equal, round, reactive to light. No obvious tenderness to palpation. Now, I need you to follow my finger with your eyes. Don't move your head.
+PATIENT: Yeah, okay. I'm following it… Is this okay? I’m trying not to move my head. It feels a little weird, keeping it so still.
+DOCTOR: Yes, yes. Just… follow the finger. Your gait appears… normal. Balance is acceptable. Now, I’m going to check your reflexes. Reflexes are 2+ bilaterally. Which is… adequate.
+PATIENT: Okay. Adequate is good, right? Is everything… okay so far? I'm just a bit worried about what's causing these headaches, you know? They're getting more frequent lately.
+DOCTOR: “Adequate” is not a diagnosis, Mr. Lawther. The physical exam is… unremarkable. Given your vague symptoms and lack of significant findings, I suspect tension headaches. Stress related, likely. However, because you express concern about increasing frequency, I’ll order a basic blood panel to rule out other possibilities.
+PATIENT: A blood panel sounds good. That's… reassuring. Tension headaches… is that something I just have to live with then? Is there anything I can do about them? Like… medication or something? Or… exercises, maybe? I just… I don't want them to keep getting worse.
+DOCTOR: "Live with" is a strong term. There are over-the-counter pain relievers you can try. Ibuprofen, acetaminophen. I can prescribe something stronger if those don’t suffice, but I prefer to avoid unnecessary medication. As for "exercises," I recommend stress management techniques. Yoga, meditation, perhaps. I’ll write a prescription for Ibuprofen and a referral to a local psychologist. Consider that, alright?
+PATIENT: Yeah, okay. Ibuprofen and a psychologist. That… sounds manageable. Thank you, Dr. Memmolo. That’s… helpful. What about the blood panel? How long will that take to come back? And… is there anything I should be looking out for while I wait? Anything that would mean I need to come back sooner?
+DOCTOR: The blood panel results should be available in approximately three to five business days. You can access them through the patient portal. As for "looking out for," if you experience sudden severe headache, fever, stiff neck, vision changes, weakness, or difficulty speaking, go to the nearest emergency room immediately. Do not wait for me. Do you understand?
+PATIENT: Yeah, I understand. Sudden severe headache, fever, stiff neck… vision changes, weakness, difficulty speaking. Emergency room. Okay, good. Thank you again, Dr. Memmolo. I think… I think that’s everything?
+DOCTOR: Yes. The nurse will schedule a follow-up appointment for review of the blood panel results. Please call if you have any urgent concerns. Have a good day, Mr. Lawther. And try to manage your stress.
+PATIENT: Okay, thank you. I will. Have a good day too. .

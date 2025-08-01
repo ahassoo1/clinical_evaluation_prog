@@ -1,0 +1,24 @@
+DOCTOR: Right. Lakiya Reihner, 42 years old. So, what brings you in today?
+PATIENT: It’s… my back. It hurts. A lot. I’d like to get this over with, if you don’t mind. It’s been painful for a while now.
+DOCTOR: "A while" is… how long, exactly?
+PATIENT: About… three months, I think. Maybe a little longer. It started slow, just a dull ache after work. Now… now it’s hard to even bend over. I work with fences, you see. It’s physical work.
+DOCTOR: Fences. Right. And where is the pain located specifically?
+PATIENT: Mostly lower back. Right across here… …but sometimes it shoots down my leg. The left one, usually. It feels like… pins and needles, sometimes. Is that normal?
+DOCTOR: Pins and needles… radiating pain. Okay. Does anything relieve the pain?
+PATIENT: Not much. Lying down helps a little, but only for a short time. And…warm baths. They take the edge off, but it always comes back. I tried some of those over-the-counter pain pills, but they don’t do much good either. Frankly, they just upset my stomach.
+DOCTOR: Any history of injury to your back?
+PATIENT: No. Not that I recall. I’ve always been careful. I mean, working with fences… you have to be. It’s not like I fell or anything. Just… it started gradually. Like I said, a dull ache, then worse and worse. Is this something serious? I have things to do, you see. Work, mostly.
+DOCTOR: Alright. Let's do a quick physical exam, then we'll see what we're dealing with. Please lie down on your stomach on the examination table for me.
+PATIENT: Okay. Just… please be quick. It’s uncomfortable, even lying down. I’m not used to being… examined.
+DOCTOR: Okay. Just relax as much as you can. I’m going to feel along your spine and the muscles on either side. Tell me if anything feels particularly tender. Any pain here?
+PATIENT: Ouch! Yes, right there. That’s… that’s where it hurts the most. It's sharp, not just a dull ache like usual. Be careful, please.
+DOCTOR: Tenderness to palpation, lumbar spine. Alright. And what about if I ask you to lift your leg straight up while lying on your back?
+PATIENT: I… I can try. But it might be difficult. My leg doesn’t always do what I want it to. It’s… painful. And I can’t keep it straight. It bends on its own.
+DOCTOR: Positive straight leg raise test, left. Limited range of motion. Any pain with this?
+PATIENT: Yes! Right there… on my hip. It feels like… a burning sensation. Not just in my back anymore. It’s… it’s spreading. Is this… a nerve? I don't understand what's happening.
+DOCTOR: Okay. Based on what you're telling me, and the exam, it’s likely you have some nerve compression, possibly related to a disc issue or spinal stenosis. It’s not something we can determine definitively without imaging, specifically an MRI. I'm going to order an MRI of your lumbar spine. In the meantime, I’ll prescribe you a muscle relaxant and some anti-inflammatory medication. Don't overexert yourself, and if the pain becomes unbearable, or you experience any numbness or weakness in your legs, go to the emergency room immediately. Does that make sense?
+PATIENT: An MRI… That sounds… serious. And expensive. I’m on Medicare, will that cover it? And… what if it is something bad? I need to keep working. I have to. Do you think I’ll still be able to do my job? I don’t understand all these… medical things.
+DOCTOR: Medicare should cover the MRI, but you’ll need to check with your provider to confirm coverage and any potential co-pays. As for whether you can continue working, it's impossible to say definitively until we see the results of the MRI. The imaging will help us determine the extent of the problem and what treatment options are available. I understand your concern, but right now we need to focus on getting a diagnosis. If it's a simple issue, we can likely manage it with conservative treatment. If it’s more complex, we’ll discuss all your options, including potential specialist referrals. Now, I’ll get the MRI order sent to the radiology department. Do you have any other questions?
+PATIENT: No. I think… that’s all. Just… get the order sent quickly, if you could. I need to know what’s going on, and I need to get back to work. Thank you. I think. Just… hurry.
+DOCTOR: Alright. Here’s your order for the MRI, and a prescription for the medication. The radiology department will contact you to schedule an appointment. Please follow up with me after you’ve had the MRI so we can discuss the results. I understand your need to get back to work, but it's important to prioritize your health. You can get dressed now. Have a good day. .
+PATIENT: .

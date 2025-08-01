@@ -1,0 +1,19 @@
+DOCTOR: Good morning, Mr. Secondi. I am Dr. Yackey. Now, to be efficient, could you tell me in your own words why you’ve come in today?
+PATIENT: Good morning, Doctor. Yes, um, my pee. It's… orange. Not all the time, but it's been happening for, like, a few days now. It worries me a little.
+DOCTOR: Orange urine, you say. Yes. It’s… not uncommon. Though, rarely serious, it can be indicative of a number of things. Before we jump to conclusions, let's gather some more information. How much fluid are you typically drinking in a day, Mr. Secondi?
+PATIENT: Hmm. That’s good to know it’s not always bad. I drink… maybe two liters of water a day? Sometimes less if I'm busy with work. I have a big bottle, and I try to finish it, but… not always. Does that make sense?
+DOCTOR: Two liters. Adequate, but we'll explore that further. And what exactly do you mean by “orange”?
+PATIENT: Like… the color of orange juice, but not so bright. More… faded? Like, a light orange. Sometimes it's more yellow, but with orange in it. It's hard to explain, Doctor. It's not dark orange, if that helps.
+DOCTOR: Yes, “faded” is… helpful, I suppose. And when you urinate, do you experience any pain or burning?
+PATIENT: No, no pain. Nothing like that. It just… looks wrong. It doesn't feel wrong, if you know what I mean? It's just the color. Everything else is normal, I think.
+DOCTOR: Alright. And have you noticed any changes in your bowel movements?
+PATIENT: Changes… hmm. Not really, no. Everything is… regular, I guess. Maybe a little bit softer than usual, but I don't think it's a big deal. Is that something to worry about?
+DOCTOR: "Softer than usual" can be… subjective, Mr. Secondi. Let’s move on. Any recent changes to your diet?
+PATIENT: Diet… not much. Same food, mostly. I eat a lot of couscous, some chicken, vegetables. Maybe more oranges lately? My wife bought a big bag. Could that be it?
+DOCTOR: Oranges, you say?
+PATIENT: Yes, Doctor. We have been eating a lot of oranges. My wife makes fresh juice sometimes, too. Is that what's causing it? It sounds silly now that I say it out loud. I didn't think about the oranges.
+DOCTOR: It is rather elementary, Mr. Secondi. Carotenoids, present in oranges and other fruits and vegetables, can cause orangish discoloration of the urine, particularly with increased intake. It's harmless. However, we must be thorough. Any fever, chills, nausea or vomiting accompanying this… discoloration?
+PATIENT: No, no fever. No chills. And no, I haven’t been sick to my stomach or anything. Everything else feels normal. Just the pee, Doctor. It’s just… orange sometimes. It's good to hear it's probably nothing serious, though.
+DOCTOR: Very well. It appears to be benign, as I suspected. Hydrate adequately, and it should resolve on its own. It's likely the oranges. Do you have any other concerns I should address, or can we consider this matter closed?
+PATIENT: No, I think that's everything. Thank you, Doctor. I was really worried about it, but I'm glad it's just the oranges. I'll drink more water, for sure. Thank you again.
+DOCTOR: Yes, well, take care, Mr. Secondi. And perhaps monitor your fruit intake. That is all.

@@ -1,0 +1,30 @@
+DOCTOR: Well, hello Emileigh. I'm Dr. Batara. So, tell me, what brings you in today?
+PATIENT: Um, hi Doctor. It's… a check-up, I think? We just moved here, and I need to get things set up with a doctor. I have Medicare. I don’t really… remember what they said I needed to do when we got here. It was a lot.
+DOCTOR: A general check-up, right. New to the area. Medicare is fine. It is a lot, all the paperwork. Alright. Let's start with the basics. Have you been feeling generally healthy?
+PATIENT: Yeah, I think so. Nothing major. I get tired sometimes, but… I work a lot with machines, so that could be it. I fix things. I don’t… get sick often, I don’t think. It’s hard to remember, honestly.
+DOCTOR: “Fix things,” you say?
+PATIENT: Yeah! I’m a… a mechanic, kinda? Like, with engines and stuff. And robots sometimes. It’s… a job. I go to work, and I make things work again. It’s good work, usually. Is that… is that what you needed to know? I’m not very good at talking about myself, sorry.
+DOCTOR: No, no. It's… helpful to know what you do. Physical work can certainly contribute to fatigue. We'll get there. Let's try this. Have you had any specific complaints recently?
+PATIENT: Hmm… not really. My back gets a little sore, sometimes, from bending over the machines. But I just… rest it. And my hands get… achey. But that’s… kinda normal, right? From using tools all day? I don’t know if that’s something to worry about.
+DOCTOR: Sore back and achy hands. Occupational, you think?
+PATIENT: Yeah, I think so. It’s just… I’ve been doing it for a while. My husband says I should probably get it checked out, but… I just figured it was part of the job. He worries a lot. It’s not bad bad, just… uncomfortable sometimes.
+DOCTOR: Well, it's always good to be thorough. We’ll take a look. Have you noticed any numbness or tingling in your hands or arms?
+PATIENT: Numbness… sometimes. Not all the time. Like, when I’m really tired, or if I’ve been working on something for a long time. It’s… hard to explain. It’s not like, completely numb, just… kinda… funny. And it goes away. Is that… a problem? I really don't know much about this stuff.
+DOCTOR: “Funny?
+PATIENT: Like… weird. Not ha-ha funny, just… not normal. Like pins and needles, kinda. It’s hard to describe. It happens in my fingers mostly. And sometimes it goes up my arm a little. I don’t… I don’t know if that makes sense. It's probably nothing.
+DOCTOR: Right. Pins and needles. That's… relevant. And you said it's worse with fatigue. Alright. Let's do a quick physical exam, just to get a baseline. Can you stand up for me?
+PATIENT: Okay. Just… give me a second. My knees aren’t what they used to be. Is there… a chair nearby, just in case?
+DOCTOR: Yes, you can sit on the table if you prefer. Let’s start with your reflexes. I’m going to tap on your knees and ankles. It’s nothing painful, just a quick test.
+PATIENT: Okay… That sounds… okay. Just… be gentle, please? My husband says I bruise easily. I’m not very good with… doctors. I don’t like hospitals.
+DOCTOR: Diminished reflexes. And there. Diminished Achilles reflexes as well. Do you have any history of diabetes?
+PATIENT: Diabetes? Um… I don’t think so. My mom had… something with her sugar, I think? But I don’t think I do. I eat… okay. I mean, I like sweets, but… not too much. Is that… is that bad? What does that mean? My husband will be worried if I say I don't know.
+DOCTOR: Your mother's history is… noted. Diminished reflexes can be a sign of peripheral neuropathy, which can be caused by a number of things, including diabetes. We'll need to run some blood tests, just to be certain. Also, a nerve conduction study might be necessary to assess the extent of any nerve damage. It's important to rule things out.
+PATIENT: Blood tests… and a… nerve thing? That sounds… scary. My husband… he always worries about everything. Is it… is it serious? What if it is something bad? I just wanted a check-up…
+DOCTOR: It’s not necessarily serious. It’s simply precautionary. We’re being thorough. Many things can cause diminished reflexes. But it's better to know what we're dealing with. I'm ordering a comprehensive metabolic panel, a lipid panel, and a complete blood count. And I’m going to refer you to a neurologist for a nerve conduction study. Do you have any allergies to medications?
+PATIENT: Medications… Um… I don’t think so. I haven’t really… taken much. Maybe penicillin, when I was a kid? But I don’t remember being… allergic. My husband handles most of that stuff. Is the nerve thing… painful? I really don’t like needles.
+DOCTOR: Penicillin is noted. The nerve conduction study… it can be mildly uncomfortable. It involves small electrodes placed on your skin, and a small electrical current is used to stimulate the nerves. It's not a pleasant sensation, but it's brief. It's far more important to determine the cause of your symptoms. I'm also going to order an X-ray of your cervical spine, just to rule out any structural issues. Do you smoke, or drink alcohol?
+PATIENT: Smoke… no. Never. My mom smoked, and… it wasn’t good. Alcohol… just a little wine sometimes, with dinner. Not much. Maybe a glass, two glasses, on a weekend. My husband drinks more than me. Is… is there anything else I need to know? This is… a lot. I just wanted to get my check-up done, and now there’s blood tests, and nerves, and… spine pictures.
+DOCTOR: Right. Minimal alcohol use, noted. Look, you came in for a check-up, and we are being thorough. It's better to identify potential problems early on. I’m also going to order a vitamin B12 level. Diminished reflexes can sometimes be caused by a B12 deficiency. I’ll have the lab draw blood now. The neurologist will contact you to schedule the nerve conduction study and the X-ray. Do you understand?
+PATIENT: Yes… I think so. Blood tests, and the nerve thing, and… pictures. And the doctor will call me. It’s just… a lot to remember. My husband… he’ll help me. Is it okay if I… sit here for a minute? Before I go to the lab? I feel a little… dizzy.
+DOCTOR: Fine. Sit for a moment. But don't delay too long. The lab closes at five.
+PATIENT: .

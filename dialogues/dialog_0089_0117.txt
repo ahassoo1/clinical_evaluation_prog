@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Mr. Reyno. I'm Dr. Roseburrough. So, tell me, what brings you in to see me today?
+PATIENT: Uh, good mornin'. Just… a cough. Been coughin' up stuff. Not good stuff. Blood in it, I think. I smoke, you know. Always have. Don't remember exactly when it started, just… lately it's worse.
+DOCTOR: Okay, I understand. A cough, and you’ve noticed some blood when you cough, and you have a history of smoking. That's definitely something we need to look into. When you say "lately," can you give me a rough idea?
+PATIENT: Rough idea…? Hmm. Maybe… a month? Two months, maybe? Time kinda runs together. It’s been gettin' worse each week, I think. More blood each time. Not a lot, but… enough to worry me.
+DOCTOR: Alright, so roughly a month or two, progressively worsening with more blood each time. Okay. And is the blood bright red, dark red, or something else?
+PATIENT: Bright… or dark… I dunno, Doc. Red, I guess. Just… red. Not like… brown or nothin'. Just red when I spit it out. I ain't good with colors, never was.
+DOCTOR: Okay, bright red blood. And aside from the blood, what does the cough feel like?
+PATIENT: Feels… rough. Like somethin’ stuck in my chest. Hurts when I breathe deep. And it makes me tired. Real tired. Been sleepin' more, but still feel worn out.
+DOCTOR: Okay, so a rough cough, pain with deep breaths, and increased fatigue. Have you had any fever, chills, or night sweats with this?
+PATIENT: Fever… maybe? I get warm sometimes, but I dunno if it’s a fever. Could just be the weather. Ain't felt real cold or nothin’. Night sweats… maybe a little sweaty when I sleep, but I always sleep warm.
+DOCTOR: Alright. Let's talk about some other things then. Do you have any shortness of breath, or does the cough wake you up at night?
+PATIENT: Shortness of breath… not really. Gets harder walkin' up hills, maybe, but that's normal. Coughin’… yeah, wakes me up sometimes. Mostly just keeps my wife awake, though. She yells at me to go to the porch.
+DOCTOR: Okay, so some shortness of breath with exertion, cough waking you up at night. And have you noticed any weight loss recently?
+PATIENT: Weight loss… hmm. Hard to say. Clothes might be a little loose, but… I dunno. Could be the heat. I ain’t been eatin’ much, truth be told. Ain't got much of an appetite.
+DOCTOR: Okay, potential weight loss, decreased appetite. Now, let's go through some quick history questions. Do you have any other medical problems, like diabetes, heart trouble, or anything else?
+PATIENT: Uh… let me think. Doc, I mostly just try to ignore things. Ain’t been to a doctor in… a long time. I think… high blood pressure, maybe? The old doctor told me somethin’ about that years ago. But I stopped takin’ the pills. Made me feel funny.
+DOCTOR: Okay, high blood pressure in the past, but you stopped taking medication for it. Alright. Any surgeries or hospital stays?
+PATIENT: Surgeries… nope. Never had surgery. Hospital stays… when my boy was born, I guess. That was a long time ago. Other than that, nope. I mostly just stay home.
+DOCTOR: Okay, no surgeries or hospital stays. What about family history?
+PATIENT: Family history…? My dad smoked, and he got sick. Real sick. Lungs, I think. He passed a long time ago. Mom… she died old. Just… wore out, I guess.
+DOCTOR: Okay, your father had lung problems and passed away, and your mother died of old age. And do you drink alcohol or use any other tobacco products besides cigarettes?
+PATIENT: Just cigarettes, Doc. Always have. Maybe a beer now and then with the boys, but not much. Not anymore, really. Keeps me coughin' too much.
+DOCTOR: Alright. And finally, are you currently taking any medications, vitamins, or supplements?
+PATIENT: Nope. Not a thing. Like I said, don't like takin' pills. Makes me feel worse. Just try to get through the day, you know?
+DOCTOR: Okay, Mr. Reyno. That gives me a good starting point. I'd like to do a quick physical exam now. I'll listen to your lungs, check your heart, and take your blood pressure. Is that alright?
+PATIENT: Yeah, fine. Whatever you gotta do, Doc. Just… get it over with. I got things to do.
+DOCTOR: Okay, Mr. Reyno. Your blood pressure is a little high, and I hear some concerning sounds in your lungs – wheezing and crackles. We're going to need to get some further testing done. I want to order a chest X-ray and a sputum sample to look for any infection or other abnormalities. Does that sound okay?
+PATIENT: X-ray… sputum… sounds… complicated. Fine, whatever you think is best. Just… how long is this gonna take? I really need to get home.
+DOCTOR: It won’t be too long, Mr. Reyno. The X-ray should only take a few minutes, and the sputum sample just involves coughing into a cup. We can get those done right here in the clinic. While we wait for the results, I’m going to order some blood work to check your overall health. It’ll take a little longer to get those results back. Does that sound alright?
+PATIENT: Alright, alright. Just… get it done. As quick as you can. I… I don't like bein' in doctors' offices.
+DOCTOR: Okay, I understand. I'll get the orders in for the X-ray, sputum sample, and blood work right away. A nurse will come in shortly to take your blood and guide you to the X-ray room. In the meantime, do you have any questions for me?
+PATIENT: Questions…? Not really. Just… what’s gonna happen if it’s… bad?
+DOCTOR: That’s a fair question, Mr. Reyno. If the tests show something concerning, we’ll discuss all your options. It could be anything from an infection that needs antibiotics to something more serious. If it is more serious, we would discuss further testing with a specialist, like a pulmonologist, and talk about potential treatments like medication, therapy, or other interventions. We’ll take it one step at a time, okay?
+PATIENT: One step at a time… Yeah, alright. I… I guess that's all I can do. Just… don't wanna end up like my dad.
+DOCTOR: I understand completely, Mr. Reyno. We will do everything we can to get to the bottom of this and create a plan that's right for you. I'm going to step out and get the nurse started with the blood draw. She’ll be in shortly. If you need anything at all, please don’t hesitate to let the staff know. Okay?
+PATIENT: Alright. Just… hurry.

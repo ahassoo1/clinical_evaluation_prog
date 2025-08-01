@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Aslan. I am Dr. Blim. Now, let’s not waste any time. Please tell me, in as concise a manner as possible, what brings you in today?
+PATIENT: Morning, Dr. Blim. Well, I've just been getting the chills, on and off, for a couple of days now. It's a bit annoying, really. Not a fever, just…cold.
+DOCTOR: “Chills,” you say. And for how many days precisely?
+PATIENT: Hmm, let me think… I’d say about three days now? Maybe four? It started kinda subtle, I didn’t really pay much attention at first, honestly. It’s been more noticeable the last couple of days, though.
+DOCTOR: “Kinda subtle.” Right. And have you been monitoring your temperature at all?
+PATIENT: No, I haven’t. I don't really have a thermometer at home, to be honest. I just feel cold, you know? Not burning up or anything, just…shivering sometimes. Is that bad?
+DOCTOR: Well, relying on subjective feelings isn’t particularly helpful, Ms. Aslan. Do you have any other symptoms accompanying these… “chills”?
+PATIENT: Not really. I’ve been a little tired, maybe, but I always am a bit tired. No cough, no sore throat, no aches… Just the cold shivers and feeling a bit worn out. I did feel a little nauseous yesterday morning, but that passed pretty quickly.
+DOCTOR: Nausea… fleetingly. Very well. Let’s move on to your past medical history. Have you been diagnosed with any chronic illnesses?
+PATIENT: Nope, nothing chronic. I had the usual childhood stuff – chickenpox, measles, that sort of thing. Nothing serious ever, thankfully. I had a bad bout of the flu a couple of years ago, but that was it. Oh, and I had a really bad migraine last year, but that hasn't come back.
+DOCTOR: And any surgeries?
+PATIENT: Nope, no surgeries either. Never needed any. I'm pretty lucky, I guess. I broke my wrist when I was a kid, but that just needed a cast. Nothing major.
+DOCTOR: Family history?
+PATIENT: Um, okay. My mom has high blood pressure, and my dad had diabetes, but he managed it pretty well with diet and exercise. My grandma on my mom’s side had arthritis, I think. That’s all I can really think of right now, honestly. It's not something we talk about much.
+DOCTOR: Very well. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no, and definitely no. I don't smoke at all. I'll have a glass of wine with dinner sometimes, maybe once or twice a week, but that's it. And I've never touched drugs. I'm pretty healthy, generally. I eat well and try to get enough sleep, when I can.
+DOCTOR: Do you have any allergies to medications?
+PATIENT: Nope, not that I know of. I took some antibiotics for a sinus infection a few years back, and I didn't have any reaction to those. And I can take pretty much any painkiller without issue. I don't really like taking medication unless I have to, though.
+DOCTOR: Alright. Let’s have a quick listen to your lungs and take your temperature. It would be beneficial to actually confirm your subjective feelings with some objective data. Please lie down on the examination table.
+PATIENT: Okay, sure. Just let me know if you need me to do anything.
+DOCTOR: Lungs are clear, bilaterally. No noticeable tenderness. Temperature is… 98.6 Fahrenheit. Within normal limits. Your vitals are unremarkable. Honestly, Ms. Aslan, you're presenting with very vague symptoms. It’s likely a mild viral illness. Rest, fluids, and over-the-counter pain relievers if needed. That's my recommendation.
+PATIENT: Okay… so, it’s probably just a bug then? Is there anything I should be looking out for? Like, if it gets worse, or anything? I just didn't want to ignore it, you know? It’s just… been dragging me down a bit.
+DOCTOR: If you develop a high fever – over 101 Fahrenheit – shortness of breath, chest pain, or severe dehydration, then, then you should seek medical attention. But frankly, I suspect this will resolve on its own within a few days. I have other patients waiting, Ms. Aslan. Do you have any further questions?
+PATIENT: Oh. Okay, no, I think that's everything. Thank you, Dr. Blim. I appreciate you seeing me. I'll keep an eye on it, like you said.
+DOCTOR: Very well. Get well soon, Ms. Aslan.

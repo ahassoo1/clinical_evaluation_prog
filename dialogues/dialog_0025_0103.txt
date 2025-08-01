@@ -1,0 +1,32 @@
+DOCTOR: Well, Mr. Vankampen, good afternoon. I’m Dr. Fourney. So, tell me, what brings you in to see me today?
+PATIENT: Afternoon, Doctor. It’s my back, see? Low part of my back. Been botherin’ me for… oh, a good while now, I reckon. Not a sharp pain, more like a dull ache, always there. It gets worse when I stand too long, or bend over.
+DOCTOR: Hmm. A dull ache, you say?
+PATIENT: Yeah, that's right. Not like somethin' broke, nothin' sudden. Just… always there. Like a weight. And I’m a little stooped over now, you see? Not much, but my daughter, she pointed it out. Said I was gettin’ smaller.
+DOCTOR: Alright. And how long has this been going on, approximately?
+PATIENT: Oh, let me think… it started… maybe six months ago? Maybe a little longer. Hard to say exactly. It was just a little thing at first, I didn’t pay it much mind. Then it just… stayed. Didn’t get better, didn’t get much worse, just was.
+DOCTOR: Okay. And what makes it better, if anything?
+PATIENT: Well, sittin’ down helps. And lyin’ flat. Though, gettin’ up from lyin’ down… that’s the hard part. And warm baths, those feel good for a little bit. But it always comes back, you know?
+DOCTOR: Alright. Do you have any pain radiating down your legs?
+PATIENT: No, Doctor, not really. Sometimes a little tingle in my hips, but nothin' that goes all the way down my legs. It stays mostly in my lower back. Just… achey. Like a tired muscle, but it's not from workin' too hard. I mostly just… sit and talk these days.
+DOCTOR: And do you have any trouble with your bladder or bowels?
+PATIENT: No, no trouble there, thank goodness. Everything works just fine, praise the Lord. No, nothing like that.
+DOCTOR: Okay. Have you had any previous injuries to your back?
+PATIENT: Let me see… I fell off a ladder when I was younger, helpin’ my father with the roof. That was… oh, goodness, must be fifty years ago now. It hurt for a while, but I bounced back. Never had any trouble with it since… until now, I suppose. Nothing else, no. No car accidents or anything like that.
+DOCTOR: Alright. And do you have any family history of back problems?
+PATIENT: My mother, she had trouble with her back when she got older. Bent over a lot, always complainin’. And my brother, he had somethin’ with his spine, needed a doctor to look at it. But… that was a long time ago, and I don’t know exactly what it was. Just… back trouble.
+DOCTOR: Okay. Now, are you currently taking any medications?
+PATIENT: No, Doctor, nothin’ regular. Just a little somethin' for my blood pressure, when it gets high. But that's not every day, just when it spikes. And a little vitamin D, the doctor told me to take it, said I wasn't gettin' enough sun.
+DOCTOR: And do you have any allergies to medications?
+PATIENT: No, not that I know of. Never had a reaction to anything, praise the Lord. I can take most things, I think.
+DOCTOR: Alright, Mr. Vankampen. I’m going to need to do a quick physical exam now, if that's alright with you. I’ll need you to lie down on the examination table. We’ll start with your back, and I’ll check your reflexes and strength as well. Is that okay?
+PATIENT: Yes, Doctor, that’s fine. Whatever you need. I'll lie down. Just… go easy on me, alright? I'm a little creaky these days.
+DOCTOR: Of course, Mr. Vankampen. Take your time. Alright, let’s start with a look at your back. Could you point to me exactly where it hurts the most?
+PATIENT: Right here, Doctor. It’s kinda all over, but this is the worst of it. And it feels… deep. Not on the surface, down inside.
+DOCTOR: Okay. There is some tenderness here. And some muscle spasm. No obvious step-offs. Normal breath sounds. Okay, Mr. Vankampen. Bending forward… some limited range of motion and reports of pain. Lateral bending… also limited. Extension… some discomfort. No radiating pain with straight leg raise. Reflexes are 2+ bilaterally. And strength is 5/5 in all major muscle groups. Okay. It appears we're dealing with some lower back strain, likely chronic. The spasm is contributing to the discomfort. We'll need some imaging just to rule out anything more serious, like a fracture or nerve compression.
+PATIENT: Imaging? Like an X-ray? Is it somethin’ serious, Doctor? I don't like thinkin' about broken bones.
+DOCTOR: Now, Mr. Vankampen, let’s not get ahead of ourselves. Imaging is simply a precaution. X-rays will help us visualize the bones and rule out any structural issues. It doesn't necessarily mean something is wrong, it just allows us to be thorough. Given your age and the persistent nature of the pain, it's standard procedure. We’ll schedule an X-ray of your lumbar spine. In the meantime, I’m going to recommend some conservative treatment. We’ll start with over-the-counter pain relievers – ibuprofen or naproxen, as directed on the label. Heat or ice packs can also help manage the pain. And I want you to focus on gentle stretching and low-impact exercise, like walking. No heavy lifting or bending for now. Does that sound reasonable?
+PATIENT: Yeah, that sounds… alright. No heavy liftin', I can do that. I mostly just sit around these days anyway. Ibuprofen… I think my daughter has some. And heat… I like a warm bath. Gentle stretchin’… I’ll try. But… if the X-ray does show somethin’… what then, Doctor?
+DOCTOR: Mr. Vankampen, let’s not borrow trouble. If the X-ray does reveal a problem, we’ll discuss the findings and determine the best course of action. It could be something as simple as arthritis, or, rarely, a more significant issue. If that’s the case, we may need to consult with a specialist – an orthopedist or a neurosurgeon. But let’s get the X-ray done first, and then we can formulate a plan. I’m going to write you a referral for the X-ray, and I’ll have the nurse schedule it for you. I’ll also give you a handout with some basic exercises and pain management tips. Do you have any other questions for me at this time?
+PATIENT: No, I think that’s all for now, Doctor. Thank you for lookin’ at me. I’ll try the ibuprofen and the warm baths. And try not to worry too much. It’s just… gets tiresome, always achin’.
+DOCTOR: Alright, Mr. Vankampen. I understand. We’ll take it one step at a time. The nurse will be in shortly with the referral and the handout. If the pain worsens significantly, or you experience any numbness or weakness in your legs, please don’t hesitate to call the office. Have a good day.
+PATIENT: Thank you, Doctor. You too.

@@ -1,0 +1,19 @@
+DOCTOR: Alright, Mr. Seconci, have a seat. So, what brings you in today?
+PATIENT: Uh, hello Doctor. It’s… my pee. It’s orange. I noticed it yesterday. A little bit scared, to be honest. Never seen that before.
+DOCTOR: Orange, you say?
+PATIENT: Yes. Like… the color of an orange. Not dark, not light. Just… orange. I drink water, normal amount I think. Maybe a little less when it’s hot, but… yeah. Is that bad?
+DOCTOR: Well, it could be a number of things. Sometimes dehydration can cause that, though you say you drink a normal amount. Have you noticed any pain when you urinate?
+PATIENT: No, no pain. Not at all. Everything feels… normal, except the color. I don’t… I don’t know what could be causing it. I eat normal food, you know? Moroccan food, mostly. Couscous, tagine… sometimes spicy. Could that be it?
+DOCTOR: Spicy food… unlikely, but not impossible. It can sometimes irritate things. Are you experiencing any nausea, vomiting, or abdominal pain?
+PATIENT: No, Doctor. No sickness. My stomach is okay. No pain anywhere, really. Just… worried about the orange pee. I work with machines all day, maybe something I touched? I don’t know. I wash my hands a lot though.
+DOCTOR: Right. Well, let’s take a look at your chart… You haven't had a physical in… a while. And no recent blood work. We’ll need to rule things out. I'm going to order a urinalysis, and a basic metabolic panel. Just to be safe.
+PATIENT: Okay. That sounds… good. A test is good. What does that mean, exactly? The… the things you said? Is it serious? I just want to know if I need to worry.
+DOCTOR: Look, Mr. Seconci, I'm not going to scare you. Orange urine can be benign – a temporary thing. But it can also indicate something more. The urinalysis will check for infection, blood, and other abnormalities in your urine. The metabolic panel… that looks at your kidney function, liver function, and electrolyte balance. It’s standard procedure when something unusual is present. We need the results to know what we’re dealing with. I'll have the nurse draw blood and collect a sample. It’s better to be thorough.
+PATIENT: Okay. I understand. Better to be safe. Blood work and… pee test. Nurse, you said? Should I… drink water before the pee test? A lot of water? I will do that. Thank you, Doctor.
+DOCTOR: Yes, drink a normal amount of water. Don’t overdo it. And the nurse will be in shortly to get you started. Don't worry too much, Mr. Seconci. These things usually aren’t serious.
+PATIENT: Okay. Thank you. I will wait for the nurse then. Hopefully it's nothing bad. I have work tomorrow. I need to fix a big machine. Important machine.
+DOCTOR: Right. Well, let's get those tests done first, then we'll discuss everything. The nurse will be with you momentarily.
+PATIENT: Okay. Yes. I will wait. Thank you, Doctor. I think I will just… sit here quietly.
+DOCTOR: Alright. Just let me know if you need anything.
+PATIENT: Okay. I hope it’s not too long. I don’t like hospitals. .
+DOCTOR: .

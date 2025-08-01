@@ -1,0 +1,46 @@
+DOCTOR: Good morning, Mr. McKinnon. My name is Dr. Soodeen. It’s good to meet you. Could you tell me what brings you in to see me today?
+PATIENT: Good morning, Doctor. Thanks for seeing me. It’s… well, it's my muscles. They just feel weak. It’s been going on for a little while now, and it’s starting to get annoying. I’m Edric, by the way.
+DOCTOR: Yes, good to meet you as well, Edric. Weakness… alright. And how long is “a little while now”?
+PATIENT: Hmm… let me think. Probably… about three months, give or take a week? It started gradually, you know? I didn’t really pay it much mind at first, thought I was just tired from work. But it hasn't gotten better, and it's actually getting worse, especially when I lift things.
+DOCTOR: Three months… okay. And can you describe the weakness for me?
+PATIENT: Describe it… that’s a good question. It’s not painful, exactly. It’s just… harder to do things. Like, carrying groceries feels heavier than it should. And I noticed it when I was helping my neighbor move a box the other day – my arms just felt like jelly. It’s… all over, I guess? Not one specific muscle, just… generally weaker.
+DOCTOR: All over… and has this weakness been affecting any specific activities of daily living?
+PATIENT: Daily living… yeah, a little. I work as an insurance appraiser, auto damage, so I’m always bending, reaching, looking under cars. It's getting harder to get up and down, and sometimes I drop things. Not constantly, but enough to be frustrating. I used to be able to work a full day no problem, now I need to take more breaks.
+DOCTOR: Alright. And have you noticed any other symptoms along with the weakness?
+PATIENT: Other symptoms… let me think. No, not really. I’ve been a bit more tired than usual, but I figured that was just from work stress. No fever, no pain, no numbness, no tingling… nothing that I can think of. Oh! Wait. My hands have been a little shaky sometimes. Not a constant tremor, just… occasionally.
+DOCTOR: Okay, hand shakiness. Is that associated with any particular activity, or does it happen at rest as well?
+PATIENT: Mostly when I’m trying to do something precise, like writing or… holding a phone steady. It’s not terrible, but noticeable. It doesn't happen when I'm just sitting there, relaxing.
+DOCTOR: Alright. Now, I’m going to ask you a few questions about your medical history, if you don’t mind. Have you been diagnosed with any medical conditions in the past?
+PATIENT: No, not really. I had the flu a couple of times, the usual stuff, but nothing serious. Never been diagnosed with anything long-term. I had a bad sprain in my ankle years ago, but that healed up fine.
+DOCTOR: Okay. Any surgeries or hospitalizations?
+PATIENT: Nope. Never had any surgeries. And haven’t been in the hospital since I was a kid – a bad case of pneumonia, I think. But that was a long time ago. No major health scares, thankfully.
+DOCTOR: And what about your family?
+PATIENT: Family… hmm. My dad had high blood pressure, and my mom had arthritis. She had a lot of trouble with her hands towards the end. My older brother is perfectly healthy, as far as I know. Nothing else that springs to mind.
+DOCTOR: Do you currently take any medications, including over-the-counter medications or supplements?
+PATIENT: No, I don’t. I try to avoid taking anything if I can. I'll take an aspirin if I have a headache, but that's about it. No vitamins, no prescriptions, nothing. I prefer to just… tough things out.
+DOCTOR: Okay. And finally, do you have any allergies to medications, food, or anything else?
+PATIENT: No allergies that I know of. I’ve eaten everything, been stung by everything. Never had a reaction. I'm pretty lucky in that department, I guess.
+DOCTOR: Alright, thank you for that information. Now, I’d like to do a quick physical exam, if that’s alright. It will involve checking your reflexes, muscle strength, and coordination. Does that sound acceptable?
+PATIENT: Yes, that sounds fine. Whatever you need to do, Doctor. I just want to figure out what’s going on.
+DOCTOR: Excellent. If you could sit up on the examination table for me, please. We’ll start with your reflexes. Please let me know if anything is uncomfortable.
+PATIENT: Alright. Just let me know if I need to adjust anything.
+DOCTOR: Great. First, I'm going to check your reflexes in your arms and legs. This involves a quick tap with this hammer. It might be a little startling, but shouldn't be painful. Relax your arm, please. Okay. Good response there. Now, let's try the other side. Both patellar reflexes are 2+ bilaterally, within normal limits. Now, let's check your muscle strength. I’m going to ask you to resist as I push or pull your arms and legs. Again, this shouldn’t be painful. Can you squeeze my hands as hard as you can?
+PATIENT: Yes, I can do that. Is that enough? Just tell me if you need me to squeeze harder or anything.
+DOCTOR: Okay, good. 5 out of 5 on both sides. Now, I'd like you to push against my hands with your arms. Push against my hands, please. Don't push too hard if it causes any discomfort. Good. Now let's try your legs. Can you bend your knees against my resistance?
+PATIENT: Okay. Is that enough pressure? Just let me know if I need to push harder.
+DOCTOR: Okay. And now, can you lift your legs up, keeping them straight?
+PATIENT: Okay. Is that okay? I feel a bit of strain.
+DOCTOR: Okay. Alright, thank you. That was helpful. Now, I’d like to quickly check your coordination. Can you touch your finger to your nose and then to my finger?
+PATIENT: Yes, I can do that. Like this? I feel a little off-balance.
+DOCTOR: Yes, that’s perfect. Thank you. Now, let's try that with your eyes closed. Okay, close your eyes. Now, touch your finger to your nose and then to my finger.
+PATIENT: Whoa… that’s harder than I thought. I think I'm a little unsteady on my feet.
+DOCTOR: Okay, thank you. That was very helpful. It does seem like you have some mild coordination issues. Based on what you've told me and the brief exam, the weakness and shakiness, along with the mild coordination issues, are concerning. It could be a number of things, and I don’t want to jump to conclusions without further investigation. We need to rule out some potential causes. Do you have any history of falls or dizziness?
+PATIENT: No, no falls. And no dizziness, not really. I sometimes feel a little lightheaded if I stand up too fast, but that's happened on and off for years. It's never been anything serious. What… what could it be? Is it something bad?
+DOCTOR: It’s good that you've mentioned the lightheadedness. It could be related. There are a number of possibilities, ranging from vitamin deficiencies to neurological conditions. However, I don’t want to alarm you. It’s important to get to the bottom of it. I’d like to order some blood work to check your vitamin levels, electrolytes, and thyroid function. I also want to order a basic neurological assessment, which will involve some more in-depth tests to evaluate your reflexes, muscle strength, and coordination. Does that sound alright?
+PATIENT: Yes, that sounds… okay. Whatever you think is best, Doctor. I just want to know what’s going on and get it fixed. Blood work and the neurological assessment… that sounds good. When… when can we do the tests?
+DOCTOR: Excellent. I'll write you a referral for the blood work now. You can go to [Local Lab Name] – they're conveniently located at [Lab Address]. And I’ll schedule you for the neurological assessment with Dr. Ramirez, a neurologist I work with closely, for next week. How does Tuesday afternoon sound?
+PATIENT: Tuesday afternoon sounds… fine. Yes, that works. Okay, [Local Lab Name] and Dr. Ramirez… Got it. Is there anything else I need to do before then? Should I… stop lifting heavy things?
+DOCTOR: Yes, that’s a good question. Until we have the results of the tests, I would advise against any strenuous activity or lifting heavy objects. It's best to avoid any unnecessary strain. Also, please keep me updated if you experience any new symptoms or if your current symptoms worsen. We need to be aware of any changes. Here are some instructions on how to prepare for the blood work. And this is a summary of everything we discussed today, including the referral information. Do you have any questions for me before you leave?
+PATIENT: No, I think that covers everything. Thank you, Doctor. I really appreciate you taking the time to listen and figure out what’s going on. I’m still a little worried, but I feel better knowing we’re getting things checked out. I'll see you next week.
+DOCTOR: You’re very welcome, Mr. McKinnon. I understand your concerns, and we’ll work through this together. Don’t hesitate to call my office if you have any questions or concerns before your appointment next week. Here’s my card with the office number. Take care, and I’ll see you next Tuesday. .
+PATIENT: .

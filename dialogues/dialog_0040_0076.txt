@@ -1,0 +1,21 @@
+DOCTOR: Right. Mr. Aluia, is it?
+PATIENT: Yes, that's right. Clarke Aluia. But please, call me Clarke. Everyone does.
+DOCTOR: Alright, Clarke. Look, I’ve got a busy schedule today, so if we could just get straight to it… What brings you in?
+PATIENT: Oh, sure, no problem. It’s these bumps on my legs. They’re on my shins, and they really hurt. They’re red and… well, kinda hard. Been bothering me for a few weeks now. I thought they might just go away on their own, but they haven’t.
+DOCTOR: Weeks, you say?
+PATIENT: Yeah, maybe a little over a month now? Hard to say exactly, time flies when you’re… well, when you’re getting older, I guess! They started small, just little red spots, but they’ve gotten bigger and more painful. Especially when I'm walking around, you know? I do a lot of walking at work.
+DOCTOR: Right. And what do you do for work, Clarke?
+PATIENT: I work moving… things. Freight, mostly. At the warehouse. Lots of lifting and carrying, and being on my feet all day. It’s honest work. Been doing it for… a long time. Not as easy as it used to be, though!
+DOCTOR: Alright. And any other medical problems I should be aware of?
+PATIENT: Hmm… let me think. I’ve got a little bit of high blood pressure, the doctor told me a while back. I take a pill for it, usually keeps it okay. And my knees aren't what they used to be, but that's just old age, I figure. Nothing else really, not that I can remember. I have Medicare, if that matters.
+DOCTOR: Medicare… yes, of course. Let’s just see… Blood pressure. Alright. Any allergies to medications?
+PATIENT: No, not that I know of. Never had a bad reaction to anything the doctor gave me. I used to get a lot of shots when I was a kid, growing up, but never any problems. I think I’m pretty tough, honestly.
+DOCTOR: Right. Well, let’s have a look at these legs. Please, pull up your trousers a bit.
+PATIENT: Oh, sure, no problem. There they are. You can see 'em pretty good now. They're kinda itchy too, sometimes. Not all the time, but when I get warm.
+DOCTOR: Hmm. Yes, alright. Reddened… some small nodules. Looks like… likely shin splints, complicated by some possible dermatitis. You’re on your feet a lot, as you said. The itching suggests a mild skin irritation. Probably just from rubbing.
+PATIENT: Shin splints, huh? I've never heard of those. Is that… serious? And dermatitis… is that like a rash? I just thought they were just… bumps. What does that mean I gotta do about 'em?
+DOCTOR: It’s not serious, Mr. Aluia. It’s common in people who do a lot of walking or running. Shin splints are inflammation of the muscles and tendons around your shinbone. The dermatitis is just a fancy word for a skin irritation. I’m going to prescribe a topical steroid cream to help with the itching and inflammation. And I recommend you try to rest your legs when you can. Ice them for 20 minutes at a time, a few times a day. Over-the-counter pain relievers, like ibuprofen, should help with the pain. We'll see how you're doing in a month. Is that clear?
+PATIENT: Okay, okay, that… that makes sense, I think. Cream for the itching, rest, ice, and those pills. Ibuprofen, right? A month… and then I come back? What if it doesn't get better in a month? Should I call?
+DOCTOR: Yes, ibuprofen. And yes, if it doesn't improve in a month, then call. Honestly, Mr. Aluia, it's probably just a bit of overuse. Try not to worry so much. Here's the prescription for the cream. And try to wear better socks, something that wicks away moisture. Next patient.
+PATIENT: Okay, okay… thank you, Doctor. Moisture-wicking socks… I’ll have to ask my wife about that. She knows all about that kind of stuff. Thank you again, Doctor. .
+DOCTOR: .

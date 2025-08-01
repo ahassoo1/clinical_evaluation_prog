@@ -1,0 +1,31 @@
+DOCTOR: Right, yes. Mr. Shanor, is it?
+PATIENT: Yes, that's right. Shanor. Look, I got things to do, so if we can just... get this done, that'd be good. I need to know if I'm fit enough for this referee job.
+DOCTOR: A referee job. Alright. Well, "getting it done" requires some information from you, unfortunately. So, let's start with why you think you need to know if you're fit enough. Are you experiencing any symptoms?
+PATIENT: Symptoms? No, not really. I just... they want a check-up before I can do it. For insurance, I think. And… because it’s running around a lot. I don’t want to fall over, you know? My wife... she always said I pushed myself too hard. But that’s… never mind. So, just the check-up. To be sure.
+DOCTOR: Right, a preventative check-up. Fine. Let’s just run through some basics so I can… document things. Do you have any existing medical conditions?
+PATIENT: Uh... not that I know of. Nothing the doctors ever told me about, anyway. I had the flu a few times, like everyone. And… my back gets sore sometimes, from work. But that's just… work. Heavy lifting. Is that what you mean? A condition?
+DOCTOR: “Conditions” as in something requiring ongoing treatment or management. Okay. Any surgeries?
+PATIENT: No surgeries. Never had one. Not even for my teeth, really. Just… fillings. Small things. Nothing big. Look, is this going to take long? I really…
+DOCTOR: Alright, no surgeries. Good. Family history. Anything significant?
+PATIENT: Hmm... my father, he had high blood pressure, I think. And… my mother, she had… well, she just got old, you know? Things stopped working. Nothing specific. I don’t really… keep track of that stuff. Does that help?
+DOCTOR: High blood pressure in your father. Okay. And you?
+PATIENT: Me? I don’t know. I haven’t… been to a doctor in a long time. Since... well, since my wife passed. She always took care of all that. I feel okay, mostly. A little tired sometimes, but everyone is, right?
+DOCTOR: Right. Allergies?
+PATIENT: No allergies. I can eat anything. I like spicy food, actually. Really spicy. No problems with that. Nothing makes me… itch or swell up or anything.
+DOCTOR: Medications?
+PATIENT: No medications. Never taken anything regularly. Maybe pain pills once or twice for a bad back, but that was… a long time ago. Just over-the-counter stuff. Not a prescription. Is this all?
+DOCTOR: Alright. Social history. Do you smoke?
+PATIENT: No. Never smoked. My wife... she hated it. And… no. I don't drink much either. Maybe a beer with dinner sometimes, but that's it. Mostly water. Is that enough about that?
+DOCTOR: Okay. Last question, I suppose. Any recent injuries?
+PATIENT: No injuries. Not recently, anyway. I twisted my ankle a few years ago, but that healed up fine. Work stuff, mostly. Little scrapes and bruises. Nothing a bandage couldn't fix. Are we done?
+DOCTOR: Alright. Let’s do a quick physical exam then. Just to be thorough, of course. Please step onto the scale.
+PATIENT: Okay, fine. Just get it over with, alright? I got things to do.
+DOCTOR: 134 pounds. And your height is 174 centimeters, correct?
+PATIENT: Yes, that’s right. 174. Can we just... say if I'm good enough for this job, or what? I don't need to know my weight, I just need to know if I can do it.
+DOCTOR: Alright. Blood pressure is 128/76. Pulse is 72. Respiration rate is 16. Lungs are clear to auscultation bilaterally. Heart sounds regular. Abdomen soft, non-tender. Reflexes 2+ bilaterally. Overall, you appear to be in relatively good health. However… your Body Mass Index is slightly low.
+PATIENT: Slightly low? What does that mean? Is that bad? Look, I just need to be able to run around a basketball court. Does this low BMI thing mean I can't do that?
+DOCTOR: It means you might want to consider increasing your caloric intake and focusing on muscle mass. It's not an immediate emergency, but it could affect your stamina and increase your risk of injury. As for whether you can do the job... physically, there are no contraindications. But I would recommend you consult with a nutritionist to optimize your diet and strength training. Do you have any questions?
+PATIENT: Nutritionist? Strength training? Look, I'm a referee, not a bodybuilder! Can you just write a note saying I'm fit enough? I need to show this to the league. I don’t have time for all this other stuff. Is that possible? Just a simple note. Please.
+DOCTOR: Fine. Here. This states you have undergone a preliminary physical examination and are cleared for moderate physical activity. It does not constitute a comprehensive fitness assessment. I strongly recommend following up with a nutritionist and considering a strength training program, but that is your decision. Now, is there anything else?
+PATIENT: Okay, fine. Thank you. No. That’s it. Thank you for your time.
+DOCTOR: .

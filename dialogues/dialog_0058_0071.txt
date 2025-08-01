@@ -1,0 +1,11 @@
+DOCTOR: Alright, Mr. Skarbek. So, you’re here today… what brings you in?
+PATIENT: Yes, ma’am. Thank you for seeing me. It’s about… well, a friend of mine is wanting to come to the United States. She's not from here, and I believe she needs some… shots, and paperwork, to be able to do that. I’m trying to help her figure out what’s needed. I don’t want her to get here and have trouble.
+DOCTOR: Right. So you want me to help your friend immigrate?
+PATIENT: Oh, no, ma’am, not at all! I didn’t mean that. I just… I’m not sure where to start with finding out what vaccinations she needs, or what forms she has to fill out. I thought a doctor would know about that sort of thing, for when people come from other countries. I apologize if I explained that poorly. I’m just a bit lost, and want to be helpful.
+DOCTOR: Look, Mr. Skarbek, I’m a family medicine doctor. I treat patients. I don't handle immigration paperwork or provide pre-arrival checklists for… visitors. That’s not really within my scope of practice. You’d need to contact the CDC – the Centers for Disease Control – or the US Embassy in her country. They’ll have the information you’re looking for. Honestly, I’m not sure why you’d think I’d have that on hand. Do you have any actual medical concerns for yourself today?
+PATIENT: Oh, my. I see. I truly apologize for taking up your time, then. I just… I thought it might be something a doctor would know, especially with folks traveling now. I didn't mean to bother you with something outside of your practice. No, ma’am, I don’t have any medical concerns for myself today. Just trying to help my friend. Thank you for letting me know, though. I’ll try contacting those places you mentioned.
+DOCTOR: Right. Well, you’re welcome. And just so we're clear, I can’t really offer advice on matters outside of direct patient care. Have a good day, Mr. Skarbek.
+PATIENT: Yes, ma’am. I understand completely. Thank you again for your time. Have a good day to you as well.
+DOCTOR: You too.
+PATIENT: .
+DOCTOR: .

@@ -1,0 +1,26 @@
+DOCTOR: Right. Mr. Ferneding, yes?
+PATIENT: Yes, that’s me. Brendan Ferneding. Though most folks just call me Brendan. It’s good to meet you, Doctor… Memmolo, is it? Sorry, I always forget names right away. No offense meant at all.
+DOCTOR: Memmolo is fine. And don't worry about it, people forget. Now, Brendan, what brings you in today?
+PATIENT: Well, it’s this itching. It’s… everywhere, really. Started a couple weeks ago, just a little bit, and now it’s pretty constant. Not painful, just… incredibly annoying. I keep scratching, and my wife… well, she used to tell me to stop before I hurt myself. It's been a bit rough since she passed, honestly, and this just adds to it. Sorry, rambling a bit. The itching is the main thing.
+DOCTOR: Itching… for two weeks. And you said it’s… generalized?
+PATIENT: Generalized, yeah. Not just one spot. Arms, legs, back, even my chest a little. It’s not raised or anything, no bumps, just… red and irritated feeling. And really, really itchy. I tried some lotion, you know, the regular kind, but didn't seem to do much.
+DOCTOR: Lotion. Right. And any fever, chills, fatigue?
+PATIENT: No, nothing like that. No fever, no chills, and I’m… well, I’m usually pretty tired, to be honest, but that’s just… getting older, I guess. And, you know… Losing my wife took a lot out of me. But I haven't felt sick, if that makes sense. Just itchy and a bit… on edge, I suppose.
+DOCTOR: Alright. Any new soaps, detergents, or anything like that?
+PATIENT: Hmm… let me think. No, not really. I’ve been using the same stuff for years, honestly. Old habits, you know? My wife always bought the same brand. We didn’t really change things up much. I did start taking a new vitamin a couple of months back, a multi-vitamin, but that was before the itching started. I don't think it’s that, but I suppose it could be… I don't know.
+DOCTOR: And your past medical history?
+PATIENT: Not much, thankfully. High blood pressure, been on medication for that for about ten years now. And I had my appendix out when I was a kid, but that was ages ago. Otherwise, pretty healthy, all things considered. At least, I was healthy. Before all this. My wife always said I was a stubborn old goat and that’s why I stayed healthy - too grumpy to get sick.
+DOCTOR: High blood pressure. Alright. Any allergies to medications?
+PATIENT: No, not that I know of. I've never had a bad reaction to anything the doctors have given me. I take the blood pressure pills every day, no problems there. Though, I haven't had much need for other medications, thankfully. I'm not a big fan of taking pills if I can avoid it.
+DOCTOR: Alright. Let's take a look at the skin. If you don't mind.
+PATIENT: Not at all. Go right ahead. It’s probably easier to see on my back, I suppose. Though, fair warning, it’s not a pretty sight, I imagine. Just… red and irritated. Everywhere.
+DOCTOR: Yes… generalized erythema. No wheals or vesicles. Appears… excoriated. Hmm. Any recent travel?
+PATIENT: Travel? No, not recently. Haven’t left the city in… oh, goodness, must be five years now. Not much reason to, really. Used to travel with my wife, but… No, no travel. Stayed right here. Same apartment, same routine. Mostly. It’s been a quiet few years.
+DOCTOR: Alright. And what medications are you currently taking, specifically?
+PATIENT: Just the lisinopril, for the blood pressure. 20 milligrams, once a day. That's it. Unless you count the multi-vitamin, but that’s just a regular one, you know, the kind you get at the drugstore. I’m pretty good about taking my pills, it’s just… this itching is so frustrating. It’s driving me crazy.
+DOCTOR: Right. Lisinopril. Okay. We'll run some basic bloodwork, just to rule things out. Complete blood count, liver function tests, and a comprehensive metabolic panel. And perhaps a thyroid panel, to be thorough. Do you have any objections to that?
+PATIENT: No, no objections at all. Whatever you think is best, Doctor. Bloodwork sounds fine. I just want to figure out what’s causing this itching. It’s really starting to get to me. Whatever it takes. Just let me know when and where I need to go.
+DOCTOR: Alright. I'll send an order to the lab. They're downstairs. You can go anytime. The results usually take a couple of days. In the meantime, I'm going to prescribe a topical corticosteroid. It's a mild one, just to see if it helps with the inflammation and itching. And… try not to scratch. I know it’s hard. But it only makes things worse.
+PATIENT: Okay, that sounds good. Topical corticosteroid… I can handle that. And I’ll try my best not to scratch, I promise. It’s just… a hard habit to break. Downstairs, you said? To the lab? I’ll go right after this. Thank you, Doctor. I appreciate you looking into this.
+DOCTOR: Yes, downstairs. And you're welcome. We'll review the results when they come back. If the itching gets significantly worse before then, or you develop a fever, go to the emergency room. Next patient is waiting. That will be all.
+PATIENT: Okay, thank you again, Doctor. I understand. Emergency room if it gets worse. I’ll keep that in mind. Have a good day.

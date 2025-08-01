@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Christen. I'm Dr. Fourney. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, to be frank, I’ve been awfully thirsty lately. And…hungry. More than usual, I mean. It’s been going on for a few weeks now, and it’s…rather disruptive.
+DOCTOR: Disruptive, you say?
+PATIENT: Yes, disruptive. I find myself constantly reaching for water, and then shortly after needing to eat something. It’s…difficult to concentrate on work, if I’m being honest. I work in shipping and receiving, so needing to be sharp is…important.
+DOCTOR: Shipping and receiving… demanding work. And you say this has been going on for weeks?
+PATIENT: Yes, weeks. At least three, maybe four. I…I didn’t want to bother anyone if it was just…something I could fix myself, you understand? But it hasn’t gotten any better, and frankly, it’s a bit worrying now. I'm divorced, so there's no one at home to tell me I'm being silly.
+DOCTOR: Well, it’s good you finally came in. It’s never “silly” to address health concerns, but frankly, these symptoms are rather vague. Have you noticed anything else?
+PATIENT: Anything else… Hmm. Let me think. I suppose I’ve been going to the bathroom a bit more often, yes. Not…a terrible amount, but noticeably more. And…I feel tired, even after a full night’s sleep. It’s difficult to explain, just…lethargic, I suppose.
+DOCTOR: Lethargy and increased urination… Alright. Do you have any family history of…diabetes, or any kidney problems?
+PATIENT: Diabetes… I don't believe so, no. My mother had high blood pressure, if that matters. And my father… well, he wasn’t around much, so I don’t really know his medical history, to be honest. As for kidney problems, not that I’m aware of. I have private insurance, so I've had regular check-ups, but nothing specific ever came up.
+DOCTOR: High blood pressure in the family… Alright. And any allergies to medications?
+PATIENT: No, Doctor. Not that I know of. I haven't had much need for medication, thankfully. Just the occasional pain reliever for a headache, but nothing regular. I’ve never had a reaction to anything, as far as I recall.
+DOCTOR: Very well. Let’s take a look at your vitals and do a quick physical exam. It’s unlikely to be anything serious, but we need to rule things out. Roll up your sleeve. I’ll start with your blood pressure and then listen to your heart and lungs.
+PATIENT: Alright, yes, of course. Just as quickly as possible, if you wouldn't mind, Doctor. I have a rather busy day ahead of me.
+DOCTOR: Blood pressure is… elevated, 148/92. Heart sounds are normal, lungs are clear. Now, let's check your reflexes. Reflexes are normal. I'm going to palpate your abdomen now. Any tenderness here?
+PATIENT: No, Doctor, no tenderness that I notice. It's…firm, perhaps, but not painful. It's just…it's a bit uncomfortable being poked and prodded, if you don't mind my saying so. Is this going to take much longer?
+DOCTOR: We're nearly finished. Now, I'm going to order a complete blood count, a comprehensive metabolic panel, and a urinalysis. These will give us a better idea of what's going on. I suspect it's simply stress and dehydration, but we need to rule out other possibilities. It's best to be thorough.
+PATIENT: Yes, of course. Thorough is good. When can I expect the results, Doctor? And…will I need to come back for another appointment? I really would prefer to avoid multiple trips if possible.
+DOCTOR: The lab usually gets the results back within 24-48 hours. I’ll have my nurse call you with the findings. If anything significant comes up, we’ll schedule a follow-up appointment. But frankly, I doubt it will be necessary. In the meantime, try to drink more water and get some rest. Now, is there anything else I can help you with today?
+PATIENT: No, Doctor, that will be all. Thank you for your time. I appreciate you looking into this. Hopefully, it is just stress and dehydration, as you say. I should be going now, if that's alright.
+DOCTOR: Very well. My nurse will be in touch. Don't hesitate to call if your symptoms worsen. And try to manage your stress. .
+PATIENT: .

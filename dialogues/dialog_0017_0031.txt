@@ -1,0 +1,26 @@
+DOCTOR: Good afternoon, Miss Kreckel. I am Dr. Blim. Now, let’s not waste any time. What brings you in today?
+PATIENT: Good afternoon, Doctor. Well, my left leg is quite swollen. It’s been… bothering me. And I do have a bit of a heart problem, the doctors told me it’s called… atrial fib-ri-lation? Something like that. It’s the reason I’m here, I think.
+DOCTOR: Atrial fibrillation, yes. A common, yet… troublesome condition. And this swelling… when did you first notice it?
+PATIENT: Hmm. Let me think… it started maybe three days ago? It wasn’t much at first, just a little puffiness, really. But it’s gotten worse each day. It’s mostly in my calf, I’d say.
+DOCTOR: Three days. And has anything specific caused this swelling, to your knowledge?
+PATIENT: Oh, goodness. That’s a good question. Not that I know of, no. I haven’t hurt it, I haven’t been walking more than usual… I’ve been mostly at home, working on my… computer things.
+DOCTOR: "Computer things?
+PATIENT: I… I teach computer science, Doctor. At the college. Postsecondary, they call it. I’m a teacher. It’s a bit of a desk job, really. Not much standing about.
+DOCTOR: Right. And do you experience any pain with this swelling?
+PATIENT: Not… terrible pain, no. It feels… heavy, mostly. And a little bit achy, if I’ve been sitting for a long time. But it’s not like a sharp pain, or anything. Just… uncomfortable.
+DOCTOR: Heavy and achy. Alright. And have you noticed any redness or warmth to the touch in that leg?
+PATIENT: Hmm… I haven’t really checked, to be honest. I just noticed it was bigger than my other leg. Should I have been checking that? I didn't know…
+DOCTOR: One would assume a patient presenting with a swollen extremity would take basic observational measures. Very well. Let’s have a look then. Please, extend your leg.
+PATIENT: Oh… right. Sorry. There you go, Doctor. It’s probably best if you do the checking, then. I’m not very good at… noticing things.
+DOCTOR: The leg is warmer than the right. And the edema is… significant. Dorsalis pedis pulse is present, but diminished. Have you had any recent injuries, even minor ones?
+PATIENT: No, Doctor. Nothing at all. I haven’t tripped or fallen, or bumped it on anything. I really haven’t. I spend most of my time sitting at my desk, as I said. Is that bad? Is something wrong?
+DOCTOR: It could be a number of things. Given your history of atrial fibrillation… and this unilateral swelling… we need to rule out a deep vein thrombosis, or DVT. Are you currently on any blood thinners for your arrhythmia?
+PATIENT: Oh dear. A… what was that? Deep vein… something? And blood thinners? No, Doctor, I’m not on anything at all. The doctors just said to… keep an eye on it. They didn’t give me any medicine. Is that… is that a problem? Should I have been taking something?
+DOCTOR: “Should have been taking something?
+PATIENT: Well, I just mean… if they knew about my heart, shouldn’t they have given me something to… prevent this? I don’t know much about hearts, Doctor. I just do computers. I teach them. That's all.
+DOCTOR: Alright. We’ll need to order a D-dimer and a venous ultrasound immediately. Do you have any allergies to contrast dye?
+PATIENT: Contrast… dye? Oh goodness. I… I don’t think so? I’ve never had anything like that before. I haven’t had many… medical things, to be honest. I don’t know if I’m allergic to anything, really. What is contrast dye? Is it something I’ll need to… remember?
+DOCTOR: It's a substance used in imaging, Miss Kreckel. The ultrasound itself doesn't require it, fortunately. I'm ordering blood work and the ultrasound now. You'll need to go to the lab downstairs. I will review the results as soon as they are available. In the meantime, I recommend you limit activity and elevate the leg. Do you understand?
+PATIENT: Yes, Doctor. I understand. Limit activity and… elevate the leg. And go to the lab downstairs. Is there anything else I should do? Or… anything I should not do? I don’t want to make it worse.
+DOCTOR: Do not delay. And, for future reference, Miss Kreckel, it is prudent to be proactive about your health. Ignoring symptoms rarely leads to favorable outcomes. Now, if you’ll excuse me, I have other patients waiting. The lab technician will provide further instructions. .
+PATIENT: Oh… right. Of course. Thank you, Doctor. I’ll go to the lab right away. .

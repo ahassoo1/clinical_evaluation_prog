@@ -1,0 +1,41 @@
+DOCTOR: Right. Good morning. Airam Fontanazza, is it?
+PATIENT: Yes. That’s me. I… think so. It’s a long name. My husband usually handles these things. Just here for… the talking, right? Like you said on the phone?
+DOCTOR: Yes, the talking. A consultation. Though I do more than just talk, of course. But let’s start with why you’re here today. What brought you in?
+PATIENT: Um… honestly? I don’t really remember why I made the appointment. Something about… learning? My husband said it was important to… know things. He worries a lot. It’s probably about… work. Sheet metal is… hard on the body, I guess. It’s always something.
+DOCTOR: Right. Well, that’s… helpful. Sheet metal, you say?
+PATIENT: Yes. For… buildings. And… other stuff. I cut it and… bend it. And… put it together. It's loud. Very loud. I wear earplugs, but still. My back gets… stiff. Sometimes. But everyone’s back is stiff, isn’t it?
+DOCTOR: Everyone's back isn't stiff, dear. It’s important to be specific. Let's start with this back stiffness. When did it start?
+PATIENT: Oh. Well… a long time ago, probably? I… I really don’t know. Years. It comes and goes. When I do a lot of… bending. Or lifting. Heavier pieces. It’s worse in the winter, maybe? Everything is worse in the winter.
+DOCTOR: Right. And does this stiffness radiate anywhere?
+PATIENT: Radiate? Like… heat? No, no heat. It just… hurts. Mostly in my lower back. Sometimes it feels… tight. Like a knot. But no, no heat. What does radiate even mean? My husband uses big words, too.
+DOCTOR: It means does the pain spread, dear. To your legs, perhaps?
+PATIENT: Oh! Spread. Yes, sometimes. Down my… legs. Not always. Just… when it’s really bad. It’s… tingly. And a little weak. But I just… rest. And it gets better. Usually.
+DOCTOR: And how long does this 'weakness' last?
+PATIENT: Not long. A day, maybe? Sometimes just a few hours. It’s… not like I can’t walk. I go to work every day. I just… don't want to fall. The floor is slippery sometimes. You know? A lot of metal shavings. It’s a messy job.
+DOCTOR: And does anything specifically trigger this pain?
+PATIENT: Well… lifting heavy sheets, definitely. And bending for a long time. And… if I twist while I’m lifting. My husband always tells me not to twist. But sometimes you just… have to. You know? It's hard to explain. Like reaching for something that’s just a little too far. It’s… work. Things happen at work.
+DOCTOR: Alright. And do you have any numbness?
+PATIENT: Numbness? Sometimes. In my… feet. Mostly at the end of the day. Like when they’re… tired. Like they’ve been standing too long. It goes away when I sit down. Is that… bad?
+DOCTOR: No, dear, it’s not necessarily “bad.” We just need to gather information. Now, let's talk about other medical issues... Do you have any history of diabetes?
+PATIENT: Diabetes? No. Not that I know of. My husband gets his blood checked every year. He worries about everything. I… I don’t think so. I eat a lot of rice, though. My mother always made a lot of rice.
+DOCTOR: Right. Any history of high blood pressure or heart problems in your family?
+PATIENT: Um… my grandfather, maybe? On my mother's side. He… he got sick. A long time ago. I don’t know what kind of sick. My mother didn’t talk about it much. She just said he… wasn't strong. Is that… helpful?
+DOCTOR: Not particularly, dear. Let's move on to medications. Are you currently taking any medications?
+PATIENT: No. Nothing. I don't like taking pills. They make me… sleepy. My husband tries to get me to take vitamins sometimes, but I forget. He buys them every month and they just… sit there. I don’t need pills. I just need to rest.
+DOCTOR: Alright. And any allergies to medications, food, or anything else?
+PATIENT: No. Not that I know of. I eat everything. Well, except for… durian. I don’t like durian. It smells… bad. But that’s not an allergy. Is that what you mean? Like, something that makes you… sick? No. Nothing like that.
+DOCTOR: Right. Well, let's do a quick physical examination. If you wouldn’t mind.
+PATIENT: Oh. Do I have to take my clothes off? My husband said I shouldn’t let strangers… look at me. But you’re a doctor. What kind of examination? Just… looking? Please don’t make me lie down. I get dizzy.
+DOCTOR: No, dear, you do not have to take your clothes off. Just a basic examination of your back and legs. We’ll check your reflexes, your range of motion, and feel for any tenderness. You can remain seated for most of it. Please just relax. Now, if you'll just lean forward slightly…
+PATIENT: Okay. But don’t push too hard. My back… it’s sensitive. And… be gentle, please. My husband would be very upset if something happened. Just tell me what you’re doing, okay? So I don’t… get startled.
+DOCTOR: Hmm. Tenderness present upon palpation of the lumbar spine, particularly on the left side. And there’s some muscle spasm. Now, if you'll just lift your left leg straight up... Limited range of motion.
+PATIENT: Ouch! That hurts. See? I told you it was sensitive. Don’t push. Please. It’s just… work. It always hurts after a long day.
+DOCTOR: Patellar and Achilles reflexes are diminished bilaterally. And some mild edema in the lower extremities. Now, if you'll just stand up…if you can.
+PATIENT: Oh! Careful! It’s… dizzy. See? I told you I get dizzy. Please… just let me sit down. I think… I need a minute. This isn't helpful. My husband is going to be so angry.
+DOCTOR: Alright, dear. Sit. Based on my examination and what you've told me, it appears you're suffering from chronic lumbar strain, likely exacerbated by your occupation. There's evidence of mild nerve impingement. We'll start with conservative management. Physical therapy is recommended. And I’m prescribing a muscle relaxant.
+PATIENT: Physical… therapy? What’s that? And… a pill? I don’t like pills. Will it make me sleepy? And what about the nerve… thing? Is it serious? My husband always worries about… serious things. Is this going to cost a lot of money? We don’t have… extra money.
+DOCTOR: Physical therapy involves exercises to strengthen your core and improve your posture. It will not make you sleepy. The muscle relaxant is to alleviate the acute pain. The nerve impingement is mild, but left untreated it could worsen. It’s not immediately serious, but it requires attention. As for the cost… I will have the billing department contact you with an itemized statement. I can’t quote you a price. I also recommend ergonomic adjustments at your workplace. And frankly, you need to be more careful with lifting. Do you have any other questions?
+PATIENT: Ergonomic… what? And… adjustments? I work with metal, not… furniture. My husband will have to talk to the boss. He handles these things. And… will I need to take time off work? We can’t afford for me to not work. And what if the pill doesn’t work? What if it makes everything worse? I just want it to stop hurting. Is that too much to ask?
+DOCTOR: Ergonomic adjustments mean modifying your work setup to reduce strain on your body. I'll give you this pamphlet. It explains it better. As for the medication, it’s a standard muscle relaxant. If it doesn’t alleviate the pain, we can discuss other options. But let's start with this. Look, dear, I've done my assessment. You need to be proactive. Take the medication, follow the physical therapy regimen, and advocate for changes at your workplace. I can't make you feel better. Do you have any further questions for me?
+PATIENT: I… I don’t know. My husband will probably have all the questions. He always does. Will the pain go away? Will I be able to go back to work? Without falling down? And… is there anything I can do right now to make it stop hurting? Besides taking a pill? .
+DOCTOR: You can apply ice to your lower back. And rest. I’ve given you the necessary instructions. If the pain worsens, or you develop numbness or weakness in your legs, go to the emergency room immediately. Here’s my card. The billing department will contact you to schedule a follow-up appointment. Have a good day. .

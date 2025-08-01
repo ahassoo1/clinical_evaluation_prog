@@ -1,0 +1,20 @@
+DOCTOR: Alright, Mr. Heindel. So, tell me, what brings you in today?
+PATIENT: Um, hi Doctor. Well, to be honest, I just… kinda wanted to check things out. I ain't really sick sick. Just figured it was a good time to see if everything's okay, you know? Been a while since I had a check-up.
+DOCTOR: Right. Preventative care. Well, that's… something. Though, frankly, wasting my time on perfectly healthy individuals isn’t ideal. Still. You haven't been experiencing any symptoms at all?
+PATIENT: Woah, hold on a sec. "Wasting your time?" That don't sound too nice, Doctor. I am here, ain't I? And I thought doctors liked people checkin' things out before somethin' does go wrong. But, uh, no. No real symptoms. Maybe just a little tired sometimes, but I work on boats all day. That's kinda normal, right? Lifting stuff, bein' in the sun… you know. Nothin' I can't handle.
+DOCTOR: Of course. Perfectly understandable. Though, attributing every ache and pain to your… strenuous occupation is a common misdiagnosis people make. Alright. Let’s get this over with. Have you had any recent illnesses?
+PATIENT: Recent illnesses? Hmm… let me think. Last time I was really sick, I had a bad cold, maybe… last winter? Just a regular cold, sniffles, cough, that kinda thing. Didn’t even go to the doctor for it. Just stayed home and drank a lot of tea. Before that… can't really remember nothin' major. Why you askin'? Is somethin' wrong?
+DOCTOR: I'm simply compiling a medical history, Mr. Heindel. It's… standard procedure. Any surgeries?
+PATIENT: Surgeries… nope. Never had any. Not even tonsils out or nothin'. Always been pretty lucky, I guess. Both my parents are still around, and they haven't had too many problems either, if that matters. They always said good genes were the key.
+DOCTOR: Good genes. Fascinating. And you haven’t been prescribed any medications regularly?
+PATIENT: Nope. Never been on any pills or nothin' like that. Just over-the-counter stuff when I get a headache, you know, like ibuprofen. But that’s it. I try to stay away from meds if I can. They always make me feel kinda weird. Is this gonna take long, Doctor? I got a shift startin' later this evenin'.
+DOCTOR: Alright, let’s move on. Any allergies to anything?
+PATIENT: Uh, not that I know of. Never reacted bad to any food or anything. I'm pretty good with everything, honestly. Sometimes my skin gets a little itchy when I'm around cats, but I don't think that's a real allergy, just… sensitive skin maybe? My ex-wife had a bunch of cats. Maybe that's why.
+DOCTOR: Right. And… social history?
+PATIENT: Social history? What does that even mean, Doctor? Like, what do I like to do for fun? Well, I like workin' on boats, even though it's hard. I spend time with my friends sometimes, watchin' sports. Not much else, really. I'm divorced, like it says on the paper. That was… a while ago. Still try to keep things simple. Does that count?
+DOCTOR: Do you smoke?
+PATIENT: No, ma'am. Never touched a cigarette in my life. My daddy smoked when I was a kid, and it smelled awful. Made him cough all the time. Definitely not interested in that. I do have a beer sometimes with my buddies after work, but that's it. Nothing crazy. You seem kinda stressed, Doctor. Is everything alright?
+DOCTOR: I am perfectly fine, Mr. Heindel. Let’s just finish this questionnaire. Now, do you engage in any recreational drug use?
+PATIENT: Whoa, hold on now! Are you… accusin' me of somethin'? I ain't no drug user, Doc. Never have been, never will be. That's a pretty rude question, if you ask me. I just came in for a check-up! This is gettin' kinda weird. I think I wanna talk to somebody else.
+DOCTOR: Alright, fine. Let’s move on to a physical exam, then. Perhaps a quick assessment will put your mind at ease. Lie down on the examination table, please.
+PATIENT: Uh… okay. But I still think these questions were outta line. And… what kind of exam are we talkin' about? Like, is this gonna involve… you know? I'm not really comfortable with… that kinda stuff yet. Just tell me what you're gonna do, okay? .

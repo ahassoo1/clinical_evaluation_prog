@@ -1,0 +1,23 @@
+DOCTOR: "Bula vinaka, Thyra. I'm Dr. Kimm. It's nice to meet you. So, what brings you in to see me today?
+PATIENT: "Hi Dr. Kimm, it's good to meet you too. Just need to get some forms filled out, that's all. Medicare sent me over, said I needed to do this to keep everything up to date."
+DOCTOR: “Okay, that’s perfectly alright. It sounds like this is mainly an administrative visit, then. We do need to update things regularly for Medicare, so thank you for coming in. I'll be here to answer any questions you have while you fill those out, but feel free to take your time. Before we dive into those forms though, just so I have a full picture, is there anything medically I can help you with today?
+PATIENT: “Oh, okay, good. No, nothing medical, just the paperwork. I’m feeling alright, thank you for asking. My husband keeps telling me I need to get these things done, so here I am!”
+DOCTOR: “That’s wonderful to hear you’re feeling well! Husbands are good at that, aren’t they?
+PATIENT: “They sure are. Always reminding me of stuff I forget to do… not that I always forget, mind you!”
+DOCTOR: “ It’s easy to let things slip our minds sometimes. No worries at all. Well, let's get these forms sorted then. I see here it asks for your current medications – are you taking anything at the moment, even over-the-counter things like vitamins or pain relievers?
+PATIENT: “Hmm, let me think… Just a daily multivitamin, that's about it. And sometimes ibuprofen for a headache, but not regularly, maybe once a month if that. Nothing else, I don’t think.”
+DOCTOR: “Okay, a multivitamin and occasional ibuprofen – good to know. Do you have any allergies to medications, food, or anything else like that?
+PATIENT: “Nope, not that I’m aware of. Never had a reaction to anything, thankfully. My mom always said I had a strong stomach, haha.”
+DOCTOR: “That’s excellent! A strong stomach is a good thing to have. Okay, and just quickly, have you had any major surgeries or been hospitalized for anything serious in the past?
+PATIENT: “Let me think… Oh! When I was little, maybe eight years old, I had my tonsils out. That’s the only surgery I’ve ever had. And no serious hospital stays, thankfully. Just the usual flu stuff when I was a kid.”
+DOCTOR: “Okay, tonsillectomy as a child, and some childhood flu – that’s helpful to know. Now, just a quick family history question – are there any major health concerns that run in your family, like heart disease, diabetes, cancer, or anything else?
+PATIENT: “Hmm… My grandma on my mom’s side had diabetes, and my dad’s brother had heart problems, but that’s about all I can think of. Everyone else seems pretty healthy, knock on wood.”
+DOCTOR: “Okay, diabetes in your maternal grandmother and heart problems in your uncle - that’s good information to have. Just a few more questions, then we can finish up the paperwork. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: “No, no, and no. Never been much of a smoker or drinker, and definitely not into any of that other stuff. Husband doesn't drink much either, maybe a beer with the game now and then.”
+DOCTOR: “That’s great to hear! Okay, and finally, what do you do for work, and do you have any significant hobbies or activities that keep you busy?
+PATIENT: “I’m a control and valve installer and repairer, mostly commercial stuff. It keeps me pretty busy. And I like to bead, it’s relaxing after a long day. And spending time with my grandkids, that's the best hobby of all.”
+DOCTOR: “That sounds like a very skilled job! And beading and grandkids—those are wonderful ways to spend your time. Alright, I think we’ve got everything we need. Just sign and date these forms when you’re ready, and the receptionist will get everything processed for you. Is there anything at all I can help you with before you head out?
+PATIENT: “Sounds good, thank you Dr. Kimm. No, I think that’s everything. You’ve been very helpful. I appreciate you asking about everything so thoroughly.”
+DOCTOR: “You’re very welcome, Thyra. It’s my pleasure. I’m glad I could help. If anything comes up, or you do start feeling unwell, don't hesitate to give the clinic a call. Have a wonderful day, and enjoy spending time with your grandkids!”
+PATIENT: "Thank you, you too! I will. Have a good day!"
+DOCTOR: .

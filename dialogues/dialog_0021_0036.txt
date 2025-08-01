@@ -1,0 +1,33 @@
+DOCTOR: Alright, Kiwane. Have a seat. So, what brings you in today?
+PATIENT: Yes, thank you. I have… the papers. For the insurance. Before I get the insurance, I need to… check everything is okay, yes? It is a physical… the exam. Before.
+DOCTOR: Right. A pre-insurance physical. So, you want me to just… confirm everything's in working order before your coverage starts. Is that correct?
+PATIENT: Yes, exactly. It is… important. I do not want any surprises later, you understand? I need to know if there is… something wrong. Before the insurance company… says no. It is… logical, no?
+DOCTOR: Logical, yes, perfectly logical. We’ll do a thorough check. Now, are you currently experiencing any problems?
+PATIENT: Problems? No. Not… big problems. I feel… okay. A little tired, perhaps. But everyone is tired, yes? I work long hours. At the… food place. Processing. It is… not difficult work, but it is… long.
+DOCTOR: Right. Long hours. And this tiredness… is it new, or has it been ongoing?
+PATIENT: Ongoing. For… many months now. Since… the new manager started, perhaps. He wants… more work. Faster work. It is… how it is, I suppose. But I sleep. I eat. It is just… tiredness. Not… a sickness.
+DOCTOR: Okay. And besides the tiredness, anything else at all?
+PATIENT: No. Nothing. My back… sometimes aches. But I lift things, yes? It is normal. I am a strong man. It is… just my back. I do not worry about it.
+DOCTOR: Alright. Let’s just do a quick exam, just to get a baseline, alright?
+PATIENT: Yes, good. That is… what I want. The baseline. So you can see. I am… healthy. Mostly. Do you need me to… take something off? Shirt, perhaps?
+DOCTOR: No, no. Shirt’s fine for now. Let’s start with your blood pressure. Just relax your arm for me.
+PATIENT: Okay. Is this… the machine that squeezes? My cousin, he says it can be… uncomfortable. But he is a weak man.
+DOCTOR: It can be a little tight, yes. Just let me know if it’s too uncomfortable. Now, deep breath in… and out. 140 over 90. A little elevated, but not concerning on its own. We'll keep an eye on it. Now, let's listen to your heart and lungs. Breathe deeply through your mouth, please.
+PATIENT: Okay. Is that… normal? The number? I do not know much about numbers. Is it… bad? Should I worry? My brother, he had… problems with his heart. But he smokes. I do not smoke.
+DOCTOR: Your heart sounds… regular. Lungs are clear. Elevated blood pressure is something we should monitor, but it can fluctuate. Stress, caffeine, even just being in the doctor's office can raise it. Your brother's smoking is a significant factor, completely different situation. Now, let's check your reflexes.
+PATIENT: Reflexes? Yes, okay. Is this… painful? I do not like… being hit. Even lightly. My grandfather, he says the doctors… they like to hurt people. For money. But you… you seem… sensible.
+DOCTOR: It's not painful, just a quick tap. It’s to check your nervous system. Good. Normal response. Now, let's just take a quick look in your ears and throat. Open your mouth for me, and say "Ahhh".
+PATIENT: "Ahhh." Is that… going inside my head? It looks… dangerous. My aunt, she said… never trust the doctors with the… instruments. They take things out.
+DOCTOR: It doesn’t go inside your head, it just lets me see your eardrum. Everything looks fine. No signs of infection. Now, just relax. We’re almost finished. Throat looks clear too. A little redness, but nothing concerning. Overall, you seem… reasonably healthy. But we'll need to run some basic blood work to get a better picture.
+PATIENT: Blood work? Needles? I do not… like needles. My cousin, he fainted. When they took the blood. Is it… much blood? And will it… hurt? Maybe… maybe just the physical exam is enough? For the insurance?
+DOCTOR: It's a small amount of blood, just a few vials. And yes, there's a little pinch, but it's quick. It’s standard procedure for a pre-insurance physical. It's the best way to ensure we catch anything potential before your coverage starts. It's logical, isn't it?
+PATIENT: Logical… yes. But… painful? Is there… something I can do? To make it… less painful? Perhaps… if I close my eyes and think of… something else? Or if you are… very quick? My grandfather, he says the young doctors are… faster. Because they practice more. Are you… a fast doctor?
+DOCTOR: I am a reasonably fast doctor. And closing your eyes and thinking of something else is a good idea. We can also use a numbing cream, but it takes some time to work. Honestly, it's a small prick, and it's over before you know it. It’s better to be thorough now than deal with potential issues later, don't you think?
+PATIENT: Thorough… yes. Very well. The blood work. But… be quick, please. And… do not hurt me. Which… which arm? And… how much blood? Really?
+DOCTOR: Left arm is fine. And it's not much, a few vials. I'll be as quick as I can. Relax your arm... and try to breathe normally. Here we go. This might sting for a moment...
+PATIENT: Aiii! That… that hurt! Are you… finished yet? It is… burning. It feels… like fire.
+DOCTOR: Alright, all done. It's over now. See?
+PATIENT: Finished? Really finished? It… it still feels… funny. Will it… bleed later? And… will I feel weak? I need to… go back to work. I do not have… time to be sick.
+DOCTOR: No, it shouldn't bleed. Just keep the bandage on for a few hours. And no, you shouldn't feel weak. It's just a small amount of blood. We'll send it to the lab, and the results should be back in a few days. I'll have the nurse schedule a follow-up appointment to discuss them. In the meantime, if you feel dizzy or lightheaded, just sit down and rest. Now, is there anything else I can help you with today?
+PATIENT: No. I think… that is all. Just… the results. Please… make sure the results are… good. Thank you. Hopefully… everything is okay. .
+DOCTOR: Alright. The nurse will be in to schedule your follow-up. Have a good day, Kiwane. .

@@ -1,0 +1,20 @@
+DOCTOR: Alright, Ms. Thut, let’s get right to it. What brings you in today?
+PATIENT: My… nails. They just… look funny. Not good funny. I don’t… remember how they got like this, exactly. Just noticed it a few days ago, I think. They’re kinda… weird colored.
+DOCTOR: “Kinda weird colored,” right. And you don’t recall how they changed?
+PATIENT: No, not really. I do a lot. I mean, I work with… ears all day. People are always sticking things in ears. Maybe something got on them? I don't know. It’s probably nothing. I just… don’t like how they look. They're not… pretty nails.
+DOCTOR: Ears, you say?
+PATIENT: Yeah. I help people hear. Audiologist. It's… a job. Lots of little tools. And wax. A lot of wax. I clean it out. That's... what I do. Is that important? They're just nails, right? I thought you just… painted them or something.
+DOCTOR: So, an occupational exposure is a possibility then. And you've noticed this change… recently?
+PATIENT: Occup… what now? Look, I just want to know if they’re gonna fall off or something. I don't need big words. And yeah, like… last week? Maybe less? Time… it kinda blends together, you know? I’m busy. People need their ears fixed. It's important.
+DOCTOR: Right. Well, we’ll need to take a look. Let’s do a quick physical exam of your hands and nails, just to get a better idea of what we’re dealing with. Can you extend your hands, palms up?
+PATIENT: Ugh, fine. Hurry up, please. I have appointments. Is it something serious? They don't hurt or anything. Just… ugly.
+DOCTOR: Alright. I’m noting some discoloration—a yellowish tinge—across several nails, and some slight pitting. The nail beds appear normal in terms of capillary refill, but there is some mild thickening. Any recent trauma to the hands?
+PATIENT: Trauma? Like… breaking a nail? No. Not that I remember. I maybe bumped them on the table a few times. But nothing serious. I’m careful. I gotta be. It's hard to stick things in people’s ears with broken nails, you know? Is it a fungus? My sister had a fungus once. It was… not pretty.
+DOCTOR: A fungus is a possibility, as is a bacterial infection. Though, given your occupation, we need to consider other potential causes. Do you use any harsh chemicals or solvents in your work?
+PATIENT: Harsh chemicals? Well… the cleaning stuff for the ear tools. The little things that people put in their ears? It smells kinda funny, sometimes. Like… alcohol and stuff. Not a lot though. Just a little spray after each patient. It’s gotta be clean, you know? I don't want to give people ear infections! Is that what’s doing it?
+DOCTOR: That’s certainly a likely culprit. Prolonged exposure to those cleaning agents could be causing a paronychia or even onychomycosis—a fungal infection of the nail. I’m going to order a fungal culture to confirm. It’ll take about two weeks to get the results back. In the meantime, I recommend avoiding direct contact with those chemicals whenever possible, and keeping your hands thoroughly dry.
+PATIENT: Two weeks? Ugh. I can’t just… not clean the ear tools! People need their ears cleaned! What am I supposed to do for two weeks? Just… leave them dirty? And what if it is a fungus? Do I have to… take pills? I hate pills. Is there a cream or something? Tell me there's a cream.
+DOCTOR: Look, Ms. Thut, I understand your concerns. We can discuss alternatives for cleaning the tools—perhaps gloves?
+PATIENT: Gloves? Gloves? You think I haven’t thought of gloves? They make it so hard to feel what I’m doing! It's like trying to do surgery with mittens! I need to feel the ear canal! No. No gloves. I'll just… be more careful. Try not to get any on my skin. Is that all? Can I go now? I really am busy. I have people waiting.
+DOCTOR: Very well. The lab order is sent. We'll discuss treatment options once we have the results. If you notice any pain, redness, or swelling, return immediately. Otherwise, try to minimize contact with those cleaning agents. I'm documenting our discussion. Do you have any other questions, or may I excuse you?
+PATIENT: No. No more questions. Just… send me the results when they're ready. And don't make me wear gloves. Thank you. I guess.

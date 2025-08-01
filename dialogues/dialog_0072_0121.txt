@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Pipolo. My name is Dr. Hembrey. It’s a pleasure to meet you. Now, could you tell me what brings you in to see me today?
+PATIENT: Morning, Doctor. Just… my eyes. They feel real dry. Been that way a bit now. Don’t like it.
+DOCTOR: "A bit now," is rather vague, Mr. Pipolo. Could you be more specific?
+PATIENT: Specific… Hmm. Maybe… a couple months? Hard to say exactly. Time… it goes. I work outside, you see. Cement work. Lots of dust.
+DOCTOR: Cement work. Right. And does this dryness occur during your work, or is it consistent throughout the day, regardless of your activity?
+PATIENT: Mostly when I’m workin’. Dust gets in ‘em, I guess. Even when I try to wear glasses, it still feels… scratchy. Worse when it’s windy.
+DOCTOR: Scratchy… and worsening with wind exposure. Do you experience any pain with the dryness, Mr. Pipolo?
+PATIENT: No, not pain. Just… uncomfortable. Like sand. Makes me blink a lot. Hard to see good sometimes when I’m mixin’ cement, ya know? Gotta be careful.
+DOCTOR: Alright. Have you tried any over-the-counter remedies for this dryness?
+PATIENT: Over-the-counter… you mean like, from the store? Uh… No. Never really used much of that stuff. My mother used to say a warm cloth would help, but… that was a long time ago.
+DOCTOR: I see. And are you experiencing any other symptoms alongside this dryness?
+PATIENT: Other symptoms? Let me think… No, not really. Just the dry eyes. Maybe a little tired sometimes, but that’s from the work. Long days.
+DOCTOR: Alright. Now, let's move on to some general health questions. Do you have any known allergies to medications, foods, or anything else?
+PATIENT: Allergies… Nope. Never had any trouble with that. Eat whatever. Take whatever the doctor gives me if I have to.
+DOCTOR: And what medications are you currently taking, Mr. Pipolo?
+PATIENT: Not a one. Never been much for pills. Just… sometimes a painkiller for my back if I lift somethin’ heavy. But not regular, ya know?
+DOCTOR: Alright. Have you ever been diagnosed with any medical conditions?
+PATIENT: No, not that I know of. I’ve been pretty healthy all my life, knock on wood. Just the usual aches and pains from old age.
+DOCTOR: And has anyone in your family – parents, siblings – had any significant medical problems?
+PATIENT: My mother… she had trouble with her heart when she got older. Father was strong as an ox 'til the day he died. That's all I remember, really. Didn't spend much time talkin' about sickness.
+DOCTOR: Alright, Mr. Pipolo. Now, I'd like to perform a quick examination of your eyes. I'll need you to look straight ahead. This will help me assess the level of dryness and check for any other underlying issues. If you could have a seat there for me.
+PATIENT: Fine. Get it over with.
+DOCTOR: Alright, Mr. Pipolo. Just relax and look straight ahead. Hmm… your conjunctiva is somewhat dry and irritated, as expected. There's some mild redness, but no significant discharge. Your tear production appears to be slightly reduced. No obvious abnormalities noted there. Do you wear glasses regularly, aside from when working?
+PATIENT: Just for readin’ sometimes. Not all the time. Got 'em, but don't need 'em all the time.
+DOCTOR: Alright. It appears you have mild to moderate dry eye, likely exacerbated by your occupation and exposure to dust and wind. While not an emergency, it's important to address this to prevent further irritation and potential complications. I'm going to recommend a lubricating eye drop, to be used several times a day. I’ll write you a prescription for Systane Ultra. Use it four times daily, or as needed for comfort. I also recommend avoiding rubbing your eyes and wearing protective eyewear, such as goggles, when working. Do you have any questions about that?
+PATIENT: Lubricatin’ drops… Systane… Okay. Four times a day. Four times… that seems like a lot. Will that cost much?
+DOCTOR: The cost varies depending on the pharmacy, Mr. Pipolo. It's a relatively inexpensive medication, generally. However, if cost is a significant concern, there are some generic options available. I will also advise you to stay well-hydrated; drinking plenty of water can help. If your symptoms worsen or don't improve within a week, please schedule a follow-up appointment. Do you understand these instructions?
+PATIENT: Hydrate… drink water. Okay. I understand. Four times a day, try the drops. Drink water. Follow up if it doesn’t get better. Can I go now?
+DOCTOR: Yes, Mr. Pipolo. You may go. I'll have the nurse provide you with a printed copy of these instructions and the prescription. If you have any further questions after reviewing them, please don't hesitate to call the clinic. And I strongly recommend you invest in a good pair of goggles for your work. It will save you a great deal of discomfort.
+PATIENT: .

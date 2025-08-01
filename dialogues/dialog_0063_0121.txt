@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Mr. Pipolo. I am Dr. Jules. Now, let’s get straight to the point. What brings you in today?
+PATIENT: Morning, Doctor. Just… my eyes. They feel real dry. Been that way a bit now. Don’t like it.
+DOCTOR: “Dry eyes,” yes. A common complaint, unfortunately. And how long exactly has "a bit now" been?
+PATIENT: Hmm… maybe a month? Hard to say for sure. Time goes fast when you get old, you know. Not like when I was workin’ cement all day. Every minute was long then.
+DOCTOR: Indeed. A month, you say. And is it constant dryness, or does it come and go?
+PATIENT: Comes and goes, I think. Worse when it’s windy, for sure. And when I’m… lookin’ at the TV for too long. Not that I got much else to look at these days.
+DOCTOR: Wind and screen time. Very… predictable. Do you experience any other symptoms along with the dryness?
+PATIENT: Other symptoms? Like what? They just feel… scratchy. And sometimes blurry. Not all the time, just… when they’re real bad.
+DOCTOR: Blurry vision, scratchiness. And have you noticed any redness, discharge, or pain in or around your eyes?
+PATIENT: No pain. No… discharge. Just red sometimes, I guess. When they’re really dry. Not all the time, though. Like I said, just scratchy mostly.
+DOCTOR: Alright. Let’s have a look, shall we?
+PATIENT: Okay. Hurry up, please. Got things to do.
+DOCTOR: Hm. Yes, some mild injection – redness – present. Not alarming. Your pupils are… reactive. Adequate tear film, although slightly diminished. It seems like a rather straightforward case of dry eye. Now, are you currently using any eye drops, or any other medications for that matter?
+PATIENT: No drops. No… pills, either. Never been much for takin’ medicine. Tried some once, made me feel worse.
+DOCTOR: Very well. I suspect this is simply age-related dryness, perhaps exacerbated by your… television viewing habits. I’ll write you a prescription for artificial tears. Use them four times a day. If it doesn’t improve within a week, or if it worsens, you can come back and we’ll… consider other options. Do you have any allergies to medications that I should be aware of?
+PATIENT: Allergies? Nope. Never had none. Just… tired eyes. Is that all? Can I go now?
+DOCTOR: Yes, that is all. Artificial tears, four times daily. And try to blink more frequently when you are watching television. I’m handing you the prescription now. The nurse will direct you to the front desk for payment. Do try to follow the instructions. Next patient, please.
+PATIENT: Okay, okay. Thanks. Finally.
+DOCTOR: .
+PATIENT: .

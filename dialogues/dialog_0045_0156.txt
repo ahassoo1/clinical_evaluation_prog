@@ -1,0 +1,19 @@
+DOCTOR: Alright, Jase, good to meet you. So, what brings you in today?
+PATIENT: Um, hi. It’s… my stomach. It’s been, well, upset for a bit now. Mostly… a lot of diarrhea. It’s been going on for a while, I think. I’m married, if that matters. It just… keeps happening. I don't really remember when it started, exactly. Sorry, I'm not very good with dates.
+DOCTOR: <stage>I tap a pen against the chart, a slight frown on my face. "Married," she says. What is relevant here?
+PATIENT: Okay. And has anything changed recently? Like, anything different you’ve been eating or drinking? Or… any stress or anything like that? I honestly can’t think of anything specific, but I guess life is stressful. I just… feel a bit worn down, you know? It's hard to explain.
+DOCTOR: Right. Well, "life is stressful" doesn’t exactly narrow it down, does it?
+PATIENT: No, I guess not. Sorry. I just… I feel bad complaining about it, but it’s really bothering me. It's just… constant. I just want it to stop. Do you… need me to list everything I ate yesterday? I don't even remember what I had for breakfast, honestly.
+DOCTOR: Let’s not go through a food diary just yet. We'll get there if we need to. Tell me, have you noticed any blood in your stool?
+PATIENT: Blood…? Um… I think so? Maybe? It’s… hard to say. It’s not like a lot, but… sometimes there’s a little bit. Red, I think. Or maybe it's just… from straining? I honestly don’t pay that much attention, if I’m being honest. It’s embarrassing to talk about.
+DOCTOR: Okay. And do you have any fever, nausea, or vomiting?
+PATIENT: No fever, I don't think. Maybe a little bit tired, but that's just… life. No vomiting, definitely not. Sometimes my stomach feels a bit queasy, but it doesn’t usually… come up, if you know what I mean. It's just a weird feeling, like… unsettled. Does that make sense?
+DOCTOR: Alright. And have you traveled anywhere recently?
+PATIENT: No, not really. We went to visit my husband’s parents a couple of months ago, but that was just a few hours away, in the next town over. Nothing exciting. We mostly just stay around here. I haven't been on a proper vacation in… a really long time, actually.
+DOCTOR: Okay. Any allergies to medications or food?
+PATIENT: Um… I don’t think so. I mean, I get a little itchy sometimes when I eat shellfish, but it’s not a proper allergy, I don’t think. Just a little… discomfort. And I’m allergic to penicillin, I think my mom told me, but I’ve never had to use it so I can't really remember. I take Medicare, if that helps. It's been a while since I needed to see a doctor, honestly.
+DOCTOR: Alright. Let’s do a quick physical exam, okay?
+PATIENT: Okay, sure. Whatever you think is best. I just… hope you can figure out what’s wrong. It’s just… exhausting, dealing with this all the time. I am married, if that is still relevant.
+DOCTOR: <stage>I raise an eyebrow again, resisting the urge to roll my eyes. Seriously?
+PATIENT: .
+DOCTOR: .

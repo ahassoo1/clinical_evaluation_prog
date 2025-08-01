@@ -1,0 +1,28 @@
+DOCTOR: Right. Mr. Puder, yes. So, what brings you in today?
+PATIENT: Oh, hello Doctor. My heart… it feels funny sometimes. Like it’s flapping. Not always, but… yeah. Flapping. It scares my wife.
+DOCTOR: “Flapping,” alright. And how long has this been going on?
+PATIENT: Hmm… maybe… three months now? I think. It started not so bad, just a little jump here and there. But last month… it was more. Longer times.
+DOCTOR: Three months. And when you say “longer times,” can you be more specific?
+PATIENT: Like… sometimes it lasts five minutes. Other times… maybe fifteen, twenty? It’s hard to say exactly. I don’t always look at the clock when it starts. Just… feels a long time when it’s happening. And it stops just as quick as it starts, usually.
+DOCTOR: Alright. And does anything trigger these episodes?
+PATIENT: Hmm… not that I know of. I work, you know, with the… the machines. Chemicals and stuff. But it happens at home too. Sometimes when I’m just sitting. Sometimes after I eat. No pattern, really. I drink tea, lots of tea. Maybe that?
+DOCTOR: Tea… alright. And is this accompanied by any other symptoms?
+PATIENT: Other symptoms? Like… what do you mean? I feel tired sometimes, but I always feel a little tired. And… maybe a little short of breath when it’s happening with the heart. Not bad, just… like I ran a little bit. But that’s all. I don't get chest pain or anything.
+DOCTOR: Alright. Any dizziness or lightheadedness during these episodes?
+PATIENT: No, no dizziness. Not lightheaded either. Just the funny heart and a little tired feeling. My wife says I look a little pale sometimes when it happens, but I don’t… feel sick, you know?
+DOCTOR: Okay. And do you have any history of heart problems in your family?
+PATIENT: My father… he had high blood pressure, I think. Not heart problems, exactly. Just… the pressure. And my grandmother, on my mother’s side, she… she died in her sleep. They didn’t know what was wrong. But no one with… with a heart that flapped like mine.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: No, Doctor. No medications. I try to stay healthy, eat good food. Just the tea, like I said. And sometimes I take something for a headache, but not often. Nothing regular.
+DOCTOR: Okay. I’m going to listen to your heart and lungs, and then we'll check your blood pressure. After that, I’d like to order an EKG – that’s a simple test to record your heart’s electrical activity. Does that sound alright?
+PATIENT: Sounds good, Doctor. Whatever you think is best. I want to know what’s going on. My wife worries too much.
+DOCTOR: Alright. If you could just lie down on the table, please. We’ll get this done quickly.
+PATIENT: Okay. I hope it doesn’t take long. I have work later.
+DOCTOR: Alright. Your lungs sound clear. Heart rate is a little elevated, but that could be anxiety. I’m hearing a slight irregularity, though. It’s subtle. Blood pressure is 130/80.
+PATIENT: Okay. Irregular… that’s what I thought. Like a flapping. Is it bad?
+DOCTOR: It’s not necessarily bad, Mr. Puder, but it’s something we need to investigate further. The EKG will help us determine the cause of this irregularity. It could be a number of things – everything from a benign arrhythmia to something that requires further attention. It’s important to remember that feeling anxious can sometimes cause these types of palpitations. But we'll rule out anything serious, just to be safe.
+PATIENT: So… the test. Where do I go for the test? Is it… painful?
+DOCTOR: It’s just down the hall, in the diagnostics department. The technician will put some stickers on your chest and then you lie still for a few minutes while it records. It’s completely painless. No discomfort at all. I’m going to print out a referral for you now. They’ll call you to schedule an appointment. The results will be sent to me, and then we can discuss them.
+PATIENT: Okay. Stickers… good. Not painful, that’s good. Thank you, Doctor. I hope they can do it quickly. I really need to get back to work.
+DOCTOR: Here’s the referral. It has all the information you’ll need. They usually have same-day appointments. We’ll get this sorted out, Mr. Puder. Try not to worry too much. And if you experience any chest pain, shortness of breath, or dizziness before your appointment, please go to the nearest emergency room immediately.
+PATIENT: .

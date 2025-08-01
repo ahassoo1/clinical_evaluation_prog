@@ -1,0 +1,23 @@
+DOCTOR: Right. Jailenne Aslan, 29 years old. So, what brings you in today?
+PATIENT: Oh, hi Dr. Memmolo. It’s these chills I’ve been getting. They just…come and go. It’s a bit annoying, really.
+DOCTOR: Chills, yes. And how long have these “chills” been occurring?
+PATIENT: Hmm…let me think. Probably for about three days now? It started kinda subtle, I thought it was just the AC being too high at work, but it’s still happening even when it's warm.
+DOCTOR: And are these chills accompanied by anything else?
+PATIENT: Yeah, actually. I've been feeling really tired, more than usual. And a bit achy, like I did a workout or something, but I haven’t! Just…general muscle aches, you know? Nothing bad, just noticeable.
+DOCTOR: "General muscle aches." Right. And any fever?
+PATIENT: I haven't taken my temperature, to be honest. I didn’t think it was that serious, just a cold maybe? I haven’t felt really hot, if that makes sense. Not like a burning fever, just…off.
+DOCTOR: "Off." Vague symptoms are…unhelpful. Have you had any cough, sore throat, congestion?
+PATIENT: No, thankfully. No cough, no sore throat. My nose feels…normal. That's why I was surprised about the chills, because usually with a cold I'd have something going on up there. It's just the tiredness and the aches, plus these random shivers.
+DOCTOR: Alright. Let's just rule things out. Have you traveled anywhere recently?
+PATIENT: No, not really. Just a weekend trip to my sister’s place in Jersey last month. Nothing exotic or anything. We mostly just hung out, watched movies, the usual.
+DOCTOR: And any known exposure to anyone who's been sick?
+PATIENT: Hmm... not that I know of. A coworker called out last week with…I think it was the flu, but I didn’t get close to her. We just work in the same office. And my sister’s kids are always getting something, but I try to keep my distance when they’re sniffly, you know? Protective aunt mode.
+DOCTOR: Alright. Let's do a quick physical exam, just to be thorough. I'll listen to your lungs and check your lymph nodes. Please lie down on the examination table.
+PATIENT: Okay, sure. Sounds good. Is that table comfy? I always feel a bit awkward on those paper ones.
+DOCTOR: It's a table. Just lie down. Take a deep breath... and exhale. Another deep breath...Good. Lungs sound clear. Now, let me palpate your lymph nodes. Any tenderness here?
+PATIENT: No, that doesn’t hurt…just feels…normal, I guess? A little pressure, but not painful. I don't think I feel any lumps or anything. It feels a bit like a normal check-up, right? Not anything worrying?
+DOCTOR: Nothing remarkable. Your temperature is 98.6 Fahrenheit. Pulse is 72. Blood pressure is 120 over 80. All within normal limits. It’s likely a mild viral infection. Perhaps just a common cold developing, despite the lack of typical symptoms.
+PATIENT: Oh, okay. That's...good, right? Not something serious? So just rest and drink fluids? Is there anything I should take, like…over-the-counter stuff? I usually just ignore colds, honestly, but the chills are bothering me.
+DOCTOR: Rest, fluids, over-the-counter acetaminophen or ibuprofen for the aches and chills. If it persists beyond a week, or if you develop a fever, cough, or shortness of breath, then you should return. But honestly, it sounds like you just need a few days of rest. Do you have any other complaints?
+PATIENT: No, that's all. Thank you, Dr. Memmolo. I appreciate you checking me out, even if it’s just a silly cold. It's just…the chills were a bit different this time, so I wanted to be sure. I guess I'll go home and try to relax now.
+DOCTOR: Very well. Get some rest. Next patient. The nurse will give you discharge instructions. .

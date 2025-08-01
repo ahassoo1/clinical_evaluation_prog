@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Ms. Creagh. I’m Dr. Sham. So, what brings you in today?
+PATIENT: Good morning, Doctor. It's nice to meet you. Well, I've been having some…pressure in my bladder, and it's been bothering me for a little while now.
+DOCTOR: Okay, pressure in your bladder. And how long is “a little while”?
+PATIENT: Hmm… let me think. It started, I’d say, about three weeks ago, maybe a little longer. It’s not constant, but it happens several times a day.
+DOCTOR: Three weeks… alright. And would you describe it as pain, more of a fullness, or something else?
+PATIENT: It's not really pain, Doctor. It’s more like…a heavy feeling, a fullness, even when I don’t feel like I need to go to the bathroom. It’s just…present. It's uncomfortable, mostly.
+DOCTOR: Okay, a heavy, uncomfortable fullness even when you don’t feel the urge. Have you noticed any changes in your urination – frequency, urgency, any burning or difficulty starting or stopping?
+PATIENT: Yes, actually. I have noticed I'm going to the bathroom more often, definitely. And sometimes, it feels like it takes a moment to actually start going. No burning, though, thankfully. And stopping doesn’t seem to be a problem.
+DOCTOR: Alright, increased frequency and a little hesitation starting. Any blood in your urine, fever, chills, or pain in your back or side?
+PATIENT: No blood, Doctor. And no fever or chills. My back and sides feel fine, no pain at all there. It really is just this pressure and the needing to go more often. It's not keeping me up at night, but it's…annoying, you know?
+DOCTOR: Okay, “annoying” – I understand. Let’s get a quick look at your medical history. Do you have any medical conditions that I should be aware of?
+PATIENT: I do have Medicare, if that’s helpful. And… I was diagnosed with mild asthma when I was a child, but it’s well-controlled with an inhaler I only use during allergy season. Other than that, I’m generally very healthy. My husband says too healthy – always running around!
+DOCTOR: Alright, mild asthma, well-controlled. Good. Any surgeries in the past?
+PATIENT: No, I haven’t had any surgeries. Never needed them, thankfully. Just the usual childhood things – tonsils out when I was little, but that was a long time ago.
+DOCTOR: Okay. And what about your family?
+PATIENT: My mother has high blood pressure, and my father had diabetes, but that's about it, really. No history of bladder problems that I’m aware of, on either side of the family. They're both…they're both doing okay, considering their age.
+DOCTOR: Alright, high blood pressure and diabetes in the family. Do you have any allergies to medications?
+PATIENT: No, Doctor, no allergies that I know of. I’ve taken a few different things over the years for colds and such, but never had a reaction. I’m pretty good with most medications, as far as I can tell.
+DOCTOR: Okay, good. And are you currently taking any medications, even over-the-counter things, regularly?
+PATIENT: Just my asthma inhaler, as I mentioned, but only when my allergies are acting up. Right now, it's pretty clear, so I haven't used it in a few weeks. No vitamins, no supplements, nothing else. Just the inhaler, occasionally.
+DOCTOR: Alright, occasional inhaler use. Let’s do a quick physical exam, if you don’t mind. I’d like to listen to your abdomen and do a gentle pelvic exam to rule out anything obvious. Is that alright with you?
+PATIENT: Yes, that’s perfectly alright, Doctor. Whatever you think is best. I appreciate you taking the time to figure this out. It's just been… nagging.
+DOCTOR: Alright. Deep breath in… and out… Okay. Nothing immediately concerning there. Now, I’m going to perform a quick pelvic exam. Please let me know if you feel any discomfort. Everything appears normal on initial examination. No tenderness, no masses. I’ll check your reflexes as well. Those are good as well. It's difficult to say definitively what's going on, but given your symptoms and the exam, it could be a urinary tract infection, though you don’t have the typical burning sensation. Or it could be something like interstitial cystitis, which causes bladder pressure without an infection. To be certain, I’d like to order a urine sample for a urinalysis and culture. Also, given your age and symptoms, I think it's prudent to order a complete blood count. Would that be alright?
+PATIENT: Yes, that sounds very sensible, Doctor. A urine sample and a blood test – absolutely. I trust your judgment. I’d like to know what’s going on, and if those tests will help figure it out, that’s good with me. Where do I go to give the urine sample?
+DOCTOR: The nurse will give you a cup and instructions. It’s a clean catch sample, so she’ll explain how to collect it properly. We’ll send it off to the lab and should have results in a couple of days. I will let you know as soon as we get the results, Ms. Creagh. In the meantime, drink plenty of fluids – water is best – and try to avoid caffeine and alcohol, as they can irritate the bladder. Does that sound alright?
+PATIENT: Yes, that sounds perfectly alright. Plenty of water, no caffeine, no alcohol… I can manage that. Thank you, Doctor. I appreciate you explaining everything so clearly. I feel a little better knowing we’re taking steps to figure it out.
+DOCTOR: Of course, Ms. Creagh. We’ll get to the bottom of this. The nurse will be in shortly to collect the sample and take some basic vitals. I’ll review the lab results as soon as they're available, and we’ll schedule a follow-up appointment to discuss them. Is there anything else I can address for you today?
+PATIENT: No, I think that’s everything, Doctor. Thank you again for your time and attention. I’ll wait for the nurse.
+DOCTOR: .
+PATIENT: .

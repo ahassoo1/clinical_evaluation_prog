@@ -1,0 +1,24 @@
+DOCTOR: Right, yes. So, you’re Jeannemarie, 41… and you’re here today because…?
+PATIENT: Good morning. Yes, that is correct. I… I have been coughing up some blood. It scared me quite a bit, so I thought I should come see a doctor. It’s been happening for… maybe three days now? Not a lot each time, but enough to worry me.
+DOCTOR: Coughing up blood, you say?
+PATIENT: Yes. It’s… reddish, of course. And sometimes there are little… specks in it. Not big pieces, just… spots. I’m sorry, I don’t know how else to explain it. Is this… bad?
+DOCTOR: "Little specks," alright. And you've been noticing this for three days… hmm. Look, it could be a number of things. Probably nothing serious, people get minor irritations all the time. But we need to rule things out. Have you had a fever, any chest pain, or shortness of breath alongside the coughing?
+PATIENT: No fever, no. And no chest pain, not really. Sometimes… a little tired, but I thought that was just from worrying. And… no, I can breathe normally. I haven't felt short of breath at all. I walk every day, you see, and haven’t had trouble with that. Is walking every day important to know?
+DOCTOR: Walking is… fine. It's good you're active. But let's focus. Any recent colds, flus, or respiratory infections?
+PATIENT: Hmm… let me think. I had a little sniffle about a month ago, but it didn’t last long. Just a day or two. Nothing serious, I didn’t even bother taking anything for it. I just rested and drank some tea. It’s been gone a long time now. Do you think that could be it?
+DOCTOR: A month ago… That's unlikely to be related. Now, have you traveled anywhere recently?
+PATIENT: No, I haven’t traveled. Not for… a very long time. Since my husband… passed away. Just local things, to visit my sister. Nothing far. Is that important? Traveling, I mean?
+DOCTOR: Everything is potentially important. Alright. Do you smoke, or have you ever smoked?
+PATIENT: No, never. My husband smoked, a long time ago, but I always asked him to do it outside. I've never touched a cigarette in my life. Is that good? I’m always hearing bad things about smoking.
+DOCTOR: Yes, well, that’s… sensible. Now, any family history of lung problems, tuberculosis, or bleeding disorders?
+PATIENT: That’s a difficult question. My father… he had some kind of cough when he was older, but I don't know what it was. He didn’t go to the doctor very often. And… I don’t think anyone else in my family had any serious lung problems. My mother was healthy as a horse, if that makes sense. I don’t know about bleeding disorders, no. Sorry, I’m not very good with medical things.
+DOCTOR: Right. Alright. Let’s have a listen to your lungs. If you could sit up there for me, please. And breathe deeply.
+PATIENT: Okay. Deep breaths… yes, I can do that. Is this… okay? Am I doing it right?
+DOCTOR: Hmm. Lungs are clear bilaterally. Not wheezing, no crackles. Resonance is normal. Your oxygen saturation is 98%, which is good. But… we need to rule out anything serious. I'm going to order a chest X-ray and a sputum sample to check for infection.
+PATIENT: An X-ray… and a sample? Is that… painful? Will it take long? I don’t like hospitals very much. My husband… he spent a lot of time in the hospital before he passed. It wasn't a nice place. I'm a little worried now.
+DOCTOR: The X-ray is painless, just a quick picture. The sputum sample… you'll just cough into a cup, it’s a bit unpleasant, but not painful. It'll take about fifteen minutes. We're just being thorough, alright?
+PATIENT: Thorough… yes, I understand. A cup, you say? Okay. Fifteen minutes… that doesn’t sound too bad. I can cough into a cup. Where… where do I do that? And… will you tell me what you’re looking for? I just… I like to know what’s happening, if that’s okay? It makes me feel a little better.
+DOCTOR: The nurse will show you to a room, and give you instructions for the sample. We're looking for any signs of infection, blood, or abnormal cells. It's standard procedure, alright?
+PATIENT: Standard… yes. Okay. I will… I will go find the nurse. Thank you, Doctor. It’s just… it’s hard, not knowing. But I appreciate you… being thorough.
+DOCTOR: Just get it over with. Alright, next patient.
+PATIENT: .

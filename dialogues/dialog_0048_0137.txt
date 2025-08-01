@@ -1,0 +1,28 @@
+DOCTOR: Right. Mrs. Abdollahi, is it?
+PATIENT: Yes, Lindra. That is right. Is good to meet you, Doctor... Sink, yes?
+DOCTOR: Yes, Sink is fine. Let's not bother with formalities. So, you’re here today… for what, exactly?
+PATIENT: Oh, yes. For… the place. The senior living place. My husband, he think is good time, and they need… papers, yes? To say I am okay to come.
+DOCTOR: Right. A pre-admission physical. They want to be certain you’re… stable enough. I see. Well, let’s get this over with. Can you tell me, in your own words, what’s been bothering you lately?
+PATIENT: Bothering? Hmm… Not much bother. Old, you know? Things… ache sometimes. Back, mostly. And… I get tired easier now. But nothing… bad. Just old.
+DOCTOR: “Just old.” That’s… helpful. Can you quantify that back pain at all?
+PATIENT: Quantify? I… do not understand. Is how much pain? Sometimes is… a little. Sometimes when I bend, is more. Not… always. Maybe a… four? On a scale? My daughter, she always ask me on a scale.
+DOCTOR: A four, alright. And does anything relieve that pain?
+PATIENT: Relieve… yes. When I sit down. Or… when my husband, he rubs it. Is good. And… warm bath sometimes. Hot water is good for old bones.
+DOCTOR: Alright. Any other complaints?
+PATIENT: Hmm… Let me think… Sometimes I forget things. Not big things, you know? Like… where I put my glasses. Or the name of… that actor. The one in the movies. Is frustrating, but… everyone forget, yes?
+DOCTOR: Everyone forgets. Of course. And have you noticed any other changes?
+PATIENT: Changes…? Not really. Maybe… I walk a little slower now. And I… not hear so good. My husband, he talk loud. He say I need new ears! Is joke. But… is true, maybe.
+DOCTOR: Right. Well, let's do a quick exam, just to get a baseline. Can you stand up for me?
+PATIENT: Yes, okay. Is okay. Just… slow. Old bones, you know?
+DOCTOR: Heart sounds are… regular, though a bit distant. Lungs are clear, but diminished breath sounds. Spine has some tenderness on palpation, lower lumbar region. Alright. Blood pressure is 140/85. Pulse is 72. Respiratory rate is 16. Not ideal, but… acceptable. Now, can you follow my finger with your eyes?
+PATIENT: Yes, I can. Is that… okay? Am I doing it right? I worry sometimes about my eyes.
+DOCTOR: Yes, yes, you're doing fine. Seems adequate. Now, I’m going to check your reflexes. Hmm. Patellar reflexes are… diminished, but present. Now, let’s check your feet.
+PATIENT: Is that… going to hurt? Not so strong feeling, you know? My feet, they fall asleep sometimes.
+DOCTOR: Barely. Sensation is… reduced in the feet. As you said. Alright. That's enough for now. So, overall… you're a 72-year-old female with some expected age-related changes. Back pain, some memory issues, diminished reflexes, reduced sensation in the feet. Not surprising.
+PATIENT: So… is that bad? Can I still go to the senior place? My husband, he is very excited. I do not want to be trouble.
+DOCTOR: Look, I’m not going to tell you whether you can or can’t go to a senior living facility. That's their decision, based on their criteria. I’m simply documenting your current condition. I’ll write a note stating your age, these minor neurological deficits, and recommend ongoing monitoring. I suggest you continue with regular follow-up with your primary care physician. And maybe some physical therapy for the back pain. Do you have any allergies or medications I should be aware of?
+PATIENT: Oh! Yes. I take… a pill for the blood pressure. Lisinopril, I think? And… sometimes Tylenol for the back. No allergies. Never had any. My husband, he keep track of the pills. I forget sometimes. He is very good with that.
+DOCTOR: Alright. Lisinopril, as needed Tylenol, no known allergies. Fine. Well, that’s about it. I’ll have the nurse print out a summary of this visit for you and your doctor. Any questions?
+PATIENT: No… I think that is all. Thank you, Doctor. You were very… thorough. Even if I forget everything you said!
+DOCTOR: Right. Well, don't hesitate to contact your primary care physician if anything changes. Good day, Mrs. Abdollahi.
+PATIENT: Thank you, Doctor. Have a good day too.

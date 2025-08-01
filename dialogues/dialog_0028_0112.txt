@@ -1,0 +1,20 @@
+DOCTOR: Right. Keoni MacVittie. 31 years old. So, what brings you in today?
+PATIENT: Oh, um, hello. It's... well, it's a bit embarrassing, actually. I've been having to go to the bathroom a lot lately. More than usual, definitely. It’s just… frequent. I don’t really know how else to put it.
+DOCTOR: Frequent urination. Yes. How long has this been going on?
+PATIENT: Oh, goodness. That's a good question. It feels like... a few weeks, maybe? It’s hard to say exactly. Time kind of…blurs sometimes. It wasn’t sudden, it just gradually got worse, I think. I don’t really keep track of these things. Is that…helpful?
+DOCTOR: "Gradually worse" isn't terribly specific, Ms. MacVittie. But alright. And is it… just frequency, or are you experiencing any pain or burning when you urinate?
+PATIENT: No, no pain. Not burning, either. Just… the urge to go, constantly. It’s… disruptive, mostly. And a little inconvenient. I don’t think I’ve noticed anything else unusual, if that makes sense. I haven’t been… sick or anything. I don’t know if that’s relevant. Sorry, I'm probably not being very helpful.
+DOCTOR: Disruptive. Right. Have you noticed any changes in your… bowel habits?
+PATIENT: Oh, um… changes in… my bowels? I… honestly, I hadn’t really thought about it. Let me see… no, I don’t think so. Everything seems… normal there, if you don’t mind me asking why you’re asking. It just feels a little… random to ask about that with the bathroom problem, perhaps? I hope that doesn't sound rude.
+DOCTOR: It's not random, Ms. MacVittie. The body is interconnected. We need to rule things out. Any fever, chills, or lower abdominal pain?
+PATIENT: No fever, no chills. And no, no abdominal pain. Not that I've noticed, anyway. Sometimes I get a little… discomfort, but I just assumed it was something I ate. I do get indigestion quite easily, you see. Is this… a common symptom of something? I'm sorry, I’m probably just rambling. I always worry I’m missing something important.
+DOCTOR: Right. And what about your fluid intake?
+PATIENT: Oh! Fluid intake… I drink… water, mostly. And some tea. I don’t really drink a lot of soda. I try to stay hydrated, but I don’t measure it or anything. I probably drink a normal amount? I used to drink more coffee, but I cut back. Is that relevant? I really apologize for not being able to give you more precise answers. I’m not very good at remembering details.
+DOCTOR: Alright. Have you had any recent changes in your life?
+PATIENT: Recent changes… Well… I got divorced about six months ago. That was… a big change. And I started a new job, about three months ago. It’s a bit stressful, sometimes. Is that what you mean? I’ve been trying to adjust, but… it’s been a little difficult. I didn't think that would be affecting my bladder, though.
+DOCTOR: Stress can manifest in various ways, Ms. MacVittie. But we still need to rule out a physical cause. Let’s do a quick urinalysis. And then I’ll need to examine you.
+PATIENT: Oh. A… urinalysis and an examination? Yes, of course. Whatever you think is best. I just… I hope it’s nothing serious. Is there anything I should do to prepare? Or… anything I should expect? I always feel a little anxious during these things, if you don't mind my saying so.
+DOCTOR: The nurse will show you to the restroom for the sample. Just a standard urine test. As for the examination… it will be a pelvic exam. Standard procedure. Don’t worry. It won't be pleasant, but it's necessary. Just try to relax.
+PATIENT: Okay. A pelvic exam… and the urine test. Right. I’ll… I’ll go with the nurse, then. Thank you, Doctor. I appreciate you taking the time to figure this out. I… I hope it's not anything too concerning. I’ll… I’ll be right back.
+DOCTOR: Yes, yes. Go ahead. We’ll get this sorted out.
+PATIENT: .

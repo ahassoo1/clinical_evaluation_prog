@@ -1,0 +1,22 @@
+DOCTOR: Right, yes. Mr. Pipolo, is it?
+PATIENT: Yeah, that’s me. Andrew Pipolo. Look, I ain’t got all day, Doc. Just wanna get this sorted, if ya can. My eyes are just… scratchy.
+DOCTOR: Scratchy, you say?
+PATIENT: Yeah, scratchy. Like sand. Especially when it's windy. I work outside, ya see. Cement work. Dust and all. Been happenin’ for… well, I dunno, a few weeks now, maybe longer. Hard to say. It’s just annoying.
+DOCTOR: Right, cement work. Well, that explains something. Any pain?
+PATIENT: Nah, not really pain. Just… dry. Really dry. Feels like I gotta blink all the time. And sometimes… sometimes it’s blurry. Not all the time, just when they’re really bad. I don’t know if that makes sense. It's like lookin' through a dirty window.
+DOCTOR: Dirty window, alright. And have you tried… anything?
+PATIENT: Anything? Like what? I put some water in ‘em sometimes. Doesn’t really do much. Old Mrs. Olsen down the street said to try some drops, but I don’t know… I don’t go to the drugstore much. And I ain’t got insurance, so…
+DOCTOR: Right. No insurance. Fine. Any other medical problems?
+PATIENT: Nah. Not really. I used to have a bad back, from all the liftin’, but that’s mostly gone now. Just gets a little stiff sometimes. Old age, ya know? That’s all. Never been much for doctors, truth be told.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: Uh… no, not that I know of. Never taken much, see? Just… aspirin, maybe, when I got a headache. But that was years ago. I don’t think so. Look, Doc, is this gonna take long? I got stuff to do.
+DOCTOR: Right, right. Let's just have a quick look then. Please, sit up there. I need to shine a light in your eyes.
+PATIENT: Fine. Just try to be quick about it, alright? This old body doesn’t take kindly to too much fuss.
+DOCTOR: Hmm. Conjunctiva's a little dry, some mild injection. Pupils react okay. Looks like… classic dry eye, likely exacerbated by the cement dust. Not uncommon, frankly.
+PATIENT: Exacerbated? What's that mean? Just tell me what I need to do to make it stop itchin’ and feelin’ like there’s sand in ‘em, Doc. I ain’t a fancy man.
+DOCTOR: It means the dust is making it worse. Look, I'll write you a prescription for some lubricating eye drops – use them four times a day. And wear goggles when you're working with cement. It’s common sense. If it doesn't improve in a week, then maybe we'll talk about a specialist.
+PATIENT: Drops and goggles, huh? Alright. Four times a day… I can remember that. Goggles… yeah, I suppose I could get some. How much are these drops gonna cost, Doc? Just wanna know what I’m gettin' into.
+DOCTOR: I have no idea. Pharmacy prices vary. Look, it’s dry eye. It’s not life-threatening. Use the drops, wear the goggles, and if it gets worse, then come back. Is that clear?
+PATIENT: Yeah, yeah, clear enough. Drops, goggles, come back if it's bad. Alright. Well, thank ya, Doc. I appreciate it. Can I go now?
+DOCTOR: Yes, yes, you can go. And please, try to protect your eyes. It's really quite basic. Next!
+PATIENT: .

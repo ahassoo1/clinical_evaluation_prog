@@ -1,0 +1,22 @@
+DOCTOR: Right. Mr. Schneer, is it?
+PATIENT: Schneer, yes. Though, folks just call me Betty. Don't mind the Mr., been that way a long time, I reckon. Now, what brings me here today? My ears ain’t what they used to be, that much I know.
+DOCTOR: Very well, Betty. Let's not delve into personal history just yet. You said your ears?
+PATIENT: Well, yes. It’s hard to hear things, especially when there’s… background noise. Like the television, or when people talk fast. I mostly just nod and smile these days. It's easier than asking folks to repeat themselves all the time. Don't want to bother anyone, you see?
+DOCTOR: How long has this been going on?
+PATIENT: Oh, goodness. That’s a tricky one. Seems like… a while now. Years, maybe? It didn't happen all at once, you see. It just… faded. Slowly. I used to be able to hear a pin drop, my mother always said. Now… well, not so much. Is that helpful? I’m terrible with dates, always have been.
+DOCTOR: Very well. Any ringing in the ears?
+PATIENT: Ringing… hmm. Sometimes. A sort of… high-pitched whine, maybe? It comes and goes. Not constant, thankfully. It's more noticeable when things are quiet, I suppose. Like at night, when I'm trying to sleep. Does that make sense? I’m not very good at describing things, I’m afraid.
+DOCTOR: And have you noticed any dizziness, nausea, or any fullness in your ears?
+PATIENT: Fullness… now that you mention it, yes. Sometimes, especially after I’ve been… talking for a bit. Or if I try to listen real hard. It’s a funny feeling, like somethin’s blocked up inside. Dizziness, not really. Maybe a little unsteady on my feet sometimes, but I put that down to getting older, to be honest. Old age and all that, you know?
+DOCTOR: Any history of ear infections?
+PATIENT: Ear infections… oh dear. Let me think. When I was a little girl, I remember my mother saying somethin' about it. A fever and a terrible pain. But that was a long, long time ago. I don't recall havin' any trouble with them since. Not that I can remember, anyway. My memory's not what it used to be, you see. I wouldn't want to say somethin’ incorrect.
+DOCTOR: Alright. And are you currently taking any medications, or do you have any allergies we should be aware of?
+PATIENT: Well, let's see… the doctor gave me somethin' for my blood pressure, a little white pill. Take it every mornin'. And… I think that's it. Allergies? Not that I know of. Never been one for fancy foods, so haven't had much chance to be allergic to anythin', I suppose. Oh, wait! I had a reaction to some sort of lotion once. Made my skin all itchy. But that was years ago, too. Itchy is all. Nothing serious.
+DOCTOR: Very well. Let’s do a quick examination. Please sit forward.
+PATIENT: Alright. Just let me know if anything feels uncomfortable. I don't want to cause any trouble. My bones ain't as strong as they used to be, you see.
+DOCTOR: There appears to be some cerumen buildup in both ears. And the tympanic membranes are… normal, though slightly dull. Heart sounds are regular, lungs are clear. Blood pressure is 140/90. I would like to perform a basic hearing test.
+PATIENT: Oh, cerumen? Is that bad? I don't know much about these things. And… the tympanic membranes? Sounds important. A hearing test sounds alright. Whatever you think is best, dear. I trust your judgement. Just tell me what I need to do. I hope it doesn’t take too long.
+DOCTOR: Just put these on. I’ll be in the next room, and I’ll give you instructions through the intercom. Press the button when you hear a sound. It’s very simple. And please, try to focus. It will be quicker if you can.
+PATIENT: Alright, headphones it is. Simple, you say? Good. I’ll try my best to focus. Just let me know if I'm doin' somethin' wrong. I'm ready when you are, dear.
+DOCTOR: .
+PATIENT: .

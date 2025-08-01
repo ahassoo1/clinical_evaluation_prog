@@ -1,0 +1,34 @@
+DOCTOR: Alright, Mr. Shanor. Good to see you. So, what brings you in today?
+PATIENT: Uh, yes. Good to see you too, Doctor. I... need check for referee. For fitness. I want to be sure I am okay to do it. It's for... the games.
+DOCTOR: Right, a fitness check for… refereeing. Okay. And when you say “okay,” what exactly are you concerned about?
+PATIENT: Hmm. Just... everything, I guess? I am not so young anymore. And... I lost my wife last year. Things... not same. I want to be strong enough. Not fall, you know? Need to run, too. Fast. For the games.
+DOCTOR: I understand. It's good you're thinking about this, and it’s completely reasonable to want to be sure you're physically up to it, especially after everything you've been through. Let's get some details. So, when you say you want to be sure you can run, how far and how often do you typically run during a game, roughly?
+PATIENT: Uh... not so far. Short runs. Up and down the court. Maybe... ten, fifteen meters? Many times. Games are... two hours? Sometimes more. I try to keep up, but... sometimes feel tired. Old tired. Not like before.
+DOCTOR: Okay, short bursts of running, up to fifteen meters, for a couple of hours. And you're feeling more fatigued than usual. Has this been a gradual change, or did it come on suddenly?
+PATIENT: Gradual, I think. Slowly. After... after my wife, everything was harder. Running, working... everything. It's... not a fast change. Just... more and more. I try to exercise, but... doesn't help so much now.
+DOCTOR: Okay. And besides the fatigue, are you experiencing any other symptoms?
+PATIENT: Hmm. Sometimes... dizzy. Not all the time. Just... when I stand up fast. And... my knees. They ache. Especially after I run. Like... old man knees.
+DOCTOR: Okay, dizziness upon standing and knee pain. Have you noticed any swelling in your knees?
+PATIENT: No, no swelling. Just... ache. Like... when it rains. You know? Old pain. Not... big pain. Just... there. I can still walk, still run, but... worry. Worry it will get worse.
+DOCTOR: Alright. And do you have any other medical conditions that you’re aware of?
+PATIENT: No. I think not. I had… small cold last winter. But nothing serious. I try to eat good. Not so much sugar. My wife… she always told me to eat good.
+DOCTOR: Okay. Any allergies to medications, food, or anything else?
+PATIENT: No allergies. Nothing. I can take... most things, I think. Never had problem.
+DOCTOR: Alright. Well, Mr. Shanor, it sounds like we should do a quick physical exam just to get a baseline. I’d like to check your blood pressure, listen to your heart and lungs, and take a look at your knees. We can also do a quick balance test to check for any dizziness. Does that sound alright?
+PATIENT: Yes. That sounds good. Whatever you think is best, Doctor. I just want to be sure.
+DOCTOR: Great. If you could just hop up on the table here, we’ll start with your blood pressure. Then we can move on to listening to your heart and lungs.
+PATIENT: Okay. Here? Is good?
+DOCTOR: Yes, perfect. Just lie back comfortably. I’ll grab the blood pressure cuff. Now, just relax your arm for me.
+PATIENT: Okay. Relax... I try. It's... hard to relax sometimes. But I try.
+DOCTOR: Okay… blood pressure is 130 over 80. Not bad. Now, let's listen to your heart and lungs. Take some deep breaths for me… in and out… Everything sounds clear. No wheezing or crackles. Now, let's check your knees. Can you bend them for me, as much as you comfortably can?
+PATIENT: Okay. Deep breaths... Yes. Like this? It... it makes a little noise. Like... clicking. It's okay. Just old.
+DOCTOR: I hear the clicking, and I feel a little bit of crepitus – that's the grinding sound, it’s common with age. No significant swelling or warmth, which is good. Now, can you stand up slowly for me?
+PATIENT: Okay. Slowly... like this? It's... a little wobbly. Yes. Better now.
+DOCTOR: Alright. And just to check your balance, can you stand on one leg for about 30 seconds?
+PATIENT: Uh... one leg? Thirty seconds... this is... hard. Ten… fifteen… twenty… Oh! Sorry. Too hard.
+DOCTOR: No problem at all, Mr. Shanor. That’s perfectly alright. It just gives me a little bit of information. So, based on what I’m seeing and hearing, it seems like you have some expected wear and tear in your knees, which is common with age and activity. The slight dizziness and imbalance could be related to that, or could be something else. And your blood pressure is fine. Given your history and the fatigue you’re experiencing, I’d recommend a few things. First, let's get some blood work to check your vitamin levels and rule out anything else contributing to the fatigue. Also, I'd like to order some X-rays of your knees just to get a better look at the joints. How does that sound?
+PATIENT: Yes. That sounds... good. Blood work and X-rays. Okay. If you think it will help... then yes. I want to be sure. I just... want to keep refereeing.
+DOCTOR: I understand. And we’ll do everything we can to help you with that. I’ll have the nurse draw some blood for you, and we’ll get the X-ray order sent to the radiology department. They can usually fit you in same-day or tomorrow. In the meantime, I recommend taking it easy and avoiding any strenuous activity. If the dizziness gets worse, please come back immediately. We’ll go over the results of the blood work and X-rays when they’re available. Do you have any questions for me at this point?
+PATIENT: No... I think not. You explained everything very well. Just... thank you, Doctor. For listening. And for helping me. I appreciate it. Can I... get a paper for the nurse? For the blood?
+DOCTOR: Absolutely. Let me print that out for you right now. Here you go. The nurse will be right in to get you started. Just let her know if you have any questions. And you’re very welcome, Mr. Shanor. I'm glad I could help. We'll get to the bottom of this. .
+PATIENT: Okay. Thank you again, Doctor. .

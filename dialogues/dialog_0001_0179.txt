@@ -1,0 +1,25 @@
+DOCTOR: Alright, Sherrell, is it?
+PATIENT: Yes, that is correct. Sherrell Gyamfi. It is… good to meet you, Doctor Pehrson, I believe? I apologize, my memory is not what it used to be.
+DOCTOR: Yeah, yeah, Pehrson’s the name. Look, I've got a full waiting room, so let's just get straight to it. What brings you in today?
+PATIENT: Ah, yes, of course. Well, it is… difficult to explain. I find… the right words, they do not come so easily these days. It is like they are on the tip of my tongue, but I cannot grasp them. It is very frustrating. I have noticed it getting worse recently.
+DOCTOR: Okay, so… difficulty with, uh, word finding. How long has this been going on?
+PATIENT: Hmm… that is a good question. It has been… some time, I think. Perhaps six months? Maybe longer. It started slowly, just occasional slips of the tongue. But now… now it happens several times a day. It makes conversations… challenging. I apologize if I am rambling. It is hard to keep track.
+DOCTOR: Right. Six months. And is this… consistent?
+PATIENT: Consistent? You mean… does it happen all the time, or does it come and go? I believe it is… mostly consistent, yes. There are some days that are better than others, but it is always there, in the back of my mind. I worry I will… not be able to express myself at all. It is… unsettling.
+DOCTOR: Okay. Any family history of… you know, this sort of thing?
+PATIENT: Family history… that is… difficult. My wife, God rest her soul, she had… some memory troubles towards the end. But I do not believe it was quite the same. She was very… frail. As for my parents… I am not certain. It was a very long time ago, and I do not recall them mentioning anything like this. I apologize for being so vague. It is… hard to remember details from so long ago.
+DOCTOR: Alright. And what about… other medical problems?
+PATIENT: Oh, yes. Well, I have… Medicare, of course. And I had a… a hip replacement a few years ago. That went well, thankfully. And I have… some trouble with my blood pressure, but it is usually managed with… pills. I think. My memory… it is frustrating, I truly apologize. I am trying my best to recall everything. Is there anything specific you are looking for?
+DOCTOR: Hip replacement, high blood pressure. Okay. Any allergies to medications?
+PATIENT: Allergies… hmm. I do not think so. I have never had a reaction to any pills I can recall. But… perhaps my wife knew something I do not. She was very good with those sorts of things. I apologize again for being so… unhelpful. It is truly a struggle to remember. Is it alright if I… pause for a moment to think? It is quite tiring, this.
+DOCTOR: Look, just try to recall if you’ve ever had a rash or trouble breathing after taking a medication. Yes or no is fine. We don’t have all day.
+PATIENT: Oh! Yes, I believe… yes. When I was a young man, I took some… some antibiotic for an infection, and I developed a small rash. It was not very serious, but my doctor at the time told me to avoid that particular… medication. I think that was the only instance. It was… a very long time ago. I hope that is helpful. Is there anything else I can assist you with?
+DOCTOR: Alright, rash with an antibiotic. Now, let's just do a quick exam. Stand up for me. I want to check your balance and reflexes.
+PATIENT: Certainly, Doctor. That sounds… sensible. My balance is… not what it used to be, I must admit. I hope I do not fall. It is rather embarrassing, but I have been feeling a bit… clumsy lately. Is there anything I should be doing specifically?
+DOCTOR: Alright. Follow my finger with your eyes. Don’t move your head. Okay… and now look this way… that way… Good. Stand still. Balance is slightly impaired, reflexes normal. No obvious neurological deficits… at this point. It's probably just age, to be honest. Let's talk about a referral.
+PATIENT: A referral? To… whom, exactly? Is something… seriously wrong, Doctor? I must admit, you are causing me a bit of anxiety now. I was hoping for a simple explanation, perhaps a vitamin deficiency or something similar. A referral sounds… rather concerning. Is it something I should be worried about?
+DOCTOR: Look, I’m not saying it is anything serious, okay?
+PATIENT: Oh. Well, that is… reassuring, to a degree. But if I may ask, to whom are you referring me? Perhaps a specialist in… memory? Or… something related to this difficulty with finding words? It would be helpful to know what to expect, Doctor. I am… a bit apprehensive, I must admit. I do not like being uncertain.
+DOCTOR: Neurologist. Just to rule things out. It’s probably nothing, honestly. Get this filled out, and they’ll schedule you an appointment. Don't worry about it. Next!
+PATIENT: A… neurologist? Is that… very serious? And… will they be able to… help me find my words again? I… I am very worried now. This is all… quite frightening. Perhaps I should just… go home. I do not understand… I simply want to be able to speak again. .
+DOCTOR: .

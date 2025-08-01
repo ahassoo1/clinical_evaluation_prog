@@ -1,0 +1,21 @@
+DOCTOR: Alright, Mr. Ruocco, let's get this over with. So, what brings you in today?
+PATIENT: Oh, uh… the breathing. It hurts when I take a deep breath. Not all the time, just… when I try to fill my lungs, you know? It’s been… a little while now. Honestly, I don’t remember exactly how long. A few weeks, maybe? I just want to get this sorted quickly if we can.
+DOCTOR: A few weeks, right. Vague. Okay. And is this pain…sharp?
+PATIENT: Sharp… hmm. Not really sharp, no. More like… a dull ache. It’s in my chest, mostly. And it feels… tight? Like someone’s squeezing it a little when I breathe deep. Does that make sense? I'm not good at explaining these things.
+DOCTOR: Tightness, okay. And does anything make it worse?
+PATIENT: Worse… Let me think. Walking up the stairs definitely does it. And… carrying things, heavy things. Just… using myself, I guess. Sitting still, it's not so bad. Though even then, sometimes it just… happens.
+DOCTOR: Alright. Any coughing?
+PATIENT: Coughing? Not much, no. A little now and then, but nothing serious. Just a little tickle in my throat sometimes. Not a big cough, like… a smoker's cough or anything. Mostly just when I lie down, I think. Does that matter? I don't really pay attention to it much.
+DOCTOR: Well, everything matters, doesn't it?
+PATIENT: I suppose. Look, I'm an old man. Things ache. I just want to know if this breathing thing is something serious. I don't have time for a lot of fuss. I have things to do, you know?
+DOCTOR: Alright, let’s have a listen to your chest. Sit back, please.
+PATIENT: Okay, okay. Just… be quick, alright? It’s not my favorite thing, having people listen to my chest. Feels… personal.
+DOCTOR: Take a deep breath in… and out… again… Okay. Sounds a little… diminished on both sides. Any history of… smoking?
+PATIENT: Smoking? Oh, uh… A long time ago, yes. When I was younger. But I quit… oh, goodness, fifty years ago, maybe more? It wasn’t a lot, not like some people. Just a few cigarettes a day. Does that even matter after all this time? It feels like a lifetime ago.
+DOCTOR: Alright. And any other medical problems?
+PATIENT: Oh, goodness. Let me see… My knees bother me, a lot. Arthritis, the doctor said years ago. And… I had my gallbladder out, a long time ago. That was… unpleasant. Other than that… not much, I don't think. I’m a pretty sturdy old guy, usually. Honestly, my memory isn't what it used to be. I might be forgetting something important.
+DOCTOR: Any family history of… lung problems?
+PATIENT: Lung problems… hmm. My brother… he had some trouble breathing towards the end, yes. But I don’t know what trouble. He didn’t talk much about it. Lived far away, you see. My mother… she was always healthy, as far as I remember. No, I don’t think so. Not that I know of, anyway. It was a long time ago. Things get forgotten, you know?
+DOCTOR: Look, Mr. Ruocco, it could be a number of things. Your age, your history… it’s likely some mild bronchitis, possibly exacerbated by some old lung irritation. But given your difficulty remembering things, and the fact it's been going on for weeks, I’m going to order a chest X-ray just to be safe. It’s better to rule things out. It's probably nothing, but...better safe than sorry.
+PATIENT: Okay… an X-ray. Fine. Whatever you think is best. As long as it doesn't take too long. I have things to do, you know? Can I just get this slip and get it over with? I appreciate you trying to sort this out quickly. .
+DOCTOR: Here. The radiology department is down the hall, second door on the left. They'll schedule you. And try to rest. Next.

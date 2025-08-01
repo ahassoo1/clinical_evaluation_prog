@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Dhanoa. I am Dr. Yackey. So, let’s get right to it. What brings you in today?
+PATIENT: Morning, Doctor. It’s… this ringing in my ears. It’s been going on for a bit now, and it’s really starting to bother me.
+DOCTOR: A bit?
+PATIENT: Well, maybe a couple of weeks now? It comes and goes, but when it is there, it’s… constant. Like a high-pitched whine, mostly. Makes it hard to concentrate, you know? Especially at work.
+DOCTOR: Work, you say?
+PATIENT: Yeah, I’m a waiter. It’s… not ideal when you’re trying to take orders and all you can hear is this ringing. People have to repeat themselves sometimes. It’s embarrassing, honestly. I just want it to stop.
+DOCTOR: Hmm. And has anything specific happened recently that might have triggered this?
+PATIENT: Not that I can think of, no. Nothing major, anyway. Work’s been pretty normal. Maybe a bit louder than usual with tourists being back, but… I’ve worked in busy places before. I don’t know. That’s why I came in, to be honest. I thought maybe an ear infection or something?
+DOCTOR: Well, let’s not jump to conclusions. An ear infection is… unlikely, given your description. Have you experienced any dizziness, nausea, or hearing loss alongside the ringing?
+PATIENT: No, not really. No dizziness or nausea. My hearing feels okay, just… with this noise on top of it. It’s hard to explain. Like… everything sounds normal, but there’s always this ringing in the background. It’s just… annoying. Really annoying.
+DOCTOR: And do you have any history of exposure to loud noises, either at work or in your personal life?
+PATIENT: Well, like I said, work can be noisy. Music sometimes, lots of chatter. And… I used to go to a few concerts when I was younger, but it’s been ages since then. Years. I don’t think that would still be affecting me, would it?
+DOCTOR: One never knows. Let's move on. Any medications you're currently taking?
+PATIENT: No, Doctor. Nothing at all. I try to stay away from pills if I can help it. Just… over-the-counter stuff for headaches sometimes, but that’s it. And definitely not anything regularly.
+DOCTOR: Allergies?
+PATIENT: Nope. No allergies that I know of. Never had a problem with hay fever or anything like that. Just… this ringing. It’s driving me crazy. I just want to know what’s causing it, you know? And if there’s anything you can do to fix it.
+DOCTOR: Alright. Let’s have a quick look in your ears. It’s unlikely to be anything serious, but we need to rule things out. Please sit forward.
+PATIENT: Okay, sure. Whatever you need, Doctor. Just… try to be quick, if you don’t mind. It’s a bit unsettling, having someone poke around in your ears.
+DOCTOR: Hmm. Tympanic membranes appear normal. No signs of infection, cerumen impaction, or structural abnormalities. As I suspected. It's likely tinnitus. A common annoyance, often related to noise exposure, stress, or, frankly, just age.
+PATIENT: Tinnitus? Is that… serious? Like, will it get worse? Will I go deaf? I’m getting a bit worried now.
+DOCTOR: No, no, not deaf. Don’t be dramatic. It’s rarely a sign of a serious underlying condition. It's... a perception of sound when no external sound is present. We can try some strategies to manage it. I'll recommend some white noise apps and stress reduction techniques. And avoid loud noises, obviously. We can also consider a hearing test, if it persists, just to be certain. But frankly, I doubt it's necessary. Do you have any questions?
+PATIENT: White noise… okay. Stress reduction… I guess I can try that. Is there anything… anything at all I can take? A pill or something? I really need to be able to focus at work. And… how long does this usually last? Will it just… go away on its own?
+DOCTOR: There are medications that can be prescribed, but they often have… undesirable side effects, and are not a long-term solution. They mask the symptom, not the cause. As for how long it lasts… it varies. Some people adjust and it fades into the background. Others… manage it for a longer period. I will provide you with a handout detailing tinnitus management techniques. I recommend starting with those, and if it doesn't improve within a month, then we can discuss further options. Do you have any other concerns, Mr. Dhanoa?
+PATIENT: A month… okay. Well, that’s… not ideal, but I guess it’s better than nothing. No, I think that’s all for now, Doctor. Thank you. I appreciate you taking the time to look at me. I just want to get back to normal, you know? .
+DOCTOR: Very well. Please schedule a follow-up appointment if your symptoms persist. And try to relax. That will be all. .

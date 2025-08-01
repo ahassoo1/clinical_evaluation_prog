@@ -1,0 +1,24 @@
+DOCTOR: Alright, Mr. Shanor. Have a seat. So, what brings you in today?
+PATIENT: Uh, yes. Fitness… for… referee? I need check for referee. Is okay for… work. I do… sports games. Need be strong. Not… old man strong, but… enough.
+DOCTOR: Right. A referee physical. So you want to make sure you’re fit for duty. Okay. And… what sports do you referee, exactly?
+PATIENT: Uh… many. Basketball sometimes. And… volleyball. Little bit soccer. Mostly… high school. Not… professional. Just… kids games. Is good exercise, usually. But… want to be sure. Old… problem with back. Sometimes. Not so bad now.
+DOCTOR: Okay, "sometimes" back pain. We’ll get to that. Just trying to get a picture of things. And when you say “sometimes,” how often are we talking?
+PATIENT: Uh… maybe… once a month? Sometimes not for… two months. Depends. If I lift… heavy things. Or… bend too much. It's not… always. Mostly just… when I do too much. I try to… not do too much. But… you know. Games happen.
+DOCTOR: Right. So, exertion-related back pain. Have you ever had it diagnosed?
+PATIENT: Uh… no. Never… diagnose. Just… doctor tell me… “be careful.” Old doctor. He… retired now. I just… take medicine sometimes. Ibuprofen. Is… help. For the pain. Not… fix it. Just… makes it quiet.
+DOCTOR: Okay. Ibuprofen as needed. Alright. Let’s do a quick physical exam then, just to get a baseline. Can you stand up for me?
+PATIENT: Yes. Okay. Is… good. I think. Not… fast. But… I can stand.
+DOCTOR: Alright. Your lungs sound clear, heartbeat is regular. I’m feeling some mild tenderness in your lower back, right around L4-L5. Nothing major, but that’s likely where you’ve been having the discomfort. Can you bend forward and touch your toes?
+PATIENT: Uh… no. Cannot touch. Stop here. Feels… tight. And… little pain. Is… not good bend. I try. But… cannot. Like… something block. Old… injury maybe? I forget. Long time ago.
+DOCTOR: Okay. Limited range of motion with forward flexion, and pain with the attempt. You mentioned a possible old injury?
+PATIENT: Uh… yes. Maybe. I… was young. Play… soccer. Bad fall. But… not break anything. Doctor say… muscle. Hurt for long time. Then… get better. Mostly. Now… just sometimes. When I do… referee games. Lots of running. And… bending. Is… hard.
+DOCTOR: Alright. History of a soccer injury as a youth. We'll need to rule out anything serious, though. Do you have any numbness or tingling in your legs or feet?
+PATIENT: No. No numb. No… tingle. Just… pain. In back. Sometimes. But… not in legs. Or… feet. Everything… feel okay. Just… back. That is problem. I think.
+DOCTOR: Okay. No radicular symptoms, which is good. We’ll get some X-rays just to see what’s going on with your spine. It’s standard procedure when someone has persistent back pain, especially with a history of injury. Does that sound alright?
+PATIENT: X-ray… yes. Okay. Is… good? Will show… what is wrong? Is… expensive? I have… insurance. But… still.
+DOCTOR: It's covered by your insurance, shouldn't be a significant out-of-pocket cost. And yes, it will give us a better look at your vertebrae and discs. It’s pretty straightforward. While we wait for the results, I'll recommend some basic stretches and strengthening exercises for your core and back. I’ll have the nurse print out a handout. Do you have any allergies to medications?
+PATIENT: Uh… no. No allergies. I can… take most medicine. Ibuprofen is… okay. No problem. And… stretches. Yes. I can try. Not… very flexible. But… I will try. When… I have time.
+DOCTOR: Alright. The nurse will be in shortly to take you for the X-rays. We’ll review the results when they come back, and discuss a more long-term plan. In the meantime, try to avoid any heavy lifting or excessive bending. If the pain gets significantly worse, or you do experience any numbness or tingling, call the office immediately. Do you understand?
+PATIENT: Yes. Okay. No lift… heavy. No bend too much. And… call if… pain bad. Or… numb. Yes. I understand. Is… good. Thank you. I… think.
+DOCTOR: Alright. You're welcome. The nurse will be with you shortly. Have a good day, Mr. Shanor.
+PATIENT: Yes. You too. Thank you. .

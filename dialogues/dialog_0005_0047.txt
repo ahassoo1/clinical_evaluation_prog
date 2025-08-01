@@ -1,0 +1,29 @@
+DOCTOR: Alright, Mr. Rover, have a seat. So, what brings you in today?
+PATIENT: Uh, hi Doc. It’s… well, it’s about… long-term care. My… my wife, she took care of all that stuff. Before… before she passed. I got a letter, somethin’ about checkin’ things out. Insurance, I think? It’s all kinda blurry, to be honest. I just wanna make sure I’m doin’ what I’m supposed to.
+DOCTOR: Right. Insurance and… paperwork. It’s always paperwork, isn’t it?
+PATIENT: You got that right. She was good with all that. Numbers and… forms. I just… moved things. Boxes, mostly. Stock, you know? Not good with the details. It's why I'm here, I guess. To get things sorted.
+DOCTOR: Alright. Well, let’s start with the basics. You said your wife handled all the insurance. Do you know what insurance company it was, or do you have any of her policy information with you?
+PATIENT: Hmm… policy… I think… she mentioned somethin’ about… Blue something? Blue… Shield? Maybe? I honestly don’t remember. I looked around for papers, but… everything’s kinda mixed up still. It’s been a while. I’m sorry, I wish I could be more help.
+DOCTOR: Blue Shield… okay. It’s a start. And it's alright, Mr. Rover. These things happen. Grief does a number on your memory. Do you recall what kind of insurance it was?
+PATIENT: Long-term… she said it was for if… if I needed help. Help with… livin’, I guess. If I couldn't… take care of myself anymore. That's all I really understood. She was always talkin' about makin' sure I was covered, no matter what. She was a good woman. Always thinkin' ahead.
+DOCTOR: Long-term care insurance. Right. So, it sounds like this policy is to cover potential future care needs. Do you have any idea when she took out the policy?
+PATIENT: Oh geez… when? That’s a tough one. I think… maybe five or six years ago? It was before… before her health started gettin’ bad. She was real worried about costs, you know? She wanted to make sure we wouldn't be a burden. I really wish I paid more attention. Sorry. It just wasn’t my thing.
+DOCTOR: Alright. Five or six years ago. That narrows it down somewhat. Let’s talk about your current health. Aside from the reason you’re here today, are you experiencing any health problems?
+PATIENT: Well, I get tired easy. Real easy. And my knees… they bother me somethin’ awful. Especially when the weather changes. And sometimes… sometimes I forget things. Not big things, but… little things. Like where I put my keys, or what I was gonna say. It's probably just old age, though. I'm not as young as I used to be.
+DOCTOR: “Old age.” Right. Fatigue, knee pain, and some memory issues. We'll need to assess those. Have you seen a doctor regularly in the past?
+PATIENT: Not… not really. I mostly just went when somethin’ was really broken. Or when the wife made me. She was always after me to get checkups. Said I needed to be proactive. I always figured I was tough enough. Didn’t need a doctor tellin’ me what was wrong. I guess I was wrong.
+DOCTOR: Right. Well, ignoring things usually doesn't make them better, Mr. Rover. Do you have any allergies to medications?
+PATIENT: Hmm… allergies… I don’t think so. Never had a bad reaction to anything, not that I remember. The wife always gave me whatever I needed, and I just… took it. Didn’t ask questions. I’m sorry, I wish I could be more helpful. This is all kinda… hazy. It's like lookin' through a fog.
+DOCTOR: Alright. No known allergies. Let's do a quick physical exam, just to get a baseline. It'll give us a better idea of what we're dealing with. Can you stand up for me?
+PATIENT: Sure. Just give me a sec… knees aren’t what they used to be. There we go. A little creaky, but I'm standin'. What do you want me to do, Doc?
+DOCTOR: Alright. Just stand still. Let me check your reflexes… and your balance. Now, can you close your eyes and hold your arms out to the sides?
+PATIENT: Like this, Doc? It's a little hard to balance... feel kinda wobbly. I'm not very good at this, am I?
+DOCTOR: No, you’re not. Slight ataxia noted. We’ll need to investigate that further. Now, can you walk a straight line for me?
+PATIENT: Uh… like this, Doc? It's… hard. I'm kinda unsteady on my feet. I think I'm gettin' worse the more I try…
+DOCTOR: Right. That's enough for now. It appears you have some balance issues, which is concerning. Given your wife’s recent passing, your memory concerns, and these physical findings, I’m going to order some blood work and a CT scan of your head. We need to rule out anything serious.
+PATIENT: A CT scan? What… what are you lookin' for, Doc? Is somethin' wrong? I just wanted to make sure my insurance was okay… I didn’t want any trouble… Is it… is it bad?
+DOCTOR: Look, Mr. Rover, I’m not going to speculate. We need to gather more information. It could be nothing, but it’s best to be thorough. The scan will help us rule out any structural issues. And the blood work will assess your overall health and look for any vitamin deficiencies or underlying medical conditions that could be contributing to your symptoms. It's standard procedure, given the circumstances. I’ll have the lab requisitions and scan order ready for you. You’ll need to schedule the scan at the imaging center across town. Do you have transportation?
+PATIENT: Transportation… uh… no. Not really. The wife always drove. I… I haven't driven in years. I don’t know how I’m gonna get there… I don’t have anyone to take me… Is there… is there any way someone could help?
+DOCTOR: Look, Mr. Rover, I'm a doctor, not a social worker. I can't arrange your transportation. You'll need to figure that out yourself. Perhaps a taxi, or a friend, or family member. The scan is important. If you don't get it done, we can't proceed with your care. I have other patients to see. If you have any further questions, you can call the office. Now, if you'll excuse me…
+PATIENT: Okay… okay, I’ll… I’ll figure somethin’ out. Thank you… I guess. I just… I miss my wife. .
+DOCTOR: .

@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Mr. Barban. I am Dr. Mutnick. Now, let’s not waste any time. What brings you in today?
+PATIENT: Good morning, Doctor. I am here for… the check-up. Before the insurance starts, yes? They said I need to do this. It is… required.
+DOCTOR: “Required,” is it?
+PATIENT: Yes. The woman on the phone… she was very specific. Said I must have this… physical. Before Medicare will… cover anything. It is a bit of a bother, honestly. I am perfectly healthy.
+DOCTOR: Right. Well, “perfectly healthy” individuals still require baseline assessments. It’s… prudent. Let's begin. Do you have any current complaints?
+PATIENT: Complaints? No, I do not have complaints. I work hard, I eat… reasonably. I sleep. What kind of complaints would I have? Is this a trick question?
+DOCTOR: No, Mr. Barban, it is not a “trick question.” I am simply inquiring if you are experiencing any symptoms—anything at all that is out of the ordinary for you. Pain, fatigue, digestive issues… anything.
+PATIENT: Digestive issues? No. I eat simple food. Not much trouble there. Sometimes… a little heartburn. But only if I eat something… spicy. Which I avoid. Mostly. It’s not a problem. Just… a slight burning. Is that what you mean?
+DOCTOR: “Occasional heartburn with spicy foods.” Very well. And do you take anything for this heartburn, over-the-counter or otherwise?
+PATIENT: No. I do not take… pills. I prefer to avoid them, if possible. A little water usually helps. And… not eating the spicy food, of course. It is better to just not have the problem, yes? I do not understand why everyone rushes to take something for everything.
+DOCTOR: A pragmatic approach, I suppose. Now, let's move on. Have you had any significant illnesses in the past?
+PATIENT: Illnesses? When I was a boy… I had the measles. And… chickenpox. Normal things, yes? Nothing serious. I recovered quickly. My mother always took good care of me. I have not been… sick since. Not really sick, anyway. A little cold sometimes. Is that what you want to know?
+DOCTOR: Any hospitalizations?
+PATIENT: Hospitalizations? No. Never. I have never been inside a hospital except… to visit my uncle. He had a bad fall, many years ago. But I was never a patient. I am a strong man. I do not need hospitals.
+DOCTOR: Right. Any surgeries, then?
+PATIENT: Surgeries? No, absolutely not. I have all my original parts, thank you very much. I do not go around… cutting myself open for no reason. Why would anyone do that? It sounds… barbaric.
+DOCTOR: Very well. Let’s discuss your family history. Are your parents still living?
+PATIENT: My mother… she passed away last year. A peaceful passing, thankfully. My father… he is still living, but he is very old. He lives back in Yemen. I do not… see him often. It is difficult to travel. He is… healthy enough for his age, I suppose. But old. Very old.
+DOCTOR: And did either of your parents have any significant medical conditions?
+PATIENT: My mother… she had problems with her… joints. When she got older. Arthritis, I think. It made it difficult for her to walk. And my father… he always had a weak heart, but he lived a long life despite it. It was just… old age, mostly. Nothing… dramatic.
+DOCTOR: Alright. And what about you?
+PATIENT: What about me? I just told you. I am healthy. I work. I eat. I sleep. I don't have… problems. What more do you need to know? It is all very simple. Are we finished yet? I have things to do.
+DOCTOR: We are not finished, Mr. Barban. I need to ascertain your lifestyle. Do you smoke?
+PATIENT: Smoke? No! Never. It is… foolish. A waste of money, and bad for your health. My mother always said so. I have never touched a cigarette in my life. Do you smoke, Doctor?
+DOCTOR: That is not relevant. Do you consume alcohol?
+PATIENT: Alcohol? Occasionally. A small glass of wine with dinner. Sometimes. On a Friday, perhaps. Nothing… excessive. I do not drink every day. It is not a habit. Just… a small glass. To relax. Is that a problem?
+DOCTOR: Do you use any recreational drugs?
+PATIENT: Recreational drugs? What kind of question is that? I am a working man! I do not have time for such… nonsense. I have never touched anything like that in my life. Do you think I look like someone who… uses drugs? I find that insulting.
+DOCTOR: Very well. Let's move on to a physical examination, then. Please, lie down on the examination table. We'll start with your blood pressure and heart rate.
+PATIENT: Fine. But I hope this doesn't take too long. I told you, I am perfectly healthy.
+DOCTOR: 130 over 80. Not terrible, but could be better. Heart rate is regular, though slightly elevated. Auscultation reveals no murmurs, gallops or rubs. Lungs are clear to auscultation bilaterally. Abdomen is soft, non-tender, no masses palpated. Let's check your reflexes. Patellar reflexes 2+ bilaterally. Now, let’s take a look at your throat. Open wide, please.
+PATIENT: There. Is that enough? I do not have anything wrong with my throat. I can assure you. I eat healthy food, as I have said.
+DOCTOR: Pharynx appears normal. No erythema or exudates noted. Very well. I suppose that is all I need for now.
+PATIENT: So… what does all this mean? Are you going to tell me what you found, or are you just going to type on that machine all day? I have wasted enough time here already. Is everything alright? Or is there something… wrong? You haven’t said a single word about my health.
+DOCTOR: Mr. Barban, your vital signs are within acceptable parameters. Your physical examination revealed no acute abnormalities. You appear to be in generally good health, despite… your insistence on wasting my time. I recommend maintaining a healthy diet and regular exercise. And perhaps… less questioning of established medical procedures. I’ll order some routine bloodwork, just to be thorough. A complete blood count and a metabolic panel. The lab results should be available in a few days. I’ll contact you if anything significant arises. Is there anything else?
+PATIENT: No. No, that is all. Just… the bloodwork, I suppose. Thank you, Doctor. I hope it doesn't take too long. And… I appreciate your time. .
+DOCTOR: Very well. The nurse will direct you to the lab. .

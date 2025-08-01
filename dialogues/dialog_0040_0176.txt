@@ -1,0 +1,21 @@
+DOCTOR: Right, Ivette Redeye, 50 years old. So, what brings you in today?
+PATIENT: Oh, hello Doctor. It's these hiccups. They just won't stop. It's been... well, I lost track exactly, but more than two days now, easily. It's really annoying, honestly.
+DOCTOR: Hiccups, yes. More than two days… Honestly, people come in for real problems. Alright. And are they… constant?
+PATIENT: No, not constant. They come and go. But they're pretty frequent. Like, every few minutes, usually. It's not like a single little hiccup each time, sometimes it's a whole burst of them, one after another. It's exhausting, to be honest. I haven't slept properly.
+DOCTOR: Exhausting… Right. Have you tried… anything?
+PATIENT: Oh, you know, all the usual things. Holding my breath, drinking water really fast… my daughter told me to try sugar, but that didn't help either. Honestly, I'm starting to feel a bit silly coming here for hiccups, but she said I should just get it checked out. It's just… persistent. And it's making my chest hurt a little bit from all the… well, you know, the hiccuping.
+DOCTOR: Chest pain with the hiccups… Alright. Let's just have a quick listen to your chest, just to be sure it’s nothing… serious. Lie back for me, please.
+PATIENT: Okay, sure. It's probably nothing, really. Just… really annoying. I hope it's not something I caught or something. My daughter would be furious if I got sick.
+DOCTOR: Hmm. Breathing sounds are… clear, mostly. A little bit of wheezing on the exhale, but that could be a lot of things. Do you smoke, by chance?
+PATIENT: No, never have. Tried it once, didn't like it. My mother, she smoked, and it didn’t end well. No, definitely not a smoker. Is the wheezing bad? Should I be worried about that?
+DOCTOR: It’s… not necessarily a worry, at this point. Probably just a little irritation. Do you have any history of asthma, or allergies?
+PATIENT: No asthma, never been diagnosed with anything like that. Allergies… well, I get a little sniffly sometimes during pollen season, but nothing major. Just a bit of a runny nose, that's all. Nothing that requires medication or anything.
+DOCTOR: Alright. And what about your medical history generally?
+PATIENT: Oh, let me think… I had my gallbladder out about ten years ago, that was… unpleasant. And I had a bad bout of the flu a few years back, but that’s about it, really. No other surgeries or anything serious. Blood pressure is usually okay, I get it checked at the pharmacy sometimes. Does that help? I’m not very good at remembering dates and things.
+DOCTOR: Gallbladder ten years ago… Alright. Any family history of… anything significant?
+PATIENT: Oh, family… my mother had diabetes, later in life. And my father… he had heart problems, I think. He passed away when I was fairly young, so I don't remember all the details. My brother is healthy as a horse, though. Always has been. Is it important to know all this? Are the hiccups a sign of something bad? I'm starting to get a little worried now.
+DOCTOR: Look, it's probably just a… spasm. These things happen. I'm going to prescribe you something to help calm the nerves. It should stop the hiccups. If it doesn't, then we can talk about further investigation.
+PATIENT: Oh. Okay. A spasm, right. That sounds… less worrying. What kind of medication is it? Is there anything I should be careful about when taking it? I sometimes take a little something for my sleep, just when I’m really stressed. Will that interact with it?
+DOCTOR: It’s a mild muscle relaxant. Shouldn’t interact with anything… much. But, of course, don’t mix it with alcohol. And if you feel unusually drowsy, stop taking it. Here. Take this as directed and come back if it doesn't resolve in a few days. Honestly, these things usually just go away on their own.
+PATIENT: Oh, okay. Muscle relaxant. No alcohol, got it. And stop if I feel drowsy. Thank you, Doctor. I hope you're right, and it just goes away on its own. I appreciate you seeing me.
+DOCTOR: Yes, well. Try not to worry too much. Next! .

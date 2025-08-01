@@ -1,0 +1,22 @@
+DOCTOR: Right. Well, Jase, let's not waste any time. You're twenty years old... Medicare, suburban clinic. What brings you in today?
+PATIENT: Um, hi. It’s… my stomach. It’s been, well, not good. A lot of… running to the bathroom, if you know what I mean. It’s been going on for a bit now, and it's just… constant. I don’t really remember when it started exactly, just that it’s been a while.
+DOCTOR: “Constant,” you say. Vague. Alright. And when you say “not good,” can you be… more specific?
+PATIENT: Specific… Hmm. Okay, it's like… really watery. And a lot of it. Several times a day, easily. And it’s… uncomfortable. Not painful, really, just… really tiring. It makes it hard to… leave the house, to be honest. I just feel like I need to be close to a bathroom all the time. I don’t remember it being this bad before, but I also… don’t remember a lot of things, so.
+DOCTOR: Right. Watery, frequent… and inconvenient. You mentioned you don’t recall when it started, or much of anything, frankly. Do you have any fever, nausea, or vomiting accompanying this?
+PATIENT: No, not really. No fever that I've noticed. And I haven't thrown up. I feel a little… weak sometimes, maybe? But that could just be from… not eating properly, because of, you know. Everything going on with my stomach. It's just… draining. Does that make sense?
+DOCTOR: “Draining.” Yes, I suppose. And any blood in the stool?
+PATIENT: Um… oh. That’s a good question. I… I don’t think so. I haven’t noticed any, but… honestly, I don’t really look, if you know what I mean? It's just… unpleasant. Sorry, that’s gross. I feel bad even saying it.
+DOCTOR: Right. Well, we need to establish a baseline. Let's move on. Any changes in your diet recently?
+PATIENT: Changes in my diet… Hmm. My husband does most of the cooking, so… not really, I don’t think? We usually have… rice, chicken, vegetables. Pretty standard stuff. I haven’t been eating anything different that I can recall, no. Maybe a bit less of everything, because, you know, stomach.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: Oh, uh… just my birth control. That’s it. Nothing else. And… well, sometimes I take something for headaches, but that’s, like, really occasional. Not every day, or even every week. Just when I really need it.
+DOCTOR: Right. Birth control, occasional headache medication. Any allergies to medications, food, or anything else?
+PATIENT: Um… No, I don't think so. I've never had a really bad reaction to anything. My husband always asks when he gets me anything new, and I always say no. I don’t feel like I have any, but… like I said, I don't remember a lot of things.
+DOCTOR: Alright. Let’s do a quick physical exam. I'd like to listen to your abdomen and palpate it to get a better understanding of what's going on. Do you have any pain when I press on your stomach?
+PATIENT: Okay. Sounds good. No, usually not pain pain. Just… uncomfortable. Like, a general ache. It's… hard to explain. It doesn’t feel sharp or anything. Just… there. It's more annoying than anything, really. Is that helpful?
+DOCTOR: “Annoying” is not a clinical descriptor, Jase. But alright. Let's listen. Sounds… normal. Mildly distended, but nothing alarming. No guarding or rebound tenderness. Alright. I'm going to need a stool sample to rule out any infection. And I'd like to order a basic metabolic panel to check your electrolytes, just to be safe.
+PATIENT: Okay. That sounds… sensible. A stool sample… ugh. But yeah, if that's what you think is best. And the… what was it? A basic metabolic thing? Sounds… complicated. Will that take long?
+DOCTOR: It's standard procedure. The lab will give you instructions for the sample collection. The metabolic panel is just a blood draw – relatively quick. I'll also prescribe you an anti-diarrheal medication to manage the symptoms while we wait for the results. It won’t cure anything, but it should provide some relief. Let's see… Here you are. Come back in one week with the results, and we’ll discuss them. Do you have any questions?
+PATIENT: Okay. A week… That seems manageable. Anti-diarrheal… good. That sounds really helpful, actually. Um… No, I don't think so. Not right now. Just… thank you. For everything. It’s just been really… stressful.
+DOCTOR: Alright. Well, try to stay hydrated, and follow the instructions carefully. Don't hesitate to return sooner if your symptoms worsen. Next patient. Have a good day, Jase. .
+PATIENT: .

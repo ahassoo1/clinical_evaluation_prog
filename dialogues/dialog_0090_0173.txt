@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Jailenne. I'm Dr. Kur. So, what brings you in to see me today?
+PATIENT: Hi Dr. Kur, good morning! Well, I've just been getting the chills lately. It's a bit odd, honestly. Not a fever or anything, just… cold.
+DOCTOR: "Chills, you say?
+PATIENT: Yeah, chills. Like when you're cold, but it comes and goes. It started maybe… a week ago? I didn't think much of it at first, thought it was just the AC being too high somewhere. But it's still happening.
+DOCTOR: Alright. And are these chills accompanied by anything else?
+PATIENT: Hmm… let me think. Not really, no. No cough, no sore throat, no aches… just the chills. Sometimes I feel a little tired, but I always am a bit tired, if I'm honest! Does that make sense? It's hard to say if that's from the chills or just… me.
+DOCTOR: "A little vague, but alright. And have you noticed anything that makes it worse, or better?
+PATIENT: That’s a good question. I don’t think so… It doesn’t seem to be worse after being outside, or after eating something specific. It just… happens. Sometimes it’s in the morning, sometimes in the afternoon. It’s pretty random, actually. I wish I could pinpoint something!
+DOCTOR: "Right. Well, we need to rule some things out. Have you traveled anywhere recently?
+PATIENT: Oh, no, not really. Just a weekend trip to visit my sister in Portland, about a month ago. Nothing exotic, definitely not. Mostly just stayed inside with her, catching up. I haven’t been overseas in… years, honestly.
+DOCTOR: "And are you currently taking any medications?
+PATIENT: Just my birth control pills, and a vitamin D supplement. I started the vitamin D a few months ago, my doctor back in the city said I was a little low. That's it, really. Nothing for any other health problems, thankfully.
+DOCTOR: "Alright. Any allergies to medications, foods, anything at all?
+PATIENT: Nope, nothing I know of. I've always been pretty lucky with that, actually. No hives, no trouble breathing… nothing. My mom always said I had a cast-iron stomach, haha. Though, I don’t really eat shellfish, but that’s just a preference, not an allergy.
+DOCTOR: "Okay. And what about your medical history?
+PATIENT: Um, let me think… I had chickenpox as a kid, like everyone else. And I had my appendix out when I was 16. Other than that, nothing major. Just the usual colds and flus, you know? I've never been seriously sick, thankfully. My divorce was more stressful than anything health-wise, honestly. Is that relevant? Sorry, I know that sounds silly.
+DOCTOR: "We're focusing on medical history, Jailenne. Divorce is... not typically something we document in here. Now, family history?
+PATIENT: Oh, right, sorry! You're right. Okay, family history… My mom has high blood pressure, and my dad had some heart issues when he was older. My grandmother on my mom’s side had diabetes. Other than that, nothing really stands out. They're both still alive, thankfully, but getting up there in age. Does that help? I feel like I’m rambling.
+DOCTOR: "Alright. Let's move on to a quick physical exam. I’d like to check your temperature, listen to your heart and lungs, and just do a general examination. It's unlikely to be anything serious, but we need to be thorough." "If you’ll just have a seat."
+PATIENT: Okay, sounds good. That makes sense. I’m happy to do whatever you need. Hopefully, it is nothing too serious!
+DOCTOR: "Let's start with your temperature." "98.6. Normal. Now, if you'll just breathe deeply for me..." "Lungs are clear. Heart sounds… regular. No murmurs. Anything?
+PATIENT: No, nothing feels different. It just… feels like being a little cold, you know? Like when you've been sitting in the shade for too long. But it comes and goes even when the temperature is warm. It’s so weird.
+DOCTOR: "Lymph nodes… slightly tender, but not significantly enlarged. No obvious signs of infection." "Throat looks clear, ears are normal. Overall, the physical examination is largely unremarkable. It’s… frustrating when there’s nothing concrete to find." "Given your symptoms and the lack of clear findings, it’s possible you’re experiencing a mild viral illness, or perhaps some sort of stress-related reaction. It’s unlikely to be anything serious."
+PATIENT: Okay, that’s… reassuring, I guess? But also a little frustrating, you know? So, what do I do? Do I just… wait it out? Is there anything I can take? Or anything I should be looking for, like if it gets worse? I’m just worried it’s something more.
+DOCTOR: "Well, given the unremarkable examination, I’m not inclined to order extensive testing at this time. We can do a complete blood count to rule out any underlying infection, but honestly, I suspect it won’t reveal much. If it does bother you, we can do it." “If you develop a fever, shortness of breath, or severe fatigue, then we need to revisit this. Otherwise, I recommend rest, fluids, and over-the-counter pain relievers if you feel achy. And try to manage your stress levels.” "Honestly, sometimes the body just does odd things. It doesn't always need a specific explanation."
+PATIENT: Okay… that makes sense, I guess. A blood test sounds good, just to be on the safe side. I’m happy to do it if you think it’s worthwhile. I just… I hate feeling like I'm just imagining things, you know? But rest and fluids… I can definitely do that. And I’ll keep an eye on the fever and shortness of breath. Thanks, Dr. Kur.
+DOCTOR: "Alright. The nurse will draw your blood. I’ll review the results when they come back, and we can discuss them further. And please, try not to worry unnecessarily." "Is there anything else I can help you with today?
+PATIENT: No, I think that’s everything. Thank you for your time, Dr. Kur. I appreciate you checking me out. I’ll let the nurse know I'm ready for the blood test.
+DOCTOR: "Alright. Have a good day."

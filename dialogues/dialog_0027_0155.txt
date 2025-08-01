@@ -1,0 +1,15 @@
+DOCTOR: Good morning, Mr. Jezik. Welcome. I’m Dr. Fazzina. It’s nice to meet you. So, tell me, what brings you in to see me today?
+PATIENT: Oh, uh… well, it’s this… shaking. In my hands, mostly. Been happening for… a while now, I guess. Not sure exactly how long. Everything’s a bit fuzzy these days, you know?
+DOCTOR: Yes, I understand. It can be difficult to keep track. The shaking… is it constant, or does it come and go?
+PATIENT: Comes and goes, I think. Worse when I… when I try to do things. Like, holding a cup of coffee… that’s a mess sometimes. But… it’s not always shaking, no. Sometimes it’s okay. Mostly okay, I suppose. It’s hard to say for sure. Everything blurs together.
+DOCTOR: Okay. And would you say it's just in your hands, or do you notice it anywhere else?
+PATIENT: Hmm… you know, now that you mention it… maybe a little in my leg sometimes? But I figured that was just… old age. I don't pay it much mind, to be honest. It's the hands that bother me. Makes things… difficult. I used to be good with my hands, you know? Working on things… fixing things. Now… not so much.
+DOCTOR: I see. And has anything changed recently that you think might be contributing to this?
+PATIENT: Changes… not that I recall. Divorced a few years back, that was… unsettling, I suppose. But that was a while ago. I mostly just… keep to myself these days. Not much excitement, to be honest. No, I can’t really think of anything new. Just… getting older, I guess. That’s the biggest change. Everything aches.
+DOCTOR: Alright. And do you have any other medical problems that we should be aware of?
+PATIENT: Oh, goodness… I… I don’t really keep track of that sort of thing. My ex-wife, she used to handle all that. I think… maybe high blood pressure at some point? But I haven't been to a doctor in… a long time. I don’t have insurance, you see. Expensive, everything is. So, I just… try to ignore things until they get really bad. Not the smartest thing, I know. But what can you do?
+DOCTOR: Okay. And are you currently taking any medications for anything?
+PATIENT: No, sir. Not a thing. Like I said, haven't been to the doctor in ages. Never really liked taking pills if I could avoid it. Always felt better just… toughing it out. Though, maybe that wasn't the best idea… now look at me, shaking like a leaf.
+DOCTOR: Alright. Now, do you have any allergies to any medications, foods, or anything else?
+PATIENT: Allergies… hmm. Not that I know of. Never really had a bad reaction to anything. Though, my ex-wife always said I was allergic to responsibility. But seriously, no. I don't think so. I eat pretty much anything. Though, I try to avoid shellfish, just in case. Always seemed a bit… dodgy. But it's not an allergy, exactly. More of a preference. .
+DOCTOR: Alright, good to know. Now, I’d like to do a quick physical exam, if that's alright with you. Just to get a better sense of what’s going on. We'll check your reflexes, coordination, and a few other things. Is that okay?

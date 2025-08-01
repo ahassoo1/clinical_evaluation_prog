@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Mr. Puder. I'm Dr. Vanochten. So, tell me, what brings you in today?
+PATIENT: Morning, Doctor. Uh... my heart. It feels... funny sometimes. Like it's beating too fast, but not always. It started a few weeks ago, I think. Maybe a month? It comes and goes.
+DOCTOR: Okay. “Funny” how?
+PATIENT: Hmm... hard to say. Not painful. Just... quick. Like a bird flapping wings inside my chest. And sometimes, it feels like it skips a beat. Not all the time, but enough I noticed. It doesn’t last long, maybe a few seconds. Then it goes back to normal.
+DOCTOR: Alright. And does this happen with any particular activity?
+PATIENT: Not really. I work… I work with the machines at the plant, you know? Sometimes when I’m walking around, sometimes when I’m just sitting. Doesn’t seem to matter much. Maybe… maybe a little more when I’m tired? But not always. It’s confusing.
+DOCTOR: Okay. And have you noticed any other symptoms along with this – like shortness of breath, dizziness, or sweating?
+PATIENT: Shortness of breath... no, not really. Sweating, sometimes. But I work hard, so I sweat a lot anyway. Dizziness… a little bit sometimes, but I think that’s just from standing up too fast. You know? I don’t feel… sick, exactly. Just… worried about the heart thing.
+DOCTOR: Alright. And have you ever been diagnosed with any medical conditions before?
+PATIENT: No, never. I've never really been to the doctor much. Just… little things, colds and stuff. Nothing serious. My wife, she tells me I need to come more often. But I’m usually okay.
+DOCTOR: Okay. Any surgeries in the past?
+PATIENT: No, no surgeries. Nothing like that. I broke my arm when I was a little boy, but that’s it. Just a cast. Long time ago.
+DOCTOR: Alright. And what about your family?
+PATIENT: My family… my father, he had some problems with his blood pressure, I think. He took pills for it. And my mother… she was healthy, mostly. Lived a long life. Not much… heart trouble on either side, as far as I know.
+DOCTOR: Okay. Do you currently take any medications, including over-the-counter drugs or supplements?
+PATIENT: No, nothing. Just… sometimes I take something for a headache, if I get one. Like… ibuprofen, maybe? But not often. I usually just drink water.
+DOCTOR: Alright. And do you have any allergies to any medications or anything else?
+PATIENT: No allergies. Not that I know of. I can eat anything, I think. My wife sometimes makes spicy food, and I’m okay with it.
+DOCTOR: Okay. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no smoking. Never tried it. I drink… sometimes I drink a little tea with my wife after dinner. And sometimes, on a special day, maybe a small glass of wine. But not much, Doctor. Really not much. And no… no other things.
+DOCTOR: Okay. Let's do a quick physical exam, if that's alright with you. I'd like to listen to your heart and lungs, check your pulse, and take your blood pressure. It shouldn’t take long. Is that okay?
+PATIENT: Yes, that’s okay. Whatever you need to do, Doctor. I want to figure out what’s going on.
+DOCTOR: Okay. If you could just lie back on the examination table, please. Your heart rate is a little elevated, currently 98 beats per minute, and your blood pressure is 130/80. Lung sounds are clear bilaterally. I don’t hear any murmurs or abnormal sounds with your heart. Your pulse feels regular. I'm noting some mild pallor, but that could be normal skin tone variation.
+PATIENT: Okay. Is that bad? The heart rate, I mean. What does that mean?
+DOCTOR: It's slightly elevated, yes, but that can be caused by a number of things - stress, caffeine, even just being anxious about coming to the doctor. But given your symptoms, I'd like to run a few tests just to be on the safe side. I'm going to order an EKG to check your heart's electrical activity and a basic blood panel to check your electrolyte levels and rule out any other underlying causes. Does that sound alright?
+PATIENT: An EKG… what is that? Is it painful? And a blood panel… you mean, you’re going to take blood? I don't like needles. Is it… is it something serious, Doctor?
+DOCTOR: An EKG, or electrocardiogram, is a simple test that records the electrical activity of your heart. It doesn't hurt at all. We just put some stickers on your chest, arms, and legs. It takes only a few minutes. And yes, the blood panel requires a small sample of blood. It will be a quick prick, and we'll use a small needle. It's usually not too bad. I understand your concern about needles. We will do our best to make you comfortable. I want to assure you that I'm not necessarily thinking it's something serious. But it’s important to rule out anything concerning, especially given your description of the palpitations. The tests will help us get a clearer picture of what’s going on. Do you agree to the tests?
+PATIENT: Okay… stickers and a small prick. I… I guess so. I want to know what’s going on, you’re right. But can you… can you be quick with the needle? And tell me when you’re doing it? I don’t like surprises. And will I find out right away what it means?
+DOCTOR: Absolutely. We'll be as quick as possible with the needle, and I’ll tell you exactly when we’re doing it. You won’t be surprised, I promise. The lab results usually take a few hours to come back. I'll have my nurse contact you as soon as they are available, and we can schedule a follow-up appointment to discuss the results and create a plan. Does that sound okay?
+PATIENT: Okay. A few hours. That’s… that’s okay. And my wife… she can come with me to the follow-up? She worries a lot. I think she would like to hear it too.
+DOCTOR: Absolutely. Your wife is welcome to join you at the follow-up appointment. In fact, I encourage it. It's always good to have someone with you for support and to help remember everything we discuss. Okay, let's get started with the EKG and blood draw then. My nurse, Sarah, will come in shortly to get you set up. Do you have any questions before we begin?
+PATIENT: No… I think I'm okay. Just… stickers and a small prick, you said. And you’ll tell me what it all means, right? I’m trusting you, Doctor.
+DOCTOR: You're in good hands, Mr. Puder. And yes, I promise to explain everything clearly and answer any questions you have. Sarah will be with you in just a moment.

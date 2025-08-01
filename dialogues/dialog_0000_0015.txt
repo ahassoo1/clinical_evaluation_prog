@@ -1,0 +1,35 @@
+DOCTOR: Alright, Ms. Boham. 40 years old, yes?
+PATIENT: Yes, that is right. Forty years. It… feels like a long time.
+DOCTOR: It does for some, doesn’t it. Now, let’s not dwell on the passage of time. What brings you in today?
+PATIENT: Um… my sinuses. They are… bothering me. A lot of pressure, mostly. It’s been… a while now, I think. I don’t remember exactly when it started, though. Sorry.
+DOCTOR: “A while”?
+PATIENT: Yes. A while. Maybe… a few weeks? Or maybe longer? It’s hard to say. I work, you see. Long hours. It makes it hard to keep track of things. It feels like it’s always something, honestly.
+DOCTOR: Right. Well, “a few weeks” isn’t very helpful, Ms. Boham. We need specifics if I’m going to be able to assist you. Is the pressure constant, or does it come and go?
+PATIENT: Oh, um… it comes and goes. Mostly when I bend over. Or when the weather changes. It’s worse when it’s cold, I think. And… sometimes my head hurts with it. Not a bad hurt, just… a heavy feeling. I hope that makes sense.
+DOCTOR: It’s… passable. Any fever, Ms. Boham?
+PATIENT: Fever? I… I don’t think so. I haven't checked, really. I don’t usually get fevers. I just feel… tired a lot. Is that… related?
+DOCTOR: Everything is “related” to something, Ms. Boham. Tiredness is vague. Is it a new tiredness, or have you always been… fatigued?
+PATIENT: Um… it’s… more now, I think. Work is harder, and I feel it more at the end of the day. But I always get tired. It’s a hard job, you know? A lot of… drilling. I don't know if that helps. It just feels… heavier lately, like I can't push through it as easily. Sorry. I'm not very good at explaining.
+DOCTOR: Drilling?
+PATIENT: Yes. Rotary drilling. For oil and gas. It’s… outside. A lot of noise. And… dust, sometimes. I work with a team. It’s… good work, when I have the energy. But… lately, it’s been harder. Is this important? I thought we were talking about my sinuses. I'm sorry if I'm confusing you.
+DOCTOR: Important?
+PATIENT: Yes… important. I mean, is knowing about my job… helpful to figure out why my head hurts? I don't know what a doctor needs to know. I just want it to stop hurting. Sorry. I just… I don't understand what you're asking sometimes.
+DOCTOR: It’s helpful to understand everything, Ms. Boham. The dust, the noise… it all contributes. Now, have you noticed any nasal discharge?
+PATIENT: Nasal… discharge? You mean… when I blow my nose? It’s… sometimes clear. Sometimes… a little yellow. Not much, though. Usually just when the dust is bad at work. Does that matter? I'm sorry, I really don't know all the medical words.
+DOCTOR: It always matters, Ms. Boham. And frankly, you should be more attentive to your own body. Do you have any other symptoms?
+PATIENT: Other symptoms…? Um… sometimes my ears feel… full. Like they need to pop. And… I cough sometimes. Just a little. Usually in the mornings. I don't know if that's important. It's probably just… the dust. I'm really sorry I'm not being helpful. It's just... a lot going on.
+DOCTOR: Alright. Let's take a look at your ears, nose, and throat. Please sit forward. And try to relax, Ms. Boham. Though I understand that may be difficult.
+PATIENT: Okay. I will try. I don't like when things go in my ears. I always feel… funny. But I will try to be still.
+DOCTOR: Hmm. Mild cerumen impaction bilaterally. The tympanic membranes appear normal, but slightly dull. Nasal mucosa is slightly inflamed. Some mild congestion. Throat is clear, no visible exudate. Alright. Your ears are a little blocked with wax. And your sinuses are mildly inflamed. Now, when was the last time you had a chest X-ray?
+PATIENT: A… chest X-ray? I… I don’t think I’ve ever had a chest X-ray. I've never been sick enough for that, I don't think. I just get… headaches and tired. Is that bad? I don’t have insurance, so I don't go to the doctor much. Sorry. I really don't know anything about X-rays.
+DOCTOR: Of course. No insurance. Alright, Ms. Boham. Given your occupation, your symptoms, and the lack of any prior imaging, I’m going to order a chest X-ray and a complete blood count. It’s just to rule out anything… more serious. We'll also do a basic sinus CT scan. Now, do you have any allergies to medications?
+PATIENT: Allergies…? Um… I don’t think so. I've never really taken much medicine. Maybe… I got a little itchy once when I took something for a cold, a long time ago. But I don’t remember what it was. I don’t like taking pills. Sorry. I’m not very good at remembering things like that. Is it important to know what made me itchy?
+DOCTOR: It’s… mildly relevant. We’ll proceed cautiously. Now, are you currently taking any medications, even over-the-counter?
+PATIENT: No, I don’t take anything. Not even for headaches. I just… rest. And drink water. I used to take something for my back, but I stopped a long time ago. It didn't really help, and it made me feel… funny. Sorry. I really don't like taking pills, if that makes sense. I'm trying to remember everything, but it's hard.
+DOCTOR: Alright, Ms. Boham. Let’s summarize. You’re a 40-year-old female, working in oil and gas, presenting with chronic sinus pressure, fatigue, and intermittent headaches. No significant medical history, no allergies, and no current medications. I’m ordering a chest X-ray and a sinus CT scan. The lab will draw blood to check your complete blood count. Once we have those results, we can discuss a treatment plan. Do you understand?
+PATIENT: Um… yes, I think so. X-ray, blood test… and then we see what happens. But you said… chronic? Is that bad? I just thought I was… tired from work. I understand we need to find out what’s going on, though. Sorry. I’m just… a little worried now. It sounds serious.
+DOCTOR: “Chronic” simply means long-lasting, Ms. Boham. It doesn't automatically equate to “serious.” We need to rule out any underlying causes. Now, I’m going to give you a referral to a radiology center for the imaging. They'll contact you to schedule an appointment. And I suggest you get some rest. Try to limit your exposure to dust as much as possible until we have the results. Do you have any questions?
+PATIENT: Questions… um… how long will it take to get the results? And… will it cost a lot of money? I don't have much money, you see. Sorry. I just… I worry about bills. And… will I feel worse before I feel better?
+DOCTOR: The results will take approximately 24-48 hours. As for the cost… I cannot provide you with an exact figure. You will need to contact the radiology center directly to inquire about their fees and any potential payment options. And whether you’ll feel worse before you feel better… that’s impossible to say at this stage. It depends on what we find. Now, is there anything else?
+PATIENT: No… I think that’s all. Thank you, Doctor. Sorry for being… difficult. I just get… confused sometimes. And worried. I hope it’s not too bad. I will call them tomorrow. Thank you again.
+DOCTOR: Very well. You’re dismissed, Ms. Boham. Please follow up with my office once you’ve scheduled your appointments. And try not to overthink it.

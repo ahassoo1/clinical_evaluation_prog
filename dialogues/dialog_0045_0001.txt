@@ -1,0 +1,24 @@
+DOCTOR: Alright, Mr. Knoch, good to meet you. So, what brings you in today?
+PATIENT: Ah, yes. Doctor Billman, is it? A pleasure. Well, to be frank, it’s the cigarettes. Been at it… a very long time. I’m hoping you can help me finally stop. It’s becoming… troublesome.
+DOCTOR: Right. The cigarettes. Been a long time, you say?
+PATIENT: Sixty years, Doctor. Started when I was fourteen. A foolish habit, I admit, but one that’s proven… difficult to break. I've tried a few times, patches mostly. Didn't take.
+DOCTOR: Sixty years… that's… a considerable amount of time. And patches didn’t do the trick, huh?
+PATIENT: No, sir. They helped for a bit, lessened the craving, but… the habit itself, the ritual of it, you understand? That’s what I can’t seem to shake. And the… the nervousness. If I don’t have one, my hands… they just feel restless.
+DOCTOR: The ritual aspect is common, you're right. And the nervousness… Okay. So, how many cigarettes a day would you say you typically go through now?
+PATIENT: Oh, let me see… it fluctuates, but on average, I'd say… twenty. Perhaps twenty-five. More if I’m… stressed. Though lately, everything feels stressful, doesn’t it?
+DOCTOR: Twenty to twenty-five a day… alright. And have you noticed any other symptoms alongside the cigarettes?
+PATIENT: Symptoms? Well, a bit of a cough, naturally. Especially in the mornings. Gets worse in the winter. And I… I tire more easily these days. Used to be able to work all day without a problem, now… I need a rest in the afternoon, almost always.
+DOCTOR: A cough and fatigue… okay. Have you ever been diagnosed with anything lung-related?
+PATIENT: No, sir. Never. I've… avoided doctors for the most part. Lithuanian men, we’re a stubborn lot. Think we can tough things out. A foolish notion, I’m beginning to realize. But no, nothing official. Just the cough and the tiredness.
+DOCTOR: Right. Well, stubbornness won't help us now. Let's have a listen to your lungs, alright?
+PATIENT: Yes, Doctor. Certainly. Whatever you think is best. I trust your judgment.
+DOCTOR: Alright, deep breath in… and out… again… Okay. And one more. Hmm. I’m hearing some… diminished breath sounds, particularly in the lower lobes. And a little bit of wheezing. It’s not dramatic, but it’s there. We’ll need to get a chest X-ray to get a better look, just to be sure. And I want to check your oxygen saturation. Could you put your finger in here for me?
+PATIENT: An X-ray… yes, if you think it’s necessary, Doctor. I’ll do whatever you recommend. Diminished breath sounds… that doesn’t sound very good, does it? But I suppose that’s why I came.
+DOCTOR: 92%. That’s a little on the low side, Mr. Knoch. Normal is usually above 95. Okay. So, we're going to start with that chest X-ray, and then we can talk about options for quitting. I’m going to order that now. There's a technician just down the hall. Once you're done with that, we can discuss medication and, potentially, a referral to a pulmonary specialist. Does that sound alright?
+PATIENT: Yes, Doctor, that sounds… sensible. A specialist, if necessary, is fine. I just want to… get this sorted out, you understand? A chest X-ray and then talk about stopping. Very good. And thank you for not… lecturing me.
+DOCTOR: Alright. I’ll get the order for the X-ray sent down. And, frankly, Mr. Knoch, lecturing isn't my style. Sixty years is sixty years; we’re dealing with consequences now. While you're waiting, is there anything else I should know?
+PATIENT: No, Doctor, I believe that's everything. I… I have no allergies, take no medications, and… and I live alone. A simple life. Just trying to… breathe a little easier.
+DOCTOR: Alright. Well, let's get that X-ray done. It'll give us a clearer picture of what we're dealing with. The technician will explain everything, but it's quick and painless. I'll be waiting here. And we will work on getting you to breathe easier, Mr. Knoch. Don't worry. Go ahead and head down the hall, they’re expecting you.
+PATIENT: Thank you, Doctor. That… that is very reassuring. I appreciate your… kindness.
+DOCTOR: .
+PATIENT: .

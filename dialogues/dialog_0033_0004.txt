@@ -1,0 +1,30 @@
+DOCTOR: Right. Ms. Fornes, is it?
+PATIENT: Yep, that’s me. Teah Fornes. Good to meet you, Doctor… Dechêne, right? I saw the name on the door.
+DOCTOR: Yes, Dechêne. Look, I have quite a full schedule today, so if we could just get straight to the point, that would be helpful. What brings you in?
+PATIENT: Oh, sure, no problem at all. It’s just a routine check-up, really. My husband reminded me it was time for some shots, you know, to keep everything up-to-date. I don’t usually worry about these things unless someone tells me to! He's good at keeping track of stuff like that.
+DOCTOR: Right. Shots. And… is this a new patient visit or have you been seen here before?
+PATIENT: Oh, no, I haven't been here before. This is my first time coming to this clinic. A friend of mine, Marie, she said you were good, so I thought I'd give it a try. She’s been coming here for a while now.
+DOCTOR: Alright. New patient. So, to be clear, you’re here only for vaccinations today?
+PATIENT: Yep, that’s it. Just the shots. Unless you think I should be getting something else while I’m here? I don't really know what all I need, honestly. You’re the doctor! I just figured it was good to stay on top of things.
+DOCTOR: Well, simply saying 'stay on top of things' isn't exactly a medical reason for preventative care. Let's at least run through a quick history. Do you have any current medical problems—diabetes, high blood pressure, anything like that?
+PATIENT: No, not really. I mean, I get a little tired sometimes, but who doesn’t? And my knees ache a bit in the cold, but I think that's just getting old! Other than that, I’m pretty healthy. I try to stay active, walk when I can. Nothing serious that a doctor would need to know about, I don't think.
+DOCTOR: Right. And past surgeries?
+PATIENT: Hmm… let me think. Oh! Years ago, when I was a kid, I had my tonsils out. That’s it, I think. A really long time ago. And, oh! I broke my wrist once falling off a horse, but it healed up fine. Everything else… nope, I've been pretty lucky, I guess. No major stuff.
+DOCTOR: Alright. Family history?
+PATIENT: Oh, goodness. That's a tough one. My mom, she had… something with her heart, I think. She passed away when I was pretty young, so I don't really remember exactly what it was. And my dad, he lived a long life, but he had some trouble with his eyesight near the end. My brother is healthy as a horse, though. Always has been. Does that help? I'm not really good at remembering all that family stuff.
+DOCTOR: Alright. Do you have any allergies to medications?
+PATIENT: Nope, not that I know of. I’ve never had a bad reaction to anything. I’ve taken some antibiotics over the years for colds, and stuff like that, but never any trouble. Nothing keeps me from taking medicine, that's for sure.
+DOCTOR: And are you currently taking any medications at all?
+PATIENT: Nope. Nothing at all. I don’t like taking pills if I can avoid it. I prefer to just… tough things out, you know? I drink a lot of tea, though, if that counts! Does chamomile count as a medication?
+DOCTOR: No, Ms. Fornes, chamomile tea does not count as a medication. Alright. Let's get a basic physical exam done, then we can discuss vaccinations. Please step onto the scale.
+PATIENT: Okay, sounds good. A check-up is a good idea, I suppose. There we go. Hope I'm not too heavy! Haven't weighed myself in a while.
+DOCTOR: 114 pounds. And your height is listed as 169 centimeters… That puts your BMI at… never mind. Blood pressure is 128 over 76. Not bad. Pulse is 72. Lungs are clear. Heart sounds… regular. Everything appears within normal limits. Now, about those vaccinations… Have you had a tetanus booster in the last ten years?
+PATIENT: Oh, goodness. A tetanus… booster? You know, I really don’t remember. It was probably a long time ago. Maybe when my grandkids were born? I honestly can’t recall. It's been a while since I thought about shots, I guess. Is it important?
+DOCTOR: Yes, Ms. Fornes, it is important. Tetanus is a very serious infection. We need to get you updated. We’ll do a tetanus booster, and I also recommend a flu shot, given the season. Do you have any concerns about either of those?
+PATIENT: Oh, okay. Well, if it's important, then yes, let's do it. I don’t really like needles, but I guess it's better to be safe than sorry. I always worry they’ll hurt a lot! And the flu… well, I got it pretty bad one year, so I definitely don’t want that again. So, yeah, let’s do both, I suppose. Just… try to be quick, okay?
+DOCTOR: Alright. Just a pinch. Try to relax. Done. That wasn’t so bad, was it?
+PATIENT: Ooh! That stung a bit, actually. Maybe not so bad, but definitely noticeable! Are you sure that's all? It feels a little sore already. And will I feel sick afterwards? I have a bingo night tomorrow!
+DOCTOR: Some mild soreness is normal. It shouldn’t interfere with your bingo night. You may experience a low-grade fever for 24 hours. If you develop anything more severe, contact the clinic. Alright. I've documented the vaccinations. Is there anything else I can assist you with today?
+PATIENT: Oh, okay. A low-grade fever… good to know. I'll just take some tea, I guess, if I feel a bit under the weather. No, I don't think so. That's everything, really. Just the shots. Thank you, Doctor. I appreciate you getting me updated, even if it did sting a bit. And maybe next time, I'll remember to ask about a bingo-night-safe vaccination schedule!
+DOCTOR: Right. Very well. Please schedule a follow-up appointment for a booster in ten years. Have a good day, Ms. Fornes. .
+PATIENT: Okay, I will. Ten years, got it. Thank you again, Doctor Dechêne. You too. .

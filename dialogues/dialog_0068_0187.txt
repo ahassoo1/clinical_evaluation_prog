@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Mr. Sobkowicz. I’m Dr. Sham. What brings you in to see me today?
+PATIENT: Morning. Chest…hurts. And heart…flutters. Old man problems, you know? Blood pressure too high, nurse said. Want to get this over with, quickly please.
+DOCTOR: Alright, chest pain and palpitations… and the nurse mentioned elevated blood pressure. Okay. When did this chest pain start?
+PATIENT: Start…? A few days, maybe. Not sure exactly. Things get mixed up, you know? Old age. It comes and goes. Not a constant thing, thankfully. Just…annoying. Makes me tired.
+DOCTOR: A few days, intermittent… and causing fatigue. Is the pain sharp, dull, crushing… can you describe it for me?
+PATIENT: Hmm… not sharp. Not like…broken bone pain. More…heavy. Like someone sitting on my chest. Makes it hard to breathe sometimes. Like squeezing. You understand? Squeezing. Not good squeezing.
+DOCTOR: Okay, squeezing… heaviness. We’ll need to listen to your heart and lungs, and I’ll feel your chest to get a better sense of things. If you don’t mind?
+PATIENT: Fine. Just… be quick, okay? I have things to do. And don’t poke too hard. Old bones, remember?
+DOCTOR: Of course. I'll be gentle. Please lie back on the examination table. I’m just going to listen to your heart and lungs now. Deep breaths, if you can. Hmm… I hear a slight murmur. And there’s some tenderness here, on the left side. Not significant, but noted. Blood pressure is 160/90, as the nurse said. I'm going to take it again to confirm. Your respiratory rate is 22, a little elevated. I'll also check your oxygen saturation. Oxygen is 94%. That's okay, but not ideal. Do you have any shortness of breath right now, while talking?
+PATIENT: Short…breath? A little. Old man lungs, you know. Not like when I was young. Always get winded easily. But not…struggling. Just…tired. Is this taking long? I have appointment. Important appointment.
+DOCTOR: Okay. We’re almost done. I want to ask a few more questions, if you don’t mind. Have you ever been diagnosed with any heart problems before?
+PATIENT: Heart problems? No. Never. Doctor always said I was strong. Good Korean heart, he said. But…that was long time ago. Different doctor. I don't remember all the details. Maybe high cholesterol once? I take a pill for something. Yellow pill.
+DOCTOR: Okay. Possible history of high cholesterol, taking a yellow pill… Do you know what that pill is for?
+PATIENT: For…? Hmm. Something with the fat. In the blood. I…don’t remember the name. My wife handles the pills. She knows everything. She always tells me what to take. I just… swallow them. Is this important? Can we just finish? I’m getting anxious.
+DOCTOR: Alright. And any family history of heart disease, stroke, or high blood pressure?
+PATIENT: Family… Hmm. My father… he had problems. Old age. Very sick. I think… heart. But he died long time ago. My mother… strong woman. Lived long life. No problems that I know of. Everyone in my family was strong. Except my father. But that was…different times. Different food.
+DOCTOR: Okay. Given your symptoms—the chest pain, palpitations, elevated blood pressure—and your family history, it's important we investigate this further. I'm going to order an EKG to check your heart rhythm, and some blood work to look at your cholesterol levels and other markers.
+PATIENT: EKG? Blood work? More tests? Just what I needed. Can’t you just give me a pill? Like my wife does? I don't have time for tests. This is… a waste of time. I need to go. Can I just leave now?
+DOCTOR: Mr. Sobkowicz, I understand your frustration, but these tests are necessary to determine the cause of your symptoms and ensure you receive the appropriate treatment. It's possible it's nothing serious, but we need to rule out any potential heart problems. I'm concerned about the squeezing chest pain, and we can't simply dismiss that. I'll have the nurse draw the blood, and we can get the EKG done right here. It will only take a few minutes. Would you allow me to proceed?
+PATIENT: Fine. Fine! Do your tests. Just… get it over with. Quickly. But if it's nothing, I’m telling my wife about this waste of my time. And she’ll be very angry. Very angry indeed. Just… hurry.
+DOCTOR: Alright. I'll get the nurse in to start the blood work and EKG. We will review the results as soon as they are available. Please just try to relax, Mr. Sobkowicz. I’ll be right back.
+PATIENT: .
+DOCTOR: .

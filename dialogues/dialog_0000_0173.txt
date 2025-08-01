@@ -1,0 +1,21 @@
+DOCTOR: Alright, Jailenne Aslan, 29 years old. So, tell me, what brings you in to see me today?
+PATIENT: Oh, hi Dr. Batara. It's… well, I’ve been getting chills. Not like, a fever chill, just… cold. And it’s been happening on and off for a few days now. It’s kinda annoying, honestly.
+DOCTOR: Chills, you say. And for how many days exactly?
+PATIENT: Hmm, let me think… I guess about four days now? Maybe five. It’s hard to keep track, to be honest. It started kinda subtle, and I just figured it was the AC being too high, you know? But it hasn't really gone away.
+DOCTOR: Just chills, or anything else along with them?
+PATIENT: No, not really. I mean, I’ve been a little tired, but I always am, honestly. Work’s been busy. And maybe a tiny bit achy, but nothing major. It's mostly just… the cold feeling. Like I can’t warm up, even with a sweater. Does that make sense?
+DOCTOR: Tired and achy… Alright. And have you been checking your temperature at all?
+PATIENT: No, I haven't. I didn't think it was a fever thing, you know? I usually only bother with that if I feel really hot. I don’t have a thermometer at home, actually. Should I get one?
+DOCTOR: It wouldn't hurt, generally a good idea to have one on hand. Okay. Let's do a quick physical exam, just to rule things out. I'll listen to your lungs and take your vitals. Then we can discuss this further. Please have a seat on the examination table.
+PATIENT: Okay, sounds good. That's no problem at all. I'm ready when you are.
+DOCTOR: Alright. Let's start with your blood pressure. Deep breath in… and out… good. Again… and out. Blood pressure is 128/76. Lungs sound…clear. A little bit of rhonchi, but nothing alarming. Now let's check your heart. Heart rate is regular, 72 beats per minute. No murmurs that I can detect. Temperature is 98.6 Fahrenheit. Now, any recent travel?
+PATIENT: No, no travel. Not recently, or really at all this year, to be honest! Work’s been too hectic to take any time off. I haven’t left the state in… wow, probably two years. Is that important?
+DOCTOR: Just covering all the bases. Have you been around anyone who’s been sick recently?
+PATIENT: Hmm… my coworker, Sarah, had a really bad cold last week. Sneezing, coughing… the whole thing. I tried to stay away as much as possible, but we work in an open office, so you know how it is. Is that what you mean? It was pretty mild, I didn’t think much of it.
+DOCTOR: Alright. Mild fatigue, chills, some achiness… exposure to a coworker with a cold… It could be a simple viral upper respiratory infection. However, given the persistence of the chills, and the fact that you’re feeling generally unwell…I’d like to order a complete blood count and a basic metabolic panel, just to rule out anything more serious. Does that sound acceptable?
+PATIENT: Yeah, that sounds good. Whatever you think is best, Dr. Batara. I just want to feel normal again. So, blood work is fine. Where do I go to get that done?
+DOCTOR: There's a lab right across the street, "Rural Diagnostics." I'll send the order electronically to them. They should be expecting you. The results usually take 24-48 hours. Once they are back, you can schedule a follow-up appointment with me. Here's a requisition form for the lab, and a printout of the instructions. Come back and see me once you get those results. And try to get some rest in the meantime. Any questions?
+PATIENT: No, I think that covers everything. That's really helpful, thank you. Rest... easier said than done, but I'll try. I appreciate it, Dr. Batara. I’ll go get that done tomorrow then. Thanks again.
+DOCTOR: Very well. If the symptoms worsen significantly - fever, severe shortness of breath, chest pain - please go to the emergency room immediately. Otherwise, schedule a follow-up. Next.
+PATIENT: Okay, I will. Thanks again. Have a good day, Dr. Batara. .
+DOCTOR: .

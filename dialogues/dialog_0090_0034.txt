@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Emileigh. I'm Dr. Kur. So, tell me… what brings you in today?
+PATIENT: Uh, hi Doctor Kur. Good morning to you too. Um… well, I just moved here, actually. It’s, like, a new area for me. I think this is… a check-up? Something about getting set up with a doctor 'cause of my insurance? I'm not super sure, to be honest. It was a lot of paperwork.
+DOCTOR: Right. A new patient visit, then. Medicare paperwork is… extensive. Well, let’s just get a good overview of your health history. It's important, even if you feel fine. First, have you had any significant medical problems in the past?
+PATIENT: Um… significant? Wow. That’s a big word. I… I think I had chickenpox when I was little? And maybe a really bad ear infection once? But… nothing big. I don't really remember much, to be honest. Does that count? I mean, it was a long time ago. It’s hard to… keep track of things, you know?
+DOCTOR: Chickenpox and an ear infection… those are common childhood illnesses. We’re looking for anything more… serious. Any hospitalizations?
+PATIENT: Hospitalizations… hmm. I… I think my mom said I broke my arm when I was really little? But I don’t remember it at all. We lived… far away then. It was… a long trip to the hospital, she said. But that’s all I remember. I'm sorry, I wish I could be more helpful. It’s just… fuzzy, you know?
+DOCTOR: Alright, a possible fracture as a child. We'll note that. Now, have you ever had any surgeries?
+PATIENT: Surgeries… no, I don’t think so. Definitely not as an adult. Maybe when I was a baby? Like, for… stuff babies need? But I really don’t remember. I’ve never had, like, a big operation or anything. My mom would’ve told me, right? If I had surgery?
+DOCTOR: Your mother would likely have mentioned it, yes. Let’s move on. What about your family?
+PATIENT: Family… um… my mom is… still around. She's good. A little… worried about me being new here, I think. And I have a husband! We just moved together. He’s… at the hotel right now, getting settled. Does that count as family? I… I don't have a lot of other family close by. They all live… far away. Does that matter?
+DOCTOR: I meant, are there any significant medical conditions that run in your family?
+PATIENT: Oh! Okay, that makes more sense. Um… I think my grandma… on my mom’s side? She had… something with her heart, I think? And maybe diabetes? But I’m not super sure. My mom doesn't talk about it much. It was… a long time ago, and she gets sad when she talks about family stuff. I don't want to make her sad, so I don't ask. Does that help?
+DOCTOR: It’s… a start. Now, let’s talk about you currently. Any allergies to medications, food, or anything else?
+PATIENT: Um… allergies. I don’t think so. I like all sorts of foods. My husband likes spicy food, and I can eat it too! I haven't ever had a really bad reaction to anything… like, swelling up or trouble breathing or anything. I… I've maybe gotten a few mosquito bites, but that's just itchy, right? Not an allergy.
+DOCTOR: Right. No known allergies. And are you currently taking any medications?
+PATIENT: No, not really. Just… vitamins. My mom said everyone should take vitamins, so I do. They’re little gummy ones. I think they have… orange flavor? I don't really pay attention. They don't feel like medicine, you know? Just… something good for you.
+DOCTOR: Gummy vitamins. Alright. Now, let's do a quick physical exam. Just to get a baseline. Could you step on the scale for me?
+PATIENT: Oh, okay! A check-up. Sure. I always feel a little silly standing on scales. Is it… is it a lot? My husband said I’ve been eating a lot of hotel snacks…
+DOCTOR: 82 kilograms. And your height is recorded as 1.5 meters. That puts your BMI at… well, let’s not focus on that right now. We’ll just listen to your heart and lungs. Please sit back.
+PATIENT: Okay… Eighty-two… wow. That sounds like a lot. Is that… bad? I haven’t weighed myself in a while. Is everything okay?
+DOCTOR: Your heart rate is a little elevated, but not concerningly so. Lungs are clear. Blood pressure is 130/85. Slightly elevated, but we'll monitor it. Now, have you been experiencing any pain anywhere?
+PATIENT: Pain… um… not really. My feet hurt a little bit after walking around all day. But that’s just from being new and exploring, I think. And my back feels a little stiff sometimes, from sitting on the plane. But that goes away. No, I don't have like… bad pain. Nothing that makes me want to, like, cry or anything. Does that make sense?
+DOCTOR: Alright. So, no significant complaints. Let's just quickly check your reflexes.
+PATIENT: Oh! What's that for? Is it… going to hurt? I don't like surprises…
+DOCTOR: It's a neurological exam, to test your reflexes. It shouldn't hurt, just a quick tap. Relax your leg.
+PATIENT: Yelp! Oh… that was… surprising! It made my leg kick! Is that… good? Is something wrong? It felt… weird!
+DOCTOR: Your reflexes are hyperactive. It could be a number of things, but it's something we need to investigate further. I want to order some blood work to check your thyroid levels and basic metabolic panel, and an EKG to check your heart rhythm. We'll also schedule a follow-up appointment to discuss the results.
+PATIENT: Um… blood work and… an EKG? What’s wrong? Is something bad happening? My heart wasn't feeling weird, I don't think. I don't like tests… Are you sure I need all those?
+DOCTOR: It’s standard procedure, Emileigh. Hyperactive reflexes and slightly elevated blood pressure warrant further investigation. It doesn’t necessarily mean anything is wrong, but we need to rule things out. The blood work and EKG will give us a clearer picture of your overall health. It's better to be proactive. I’m not going to speculate without data. Here are the forms. Take these to the lab and the cardiology department. They will schedule your appointments. I'll see you in a week to review the results. Do you have any questions?
+PATIENT: Um… a week? That feels like a long time to wait… and I have to go to… two different places? I'm not very good with directions… I guess… no, I don't have any questions right now. I'm just… a little scared, I think. Is my husband allowed to come with me to the appointments?
+DOCTOR: Your husband is welcome to accompany you to the appointments, of course. Having someone with you is a good idea. As for the directions, the lab and cardiology department websites both have detailed maps and instructions. I have the front desk staff write down the addresses for you, so you do not have to worry about it. Is there anything else I can help you with today?
+PATIENT: No… I think that’s all. Thank you. I guess I’ll go find the front desk. Thank you for… trying to explain things. It's just… a lot.
+DOCTOR: .

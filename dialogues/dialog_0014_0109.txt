@@ -1,0 +1,28 @@
+DOCTOR: Alright, Mr. Brum, nice to meet you. So, what brings you in today?
+PATIENT: Head… back of head hurts. Been hurting… maybe three days now? Not… not all the time. Comes and goes. Like a… a dull ache. It’s… hard to explain.
+DOCTOR: Mm-hmm. Okay, a dull ache in the back of your head, comes and goes for three days. Is it on one side, or both?
+PATIENT: Both sides, I think. Not… not strong on one side. Just… both. Feels like… like a band. Tight band around my head, in the back. Does that make sense? I don't… I don't know the words.
+DOCTOR: It does, it does. A tight band… okay. And has anything specific brought it on?
+PATIENT: Specific…? No. Not that I know. I been… working. Same work I always do. Rails… the trains. Sometimes hot, sometimes not. Been drinking water. Maybe… maybe a little more tired than usual? But I always get tired. Old man, you know.
+DOCTOR: Right. Well, tiredness isn’t unexpected. You are quite… seasoned. And the rail work… is it physically strenuous?
+PATIENT: Yes. Very. Lift things… check things… walk a lot. Dinkey… you know, little train to move cars. It… shakes you up. And the sun. Lots of sun. Sometimes no shade. Not… not like it used to be, though. Used to have more helpers. Now… mostly me.
+DOCTOR: Okay. And any other symptoms?
+PATIENT: Other…? Let me think. No… no fever. Not dizzy. Can see okay. No… nothing falling apart! Just… the head. Sometimes feels… heavy. Like a rock. Not… not all the time, though. Maybe… a little trouble sleeping? But that's always been my problem.
+DOCTOR: Heavy feeling, trouble sleeping… alright. And you said three days now?
+PATIENT: Yes. Three days. Started… Tuesday, I think. Maybe Wednesday. Days… they all blend together. But three days. Not getting worse, not getting better. Just… there. Annoying. Like a little bug.
+DOCTOR: Right. Well, let’s just do a quick exam, just to rule things out. I’m going to check your reflexes, strength, and a few other things. Just follow my instructions, okay?
+PATIENT: Okay. Sounds… okay. You tell me what to do. I… I don't know about reflexes. Never had nobody check my reflexes before. Is it going to hurt?
+DOCTOR: No, it shouldn't hurt. It’s just a little tap with a rubber hammer. Nothing to worry about. Okay, if you could just sit up straight and relax your arms at your sides. First, I’m going to check your reflexes in your knees.
+PATIENT: Okay. Knees… okay. This chair… a little hard. But okay. Do it quick, please. I… I don't like to sit still for long.
+DOCTOR: Alright. Now the other knee. Not quite as strong as they should be, but not alarming. Okay, now I want you to squeeze my hands as hard as you can. Both at the same time.
+PATIENT: Like this? I… I don't have much strength in my hands anymore. Old man. Years of working… rails and trains. Heavy things. It's okay, though. I can still do my job. Mostly.
+DOCTOR: Alright. And can you push against my hands like this?
+PATIENT: Push? Like… like this? I… I try. It's hard. Not strong. Really, I… I used to be stronger. Much stronger. Rails… they take a lot out of you.
+DOCTOR: Okay. Well, it sounds like there's some weakness, which is not entirely surprising given your occupation and age. Given your symptoms, and the exam findings… it could be a number of things. Tension headache, muscle strain… but with the weakness, we need to rule out anything more serious.
+PATIENT: Serious…? Like… what serious? I… I don't want serious. I just want the head hurting to stop. Is it… is it my brain?
+DOCTOR: Now, now. Don’t jump to conclusions. It’s unlikely to be anything drastic, but given your age and the weakness… we need to be thorough. I’m going to order a CT scan of your head, just to rule out anything concerning. And I’ll also order some blood work to check for inflammation and other things. It's standard procedure.
+PATIENT: CT scan…? Blood work…? That… that sounds expensive. I… I don't have insurance. Never had insurance. Rails… they don't give insurance. How much… how much will it cost? I… I barely have enough money for food.
+DOCTOR: Look, Mr. Brum, I understand your concerns, but we need to determine the cause of your headache. There are programs to help with the cost, but we’ll deal with that after we get the results. I’ll have the receptionist talk to you about financial assistance. But right now, we need to focus on getting these tests done. I'll write you the orders. This is non-negotiable. It’s for your own good.
+PATIENT: Non-negotiable…? Okay. Okay, whatever you say. I… I guess I have no choice. But… what if it's something bad? What if… I can’t afford to fix it? Rails… they don’t care about old men. They just want us to keep working.
+DOCTOR: Look, Mr. Brum, worrying won't help. We’ll cross that bridge when we come to it. The tests will tell us what’s going on. Right now, just focus on getting the tests scheduled. The receptionist will handle the paperwork and financial assistance. I have other patients waiting. Here's the order, and the front desk will assist with scheduling and payment options. Now, if you’ll excuse me…
+PATIENT: .

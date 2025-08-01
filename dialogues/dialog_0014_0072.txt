@@ -1,0 +1,35 @@
+DOCTOR: Alright, Ms. Heidenthal. Have a seat. So, what brings you in today?
+PATIENT: Well, hello Doctor. It's... it's my memory, honestly. It’s been a bit wonky lately, and it's starting to worry me. I just… forget things. Not huge things, usually, but little stuff. Like where I put my keys, or what I was about to say mid-sentence. It’s frustrating, you know?
+DOCTOR: Mm-hm. "Wonky," you say. And how long has this been going on, exactly?
+PATIENT: Oh, geez, that’s a good question. It's hard to pinpoint, really. I think... maybe six months? It started slowly, just little things here and there, and I figured it was just stress, being busy at the practice. But it feels like it's gotten worse recently. More frequent, definitely.
+DOCTOR: "Busy at the practice," right. What kind of practice do you work at?
+PATIENT: Oh! Sorry, I should have mentioned that earlier. I'm a dentist. General practice, out near Willow Creek. It's a bit of a drive, but I like it. We're pretty busy though, lots of patients. I'm usually running around all day.
+DOCTOR: Right. A dentist. Running around. And besides just where you put things, are you having trouble remembering events?
+PATIENT: Hmm... yes, sometimes. Not like, big life events, thankfully. But… like appointments, or what I had for breakfast yesterday. Small stuff like that. It's not all the time, but it happens enough that I’m noticing it. And it’s worrying me that it might get worse.
+DOCTOR: Okay. So, not major memory loss, but more… gaps in recent recall. Have you noticed any changes in your mood, Ms. Heidenthal?
+PATIENT: Changes in mood… that's a good question. I wouldn’t say major changes. I get frustrated easily when I can’t remember things, which I guess isn't a great mood! And… maybe a little more anxious than usual, just because of worrying about this memory stuff. But nothing like, clinically depressed or anything. I’m usually pretty even-keeled.
+DOCTOR: Right. "Even-keeled." And have you been experiencing any headaches?
+PATIENT: Headaches? Not really, no. I get the occasional tension headache, you know, from being stressed at work, but nothing different than usual. They’re not frequent or severe. Honestly, the memory loss is more concerning than any headaches.
+DOCTOR: Alright. And what about your sleep?
+PATIENT: Sleep is... okay. I usually get about seven or eight hours, but it's not always restful sleep, if that makes sense? I sometimes wake up during the night and have trouble getting back to sleep. It’s not every night, but it happens enough. Maybe two or three times a week. I think I just think about work too much.
+DOCTOR: Okay. And are you taking any medications currently?
+PATIENT: No, I'm not. I try to avoid them if I can. Just the occasional ibuprofen for a headache, but nothing regularly. I like to stay as natural as possible, you know? I try to eat healthy and get enough exercise, even though it's hard with work sometimes.
+DOCTOR: Alright. Well, Ms. Heidenthal, it could be stress-related, given your busy schedule. But at your age, we always want to rule out other possibilities. Let's do a quick neurological exam. It’s just a few simple tests to check your reflexes and balance. Do you mind?
+PATIENT: No, not at all. That sounds sensible. I’d rather rule things out than just assume it’s stress. Let’s do the tests. I’m ready when you are.
+DOCTOR: Alright. If you’ll follow me. First, I’m going to check your reflexes. Can you sit here, with your feet dangling?
+PATIENT: Sure thing. Ready when you are. I hope I'm not too clumsy!
+DOCTOR: Okay. Just relax. Now, I’m going to check your balance. Can you stand up, and try to stand with your feet together, and your eyes closed?
+PATIENT: Okay. A little wobbly, but I'm trying! Hopefully, I don't fall over. Just let me know if I’m doing it wrong.
+DOCTOR: Mm-hm. A bit unsteady, yes. And can you walk a straight line, heel to toe, for me?
+PATIENT: Okay. Whoa! Okay, maybe I’m not as graceful as I thought. Sorry about that. That was… not very smooth.
+DOCTOR: Alright, alright. That’s alright, Ms. Heidenthal. It's good we're checking. Now, let's check your short-term memory a bit further. I'm going to say three words, and I want you to try to repeat them back to me after I say a few other things. Ready?
+PATIENT: Yes, I'm ready. Three words, okay. Let’s do it. Bring ‘em on! I’ll try my best, I promise.
+DOCTOR: Alright. The words are: apple, table, penny. Now, I'm going to ask you a few questions unrelated to those words… What year were you born?
+PATIENT: Oh, that’s a classic question! I was born in 1987. Now… what were those three words again? Oh dear… this isn’t good, is it? I feel so silly!
+DOCTOR: Hmm. Alright. Let's not worry about feeling silly. It’s important to assess things accurately. We can try again. What did you have for breakfast this morning?
+PATIENT: Oh, this is awful. I had… toast. Just toast, with a little bit of jam. But the words… they’re just gone. Apple… something… a penny? Was table one of them? This is definitely worse than I thought.
+DOCTOR: Alright, Ms. Heidenthal. It appears there is some short-term memory impairment. Given your age, and these findings, I'm concerned about the possibility of early-onset cognitive decline. However, this could be due to a variety of factors, including stress, vitamin deficiencies, or other underlying conditions. I’m going to order some blood work to rule out any deficiencies. I also recommend an MRI of the brain to get a better look at things. And, I want you to see a neurologist. It’s better to be safe than sorry, and get a proper diagnosis. Does that sound alright?
+PATIENT: Oh. An MRI… and a neurologist… That sounds… serious. Okay. Yes. Yes, that sounds… sensible. I want to know what’s happening. Whatever it is, I need to know. So… yes, please. Let's do the blood work and the MRI. And I’ll see the neurologist. Thank you, Doctor. For being honest, and for taking this seriously. It’s… a bit frightening.
+DOCTOR: Alright. I'm glad you feel that way, Ms. Heidenthal. It's better to know. I'll get the orders for the blood work and MRI sent to the lab and the imaging center. The neurologist I recommend is Dr. Ramirez – she’s excellent. Here’s a referral form and her contact information. It may take a few weeks to get an appointment, so we'll call them now to get you scheduled. I'll also schedule a follow-up appointment with me in two weeks to discuss the results. In the meantime, if you notice any significant changes in your memory or experience any new symptoms, please don’t hesitate to call my office. Do you have any questions for me right now?
+PATIENT: No… I think I'm a bit overwhelmed to be honest. Two weeks… that feels like a long time to wait. But I understand. Okay. So… blood work, MRI, neurologist. And a follow-up appointment with you in two weeks. I think I’ve got it. Thank you, Doctor Osterholm. Really, thank you. I guess I’ll… just go get the blood work done then.
+DOCTOR: Alright, Ms. Heidenthal. The lab is just down the hall. And please, don’t hesitate to call if you need anything at all. We'll get to the bottom of this. .

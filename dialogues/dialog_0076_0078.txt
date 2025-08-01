@@ -1,0 +1,18 @@
+DOCTOR: Right, well, let's get this over with. So, Ms. Pitzel, what brings you in today?
+PATIENT: Good afternoon, Doctor Ruocco. It’s… well, it’s a little hard to explain. I feel like I need a reset, a jumpstart, if you will. I’m just not… thriving. I don’t feel sick, exactly, but I’m not well. Does that make any sense?
+DOCTOR: Vague. Always vague. Alright. Not “thriving,” not “sick.” So, fatigue then?
+PATIENT: Not… exactly fatigue either. It's more like… everything feels a little dim. Like the color has gone out of things. And it’s been going on for… oh, goodness, I don’t know. Months, I suppose? It’s hard to pinpoint. I just feel… blah. Is that helpful? I apologize for being so imprecise.
+DOCTOR: “Blah.” Wonderful. Look, Ms. Pitzel, I have other patients. Can you try to be a little more specific?
+PATIENT: Oh, I am terribly sorry! You’re right, I’m rambling. Specific… Let me think. My appetite isn’t what it used to be, though I haven't lost any weight, not noticeably. And I’m sleeping, but it’s not restful sleep. I wake up feeling… just as tired as when I went to bed. And… sometimes I feel a little shaky, like I need a cup of coffee, even if I’ve already had one. Is that… any better?
+DOCTOR: Okay, so decreased appetite, non-restorative sleep, and some… shakiness. Any changes in bowel habits?
+PATIENT: Oh dear. That's a bit… personal, isn't it? Well, no, not really. Everything is… regular, I suppose. Perhaps a little slower than usual, but nothing concerning. It’s just… everything feels a bit off, you understand? Like a machine that needs a tune-up.
+DOCTOR: Right. “Off.” Look, are you taking any medications currently?
+PATIENT: Just a multivitamin, Doctor. Nothing prescribed, nothing for any specific condition. And, well, sometimes I take a little something for my nerves, but it’s just… an herbal remedy my mother used to make. Nothing strong, I assure you. It’s mostly chamomile and lavender. Does that count?
+DOCTOR: Herbal remedies. Honestly. Any allergies to medications, food, anything?
+PATIENT: No, no allergies that I'm aware of. I've always been quite robust, health-wise. I can’t recall ever having a reaction to anything. Though… my husband does say I sometimes forget where I put things. But I just assumed that was… age. Is that relevant?
+DOCTOR: Forgetfulness. Of course. Alright. Well, let's do a quick physical exam, just to rule things out. Blood pressure, pulse, listen to your heart and lungs. Nothing extensive.
+PATIENT: That sounds… sensible. Yes, please do. I trust your judgment, Doctor. Whatever you think is best.
+DOCTOR: 110 over 70. Not bad. Heart rate is regular, no murmurs. Lungs are clear. Reflexes are normal. Everything seems… remarkably normal, frankly. But you feel unwell. Hmmm. Let’s get some blood work done. Standard panel, thyroid, vitamin D, B12. Rule out deficiencies.
+PATIENT: That sounds… thorough. Yes, absolutely. Whatever tests you deem necessary, Doctor. I just want to feel like myself again. When can I expect the results? And… is there anything I should be doing in the meantime? Anything at all?
+DOCTOR: The lab should have them in a few days. In the meantime… try to get more sleep. And… maybe cut back on the herbal remedies. Honestly, they probably aren't helping. We’ll see what the blood work shows. Next patient.
+PATIENT: Oh. Right. Of course. More sleep, less… chamomile. Thank you, Doctor Ruocco. I’ll… wait for the results, then. .

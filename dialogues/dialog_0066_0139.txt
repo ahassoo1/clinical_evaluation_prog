@@ -1,0 +1,38 @@
+DOCTOR: Hi Yamir, good to meet you. I'm Dr. Condray. So, what brings you in to see me today?
+PATIENT: Hi Doctor. Good to meet you too. I… need check for referee. For… fitness. I want to make sure I okay to do this. It for… sports. I do basketball games.
+DOCTOR: Okay, I understand. You need a sports physical, a check-up to make sure you're healthy enough for basketball games. That's great you're being proactive about this. Just to confirm, your name is Yamir Shanor, and you're 31 years old, is that right?
+PATIENT: Yes, that is right. Thirty-one. And… Shanor. It is little hard for people sometimes.
+DOCTOR: Shanor, got it. No worries, I'll remember. I'm pretty good with names. Okay, so let’s go through some things to get a good picture of your overall health. First, have you had any major illnesses or surgeries in the past?
+PATIENT: Hmm… not really. I… had small cut when I was kid. Playing with friends. But nothing big. Oh. And my wife… she passed away last year. That was… hard. But not surgery or sickness for me.
+DOCTOR: I’m so very sorry to hear about your wife. That must have been incredibly difficult. It's good you're taking care of yourself now, and I appreciate you sharing that with me. So, just to clarify, no significant past medical issues you've experienced, other than that childhood cut?
+PATIENT: No. No big sickness for me. Just… sad. And tired sometimes. But that maybe from… everything. I work hard, fix things all day. It hot work.
+DOCTOR: Okay, that makes sense. Working hard and dealing with heat can definitely be tiring. Let’s talk about your family. Do you know if anyone in your family – parents, siblings, grandparents – has any medical conditions like heart disease, diabetes, high blood pressure, or anything else significant?
+PATIENT: Hmm… my father… he had problems with his… breathing. When he was old. And my mother… she has weak bones. She break arm easy. That all I know. My sister… she healthy. I think. We don’t talk much anymore.
+DOCTOR: Okay, so your father had breathing problems and your mother has weak bones – that’s good information to have. Anything else you recall about their health, even if it seems small?
+PATIENT: No… not really. They… old. Old people have problems, right? I no good at remembering things like that. I just… fix things. Not doctor things.
+DOCTOR: That’s perfectly alright. You're not expected to be a doctor! It's helpful to know even a little bit. We can always get more details later if needed. Now, let’s talk about you a bit more. Do you have any allergies to medications, foods, or anything else?
+PATIENT: No allergies. I eat everything. I try not to be picky, you know? Especially with work. Sometimes dirty, sometimes… I just eat. No problems.
+DOCTOR: Okay, good to know. No known allergies. And are you currently taking any medications – prescription, over-the-counter, vitamins, supplements, anything at all?
+PATIENT: No. Nothing. I don’t like taking pills. Make me feel… slow. Just water. And coffee sometimes. For work.
+DOCTOR: Okay, no medications. Just water and occasional coffee. That’s good. Now, just to get a full picture, could you tell me a little bit about your lifestyle?
+PATIENT: Lifestyle? I… work. I fix the… inside of the big machines. It hot and dirty. I come home, eat dinner, sleep. Sometimes watch basketball. That is my life. Not much else.
+DOCTOR: Okay, so primarily working as a machine repairman, coming home to rest and occasionally watching basketball. Do you smoke or use tobacco in any form?
+PATIENT: No. Never. My wife… she no like smoking. And I no like it. Makes you cough. Bad for running. I need to run for referee.
+DOCTOR: That’s great to hear. And do you drink alcohol?
+PATIENT: Sometimes. Beer. Not much. Maybe one or two on weekend. After work. Sometimes. Not every week. When I sad, maybe.
+DOCTOR: Okay, occasional beer, sometimes on weekends. That’s helpful to know. Now, finally, before we do a quick physical exam, are you experiencing any current symptoms – anything bothering you right now, like pain, shortness of breath, fatigue, dizziness, anything at all?
+PATIENT: Hmm… sometimes my back hurts. From lifting heavy things at work. And… I tired a lot. But like I said, that maybe from everything. No dizzy. No… shortness of breath. Just… old tired.
+DOCTOR: Okay, so back pain from work and generally feeling tired. We can definitely take a look at your back. Alright, let's do a quick physical exam. I'll listen to your heart and lungs, check your blood pressure, and take a look at your back. Is that okay with you?
+PATIENT: Yes. Okay. Hurry is good. I have work tomorrow.
+DOCTOR: Alright, let’s start with your blood pressure. Just relax your arm for me… Okay, that's 130 over 80. Not bad. Heart sounds are normal, regular rhythm. Lungs are clear. Deep breath… and again… good. Now, let’s check your back. Can you point to where it hurts the most?
+PATIENT: Right here. Always here. When I lift. Or bend. Sometimes at night, when I sleep.
+DOCTOR: Okay, there’s definitely some tenderness here. And I feel some muscle tightness. Do you feel any pain radiating down your legs?
+PATIENT: No. Not down the legs. Just in the back. Sometimes stiff. Like… old machine. Need oil.
+DOCTOR: Like an old machine needing oil, I understand. Okay, good. No radiating pain is a positive sign. Okay, can you bend forward and touch your toes for me?
+PATIENT: Oof… That hurts a little. I can’t touch them. Not anymore. Like… rusty.
+DOCTOR: Okay, I see. Limited range of motion, and some discomfort with bending. It seems like you have some muscle strain and stiffness in your lower back. Alright, that’s enough for the quick exam. Based on what you’ve told me and the exam, it sounds like you have a muscle strain in your lower back. I don’t think it’s anything serious, but it’s good to address it. Do you have any questions for me so far?
+PATIENT: No questions. Can I go to work? I need money. And I have game on Saturday.
+DOCTOR: Yes, you can go to work. However, I would recommend taking it easy, avoiding heavy lifting as much as possible, and using proper lifting techniques when you do have to lift something. I can give you a note for work explaining that you have a muscle strain and may need to modify your duties temporarily. I also recommend over-the-counter pain relievers like ibuprofen or naproxen to help with the pain and inflammation. And if the pain doesn’t improve after a week, or if it gets worse, please come back and see me. Does that sound alright?
+PATIENT: Yes. Okay. Pain pills and… be careful. And note for work. That is good. Thank you, Doctor. Can I go now?
+DOCTOR: You're very welcome, Yamir. Here's the note for your work. It explains the muscle strain and recommends modified duties. I'm going to write down a quick plan for you on this paper too – pain relievers as needed, avoid heavy lifting, and come back if it doesn't improve. Yes, you can go now. Please take care of yourself, and don’t hesitate to come back if you need anything. And good luck with your basketball game on Saturday!
+PATIENT: Thank you, Doctor. You are very kind.

@@ -1,0 +1,43 @@
+DOCTOR: Hi Lakiya, welcome to the clinic. It’s nice to meet you. I’m Dr. Kamahele. So, what brings you in today?
+PATIENT: Good day, Doctor. My back... it is painful. It has been this way for some time now. I would like to get it looked at, if you please.
+DOCTOR: Okay, back pain. I understand. “Some time now” is a little vague – could you tell me roughly how long?
+PATIENT: Roughly... three months, Doctor. Perhaps a little longer. It started slow, just a dull ache after work, but now it's... sharper. It makes it hard to sleep.
+DOCTOR: Three months… alright. And what kind of work do you do, Lakiya?
+PATIENT: I erect fences, Doctor. It's… physical labor. Lots of lifting and bending. My husband and I used to do it together. Now... it is just me.
+DOCTOR: I see. That is physical work. Lifting and bending… that makes a lot of sense. And where exactly is the pain located?
+PATIENT: It is low on my back, Doctor. On the left side, mostly. Sometimes it feels like it goes down into my hip. But it is definitely centered low on my back. It hurts to bend over, and it hurts when I try to lift anything heavy, naturally.
+DOCTOR: Okay, low back pain, primarily on the left side, radiating sometimes into the hip. And it’s worse with bending and lifting… Have you noticed anything that makes it better?
+PATIENT: Rest, Doctor. When I sit and do nothing, it feels… less. And sometimes, if I take a warm bath, it eases up for a little while. But it always comes back.
+DOCTOR: Alright, rest and warm baths help temporarily. Good to know. Have you tried any pain medications, over-the-counter or otherwise?
+PATIENT: I have taken some ibuprofen, Doctor. The kind you can buy at the store. It takes the edge off, but it does not fix anything. And I do not like to take too much. It upsets my stomach.
+DOCTOR: Okay, ibuprofen helps a little, but causes stomach upset. I understand. Now, just to get a better picture, have you had any numbness or weakness in your legs or feet?
+PATIENT: No, Doctor. No numbness or weakness. My legs feel… normal. I can walk, I can stand. It just hurts to do those things for too long. And bending... that is the worst part.
+DOCTOR: Alright, good. No numbness or weakness is reassuring. And you mentioned this started around the time your husband stopped working with you. Has there been any emotional stress or changes in your life around that time as well?
+PATIENT: Yes, Doctor. Losing my husband... it has been difficult. He passed away six months ago. We did everything together for forty years. It is just... different now. I try to keep busy with the work, but... it is hard.
+DOCTOR: I am so very sorry for your loss, Lakiya. That's a tremendous change, and it's completely understandable that it would be difficult. It’s good you're keeping busy, but it’s also important to acknowledge the emotional toll. Okay, let’s talk a little about your medical history. Do you have any existing medical conditions, like arthritis or diabetes?
+PATIENT: No, Doctor. Nothing like that. I have Medicare, so they check me regularly. They say I am generally healthy. Just this back pain. My husband had high blood pressure, but I do not. I do not smoke, and I rarely drink.
+DOCTOR: Okay, generally healthy, no major medical conditions, no smoking, minimal alcohol. That's good. Any allergies to medications?
+PATIENT: No, Doctor. No allergies that I know of. I have taken many things over the years, and never had a reaction. I sometimes get a rash from poison ivy, but that is all.
+DOCTOR: Alright, no known allergies. And are you currently taking any medications at all, even over-the-counter vitamins or supplements?
+PATIENT: Just the ibuprofen when my back hurts. And sometimes a multivitamin, but I forget to take it most days. Nothing regularly.
+DOCTOR: Okay, ibuprofen as needed, occasional multivitamin. Let's do a quick physical exam, if that's alright with you. Just so I can get a better feel for what’s going on. I’ll check your range of motion, do some palpation to see where it’s most tender, and do a quick neurological exam to rule out any nerve involvement. Would that be okay?
+PATIENT: Yes, Doctor. That sounds… alright. Whatever you think is best. I want to get this fixed, if possible. I need to keep working, you see.
+DOCTOR: Of course. Let’s start by having you lie down on your stomach. Okay?
+PATIENT: Yes, Doctor.
+DOCTOR: Okay. Does this hurt right here?
+PATIENT: Yes, Doctor. That is tender. It hurts when you push there. It is a sharp pain.
+DOCTOR: Alright, and can you try to bend forward for me, just as far as is comfortable?
+PATIENT: Ouch! Doctor, it hurts. I cannot bend very far. It feels like something is pulling. I cannot go any further.
+DOCTOR: Okay, stop there. That’s good. And I see you’re limited in your range of motion. Now, let's check your reflexes... Just lift your leg up, like you're going to sit up.
+PATIENT: There. Like this? It did not hurt… much.
+DOCTOR: Good. And can you point your toes up towards the ceiling, and then down towards the floor?
+PATIENT: Yes, Doctor. Up… and down. It feels… alright. A little stiff, perhaps. But alright.
+DOCTOR: Okay, everything seems normal neurologically. No weakness, normal reflexes and sensation. It appears we're dealing with a muscle strain or sprain. Based on what you've told me, and the exam findings, it doesn't seem to be anything more serious. Do you have any questions about what I’ve said so far?
+PATIENT: A muscle strain? That is… not so bad, then? Will it heal on its own? And can I still work? I need to work, Doctor. That is important. Is there anything I can do to help it heal faster?
+DOCTOR: A muscle strain is common, especially with physical labor. It should heal on its own, but it can take time – usually several weeks. Continuing to work is… tricky. We need to be careful not to make it worse. I recommend a few things. First, rest when you can. Avoid heavy lifting and bending as much as possible. When you do have to lift, use proper form—bend at the knees, keep your back straight, and keep the load close to your body. Heat packs can help with the pain, and over-the-counter ibuprofen, if you can tolerate it, can reduce inflammation. I'm going to prescribe a muscle relaxant to help with the spasm, and a stronger pain reliever for the first few days. I also want you to consider physical therapy. A therapist can teach you exercises to strengthen your back and core muscles, and improve your posture. Does that sound reasonable?
+PATIENT: Yes, Doctor. That sounds… reasonable. A muscle relaxant and stronger pain reliever would be helpful. And physical therapy… I suppose that makes sense. I do not want this to keep happening. Will the insurance cover the physical therapy? I have Medicare. And... how long should I take the medication?
+DOCTOR: Good questions. Medicare should cover physical therapy, but it's always best to check with them directly to confirm your coverage and any potential co-pays. I can provide you with a referral and the necessary paperwork to help with that. As for the medication, I’m prescribing a short course of cyclobenzaprine, 10mg, three times a day for seven days. And a stronger pain reliever – naproxen 500mg, twice a day, as needed for pain, but no more than 10 days. It is important not to take the naproxen long-term due to potential side effects. I also want to schedule a follow-up appointment in two weeks to see how you’re doing. If the pain doesn’t improve, or if it gets worse, please call the office right away. Does that all make sense?
+PATIENT: Yes, Doctor. That makes sense. Cyclobenzaprine for seven days, and naproxen as needed, for no more than ten days. Follow-up in two weeks. And check with Medicare about the physical therapy. Thank you, Doctor. I appreciate your help. I hope this gets me back to work soon. It is… difficult to be idle.
+DOCTOR: You’re very welcome, Lakiya. I understand how difficult it can be to be idle, especially when you’re used to physical work. We’ll do our best to get you back on your feet as quickly and safely as possible. I’m going to print out a summary of our discussion, including the prescriptions and the physical therapy referral. I’ll also write a note to your primary care physician about your visit. Here is the paperwork. Please call the office to schedule your follow-up appointment. And don't hesitate to reach out if you have any questions or concerns. Take care, and I hope you feel better soon.
+PATIENT: Thank you, Doctor. I will call the office to schedule the follow-up, and I appreciate everything you have done. Thank you again.
+DOCTOR: You’re very welcome, Lakiya. Take it easy, and remember to listen to your body. Have a good day.

@@ -1,0 +1,26 @@
+DOCTOR: Alright, Ms. Thut, so what brings you in today?
+PATIENT: Oh, um… my nails. They just… look funny. Not like they used to. I don’t really… remember what used to be wrong with them, but they ain't right now. They got… spots, I think. And kinda thick. I don't know. It's just… a nail thing.
+DOCTOR: Spots and thickening, you say. Hmm. And how long have you noticed this “nail thing,” as you put it?
+PATIENT: Oh, goodness. A while. A long while. Maybe… a few months? I don't keep track of things like that, really. Time just… goes. It’s been long enough that I figured I should… get it looked at, I guess. Before it gets worse. Though, what is worse, I couldn't tell you.
+DOCTOR: A few months… right. And are these changes on all your nails, or just some of them?
+PATIENT: Just some. Mostly… this one. <points to her left index finger nail> And maybe that one, too. <points vaguely to her right thumb> The others… seem okay. Though, honestly, I don’t stare at my nails that much. I got other things to worry about.
+DOCTOR: I see. Okay. And have you noticed any pain or discomfort with these nails?
+PATIENT: Pain? No, not really. It doesn't hurt. Just… looks bad. They feel kinda… rough, I suppose, if I run my finger over them. But not like a pain, you know? More like… annoying. Like a splinter, but without the splinter. Does that make sense?
+DOCTOR: Rough texture… alright. Do you do anything regularly with your hands—gardening, cleaning, anything that might be irritating them?
+PATIENT: Oh, I do a little bit of everything. Cleaning, mostly. Gotta keep the place tidy. And I… I used to do a little bit of knitting, but not so much anymore. My hands get tired, see? It's probably just… age. Everything gets old and worn out eventually.
+DOCTOR: Alright. And do you have any other medical problems I should be aware of?
+PATIENT: Oh, goodness. Let me think… I got… Medicare, that’s something. And I… well, I don’t really go to the doctor much, so I don't really have problems, do I? I take a little something for my blood pressure, I think. But that's it. Mostly, I just feel… tired. Is that a problem?
+DOCTOR: Blood pressure medication… right. We'll get to that. Now, allergies—any allergies to medications, foods, anything like that?
+PATIENT: Allergies? Hmm… not that I know of. I eat… whatever. I don’t pay attention to labels or anything. I used to get a little itchy sometimes, but that was probably just the laundry soap. I don’t think I'm allergic to anything… important.
+DOCTOR: Okay. Let’s have a look at your record… <types rapidly> Alright, Ms. Thut, it says here you were treated for… something involving your skin, several years ago. Do you recall that?
+PATIENT: Oh, goodness. Years ago? That was… a long time ago. Something on my arm, I think. Red and itchy. They gave me some cream. It… went away. I don’t really remember the details. Old age, you know. Things fade. It was probably nothing important.
+DOCTOR: Right. Well, let’s take a look at the nails more closely. <Pulls on gloves, picks up a magnifying glass and examines her nails intently> Hmm. They do appear…discolored. And somewhat thickened, as you mentioned. We'll need to rule a few things out. Do you recall any recent travel or exposure to unusual chemicals?
+PATIENT: Travel? Oh, no. Not for years. I don’t do travel. Stay right here, mostly. And chemicals? I use… cleaning stuff. Regular cleaning stuff. Not anything fancy. Bleach and… stuff. You know. For the bathroom and kitchen. Everything smells nice and clean. I don’t think that’s the problem.
+DOCTOR: Alright. I’m going to order a fungal culture of the nail. It’ll tell us if there's a fungal infection present, which is a common cause of nail changes. It’s a simple test—we just scrape a little bit of the nail. And just to be safe, I’m also going to order a blood test to rule out anything more serious. Does that sound alright?
+PATIENT: Oh, goodness. Tests? Scraping? Blood? That sounds… complicated. Is it going to hurt? I don't do well with… poking and prodding. And blood? I don't like the sight of blood. But… if you have to, I guess. Just… be quick about it, okay?
+DOCTOR: It'll be quick. The nail scraping will feel a little rough, like filing your nails. The blood test is just a small sample. The lab will call with the results in a few days. We’ll schedule a follow-up appointment then to discuss them. In the meantime, try to keep your nails dry and trimmed. Any questions?
+PATIENT: Dry and trimmed… okay. I can do that. No… I don't think so. Just… don't take too much blood, okay? And… don't make it hurt. That's all. When will I hear from them? A few days, you said?
+DOCTOR: A few days. The lab will contact you directly to schedule the follow up appointment. Honestly, it's likely just a fungal infection, and easily treatable with a topical medication. Don't worry too much about it, Ms. Thut. I'll have the nurse take you to get those tests done. Is there anything else I can help you with today?
+PATIENT: Topical… that sounds good. Not too scary. No… I think that's all. Thank you, Doctor. I guess. Just… don’t let them poke me too much, okay?
+DOCTOR: Alright. Nurse will be right with you. Have a good day, Ms. Thut.
+PATIENT: .

@@ -1,0 +1,29 @@
+DOCTOR: Alright, Mr. Kingan. Have a seat. So, tell me, what brings you in today?
+PATIENT: Right. Uh, yeah, thanks. It's… a tryout. For a team. Sports team. Need to get checked out first, I guess. They want a physical. That’s all.
+DOCTOR: A tryout, alright. And what sport is this for, if you don’t mind me asking?
+PATIENT: Oh. Right. Uh… Mongolian wrestling. It's… traditional. Not like the… American kind. It’s different. More… grappling. Mostly grappling.
+DOCTOR: Grappling. Right. And you haven’t… participated in this extensively before, have you?
+PATIENT: No, no. Not… extensively. It’s been a while. I used to when I was younger, but… life happened. Now I’m trying to get back into it. That’s why they want the check-up, I think. Just to make sure I don’t, you know… fall apart.
+DOCTOR: “Fall apart.” Alright. Well, we’ll certainly do our best to prevent that. Have you noticed any pain, discomfort, or limitations in your movement recently?
+PATIENT: Uh… no, not really. Maybe a little stiffness in my knees sometimes. But that’s just… old age, I guess. It comes and goes. Nothing I haven’t dealt with before. I don’t think it’s anything serious.
+DOCTOR: Stiffness in the knees. And how long have you been experiencing this stiffness, if you can recall?
+PATIENT: Oh, jeez. A while. Years, probably. On and off. It gets worse when it’s cold. Or if I, you know, try to do things. Like… move quickly. Not a constant thing, though. Honestly, I mostly ignore it. It’s probably just… wear and tear.
+DOCTOR: "Wear and tear." Right. Well, we'll take a look. Let's go over some basics first. Any known allergies to medications?
+PATIENT: Uh… no, not that I know of. Never had any reactions to anything. I don’t take much, though. Just… painkillers if I really need them. Over-the-counter stuff. Mostly ibuprofen. I haven’t taken any recently, though.
+DOCTOR: And are you currently taking any medications, even occasionally?
+PATIENT: No! No, none. Like I said, just… ibuprofen sometimes. But I haven’t taken any in months, probably. I really try to avoid it. It makes me… sleepy. Not a good thing when you’re trying to wrestle.
+DOCTOR: Right. So, no regular medications at all. Let’s move on. Do you have any history of serious illness, like heart problems, diabetes, or anything like that?
+PATIENT: No. No heart problems. No diabetes. Nothing like that. I… I’m pretty healthy, actually. Mostly. Just… getting older, you know? It’s slowing me down a bit. Is this taking long? I got a practice later.
+DOCTOR: We're getting there. Just trying to get a full picture. Now, family history. Any major illnesses in your immediate family – parents, siblings?
+PATIENT: Um… my father, he… he had high blood pressure, I think. And my mother… she had arthritis, badly. In her hands, mostly. That’s about it. Nothing… serious. Both gone now, though. A long time ago.
+DOCTOR: Alright. Well, let’s do a quick physical exam, just to see where we're at. We'll start with your blood pressure and pulse, and then listen to your heart and lungs. Is that alright with you?
+PATIENT: Yes. Yes, that’s fine. Let’s just get it over with. The sooner I’m done, the better. I really need to get to practice.
+DOCTOR: Alright. Just relax your arm for me. Blood pressure is a little elevated, 142/90. Pulse is regular at 78. Lung sounds are clear, but I do hear a slight murmur. Not particularly concerning, but we should keep an eye on it. Now, let's check your range of motion. Can you try to touch your toes for me?
+PATIENT: 142… okay. Ooh… that’s… a little tight. Years of wrestling, probably. I can get further if I… really push it, but it’ll be uncomfortable. Not as flexible as I used to be. Definitely not.
+DOCTOR: Alright. And how about rotating your neck?
+PATIENT: Okay. It's a little… crunchy. Nothing painful, though. Just… old. Like everything else. I can do it, but… it doesn't feel smooth. I haven't really stretched much lately, to be honest. Been busy getting ready for the tryout.
+DOCTOR: Do you experience any pain or numbness in your hands or feet?
+PATIENT: No. No pain or numbness. Sometimes they get a little cold, especially in the winter, but that’s just… the cold. Nothing unusual. I can feel everything, fine. Is there anything else?
+DOCTOR: Alright. Based on this quick exam, your blood pressure is a little elevated, and I did hear a murmur, but nothing that immediately raises a red flag. Your range of motion is limited, and you mention some stiffness, which is understandable given your history. However, given your elevated blood pressure and the murmur, I recommend a full cardiovascular workup, including an EKG and possibly an echocardiogram, just to be on the safe side. We also should get a blood test to check your cholesterol levels. I'm not saying you can't try out for the team, but it's important to know your baseline health first. Would you be willing to schedule these tests?
+PATIENT: Tests? Now? I thought I was just getting a quick check-up. I need to know now if I can wrestle! The tryouts are next week. All this… it's a lot. Look, is it absolutely necessary? I’ve felt fine wrestling before. I don’t want to waste time and money on tests if I can just… try it out. Maybe I can just take it easy at first and see how it goes? Honestly, this is really inconvenient.
+DOCTOR: Mr. Kingan, I understand your frustration, but I have a professional obligation to ensure your safety. A murmur and elevated blood pressure can indicate underlying heart issues, and it would be irresponsible of me to clear you for strenuous activity without further investigation. Ignoring these findings could lead to serious complications during a tryout, or even later in life. I can’t ethically approve you for the team without these tests. I strongly recommend scheduling an appointment with a cardiologist as soon as possible. I have a referral list here. I’m not trying to be difficult, but I have to prioritize your health. .

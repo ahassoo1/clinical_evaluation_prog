@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Mr. Barban. I’m Dr. Kur. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It is… a check-up. For the insurance. Before it starts, you understand? I need to make sure everything is… acceptable.
+DOCTOR: Acceptable?
+PATIENT: Yes. Acceptable. For the… papers. They want to know I am not… broken, before they pay. It is a simple thing, I hope. I do not have time for many tests. I work. Very hard.
+DOCTOR: I see. So, a required check-up for your Medicare coverage. Understandable. Well, we'll do what we need to do. Though, it’s not about being “broken,” Mr. Barban. It’s about making sure you’re generally healthy and identifying anything that might need attention. Now, let’s start with a bit of your medical history. Have you been seen by a doctor regularly in the past?
+PATIENT: Regularly? No. Not… regularly. When something hurts, I go to the doctor. Not before. I am a man. Men do not go to doctors unless… necessary. Is that okay?
+DOCTOR: It's… a common attitude, Mr. Barban. But preventative care is important, even for men. Alright. So, when was the last time you went to the doctor for any reason at all?
+PATIENT: Hmm… let me think. It was… two years ago, maybe? I cut my hand. Badly. At the factory. They sent me to a clinic in town. It needed… stitches. Many stitches. Is that what you want to know?
+DOCTOR: Yes, that’s helpful. Two years ago for a hand laceration requiring stitches. And before that?
+PATIENT: Before that… a long time. When I was a boy, I think. A fever. Very high fever. My mother took me. But… I do not remember much. It was… Yemen, then. Many years ago. Is this important? I feel fine now.
+DOCTOR: Well, it's good you feel fine. But knowing your medical history, even from childhood, is important. Okay. So, we have a fever as a child and a hand laceration two years ago. Do you have any current medical problems – things like diabetes, high blood pressure, heart trouble, anything like that?
+PATIENT: No. Nothing. I work hard, I eat… normally. Maybe too much rice, sometimes. But I am strong. I lift heavy things all day. No trouble with… the blood pressure, or… the heart. Everything works. I think. Do I look sick?
+DOCTOR: Physical appearance isn't always an indicator, Mr. Barban. Alright. Let’s talk about your family. Are there any significant medical conditions that run in your family – heart disease, diabetes, cancer, anything like that?
+PATIENT: My father… he had problems with his stomach. Very old, he was. But… it was a long time ago. And my mother… she was healthy, I think. Until the end. Old age. Many people in my village… they just… stop. Is that what you want to know? It is not like… a disease.
+DOCTOR: Okay, so stomach problems in your father, and general age-related decline in your mother. Now, do you have any allergies to medications, foods, or anything else?
+PATIENT: No allergies. I eat everything. Many spices. Very strong spices. I do not get sick from food. I need the food to… work. I have no time for… sensitive stomachs. Do you think I have time for allergies?
+DOCTOR: Alright. And are you currently taking any medications – prescription, over-the-counter, or even herbal supplements?
+PATIENT: No. Nothing. I drink tea, sometimes. Very strong tea. But that is not… medicine. It is just… tea. I do not trust… pills. They make you weak.
+DOCTOR: Very well. Now, let’s do a quick physical exam, just to get a baseline. I'll listen to your heart and lungs, check your blood pressure, and take a look at your throat and ears. Is that alright?
+PATIENT: Yes. Quickly, please. I have work. I do not want to be here all day. But… do what you must. My heart is strong. You will see.
+DOCTOR: Alright. Let's start with your blood pressure. Please sit back and relax. Hmm. A little elevated. Heart sounds are normal, but your blood pressure is a bit high. Lungs are clear. Now, open your mouth and say "ah." Your throat looks fine. Ears as well. Everything looks clear. Now, can you stand up and let me check your reflexes?
+PATIENT: Yes, I can stand. Quickly, please. I need to get back to work. I do not understand what… reflexes are. But I will cooperate.
+DOCTOR: Reflexes are normal. Alright. Now, just to be thorough, I’d like to order some basic blood work - a complete blood count, a metabolic panel, and a lipid panel. That will give us a better idea of your overall health. Do you agree to that?
+PATIENT: Blood work? More… poking? Is it necessary? I feel perfectly fine. But… if you must. It is for the insurance, I suppose. But quickly, please. And not too many… tubes of blood. I do not want to be weak.
+DOCTOR: It is standard procedure, Mr. Barban. And it won’t leave you weak. It’s a small amount of blood. The lab is right down the hall. I'll have the nurse draw it for you. While you're waiting, I'll document my findings. We can discuss the results once they come back. Nurse, could you please draw a CBC, metabolic panel, and lipid panel for Mr. Barban?
+PATIENT: Yes. Fine. But… how long will it take? I have work. I do not have all day for… poking and waiting. Is there anything else you need? I want to finish quickly.
+DOCTOR: The results should be available within a few hours. For now, no. Just go to the lab. And please, try to relax. The nurse will explain the process. Down the hall, to your left.
+PATIENT: Fine. Always something… Always more poking and waiting… I need to get back to work.

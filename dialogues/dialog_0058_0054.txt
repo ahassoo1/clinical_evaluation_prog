@@ -1,0 +1,31 @@
+DOCTOR: Alright, Mr. Tati. So, what brings you in today?
+PATIENT: Uh, hi. Cough, doctor. Been coughin’ a long time now. And… tired all the time. Also, my nose… always blocked, feels like. I dunno… happens a lot.
+DOCTOR: “A long time now” is… vague. Can you be more specific?
+PATIENT: Vague? Yeah, sorry. It’s… maybe six months? Or more? Hard to remember exactly. It started… after a bad flu, I think. Lots of people sick at work. Then it just… stayed. Not like the flu cough, though. This one… wet. And makes me tired. Real tired.
+DOCTOR: Six months, alright. And this wet cough… is it constant, or does it come and go?
+PATIENT: Comes and goes, I think. Worse in the mornin’, usually. And when it rains… gets bad then too. Like my chest… tighter. Not always, but sometimes. I try to drink water, but… doesn't always help.
+DOCTOR: "Tighter," you say. Do you have any… wheezing?
+PATIENT: Wheezing? What’s that mean? Sorry, I don't understand big words. Like a… whistling sound when I breathe? Sometimes, yeah. Maybe. When I try to take a deep breath, sometimes I hear somethin’. Not every time. My wife says it too, when I sleep.
+DOCTOR: Alright. And besides the cough, tiredness, and this… “whistling” sound, anything else?
+PATIENT: Hmm… sometimes I get a headache. Behind my eyes, kinda. And my nose… always stuffy. I keep buyin’ those nose sprays… the ones you put in your nose. They help for a little bit, then stop workin’. And… I feel warm sometimes. Not a real fever, I don’t think. Just… warm.
+DOCTOR: Let's take a look at your history here... Do you have any allergies, Mr. Tati?
+PATIENT: Allergies? Uh… I dunno. I don't think so. Never been told. Maybe to dust? Sometimes I sneeze when I clean, but everyone sneezes when they clean, right? I work with tires all day… lots of dust there.
+DOCTOR: And any medications you're currently taking?
+PATIENT: Just the nose spray, like I said. The… Afrin, I think it’s called. And sometimes, if my head hurts real bad, I take… Panadol. Just one or two. Not every day, though. Only when I need it.
+DOCTOR: Alright. Let's do a quick exam. Could you step on the scale for me, please?
+PATIENT: Scale? Oh, yeah, sure.
+DOCTOR: 97 kilograms. And your height is 166 centimeters, correct?
+PATIENT: Yeah, that sounds right. I think so.
+DOCTOR: Okay, Mr. Tati, if you could lie down on the table, please. I'm going to listen to your lungs and check your throat.
+PATIENT: Okay, doctor.
+DOCTOR: Alright. Your lungs sound… congested. I hear some wheezing, as you mentioned. Throat’s a little red, but nothing alarming. Blood pressure is… elevated, 140 over 90. Do you usually monitor your blood pressure?
+PATIENT: Elevated? What does that mean? No, I don’t… monitor it. Never done that. I just go to the shop and fix tires. My wife, she does the check-ups for everyone. I just… get tired and cough.
+DOCTOR: Well, it seems you have a combination of things going on. The cough, congestion, and wheezing suggest a possible bronchitis, likely aggravated by… whatever you’re exposed to at work. The elevated blood pressure is a concern, and we need to address that. The nose spray isn't a long-term solution; it can actually worsen the congestion over time. Honestly, Mr. Tati, you should really be more proactive about your health. Ignoring these things won’t make them go away.
+PATIENT: Proactive? I… I try. I go to work. I fix tires. It’s a hard job. What can I do? I dunno much about… health stuff. My wife, she tells me what to do. Maybe I should ask her about the… blood pressure.
+DOCTOR: Right. Well, I’m going to prescribe you an inhaler to help with the wheezing and congestion. Use it as directed. And I want you to schedule a follow-up appointment with your wife's doctor, and she needs to monitor your blood pressure regularly. If it remains elevated, you may need medication for that as well. Also, seriously consider wearing a mask at work to minimize your exposure to dust and irritants. Do you have any questions for me at this point?
+PATIENT: Mask? At work? Will the inhaler… make me stop coughin’ completely? And… what if I forget to take it? My memory… not so good. And… can I still work? I need the job.
+DOCTOR: The inhaler won't magically make the cough disappear, Mr. Tati. It will help manage the symptoms, open up your airways. As for forgetting… I’ll write down clear instructions. It’s your responsibility to remember. And yes, you can still work, but you need to take precautions and prioritize your health. Ignoring this will only lead to more serious problems down the line. Here. These are the instructions, and this is the prescription for the inhaler. Schedule a follow-up with your wife's doctor as soon as possible. Do you understand?
+PATIENT: Okay… okay. Instructions… and… prescription. Yes, I think so. I'll… I'll try to remember. And I'll tell my wife. She's good at… health stuff. Thank you, doctor. Is… is that all?
+DOCTOR: Yes, Mr. Tati, that is all. Try to take better care of yourself. And don’t hesitate to seek medical attention if your symptoms worsen. Next!
+PATIENT: Okay… Thank you, doctor. .
+DOCTOR: .

@@ -1,0 +1,31 @@
+DOCTOR: Right. Mr. Aluia, is it?
+PATIENT: Yes, that's right. Clarke Aluia. But you can call me Clarke, please. It’s nice to meet you, Doctor… Dechêne, is it?
+DOCTOR: Dechêne, yes. Though frankly, formalities aren't terribly important. Let’s not waste time. So, Clarke. What brings you in today?
+PATIENT: Well, it’s these bumps on my legs. On my shins, mostly. They’re… painful. Red, and kinda hard. Been bothering me for a little while now. Not sure what caused ‘em.
+DOCTOR: Painful, you say?
+PATIENT: Yeah, kinda like a deep ache, you know? Not sharp, but definitely noticeable, especially when I'm walking around. It’s worse at the end of the day, after I’ve been on my feet a lot. I do a lot of moving things around at work. Heavy stuff sometimes. Does that make sense?
+DOCTOR: So, exertion exacerbates it. And how long exactly is “a little while”?
+PATIENT: Hmm… maybe a month or so? It started kinda slow, just a little soreness, I didn’t think much of it. Then they started getting redder and… harder. Now it’s hard to ignore, especially after work. I'm not good with dates, sorry.
+DOCTOR: A month. Right. And have you noticed any other symptoms?
+PATIENT: Other symptoms? Like… what do you mean? I haven't felt sick or anything. No fever, no chills. Just the pain in my legs. Sometimes they feel kinda warm, but I thought that was just from being on my feet all day.
+DOCTOR: Warmth…Okay. Any changes in your diet recently?
+PATIENT: Diet? Not really. My wife does most of the cooking. We eat mostly Filipino food, you know, rice, fish, pork… same as always. I don’t think so, no. Maybe a little more sweets lately? My wife made some delicious mango pie… but that’s about it.
+DOCTOR: Right. And any history of…circulatory problems?
+PATIENT: Circulatory problems? Not that I know of. My legs get tired after a long day, but that's just from the work, I think. I’ve never been told I have anything wrong with my circulation. My wife would tell me if I did, she’s always on top of that sort of thing.
+DOCTOR: Alright. Let’s take a look at these legs, then. Please, lie down on the examination table.
+PATIENT: Okay, sure. Is it okay if I keep my shoes on? They’re pretty comfortable.
+DOCTOR: Remove your shoes, please. I need to properly assess the area. It will only take a moment.
+PATIENT: Alright, alright. There. Is that better? Sorry if they smell a little, been a long day.
+DOCTOR: Hmm. Yes. And the pain… point to where it hurts the most.
+PATIENT: Right here, mostly. And a little bit over there too. It’s kinda spread out, not just one spot. It's more of an ache than a sharp pain, hard to pinpoint exactly.
+DOCTOR: Tenderness is present bilaterally on the anterior shins. No visible edema. Skin temperature is normal to slightly warm. Do you have any history of diabetes?
+PATIENT: Diabetes? No, not that I know of. Never been told I have it. My wife always makes sure I eat healthy, though. She’s very careful about that kind of thing. We try to avoid too much sugar, you know? I mean, I like sweets, but I don't go overboard. Why do you ask?
+DOCTOR: Just routine. Now, any allergies to medications?
+PATIENT: Not that I know of. Never had a bad reaction to anything. I haven’t taken much medicine lately, just some ibuprofen for aches and pains now and then. Nothing regular. My wife keeps track of all that stuff, she’s got a list, I think.
+DOCTOR: Alright. I suspect this is shin splints, likely related to your activity level. It's common.
+PATIENT: Shin splints? Is that… bad? What can I do about it? Will I have to stop working? I need to keep moving things, you know. It’s my job.
+DOCTOR: It’s rarely serious. Rest, ice, compression, elevation. Over-the-counter pain relievers should help. Avoid strenuous activity for a week or two. If it doesn’t improve, then we can discuss further options, but frankly, I doubt that will be necessary. I’ll write you a prescription for ibuprofen, just in case. Don’t strain yourself. Any other questions?
+PATIENT: Okay… rest, ice, compression, elevation. And ibuprofen. I think I can manage that. My wife is good at helping with the ice packs, she always knows what to do. No, I don't think so, Doctor. That answers everything. Thank you very much. I appreciate your help.
+DOCTOR: Good. Follow those instructions, and you should be fine. Next patient.
+PATIENT: Okay, thank you again, Doctor. Have a good day. .
+DOCTOR: .

@@ -1,0 +1,30 @@
+DOCTOR: Alright, Mr. Guilds. So, what brings you in today?
+PATIENT: Huh. Brings me in? Well, I’m breathin’ funny. Like…dry. Everything’s dry. Mouth feels like sandpaper, eyes too. Been happenin’ a little while now, not sure how long exactly. Old man problems, probably.
+DOCTOR: "Dry," you say. And how long is “a little while now”?
+PATIENT: A little while… jeez, you ask a lot of questions. I dunno! Maybe… a month? Two? Time kinda runs together when you’re old, you know? It's not like I'm keepin' a calendar of my dryness. It just… started.
+DOCTOR: Right. A month or two. And is this dryness constant, or does it come and go?
+PATIENT: Comes and goes. Mostly goes, then comes back. Worse when it’s hot, I think. Been pretty warm lately, hasn't it? Not like the old days, though. Everything’s different now.
+DOCTOR: Alright. Any other symptoms accompanying this "dryness"?
+PATIENT: Symptoms… lemme think. Not much. I get tired easy, but I always get tired easy. Maybe… a little cough sometimes? Nothing big. Just an old man cough. I ain't lookin' for a medal here, doc.
+DOCTOR: And any fever, chills, or night sweats?
+PATIENT: Fever? No, I don't think so. I haven't taken my temperature in… well, a long time. Chills… nah. Night sweats? What are night sweats? I sleep pretty good, usually. A little creaky when I get outta bed, but that’s the bones, ya know? Not sweaty.
+DOCTOR: Alright. Let's move on. Do you have any past medical history I should be aware of?
+PATIENT: Past medical…? Doc, I've lived eighty-three years. You want a list? I've had bumps, bruises, aches, pains... the usual. I had that flu, oh, musta been twenty years ago now. And my knee… my knee bothers me sometimes, but that's just old age, like I said. I ain't no spring chicken.
+DOCTOR: Anything surgical?
+PATIENT: Surgical...? Lemme see… I had my tonsils out when I was a kid. That's about it. And...oh! I had a mole removed off my back, way back when. Small thing. Didn't even feel it. Everything else is… just livin', you know? I haven’t been under the knife lately, if that’s what you mean.
+DOCTOR: And family history?
+PATIENT: Family history... Oh, boy. My mama lived to be ninety, I think. Strong woman. Papa… he didn’t last as long. Smoked too much, I reckon. Had a brother, but he moved to Florida and I haven’t seen him in fifty years. Not much for family, to be honest. Mostly me, myself and I these days.
+DOCTOR: Alright. Do you smoke, drink alcohol, or use any other substances?
+PATIENT: Smoke? No, no. Never smoked a day in my life. Tried it once when I was young, didn't like it. Alcohol… I’ll have a beer with dinner sometimes. Nothing fancy. Just a light beer. And… substances? What kinda substances? I take a little aspirin for my knee now and then. Does that count?
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: Allergies...? Hmmm. Not that I know of. I took penicillin as a kid, never had no trouble. I can take most things, I guess. Doc, I ain’t a delicate flower, ya know? I've lived a long life, been through a lot. Ain’t much gonna bother me.
+DOCTOR: Okay. Let's do a quick physical exam, then. Please sit up straight. I'm going to listen to your lungs and check your throat.
+PATIENT: Fine, fine. Get it over with. Just don’t poke me too much, alright? Old bones, remember? And doc... this better be worth it. I had a perfectly good domino game scheduled for this afternoon.
+DOCTOR: Okay. Take a deep breath for me... and exhale. And again... Your breathing sounds a little… diminished. Some mild wheezing. Your throat is a little dry, as you said. Mucous membranes appear slightly… irritated. And your lymph nodes are… slightly enlarged.
+PATIENT: Diminished, wheezing… what does that mean? Sounds bad. Enlarged… lymph nodes? Is that serious? Look, doc, I'm just an old man, I don't need fancy words. Just tell me what's wrong, and what I need to do. And don’t tell me I need to give up my dominoes.
+DOCTOR: It means there could be something going on. It’s too early to say definitively. I’m going to order a chest X-ray and some blood work to rule out any infection or other underlying causes. It's a standard procedure, Mr. Guilds. We need to get a clearer picture before we jump to conclusions. Do not self-treat. And yes, I understand you enjoy your dominoes. But you need to prioritize your health.
+PATIENT: X-rays, blood work… jeez. Sounds expensive. And time-consumin’. I got things to do, doc! Fine, fine, do your tests. But I want the results fast. And I want a clear explanation, none of this fancy medical mumbo jumbo. Can I still have a beer with dinner?
+DOCTOR: The lab results will take a few days. You can have a beer with dinner, in moderation. But do not exceed one drink. And I will explain the results as clearly as possible. However, it’s vital that you understand, Mr. Guilds, I will not simplify information to the point of being inaccurate. Here are your orders. The X-ray center is on Elm Street. They take Medicare. Schedule your appointment as soon as possible. And follow up with me in three days.
+PATIENT: Medicare… good. Elm Street… I think I know where that is. Three days… alright, alright. Fine. This is a whole lotta fuss over a little dryness, ya know? But… fine. I'll do it. But if it's somethin' serious, doc... you're explainin' it slow, and I want options. And I still might have a small beer with dinner.
+DOCTOR: That is acceptable, Mr. Guilds. In moderation. Follow up with me in three days. Have a good day.
+PATIENT: Alright, alright. You too, doc. And try not to scare an old man next time. Dominoes… gotta remember to call about my dominoes.

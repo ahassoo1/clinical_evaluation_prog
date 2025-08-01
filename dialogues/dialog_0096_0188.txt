@@ -1,0 +1,25 @@
+DOCTOR: Alright, Mr. Secondi. So, tell me, what brings you in to see me today?
+PATIENT: Uh, hello Doctor. It’s… my pee. It’s orange. I noticed it yesterday, and it’s still orange today. It worries me a little.
+DOCTOR: Orange, you say?
+PATIENT: Yes. Like… not dark orange, but… you know, orange. Not the normal yellow. I drink a lot of water, I thought maybe it was that, but… it hasn't gone away.
+DOCTOR: Right. Well, changes in urine color can be concerning, but often have simple explanations. How much water would you say you typically drink in a day, Mr. Secondi?
+PATIENT: Hmm… maybe two, three liters? I work outside, so I try to drink a lot. It’s hot, you know? I have a big bottle, and I fill it up a couple times. I don't know exactly. Is two, three liters a lot?
+DOCTOR: Two to three liters is… reasonable, for someone active. But it's still good to investigate. Now, have you noticed any pain or burning when you urinate?
+PATIENT: No, no pain. Not at all. Just the color. It’s… strange. Everything else feels normal. I don’t feel sick, or anything like that.
+DOCTOR: Okay. And have you noticed any changes in frequency?
+PATIENT: Frequency? You mean… how often I go? No, not really. Same as always, I think. Maybe a little more, because I'm drinking more water. But not a big difference.
+DOCTOR: Alright. Let's talk about your bowel movements, Mr. Secondi. Have you noticed any changes there?
+PATIENT: Changes? Like… darker stool? No, I haven’t noticed anything different with that. Everything seems normal there too. Sorry, I don't understand why you ask so many questions, but I will tell you what you want to know.
+DOCTOR: I'm asking because changes in urine and stool color can sometimes be related, Mr. Secondi. It’s standard procedure. Now, any nausea or vomiting?
+PATIENT: No, no sickness. I eat normal. No throwing up, no feeling sick to my stomach. I had a tagine last night, it was very good. But my pee was still orange this morning.
+DOCTOR: Alright. And any recent illnesses?
+PATIENT: No. Nothing. I have not been sick. Just… the orange pee. It started a couple days ago. I work with my hands, I build things. I'm strong, healthy. This is worrying me, but I don’t understand why this is happening.
+DOCTOR: Well, Mr. Secondi, let’s have a look at you. I want to do a quick physical exam, just to rule a few things out. We’ll check your abdomen, and I’ll listen to your heart and lungs. It’s routine. Do you have any allergies to medications I should be aware of?
+PATIENT: No allergies. I don't take any pills. Just… work hard, eat good food. Okay, I will lie on the bed. What are you looking for, Doctor? Is this something serious?
+DOCTOR: It’s likely nothing serious, Mr. Secondi, but it’s best to be thorough. Now, lie down on the table and I'll listen to your abdomen. I'm just checking for tenderness or any abnormalities. Take a deep breath for me… and exhale. Any discomfort here?
+PATIENT: No, no pain. Feels normal. A little cold, maybe, from the stethoscope. But no pain at all. I’m used to hard work, you know. It's alright, it doesn't hurt.
+DOCTOR: Heart sounds are regular… lungs are clear. Now, let's take a look at your skin. No jaundice noted, skin appears normal. Alright, Mr. Secondi. Based on the physical exam, nothing immediately concerning. However, we still need to determine the cause of this orange urine. I'm going to order a urinalysis – a simple urine test – to check for things like blood, infection, and other abnormalities. It will also check your kidney function. Does that sound alright?
+PATIENT: A urine test? Yes, that sounds good. Whatever you think is best, Doctor. I want to know what is wrong. I work hard, I don't have time to be sick. Is it expensive? My insurance… is it covered?
+DOCTOR: The urinalysis is a standard test, Mr. Secondi. It should be fully covered by your private insurance, but we can double-check with the billing department to confirm. I’ll have the nurse give you a cup, and instructions on how to collect the sample. Please try to bring it in first thing tomorrow morning. In the meantime, I want you to continue drinking plenty of fluids - at least two to three liters of water a day. And if you notice any other symptoms – fever, pain, nausea, or changes in your stool – contact the office immediately. Do you have any questions for me before I have the nurse come in?
+PATIENT: No, I think that's everything. Drink more water, bring in a sample tomorrow. And check with the insurance. Thank you, Doctor. I hope it’s nothing serious. I have work to do.
+DOCTOR: Alright, Mr. Secondi. We’ll get the results back as quickly as possible. The nurse will be with you shortly. Let’s hope it’s a simple explanation. Try not to worry too much.

@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Mr. Putney. I’m Dr. Press. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just here for a life insurance thing. They need me to get checked out, that’s all. Hope it doesn’t take too long.
+DOCTOR: A life insurance physical, right. Well, we’ll do our best to be efficient. It’s still important to be thorough, even for that. Now, let’s start with a little background. Have you been feeling generally healthy?
+PATIENT: Yeah, mostly. I get a little tired sometimes, but who doesn’t, right? Nothing major. I work long hours at the hotel, keeps me busy.
+DOCTOR: Right, the hotel. And when you say tired, can you describe that a bit?
+PATIENT: Just… worn out. Like, at the end of the day I just wanna sit. Not like sick tired, just… old tired, I guess. It’s been happening more lately. I don’t sleep as good as I used to, either.
+DOCTOR: Okay. And how long would you say this has been going on?
+PATIENT: Hmm… maybe the last six months or so? It’s hard to say exactly. Things get busy, you know? I don't really keep track of these things unless something really bothers me.
+DOCTOR: Alright. And are you experiencing any other symptoms along with the tiredness?
+PATIENT: Not really. Maybe a little bit of… well, my ankles swell up sometimes. Especially if I’m on my feet all day. But that happens, right? It goes down when I put my feet up.
+DOCTOR: Swelling in the ankles… and does anything make it better besides putting your feet up?
+PATIENT: Not that I’ve noticed. Just resting, I guess. I try to drink a lot of water, that’s what my ex-wife always told me to do. She was always good with that health stuff.
+DOCTOR: Right. Well, let’s move on to your medical history. Have you been diagnosed with any medical conditions in the past?
+PATIENT: Not that I know of. I haven’t been to a doctor in… well, a long time. Just for checkups, mostly. Nothing serious. I think I had the flu once, a long time ago. Does that count?
+DOCTOR: Okay. And have you ever had any surgeries?
+PATIENT: Nope. Never needed any. I’m pretty lucky, I guess. Broke my arm when I was a kid, but that’s it. They just put a cast on it.
+DOCTOR: Alright. Now, are there any medical conditions that run in your family?
+PATIENT: Hmm… my mother had high blood pressure, I think. And my father… he had something with his heart, but I don’t really remember what. It was a long time ago, and we didn't talk about health stuff much. They're both gone now.
+DOCTOR: Okay. And what about medications?
+PATIENT: Just… nothing regular. I take a pain reliever sometimes if my back bothers me, but that’s it. Over-the-counter stuff. Nothing a doctor prescribed.
+DOCTOR: Alright. And do you have any allergies to medications, food, or anything else?
+PATIENT: Nope. Not that I know of. I eat pretty much anything. I've never had a reaction to anything. I’m pretty simple that way.
+DOCTOR: Okay, Mr. Putney. Let's do a quick physical exam. We’ll check your blood pressure, listen to your heart and lungs, and take a look at your ankles. Then we can discuss next steps. Would that be alright?
+PATIENT: Yeah, that sounds fine. Just wanna get this over with, if you don’t mind. The sooner I’m done, the better.
+DOCTOR: Very well. Please have a seat on the examination table. I'll start with your blood pressure. Please relax your arm.
+PATIENT: Okay. Just let me know if it’s too tight or anything.
+DOCTOR: 148 over 92. A little elevated, but not alarming. Heart sounds are… regular, but a slight murmur. Not significant, but worth noting. Lungs are clear. Now, let's take a look at those ankles. Could you point out where you notice the swelling?
+PATIENT: Right here, mostly. And it gets worse if I stand for a long time. Sometimes it goes all the way up my legs a little bit. Like that, you can see it puff out.
+DOCTOR: Yes, I see some edema, as you said. And the skin is slightly warm to the touch. Okay. Given your blood pressure reading and the swelling in your ankles, I'd like to order a few blood tests. We need to check your kidney function, electrolytes, and a complete blood count. I also want to do an EKG to get a better look at your heart. Do you have any objections to that?
+PATIENT: Tests? Ugh. Is this gonna take long? I really don't have a lot of time today. I mean, I understand you gotta do what you gotta do, but… could we maybe just skip the EKG if it's not absolutely necessary?
+DOCTOR: Mr. Putney, the EKG is standard procedure for a life insurance physical, especially with the murmur I detected. It’s a simple, painless test and will provide important information about your heart health. Skipping it wouldn’t be advisable. As for the blood tests, they are also essential to rule out any underlying medical conditions. We need a complete picture before we can finalize anything. I understand your time is valuable, but your health is more important. Are you able to proceed with these tests?
+PATIENT: Fine. Whatever. Just… get it over with. I guess. But please, can we hurry? I got things to do. And I’m not a fan of needles, just so you know.
+DOCTOR: Very well. The nurse will be in shortly to draw the blood. As for the EKG, we can do that right here in the examination room. It shouldn’t take more than a few minutes. I'll leave you to change into a gown. I’ll return once the nurse is ready.

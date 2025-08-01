@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Bulaong. Welcome to the clinic. I’m Dr. Piet. So, what brings you in today?
+PATIENT: Good morning, Doctor. Um… my chest hurts. Not always, but… yeah. It’s my chest.
+DOCTOR: Okay. Chest pain. Can you tell me a little more about it?
+PATIENT: It’s… hard to say. It’s not a sharp pain, more like… ache. Sometimes it’s on the left side, sometimes… both sides. It doesn’t hurt all the time, like I said. Just… comes and goes.
+DOCTOR: Alright, an ache that comes and goes, sometimes on the left, sometimes both sides. How long has this been going on?
+PATIENT: Hmm… maybe a month? I think so. It started slow, and I didn’t think much of it at first. Just thought I maybe slept wrong. But it keeps happening. It’s… a little worrying now.
+DOCTOR: Okay, a month. And has anything specific brought it on – like exercise, stress, eating, or does it seem to happen randomly?
+PATIENT: Randomly, I think. I work on roofs, so… it's not like I'm sitting still all day. Lifting things, walking around... doesn't seem to make it worse, or better. It just… happens. Maybe when I'm tired? I don't know. Hard to tell.
+DOCTOR: Okay, potentially with fatigue. And on a scale of one to ten, with one being barely noticeable and ten being the worst pain you’ve ever felt, what would you rate the pain when it is happening?
+PATIENT: Um… maybe a four? Sometimes five, if I'm really thinking about it. It’s not… like, can’t-breathe pain. Just… uncomfortable. Annoying, mostly.
+DOCTOR: Alright, four to five, uncomfortable and annoying. Do you notice anything else happening with the pain?
+PATIENT: No… not really. No fever, no… lumps, that I can feel. Just the ache. Sometimes my… nipples feel a little sensitive, but that doesn’t always happen with the pain.
+DOCTOR: Okay, sensitive nipples occasionally. Let’s do a quick examination, if that's alright with you. I’ll listen to your heart and lungs and feel around a bit. Is that okay?
+PATIENT: Yeah, okay. That’s… fine. Whatever you need to do. I hope it’s nothing bad.
+DOCTOR: Okay, take a deep breath in for me… and out… Good. And another one… Alright. Your lungs sound clear, and your heart rate is regular. Now, I’m just going to gently feel around your chest… any tenderness here?
+PATIENT: No… not really. Maybe a little bit… right here? But it’s not… bad. Like I said, just uncomfortable.
+DOCTOR: Okay, slight tenderness there. And do you have any history of heart problems in your family?
+PATIENT: Um… not that I know of. My father… he had high blood pressure, I think. But no heart attacks or anything. My mother was healthy, mostly. Just… old age problems, you know?
+DOCTOR: Alright, no known heart problems, father with high blood pressure. Do you smoke?
+PATIENT: No, Doctor. Never smoked. My wife, she tried it once, but didn’t like it.
+DOCTOR: Okay, good. And what about alcohol consumption?
+PATIENT: Just a beer sometimes, with dinner. Maybe two or three times a week. Nothing crazy. I don't drink to… you know.
+DOCTOR: Okay, moderate alcohol use. And finally, are you currently taking any medications or have any allergies I should be aware of?
+PATIENT: No medications. And no allergies, not that I know of. I get a little itchy sometimes with mosquito bites, but that’s it.
+DOCTOR: Alright, no medications, no allergies. Given your symptoms – chest pain that’s intermittent, an ache, occasional tenderness, and no significant family history – and the fact that your lungs sound clear, it could be musculoskeletal – meaning related to your muscles or chest wall. However, chest pain is always something we need to take seriously. Because you are uninsured, and given the potential for more serious causes, I recommend we get an EKG and a chest X-ray to rule out anything more concerning, like heart issues or lung problems. Would you be able to afford those tests?
+PATIENT: Um… that’s… a problem. I don’t have insurance. I work hard, but… money is tight. How much would those tests cost? I don't know if I can afford… anything right now, to be honest.
+DOCTOR: I understand. It's a difficult situation. Let me check the costs for you. Okay, an EKG here is about $150, and a chest X-ray is around $200. We do have a program that offers a discount for uninsured patients – it would bring the EKG down to $100 and the X-ray to $150. Still… I realize that’s a significant amount. If those costs are simply too much at this time, we can proceed without them, but I will need you to understand the risks. We would be monitoring your symptoms closely, and you’d need to come back immediately if the pain gets worse, changes in character, or is accompanied by shortness of breath, sweating, nausea, or any feeling of lightheadedness. We could also explore options at a free clinic in the city, but there might be a wait. What are your thoughts?
+PATIENT: Hmm… that discount helps. $250… I think I could manage that. It'll be tight, but… better than not knowing. I don’t want to wait at a free clinic, if I can help it. The waiting… and I don’t want to worry my wife. So… $250 for the tests? Then we see what they say?
+DOCTOR: Yes, $250 for the EKG and chest X-ray. We can do those right away. After the tests, we’ll review the results together and discuss the next steps. Maria, can you please get Mr. Bulaong set up for an EKG and a chest X-ray?
+PATIENT: Okay, sounds good. Thank you, Doctor. I appreciate you explaining everything. Hopefully it’s just… muscles, like you said.
+DOCTOR: You’re welcome, Mr. Bulaong. We'll do everything we can to figure out what's going on. Maria will take you to the EKG room first. Just let me know if you have any questions before you go. And remember, if the pain gets significantly worse or you experience any new symptoms, please go to the emergency room immediately. Don't hesitate.
+PATIENT: Okay, I will. Thank you again, Doctor. I hope it's nothing serious.

@@ -1,0 +1,32 @@
+DOCTOR: Alright, Ms. Abdollahi, welcome. I’m Dr. Burlingham. So, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. Is… is good to meet you. My husband, he think I need… how you say… paper? For the… old people place. He say I need check-up first. For the place.
+DOCTOR: A "paper," you say?
+PATIENT: Yes, yes. The… Senior Living. He say they need doctor say is okay. I am… seventy-two years old now. Is time, maybe. But I feel good, you know? Mostly good.
+DOCTOR: Right. A physical for Senior Living. Well, alright. We can certainly do that. It’s good your husband is thinking ahead. “Mostly good” is… vague, though. Let's start with the basics. Can you tell me a little more about what’s been going on specifically?
+PATIENT: Hmm… specifically? Is hard. I… sometimes forget things. Not big things. Like… where I put my glasses. Or the name of the… the flower my neighbor give me. Small things. And… sometimes my knee, is a little pain when I walk long. But is okay. I take a little pill for it.
+DOCTOR: Alright, small memory lapses and some knee pain. And you said you're taking a pill for the knee… do you know what the name of that pill is?
+PATIENT: Oh… the name… Is… white one? Small, white one. I get it from the… pharmacy. My husband, he get it for me. I not so good with names, Doctor. Sorry.
+DOCTOR: It’s alright. We’ll figure it out. Do you remember when you started taking this pill?
+PATIENT: Hmm… when? I think… maybe last year? After I fall in the garden. Not so bad fall, but my knee… ache after. My husband take me to the doctor then. He tell me about the pill. Is good pill, help the pain.
+DOCTOR: Okay, a fall last year with subsequent knee pain and a white pill. Let's try this another way. Besides the memory and your knee, are you experiencing any other symptoms?
+PATIENT: Symptoms? You mean… is something wrong? I… no. I eat good. I sleep good. Sometimes I little tired, but is just… old. Is okay. No big problem. My husband worry too much, you know?
+DOCTOR: Alright. Well, let's do a quick examination, just to get a baseline. I'd like to check your blood pressure, listen to your heart and lungs, and take a look at your knee. And we'll do a little memory check, if you don't mind. Just simple things. Would that be alright?
+PATIENT: Yes, Doctor. Is okay. You do what you need to do. My husband, he always say I need check-up. Maybe he is right.
+DOCTOR: Excellent. If you'll just have a seat here. First, let's take your blood pressure. Blood pressure is a little elevated, but nothing concerning at the moment. Heart sounds are regular. Lungs are clear. Now, let's take a look at that knee. Please just point to where it hurts the most. Any tenderness here?
+PATIENT: Yes, here. Is hurt a little when you push like that. Not so bad when I walk, just… when you touch. And sometimes… is little stiff in the morning.
+DOCTOR: Alright, there is some tenderness and a slight range of motion limitation. Now, just to get a better idea of things... can you tell me the year right now?
+PATIENT: The year…? Hmm… Is… is August, yes? Two thousand…? I think… Is it two thousand twenty-five? My husband, he tell me the dates. I forget sometimes.
+DOCTOR: Right. And what city are we in?
+PATIENT: Oh! Is… Is… the city with the… tall buildings? And the… the buses! I not so good with city names, Doctor. I live here a long time, but… is hard to remember.
+DOCTOR: Alright. Well, it seems we have a little bit of cognitive impairment here, along with some knee pain. Now, before we go any further, do you have any allergies to medications?
+PATIENT: Allergies? No, no allergies. I eat everything. My husband, he make me good soup. Everything is good. I never… is sick from food, or… medicine. Never.
+DOCTOR: Okay, no known allergies. Now, are you currently taking any other medications besides the white pill for your knee?
+PATIENT: Hmm… Just… sometimes, when I cannot sleep, I take… the little blue one? My neighbor give me. For… for the quiet time. Is good, help me sleep. But not every night. Just… when I worry too much.
+DOCTOR: A little blue one...for sleep?
+PATIENT: Yes. Small, blue one. She say is good for… relax. Help you close your eyes. Is not from the doctor, though. Just… from my neighbor. She say her husband use it. Is okay, I think. Just one, sometimes.
+DOCTOR: Alright. Well, it sounds like we need to address a few things. The cognitive impairment is concerning and we’ll need to investigate that further. And taking medication – even something a neighbor gives you – without a doctor’s knowledge is… unwise. Now, I want to order some blood work to rule out any underlying medical causes for your memory issues. I also want to get an MRI of your knee to assess the damage. And I’m going to refer you to a neurologist for a comprehensive cognitive evaluation. Does that sound alright?
+PATIENT: Oh… so many things! Blood… from me? And… the picture of my knee? Is okay… if you think is good. But the picture… will it hurt? And the… neurologist? Is that another doctor? I… I not so good with so many doctors. Is just… a little much. But if my husband think is good… I will do what he say.
+DOCTOR: It's alright, Ms. Abdollahi. The blood work is just a routine test, a small amount will be taken from your arm. The MRI is painless, you’ll just lie on a table while it takes pictures. And yes, the neurologist is another doctor, a specialist who focuses on the brain and memory. It's important to get this checked out, for your own peace of mind. I’ll have my nurse draw the blood today. We’ll schedule the MRI and neurologist appointment for you. In the meantime, please, do not take any more of that little blue pill. Understand?
+PATIENT: Yes, Doctor. No more blue pill. I understand. No more. Just… the blood and the picture and the other doctor. Is… a lot. But if you think is best… I trust you. My husband, he say you are a good doctor.
+DOCTOR: Alright. Good. I'll have the nurse come in to explain the bloodwork and schedule those appointments. In the meantime, if you experience any new or worsening symptoms – any confusion, dizziness, or severe pain – please call the office immediately. I'll see you at your follow-up appointment.
+PATIENT: Okay, Doctor. I will. Thank you. Is good to meet you. Bye bye.

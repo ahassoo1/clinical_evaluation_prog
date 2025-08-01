@@ -1,0 +1,34 @@
+DOCTOR: Alright, Mr. Grumman, have a seat. So, what brings you in today?
+PATIENT: Tired. Just… very tired. All the time. Not like… sleepy tired. Like… heavy tired. Like my body is made of stones. It’s been going on for… a long time now, I think. Maybe months? Hard to say, really. My wife, she keeps telling me I need to come see someone.
+DOCTOR: Months, huh?
+PATIENT: Yes. Months. Not just a few days. Not like when I work too hard on the… the fabrics. This is different. And my stomach… it feels funny sometimes. Not pain, exactly. Just… wrong.
+DOCTOR: “Funny” how?
+PATIENT: Like… full when it shouldn’t be. And empty when I eat. It’s confusing. My wife makes me good food, very good. But… it doesn’t always stay down, if you understand. And it smells… bad. Not the food, I smell bad. After… you know.
+DOCTOR: Okay. So, digestive issues and… body odor?
+PATIENT: Body odor? That’s… a strange way to put it. It's not like I don’t wash! I wash every day. It’s just… a smell. A bad smell. And it’s not always there. But when it is… it’s not good. You smell it, you know it’s something wrong.
+DOCTOR: Right. Well, let's get some basics down. Any fevers?
+PATIENT: Fevers? No. Not that I know of. I don’t feel hot. Sometimes… a little warm, after working. But not like sick warm. Just… working warm. My wife checks sometimes. She says I don’t run a fever. She’s very good at… checking.
+DOCTOR: Okay. Any changes in your weight?
+PATIENT: Weight? Hmm. Maybe. I think I’m… smaller. My clothes feel… loose. But I don’t weigh myself. Too much bother. My wife says I should, but… what good does a number do? I feel tired. That’s what matters.
+DOCTOR: Alright. And you said this has been going on for months?
+PATIENT: Yes. Months. I told you. It’s not getting better. If anything… it's worse. I have less energy. Less strength. I used to be able to lift the heavy rolls of cloth all day. Now… now I have to ask my son to help. It's… embarrassing.
+DOCTOR: Any problems with your appetite besides the… stomach issues?
+PATIENT: Appetite? Not really. I want to eat. My wife makes very good food, I told you. I just… don't always feel like it. And when I do, it doesn’t stay long. It’s… a confusing feeling. Like my stomach is not happy with anything. Even the good things.
+DOCTOR: Okay. Let's talk about other things. Any pain anywhere?
+PATIENT: Pain? Not much. Sometimes my back aches. But I work with fabrics all day. That's normal. Old man aches. And sometimes my feet hurt. But that’s from standing. Not… bad pain. Just… tired pain.
+DOCTOR: Alright. Any medications you're taking?
+PATIENT: Medications? No. I don’t take anything. I don’t like pills. They make me feel… funny. My wife… she suggests things sometimes. For my blood pressure, she thinks. But I tell her no. I don't need pills.
+DOCTOR: Any allergies to anything?
+PATIENT: Allergies? No. I’ve never had allergies. I live in the city. Lots of dust, lots of smells. Never bothered me. I'm a strong man. Dust doesn’t hurt me.
+DOCTOR: Alright. And you said no fever, no pain, no medications… family history?
+PATIENT: Family history? Hmm. My father… he was sick. A long time ago. Liver problems, I think. He drank too much coffee, my wife says. And my mother… she had trouble with her stomach. Always complaining. But… that’s just old people problems, I think.
+DOCTOR: Okay. Well, let’s just do a quick exam, alright?
+PATIENT: Exam? What kind of exam? I don’t like being poked and prodded. I just want to know why I'm tired. Is that too much to ask?
+DOCTOR: Just a basic check. I need to listen to your heart and lungs, feel your abdomen... you know, make sure nothing obvious is going on. It's quick. Let's start with your heart. Take a deep breath.
+PATIENT: Abdomen? You want to poke my stomach? I told you, it's not feeling right. Fine. Poke it. But don’t push too hard. It's sensitive. And listen to my heart, if you must. But I don't know what that will tell you. I'm just tired. That's all.
+DOCTOR: Heart sounds are… regular, but a little faint. Abdomen is soft, some mild tenderness in the upper quadrants… no guarding or rebound. Lungs are clear. Your blood pressure is… 110/70. Pulse is 68. Temperature is 98.6. Not much to report here.
+PATIENT: See? Nothing wrong. I told you. Just tired. So what does that mean? Is it something I'm eating? I need to go back to work. I have fabrics to cut. My son can't do it all himself.
+DOCTOR: Well, the physical exam isn't revealing anything acute. Your fatigue… and the digestive issues… could be a number of things. We could run some bloodwork to check your thyroid, your liver function, your vitamin levels… rule out anything obvious. It's not a guarantee, though. It might just be… stress. Or getting older. I’m not convinced it’s anything serious. But let's do the bloodwork to be safe.
+PATIENT: Bloodwork? More poking and prodding? I don't like needles. And what good will numbers do? I feel tired. My wife will be happy, she always wants me to get tests. Fine. Do the bloodwork. But if it doesn’t tell you anything… I don’t want to come back.
+DOCTOR: Alright, alright. I’ll order a basic metabolic panel, a complete blood count, a thyroid panel, and a vitamin D level. The lab is just down the hall. They'll need a sample of your blood. And yes, there will be some poking. The results will take a few days. We can discuss them when they come back. In the meantime, try to get some rest. And maybe… lay off the heavy lifting. .
+PATIENT: Rest? I need to work! But… fine. I'll go do the bloodwork. Tell the lady to be gentle, okay? My wife will be pleased. Just… get it over with. This is a waste of time, but she’ll be happy.

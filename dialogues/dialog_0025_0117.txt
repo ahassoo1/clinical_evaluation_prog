@@ -1,0 +1,26 @@
+DOCTOR: Well, Mr. Reyno, good afternoon. I'm Dr. Fourney. So, tell me, what brings you in to see me today?
+PATIENT: Afternoon. Uh… coughin’. Been coughin’ a bit. And… somethin’ in the… stuff. When I cough. Red. Not good, I guess. I don’t… remember exactly when it started. A while now. I smoke, you know. Always have.
+DOCTOR: Right. Coughing, and you're noticing some red… matter when you cough. And you’ve been a smoker for quite some time. Okay. When you say “a while now,” can you be a bit more specific?
+PATIENT: Specific… hmm. Maybe… a couple months? Could be longer. I… don’t keep track of things like that. It just… started happenin’. Not a big deal, usually. Just… more now. Worried it’s… worse.
+DOCTOR: Okay. A couple of months, roughly. And it’s been increasing recently, is that correct?
+PATIENT: Yeah. More. Definitely more. It… scares me a little. I ain’t been feelin’ too good lately either, but… old age, probably.
+DOCTOR: “Not feeling too good” is… vague, Mr. Reyno. Can you elaborate on that?
+PATIENT: Just… tired. And… short of breath. When I walk, even. Used to be able to… do more. Now… I gotta stop and rest. Little bit now. Sorry.
+DOCTOR: It's alright. Tiredness, shortness of breath, especially with walking… and this cough with the red… matter. Alright. Let's get a bit of your history. Do you have any other medical problems that I should be aware of?
+PATIENT: Medical problems… Not that I know of. Doc always said I was… tough. Just the smokin’. Medicare’s all I got. Never needed much else. Don't remember anythin’ serious.
+DOCTOR: Alright. And have you had any surgeries in the past?
+PATIENT: Surgeries… Nope. Never had anythin’ cut open. I don't think so, anyway. Maybe when I was a little kid? But I don’t… recall. It was a long time ago.
+DOCTOR: Okay. What about your family?
+PATIENT: Family… Mostly gone now. Parents… passed a long time back. Had a brother, but we… don't talk much. Not close. He lives… somewhere. Don’t know what he did, or if he… got sick. I ain't sure.
+DOCTOR: Alright. And do you have any allergies to medications?
+PATIENT: Medications… nope. Never been allergic to nothin’. Doc gave me some pills for… somethin’ once. Years ago. Didn’t bother me none. I just… don’t take much.
+DOCTOR: Alright. And are you currently taking any medications at all, even over-the-counter things?
+PATIENT: Nope. Not a one. Just… cough drops sometimes. When it's real bad. But that’s it. I don’t like takin’ pills. Makes me feel… weird.
+DOCTOR: Okay. Well, Mr. Reyno, it sounds like you've been a very independent man, and haven't spent much time with doctors. But this cough, especially with the… matter you're bringing up, and the shortness of breath, warrants a closer look. I'm going to need to do a physical exam. Is that alright?
+PATIENT: Exam… fine. Whatever you need to do. Just… get it over with. I got things to do.
+DOCTOR: Alright. If you’ll just have a seat here. I’m going to listen to your lungs, check your heart rate, and take a look at your throat. Please remove your shirt and I'll start with the lungs. Okay. I'm hearing some… wheezing in both lungs. And some crackles as well. Not good. Heart rate is a little elevated, but not alarmingly so. Throat is… irritated. Some redness. And your lymph nodes are slightly swollen. Now, I'm going to order a chest X-ray and a complete blood count. That will give us a better idea of what’s going on. Does that sound alright?
+PATIENT: X-ray… blood work… More waitin’. Fine. Do what you gotta do. Just… hurry, please. I ain’t a young man anymore.
+DOCTOR: I understand your frustration, Mr. Reyno. The nurse will take you to get those tests done shortly. In the meantime, I want you to avoid any strenuous activity. And if you experience any chest pain or severe shortness of breath, please go to the nearest emergency room immediately. Do you understand?
+PATIENT: Emergency room… Yeah. I understand. Chest pain… shortness of breath. Alright. Can I… can I go now? I'm tired of waitin'.
+DOCTOR: Yes, Mr. Reyno. The nurse will be right with you to escort you for the X-ray and bloodwork. We'll review the results as soon as they come in. I’m also going to schedule a follow-up appointment for next week, regardless of the results, just to monitor your progress. I'll have the nurse set that up for you. Now, please, try to rest and let the tests do their work. The nurse will be with you shortly.
+PATIENT: Alright. Fine. Whatever. Just… let me know when they got somethin’. Don’t keep me waitin’ forever.

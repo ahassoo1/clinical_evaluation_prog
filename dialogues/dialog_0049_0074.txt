@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Ms. Steines. I'm Dr. Nestingen. Now, what brings you in today?
+PATIENT: Morning, Doctor. Just… my blood pressure's been a bit high, they told me to come see someone. Been feelin' a little tired too, but mostly it's just what the nurse said about the numbers. Don't rightly remember what they were, though.
+DOCTOR: Right. “A bit high” is… not terribly helpful, unfortunately. And you don’t recall the specific readings?
+PATIENT: No, ma'am. Old age, I suppose. It all gets a bit blurry after a while. They just said it was too much and I needed to get it checked. I bake a lot, you see. Maybe that has somethin' to do with it? All that salt, I reckon.
+DOCTOR: Baking… while I wouldn't necessarily pinpoint baking as the sole cause, dietary sodium can contribute to hypertension. We'll need to get a more accurate reading, of course, and discuss your overall diet. Let’s start with a physical exam, shall we?
+PATIENT: Sounds alright to me. Whatever you think is best, Doctor. Just wanna get this sorted out and get back to my kitchen, if you don't mind.
+DOCTOR: Very well. Please extend your arm. I’ll need to listen to your heart and lungs as well. And I'll take your pulse. Hm. 160 over 95. As suspected. Pulse is 78 and regular. I'll listen to your heart and lungs now. Heart sounds are… normal. Lungs are clear, but a little diminished breath sounds, which is not uncommon at your age. No wheezes or crackles.
+PATIENT: Diminished breath sounds… is that bad, Doctor? I never had much trouble breathin', not really. Just get a little winded carryin' heavy things, you know? Like flour sacks.
+DOCTOR: It's not necessarily “bad,” Ms. Steines. It’s common with age, as the elasticity in your lungs decreases. But we need to rule out anything more concerning. Have you ever smoked?
+PATIENT: No, ma'am. Never touched a cigarette in my life. My husband, he tried it once or twice, but I put a stop to that right quick. Bad for your health, he knew that.
+DOCTOR: Good. Any history of asthma, bronchitis, or pneumonia?
+PATIENT: Not that I recall. I had the flu a time or two when I was a little girl, but nothin' serious. And maybe a bad cold now and then, like everyone gets. But never anything that needed a doctor, not until this blood pressure business.
+DOCTOR: Alright. Let's move on to some basic questions about your medical history. Have you ever been diagnosed with diabetes?
+PATIENT: No, ma'am. Never. I do like a sweet treat now and then, but I ain't never been told I had diabetes. My mama always said a little sugar is good for the soul.
+DOCTOR: While a small indulgence is… acceptable, consistently elevated blood sugar can lead to significant health problems. We'll need to check your levels just to be certain. Any family history of heart disease, stroke, or kidney problems?
+PATIENT: Oh dear. My brother, he had a bad ticker. Had to have a… a thingamajig put in his chest. And my aunt Bessie, she had kidney trouble when she got older. Spent a lot of time in the hospital. That was a long time ago, though.
+DOCTOR: And what about medications?
+PATIENT: Just what the doctor gave me for my arthritis in my hands. A little pill, helps with the achin'. And sometimes somethin' for sleepin', if I'm really restless. That's about it. I try to avoid pills when I can, if you don't mind.
+DOCTOR: Very well. And allergies?
+PATIENT: Not that I know of. I can handle most anything, really. I spend a lot of time outdoors, workin' in my garden. Pollen, dust… never bothered me none.
+DOCTOR: Alright, Ms. Steines. Given your age and family history, and your elevated blood pressure, I'd like to order some blood work. A complete metabolic panel, lipid panel, and a renal function test. We’ll also need a urinalysis. And, just to be thorough, an EKG to check your heart rhythm. Do you have any objections to these tests?
+PATIENT: Tests… sounds like a lot. But if you think it's necessary, Doctor, I reckon I can handle it. Just… how long will all this take? I got pies to bake, you see.
+DOCTOR: The blood work will take a few days to process. The EKG is quick—a few minutes in the lab. The results will help us determine the best course of action. I’m not dismissing your baking, Ms. Steines, but your health is paramount. We need to get a handle on this blood pressure. Do you have any other concerns or questions at this time?
+PATIENT: No, I suppose not. Just… will these tests keep me from bakin'? Can I still make a little somethin' while we're waitin' for the results? Maybe somethin' small? A little biscuit, perhaps?
+DOCTOR: Ms. Steines, I'm going to be frank. Until we have a better understanding of your condition, I recommend limiting your sodium intake significantly. That includes limiting baking. A small biscuit… is not advisable. I understand it’s difficult, but it’s in your best interest. I'll write you a referral for the lab work and EKG. The order will be sent electronically to the lab. The lab will contact you to schedule an appointment. Do you understand?
+PATIENT: I reckon I understand. No pies… no biscuits… just… waitin'. It's always waitin', isn't it? Alright, Doctor. Whatever you say. Just let me know as soon as you find somethin' out. .
+DOCTOR: .

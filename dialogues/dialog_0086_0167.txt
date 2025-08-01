@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Mr. Stoegbauer. I’m Dr. Murtic. So, what brings you in to see me today?
+PATIENT: Good morning to you, Doctor. It’s my foot. It’s… hurtin’ real bad. Been hurtin’ for a little while now, but it’s worse today. It’s a sore, you see. A bad sore.
+DOCTOR: Alright. And where exactly on your foot is this sore?
+PATIENT: It’s on the bottom, Doctor. Right… here. It’s kinda in the middle, but more towards my… toes, I think. It’s hard to tell. I don’t move around as much anymore, you know.
+DOCTOR: Okay. And how long have you noticed this soreness, exactly?
+PATIENT: Hmm… that’s a good question. Maybe… two, three weeks? It started small, like a little owie. I didn’t think much of it at first. But then it got red and… angry lookin’. Now it hurts to walk, even with shoes.
+DOCTOR: “Angry lookin’…” Right. And is it painful constantly, or does it come and go?
+PATIENT: It’s mostly when I try to stand or walk, Doctor. When I’m sittin’ or lyin’ down, it’s not so bad. But the minute I put weight on it… oh boy. It’s a sharp pain. And sometimes, when I’m restin’, I feel a kinda… throbbin’ feeling.
+DOCTOR: Alright. Have you noticed any swelling, any drainage, or any fever associated with this sore?
+PATIENT: Swelling… yes, maybe a little. It looks kinda puffy around it. Drainage? I don't think so. No pus or nothin’ like that. And fever… no, I haven’t felt hot or sick. Just the pain in my foot.
+DOCTOR: Okay, Mr. Stoegbauer. Would you mind if I took a look at your foot?
+PATIENT: Oh, yes, of course, Doctor. Please do. I’m happy to show you. It’s a bit embarrassing, you know. Old feet aren't pretty.
+DOCTOR: If you could just sit up there for me, please. Let’s have a look.
+PATIENT: Here it is, Doctor. Be gentle now, okay? It’s tender.
+DOCTOR: Alright. It’s definitely inflamed. I’m feeling some… induration here, and it’s quite tender to the touch. Pulses are good, no warmth beyond the localized inflammation. It appears to be a plantar ulcer, likely due to pressure. Have you changed your shoes recently, or been doing any more walking than usual?
+PATIENT: Plantar… what now, Doctor? I mostly wear slippers around the house, you know? And when I go to the store, I wear my old sneakers. Haven't changed 'em in… a long time, probably. No, I haven't been walkin' more than usual. It's hard for me to get around these days. Maybe that’s why it got bad?
+DOCTOR: Alright. A plantar ulcer, simply put, is a sore on the bottom of your foot. It sounds like this developed due to pressure on that area, perhaps from your sneakers. It's not unusual, especially with reduced mobility. We need to keep it clean and protected to prevent infection. Do you have any diabetes, Mr. Stoegbauer?
+PATIENT: Oh! A sore, okay. Makes sense. Diabetes… yes, Doctor. I do. Been havin' it for a long time. I take my medicine every day. I try to, anyway. Sometimes I forget.
+DOCTOR: Alright. Diabetes complicates things, as it can affect healing. We’ll need to be particularly careful. I’m going to order some blood work to check your blood sugar levels, just to make sure everything is under control. I'm also going to prescribe you a special dressing for the ulcer, and some antibiotic ointment. We need to debride the wound to remove dead tissue. I can do that here, or we can refer you to a podiatrist. Which would you prefer?
+PATIENT: De… bride? What’s that mean, Doctor? Sounds scary. And a… podia… what? I just want it to get better, you know? I don’t want any scary procedures.
+DOCTOR: Debridement simply means removing any dead or damaged tissue from the sore. It helps the wound heal. It’s a very common procedure, not scary at all. I can numb the area completely before I do it. A podiatrist is a foot doctor, a specialist in feet. They’re very good at treating these kinds of sores. Either I can handle it here, removing the dead tissue and applying the medication, or I can refer you to a podiatrist for a more specialized approach. Given your diabetes, I'm leaning towards a referral, just to be safe. What do you think?
+PATIENT: Oh… I see. Like… cleaning it out? A foot doctor… well, if you think that's best, Doctor, then I trust your judgement. If it's because of the sugar sickness, then I guess a specialist would be good. I just want it fixed. So… a foot doctor, okay.
+DOCTOR: Alright. I’ll write you a referral to Dr. Chen, a very reputable podiatrist in the area. She’ll be able to assess the wound more thoroughly and develop a comprehensive treatment plan. I’m also going to order those blood tests, and prescribe you the antibiotic ointment and special dressings for now. I want you to keep the wound clean and dry, and avoid putting any weight on that foot as much as possible. Do you have anyone who can help you with that?
+PATIENT: My daughter, Leilani, comes by sometimes. She helps me with things. She’s a good girl. She can help me keep it clean and dry, I think. And she can remind me to take my medicine, too. Sometimes I forget, you know.
+DOCTOR: Good. That’s very helpful. We’ll also schedule a follow-up appointment with me in one week to check your blood test results and discuss Dr. Chen’s recommendations. Here’s the referral for Dr. Chen, and these instructions. Read them carefully, and don’t hesitate to call the office if you have any questions. Now, do you have any questions for me before you go?
+PATIENT: No, Doctor, I think that's all. You explained everything very well. I appreciate you takin' the time. Mahalo.
+DOCTOR: Alright. Just remember to keep the wound clean and dry, and follow the instructions carefully. And try to remember your medication. Have a good day, Mr. Stoegbauer.
+PATIENT: Mahalo to you too, Doctor. Have a good day.

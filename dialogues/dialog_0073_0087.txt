@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Mr. Croonquist. I'm Dr. Korrell. So, tell me, what brings you in to see me today?
+PATIENT: Uh, good morning to you too, Doctor. Honestly, it’s… lab work. That’s all. Just need the usual tests, I suppose. Medicare said I need to come in. Don't really remember which tests, though. Been a while since I was last here.
+DOCTOR: “The usual tests,” alright. Medicare does have a way of being…vague. And you say it’s been a while?
+PATIENT: A long while. Years, definitely. Maybe five? Or was it ten? Hard to say. Everything blurs together after a bit, you know? I just...work. Power plant doesn't leave much time for remembering doctor's appointments.
+DOCTOR: Yes, well. Time does tend to slip away. Let's see if we can piece things together. Do you have any specific concerns right now?
+PATIENT: Concerns? Not really. Feeling…okay, I guess. A little tired, maybe? But that’s just the work. Long hours, you know? No aches or pains, nothing like that. Just…tired. And wanting to get this lab work done so I can go back to work.
+DOCTOR: Alright. Let me pull up your records here…ah, yes. It appears your last visit was, in fact, seven years ago. And it does seem Medicare is requesting a comprehensive metabolic panel, a lipid panel, and a complete blood count. Standard for your age. Do you have any allergies to medications?
+PATIENT: Medications… allergies? Hmm. Not that I know of. I don’t take much. Maybe a pain reliever now and then, when I really need it. But nothing regularly. I haven't had a bad reaction to anything, not that I recall.
+DOCTOR: Good. And any current medications at all, even over-the-counter things like vitamins or supplements?
+PATIENT: No, nothing. Just… coffee. Lots and lots of coffee. Does that count as a medication? I doubt it. Really, nothing else. I try to keep things simple.
+DOCTOR: Well, perhaps we should consider reducing the coffee intake, but that's a discussion for another day. Now, regarding your medical history… have you ever been diagnosed with any chronic conditions?
+PATIENT: Chronic conditions… let me think. Not that I know of. No heart trouble, no diabetes, nothing like that. I've been lucky, I suppose. Just… always tired. But I figure that’s the power plant. Honestly, Doctor, my memory isn't what it used to be. I hope you don't mind me being so vague.
+DOCTOR: It’s alright, Mr. Croonquist. We’ll work with what we have. Have you ever had any surgeries?
+PATIENT: Surgeries… Hmm. I think… I broke my arm when I was a boy, playing football. They set it, I suppose. That was a long time ago. Nothing since then. Definitely nothing in the last… well, decades. Is that helpful?
+DOCTOR: Yes, that’s helpful. And what about your family?
+PATIENT: Family… Oh. Well, I have a sister, somewhere. Haven’t spoken to her in years. She moved… I don’t even remember where. And my parents are… gone, a long time ago. No kids of my own. It’s just me, mostly. Does that matter?
+DOCTOR: It can. Sometimes family history provides insight. Were your parents or sister afflicted with any major illnesses?
+PATIENT: Honestly, Doctor, I don’t know. I wasn’t particularly close to my sister, and my parents… well, it was a long time ago. I don’t remember them being sick or anything. Maybe? I just… I’m not good with remembering things like that. I apologize. Can we just get the tests done?
+DOCTOR: Very well. Since your recollection is…limited, we'll proceed with the standard lab work Medicare requested. We'll also do a brief physical exam. It’s just a standard check of your blood pressure, heart rate, and listening to your lungs. Can you step up onto the scale for me, please?
+PATIENT: Yes, of course. Just want to get this over with. I’ve got shifts to cover, you know?
+DOCTOR: 69 kilograms… alright. And your height is 195 centimeters, as recorded. Blood pressure is 140 over 90. A little elevated, but not alarming. Heart rate is 72, regular. Lungs are clear to auscultation bilaterally. I'll need to draw some blood now. Please have a seat and extend your arm.
+PATIENT: Fine. Just get it over with quickly, please. I don’t particularly like needles.
+DOCTOR: Alright, Mr. Croonquist, that's all done. It will take a few days to get the results back. We’ll call you with the findings. In the meantime, try to get some rest, and perhaps cut back on the coffee. I will send the results to your insurance as well. Do you have any questions for me?
+PATIENT: No, I don’t think so. Just… when will I hear back? And is there anything I should avoid doing while waiting for the results? Like, should I avoid heavy lifting at work?
+DOCTOR: You should hear back within 5-7 business days. And given your slightly elevated blood pressure, I recommend avoiding strenuous activity until we have the results back. Heavy lifting is probably not a good idea. It's better to err on the side of caution. I can write a note for your employer if necessary. Anything else?
+PATIENT: No, I think that’s all. Thank you, Doctor. Just hoping it's nothing serious. I really need to get back to work.
+DOCTOR: Very well. If you experience any chest pain, shortness of breath, or dizziness, go to the emergency room immediately. Otherwise, we’ll speak soon. Have a good day, Mr. Croonquist.
+PATIENT: Okay. Thank you.

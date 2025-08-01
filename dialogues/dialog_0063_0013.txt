@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Hilber. I am Dr. Jules. Now, let’s not waste time. What brings you in today?
+PATIENT: Good morning, Doctor. Well, it’s… it’s my water. I have trouble… getting it all out when I go to the bathroom. It feels like there’s always some left, you see? It’s been happening for a little while now.
+DOCTOR: A little while?
+PATIENT: Hmm… maybe a couple of months, Doctor. Not every time, but… often enough that it’s bothering me. It’s not painful, exactly, just… frustrating. And I worry about it, you know? I don't want nothing bad to happen.
+DOCTOR: Frustrating is not a diagnosis, Mr. Hilber. Can you be more specific?
+PATIENT: I understand, Doctor. Sorry. Specific… well, I push, and it starts, but then it… slows down. Like it’s not wanting to come out completely. And I have to… strain a little to get the rest. Sometimes I feel like I’m pushing for a long time, even after I think I’m done. It’s hard to explain. Does that make any sense?
+DOCTOR: So, difficulty completing urination, requiring straining… Have you noticed any changes in the force of your stream?
+PATIENT: The force…? Hmm. That’s a good question. I think… maybe it’s not as strong as it used to be. Not a lot different, but I do think it takes longer to finish, and it’s not… well, not as powerful a stream, I guess. It just… dribbles a bit at the end, even. I hope I'm making sense.
+DOCTOR: Dribbling… and reduced force. Have you experienced any fever, chills, or pain in your lower abdomen, or your back?
+PATIENT: No, Doctor, no fever or chills. And no pain, not really. Like I said, it’s not painful. Just… uncomfortable. Sometimes, after I try to go, I feel a little… tired, maybe? But that could just be from trying so hard. I don't know.
+DOCTOR: Any changes in your bowel habits?
+PATIENT: Bowel habits…? Oh. Well, I… I go about the same as always, Doctor. Maybe a little less regular lately, but… I’ve been eating different, with the summer berries and all. I don't think that’s related, though. Is that what you’re asking about?
+DOCTOR: Mr. Hilber, I need you to be precise. Are you experiencing constipation?
+PATIENT: Oh! Constipation… yes, sometimes. Not every day, but… yes, it’s harder to go than it used to be, and I have to… well, you know. Push a bit more. Sorry to be so… vague, Doctor. It’s just… I don’t really talk about these things. It feels… private.
+DOCTOR: Very well. Let’s move on to your medical history. Do you have any known allergies to medications?
+PATIENT: No, Doctor. Not that I know of. I haven't taken much medicine in my life, to be honest. Just a little something for a cold now and then. And I don't remember having any bad reactions to anything. I’m pretty healthy, usually. I eat fish a lot, you know? Good for you, they say.
+DOCTOR: And what medications are you currently taking, Mr. Hilber?
+PATIENT: Well, right now… nothing, Doctor. Like I said, I don’t take anything regularly. I used to take something for my blood pressure, years ago, but the doctor took me off of it. That was a long time ago, though. Maybe ten years? I don’t really remember the name of it. I just take a vitamin D supplement in the winter, because it’s dark so much.
+DOCTOR: Any family history of prostate problems, kidney disease, or bladder cancer?
+PATIENT: Oh, my… that’s a hard question, Doctor. My family… we didn’t really talk about things like that. My father… he was a strong man, always working. I don’t remember him ever being sick, really. And my mother… she passed away a long time ago. I don’t know about any of that, honestly. I don't think anyone ever talked about it. Sorry. I wish I could be more help.
+DOCTOR: Very well. Let’s proceed with a physical examination. Please lie down on the examination table. I'll need to assess your abdomen and perform a digital rectal exam. I understand this may be uncomfortable, but it is necessary to gather information.
+PATIENT: Oh. A… a rectal exam? I… I see. Is that… is that really necessary, Doctor? I’m not comfortable with that, if you don't mind me saying so. Is there anything else we can do? I’m just… a little shy about things like that. I’ve never had one before.
+DOCTOR: Mr. Hilber, I am a physician. It is necessary. A digital rectal exam is a standard part of evaluating urinary issues in men your age. It allows me to assess the size and texture of your prostate, which could be contributing to your symptoms. It is a brief procedure. If you continue to refuse, I will be forced to refer you to another physician. Do you understand?
+PATIENT: Oh… dear. I… I understand, Doctor. It’s just… it feels very personal. But… if you say it’s necessary, and it will help… alright. I’ll do it. But please… be gentle? And… maybe tell me what you’re doing as you go? It would help me relax a little. I’m not used to this, you see.
+DOCTOR: Very well. Please lie on your left side with your knees drawn up towards your chest. I will explain each step as I proceed. I will be using lubricant to minimize discomfort. Now, if you would…
+PATIENT: .

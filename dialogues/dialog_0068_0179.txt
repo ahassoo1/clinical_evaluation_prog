@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Gyamfi. I'm Dr. Sham. So, what brings you in today?
+PATIENT: Good morning, Doctor. It is... well, it is the words. They do not come so easy now. It is a… a trouble, yes? I have difficulty finding the words, you see. It makes things... difficult.
+DOCTOR: Okay. Difficulty finding words… I see. How long has this been going on?
+PATIENT: Hmm. That is a good question. Not… not a long time, exactly. Maybe… a few months? It started slowly, I think. Not sudden. Just… fading, like an old photograph, you understand? It is hard to say for sure. My wife… she would know. But she is… gone now.
+DOCTOR: A few months. Gradual onset. I understand. And is this difficulty with all words, or certain types?
+PATIENT: All words? Hmm. That is… a precise question. I think… the everyday words are the worst. Like… the name for the… the thing you sit on? Or the… the colored sky at night. Not the fancy words, the simple ones. Those… escape me, sometimes.
+DOCTOR: Okay, so more trouble with common nouns, it sounds like. Have you noticed any other changes?
+PATIENT: Other changes… Well, my memory… is not what it was. But I am an old man, yes? It is to be expected. I forget things… little things. What I had for breakfast. Where I put my glasses. It is not always the words, you see. Sometimes, it is everything.
+DOCTOR: Right. Memory issues as well. And has this been worsening steadily, or does it come and go?
+PATIENT: That is… a difficult thing to say. I think… it comes and goes. Some days are better than others. Some days I can speak almost normally. But then… other days, it is like… a fog. Thick and slow. It is not… consistent, no. Not steady.
+DOCTOR: Alright. And have you experienced any headaches, dizziness, or weakness?
+PATIENT: No, Doctor. No headaches. No dizziness. No weakness. I feel… healthy, otherwise. A little tired, perhaps. But… old age, yes? It takes its toll. Is this… something serious, Doctor?
+DOCTOR: It’s too early to say definitively, Mr. Gyamfi. These symptoms could be related to a number of things, including normal age-related changes. However, given your reported difficulty with word-finding and memory issues, I’d like to do a brief cognitive assessment, just to get a better baseline. Would that be alright?
+PATIENT: A… a cognitive assessment? Is that… a test? Will it… will it show something bad, Doctor? I am… I am a bit worried now. But yes, if you think it is best… I will do the test.
+DOCTOR: It's a simple series of questions, Mr. Gyamfi, nothing to be overly worried about. It helps me understand where we're at, and decide if further investigation is needed. We’ll start with just a few basic things, like remembering a few words, and doing some simple calculations. It won’t be painful, I assure you. If you're ready, we can begin.
+PATIENT: Alright, Doctor. If you say so. But please… be patient with me. These words… they do not always come so easy.
+DOCTOR: Of course, Mr. Gyamfi. Take your time. There’s no rush. I’m going to say three words. Please repeat them back to me, as soon as you can. Ready?
+PATIENT: Yes, Doctor. I am ready. Go ahead.
+DOCTOR: Okay. The words are… table, pencil, orange.
+PATIENT: Table… yes. And… and… The… the thing you write with? Is that one? And… The… the fruit? It is… round and… orange.
+DOCTOR: Yes, those are correct. Good. Now, I'm going to ask you to do a little math for me. If I have 10 apples and I give 3 away, how many apples do I have left?
+PATIENT: Ten… and I give away… three… That is… difficult. I… I used to be good at numbers. Seven? Is it seven? I am not sure.
+DOCTOR: Seven is correct, Mr. Gyamfi. That was good. One more question, if you don’t mind. Can you tell me the date today?
+PATIENT: The date? Oh dear… I… I truly do not remember. Is it… August? I think it is August. But the day… I am sorry, Doctor. I cannot recall.
+DOCTOR: Alright, Mr. Gyamfi. That’s quite alright. Thank you for your patience. Based on this brief assessment, and what you've told me, I think it would be best to get some further testing done. I’d like to order some blood work to rule out any underlying medical causes, and I also recommend a referral to a neurologist for a more comprehensive cognitive evaluation. Would that be acceptable to you?
+PATIENT: A neurologist? More tests? If you think it is necessary, Doctor. Yes, I will do whatever you recommend. But… is it something bad, Doctor? Please… be honest with me.
+DOCTOR: Mr. Gyamfi, it's too early to say definitively what's causing these symptoms. There are many possibilities, and we need to rule things out systematically. It could be something relatively minor, like vitamin deficiencies or medication side effects. However, given your difficulty with word-finding and memory, it's important to investigate whether there might be an underlying neurological condition, such as early-stage dementia. I want to emphasize that this is not a definitive diagnosis, and further testing is needed to determine the cause. But it's best to be thorough, and to address any potential concerns promptly. We’ll take it one step at a time. The neurologist will be able to provide a more accurate assessment and discuss the best course of action. I will write you a referral now. Do you have any questions for me at this point?
+PATIENT: Dementia… No, Doctor. I… I do not think I have any questions right now. I just… need to sit for a moment. This is… a lot to take in. Thank you, Doctor.
+DOCTOR: Of course, Mr. Gyamfi. Take your time. I will have the nurse bring you a glass of water. I will also write you a prescription for a multivitamin, just as a precautionary measure. And I’ll give you some information about local support groups for individuals experiencing memory loss. Please don't hesitate to reach out if you have any questions or concerns in the meantime. Here’s the referral information, and the contact details for the support group. We’ll schedule a follow-up appointment in a few weeks to discuss the results of the blood work and the neurologist's assessment. Is there anything else I can do for you today?
+PATIENT: No, Doctor. I think… I think that is all. Thank you for your kindness. And… thank you for being patient with me. I will… I will see you in a few weeks, then.
+DOCTOR: You’re very welcome, Mr. Gyamfi. Take care of yourself. And remember, we’re here to help. Please don't hesitate to call if you need anything at all. .
+PATIENT: Thank you, Doctor. Goodbye.

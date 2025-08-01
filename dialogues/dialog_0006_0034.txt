@@ -1,0 +1,37 @@
+DOCTOR: Alright, good morning, Emileigh. So, what brings you in today?
+PATIENT: Um, hi. Well, I just moved here... with my husband. And I think I need to, like, get set up with a doctor? It's… a social thing, I think? Like, for healthcare. I have Medicare, I think that's what it is. It's all kinda new.
+DOCTOR: Okay, Medicare… that's good. New to the area, huh?
+PATIENT: Yeah, really new. Just got here last week. Everything’s… a bit confusing, honestly. I don't really remember what they told me about getting a regular doctor. Is this… is this the right place for that?
+DOCTOR: Yes, yes, this is fine. We get a lot of folks settling in. Okay… so you're mainly looking to establish care?
+PATIENT: Establish… care? Yeah, I guess so. Like, having a doctor you see when you… need stuff? I don't really get sick often, but my husband said it’s good to have one just in case. He worries a lot.
+DOCTOR: Right, preventative care. Good idea. Okay, let’s just get some basics down… anything bothering you right now?
+PATIENT: Um… not really? I mean, my back kinda aches sometimes, but I think it's just from… stuff. I work with my hands a lot. It’s not… a big deal. Just normal, I think.
+DOCTOR: Okay. And how old are you, Emileigh?
+PATIENT: Oh! Um… twenty-one. I think. Or maybe twenty-two? It’s hard to remember sometimes.
+DOCTOR: The chart says twenty-one… Okay, and your height and weight, do you recall?
+PATIENT: Oh… um. I'm… not very tall. Short, I guess. And… kinda heavy. I think around… five foot and… maybe 180 pounds? Or close to that. It's hard to say exactly.
+DOCTOR: Okay. And do you have any allergies to medications, food, anything like that?
+PATIENT: Um… allergies? I don't think so. I haven’t really had any bad reactions to anything. But… I might be allergic to something and just not know? I don't really pay attention to stuff like that.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: No, nothing. I don't like taking pills if I can help it. Just… regular stuff, like vitamins sometimes, but that’s it.
+DOCTOR: Okay. So, no current medical problems, no medications, no known allergies… Just a little back discomfort. Anything in your family history I should be aware of?
+PATIENT: Um… family history? Oh boy. That’s… hard. My grandma on my mom’s side… she had something with her heart, I think? And my dad… he always had a bad back too, like me. But I don’t really know much about it. We didn’t talk about it a lot.
+DOCTOR: Okay… heart problems, back problems… good to know. Now, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no, and no. Definitely not. I don’t like any of that stuff. Makes me feel sick just thinking about it.
+DOCTOR: Okay. Good, good. Alright… Well, let's just do a quick physical exam. Just to get a baseline. Is that alright with you?
+PATIENT: Yeah, that’s okay. Whatever you need to do. I guess that’s what doctors do, right?
+DOCTOR: Alright. Let's start with your blood pressure and pulse. Just sit here and relax.
+PATIENT: Okay. Is it gonna… hurt? I don’t like needles.
+DOCTOR: No needles right now, Emileigh. Just checking your vitals. This won’t hurt at all. Blood pressure is 130 over 80. Pulse is 72. A little elevated, could be from just getting here. Let's listen to your heart and lungs now.
+PATIENT: Okay. Is everything okay? It feels weird when you listen to my chest.
+DOCTOR: Lungs are clear. Heart sounds normal, but slightly fast. A little murmur, but not concerning at this point. Abdomen is soft, no tenderness. Reflexes are normal. Okay, a little bit of tenderness in your lower back when I press here. Is that where you’ve been feeling the discomfort?
+PATIENT: Yeah, that’s it. Right there. It doesn't hurt all the time, just… when I've been working. Like, lifting stuff. It’s just a normal ache, I think. Like, from using my muscles.
+DOCTOR: Alright. It does seem musculoskeletal. Probably a strain. Let's get some imaging just to be sure there’s no structural damage. I’m going to order an X-ray of your lower back. Would that be alright?
+PATIENT: Um… an X-ray? Is that… safe? I don’t really like… radiation and stuff.
+DOCTOR: It's a very low dose of radiation, Emileigh, and the benefits of ruling out anything serious outweigh the risks. We take precautions to minimize exposure. It's a standard procedure for back pain. If you're uncomfortable, we can discuss other options, but an X-ray will give us the clearest picture of what’s going on. It's always better to be safe.
+PATIENT: Okay… if you think it’s safe, then… yeah, okay. I guess. I just don’t want anything bad to happen. But… can you explain what it does? And how long it takes?
+DOCTOR: Absolutely. It’s a quick procedure. You’ll stand or lie down while a special camera takes a picture of your bones. It doesn’t hurt – it’s just like getting a regular photograph. It takes only a few minutes, and the technician will explain everything to you before it starts. The image helps us see if there are any fractures, arthritis, or other issues causing your pain. After the X-ray, we'll review the results together. Does that sound better?
+PATIENT: Yeah, that sounds… okay. A picture… that’s good. Less scary than… other stuff. Okay, I guess I can do that. Where do I go? And… who will take the picture?
+DOCTOR: Alright. The X-ray technician is just down the hall, in room 3. I’ll print out an order for you to take with you. And I'll have the nurse give you a brief overview of how to prepare. After the X-ray, they'll send the images directly to my computer. I'll review them and let you know the results as soon as possible. Is there anything else I can answer for you at this time?
+PATIENT: No, I think that’s everything. Thank you. I just… I hope it’s not anything bad.
+DOCTOR: We’ll find out. Most likely it’s just a muscle strain, but we want to rule everything out. The nurse will be in shortly to prep you for the X-ray. In the meantime, try to relax. Let me just document our findings…

@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Ms. MacVittie. Please, have a seat. So, tell me, what brings you in today?
+PATIENT: Good morning to you as well, Doctor Eaddy. Thank you. Well, it’s… rather embarrassing, actually. I’ve been going to the bathroom quite a lot lately. More than usual, certainly. It's been… disruptive, to say the least. I don’t really recall when it started, to be honest. Just… gradually, I suppose.
+DOCTOR: Disruptive, you say. I see. And when you say "quite a lot," could you be a bit more specific?
+PATIENT: Oh, goodness. Specific… that’s difficult. I suppose… every hour or two, during the day. Maybe even more often if I drink anything – water, tea… it doesn't really matter. It's not painful, thankfully, just… frequent. And honestly, it’s making it hard to concentrate on things. I work as a concierge, and well, you can imagine… needing to be available.
+DOCTOR: A concierge, you say. Demanding work, I presume. And no blood in the stool or urine, I trust?
+PATIENT: Yes, very demanding. One must always be on. Blood… no, I don’t think so. I haven’t noticed any. It’s been… a while since I’ve carefully checked, to be perfectly honest. I just assumed it was… something I was drinking, perhaps? Or stress, with the job and everything.
+DOCTOR: Hmm. And are you experiencing any other symptoms alongside this increased frequency?
+PATIENT: Other symptoms… Let me think… I’ve been rather tired lately, but that could just be the long hours. And, now that you mention it, perhaps a little more thirsty than usual? But again, it’s August, and it’s quite warm. I wouldn't necessarily say it's linked to anything… It's hard to pinpoint anything specific, Doctor. Everything feels rather… muddled.
+DOCTOR: Muddled, yes. Well, let's attempt to bring some clarity to this matter. Do you have any history of diabetes in your family?
+PATIENT: Diabetes… I believe my grandmother, on my father’s side, had something… I was very young when she passed, and my father didn't speak much about it. Something with sugar, I think? But I'm not entirely sure. It was a long time ago, and I wasn’t really involved in those conversations. I don't know if that’s relevant, honestly. It was so long ago.
+DOCTOR: It could be relevant. Now, are you currently taking any medications?
+PATIENT: No, Doctor. I am not. I rarely take anything, if I can avoid it. I used to take something for… anxiety, a few years ago when I was going through my divorce, but I stopped as soon as I felt stable enough. That was… quite a while ago now. I don’t even recall the name of it. It didn’t agree with me, truthfully.
+DOCTOR: Very well. I’d like to perform a quick physical exam, if you don’t mind. Just a standard check. It will involve listening to your heart and lungs, and a brief abdominal examination. Then, I think a urine sample would be prudent.
+PATIENT: That sounds… perfectly reasonable, Doctor. Yes, of course. Whatever you think is best. A urine sample… yes. I can certainly manage that. Shall I do that now? Or after the exam?
+DOCTOR: Let's begin with the exam, and then we'll collect the sample afterwards. If you'll follow me.
+PATIENT: Certainly, Doctor. Lead the way.
+DOCTOR: Please, change into a gown and lie on the examination table. I'll be just a moment. I'll listen to your heart and lungs first.
+PATIENT: Of course, Doctor. Just let me know when you’re ready.
+DOCTOR: Heart sounds are regular, rate is within normal limits. Lungs are clear bilaterally. Blood pressure is 118 over 72. Abdomen is soft, non-tender, but there is slight… fullness in the lower quadrants. Now, if you could please provide a urine sample. The restroom is just down the hall. I’ll be here when you return.
+PATIENT: Fullness, you say? Is that… concerning? I hadn't noticed anything myself, but then again, I haven't been paying close attention. Very well. I’ll go and collect a sample now.
+DOCTOR: It’s not necessarily concerning, Ms. MacVittie. It simply requires further investigation. Please, just collect the sample and return when you are able.
+PATIENT: Very well, Doctor. Here you are.
+DOCTOR: We'll send this off to the lab for analysis. It will take a few days to get the results. While we wait, I'd like to discuss your lifestyle. Do you exercise regularly?
+PATIENT: Exercise… not as much as I should, truthfully. I work long hours as a concierge, you see. It’s quite demanding, always on my feet, but it’s not the same as… dedicated exercise, is it? Mostly just walking and standing. I used to enjoy swimming, years ago, but I haven’t had the time lately. I suppose I should make more of an effort.
+DOCTOR: Mm-hm. And what about your diet?
+PATIENT: My diet… it’s probably not ideal, I confess. I often eat on the go, quick meals to keep me going during long shifts. A lot of sandwiches, salads… sometimes takeout, if I’m particularly busy. I try to eat healthy when I can, but it’s difficult with my schedule. I do enjoy a cup of tea throughout the day, and I'm rather fond of chocolate, if I'm being honest. I suppose I could improve that as well.
+DOCTOR: It appears your lifestyle could be contributing to your symptoms. However, it’s too early to draw any definitive conclusions. We need to wait for the lab results. In the meantime, I’d like to discuss your family history in more detail. Did either of your parents suffer from any chronic illnesses?
+PATIENT: Very well. My family history… My father… he had high blood pressure, I believe. And he was a smoker, for many years. He passed away several years ago, from a heart attack. My mother… she was generally healthy, as far as I know. She did suffer from arthritis in her later years, but nothing else of note. Is that… relevant, Doctor?
+DOCTOR: It's potentially relevant, Ms. MacVittie. A family history of cardiovascular disease does increase your risk. Now, do you have any allergies to medications?
+PATIENT: No, Doctor, not that I'm aware of. I rarely take any medication, as I mentioned before, so I haven't had much opportunity to develop any allergies. I had a mild reaction to an antibiotic once, years ago, a slight rash, but nothing serious. I don't recall the name of it, unfortunately. It was a long time ago, and I haven't had any problems since.
+DOCTOR: Very well. We’ve covered most of the necessary information. At this point, the best course of action is to wait for the lab results. I’ll contact you as soon as they’re available. In the meantime, try to reduce your stress levels, maintain a healthy diet, and drink plenty of water. Do you have any questions for me?
+PATIENT: Just… how long will the results take, approximately? And… is there anything I should be looking for in the meantime? Any specific symptoms that would warrant a call before the results arrive? I suppose I'm just… worried.
+DOCTOR: The results should be available in approximately three to five business days. If you experience a fever, severe abdominal pain, or blood in your urine, contact the office immediately. Otherwise, I advise you to remain calm and follow the advice I’ve already given. Is there anything else?
+PATIENT: No… I suppose not. Thank you, Doctor. I'll wait for your call. .
+DOCTOR: Very well. .

@@ -1,0 +1,27 @@
+DOCTOR: Right. Mr. Parascondola, is it?
+PATIENT: Yeah, that's me. Ricky. Just Ricky is fine, though. And you are...?
+DOCTOR: Dr. Batara. Pinky Batara. Now, "just Ricky" is all well and good for social calls, but we’re here for your health. So, let’s stick to formalities, shall we?
+PATIENT: Okay, okay, Dr. Batara. Sorry. Old habits, you know? So, what’s up? This foot… it’s been botherin’ me for a bit now.
+DOCTOR: “A bit now.” Vague. How long is “a bit”?
+PATIENT: Hmm… let me think. Maybe… three, four weeks now? Started kinda slow, just a little puffiness when I got off work. I’m on my feet a lot, see, doin’ loans. Now it’s… well, you see it. It’s pretty swollen. Especially at the end of the day.
+DOCTOR: Loans, you say?
+PATIENT: Yeah, loan interviews. I work downtown. Mostly small business folks, tryin’ to get a leg up. It’s a lot of sittin’ and standin’, helpin’ people fill out paperwork, explainin’ things… sometimes people get a little… heated, you know? But I don’t think anyone’s kicked me or anything. Just a regular workday, mostly.
+DOCTOR: Right. And you haven't noticed any pain?
+PATIENT: Not really pain, no. More like… achy. Like I've been walkin’ a long way. And it feels kinda warm to the touch, if that makes sense? Like there’s somethin’ goin’ on inside there. It doesn’t throb or nothin’. Just… uncomfortable.
+DOCTOR: Uncomfortable. That’s… helpful. Do you have any medical conditions?
+PATIENT: Nah, not really. I try to eat okay, mostly. Get a little tired sometimes, but who doesn't? Never been to the doctor much, honestly. Don't really see the point unless somethin’s broken, you know? This foot… it’s just buggin’ me enough now I figured I’d get it checked out. No high blood pressure, no diabetes, nothin’ like that. I don't think so, anyway. Never been told.
+DOCTOR: “Never been told.” Do you have any family history of… anything?
+PATIENT: Hmm… that's a good question. My mother… she had bad knees when she got older, real bad arthritis. And my uncle, on my father’s side, he had… I think it was somethin’ with his heart. But that was a long time ago, and I wasn't really payin’ attention, to be honest. We didn’t see family much. Somalia was… complicated. Everything was complicated. Does that help?
+DOCTOR: Somalia. Right. And you don't take any medications?
+PATIENT: Nope. Not a single pill. I drink a lot of tea, if that counts. Mostly black tea, sometimes with a little sugar. But that’s it. I try to stay away from the medicine if I can. Makes me feel… sluggish. And I gotta be sharp for work, you know? Gotta keep track of all those numbers.
+DOCTOR: Alright. Let's have a look at this foot. Please, remove your shoe and sock. And try not to exaggerate the problem. I can tell when people are trying to… embellish.
+PATIENT: Okay, okay. No exaggeratin’. Promise. Just a bit of puffiness, that’s all. Been a long day, though. You’ll see.
+DOCTOR: Hmm. Yes. Significant edema, as I suspected. Ankle appears to be… unstable. Capillary refill is… acceptable, but slow. Palpation reveals tenderness along the medial malleolus. Do you recall any trauma?
+PATIENT: Trauma? Like a break or somethin’? No, nothin’ like that. Honestly, Dr. Batara, I haven’t fallen or twisted it or anything. It just… swelled up. Gradual like. Maybe I was standin’ too long one day, but I do that all the time. I really don't remember anything happenin’ to cause it. It’s just… there. Annoyin’ly there. Ouch. Still doesn’t hurt hurt, but… yeah. Uncomfortable.
+DOCTOR: Alright. We’ll need to rule out a few things. I'm going to order some bloodwork: a complete blood count, a basic metabolic panel, and a uric acid level. And we'll need an X-ray of your foot to assess for any fractures or bone abnormalities. Do you understand?
+PATIENT: Bloodwork and… an X-ray? Yeah, I understand. Sounds… serious. Is it somethin’ really bad? I mean, I just thought it was a little puffiness, you know? But… if you’re orderin’ tests… Is it gonna cost a lot of money? I don't have insurance, like I said.
+DOCTOR: "Serious" is a relative term, Mr. Parascondola. We need to gather information to determine the cause of the swelling. As for the cost… that is your responsibility. I can write you a prescription for a compression bandage in the meantime, which may help with the edema. But without proper diagnostic testing, we are simply guessing. Do you want the tests, or not?
+PATIENT: Look, I don’t want to spend money I don’t have, but… if you’re sayin’ I need ‘em… then yeah, I guess I need ‘em. I just… I gotta know what’s goin’ on, right? Compression bandage sounds good, too. Anything to make it less… puffy. So yeah, do the tests. Just… tell me how much it’s gonna cost before you do ‘em, okay? I need to be prepared.
+DOCTOR: Very well. The bloodwork will be approximately $150, and the X-ray around $200. I’ll have the nurse draw the blood now, and you can take this order to radiology. They’re located two blocks down. Once you have the results, bring them back here, and we'll discuss the next steps. Do you have any questions?
+PATIENT: $350… ouch. That’s… a lot. No, I don't think so. Just… go to radiology, get the pictures, bring ‘em back. Two blocks down, you said? Okay. I guess I’ll go do that then. Thank you, Dr. Batara.
+DOCTOR: See that you do. And try to avoid putting any weight on it until we have the results. .

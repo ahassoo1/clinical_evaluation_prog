@@ -1,0 +1,41 @@
+DOCTOR: Good morning, Mr. Shanor. I'm Dr. Todorovich. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just...fitness check. For refereeing. I need paper for it, you know? For the league. Want to get it done quick if possible.
+DOCTOR: Right. A fitness check for refereeing… so, a sports physical, essentially. And you need documentation for the league. I understand wanting to be efficient. Okay. Let’s start with the basics. Have you had a physical within the last year?
+PATIENT: Uh…no. Not really. Long time. Maybe two years ago? I don’t remember exactly. Things…busy. After my wife… I just…didn't go.
+DOCTOR: Okay. That's alright. It's good you're getting it done now. We’ll just do a thorough one today then. And I apologize for your loss; that must be difficult. Now, are you currently experiencing any pain, discomfort, or unusual symptoms at all?
+PATIENT: No…not really. Little tired sometimes. Work is…hard. But no pain. Maybe my knees a little stiff after work, but that's normal, right? Lifting heavy stuff all day. No…nothing else. Really.
+DOCTOR: Okay, stiffness in the knees after work, understandable with lifting. And you're not experiencing any other symptoms - no chest pain, shortness of breath, dizziness, headaches, vision changes, anything like that?
+PATIENT: No, no. All good. Just...tired. Like I said. And knees. Can we…just get this done? I have work later.
+DOCTOR: Mr. Shanor, while I understand you're pressed for time, it's important to be complete with these exams. Rushing through it doesn't help anyone, and missing something could be… problematic. We're not just checking a box for a league here. It's your health. Now, I'm going to ask some questions about your medical history, and then we'll do a physical exam. Does that sound acceptable?
+PATIENT: Okay, okay. You right. Sorry. Just…want to be quick. Medical history…what you need to know? I don't get sick much.
+DOCTOR: Alright. Let's start with past medical conditions. Have you ever been diagnosed with any chronic illnesses like diabetes, heart disease, high blood pressure, asthma, or anything else?
+PATIENT: No. Never. I eat okay, work hard. Strong family history…long lives. Nothing like that. My wife…she had… She had some problems with…her stomach. But that was her. I healthy. Mostly.
+DOCTOR: Okay. And have you ever had any surgeries or been hospitalized for anything?
+PATIENT: No surgery. No hospital. Maybe…broke my arm when I little boy. But that long time ago. Nothing serious. Just…little break. They put cast on. All good now.
+DOCTOR: Alright. No surgeries, no hospitalizations besides a childhood arm fracture. Do you have any allergies to medications, food, or anything else?
+PATIENT: No allergies. I eat everything. My wife…she had some problems with shellfish, but I fine. Never had reaction to anything. Everything okay.
+DOCTOR: Okay. And are you currently taking any medications, including over-the-counter drugs, vitamins, or supplements?
+PATIENT: No. Nothing. I eat food. Maybe sometimes…vitamins from supermarket. But not regular. Just when I remember. Nothing doctor gave me. Nothing special.
+DOCTOR: Alright. No regular medications. Now, let's move on to your social history. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No smoking. No drugs. Maybe…beer sometimes. Weekends. With friends. Not much. One or two. Nothing crazy. Wife…didn’t like me drink. So I not much now.
+DOCTOR: Okay. Occasional alcohol use. And what kind of work do you do?
+PATIENT: I…refractory materials repairer. I fix inside of kilns, furnaces. Hot work. Heavy lifting. Long hours. Need strong. That why I want check, make sure I still okay. Still fit.
+DOCTOR: Okay, refractory materials repairer - that is physically demanding work. Alright. Finally, before we move on to the physical exam, can you tell me about any recent changes in your weight, appetite, or sleep patterns?
+PATIENT: Uh…little tired. Sleep okay, mostly. Sometimes…wake up in middle of night. Thinking. But not big problem. Weight…maybe little down. Work hard, not eat much. But not big change. Just…smaller. That all. Can we…do exam now? Really tired.
+DOCTOR: Alright, Mr. Shanor. We can begin the physical exam now. Just so you know, I will be listening to your heart and lungs, checking your reflexes, and doing some basic strength and flexibility tests. We’ll also check your blood pressure and take your temperature. Please let me know if anything feels uncomfortable. I’m going to start with your vital signs, then we’ll move to the heart and lungs. Please remove your shirt and shoes.
+PATIENT: Okay. Fine. Hurry up?
+DOCTOR: If you could sit here, please. Blood pressure first. 140 over 88. Slightly elevated, but not overly concerning on a single reading. Now, let’s listen to your heart and lungs. Take a deep breath for me… and exhale. Again…
+PATIENT: Okay…done. Everything okay? Feel…normal. Just little tired, like always. Can we get this over with? I got work later.
+DOCTOR: Heart sounds are regular, no murmurs detected. Lungs are clear to auscultation bilaterally. Abdomen is soft, non-tender, no masses palpated. Now, I’m going to check your reflexes. Can you bend your knees and let your legs dangle?
+PATIENT: Okay…done. Everything okay? Getting cold in here.
+DOCTOR: Patellar reflexes are 2+ bilaterally, which is normal. Now, let's check your strength. Can you squeeze my hands as hard as you can?
+PATIENT: Like this? Strong. Work hard, you know? Always lifting heavy stuff. Everything okay? Getting impatient now.
+DOCTOR: Good grip strength. Now, can you push against my hands with your feet?
+PATIENT: Like this? Strong. Always on feet. Always working. Just…hurry up. Need to go.
+DOCTOR: Alright, Mr. Shanor. That’s sufficient for now. Now, let’s check your height and weight. Okay…174 centimeters, 134 kilograms. Now, everything seems generally normal, but your weight is a little high. We can talk about this later if you'd like. But, given your occupation, it’s not entirely surprising. However, I do recommend a few baseline blood tests to rule out any underlying issues. Would you be open to that?
+PATIENT: Blood tests? No. No tests. Just…paper. Need paper for league. Everything okay? I feel fine. Don't need tests. Waste of time and money. Just sign paper. Please. I gotta go. Really gotta go.
+DOCTOR: Mr. Shanor, I understand you're pressed for time and want to get back to work. However, refusing basic blood tests means I can't fully assess your health. I am ethically obligated to recommend necessary investigations. But, ultimately, it's your decision. Fine. I can provide you with a basic physical exam form stating you've been cleared for general physical activity. But I must include a disclaimer stating you declined recommended blood work. Will that be acceptable?
+PATIENT: Yes! Yes, that good. Paper. Just sign paper. Disclaimer...okay, okay. Whatever you need. Just get it done. Please.
+DOCTOR: Alright, here you go. This form states you have been cleared for general physical activity, with the aforementioned disclaimer. I would still strongly advise you to schedule a follow-up appointment to discuss the potential benefits of blood work and address your weight. But, that is your choice. Do you have any other questions for me today?
+PATIENT: No. No questions. Just…thank you. Gotta go now. Thank you, Doctor.
+DOCTOR: .

@@ -1,0 +1,30 @@
+DOCTOR: Right. Jaxston, is it?
+PATIENT: Yeah, that's right. Jaxston Lawther. It's… uh, a bit of a mouthful, I guess.
+DOCTOR: Look, I haven’t got all day, so let’s just get straight to it. What brings you in today?
+PATIENT: Right, yeah, sorry. It’s… these headaches. They come on real sudden, and they’re bad. Like, really bad. And I get all sweaty, and my heart races. It’s… unsettling. Honestly, I don’t really remember when they started, exactly. Just… they’ve been happening.
+DOCTOR: “Headaches,” yes. Vague, as usual. And when you say “sudden,” can you be more specific?
+PATIENT: Uh… specific? Hmm. Okay, like, I could be just… sitting here, you know? Or walking, or… it doesn't seem to matter. And then, bam. Just… a really intense pain. It feels like… pressure, mostly. All over my head. And then the sweating starts, and my chest feels tight. I dunno. It’s hard to explain. It doesn't build up, just… happens.
+DOCTOR: Right. No warning signs. Excellent. Any nausea or vomiting with these “episodes”?
+PATIENT: Nausea… sometimes, yeah. Not always, but sometimes my stomach feels kinda… off. Like I might be sick, but I usually don’t actually… you know. Never vomited with one, if that’s what you’re asking. It just feels… queasy.
+DOCTOR: "Queasy." And how long do these episodes last?
+PATIENT: Ugh, that’s a good question. Honestly, I struggle to remember. It feels like… a while? Maybe… twenty, thirty minutes? Sometimes longer, I guess. It’s all a bit of a blur when I’m actually having one, you know? It’s hard to keep track of time.
+DOCTOR: Right. So, intermittent headaches, sometimes accompanied by nausea, duration vaguely remembered. Have you noticed any triggers?
+PATIENT: Triggers? Hmm. Not that I’m aware of, no. I’ve tried thinking about it, but… nothing jumps out. Stress, maybe? But I’m not exactly living a high-stress life, to be honest. It just… happens. Food doesn't seem to matter, weather doesn't seem to matter. I wish I knew something to help figure it out.
+DOCTOR: Right. No apparent triggers. Okay. Any family history of… anything like this?
+PATIENT: Family history… that’s a tough one. My… ex-wife’s dad had really bad migraines, I think? But… honestly, I wasn’t super close to him. And I don’t really know much about my own family, to be honest. My mom… she passed away a long time ago, and I didn't stay in touch with my dad's side of the family. Sorry, I wish I could be more helpful.
+DOCTOR: Fine. Do you have any allergies to medications?
+PATIENT: Uh… not that I know of. I haven’t really taken much medication over the years, to be honest. Maybe… penicillin as a kid? But I don’t remember having a bad reaction. Nothing serious, anyway.
+DOCTOR: Are you currently taking any medications, even over-the-counter things?
+PATIENT: No, sir. Nothing at all. I… I try to avoid taking pills if I can, you know?
+DOCTOR: Alright. Let's do a quick neurological exam. Just standard procedure. Follow my finger with your eyes, don't move your head.
+PATIENT: Okay, yeah, sure. No problem.
+DOCTOR: Good. Now, squeeze your hands as tightly as you can. Strength appears normal bilaterally. Now, can you tell me what year it is?
+PATIENT: Yeah, that’s… uh… 2025, right? Is it still 2025? I… sometimes lose track of time, I guess.
+DOCTOR: Right. Now, tell me where we are. City, state.
+PATIENT: Uh… … I think… I think we’re in… a doctor's office? Somewhere… suburban? I… I don't really know the city, honestly. I just followed the directions.
+DOCTOR: Okay. This is… concerning. I'm going to order a CT scan of your head, just to rule out anything serious. And I want you to get a referral to a neurologist.
+PATIENT: A CT scan? Okay… that sounds… serious. Is something wrong? What are we looking for? I… I’m getting a bit worried now. And a neurologist? What’s wrong with you?
+DOCTOR: Look, I don't have time to explain everything in detail. You're experiencing neurological symptoms, and I want to rule out any structural issues. A neurologist is a specialist. They can provide a more thorough evaluation. Don't panic. It's probably nothing, but it's better to be safe than sorry. Here's the referral information and the order for the CT scan. Get this done as soon as possible. Next patient.
+PATIENT: Okay… right. As soon as possible. …Thank you, I guess. Where do I even go to get this done?
+DOCTOR: The order has the information. There's a radiology center listed, a few blocks from here. Now, if you'll excuse me… .
+PATIENT: Okay… right. Thank you… .

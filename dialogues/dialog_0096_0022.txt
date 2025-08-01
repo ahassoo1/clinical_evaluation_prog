@@ -1,0 +1,13 @@
+DOCTOR: Alright, Mrs. McConnon, welcome. So, you're here today... what brings you in?
+PATIENT: Oh, hello Doctor. It's… my tummy. It feels big, you know? And I don't want to eat much anymore. Not like I used to. Everything just… feels heavy. I don't really know why though. It just… happened.
+DOCTOR: “Big,” you say. Hmm. And how long has your tummy been feeling “big”?
+PATIENT: Oh dear… that’s a good question. A long time, I think? Maybe… a few months? It’s hard to say. Time goes so fast when you’re… well, when you’re old! I stopped noticing when it started, really. It just… grew. Is that bad, Doctor?
+DOCTOR: A few months… alright. And when you say it feels “heavy,” is that painful?
+PATIENT: Not… really painful. More… uncomfortable. Like a full balloon, maybe? It’s not a sharp pain, just… a pressure. And sometimes it feels… gassy? I don't know if that makes sense.
+DOCTOR: Gas, alright. And has anything changed in your diet recently, Mrs. McConnon?
+PATIENT: Oh, my diet… Well, not really. I always eat the same things, mostly. Soup, sometimes bread. A little bit of fish when I can get it. I haven’t changed anything… or, I don't think I have. My daughter, she brings me groceries, you know. She’s a good girl.
+DOCTOR: Right. And are you… regular?
+PATIENT: Regular? Oh… you mean… going to the bathroom? Not as much as I used to, no. It's… harder now. Everything is slower, you know? It's just part of getting old, I think. It hasn't bothered me too much, but… it's not like it used to be. Is that what you wanted to know, Doctor?
+DOCTOR: <stage>I make a rather large '?
+PATIENT: .
+DOCTOR: Alright. Well, let’s have a listen to your tummy, shall we?

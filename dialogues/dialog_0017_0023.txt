@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Bulaong. I am Dr. Blim. Now, let’s not waste any time. What brings you in today?
+PATIENT: Good morning, Doctor. Um, my chest… it hurts. Not all the time, but sometimes. It’s… like a pain in my breast.
+DOCTOR: A pain in your breast, you say?
+PATIENT: Yes, sir. Like… here. Not a bad pain, but it’s… worrying me a little. I don’t know what it is.
+DOCTOR: Very well. And how long has this… discomfort been occurring, Mr. Bulaong?
+PATIENT: Um… maybe a week? I think so. It comes and goes. Not every day. Sometimes when I move a lot at work, it feels worse.
+DOCTOR: And what exactly do you do at work, Mr. Bulaong?
+PATIENT: I’m a roofer, Doctor. I climb on roofs and… fix them. It’s hard work, lots of lifting and… stretching. That kind of thing.
+DOCTOR: A roofer. I see. And has this pain been associated with any other symptoms?
+PATIENT: No, not really. Just the pain. No… bumps or anything. No fever or… feeling sick. Just… the pain in my chest. I don't think so. Is that… normal?
+DOCTOR: “Normal” is a relative term, Mr. Bulaong. Let’s not jump to conclusions. Have you noticed any changes in the skin around the area?
+PATIENT: Changes? Um… I don’t think so. I haven’t really… looked that close. I just feel it when it hurts. Should I be looking for something?
+DOCTOR: Well, you should be observant of your own body, Mr. Bulaong. But let’s proceed with a basic examination. Please lie down on the examination table. We’ll start there.
+PATIENT: Okay, Doctor. Is this going to… hurt?
+DOCTOR: It shouldn’t, Mr. Bulaong. Just a simple palpation. Now, please. Let's not delay.
+PATIENT: Okay. I hope it’s nothing bad.
+DOCTOR: Very well. I’m going to palpate your chest now. Please inform me immediately if you experience any sharp or unusual discomfort. Take a deep breath, Mr. Bulaong… and exhale. Any pain here?
+PATIENT: No… not really. Just… a little pressure. Like you’re touching it. Not a sharp pain. Here feels… okay. Oh… that one. That feels a little bit… tender.
+DOCTOR: Tender, you say. Hmm. And is this tenderness constant, or does it only occur when I apply pressure?
+PATIENT: Only when you touch it, Doctor. When I’m just… doing things, it doesn’t hurt. Like now, it’s fine. Just when you press. Is that… bad?
+DOCTOR: “Localized tenderness on palpation.” Noted. It could be musculoskeletal, given your profession. But we can’t rule out other possibilities without further investigation. Do you have any family history of… breast issues?
+PATIENT: Um… my wife’s mother… she had something. A lump, I think. She had it taken out a long time ago. But I don’t know much about it. She didn’t talk about it much.
+DOCTOR: A family history is… relevant. Mr. Bulaong, given your age, profession, and this tenderness, I recommend a mammogram and ultrasound to rule out any underlying pathology. I'll have my assistant schedule it for you. Do you have insurance coverage for such procedures?
+PATIENT: No, Doctor. I don’t have insurance. We… can’t afford it. Is that going to be… expensive?
+DOCTOR: That is a complication, Mr. Bulaong. These procedures are not inexpensive, I assure you. I can provide you with a list of facilities that offer financial assistance programs, but there are no guarantees. In the meantime, I'll also order a chest X-ray to get a better view of your lungs. It’s a less expensive starting point. Do you have any allergies to contrast dye?
+PATIENT: Contrast dye? I… I don’t know, Doctor. I’ve never had… anything like that before. I don’t think so, but… I’m not sure.
+DOCTOR: Very well. We will proceed without contrast then. My assistant will arrange the X-ray and provide you with information regarding the cost and available assistance programs. In the interim, if you experience any new symptoms – such as a fever, redness, or a noticeable lump – please seek immediate medical attention. Do you have any further questions?
+PATIENT: No, sir. I think… I think that’s all. Thank you, Doctor. I hope it’s nothing serious. .
+DOCTOR: Very well. My assistant will be with you shortly. .

@@ -1,0 +1,21 @@
+DOCTOR: Good morning, Mr. Kristofik. I am Dr. Jules. Now, please tell me, what brings you in today?
+PATIENT: Bloating. Look, I don’t have time for a long story. My stomach just… puffs up. It's annoying, alright? It feels like I'm gonna explode sometimes. I just want something to make it stop.
+DOCTOR: "Annoying," is it?
+PATIENT: Yeah, annoying! What else would I call it? It's not like I enjoy feeling like a balloon about to pop, Doc. Seriously, I got things to do. Workin’ a pile driver ain’t exactly comfy when you’re all puffed up. It’s…distracting, to say the least.
+DOCTOR: A pile driver, you say?
+PATIENT: Yeah, a pile driver. What’s that got to do with my stomach? Look, I don't see why I gotta explain my whole life story to you. It's hard work, okay? Lots of…vibrations. Maybe that has somethin’ to do with it. Honestly, I dunno. That’s why I'm here. I just want it fixed.
+DOCTOR: Very well. Let's try to be efficient, shall we?
+PATIENT: Efficient is good. Real good. So…are you gonna ask me somethin’ or just stare at that machine all day? I got a shift startin’ in a few hours, so… the quicker the better.
+DOCTOR: I'm reviewing your electronic health record. It appears...sparse. Have you experienced this bloating acutely, or has it been a gradual onset?
+PATIENT: Gradual, I guess. It didn’t just happen overnight. It’s been gettin’ worse over… a while. I dunno exactly when it started. Months, maybe? Look, I don’t keep a diary of my stomach problems, alright? I just noticed it and figured it wasn’t gonna go away on its own. Now, what? Pills? Just tell me what I need to take.
+DOCTOR: “Pills” are not dispensed arbitrarily, Mr. Kristofik. We need to ascertain the cause of this bloating before determining a course of treatment. Do you experience any accompanying symptoms?
+PATIENT: Accompanyin’… what? Like, does it hurt? Sometimes. It’s more just…uncomfortable. Heavy, you know? And gas. Lots of gas. Sorry if that’s too much information. I eat normal stuff. Burgers, fries, that kinda thing. I haven't changed anything about my diet. Honestly, I mostly just… ignore it ‘til it gets bad enough. Does that make sense?
+DOCTOR: And…your bowel movements?
+PATIENT: Ugh. Seriously? Look, I'm not gonna get into all that with a stranger. They’re…regular, okay? Fine. What does that have to do with my stomach puffin’ up like a… a beach ball? I just want somethin’ to make it stop swellin’, not a whole interrogation about my bathroom habits. This is ridiculous.
+DOCTOR: It is relevant, Mr. Kristofik. I assure you. But fine. Let us proceed. Any recent changes in your work schedule?
+PATIENT: Work schedule? Not really. Same hours, same job. Pile driver stuff. It's always the same. Unless...well, Old Man Hemmings retired last month. New guy’s a bit slower, so I’ve been pickin’ up a bit of extra. More… time on the machine. But I told you, it’s still the same job. Now can we please just get to the fixin'? I’m startin’ to feel like I’m wastin’ my time here.
+DOCTOR: Hmm. Increased time on the machine... potentially exacerbating the symptoms. Alright. Let's do a quick physical examination. Lie down on the examination table, if you please. I'll listen to your abdomen.
+PATIENT: Fine, whatever. Just hurry it up, alright? I got things to do. Get it over with.
+DOCTOR: Abdomen is distended, mild tympany present on percussion. No acute tenderness to palpation. Bowel sounds normoactive, though somewhat hyperactive. It appears to be…gas. Quite a bit of it, actually.
+PATIENT: Gas?! You dragged me in here, made me lie down, and poked around just to tell me I got gas?! I coulda figured that out myself! Look, is there anything I can take for it, or am I just supposed to… live like a balloon forever? Seriously, this is a waste of time. I’m leavin’. .
+DOCTOR: Hold, Mr. Kristofik. While it appears to be significant gas, a precise etiology remains unclear. I’m prescribing simethicone, 20mg, as needed. However, given your work with heavy machinery and the possibility of… subtle mechanical stressors, I recommend a referral to a gastroenterologist for further evaluation. We want to rule out any underlying issues. And frankly, given your… reluctance to provide a thorough history, it's the most prudent course of action. .

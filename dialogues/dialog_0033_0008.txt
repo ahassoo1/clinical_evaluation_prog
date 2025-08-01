@@ -1,0 +1,22 @@
+DOCTOR: Right. Mr. GuerreroLopez, is it?
+PATIENT: Yes, that’s right. Leander. Though, honestly, I don't always… remember things clearly these days. It’s the ears, you see. That’s why I’m here.
+DOCTOR: Ears. Of course. And what specifically is going on with your ears, Mr. GuerreroLopez?
+PATIENT: Well… they feel full. Like there’s something… blocking them. Not painful, exactly. Just… stuffy. And quiet. Everything sounds… muffled. It’s been going on for… a while now, I think. A few weeks, maybe? It’s hard to say for sure.
+DOCTOR: A few weeks. Right. And has anything caused this, as far as you can recall?
+PATIENT: Hmm. That’s a good question. I honestly… I don’t know. Nothing springs to mind. I work outside a lot, inspecting… farms, mostly. Could be something to do with that? Wind, maybe? Or dust? I really couldn’t say. It just… started. It's frustrating, to be honest. I need to hear things for my job.
+DOCTOR: Farms. Outside work. Yes. Well, it’s rarely nothing, Mr. GuerreroLopez. Let’s move on. Do you experience any dizziness, ringing in your ears, or discharge from either ear?
+PATIENT: Dizziness… no, not really. Sometimes a little unsteady when I stand up quick, but I figured that was just… getting older. Ringing… sometimes, yeah. A faint ringing. Not constant, though. And no discharge. Definitely no discharge. Just… full ears. It's annoying, really. Does that make sense? I hope I'm explaining it okay.
+DOCTOR: Yes, yes, perfectly clear. Though, frankly, a bit vague. Alright. Have you had any recent illnesses?
+PATIENT: Illnesses… let me think. Not recently. I had a bad cold last winter, I believe. A really nasty one. But that was… months ago. Before the ears started bothering me. I don’t recall anything else. My wife… she always kept track of these things. It’s… difficult now, without her.
+DOCTOR: Right. Of course. Family history then. Any history of ear problems or hearing loss in your family?
+PATIENT: Oh, goodness. Family history… That’s a tough one. My mother, I think she had trouble hearing in her later years, but I never really asked. My father… he was a sailor, so he probably had some issues with his ears at some point. Lots of loud noises, you know? But no one ever talked about it much. It wasn’t really something we discussed. I’m sorry I can’t be more helpful. Honestly, my memory isn’t what it used to be.
+DOCTOR: Very well. And are you currently taking any medications, or do you have any allergies?
+PATIENT: No medications, thankfully. And allergies… I get a little itchy in the spring, with the pollen, but nothing serious. No pills, no creams, nothing like that. Just a bit of a sniffle now and then. I try to stay healthy, you see. Important when you're out in all sorts of weather. Is this taking long? I have appointments later.
+DOCTOR: No, not excessively. Alright, let’s have a quick look at your ears. Please sit forward.
+PATIENT: Okay. Fine. Just… try to be quick, if you would. I have a lot on my plate today.
+DOCTOR: Hmm. There’s some cerumen buildup in both ears, and the tympanic membranes appear… slightly dull. No signs of acute infection, but the mobility is reduced. It appears you have a moderate wax impaction and some fluid behind the eardrum. This is likely contributing to your muffled hearing.
+PATIENT: Wax? Fluid? Is that… bad? Will I need surgery or something? I really don't have time for anything complicated. I just want to be able to hear again.
+DOCTOR: Surgery is hardly necessary, Mr. GuerreroLopez. It’s a fairly common problem. We can start with a simple cerumen removal. I’ll use irrigation. It might be a little uncomfortable, but it shouldn't be painful. If the fluid doesn’t clear up after that, we can consider a decongestant or, if it’s persistent, a referral to an audiologist. Does that sound… acceptable?
+PATIENT: Irrigation? Okay. As long as it doesn’t take long. And… it won't affect my balance, will it? I need to be steady on my feet for my work. If it gets too uncomfortable, just let me know, alright? I'm not very good with… procedures.
+DOCTOR: It shouldn’t affect your balance, Mr. GuerreroLopez. However, if you experience any dizziness during the procedure, please inform me immediately. We'll proceed cautiously. And I assure you, we’ll make it as quick and comfortable as possible. Now, lean your head to the side…
+PATIENT: Alright, alright. Here we go. Just… be gentle. And hurry, please.

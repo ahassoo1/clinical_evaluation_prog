@@ -1,0 +1,31 @@
+DOCTOR: Alright, Mr. Putney, good to meet you. So, tell me – what brings you in today?
+PATIENT: Uh, yeah, hi. It's...life insurance. They need me to get a medical exam, for the paperwork and everything. I just want to get it over with, if that’s alright.
+DOCTOR: Life insurance, huh?
+PATIENT: Yeah. The lady on the phone said it was pretty standard. Just checking to make sure I’m…you know…still alive and all. I don’t really know much about it, to be honest. They just sent me here.
+DOCTOR: Right. Well, we’ll do a basic physical, go over some of your health history. It's mostly paperwork for them, but I still need to make sure there isn't anything major going on, you understand. It wouldn't do for them to insure someone who's about to…well, never mind. Let's start with your past medical history. Have you been diagnosed with anything significant?
+PATIENT: Significant… hmm. Let me think. I had the usual childhood stuff, measles, chickenpox, all that. And… I broke my arm when I was a kid, playing on some rocks. Oh! And I had pretty bad asthma when I was younger, but I haven’t had problems with it for… maybe twenty years now? Nothing else, really. Just the normal aches and pains of getting older, I guess.
+DOCTOR: Okay. And the asthma – did that require hospitalization ever?
+PATIENT: Uh… I think so. When I was little, really little. I remember being in the hospital for a few days. It was a long time ago, though. I don't remember much, just the tubes and the funny-smelling stuff. Mom said it was pretty bad, but she always worried a lot.
+DOCTOR: Alright. And have you had any surgeries?
+PATIENT: No, never had any surgeries. Nope. Just the arm when I was a kid, and that was just a cast. They didn't cut me open or anything. I hate hospitals, you know?
+DOCTOR: Good. Now, family history. Are there any serious illnesses that run in your family?
+PATIENT: Serious illnesses… My mom had…diabetes, I think. And her mom… she had something with her heart. It was a long time ago. Dad… Dad was pretty healthy, actually. Lived a long life. That's all I can really remember, to be honest. We didn’t really talk about health stuff much.
+DOCTOR: Alright. And what about you currently?
+PATIENT: Currently? Uh... I feel okay. A little tired, maybe. It's been hot lately. And my knees sometimes ache, especially when it's going to rain. Nothing major. I walk pretty regularly, though, to keep things moving. I don't smoke, and I only drink a beer or two on the weekends. You know, normal stuff.
+DOCTOR: Any allergies to medications?
+PATIENT: Hmm. Not that I know of. I haven’t really had to take much medication, thankfully. I think I might have gotten a little itchy once from some antibiotic when I was a kid, but I don't even remember what it was. Nothing serious. Just a little rash, I think. Does that count?
+DOCTOR: We’ll put "possible mild reaction to antibiotics" just to be safe. Now, let’s do a quick physical exam, just to get a baseline. Could you step on the scale for me?
+PATIENT: Yeah, sure. I hope it's not too bad. I've been enjoying a few extra plate lunches lately.
+DOCTOR: Alright. 97 kilograms. And what’s your height?
+PATIENT: Uh… I’m about five foot nine, I think. Maybe five ten. I haven't been measured in years. It's probably somewhere around there. Don’t quote me on that.
+DOCTOR: Okay. Blood pressure is… 140 over 90. Now, let's listen to your heart and lungs. Take a deep breath for me.
+PATIENT: Okay. Is everything alright? My heart always races a little when I’m nervous, and I hate doctors' offices.
+DOCTOR: A little rapid, yes. And I do hear a slight…diminished air entry bilaterally. We’ll need to look into that further. Do you have any history of shortness of breath, even with exertion?
+PATIENT: Shortness of breath? Not really. I mean, sometimes when I'm walking uphill, I get a little winded, but that's just because I'm out of shape. Like I said, I’ve been enjoying those plate lunches. And it’s been so hot! Doesn’t everyone get winded in this heat?
+DOCTOR: Right. Well, to get a clearer picture, I'm going to order some blood work, and I would like you to get a chest X-ray. It will help rule out anything serious, and will give us a better baseline for the insurance company. It’s standard procedure, really. Would you be able to schedule that at the lab?
+PATIENT: Ugh. More tests. I guess so. Can't really avoid it, huh? I don't know where the lab is, though. I don’t really get out much. Can you… give me a referral or something? Is there somewhere close by? I just want to get this over with as quickly as possible.
+DOCTOR: Here. This is for the lab on Elm Street. They take Medicare, and it's the closest one. They'll call me with the results. Once I have those, we'll discuss them, and I'll finalize the paperwork for the insurance company. Do you have any questions for me at this time?
+PATIENT: No, I don’t think so. Just…how long will it take to get the results? And will this mess up my insurance somehow? I just want to make sure they approve everything, you know?
+DOCTOR: The lab says results usually take 24-48 hours. As for your insurance… this shouldn't affect your coverage. We’re simply providing them with health information to assess risk. Unless there is something major found, this should be a straightforward process. I’ll contact you when the results are in. Do try to schedule the X-ray as soon as possible. Is there anything else I can assist you with today?
+PATIENT: No, I think that's everything. Thank you... I guess. I just want to get this done with.
+DOCTOR: Very well. Have a good day, Mr. Putney. .

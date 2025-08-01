@@ -1,0 +1,35 @@
+DOCTOR: Alright, Ms. Benites. So, what brings you in today?
+PATIENT: Oh, hello Doctor. Is… is Memmolo, yes? Today is… August second, is it? My back, you see. It is… not good. Been bothering me for some time now. Not a new thing, but worse lately.
+DOCTOR: Yes, August second. Memmolo is correct. And your back… “not good.” Right. Can you be a bit more specific?
+PATIENT: Specific? Hmm. It hurts when I bend. Like, to pick things up. Or… to reach for tools at work. I am mechanic, you know? Always bending, reaching. It’s a dull ache, mostly. But sometimes… sharp. When I move just so. Does that make sense?
+DOCTOR: A mechanic. Of course. And when did this start?
+PATIENT: Oh, goodness. When did it start… A long time. Maybe… five years ago? Little by little, it got worse. At first, just a little stiff after work. Now… now it hurts even when I am sitting. It is difficult to remember exactly when it changed, Doctor. So long ago.
+DOCTOR: Five years. Right. And has anything specific caused it to worsen recently?
+PATIENT: Hmm. Not that I know of. I lifted a heavy engine part last week, maybe? But I lift heavy things all the time. It just… felt a little more sore afterwards. Not a big change, really. Just… a little more of the same. I do not think anything caused it, Doctor. Just… time, maybe? Or old age?
+DOCTOR: "Old age." Right. Any numbness, tingling, or weakness in your legs or feet?
+PATIENT: No, no numbness. No tingling. My legs… they feel okay. Sometimes a little tired at the end of the day, from standing so much, but not… weak. Not like I cannot walk, or anything. Just… tired. Is that… normal for mechanic?
+DOCTOR: Tired legs… potentially. Alright. And any pain radiating down your legs?
+PATIENT: Radiating? You mean… going down? Like, shooting pain? No, not really. It stays mostly in my back. Sometimes it feels a little… tight in my hips, maybe? But not… shooting down my legs. Is that what you mean by radiating, Doctor? I do not understand all the medical words.
+DOCTOR: Yes, shooting pain. Tight hips… okay. Do you have any fever, chills, or unexplained weight loss?
+PATIENT: No, no fever. I feel warm sometimes, but that is just from working hard. No chills, no… what did you say? Weight loss? No, I eat like a horse! Maybe I should lose some weight, but that is a different problem, Doctor. I feel fine otherwise, just this back.
+DOCTOR: Alright. Let’s have you lie down on the examination table so I can take a look.
+PATIENT: Okay, yes. Is this alright? It is… a little high for me. But I can manage, I think. Just… take my time.
+DOCTOR: Yes, take your time. Lie flat, if you can. I'm going to palpate your spine and assess your range of motion. Tell me if anything feels particularly painful.
+PATIENT: Okay, flat. Oh, this is… not easy. There we go. Tell me… what does palpate mean? Is it… poking? Please, be gentle, Doctor. I am a little nervous.
+DOCTOR: Palpate means… feeling. I’m just feeling along your spine to check for tenderness or muscle spasms. Does that hurt here?
+PATIENT: Ooh, yes. A little. Not… sharp. Just… uncomfortable. Like a dull ache. Is it… normal to hurt when you touch it, Doctor? I do not remember ever having anyone touch my back like this before.
+DOCTOR: It’s not uncommon to have tenderness when there’s been chronic pain. And what about here?
+PATIENT: Ooh, yes! That is… more sore. A little bit sharper, maybe? Like a… pinching feeling. It is hard to say. Everything hurts a little bit, Doctor. Is something wrong? I am… starting to worry.
+DOCTOR: Alright. Now I'm going to ask you to do a few simple movements. Can you bend forward and touch your toes?
+PATIENT: Oh… bend forward? I do not think so. Not easily. My back… it will not let me. I can bend a little, but not all the way. Is that… bad? I do not want to make it worse. This is as far as I can go, Doctor.
+DOCTOR: Alright. Don't push yourself. Now, can you try to bend backwards, gently?
+PATIENT: Oh… backwards? No, no. That is… very difficult. It feels like something is blocking me. Oh, that is… not good. It hurts to even try. I think… I think that is enough, Doctor.
+DOCTOR: Alright, alright. That's enough. Let's have you sit up slowly. Based on this brief examination, it appears you have limited range of motion and tenderness in your lumbar spine. It's likely a musculoskeletal issue. I'm going to order some X-rays to rule out any fractures or other structural problems. In the meantime, I recommend over-the-counter pain relievers like ibuprofen and gentle stretching. Do not lift anything heavy. Do you have any allergies to medications?
+PATIENT: Oh, thank you, Doctor. That sounds… scary. X-rays? But… gentle stretching. I can try that. No lifting heavy things… that is good advice, I think. Allergies… hmm. Let me think. No, I do not think so. Not to any medications. I have taken ibuprofen before, and it helped a little. But not much. Is it… serious, Doctor? Do you think I need surgery?
+DOCTOR: Surgery is unlikely at this stage. We need to see the X-rays first. I'll have the nurse draw up a referral for imaging, and we’ll schedule you for that as soon as possible. Do you smoke, or drink alcohol regularly?
+PATIENT: Oh, that is… good to hear about the surgery. No, no smoking. Never have. And… not much alcohol. Just a little wine with dinner sometimes. Not every day, Doctor. Maybe once a week. Is that… a problem?
+DOCTOR: Occasional wine is unlikely to be a contributing factor. Alright. I’m going to write you a prescription for a muscle relaxant to help with the pain. Follow the dosage instructions carefully. And if the pain worsens significantly, or you experience any numbness or weakness in your legs, go to the emergency room immediately. Do you understand?
+PATIENT: Yes, I understand. Muscle relaxant… okay. Careful with the dosage. And emergency room for numbness or weakness. Is… is that all, Doctor? I do not want to forget anything. This is a lot to take in.
+DOCTOR: Yes, for now. The nurse will go over the discharge instructions with you, schedule your X-rays, and answer any further questions you may have. We’ll follow up once we have the results. Try to rest, and avoid any strenuous activity. Is there anything else I can help you with today?
+PATIENT: No… I think that is all. Thank you, Doctor Memmolo. You have been very helpful. I hope… I hope everything will be alright. I will wait for the nurse then. Thank you again. .
+DOCTOR: .

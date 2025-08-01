@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Chellsea. I’m Dr. Trestrail. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Well, it’s… it’s about the cancer. I was told to come see you about it. I don't really know what happens next, if that makes sense.
+DOCTOR: Cancer. Right. And who told you about this cancer diagnosis, Chellsea?
+PATIENT: Um… the other doctor. At the hospital. Dr. Mallory, I think her name was. She did some tests and then… told me. It was very fast, and I was scared, so I don't remember everything she said.
+DOCTOR: Dr. Mallory. Okay. And do you recall what type of cancer Dr. Mallory mentioned?
+PATIENT: No, I don't. She said a long word... something about the blood? I’m sorry, it was a lot to take in at once. I was mostly just trying not to cry. Is that okay?
+DOCTOR: It's… understandable to be upset. A hematological malignancy, perhaps?
+PATIENT: Hemat… what now? I’m sorry, Doctor. Could you say that again, maybe in simpler words? I don't know a lot of big words. It just… feels like everyone is talking at me, not to me.
+DOCTOR: A cancer of the blood, Chellsea. Leukemia, lymphoma, myeloma... those are all blood cancers. Dr. Mallory likely has a preliminary idea of which one, based on your tests. Do you have any family history of cancer, particularly blood cancers?
+PATIENT: Oh. Okay, a blood cancer. That makes a little more sense. My grandma, on my mother’s side… she got sick a long time ago. I don’t know what it was, but she was always tired and went to the hospital a lot. She… she passed away when I was little. I don't know if that’s what she had, though. It was a long time ago.
+DOCTOR: And your mother?
+PATIENT: My mother… she's still alive, Doctor. But she has… problems with her heart. She takes medicine for it. And she gets tired easy, too. It’s… why I try to help her out as much as I can. It’s hard sometimes, but she's my mom. Is that important, knowing about her heart?
+DOCTOR: It's relevant to consider the overall familial health picture. Now, let's focus on you, Chellsea. Besides tiredness, what other symptoms have you been experiencing?
+PATIENT: Well… I bruise easily. Like, really easily. Even when I just bump into things gently. And I’ve been getting a lot of nosebleeds lately. They stop pretty quick, but it’s still… worrying. And I feel cold a lot, even when it's warm. Does that make sense?
+DOCTOR: Bruising, nosebleeds, feeling cold… and have you noticed any swelling in your lymph nodes – in your neck, armpits, or groin?
+PATIENT: Lymph… nodes? I’m not sure what those are. I don’t think so… I haven’t really checked, to be honest. Where are those? I haven’t been feeling very good, so I mostly just try to rest when I can. I’m sorry.
+DOCTOR: They’re small glands. Feel along your neck, here and here… do you feel any lumps or swelling?
+PATIENT: Um… I think… maybe? There’s a little bump on this side. It’s small, but it’s there. I didn't even notice it before. It doesn't really hurt or anything.
+DOCTOR: Hmm. It's a slightly enlarged lymph node. Not particularly concerning on its own, but in conjunction with everything else… Alright. We'll need to repeat some of Dr. Mallory's tests to confirm the diagnosis and determine the best course of action. We'll draw some blood and send it to the lab. Do you have any allergies to medications?
+PATIENT: No, I don't think so. I haven’t had to take much medicine in my life, thankfully. Just… cold medicine when I’m sick. Does this mean it’s… bad? Is it going to be a long process? I'm just… scared.
+DOCTOR: It means we need information. And yes, a definitive diagnosis often requires time and multiple tests. Let's not jump to conclusions. We'll start with the blood work and go from there. A nurse will be in shortly to draw your blood. Afterwards, we will discuss a referral to an oncologist for further evaluation. Do you have any questions for me at this time?
+PATIENT: An… onco-what? I don’t even know what that is. And… will Medicare cover all of this? I don't want to worry my mom with bills on top of everything else. I feel so lost.
+DOCTOR: An oncologist is a cancer specialist, Chellsea. And yes, Medicare should cover the necessary treatments. However, navigating insurance can be… complicated. We have a billing department that can assist you with those details. Now, let's focus on getting those tests completed. Do you have any current medications you are taking?
+PATIENT: No, I don't take anything regularly. Just… ibuprofen sometimes, for headaches. But that’s it. So… you think they can help me? Can they… make me better? I really want to get better.
+DOCTOR: We will gather the necessary information to determine the appropriate treatment plan, Chellsea. Let’s not get ahead of ourselves. The nurse will be in shortly to draw your blood. Please let me know if you feel unwell during the process. Now, are there any questions I can answer for you before I leave?
+PATIENT: No… I think that’s all for now. Thank you, Doctor. I… I appreciate you taking the time. Hopefully, the nurse will be here soon. .

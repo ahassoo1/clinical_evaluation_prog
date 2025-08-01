@@ -1,0 +1,24 @@
+DOCTOR: Alright, Mr. Ferneding. Good morning. So, what brings you in today?
+PATIENT: Good morning to you too, Doctor...Dechêne, is it? Yes, it’s this itching. Everywhere, really. It started a few weeks back, I suppose, and it just hasn’t let up. It’s…well, it’s annoying, to put it mildly. I scratch and scratch, and it doesn’t even really help much, you know?
+DOCTOR: Itching, you say. Everywhere. And it’s been several weeks. Right. And has anything…changed recently?
+PATIENT: Hmm…changed? Let me think. Not really, no. My routine's pretty steady. I get up, have some tea, do a little dispatch work from home… I lost my wife, bless her, two years ago, so things are… quieter now. I haven't started using any new soaps or detergents, haven’t been anywhere different… Honestly, I’m racking my brain, and I can’t think of anything. It just started.
+DOCTOR: Okay. And you say it doesn’t respond to anything you’ve tried?
+PATIENT: No, not really. I’ve tried some over-the-counter creams, you know, the ones for eczema and stuff… the ones my wife used to get sometimes. They help for maybe five minutes, then it’s right back to being itchy. I even tried some calamine lotion, but that didn’t do much either. It’s… frustrating, to be honest. Especially at night. That’s when it’s the worst.
+DOCTOR: Alright. And are there any visible markings?
+PATIENT: Visible markings? Let me see… Well, no, not really. It’s not like a rash, or anything. It’s just… red. My skin just looks a little red where I’ve been scratching, mostly. It's not raised, or bumpy, or anything like that. Just… irritated looking, I guess. I’ll show you…
+DOCTOR: Hm. No visible rash, just some excoriations. Okay. Have you had any fever, chills, weight loss, or fatigue recently?
+PATIENT: No, no fever or chills. And my weight’s been steady, thankfully. I don’t eat much, but I haven’t lost any weight. And I get tired, sure, but that’s just…getting older, I think. I’m 53, Doctor. It’s hard to keep up the energy sometimes. I wouldn't say I'm more tired than usual, if that makes sense.
+DOCTOR: Alright. And what medications are you currently taking, if any?
+PATIENT: Just the usual, Doctor. For my blood pressure, I take lisinopril, ten milligrams a day. And I take a baby aspirin, just to keep things moving. Oh, and a vitamin D supplement, the doctor said my levels were a little low last year. That's it, really. Nothing fancy. I don’t like taking a lot of pills if I can help it.
+DOCTOR: Any allergies to medications?
+PATIENT: No, not that I know of. I’ve taken a lot of things over the years, and never had a reaction. Nothing that I remember, anyway. My wife used to keep track of all that stuff, and…well, it’s been a while. I don't think I've got any allergies, though. No, definitely not.
+DOCTOR: Alright. Let's have a look at your skin. Please, turn around. I need to examine your back and sides.
+PATIENT: Okay, sure. Just let me know if you need me to adjust anything. It’s a bit chilly in here, isn't it?
+DOCTOR: No visible lesions or rashes. Skin appears generally normal, aside from some minor dryness. Alright. Your blood pressure is within normal limits, and your pulse is regular. I'm going to order a complete blood count and a basic metabolic panel, just to rule out anything systemic. And I'd like to check your thyroid function as well.
+PATIENT: Okay, that sounds… thorough. That’s good, I guess. Complete blood count… thyroid function… Is something seriously wrong, Doctor? I mean, you’re checking for a lot of things. It’s just the itching, right? I was hoping it wasn’t anything major.
+DOCTOR: Mr. Ferneding, it’s standard procedure to rule out underlying causes when a diagnosis isn't immediately apparent. The itching could be dermatological, but it’s prudent to investigate further. We'll get the lab results back in a few days, and then we can discuss the next steps. It's unlikely to be anything major, but we need to be certain. Don’t jump to conclusions. I'll send the orders to the lab now. A phlebotomist will contact you to schedule an appointment.
+PATIENT: Okay, okay, I understand. Standard procedure. You're right, shouldn't jump to conclusions. Just gets a bit worrying, you know? Especially being alone these days… A phlebotomist will call, alright. I appreciate you being thorough, Doctor. Will I need to fast for any of these tests?
+DOCTOR: Yes, you'll need to fast for twelve hours before the basic metabolic panel. The lab will provide you with specific instructions when they contact you. Now, is there anything else I can assist you with today?
+PATIENT: No, I think that’s all, Doctor. Fasting, got it. I'll wait to hear from the lab then. Thank you for your time. Hopefully, it’s nothing too serious.
+DOCTOR: Alright. We’ll see what the results say. Have a good day, Mr. Ferneding.
+PATIENT: You too, Doctor. Thank you again. Bye.

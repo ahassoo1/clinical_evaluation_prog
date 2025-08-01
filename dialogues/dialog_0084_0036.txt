@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Mr. Barban. I’m Dr. Voytek. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. I am here for… the check-up before the insurance starts. I have Medicare, you see. It is… required, yes?
+DOCTOR: Yes, that’s right. A “welcome to Medicare” visit is a good idea, and often required to get everything set up correctly. It’s a comprehensive check-up to establish a baseline of your health. So, we’ll go over your medical history, do a physical exam, and order some routine labs. Let’s start with your medical history. Have you had any significant illnesses or surgeries in the past?
+PATIENT: Significant… illnesses? I do not understand. Like, bad colds? I had a fever once, maybe five years ago. Nothing… serious. Surgeries? No. Never had surgery. My mother… she had problems with her stomach, but that is her problem, not mine.
+DOCTOR: Okay, no major illnesses or surgeries. That’s good to know. By “significant,” I just meant anything that required a doctor's care for more than a quick visit – anything that kept you from your normal activities for a while. So, a fever five years ago is helpful to know. Any chronic conditions, like diabetes, high blood pressure, or heart problems?
+PATIENT: Chronic… what? I do not have any… lasting sicknesses. My blood is fine. I work hard, I eat… normal food. I do not sit around all day. Heart is strong. I carry heavy things at work.
+DOCTOR: Alright. So, no known chronic conditions. Let’s talk about your family history then. Are there any health problems that run in your family – things like heart disease, diabetes, cancer?
+PATIENT: Family… my father, he is old now. Lives in Yemen. He has… old man problems. Back hurts, you know? My mother… she had the stomach trouble, I told you. And her sister… she had something with her… breathing, maybe. I do not know much about it. We do not talk about these things.
+DOCTOR: Okay, I understand. It's common for families not to discuss medical history in detail. Any other family members you can think of with health issues?
+PATIENT: No. That is all I remember. They are just… old people. They have old people problems. It is not important.
+DOCTOR: Alright. Let's move on to your social history. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Recreational… what? I do not understand these words. I drink tea. Sometimes coffee. No… other things. I do not have time for such things. I work.
+DOCTOR: Okay, no smoking, alcohol, or recreational drug use. That’s good. Now, are you currently taking any medications, including over-the-counter medicines or supplements?
+PATIENT: Medications? No. I take nothing. I feel fine. If I have a headache, I… rest. Maybe drink tea. I do not need pills.
+DOCTOR: Okay, no medications. Alright, Mr. Barban. Let’s do a quick physical exam. I'll just listen to your heart and lungs, check your blood pressure, and take a look in your ears, nose and throat. Is that okay?
+PATIENT: Yes, yes. Do it quickly, please. I have things to do.
+DOCTOR: Okay. Your blood pressure is a little elevated at 140/90. Your heart sounds are regular, but a bit fast. Lungs are clear. Throat looks fine, ears are clear. I'm also going to quickly listen to your abdomen. Abdomen sounds normal. Do you have any pain anywhere?
+PATIENT: Pain? No. Sometimes my back hurts from work. But that is normal. It is a hard job.
+DOCTOR: Okay. Alright, Mr. Barban. Given your slightly elevated blood pressure and limited medical history, I’d like to order a few basic blood tests – a complete blood count, a metabolic panel, and a lipid panel – just to get a better baseline of your health. Would that be alright?
+PATIENT: Tests? More things? I do not understand why so many things. But… fine. If it is required for the insurance, do it. But make it quick, please.
+DOCTOR: Okay. I’ll have the nurse draw some blood for you now. It should only take a few minutes. We’ll get the results back in a few days, and we can discuss them then. In the meantime, I recommend trying to reduce your stress and get regular exercise when you can. Do you have any questions for me right now?
+PATIENT: Questions? No. I just want to finish this, and get the insurance. That is all. Thank you, Doctor.
+DOCTOR: Okay. Alright, Mr. Barban. The nurse will be in shortly to draw your blood. We’ll be in touch when the results are available. Have a good day.
+PATIENT: Good. Thank you.

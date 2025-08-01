@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Nathaiel. I’m Dr. Finco. It’s nice to meet you. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor Finco. It’s nice to meet you too. I’m here for a vaccination, or… an immunization, I think that’s the right word? I need to get one done.
+DOCTOR: Yes, an immunization is perfect. We definitely want to keep you up-to-date on those. Do you know which immunization you need, specifically?
+PATIENT: Hmm… not exactly. I got a notice in the mail, something about a booster, I think. It mentioned August, which is why I’m here now. I don’t recall the specific name of it, though. Is that alright? I’m terrible with remembering names.
+DOCTOR: That’s perfectly alright, Nathaiel. Lots of people forget these things! We can definitely figure it out. Do you happen to have that notice with you?
+PATIENT: Let’s see… yes! Here it is. It’s a bit wrinkled, sorry. Been in my bag all week.
+DOCTOR: Ah, yes. This is for the updated 2024-2025 COVID-19 vaccine. It’s a recommended booster for everyone, especially with the new strains circulating. Have you had any COVID-19 vaccines or boosters previously?
+PATIENT: Yes, I had the first two shots when they first came out, back in 2021. And then I got one booster, maybe a year or so ago? I think it was in the fall. I remember it being a little sore afterwards, but nothing too bad.
+DOCTOR: Okay, good. That’s helpful to know. And you said just a little soreness?
+PATIENT: Yes, just a bit of pain in my arm for a day or so. No fever, no chills, nothing like that. I was a little tired, maybe, but I figured that was just from getting older!
+DOCTOR: That’s good to hear. Some mild side effects like soreness and tiredness are very common, and it's usually a sign your body is building immunity. Before we proceed, just to be thorough, do you have any allergies to any medications or vaccines?
+PATIENT: No, not that I know of. I've never had a bad reaction to anything before. I don't take any regular medications, either. Just a bit of something for my blood pressure now and then, but that’s it. I don’t think I’ve ever had a reaction to a shot, ever.
+DOCTOR: Okay, that’s good to know. And what medication do you take for your blood pressure, if you don’t mind me asking?
+PATIENT: It’s Lisinopril, I believe. Just a small dose, once a day. The doctor prescribed it about five years ago, and it’s been working fine. No problems with it at all. It’s just one of those things you get older and need, I suppose!
+DOCTOR: Okay, Lisinopril. Thank you for letting me know. And you said five years?
+PATIENT: Yes, about five years now. Maybe a little longer, actually. I don’t always remember the exact dates. I was feeling a bit dizzy sometimes before that, and the doctor said it was my blood pressure. It’s helped a lot, thankfully.
+DOCTOR: Okay, good. It's important to keep me updated on any medications you're taking, even if they seem minor. Before we proceed with the vaccine, would you mind if I quickly check your blood pressure just to make sure it's stable?
+PATIENT: Oh, that’s no problem at all! Yes, please do. I always appreciate a good check-up. You can never be too careful, I always say.
+DOCTOR: Your blood pressure is 138/82, which is a little elevated, but not concerning enough to postpone the vaccine. It’s good you’re managing it. Do you have any questions about the vaccine itself before we go ahead?
+PATIENT: No, not really. You explained everything very well. I trust you, Doctor. I just want to get it done and be protected. I've heard things are going around again, and I’d rather not get sick. So, if you think it’s okay, let’s do it.
+DOCTOR: Absolutely, Nathaiel. I completely understand. It's always best to be proactive. We’ll get you vaccinated and protected. Just a little pinch, and we'll be all set. Would you prefer to sit or lie down while I administer the shot?
+PATIENT: Oh, sitting is fine, thank you. I don’t think I need to lie down. Just get it over with quickly, if you can! I’m not a big fan of needles, to be honest.
+DOCTOR: Alright, just a quick pinch. Take a deep breath… here we go. All done! See?
+PATIENT: That wasn’t too bad. A little sting, but nothing I couldn’t handle. Thank you, Doctor. That was quick. What happens now? Do I need to wait around for a bit?
+DOCTOR: You're very welcome, Nathaiel. You did great! Yes, it’s recommended you stay for about 15 minutes just so we can monitor you for any rare allergic reactions. It’s a standard precaution. Just relax for a bit and let me know if you feel anything unusual – like dizziness, hives, or trouble breathing. Is there anything I can get for you while you wait?
+PATIENT: No, thank you, I'm alright. Just a bit of waiting is fine. I'm happy to sit here and relax for fifteen minutes. Fifteen minutes sounds perfectly safe. It doesn't hurt too much, thankfully. You've been very kind, Doctor. Thank you.
+DOCTOR: You're very welcome, Nathaiel. It's my pleasure. I’ll be nearby if you need anything at all. Just relax, and we’ll make sure everything is alright.

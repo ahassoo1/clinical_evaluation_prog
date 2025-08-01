@@ -1,0 +1,32 @@
+DOCTOR: Right. Mr. Pavlovic, is it?
+PATIENT: Pavlovec, actually. Brodie Pavlovec. And… yes, that’s me, I suppose. It’s a bit hard to keep track these days.
+DOCTOR: Yes, well. Let’s not dwell on that. You’re here today because…?
+PATIENT: Oh, right. The cough. It’s been… a while now. Just a dry cough, mostly. Doesn’t bring anything up, you know? Just… scratchy. Feels like something’s stuck in my throat sometimes, but there’s nothing there. It's been bothering me, especially at night. Makes it hard to sleep.
+DOCTOR: A dry cough, you say. And it’s worse at night?
+PATIENT: Yes, at night. When I lie down, it seems to get… tighter. Harder to breathe, a little. Not bad bad, just… uncomfortable. I try to ignore it, but my wife… well, she used to tell me to get it checked out. She worried a lot.
+DOCTOR: Right. And how long has this been going on?
+PATIENT: Oh, goodness. That's a tricky one. A long time. Maybe… six months? A year? It all sort of blends together after a while, you know? It started slowly, just a little tickle in my throat. I thought it was just the weather, or dust. It just… never went away.
+DOCTOR: Six months to a year… Alright. And have you noticed anything else?
+PATIENT: Hmm… let me think. I get a little… tired, maybe? But I’m ninety years old, so that’s probably just getting old. No fever, no chills, no… I don’t think so. Sometimes a little short of breath when I walk up the stairs, but I haven't been doing much walking lately.
+DOCTOR: And do you smoke, Mr. Pavlovec?
+PATIENT: Smoke? Oh, no, never. My wife… she wouldn’t have allowed it. She was very particular about things like that. No, never smoked a day in my life. I did work around a lot of car fumes though, all those years fixing cars. Does that count?
+DOCTOR: Car fumes… alright. Any known allergies?
+PATIENT: Allergies… now that's a good question. I don't think so. Not that I ever noticed. Maybe a little sniffly sometimes when the flowers bloom in the spring, but nothing serious. Just a little tickle in my nose. Never had a bad reaction to anything, not that I recall.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: Medications… let me see. Just a little pill for my blood pressure, I think. A small white one. And sometimes something for my joints, when they get really achy. But mostly just the blood pressure pill. I get them filled at the pharmacy down the street. I think the pharmacist knows me pretty well.
+DOCTOR: Alright. Let’s have a listen to your lungs. Please take a deep breath for me, and then cough.
+PATIENT: Okay, okay. Deep breath… Hack… hack… there. Is that… alright? It doesn’t feel much different than usual, to be honest.
+DOCTOR: Your breathing sounds a bit… congested. Not alarming, but something to note. I'm also hearing some wheezing. Do you have any chest pain, Mr. Pavlovec?
+PATIENT: Chest pain? No, not really. Sometimes a little… tightness, maybe? But it’s not sharp, not like a heart attack or anything. Just a… pressure, I guess. Comes and goes. It usually happens when I’ve been… well, when I’ve been doing something. Even just walking to the mailbox.
+DOCTOR: And how about your weight?
+PATIENT: Weight? Oh dear. Don't ask me that. I haven't weighed myself in… well, a long time. I think I’ve lost a bit, maybe? My clothes are a little looser than they used to be. I used to be… sturdier, I suppose. Around 130, maybe? But that was years ago. Now… I don’t know. Around 100, give or take.
+DOCTOR: Alright. Well, based on what you've told me, it sounds like you might have some mild bronchitis, potentially aggravated by your age and possible weight loss. However, given your age and the fact that you’ve had this cough for a while, I want to rule out anything more serious. I'm going to order a chest X-ray and a blood test.
+PATIENT: An X-ray? Oh my. Is it… is it something bad? I don’t like hospitals much. My wife… she spent a lot of time in hospitals towards the end. Blood test too? What are you looking for? I just want to get rid of this cough, that's all.
+DOCTOR: Mr. Pavlovec, it’s standard procedure. We need to see what’s going on in your lungs to be sure. The blood test will check for infection and other potential issues. It’s not about assuming anything is serious; it’s about being thorough. The X-ray is quick, painless, and will give us a much clearer picture. It's better to be safe than sorry, wouldn't you agree?
+PATIENT: I suppose you’re right. Better to be safe. My wife always said that too. Just… hospitals aren’t pleasant places. Alright. An X-ray and a blood test. When do I… when do I have to go? And what do I need to do?
+DOCTOR: Here’s a requisition for the X-ray and blood work. The X-ray facility is just across the street - I’ve marked it on the form. You can go anytime tomorrow. For the blood test, you’ll need to fast for eight hours beforehand – no breakfast. Just water. The lab is a few blocks down, the address is on the form as well. Bring this with you to both places, and they’ll take care of everything. Do you understand?
+PATIENT: Across the street for the picture… and no breakfast. Just water. Eight hours. I think so. It's a little confusing, but I think I can manage. No breakfast… that will be hard. I always have breakfast. But alright. No breakfast. And then I bring the results back to you?
+DOCTOR: Yes, bring the results back to the clinic as soon as you have them. The receptionist will schedule a follow-up appointment with me. In the meantime, try to drink plenty of fluids and get some rest. If you experience any fever, shortness of breath, or chest pain, go to the emergency room immediately. Do you have any questions for me before we finish?
+PATIENT: Emergency room… alright. Fever, trouble breathing… I’ll remember that. Um… I don’t know. It’s all a bit overwhelming. No, I think that’s all for now. Just… no breakfast, and pictures, and no hospitals if I can help it. Thank you, doctor.
+DOCTOR: Very well. I’ll see you when you have the results. Please don’t delay. .
+PATIENT: .

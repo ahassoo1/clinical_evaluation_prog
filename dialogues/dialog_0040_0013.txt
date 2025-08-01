@@ -1,0 +1,36 @@
+DOCTOR: Right, Mr. Hilber. Dondre, is it?
+PATIENT: Yes, that’s right. Dondre Hilber. Thank you for seeing me, Doctor… Osga, is it?
+DOCTOR: Yes, Osga will do. Look, I’ve got a full waiting room, so if you could just get straight to the point… what brings you in today?
+PATIENT: Oh, of course. Sorry. It’s… well, it’s my water. I have trouble… getting it all out when I go to the bathroom. It feels like there’s always some left. It’s been happening for a little while now, maybe a month or so.
+DOCTOR: A month, you say?
+PATIENT: Yes, about a month. It doesn't hurt, exactly… more like a feeling of… fullness, and then it just… stops. Even when I feel like there should be more. It’s a little embarrassing to talk about, but I figured it was best to get it checked.
+DOCTOR: Right. Well, it is best to get things checked. Have you had any fever, chills, or back pain alongside this… retention, shall we say?
+PATIENT: No, no fever or chills. My back feels alright, maybe a little stiff sometimes, but that’s just from… well, from getting older, I suppose. Nothing bad, nothing new. I haven’t noticed any other changes, really.
+DOCTOR: Okay. And any changes in your urine itself?
+PATIENT: Changes in… the color, or the smell? I haven't really paid much attention, to be honest. It looks… normal, I think. You know, like regular pee. I haven’t seen any blood or anything like that.
+DOCTOR: Right. “Regular pee.” Well, that’s… reassuring, I suppose. Now, have you tried increasing your fluid intake, or perhaps… being more deliberate about emptying your bladder?
+PATIENT: I drink water, yes. Not a ton, maybe I could drink more. And I try to… empty it all, but it just doesn't always happen. I try to relax, take my time, but it's like something is stopping it. I don't push too hard, though. I wouldn't want to cause myself any trouble.
+DOCTOR: Okay. And what about your bowel movements?
+PATIENT: My… what now? You mean… going to the bathroom for that? It’s been… regular. No problems there, thankfully. Normal for me. Why do you ask? Is that connected to this?
+DOCTOR: Everything is connected, Mr. Hilber. Constipation can sometimes affect bladder function. I need to get the full picture, alright?
+PATIENT: Oh. I see. Well, like I said, everything is pretty normal there. I eat my vegetables, you know. Not a lot of problems. I just thought this was about my water…
+DOCTOR: Alright, alright. Let's just move on. Do you have any history of prostate problems, or any family history of prostate cancer?
+PATIENT: Prostate… problems? I… I don't think so. I don't really know much about that. I'm a widower, and my wife passed a while back. I don't really know anything about her family’s health problems, either. We didn’t talk about things like that much.
+DOCTOR: Right. Okay. Well, let's do a quick physical exam. Just need to check your abdomen, and I'll do a digital rectal exam… just to feel the size of your prostate, alright?
+PATIENT: Oh. A… a rectal exam? Is that really necessary? I… I’m not sure I’m comfortable with that.
+DOCTOR: Mr. Hilber, it’s a standard procedure when you're presenting with urinary issues. It’s the only way to properly assess the situation. Are you refusing medical advice?
+PATIENT: No, no, I’m not refusing. It's just… a little embarrassing, you know? And I’ve never had one before. Is it… is it going to hurt? And what are you even looking for, exactly? I just want to understand.
+DOCTOR: Look, it will be uncomfortable, yes. But quick. I'm checking the size and texture of your prostate. A large or abnormal prostate can be the cause of your difficulty urinating. It's for your own good, alright?
+PATIENT: Alright… if you say it's necessary. I just… wish there was another way. I trust you, Doctor. Just… tell me what to do.
+DOCTOR: Good. Right. If you could lie on your side with your knees bent… and please relax. I'll let you know when I'm finished.
+PATIENT: Okay. .
+DOCTOR: Alright. Your prostate is… somewhat enlarged, but not severely. It feels a little firm, but there aren't any obvious nodules. I’m going to order a urinalysis and a PSA test to rule out infection or prostate cancer. We'll get those results back in a few days.
+PATIENT: Okay. A urinalysis and a… what was the other one? A PSA test. And that will tell us if it’s infection or… something worse? Is a PSA test a blood test?
+DOCTOR: Yes, a blood test. The PSA test measures the level of prostate-specific antigen in your blood, which can be elevated in cases of prostate cancer, but also other conditions. Don’t jump to conclusions, alright?
+PATIENT: Right. No jumping to conclusions. I understand. So, I have to get my blood drawn? And then we wait for the results. How long will it take to get them, roughly? And… what happens if the results aren’t good?
+DOCTOR: The lab usually takes 3-5 business days. If the PSA is elevated, we’ll need to consider further testing, possibly an MRI or a biopsy. But let's not borrow trouble, alright?
+PATIENT: Okay. 3 to 5 days. No borrowing trouble. Thank you, Doctor. I… I think that’s all I’m thinking about right now.
+DOCTOR: Alright. I’ll have the lab order sent to the front desk. Avoid caffeine and alcohol until the test. And drink plenty of fluids. Now, is there anything else?
+PATIENT: No, I don’t think so. That’s everything, I believe. Thank you for your time, Doctor Osga. .
+DOCTOR: Alright. Get dressed, and have a good day, Mr. Hilber. The nurse will be along shortly to review the aftercare instructions. .
+PATIENT: Okay. Thank you again. .

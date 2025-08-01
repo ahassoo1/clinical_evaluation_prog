@@ -1,0 +1,33 @@
+DOCTOR: Right, yes. Hello. Nani, is it?
+PATIENT: Yes, Nani Derasmo. Though, honestly, Doctor... Osga, is it? I prefer just getting on with it, if you don’t mind. I have… commitments this afternoon.
+DOCTOR: Commitments. Of course. Well, “getting on with it” requires some information from you first. What brings you in today, Mrs. Derasmo?
+PATIENT: It's… difficult to explain. Just… a general unhappiness. A heaviness. I haven’t been myself lately. I suppose that’s the best way to put it. And frankly, it's been going on too long. It’s interfering with things.
+DOCTOR: “General unhappiness”?
+PATIENT: Yes, well. It's not like I have a broken leg, Doctor. It's… a feeling. A persistent one. I find I don’t enjoy things anymore. Not even… the ocean. And that’s saying something, believe me. I’ve spent my life around the water.
+DOCTOR: Right. And how long has this “lack of enjoyment” been going on?
+PATIENT: Oh, goodness. Let me think. It… started subtly, I suppose. Maybe six months? No, more than that. Closer to a year, I’d say. Around the time… well, never mind. It’s unimportant. It’s just… been gradually getting worse. It feels like a long, grey fog, Doctor.
+DOCTOR: A year. Right. And are you experiencing anything physical alongside this… fog?
+PATIENT: Physical? Hmm. Not particularly. I sleep… alright, I suppose. Though not as soundly as I used to. And my appetite… it comes and goes. Some days I could eat a horse, other days I barely touch a thing. No aches, no pains. Just… tired. Very, very tired.
+DOCTOR: Tired. That could be anything. Are you taking anything for it?
+PATIENT: Anything? You mean… medicine? No. I don’t go in for all that, if I can help it. A little herbal tea sometimes, but that’s it. I've always believed in letting nature take its course. Though, clearly, nature isn't doing a very good job at the moment.
+DOCTOR: Herbal tea. Wonderful. Alright. Any history of… mental illness in the family?
+PATIENT: Mental illness… Oh dear. That's a difficult question. My aunt Beatrice… she was always a bit eccentric, if I’m being honest. Spent a lot of time indoors. But I don't know if that counts. My mother… she was very strong, very practical. Didn’t have time for… feelings. And my father… well, he was a sailor. Always away. I don’t really know much about his side of the family.
+DOCTOR: Eccentric. Right. And you said your father was a sailor… was he ever… injured?
+PATIENT: Injured? Physically, yes. Several times, I believe. It was a dangerous profession, obviously. A broken arm once, a nasty gash on his leg… nothing too serious, as far as I know. Though, he did change after a particularly long voyage… became very quiet, very withdrawn. But that could have just been age, I suppose.
+DOCTOR: Quiet and withdrawn… How long after this voyage did you notice the change?
+PATIENT: Oh, goodness. It must have been… several months. He'd always been a bit of a loner, my father, but after that trip… he just… disappeared into himself, if you understand what I mean. Spent hours staring out at the sea, not saying a word. And he started drinking, a bit more than he used to. It wasn't pleasant.
+DOCTOR: Drinking… Alright. Now, are you currently experiencing any thoughts of harming yourself, Mrs. Derasmo?
+PATIENT: Oh! Good heavens, no! Absolutely not! Where did that come from? I may be unhappy, but I’m not… suicidal. Honestly, Doctor, I find that question rather… presumptuous.
+DOCTOR: It’s standard procedure, Mrs. Derasmo. Just covering all bases. Now, let's move on. Any changes in your diet?
+PATIENT: Well, as I said before, my appetite has been up and down. I used to enjoy cooking, elaborate meals. Nigerian cuisine, you know. Jollof rice, egusi soup... but lately, I haven’t had the energy, or the inclination. I mostly eat… simple things. Toast, soup from a can. Things that don’t require much effort. It's not the same, of course. But what is the same anymore?
+DOCTOR: Right. So… less enjoyment in food, less energy. Let’s do a quick physical exam. Just to rule things out. Blood pressure, pulse… Can you stand for me?
+PATIENT: Very well. Though I suspect it won't reveal anything. Still, if it puts your mind at ease... Just be careful, dear. I’m not as steady on my feet as I used to be.
+DOCTOR: Blood pressure is a little elevated - 140/90. Pulse is regular, but slightly slow – 68. Lungs sound clear. No swelling in extremities. Reflexes… a little diminished. Alright. Nothing glaringly obvious. Now, I’m going to order some blood work. Routine stuff – check your thyroid, vitamin levels, that sort of thing. Rule out any physical causes for your… feelings.
+PATIENT: That sounds… sensible, I suppose. Though, honestly, I've a feeling it won’t show anything. It’s not a physical ailment, Doctor. It’s… something else. Still, I'll do as you say. When will I have the results? And how long will this all take? I really do have commitments this afternoon.
+DOCTOR: The lab usually takes a few days. We'll call you with the results. If everything comes back normal, we can discuss… other options. Perhaps a referral to someone who specializes in… emotional wellbeing. Now, do you have any allergies I should be aware of?
+PATIENT: Allergies? No, not to my knowledge. I’ve always been quite robust, physically. Though, I do find crowds… unsettling. But that’s not an allergy, is it? More… a dislike. A strong dislike. And, honestly, Doctor, I'm not sure how much longer I can sit here. My gardener is expecting me.
+DOCTOR: No, not an allergy. Alright. And are you currently taking any medications, even over-the-counter ones?
+PATIENT: As I said before, only herbal tea. Sometimes chamomile, if I’m feeling particularly anxious. But that's hardly a medication, is it? Just a soothing drink. Really, Doctor, I don't think there's anything more I can tell you. I've explained everything I can.
+DOCTOR: Very well. Here's a requisition for the blood work. The lab is just down the hall. We’ll be in touch. And, Mrs. Derasmo, try to get some rest. That will be all.
+PATIENT: Very well. Thank you, Doctor. Though, I suspect it will be a waste of time. I do hope this hasn’t taken up too much of your afternoon. I really must be going. .
+DOCTOR: .

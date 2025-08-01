@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Mr. Secondi. I’m Dr. Trestrail. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Uh, it's my pee. It's... orange. I noticed it yesterday, and it's still like that today. It worries me a little.
+DOCTOR: Orange urine, you say?
+PATIENT: Yes. Like… not normal yellow. More… a bright orange color. I drink a lot of water, normally. That's why I'm surprised.
+DOCTOR: Alright. And has anything else been different lately?
+PATIENT: Hmm… not that I can think of. Maybe a little tired, but everyone is tired, right? I work long hours. Nothing… different different. I eat the same things, same work, same everything.
+DOCTOR: "Same everything" is useful information. Let’s start with the basics then. Do you have any pain or burning when you urinate?
+PATIENT: No, no pain. Nothing like that. It just… looks funny. No burning, no hurting, just the color is wrong. It's a little weird to talk about, sorry.
+DOCTOR: It’s my job, Mr. Secondi, believe me, I’ve heard much worse. Now, have you noticed any changes in the frequency of urination?
+PATIENT: No, I go about the same amount of times as always. Maybe… maybe a little less, now that I think about it. But not much. I usually drink a lot of water, so I go a lot. It's hard to say if it's less, really.
+DOCTOR: Okay. And are you experiencing any nausea, vomiting, abdominal pain, or fever?
+PATIENT: No, no sickness. No throwing up, no belly pain, no feeling hot. Just the orange pee, that's all. I'm feeling okay, other than worrying about it.
+DOCTOR: Alright. Let's talk about your medical history then. Have you had any kidney problems or liver issues in the past?
+PATIENT: No, never. I don’t think so. I’ve had a cold a few times, normal stuff. But no problems with my kidneys or… what was the other one? My liver? No. I’ve never been told I had problems with those. I’m pretty healthy, usually.
+DOCTOR: “Usually” is not a medical diagnosis, Mr. Secondi. Do you take any medications at all?
+PATIENT: Oh! Sorry. No, no medications. Not even vitamins. I try to eat good food, that’s why I don’t take pills. I… I didn't mean to be vague before. It's just, I don't get sick often.
+DOCTOR: And have you had any recent surgeries or hospitalizations?
+PATIENT: No. Nothing like that. Last time I was in a hospital was when my son was born, and that was… eight years ago now. Everything was fine then. No surgeries, no… staying overnight. Just the baby.
+DOCTOR: What about your family history?
+PATIENT: My family? Uh… my mother had high blood pressure, I think. And my father… he had a problem with his heart, when he was older. But nothing about kidneys or liver, that I know of. They both passed away a long time ago. I don’t know much about their health before.
+DOCTOR: Alright. Now, let’s discuss your social history. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no smoking. I drink a little tea, sometimes. And… no drugs. Never. Just tea with my dinner, sometimes. A little bit. Not much. It's nothing.
+DOCTOR: And finally, any allergies?
+PATIENT: No allergies. I can eat everything. I haven't ever had a problem with food or anything like that. No… hives, or breathing problems. Nothing. I’m lucky, I guess. Is this about my pee? Will we find out what’s wrong?
+DOCTOR: Yes, Mr. Secondi, this is about your pee. Now, I'd like to conduct a brief physical exam and order a urinalysis. It will help us determine the cause of the discoloration. Please step onto the examination table. We’ll start with your abdomen.
+PATIENT: Okay. That sounds good. A test is good. I want to know what’s wrong. Is it going to hurt?
+DOCTOR: No, Mr. Secondi, it will not hurt. It’s a simple abdominal palpation to check for any tenderness. Lie down, please. I'll listen to your abdomen as well.
+PATIENT: Okay. Palpation… that’s feeling my stomach, right? Just tell me if it’s anything bad. I’m a little nervous.
+DOCTOR: Yes, palpation is feeling your stomach. I’m checking for any masses or tenderness. Breathe deeply. Normal bowel sounds. No guarding or rebound tenderness noted. Any pain here?
+PATIENT: No, no pain. It just feels… weird, being touched. But no hurting. It feels… okay, I think. Like a normal doctor's visit. Is this enough? Are we getting closer to finding out what's wrong with my pee?
+DOCTOR: Abdomen soft, non-tender, no masses palpated. Bowel sounds normoactive. The physical exam was unremarkable. Now, I’ll need to collect a urine sample. I’ll leave you with a cup and instructions. Please try to collect a midstream sample. The lab will analyze it and we'll discuss the results. Don't drink anything for an hour before providing the sample, if possible.
+PATIENT: Okay. A midstream sample... I think I know what that means. And no drinking for an hour... Alright. Thank you, Doctor. I hope it's not something serious. I'll go do the pee test now. .
+DOCTOR: Yes, Mr. Secondi. I'll review the results as soon as they are available. Let me know if you experience any changes in your condition. .

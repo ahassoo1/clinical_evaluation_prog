@@ -1,0 +1,26 @@
+DOCTOR: Alright, Emileigh, good to meet you. So, what brings you in today?
+PATIENT: Um, hi. Well, I just moved here… with my husband. And I think I need to, like, get set up with a doctor? It’s… a social thing, I think? For healthcare. I have Medicare, I think that's right. It's all kinda new.
+DOCTOR: Right, a 'social thing'. Okay. Well, that’s… a reason. Medicare is good. So, you're not experiencing any current health problems you'd like me to address?
+PATIENT: Not that I know of… not really. I feel okay, I guess? Things are… kinda blurry sometimes, if that makes sense? Like, I forget stuff. But I always have, so I don’t know if it’s new new, or just… me. Does that even matter?
+DOCTOR: “Blurry sometimes”… Okay. And when you say forget stuff, can you give me an example?
+PATIENT: Ugh, it’s hard to… explain. Like, I might go into a room and forget why I went in there. Or… what someone just told me. Small things, mostly. It’s just… annoying. I don’t… remember if it’s gotten worse recently. My husband says I ask the same questions a lot. He's pretty patient though. I think.
+DOCTOR: Right. Husband observes repetitive questioning. Okay. And have you experienced any other changes?
+PATIENT: Changes… hmm. Not that I’ve noticed. I get tired, but everyone gets tired, right? And… I’ve been kinda clumsy lately? Dropping things, bumping into stuff. But I always was a little clumsy. It's just… maybe more? I don’t know. This is hard. I feel like I’m not making sense.
+DOCTOR: Okay, well, let's try to get a better picture. Have you had any head injuries, even minor ones, recently or in the past?
+PATIENT: Head injuries… hmm. I… think maybe when I was a kid? I fell off my bike once, but it wasn't that bad. And… maybe bumped my head on a doorframe a few times? Nothing serious, I don’t think. My mom… she always said I was a bit of a klutz. But I don't remember anything bad happening from them. It's all kinda fuzzy.
+DOCTOR: Alright. And what about family history?
+PATIENT: Family history… Oh boy. That’s… hard. My mom… she passed away a long time ago. And I didn’t know my dad. I don’t really… know much about what happened to anyone on either side. I know my mom… she wasn’t feeling well towards the end, but I was pretty young. She just… got sick. I wish I knew more. Does that help? I feel bad I can’t be more useful.
+DOCTOR: It is what it is. Okay. Now, are you currently taking any medications?
+PATIENT: Um… no, not really. I take a multivitamin sometimes, but that’s it. I don’t… like taking pills. I try to eat healthy, mostly. My husband reminds me to, anyway. He's good at that sort of thing. Does that count as a medication? I get confused about what counts.
+DOCTOR: Multivitamin. Fine. Any allergies?
+PATIENT: Allergies… hmm. I think… maybe to pollen? I sneeze a lot in the spring, but everyone does, right? And I think I got a rash once from a bug bite, but that was a long time ago. Nothing serious, I don't think. I don’t carry an EpiPen or anything. I can’t even remember if it was a bad reaction! Oh, and I don’t like shellfish, but that’s just a preference. It tastes weird.
+DOCTOR: Alright. Well, let's do a quick physical exam. Just routine stuff. I'm going to check your reflexes, balance, and… general coordination. Then we'll see. Just try to relax.
+PATIENT: Okay… that sounds… okay. I get nervous at doctors though. My balance isn’t… always the best. Hopefully that’s normal? I’m kinda clumsy, remember? Should I wear shoes? I'm wearing sandals. Is that bad?
+DOCTOR: Sandals are fine. Just stand still. Alright. Reflexes are… within normal limits. Some slight tremor in extremities, but nothing alarming. Balance is… adequate. Now, let's listen to your heart and lungs. Just breathe normally.
+PATIENT: Okay… I feel a little silly doing all this. Is this normal for a new patient? I'm just worried I'm wasting your time. My heart… is it okay? I sometimes feel a little… fluttery, but it always goes away.
+DOCTOR: Heart sounds are… regular. Lungs are clear. Look, you're a young woman. You probably just need more sleep and less stress. It’s likely nothing serious. But we can run some basic blood work, just to be sure. Rule out any deficiencies. I’ll order a complete blood count, a thyroid panel, and a vitamin D level. We'll schedule a follow-up to discuss the results. Does that sound acceptable?
+PATIENT: Okay… that sounds… good. Blood work is okay. A little scary, but okay. Will it hurt a lot? And… how long will it take to get the results? I hope it's not anything bad. And… where do I go to get the blood work done? I don't know this area very well.
+DOCTOR: It’s a simple blood draw. A little pinch. The lab is right across the hall. They'll give you the paperwork. Results usually take about a week. I'll have the nurse print out a requisition form. Now, is there anything else?
+PATIENT: Um… no, I think that’s it. Thank you… for seeing me. I still feel a little confused about everything, but… I guess that’s okay. I just hope it's nothing serious, like you said. And… I’ll go get the blood work done across the hall. Thank you.
+DOCTOR: Alright. Have a good day. .
+PATIENT: .

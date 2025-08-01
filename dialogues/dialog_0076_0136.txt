@@ -1,0 +1,30 @@
+DOCTOR: Right, Lucia Fogelstrom. 38 years old. So, what brings you in today?
+PATIENT: Oh, hi Doctor. Um... it's my... belching. It's been happening a lot. It's embarrassing, really.
+DOCTOR: Belching, huh?
+PATIENT: Yes. Like... a lot. Not just a little burp after a soda, you know? It’s… big ones. And sometimes it happens even when I haven’t eaten anything. Does that make sense?
+DOCTOR: Well, something is clearly going on. How long has this been happening?
+PATIENT: Hmm... let me think. Maybe… two, three months now? It started slowly, just after big meals. But now… almost any time. It's not constant, but it happens several times a day, I think. It’s hard to keep track.
+DOCTOR: Two to three months. And it’s not related to eating every time?
+PATIENT: No, not always. Sometimes I'll be just sitting, watching TV, and poof! A big one. It doesn’t feel… painful, just… uncomfortable. And like everyone is looking at me. I haven't changed my diet or anything, I don't think.
+DOCTOR: Right. And you said you haven't changed anything in your diet?
+PATIENT: No, sir. Not really. I eat pretty much the same things I always have. Rice, beans, chicken… sometimes fish. I like a little coffee in the mornings, but not too much. I don't drink soda often. I really haven't changed anything that I can think of.
+DOCTOR: Hmm. Okay. Any other symptoms?
+PATIENT: Other symptoms? Like… what kind of symptoms? I haven't felt sick, not like a cold or anything. My stomach sometimes feels a little… full, even when I haven't eaten much. But I don’t know if that’s from the belching, or something else. Is that what you mean?
+DOCTOR: Fullness… alright. Any nausea?
+PATIENT: Nausea? Um… no. Not really. I haven’t thrown up, and I don’t feel like I’m going to. Just… sometimes a little uncomfortable in my tummy. Like too much air, maybe? I don't know if that makes sense. It’s hard to explain.
+DOCTOR: Alright. Let's just do a quick listen to your abdomen. Lie back on the table, please.
+PATIENT: Okay. Is that… is that going to hurt? I get a little nervous about these things.
+DOCTOR: No, no. It won’t hurt. Just listening. Breathe normally. Normal sounds… a little… gurgly. Not concerning, really. Anything else you want to tell me?
+PATIENT: Um… well, I work in a factory, you know? Industrial Engineering. So, I’m on my feet a lot, and sometimes it’s noisy. Could that… maybe be something? I don’t know. It's just... I'm trying to think of anything different that's happening.
+DOCTOR: A factory, huh?
+PATIENT: Yes, sir. It's not a clean factory, if that makes a difference. Lots of dust and… smells. I wear a mask, but sometimes the smells get through. I don’t know if that could be causing it. It’s just a thought.
+DOCTOR: Well, it could be contributing. But honestly, I suspect it's just… gas. Try over-the-counter simethicone. Gas-X. See if that helps.
+PATIENT: Gas-X? Okay. I’ve seen that in the store. So, like… a medicine for gas? Will that really help with all this belching? I was hoping for… I don’t know… something more?
+DOCTOR: Look, it’s probably nothing serious. If it doesn’t improve in a week, come back, and we’ll consider… something else. But honestly, I doubt it’s anything to worry about. Are you allergic to anything?
+PATIENT: No, sir. Not that I know of. I’ve never had a bad reaction to anything. I eat lots of different foods, and I’m usually okay. I don’t take any regular medicines, either. Just… sometimes ibuprofen for a headache. Do you think the factory could still be part of it?
+DOCTOR: It's possible. But I suspect it's more likely gas. I'm going to document that you've been advised to try simethicone. Any family history of… gastrointestinal issues?
+PATIENT: Um… my grandmother, on my mother’s side, she had… stomach problems, I think. But I don’t know what kind. She was always complaining, but nobody really knew what was wrong. It was a long time ago. That’s all I really know. She just always had a sensitive stomach, I guess.
+DOCTOR: Alright. Well, that's about it. Try the simethicone. If no improvement in a week, call the office and we'll see what we can do. Do you have any questions for me?
+PATIENT: No, sir. I… I guess not. Just… thank you. I was really worried it was something serious. So, just Gas-X for a week? I’ll try that. Thank you, Doctor.
+DOCTOR: Yes, Gas-X. A week. If it doesn't improve, then we'll talk. Next patient. .
+PATIENT: .

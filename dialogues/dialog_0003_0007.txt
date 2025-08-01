@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Reihner. I’m Dr. Yackey. Now, let’s not waste time. What brings you in today?
+PATIENT: Good morning, Doctor. My back… it hurts. Has been for a while now. I need to get this sorted, if possible. I don't have all day.
+DOCTOR: "A while now"...right. Can you be more specific?
+PATIENT: About three months, I think. Maybe a little longer. It started after I was working on a particularly difficult section of fence… up on the hill, near Olsen’s place. It’s a constant ache, mostly. Gets worse when I bend over or lift things, naturally.
+DOCTOR: "Naturally." Right. And is this pain…localized?
+PATIENT: Localized? You mean… where exactly? It's not in my head, Doctor. It's in my lower back. Right across the small of my back, mostly. Sometimes it feels like it goes down my legs a little, but not always. Is that what you mean?
+DOCTOR: Yes, Ms. Reihner, that is what I meant. “Small of the back” is… not a precise medical term. Does this pain radiate?
+PATIENT: Radiate… does that mean… spread? Yes, it spreads. Like I said, down my legs sometimes. Not both legs at once, usually just one. And it feels… tight. Like a muscle is always pulled. Does that make sense? I'm not good at explaining these things.
+DOCTOR: It is…sufficient. And have you noticed anything that improves the pain?
+PATIENT: Well, sitting still helps, I suppose. Lying down too, with a heating pad. But I have to work, Doctor. I can’t just lie around. The fence won’t build itself. And when I’m moving, it just gets worse again. It's a vicious cycle.
+DOCTOR: Right. And what is your occupation, Ms. Reihner?
+PATIENT: I told you already. Fence Erectors. I build fences. It's physical work. I’ve been doing it for… well, a long time now. Is that relevant? I thought we were talking about my back.
+DOCTOR: It is all relevant, Ms. Reihner. Now, have you attempted any treatment on your own, aside from the heating pad?
+PATIENT: Just the heating pad, and taking it easy when I can. I've used some liniment, the kind my grandmother used. Doesn't really do much. I don't take a lot of pills, if that’s what you’re asking. Never been one for that. I'm on Medicare, if that matters.
+DOCTOR: Medicare... yes. No recent imaging, as expected. Alright. Let’s proceed with a brief physical examination. Please lie face down on the examination table. I’ll need you to point to the areas of maximal pain. And try to relax.
+PATIENT: Alright. But don't expect me to be very flexible, Doctor. This back isn't what it used to be. Here… right here is the worst of it. And it feels tender all along here too. Be careful.
+DOCTOR: Tenderness…present. Palpable muscle spasm. Range of motion…limited, as expected. Straight leg raise…positive on the left side at approximately 30 degrees. Alright. And do you have any numbness, tingling, or weakness in your legs or feet?
+PATIENT: Weakness, no. Not really. Sometimes my feet feel a little cold, but that happens anyway, especially in the winter. Tingling… sometimes. Just a little prickling sensation, mostly in my left foot. It comes and goes. Not constant. Is that what you wanted to know? It’s hard to describe.
+DOCTOR: Right. Ms. Reihner, based on this brief examination, it appears you likely have a lumbar strain with possible radiculopathy. It's a common condition given your occupation. We can order some physical therapy, and I can prescribe a short course of a muscle relaxant. Do you have any allergies to medications?
+PATIENT: Allergies? No, not that I know of. Never had a reaction to anything before. Physical therapy… that sounds alright, I suppose. But how long will that take? I need to get back to work, Doctor. And a muscle relaxant… will that make me sleepy? I can't be laid up. I have fences to build.
+DOCTOR: The physical therapy will require several sessions, Ms. Reihner. I will write a referral. The muscle relaxant can cause drowsiness, but it is minimal in most cases. It is to be taken at bedtime. I'll also recommend over-the-counter ibuprofen for pain management. Do you understand?
+PATIENT: I understand. Therapy and a pill. And ibuprofen. Fine. Can I get this written up, Doctor? I have a schedule to keep. I don't want to waste another minute here if I don't have to. And where do I go for this therapy? I need an address.
+DOCTOR: Here. The therapy is at Rural Physical Therapy, address is on the referral. The prescription is for cyclobenzaprine. Take as directed. Now, is there anything else I can assist you with today?
+PATIENT: No, Doctor. That will be all. Thank you. I appreciate you seeing me. Hopefully, this will get me back to work quickly. .
+DOCTOR: Very well. Get well soon, Ms. Reihner. .

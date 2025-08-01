@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Dhanoa. I'm Dr. Duplichan. So, tell me, what brings you in today?
+PATIENT: Morning, Doctor. It’s… this ringing in my ears. It’s been going on for a bit now, and it’s starting to get annoying, to be honest.
+DOCTOR: Alright. Ringing in the ears… or tinnitus, as we call it. And how long exactly has it been going on?
+PATIENT: Hmm… let me think. It started maybe… three, four weeks ago? It wasn't constant at first, just now and then. But the last week or so, it’s been pretty much all the time. It's a high-pitched whine, mostly.
+DOCTOR: Three to four weeks, progressively worsening. High-pitched whine. Is it in one ear, or both?
+PATIENT: Mostly my right ear, yeah. Sometimes I think I can hear it a little in the left, but it's definitely worse on this side. Does that make sense?
+DOCTOR: It does. And has anything specific triggered it?
+PATIENT: That's a good question… not that I can think of, really. I work at a restaurant, it can get pretty noisy, lots of chatter and music. Maybe that? I don't remember anything specific happening before it started, though. I mean, life, you know? Work, home, usual stuff.
+DOCTOR: "Usual stuff." Right. And how loud would you say it gets at the restaurant, on a typical shift?
+PATIENT: Pretty loud, to be honest. It’s a busy place. Like, you have to shout to be heard sometimes. It’s not like a quiet little cafe, if that makes sense. We've got music playing too, mostly pop stuff. Loud pop stuff. I don't usually wear earplugs or anything. Never really thought about it.
+DOCTOR: I see. So, prolonged exposure to loud noises, without hearing protection. That's… not ideal. Have you noticed any hearing loss alongside the ringing?
+PATIENT: Hearing loss? Not that I've noticed, no. Everything sounds normal, as far as I can tell. Maybe a little muffled after a long shift, but I figured that was just being tired. I don't strain to hear things or anything. But I haven't really tried to check, if that makes sense. I just… hear things.
+DOCTOR: Alright. Well, we’ll need to do a quick hearing test to assess that properly. Before we do, let’s quickly go through some other things. Do you have any pain in your ears, any dizziness, or any nausea accompanying the ringing?
+PATIENT: No pain, no dizziness, and definitely no nausea. Just the ringing. It's just… irritating, you know? It makes it hard to concentrate sometimes, especially when it’s quiet. I’d just like to know what’s causing it, and if there's something I can do to make it stop.
+DOCTOR: No associated pain, dizziness or nausea. Irritation, difficulty concentrating. Alright. Any history of ear infections, or any previous hearing problems?
+PATIENT: Not that I remember, no. I was a pretty healthy kid, honestly. Maybe a few colds, but nothing serious. And I haven’t been to the doctor for my ears before, ever, as far as I can recall. I just want to get this sorted, if possible. It's starting to stress me out.
+DOCTOR: Well, "stress" won't cause tinnitus, Mr. Dhanoa, though it can certainly exacerbate it. Have you ever been exposed to very loud noises outside of work?
+PATIENT: Oh, uh… yeah, actually. I used to go to a lot of concerts when I was younger. Like, really loud concerts. Rock and stuff. Always right up front, you know? But that was years ago. Before I was married, before all that. Honestly, I don't really think about it. I just lived my life. But maybe that has something to do with it, huh?
+DOCTOR: Concerts, prolonged exposure to loud noises… consistently poor choices regarding hearing protection. Alright. Let’s review your medical history briefly. Do you have any existing medical conditions?
+PATIENT: No, not really. I'm pretty healthy, as I said. A little overweight maybe, but nothing a bit of exercise wouldn't fix. I get a bit tired sometimes, but everyone does, right? I'm divorced, if that matters. And I have private insurance, just in case.
+DOCTOR: Divorce is irrelevant, Mr. Dhanoa. And the insurance is noted. Do you take any medications currently?
+PATIENT: No, no medications. Never really been one for pills. Just… try to eat healthy when I can. And get enough sleep. Which is hard with this ringing, to be honest. Look, is this going to be expensive to fix? I'm worried about the cost.
+DOCTOR: We'll determine the necessary course of action after the examination, Mr. Dhanoa. Let's not preemptively discuss finances. Now, finally, any allergies to medications, foods, or anything else?
+PATIENT: No allergies, no. Nothing I know of, anyway. I eat pretty much everything. I've never had a reaction to anything. Can we just get this test done, please? I'm getting a headache just thinking about it. I've got a shift at the restaurant tonight, you know?
+DOCTOR: Very well. Let’s proceed with the audiometry. I’ll need you to put on these headphones and indicate when you hear the tones. I will be outside the room during the test, but I can see your responses. Please focus, and do not hesitate to ask if you have any difficulties.
+PATIENT: Okay, okay. Headphones. Tones. I can do that. Just tell me what to do. Let’s get this over with. .

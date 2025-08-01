@@ -1,0 +1,42 @@
+DOCTOR: Good morning, Ms. Uzarski. Welcome to the clinic. My name is Dr. Patricia Shely. It’s a pleasure to meet you. To begin, could you tell me what brings you in today?
+PATIENT: Oh, good morning, Doctor. It's nice to meet you too. Well, it's this tingling, you see. In my hands and feet, mostly. It's been going on for…oh, a little while now. Not terrible, but annoying. Makes it hard to hold things sometimes.
+DOCTOR: Thank you for sharing that, Ms. Uzarski. A little while now… could you be more specific?
+PATIENT: Hmm…let me think. Probably… three, maybe four months? It started slow, just a little pins and needles feeling, you know? I didn't pay much attention at first, thought it was just from working too hard at the post office. But it hasn’t really gone away, and now it's…more noticeable.
+DOCTOR: I understand. And is this tingling constant, or does it come and go?
+PATIENT: It comes and goes, mostly. Worse when I'm tired, I think. Or if I’ve been on my feet all day. Sometimes I don’t even notice it, and other times it’s…well, it’s just bothersome. Like when I’m trying to button my coat, or open a jar. Little things.
+DOCTOR: Alright. And where exactly are you feeling this tingling?
+PATIENT: Mostly in my fingertips and toes. And sometimes up my wrists and ankles a little. Not always all at once, you understand. Sometimes just the fingers, sometimes just the toes. It shifts around.
+DOCTOR: Okay, that’s helpful to know. Have you noticed any weakness in your hands or feet?
+PATIENT: Weakness… not really. Not that I’ve noticed, anyway. Things are a little clumsy sometimes, but I figured that’s just getting old! I still manage everything at the post office, so… I haven't dropped anything important, if that makes sense.
+DOCTOR: That's good to hear. And have you noticed any pain associated with the tingling?
+PATIENT: No, not really pain. It’s not painful tingling, more like…a funny feeling. Like when your foot falls asleep, but not as strong. And it doesn’t last as long. Just…weird.
+DOCTOR: Alright. Now, let's talk a little bit about your overall health. Do you have any medical conditions that you’re aware of, such as diabetes, high blood pressure, or thyroid problems?
+PATIENT: Oh, goodness. Well, my husband, God rest his soul, he had the high blood pressure, but I never have. I’ve always been pretty healthy, to be honest. The doctor always said my blood work was good. I don’t take any regular medicines, except for when I get a bad cold, maybe some over-the-counter stuff.
+DOCTOR: Okay, that’s good to know. Have you ever had any surgeries or been hospitalized for anything?
+PATIENT: No, never. Nothing like that. I had all my babies naturally, and everything went fine. A few broken bones when I was a little girl, running around being silly, but nothing serious. Just a few scrapes and bruises over the years, you know? Nothing that needed a hospital.
+DOCTOR: Alright. And what about your family?
+PATIENT: My mother, she had arthritis in her hands when she got older. Pretty bad. And my brother, he had some nerve problems in his legs, but I don't know much about it. He lived far away. Otherwise, everyone was pretty healthy, I think. Nothing major like this.
+DOCTOR: Thank you. Now, could you tell me a little bit about your daily life?
+PATIENT: Well, I work at the post office, like I said. It’s a lot of walking and sorting mail. It keeps me busy, that's for sure. I live alone now, since my husband passed. I try to keep the house tidy and I do a little gardening when I have the energy. I mostly just try to keep myself occupied.
+DOCTOR: Alright. And do you smoke, or drink alcohol?
+PATIENT: Oh, no, never smoked a day in my life. And I maybe have a glass of wine with dinner once or twice a month, if that. Not much of a drinker, never have been. Mostly just water, and a little bit of tea.
+DOCTOR: Thank you, Ms. Uzarski. That gives me a good overview of your health history. Now, I’d like to do a quick physical exam to get a better understanding of what’s going on. Is that alright with you?
+PATIENT: Yes, that's fine. Whatever you think is best, Doctor. Let's get it done. I'd like to get to the bottom of this tingling, if we can.
+DOCTOR: Excellent. Could you please relax your arms for me?
+PATIENT: Okay, I'm relaxing them... just let me know if you need me to do anything special. It's just a little strange having someone poking around, you know?
+DOCTOR: Good. Now, could you please close your eyes and let me know when you feel this?
+PATIENT: Alright, eyes closed… Okay, I'm ready. Go ahead. I’ll tell you when I feel something.
+DOCTOR: Now, can you tell me if you feel this?
+PATIENT: Hmm… yes, I feel that one. Just a little tickle, really.
+DOCTOR: And this?
+PATIENT: Yes, I feel that one too. A little bit less than the first one, maybe? It’s…hard to explain. It’s not numb, exactly, just…not as strong a feeling.
+DOCTOR: Okay, now could you please walk a few steps for me?
+PATIENT: Alright, walking… Like this? Is that okay? I'm a little worried I'll trip or something.
+DOCTOR: Very good. Alright, Ms. Uzarski, based on the examination, your reflexes are normal, and your muscle strength appears intact. Your gait is steady, though the sensation in your hands and feet is slightly diminished. This pattern of symptoms – tingling in the hands and feet, combined with slightly reduced sensation – could suggest peripheral neuropathy. This simply means there may be some damage to the nerves outside of your brain and spinal cord. There are many potential causes, including vitamin deficiencies, diabetes – though you’ve said you don’t have that – certain medications, or even just age-related changes.
+PATIENT: Oh, goodness. Neuropathy… that sounds serious. What does that mean exactly? And what can we do about it? I don't want to lose feeling in my hands, Doctor. I need them for my work!
+DOCTOR: It can be serious, Ms. Uzarski, but it's often manageable. It simply means there's some irritation or damage to those peripheral nerves, the ones that carry signals from your brain and spinal cord to your hands and feet. The good news is that there are many possible causes, and identifying the cause is the first step. To get a clearer picture, I’d like to order some blood tests. These will check for vitamin deficiencies – particularly B12, folate, and thiamine – as well as look for any signs of inflammation or other underlying conditions. We'll also check your blood sugar levels to be certain. Would that be alright with you?
+PATIENT: Yes, that sounds… sensible. Blood tests are fine. Anything to find out what's going on. I just… I'm worried, Doctor. I really need my hands for my job. I don't want to have to retire early.
+DOCTOR: I understand your concerns completely, Ms. Uzarski. We will do everything we can to get to the bottom of this and find a solution. I’m writing the orders for the blood tests now. The lab is just down the hall, and they will schedule a time for you to go. Once the results are back – usually within a few days – we’ll review them together and discuss the best course of action. In the meantime, if the tingling becomes significantly worse, or if you develop any new symptoms, such as weakness or pain, please don’t hesitate to call the office. Do you have any questions for me right now?
+PATIENT: No, I think that covers it, Doctor. Just… thank you. For explaining everything so clearly and for taking the time to listen. I appreciate it. I’ll go down to the lab and get those tests done.
+DOCTOR: You're very welcome, Ms. Uzarski. It's my pleasure. I'm glad I could help put your mind at ease a little. Please don't hesitate to reach out if anything changes or if you have any further concerns. We'll get these results back as soon as possible and take it from there. Have a good day, and please be careful on your way to the lab. .
+PATIENT: .

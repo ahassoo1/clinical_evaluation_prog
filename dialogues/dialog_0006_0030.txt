@@ -1,0 +1,39 @@
+DOCTOR: Alright, good morning. Kerriann Purtee, yes?
+PATIENT: Good morning, Dr. Gorga. That’s right, Kerriann Purtee. It's nice to meet you.
+DOCTOR: Yes, nice to meet you too. So, what brings you in today?
+PATIENT: Well, it’s a little embarrassing, to be honest. I’ve noticed a change in how I smell… my body odor. It’s just… different. I can’t really explain it, but it’s enough that I noticed and it’s bothering me.
+DOCTOR: Okay, a change in body odor… I understand. That can be concerning. Hmm. And when did you first notice this change?
+PATIENT: Let me think… it started, oh, maybe three or four weeks ago? It wasn’t sudden, it was just… gradually I realized it didn't smell quite like me anymore, if that makes sense. I always used the same soap and deodorant, and I haven’t changed anything like that.
+DOCTOR: Right, no changes in products… Okay. And is it…constant?
+PATIENT: No, not constant. It seems to come and go. Some days I don’t notice anything, and other days it’s… more pronounced. Especially after I’ve been working, you know, laying floors. It gets pretty warm doing that kind of work.
+DOCTOR: Laying floors… right. Physically demanding. And have you noticed it anywhere specific?
+PATIENT: Oh, good question. It's… hard to pinpoint. I think mostly under my arms, but sometimes it feels like… just all over? Like a general…off smell. It's not a bad smell, exactly, just…different. Not like sweat, not like anything I’ve smelled before on myself, you know?
+DOCTOR: Okay, not a typical sweat odor. Hmm. And, just to get a better picture, any fevers, chills, night sweats?
+PATIENT: No, no fevers or chills. And definitely no night sweats. I sleep pretty soundly, and I haven't woken up feeling clammy or anything like that. I've been eating pretty normally too, no big changes in my diet.
+DOCTOR: Alright. And any other symptoms at all?
+PATIENT: Let me think… no, not really. I've been a little tired lately, but honestly, who isn’t tired? I do physical work all day, so that’s probably just that. I haven’t had any rashes or anything like that. No weird bumps or anything. Just… the smell.
+DOCTOR: Okay. Now, I'm going to ask a few questions about your medical history. Do you have any current medical conditions that I should be aware of?
+PATIENT: Just my usual aches and pains from work, honestly. And I have a little bit of high blood pressure, but it's controlled with medication. Nothing major, I've had it checked regularly. I'm on Medicare, so I get everything looked at. I don't have diabetes or anything like that.
+DOCTOR: Okay, high blood pressure, controlled… good. And are you taking any other medications besides what’s for your blood pressure?
+PATIENT: Let me see… just some ibuprofen now and then for the aches and pains. And sometimes a little allergy medicine if the pollen is really bad. That's it, I think. I don’t take anything regularly except the blood pressure medicine.
+DOCTOR: Alright. Any allergies to medications or anything else?
+PATIENT: No, no allergies that I know of. I've never had a reaction to anything. I get a little itchy sometimes from dust, but that’s just a mild irritation, not an actual allergy. I’ve never had a serious allergic reaction to food or anything like that.
+DOCTOR: Okay, good. And, just to finish up with history, any surgeries in the past?
+PATIENT: Hmm… let me think. I had my tonsils out when I was a kid, that’s about it. Nothing else, no. No broken bones or anything like that. Just the tonsils, a long time ago. I’ve been pretty lucky, health-wise, all things considered.
+DOCTOR: Alright. Now, a few questions about your family. Has anyone in your family had any unusual medical conditions?
+PATIENT: That’s a good question. My mother had heart problems, but that was later in life. My father was healthy as a horse, really. I have a sister, and she’s fine too, as far as I know. Nothing that springs to mind as unusual, no. Just the usual stuff, you know? High blood pressure, arthritis… things like that.
+DOCTOR: Okay. And, just a couple more questions. Do you smoke or drink alcohol?
+PATIENT: No, I don’t smoke. Never have. And I don’t drink alcohol either. Haven’t had a drink in years. I just… never really liked it. I prefer a good cup of tea.
+DOCTOR: Alright. Well, that gives me a good starting point. Now, I’m going to do a quick physical exam, if that’s alright with you. Just a basic check, listen to your heart and lungs, take a look at your skin. Nothing invasive.
+PATIENT: Yes, that sounds fine. Whatever you think is best. I trust your judgment, Dr. Gorga. Just let me know if it's going to be cold! I always get chilly.
+DOCTOR: I'll keep that in mind. Alright, if you could just have a seat here and I'll be right back. First, let's listen to your heart and lungs. Take a nice deep breath for me... and exhale slowly.
+PATIENT: Okay, deep breath… . Is that okay? I’m trying to relax, but I always get a little nervous at the doctor.
+DOCTOR: Everything sounds… normal. Heart rate is good, lungs are clear. No wheezing or crackles. Okay. Now, let's just take a quick look at your skin. No rashes, no unusual bumps or anything noticeable. Hmm. Your skin looks… healthy. Do you notice any changes in your underarm area?
+PATIENT: No, not really. Just the usual… a little bit darker, I guess, from shaving. And sometimes a little bit dry, especially in the winter. But nothing that I’ve ever thought was unusual. No itching, no burning, no bumps, no redness. Just… normal skin. I always use a good lotion after shaving though.
+DOCTOR: Alright. And I don't see anything obviously concerning. This is… perplexing. The change in odor, without any other symptoms… It could be a number of things. It's possible it's a minor change in your body chemistry, but it's worth investigating further. Let’s get some lab work done, just to rule things out. I want to check your thyroid levels and do a complete blood count. Would that be alright?
+PATIENT: Yes, that sounds good. I'd rather be safe than sorry. Whatever you think is best. I'm happy to do whatever tests you want. A complete blood count and thyroid levels, right? Is there anything else?
+DOCTOR: No, I think that’s a good starting point. It will give us some basic information. I’ll send the orders to the lab now, and they’ll contact you to schedule an appointment. Once we have the results, we can discuss them and figure out the next steps. I will also write a referral for a dermatologist, just in case it’s a skin related issue, it is always best to have a specialist opinion. It will take a few days to get the results back. Do you have any questions for me at this point?
+PATIENT: No, that all sounds very thorough, Dr. Gorga. Thank you. A dermatologist referral is a good idea too, just to be on the safe side. So, just wait for the lab to call and schedule the appointment, and then we'll go from there? And you'll call me with the results?
+DOCTOR: Exactly. The lab will contact you directly to schedule the appointments. Once the results are in, my office will contact you to schedule a follow-up appointment to discuss them. It's usually the quickest way. We'll go over everything together then. In the meantime, if you notice any other symptoms – rash, fever, night sweats, anything at all – please don’t hesitate to call the office immediately. Do you have any other concerns or questions for me today?
+PATIENT: No, I think that covers everything. You’ve been very helpful, Dr. Gorga. Thank you for taking the time to listen to me. I appreciate it. I’ll wait for the lab to call. Thank you again.
+DOCTOR: You’re very welcome. And don't hesitate to reach out if anything changes. Take care. .

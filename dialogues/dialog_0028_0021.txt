@@ -1,0 +1,21 @@
+DOCTOR: Right. Mr. Paras candola, is it?
+PATIENT: Yeah, that’s me. Ricky. Just Ricky’s fine.
+DOCTOR: Well, Ricky. Let's get straight to it. What brings you in today?
+PATIENT: It’s my foot. It’s been gettin’ bigger, you know? Swollen up real bad. Hurts a bit too, especially when I try to walk on it. Started a few days ago, I think. Maybe four? It's hard to keep track sometimes.
+DOCTOR: Four days, alright. And… bigger, you say?
+PATIENT: Yeah, bigger. Like, noticeably. I usually wear these shoes, see? But now, even these feel tight. It’s mostly on the top of my foot, and around my ankle. It’s not… purple or anything, just puffy.
+DOCTOR: Puffy. Right. Any injury that you recall?
+PATIENT: No, not that I remember. I haven’t tripped or anything. Just… woke up one morning and it felt kinda funny. And then it started swelling. I was workin’ yesterday, doin’ a lot of standin’, but I do that every day. It didn’t feel worse after work, just… still swollen.
+DOCTOR: Standin’ all day... alright. We’ll have a look. Could you please sit on the examination table?
+PATIENT: Sure, no problem. Is it gonna hurt? I don't like bein' poked and prodded too much.
+DOCTOR: I’ll try to be gentle. Just tell me if anything is particularly painful. Let me palpate around your ankle and the top of your foot here… and here. Any sharp pain with that?
+PATIENT: Ooh, yeah. A little bit there. Not awful, but… yeah, that’s tender. Feels kinda warm too, if that makes sense? Like, warmer than the other foot.
+DOCTOR: Warm… alright. And any numbness or tingling?
+PATIENT: No, no numbness. And no tingling. Just swollen, tender, and kinda warm. And makes it hard to get my shoe on. That's the worst part, really. I gotta wear shoes for work, you know? Can't be walkin' around barefoot.
+DOCTOR: Alright. It appears to be some inflammation in the ankle and foot. Given your… occupation, it could be a strain or sprain. We'll need an x-ray to rule out a fracture, though. I’ll order that now. Do you have any allergies to contrast dyes or medications?
+PATIENT: Contrast dyes? Uh… I don’t think so. Never had an x-ray before, actually. I’m not allergic to anything that I know of. Just… regular old aches and pains, you know? From gettin’ old. I don't take any pills or nothin'.
+DOCTOR: No medications… fine. And you have no insurance, correct?
+PATIENT: That’s right. No insurance. Never really got around to it. Things are… expensive enough as it is, you know? Does the x-ray cost a lot? I'm on a fixed income.
+DOCTOR: Look, I'm ordering the x-ray to rule things out. It's standard procedure. The cost... I don't manage the billing. You'll need to speak with the front desk about that. And frankly, preventative care is always cheaper than treating a serious injury. Now, let's focus on getting this done. The technician will call you when it’s ready. Do you have any other questions?
+PATIENT: Well, that's not very reassuring. But alright… I guess I gotta get the x-ray then. How long does it usually take? And… will it tell us what's wrong with my foot, or just what isn’t wrong? I just wanna know if I need to stay off it. .
+DOCTOR: It’ll take about an hour to get the results. The x-ray will help us determine if there's a fracture. If there isn't, then we'll discuss possible sprain or strain. Stay off it as much as you can until we have the results. Now, if you’ll excuse me, I have other patients. The technician is located down the hall, to your left. .

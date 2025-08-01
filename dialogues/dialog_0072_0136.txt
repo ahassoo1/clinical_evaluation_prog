@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I’m Dr. Hembrey. So, tell me, what brings you in to see me today?
+PATIENT: Oh, good morning, Doctor. It’s… the belching. I keep belching. It’s very… embarrassing, really. It just happens. A lot. I don't know why.
+DOCTOR: Belching, alright. And how long has this been going on, Ms. Fogelstrom?
+PATIENT: Hmm… let me think. Maybe… two, three weeks? It started slow, just after big meals, but now… now it happens even when I haven't eaten much. It's strange. I don't know what to do.
+DOCTOR: I see. And can you describe the belching itself?
+PATIENT: Well, it’s… normal belches, I guess? Not painful. Just… air. Sometimes it’s quiet, sometimes… louder. Like a little bubble popping. It doesn't feel bad, just… annoying. And like I said, embarrassing. I try to hold it in, but then it just feels worse.
+DOCTOR: Alright. And does anything seem to trigger it, besides meals?
+PATIENT: Hmm... trigger? Not really that I can tell. Sometimes when I'm nervous, maybe? But not always. I drink water with my meals, like I always do. I haven’t changed what I eat, not really. I eat mostly rice and beans… and chicken. Normal Cuban food. I don’t drink soda, not much anyway. I really don’t know. It just happens.
+DOCTOR: And are you experiencing any other symptoms alongside the belching?
+PATIENT: Other symptoms? Let me think… No, not really. Maybe a little bit of… feeling full, sometimes? Even if I don’t eat a lot. But I thought that was just… because I'm getting older. It could be anything, I guess. I don’t have any pain, no heartburn, nothing like that. Just the belching.
+DOCTOR: Alright. And are you currently taking any medications, over-the-counter or prescribed?
+PATIENT: No, Doctor. I don’t take anything. I try to stay away from medicine if I can. I usually just… wait it out. But it’s been a long time now, that’s why I came. I was hoping you could tell me what’s going on.
+DOCTOR: Very well. And do you have any allergies to medications, food, or anything else, as far as you know?
+PATIENT: No allergies that I know of. I eat lots of different things, my family always has. I’ve never had a reaction to anything. No, no allergies. I wish I knew what was causing this, though. It makes me feel silly, talking about belching to the doctor.
+DOCTOR: Alright, Ms. Fogelstrom. I’m going to do a quick physical exam, just to rule out anything obvious. I'll listen to your abdomen and check for any tenderness. It’s a standard procedure, nothing to worry about.
+PATIENT: Okay, Doctor. That sounds… good. Whatever you think is best. I just want to know what’s going on. I’m ready when you are.
+DOCTOR: Alright. Take a deep breath for me… and exhale. Good. And another… and exhale. Now, is there any pain or discomfort when I press here?
+PATIENT: No, that doesn't hurt. Just… feels normal. Like pressing my stomach. Ooh, maybe a little there? But it’s not really pain, just… a feeling. Like gas. It comes and goes. Is that normal?
+DOCTOR: Hmm. Some mild tenderness to palpation in the left upper quadrant. Not particularly concerning, but noted. Lungs are clear to auscultation bilaterally. Heart sounds regular. Given your history and the physical exam, it’s likely this is related to some mild gastrointestinal discomfort. Possibly excessive gas production or a slight issue with esophageal emptying.
+PATIENT: Esophageal… what? I don’t understand. Does that mean something is wrong with my stomach? Or… my throat? I just belch! It’s not… serious, is it? I get nervous easily, so please tell me it’s not something bad.
+DOCTOR: No, it’s not serious, Ms. Fogelstrom. Let me explain. The esophagus is the tube that carries food from your mouth to your stomach. Sometimes, things don’t move through as efficiently as they should, leading to gas buildup and… well, belching. It’s quite common. We can try some simple dietary modifications. I’d recommend avoiding carbonated beverages – even sparkling water – and limiting large, heavy meals. Also, try eating more slowly and thoroughly chewing your food. Do you consume a lot of beans?
+PATIENT: Oh… okay. That makes a little more sense. I try to eat slow, but sometimes I get hungry! And yes, I eat beans. A lot of beans! It's Cuban food, you know? Rice and beans… It’s what we eat. Do beans cause… the esophageal thing? Is that it? Is that all it is?
+DOCTOR: Well, beans can contribute to gas production, yes. They contain certain carbohydrates that the body doesn’t fully digest, leading to fermentation in the gut. It’s not a disease, Ms. Fogelstrom, but it’s a common cause of these symptoms. I’d suggest trying to reduce your bean intake slightly, and see if that helps. If the belching persists, or if you develop any other symptoms – like heartburn, abdominal pain, nausea, or vomiting – then we can consider further investigation. For now, let’s try these dietary changes and see what happens. Do you understand?
+PATIENT: Okay, yes. Less beans. I can try that. It will be hard, but I can try. So, just… eat less beans, eat slower, and no bubbly drinks. And if it doesn't get better, I come back? That doesn’t sound too bad. Thank you, Doctor. That makes me feel much better.
+DOCTOR: Precisely. We’ll monitor your symptoms. If they worsen or persist despite these changes, schedule a follow-up appointment. And try to manage your stress levels; that can also contribute to digestive issues. Now, is there anything else I can assist you with today?
+PATIENT: No, Doctor. I think that’s everything. Thank you for listening to me. And for not laughing at me for talking about belching. I appreciate it. I’ll try the less beans thing. Have a good day.
+DOCTOR: Very well. You have a good day as well, Ms. Fogelstrom. .
+PATIENT: .

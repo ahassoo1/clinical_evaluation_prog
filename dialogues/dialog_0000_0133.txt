@@ -1,0 +1,17 @@
+DOCTOR: Good morning, Melvenia. Pinky Batara, doctor here. So, what brings you in today?
+PATIENT: Morning, Doctor Batara. Just need a few forms signed, if you don't mind. It’s for… well, verification, mostly. Health stuff. I'd like to get it over with quickly, if that’s alright.
+DOCTOR: "Forms, huh?
+PATIENT: Yes, please. They said I needed a notary to confirm everything. It’s a bit of a hassle, honestly. I don't usually have to deal with this much paperwork. Do you do that here?
+DOCTOR: I am a physician, not a notary public. Though, I can verify your medical history for the forms, if that’s what you mean. But I need to know what exactly needs verifying. Just saying “health stuff” isn’t particularly helpful, you know. What are these forms for?
+PATIENT: Oh, goodness. Sorry, dear. Getting old, my memory isn’t what it used to be. They're for… a program. A senior assistance program. Something about getting extra help with… well, everything, really. And they need a doctor to say I’m who I say I am and that the information on the forms is correct. I don’t have the forms right on me, I was hoping you could just look at my record?
+DOCTOR: “Look at your record”?
+PATIENT: Well, yes. You’re my doctor, aren't you? I figured you’d have my history here. All my check-ups and things. That’s what doctors do, right? It’s just easier if you can confirm it yourself, instead of me trying to explain everything again. I've been coming here for years, surely you remember something?
+DOCTOR: “Years” is a relative term, Melvenia. And frankly, I see many patients. It's not my job to remember everything about everyone. Let’s see… Tippens, Melvenia… born…?
+PATIENT: November 12th, 1949. Is that right? I think so. It was a cold November. My mother always said… oh, never mind. That date should be correct, yes. I'm fairly certain.
+DOCTOR: November 12th, 1949… yes. Alright. And you’re seeking verification for a senior assistance program. To be clear, you want me to confirm your identity and the accuracy of information you provide on these forms. We need to see the forms, Melvenia. I can't simply "confirm" things without knowing what needs confirming. Do you have them with you, or will you need to go get them?
+PATIENT: No, I don't have them right now. I thought I could just explain it and you could sign something general saying I'm a patient and everything’s accurate. I left them at home. It's a bit of a drive, and… well, I was hoping to avoid another trip if possible. Is there anything you can do without the forms? Maybe just a statement that I'm under your care?
+DOCTOR: Melvenia, with all due respect, that's… not how this works. I am a doctor, practicing medicine. I don't sign blank statements. It’s a legal liability. And I certainly can't verify information I haven't seen. Look, I understand it’s a drive, but you need to bring the forms. Otherwise, I can't assist you. It’s really quite simple. Do you want me to write you a referral to a notary public?
+PATIENT: Oh, dear. Fine. I’ll go get them. It’s just… frustrating. I suppose I have no choice. I’ll come back another day. Is… is there a specific time that’s best? Or any advice to make this easier next time?
+DOCTOR: Next time, bring the paperwork. That is my advice. As for a specific time… Mondays and Wednesdays are less busy. Call ahead to schedule an appointment, and make sure you have everything you need. I have other patients waiting, Melvenia. This is taking up valuable time.
+PATIENT: .
+DOCTOR: .

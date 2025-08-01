@@ -1,0 +1,19 @@
+DOCTOR: Right. Mykeisha Sladen, age 36. So, what brings you in today?
+PATIENT: Oh, hi Dr. Sink. It’s my blood pressure, you see. It’s been a bit high lately, and my sister, she kept telling me to get it checked out. She's a nurse, so... you know how they are!
+DOCTOR: Nurses. Yes. “A bit high,” you say. Can you be more specific?
+PATIENT: Well, I don’t really know specific, to be honest. I bought one of those machines for home, you know, the one that goes on your arm? And it’s been reading around… I think it was 140 over 90 a couple of times. Maybe higher one morning, but I was really stressed 'cause the garbage truck was late! Does that make sense? I just… I don't really understand all the numbers.
+DOCTOR: 140 over 90… yes, that is elevated. Have you been experiencing any symptoms alongside these readings?
+PATIENT: Symptoms? Hmm… not really. I mean, I get headaches sometimes, but I always get headaches. And I feel a little tired, but who doesn't these days? I wouldn't say anything different than usual, if that makes sense. I haven't been feeling dizzy or anything like that, though.
+DOCTOR: Headaches and fatigue are… remarkably non-specific. Are you on any medications currently?
+PATIENT: No, ma'am. Nothing at all. I try to stay away from pills if I can help it. Just a daily multivitamin, that’s it. I haven’t really needed anything else, thankfully.
+DOCTOR: Alright. And allergies?
+PATIENT: Oh, just dust, I think. It makes my nose itch sometimes. Nothing serious, I don't take anything for it. Mostly just try to keep the house clean, but, you know...life gets in the way.
+DOCTOR: Fine. Let’s have a listen to your heart and lungs, and I’ll check your reflexes. Just lie back. Don't bother getting undressed, though.
+PATIENT: Okay, sounds good. Just let me know if you need me to do anything special.
+DOCTOR: Heart sounds are regular, no murmurs noted. Lungs are clear to auscultation bilaterally. Reflexes are 2+ and symmetrical. Blood pressure is 148 over 92 right now. We'll need to repeat this reading a few times over the next few weeks.
+PATIENT: Oh, wow. That is high, isn’t it? Even for today? Is that… really bad? I’m sorry, I just… numbers always confuse me. What does that even mean?
+DOCTOR: It means your blood pressure is consistently elevated, which puts you at a slightly increased risk for cardiovascular complications. It doesn’t mean you’re about to drop dead, but it does mean we need to monitor it. I'm going to order a basic metabolic panel and a lipid panel. Just to get a baseline. And I want you to start a log of your blood pressure readings - twice a day, morning and evening. Do you understand?
+PATIENT: Okay, twice a day. Morning and evening. And… a blood test? Yes, I think so. A log… I can do that. Is there a special paper I need, or can I just write it down anywhere? And… what are those tests for exactly? I don’t want to worry if I don’t know what’s going on.
+DOCTOR: Any paper will do. And the tests are…routine. Just to check your kidney function and cholesterol levels. We need a complete picture. Don’t overthink it. I’ll have the nurse draw the blood before you leave. And if your blood pressure readings stay consistently above 140/90, we’ll discuss medication. Do you have any other questions, or are we finished?
+PATIENT: Oh, okay. Kidney function and cholesterol… that makes sense, I guess. No, I think that's all for now. I appreciate you explaining things, Dr. Sink. I’ll definitely keep that log and get the blood work done. Thank you.
+DOCTOR: Good. The nurse will be in shortly. .

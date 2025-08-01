@@ -1,0 +1,33 @@
+DOCTOR: Right, Tasmia Dudney. 26 years old. Okay. So, what brings you in today?
+PATIENT: High blood pressure, like the lady on the phone said. Honestly, it’s probably just stress. My husband… well, it’s a long story. Can we just get this over with?
+DOCTOR: Okay, stress. We can definitely look into that. High blood pressure is something we want to take seriously, even with stress being a factor. Just to be thorough, can you tell me a little more about when you first noticed it, or when the lady on the phone mentioned it?
+PATIENT: Honestly, I don't remember exactly. My mother-in-law made me go get checked after she bought one of those machines for the home. She worries too much. It was a couple weeks ago, maybe? I didn’t even feel anything different. It’s probably fine.
+DOCTOR: Okay, a couple of weeks ago, machine at home… and no symptoms. Alright. And just to get a better picture, have you ever been diagnosed with high blood pressure before, or had any issues with it in the past?
+PATIENT: No. Never. I’m a healthy person. I work outside, you know? Civil engineering. It’s physical. My mother-in-law just likes to jump to conclusions. Are we done yet?
+DOCTOR: Almost. Just a few more questions, and then we can do a quick exam, alright?
+PATIENT: Fine. Just… please hurry. I have things to do.
+DOCTOR: Okay. Let's talk about your general health. Any major medical problems in the past?
+PATIENT: Nope. Nothing major. I broke my arm when I was a kid, but that healed fine. And I had the flu once, like everyone else. Seriously, is this going to take all day? My husband’s going to be expecting me.
+DOCTOR: No major problems, broken arm as a child, flu… Alright. Any surgeries?
+PATIENT: No. Never had surgery. I keep telling you, I'm healthy! What is the point of all these questions if you aren't even listening to me?
+DOCTOR: I am listening, Tasmia. I need to rule things out. It's standard procedure. Okay, and what about your family?
+PATIENT: My mother’s side… they’ve had some problems with… well, diabetes, mostly. And my father’s side… I don’t really know them. He left when I was little. Are you writing all this down? It feels like a waste of time.
+DOCTOR: Diabetes on your mother's side... Okay. And how about your lifestyle?
+PATIENT: Lifestyle? What does that even mean? I work. I come home. Sometimes I help with dinner. It’s not like I’m sitting around eating junk food all day. I eat what my husband eats. It’s usually… normal stuff. Does this really matter?
+DOCTOR: It does matter, just a little. Do you smoke?
+PATIENT: No! Absolutely not. I’ve never touched a cigarette in my life. Honestly, that’s a ridiculous question. My husband would kill me if I even thought about it. Next?
+DOCTOR: Okay, good. Any allergies to medications?
+PATIENT: No. None that I know of. I haven’t had to take anything besides ibuprofen for headaches, and I don’t even get those very often. Can we please move this along? My husband gets worried if I’m gone too long.
+DOCTOR: Alright, no allergies. Are you currently taking any medications, even over-the-counter ones, vitamins, supplements…?
+PATIENT: Just a multivitamin, sometimes. The kind my mother-in-law buys. She says I need it. It’s… yellow. Does that matter? I really don't pay attention to it. Honestly, this is all so pointless.
+DOCTOR: Okay. Let’s just do a quick physical exam, alright?
+PATIENT: Finally. Let's get it over with.
+DOCTOR: Alright. I’m going to listen to your heart and lungs, check your blood pressure again, and just take a quick look at your general health. Can you sit up on the table for me?
+PATIENT: Fine. But hurry, please. My husband… he doesn't like to wait. <sits on the examination table, crossing her arms>
+DOCTOR: Okay, heart sounds are regular, lungs are clear. Blood pressure is… 148 over 92. Higher than it should be. Abdomen is soft, no tenderness. Pulse is 78. Okay. And one more thing. I’m going to check your reflexes. Please relax.
+PATIENT: Relax? I am relaxed. This is all very… invasive. Honestly, I feel like I’m being interrogated. Is something wrong? Are you going to tell me I’m actually sick or something? My husband will be furious if I have to take medication. He thinks all doctors just want to give you pills.
+DOCTOR: Okay. Your reflexes are normal. Look, I'm not trying to upset you. Your blood pressure is elevated, and that needs to be addressed. It doesn’t necessarily mean you're "sick", but it’s something we need to investigate further. It could be stress, as you mentioned, but we need to rule out other possibilities. I want to run a few simple blood tests, just to get a clearer picture of your overall health. How does that sound?
+PATIENT: Blood tests? Honestly. Fine. But I want it to be quick. And I want you to explain everything. I don’t want any surprises. And I want a referral to another doctor. I don't trust you. My husband will want a second opinion.
+DOCTOR: Okay. Blood tests, explanation of everything, and a referral for a second opinion. I can absolutely arrange that. I’ll order a complete blood count, a basic metabolic panel, and a lipid panel. Those will give us a good starting point. I will also write a referral to Dr. Eleanor Yazzie – she’s a fantastic internist here in town. The lab is just down the hall, and I’ll have the results sent to both of us as soon as they’re available. In the meantime, I’m going to suggest you start monitoring your blood pressure at home – do you have a machine, or would you like me to prescribe one?
+PATIENT: My mother-in-law has a machine. I guess I can use that. But don’t expect me to be happy about it. And honestly, if these tests are normal, I'm not coming back. This whole thing is a waste of my time. Just… get me the paperwork for the tests, and the referral, and let me leave.
+DOCTOR: Okay. Here you are. The paperwork for the lab tests, and the referral to Dr. Yazzie. Please schedule an appointment with her as soon as possible. And… try not to stress too much. I understand you're busy, and I appreciate your patience. If you have any questions or concerns before your appointment with Dr. Yazzie, please don't hesitate to call the clinic. And, just a quick reminder - monitoring your blood pressure at home and noting any symptoms will be very helpful for Dr. Yazzie.

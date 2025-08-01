@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Goodstein. I am Dr. Blim. I see you’re thirty-nine years of age. Now, let’s get straight to it. What brings you in today?
+PATIENT: Good morning, Doctor. It is very nice to meet you. Yes, thirty-nine is correct. Well, to be frank, it is… the gas. I have a lot of it. More than usual, you understand. It is… embarrassing, sometimes.
+DOCTOR: Embarrassing, you say?
+PATIENT: Yes, very. It happens… at inconvenient times. And the smell… is not pleasant, I assure you. I try to be discreet, but… it is difficult. It started maybe a month ago, I think. Perhaps a little longer. I do not want to cause trouble for anyone.
+DOCTOR: A month, you say. And you haven’t altered your diet in any significant way during that time?
+PATIENT: No, Doctor, I have not. I eat… the same things. Mostly I work at the fast food place, so… well, I eat what is there. Burgers, fries… sometimes a soda. Nothing… fancy. I have not tried anything new, no.
+DOCTOR: Fast food, consistently. Hmm. And are you experiencing any other symptoms alongside this… gas?
+PATIENT: No, Doctor. Not really. Just… the gas. Sometimes a little stomach rumble, but that is all. No pain, no… other problems. Just the… emissions, you could say. It does not… keep me up at night, or anything.
+DOCTOR: Alright. Have you noticed any change in your bowel habits?
+PATIENT: Bowel… habits? You mean… when I go to the restroom? No, not really. It is… normal, I suppose. Regular. Not… loose, not… hard. Just… normal. I have not noticed anything different there, no.
+DOCTOR: And any nausea, vomiting, or diarrhea at all in the last month?
+PATIENT: No, Doctor. Absolutely not. No sickness at all. No throwing up, no… upset stomach like that. I feel… fine, otherwise. Just… a lot of gas. It is… perplexing.
+DOCTOR: Alright. Let's have a listen. Lie back for me, please. Normal bowel sounds… somewhat hyperactive, perhaps. No guarding or rebound tenderness. Do you have any allergies to any medications?
+PATIENT: No allergies, Doctor. None that I know of. I have not taken many medicines, truthfully. Just… when I have a cold, sometimes. Over-the-counter things. Nothing… serious. Is something… wrong?
+DOCTOR: It’s likely just dietary, Mr. Goodstein. Fast food, as you mentioned, is notorious for causing… digestive upset. Perhaps you could try to incorporate some more… fibrous foods into your diet?
+PATIENT: Fibrous foods? What… what are those, exactly? I eat what I can at work, you see. I do not… cook much. Is that… a kind of medicine? I am sorry, Doctor. I do not understand.
+DOCTOR: Fruits, vegetables… things like beans, lentils. Foods that aren’t… processed. It’s basic nutrition, Mr. Goodstein. I can write you a referral to a nutritionist if you feel you need further… guidance. But honestly, a simple change in diet should resolve this issue. I suggest limiting the fast food intake drastically. I'll document this as excessive flatulence, likely dietary. Any other concerns today?
+PATIENT: Oh. Fruits and vegetables… I see. I do not eat much of those, truthfully. Mostly just… what is available. A nutritionist… that sounds… expensive. Perhaps I can try to eat a little less fast food, then. I will try. Thank you, Doctor. No, that is all, I think. Just the gas.
+DOCTOR: Very well. Here's a list of local nutritionists, should you decide to pursue that avenue. I’ll note the recommendation for dietary changes. Try to implement those, and if the issue persists after a month, then you may consider a follow-up. Do you have any questions for me before you leave?
+PATIENT: No, Doctor, I do not think so. Thank you for your time, and… the paper. I will try my best. It is… good to know it is probably just the food. Thank you again.
+DOCTOR: You're welcome. Try to make better choices, Mr. Goodstein. It’ll benefit your overall health. Have a good day. .
+PATIENT: Thank you, Doctor. You too. .

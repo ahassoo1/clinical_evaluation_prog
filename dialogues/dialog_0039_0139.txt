@@ -1,0 +1,27 @@
+DOCTOR: Hello, Yamir. It’s lovely to meet you. I’m Dr. Kamahele. So, what brings you in to see me today?
+PATIENT: Uh, hello Doctor. I need... check for referee. For fitness. I coach little league. Need paper say I okay.
+DOCTOR: Okay, I understand. You need a physical exam form completed for coaching little league – a referee form, you said?
+PATIENT: Yes. Referee, or umpire... same thing. Paper says I good to go. Fast, if possible? I have practice tonight.
+DOCTOR: Right, of course. We can definitely get that done for you. It shouldn't take long. Just to be thorough, let’s go over a few things first, alright?
+PATIENT: Okay. Good. Ask quick. I... not much time.
+DOCTOR: Alright, sounds good. First, have you been feeling generally healthy?
+PATIENT: Yes. Okay. No problem. Just... tired sometimes. Work is hard. Lifting heavy things.
+DOCTOR: Okay, lifting heavy things at work... that's good to know. Any pain with that lifting, or anywhere else for that matter?
+PATIENT: Sometimes back. Not bad. Rub it, goes away. Old injury. Long time ago. No big deal.
+DOCTOR: Okay, an old back injury... alright. And besides your back, any other medical conditions I should be aware of?
+PATIENT: No. Just… wife… she passed last year. Sad, but… no sickness. I healthy. Mostly.
+DOCTOR: I'm very sorry to hear about your wife, Yamir. That must be incredibly difficult. And it's good to hear you're otherwise feeling well. Just to be complete, do you have any allergies to medications, foods, or anything else?
+PATIENT: No allergies. Nothing. I eat everything. No problem with… pills or anything.
+DOCTOR: Okay, that's good to know. And are you currently taking any medications at all, even over-the-counter ones?
+PATIENT: No. Just… sometimes pain killer for back. But not every day. Only when bad. Like… ibuprofen. You know?
+DOCTOR: Yes, I know ibuprofen. And just to confirm, when you say “sometimes”, how often would you say you take it - roughly?
+PATIENT: Maybe… one, two times month. When I lift something wrong. Not always. Mostly just rub back. It okay. Not need pill.
+DOCTOR: Alright, good to know. Let’s do a quick physical exam then, just to make sure everything looks alright. I’ll listen to your heart and lungs, check your reflexes, and take a quick look at your back. Is that okay with you?
+PATIENT: Yes. Fast please. I... practice start soon. I coach ten year olds. Need to be there.
+DOCTOR: Of course, I understand. I'll be as quick as I can. Heart sounds are regular, no murmurs detected. Lungs are clear to auscultation bilaterally. Reflexes are 2+ and symmetrical. There’s some mild tenderness to palpation in the lower lumbar region, but no acute signs of distress. Range of motion is slightly limited, but no radicular symptoms reported. Everything seems within normal limits, but that tenderness is something to keep an eye on. Do you have any history of a formal diagnosis for your back pain, like a herniated disc or sciatica?
+PATIENT: No. Just… pulled muscle. Long time ago. Doctor just say rest. Rub it. No scan or anything. Just... work. Heavy things. I careful now. Mostly.
+DOCTOR: Okay, just a pulled muscle from a long time ago, with no formal scan. And you’re being careful now, which is good. Alright, I'm going to fill out this form for you stating you are cleared for coaching, with a note about the mild lower back tenderness. I recommend continuing to be mindful of proper lifting techniques and using good body mechanics. If the pain worsens or you develop any new symptoms like numbness or weakness in your legs, please let me know right away or see another doctor. Does that sound alright?
+PATIENT: Yes. Okay. Good. That enough? I need paper. Practice start soon. Thank you Doctor.
+DOCTOR: Here you go. It states you’re cleared for coaching. Please sign it where indicated. And you’re very welcome, Yamir. I'm glad we could get this done for you. I'm also going to give you a handout on proper lifting techniques, just as a reminder. And again, if you experience any worsening pain, don't hesitate to seek medical attention. Is there anything else I can help you with today?
+PATIENT: No. Thank you. That is all. I go now. Practice.
+DOCTOR: Alright, you're very welcome. Have a great practice and a good evening. Be careful out there!

@@ -1,0 +1,30 @@
+DOCTOR: Alright, Marialena, good to meet you. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor Billman. It’s a pleasure to meet you as well. I’ve been experiencing some…pressure in my bladder, and it’s become rather bothersome lately. It’s been happening for a few weeks now, and I thought it best to get it checked out.
+DOCTOR: Okay, bladder pressure for a few weeks. Alright. And when you say pressure, can you describe that a little more?
+PATIENT: Certainly. It’s not exactly pain, but more of a…fullness, even when I’ve just gone to the restroom. And sometimes, it feels like I need to go right away, even if there isn’t much actually there. It's quite disruptive, honestly.
+DOCTOR: Fullness even after voiding, and a sense of urgency… right. And how often would you say you’re going to the bathroom during the day, roughly?
+PATIENT: Hmm, let me think. Usually, I go about every two to three hours, but lately, it’s been more like every hour, sometimes less. And I find myself going to the restroom even when I don’t necessarily need to, just to be safe, I suppose. It’s… inconvenient, and a little worrying.
+DOCTOR: Okay, so increased frequency, urgency, and that sensation of incomplete emptying. Have you noticed any pain when you urinate?
+PATIENT: No, thankfully, no pain at all. It’s not burning, or stinging, or anything like that. Just this constant pressure and the feeling of needing to go so often. It’s more of a discomfort than actual pain, if that makes sense. Sometimes, a little lower abdominal discomfort, but it’s fleeting.
+DOCTOR: No dysuria, some intermittent lower abdominal discomfort. Alright. And have you noticed any changes in your urine – color, smell, anything unusual?
+PATIENT: No, not that I’ve observed. The color seems normal, and the smell hasn’t changed. I always drink plenty of water, so it’s usually quite clear, I think. I haven’t noticed any blood or anything alarming like that. I do try to be mindful of these things, you know?
+DOCTOR: Good, good. Staying hydrated is important. Now, have you had any recent infections – bladder infections, yeast infections, anything like that?
+PATIENT: No, not recently. I haven’t had a bladder infection in…well, I honestly can’t remember the last time. Perhaps many years ago. And no yeast infections either. I generally have very good health, so I haven’t needed to visit the doctor often. I have Medicare, if that’s relevant?
+DOCTOR: Medicare is noted. Alright. And any changes in your bowel habits?
+PATIENT: No, thankfully, my bowel habits haven't changed at all. Everything is…regular, if you will. No constipation, no diarrhea, nothing out of the ordinary there. I eat a fairly balanced diet, and I try to exercise when I can.
+DOCTOR: Alright. And are you sexually active?
+PATIENT: Yes, I am. I am married, and we have a…regular intimate life. Is that relevant to the bladder pressure? I understand if it’s a necessary question.
+DOCTOR: It can be. Alright. Now, have you experienced any fever, chills, or lower back pain?
+PATIENT: No, Doctor. No fever, no chills, and thankfully, no lower back pain. I haven’t felt unwell in any other way, aside from this bothersome pressure. I've been sleeping well, and my appetite is normal. I'm just hoping to understand what's causing this, and how to resolve it.
+DOCTOR: Okay. Well, it could be a simple urinary tract infection, even without the usual burning, but we need to rule things out. Let's do a quick physical exam, and then I'll order a urinalysis. We’ll check for infection, and maybe some other things. Sound good?
+PATIENT: Yes, that sounds perfectly reasonable, Doctor. A physical exam and a urinalysis seem like a good place to start. I trust your judgment, and I'm happy to proceed however you think best. Please, let me know if there’s anything I should do to prepare.
+DOCTOR: Alright. Just lie down on the table, and we’ll start with an abdominal exam. I’ll listen to your abdomen, and then gently palpate it to check for any tenderness. Try to relax, and let me know if anything feels uncomfortable.
+PATIENT: Certainly, Doctor. I will do my best to relax. Please don't hesitate to tell me if you need me to adjust my position, or if there’s anything I can do to make it easier. I appreciate your thoroughness.
+DOCTOR: Alright. Take a deep breath in… and out… good. And another… okay. Any tenderness here?
+PATIENT: No, that doesn't hurt, Doctor. A little pressure, perhaps, but no actual pain. It feels… normal, I suppose. I tend to be a little sensitive, so it’s possible that’s just my usual anatomy. Perhaps a little bit there, on the lower left side, but it's not sharp, or debilitating. Just… noticeable.
+DOCTOR: Slight tenderness in the left lower quadrant. Okay. And what about here?
+PATIENT: Yes, that’s a little more…pronounced there. Not agonizing, but definitely more sensitive. It's a dull ache, rather than a sharp pain. Could it be something muscular? I was gardening yesterday, and I did quite a bit of bending and lifting.
+DOCTOR: Possibly. But we need to rule out other things. Alright, I’m going to listen to your back now. Just relax, and breathe normally.
+PATIENT: Certainly, Doctor. I am trying to relax, and focus on my breathing. It is a little difficult, lying flat, but I am doing my best. Please let me know if you need me to do anything differently.
+DOCTOR: Alright. Lungs are clear. No unusual sounds in your back. I'll need a urine sample now. There's a cup in the bathroom. Just a midstream clean catch is what we need. I'll give you instructions. Try to collect about six ounces, if you can. And wash your hands thoroughly before and after.
+PATIENT: Thank you, Doctor. A midstream clean catch… six ounces… yes, I understand. I will wash my hands thoroughly, and do my best to follow the instructions. I’ll be right back.

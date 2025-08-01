@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Mr. Honcoop. I'm Dr. Duplichan. So, tell me, what brings you in today?
+PATIENT: Morning to you, Doctor. Look, I ain't got all day. Just need a paper signed, somethin' about… lookin’ better. A procedure. My nephew said I needed clearance from a real doctor 'fore I do it. He handles all the details, see. I don’t recall exactly what it is, just… improvements.
+DOCTOR: Improvements?
+PATIENT: Yes, improvements! You know… makin’ things… tighter. He said somethin’ about my… face. It's a new thing, these days. I mostly work on towers, not faces, understand? And I ain’t got time for long explanations. Just need the okay so I can get back to work.
+DOCTOR: So, let me clarify. Your nephew has arranged a cosmetic procedure for your face, and he believes you require medical clearance from me before proceeding?
+PATIENT: Arranged is a strong word, Doctor. He suggested it. And clearance… yes, that’s it. He said I gotta be… healthy enough. Look, I climb towers for a livin’! I’m stronger than most fellas half my age. What kind of clearance could a fella need for… fixin’ his face?
+DOCTOR: Well, even cosmetic procedures carry risks, Mr. Honcoop. It’s my professional responsibility to ensure you're a suitable candidate. To do that, I need some information. First, have you ever been diagnosed with any medical conditions?
+PATIENT: Conditions? Hmm… let me think. I had a bad knee once, climbin’ a tower in the rain. And… I think I had the flu real bad one year. But that was years ago! Honestly, Doctor, I’m a pretty healthy man. I don't go to doctors. Waste of time and money.
+DOCTOR: And have you had any surgeries in the past?
+PATIENT: Surgeries… Nope. Never had nothin’ cut open. I avoid hospitals like the plague. Always thought fellas who needed surgery weren’t climbin’ enough towers. That's just my opinion, of course.
+DOCTOR: Alright. And what about medications?
+PATIENT: Medications? Doctor, I don’t take nothin’. I drink my coffee black, eat my bacon crispy, and keep movin’. That’s all I need. A man needs his strength, see? All them pills just slow you down.
+DOCTOR: Do you have any allergies to medications, food, or anything else?
+PATIENT: Allergies? Not that I know of. I eat whatever’s put in front of me. Sometimes I get a little itchy when I’m around cats, but that's just cats. They're sneaky creatures. Look, is this gonna take much longer? I got a job site to get to.
+DOCTOR: Mr. Honcoop, I understand your time is valuable, but I need a complete medical history to assess your risk for this procedure. Have you ever been hospitalized for anything?
+PATIENT: Hospitalized? Goodness, no! I told you, I avoid hospitals! Not for a single night. Not even a day. I fix things, I don’t get fixed. My nephew is makin’ a big deal outta nothin’, I tell ya. Just sign the paper and let me go.
+DOCTOR: Mr. Honcoop, with all due respect, your lack of a medical history raises significant concerns. It's irresponsible of me to clear you for any procedure without knowing your baseline health. I need to perform a physical exam, at the very least. Blood pressure, heart rate, listen to your lungs… basic things.
+PATIENT: Now see here, Doctor! I ain't payin’ for no exam! I came here for a signature, not a checkup. You’re wastin’ my time. I'll find another doctor who understands a man’s gotta get back to work. This is ridiculous.
+DOCTOR: Mr. Honcoop, I cannot and will not ethically sign off on a procedure without proper assessment. It is my duty to prioritize your safety, and proceeding without one would be negligent. I strongly advise you to reconsider. However, if you insist on seeking another physician, that is your prerogative. But I will not be complicit in potentially harming your health. .
+PATIENT: Fine! Have a good day, Doctor. Some doctors just don't understand…

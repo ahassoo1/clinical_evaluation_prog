@@ -1,0 +1,17 @@
+DOCTOR: Good morning, Mr. Sobkowicz. I'm Dr. Galena. It's good to meet you. Now, what brings you in to see me today?
+PATIENT: Morning. Just…chest hurt. And heart…jumpy. Blood pressure, nurse say high. I no like. Quick, please. I have things to do.
+DOCTOR: Alright, alright. We’ll get to the bottom of it. “Chest hurt” and a “jumpy heart,” you said. Can you tell me a bit more about the chest hurt?
+PATIENT: Like…pressure. Here. Not sharp. Dull. And sometimes…feel like…flutter. Not good feeling. Happen when I…walk fast. Or get angry. You understand? It's annoying.
+DOCTOR: Yes, I understand. Pressure, not sharp, more of a dull ache… and it happens with activity or when you're upset. Okay. And how long has this been going on for, Mr. Sobkowicz?
+PATIENT: Long time. Maybe…six months? Not always. Come and go. I old man. Things hurt. Not big deal. But wife…she worry. She say go see doctor. So here I am. Waste of time, maybe.
+DOCTOR: It’s good your wife encouraged you to come in. Even if it turns out to be nothing serious, it’s always best to check. "Come and go," you said… about how often would you say it happens?
+PATIENT: Hmm… maybe once a week? Sometimes more if I have to deal with…problems. Work things. Always problems. Last week, two times. Yesterday, once. It stop…when I sit down. Rest. Quiet. Then okay. For a while.
+DOCTOR: Alright. Thank you for that information. Let's just do a quick listen to your heart and lungs, and I'll check your blood pressure again just to get a baseline. Would that be alright with you?
+PATIENT: Fine. Just hurry. I no like sitting around. And make sure…no cold stethoscope. I hate cold things. My bones…they feel everything.
+DOCTOR: Of course, Mr. Sobkowicz. Warm stethoscope, absolutely. Okay, breathing deeply for me... good. Heart sounds are…regular, but a bit distant. I’m hearing some mild crackles in the bases of both lungs. Blood pressure is 158/92, and pulse is 88. Anything feel unusual while I'm listening?
+PATIENT: Crackles? What is crackles? I feel…old. Always tired. Sometimes…short of breath. But I smoke. A long time. So maybe that. You think is lungs? Is bad? I no want to end up in hospital. My wife…she can't handle it.
+DOCTOR: The crackles are just a sound I’m hearing in your lungs, Mr. Sobkowicz. It can be caused by a number of things, and the smoking certainly doesn't help. It could be related to your lungs, but we need to do a bit more to find out for sure. We'll start with an EKG to check your heart rhythm and then get a chest X-ray. That’ll give us a clearer picture of what’s going on. Would that be alright with you?
+PATIENT: EKG? X-ray? More tests… Is everything wrong with me? I just want chest to stop hurt. And heart to stop jumpy. My wife…she say I worry too much. Maybe she is right. Fine. Do tests. Just…no needles. I hate needles. Very, very much. And hurry, okay?
+DOCTOR: Alright, Mr. Sobkowicz. We'll take it one step at a time. No needles for the EKG, I promise. It just involves some stickers on your chest. The X-ray is quick and painless as well. I understand your anxiety, and we’ll get through this as quickly as possible. Let me get the nurse in here to get you set up for the EKG. Then we’ll head over to radiology for the X-ray. It shouldn't take long at all.
+PATIENT: Fine. Hurry, please. I have appointments. Important appointments. And tell nurse…no cold stickers. Please. This is important. .
+DOCTOR: Of course, Mr. Sobkowicz. Warm stickers, absolutely. I’ll make sure of it. I'll be right back with the nurse. .

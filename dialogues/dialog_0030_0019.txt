@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Carlotta. Welcome to the clinic. My name is Dr. Quicksey. It’s nice to meet you. What brings you in to see me today?
+PATIENT: Good morning to you too, Doctor. Uh… my wife, she want… babies. We… old now. She think maybe need help? I… not sure what help is. It’s nice to meet you too.
+DOCTOR: Thank you for sharing that, Mr. Carlotta. It sounds like you and your wife are considering options to start a family, and she's wondering if medical assistance might be helpful. That's a very reasonable question. To understand the best course of action, could you tell me a little more about how long you and your wife have been trying to conceive?
+PATIENT: Conceive…? Trying… hmm. A long time. Maybe… five years? More? Time… it goes fast. We not… not doing anything special. Just… together. She… she worry now.
+DOCTOR: Five years is a significant amount of time, Mr. Carlotta. It's completely understandable that your wife is feeling concerned. And it's good you're both coming in to discuss this. To get a clearer picture, could you tell me a bit about your wife's medical history?
+PATIENT: Medical history…? She… she goes to doctor sometimes. For… aches and pains. Old lady things. I don’t remember the names of the doctors. Or what she goes for exactly. She takes pills… for her water. And for her… heart, maybe? She forget too.
+DOCTOR: Okay, thank you for letting me know. That's helpful. We can definitely look into her records here at the clinic to get a more complete picture of her medical history. Do you know if she's had any surgeries in the past, or if she has any allergies to medications?
+PATIENT: Surgeries… hmm. I think… when she was young, she had her… tummy fixed? Something about… inside. I don’t know the name of it. Allergies… no, I don’t think so. She likes to try all the foods. She says good food is important.
+DOCTOR: That's good to know. It sounds like she enjoys her food! And thank you for remembering about the surgery – that’s helpful information. Now, let's talk a bit about your family history. Has either you or your wife had any difficulty starting a family in the past?
+PATIENT: Difficulty… hmm. No. She had… children before. From… another man. I have… no children. She say… it was easy before. But… she old now. Not like before.
+DOCTOR: Thank you for sharing that, Mr. Carlotta. It's important information to understand the whole picture. Now, can you tell me a little about your lifestyle?
+PATIENT: Lifestyle…? I make models. Metal and plastic. It’s quiet work. I sit a lot. We… we walk sometimes. Not far. My wife likes to garden. She grows… tomatoes and peppers. We eat good food.
+DOCTOR: That sounds very peaceful, Mr. Carlotta. And gardening is wonderful exercise. Now, one last question before we proceed with a physical exam. Do either of you smoke or drink alcohol regularly?
+PATIENT: Smoke…? No. Never. Bad for… everything. Alcohol… my wife, she likes a little wine sometimes. With dinner. Not much. I… I don’t drink. It makes my head spin.
+DOCTOR: Thank you for being so open with me, Mr. Carlotta. That’s very helpful. Now, I’d like to perform a brief physical exam on your wife to get a better understanding of her overall health. Is that alright with you?
+PATIENT: Yes, yes that is good. She… she ready. She want to know if… if there is a problem. She worried.
+DOCTOR: Okay, wonderful. Let’s get her back to an examination room and we’ll get started. We’ll take things slowly and I’ll explain everything as we go. Please, follow me.
+PATIENT: Okay, Doctor. She is this way?
+DOCTOR: Yes, right this way. Please have your wife sit here, and I’ll be with you in just a moment to begin the exam. I’ll need to ask her some questions directly, and I’ll be documenting everything as we go, Mr. Carlotta. Is that alright?
+PATIENT: Yes, yes that is fine. She will… answer your questions. She is a little shy, maybe. But she will try.
+DOCTOR: Thank you, Mr. Carlotta. That’s good to know. Hello. My name is Dr. Quicksey. It’s very nice to meet you. We're going to ask you a few questions about your health, and then I'll perform a brief physical exam. This will help us understand what might be going on and what the best options are for you and your husband. Is that alright?
+PATIENT: .

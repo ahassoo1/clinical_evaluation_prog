@@ -1,0 +1,24 @@
+DOCTOR: Right, hello. Mande Haggart, is it?
+PATIENT: Yes, that’s right. Mande Haggar. I have an appointment with Dr. Osga? I think it’s about…well, it’s a bit strange, actually.
+DOCTOR: Strange how?
+PATIENT: Well, I feel alright most of the time, just a little tired, you know? But after I eat fava beans… it’s not good. I get really yellow, and weak. Like, noticeably yellow. My skin and eyes… it’s scary, to be honest. It happened again just last week.
+DOCTOR: Yellow?
+PATIENT: Yes, yellow. Like…jaundice, I think my friend called it? My skin and the whites of my eyes get really bright yellow. It fades after a few days, but it always comes back when I eat those beans. I didn’t even know beans could do that! It’s never happened with anything else.
+DOCTOR: Well, some people and their sensitivities. Alright, so this only happens with fava beans… how much are you eating when this occurs?
+PATIENT: Oh, not a huge amount, really. Maybe a cup? Sometimes half a cup. I like them in salads, or sometimes with lamb. It’s not like I’m sitting down and eating a whole bowlful, if that makes sense. It's just…enough to make me look like a Simpson, practically.
+DOCTOR: Right. And how long has this been happening?
+PATIENT: Oh, goodness…it's been…years, I think. I first noticed it when I was a teenager, but it didn’t happen very often then. It’s gotten worse as I’ve gotten older, definitely. Maybe the last five or ten years it’s been a real problem. I try to avoid the beans, but sometimes… sometimes I forget, or I’m at a restaurant and they’re in something…
+DOCTOR: Alright. Any family history of… anything unusual?
+PATIENT: Hmm, that’s a good question. My father… he wasn't feeling well often, I remember that. He had stomach problems a lot, but I don't know if it was anything specific. And my grandmother, on my mother’s side, she was very pale, always. But no one ever talked about…illnesses, really. Things weren't discussed so openly back then, you know? I’m not aware of anyone having a similar problem to this, though.
+DOCTOR: Do you take any medications regularly?
+PATIENT: No, not really. Just a multivitamin, occasionally. And sometimes, if I have a headache, I’ll take ibuprofen. But nothing…prescribed, or anything I take every day. I try to stay healthy, so I don’t really like taking pills if I can avoid it.
+DOCTOR: Alright. Well, let’s have a look at you. I'm going to listen to your heart and lungs, and then I want to examine your abdomen. And I'll need to check your skin color more closely, of course.
+PATIENT: Okay, that sounds…fine. Whatever you think is best. Just tell me if anything feels…strange. I’m not very good with medical stuff, so I’ll just trust your judgment.
+DOCTOR: Right. Lie back, please. Deep breaths. Heart sounds are normal. Lungs are clear. Now, abdomen. Any pain anywhere?
+PATIENT: No, not really. Not at the moment, anyway. Sometimes, a little…bloated, maybe, after I eat. But no sharp pains, or anything like that. It’s just…uncomfortable, sometimes. Oh, that’s a bit tender there, actually. Just on the left side.
+DOCTOR: Hmm. Skin is…pale, yes. And slightly yellowish, as you said. I'm going to order some blood tests. Liver function, complete blood count, and a G6PD enzyme assay. It's probably nothing serious, but we need to rule things out.
+PATIENT: Okay. Blood tests… That sounds…serious. What are you…ruling out? Is it something I should be worried about? G6PD…what is that? I'm getting a little scared now.
+DOCTOR: It’s a simple deficiency, sometimes. It can cause problems with…certain foods. The beans, in your case. The blood tests will tell us for sure. Don't worry yourself sick over it. We'll get the results back in a few days, and then we’ll talk. In the meantime, absolutely no fava beans. Understand?
+PATIENT: No fava beans… yes, I understand. No beans. A few days… it feels like a long time. Will I…feel worse if I accidentally eat some before the results are back? Should I go to the emergency room if I do? I'm sorry to be so…difficult. I just…don’t like not knowing.
+DOCTOR: If you experience severe abdominal pain, nausea, vomiting, or noticeable darkening of your urine, then yes, go to the emergency room. Otherwise, just avoid the beans. And frankly, if you can’t remember what you’ve eaten, that's a problem for you to solve. We’ve done what we can here today. The lab will contact you with the results. I have other patients waiting. .
+PATIENT: .

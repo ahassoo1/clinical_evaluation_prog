@@ -1,0 +1,32 @@
+DOCTOR: Alright, Mr. Schwer, have a seat. So, what brings you in to see me today?
+PATIENT: Uh, hi Doctor. Thanks. Well, my sister… she got sick. Real sick. Cancer, they said. And… my mom, she had something bad too, a long time ago. So, I just… want to make sure I’m okay, you know? Not worried, exactly… just want to be safe.
+DOCTOR: Right. I understand. It’s… prudent to be proactive, especially with family history like that. “Safe” is good. We'll do some checking. Now, when you say "something bad" about your mom, can you be a little more specific?
+PATIENT: Um… I was just a little boy when she got sick. My dad… he didn’t talk about it much. Something with her stomach, I think. She was always tired and… well, she went to the hospital a lot. I don’t know what the doctors said. He just… took care of her. And then… she passed away. I’m sorry, I’m not much help, I guess. It was a long time ago.
+DOCTOR: No, it’s alright, Mr. Schwer. These things happen. It’s common not to remember details from childhood. A “stomach problem” could be a lot of things. Okay. And your sister – what kind of cancer was it?
+PATIENT: She… it was in her breast, I think. They did surgery, and… and now she’s doing treatments. Chemotherapy, I think that’s what they call it. She’s very brave, but it’s hard on her. She gets very tired and… loses her hair. I worry about her a lot. That’s why I thought maybe… maybe I should get checked too.
+DOCTOR: That’s very thoughtful of you. It's good you're thinking about this. Breast cancer can have a genetic component, so your concern is valid. Now, let's get some information about you. Have you ever had any major medical problems?
+PATIENT: Not really. I mean, I get a cold sometimes, like everyone. And my back aches a little when I bend over – from work, I think. I sell things… wholesale stuff. Lots of lifting. But nothing a little rest doesn't fix. Never been in the hospital, not for anything serious. I try to eat good… mostly.
+DOCTOR: Alright. And have you ever had any surgeries?
+PATIENT: No, sir. Never. I broke my arm when I was a kid, climbing a tree… but they just put it in a cast. No surgery. That was a long time ago, too.
+DOCTOR: Okay. Now, what about medications?
+PATIENT: Just… vitamins. A multivitamin, every day. And sometimes, when my back really hurts, I take something for the pain. Ibuprofen, I think it’s called. Nothing else. I don't really like taking pills if I can help it.
+DOCTOR: Alright. Any allergies to medications, food, or anything else?
+PATIENT: No, no allergies. I eat everything. I’ve never had a reaction to anything, as far as I know. My wife… she was allergic to bees, but I’m not.
+DOCTOR: Okay. And family history, beyond your mother and sister… anyone else in the family have cancer, or any other significant medical problems?
+PATIENT: Um… my dad’s brother, Uncle… I think his name was Boris… he had something with his heart. He was always tired, like my mom. And… my grandmother on my mother’s side… she had diabetes, I think. She had to take shots. That’s all I really know. It was a long time ago, and my family doesn't talk much about these things.
+DOCTOR: Alright. Now, Mr. Schwer, I’m going to ask you a few questions about your lifestyle. Do you smoke?
+PATIENT: No, sir. Never smoked a day in my life. My dad… he smoked, but I always thought it was a bad idea. I try to stay healthy.
+DOCTOR: Do you drink alcohol?
+PATIENT: Sometimes. A glass of wine with dinner, maybe. Or a beer with friends on the weekend. Nothing too much. I don't drink every day. Not a big drinker.
+DOCTOR: And finally, do you exercise regularly?
+PATIENT: Well… not regularly. I walk around a lot at work, lifting boxes and things. That’s exercise, right? But I don’t go to the gym or anything. I used to play soccer when I was younger, but… that was a long time ago.
+DOCTOR: Alright. Now, I'm going to do a brief physical exam. Just the basics, to get a sense of your overall health. I'll listen to your heart and lungs, feel your abdomen, and check your reflexes. Is that alright?
+PATIENT: Yes, sir. That’s fine. Whatever you need to do. I trust you.
+DOCTOR: Good. Please lie down on the table. We'll start with your heart and lungs. Take a deep breath… and another… Good. Heart sounds are regular, but a bit distant. Lungs are clear to auscultation bilaterally, but your respiratory rate is slightly shallow. Any pain or tenderness here?
+PATIENT: No, sir. Not really. A little… firm, maybe. But no pain. It's always been like that. I think it's just from eating too much sometimes. Oh, that's a little… sensitive right there. But it's not painful. Just… aware of it.
+DOCTOR: Alright. A little sensitivity in the lower abdomen. Could be a number of things. Reflexes are normal. Given your family history of cancer and your sister's diagnosis, I recommend we order some basic blood work. A complete blood count, metabolic panel, and a PSA test, given your age. We’ll also want to rule out any underlying inflammation. The lab results will give us a better picture of your overall health and help us determine if any further investigation is needed.
+PATIENT: That sounds… good, sir. Whatever you think is best. Will the blood work tell me if I… if I have cancer too? I'm a little worried.
+DOCTOR: Mr. Schwer, blood work doesn’t diagnose cancer. It can indicate potential problems, markers of inflammation, or deficiencies. It’s a screening tool, to see if we need to do further, more specific tests. And given your anxieties, it's prudent to be thorough. I will also order a stool test to screen for colon cancer. We will need to rule out any problems there as well. The results should be back in a few days. I will have the nurse schedule a follow-up appointment for next week to discuss them. In the meantime, try not to worry. But be mindful of any changes in your bowel habits, unexplained weight loss, or persistent fatigue. Do you understand?
+PATIENT: Yes, sir. I understand. Screening… not a diagnosis. Changes… I’ll watch for those. Thank you, Doctor. I appreciate you taking the time. It’s… it’s good to know someone is looking out for me.
+DOCTOR: Good. The nurse will provide you with instructions for the blood work and stool sample collection. If you experience any concerning symptoms before your follow-up appointment, don't hesitate to call the office. Here are the lab orders and the requisition form. Have a good day.
+PATIENT: Okay, thank you, Doctor. You too.

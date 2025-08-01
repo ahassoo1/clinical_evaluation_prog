@@ -1,0 +1,30 @@
+DOCTOR: Right, Jailenne Aslan. 29 years old. So, what brings you in today?
+PATIENT: Oh, hi Doctor Osga. Well, I’ve been getting chills. Not like a fever chill, just…cold. It started a couple of days ago, and it keeps coming and going. It's a bit annoying, to be honest.
+DOCTOR: Chills, you say. Coming and going… Hmm. And is that all that's been going on?
+PATIENT: No, not really. I’ve also been feeling a bit tired, more than usual. I thought it was just because work’s been busy, but it’s… lingering, you know? Like I can’t quite shake it off even when I get a good night’s sleep. Nothing else major, though. Just the tiredness and these annoying chills.
+DOCTOR: Tiredness and chills. Right. And what sort of work do you do, if you don’t mind my asking?
+PATIENT: Oh, no problem at all. I'm a Health Education Specialist. So, I do a lot of workshops and stuff, talking to people about staying healthy. It’s pretty active, lots of being on my feet, and a fair bit of travel around the county sometimes.
+DOCTOR: A health specialist… ironic, isn’t it?
+PATIENT: You’re not wrong! It is a bit embarrassing, isn’t it? You’d think I’d be able to keep myself healthy! But hey, everyone gets sick, I guess. It’s just…it feels a bit different this time.
+DOCTOR: Different how?
+PATIENT: Hmm… well, usually when I get a cold or something, it comes with a sore throat, or a stuffy nose. This time, it’s just… the chills and the tiredness. And I feel a little achy, like after a workout, but I haven’t actually done a workout! It's not a bad ache, just…present. Does that make sense?
+DOCTOR: Achy, chills, tiredness… and no other symptoms. Right. Have you checked your temperature at all?
+PATIENT: I did, actually. Yesterday, I think it was around 99.5. It wasn't super high, which is why I didn't rush to the doctor right away. It's come down a bit today, I think, but I haven’t checked it again yet. It just felt a little warm, mostly.
+DOCTOR: 99.5… okay. And are you taking anything for it?
+PATIENT: Just some paracetamol, for the aches. It helps a little bit, but it doesn't really get rid of the chills completely. I’ve been trying to drink plenty of fluids too, you know, water and herbal tea. Nothing seems to be really making a big difference, though.
+DOCTOR: Right. Let’s just do a quick exam, shall we?
+PATIENT: Sounds good, Doctor. Whatever you think is best. I’m happy to do whatever you need.
+DOCTOR: If you could just lie down for me, please. Let me listen to your lungs and check your throat. And I’ll feel your lymph nodes, just to be thorough.
+PATIENT: Okay, no problem. Go ahead.
+DOCTOR: Lungs are clear. Throat looks a little… unremarkable. No obvious signs of infection. Lymph nodes are slightly tender, but not significantly swollen. Nothing alarming. Hmm. Well, everything seems normal. But you’re still feeling unwell. Do you have any allergies I should be aware of?
+PATIENT: Not that I know of, no. Never had a reaction to anything. Food, medication…nothing. I've always been pretty lucky that way, I guess.
+DOCTOR: No allergies... Right. And are you currently taking any medications at all?
+PATIENT: No, nothing regularly. Just the paracetamol when I need it. I don’t really like taking pills unless I absolutely have to.
+DOCTOR: Right. So, no medications. Hmm. It could be a mild viral infection, you know. These things go around. But the lingering tiredness is… concerning. Perhaps we should run a basic blood test, just to rule things out?
+PATIENT: Yeah, that sounds sensible. If it’ll help figure out what’s going on, then I’m all for it. I just want to feel normal again! Hopefully it’s nothing too serious.
+DOCTOR: Okay, I'll order a complete blood count and a basic metabolic panel. The nurse will draw some blood shortly. We'll get the results back in a couple of days. In the meantime, continue to rest and stay hydrated. If your symptoms worsen - fever, severe headache, difficulty breathing - go to the emergency room immediately, understand?
+PATIENT: Okay, I understand. Rest, hydrate, and watch out for worse symptoms. A couple of days for the results, got it. Thank you, Doctor Osga. I really appreciate you looking into this.
+DOCTOR: Yes, yes. Don't mention it. It's probably nothing. The nurse will be with you shortly. I have other patients waiting.
+PATIENT: Alright. Thank you again. I'll go wait for the nurse then.
+DOCTOR: Good.
+PATIENT: .

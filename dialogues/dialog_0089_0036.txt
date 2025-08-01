@@ -1,0 +1,32 @@
+DOCTOR: Hi Kiwane, good to meet you. I'm Dr. Roseburrough. So, what brings you in today?
+PATIENT: Good day to you, Doctor. I am here for... the check-up before the insurance starts. Medicare sent me. Is that correct? I do not wish to be without coverage.
+DOCTOR: Yes, that’s perfectly alright, and very proactive of you! It sounds like you’re scheduling a welcome-to-Medicare visit. I can definitely help with that. Just to confirm, your name is Kiwane Barban, and you’re 28 years old, correct?
+PATIENT: Yes, that is right. Kiwane Barban. Twenty-eight. It is… important to have the details correct, you understand. Mistakes can cause problems. I hope you will write everything down carefully.
+DOCTOR: Absolutely, I understand completely. Precision is key. I have a perfect memory for details, and I'll be meticulously documenting everything. To start, can you tell me a little about your overall health?
+PATIENT: Overall health? Hmm. I… work. I work in the food factory. It is… physical work. Lifting boxes, mostly. I eat when I can. Mostly rice and… things. It keeps me going. I do not get sick often, if that is what you mean. Not like a baby, always coughing.
+DOCTOR: Okay, that’s good to know. Physical work is important to tell me. So, you generally feel healthy, and aren't frequently ill. Any injuries from work?
+PATIENT: Injuries? Sometimes my back hurts. From the lifting, you see? It is not… a serious injury. Just aches. I rub it with… a cream my cousin brought from the city. It helps a little. I do not go to the doctor for aches. Waste of time, if it is just an ache.
+DOCTOR: I understand. Back aches with lifting… and you manage it with a cream. Okay. Have you ever seen a doctor for anything serious – like a broken bone, a hospital stay, or a long-term illness?
+PATIENT: No. Never broken anything. Not been to the hospital, thankfully. My mother… she had problems with her heart, many years ago. But that was in Yemen, not here. I… I have been quite healthy, I assure you. I am a strong man. Do not need doctors often.
+DOCTOR: That’s good to hear, Kiwane. It's helpful to know your mother had heart issues, though. We’ll make a note of that family history. Are you currently taking any medications, even over-the-counter ones, or any vitamins or supplements?
+PATIENT: No. Nothing. I do not take pills. Not necessary. I drink water. And… sometimes tea. My cousin says vitamins are a waste of money. Just makes you… go to the bathroom more. I agree with him.
+DOCTOR: Okay, no medications or supplements. Good. Do you have any allergies to anything – food, medications, pollen, anything at all?
+PATIENT: Allergies? No. I eat everything. Rice, meat, fish… I have never had a problem. The sun is hot, of course. But that is not an allergy. Everyone feels the sun. I do not react… badly. No rashes, no… breathing problems. Nothing.
+DOCTOR: Excellent. No known allergies. Now, just a few questions about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No. Absolutely not. Smoking is foolish. Alcohol is… for people with no self-control. And drugs… that is for the weak. I work hard. I do not need such things. It is a waste of time and money, you understand. A strong man needs his strength, not… distractions.
+DOCTOR: I understand completely, Kiwane. That’s good to hear. Now, I'd like to do a quick physical exam, just to get a baseline. Is that alright with you?
+PATIENT: Yes, yes. Do what you need to do, Doctor. Quickly, if you please. I have things to do later. But… I do not like needles. I must warn you about that. I do not faint, but… I do not enjoy them. Is there much… poking involved?
+DOCTOR: Okay, I understand about the needles. We can absolutely minimize that. I promise we'll only do what's necessary. We'll start with your height and weight – just to confirm what we have on file. Then I'll listen to your heart and lungs, check your blood pressure, and do a basic visual exam. No unnecessary poking, I promise. Could you step on the scale for me, please?
+PATIENT: Very well. I am a tall man, as you can see. A proper height is important for a man. Not like these… smaller people. Make sure you write it down correctly.
+DOCTOR: 188 centimeters, 90 kilograms. That’s correct. If you could sit up on the table for me now?
+PATIENT: Yes, yes. It is… cold. And hard. Do not take too long, Doctor. I am not a comfortable man when sitting like this. Is this where the poking begins?
+DOCTOR: No poking yet! I’m just going to listen to your heart and lungs. It won’t take long. Take a deep breath for me… and exhale slowly. Heart sounds are regular, lungs are clear. Blood pressure next.
+PATIENT: Very well. It is… unsettling, having someone listen to you like this. I can hear my own heart beating, of course. Is everything alright? You are not making a… worried face, are you?
+DOCTOR: Everything sounds perfectly normal, Kiwane. Blood pressure is good. Just a quick look in your ears and throat now, okay?
+PATIENT: Fine. Quickly, please. I do not enjoy things in my ears. And do not touch my throat too much. It is… sensitive. A man needs his voice, you understand. Is this all? I thought there would be more… poking.
+DOCTOR: Ears are clear, throat looks normal. And that's all for the physical exam. No poking, as promised! Everything looks good. Now, do you have any concerns or questions for me at this point?
+PATIENT: No. No concerns. No questions. It was… unremarkable. A waste of time, perhaps, but… Medicare requires it, I suppose. Is there a form to sign, confirming this… unremarkable examination? I prefer to be finished with this quickly.
+DOCTOR: Yes, there is. Just a few boxes to tick, confirming that we've completed your initial check-up. If you could sign here, please. And then we’re all done. It’s good to have you covered, Kiwane. Do you have any trouble reading the form?
+PATIENT: No. I can read. There. Finished. Now, may I go? I have work to do. This… sitting around and being examined… it is not productive. I prefer to be… active.
+DOCTOR: Absolutely. You’re all set. Here’s a copy of the completed form for your records. And if you ever do have any concerns or questions in the future, please don't hesitate to call and schedule an appointment. Have a good day, Kiwane.
+PATIENT: Good. Thank you. I have things to do. .

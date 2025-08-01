@@ -1,0 +1,73 @@
+DOCTOR: Right. Ms. Fabing, yes. So, tell me, what brings you in today?
+PATIENT: Oh, hi Dr. Dechene. It's just... I need to get some forms filled out. Medicare sent me a bunch and I figured it's easier to do it here with someone who knows what everything means. I get kinda lost in all the official language, you know?
+DOCTOR: Forms. Of course. It’s always forms. Well, alright. I suppose I can assist. Which forms are causing the most difficulty?
+PATIENT: Um... let me see. There's this one about... my health history, I think? And another one asking about changes to my insurance. They're both pretty long and have a lot of boxes. Honestly, I'm not sure where to start.
+DOCTOR: A general health history and insurance verification. Standard. Honestly, Ms. Fabing, it’s a bit unusual to come to a physician specifically to fill out forms. Most people manage. But, alright. Let’s start with the health history. Do you have any significant medical problems?
+PATIENT: Oh, I know, I know. It feels silly. My husband keeps saying I should just call the Medicare help line, but they're always on hold for hours. And… well, I just thought it'd be easier to ask a real person. Significant medical problems… hmm. I had pneumonia a few years back, maybe five years ago? And I’ve got a little bit of arthritis in my hands, but it’s not too bad. Mostly just aches sometimes. Other than that… I’m pretty healthy, I think.
+DOCTOR: Pneumonia five years ago, and some arthritis in the hands. Do you recall if the pneumonia required hospitalization?
+PATIENT: You know, I think so. It was pretty bad, I remember being really sick and having trouble breathing. I was in the hospital for a few days, I believe. It was at the hospital in Browning, the one on the reservation. I'm not great with dates, though, so "a few days" could be longer, honestly. It was before my arthritis really started bothering me, if that helps.
+DOCTOR: Browning hospital… alright. And this arthritis – is it in both hands?
+PATIENT: Yes, it is. Mostly in my knuckles and the base of my thumbs. It's worse in the mornings, you know? Makes it hard to get things done sometimes. I work with pipes and valves, so it can be a bit of a problem. Not dangerous, just… annoying. I try to take it easy when I can.
+DOCTOR: Alright. So, some hand arthritis affecting function. Do you take any medications for it?
+PATIENT: No, I don’t. I’ve tried some over-the-counter pain relievers, like ibuprofen, when it's really bad. But I don’t take anything regularly. My grandma always said to just “work through it,” which isn’t always helpful, but… I try not to rely on pills if I can help it. Plus, they always make my stomach upset.
+DOCTOR: Alright. No regular medications. Any allergies to medications, food, or anything else?
+PATIENT: Hmm... not that I know of. I've never had a bad reaction to anything. My husband always asks me that question, and I always say no. I've eaten everything, pretty much. And I haven't had any issues with bug bites or anything like that. I don't think I'm allergic to anything, but I can ask my mom, just to be sure. She remembers everything!
+DOCTOR: Very well. Let’s move on to your past surgical history. Have you ever had any surgeries?
+PATIENT: Nope. Never had surgery. I've been pretty lucky, I guess. Just the pneumonia, and that was a long time ago. No operations or anything like that. I’m not a fan of hospitals, so I try to avoid them when I can!
+DOCTOR: No prior surgeries. And your family history?
+PATIENT: Oh, family history... My mom's side, they've had some heart trouble. Her brother had a heart attack a few years back, and she worries about it a lot. And my grandma, on my dad's side, she had diabetes. Other than that… I think everyone else is pretty healthy. It's a big family, so it's hard to keep track of everything. Would you like me to list everyone? I can try, but it’ll be a long list.
+DOCTOR: No, that’s alright. Heart trouble and diabetes noted. Now, briefly, what about your social history?
+PATIENT: Social history? You mean like… what do I do for fun? Well, I work, mostly. And I’m married, like I said. We like to go fishing sometimes, when we have the time. I spend a lot of time with my family, too. We have a big cookout every summer. I don’t really drink or smoke. Is that what you wanted to know?
+DOCTOR: Yes, that's sufficient. Do you have any questions for me at this point?
+PATIENT: No, not really. I think you've got everything I've got. I just appreciate you helping me with these forms. It's a relief to have someone explain it all, you know? Medicare can be so confusing. Do you think we're getting close to being done?
+DOCTOR: We are… progressing. Let me quickly review these notes, and then we can address the forms directly. It shouldn’t take much longer. But please, try to be more precise with dates in the future. It makes things considerably easier.
+PATIENT: Okay, I will. I just… I don't always remember those things. I'm better with remembering faces than dates, I guess. I'll try harder, I promise. Thank you for being patient with me.
+DOCTOR: Alright. So, pneumonia five years ago, arthritis in both hands, no medications, no allergies, no prior surgeries, family history of heart trouble and diabetes. Do you have any chronic pain beyond the arthritis?
+PATIENT: Hmm... not really chronic, but sometimes my back aches after a long day at work. I lift a lot of heavy pipes and valves, you know? It usually goes away after a good night's sleep. Nothing I take anything for, just… soreness. It's part of the job, I guess.
+DOCTOR: Intermittent back pain related to occupation. Alright. Let’s move on to the forms. Do you have them with you?
+PATIENT: Yes, I do! Here they are. It’s this big pile. I think this one is the health history, and this one is the insurance stuff. They look… complicated.
+DOCTOR: Right. Let's start with this health history. Section one… Do you have any history of cancer?
+PATIENT: No, I don’t. Not that I know of. My grandma had some skin cancer, I think, but she had it removed a long time ago. I haven’t had cancer, thankfully. I can check “no” here, right?
+DOCTOR: Yes, check “no.” Next question. Have you ever had a stroke or transient ischemic attack?
+PATIENT: A stroke… no, I haven’t. Never had one. I think my uncle had one, but I don’t think so. Definitely no here. Is this going to take a while? They have so many questions!
+DOCTOR: It will be as long as it needs to be. Now, section three… Do you have any problems with your heart?
+PATIENT: Well… like I said, my mom’s side has some heart trouble. But I don’t have any problems with my heart. At least, not that I know of. I haven’t been diagnosed with anything. I can check “no” here, right? Even though my mom has heart trouble?
+DOCTOR: Yes, check “no.” You are answering for your medical history, not your family’s. Now, do you have any problems with your lungs?
+PATIENT: Hmm… well, I had pneumonia, like we talked about. But I recovered from it. I don’t have any problems with my lungs now. Should I write something about the pneumonia?
+DOCTOR: No. We've documented that. Next question. Do you have any problems with your kidneys?
+PATIENT: No, I don't think so. I've never been told I have any problems with my kidneys. This is a lot of "no" boxes! Is that good?
+DOCTOR: Good. Now, section five… have you ever had diabetes?
+PATIENT: No, I haven't. My grandma on my dad's side had it, but I haven't been diagnosed with diabetes. I can check "no" here, right? Even though my grandma had it? I just want to make sure I'm doing this right!
+DOCTOR: Yes, check “no.” Now, do you have any problems with your liver?
+PATIENT: No, I don't think so. I’ve never been told I have any problems with my liver. I don't even know what my liver does! This is making me feel a little silly, asking all these questions when I don't even know what half of them mean!
+DOCTOR: Just answer to the best of your ability. Now, do you have any problems with your stomach or intestines?
+PATIENT: Well... sometimes my stomach gets upset when I take ibuprofen. But other than that, no. I don't have any problems with my stomach or intestines. Should I write something about the ibuprofen? It’s not really a problem, just… annoying.
+DOCTOR: No. We've documented that. Now, section seven… have you ever had cancer treatment?
+PATIENT: No, never. I've never had cancer, so I've never had cancer treatment. I’m really glad I don’t have to check “yes” to any of these boxes! Are we getting close to being done with this form? It feels like it’s a million pages long!
+DOCTOR: Almost. Now, have you ever had a stroke or transient ischemic attack?
+PATIENT: I think we already answered this one… didn’t we? I said no before. Is this a trick question? I’m getting a little mixed up with all the repeating questions!
+DOCTOR: It appears there is some redundancy in this form. Yes, you answered this previously. Check “no” again. Then we can move on. And please, try to follow along.
+PATIENT: Okay, okay, I'm checking "no" again. Redundancy… that's a fancy word for repeating yourself. Is this form ever going to end?
+DOCTOR: Almost finished. Now, do you have any problems with your eyes or vision?
+PATIENT: Well, I wear glasses, like you can see. But I don’t have any problems with my eyes, really. Just… need a little help seeing far away. Should I write something about the glasses? It's not really a problem, just... a thing I need.
+DOCTOR: No. We've documented that. Now, do you have any problems with your hearing?
+PATIENT: No, I don't think so. I can hear just fine. Sometimes my husband mumbles, but that's his problem, not mine! Are we getting close to the end of this form now? It feels like it's been hours!
+DOCTOR: Almost. Do you have any problems with your teeth or gums?
+PATIENT: Well... I had a filling a few years ago, but other than that, no. My teeth are pretty good, I think. I brush them every day! Should I write something about the filling? It was a long time ago, and it didn't really hurt.
+DOCTOR: No. We've documented that. Now, do you have any problems with your skin?
+PATIENT: No, not really. I get a little dry in the winter, but that's all. I use lotion. Is this form ever going to end? It feels like it’s going on forever!
+DOCTOR: Almost there. Now, do you have any problems with your mental health?
+PATIENT: Um… no. I mean, I get stressed sometimes, like everyone does. But I don’t have any… problems. Is this a sensitive question?
+DOCTOR: Alright. That concludes this section. Please sign and date at the bottom. We can move on to the insurance verification form now. And please, try to be accurate. It will save us both time.
+PATIENT: Okay, here you go. Finally done with that one! Insurance verification, huh? This one looks even more complicated. Hopefully, it won't take as long.
+DOCTOR: Do you have Medicare Part A?
+PATIENT: Um… I think so. Yes, I do. I get a card in the mail every year. I think I have the basic Medicare, you know? The one everyone gets when they turn 65. Is that Part A?
+DOCTOR: Do you have Medicare Part B?
+PATIENT: Yes, I think so too. I get a different card for that one. It covers doctor's visits and stuff, right? I think I have both parts, A and B. I’m pretty sure, anyway. Is that what you need to know?
+DOCTOR: Do you have a Medicare Advantage plan?
+PATIENT: A Medicare Advantage plan? I don't think so. I've never signed up for anything extra. I just have the regular Medicare, like I said. Does that mean I don't have this plan? It's so confusing!
+DOCTOR: Do you have any other insurance coverage besides Medicare?
+PATIENT: Um... no, I don't think so. My husband has insurance through his work, but it doesn't cover me. Just Medicare. I think that's everything. Hopefully, I'm not missing anything! Are we getting close to being done now?
+DOCTOR: Alright. That concludes this section. Please sign and date at the bottom. And I think, finally, we are finished. Now, if you’ll excuse me, I have other patients to see. Please have a seat and I’ll have someone check you out at the front desk.
+PATIENT: Okay, here you go. Finally! Thank you so much for your help, Dr. Dechene. I really appreciate it. I know it was a lot of questions, and I probably wasn't very clear sometimes. Have a good day.
+DOCTOR: .

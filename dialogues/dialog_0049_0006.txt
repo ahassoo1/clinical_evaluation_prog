@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Ms. Weichers. I’m Dr. Nestingen. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Thank you for seeing me. Well… it’s a bit embarrassing, but I’ve been coughing up some blood. Not a lot, but enough to worry me. It happened a few times now, over the last week or so.
+DOCTOR: Coughing up blood, you say. Hmm. And how much blood, exactly?
+PATIENT: It’s… difficult to say exactly. It’s not like a lot, you understand? More like… streaks. Red streaks in my spit when I cough. Sometimes it’s just a little, sometimes a bit more. Maybe a teaspoon each time? I don’t know if that makes sense. It's not enough to fill a teaspoon every time, but… around that much, maybe. I'm sorry, I am not good at measuring.
+DOCTOR: A teaspoon… right. And this has been happening for a week, you said?
+PATIENT: Yes, about a week. Maybe a little longer. It started… I think around July 26th? It was after a particularly bad cold, but the cold is gone now. That's why I waited to come in… I thought maybe it was just leftover from the cold. But it hasn't stopped.
+DOCTOR: And you said you had a cold prior to this?
+PATIENT: Yes, that is right. Just a normal cold, you know? Runny nose, sore throat… nothing too serious. I didn’t go to the doctor for it. I just rested and drank a lot of tea. It lasted maybe five or six days, and I felt much better. Then, a few days later, this started. That’s why I was hoping it was just… part of getting over the cold.
+DOCTOR: Alright. Have you experienced any other symptoms alongside this… blood-streaked cough?
+PATIENT: Hmm… let me think. No fever, no chills. No chest pain, thankfully. I have been a little tired, but I always feel a little tired. And maybe a little more short of breath than usual, but I also walk a lot… so I thought that was just from that. It’s hard to say. No weight loss, I don’t think so.
+DOCTOR: And have you had any night sweats?
+PATIENT: Night sweats? No… not that I’ve noticed. I usually sleep very well. I don't wake up feeling sweaty. I have a fan, because sometimes it gets warm, but that's just the summer, you understand? I don't wake up because I'm hot.
+DOCTOR: And your past medical history?
+PATIENT: Well… I don't have much of one, thankfully. I had chickenpox when I was a child, and I broke my arm once when I was younger. But nothing serious, nothing chronic. My husband… my late husband… he had high blood pressure, but I don’t. I try to eat healthy, and I walk every day. I lost him three years ago.
+DOCTOR: And any surgeries?
+PATIENT: No, never any surgeries. I’ve been very lucky. Just the broken arm when I was small, and that didn't need surgery, just a cast. I really haven’t had much trouble with my health, until now. This is… worrying me.
+DOCTOR: Alright. And family history?
+PATIENT: Hmm… that’s a little difficult. My family is… mostly in Japan. We don’t talk very often. I know my father had some kind of stomach trouble when he was older, but I don’t know the details. My mother… she lived a very long life, very healthy. I don't remember her being sick with anything serious. I wish I knew more, but we weren't very close, if I'm honest.
+DOCTOR: Very well. Any allergies to medications?
+PATIENT: No, not that I know of. I’ve never really taken much medicine. I try to avoid it if I can. I had a reaction to penicillin when I was a child, a small rash, but that was a long time ago. I haven't taken it since. Otherwise, no allergies that I know of.
+DOCTOR: And are you currently taking any medications at all?
+PATIENT: No, Doctor. Nothing at all. Just vitamins, sometimes. A multivitamin, when I remember. But that’s it. I really don’t like taking pills, if I can help it.
+DOCTOR: Alright. I'm going to listen to your lungs now. Please take a deep breath for me. And then exhale slowly.
+PATIENT: Okay, Doctor. Yes, of course. Is that alright? I hope my breathing is okay… I am a little nervous now.
+DOCTOR: Your breathing sounds… slightly diminished on the lower left lobe. Not significantly, but worth noting. Any pain when I press here?
+PATIENT: No, that doesn’t hurt. A little pressure, of course, but no sharp pain. That feels… normal, I think. It’s been a few years since a doctor listened to my lungs, so I’m not very good at knowing what's normal! But that doesn't hurt.
+DOCTOR: Alright. We should get a chest X-ray to rule out anything serious. It’s a standard procedure, of course, but better safe than sorry. It’s possible this is just a lingering effect of the cold, but we need to see what’s going on.
+PATIENT: That sounds… sensible. Yes, if that's what you think is best, Doctor. I'd rather be safe. An X-ray… okay. Will it… hurt? And will I be exposed to a lot of… radiation? I've heard stories.
+DOCTOR: The radiation exposure is minimal, Ms. Weichers. It's a very small dose and the benefit of ruling out anything serious far outweighs the risk. It won’t hurt, it’s just a quick picture. The technician will explain everything. I'll write you a referral order now. Then we can discuss the results when they are available.
+PATIENT: Okay. Minimal radiation… that’s good. I appreciate you explaining that. A referral order… Alright. If you think that’s the best course of action, Doctor, then I trust your judgment. Thank you. When will I hear about the results? And… what am I looking for, if anything? I don’t want to worry unnecessarily.
+DOCTOR: It usually takes a day or two for the results to come back. As for what to look for... frankly, Ms. Weichers, it’s best not to try and interpret the results yourself. Leave that to me. If there's anything concerning, I will contact you immediately. Otherwise, we'll discuss it during your follow-up appointment. Now, do you have any other questions for me at this time?
+PATIENT: No… I think that covers everything. You’ve been very thorough, Doctor. I will wait for the results, then. And I will try not to worry too much. Thank you again for seeing me.
+DOCTOR: Very well. The nurse will provide you with the referral order and instructions for the X-ray. Have a good day, Ms. Weichers.

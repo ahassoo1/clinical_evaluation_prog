@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Benites. I’m Dr. Nestingen. So, what brings you in today?
+PATIENT: Good morning, Doctor. It is nice to meet you. Well, I am here for this… telephone visit. My son, he make the appointment for me. I not very good with these things, you know? I just want to make sure everything is okay.
+DOCTOR: A telephone visit… yes. Your son scheduled this. Right. And what exactly is it you’d like me to check?
+PATIENT: Oh. Yes, my son, Tomas. He worry about my… everything. I feel a little tired, you know? And my hands, they are… not so strong like before. Sometimes, they shake a little. It is not big, but… it bother me. Is that okay to say?
+DOCTOR: Tiredness and some hand weakness…and shaking. Okay. And how long have you been feeling this tiredness?
+PATIENT: Hmm… maybe six months, Doctor? It come slowly, not all at once. At first, I think just old age! But it not go away. And the hands, maybe three months, I notice them more. It is harder to… to open jars, for example. Little things.
+DOCTOR: Six months of fatigue, three months of hand weakness… are you experiencing any pain in your hands?
+PATIENT: No, no pain. Not really. Just… difficult to hold things. Like my tools at work. I am mechanic, you know? I fix cars. It is hard sometimes now. Not like before.
+DOCTOR: A mechanic… that requires quite a bit of hand strength. And are you noticing this weakness anywhere else besides your hands?
+PATIENT: Hmm… maybe my legs too? Not so much, but sometimes I feel a little… heavy. Like they are tired after walk a little bit. But I walk every day with my dog, little schnauzer, so I not think much of it. Is that making sense?
+DOCTOR: Fatigue, hand weakness, some leg fatigue… Okay. And have you noticed any changes in your appetite or weight recently?
+PATIENT: Oh, yes. Maybe… I eat less now. Not much, but not like before. And I think… I think I lose a little weight, yes. Tomas say I look thinner, he worry so much. But I not sure. I not weigh myself often.
+DOCTOR: Alright. And are you experiencing any trouble with your memory or concentration?
+PATIENT: Oh… sometimes. I forget little things, you know? Where I put my keys, or what I was saying. But who not forget things? It is getting old, Doctor. I not sure if it is something important. I not think so. Is that… worry you?
+DOCTOR: It's good you're being observant, Ms. Benites. I'm going to do a brief physical exam. Just standard things to get a better picture. Could you please sit up and let me listen to your heart and lungs?
+PATIENT: Yes, of course, Doctor. Whatever you need. I hope I not too messy. I just come from work, you know. Lots of grease.
+DOCTOR: Your heart sounds regular, a slightly fast rhythm, but not alarming. Lungs sound clear. Now, can you squeeze my hands?
+PATIENT: Yes, of course. Here. I try to squeeze tight. It is not as strong like before, you know. I am sorry. I hope it is okay.
+DOCTOR: Your grip is… diminished, compared to what it should be. A little weaker on the left side. Now, could you please rest your arms at your sides and let me check your reflexes?
+PATIENT: Yes, Doctor. Whatever you need. I not so good with these things. I hope I not mess it up. What do I need to do? Just relax?
+DOCTOR: Reflexes are a bit diminished as well, not drastically, but noticeable. Alright, Ms. Benites. I’m going to order some blood work. It'll give us a better idea of what’s going on. We need to check your vitamin levels, thyroid function, and basic metabolic panel.
+PATIENT: Okay, Doctor. Blood work? That is… alright. Whatever you think is best. Will it be painful? I not very good with needles, you know. Tomas always has to hold my hand.
+DOCTOR: It's a standard blood draw, Ms. Benites. A little pinch, that’s all. It's quick. And then we’ll have the results in a few days. In the meantime, I'm going to refer you to a neurologist. It's best to get a specialist opinion, given your symptoms.
+PATIENT: Oh. A neurologist? What is that? Is something very bad? I just feel a little tired and my hands are weak, you know. Tomas… he always worry so much. I hope it is not too serious, Doctor. .
+DOCTOR: A neurologist specializes in the nervous system, Ms. Benites. It doesn't necessarily mean anything is seriously wrong. It’s simply a precaution. Given your fatigue, weakness, and diminished reflexes, it’s best to rule out any neurological causes. We’ll get the blood work back, then I'll discuss the results with you and we'll go from there. Here's a referral slip to Dr. Chen. He's a good neurologist. Try not to worry too much. We are just being thorough. Do you have any questions for me?

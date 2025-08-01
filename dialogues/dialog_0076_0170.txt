@@ -1,0 +1,23 @@
+DOCTOR: Alright, Mr. Putney, good to see you. Though, honestly, I see a lot of faces... makes it hard to keep track. Anyway, you're here today because...?
+PATIENT: Yeah, hi. It's... for the life insurance thing. The exam. I just need to get it over with, if that's okay. Don’t really have all day.
+DOCTOR: Right, life insurance. Of course. Look, I understand your time is valuable, but these things require a certain level of... thoroughness. I need some information to fill out the paperwork, alright?
+PATIENT: Yeah, okay. Whatever you need. Just... ask it all at once, maybe? So I don’t have to keep answering questions.
+DOCTOR: Fine. Let’s try this. Any major medical problems – heart issues, diabetes, anything like that?
+PATIENT: Not really. I had high blood pressure for a little while, but the doctor said it was okay now. Just gotta watch the salt, he said. Otherwise, I’m pretty good, I think. I haven't been to a doctor in… a while. Honestly.
+DOCTOR: High blood pressure…right. And any surgeries?
+PATIENT: Nope. Never had any surgeries. Just the usual stuff, you know? Broken arm when I was a kid, but that healed up fine. Nothing serious.
+DOCTOR: Alright. Any family history of… significant illness?
+PATIENT: Um… my mom, she had… something with her heart, I think. But she lived to be pretty old, so it couldn’t have been too bad. My dad… he smoked a lot, but I don’t know what that did to him, exactly. It was a long time ago. Is that what you need to know?
+DOCTOR: Alright, alright. Let's move on. Do you smoke, drink alcohol, or use any… recreational substances?
+PATIENT: No, no, and no. Never been much of a drinker. Tried smoking once, didn't like it. And definitely not… that other stuff. Just water and coffee for me, mostly. Can we hurry this up?
+DOCTOR: Look, I'm getting what I need here. Allergies?
+PATIENT: Just… dust, I guess. Makes me sneeze sometimes. Nothing major. I don’t carry an EpiPen or anything.
+DOCTOR: Medications?
+PATIENT: Just a little something for my blood pressure, sometimes. But like I said, the doctor took me off it a while back. I mostly just take vitamins, if that counts. A multi-vitamin, nothing fancy.
+DOCTOR: Alright. Let's do a quick physical exam, then. Just to check everything. Blood pressure, pulse… usual stuff. Sit up straight.
+PATIENT: Fine. Just… try to be quick, okay? I got things to do.
+DOCTOR: 140 over 90… not terrible, but not great. Pulse is… 78. Regular. Lungs clear. Reflexes… adequate. Alright. Everything seems okay. We'll need a urine sample and blood work, of course. The lab is down the hall. Then I can sign off on the forms.
+PATIENT: Urine sample and blood work… great. Just tell me where to go, and I’ll get it done. Is that all? Because if that's all, I can…
+DOCTOR: Down the hall, first door on the left. They'll give you instructions. And yes, that is all. Just get that done quickly. I have other patients waiting.
+PATIENT: Okay, okay. Thanks. .
+DOCTOR: .

@@ -1,0 +1,28 @@
+DOCTOR: Hello Lucia, it’s lovely to meet you. I’m Dr. Kamahele. So, tell me, what brings you in to see me today?
+PATIENT: Hi Doctor. Is okay to call you Doctor Kamahele? I come... because of the belching. It’s… a lot. Like, too much.
+DOCTOR: Yes, please do, Doctor Kamahele is perfect. Okay, “a lot” of belching. I understand. And when did this start, roughly?
+PATIENT: Hmm… maybe a month ago? Not sure exactly. It just… started happening more and more. Before, just sometimes after soda. Now… after anything, really. Even water! It’s strange.
+DOCTOR: Okay, so it's progressively gotten worse over the last month, even with something as simple as water. Are you having any other symptoms along with the belching?
+PATIENT: Other… symptoms? Let me think. Not really… my tummy sometimes feels a little full, even when I don’t eat much. And maybe… a little bit of a bad smell after the belching. Sorry! It’s not nice to talk about.
+DOCTOR: Oh, don’t apologize at all, Lucia! It’s my job to hear about these things, even the not-so-pleasant ones. Okay, so some fullness and a noticeable odor with the belching. Has anything changed in your diet lately?
+PATIENT: Not really… I eat mostly the same. Rice, beans, chicken… sometimes fish. I drink a lot of water, like I said. Maybe I eat a little more bread now than before, because it’s easy. But not a lot more. I don’t drink milk or anything.
+DOCTOR: Okay, mostly a consistent diet then, with maybe a slight increase in bread. And you mentioned you don’t drink milk – do you have any trouble digesting anything else?
+PATIENT: No, not really. Everything usually goes okay. Sometimes, if I eat too much spicy food, my tummy hurts a little. But that’s normal, right? I don't have trouble with… with anything else.
+DOCTOR: Yes, some stomach upset with spicy food is very common. Okay, so no known food sensitivities besides that. Now, are you experiencing any heartburn, nausea, vomiting, or changes in your bowel movements?
+PATIENT: Heartburn… no, not really. Sometimes a little bit warm in my chest, but not like… burning. Nausea… no. I don’t throw up. Bowel movements… umm… they are okay. Regular. Maybe a little… loose sometimes. But not always.
+DOCTOR: Okay, so mild warmth in the chest, no nausea or vomiting, and occasionally loose stools. Let’s talk a little about your medical history, if you don’t mind. Have you been diagnosed with any medical conditions in the past?
+PATIENT: No, Doctor. Nothing. I never really get sick. A little cold sometimes, but that's it. I don’t take any medicine, ever.
+DOCTOR: That’s good to know! No prior medical conditions and you don't take any medications. And have any family members had similar stomach issues, or any other significant medical problems?
+PATIENT: Hmm… my Mama, she used to get heartburn a lot, but she ate a lot of spicy food. And my uncle… he had problems with his tummy, but I don't know what. Something with… with feeling sick all the time. But nobody else really.
+DOCTOR: Okay, some heartburn in your mother and stomach issues in your uncle, but nothing else significant. Alright. I'd like to listen to your tummy with my stethoscope, if that's okay. And maybe gently press on it to see if anything feels tender. Is that alright with you?
+PATIENT: Yes, that is okay, Doctor. I trust you. Do what you need to do.
+DOCTOR: Thank you. Okay. I'm hearing normal bowel sounds. A little tenderness here… and here… but nothing alarming. It doesn’t seem to be sharply painful, just a little uncomfortable. Based on what you've told me, and what I’m finding with the exam, it sounds like you might be experiencing some excess gas, possibly related to the bread you've been eating, or just a temporary change in your gut bacteria. It’s very common.
+PATIENT: Gas? Is okay? I just worried something serious was wrong.
+DOCTOR: It is okay, Lucia. It's very common, and rarely a sign of anything serious. Sometimes simple changes in diet or lifestyle can make a big difference. To be on the safe side, I'd like to suggest a few things. First, let’s try reducing the amount of bread you eat for a week or two, and see if that helps. Also, try eating smaller, more frequent meals instead of large ones. And avoid carbonated drinks, if you drink them. Would you be willing to try that?
+PATIENT: Yes, I can try that, Doctor. Less bread… okay. I don’t drink soda very much, but I will try to not drink it at all. Smaller meals… okay, that I can do. Is there anything else?
+DOCTOR: That's great. And if you're feeling stressed or anxious, that can sometimes contribute to gas. Try to find some ways to relax – even just taking a few deep breaths can help. If your symptoms don’t improve after a week or two of making these changes, or if you develop any new symptoms like fever, weight loss, or blood in your stool, please come back to see me right away. It's always best to rule out anything more serious. Does that sound good?
+PATIENT: Yes, that sounds good, Doctor Kamahele. No fever, no blood… I will remember. I hope it is just the bread. Thank you for helping me.
+DOCTOR: You’re very welcome, Lucia. I suspect it is something simple, and we’ve taken a good first step towards managing it. I'm glad I could help ease your worries. I'll print out a summary of our conversation and these recommendations for you. And just to reiterate, if anything changes or worsens, don’t hesitate to come back. Do you have any questions for me before we finish?
+PATIENT: No, Doctor, I think I am okay. You explained everything very clearly. Thank you again.
+DOCTOR: You’re very welcome, Lucia. I'm glad I could help. Take care, and feel better! .
+PATIENT: Okay, Doctor, you too! Thank you again. Bye bye.

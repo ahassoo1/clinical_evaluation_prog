@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Ms. Fabing. I'm Dr. Gorga. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just need some forms filled out, really. Medicare's asking for a check-up on file, I think. Nothing's wrong, just paperwork.
+DOCTOR: Okay, paperwork…right. Still, let’s just go through a quick check-up, just to be thorough. You never know. It's good practice, eh?
+PATIENT: Sounds good to me, Doctor. I don't mind a quick look-over if it makes things easier. I appreciate you taking the time.
+DOCTOR: Absolutely. Alright, let's start with a little bit of your medical history. Have you had any major illnesses or surgeries in the past?
+PATIENT: Hmm… let me think. I broke my wrist when I was a kid, climbing a tree. And… I had my tonsils out when I was little, too. Other than that, nothing major, I don't think. I get the usual colds and stuff, but nothing serious. Does that count?
+DOCTOR: Broken wrist…tonsils… okay. Colds don't really count, no. Alright. And what about your family?
+PATIENT: My mom had some trouble with her heart when she got older. And my grandpa on my dad’s side, he had diabetes. That's about all I know, really. We didn’t really talk about health much when I was growing up. It wasn’t something we focused on.
+DOCTOR: Heart trouble… diabetes… Okay. That's good to know. And are you currently taking any medications?
+PATIENT: Nope, not a single one. I try to stay healthy. Mostly just eat good food and get enough sleep when I can. Working with pipes all day can be tiring, though.
+DOCTOR: No medications… alright. And any allergies?
+PATIENT: Nope, no allergies that I know of. I can eat whatever, pretty much. Never had a reaction to anything. Lucky, I guess!
+DOCTOR: Alright… good. Now, just to finish up the history part... do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh, no, not me! Never touched a cigarette in my life. I don't drink much, maybe a glass of wine with dinner on special occasions. And definitely no drugs. Never been my style. I need a clear head for my job, you know? It's important.
+DOCTOR: Okay, good, good. Now, let’s do a quick physical exam. Just the basics, okay?
+PATIENT: Sounds good, Doctor. Whatever you need. Where do we start?
+DOCTOR: Alright, if you could just hop up on the table for me. I'll start with your blood pressure and pulse. Then we’ll listen to your heart and lungs, okay?
+PATIENT: Okay, no problem. Go ahead whenever you're ready. It's a little cold on this paper, though! Is it always this chilly in here?
+DOCTOR: Blood pressure is 120 over 80. Pulse is 72, regular. Good. Heart sounds are normal. Lungs are clear. Alright, just taking a listen to your lungs again… everything sounds good. Any shortness of breath or chest pain recently?
+PATIENT: Nope, not a bit. Been feeling pretty good, actually. A little tired at the end of the day, like I said, but nothing I haven't dealt with before. Working with all those heavy pipes takes it out of you, I suppose.
+DOCTOR: Alright. Throat looks clear, no redness. Ears look good too. Abdomen is soft, no tenderness. Everything seems okay… just going through the motions to get the paperwork done, really. But, just to be thorough, I'll order a basic blood panel. Just to check cholesterol and blood sugar, okay?
+PATIENT: That sounds sensible, Doctor. A little extra never hurts, right? Blood panel is fine. Just let me know if anything comes back weird, okay? I appreciate you being so thorough, even if it is just for paperwork.
+DOCTOR: Absolutely. Routine blood panel ordered. It should be back in a few days. We'll call you if anything's concerning, otherwise we assume it’s all normal. So, that should cover everything for the Medicare paperwork. Do you have any other questions for me?
+PATIENT: Nope, I think that covers everything. You’ve been great, Doctor. I appreciate your time and being so patient with me. It’s good to know everything looks alright. I'm glad I came in.
+DOCTOR: You're very welcome, Ms. Fabing. Glad to help. We’ll be in touch if we find anything in the bloodwork. Have a good day.
+PATIENT: You too, Doctor Gorga! Thanks again.

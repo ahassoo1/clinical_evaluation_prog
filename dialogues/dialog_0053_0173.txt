@@ -1,0 +1,35 @@
+DOCTOR: Alright, Jailenne, good to meet you. So, tell me, what brings you in today?
+PATIENT: Hi, nice to meet you too, Dr. Pitmon. Well, I've been getting chills, and it's kinda bothering me. Not like a fever chill, just... cold. It comes and goes.
+DOCTOR: Hmm, chills. Okay. And how long has this been going on?
+PATIENT: Oh, let me think... maybe about three days now? It started kinda subtle, and yesterday it was definitely more noticeable. I didn’t think much of it at first, honestly, just thought I was a bit cold, but it hasn't really gone away.
+DOCTOR: Right, three days. And besides the chills, are you experiencing anything else?
+PATIENT: Um... now that you mention it, yeah, I've been feeling a little tired, more than usual. And maybe a bit achy, like a mild muscle ache. Nothing awful, just…present. I haven't really been eating much either, not because I don’t want to, just don’t feel very hungry.
+DOCTOR: Okay, tiredness, some muscle aches, and a decreased appetite. Have you noticed any cough, sore throat, runny nose, or congestion?
+PATIENT: No, nothing like that. No cough, throat's fine, and my nose is totally clear. That's why I'm a bit puzzled, to be honest. It doesn’t feel like a cold or the flu, you know? Just…cold and tired.
+DOCTOR: Right, no upper respiratory symptoms. And have you had any nausea, vomiting, diarrhea, or abdominal pain?
+PATIENT: No, thankfully. My stomach’s been totally fine. No problems there at all. Everything’s…normal, except for feeling cold and tired like I said. It's a bit strange.
+DOCTOR: Alright. And just to get a full picture, have you traveled anywhere recently?
+PATIENT: No, not at all. I haven't left the city in months, actually. Work's been pretty busy, so it's been work, home, work. Nothing exciting, sadly!
+DOCTOR: Okay, good to know. Any known exposure to anyone who has been sick recently?
+PATIENT: Hmm… not that I’m aware of. A coworker mentioned her kid had a little cold last week, but I didn’t have close contact with her. Just said a quick hello in the hallway, that’s about it. Nothing major. It’s a pretty big office, you know?
+DOCTOR: Alright. Let’s talk a little about your medical history. Do you have any pre-existing medical conditions?
+PATIENT: Not really. I had asthma when I was a kid, but I outgrew it years ago. Other than that, I’m pretty healthy. I try to eat well and stay active when I can, but work sometimes makes it hard. I see my dentist regularly, of course, and I had all my usual vaccinations. Nothing else I can think of.
+DOCTOR: Okay, no significant medical history other than childhood asthma. Any surgeries in the past?
+PATIENT: Nope, never had any surgeries. I’m pretty lucky, I guess! I've avoided the operating room so far, thank goodness. Just a few fillings here and there at the dentist.
+DOCTOR: Alright. And what about your family?
+PATIENT: Um… my mom has high blood pressure, and my dad had diabetes, but that's about it. Nothing too serious on either side, as far as I know. And I don’t have any siblings, so that’s it really. Mostly healthy people, thankfully.
+DOCTOR: Okay. And do you have any allergies to medications, food, or anything else?
+PATIENT: No allergies that I know of! I've tried a lot of different foods and medications over the years, and nothing's ever bothered me. That's one thing I don’t have to worry about, thankfully!
+DOCTOR: Alright, good. And are you currently taking any medications, vitamins, or supplements?
+PATIENT: Just a multivitamin, really. Nothing else. I try to get most of my nutrients from food, but I take a multivitamin just to be on the safe side, especially with the way my schedule is. It's nothing fancy, just a standard one from the drugstore.
+DOCTOR: Okay. Let’s do a quick physical exam. I’m going to listen to your heart and lungs, check your temperature, and feel your abdomen. Is that alright?
+PATIENT: Yes, that's perfectly fine. Go ahead. I'm ready when you are. I’m a bit chilly, though, so maybe start with the heart and lungs? Then I can warm up a bit while we do the rest.
+DOCTOR: Alright. Heart sounds are regular, no murmurs detected. Lungs are clear to auscultation bilaterally. No wheezes or crackles. Temperature is 99.1 Fahrenheit. Abdomen is soft, non-tender, no guarding. Seems normal so far. I’m going to check your lymph nodes now.
+PATIENT: Okay, good to hear everything seems normal so far. Lymph nodes… okay, that's fine. I don't think I've ever really had those checked before, but I'm happy to. Just let me know if anything feels weird, right?
+DOCTOR: Lymph nodes are not enlarged. Now, I’m going to check your throat and ears just to be thorough. Ears look normal. No signs of infection. Throat is clear. No redness or swelling. Overall, the physical exam is pretty unremarkable. It’s still puzzling why you’re feeling this way. We can order some basic blood work to rule out a few things. Does that sound alright?
+PATIENT: Okay, that all sounds good. I’m glad everything looks normal, but yeah, I agree, it’s still strange. Blood work sounds like a good idea. Rule out whatever we can, right? Is it just a standard test? Will it take long to get the results?
+DOCTOR: Yes, it's a standard Complete Blood Count and a basic metabolic panel. It’ll check your white blood cell count, electrolytes, kidney function, and some other things. Should give us a better idea if there’s an infection or anything else going on. It usually takes 24-48 hours for the results to come back. I’ll have the lab technician draw the blood now, and we’ll schedule a follow-up appointment to discuss the results. Does that work for you?
+PATIENT: Okay, that sounds good. 24-48 hours is fine. I can definitely work with that. And a follow-up appointment... perfect. Just let me know what day works best for you when you've got the results. I trust your judgement, Dr. Pitmon. Thank you.
+DOCTOR: Alright, good. I’ll have the lab technician come in and draw your blood. After that, the nurse will schedule your follow-up appointment. In the meantime, I recommend you get plenty of rest and stay hydrated. If your symptoms worsen, feel free to contact the clinic. Hopefully, it’s just a minor viral infection and you’ll be feeling better soon. The lab technician will be right with you.
+PATIENT: Okay, thank you so much, Dr. Pitmon. I appreciate your help. I'll definitely rest and drink plenty of water. And I’ll contact the clinic if anything gets worse. Have a good day!
+DOCTOR: You’re very welcome, Jailenne. I hope you feel better soon. Have a good day as well. And don't hesitate to reach out if you need anything.

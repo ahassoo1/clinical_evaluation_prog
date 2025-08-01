@@ -1,0 +1,25 @@
+DOCTOR: Right. Well, Mr. McKinnon, let's get this over with. What brings you in today?
+PATIENT: Muscle weakness, Doctor. It's... well, it's been getting worse for a few weeks now. Feels like I don't have the strength I used to, especially in my arms and legs. It’s making work difficult, and that’s… important.
+DOCTOR: “A few weeks,” you say. Alright. And what kind of work do you do?
+PATIENT: I’m an insurance appraiser – auto damage. Basically, I look at wrecked cars and figure out how much they're worth, how much the repairs will cost. Lots of walking around, getting pictures, bending down… things like that. It's physical, you know? It was easy, anyway.
+DOCTOR: Insurance appraiser...right. And this weakness – is it all over, or is it worse in certain areas?
+PATIENT: It's definitely worse in my arms and legs, like I said. But… I’d say it's pretty much everywhere, just… more noticeable in those spots. Even holding something heavy, like a toolbox, feels harder now. It's not a sudden thing, but it’s… concerning. I don't want it to get to the point where I can't do my job.
+DOCTOR: Hmm. Any pain associated with it?
+PATIENT: No, not really pain. It’s not like a sharp ache or anything. More of a… tiredness. Like my muscles just give out quicker than they used to. It’s hard to explain. It just feels weak, you know? Like trying to lift something heavier than it actually is. Honestly, I thought it was just getting older, but it’s… it’s happening faster than it should, maybe?
+DOCTOR: Alright. And have you noticed anything else?
+PATIENT: Anything else…? Let me think. I’ve been… more tired overall, I guess. Not just the muscle tiredness. Just… run down. And, this is going to sound strange, but I've been a little more clumsy than usual. Dropping things, bumping into stuff. Nothing major, but… yeah. Is that important?
+DOCTOR: Clumsiness...Okay. Any fever, chills, night sweats?
+PATIENT: No, no fever or chills. Definitely no night sweats. I haven't been sick or anything like that, Doctor. Just… tired and weak. This isn't making any sense, is it? I feel like I'm not explaining it very well. I just want to know what's wrong.
+DOCTOR: Right. Well, let's just do a quick exam, shall we?
+PATIENT: Okay, yeah, sure. Whatever you think is best, Doctor. Just… let me know if you need me to do anything special. I’m not… a fan of doctors, if you don’t mind me saying. But I need to get this sorted out.
+DOCTOR: Just standard stuff. Please, sit here. I’ll need you to lift your arms and legs against my resistance, and follow my directions. Don't make it harder than it needs to be.
+PATIENT: Alright. I’ll try. Just… go easy on me, okay? I’m not exactly in peak physical condition right now, as you can probably tell. And… what exactly are you looking for? Is this something serious?
+DOCTOR: We'll see. Now, relax your arm. Good. Now, try to resist as I push down. Push back. Don't just let me move your arm.
+PATIENT: I’m trying… it’s… harder than it looks. It feels… weak, even pushing back. Like I’m fighting against something else, not just you. Is that… normal?
+DOCTOR: Hmm. Right. Now, legs. Extend your leg. Keep it straight. Don’t let me push it down. And try to relax. You’re tensing up. That makes it harder.
+PATIENT: I’m trying, Doctor, I really am… It's… giving way. It feels like it's going to just… collapse. I don't… I don't think I can hold it much longer. This is… concerning. What is happening?
+DOCTOR: Okay. Right. Well, your reflexes are… diminished. And there’s some weakness in your extremities. Frankly, it's not great. Look, I'm going to order some basic blood work. Complete blood count, electrolytes, a thyroid panel… rule out anything obvious. It could be a number of things, honestly. And you’re uninsured, correct?
+PATIENT: Yes, Doctor, I am. Uninsured. That… complicates things, doesn’t it? What… what could it be? Is it… serious? Should I be worried? I have a job to think about… and… well, I just want to know what’s wrong with me. And if this blood work is going to cost a fortune…
+DOCTOR: It could be a lot of things. Vitamin deficiency, thyroid issue, nerve problem... Honestly, you worry too much. The blood work will give us a starting point. As for cost… there might be some programs available. I’ll have the front desk look into it. Don't expect miracles. Go to the lab across the street. Fasting blood work, so don't eat anything for at least eight hours beforehand. Come back next week with the results. That’s all I can do for you right now. Next.
+PATIENT: Right. Eight hours. Thank you, Doctor. I appreciate you ordering the tests… even if it’s just a starting point. I guess I’ll… go to the lab. .
+DOCTOR: .

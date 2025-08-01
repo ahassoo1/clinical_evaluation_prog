@@ -1,0 +1,22 @@
+DOCTOR: Right. Mrs. Sucich, is it?
+PATIENT: Yes, that's right. Mirriam Sucich. But please, call me Mirriam. Everyone does. It's a bit of a mouthful, isn't it?
+DOCTOR: Yes, yes. Look, I have quite a backlog today, so if we could just get straight to why you're here, that would be…efficient. What seems to be the problem?
+PATIENT: Oh, of course, dear. No problem at all. It’s these hiccups, you see. They started a couple of days ago, and they just won’t stop. It's rather… irritating, to be honest. Especially when I’m trying to have a nice cup of tea.
+DOCTOR: Hiccups, you say. For how long precisely?
+PATIENT: Let me think... started Tuesday, I believe. So, two full days now. And a bit of this morning, too. Not constantly, mind you, but they come and go. Maybe ten or fifteen times an hour, something like that. It's hard to keep track when you're trying not to hiccup!
+DOCTOR: And have you tried…anything?
+PATIENT: Oh, goodness yes. Everything my daughter told me to! Holding my breath, drinking water upside down... even a spoonful of sugar. Nothing seems to work for more than a minute or two. It’s really quite baffling. I haven't had hiccups this stubborn since… well, I can’t even remember when.
+DOCTOR: Alright. Any other symptoms?
+PATIENT: Hmm… that's a good question. Let me think… No, not really. No pain, no heartburn, no feeling sick. Just… hiccups. I’m sleeping alright, eating as usual. It's just… annoying! I suppose I feel a little tired, but that's probably just my age, isn't it?
+DOCTOR: Alright. And you've had no recent changes in medication?
+PATIENT: No, no changes at all. I take a little something for my blood pressure, but I've been on that for years now. Same dosage, same everything. My doctor – Dr. Patel, lovely man – checks it regularly. It's always been stable.
+DOCTOR: Allergies?
+PATIENT: Oh, just a bit of hay fever in the spring, usually. Nothing major. I take a little antihistamine when it flares up, but it hasn't been bad this year. Definitely nothing to do with these hiccups, I don’t think. Is something worrying you, doctor? You seem a bit… focused.
+DOCTOR: No, no. Just… trying to get a clear picture. Alright. Let’s have a quick listen to your chest, just to be safe.
+PATIENT: Oh, alright then. Whatever you think is best, dear. I always trust a doctor's judgement. It’s a bit cold in here, isn't it? But I suppose it has to be for the equipment.
+DOCTOR: Lungs sound… clear. A bit of expected age-related decline, but nothing concerning. Blood pressure is… stable, as you said. Hmmm. It’s probably just… a benign, self-limiting condition. Try deep breathing exercises, sip some water slowly.
+PATIENT: Oh. Well, that’s… good to know it isn’t anything serious. But it's been two days! And I’ve tried all sorts of things. Do you think there's anything else it could be? Or maybe something I could take? I’m just worried it'll go on and on. It’s rather disruptive, you see, especially when I’m visiting my grandchildren. They like to tell me stories, and it’s hard to listen when you’re constantly hiccuping!
+DOCTOR: Look, these things happen. Sometimes the body just… does things. If it persists for more than a week, then we can consider further investigation. But for now, I don't want to subject you to unnecessary tests. Do you have any other complaints?
+PATIENT: Oh. A week... That seems a long time to hiccup! Well, alright then. I suppose I trust your judgement. I don't want to bother you unnecessarily. No, nothing else at the moment. Just these persistent… annoyances. Thank you for seeing me, doctor. Perhaps I’ll just try to distract myself and hope they go away.
+DOCTOR: Yes, well. Try to relax. Next patient. .
+PATIENT: Oh. Very well then. Thank you again, doctor. Good day to you.

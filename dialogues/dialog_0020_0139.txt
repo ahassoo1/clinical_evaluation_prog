@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Mr. Shanor. Welcome to the clinic. I'm Dr. Beinborn. It's nice to meet you. So, to start, could you tell me what brings you in today?
+PATIENT: Morning, Doctor. Just... fitness check. For referee. I need paper say I okay. Quick, if possible? My wife... she passed last year. Not much time.
+DOCTOR: I understand, Mr. Shanor. A fitness check for refereeing – we can definitely do that. And I'm very sorry to hear about your wife. Losing someone is… difficult. To get started, could you tell me a little bit more about what this check needs to cover?
+PATIENT: Uh... running. Some push-ups. Maybe see how far I can... bend? The league, they just want to make sure I not fall over during game. Not fancy. Just...basic. They send form. I bring. Here.
+DOCTOR: Okay, this is helpful. Cardiovascular, strength, and flexibility. We can absolutely cover those. Before we get to the physical part, could you tell me a bit about your general health?
+PATIENT: General health? I... work. Repair furnaces. Hot work. Heavy. Been doing it long time. No big problems. Sometimes back hurt. But always work. Eat rice. And... meat. Not much exercise except work. No smoking. Little bit drink sometimes. That all.
+DOCTOR: Okay, so you do a lot of heavy lifting at work, that's good to know. And you eat a fairly standard diet—rice and meat. No smoking, occasional alcohol. That’s helpful information. You mentioned some back pain. Can you tell me more about that?
+PATIENT: It's... old. From lifting. Sometimes after long day, it really ache. I take... pills. Not every day. When bad. Mostly just try to stretch. I push through it. Need work. Not get worse much. Just... always there a little.
+DOCTOR: Okay, so it's chronic, related to your work, and you manage it with stretching and occasional pain medication. Do you remember what kind of pain medication you take?
+PATIENT: Uh... white pills. Small. I buy at... store. Not doctor. Just... for pain. Ibuprofen? Maybe? I don't really look. Wife buy before. Now I just... ask at counter. "Something for back pain," I say. Sorry. Not good with names.
+DOCTOR: That's perfectly alright, Mr. Shanor. Many people don't remember the names of their medications. Ibuprofen is a possibility. It's good you're managing the pain, but it would be helpful to know exactly what you're taking to make sure it’s safe with any other potential health concerns. Do you have any allergies to medications, food, or anything else?
+PATIENT: No allergies. Never had problem. Wife... she had some, but I not. I eat everything. No rash. No trouble breathing. Nothing.
+DOCTOR: Okay, good to know. And have you had any serious medical illnesses or surgeries in the past?
+PATIENT: No. Nothing. Always healthy. Work hard. Get few cold sometimes. Maybe flu. But no hospital. No surgery. Just... work.
+DOCTOR: Okay, that’s very good to hear. Now, just to be thorough, does anyone in your family have a history of heart disease, diabetes, high blood pressure, or cancer?
+PATIENT: Uh... wife's side, her father had... something with heart. Long time ago. I think. Mother... she always tired. Maybe blood sugar? Not sure. I not close to family. They live far away. Not much know. We not talk much.
+DOCTOR: Okay, that's helpful to know. We don't need a complete family history, just what you're aware of. Now, before we move on to the physical exam, do you currently take any other medications or supplements besides the pain pills?
+PATIENT: No. Just... pain pills when back hurt. No vitamins. No special stuff. Just work. And eat. Can we get this done? Need go back work. Supervisor not happy.
+DOCTOR: Yes, of course, Mr. Shanor. We can proceed with the exam now. It will be fairly basic, as you mentioned - checking your cardiovascular health, strength, and flexibility. First, I'm going to listen to your heart and lungs. Could you please sit up straight and take a few deep breaths for me?
+PATIENT: Okay. Hurry not bother you? Supervisor real strict.
+DOCTOR: No, no hurry at all, Mr. Shanor. I'm just being thorough. Your heart sounds regular, though your rate is a little quick. That's not necessarily a concern right now. Now, I'm going to check your blood pressure. Could you relax your arm for me?
+PATIENT: Okay. Fast? Blood pressure fast? Is that bad? I feel fine. Mostly.
+DOCTOR: Your blood pressure is a little elevated, but not significantly so. It's common to see slightly higher readings when you're anxious or have been physically active. Nothing to worry about at this moment. Now, let's check your strength. Could you please squeeze my hand as tightly as you can?
+PATIENT: Like that? Okay. Strong, right? Work hard. Always strong.
+DOCTOR: Yes, very strong grip, Mr. Shanor. That's excellent. Now, could you please try to push against my hand with your feet?
+PATIENT: Strong legs too! I lift heavy things all day. Good for furnace work.
+DOCTOR: Yes, very strong legs as well. Now, let’s check your flexibility. Could you please bend forward and touch your toes, or go as far as you comfortably can?
+PATIENT: Ow. Little stiff. Back always little stiff. Not so good bending. Never been very flexible.
+DOCTOR: Okay, that’s helpful to know. Your flexibility is a little limited, and you mentioned some stiffness, which is understandable given your line of work. Do you experience any pain when bending forward?
+PATIENT: Little bit. Not bad. Just... ache. Old ache. Always there a little. Not sharp. Just... reminds me I old. Not stop me working. Mostly.
+DOCTOR: Okay. Now, just a quick check of your reflexes. I’m going to tap a few spots on your knees and ankles with this little hammer. This is perfectly normal. Okay, your reflexes are normal. Everything seems generally good, Mr. Shanor. But, given your history of back pain and limited flexibility, I do have a few recommendations.
+PATIENT: Recommendations? What kind? Need go back work soon. Not have time for… fancy things.
+DOCTOR: I understand your time is limited. My recommendations are fairly simple. First, it's important to continue stretching regularly, even if it's just for a few minutes each day. I can show you a few basic stretches that might help with your back pain. Second, I recommend being mindful of proper lifting techniques at work. And third, I think it would be beneficial to schedule a follow-up appointment with a physical therapist. They can provide you with a more tailored exercise plan and help address your back pain and flexibility issues. Does that sound reasonable?
+PATIENT: Stretching… okay. I can try. Lifting… always lift right. Supervisor watch. Physical therapist… takes time. Maybe later. Can I get paper now? Paper say I okay for referee? Need show league.
+DOCTOR: I understand your concerns about time. Given your overall good health and the absence of any serious concerns, I am comfortable providing you with a note stating you are medically cleared for refereeing. However, I strongly recommend following up with a physical therapist, even if it's just for a few sessions, to address your back pain and prevent any future issues. Here is your medical clearance form. It states you are cleared for refereeing activities. I've also included a note recommending physical therapy. Do you have any questions for me before you go?
+PATIENT: No questions. Thank you, Doctor. Need go now. Supervisor real unhappy. Bye.
+DOCTOR: Alright, Mr. Shanor. You're very welcome. Please take care of yourself, and don't hesitate to schedule an appointment if you have any concerns. .

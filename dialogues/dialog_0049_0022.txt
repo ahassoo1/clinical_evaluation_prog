@@ -1,0 +1,39 @@
+DOCTOR: Good morning, Ms. McConnon. I’m Dr. Nestingen. So, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. Good morning to you too. Hmm… what brings me in… let me think. It’s my tummy, I think. It’s… bigger. And I don't feel like eating much lately. Not like I used to. Everything just… sits heavy.
+DOCTOR: Bigger, you say?
+PATIENT: Yes, bigger. Like… rounder. It’s hard to explain. It just… feels full all the time, even when I haven’t eaten much. It’s been a little bit now, maybe a week or two? Time… it all gets mixed up, you know?
+DOCTOR: A week or two. And is this fullness… uncomfortable?
+PATIENT: Uncomfortable… sometimes. Not always painful, exactly. More… heavy. Like I have a little stone inside. And it makes me tired, I think. It’s hard to say for sure. Everything feels a little slow these days.
+DOCTOR: Alright. And have you noticed any changes in your bowel habits?
+PATIENT: Bowel… habits? Oh dear. Changes… well, I go to the bathroom, yes. But… is it different? Hmm. Maybe… not as often? I don’t really keep track of those things, you see. Everything just… happens. I'm sorry, I don’t know if that helps.
+DOCTOR: Not a problem. Let's try a different approach. Any nausea or vomiting?
+PATIENT: Nausea… like feeling sick to my stomach? No, not really. Not lately. Vomiting… oh, goodness, no. Not for a very long time. I haven't felt like throwing up, no. But like I said, I don’t have a big appetite. It's just… not wanting to eat.
+DOCTOR: Alright. And are you experiencing any pain anywhere else?
+PATIENT: Pain… Sometimes, a little ache in my back. But I get aches all over, you know? Old age! I don't think it's connected to my tummy, though. Just… the usual old lady creaks and groans.
+DOCTOR: Very well. Have you noticed any weight loss recently?
+PATIENT: Weight loss… oh, goodness. I don’t really weigh myself anymore. It’s… discouraging, you see? My clothes maybe feel a little looser, but… I don't know if that’s from not eating or… something else. I just try to stay comfortable, that's all.
+DOCTOR: And are you currently taking any medications?
+PATIENT: Medications… No, not really. Nothing at all. The doctor… a long time ago… gave me something for my blood pressure, I think. But I stopped taking it. It made me feel… funny. And I haven't really needed anything else. Just… getting older, that’s all.
+DOCTOR: And do you have any allergies to medications or anything else?
+PATIENT: Allergies… hmm. Not that I know of, dear. I've eaten all sorts of things in my life, and never had a bad reaction. Dust bothers my eyes sometimes, but that’s not an allergy, is it? I can’t recall anything… serious.
+DOCTOR: Alright. I'm going to need to examine your abdomen. Please lie down on the examination table.
+PATIENT: Oh. Examine my tummy? Will it hurt? I don't like being poked and prodded, you see. But… if you think it's necessary… alright. Just be gentle, please?
+DOCTOR: I’ll be as gentle as possible. Now, if you could just lie flat on your back, arms at your sides. I'm going to listen to your abdomen and then feel for any tenderness or abnormalities.
+PATIENT: Alright, dear. Here I am. Arms at my sides… like this? Just… try to be quick, please. It makes me nervous, you see.
+DOCTOR: Okay. Breathing normally. Sounds… a little sluggish, but not dramatically so. Any tenderness here?
+PATIENT: Ooh! Yes… a little. Right… there. Not painful exactly, but… uncomfortable. Like… a dull ache. You're pressing right on it.
+DOCTOR: Hmm. And what about here?
+PATIENT: A little there too. It’s… hard to explain. It feels… full. Like there’s something… swollen. But not painful, really. Just… heavy and uncomfortable.
+DOCTOR: There is some mild guarding, and a slight fullness in the lower abdomen. No rebound tenderness noted. Alright. That’s all for the exam.
+PATIENT: Oh… alright. Is… is it something bad, Doctor? It doesn’t feel very good, you see. I just want to feel normal again.
+DOCTOR: Well, Ms. McConnon, given your age and the lack of more concerning symptoms, I suspect this is likely due to constipation. It’s common at your age, with decreased activity and dietary changes. However, to rule out anything more serious, I'd like to order a complete blood count and a basic metabolic panel. We'll also need a stool sample to check for any abnormalities. Do you understand?
+PATIENT: Oh dear. Blood… and stool? That sounds… complicated. I don’t understand… what will those tests do? And what if… what if it is something bad?
+DOCTOR: The blood tests will give us a general overview of your health, checking for infection or anemia. The stool sample will help us rule out any bleeding or other problems in your digestive system. It's standard procedure, Ms. McConnon. It's better to be thorough, even if it's likely just constipation. Do you have any family?
+PATIENT: Family? Not anymore, dear. They're all… gone. I live alone. That’s… why I haven't been feeling well, maybe? Being alone? But… the tests… who will help me do them? I don't think I can manage all of that myself.
+DOCTOR: The clinic staff can assist you with collecting the samples. We'll provide you with clear instructions. As for the results, they will take a few days. Once we have them, we can discuss them and decide on a treatment plan. But frankly, Ms. McConnon, at your age, a little constipation is hardly a cause for alarm. Do you have any questions?
+PATIENT: A treatment plan… Oh dear. It all sounds so… serious. I just want to feel better, Doctor. Like I used to. And I… I worry. Being alone, you see. If something is wrong… who will take care of me? I… I don't understand what I need to do to get the samples. Could someone… help me? Explain it slowly?
+DOCTOR: Very well. The clinic nurse will explain the sample collection process in detail. For the blood test, you will simply need to have your blood drawn – it’s a standard procedure. The stool sample requires you to collect a small amount of your stool in a provided container. The nurse will give you specific instructions on how to do this. It’s quite simple, Ms. McConnon. And I assure you, if anything serious were going on, we would address it immediately. Let’s start with the tests and see what they reveal. Do you understand that much?
+PATIENT: Yes… I think so. Tests… and the nurse will help. Will the nurse be gentle? I bruise easily, you see. And… will they tell me when the results will be ready? I… I don’t like waiting.
+DOCTOR: The nurse is very experienced and will be as gentle as possible. She will also inform you of the expected timeframe for the results. We will contact you as soon as they are available. Now, I'm going to have the nurse come in and explain the details of the sample collection process. Do you have any further questions for me at this time?
+PATIENT: No… I think that’s all, dear. Thank you… for trying to help. I just… I hope it’s nothing too serious.
+DOCTOR: Very well. I’ll have the nurse come in now. .

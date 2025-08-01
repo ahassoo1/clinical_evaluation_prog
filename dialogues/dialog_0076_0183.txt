@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. Grumman, let’s get this over with. So, what brings you in today?
+PATIENT: Tired. Just… very tired. All the time. It’s not like… I haven’t done anything, you know? I work. I… make things with cloth. But I feel old. Like sixty years old, not fifty-two. And my stomach… it feels bad sometimes. Not always, but bad.
+DOCTOR: Tired, huh?
+PATIENT: Yes. Tired. And… this stomach thing. It’s not pain, exactly. More… heavy. Like I ate too much. Even when I didn’t. Does that make sense? You understand?
+DOCTOR: Vaguely. Okay. And how long has this “tiredness” been going on?
+PATIENT: Hmm… a long time. Maybe… six months? More? It started slow. I just thought it was… getting older. You know, things wear out. But now… it’s hard to even get out of bed some days. My wife says I just need to… rest more. But I am resting!
+DOCTOR: Six months. Right. And this stomach… is it after certain foods?
+PATIENT: No. Not that I see. I eat… what my wife makes. Rice, mostly. Sometimes chicken. I don’t eat… fancy things. It doesn’t seem to matter what I eat. It just… happens. Sometimes after dinner, sometimes not.
+DOCTOR: Okay. Any… changes in your bowel habits?
+PATIENT: Changes? What kind of changes? I… go to the bathroom. Like everyone else. What do you mean, changes? Is this… important? You need to explain better. I don’t understand these… doctor words.
+DOCTOR: Look, are you having trouble going?
+PATIENT: No! No trouble. Everything comes out… normal. Just… sometimes it’s… different color. Darker. Like… mud. But not always. Sometimes it’s… regular. Like it should be. Is that what you want to know?
+DOCTOR: Darker… right. And any blood?
+PATIENT: Blood? No! No blood. I would know if there was blood. My wife would know. We… we see things. We are not… foolish. No blood. Definitely no blood.
+DOCTOR: Alright, alright. Have you had any recent weight loss?
+PATIENT: Weight loss? Hmm… maybe. My clothes feel… looser. But I haven’t… stood on the scale. My wife does that. She says I’m… fine. She worries too much. I don’t… pay attention to that.
+DOCTOR: And your wife says you're "fine" despite all this?
+PATIENT: She says I look tired. She says I need to eat more. She makes me soup. She is a good wife. But she is not a doctor. She just… worries. She thinks everything is from… working too hard. She doesn't understand that even when I rest, I'm still tired.
+DOCTOR: Look, Mr. Grumman, this is all very… vague. We need to get some tests done. Basic blood work. Rule things out. It could be a lot of things. Probably just… stress. But we need to be sure. Let's get the lab order written up.
+PATIENT: Tests? What kind of tests? Will they hurt? I don’t like needles. And… what if it is something bad? My wife… she gets very upset. Can’t we just… try something else? Maybe some… medicine? Or some rest? I really don't want tests.
+DOCTOR: Mr. Grumman, I am a doctor. I need to know what's going on, not guess. A simple blood draw. That's all. It’s standard procedure. And frankly, worrying about it won't make it go away. I'll write the order. The nurse will draw the blood. It's quick. It's painless. And it's necessary. Don’t make this more difficult than it needs to be.
+PATIENT: Fine. Do your tests. But if it hurts, I'm telling you right now. And… what if it is bad? What will you do then? I don't want a lot of… complicated things. Just… tell me straight. Don't beat around the bush.
+DOCTOR: We'll cross that bridge when we come to it. Now, I'm going to print out the lab order. The nurse will be in shortly to get you set up. Do you have any allergies to latex or anything of that nature?
+PATIENT: Latex? I don't know. I don't… use latex. I'm a cloth worker. My wife… she uses rubber bands sometimes. Is that latex? I don't think I've ever had a problem. But I haven’t looked for problems. I just… work.
+DOCTOR: Alright. Just… try not to think about it. The nurse will ask you about allergies again. I’m going to move on to the next patient now. Here's the order. Good day.
+PATIENT: .

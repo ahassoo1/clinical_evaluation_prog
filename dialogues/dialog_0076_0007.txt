@@ -1,0 +1,23 @@
+DOCTOR: Alright, Mrs. Reihner, good to meet you. Though frankly, my schedule is quite packed. So, let's get straight to it. What brings you in today?
+PATIENT: Good day, Doctor Ruocco. I am here because of the pain. It is… painful. I wish to be quick, if that is alright with you.
+DOCTOR: Yes, yes, quick is good. Pain… well, that’s hardly a diagnosis, is it?
+PATIENT: I understand. It is difficult to explain. It is… in my back. Lower back, mostly. It started a few weeks ago, I believe. Around July 15th, perhaps? It has not gotten better. It is constant, though it changes. Sometimes it is a dull ache, sometimes… sharper.
+DOCTOR: July 15th...right. And constant, you say?
+PATIENT: Yes. Constant. Though… not always the same constant. Does that make sense? It’s like… a weight. A heavy weight, pressing down. Then, sometimes, a quick, stabbing pain. It makes it hard to… work. I erect fences, you see. It requires much bending and lifting.
+DOCTOR: Fencing, hm. Physical labor. Well, that figures. Any specific movements that make it worse?
+PATIENT: Yes. Bending. Lifting, of course. Even… standing for long periods. And sitting, truthfully. It is difficult to find a comfortable position. When I try to lift something heavy, it is… a sharp pain that goes down my leg. My left leg, mostly.
+DOCTOR: Down the leg, you say?
+PATIENT: Yes. The left leg. From my back, down the back of my leg. Not my whole leg, just… the back. It feels… tight. Like a cord is pulling. It makes me… unsteady. I worry about falling.
+DOCTOR: Right, sciatica, potentially. Though we’ll need to rule out other things. Any numbness or weakness in your leg or foot?
+PATIENT: Sciatica? I do not… know what that is. Numbness… sometimes, yes. My left foot feels… tingly. Not always, but often when the pain is bad. Weakness… I have not noticed, not really. Though, I am careful. I do not want to risk falling. It is difficult to explain.
+DOCTOR: Careful is wise. Okay. Let’s have you lie down on the examination table. We'll do a quick check of your reflexes and strength, just to be sure.
+PATIENT: Very well, Doctor. I trust this will not take too long? I have work waiting.
+DOCTOR: As quick as possible. Lie face up, please. Now, I'm going to check your reflexes. Just relax your legs. And now the other one. Now, can you squeeze my hands as tightly as you can?
+PATIENT: I am relaxed, as best I can be. Like this? Is that alright? It… stings a little in my back.
+DOCTOR: Grip seems… adequate. Now, can you lift each leg, one at a time, keeping it straight?
+PATIENT: This… is difficult. It hurts. This one is… easier. But still not comfortable. Is this… helpful?
+DOCTOR: Limited range of motion. As expected. Okay. Now, lean forward and touch your toes. If you can't, just go as far as you can without causing severe pain.
+PATIENT: I… I cannot go further. It is too painful. It feels like something is… pulling in my back. This is… very uncomfortable. I apologize for the delay.
+DOCTOR: Alright, alright. Based on what you've told me and the quick examination… it's likely a lumbar strain with some possible nerve involvement. Classic. I'm going to order some X-rays, just to rule out anything serious. And I'll prescribe you a muscle relaxant and some ibuprofen. Take as directed. Don't overdo it, and come back if it doesn't improve in a week. Next patient!
+PATIENT: X-rays… alright. And a muscle relaxant. Very well. I will take them as instructed. A week… If it does not improve… thank you, Doctor Ruocco. I appreciate your time. .
+DOCTOR: .

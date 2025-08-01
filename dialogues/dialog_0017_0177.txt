@@ -1,0 +1,21 @@
+DOCTOR: Good morning, Ms. Genard. I am Dr. Blim. Now, let’s not waste any time. What brings you in today?
+PATIENT: Oh, hello Doctor. It's... something down there. It's... leaking. Not a good leak, you know? Been happenin' a little while now. Don't even ask me how long, I lose track of these things. It's just... icky.
+DOCTOR: “Leaking,” you say. Right. And by “a little while now,” could you perhaps be a bit more specific?
+PATIENT: Specific? Oh, goodness. Maybe... a month? Two? Time just... goes. It's not like it started yesterday, but it ain't been forever either. It’s just… always somethin', isn't it? I don't keep calendars for these kinda things. You think I should?
+DOCTOR: That’s… helpful. Very helpful. Now, is this leakage constant, or does it come and go?
+PATIENT: Comes and goes, I think. Not all the time, no. Sometimes it's there, sometimes it's not. Mostly when... well, I don't know! That's why I'm here, Doctor! It's embarrassing, talkin' about this. I ain’t used to talkin’ about this.
+DOCTOR: Very well. And can you describe the… discharge to me?
+PATIENT: Discharge? Oh, you want me to describe it? Ugh. It's... wet. And… kinda yellowish, I guess? Not bright yellow, more like… old straw? And it smells… not good. Like… somethin' that's been sittin' too long. I don't like it, that's for sure. I keep myself clean, you know, but this... this is different.
+DOCTOR: "Yellowish, malodorous discharge." Right. Now, have you experienced any pain, burning, or itching in the area?
+PATIENT: Pain? Not really pain. It's... uncomfortable. Like a little bit of a sting sometimes, after I... you know. But no real pain. Itchiness… maybe a little. But I itch all the time, so I don't know if that's anything special. Old age, probably. Everything itches when you get old, Doctor. It’s just part of it.
+DOCTOR: And have you noticed any changes in your urinary habits?
+PATIENT: Urinary habits? What do you mean? I go to the bathroom when I need to go to the bathroom. Is something supposed to be different about that? I ain't noticed nothin' strange. Maybe I go a little more often than I used to, but that's probably 'cause I drink more water. I like my water. It keeps me regular.
+DOCTOR: Regularity is… commendable. Now, have you had any recent sexual activity?
+PATIENT: Oh! Doctor! Goodness gracious! What kind of question is that? I’m seventy-three years old! Do I look like I’m havin’ a lot of… activity? That's a private matter, you know! Honestly. Some things are best left unasked.
+DOCTOR: Very well, very well. I simply need to rule out all possibilities. Now, let’s move on. Do you have any other medical conditions that I should be aware of?
+PATIENT: Medical conditions? Oh, goodness. Let me see. My knees ache somethin' awful. And my back goes out every other week. And I get heartburn, especially if I eat spicy food. And I’m always tired. But that’s just… old age again. Everyone gets old, you know. It comes with the territory. Ain't no need to write all that down, Doctor. It’s just… life.
+DOCTOR: "Joint pain, fatigue." Adequate. And are you currently taking any medications?
+PATIENT: Medications… hmm. Let me see. I take somethin' for my blood pressure. A little white pill. And sometimes I take somethin' for my heartburn, if it's really bad. But that's it, I think. I don’t like takin’ pills. They make me feel funny. I try to get by with as little as possible. Nature should be enough, you know?
+DOCTOR: Alright. I'm going to need to perform a quick pelvic exam. It’s the only way to properly assess what’s going on. Do you have any objections?
+PATIENT: A what now? Oh, no, no, no. Absolutely not! Doctor, you are not touchin' down there. I came here to talk about this, not… not have you poke around! I’m a respectable woman! No. Just… no. I think I’ve said enough. I’ll just… leave it at that. This is ridiculous. .
+DOCTOR: Ms. Genard, please. I understand your discomfort, but without a proper examination, I cannot provide you with an accurate diagnosis or treatment plan. I’m a physician; this is standard procedure. However, if you absolutely refuse, I can refer you to another doctor. But I must advise you, delaying treatment could lead to complications. .

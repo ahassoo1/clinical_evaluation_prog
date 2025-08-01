@@ -1,0 +1,23 @@
+DOCTOR: Right. Mr. Miner, is it?
+PATIENT: Yeah, that’s right. Derick Miner. Though, everyone just calls me Derick. Don’t bother with the Mr. stuff.
+DOCTOR: Very well, Derick. So, what brings you in today?
+PATIENT: Well, it’s this… puffiness, I guess you’d call it. Face and legs are all swollen up. Been happenin’ for a bit now, though I can’t rightly say how long. Time just… slips away, ya know? It’s not painful, exactly, just… uncomfortable. And looks awful, I’m sure.
+DOCTOR: Uncomfortable… and you say this has been going on for “a bit”?
+PATIENT: Yeah, a bit. Weeks, maybe? Hard to say. Things kinda blur together after… well, after my wife passed. I just noticed it gettin’ worse lately. It’s not like I go out much, so nobody’s really told me it was gettin’ worse, if that makes sense.
+DOCTOR: And you haven’t noticed any other symptoms accompanying this swelling?
+PATIENT: Hmm… not that I’ve noticed. Maybe a little more tired than usual, but who isn’t these days? I get winded easier, I suppose, but I haven’t been doin’ much to begin with, so… Look, I mostly just sit. Used to be a welder, good work, but… can’t do that anymore. Too much standin’.
+DOCTOR: Alright. And are you currently taking any medications, Derick?
+PATIENT: Nope. Haven't taken a pill in… well, a long time. Didn't really believe in 'em much, to be honest. Always figured I could tough things out. Probably shoulda listened to my wife on this one, though. She always said a little somethin’ to help wouldn’t hurt.
+DOCTOR: Do you have any allergies to medications, or anything else for that matter?
+PATIENT: Allergies? Not that I know of. Never had a bad reaction to anything. Dust bothers me a bit, same as anyone, I reckon. But that's not an allergy, is it? More just… common sense. Don't go stickin’ your face in dust, ya know?
+DOCTOR: Alright. Let’s have a look at this swelling then. If you could just sit here while I examine you. It’s just a quick look, don’t worry.
+PATIENT: Alright, fine. Just… don’t poke too hard, eh? It’s a little tender. And don't expect me to be real flexible, I’m not a young man anymore.
+DOCTOR: Hmm. Edema is present bilaterally in the lower extremities, pitting. Face also exhibits some periorbital edema. Blood pressure is… elevated. 160 over 90. Pulse is 78, regular. Auscultation reveals normal heart and lung sounds, though a bit of diminished breath sounds at the bases. We’ll need some bloodwork. And an EKG. It's likely just fluid retention, but we need to rule out anything serious.
+PATIENT: Bloodwork, huh? Sounds expensive. I ain't got insurance, ya know. Everything's so pricey these days. Is it really necessary? I mean, couldn't it just be… salt? I did have a bit of a ham sandwich yesterday…
+DOCTOR: Derick, with all due respect, speculating about ham sandwiches isn’t going to solve this. Elevated blood pressure and significant edema warrant investigation. We need a baseline to understand what we’re dealing with. I can discuss payment options with the administrative staff, but skipping necessary tests is not an option. It could be something very simple, yes, but it could also be something… considerably more complex.
+PATIENT: Fine, fine. Bloodwork. But don’t go orderin’ the whole farm, eh? Just the basics. And I still think it's the salt. My wife always said I put too much on everything. Always... .
+DOCTOR: I’ll order a complete metabolic panel, a lipid panel, and a CBC. And an EKG, as I said. The nurse will be in shortly to draw your blood. And please, try not to dwell on the ham sandwich. We'll have some answers soon enough. Let's just get this done.
+PATIENT: Okay, okay. Whatever you say. Just… tell the nurse to be gentle, alright? I bruise easy these days. And… is there a waiting room? I didn't really see one when I came in.
+DOCTOR: There's a small waiting area down the hall. The nurse will call your name when she’s ready. I’ll review the results as soon as they come in. Try to relax, Derick. Next patient.
+PATIENT: .
+DOCTOR: .

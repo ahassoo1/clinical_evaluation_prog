@@ -1,0 +1,27 @@
+DOCTOR: Alright, Amy Raghunathan, 31 years old. So, tell me, what brings you in to see me today?
+PATIENT: Well, Doctor Osterholm, it’s about a lump I’ve noticed in my lower stomach. It’s been there for a little while now, and I wanted to get it checked out, just to be safe.
+DOCTOR: A lump, you say. "A little while now"... hmm. Can you be more specific?
+PATIENT: Let me think… maybe about a month, perhaps a little longer. It wasn’t painful at first, so I didn’t think much of it. But it hasn’t gone away, and now it’s… well, it’s a little uncomfortable sometimes, especially if I move a certain way. It doesn’t hurt sharply, more of a dull ache.
+DOCTOR: "Uncomfortable," right. And where exactly in your lower stomach are we talking about?
+PATIENT: It’s… kind of in the middle, a bit to the left. Not right on my hip, but not directly in the center either. If I had to point, it's about… two or three fingers down from my belly button? I hope that makes sense. It’s hard to describe precisely.
+DOCTOR: Two or three fingers down… alright. And is it a hard lump, or soft?
+PATIENT: That’s a good question. It feels…firm, I’d say. Not rock hard, but definitely not squishy. It’s…solid. When I press on it, it doesn’t disappear, it just feels…there.
+DOCTOR: "Firm, solid"... okay. Have you noticed any other changes?
+PATIENT: Hmm…let me think. Not really, not that I’ve noticed. No changes in my bowel habits, no weight loss, and no fever or anything like that. I haven't felt nauseous or anything either. Just the lump, and the occasional discomfort. It hasn’t gotten dramatically bigger, but it hasn’t shrunk either, if that makes sense. It’s just…stable, I guess.
+DOCTOR: "Stable"... right. And any family history of… anything like this?
+PATIENT: That’s a tricky one, Doctor. My family is… scattered, and we don’t talk a lot about health things. I know my grandmother, on my mother’s side, had some stomach problems when she was older, but I don’t know what specifically. Nothing about lumps or anything like this, though. I'm really not sure, to be honest. We didn't discuss medical history much.
+DOCTOR: Alright. And what about allergies?
+PATIENT: No known allergies, Doctor. I can eat pretty much anything. I haven’t had a reaction to food or medication ever that I know of. I get the usual hay fever in the spring, but that’s it, and that’s not a serious allergy, just a bit of sneezing.
+DOCTOR: Okay. Any medications you're currently taking?
+PATIENT: No, Doctor. Nothing at all. I try to stay away from medication if I can. Just over-the-counter pain relievers occasionally for headaches, but nothing regular.
+DOCTOR: Alright. Let’s have a look then. If you don't mind?
+PATIENT: No, not at all. Please, go ahead.
+DOCTOR: Okay… hmm. Yes, I feel something there. It’s…firm, as you said. Not particularly tender to the touch, but definitely present. It's roughly…about two centimeters in diameter. I'm going to listen to your abdomen now, just to make sure everything sounds normal. Sounds normal. It's difficult to say much without further investigation, but it doesn't feel acutely concerning.
+PATIENT: That’s…reassuring to hear, Doctor. “Not acutely concerning” is good. What kind of investigation are you thinking of? Is it something serious that requires a lot of tests? I’m a little nervous, if I’m honest.
+DOCTOR: Well, look. It could be a number of things. A cyst, a lipoma... sometimes even just muscle tightness. But, given that it hasn't gone away, we need to rule out anything more serious. I'm going to order a complete blood count, a metabolic panel, and a CT scan of your abdomen and pelvis with contrast. The CT scan will give us a much clearer picture of what we're dealing with. It's standard procedure, don't panic. The contrast dye is just to help us see things better. The blood work will help rule out infection or anything else systemic.
+PATIENT: Okay…a CT scan. I’ve never had one before. Is the contrast dye…safe? And will it take long to get the results? I understand it’s standard, but I’m always a little anxious about these things.
+DOCTOR: Look, the contrast dye is generally very safe, yes. Some people experience a warm sensation, a metallic taste, rarely an allergic reaction – we’ll monitor you closely. It’s a small risk for a lot of information. The results shouldn't take too long, a few days at most. The radiology department is usually quite efficient. I’ll have the nurse schedule you for the scan as soon as possible. We'll discuss the results thoroughly when they come back, okay?
+PATIENT: Okay, a few days. I appreciate you explaining that, Doctor. And thank you for scheduling the scan. I guess I’ll just try not to worry too much in the meantime. Is there anything I should be doing—or not doing—before the scan?
+DOCTOR: Yes. You’ll need to fast for at least six hours before the scan—nothing to eat or drink. And you'll need to avoid caffeine for 24 hours. The nurse will give you detailed instructions—it’s very important to follow them carefully. The contrast dye requires good kidney function, so make sure you're well hydrated in the days leading up to the scan, but don't drink anything right before it. Any other questions?
+PATIENT: No, I think that covers everything. Fast for six hours, avoid caffeine, stay hydrated… I can do that. Thank you, Doctor Osterholm. I appreciate your time and explaining everything so clearly. .
+DOCTOR: Alright. We'll see you back here when the results are available. The nurse will contact you. Don’t hesitate to call if you experience any unusual symptoms before then.

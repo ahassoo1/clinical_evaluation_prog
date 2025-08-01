@@ -1,0 +1,33 @@
+DOCTOR: Right. Mr. Bulaong, is it?
+PATIENT: Yes, that’s me. Aron Bulaong.
+DOCTOR: Yes, well. Let’s get right to it. What brings you in today?
+PATIENT: Um... my chest hurts. Not all the time, but… yeah. It hurts sometimes. It’s… in my breast.
+DOCTOR: Your breast?
+PATIENT: Yeah. I know it sounds… strange. But it hurts. Like a… ache, mostly. Not a sharp pain. Just… uncomfortable. I didn’t know where else to go.
+DOCTOR: Right. And how long has this “ache” been going on, Mr. Bulaong?
+PATIENT: Maybe… a week? I think so. It’s hard to remember exactly. I been busy with work, you know? Roofing is… hard work. It comes and goes. Some days I don't feel it at all.
+DOCTOR: Roofing. Yes. And does anything specific cause it to start?
+PATIENT: I don’t think so. Not that I know of. Maybe… when I’m moving around a lot? Like, up and down the ladder. But it’s not always. Sometimes it hurts when I’m just… sitting. I really don't know. It just… happens. It’s not a bad pain, just… annoying.
+DOCTOR: Right. And have you noticed any… changes to the area?
+PATIENT: Changes? Like… what kind of changes? I haven’t… looked at it much. I mean, I know it hurts, but I didn’t… check for anything else. Should I be checking? I didn’t know you had to check.
+DOCTOR: Mr. Bulaong, I’m asking if you’ve noticed any lumps, redness, discharge… anything unusual. It’s… standard procedure.
+PATIENT: No, I haven’t. Not that I’ve seen. I… I really don't know what to look for. I just felt the pain. I’m sorry. Is it… bad that I haven’t looked? My wife, she sometimes tells me to pay attention more. I don’t always listen.
+DOCTOR: Alright. Well. Let’s have a look then, shall we?
+PATIENT: Okay. Sure. Whatever you think is best.
+DOCTOR: If you’ll just excuse me for a moment. Change into a gown, and we’ll take a look. I’ll be right back.
+PATIENT: Okay. A gown… right. I’ll be right out.
+DOCTOR: Uninsured… roofing… Honestly. Mr. Bulaong?
+PATIENT: Okay, I’m ready.
+DOCTOR: Lie back on the examination table, please. I need to listen to your heart and lungs, and then I’ll examine the area of concern.
+PATIENT: Okay. Is this going to take long? I got a job to finish today… if I can, you know?
+DOCTOR: Your heart sounds… normal. Lungs are clear. Hmm. There’s some tenderness here… and here. Not a distinct mass, just… sensitivity. Do you feel pain when I press here?
+PATIENT: Yes… a little. Not bad, but… yeah, that’s where it hurts. Like a dull ache. It’s… worse when you push.
+DOCTOR: Alright. It's difficult to say definitively without further investigation. Given your line of work, it could be musculoskeletal pain – strained muscles or inflammation from repetitive motion. However… given the location… we need to rule out other possibilities.
+PATIENT: Other… possibilities? Like what? Is it… bad? I’m not good with… with medical stuff. My wife usually handles this.
+DOCTOR: Mr. Bulaong, I’m not going to alarm you unnecessarily. But pain in this area can be caused by a number of things. It’s unlikely to be serious, but we should have an ultrasound just to be safe. We’ll need to refer you to a radiologist. Do you have any insurance that would cover this?
+PATIENT: No… no insurance. I told you, I just do roofing. It’s… expensive to get. I didn’t think I needed it. How much will it cost? I don't… I don’t have a lot of money.
+DOCTOR: I don’t have exact figures, Mr. Bulaong. It varies. We can look into some options for low-cost imaging facilities, but it will still be something out of pocket. Honestly, with no palpable mass and your age… it’s probably just a muscle strain. But I cannot rule anything out without the ultrasound. You really should have considered insurance. This is precisely why. I’ll write you a referral, and you can contact the radiology center to inquire about costs. If it’s a muscle strain, rest and ibuprofen should help. If the pain persists or worsens, you will need to follow up, regardless of the cost. Do you understand?
+PATIENT: Yeah… I understand. Rest and ibuprofen… and look into the ultrasound. It’s just… hard to take time off work. And money is tight. Okay. Thank you, Doctor. I’ll… I’ll try. Is there anything else? I should probably get going.
+DOCTOR: Here's the referral information. And a list of over-the-counter pain relievers. I suggest you take it seriously, Mr. Bulaong. Don't ignore the pain. No, that will be all. I have other patients waiting.
+PATIENT: Okay. Thank you. .
+DOCTOR: .

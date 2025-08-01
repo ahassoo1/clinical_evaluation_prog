@@ -1,0 +1,20 @@
+DOCTOR: Alright, Velda, is it?
+PATIENT: Yes, that’s right. Velda Squiers. It's lovely to meet you, Doctor… Havird, isn’t it? I’m here about a form, actually. For a cruise I’m hoping to go on. They need some information from a doctor, and I thought best to get it sorted beforehand.
+DOCTOR: Right, a cruise. People and their… hobbies. Honestly. Well, let’s get this over with then. What exactly does this form require?
+PATIENT: Well, it’s a fairly standard thing, I expect. They want to know about any serious illnesses I’ve had, not current ones, mind you. And if I’ve been hospitalised for anything… significant. It also asks about allergies, and if I take any… regular medicine. I brought the form with me, if that helps?
+DOCTOR: Yes, alright. Let’s see… “serious illnesses”. Honestly, most people think a bad cold is a serious illness. But, fine. Have you been hospitalised for anything?
+PATIENT: Oh, yes. Once, quite a long time ago. It was… nineteen eighty-three, I believe. My appendix, you see. Burst, it did. Needed an operation, naturally. Spent a week in hospital. That was at the old Paisley Infirmary. A very…efficient place, if a bit drafty. Aside from that, nothing major. A few broken bones as a child – climbing trees, you understand – but nothing requiring a stay in hospital as an adult.
+DOCTOR: Nineteen eighty-three… that’s… a while ago. And just the appendix?
+PATIENT: Yes, that’s correct. Just the appendix. I’ve been perfectly healthy, all things considered, since then. I had the usual childhood illnesses, of course – measles, mumps, that sort of thing – but nothing that would be of concern now, I shouldn’t think. No heart problems, no diabetes, nothing like that. I do get a bit of arthritis in my hands sometimes, but it’s just age, really.
+DOCTOR: Arthritis... right. And any allergies?
+PATIENT: No, not that I’m aware of. I've always been able to eat anything and everything put in front of me, thankfully. No reactions to medicines, or plants, or animals… I’ve never had a problem, honestly. My husband, God rest his soul, was terribly allergic to dust, but I don't seem to have inherited that particular misfortune.
+DOCTOR: Right. And are you currently taking any medications?
+PATIENT: No, Doctor. Nothing at all. Not a single tablet, potion, or anything of the sort. I pride myself on being medication-free. Just a bit of cod liver oil in the winter months, for the vitamin D, but that’s hardly a medicine, is it?
+DOCTOR: No. That's... good. So, just to confirm: appendix removed in 1983, no allergies, no current medications. Anything else I should know?
+PATIENT: No, I don’t believe so. I’ve tried to think carefully. I’ve always been a reasonably healthy person, all things considered. I don’t smoke, I rarely drink… just a small glass of sherry on special occasions. And I try to eat a balanced diet, although I do have a fondness for shortbread. I suppose that’s not terribly healthy, is it? But a wee bit of shortbread never hurt anyone. I really can’t think of anything else relevant. Is that sufficient?
+DOCTOR: Alright. I'll just note that she has a history of appendectomy in 1983, reports no allergies or current medications, and… a fondness for shortbread. That should cover it.
+PATIENT: Oh, excellent. I’m very glad it’s all sorted. And thank you for taking the time, Doctor. It’s put my mind at ease, knowing I have everything in order for the cruise. I’m looking forward to it very much. Would you like me to sign something, perhaps?
+DOCTOR: Just your signature there will be fine. And… enjoy your cruise.
+PATIENT: Certainly. There you are. Thank you again, Doctor Havird. You’ve been most helpful. I won’t take up any more of your time.
+DOCTOR: Right. Have a good day. .
+PATIENT: .

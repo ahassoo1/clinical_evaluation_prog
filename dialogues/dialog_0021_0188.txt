@@ -1,0 +1,21 @@
+DOCTOR: Well, hello Criston. Thirty-six, right?
+PATIENT: Yes, that is right. Thirty-six.
+DOCTOR: Right. And you're here today... because?
+PATIENT: My… pee. It is orange. It started a few days ago. Not normal color.
+DOCTOR: Orange pee, huh?
+PATIENT: Yes. Like… orange juice, but not so bright. More… dull orange. Is that… bad? I don't know.
+DOCTOR: Well, it could be a number of things. Are you drinking enough water?
+PATIENT: I think so. Maybe two liters a day? I work outside, it is hot. I drink when I feel thirsty. Is that not enough?
+DOCTOR: Two liters… working outside. Hmm. And what exactly do you do working outside?
+PATIENT: I fix things. Machines, mostly. For the farm. Like… the water pumps, the tractors… things break, I make them work again. It is hot work, a lot of sun.
+DOCTOR: Right, right. Fixing things. Any fever, nausea, or abdominal pain with this… discoloration?
+PATIENT: No. No fever. Not sick to my stomach. And my belly… no pain. Just the orange pee. It worries my wife.
+DOCTOR: Your wife worries. Okay. And… any changes in your bowel movements?
+PATIENT: Changes… like… how I go to the bathroom? No, not really. Same as always. Solid. Normal color. I don't… I don't understand. Is orange pee always something serious?
+DOCTOR: It’s rarely “always” anything, Criston. Now, let’s see… you said you work on farms, fixing machinery. Do you come into contact with any… dyes?
+PATIENT: Dyes? Like… for clothes? No. Not usually. Sometimes oil, grease… but not colors. I work with metal mostly. I fix the engines, things like that. I don’t think so.
+DOCTOR: Okay. Let’s do a quick urine sample, just to be certain. And I’ll quickly check your hydration status. It’s probably nothing, but we should rule things out. Go ahead and step into the bathroom, and I’ll leave a cup for you.
+PATIENT: Okay, yes. A sample. That is… good. I will go now. Where is the bathroom?
+DOCTOR: Down the hall, first door on the left. I'll be right here.
+PATIENT: Okay, thank you.
+DOCTOR: Honestly, some people. Just orange pee. Probably dehydrated. Though... let's check his bilirubin levels just in case. Better safe than sorry, I suppose.

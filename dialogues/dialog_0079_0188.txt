@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Mr. Secondi. I am Dr. Gonzalezperez. It says here you're 36 years of age. Perhaps you could tell me what brings you in to see me today?
+PATIENT: Yes, good morning, Doctor. It is… my water. It is orange. I not know why. It started maybe… three days ago? I drink water like normal, but when I go to the toilet… orange. It scare me a little.
+DOCTOR: Orange urine, you say. Three days duration. Alright. Now, when you say "like normal," could you be a bit more specific?
+PATIENT: Yes. I drink… maybe two liters of water a day? Sometimes more if it is hot. I work outside, you know? Building things. I do not drink soda. Only water, maybe tea sometimes. No juice. I think… that is normal for me. Is that not normal?
+DOCTOR: Two liters is reasonable, yes, but we need to consider all possibilities. Have you noticed any other changes – any pain with urination, changes in frequency, or… any unusual odor?
+PATIENT: No pain. I go to the toilet… same as always. Not more, not less. And the smell… I not think so. It smells like water. Maybe a little different, but I think that is because of the color. It is hard to explain. It is just… orange water. I worry it is something bad.
+DOCTOR: I understand your concern, Mr. Secondi. Orange urine can be caused by a number of things, some more concerning than others. Do you have any history of liver problems, or any issues with your gallbladder?
+PATIENT: No. I never have problems with my… liver? Or the other thing, the gallbladder. I am healthy. I work hard, but I eat good food. My wife cooks for me. We eat a lot of vegetables. I have not been to the doctor in… maybe five years? Just for check-up. Everything was okay then.
+DOCTOR: Alright. And are you currently taking any medications at all – prescription, over-the-counter, herbal supplements… anything?
+PATIENT: No. Nothing. I do not like taking pills. Only sometimes, if I have a headache, I take… what you call it… ibuprofen? But I not take it now. Not for days. I try to rest when I have a headache. My wife says it is better.
+DOCTOR: Very well. Let's just do a quick physical examination. I'd like to check your abdomen and listen to your heart and lungs, just to rule out anything obvious. If you don’t mind?
+PATIENT: Okay, yes. No problem. I trust you, Doctor. Is okay if I leave my shoes on? They are new.
+DOCTOR: You may keep your shoes on, Mr. Secondi. However, would you be more comfortable changing into a gown?
+PATIENT: Yes, okay. A gown. Is this good? I am ready now, Doctor.
+DOCTOR: Alright. Let's begin. I'm going to listen to your abdomen first. Please lie flat on your back and try to relax. Deep breaths, please. Now, I'm going to listen to your heart and lungs. Your heart sounds regular, lungs are clear. Your abdomen is… slightly tender in the right upper quadrant, but nothing alarming. No masses felt. I’ll need to order a urinalysis and some blood work to get a better understanding of what might be causing this discoloration.
+PATIENT: Okay, good. Not too much pain. So, blood work and… the water test? Is that easy? I have to go back to work this afternoon. I have to build a wall, you know? Can I still do that? I not want to lose money.
+DOCTOR: Yes, blood work and a urinalysis. The urinalysis is quite simple; you’ll just need to provide a sample. As for the blood work, it will take a few minutes. It's unlikely to interfere with your work, but you may feel a little tired afterwards. We will get the results back within 24 hours. For now, I recommend drinking plenty of water – even more than usual – and avoiding strenuous activity until we have the results. If you experience any fever, nausea, or severe abdominal pain, you should go to the nearest emergency room immediately. Do you understand?
+PATIENT: Yes. More water, no hard work, and if I feel bad, go to the… emergency room. I understand. Is okay to eat normal? Or should I change what I eat? My wife will worry. She always makes me good food. She will want to know what is wrong.
+DOCTOR: For now, continue with your normal diet. There's no need to alarm your wife just yet. We'll wait for the lab results before making any changes. I'll have the nurse draw the blood and collect the urine sample. She'll explain the process. Do you have any further questions for me at this time, Mr. Secondi?
+PATIENT: No. I think… that is all. Thank you, Doctor. I hope it is not something bad. I go now to the nurse, yes? Where is she?
+DOCTOR: Yes, the nurse's station is just down the hall to your left. She will take care of you. I'll review the results as soon as they become available. Please feel free to call if you have any concerns. Now, if you'll excuse me, I have other patients waiting.
+PATIENT: Okay, thank you, Doctor. .
+DOCTOR: .

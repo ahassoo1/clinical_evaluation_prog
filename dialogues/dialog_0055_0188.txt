@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Mr. Secondi. I am Dr. Eaddy. It’s a pleasure to meet you. Now, could you please tell me what brings you in to see me today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um, well, my pee... it's orange. It started a few days ago. I don't know why. It worries me a little.
+DOCTOR: Orange urine, you say. Hmm. And it began a few days ago, you mentioned?
+PATIENT: Yes, maybe... three days? Something like that. It wasn't dark orange at first, more... a little bit yellow-orange. Now it's definitely orange. I drink water, you know, normal amount. Not a lot, but normal.
+DOCTOR: Alright. And have you noticed any other changes alongside this… discoloration?
+PATIENT: Like what kind of changes? I… I don’t know. I haven’t really been looking for anything else. Should I be? Is it bad? Sorry, I just… I don’t really understand what could cause this.
+DOCTOR: Mr. Secondi, it's rather difficult to ascertain the cause without a proper accounting of your symptoms. Have you experienced any pain or burning with urination?
+PATIENT: No, no pain. Not when I pee. And no burning either. Everything feels… normal there. Just the color is wrong. I feel okay, otherwise. No fever, no… nothing. Just orange pee. It’s just… strange. Is it something I ate?
+DOCTOR: It could be dietary, though it's less common to present so distinctly. Have you consumed anything unusual lately?
+PATIENT: Unusual… Hmm. My wife, she made a tagine, a Moroccan dish, two days ago. Lots of spices, paprika, turmeric, things like that. Maybe… could that be it? I eat normal food, you know? But maybe the spices?
+DOCTOR: Paprika and turmeric can cause discoloration, yes. Though I find it improbable that would be the sole cause. Let's proceed with a quick examination. Please, have a seat on the examination table. We’ll start with a basic urine sample.
+PATIENT: Okay, okay. Urine sample. I can do that. Where do I… go? Is there a bathroom here?
+DOCTOR: Yes, just through that door. There are instructions inside. I'll be right here when you're finished. Please ensure you collect a midstream sample for the most accurate results.
+PATIENT: Okay. Midstream... right. Thank you, Doctor.
+DOCTOR: …Very well. We shall see what the lab reveals. It’s often something simple, though one must always be thorough.
+PATIENT: Here you go. Sorry it took a minute. It's... warmer than I'd like.
+DOCTOR: Quite alright. Warmth is not ideal, but acceptable. I’ll send this off to the lab. While we await the results, let’s review your medical history. Do you have any known allergies?
+PATIENT: No allergies. Never had any problems with food or medicine. My wife always asks, and I always say no. I’m pretty healthy, usually. Just… this orange pee thing. It’s worrying my wife more than me, to be honest. She’s always reading things online.
+DOCTOR: Online resources… often unreliable. And have you been taking any medications currently, prescription or over-the-counter?
+PATIENT: No, Doctor. Nothing. I don't like taking pills if I can avoid it. Just… sometimes a painkiller for my back, if it’s really bad after work. But I haven’t taken anything for a week, maybe more. I try to rest it, you know? Stretching.
+DOCTOR: Very well. And what sort of work do you do, Mr. Secondi?
+PATIENT: I’m an Engineering Technologist, mostly. I work with… machines, fixing them, making sure they work right. It's physical work, sometimes. That’s why my back hurts. Not all the time, though. It’s not a bad job, just… tiring.
+DOCTOR: Physical occupation. And do you have any family history of kidney problems, liver disease, or any other significant medical conditions?
+PATIENT: Hmm. My father... he had diabetes, but he was old. And my mother, she had high blood pressure. That's all I can really think of. No one else, really. We don’t talk about health much in my family, you know? It’s not… polite.
+DOCTOR: I see. And finally, do you smoke, drink alcohol, or use any recreational substances?
+PATIENT: No, Doctor. Never smoked. Maybe a glass of wine with dinner sometimes, but not every night. And no, definitely no other substances. I’m a simple man. I like my work, my wife, and a good cup of tea. That’s it.
+DOCTOR: Alright, Mr. Secondi. We’ve covered the pertinent details. We’ll await the laboratory results. It is likely a benign cause, such as dietary intake, however, we must rule out other possibilities. I will have the results sent to me as soon as they are available. In the meantime, if you experience any pain, fever, nausea, or changes in your bowel movements, please contact the clinic immediately. Do you understand?
+PATIENT: Yes, Doctor. I understand. No pain, no fever, no… changes. I will call if anything happens. Thank you. When will I know the results? About how long?
+DOCTOR: The lab typically takes 24 to 48 hours. My assistant will contact you with the findings. Now, if you will excuse me, I have other patients awaiting consultation.
+PATIENT: Okay. 24 to 48 hours. Thank you, Doctor. I’ll wait for the call. Have a good day.
+DOCTOR: Very well. You may leave.

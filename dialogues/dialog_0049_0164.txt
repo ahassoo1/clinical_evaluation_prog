@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Ms. Haggar. I’m Dr. Nestingen. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, it’s a bit strange, honestly. I’ve been feeling really tired and…yellow, for a few days now. It started after I had some fava beans with dinner. I didn’t think much of it at first, but it’s not going away.
+DOCTOR: Yellow, you say?
+PATIENT: Yes, my skin…and the whites of my eyes. It's hard to explain, but it’s definitely noticeable. My daughter pointed it out, and she’s usually pretty blunt. I thought maybe I was just run down, but it just seems…off, especially since it started with the beans.
+DOCTOR: Fava beans… interesting. And how long ago was this dinner with the beans, approximately?
+PATIENT: Hmm, let me think… it was… Tuesday evening, I believe. So, about three days ago now. I had them with some grilled fish and a salad. It was a nice meal, really. I haven’t eaten them before, or at least, not that I remember.
+DOCTOR: And you've noticed this yellowing – this…jaundice, as we call it – developing gradually over those three days?
+PATIENT: Jaundice? Is that what it’s called? Yes, that sounds right. It wasn’t sudden, no. It was just…getting more and more noticeable each day. I didn’t really connect it to anything until yesterday, when I remembered reading something about beans and…well, I don’t know exactly what, but something about making people sick. It's a bit scary, to be honest. I usually don’t get sick.
+DOCTOR: Alright. We need to rule a few things out. Have you had any abdominal pain?
+PATIENT: No, no pain at all. Not in my stomach, or anywhere else, really. Just very, very tired. And a little bit weak, I suppose. It's hard to describe. Like I could sleep for a week and still be exhausted. Is this something serious, Doctor?
+DOCTOR: It could be a number of things. Given the timing with the fava beans, we need to consider a possible enzyme deficiency. It's rather uncommon, but it presents with these symptoms. Have you noticed any dark urine, or pale stools?
+PATIENT: Oh, goodness. I… I don’t really pay much attention to those things, to be honest. I haven’t specifically looked, if you know what I mean. Let me think… maybe my pee was a little darker than usual yesterday, but I just thought it was because I didn’t drink enough water. And the…stools, I honestly can’t say. I’m sorry, Doctor. I'm not very observant when it comes to those details.
+DOCTOR: Alright. Well, we’ll need to do some blood work. It's the only way to be certain. We'll check your liver function, and run a G6PD level, to see if that’s the issue. I’ll have my nurse draw some samples. Do you have any known allergies to medications?
+PATIENT: No, no allergies that I know of. I’ve never really had a bad reaction to anything, thankfully. Blood work is fine, whatever needs to be done. I trust your judgement, Doctor. Is this something I should be worried about? Is it… contagious?
+DOCTOR: Contagious?
+PATIENT: Oh! I’m sorry, that was silly of me. I just… I get anxious when I don’t know what’s happening. It’s not contagious, is it? It just feels…weird, being sick like this, and it started with something I ate.
+DOCTOR: No, it’s not contagious. It’s a metabolic issue, not an infectious one. Now, let’s focus on getting these tests done. The nurse will be in shortly. Do you take any medications regularly?
+PATIENT: No, I don't. Nothing at all. Just vitamins, occasionally, when I remember. Nothing prescribed, though. Just a basic multivitamin, sometimes. Hopefully, it's just a vitamin deficiency then? Or something simple?
+DOCTOR: We'll see. Let's not jump to conclusions. While we wait for the lab results, I'd like to do a quick physical exam. It won’t take long. Let’s start by checking your abdomen. If you could lie down for me?
+PATIENT: Oh, alright. A physical exam… okay. I hope this doesn't take too long. I have a bit of a dentist appointment later this afternoon.
+DOCTOR: Alright, Ms. Haggar. I’m going to gently palpate your abdomen. Let me know if you feel any pain or discomfort. Any tenderness here?
+PATIENT: No, that’s… okay. A little firm, maybe, but no pain. Ooh, that’s a little… sensitive, right there. Not painful, exactly, but definitely feels… different. Does that mean something?
+DOCTOR: Mild tenderness in the right upper quadrant. Could be a number of things. And here?
+PATIENT: No, that’s fine. That’s alright. Everything feels… normal there, I think. It’s just that spot on the right side. Is it something serious, Doctor? You're making me nervous.
+DOCTOR: It's unlikely to be anything alarming at this stage, Ms. Haggar. However, we must rule out any underlying issues. Breath sounds are clear. As I suspected, significant jaundice present in the sclera. Skin also exhibits noticeable icterus. We'll need those lab results promptly.
+PATIENT: Oh. Okay. So, the blood tests are really important then? Is there anything I should be doing right now? Or avoiding? Should I eat anything specific? Or… nothing at all?
+DOCTOR: For now, maintain a normal diet. Avoid excessive alcohol. And try not to worry. It's unlikely to be something serious, but we need to get to the bottom of it. The lab results should be back within a few hours. I'll call you as soon as I have them. In the meantime, the nurse will discharge you with instructions. Any questions?
+PATIENT: No, I… I think that’s all, Doctor. Thank you for checking me out. I appreciate it. I’ll wait for your call. Hopefully, it’s nothing too bad. Thank you again.
+DOCTOR: Very well. Goodbye, Ms. Haggar.

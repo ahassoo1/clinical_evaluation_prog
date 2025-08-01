@@ -1,0 +1,19 @@
+DOCTOR: Good morning, Emileigh. I'm Dr. Trestrail. So, what brings you in to see me today?
+PATIENT: Um, hi. It's... a check-up, I think? My husband said I should come since we just moved here. I don't really... remember why exactly. It's all kinda new.
+DOCTOR: A general check-up. Alright. And when you say "new," are you referring to being a new patient here, or are you experiencing new symptoms?
+PATIENT: Both, I guess. New patient… and everything just feels… new. Like, I don’t remember the last time I had a check-up. And I've been feeling a bit… off, but I can't put my finger on it. Just tired, mostly.
+DOCTOR: "Tired." Okay. And how long have you been feeling tired?
+PATIENT: Umm… a while. Maybe a few weeks? It's hard to say, honestly. Things kinda blur together sometimes. It's not like, can't get out of bed tired, just… always a little bit drained, you know? Like I need more sleep than everyone else.
+DOCTOR: I understand. And has anything changed in the past few weeks, besides the move?
+PATIENT: Hmm… let me think. The move was pretty stressful, I guess. Lots of boxes, and… finding a new grocery store. Oh! And I started a new job, too. Mechanical stuff. It's... okay. A lot to learn. Does that count as a change?
+DOCTOR: Yes, that certainly counts. A new job and a significant move – that's quite a bit of adjustment. Mechanical work… is it physically demanding?
+PATIENT: Kind of? Not like, lifting heavy stuff all the time, but I'm on my feet a lot. And I have to… reach and bend and stuff. Sometimes it makes my back a little sore, but nothing major. Usually goes away with a good night's sleep. I'm not very good at explaining it, sorry.
+DOCTOR: It's alright. You're doing fine. Just trying to get a full picture. Let’s move on to some other things, then. Do you have any known allergies – to medications, foods, or anything else?
+PATIENT: Umm… allergies. I don’t think so. I haven’t had any… reactions to anything. But my husband usually handles all that stuff, so… I couldn’t really say for sure. He’d know if I was allergic to something, I guess. Is that okay? I'm really bad with remembering these things.
+DOCTOR: It’s… helpful to have a patient recall their medical history. However, we need to establish this information directly. We’ll note that your husband manages your medical information, but we need to confirm the details. Have you ever been hospitalized for anything?
+PATIENT: Hospitalized… I… think maybe when I was a kid? For chickenpox? But it was so long ago, I barely remember it. Everything's kinda fuzzy. My husband might know more about that, too. He remembers everything. Seriously, everything. I'm hopeless.
+DOCTOR: Alright. We'll continue to document that your husband is the primary source of your medical history. Let's discuss your current medications, if any. Are you taking any prescription or over-the-counter medications, vitamins, or supplements regularly?
+PATIENT: Just a multivitamin, I think? The kind my husband buys. It's… a big orange pill. I take it with breakfast most days. That’s about it. I don’t really like taking pills, so I try not to. I get headaches sometimes, but I just drink water and lie down. That usually helps. I don’t take anything special for them.
+DOCTOR: Okay. And what about any past surgeries?
+PATIENT: Surgeries… I don’t think so. No, definitely not. I haven’t had any surgeries. I… I’m pretty sure. Again, my husband would know if I had. He tells me everything. I feel bad, I'm not being very helpful, am I? It's like my brain is just… missing chunks. .
+DOCTOR: It's important for you to recall this information, Emileigh. We’ll document your husband's assistance, but we need to proceed with a basic physical exam to establish a baseline. Can you stand for me, please?

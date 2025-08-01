@@ -1,0 +1,41 @@
+DOCTOR: Good morning, Mr. Shanor. Welcome. I'm Dr. Smetak. It’s good to meet you. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just… need checkup for referee work. For fitness, you know? Want to make sure I’m okay to do it.
+DOCTOR: Right, a fitness checkup for your referee work. That's sensible. It's good you're being proactive. Just to get a good picture of things, could you tell me a little more about your work?
+PATIENT: Uh… I fix… the stuff around the court? When it break. Walls, floor… sometimes goal posts. Heavy work. It’s… hot too. A lot of lifting.
+DOCTOR: Okay, so it’s physically demanding work, involving lifting and working in potentially hot conditions. That gives me a better idea. And how long have you been doing this type of work, Mr. Shanor?
+PATIENT: About… eight years now. Before that… other things. But eight years fixing court stuff. It pay the bills.
+DOCTOR: Eight years... alright. Have you had any problems because of the work?
+PATIENT: Hmm… my back sometimes. Not bad enough to stop. Just… ache. And… I get really tired. But I think… everyone get tired, yeah?
+DOCTOR: I understand. Back pain and fatigue are common, but it's good you're bringing them up. Let's talk about the back pain first. Could you describe it a little more?
+PATIENT: It’s… lower back. Dull ache, mostly. After I lift a lot of heavy things. Sometimes it go away with rest. Sometimes not. Like… always there a little bit. Not sharp. Just… there.
+DOCTOR: Okay, a dull ache in your lower back, constant but varying in intensity, worse after lifting. And does anything specifically make it better, besides rest?
+PATIENT: Uh… sometimes… hot bath help. Or… stretching. But I don't always have time. Work busy.
+DOCTOR: Alright, so hot baths and stretching help some, but it's difficult to find the time. And when you say “busy”, how many hours a week are we talking, roughly?
+PATIENT: Usually… forty, forty-five hours. Sometimes more if something big break. Not a lot of holiday.
+DOCTOR: Forty to forty-five hours a week... that's a significant workload. Okay. Now, besides the back pain and fatigue, are you experiencing any other symptoms?
+PATIENT: No… not really. I get thirsty, a lot. But… it hot. Everyone get thirsty when it hot, right? And… sometimes… a little dizzy. But I think… low sugar. I don’t eat much breakfast.
+DOCTOR: Right. Thirst and dizziness… those could definitely be related to dehydration or low blood sugar, especially with the heat and skipping breakfast. We’ll want to check those things. Now, just to get a complete picture, have you had any significant medical problems in the past?
+PATIENT: No… nothing big. I had… the flu, last year. And… a broken arm when I was kid. But that a long time ago. Not much else.
+DOCTOR: Okay, flu last year and a childhood broken arm, otherwise generally healthy. Do you have any allergies to medications, food, or anything else?
+PATIENT: No allergies. I eat… everything. Take… sometimes pain pills for back, but no problems. Just… make me sleepy.
+DOCTOR: Okay, no known allergies, occasional pain medication use. Are you currently taking any other medications, vitamins, or supplements regularly?
+PATIENT: No. Nothing. Just… water. I drink a lot of water. Especially when I work.
+DOCTOR: Alright. No regular medications, just water. That’s good. Now, before we do a quick physical exam, would you mind if I ask about your family history?
+PATIENT: Family… hmm. My… mother had… high blood pressure, I think. Father… healthy. Always worked hard. Not much sickness.
+DOCTOR: Okay. Mother with high blood pressure, father healthy. That's helpful to know. And finally, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No. No smoking. Maybe… one beer, sometimes, with friends. Not often. And… no drugs. Never.
+DOCTOR: Alright, occasional beer, no smoking or recreational drugs. Thank you, Mr. Shanor, that gives me a pretty good understanding of your overall health. Now, if you don’t mind, I’d like to do a quick physical exam. We’ll check your blood pressure, listen to your heart and lungs, and I'll take a look at your back. Is that alright?
+PATIENT: Yeah, okay. Whatever you need. Want to finish quickly, if possible. Work… waiting.
+DOCTOR: Certainly. I'll be as quick as possible. Please have a seat on the exam table and we’ll get started. First, let's check your blood pressure.
+PATIENT: Okay.
+DOCTOR: Okay, heart sounds are regular and lungs are clear. Now, if you could just lean forward a bit, I’m going to gently examine your back. There's some tenderness when I press on your lower back here. Not severe, but definitely present. Do you feel any pain radiating down your leg?
+PATIENT: Yeah… a little. Down my left side. Not all the way to my foot. Just… to my knee. Sometimes. Especially after I lift something heavy.
+DOCTOR: Okay, so pain radiates down your left leg to the knee, especially after lifting. That's important information. Based on what you've told me, and the quick exam, it sounds like you may have a muscle strain or a possible issue with one of the discs in your lower back. It's not an emergency, but it does need to be investigated further. To get a clearer picture, I’d like to order some blood work to check your blood sugar and kidney function, and an X-ray of your lower back. Would that be alright?
+PATIENT: Yeah… okay. X-ray… good. Check everything. Blood work… okay too. Just… how long? Work… needs me.
+DOCTOR: I understand your concern about work. The blood work and X-ray should be relatively quick – I'd estimate results within 24-48 hours. We can schedule a follow-up appointment for when the results are available to discuss them in detail and create a plan. In the meantime, I recommend avoiding heavy lifting as much as possible, using proper lifting techniques when you do need to lift something, and applying ice or heat to your back as needed. Does that sound reasonable?
+PATIENT: Yeah… ice and heat… okay. Try to not lift… hard. Twenty-four hours… that okay. Follow-up appointment… when? Need to tell work something.
+DOCTOR: Okay, I've scheduled a follow-up appointment for you on August 7th at 10:00 AM. That gives the lab a few days to process the results. I'm also printing a short note for your work explaining that you’re undergoing some medical evaluation and may need to limit heavy lifting for a short period. It doesn't go into specifics, to protect your privacy. Does that sound alright?
+PATIENT: Yeah… August 7th… okay. Note for work… good. Thank you, Doctor. I… appreciate it.
+DOCTOR: You’re very welcome, Mr. Shanor. Just remember to rest when you can, listen to your body, and avoid heavy lifting as much as possible until we have the results. If you experience any sudden, severe pain, or if you notice any weakness or numbness in your legs, please go to the emergency room immediately. Do you have any questions for me before you go?
+PATIENT: No… I think that’s everything. Thank you again.
+DOCTOR: You’re very welcome. Please call the office if you have any concerns. Get well soon, Mr. Shanor.

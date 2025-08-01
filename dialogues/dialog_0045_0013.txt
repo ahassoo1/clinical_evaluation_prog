@@ -1,0 +1,20 @@
+DOCTOR: Alright, Mr. Hilber. So, you're here today… why don't you tell me what brought you in?
+PATIENT: Well, thank you, Doctor Billman. It's… it’s my water, I guess you could say. I just… I have trouble gettin' it all out when I go to the bathroom. It feels like there's always some left. It's been happenin' for a little while now. Not every time, but often enough it worries me.
+DOCTOR: Hmm. Trouble… completely emptying your bladder, you're saying?
+PATIENT: Yes, sir. That's right. Completely emptyin' it… no, not usually. It feels full still, even after I’ve tried. I gotta… strain sometimes, too. Not always, but when it happens, it's not a good feelin'. My wife… she always said I should come get this checked, but… well, she's gone now.
+DOCTOR: Okay. And how long has this been going on, roughly?
+PATIENT: Oh, goodness… let me think. It's been… maybe six months, now? Hard to say exactly. It started slow, just a little bit of trouble here and there. I thought it was just… gettin' older, maybe. But it’s been gettin' worse lately, that's why I decided to come in. I didn’t want it to be somethin' serious.
+DOCTOR: Alright. And are you experiencing any pain with urination?
+PATIENT: Not really pain, Doctor. More… a discomfort, I suppose. A burnin' sometimes, right at the end. And like I said, strainin' doesn't feel good. It’s not a sharp pain, just…uncomfortable. Mostly the feelin' of not gettin’ everything out bothers me the most.
+DOCTOR: Okay. Any fever, chills, or lower abdominal pain?
+PATIENT: No, sir, no fever or chills. And my belly… it doesn’t hurt, not really. Sometimes a little achy, but I get that sometimes anyway. Old age, you know? It’s not a constant pain, or a bad pain, just… a little ache now and then. Nothing like a proper stomach ache, though.
+DOCTOR: Alright. And have you noticed any changes in your urine itself?
+PATIENT: Changes in… the water? Hmm. Now that you mention it… maybe. It seems darker sometimes, a little cloudy. Not all the time, but I have noticed that. It used to be… clear, I think. Like it should be. But yeah, darker and sometimes a little cloudy. It’s hard to say for sure, I don’t pay much attention to it normally. But you're right, it hasn't been like it used to be.
+DOCTOR: Okay. We're going to need to do a quick urine test, just to see what's going on. Then I'm going to need to do a physical exam, including checking your prostate. It’s routine for this sort of thing, Mr. Hilber. Are you alright with that?
+PATIENT: A test… and checkin’ my… prostate? Oh. Well. I suppose so. If that's what you need to do, Doctor. I don't really like the sound of it, but… I want to know what’s wrong, if somethin’ is wrong. So, yes. Let's do what needs to be done. Is it… painful? I hope not.
+DOCTOR: It might be a little uncomfortable, Mr. Hilber. It’s not usually painful, but it's not the most pleasant experience, I won’t lie. We'll use lubricant to make it as comfortable as possible. First, let’s get that urine sample. I'll have a nurse bring you a cup and instructions. Just follow those carefully, and bring it right back to me. Afterwards, we'll do the exam. Do you have any questions before we start?
+PATIENT: No, I… I don't think so, Doctor. Just a little nervous, maybe. I haven't been to a doctor in a long time. Lubricant… good. That sounds… helpful. Okay. I’ll go do the water now, then. Just tell me where to take it when I'm finished. I appreciate you explainin’ things, Doctor. It helps to know what’s comin’.
+DOCTOR: Down the hall, first door on the left. There's a small room in there. The nurse will give you instructions. Just bring it back to me when you're finished, and we'll get started. Take your time.
+PATIENT: Alright. Thank you, Doctor. I'll be right back.
+DOCTOR: 
+PATIENT: .

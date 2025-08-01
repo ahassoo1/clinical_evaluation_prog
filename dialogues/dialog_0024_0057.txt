@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Ms. Luft. I am Dr. Mutnick. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Well, it's... it's about the cancer. It's been a little while since I last saw someone about it, and I wanted to get another check-up. My husband... he passed away last year, and things got... difficult, keeping up with appointments.
+DOCTOR: Cancer, you say. And you haven't been seen for some time. Very well. To clarify, what type of cancer were you diagnosed with, and when?
+PATIENT: Oh, um... give me just a moment. It was... breast cancer. I think stage two when they found it. That was... in 2022, I believe. September of 2022. It feels like a long time ago.
+DOCTOR: September 2022. Stage two breast cancer. And what treatment did you receive at that time, Ms. Luft?
+PATIENT: I had... chemotherapy first. For a few months. Then I had a lumpectomy. And... radiation after that. It was a lot. I don't remember all the names of the drugs, to be honest. Everything was just... happening so fast.
+DOCTOR: Understandable. A significant undertaking, certainly. And since completion of radiation, have you had any follow-up scans or appointments?
+PATIENT: I had appointments with a doctor for a little while after the radiation ended. They did a scan, I think, maybe six months after? Everything seemed okay then. But then... like I said, things got hard, and I didn't go back. It's been probably... a year? Since the last scan. I just... I wasn't sure where to start again.
+DOCTOR: A year. Ms. Luft, with a history of stage two breast cancer, a year without follow-up is… less than ideal. Do you currently have any symptoms that are concerning you?
+PATIENT: Oh. I... I didn't realize it was that long. I'm sorry. And... yes, actually. My breast... it's been feeling a little sore, on the same side as before. And I've noticed a small lump. It's not big, but it’s definitely there. It’s been there for a couple of weeks now, I think.
+DOCTOR: A sore breast and a new lump. Very well. We will need to examine you, of course. And likely order some imaging to assess the situation properly. Please, if you would, recline on the examination table. We'll begin with a physical exam of the breast and surrounding areas. Please inform me of any discomfort you experience during the examination.
+PATIENT: Okay. Yes, that sounds good. I... I hope it's nothing. But I'm glad I came in.
+DOCTOR: As you recline, I will palpate both breasts, the axillae, and the supraclavicular regions. This allows me to assess for any abnormalities. Now, tell me, Ms. Luft, is there any pain with this palpation?
+PATIENT: Yes, a little bit. Right... about here. It's not sharp pain, just... uncomfortable. And a little bit tender.
+DOCTOR: Tenderness in the upper outer quadrant. And the size of the lump, approximately?
+PATIENT: It's... hard to say. It feels small. Maybe... the size of a marble? Or a little smaller. I haven’t really measured it. It doesn't feel like it's grown a lot in the last few weeks, but... I haven’t been checking it every day.
+DOCTOR: And do you feel any lumps or swelling in your armpit, Ms. Luft?
+PATIENT: Yes, actually. A little bit. On the same side as the breast. It's... not very big, but I can feel something. It doesn't hurt, but it feels... different.
+DOCTOR: Supraclavicular nodes are… clear. Now, regarding your medical history, Ms. Luft, do you have any allergies to medications?
+PATIENT: No, I don’t think so. I haven't had any problems with medications before. I… I took some pain pills after the surgery, but nothing else regularly. I don't believe I'm allergic to anything.
+DOCTOR: Very well. And are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: No, I'm not. Just... vitamins sometimes. Nothing regular. I try to eat healthy, mostly.
+DOCTOR: Right. Given your history and the findings of this exam – tenderness and a lump in the left breast, and palpable lymph node in the axilla – we need to proceed with further investigation. I will order a mammogram and an ultrasound of the left breast. These imaging studies will help us to determine the nature of the lump and assess for any spread. Do you understand?
+PATIENT: Yes, I understand. A mammogram and an ultrasound. That sounds... good. I just want to know what's going on. When can I get those done?
+DOCTOR: I have scheduled you for a mammogram and ultrasound at the imaging center across the street tomorrow morning at 8:00 AM. The results will be sent to my office, and we will discuss them at your follow-up appointment next week. I will also send you a referral to a surgical oncologist for consultation, as a precaution. Do you have any questions at this time, Ms. Luft?
+PATIENT: A surgical oncologist? Oh. Is that... is that because you think it's bad? I mean, is it cancer again? I just… I was hoping it was just a cyst or something.
+DOCTOR: Ms. Luft, it is premature to speculate. We need the imaging results before we can determine the nature of the lump. A referral to a surgical oncologist is standard practice in these situations; it allows for a prompt assessment should surgical intervention be required. It does not necessarily indicate a recurrence of cancer. However, given your history, we must be thorough. We will proceed with the imaging and discuss the results next week. Is that understood?
+PATIENT: Yes. I understand. Imaging tomorrow, and then we talk next week. And the oncologist... just in case. Okay. Thank you, Doctor.
+DOCTOR: Very well. My office will contact you to schedule the follow-up appointment. You may get dressed. I have nothing further for you at this time.
+PATIENT: Okay. Thank you, Doctor.

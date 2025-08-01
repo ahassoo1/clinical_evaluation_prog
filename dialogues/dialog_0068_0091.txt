@@ -1,0 +1,21 @@
+DOCTOR: Good morning, Ms. Zicarelli. I’m Dr. Sham. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor Sham. Well, is just... I does be feeling very thirsty all the time. And hungry too. Even after I eat a good plate of food, I still feel like I need more. It not making sense, you know?
+DOCTOR: Hmm, thirsty all the time and still hungry after eating… alright. And how long has this been going on for, Ms. Zicarelli?
+PATIENT: Oh, let me see... maybe about a month or so now? It start slow, just feeling a little more thirsty than usual. But it get worse and worse each week. Now, is really bothering me. Is hard to concentrate on my work, you know? I keep having to stop and drink water.
+DOCTOR: A month… okay. And are you noticing any other changes?
+PATIENT: Changes? Hmm... Let me think. I does feel a little more tired than usual, yes. And I have to... go to the bathroom more often. Especially at night. Is annoying my husband, you know? He say I waking him up! But other than that... not really. Is just the thirst and hunger, and the tiredness.
+DOCTOR: Okay, increased urination, especially at night… Do you have any family history of diabetes, Ms. Zicarelli?
+PATIENT: Diabetes? Oh, now that you mention it... My auntie Rose, she had that. She was always taking pills for it. And my cousin, on my husband side, he have it too. But that is all I know, really. Nobody talk much about sicknesses in my family. Is just... not something we does discuss.
+DOCTOR: Alright. And are you currently taking any medications, Ms. Zicarelli?
+PATIENT: No, Doctor. I don't take any pills or anything. I try to stay away from those things if I can. I does drink a lot of bush tea, though. My grandmother teach me all sorts of remedies. But that is it. Nothing from the doctor, no.
+DOCTOR: Okay, no medications… And do you have any allergies to anything?
+PATIENT: No, Doctor. Not that I know of. I eat all kinds of food, and I never have any problem. I does get bitten by mosquito plenty, but that is just normal for Trinidad, you know? I never had a bad reaction to anything I eat or touch.
+DOCTOR: Alright. Ms. Zicarelli, given your symptoms – the increased thirst, hunger, frequent urination, and family history – it could be a sign of diabetes. But we need to do some tests to confirm. I want to order a blood sugar test, and a urine test as well. Would that be alright with you?
+PATIENT: A test? Yes, Doctor, that is fine. If you think is best, I trust you. I just want to know what is going on with me. Is just... worrying me, you know? So yes, a test is good. What I need to do?
+DOCTOR: Good. Alright. The blood sugar test requires you to fast for eight hours beforehand – no food or sugary drinks. We’ll take the sample first thing in the morning. The urine test you can do right now in the lab. I’ll have the nurse draw up the requisitions and explain everything to you. Do you have any questions about that?
+PATIENT: Eight hours? No food? Hmm... That will be hard. I does eat breakfast early, you know? But... if is necessary, I will do it. What time I need to come tomorrow? And is the lab easy to find? I don't want to get lost.
+DOCTOR: Okay, we can schedule you for 8:00 AM sharp. That will give you plenty of time before your usual breakfast. And the lab is right down the hall, just past the waiting room. The nurse will give you directions, it's very easy to find. We'll get the results back quickly. Until then, just try to drink water as you normally would. Do not try to change your diet. Does that sound clear?
+PATIENT: Yes, Doctor, that is clear. Eight o'clock tomorrow. No food, just water. And the lab is down the hall. I will remember. Thank you for explaining everything so clearly. Is good to know what is happening, even if is just to get a test.
+DOCTOR: Good. Alright, Ms. Zicarelli. We’ll see what the results say. The nurse will come in shortly to get you started with the urine test. Is there anything else I can address for you today?
+PATIENT: No, Doctor. I think that is all. You answer all my questions, and I feel a little better already. Just hoping the test is not too bad. Thank you for seeing me. I will see you tomorrow then.
+DOCTOR: Alright, Ms. Zicarelli. You take care now. And don't worry too much – we’ll figure it out. The nurse will be with you shortly. Have a good rest of your day. .

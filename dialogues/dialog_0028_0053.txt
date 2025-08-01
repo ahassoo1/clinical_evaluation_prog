@@ -1,0 +1,28 @@
+DOCTOR: Right. Kandy Yadao, 66. So, what brings you in today?
+PATIENT: Oh, hello Doctor... Memmolo, is it? Yes, it's my waterworks, really. It's just... difficult to go. Like it takes a long time, and I feel like it doesn't all come out, if you understand. It's been going on for... well, a few weeks now, I'd say. Maybe a month.
+DOCTOR: A month, you say. Difficult to… evacuate. And you feel incomplete emptying?
+PATIENT: Yes, that's exactly it! Incomplete. Like there's still some left, even when I'm finished. It's... unsettling. And it takes effort, you know? I have to really push sometimes, which I don’t remember ever having to do before.
+DOCTOR: Effort, pushing… alright. And has there been any blood in your stool?
+PATIENT: Oh, goodness no, no blood. Not that I’ve seen. Just… the difficulty. And sometimes, a little bit of dribbling afterwards, you know? Not a lot, but enough to be annoying. It’s just… not right. I'm usually very regular, if you get my meaning.
+DOCTOR: “Regular,” yes. Well, changes in bowel habits can be concerning. Any changes in diet recently?
+PATIENT: Hmm... not really. I eat pretty much the same as always. Lots of potatoes, some cabbage, a little bit of meat when I can get it. I did have a few extra blueberries last week, but I wouldn’t think that would make a difference. Honestly, Doctor, I don't think it's what I'm eating. It feels like something's... blocking things, maybe?
+DOCTOR: "Blocking things"... Alright. Do you experience any abdominal pain, cramping, or bloating?
+PATIENT: Well, sometimes a little discomfort. Not pain, exactly. More like a dull ache low down, you know? And yes, a bit of bloating, especially in the evenings. It feels… full. Like I haven't emptied properly, which I suppose makes sense, doesn't it? It’s not sharp, just… there.
+DOCTOR: Alright. And any family history of, shall we say, gastrointestinal issues?
+PATIENT: Oh, my goodness. Let me think... My mother had… well, she had problems with her stomach sometimes. Lots of gas, she always said. And my Uncle Jonas, he had… something. A blockage, I think? He had to go to the hospital. It was a long time ago, though. I don’t remember all the details. It wasn’t very pleasant, and we didn't talk about it much.
+DOCTOR: A blockage... Alright. Do you take any medications regularly?
+PATIENT: Just the ones the doctor gave me for my blood pressure, Doctor. A small white pill, once a day. And sometimes, if my arthritis is acting up, I take ibuprofen. But that’s only when I need it. Nothing else. Really, I’m a pretty healthy woman, for my age. Except for this, of course.
+DOCTOR: Alright. I’m going to need to do a quick physical exam. Just a basic abdominal palpation to assess for any… irregularities. Please lie back on the examination table.
+PATIENT: Oh, alright. Yes, that sounds sensible. A poke and a prod, is it? I hope it's not too unpleasant. My bones ache a little sometimes, you know.
+DOCTOR: Just lie flat, please. And try to relax. Now, tell me if anything feels particularly tender, or if there's any discomfort here. How about here?
+PATIENT: Oof! Yes, that’s… a little bit tender, actually. Not sharp pain, but definitely uncomfortable. Like a… a dull ache, right there. It’s always been a bit sensitive, but it feels worse today. Right around here.
+DOCTOR: Hmm. And what about here?
+PATIENT: No, that’s alright. Not tender there. It feels… normal, I suppose. It's really just that spot, Doctor. That’s where it bothers me. It's a bit like… a fullness, you know? Like something’s pressing on it.
+DOCTOR: Alright. Based on this brief examination and your description, it could be a few things. Constipation, fecal impaction, or potentially even a rectocele. I'm going to order a stool sample to rule out any infection, and I think a referral to a gastroenterologist for further evaluation, potentially a colonoscopy, would be prudent.
+PATIENT: Oh dear. A colonoscopy? That sounds… rather invasive, doesn't it? Is it absolutely necessary? I'm not a fan of doctors poking around where they shouldn't be, if you understand. What does a gastroenterologist do exactly? And what about this stool sample… is it difficult?
+DOCTOR: A colonoscopy allows us to visualize the entire colon and rectum to identify any abnormalities. It’s the most accurate way to rule out serious problems. And yes, it requires a bowel prep – essentially, a thorough cleansing – but it’s a necessary step. As for the stool sample, it’s a simple collection process – you’ll receive instructions. Here. This is the referral to Dr. Elina Petrova – she's excellent. And this outlines the instructions for the stool sample. It’s important to follow them precisely. Do you have any other questions?
+PATIENT: Oh. Well. That sounds… a lot. A thorough cleansing, you say? I suppose I have no choice. But what if Dr. Petrova wants to… I don’t know… do something? Surgery or something? And will my Medicare cover all of this? I worry about the costs, you know.
+DOCTOR: We'll cross that bridge when we come to it. Medicare should cover the necessary procedures, but you'll need to verify your coverage with them. And Dr. Petrova will discuss all options with you before proceeding with anything. Honestly, I’m simply referring you for further evaluation. I don't have a crystal ball. Do you need a work note?
+PATIENT: Oh. Very well. I suppose you're right. No, I don't need a work note. I'm retired, you see. Mostly, I just worry about… the discomfort, and everything being alright. I'll try to make an appointment with Dr. Petrova as soon as I can. Thank you, Doctor.
+DOCTOR: Alright. Well, follow up with Dr. Petrova, and if anything changes drastically, contact my office immediately. Have a good day. .
+PATIENT: Oh. Yes, you too, Doctor. Goodbye.

@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Fabing. I’m Dr. Sham. What brings you in to see me today?
+PATIENT: Good morning, Dr. Sham. Just need to get some forms filled out, that’s all. Medicare sent me over, said I needed to get everything updated.
+DOCTOR: Right, Medicare forms. Yes, they can be…extensive. Well, let's try to get through them as efficiently as possible. Just to confirm, you aren't experiencing any specific health concerns right now that prompted this visit beyond the forms?
+PATIENT: Nope, nothing like that. Just the forms. I feel good, all things considered. Working keeps me busy, you know?
+DOCTOR: Okay, good. I see here you’ve had previous visits… a few years back. Just to refresh my memory, and for the sake of the forms, could you tell me briefly what brings you in for medical attention usually?
+PATIENT: Um… well, a few years ago I had some trouble with my back, from work mostly. Lifting things, bending… that sort of thing. Physical therapy helped a lot though. Other than that, just regular check-ups, I guess. Nothing major. Is that what you need to know?
+DOCTOR: Back pain… yes, I see that documented. And physical therapy was effective. That’s good. Alright. And currently, are you experiencing any back pain now?
+PATIENT: Not really. Not like I used to. Maybe a little stiff if I’ve been on my feet all day, but nothing a good rest can’t fix. It's manageable.
+DOCTOR: Manageable stiffness… alright. Now, just for the forms, I need to go through a basic review of systems. Have you experienced any recent changes in your weight, appetite, or sleep patterns?
+PATIENT: Let's see… my weight's been pretty steady, thankfully. Appetite's normal, I eat when I'm hungry, haha. And sleep… well, I sleep okay. Sometimes it takes a little while to fall asleep, but I usually get a good seven or eight hours. Nothing too concerning, I don't think.
+DOCTOR: Steady weight, normal appetite, and generally good sleep… good. Any fever, chills, or night sweats recently?
+PATIENT: No, none of that. I haven’t felt sick at all. Just trying to stay healthy and keep working. It's been pretty warm out, so I’m drinking lots of water.
+DOCTOR: Alright, good. Any chest pain, shortness of breath, or coughing?
+PATIENT: No, thankfully. I’m pretty healthy, like I said. No chest pain or anything like that. I do a lot of walking at work, so I think that keeps my lungs clear.
+DOCTOR: Alright. Any abdominal pain, nausea, vomiting, diarrhea, or constipation?
+PATIENT: No, nothing like that. My stomach’s been fine. Regular as clockwork, you could say. Sorry to be so…plain. Everything just seems normal. Is this taking long? I have a bit of a drive back home.
+DOCTOR: No, no, it’s alright. It’s good that everything seems normal. Just trying to cover all the bases for the forms. Just a few more questions. Any headaches, vision changes, or dizziness?
+PATIENT: Nope, no headaches. Vision's okay, I wear glasses but haven't needed a new prescription in a while. And no dizziness either. Everything seems pretty solid up here.
+DOCTOR: Good. Any joint pain, muscle weakness, or skin rashes?
+PATIENT: Hmm… sometimes my knees feel a little creaky, especially after a long day, but that's just old age, I guess! No muscle weakness or rashes, though. Nothing to worry about.
+DOCTOR: Alright. And finally, just to confirm, are you currently taking any medications, or do you have any known allergies?
+PATIENT: I take a daily multivitamin, that's it. And no allergies, thankfully. Never had any trouble with medications or anything like that. I’m pretty lucky, I think.
+DOCTOR: Okay, Ms. Fabing. That completes the review. Everything seems… stable, as you’ve described. It sounds like you're doing well. I’ll go ahead and finish filling out these forms based on your responses. It might take me a few minutes. Do you mind waiting here?
+PATIENT: No, not at all. That’s perfectly fine. Just let me know when you’re done. Thanks, Dr. Sham. I appreciate you taking the time to ask all those questions, even if it was a little… thorough.
+DOCTOR: Yes, well, it's standard procedure. I’ll be right back.

@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Criston. Welcome to the clinic. I'm Dr. Bacy. It’s nice to meet you. So, what brings you in today?
+PATIENT: Good morning, Doctor. Nice to meet you too. I... uh... my pee is orange. It started a few days ago. Not sure why.
+DOCTOR: Okay, orange urine. That’s definitely something we want to look into. To start, can you tell me a little more about it?
+PATIENT: More... like, how orange? Is it... dark orange? Or light? And is it always orange? Or just sometimes? I drink a lot of water, usually. Maybe that has something to do with it?
+DOCTOR: That’s a good question, Criston – describing the color is helpful. Is it a dark amber orange, or more of a pale orange, like orange juice?
+PATIENT: Uh... maybe... like orange juice, but not as bright. More... faded? And it's pretty much every time I go. Not always super dark, but... orange. Definitely not normal color. I don’t know what normal color is anymore, honestly.
+DOCTOR: Okay, faded orange, consistently. That helps. And you mentioned you drink a lot of water – that’s good. Now, have you noticed any other changes when you urinate?
+PATIENT: Other changes... like what kind of changes? Is it… harder to go? Does it hurt? No, not really. It feels… normal going. Just the color is wrong. Maybe I'm just noticing it more now?
+DOCTOR: No pain or difficulty, just the color. Okay. Have you noticed any changes in your stool – the color or consistency of your bowel movements?
+PATIENT: My… poop? Uh… no, not really. Same as always, I think. Regular. Brown. Nothing… different. Sorry. Is that important?
+DOCTOR: It is important, Criston, don’t apologize! It helps me get a complete picture. Okay. Let’s talk about medications. Are you currently taking any prescription medications, over-the-counter drugs, or supplements?
+PATIENT: Uh… no, not really. Just… sometimes I take something for my back. It's an over-the-counter pain thing. Ibuprofen, I think? When it’s really bad. But not every day. And... vitamins, sometimes. Just a multivitamin, for health.
+DOCTOR: Okay, ibuprofen for your back occasionally, and a multivitamin. Good to know. Now, do you have any allergies to medications, foods, or anything else?
+PATIENT: No, I don't think so. Nothing I know of. My wife always asks me that, and I always say no. Never had a reaction to anything.
+DOCTOR: Alright, good. And, just to get a full picture of your health history, have you had any significant medical problems in the past – any surgeries, hospitalizations, or serious illnesses?
+PATIENT: Hmm… let me think. I broke my arm when I was a kid, a long time ago. And… I had the flu, really bad, maybe five years ago? Nothing… serious. No surgeries. My wife does most of the remembering for things like that.
+DOCTOR: Okay, a broken arm as a child and the flu a few years ago. That’s helpful. Now, let’s talk a little about your family. Do you have a family history of any medical problems, like kidney disease, liver problems, or cancer?
+PATIENT: My… family? Uh… my father had problems with his heart, I think. He died when I was young. And my mother… she had diabetes. But… that’s about it, I think. Nothing else I know of for sure.
+DOCTOR: I'm sorry to hear about your father and mother. Okay, so heart problems in your father and diabetes in your mother. Now, I'm going to ask a few questions about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no, no. I don't smoke. I don't drink much alcohol, maybe a glass of wine with dinner sometimes. And definitely no drugs. Never.
+DOCTOR: Okay, that's good to know. Alright, Criston, let’s do a quick physical exam. I’m going to listen to your heart and lungs, and I'd like to check your abdomen and take a look at your skin. Then I'll order a urine test to see what's going on. Is that okay with you?
+PATIENT: Okay, that sounds… good. Whatever you need to do, Doctor. Just… tell me if it will hurt.
+DOCTOR: Certainly. It shouldn’t hurt at all. Take a nice, deep breath for me... and exhale. Good. Now, I'm just listening to your heart and lungs. Everything sounds clear so far. Any history of shortness of breath or wheezing?
+PATIENT: No, no shortness of breath. Never. Sometimes I cough, especially in the winter, but… just a normal cough. Nothing bad.
+DOCTOR: Okay, good. Any tenderness here?
+PATIENT: No, that doesn't hurt. A little… firm, maybe? But not painful.
+DOCTOR: Okay, firm, but not painful. And how about here?
+PATIENT: Same. A little… pressure, but no pain. Just feels… normal. I eat a lot, maybe that's why it's firm?
+DOCTOR: That's possible. Your skin looks good – no yellowing or unusual spots. Now, I’m going to need a urine sample. The nurse will give you a cup and instructions. It’s just a routine test to check for infection and other potential causes of the orange color. Is that alright?
+PATIENT: Okay, that sounds… easy enough. A pee test. Right. Yes, that's alright. Where is the nurse?
+DOCTOR: Perfect. Let me just write a note for the nurse and she’ll be right in. It’s likely due to dehydration or a dietary factor, but we want to rule out anything more serious. We’ll get the results back as quickly as possible. In the meantime, are you experiencing any other symptoms at all – fever, nausea, vomiting, fatigue?
+PATIENT: No, nothing like that. Just the orange pee. And a little… worried, I guess. But no fever, no sick feeling. Just… orange.
+DOCTOR: Okay, good. We’ll get to the bottom of this. I'll have the nurse come in with the cup, and then we'll review the results together as soon as they're available. Do you have any questions for me right now?
+PATIENT: No, I don't think so. Thank you, Doctor. I… I appreciate you listening. Just… please let me know what it is when you find out.
+DOCTOR: Of course, Criston. That’s my job. I’ll be right back with the nurse.

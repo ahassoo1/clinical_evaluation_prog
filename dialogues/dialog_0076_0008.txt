@@ -1,0 +1,24 @@
+DOCTOR: Alright, Mr. Guerrerolopez, yes?
+PATIENT: Uh, yes. That's me. Look, I don't have a lot of time, so… what do you need to know? It's my ear, right? Feels blocked.
+DOCTOR: Yes, your ear. Blocked, you say. Right. Well, “blocked” can mean a lot of things. How long has it been blocked?
+PATIENT: Oh, goodness. That’s… a good question. A while, I think. Weeks, maybe? It comes and goes, you know? Hard to say exactly. My wife… she usually kept track of things like that.
+DOCTOR: Weeks. Right. And is it painful?
+PATIENT: Not really painful, no. More… annoying. Like when you're on a plane, that pressure? It's a bit like that, but not as bad. Just… full. It makes it hard to hear sometimes. Especially… well, I don't know, quieter sounds, I guess? It’s just bothersome.
+DOCTOR: “Bothersome.” Hmm. Any discharge?
+PATIENT: Discharge? You mean… something coming out of it? I… I don't think so. No. I haven't noticed anything. Honestly, I haven’t really looked at it, if that makes sense. It just… feels blocked. I just want it fixed, really.
+DOCTOR: Right. No discharge. And have you had any fever, sore throat, or recent cold symptoms?
+PATIENT: Fever… no. Sore throat… maybe a little tickle a few weeks back, but nothing bad. Just thought it was allergies. And a cold… oh, goodness, it’s been ages since I’ve had a proper cold. I try to stay healthy. Can we hurry this along? I have appointments.
+DOCTOR: Alright, alright. Let's just get this over with. I'm going to take a quick look. Open wide.
+PATIENT: Oh. Right. Yes, the ear. Just… be quick, please? It’s a bit sensitive.
+DOCTOR: Hmm. Yes, there's some cerumen buildup. Impacted, actually. Not surprising. It's obstructing the canal. This is quite common, you know. Do you use cotton swabs?
+PATIENT: Cotton swabs? Uh… sometimes. To clean it out. Is that… bad? My mother always used them. I thought that’s what you were supposed to do.
+DOCTOR: Yes, it’s bad. They just push the wax further in. Look, I can remove it for you. It’s a simple procedure. It might be a little uncomfortable.
+PATIENT: Uncomfortable how? Like… pain? Because I really don’t have a high tolerance for pain. And I have to be at a meeting this afternoon. Is there anything else I can do? Maybe just… leave it?
+DOCTOR: Look, it's not serious. It's wax. I can flush it out, or you can continue to poke around with cotton swabs and risk an infection. Your choice. I strongly recommend the flush. It takes two minutes.
+PATIENT: Oh, goodness. An infection sounds… awful. Fine. Just… be gentle, please. And quick. Really quick. I'm trusting you here. I have a lot riding on this afternoon. Just… get it over with.
+DOCTOR: Alright. Tilt your head to the side. This will feel a little strange.
+PATIENT: Okay, okay… Oh, that is strange. And a little cold. Just hurry, please. Hurry.
+DOCTOR: There. Done. Much better. Cerumen removed. You should have better hearing now. Try not to use cotton swabs. Now, is there anything else?
+PATIENT: Oh. It… feels clearer, yes. A little bit. I think so. I suppose that's… good. No, that’s all. Thank you. I really must be going. I appreciate your… quickness.
+DOCTOR: Right. Well, don't hesitate to come back if it gets worse. And please, no more cotton swabs. Have a good day. Some people, honestly… .
+PATIENT: .

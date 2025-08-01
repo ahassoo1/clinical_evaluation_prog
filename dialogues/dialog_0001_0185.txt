@@ -1,0 +1,19 @@
+DOCTOR: Alright, Zelina, is it?
+PATIENT: Yeah, that’s me. Look, can we just… get this over with? I took time off work for this, and honestly, it’s a waste of a perfectly good day.
+DOCTOR: Look, I get it, you're young, busy. But you are here, so let’s try to make it quick. What brings you in today?
+PATIENT: My breath. It smells. Bad. Okay? Like, really bad. My ex-husband… well, he made a lot of comments. Not that he was a prize, but still. It’s embarrassing, alright? And I don’t want my coworkers avoiding me.
+DOCTOR: Bad breath, huh?
+PATIENT: Yeah, “bad breath” is putting it mildly. It's… noticeable. Is there something you can give me? Like, a mouthwash or something? I really don’t have time for a whole investigation into why it smells, just… fix it.
+DOCTOR: "Fix it." Right. Look, I'm a doctor, not a magician. It's never just a simple fix. But fine, we'll start simple. Have you been to the dentist recently?
+PATIENT: Dentist? Uh… not really. It’s expensive, and honestly, I’m not a fan. They poke around… it’s unpleasant. Why? Does that matter? I just need something to mask the smell.
+DOCTOR: It matters a great deal. Bad breath, Zelina, can be caused by a lot of things – poor oral hygiene, sure, but also infections, sinus problems, even… other medical issues. We need to rule things out. But first, tell me... what's your usual daily routine when it comes to your teeth?
+PATIENT: Ugh, seriously? Fine. I brush… when I remember. And sometimes I floss. Okay? It's not like I never take care of them. Work is busy, I'm tired when I get home... it slips my mind. Is that a crime? Just tell me if a stronger mouthwash will do the trick. I don't need a lecture.
+DOCTOR: Look, I'm not trying to give you a lecture. But recommending a mouthwash without knowing the cause is… irresponsible. It could be something more serious. Alright. Let's do a quick exam, just to see what we’re dealing with. Open wide.
+PATIENT: Really? Fine. But make it quick. I have things to do.
+DOCTOR: Hmm. Some redness along the gums, a little tartar buildup… nothing immediately alarming. Tongue looks… normal. Do you have any pain when you swallow?
+PATIENT: No. No pain. It just… smells. It's embarrassing, that’s all. Can we just skip to the part where you give me something to fix it? I don't understand why this is so complicated.
+DOCTOR: Look, Zelina, I'm trying to be thorough. But alright, since you insist. Let’s start with the basics. I’m going to recommend a prescription mouthwash, chlorhexidine gluconate. It’ll help kill some of the bacteria causing the odor. But this is temporary. You need to improve your oral hygiene—brush twice a day, floss daily. And I strongly advise a dental visit. I'll write a referral. Do you have any allergies I should be aware of?
+PATIENT: Allergies? No, not really. Just… people who waste my time. And I guess I'm a little sensitive to strong smells, ironically enough. So, you'll give me the mouthwash? And then I can go?
+DOCTOR: Alright. Here's the prescription. Fill it at your local pharmacy. I'll also have the nurse print out a referral for a dentist. And honestly, Zelina, if this doesn't improve within a week or two, go to the dentist. You could have a serious infection. Any questions?
+PATIENT: No. None. Just… thank you. I'm going to go now. .
+DOCTOR: Waste of a perfectly good afternoon… .

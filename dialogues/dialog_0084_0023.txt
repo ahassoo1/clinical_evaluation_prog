@@ -1,0 +1,34 @@
+DOCTOR: Good afternoon, Mr. Bulaong. I’m Dr. Voytek. So, what brings you in today?
+PATIENT: Uh, hi Doctor. It’s my chest. It… hurts a little. Not all the time, but yeah, it hurts.
+DOCTOR: Okay. “Hurts a little” in your chest. Can you tell me a little more about that?
+PATIENT: Um… it’s… hard to say. It’s not like a bad pain, more like… a soreness? It’s… here. Mostly on this side. Sometimes feels like it goes all the way to my armpit.
+DOCTOR: Alright, soreness on your left side, sometimes radiating to your armpit. When did you first notice this soreness, Mr. Bulaong?
+PATIENT: Hmm… maybe a couple weeks now? I didn’t think much of it at first. Just figured I pulled a muscle… from work, you know? Roofing is hard. But it… hasn’t gone away.
+DOCTOR: Okay, a couple weeks. And you do roofing for work. Has the pain been getting worse, staying the same, or getting better since you first noticed it?
+PATIENT: I think… maybe a little worse. Not a lot, but I notice it more now. Like, when I move a certain way. Or… if I lay on it. It’s kinda annoying.
+DOCTOR: Alright. And is the pain constant, or does it come and go?
+PATIENT: It comes and goes. It’s not always there. Like now, it doesn’t hurt. But if I… reach up, or something… then it will start. It’s not a sharp pain, just… uncomfortable.
+DOCTOR: Okay, so it's brought on by movement, specifically reaching overhead. Do you feel any shortness of breath, nausea, sweating, or dizziness when the pain occurs?
+PATIENT: No, no shortness of breath. And I haven’t felt sick or… dizzy or anything. Just the pain. It’s just the pain. I don’t sweat more or… nothing like that. It just hurts, like a sore muscle. I don’t know.
+DOCTOR: Alright. Have you tried anything to relieve the pain – like over-the-counter pain relievers, heat, ice, or rest?
+PATIENT: Yeah, I took some… ibuprofen. Didn’t really help much. I tried a hot shower, that felt kinda good for a little bit, but it came back. Mostly I just… try not to move too much when it hurts. It's hard, with my job, though.
+DOCTOR: Okay. And do you have any other medical problems that you know of?
+PATIENT: Um… not really. I mean, I get tired easy, but that's… from work, I think. And my wife says I snore, but… that's it. No big problems. Nothing the doctor needs to know about.
+DOCTOR: Alright. Any surgeries or hospital stays in the past?
+PATIENT: No, never had any surgery. Never been in the hospital. I try to stay healthy. Mostly. Roofing is just… hard on the body. It gets to you after a while, you know?
+DOCTOR: Okay. And what about your family – any history of heart problems, lung issues, or anything like that?
+PATIENT: Hmm… my dad had… high blood pressure, I think. And my grandma, on my mom’s side… she had something with her heart, but I don’t really know what. It was a long time ago. Nobody else that I know of.
+DOCTOR: Alright. And are you currently taking any medications, vitamins, or supplements?
+PATIENT: No, nothing. I don’t really like taking pills if I can avoid it. Just… water. And sometimes coffee to wake up. Hard work makes you tired, you know?
+DOCTOR: Okay. Do you have any allergies to medications, food, or anything else?
+PATIENT: No, not that I know of. Never had a reaction to anything. I can eat anything, pretty much. My wife makes good food, so I eat a lot of different things.
+DOCTOR: Okay. Let’s do a quick physical exam. I’m going to listen to your heart and lungs, and then I’ll feel around your chest to see if I can pinpoint where the pain is coming from. Is that alright with you?
+PATIENT: Yeah, that’s fine. Whatever you need to do. Just… tell me if it’s gonna be cold. I don’t like cold things on my chest. It makes me shiver.
+DOCTOR: Alright. Okay, take a deep breath for me… and exhale. Another one. Good. Your lungs sound clear. Heart sounds are regular, no murmurs that I can detect at this time. I do notice some tenderness when I press here, on your left side. Does that feel like where the pain is?
+PATIENT: Yeah… that’s it. That’s where it hurts. Not bad pain, but… yeah. That’s the spot. When you push on it. It’s… weird. It doesn’t hurt all the time, just when you press.
+DOCTOR: Okay. Given your job, the tenderness I’m feeling, and the lack of other concerning symptoms, it’s possible this is a musculoskeletal issue – a strained muscle or inflammation of the cartilage in your rib cage. However, since you're experiencing chest pain, we need to rule out anything more serious. I'd like to order a chest X-ray just to be safe. Also, I want to check your blood pressure and heart rhythm with an EKG. Would that be alright?
+PATIENT: An X-ray… okay. If you think it’s a good idea. My wife always says I should go to the doctor more. Blood pressure and… EKG? That sounds… complicated. But yeah, if you need to do it, do it. I just want to know what’s wrong. I need to work, you know?
+DOCTOR: Alright. I understand. Let’s get those tests ordered. Nurse Anya will be in shortly to take your blood pressure and do the EKG. After that, we’ll get you scheduled for the chest X-ray. Once we have the results, we can discuss them and come up with a plan to get you feeling better. In the meantime, try to avoid any strenuous activity that aggravates the pain. And if the pain gets significantly worse, or you develop any shortness of breath, dizziness, or sweating, please go to the emergency room immediately. Do you have any questions for me right now?
+PATIENT: No, I think that covers it. Thank you, Doctor. Just… hoping it's nothing bad. I have bills to pay, you know? I'll just try to take it easy. And I'll see Nurse Anya, right?
+DOCTOR: Yes, you’ll see Nurse Anya. And I understand about the bills, Mr. Bulaong. We'll get to the bottom of this. She'll be in shortly to start the tests. Try not to worry too much, okay?
+PATIENT: Okay. Thank you, Doctor. I appreciate it. .

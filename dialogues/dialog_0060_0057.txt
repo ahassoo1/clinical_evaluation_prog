@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Chellsea. I’m Dr. Nooruddin. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Well, it's… about the cancer. I was told to come see someone about it. It’s been… a lot to take in, and honestly, I'm not sure where to start.
+DOCTOR: Alright. “About the cancer,” you say. Okay. Well, we’ll get started. First, let’s clarify. What kind of cancer were you told about?
+PATIENT: Um… they just said it was in my… chest. I think. It was a really fast appointment, and I was… upset. I don’t know the specific name, if that makes sense. They sent me here, and I have Medicare, so… I just came.
+DOCTOR: Right, right. Medicare… Okay. Well, “in the chest” is a bit vague. Was this diagnosed on an imaging scan?
+PATIENT: An… imaging scan? I think so. They took some pictures. Like… an X-ray, maybe? A big machine. I laid on a table. It was… cold. I was really scared, so I don't remember much else. They told me it was serious, and I needed to see a specialist, and then… this appointment.
+DOCTOR: Alright. So, we're starting from scratch here. Do you have any records from that appointment?
+PATIENT: Records? Like… papers? I don't think so. They just… told me. And gave me this appointment card. I don’t remember getting anything else. Here. This is all I have. I'm sorry. Is that… enough?
+DOCTOR: It’s a start. Unfortunately, “they told me” isn’t a diagnosis. We need to know what kind of cancer we’re dealing with, the stage, all of it. Alright, let’s start with a basic review of your health history. Have you ever been seriously ill before?
+PATIENT: Um… my husband… he passed away a few years ago. That was… hard. And I had the flu really bad once, when I was a kid. But other than that… not really. I’ve always been pretty healthy. Is this important? Is it about my husband? Because… it was a long time ago.
+DOCTOR: Your husband’s passing, I’m sorry for your loss, is not directly relevant to the current issue. However, a complete medical history is important. Have you ever had any surgeries?
+PATIENT: No. Never had surgery. Not even tonsils. I… I don't like hospitals. This is… a lot of questions. Will I need surgery? Is that what you're asking?
+DOCTOR: We’re not jumping to conclusions. I simply need to gather information. Now, what about your family?
+PATIENT: Family… my mother had… problems with her heart. She passed away when I was young. And my brother is healthy, as far as I know. We don’t talk much. Is this… going to take long? I have a little trouble sitting for too long.
+DOCTOR: “Problems with her heart”?
+PATIENT: Yes. She… she had trouble breathing. And she was always tired. They said it was her heart, something about… it not working right. I was young, I didn’t really listen to the details. It was a long time ago. I’m sorry I can’t be more helpful.
+DOCTOR: Alright. And do you smoke?
+PATIENT: No. Never have. My husband… he tried it once, but I made him stop. It smelled awful. Is that important?
+DOCTOR: It is. Now, let’s talk about medications. Are you currently taking any prescription or over-the-counter medications, vitamins, or supplements?
+PATIENT: No. Nothing. I don’t like taking pills. Just… this. It helps me feel better. My grandmother gave it to me.
+DOCTOR: Right. Well, that's… good. Let’s have a look at your chest. Please, have a seat on the examination table.
+PATIENT: Oh. Do I… have to take my shirt off? I’m not really comfortable… I just… I don’t like doctors. Is it really necessary?
+DOCTOR: Yes, it is. I need to listen to your lungs and feel for any abnormalities. You’ll need to undress down to your bra. I’ll provide a gown. It’s a standard examination. I will step out while you change.
+PATIENT: Oh. Um… okay. But… can you just tell me what you’re looking for? Just so I know… it’s just… I get really anxious. What will you do if you find something?
+DOCTOR: I am looking for any signs of masses, fluid buildup, or changes in your lung sounds. If I find something concerning, we will need to order further imaging—a CT scan, most likely—and possibly a biopsy to determine the nature of the problem. We will discuss all options at that time. Now, if you’ll excuse me, I have other patients waiting. Please, get changed, and I’ll be back in a moment.
+PATIENT: Okay. .
+DOCTOR: .

@@ -1,0 +1,25 @@
+DOCTOR: Right, Jailenne Aslan. 29 years old. So, what brings you in today?
+PATIENT: Oh, hi Doctor Ruocco. Well, I've just been getting the chills, on and off, for a few days now. It’s a bit annoying, really. Not a fever, just…cold.
+DOCTOR: Chills, you say?
+PATIENT: Yeah, chills. Like when you get cold, but it comes and goes. It's not horrible, but enough to make me notice. I was hoping to figure out what's going on, you know? Just in case.
+DOCTOR: "Just in case." Right. Well, everyone gets a little cold sometimes. Any other symptoms?
+PATIENT: Hmm… let me think. Not really, no. No cough, no sore throat, no runny nose… just the chills. I’ve been a little tired, maybe, but honestly, who isn’t these days? It’s just… persistent. That's why I wanted to check it out.
+DOCTOR: Tired. And…persistent chills. Have you traveled anywhere recently?
+PATIENT: No, not recently. Not at all. I’ve just been… around here. Work and home, mostly. I haven't been on a plane or anything. Does that matter?
+DOCTOR: Everything matters, theoretically. But no travel is…less concerning. What kind of work do you do?
+PATIENT: I'm a Health Education Specialist. So, ironically, I teach people about staying healthy. Mostly at a community center, doing workshops and stuff. It’s a bit embarrassing coming in here with chills when that’s my job, haha.
+DOCTOR: Irony is…lost on some people, I suppose. Do you spend much time around sick people, given your line of work?
+PATIENT: Yeah, sometimes. Not constantly, but people come to the center with all sorts of things. We try to be careful, you know, hand sanitizer and all that. But it’s unavoidable sometimes. It’s part of the job, I guess.
+DOCTOR: Sanitizer doesn't do much, honestly. Any body aches with these chills?
+PATIENT: No, not really. That’s another thing that's weird about it. No aches, no headaches, nothing like that. Just… cold, then not cold, then cold again. It’s really just the chills being annoying.
+DOCTOR: Hmm. Alright. Let's take a look at your chart...Height and weight are here...BMI is... acceptable. Any allergies I should be aware of?
+PATIENT: Oh, um… yeah, actually. I’m a little allergic to penicillin. Not a serious reaction, just a rash, but I always make sure to tell doctors. And… I think dust mites, maybe? Just a bit of sneezing sometimes.
+DOCTOR: Penicillin…dust mites…Right. Any medications you're currently taking?
+PATIENT: No, not regularly. Just… sometimes ibuprofen for a headache, if I need it. Nothing else. I try to avoid taking pills if I can, honestly.
+DOCTOR: Alright. Let’s do a quick examination. Just basic vitals, listen to your lungs, that sort of thing. Sit up on the exam table for me.
+PATIENT: Okay, sure. No problem. Let me just… adjust this gown a bit.
+DOCTOR: Lungs sound…clear. No wheezing or crackles. Temperature is normal. Blood pressure is... within range. Pulse is... adequate. Seems like a perfectly healthy young woman. Probably just a minor viral illness.
+PATIENT: Oh. Okay… so what does that mean? Is there anything I need to do? Or take? It’s just… I’m a bit worried about it lasting this long. Is it something I should be concerned about, even if it's minor?
+DOCTOR: Look, these things happen. Probably just a bit run down. Get some rest, drink plenty of fluids. If it gets significantly worse – high fever, difficulty breathing – then come back. Honestly, I’ve seen far worse. Don't waste my time – or yours – over a few chills.
+PATIENT: Oh… right. Okay. I understand. So just rest and fluids. I guess I was just hoping for a little more… reassurance, maybe? But okay. Thank you, Doctor Ruocco. I’ll keep an eye on it.
+DOCTOR: Yes, yes. Keep an eye on it. Don’t bother me unless it’s something serious. Next! .

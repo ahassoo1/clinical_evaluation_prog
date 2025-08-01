@@ -1,0 +1,23 @@
+DOCTOR: Alright, Mr. Bulaong. Have a seat. So, what brings you in today?
+PATIENT: Uh, hi. Thanks. It's… my chest. It hurts.
+DOCTOR: Hurts, you say. Okay. Can you tell me a little more about that?
+PATIENT: Yeah. It's… not like a bad pain, you know? More like… sore. Like, after you work hard. But… I haven’t been working that hard. I’m a roofer, so it’s normal to be sore, but this is… different. It's mostly on this side.
+DOCTOR: Right, a roofer. So it is normal to have some aches and pains. And this is… new?
+PATIENT: Yeah, new. Started… maybe a week ago? Not every day. Some days it’s okay. Some days… I just feel it. It doesn't feel like from lifting things. Not like a muscle. More… inside. It's hard to say, really.
+DOCTOR: Inside… okay. Any coughing?
+PATIENT: No, not really. Maybe a little, sometimes. Just normal coughs. Nothing bad. Not with… anything else. No fever or… I don’t know… spitting up blood? I don’t get sick much.
+DOCTOR: Alright. And you said it's mostly on your left side… does anything make it worse?
+PATIENT: Hmm… not really. It doesn’t hurt more when I move. Or when I touch it. That’s why I’m not sure what it is. Sometimes… when I lie down. Maybe a little. But it's not like a sharp pain. Just… aware of it. Does that make sense?
+DOCTOR: Okay, so… a dull ache, left side, sometimes worse when lying down, no fever, no cough… you're a roofer, so you’re generally quite fit… Let’s have a listen to your chest, alright?
+PATIENT: Okay, sure. That sounds good. I hope it's nothing bad. My wife… she worries a lot.
+DOCTOR: Breathing sounds are clear bilaterally. No wheezes, rales, or rhonchi. Heart sounds are regular. I do notice a slight tenderness when I press here on your left sternal border. Does that bother you?
+PATIENT: Ouch. Yeah, a little. It's not a bad pain, like I said. Just… feels sensitive. That's where it mostly hurts, I think. Is that… bad?
+DOCTOR: It could be a few things. Muscle strain, costochondritis – inflammation of the cartilage in your rib cage. Sometimes it can feel like it’s deeper than it is. Given your profession… it's not uncommon. Do you have any other symptoms?
+PATIENT: No, not really. Just… tired sometimes. But I am a roofer, so… No lumps. No… discharge. Nothing like that. My wife… she keeps checking, but I haven’t noticed anything. She said something about… men getting breast cancer too, but that sounds crazy, right?
+DOCTOR: While it’s true men can get breast cancer, it’s extremely rare, especially with no palpable mass. But it's good your wife is attentive. Given your history and the lack of significant findings, I'm going to lean towards a musculoskeletal issue – probably some inflammation from your work. But to rule things out completely… I'm going to order a chest X-ray. Just to be safe. And a basic blood work panel. Just to check your inflammatory markers.
+PATIENT: Okay. That sounds… good. I guess. I don’t want to worry my wife too much. How long does it take to get the results? And… will it cost a lot? I don’t have insurance, you know.
+DOCTOR: The X-ray and blood work should be relatively quick. A few days at most. As for the cost... I can write you a referral to the clinic's billing department to discuss payment options. They may have a sliding scale depending on your income. Look, it's unlikely to be anything serious, but it's always best to be thorough. We'll get the results, and if everything looks normal, we’ll likely recommend some rest, maybe some over-the-counter pain relief, and stretching exercises. Is that acceptable?
+PATIENT: Yeah, that sounds okay. Stretching sounds good. Thank you. And… I’ll go talk to the billing people. Should I schedule the X-ray now? Or do you want me to call?
+DOCTOR: I've already put in the order for you. They should call you to schedule an appointment within the next 24 hours. In the meantime, avoid any strenuous activity, and if the pain worsens significantly, or you develop a fever, or any shortness of breath, go to the emergency room immediately. Understood?
+PATIENT: Okay, yes. I understand. No heavy lifting. And… go to the ER if it gets worse. Thank you very much, Doctor Havird. I appreciate it. I’ll go home and rest. .
+DOCTOR: Alright. Take care, Mr. Bulaong. And try not to worry too much. It’s probably just a pulled muscle.

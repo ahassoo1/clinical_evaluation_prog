@@ -1,0 +1,36 @@
+DOCTOR: Alright, Mr. Barban. Welcome. So, what brings you in today?
+PATIENT: Yes, hello. The… the paper said I need this check-up before the insurance starts. Medicare, it is. Important to do, I think. My cousin, he said you need to do this before they will pay for anything.
+DOCTOR: Yes, Medicare requires a baseline physical for new enrollments, that’s correct. Good of your cousin to remind you. It’s… fairly standard. Just want to make sure everything is as it should be. Now, aside from fulfilling the insurance requirement, is there anything you’re specifically concerned about?
+PATIENT: Concerned? No, not really. I feel… fine. Usually. I work, you know. Food factory. Lots of lifting. Maybe a little tired sometimes, but everyone is tired, yes? It is hard work. I don't understand why we need to check everything if I feel okay.
+DOCTOR: Well, feeling “fine” isn’t always the whole picture, Mr. Barban. Sometimes problems develop without obvious symptoms. It’s better to catch things early. Especially with a physically demanding job like yours. We’ll just go through a standard checklist, alright?
+PATIENT: Standard checklist… hmm. Like at the DMV? I do not like checklists. They always forget something. But, okay. If it is required for the insurance, I will do it. What is first? Do you need to poke me already?
+DOCTOR: No poking yet, Mr. Barban. We'll start with some questions. I need to get a good history first. Let's start with your past medical history. Have you ever been diagnosed with any serious illnesses?
+PATIENT: Serious illnesses… no. Not that I know of. When I was small, maybe a fever a few times, like any child. But nothing the doctor needed to… to write down. No hospitals, no… nothing like that. I try to stay healthy, you know? Good food, work hard.
+DOCTOR: Alright. No major medical issues reported. Good. Any surgeries, even minor ones?
+PATIENT: Surgeries… no. Never had surgery. My mother, she had her gallbladder out when she was older, but that was in Yemen. Not here. I have not needed anything removed or fixed.
+DOCTOR: Okay, no surgical history. How about your family?
+PATIENT: Family… my father, he had… problems with his stomach, I think. Always complaining. But he did not go to the doctor much. Old ways, you know? My mother, she lived a long time. Healthy, mostly. A little trouble with her heart at the end, but she was old. My sister, she is fine. Lives in the city.
+DOCTOR: Alright. So, no significant family history of serious illness that you're aware of?
+PATIENT: Serious? Hmm. My uncle, he had… diabetes, I think. The doctor told him to eat less sweets. He did not listen. He liked baklava too much. Is that… serious? I do not know much about these things.
+DOCTOR: Yes, diabetes is quite serious, Mr. Barban. It's important information. Okay, so a family history of diabetes on your uncle’s side. Now, let's talk about you. Do you have any allergies?
+PATIENT: Allergies? No. I eat everything. Lamb, chicken, fish, vegetables… everything. Never had a problem. Sometimes my eyes water when I cut onions, but that is normal, yes? Not an allergy.
+DOCTOR: Right. No known allergies. And are you currently taking any medications?
+PATIENT: Medications? No. I do not take pills. I drink tea when I am sick. And rest. That is all. My cousin takes pills for his blood pressure, but I do not need anything like that.
+DOCTOR: Alright. No current medications. Okay, Mr. Barban, let’s move on to a physical exam. We’ll check your vital signs first, then listen to your heart and lungs. Just relax. I'm going to take your blood pressure now. Please extend your arm.
+PATIENT: Blood pressure… okay. But is this really necessary? I feel fine. I do not understand why we need to do so much. But fine. Do what you must.
+DOCTOR: It’s standard procedure, Mr. Barban. And it's important to establish a baseline, especially with a physically demanding job. Okay… 135 over 88. A little elevated, but not alarming. Now, let's listen to your heart. Take a deep breath for me… Heart sounds are regular, no murmurs. Lungs are clear. Now I'm going to check your reflexes.
+PATIENT: Reflexes? Like when the doctor hits your knee with that hammer? I do not like that hammer.
+DOCTOR: It’s a quick tap, Mr. Barban. Helps assess your nervous system. Please relax your leg. Good reflexes. Everything seems… within normal limits so far. Now, I’m going to briefly examine your throat and ears. Open wide and say “Ahhh.”
+PATIENT: Ahhh. This is… a lot of poking and looking. I still do not understand why this is necessary.
+DOCTOR: Throat looks clear. Ears are normal. Now, let's check your weight and height. I need you to step on the scale.
+PATIENT: Must we? I work hard all day, you know. Lifting boxes. Heavy boxes.
+DOCTOR: Alright, 90 kilograms. And your height is 1.88 meters. That puts your BMI at… 25.6. Slightly overweight, but not significantly so. Now, one last thing. I'm going to listen to your abdomen. Please lie back on the examination table.
+PATIENT: This is… undignified. I am a hard worker. I do not need to lie on a table to prove it.
+DOCTOR: Alright… everything sounds normal. No tenderness. Okay. Mr. Barban, based on this initial exam, everything appears to be within acceptable limits. But given your job and your slightly elevated blood pressure, I recommend a few blood tests to rule out any underlying issues. Specifically, I want to check your cholesterol, blood sugar, and kidney function. Would you be willing to have those done?
+PATIENT: Blood tests… more poking? I do not like needles. But, if it is for the insurance, I suppose. And to make sure everything is… acceptable, as you say. Fine. But do not take too much blood.
+DOCTOR: Just a standard vial, Mr. Barban. I'll write you a lab requisition. You can go to the lab downstairs, and they’ll take care of it. Once we have the results back, we can discuss them and determine if any further action is needed. In the meantime, I recommend trying to incorporate more fruits and vegetables into your diet and getting regular exercise if possible. And try to reduce your stress levels. Do you have any questions for me?
+PATIENT: Questions? No. Just… when will I get the results? I need to know if I am allowed to get the insurance. And I hope it does not take too long. This has taken a very long time already.
+DOCTOR: The lab usually takes 2-3 business days to process the results. Once they're back, my staff will contact you to schedule a follow-up appointment. We’ll review the results then. I will also make a note to prioritize this given the insurance requirement. Does that sound acceptable?
+PATIENT: Two to three days… acceptable. As long as it does not take longer. I have work to do, you know. Lifting boxes. This insurance better be worth all this poking and waiting. Thank you.
+DOCTOR: Alright, Mr. Barban. I'll have my staff hand you the lab requisition and some informational pamphlets on healthy eating and stress management before you leave. Please don't hesitate to call if you have any questions. Have a good day. .
+PATIENT: .

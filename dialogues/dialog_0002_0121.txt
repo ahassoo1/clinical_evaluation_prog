@@ -1,0 +1,32 @@
+DOCTOR: Hi Andrew, welcome in. I'm Dr. Ranjan. It's nice to meet you. So, what brings you in to see me today?
+PATIENT: Uh, hi Doctor. Just… my eyes. They feel real dry. Been that way a while now, I guess. Don’t like it.
+DOCTOR: Okay, dry eyes. I understand. That can be really bothersome. And you said it’s been going on for a while… could you tell me a little more about that?
+PATIENT: A while… hmm. Maybe… six months? Longer? Hard to say. I don’t really… keep track of that stuff. Just started botherin’ me more lately, I think. Especially when it's windy. We get a lot of wind here.
+DOCTOR: Right, six months or longer. And it’s been getting worse recently, especially with the wind, which makes sense. Okay. Do you feel like it’s both eyes, or just one?
+PATIENT: Both, I think. Hard to tell sometimes. They both feel scratchy. Not painful, just… dry. Like sand in 'em, maybe.
+DOCTOR: Okay, both eyes feeling scratchy, like sand. Do you notice any redness, blurry vision, or discharge with your eyes?
+PATIENT: Redness… not really. Vision's okay, I guess. Normal for an old guy. Discharge… no. Not that I’ve seen. Just dry.
+DOCTOR: Alright, no redness or discharge, and your vision seems okay. Do you use any eye drops or anything to try and help with the dryness?
+PATIENT: No. Never used nothin'. Just… try to blink more. Don’t seem to help much.
+DOCTOR: Okay, you haven't tried any drops. And blinking hasn’t been enough. Do you have any other medical conditions that you're aware of, like diabetes or arthritis?
+PATIENT: Nope. Not that I know of. Doc checked me up a few years back, said I was… alright. Old, but alright. I work with cement, you know. Keeps you busy.
+DOCTOR: Okay, you had a check-up a few years ago and were told everything was alright. You work with cement. That’s good to know. Working with cement can sometimes irritate the eyes. Do you wear any eye protection when you’re working with it?
+PATIENT: Sometimes. When I remember. It's hot work. Glasses fog up.
+DOCTOR: Okay, sometimes you wear eye protection, but it fogs up. I see. And are you currently taking any medications, even over-the-counter ones like pain relievers?
+PATIENT: Just… sometimes I take somethin' for my back. When it’s real bad. But not regular. Can’t remember what it's called. Little white pill.
+DOCTOR: Okay, a little white pill for your back when needed. We’ll try to figure that out if we need to. And do you have any allergies to medications or anything else?
+PATIENT: Nope. Not that I know of. Never had much trouble with nothin’.
+DOCTOR: Alright, no known allergies. Okay, Andrew, let’s do a quick exam of your eyes. I’m going to shine a light in them and check the surface. It won’t hurt. Just look straight ahead for me.
+PATIENT: Okay. Sounds alright. Just get it over with, Doc. I got things to do.
+DOCTOR: Okay. I'm seeing some dryness in both eyes, which is what you've been describing. Your tear film doesn’t seem to be spreading evenly across the surface of your eyes. It looks like you have mild dry eye. Do you have any pain when I touch your eye?
+PATIENT: No. Not really. Just feels… dry. Like rubbin’ yer eyes when yer tired.
+DOCTOR: Okay, no pain with touch, just the dry feeling. Given your history of working with cement and occasionally not wearing eye protection, along with the mild dryness I’m seeing, it sounds like you likely have dry eye syndrome, possibly exacerbated by environmental factors and some irritation. We can try some simple treatments first. I recommend using over-the-counter artificial tears several times a day, especially when you’re working or in windy conditions. I've got some samples here for you to try. I also recommend trying to use a humidifier in your home, especially in the winter. Would you be willing to try that?
+PATIENT: Artificial tears… sounds alright. Humidifier… that’s another thing to buy, ain’t it? I guess. Anything to get rid of this dryness. Give me the drops, Doc.
+DOCTOR: Yes, a humidifier is another purchase, but it can really help. Here are the artificial tears. I’m going to recommend using them four times a day to start, and see if that helps. If it doesn't, we can discuss other options, like prescription eye drops or a referral to an eye specialist. Do you have any questions about how to use the drops?
+PATIENT: Four times a day… alright. How do I put 'em in? I ain't done this before.
+DOCTOR: Okay, no problem at all. It's easy. First, wash your hands thoroughly. Then, gently pull down your lower eyelid to create a little pocket. Look up, and squeeze one or two drops into the pocket. Close your eye gently for a minute or two to let the drops spread. You might feel a little stinging at first, but that should go away quickly. And try not to touch the tip of the bottle to your eye. Does that make sense?
+PATIENT: Pull down the lid… squeeze a drop… don't touch the bottle… alright. Sounds… messy. I'll try it. Just hope it works.
+DOCTOR: It might feel a little strange at first, but you’ll get used to it. And hopefully it will help. We'll check in and see how you're doing in a couple of weeks. If you’re not seeing any improvement, or if your eyes get worse, please call the office, and we can schedule a follow-up appointment. Do you have any other concerns or questions for me today?
+PATIENT: Nope. I think that's it. Just want this dryness gone. Thank you, Doc. Let me get outta here, I got cement waitin’.
+DOCTOR: Alright, Andrew. You're very welcome. Remember to use those drops four times a day and see how you feel. I’m glad I could help. Here’s a card with the clinic’s number on it, just in case. Have a good day, and be careful out there with the cement!
+PATIENT: Okay. Thank you.

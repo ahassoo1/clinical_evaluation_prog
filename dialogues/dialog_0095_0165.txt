@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Mr. Brege. I'm Dr. Vanochten. So, what brings you in to see me today?
+PATIENT: Morning, Doc. Just been gettin' these fevers. Keep comin' back, ya know? It's… annoying, to say the least. I just wanna get it figured out and be done with it.
+DOCTOR: Okay, recurrent fevers. And how long have these been happening, roughly?
+PATIENT: Hmm… let me think. It started… oh, about three months ago, I'd say. Maybe a little longer. They don't happen every day, but they're regular enough to be a pain. Like, once a week, sometimes every few days. It's hard to keep track, honestly.
+DOCTOR: Alright, roughly once a week for the past three months. And when you get these fevers, can you describe what they feel like?
+PATIENT: Well, they just kinda… hit. I get chills, feel really tired, and then hot. Not like a bad sweat, just… warm. And a bit achy, you know? Like I did too much workin' in the garden. It usually lasts a few hours, then goes away. But then it comes back. It’s not the worst, but it’s wearin’ on me.
+DOCTOR: Okay, chills, fatigue, feeling warm, and some muscle aches lasting a few hours. Have you been checking your temperature when you have these fevers?
+PATIENT: Yeah, I got one of them thermometers. Digital one. It usually gets up to around 101, maybe 102. I don't bother writin' it down, though. Too much trouble. I just know I feel warm and achy, and that's enough for me.
+DOCTOR: Alright, so temperatures up to 101, 102. And just to be thorough, have you noticed any other symptoms with these fevers?
+PATIENT: Let me think… Sometimes a headache. Not a real bad one, just kinda dull. And I've been… a little more tired than usual, even when I don’t have a fever. But that could just be my age, ya know? I'm not gettin’ any younger.
+DOCTOR: Right, headache and some increased fatigue. Okay. And have you had any cough, shortness of breath, nausea, vomiting, diarrhea, or any changes in your urination or bowel movements?
+PATIENT: No, no cough. Breathin's fine. No upset stomach or nothin' like that. Everything's… regular, down there. Just the fever, headache, and feelin' tired. That's it. And it's gettin' old, Doc. Really old.
+DOCTOR: Okay. Let's talk a little bit about your medical history. Do you have any existing medical conditions that you’re aware of?
+PATIENT: Not really. I got my back, ya know? That’s why I’m a chiropractor. Helps keep things movin'. But no serious illnesses, nothin' like diabetes or heart trouble. I see a specialist for my back every now and then, but that's it. Mostly just aches and pains from workin' too hard.
+DOCTOR: Alright, so no major medical conditions besides some back pain. And have you ever had any surgeries?
+PATIENT: Nope. Never been under the knife. I try to stay outta trouble, ya know? I figure if I can fix other people's backs, I should be able to take care of my own. No need for cuttin’ if I can avoid it.
+DOCTOR: Okay, no surgeries. Now, are you currently taking any medications, including over-the-counter medications or supplements?
+PATIENT: Just some ibuprofen sometimes for the back pain. And I take a multivitamin, ya know, just to keep things healthy. Nothing fancy. Doc always tells me to take the multivitamin, so I do. But that’s it. Definitely not on any regular prescription stuff.
+DOCTOR: Alright, ibuprofen as needed and a multivitamin. Do you have any allergies to medications, food, or anything else?
+PATIENT: Nope. Never had a reaction to anything. I eat pretty much everything. My wife makes good cookin', so I don't complain. No allergies to worry about, thankfully. That would be a pain.
+DOCTOR: Okay, no known allergies. Now, let's talk a little bit about your family history. Are there any medical conditions that run in your family?
+PATIENT: Hmm… my mother had high blood pressure, I think. And my father… he had arthritis, bad in his hands. But that's about it, as far as I know. Nobody really talked about their health much. We weren't big on doctors back then.
+DOCTOR: Alright, history of high blood pressure in your mother and arthritis in your father. And finally, could you tell me a little bit about your social history?
+PATIENT: Sure. I'm married, been with my wife for 40 years. We live in the city, pretty quiet neighborhood. I retired a few years ago, but I still do a little work on folks sometimes. No kids, just us two. I don't drink much, maybe a glass of wine with dinner now and then. And I don't smoke. Pretty simple life, really.
+DOCTOR: Okay. Alright, let's do a quick physical exam. I'm going to listen to your heart and lungs, check your abdomen, and take your temperature again just to confirm. Is that alright with you?
+PATIENT: Yeah, sure. Whatever you need to do, Doc. Let's get this figured out. I got things to do, ya know? But go ahead. Quick as you can, if you don't mind.
+DOCTOR: Okay. Your heart sounds regular, lungs are clear. Abdomen is soft, no tenderness. Your temperature is 101.3 Fahrenheit. Blood pressure is 130/80. We'll want to run some blood work to see what’s going on. I'm going to order a Complete Blood Count, a metabolic panel, and a C-reactive protein. We'll also do a urinalysis just to rule out any infection. Does that sound good?
+PATIENT: Sounds… thorough. Okay, blood work. Fine. Just… how long is this gonna take? I got a garden to tend to, ya know? I hope it's not too long.
+DOCTOR: The lab usually takes about an hour or two to get the results back. We can call you when they're available, or you can wait here if you prefer. In the meantime, I'm going to recommend you drink plenty of fluids and get some rest. We'll go over the results as soon as we have them and discuss next steps. Does that work for you?
+PATIENT: An hour or two, huh? Alright, I guess I can wait. It's better than comin' back tomorrow. Callin' me is fine, though. I got a comfy chair at home. Just… let me know as soon as you have somethin'. I appreciate it, Doc.
+DOCTOR: Okay, we'll call you as soon as the results are available. In the meantime, if your fever spikes higher than 103, or if you develop any new symptoms like a severe headache, shortness of breath, or chest pain, please go to the nearest emergency room immediately. Do you understand?
+PATIENT: Yeah, yeah. Don't go above 103, watch for bad headaches, breathin' trouble, chest pain. Got it. I'm not tryin' to end up in the emergency room, Doc. I just wanna feel better. Thanks again. I’m gonna sit here and try not to think about germs. .
+DOCTOR: Okay. We'll be in touch soon.

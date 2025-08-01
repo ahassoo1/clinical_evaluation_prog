@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Ms. Steines. I am Dr. Mutnick. Now, let's not waste any time. You're ninety years old, so I assume there's something bringing you in today. Please be concise. What seems to be the problem?
+PATIENT: Well, good mornin’ to you too, Doctor. Concise, you say? My blood pressure's been up, that’s what. Nurse took it yesterday, said I ought to come see somebody. It just feels… tight sometimes. Like a band around my head. That's all.
+DOCTOR: "Tight," you say. Vague symptoms are… unhelpful, Ms. Steines. When did you first notice this “tightness”?
+PATIENT: Oh, Lord. When did I first notice…? It's been comin' and goin' for… a while now. Maybe a month or so? Hard to say exactly. I mostly just ignore things 'til they bother me real bad. It ain't been real bad, just… there.
+DOCTOR: A month of ignoring a potential cardiovascular issue. Fascinating. And has this “tightness” been accompanied by anything else?
+PATIENT: Cardio… what now? Look, I don't rightly know what that means. Just my head feels tight. Sometimes when I get up real fast, I get a little dizzy, but I get dizzy easy. Old age, you know. And sometimes my hands feel kinda numb, but I been doin' a lot of bakin' lately, so maybe that's it too?
+DOCTOR: Baking. Right. Ms. Steines, dizziness and numbness are not typically attributable to “baking.” Have you experienced any changes in your vision?
+PATIENT: Vision? Well now… that’s a good question. Seems a little blurry sometimes, but I always figured that was my glasses needin' cleanin'. Or maybe just… my eyes get tired easy, bein' as old as they are. I haven’t noticed anything different, if that makes sense.
+DOCTOR: And you haven’t experienced any chest pain, shortness of breath, or palpitations?
+PATIENT: Pal… what now? Oh, goodness. You're usin' big words again, Doctor. Let me see... chest pain, no. Short of breath... maybe when I'm climbin' the stairs, but who doesn't get outta breath climbin' stairs at my age? And pal… pit-a-tations? No, I haven't been goin' to parties lately.
+DOCTOR: Palpitations, Ms. Steines, refers to a racing or irregular heartbeat. Never mind. Let’s move on. Do you have any allergies to medications?
+PATIENT: Oh! A-ha! Now that I understand. No, not that I know of. Never had a bad reaction to nothin'. Took a lot of things over the years, for aches and pains mostly. Doctor always just gave me somethin', and I took it. Don’t recall ever havin' an allergy, though.
+DOCTOR: And are you currently taking any medications – prescription or over-the-counter?
+PATIENT: Let me see… well, I take somethin’ for my arthritis in my hands, somethin’ the doctor gave me a while back. Little white pills. Can’t recall the name, though. And sometimes I take somethin' for sleep, when I just can’t get comfortable. Just a little somethin', helps me rest. That’s about it, I reckon.
+DOCTOR: Very well. Let's have a listen to your heart and lungs, shall we?
+PATIENT: Fine by me. Just be gentle now, everything feels a little creaky this mornin’.
+DOCTOR: Please lie flat. Heart rate is somewhat elevated, slightly irregular. Lungs are clear, but breathing is shallow. Blood pressure is… as expected, given your reported symptoms. 160 over 90. Pulses are weak. Ms. Steines, your blood pressure is elevated, and your pulse is weak. We need to run some tests to determine the cause. I'm ordering a complete blood count, a basic metabolic panel, an EKG, and a lipid panel. I'll also need a urine sample.
+PATIENT: Oh, Lord. That’s a lot of tests. What… what’s all that mean? And what if somethin’s wrong? I just wanted to know why my head feels tight, not… all this.
+DOCTOR: Ms. Steines, it’s standard procedure. We are attempting to rule out any underlying cardiovascular issues. Elevated blood pressure can lead to serious complications. The tests will give us a clearer picture of your overall health. The nurse will take you to the lab for the blood and urine samples. Then, she will perform the EKG. Do you understand?
+PATIENT: I… I suppose so. Seems like a lot of fuss over a tight head. But… if that’s what you think is best, Doctor. Just… try to be quick, alright? I don't like bein’ poked and prodded. And I got bakin’ to do.
+DOCTOR: Very well. The nurse will be in shortly. I will review the results as soon as they are available. In the meantime, I recommend a low-sodium diet and light exercise – within your capabilities, of course. And please, do not self-medicate. Do you have any questions before I dismiss you?
+PATIENT: No, I… I think that’s all. Low salt, easy movin’, don’t take nothin’ on my own. Thank you, Doctor. I… I hope it’s nothin’ serious. I just want to get back to my kitchen.
+DOCTOR: We shall see, Ms. Steines. The nurse will escort you out. Dismissed.

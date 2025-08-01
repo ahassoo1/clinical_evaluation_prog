@@ -1,0 +1,29 @@
+DOCTOR: Alright, Chellsea. Twenty years old, right?
+PATIENT: Yes, ma'am. That is correct.
+DOCTOR: So. What brings you in today?
+PATIENT: It’s… it’s the cancer, Doctor. I found a lump, and… well, it’s been worrying me. It’s been getting bigger.
+DOCTOR: “Cancer.” Right. And you’ve self-diagnosed, have you?
+PATIENT: No, ma’am, not exactly. A friend… she’s a nurse, and she felt it too, and she said I really should get it checked out. She didn't say cancer, but… she was very worried. I just… I didn't know where else to start.
+DOCTOR: A friend. A nurse. Well. That’s… marginally better than you deciding yourself. Where exactly is this lump?
+PATIENT: It’s… right here, Doctor. Just above my collarbone, sort of towards the front. It’s not very big, but… like I said, it's been growing. It doesn't hurt, not really, but it feels… hard.
+DOCTOR: Hm. Alright. Let’s have a look. And don’t tell me it “doesn’t hurt.” Women your age always downplay things. Now, relax your shoulders. I need to palpate the area. Is this painful anywhere specifically?
+PATIENT: No, not really painful, Doctor. Just… a little uncomfortable with how hard you’re pressing, maybe? It feels… strange. Like it’s not supposed to be there.
+DOCTOR: Strange, you say?
+PATIENT: Yes, ma’am. It’s… hard, and it doesn’t move when I try to wiggle it. And it feels different than… well, than anything else around here. It just… feels wrong. I hope that makes sense.
+DOCTOR: It’s… concerning, yes. It’s not likely to be anything serious, mind you, young people get all sorts of… odd nodes. But we need to rule things out. Have you had any other symptoms?
+PATIENT: Other symptoms? Um… I’ve been a little tired lately, but I thought that was just from working. And… I guess I've had a little night sweats, but not every night. Just… sometimes I wake up feeling really warm. Is that… is that important?
+DOCTOR: Night sweats. Fatigue. Always with the vague symptoms. Alright. And what about weight loss?
+PATIENT: Weight loss… I haven’t really been trying to lose weight. But… now that you mention it, my clothes have been a little looser. I just thought it was… the summer heat. Maybe I haven't been eating as much. I don't know, Doctor. It’s probably nothing.
+DOCTOR: “Probably nothing.” That’s what everyone says. Alright. Let’s move on. Any family history of… anything like this?
+PATIENT: Um… Not that I know of, ma’am. My mom passed away when I was young, and… I didn’t really know my dad. I don't know anything about his side of the family. I don't think either of them had… anything like this. But I'm not sure. I don’t really have anyone to ask.
+DOCTOR: Alright. Well, we'll proceed as if there's nothing relevant on either side. Now, let me ask you about social habits. Do you smoke?
+PATIENT: No, ma’am. I don’t smoke. Never have. And I don’t drink much, either. Just… sometimes a glass of wine with dinner, if I'm out with friends. I try to be healthy. I really do. This is… scary.
+DOCTOR: “Scary.” It’s a lump, dear. Not a monster. Now, have you traveled anywhere recently?
+PATIENT: No, ma’am. Not really. Just… around town for work. I haven’t been on a vacation in… a long time. I don’t really have the money for that. Is this… is this serious, Doctor? I mean, you seem… worried.
+DOCTOR: Look, it’s too early to say. We need to get some tests done. A complete blood count, a chest X-ray… possibly a biopsy, depending on what those show. It could be a benign cyst, a swollen lymph node… or it could be something else. I won't sugarcoat it, there's a chance it could be malignant. I will order these tests. Do you have any allergies I should know about?
+PATIENT: No allergies, ma'am. None that I know of. A biopsy… that sounds… scary. What exactly does that involve? And… how long will it take to get the results?
+DOCTOR: A biopsy involves taking a small sample of the tissue and sending it to a pathologist to examine under a microscope. It’s a simple procedure, usually done in the office with a local anesthetic. As for the results, it typically takes a week or so. Don't fret, dear. I've seen much worse. I will have the nurse come in and draw your blood and get the order for your chest x-ray. Any questions?
+PATIENT: Um… Will Medicare cover all of this? I… I don't have a lot of money. And… what if it is something bad? What happens then?
+DOCTOR: Medicare should cover most of it, yes. But don't expect them to make it easy. As for what happens if it’s… something bad… we’ll cross that bridge when we come to it. There are treatments, of course. Chemotherapy, radiation, surgery… it depends on the type and stage. But let's not jump to conclusions, alright?
+PATIENT: Okay. I… I guess I’ll just wait for the tests, then. Thank you, Doctor. I hope it’s nothing. Really. .
+DOCTOR: Alright. The nurse will be in shortly. Don't worry yourself sick before you have to. And try to get some rest. It's likely nothing. Now, if you'll excuse me, I have other patients waiting.

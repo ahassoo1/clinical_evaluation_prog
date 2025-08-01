@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Ms. Paes. I am Dr. Jules. Now, please, tell me, what brings you in to see me today?
+PATIENT: Good morning, Dr. Jules. Well, it’s mostly my skin… it’s been getting darker, you know? And I’ve just been so tired lately, even when I get enough sleep. It's been going on for a few months now, I think.
+DOCTOR: Darker skin… and fatigue. Months, you say?
+PATIENT: Yes, a few months. Maybe four or five? It's hard to say exactly. It’s not like it happened overnight. It just… gradually got more noticeable. It's mostly on my arms and face, I think. And the tiredness is just… draining. It makes it hard to even get through my shift at the plant.
+DOCTOR: Right. And you work at… a plant?
+PATIENT: Yes, a chemical plant. I operate some of the systems there. It's pretty physical work, even with the machines helping. It's been my job for… oh, a long time now. I make sure everything runs smoothly, mostly. Do you need to know what kind of plant? I'm not sure that matters, really.
+DOCTOR: It could matter, Ms. Paes. Exposure to certain chemicals… is relevant. But we can get to that. Tell me, has anything else changed?
+PATIENT: Oh. Right. Chemicals. I hadn't thought of that… Let me think. Hmm… not really. I mean, my appetite’s been a little off, but that could be anything. And maybe a few more aches and pains than usual, but I'm getting older, right? Nothing major that I can think of. I haven’t noticed any… rashes or anything like that. Just the skin and the tiredness.
+DOCTOR: Appetite changes and… general aches. Very well. Do you have any known allergies to medications?
+PATIENT: No, not that I know of. I haven’t taken anything regularly for… well, years. Just the occasional pain reliever for a headache, and I’ve never had a reaction to those. I think. I’m pretty sure. Is that important?
+DOCTOR: It is standard procedure, Ms. Paes. Now, are you currently taking any medications, prescription or over-the-counter, vitamins, supplements… anything at all?
+PATIENT: Oh! Sorry, I thought you meant if I had allergies. No, I don't take anything regularly. Not a single thing. Just… sometimes I take a multivitamin if I remember. But I haven’t in a while, honestly. It's been sitting in the cupboard. I swear I'm not trying to be difficult! It’s just… I’m pretty healthy, usually.
+DOCTOR: “Pretty healthy.” Right. And what about your family history?
+PATIENT: Oh, family… Okay. My mother, she had… some problems with her blood sugar when she got older, I think. Diabetes, maybe? And my father, he had high blood pressure. That's what I remember, anyway. He passed away a long time ago. I don't really know much about their families before them, to be honest. We didn’t talk about that much. Does that help?
+DOCTOR: Diabetes and hypertension. Adequate. Now, Ms. Paes, let's proceed with a brief physical examination. Please, have a seat on the examination table.
+PATIENT: Okay. Sure, no problem. Is there anything specific I should be doing? Like, should I roll up my sleeves?
+DOCTOR: Yes, please roll up your sleeves. And your pant legs as well, to the knees. I need to examine your skin, naturally. And I will listen to your heart and lungs. Routine.
+PATIENT: Alright, all set. It's a bit chilly in here, isn't it? I hope this doesn't take too long. I have to get back to work this afternoon.
+DOCTOR: Hmm. Your lymph nodes are… within normal limits. Heart sounds are regular, though slightly tachycardic. Lungs are clear. Skin… exhibits areas of hyperpigmentation on the forearms and face. No rashes or lesions apparent. Blood pressure is 140/90. Slightly elevated.
+PATIENT: Oh. Elevated, you say? Is that bad? My father had high blood pressure, like I mentioned. And… tachycardic? What does that mean, exactly? Is my heart okay? I get a little nervous at the doctor, maybe that's why?
+DOCTOR: "Tachycardic" simply means your heart rate is elevated. It can be due to anxiety, as you suggest, but requires further investigation. Your blood pressure is mildly elevated, yes. We will need to run some tests. Blood work, and possibly an EKG. And given your occupation, a toxicology screen would be prudent. I will order these now.
+PATIENT: A toxicology screen? Because of the plant? Oh dear. Are you thinking something at work is… causing this? That’s a little worrying. I've been working there for so long… I always thought we were careful with safety. What exactly are we looking for?
+DOCTOR: It is standard protocol, Ms. Paes, given your exposure to chemicals. We are assessing for potential heavy metal toxicity or other contaminants. It is a precautionary measure. Do not be alarmed. We will obtain a blood sample now. The lab technician will be in shortly.
+PATIENT: Okay. A blood sample… right. Okay, I understand. Precautionary. That makes sense, I guess. It's just… a little unsettling, to be honest. Is it going to be a lot of blood? I’m not a big fan of needles.
+DOCTOR: It is a standard venipuncture, Ms. Paes. A small amount of blood. The technician is quite skilled. It will be over quickly. And frankly, we need to rule out other possibilities before attributing your symptoms to anxiety. She should be here any moment.
+PATIENT: Okay. Alright. Just… let me know when she’s coming. I just need a moment to… prepare.
+DOCTOR: Very well. She is here now. The technician will explain the procedure. I will be back shortly to discuss the results once they are available. .
+PATIENT: .

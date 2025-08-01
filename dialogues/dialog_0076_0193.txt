@@ -1,0 +1,22 @@
+DOCTOR: Alright, Mr. Goodstein, let's get right to it. You're 39, right?
+PATIENT: Yes, sir. That is correct. Thirty-nine years of age. August 2nd, 2025, if you need the date for the record. I remember dates very well.
+DOCTOR: Yes, yes, the computer has all that. So, what brings you in today?
+PATIENT: Well, it is… a little embarrassing, to be honest. I have… a lot of gas. More than usual. It is… uncomfortable, and sometimes… loud. I was hoping you could help me with it. It’s been happening for… oh, maybe a month now, I think.
+DOCTOR: Gas?
+PATIENT: Yes, sir. Flatulence, if that is a better word. It is… frequent. And it smells… not good. I try to be polite, but it happens, you see. It makes me feel… self-conscious. I work at the diner, and well… you can imagine.
+DOCTOR: Look, Mr. Goodstein, with all due respect, people get gas. It’s… normal. Have you changed anything in your diet recently?
+PATIENT: That is a good question, sir. Let me think… Not really. I eat pretty much the same things I always have. Burgers, fries… sometimes a milkshake. We have good milkshakes at the diner, you see. No, I don’t believe I’ve changed my diet. Perhaps it is the burgers? Though I have been eating them for years…
+DOCTOR: Alright. And any other symptoms?
+PATIENT: Other symptoms? Hmm… let me see. My stomach sometimes feels a little bloated, sir. And… a little cramping, now and then. Not terrible pain, just… discomfort. No… no nausea, no fever, nothing like that. Just the gas, the bloating, and a little cramping. It doesn’t keep me up at night, but it is… annoying.
+DOCTOR: Bloating and cramping… right. Any change in your bowel habits?
+PATIENT: That is… a personal question, sir. But I will answer it. No, not really. Everything is… regular, if you understand what I mean. Not constipation, not diarrhea. Just… normal. Except for the gas, of course. It is the gas that is the problem. It is very… disruptive.
+DOCTOR: Alright. Any family history of… digestive issues?
+PATIENT: That is a good question. Let me think… My mother, she had… stomach troubles sometimes. She would complain of heartburn, mostly. And my grandfather, on my father’s side, he had… something with his intestines, I think. But I don’t remember the details. It was a long time ago. They didn’t talk about these things much. But yes, some stomach trouble on both sides, if that helps.
+DOCTOR: Alright. And do you smoke?
+PATIENT: No, sir. I do not smoke. Never have. I tried it once, a long time ago, but I did not like it. It made me cough. And my mother would have been very upset. I prefer a nice glass of water with my burger, thank you very much. It helps with the… digestion, you see. Though it does not seem to be helping with the gas.
+DOCTOR: Okay. Let's just do a quick exam. Lie down on the table. I need to listen to your abdomen. And try not to… well, you know.
+PATIENT: Yes, sir. Of course. I will lie down. I will try my best not to… you understand. Is there anything I should do? Like, should I relax my stomach muscles? Or just… breathe normally? I want to be helpful.
+DOCTOR: Alright. Abdomen is… soft. Some mild distension, but nothing alarming. Bowel sounds are… present. It doesn't sound like anything serious, but… look, frankly, I think it's likely something dietary. Try cutting back on carbonated beverages and… perhaps the burgers for a week. See if that helps. If it persists, come back. Is there anything else?
+PATIENT: Cutting back on burgers… That is… difficult, sir. But I will try. For my health, of course. And for the politeness of others. No… no, I don’t think there is anything else. I have told you everything I can remember. Thank you for listening, sir. I appreciate your help. So, no more burgers for a week? Even the small ones?
+DOCTOR: Look, Mr. Goodstein, I'm a busy doctor. A week. Try it for a week. If it doesn't help, then we'll talk about more tests. Now, if you'll excuse me… I have other patients. .
+PATIENT: Yes, sir. A week it is. No burgers. I understand. Thank you again for your time. I will see you again if the problem persists. Goodbye, sir. .

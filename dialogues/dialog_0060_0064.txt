@@ -1,0 +1,40 @@
+DOCTOR: Alright, Sherion, have a seat. So, what brings you in today?
+PATIENT: Oh, hello Doctor. Thank you. It’s my chest, you see. It’s been… not good. A little pain, mostly.
+DOCTOR: Hmm. “Not good.” Can you tell me a bit more about that pain?
+PATIENT: Okay, okay. Well, it’s not a sharp pain, you know? More like… a squeezing. Like someone is hugging my chest too tight. It comes and goes. Mostly when I walk, or… when I get excited. Not scared excited, just… happy excited! Like when my grandkids visit.
+DOCTOR: Right. Squeezing, with activity or strong emotion. And how long has this been going on for?
+PATIENT: Oh, goodness. Let me think… Maybe… three months now? It started small, I didn’t pay much mind. Just thought I was getting old! But it’s happening more and more.
+DOCTOR: Three months. And has it been getting steadily worse, or does it come and go in waves, even within those three months?
+PATIENT: Waves, I think. Definitely waves. Some days I barely notice it. Other days… well, other days I have to sit down. It’s not always bad, you understand? That’s why I waited so long to come. I didn’t want to bother you with something that might just be… nothing.
+DOCTOR: Right. It’s good you did come in, even if it's just to get it checked out. Have you noticed any pain radiating anywhere – like to your arm, jaw, or back?
+PATIENT: Oh! Yes, yes, sometimes. My left arm… it gets a little achy. Not like a bad ache, more… heavy. And sometimes, just a little bit, in my jaw. Like when you go to the dentist and it feels… tight? But not as bad, of course.
+DOCTOR: Okay, ache in the left arm and some tightness in the jaw that comes with the chest pain. Any shortness of breath, nausea, sweating, or dizziness when you’re experiencing this?
+PATIENT: Hmm… Shortness of breath… yes, a little bit. Not like I can’t breathe, but… I get winded easier. When I climb the stairs, for sure. Sweating… no, not really. Dizziness… maybe once or twice, but I thought that was just from standing up too fast. You know, old lady problems!
+DOCTOR: Right. Let's not dismiss anything as "old lady problems." Alright. Have you ever had anything like this happen before?
+PATIENT: No, never. Not like this. I’ve had the usual aches and pains, of course. But this squeezing… this is new. My husband, Carlos, he keeps telling me to come, but I always say I’m just fine. He worries too much!
+DOCTOR: Well, Carlos sounds like a sensible man. Okay, let's talk a little bit about your medical history. Do you have any existing medical conditions, like high blood pressure, high cholesterol, or diabetes?
+PATIENT: Oh, let me think… The doctor told me a few years back my blood pressure was a little high, but he gave me a little pill. I take it every day. And… oh! My cholesterol, he said that was a little high too, but he said not to worry too much about it. He put me on another little pill for that one. Everything else… I think I’m pretty healthy, for my age.
+DOCTOR: Alright, so you’re on medication for high blood pressure and high cholesterol. Do you know the names of those medications?
+PATIENT: Oh dear… No, I don’t. I just take the little white one and the little blue one every morning. I have Carlos fill the bottles, and he reminds me to take them. I’m not very good with names, you see.
+DOCTOR: Alright, that’s fine. We can look those up in the system. Any allergies to medications, food, or anything else?
+PATIENT: No, no allergies. I eat everything! Carlos makes wonderful arepas, but sometimes they’re a little spicy. But that’s not an allergy, just… my stomach complaining.
+DOCTOR: Right. And have you had any surgeries or been hospitalized for anything in the past?
+PATIENT: Oh, let me think… When I was a young woman, in Colombia, I had my tonsils out. And… and when my youngest son was born, I had to stay in the hospital for a few days. That was a long time ago, though. Nothing since then, thankfully.
+DOCTOR: Okay, tonsillectomy as a young woman and a brief hospital stay after your son’s birth. Let’s talk about your family. Is there any history of heart disease, stroke, or diabetes in your family?
+PATIENT: Oh, yes. My father… he had a bad heart. He was always tired, and then… then he just stopped. And my aunt… she had the sugar sickness, diabetes. She had to take shots every day. It was very hard for her.
+DOCTOR: Okay, a father with heart disease and an aunt with diabetes. That's important to know. And finally, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh, no, never! I don't smoke, not even a little bit. And I don't drink alcohol either. Carlos likes a little beer sometimes, but I don’t. And drugs? Oh, no, absolutely not. I’m a good Colombian woman!
+DOCTOR: Alright. Well, Sherion, based on what you’ve told me, your symptoms – the squeezing chest pain, radiating to your arm and jaw, associated with activity and emotion, combined with your family history and existing health conditions – are concerning. I’d like to listen to your heart and lungs, check your blood pressure, and order an EKG and some blood work to get a better picture of what’s going on. Does that sound alright?
+PATIENT: Yes, that sounds good, Doctor. Whatever you think is best. I trust you. Just… please tell me if it’s something serious, okay? I don’t want to worry Carlos too much.
+DOCTOR: Alright. Let's get started. Please lie back on the examination table. First, I’m going to listen to your heart and lungs. Take a deep breath in… and out…
+PATIENT: Okay. Deep breath… like this?
+DOCTOR: Hmm. Your breathing sounds a little wheezy, but nothing alarming. Heart rate is a bit fast, but that could be from the anxiety. Blood pressure is… 145 over 90. A little elevated, but not unexpected given your history. Now, I need to do a quick EKG, just to check your heart's electrical activity. It's painless, I just need to attach these little stickers to your chest, arms, and legs. Do you mind if I expose your arms and legs briefly?
+PATIENT: Oh, okay. No, no problem. You need to do what you need to do.
+DOCTOR: Alright. Just try to relax and lie still. This will only take a few minutes. While that’s running, I’ll order the blood work. It will check your cholesterol levels, blood sugar, and a few other things. We'll need to get a phlebotomist to draw some blood. Have you had blood work done recently?
+PATIENT: Oh, yes. A few years ago, when the doctor first put me on the pills. I don’t like needles, but… I know it’s necessary.
+DOCTOR: Alright. The EKG isn't showing any acute changes, but there are some minor abnormalities that warrant further investigation. The blood work will help us get a clearer picture. I'm going to have the nurse come in and draw your blood now. After that, I’ll discuss the results with you and we can decide on the next steps. Do you have any questions for me before she comes in?
+PATIENT: Oh… um… Will… will I have to have surgery? That’s what I’m most afraid of. Carlos, he’s not good with hospitals.
+DOCTOR: Let’s not jump to conclusions. We don't have enough information to talk about surgery right now. The blood work and the EKG are just initial tests. We need to see the results before we can even consider what, if any, further steps are needed. It’s likely we'll just need to adjust your medication, but we need to rule out anything serious first. The nurse will be in shortly. Try to relax, okay?
+PATIENT: Okay. I’ll try. Thank you, Doctor.
+DOCTOR: Alright. I'll be back to discuss the results once they are available. .
+PATIENT: .

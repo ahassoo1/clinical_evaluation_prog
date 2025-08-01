@@ -1,0 +1,23 @@
+DOCTOR: Right, yes. Well, let’s get this over with. Mr. Parascondola, is it?
+PATIENT: Yeah, that’s me. Ricky Parascondola. It’s…it’s my foot, see? Been botherin’ me for a bit now.
+DOCTOR: A “bit now,” right. And what exactly does “botherin’” mean?
+PATIENT: Well, it’s swollen. Mostly around the ankle, but it goes up a little bit into my foot. It’s kinda achy, too. Not sharp, just…heavy, y’know? Like I been walkin’ through mud all day. It's the left one. Left foot, definitely.
+DOCTOR: Achy, heavy…mud. Okay. And when did this…mud-like sensation start?
+PATIENT: Hmm…let me think. It was…around the first week of July, I reckon. Yeah, definitely July. I was helpin’ my cousin move some stuff, boxes mostly, up into his attic. It didn’t hurt then, not really. Just felt a bit tired, like any normal movin’ day. But then a few days later it started swellin’.
+DOCTOR: Boxes…attic. And you didn’t think to mention this sooner?
+PATIENT: Well, I figured it’d go away on its own, y’know? I’ve always been good at just…pushin’ through things. Didn’t wanna bother the doctor for somethin' that might just be a little strain. But it ain’t goin' away, and now it's…well, it’s harder to get around. Especially in the heat. It's been awful hot.
+DOCTOR: Right. Well, let's have a look then. Please, have a seat on the examination table. And try not to make this take all day, I have other patients.
+PATIENT: Okay, okay. No problem. I won’t take long. It's a bit high, this table, innit? Everything seems a bit bigger these days, maybe it's just me.
+DOCTOR: Hmm. Yes, swelling is present. Ankle is…robust. Let me palpate around here. Tenderness upon palpation. Is that painful?
+PATIENT: Oof! Yeah, that’s a bit tender, alright. Not like a sharp stab, more like…a dull ache, like someone’s squeezin’ it. Right there, where you touched, yeah. That's the spot.
+DOCTOR: Right. Tenderness. Dull ache. We’ve established that. Any numbness or tingling?
+PATIENT: No, no numbness or tingling. Everything feels…normal, just swollen and achy. I can move my toes, see? All ten of 'em still workin'. I can point 'em and everything. Just…not comfortable doin' it.
+DOCTOR: Alright, alright. I need to check your pulses. Please lie flat. Pulses are…present. Weak, but present. You mentioned helping your cousin move things in July. Anything else happen?
+PATIENT: No, not really. Just the usual. Workin', comin' home, watchin’ the news. Oh! I did slip on the stairs a couple of times after the movin’ day. Nothing major, just a little stumble, caught myself each time. I thought it was just 'cause I was tired, you know? Didn't think much of it. But maybe that had somethin’ to do with it?
+DOCTOR: Slipping…stairs… Honestly. This is what happens when people don’t take care of themselves. Any family history of…anything relevant?
+PATIENT: Relevant? Hmm… My mother, she had bad arthritis in her hands when she got older. Real bad. Couldn’t even open jars sometimes. And my grandfather, on my dad’s side, he had problems with his legs, always complainin’ about swellin’, but he never went to the doctor neither. Just…lived with it, y’know? It's a Somali thing, sometimes. We don't really bother the doctors.
+DOCTOR: Alright. Well, it sounds like a sprain, possibly aggravated by your…stairs incident. I’m going to recommend you rest, ice, compression, and elevation – RICE. And take some over-the-counter pain relievers. If it doesn’t improve in two weeks, come back. Do you understand?
+PATIENT: Rest, ice, compression, elevation... RICE. Yeah, I think I got that. And pain relievers. Okay. Two weeks, then come back. Is that all? I mean...will it definitely get better with that? I don't have insurance, you see...comin’ back is…expensive.
+DOCTOR: Look, I've told you what to do. I can't guarantee anything. It's a sprain, likely a mild one, but you need to follow the instructions. If it doesn’t improve, then you’ll need to consider other options, which, yes, may be…costly. Do you have any other questions before I see my next patient?
+PATIENT: No…no, I think that's all. Rest, ice, compression, elevation. Two weeks. Thanks, Doctor. .
+DOCTOR: .

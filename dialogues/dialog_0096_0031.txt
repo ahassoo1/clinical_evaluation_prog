@@ -1,0 +1,25 @@
+DOCTOR: Right then. Nixon Kreckel, is it?
+PATIENT: Yes, that is correct. It’s nice to meet you, Doctor… Burlingham, was it?
+DOCTOR: Yes, yes, Burlingham. Now, don’t bother with the formalities. You’re eighteen, I see. What brings you in today?
+PATIENT: Well, my leg is quite swollen, on the left side. And… I have a heart thing, the doctor told me about it a while ago. Something about it fluttering, I think? It’s called… atrial… something. I forget the full name. It’s why I’m here, I think. Is that enough information?
+DOCTOR: Atrial fibrillation, likely. Common enough, though not ideal in someone your age. Swollen leg and a heart issue… alright. Let’s start with the leg. When did you first notice the swelling?
+PATIENT: Hmm… let me think. It started maybe… a week ago? It wasn’t much at first, just a little puffiness around my ankle. But it’s gotten worse each day. Now it goes up quite a bit of my calf, you see? It’s a bit uncomfortable, mostly just feels… heavy.
+DOCTOR: Heavy, is it?
+PATIENT: Yes, heavy. Like I’m walking with a weight on it, but it’s in my leg, not on it. Does that make sense? It’s hard to explain. It doesn’t hurt, really, just… a strange pressure.
+DOCTOR: Alright. And has anything specific made it worse?
+PATIENT: Not that I’ve noticed, no. I’ve been trying to keep it elevated, like the internet said to do, but it doesn't seem to help much. I’ve been walking about the same as usual, maybe a bit less because of the leg. I haven’t done anything different, really. Does standing for long periods make it worse? I haven’t paid attention to that.
+DOCTOR: The internet, you say?
+PATIENT: Yes, well, my mum isn’t always available, and I didn’t want to bother her with it if it was just a bit of swelling. It seemed silly. But it has gotten worse, so I thought I should probably come and see a proper doctor. I hope that was alright? I didn’t mean to self-diagnose or anything.
+DOCTOR: Alright, alright. Let’s have a look at this leg of yours then. Please, lie down on the examination table. I need to check for any signs of a blood clot. And don't worry, I'll be quick.
+PATIENT: Oh, right. A blood clot. Is that serious? I… I don’t think I’ve ever had one before. Is there anything I need to do? Or just lie still?
+DOCTOR: Just lie still, dear. And try not to tense up. This will be more accurate if you relax. Hmm. Warm to the touch… and I do feel some tenderness here, along the calf muscle. Now, let me check your pulses. Not as strong on the left as they should be. Hmm. Very interesting.
+PATIENT: Oh. Is that… bad? Not as strong? I… I don’t really understand what that means. Is it the heart thing? The atrial… fibrillation?
+DOCTOR: It could be related to your heart, yes. The fibrillation can cause clots to form, which can then travel to your leg. But it could also be something else entirely. We need to rule things out. I'm going to listen to your heart now. Irregular, as expected. Though perhaps more irregular than I'd like to see at your age.
+PATIENT: Oh. So… it is the heart then? Is it serious? Will I… need medicine? Or… a hospital? I’m not very good with medical things, I’m afraid.
+DOCTOR: Look, dear, don't get yourself worked up. It's not ideal, no. But a hospital stay isn't necessarily required… yet. We need to do some blood work to see if there are any signs of a clot. And I want an ECG, just to get a clearer picture of what your heart is doing. I'll write up the requests now. And then, depending on the results, we'll discuss your options. Don't worry. We'll figure it out. Though frankly, you really should have come in sooner.
+PATIENT: Oh. Right. Blood work and… an ECG. Okay. I will do that. I just… I didn’t want to bother anyone if it was nothing. But… if you think it’s important, I’m glad I came. Is there anything else I should be doing right now? Or just… wait for the tests?
+DOCTOR: Well, you should have listened to your body sooner. But alright. For now, try to keep your leg elevated as much as possible. And avoid strenuous activity. No running marathons, understand?
+PATIENT: No, no marathons. I haven’t run a marathon. Or… any race, really. I mostly just walk to the library. But I will keep it elevated. And… I will avoid anything too energetic. Thank you, Doctor. So, where do I go for the blood work and… the ECG?
+DOCTOR: The lab is just down the hall, first door on the left. The ECG machine is in the room right next to it. The technician, Brenda, should be expecting you. Just tell her I sent you. Don't dawdle, dear. I have other patients waiting. And try not to faint. Honestly, young people these days…
+PATIENT: Oh. Right. Lab first, then the ECG machine. Brenda. Thank you, Doctor. I won't dawdle. .
+DOCTOR: .

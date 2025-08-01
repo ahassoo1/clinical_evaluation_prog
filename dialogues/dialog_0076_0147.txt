@@ -1,0 +1,24 @@
+DOCTOR: Alright, so... what brings you in today?
+PATIENT: Good morning, Doctor Ruocco. Thank you for seeing me. Well, it's a bit embarrassing, to be honest, but I've noticed a lump in my lower abdomen. It’s been there for a few weeks now, and it doesn’t seem to be going away.
+DOCTOR: A lump, huh?
+PATIENT: Yes, a lump. It’s… well, it’s probably about the size of a golf ball, maybe a little smaller. It doesn't really hurt, not usually, but it is… noticeable. I just wanted to get it checked out, you know? Better safe than sorry.
+DOCTOR: Right. And how long precisely have you noticed it?
+PATIENT: Hmm, let me think. It was… probably around the end of June, so maybe six or seven weeks now? It started very small, and I initially thought it was just… a bit of bloating, perhaps. But it hasn't gone away, and it seems to have grown a little since then.
+DOCTOR: Okay. Any other symptoms?
+PATIENT: No, not really. No pain, like I said, not consistently anyway. No changes in my… bowel habits, if you know what I mean. No weight loss, no fever, nothing like that. Just the lump. It's a bit unsettling, that's all.
+DOCTOR: Alright. Let’s take a look. Lie down on the examination table, if you would. And try not to tense up.
+PATIENT: Certainly, Doctor. I'll do my best not to tense up. It's just… a little nerve-wracking, you understand.
+DOCTOR: Hmm. Yes, I feel it. It’s… firm. Not particularly tender to the touch. Okay. Have you had any… previous surgeries in that area?
+PATIENT: No, I haven't. Never had any surgery at all, actually. Nothing major, nothing even minor. I've been quite healthy, generally. This is… new. Is it something to be worried about, Doctor? I apologize for asking directly, but it’s on my mind.
+DOCTOR: Well, "worried" is a strong word. It could be a number of things. Muscle knot, lipoma… unlikely, given the firmness. Any family history of… abdominal issues?
+PATIENT: That’s a good question. My mother had some… stomach problems, occasionally. Indigestion mostly, and she had her gallbladder removed when she was quite old. My father was healthy as a horse, though. No history of anything like this on his side of the family, as far as I know. It's difficult to say, really. We didn't talk about these things much, to be honest.
+DOCTOR: Right. Okay. We’ll need to get some imaging done. A CT scan, probably. To rule things out. I’ll write you a referral. And… try not to Google things, okay?
+PATIENT: Yes, of course. A CT scan sounds sensible. And thank you, Doctor. I appreciate that. You're right, I will try to avoid Dr. Google. It tends to make things worse, doesn't it? When is the best time to schedule that, do you think? And will you be the one to… interpret the results?
+DOCTOR: I'll get the referral sent to the radiology department. They’ll contact you to schedule. As for interpreting… that’s standard procedure. Don’t worry about the details. Now, are you currently taking any medications?
+PATIENT: No, I'm not. I don't take any medications regularly. I try to stay healthy, as I mentioned. Just vitamins occasionally, if I feel like I'm coming down with something. Nothing prescribed, nothing long-term. I do take a daily multivitamin, if that's relevant. And sometimes, when my joints ache a little, I’ll take ibuprofen, but very rarely.
+DOCTOR: Right. Allergies?
+PATIENT: No known allergies, Doctor. Not to food, medications, anything like that. I've never had a reaction to anything, as far as I know. I’m quite boring in that regard, I suppose. No exciting medical history.
+DOCTOR: Alright. Referral’s sent. Just keep an eye on it, and if it changes significantly – grows rapidly, becomes painful – go to the emergency room. Otherwise, we’ll see what the scan shows. Any other questions for me?
+PATIENT: No, I don’t think so, Doctor. You've answered all of my questions, really. I appreciate you seeing me so quickly and for taking the time to explain everything. I'll schedule the scan as soon as I can and try not to worry too much. Thank you again. I’ll let you get back to your day.
+DOCTOR: Right. Next. .
+PATIENT: .

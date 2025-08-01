@@ -1,0 +1,37 @@
+DOCTOR: Right. Kiwane Barban, is it?
+PATIENT: Yes. That is correct. Barban. And you are...?
+DOCTOR: Dr. Pinky Batara. Internal Medicine. Now, let’s not waste time. You’re twenty-eight, I see. A relatively young man. What brings you in today?
+PATIENT: It is… for the insurance. A check-up, before they give me the… the papers. Medicare, it is. They said I need this before it starts. Is that… right?
+DOCTOR: Yes, well, Medicare has its… peculiarities. A preventative check-up, to establish a baseline, is standard. Though frankly, at your age, one hardly needs a baseline for most things. But alright. Let's get this over with. Tell me, have you been feeling unwell recently?
+PATIENT: No. Not unwell. I work. I eat. I sleep. Everything is… normal. I have no time for being… unwell.
+DOCTOR: "Normal," you say. An interesting concept. Still, we must be thorough. Any aches, pains, fatigue, unusual changes in weight or appetite?
+PATIENT: No aches. No pains. I eat what I need to eat, and I do not… change my eating. Weight is… the same. Always the same. I do not have time to worry about such things.
+DOCTOR: Right. And what do you do, exactly?
+PATIENT: I work at the… the food place. The processing place. I help make the food. It is… work. Long hours. Not much to explain.
+DOCTOR: Food processing. Commendable, I suppose. But it does involve… exposure to various things. Any trouble breathing?
+PATIENT: No trouble. I breathe fine. Always have. The air is… air. Sometimes smells, yes, but I breathe. Is this… necessary?
+DOCTOR: Look, I'm required to ask these questions. It's called a review of systems. Do you experience any nausea, vomiting, diarrhea, or constipation?
+PATIENT: No. No sickness. No… problems with that. Everything goes in, everything goes out. Normal. Is this all you will ask?
+DOCTOR: We are barely started. Do you have any allergies?
+PATIENT: No allergies. I eat many things. Spicy things. Old things. Everything. Never a problem. I am… strong.
+DOCTOR: “Strong.” Very well. And are you currently taking any medications?
+PATIENT: No. No pills. No… anything. I do not need things to make me… work. Only food and sleep. That is all.
+DOCTOR: Alright. Let's move on to your past medical history. Have you ever been hospitalized for anything?
+PATIENT: No. Never. I have broken a finger once, when I was a boy, playing football. But that is all. No hospitals. I avoid them.
+DOCTOR: A broken finger. Insignificant. Any surgeries?
+PATIENT: No surgeries. Never. I am… whole. Everything is as it should be.
+DOCTOR: Family history. Do your parents or siblings have any significant medical conditions?
+PATIENT: My father… he has old age. He is old. My mother… she is gone. And I have no siblings. They are… not here.
+DOCTOR: Very well. And… your social history. Do you smoke?
+PATIENT: No. I do not smoke. It is bad for you.
+DOCTOR: Do you drink alcohol?
+PATIENT: Sometimes. A little. With food. Not often. It helps with the… the work.
+DOCTOR: Alright. And lastly… any recreational drug use?
+PATIENT: No! Absolutely not. I do not… involve myself with such things. It is… shameful. And pointless.
+DOCTOR: Very well. Let’s have a quick physical exam. I need to listen to your heart and lungs, check your reflexes, and a few other basic things. Please lie down on the examination table.
+PATIENT: Fine. But be quick. I have work.
+DOCTOR: Heart rate is normal. Lungs are clear. Blood pressure is 130/80. Slightly elevated, but not concerning. Reflexes are normal. Pupils are responsive. Abdomen is soft, no tenderness. Everything seems… unremarkable. As expected.
+PATIENT: So? Is that it? I am healthy? Can I go now?
+DOCTOR: You appear to be in reasonably good health, yes. For someone your age. However, given your job, I recommend a basic blood test to check your cholesterol and kidney function. Just to be certain. It's a precaution. I'll write you a requisition form. Go to the lab down the hall. They're expecting you. And try to get some rest, despite your… commitments.
+PATIENT: Fine. Cholesterol. Kidney function. As you wish. Thank you, Doctor. I trust this will be sufficient for the insurance?
+DOCTOR: .

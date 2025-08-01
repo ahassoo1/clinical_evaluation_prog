@@ -1,0 +1,23 @@
+DOCTOR: Right. Tammie Ottaviani, 44 years old. So, what brings you in today?
+PATIENT: Oh, um, yes. The throat. It hurts. Very much. I just… want it fixed, please. I don’t have all day for this.
+DOCTOR: “Fixed” is rarely how it works, unfortunately. How long has your throat been hurting?
+PATIENT: Long? A while. Days, I think. Maybe more. Honestly, I don’t keep track of such things. It just started hurting, and now it does. Is that good enough? It’s… unpleasant.
+DOCTOR: Days, you said?
+PATIENT: Yes. Days. Or… perhaps a week? It all feels the same when everything aches. Look, am I going to get something for this or not? I have things to do.
+DOCTOR: Alright. Before I can prescribe anything, I need some information. Do you have a fever?
+PATIENT: A fever? I… I haven't checked. Do I look feverish? I don’t bother with thermometers. Honestly. Is it necessary? It feels warm, maybe. But that could just be the room.
+DOCTOR: It is necessary. A fever suggests a different course of action. Do you have any other symptoms?
+PATIENT: Other… symptoms? Like what? I just have the throat. It's bad enough, thank you very much. I don't sit around cataloging every little ache. I work. I don’t have time for… details.
+DOCTOR: Any cough?
+PATIENT: Cough? Sometimes. A little. Not a big one. Just when the throat is really bad. It’s… not constant. Why does it matter? Is this going to take much longer?
+DOCTOR: It matters because everything is connected. Do you have any difficulty swallowing, or breathing?
+PATIENT: Swallowing… yes, a bit. It hurts to swallow. And breathing…well, I’m breathing, aren’t I? But it feels tight in my chest sometimes. Like a… weight. Not all the time. Just when I try to… relax. Honestly, I haven’t been sleeping well, either. But that’s not the throat's fault. Is that enough information?
+DOCTOR: Alright. Let's have a look. Please open wide and say "ah."
+PATIENT: There. Happy now? It hurts, you know. I don’t enjoy being poked and prodded.
+DOCTOR: Your throat is quite red and inflamed. There’s some swelling. I’m not seeing any exudate, which is good. It could be a viral pharyngitis, but given the difficulty swallowing and chest tightness, we should rule out anything more serious.
+PATIENT: “Rule out”? What does that mean? More tests? Honestly, I don't have time for… all of this. Are you saying it's not just a sore throat? What’s wrong with me, then?
+DOCTOR: It means we need to be certain. I'm going to order a rapid strep test and a basic blood panel to check for infection. It’s standard procedure. It will take about fifteen minutes for the strep test results to come back. The blood panel will take longer. In the meantime, I’m going to prescribe a mild pain reliever and recommend you drink plenty of fluids. If your symptoms worsen, particularly the chest tightness or difficulty breathing, you must go to the emergency room immediately. Do you understand?
+PATIENT: Emergency room? Oh, for heaven's sake. Fine. Pain reliever. Fluids. And… wait. Blood panel? Are you taking my blood? I… I don’t like needles. Is it really necessary? I just want my throat to stop hurting! It feels like I'm wasting my entire day. Yes, I understand. But I do not approve.
+DOCTOR: It is necessary to rule out complications, Mrs. Ottaviani. A simple blood test can tell us a great deal. Yes, it involves a needle. We take precautions to minimize discomfort. I’ll send the nurse in to draw the sample. And for the last time, if your chest tightness worsens, or you have trouble breathing, do not hesitate. Go to the emergency room. We'll start with the strep test. The nurse will be with you shortly.
+PATIENT: Fine. Whatever. Just… hurry up. I have things to do. I suppose. Just… get it over with. .
+DOCTOR: .

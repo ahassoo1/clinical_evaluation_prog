@@ -1,0 +1,34 @@
+DOCTOR: Good morning, Teah. Welcome to the clinic. I’m Dr. Beinborn. It's nice to meet you. So, what brings you in today?
+PATIENT: Morning to you too, Doctor. Nice to meet you as well. Just here for my shots, you know, keepin’ up with things. Routine visit, like we talked about on the phone.
+DOCTOR: Right, routine vaccinations. I see. And just to be thorough, can you tell me a little bit about why you decided to come in today specifically?
+PATIENT: Well, honestly? My daughter reminded me. She’s been after me to get these done for a while now. Said I was gettin’ too old to be forgettin’ things like this! But she’s right, I suppose. Better safe than sorry, and all that. Plus, it’s good to get it over with.
+DOCTOR: That’s very responsible of you both! It’s always good to have someone looking out for us. Now, are you generally healthy?
+PATIENT: Yeah, I’d say so. I work pretty hard, you know, construction and all. Keeps me movin’. I get tired, of course, but no real aches or pains that bother me for long. I haven't been to the doctor in a while, to be honest, just when somethin’ really needed lookin' at.
+DOCTOR: Okay, that's good to know. And when was the last time you did see a doctor for something significant, if you remember?
+PATIENT: Hmm... let me think. It was… gosh, probably about five years ago now. I twisted my ankle pretty bad on a job site. Had to get it x-rayed to make sure it wasn't broken. Everything turned out alright, just a good sprain. Before that… honestly, I can't really recall. It’s been a long time.
+DOCTOR: Okay, five years ago for the ankle. That's helpful. Do you have any ongoing medical conditions – things like high blood pressure, diabetes, or arthritis?
+PATIENT: Nope, nothin’ like that. My mother had some trouble with her joints when she got older, but I seem to have skipped that part. Blood pressure's always been good when they check it at work, and I definitely don't have any sugar problems – I like my sweets too much!
+DOCTOR: That’s good to hear. Are you currently taking any medications – prescription or over-the-counter?
+PATIENT: Just the occasional ibuprofen for when my muscles get really sore after a long day. But that's it, really. I try to avoid taking pills if I can. Old habits, I guess. My grandmother always said to let your body heal itself when it can.
+DOCTOR: That’s fair. Do you have any allergies to medications, food, or anything else?
+PATIENT: Nope, not that I know of. I eat pretty much everything. I've never had a bad reaction to anythin’. I’ve been stung by a bee once or twice workin’ outside, but that was just a little pain, nothin’ serious.
+DOCTOR: Good. And what about your family history?
+PATIENT: Well, my mother lived a long life, passed away peacefully in her sleep when she was eighty-five. She had a little trouble with her heart towards the end, but other than that, she was pretty healthy. My father passed away younger, in his sixties, from… well, it was a work accident. Didn't really talk about much illness on his side of the family, to be honest.
+DOCTOR: I'm sorry to hear about your father. Okay, that gives me a little bit of information. Now, could you tell me a little about your lifestyle?
+PATIENT: Sure. Like I said, I work in construction, so I'm on my feet a lot, liftin' things, generally pretty active. I don't smoke, and I only drink a little bit of wine with dinner sometimes. Not much for fancy hobbies, mostly just relaxin' at home with my husband when I'm not workin'. We like to garden a bit, grow our own vegetables.
+DOCTOR: That sounds… nice. And finally, before we get to the vaccinations, do you have any questions for me?
+PATIENT: Hmm… not really, Doctor. You've asked all the right questions, I think. I trust your judgment. Just want to get these shots done and get back to work, if that’s alright.
+DOCTOR: Certainly. Alright, then. Let's take a quick look at your vital signs and then we can get started with the vaccinations. Could you please sit up for me?
+PATIENT: Sounds good. Ready when you are.
+DOCTOR: Okay, your blood pressure is 128/78, pulse is 72 and regular, and your temperature is 98.6. Everything looks good. Now, have you had a tetanus shot in the last ten years?
+PATIENT: Let me think… gosh. I think so, but I'm not entirely sure. It was probably around ten years ago, maybe a little longer. It was after I stepped on a nail at a job site, I remember that much. I got a booster then, but I don't remember the exact date.
+DOCTOR: Okay. Since it’s been close to ten years and we don’t have a record, it's best to go ahead and give you a tetanus-diphtheria-pertussis booster. We’ll also check your influenza and COVID-19 vaccination status. Would that be alright with you?
+PATIENT: Sounds sensible to me, Doctor. If it’s best to be safe, I’m all for it. And yes, please check those other ones too. I think I got the COVID one when they first came out, and I usually get my flu shot every year, but I don’t keep track.
+DOCTOR: Excellent. I'll just need to review your vaccination records in the system… Okay, it appears you received the primary COVID-19 series in 2021, but you're due for an updated booster. And your last flu shot was in November of 2023. So, we'll go ahead and administer the updated COVID-19 booster, the influenza vaccine, and the Tdap booster today. Is there anything that makes you nervous about vaccinations?
+PATIENT: Nope, not really. I’ve always figured they were important. A little pinch is worth it to stay healthy. My mother always said that, too. I don't like needles any more than the next person, but I know they’re doin’ good. Bring it on, Doctor!
+DOCTOR: Alright then. I'll prepare the vaccinations. It might sting a little for a moment, but it shouldn't last long. Just try to relax your arm. There we go. All done. You might feel a little soreness at the injection sites for a day or two, but that's normal. You can take over-the-counter pain relievers if you need to.
+PATIENT: Thank you, Doctor. That wasn't bad at all, really. Just a little pinch, like you said. Feels alright. I appreciate you takin’ care of me.
+DOCTOR: You're very welcome, Teah. I'm glad it went smoothly. I'll give you a printout with information about potential side effects and when to seek medical attention. It’s important to report any severe reactions. Do you have any questions about anything we discussed today?
+PATIENT: No, I think you’ve covered everything really well. I’ll keep an eye on my arm, and if anything feels off, I’ll give you a call. Thank you again, Doctor Beinborn. You've been very helpful and kind.
+DOCTOR: You're very welcome, Teah. I'm glad I could help. Here's that printout. Remember to stay hydrated and get plenty of rest. If you experience any concerning symptoms, don’t hesitate to call the office. And please, be sure to schedule a check-up in a year. Have a wonderful day, and please drive safely.
+PATIENT: Thank you, Doctor. I will. You have a good day too.

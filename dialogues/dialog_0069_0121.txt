@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Pipolo. Welcome to the clinic. I'm Dr. Andraca. It’s nice to meet you. So, to start, can you tell me what brings you in today?
+PATIENT: Morning. Just...my eyes. They feel real dry. Been that way a bit now. Don't like it.
+DOCTOR: Okay, dry eyes. I understand. That can be quite bothersome. And you said it’s been going on “a bit now” – could you tell me roughly how long?
+PATIENT: Hmm… maybe… a couple months? Hard to say exactly. Time goes fast when you’re older, you know. Not like when I was working.
+DOCTOR: I do understand, sir. A couple of months is helpful. And what were you doing when you were working?
+PATIENT: Cement. I was a cement mason. Concrete finishin’, mostly. Lots of dust. Outside a lot, too. Wind… sun.
+DOCTOR: Okay, cement work. That's good to know. Lots of dust and sun exposure. That certainly could be contributing. Do you still do any cement work now, or was that your full-time job that you’ve since retired from?
+PATIENT: Retired now. Been maybe ten years. Hands aren't what they used to be, and the eyes... well, that’s why I’m here, right? Don't do much anymore, just little things around the house.
+DOCTOR: Right, of course. Little things around the house. And aside from the dryness, are you experiencing any other symptoms with your eyes?
+PATIENT: Not really. Just...scratchy. And sometimes blurry. But not all the time. Mostly when I’m lookin’ at things far away. I don’t watch much TV, so it's not botherin' me too bad.
+DOCTOR: Okay, scratchy and occasional blurry vision, especially at a distance. That's helpful. Have you noticed any redness, discharge, or pain in either eye?
+PATIENT: No. No pain, nothin’ comin’ out of ‘em. Just… dry. Like sand. That's the best way to explain it.
+DOCTOR: Okay, "like sand" – I understand. And have you tried anything to help with the dryness so far?
+PATIENT: Just blinkin’ more, I guess. Doesn't seem to do much good. I used to work with a lot of water, but now… well, I don’t go near cement anymore.
+DOCTOR: Alright. And are you currently taking any medications, or do you have any allergies to medications that you’re aware of?
+PATIENT: No medicine. And no allergies, not that I know of. I haven’t been sick in a long time. Old man strength, I guess.
+DOCTOR: Okay, no medications and no known allergies. That’s good. Now, have you had any significant medical problems in the past, like diabetes, arthritis, or anything else?
+PATIENT: Hmm... my back aches a bit, gettin' old, you know? And the knees. But the doctor said it’s just wear and tear. Nothin’ serious. Never had the sugar sickness, or nothin’ like that.
+DOCTOR: Okay, some back and knee pain from wear and tear. That's good to know. And what about your family?
+PATIENT: Family… most of 'em are gone now. My brother had trouble with his heart, but that was a long time ago. Don't think he had trouble with his eyes.
+DOCTOR: Okay, thank you for that information. Now, I’d like to take a quick look at your eyes, if that's alright with you. Just a brief exam to see what might be causing the dryness. Is that okay?
+PATIENT: Yeah, alright. Hurry it up though, if you could. Got things to do.
+DOCTOR: Certainly, sir. I'll be as quick as possible. Okay, I'm noticing some dryness and a little bit of redness in both eyes. Your pupils are reacting normally to light. When I check the surface of your eyes, there’s some mild inflammation. It looks like you have some degree of dry eye syndrome, which is common, especially with age and past exposure to dust and wind. It’s likely aggravated by the dryness of the environment. Your vision seems stable at a distance, but we'll want to confirm that with a more thorough exam if the dryness persists.
+PATIENT: Dry eye… syndrome? Is that serious? I just want somethin’ to make ‘em stop feelin’ like sandpaper.
+DOCTOR: It’s not typically serious in the sense of causing permanent damage if we manage it, sir. It’s more of a chronic condition that causes discomfort. Think of it like having dry skin – it’s annoying and uncomfortable, but usually not dangerous. We can definitely try some things to make your eyes feel better. The good news is that there are several options we can explore. I’m thinking we could start with artificial tears – lubricating eye drops – to help keep your eyes moist. We could also try a thicker ointment at night to help prevent dryness while you sleep. Would you be willing to try that?
+PATIENT: Eye drops… sounds alright. Anything to get some relief. Is it expensive? I don't have insurance, you see.
+DOCTOR: I understand, sir. Not having insurance can make things difficult. Fortunately, there are many over-the-counter artificial tear brands that are relatively inexpensive. I can recommend a few options that are generally affordable. We can also discuss some lifestyle changes, like using a humidifier, especially in the winter, and avoiding dry, windy conditions if possible. I'll write you a prescription for a basic artificial tear to start. Use them as often as you need, even if it's several times a day. If those aren't providing enough relief after a week or two, we can consider other options, such as a slightly stronger formula, or I can refer you to an ophthalmologist for a more specialized evaluation. Does that sound like a reasonable plan to you?
+PATIENT: Yeah. Sounds alright. Just... don't want to be comin' back here too often. Get it done quickly.
+DOCTOR: I understand, sir. I’ll make sure to write the prescription clearly, and I’ll give you some written instructions on how to use the drops and what to watch out for. Here you are. The pharmacy should be able to fill this quickly. If you experience any worsening of your symptoms, such as pain, vision changes, or increased redness, please contact the clinic immediately or go to the nearest emergency room. Do you have any questions for me before you go?
+PATIENT: No, I don’t think so. Just… thank you. I guess. Now if you’ll excuse me... I got things to do.
+DOCTOR: Certainly, sir. You’re very welcome. Get well soon, and don’t hesitate to reach out if you have any concerns. Have a good day.
+PATIENT: .

@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Aron. Welcome to the clinic. I'm Dr. Glazewski. It’s nice to meet you. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Uh… my chest… it hurts a little. Not all the time, but… yeah. It's my chest.
+DOCTOR: Okay, chest pain. I see. Can you tell me a little more about it?
+PATIENT: Hmm… it’s not… a bad pain, like. More like… sore? Sometimes it feels like… full? I don’t know how to say it good. It's both sides. It doesn't go to my arm or anything. Just… there.
+DOCTOR: Alright, a soreness, fullness... both sides of the chest, and no pain radiating to your arm. That's helpful. And when did you first notice this pain?
+PATIENT: Uh… maybe… a week ago? It started slow, just a little bit. I thought maybe I slept wrong. But it hasn’t gone away really. It gets worse sometimes, after… work maybe. I do roofing, so… lots of moving around.
+DOCTOR: Roofing, okay. That definitely involves some physical exertion. And it seems to be linked to activity. Does anything specifically make it worse besides work – like, taking deep breaths, or lying down, or eating?
+PATIENT: Hmm… deep breaths… not so much. Lying down… sometimes. It feels better when I sit up. Eating… no, I don't think so. Not that I notice anyway.
+DOCTOR: Okay, better when sitting up… that's good information. Now, have you noticed any other symptoms along with the chest pain?
+PATIENT: Other symptoms… like what kind? I haven’t been sick or anything. No cough, no fever.
+DOCTOR: Good. No fever or cough. Have you experienced any shortness of breath, nausea, heartburn, or perhaps any unusual fatigue lately?
+PATIENT: Shortness of breath… no. Nausea… no. Heartburn… sometimes, yes. But I get that a lot, I think. I eat a lot of spicy food. Fatigue… yeah, I'm always tired, but that’s just work, you know? Roofing is hard.
+DOCTOR: Right, roofing is hard work. Okay, so some occasional heartburn and fatigue along with the chest pain. Now, let's talk about your past medical history, if you don’t mind. Have you ever been diagnosed with any medical conditions – like, anything with your heart, lungs, or stomach?
+PATIENT: No, not really. I never go to the doctor, to be honest. Just for check-ups when I have to. I'm pretty healthy, usually. No heart problems or anything that I know of. My wife, she tells me to go, but…
+DOCTOR: Alright, no known medical conditions. Have you ever had any surgeries?
+PATIENT: No surgeries. Never. I break a bone once when I was a kid, but they just put a cast on it. Nothing big.
+DOCTOR: Okay, no surgeries. And how about your family?
+PATIENT: Family… uh… my father… he had high blood pressure, I think. And my mother… she had… something with her stomach, maybe? She passed away a long time ago. I don't really remember.
+DOCTOR: Okay, high blood pressure in your father, and some stomach issues in your mother. I understand it’s difficult to recall details. Now, let’s talk about some of your lifestyle habits. Do you smoke?
+PATIENT: No, I don't smoke. Never have. My wife would kill me if I did.
+DOCTOR: Good. And how about alcohol consumption?
+PATIENT: Uh… sometimes. A beer maybe, on the weekend. Not a lot. One or two.
+DOCTOR: Okay, occasional alcohol use. Lastly, are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: No, nothing. I don’t like taking pills. Just… sometimes, I take something for a headache. But that’s it.
+DOCTOR: Alright, no regular medications. Okay, Aron, thank you for that information. Now, I'd like to do a quick physical exam if you're comfortable with that. I’m going to listen to your heart and lungs, and then I’ll feel around your chest a bit. Does that sound alright?
+PATIENT: Yeah, that’s okay. Whatever you need to do, Doctor.
+DOCTOR: Your heart sounds are regular, although I do hear a slightly fast rate – about 90 beats per minute. Normal is usually between 60 and 100, but exertion can elevate that. Now, I’m going to listen to your lungs. Take some deep breaths for me. Your lung sounds are clear, no wheezing or crackling. Now I'm going to gently palpate your chest wall. There's some mild tenderness here, on the left side. It doesn’t seem significant, but I’m noting it. Blood pressure is 130/80, which is a little elevated, but not alarming. Now, given your symptoms and the exam findings, I suspect this could be musculoskeletal pain – meaning pain related to your muscles or bones. However, because of the chest pain, we need to rule out any cardiac causes. I'm going to order an EKG and some blood work – specifically, a complete blood count and a cardiac enzyme test. That'll give us a better picture of what's going on. Does that sound alright?
+PATIENT: Yeah, that sounds good, Doctor. Whatever you think is best. EKG and… blood work. Okay. How long will that take? And will it hurt? The blood work, I mean.
+DOCTOR: The EKG is quick and painless. It just involves sticking some small sensors on your chest, arms, and legs. The blood work will involve a small prick of a needle – you'll feel a quick sting, but it's usually very brief. The whole process should take about 30-45 minutes. We can get the results back relatively quickly. While we're waiting, I'm also going to check your oxygen saturation levels just to be sure everything is okay. Your oxygen levels are good – 98%, which is excellent. We'll get those tests ordered right away. In the meantime, if you experience any new or worsening symptoms – like severe chest pain, shortness of breath, dizziness, or sweating – please go to the nearest emergency room immediately. Do you have any questions for me right now?
+PATIENT: No, I think I understand. EKG and blood work. Don't worry if it's just muscles, right? Emergency room if it gets worse. Got it. Thank you, Doctor.
+DOCTOR: That's right. Most likely, it is just muscle strain, given your job. But we always want to rule out anything serious, just to be safe. The tests will help us confirm that. I’ll have the nurse come in and draw your blood and get you set up for the EKG. Do you have any work restrictions that I should note while we wait for the results?
+PATIENT: Uh… no, not really. I can still work, I think. Maybe just… not lift too much? I don’t want to lose work, you know?
+DOCTOR: I understand. We'll proceed cautiously. I'm going to write a note recommending that you avoid heavy lifting and strenuous activity until we get the test results back. I can also provide you with a short work excuse note if you'd like. It's best to prioritize your health, Aron. I'm also going to advise you to take over-the-counter pain relief – like ibuprofen or naproxen – as needed for the discomfort. Does that sound okay?
+PATIENT: Yeah, that sounds good, Doctor. Pain relief… okay. And the note… that would be good, thank you. Thank you for not making me worried too much.
+DOCTOR: You're very welcome, Aron. It's always best to be cautious, and I'm glad I could reassure you. The nurse will be in shortly to draw your blood and explain the EKG procedure. I'll review the results as soon as they’re available and we’ll discuss the next steps. If you have any questions or concerns before then, please don’t hesitate to call the office. Do you have any other concerns before I leave you to the nurse?
+PATIENT: No, I think that’s everything. Thank you, Doctor Glazewski. I appreciate your help. .
+DOCTOR: You're very welcome, Aron. Take care, and I'll see you soon.

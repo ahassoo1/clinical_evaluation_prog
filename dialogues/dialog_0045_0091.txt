@@ -1,0 +1,22 @@
+DOCTOR: Alright, Bianca Ziccarelli, 63 years old. So, what brings you in today?
+PATIENT: Well, Doctor Billman, is a long story, but lately I just...drinkin' a lot of water. More than usual. And I feel hungry all the time, even after I eat. It not makin' sense to me.
+DOCTOR: Right. Drinking more water and feeling hungry constantly… that is something we need to figure out. How long has this been going on for, approximately?
+PATIENT: Hmm...let me think. It start... maybe two, three months now? It not a sudden thing, it come on slow, slow. At first I thought it was just the heat, you know? But the heat stayin' and it gettin' worse, not better.
+DOCTOR: Okay, two to three months, gradual onset… and it’s not improving with the weather. And when you say “a lot of water”, can you give me a rough idea of how much more than usual?
+PATIENT: Well, before, I used to drink maybe… four, five glass a day? Now… I drinkin' almost a whole pitcher! The big one, you know, the one with the handle? And I still feel thirsty! It frighten me a little, to be honest.
+DOCTOR: A whole pitcher… that is a significant increase. And you’re still thirsty even after that. Alright. And this hunger… is it a general hunger, or do you have cravings for anything specific?
+PATIENT: It just...a general hunger, Doctor. Not for anything special. Sweet thing, salty thing, anything really. I eat a good plate of food, and an hour later, I feel like I could eat another one. My husband sayin' I lookin' thin, too. He worryin'.
+DOCTOR: He’s noticing a weight loss, you said?
+PATIENT: Yes, he is. He always tease me about my good appetite, but now he sayin' I need to eat more, 'cause I lookin' too frail. He makin' sure I eat plenty, but it not seem to help much. He a good man, my husband. Very concerned.
+DOCTOR: Right, well, we need to investigate this. Has anything else changed recently?
+PATIENT: Hmm... nothin' I can think of. Same routine, same food... except I maybe been goin' to the bathroom more, too. To pee, you know? More often than usual. It small things, really. Not sure if it important.
+DOCTOR: Small things can be important, Mrs. Ziccarelli. Increased urination, along with the thirst and hunger… it's a pattern. Now, let’s go through a bit of your medical history. Do you have any existing medical conditions—diabetes, high blood pressure, anything like that?
+PATIENT: No, Doctor. I never been sick with nothin' serious. A little headache now and then, a cold in the winter, but nothin' the doctor ever had to see me for. My husband, he have high blood pressure, but not me. I try to eat healthy, you know? Lots of vegetables. But I not a young woman anymore. Maybe things changin'.
+DOCTOR: Alright. And have you ever had any surgeries?
+PATIENT: No, Doctor. Never had any surgeries. Everything workin' as it should, mostly. I thank God for that. I been lucky, I think. This thirst and hunger… it just… botherin' me. It not like me at all.
+DOCTOR: Alright, Mrs. Ziccarelli. We're going to run some tests, just to be thorough. I want a complete blood count, a basic metabolic panel—that includes your blood sugar—and a urinalysis. That will give us a starting point. Do you have any allergies to medications?
+PATIENT: No, Doctor. No allergies. I can take most things. I take a little painkiller sometimes for my arthritis, but that’s all. What… what will the tests show? Is it somethin' bad? I gettin' a little worried now, to be honest.
+DOCTOR: Mrs. Ziccarelli, please. It's far too early to be worrying about “something bad.” These tests are standard procedure. The blood sugar test will tell us if you have diabetes, which can cause increased thirst and hunger. The other tests will rule out other possibilities. It's just to be safe. Now, let's get the lab order written up. Can you follow me?
+PATIENT: Yes, Doctor. I can follow you. Thank you for lookin' into it. It just… it frighten me a little. I not used to feelin' sick, you know? I hope it nothin' serious. I just want to feel normal again.
+DOCTOR: Right this way. We’ll get these tests done and go from there. Don’t jump to conclusions. We’ll figure it out. Let's go. And please, try not to drink too much water while you wait for the results. It can just complicate things.
+PATIENT: Alright, Doctor. I will try. Thank you. I hope it nothin' too bad. My husband would be so worried.

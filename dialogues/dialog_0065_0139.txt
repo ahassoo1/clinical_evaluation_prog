@@ -1,0 +1,34 @@
+DOCTOR: Good morning, Mr. Shanor. I'm Dr. Duplichan. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just…fitness check. For…referee work. Need paper say I okay. Want fast, if possible.
+DOCTOR: A fitness check for referee work. Right. And by "okay," you mean a general medical clearance to ensure you're physically capable of performing your duties?
+PATIENT: Yes. That…right. Not…sick. Just…strong enough. I run, jump, whistle. Things like that. Old man need check, you know? Want work.
+DOCTOR: I understand. So you're wanting a physical to confirm you're fit for the demands of refereeing. We'll certainly do that. To get started, let's go through a bit of your medical history. Have you had a primary care physician before?
+PATIENT: Uh…before? Yes. Long time ago. Not see doctor much. Mostly…okay. No big problem. Wife…she take care of things. Now…just me. Sorry.
+DOCTOR: That’s alright. Many people don't see a doctor unless they have a specific issue. Let's start with any major medical illnesses you have been diagnosed with – things like diabetes, high blood pressure, heart problems, asthma…anything like that?
+PATIENT: No. Not those. Wife…she check blood pressure sometimes. Normal. Heart…okay. I…run every day. For work. Asthma…no. Never have that. Sorry, I…forget things easy. Is okay to just…check now? Want finish quick.
+DOCTOR: It’s alright. We just need to gather some basic information to ensure a thorough assessment. Have you ever been hospitalized for anything?
+PATIENT: Hospital? Only…when wife sick. Very sick. I stay with her. She…she passed last year. Not me. I…no hospital for me. Just…a little cut sometimes. Work is…dangerous. But nothing big.
+DOCTOR: I'm sorry for your loss, Mr. Shanor. That must have been very difficult. Alright, no hospitalizations. Have you had any major surgeries?
+PATIENT: No surgery. Never. Just…bumps and bruises. Work. You know? Fixing…fire things. Hot things. Not need cut open. Just…strong tape and bandages.
+DOCTOR: Alright. And what about your family?
+PATIENT: Family? I…have sister in China. Not see her much. She okay, I think. Parents…long gone. They…old. No big sickness in family, really. Wife’s family…some heart trouble, maybe? I don’t remember. Sorry. Not good at remembering things.
+DOCTOR: That's alright, Mr. Shanor. We can work with what you recall. Now, are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: No. No pills. No anything. Just…water. And sometimes…tea. For…tired. That it. Not like medicine. Just…tea. Wife…she have some pills. But I…don’t.
+DOCTOR: Good. Do you have any allergies to medications, food, or anything else?
+PATIENT: No allergies. Never. I…eat everything. Wife…she allergic to…some flowers. But me? No. Strong stomach. No problem. I think. Sorry if…forget. Is long time ago, maybe.
+DOCTOR: Alright. Just a few more questions, then we can move on to the physical exam. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No smoke. No drink. No…bad things. Wife…she sometimes have small glass of wine. But me? No. Not good for work. Need clear head. Honest. Very honest. Want finish now, if possible.
+DOCTOR: Very well. Let's proceed with the physical examination then. I'm going to check your vital signs – blood pressure, pulse, temperature – and listen to your heart and lungs. Then, I'll examine your reflexes and assess your range of motion. Is that alright with you?
+PATIENT: Yes. Okay. Fast, right? Just…check I strong. That all. Ready now. Let's go. Want work. Very important.
+DOCTOR: Alright. Please have a seat on the examination table. We'll start with your blood pressure. Blood pressure is 138 over 82. A little elevated, but not concerning at the moment. Now, let's listen to your heart. Heart sounds are regular, no murmurs detected. Now, I'm going to listen to your lungs. Lungs are clear to auscultation bilaterally. Now, let’s check your reflexes. Please relax your legs…
+PATIENT: Okay. Legs relaxed. Like this? I…try to be still. Not move. But sometimes…jumpy. Want finish quick. Please.
+DOCTOR: Reflexes are 2+ and symmetrical. Now, I'm going to check your range of motion in your arms and legs. Can you please raise your arms above your head?
+PATIENT: Like this? Little sore. Work make me…stiff. Old man. Not young anymore. Is okay? Can I…put them down now? Want finish. Very important.
+DOCTOR: Yes, that’s alright. Now, can you bend at your waist and touch your toes?
+PATIENT: Oof…like this? Very tight. Back…not so good. Old man. Really. Can I…stand up now? Please? Is work okay? I need paper. Just paper.
+DOCTOR: Yes, please stand. Alright. It appears you have some limited range of motion and stiffness, likely from your work. I’m going to document that. Mr. Shanor, based on this brief examination, it's difficult to provide a definitive medical clearance without some further testing. I'd like to order a basic blood panel – a complete blood count, a comprehensive metabolic panel, and a lipid panel – to assess your overall health and rule out any underlying issues. This will give us a better picture of your condition. Do you agree to that?
+PATIENT: Blood…take blood? Okay. If…need paper. Yes. Take blood. But fast? Want finish now. If…long time, maybe…no good. I…need work. Very important. Can I…get paper after blood? Please?
+DOCTOR: The blood work will take a few days to process. Once the results are back, we'll review them together, and then I can provide you with a medical clearance form, if appropriate. In the meantime, I will give you a preliminary form stating you are undergoing medical evaluation for work clearance. It won't be a full clearance, but it should suffice temporarily. Does that sound acceptable?
+PATIENT: Yes! Yes, that good! Preliminary…good! Okay, okay. Thank you, Doctor. Very good. When…when get blood? And then…paper? Please. Want work. Very important. Now can…go now?
+DOCTOR: Alright. My nurse will be in shortly to draw your blood. She’ll give you instructions on fasting beforehand. Once the results are back, we'll contact you to schedule a follow-up appointment to discuss them and finalize the clearance form. For now, let me print this preliminary form for you. Here you go. You can take this to your employer. Is there anything else I can help you with today, Mr. Shanor?
+PATIENT: No. That it. Thank you. Very good. Fast. Very fast. You good doctor. Thank you very much. .

@@ -1,0 +1,33 @@
+DOCTOR: Right. Demondre, is it?
+PATIENT: Yeah, that's me. Demondre Heindel. Thanks for seeing me, Doc. Just… curious to check things out, really.
+DOCTOR: "Check things out," you say. That's... vague. Let's be a bit more specific, shall we?
+PATIENT: Yeah, sorry. I guess you're right. It's just... I work on the boats, you know? Out on the water a lot. And I was thinkin' maybe I should get a check-up, make sure everything is okay. Haven't been sick or nothin', just… preventative, I guess. Is that better?
+DOCTOR: Preventative is… acceptable. Still, preventative for what, exactly?
+PATIENT: Hmm… well, I dunno really. Stuff that boat workin' might get to ya? Like, I lift heavy things, sometimes. And I'm around the water all the time. I guess I'm wonderin' if my muscles are okay, and if I'm breathin' alright, bein' around the sea air and all. I don't know medical stuff, sorry.
+DOCTOR: Right. So, you're a generally healthy 25-year-old who lifts things and breathes air. Fascinating. Let’s start with a basic history. Any significant illnesses as a child?
+PATIENT: Not really. I had the usual kid stuff, you know? Chickenpox, measles… nothing big. My mom always said I was a pretty healthy kid. I broke my arm once fallin' outta a tree, but that healed up good. No problems from that now. Does that help?
+DOCTOR: "No problems from that now" is good to know. Any surgeries?
+PATIENT: Nope. Never had any surgeries. Just that broken arm, and they just put it in a cast. Nothing cuttin' or stitchin' or nothin'. I kinda… stay away from hospitals if I can, to be honest. I only come when I really need to.
+DOCTOR: Alright. And family history?
+PATIENT: Um… my mom’s side, her dad had… somethin' with his heart, I think. He was older when it happened, though. And my dad… he just kinda… got sick when I was little. Real quick, like. The doctors said it was his lungs, but I don’t remember much about it. It was a long time ago. Sorry, I wish I could be more helpful. It's hard to remember details.
+DOCTOR: "Hard to remember details" is… unfortunate. Any allergies to medications?
+PATIENT: Nope. Never had any trouble with medicine. I can take most things, as far as I know. I haven’t had to take much, thankfully. Just the usual painkillers when I've bumped myself at work, and I didn’t react to those. Does that cover it?
+DOCTOR: And currently, are you taking any medications?
+PATIENT: Nope. Not a single one. Just vitamins sometimes, if I remember. Mostly I try to eat good, get enough sleep… that kinda thing. I don't really like takin' pills if I don't have to. It feels… weird, you know?
+DOCTOR: Alright. Let's do a quick physical exam. I'll listen to your heart and lungs, check your blood pressure, and take a look at your… musculoskeletal system, given your line of work. Please sit up on the examination table.
+PATIENT: Okay, sounds good. Let me know if I need to do anything special. I'm ready when you are, Doc.
+DOCTOR: Take a deep breath... and exhale. Good. Heart sounds are regular, no murmurs detected. Lungs are clear bilaterally, but there's a slight… wheezing on auscultation. Not significant, but we'll note it. Blood pressure is 130/80. Within normal limits. Now, let me have a look at your muscle strength… Please extend your arms out to the sides.
+PATIENT: Like this? I do a lot of liftin' at work, so I guess they should be okay. Not sure what you're lookin' for exactly, but I can hold 'em out for a while. Just tell me if somethin' feels off.
+DOCTOR: Strength is… adequate. No obvious weakness. Now, can you grip my hands as tightly as you can?
+PATIENT: Squeezin' as hard as I can, Doc. I gotta have a strong grip for the ropes and stuff. Is that good enough? It’s probably pretty strong.
+DOCTOR: Grip strength is… within expected limits. Now, let’s check your reflexes. I'm going to lightly tap on your knees with this little hammer. It might feel a little strange. Please keep your legs relaxed.
+PATIENT: Okay, sounds… weird, but alright. Tap away, Doc. I'll try to stay still. Hopefully it doesn't hurt!
+DOCTOR: Patellar reflexes are 2+ bilaterally, normal. Achilles reflexes are also 2+, normal. All right. Overall, your physical exam is… unremarkable. The slight wheezing is the only thing of note. Do you experience any shortness of breath, even with mild exertion?
+PATIENT: Hmm… not really. Sometimes after a really long day of work, I might feel a little winded, but that’s just from the hard work, I figured. Like, climbin' the rigging and stuff. It usually goes away pretty quick if I rest. I don't get outta breath just walkin' around or nothin'. Does that make sense? I guess it's hard to explain.
+DOCTOR: Right. And do you smoke?
+PATIENT: Nope. Never touched a cigarette in my life. My mom always said it was bad for ya. And I work around a lot of flammable stuff on the boats, so it's probably best to stay away from it anyway. No smokin' for me, Doc.
+DOCTOR: Alright. Based on your history and physical exam, it seems you are in generally good health. The slight wheezing could be attributed to mild occupational asthma, perhaps triggered by sea air or other irritants on the boat. However, it's not severe enough to warrant immediate concern. I recommend monitoring your symptoms. If you experience increased shortness of breath, chest tightness, or persistent coughing, schedule a follow-up appointment immediately.
+PATIENT: Okay, that sounds… good, I guess. Monitor it, keep an eye on things. That's what I was kinda hopin' for, to be honest. So… no need for any fancy tests or nothin'? Just keep an eye on how I'm breathin'?
+DOCTOR: At this time, no. Unless your symptoms worsen, further testing is unnecessary. I’ll document this conversation, and we can revisit if things change. I recommend using an over-the-counter bronchodilator if you experience any acute breathing difficulties. Albuterol is a common one. But honestly, it's likely just a minor irritation. Avoid prolonged exposure to dust and fumes when possible. Do you have any questions for me?
+PATIENT: Albuterol… okay, I'll try to remember that. Um… I think that covers it, Doc. Thanks for lookin' me over, even if it wasn't somethin' serious. I appreciate you tellin' me it's probably just the work. I was gettin' a little worried there for a second. I guess I'm good to go then? .
+DOCTOR: Yes, you’re dismissed. If anything changes, schedule an appointment. And please, try to be more specific next time. It saves everyone time. .

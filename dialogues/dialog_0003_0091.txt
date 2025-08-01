@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Ms. Zicarelli. I’m Dr. Yackey. Now, let’s try to be efficient, shall we?
+PATIENT: Good morning to you too, Doctor. Zicarelli is right. It good to meet you. I have been feeling a little...off lately, you see.
+DOCTOR: “Off.” Right. Could you be a bit more specific?
+PATIENT: Well, I does be very thirsty, you know? All the time. And hungry too! Even after I eat a good plate of food, I still feel like I need more. It not normal, this. It happening for maybe...a month now, I think. It hard to keep track, really.
+DOCTOR: A month, you say. And excessive thirst and hunger. Any other changes you’ve noticed?
+PATIENT: Hmm...let me think. I does be going to the bathroom more often, yes. Especially at night. It disturbing my husband, poor man. And I feel...tired. Always tired, even when I get a good rest. It not like the usual tiredness, you understand. It deeper.
+DOCTOR: Increased urination, nocturia… fatigue. Do you have any family history of… diabetes, perhaps?
+PATIENT: Diabetes? Not that I know of, Doctor. My mother, she was strong woman, always working in the garden. My father, he was fisherman. Neither of them ever had any trouble with…that sickness. We didn’t have much doctoring when we was growing up, you know? We mostly used bush medicine.
+DOCTOR: I see. And what about your current medications?
+PATIENT: Medications? I don't take any regular medications, Doctor. Just the occasional painkiller for my joints when they acting up. Old age, you know? Nothing else, really. I try to stay natural as possible.
+DOCTOR: Alright. And any allergies to anything?
+PATIENT: Allergies? Not that I know of, Doctor. I does eat everything. Mango, guava, callaloo… never had any trouble. Maybe a little itchy if I get bitten by a mosquito, but that’s just normal, yes? Not a real allergy, I don't think.
+DOCTOR: Very well. If you’ll just step up on the scale for me, please. I’d like to get a few basic measurements, and then we’ll do a quick examination. It's just routine.
+PATIENT: Alright, Doctor. Routine is good. I like routine. I hope it not too much trouble, though. My knees not what they used to be.
+DOCTOR: Your weight is 78 kilograms and your height is 168 centimeters. That puts your BMI at 27.6… slightly elevated. Now, if you could just stand still while I listen to your heart and lungs.
+PATIENT: Elevated? Is that bad, Doctor? I always been a little…sturdy, you know? My mother always said I take after my grandmother, and she was a big woman too. But is it something I need to worry about? I just want to be healthy for my husband, you see.
+DOCTOR: It’s… not ideal. We’ll need to run a few tests to get a clearer picture. A basic blood sugar test, to start. And a urinalysis. Let's not jump to conclusions, but your symptoms, combined with your BMI… warrant further investigation.
+PATIENT: Tests? Blood sugar? Is it…something serious, Doctor? I don't like the sound of tests. What kind of tests are we talking about? Will it hurt? I does get a little faint when I see needles, you know.
+DOCTOR: A simple blood draw, Ms. Zicarelli. A very small amount of blood. And a urine sample – you’ll just need to provide that in a cup. It’s standard procedure. We're ruling things out, that’s all. It's highly likely nothing serious, but it's best to be certain. Nurse will be in shortly to collect the samples.
+PATIENT: Oh. A little blood and a little pee? Alright. That I can manage, I think. I does drink a lot of water anyway, so the pee part won’t be a problem. The nurse, you say? Is she gentle? I does be a bit nervous, you understand.
+DOCTOR: Yes, the nurse is perfectly capable. She’s been doing this for years. I’ll have her bring in the requisitions. Now, if you'll excuse me, I have other patients waiting. We’ll get these results back to you as quickly as possible.
+PATIENT: Oh. Very well, Doctor. I will wait here then, yes? And I thank you for seeing me. I hope it not too much trouble, this whole thing.
+DOCTOR: Certainly. The nurse will be with you shortly. Try to relax, Ms. Zicarelli. .
+PATIENT: .

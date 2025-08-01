@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Miner, I’m Dr. Todorovich. So, what brings you in today?
+PATIENT: Hmm? Oh, right. This swelling. It’s mostly my face, you see, and my legs are… puffy. Been happenin’ for a bit now, I guess. Not sure how long, exactly. Time kinda slips away when you’re on your own, you know? It’s just… uncomfortable.
+DOCTOR: "Uncomfortable," alright. And when you say 'a bit now,' could you give me a rough estimate?
+PATIENT: Rough… hmm. Maybe a couple of weeks? Could be longer. Honestly, doc, I don't keep track of these things. It just sort of… appeared. Not somethin' a man worries about unless it starts botherin' him, and it is botherin' me now. It makes it hard to get my glasses on, see?
+DOCTOR: Right. Well, we’ll figure it out. Has anything changed recently that might have triggered this?
+PATIENT: Changed? Not really. Same routine, same everything. I go to work, I come home, I… well, I mostly just sit. Used to go fishin’ with my wife, bless her heart, but… that was a while back. Ain't been much change in the diet either. Meat and potatoes, mostly. Simple stuff. Don't go for fancy foods. It just is, you know?
+DOCTOR: Okay. And is this swelling constant, or does it come and go?
+PATIENT: Constant… mostly. It's worse in the mornin', I think. Like when I wake up, my face feels like a balloon. Gets a little better as the day goes on, but it never really goes away completely. Sometimes my ankles get real bad too, especially after I've been on my feet at work.
+DOCTOR: Alright. And you mentioned work. What kind of work do you do?
+PATIENT: Welding, mostly. And solderin', braizin’… all that. I set up the machines, you see, make sure they're runnin' right. Been doin' it for… a long time now. It's hot work, but a man's gotta earn a livin', right? It ain't easy on the body, that’s for sure.
+DOCTOR: Right. Well, let’s have a look at those ankles. Could you please sit on the examination table and extend your legs?
+PATIENT: There ya go. Old bones ain't as nimble as they used to be. Just let me know if you need me to move 'em around. Hope they ain't too bad.
+DOCTOR: Hmm. There's definite pitting edema in both ankles. And your skin is somewhat discolored, a bit… brownish. Do you have any history of diabetes, or kidney problems?
+PATIENT: Diabetes? Kidney problems? No, not that I know of. Never been told nothin' like that. Doctors didn't bother much with us workin' men back in my day, long as you could still do the job. I mean, I get tired, but that's just from the work, right? I’ve always been a pretty healthy fella, all things considered.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: Medications… not really. Took some aspirin now and then for a headache, but that’s about it. Never had a bad reaction to nothin’ that I recall. And I don't take nothin' regularly. I'm a simple man, doc. Don't need a lot of fancy pills.
+DOCTOR: Okay. Let's check your blood pressure and listen to your heart and lungs. Can you roll up your sleeve?
+PATIENT: There ya go. Hope this ain't gonna take too long. I got things to do, you know. Not one for sittin' around.
+DOCTOR: Blood pressure is elevated... 160 over 90. Heart sounds are regular, but slightly muffled. Lungs are clear, but you’re breathing a little heavily. Alright. We're going to need to do some blood work and a urine sample. That will give us a better idea of what’s going on. I’ll have the nurse come in and get you set up. Do you have any difficulty urinating?
+PATIENT: Urinating? No, not really. It's… normal. A little slow sometimes, now that I think about it, but nothing to worry about. Old age, you know. Everything slows down eventually. Just get it done, doc. Let's figure out what's goin' on. I ain't one for complainin', but this swelling's gettin' old.
+DOCTOR: The nurse will be right in. In the meantime, try to relax. We’ll get this sorted out. .
+PATIENT: .

@@ -1,0 +1,14 @@
+DOCTOR: Alright, Ms. Boham, have a seat. So, what brings you in today?
+PATIENT: Oh, thank you, Doctor. It’s… my sinuses, I think. They’ve been bothering me. It’s hard to… remember exactly when it started, but it’s been a little while now. It feels… full, you know? Like pressure.
+DOCTOR: Full, huh?
+PATIENT: Yes. And… sometimes it hurts a little. Not a bad hurt, but… annoying. I don't know if it’s from the work, maybe? All the dust… at the oil place. I work with the drills. It’s… loud.
+DOCTOR: Loud work and dust… right. So, pressure and some pain. Any fever, congestion, or… runny nose with this?
+PATIENT: Hmm… a runny nose… maybe? I can’t really remember. It's hard to say, Doctor. I think… a little stuffy sometimes, but not much running. No fever that I know of. I haven't felt hot or anything. It’s mostly just… this feeling. Right here.
+DOCTOR: Right. And how long would you say this has been going on, approximately?
+PATIENT: Oh… that’s a hard one. Maybe… a month? Or maybe more? Time… it goes so fast. It feels like it’s been a while, but not too long. I don’t know exactly. I’m sorry.
+DOCTOR: Okay, okay. Well, it sounds like… allergies, probably. You're working in a dusty environment. You probably just need to avoid the dust as much as possible. Any other complaints?
+PATIENT: Allergies… maybe. That makes sense, with the work. I try to… wear things over my face, but it’s hard. Other things… no, not really. Just the sinuses. My husband says I’ve been a little tired, but… I always feel a little tired. Nothing else, I think.
+DOCTOR: Alright. Well, I’m not going to run a bunch of tests for something that’s obviously allergies. I’ll write you something for some… over-the-counter antihistamines. Should clear it up. Anything else at all before I finish this?
+PATIENT: Oh… I… I don’t have insurance, Doctor. Will the medicine be very expensive? I don't want to cause trouble. It’s just… money is tight.
+DOCTOR: Look, I can’t control the price of medication, Ms. Boham. It’s over-the-counter. Go to the pharmacy, they'll tell you the price. If you can’t afford it, I don’t know what to tell you. I’ve got other patients waiting. Here. See you.
+PATIENT: Oh… I… okay. Thank you, Doctor. I’m sorry for taking your time. .

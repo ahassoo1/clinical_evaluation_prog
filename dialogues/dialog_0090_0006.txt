@@ -1,0 +1,34 @@
+DOCTOR: Good morning, Ms. Weichers. I’m Dr. Kur. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Thank you for seeing me. Well, for the past few days… I have had some blood when I cough. It scared me a little, so I thought I should come and get it checked.
+DOCTOR: Blood when you cough, alright. And how many days has this been happening exactly?
+PATIENT: Hmm… let me think. It started… I believe it was the 29th of July. So, about three days now. It's not a lot of blood, but it's definitely there. Enough to worry me.
+DOCTOR: Three days… and you say it’s enough to cause concern. Is it with every cough, or just some?
+PATIENT: Just some, Doctor. Not every time. Usually when I cough harder, or… when I try to clear my throat. It doesn’t happen when I’m just coughing normally. And it's bright red. Not… dark or old-looking. Does that make sense?
+DOCTOR: Yes, that’s… helpful. Bright red suggests it’s recent, which is… good, I suppose. Now, have you had any other symptoms alongside the coughing?
+PATIENT: Oh, yes. Let me see… I have been a little tired, but I thought that was just from work. And maybe a little bit of a… ache in my chest, but not a bad ache. Nothing too serious. Is that important? I am sorry if I am not explaining this well.
+DOCTOR: It's alright. Just trying to get a complete picture. Tiredness and a chest ache… could be related, could be separate. And where exactly is the ache?
+PATIENT: It’s… hard to say exactly. It’s more on my left side, I think. Not a sharp pain, but more of a… dull feeling. And it feels a little worse when I take a deep breath. Like… pressure. I do a lot of work with people’s backs and shoulders, so sometimes I am sore, but this feels different.
+DOCTOR: Different how?
+PATIENT: It’s… deeper, I think. And it doesn’t really go away with stretching, like my usual muscle aches do. It feels… inside my chest, not on the surface. It is difficult to describe, Doctor. I hope that makes some sense. I am usually very good at explaining things to my patients, about their bodies. But explaining my own is hard!
+DOCTOR: I see. Well, let's move on to some other questions then. Have you had a fever, chills, or night sweats recently?
+PATIENT: No, Doctor. No fever, no chills. And I haven’t been sweating a lot at night, no. I usually sleep very well. I have not felt hot or cold, to be honest. Just the tiredness, and the… spot of blood when I cough. That is really all.
+DOCTOR: Alright. And any shortness of breath, or wheezing?
+PATIENT: No shortness of breath, no. I walk a lot, for work, and I haven't had any trouble with that. And I haven’t noticed any wheezing, no. Just… that little bit of ache. And the blood, of course. It is worrying me, Doctor. I don't usually get sick. Is it something serious, do you think?
+DOCTOR: It’s possible. We need to rule things out. Now, have you smoked at any point in your life?
+PATIENT: Oh, no, Doctor. Never. I do not smoke. My husband… he used to, a long time ago, but he passed away. I have always been very careful about my health. It is strange that this is happening. It's just so… unlike me.
+DOCTOR: Alright. Any family history of lung problems, tuberculosis, or… anything like that?
+PATIENT: Hmm… that is a good question. My mother had some trouble with her heart when she was older, but nothing with her lungs, as far as I know. And I don’t recall anything about tuberculosis in the family, no. We… we didn't talk about family history very much. It wasn't something we did. I am sorry I cannot be more helpful. Is that important?
+DOCTOR: It can be. Very well. Now, let’s talk about medications. Are you currently taking any prescription or over-the-counter drugs, vitamins, or supplements?
+PATIENT: Just a multivitamin, Doctor. I take one every morning. And sometimes I take ibuprofen if my back is sore from work, but not very often. Otherwise, no. I try to stay healthy, so I don’t take many pills. I am afraid I am not much help with medications.
+DOCTOR: Alright. And are you allergic to anything?
+PATIENT: No, Doctor. Not that I know of. I have never had a bad reaction to anything. I eat all sorts of things, and I have never had any trouble. I am quite fortunate, in that way. It’s just this blood… it's making me nervous. Is it possible it’s just a small irritation, maybe? Like a cough that irritated something?
+DOCTOR: It could be. But we need to be sure. Now, I’m going to listen to your lungs. Please sit up straight and take a few deep breaths when I ask.
+PATIENT: Okay, Doctor. That sounds good. I will sit up straight. Just tell me what to do. I am a little nervous, but I trust you. I am ready when you are.
+DOCTOR: Take a deep breath… and exhale. Again… and exhale. Okay, one more… and exhale. There’s some mild wheezing on the left side, and… slightly diminished breath sounds in that area as well. Not dramatic, but present. Now, I’m going to check your oxygen saturation.
+PATIENT: Okay, Doctor. I am taking deep breaths like you asked. I hope it is nothing serious. The wheezing… is that bad? I feel a little… funny, now that you’re listening. Not pain, exactly, but… different. What does the oxygen saturation mean? Is that a number?
+DOCTOR: Your oxygen saturation is 96%, which is within normal limits. The wheezing is… concerning enough to warrant further investigation. Based on what you've told me and this initial exam, I suspect it could be bronchitis, or possibly… something else. To be thorough, I'm going to order a chest X-ray and a complete blood count. And, I’d like to get a sputum sample as well. Can you cough something up and we’ll send that to the lab?
+PATIENT: Oh. That sounds… serious. An X-ray? A blood test? I was hoping it was just a little cough. Yes, of course, I can try to cough something up. Where should I do that? Will it be… unpleasant? I am a little scared, Doctor. What are we looking for, exactly? What if it is something else?
+DOCTOR: We’re looking for signs of infection, inflammation, or… other abnormalities. It’s standard procedure, Ms. Weichers. It's better to be safe than sorry. There’s a tissue here, and a specimen cup. Try to cough as deeply as you can into the tissue, then spit that into the cup. The nurse will show you the proper technique. It might be a little uncomfortable, but it shouldn’t be painful. Don’t force it, if you can’t. The X-ray will give us a clearer picture of what’s going on in your lungs. We’ll get those results back as soon as possible. You can sit there while you attempt to get a sample. The nurse will be in shortly.
+PATIENT: Okay, Doctor. I will try. It's just… a little unnerving, all of this. I will sit here and try to cough something up. Thank you for explaining things. I will just… try to stay calm. And wait for the nurse. Please let me know if you find anything concerning, okay?
+DOCTOR: I will, Ms. Weichers. The nurse will be with you shortly to assist. I'll be reviewing your chart and preparing the orders.
+PATIENT: .

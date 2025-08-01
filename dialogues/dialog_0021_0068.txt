@@ -1,0 +1,37 @@
+DOCTOR: Alright, Sasha Queener, 59 years old. So, what brings you in today?
+PATIENT: Oh, hello Doctor... Havird, yes? It’s… well, it’s my leg. It’s been swelling up. After the cancer, you see. The treatment. It just… puffs out. It’s not painful, mostly just… big. And annoying.
+DOCTOR: Right. After the cancer treatment. And it’s just the swelling, not pain?
+PATIENT: No, not pain, really. Sometimes a little… achey, maybe? But mostly just… puffy. Like a balloon. It makes it hard to find shoes that fit. And it’s embarrassing, you know? Especially in the summer with shorts.
+DOCTOR: Embarrassing, yes. Well, these things happen. It's the body. We’ll get to the bottom of it. How long has this been going on, exactly?
+PATIENT: Oh, goodness… let me think. It started… a few months after I finished. Maybe six months? It comes and goes, you see. Some days it’s not too bad, other days… like today, it’s really noticeable. I don't keep track very well, I’m sorry.
+DOCTOR: Six months, approximately. Comes and goes… Alright. And you said after treatment. What kind of treatment did you have, Sasha?
+PATIENT: Oh! Um… chemotherapy. And… radiation. Yes, both. It was… a long time ago now. At the big hospital in… well, it doesn’t matter where. It was awful, honestly. But they said it worked.
+DOCTOR: Chemotherapy and radiation… Right. And what kind of cancer was it, if you recall?
+PATIENT: Oh dear… That’s… a good question. I always had trouble remembering the names. Something… breast? Yes, I think it was breast cancer. It was in the… the lump, of course. They took it all out, and then the… poison.
+DOCTOR: Breast cancer, treated with chemo and radiation. Let's see… Okay. And this swelling is in which leg, specifically?
+PATIENT: Oh! My right leg. Yes, the right one. It’s… it's hard to explain. It's not the whole leg, just… the calf, mostly. And sometimes my foot puffs up too. It feels heavy, you see.
+DOCTOR: Right calf and sometimes the foot. Heavy feeling. Alright. Now, have you noticed any skin changes?
+PATIENT: Skin changes? Oh… let me see. It’s a little… red sometimes. Not much, just a bit flushed. And… it feels warm. Not feverish, just… warmer than my other leg. I don’t know if that’s normal or not.
+DOCTOR: Warm and slightly red. Hmm. Okay. Let’s take a look. Can you sit on the examination table for me?
+PATIENT: Oh, yes, of course. Here we go… It’s a little high, isn’t it?
+DOCTOR: Alright. Let's see… Yes, I see some mild edema here in the calf. Not severe, but definitely present. Skin is warm to the touch. Palpating… no obvious signs of deep vein thrombosis, but we’ll need to rule that out. Any history of blood clots, Sasha?
+PATIENT: Blood clots? Oh, goodness… I don’t think so. The doctors would have told me, wouldn’t they? I… I’ve had a lot of tests over the years. I can’t really remember. I worry about everything now.
+DOCTOR: Right. Well, we’ll take it slowly. Any family history of blood clots, then?
+PATIENT: Oh… my mother, yes. She had something in her leg, a long time ago. It was… very serious. She was in the hospital for weeks. I don't know what it was, exactly. My aunt said it was a "bad vein", I think.
+DOCTOR: Okay, a family history of a venous issue. Alright. Now, I'm going to listen to your heart and lungs, just to get a baseline. It’s probably nothing, but it’s good to check. Please take a deep breath for me.
+PATIENT: Oh, alright. It feels a bit strange here, doesn’t it? Everything smells so… clean.
+DOCTOR: Heart sounds are regular, lungs are clear. Now, are you currently taking any medications, Sasha?
+PATIENT: Oh, just a little pill for my blood pressure. The doctor gave it to me a few years ago. And… sometimes I take something for my arthritis, when it’s really bad. That's all, I think.
+DOCTOR: Alright. Blood pressure medication and as-needed arthritis medication. Do you know the names of these medications, Sasha?
+PATIENT: Oh dear… That’s… a good question. Let me think. The blood pressure one is… blue? The pill is blue. And the arthritis one is… white, I think. Small pills. I don't really pay attention to the names. I just take what the doctor gives me.
+DOCTOR: Right. Well, we'll have to get those names clarified. It’s important to know what you’re taking. Okay, Sasha. Based on what you’ve told me, and the exam, it sounds like you’re experiencing post-treatment lymphedema. It’s a common complication after cancer treatment, especially with lymph node removal or radiation. We’ll need to rule out other things, of course, but that's the most likely cause. I’m going to order a Doppler ultrasound to check for deep vein thrombosis and rule out any blood clots. We’ll also do some blood work to get a better baseline. Does that sound alright?
+PATIENT: Oh… lymphedema? That sounds… scary. Is it serious? Will it go away? I just want it to stop swelling, you see. And… a blood test? Oh dear. Alright… if you think it’s best, Doctor. A test is… a test. But please, make it quick.
+DOCTOR: It’s not necessarily “serious”, but it is chronic. It won’t necessarily “go away”, but it can be managed with compression therapy, exercise, and sometimes physical therapy. The blood tests are routine. We just need to rule things out. I’ll write you a prescription for compression stockings, and I'll give you a referral to a physical therapist who specializes in lymphedema management. And we'll get those ultrasound and blood work scheduled for tomorrow. Do you have any allergies to medications?
+PATIENT: Oh, allergies… hmm. Let me think. No… I don’t think so. I’ve never had a bad reaction to anything, not that I can remember. But… the doctor once gave me a shot, and my arm was sore for days. Does that count?
+DOCTOR: A sore arm after a shot isn’t an allergy, Sasha. It’s a common side effect. Alright. Okay. I’m going to print out the orders for the ultrasound and blood work, and the referral to the physical therapist. I’ll also give you some information about lymphedema, and how to manage it. It’s important to wear those compression stockings every day, even when it’s hot. Do you understand?
+PATIENT: Oh, yes. Every day. Even when it’s hot. It sounds… a lot. But alright. Thank you, Doctor. I just… want this swelling to go away. Is it alright if I ask questions? I probably will.
+DOCTOR: You can certainly ask questions, Sasha. But I’m only going to answer the important ones. I have other patients waiting, you understand. Here are the orders. The lab is just down the hall. And the physical therapist will call you to schedule an appointment. Do you have any questions right now about getting the tests done?
+PATIENT: Oh… No. Not right now. Just… the swelling. Will the stockings help with the swelling? That’s the most important thing. And… can I still wear shorts?
+DOCTOR: The stockings should help reduce the swelling, Sasha. It takes time, though. And… yes, you can still wear shorts. Just wear the stockings underneath them. Don’t overexert yourself, and elevate your leg whenever you can. Now, if that’s all, I need to see my next patient. Follow the nurse, and she'll get you checked out.
+PATIENT: Oh. Alright. Thank you, Doctor. I think I can manage. Shorts and stockings… alright. Good day.
+DOCTOR: Good day.

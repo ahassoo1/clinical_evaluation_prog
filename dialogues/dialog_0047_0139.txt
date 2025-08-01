@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Shanor. I’m Dr. Press. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Uh, fitness check. For... referee stuff. I need paper say I okay. For coach too, maybe. Want finish quick if can.
+DOCTOR: Right. A fitness check for refereeing. And you’d like a note for your coach as well. Certainly. Just to be clear, are you experiencing any problems at all?
+PATIENT: No, no problem. Everything okay. Just… they want check. Old man want make sure I still can run, you know? Not slow like turtle. Everything work. Just… check.
+DOCTOR: Right. Well, even if everything feels alright, a proper check involves some questions and a brief examination. It's for your own wellbeing, as much as it is for the coach. Let’s start with your medical history. Have you been diagnosed with any medical conditions – anything at all, really – like high blood pressure, diabetes, or asthma?
+PATIENT: Uh… asthma, maybe? When small kid. Not now. Doctor give me puffer, but not need for long time. Blood pressure… don't know. Never check. Everything okay, I tell you. Just… want paper.
+DOCTOR: Alright. And when you say ‘when small kid,’ how long ago are we talking?
+PATIENT: Long time. When… maybe ten years old? More? I forget. Not important now. I healthy. I work hard, fix fire brick. Very strong work. No problems.
+DOCTOR: Right. And do you currently take any medications regularly – even over-the-counter things like vitamins or pain relievers?
+PATIENT: No. Nothing. Only… sometimes, when back hurt from work, I take… what you call? White pills. Ibuprofen? Something like that. But not every day. Only when very, very sore. From lifting heavy brick.
+DOCTOR: Alright. Now, have you ever had any surgeries or been hospitalized for anything?
+PATIENT: No surgery. Never. Hospital… one time. When wife… sick. Long time ago. Not my problem, then. She sick. I… just visit. No for me.
+DOCTOR: Okay. And what about your family?
+PATIENT: Family? My wife… gone. No kids. Mother… in China. Very old. I… don't talk much to her. Long distance. She okay, I think. No sickness, I heard. That all. Just wife gone.
+DOCTOR: Alright. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No. No smoke. No drink much. Sometimes, small beer with friend. Very small. And… no. Not that. I work. Too tired for… that. Never.
+DOCTOR: Right. Well, that’s helpful. Now, I’d like to do a quick physical exam just to get a baseline, if that's alright with you. I'll check your blood pressure, pulse, listen to your heart and lungs, and do a basic neurological assessment. It won't take long. Can I start with your blood pressure?
+PATIENT: Okay. Blood pressure good. I think. Just… quick, please? I have work. Need to fix furnace this afternoon. Hurry is good.
+DOCTOR: Alright. Just relax your arm, please. And try to take deep breaths. 148 over 92. A little elevated, actually. We’ll need to keep an eye on that. Now, I’m going to listen to your heart and lungs. Just breathe normally.
+PATIENT: Elevated? What… bad? I feel okay. Maybe just… nervous. You ask many questions. I fix fire, you know? Very hard work. Not sit still like this.
+DOCTOR: It's not necessarily bad, Mr. Shanor, but it’s something we should be aware of. Stress can certainly cause blood pressure to rise temporarily. I'm hearing a slight wheeze in your lungs as well. Have you had a cough recently?
+PATIENT: Wheeze? No. No cough. Maybe dust from brick. Always dust. Fix fire, you know? Much dust, much smoke sometimes. Everything okay. See? Dust. It normal. No sick.
+DOCTOR: A consistent cough or wheezing, even if you attribute it to dust, can be indicative of underlying respiratory issues. We can’t simply dismiss these symptoms, particularly given your slightly elevated blood pressure. I’d like to order a chest X-ray and an EKG just to rule out anything serious. Would that be alright?
+PATIENT: X-ray? EKG? What… for? I just need paper for coach! I healthy. Fix fire brick all day. No time for… picture. No time for… heart thing. Please, just tell me I okay. I pay you money, I want paper.
+DOCTOR: Mr. Shanor, I understand you’re pressed for time and want a quick assessment. However, as a physician, my priority is your wellbeing. Ignoring potential issues would be irresponsible. A chest X-ray and EKG are simple, non-invasive tests that can provide valuable information about your respiratory and cardiovascular health. I strongly recommend we proceed with them. If you refuse, I cannot, in good conscience, provide you with a note stating you are fit for strenuous activity. It would be unethical. I can explain the procedures in more detail, or we can discuss a referral to a specialist for a more comprehensive evaluation. What would you prefer?
+PATIENT: Okay… okay. Picture, heart thing… fine. Whatever you want. Just… hurry. I lose money if no work. Just… quick, please. No time to… discuss. Just do it. .
+DOCTOR: Alright, Mr. Shanor. I’ve scheduled you for a chest X-ray and an EKG. The technician is ready for you now, just down the hall. I’ll review the results as soon as they’re available. In the meantime, please try to rest and avoid strenuous activity. Once I have the results, we can discuss them and formulate a plan. It will take around 30 minutes to get the results back. .

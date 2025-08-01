@@ -1,0 +1,21 @@
+DOCTOR: Alright, Zelina, good to meet you. So, you’re here today… what brings you in?
+PATIENT: Ugh, finally. Look, it’s my breath. It smells bad. Really bad. I just… I need it fixed. I don’t have time for this, honestly.
+DOCTOR: "Fixed," alright. Well, we'll certainly try. Bad breath can have a lot of causes, believe it or not. It’s not usually a simple fix, you know. Now, how long has this been going on?
+PATIENT: Honestly? I don't know exactly. A while. Probably since… the divorce, maybe? It's not like I'm out trying to smell people's perfume all day, if that’s what you’re getting at. It just… is. And it’s embarrassing. Is that good enough?
+DOCTOR: Right, well, emotional stress can contribute, yes, but it’s rarely the sole cause. We need to rule out other things. Do you notice it all the time, or just at certain times of the day?
+PATIENT: Mostly in the mornings, I guess. And after… after I eat. Not that I eat much to eat, these days. Just… when I do. It’s really not a complicated question. Is this going to take long?
+DOCTOR: No, it's not complicated, but "when I eat" is actually quite relevant. What do you eat, Zelina?
+PATIENT: Ugh, fine. Look, I work on the highway. It’s not like I’m at a fancy restaurant. Sandwiches mostly. And coffee. Lots of coffee. And sometimes… donuts, if there’s nothing else around. Is that a crime?
+DOCTOR: No, it’s not a crime. It’s… not ideal. Coffee and donuts aren’t exactly known for their breath-freshening qualities, you see. And sandwiches… what kind of sandwiches?
+PATIENT: Whatever’s available from the gas station. You know. Ham and cheese, turkey, sometimes roast beef. They sit around for a while, probably. Look, I don’t have time to analyze the freshness of every sandwich I eat while I'm patching potholes, okay? I'm a highway worker, not a food critic.
+DOCTOR: Right. And do you brush your teeth… regularly?
+PATIENT: Of course I brush my teeth. Do I look like an animal? I just… I don't always have time for a whole routine. Sometimes I just… rinse. Is that okay?
+DOCTOR: "Rinse" isn't sufficient, Zelina. It really isn't. Do you floss?
+PATIENT: Floss? Seriously? Look, I'm dealing with heavy machinery and orange cones all day, I don't have time to worry about tiny bits of food stuck in my teeth. It’s… ridiculous. Are you going to lecture me on dental hygiene now? This is a waste of my time.
+DOCTOR: It’s not about lecturing, it’s about finding the cause of the problem. And frankly, Zelina, based on what you're telling me, it's highly likely that this is due to poor oral hygiene and a diet that’s… less than ideal. Now, let’s have a look. Open wide. I need to examine your mouth.
+PATIENT: Fine. But don't expect miracles. And hurry up. I've got a shift to get back to.
+DOCTOR: Hmm. Yes, as I suspected. Some inflammation of the gums, visible plaque buildup, and a rather coated tongue. Your breath is noticeably… pungent. I also see a couple of cavities forming. We’ll need to get you to a dentist, of course. This is beyond my scope. But for now, let's talk about a proper oral hygiene routine. You need to brush twice a day, floss daily, and consider a tongue scraper. And frankly, try to cut back on the sugary drinks and processed foods. I'm going to recommend a chlorhexidine mouthwash for a short period to help control the bacteria. Do you have any allergies I should be aware of before I write that prescription?
+PATIENT: Allergies? No. Look, this is all… obvious. I need a prescription, that’s it. And a note for work, because I’m going to smell awful until this stuff works. Don’t bother with the lecture again, I get it. Brush, floss, eat better. Great. Can we please just get this over with? I really don't have time for this.
+DOCTOR: Alright. I’m writing you a prescription for chlorhexidine mouthwash. Use it twice daily as directed. As for a work note, I can state that you are under medical care for a condition that may cause temporary halitosis, and that you may require frequent breaks for oral hygiene. Is that sufficient?
+PATIENT: Yeah, fine. That’ll do. Thank you. Or whatever. Just… get it printed. And I’ll be going now. .
+DOCTOR: Here. And Zelina… I strongly advise you to schedule an appointment with a dentist as soon as possible. This is not a problem that will resolve on its own. .

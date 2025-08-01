@@ -1,0 +1,27 @@
+DOCTOR: Right. Jailenne Aslan, 29 years old. So, what brings you in today?
+PATIENT: Oh, hi! Well, I've just been feeling really chilly lately. Like, not feverish, just… cold. It started a few days ago, and it hasn’t really gone away. It’s a bit annoying, to be honest.
+DOCTOR: "Chilly." Right. And is this… constant, or does it come and go?
+PATIENT: It comes and goes, I think. It’s worse in the evenings, definitely. Like, I’ll be perfectly fine during the day, then as soon as it gets a bit cooler outside, I start shivering. Sometimes it happens even with a sweater on! It’s a bit weird, actually.
+DOCTOR: Hmm. And any other symptoms?
+PATIENT: Let me think… Not really. No sore throat, no cough. I haven’t felt achy or anything like that. Just…cold. And a little tired, maybe? But I always feel a bit tired, to be honest. It’s hard to tell if that’s connected.
+DOCTOR: "A little tired." Everyone is a little tired. Any night sweats?
+PATIENT: Oh, good question! No, definitely not night sweats. I haven’t had those. Honestly, I've been sleeping pretty normally. It’s just… this chill is the main thing. It’s just so persistent.
+DOCTOR: Alright. And are you taking any medications currently?
+PATIENT: No, not really. Just a multivitamin sometimes, if I remember. Nothing regular. I haven’t needed anything for a while, thankfully. I try to stay healthy.
+DOCTOR: Any allergies to medications, food, or anything else?
+PATIENT: Nope, not that I know of. Never had a reaction to anything. My mum always said I was a pretty easy baby, and I guess that’s stuck! I haven’t had any trouble with allergies or anything like that.
+DOCTOR: Alright. Let's get some basic vitals. Blood pressure, pulse, temperature… Just routine. If you could just have a seat there, please.
+PATIENT: Okay, sounds good. No problem at all. I'm happy to do whatever you need.
+DOCTOR: Blood pressure is 120 over 80. Pulse is 72, regular. Lungs are clear. No palpable lymph nodes. Temperature… 98.6 Fahrenheit. Normal. Have you traveled anywhere recently?
+PATIENT: No, not really. Just a weekend trip to visit my sister in Philly last month, but that was it. Nothing international or anything. We just drove, stayed at her place. It was nice! I haven't been anywhere else since then.
+DOCTOR: And your family history?
+PATIENT: Hmm, that’s a good question. My mum has high blood pressure, and my dad has… well, he had some heart issues when he was older, but he’s doing okay now. Nothing major on either side, as far as I know. No autoimmune stuff or anything like that. My grandmother on my mum's side had diabetes, but that's about it. Is that helpful? I’m not super sure, honestly.
+DOCTOR: It's… data. And what about your social history?
+PATIENT: Oh! Um… well, I’m divorced, been single for about a year now. I work as a Health Education Specialist, so I’m pretty active during the day. I don’t smoke, and I only drink socially, like a glass of wine with dinner sometimes. I try to eat pretty healthy too. Not a huge partier or anything like that! Is that what you meant? I sometimes feel awkward talking about this stuff!
+DOCTOR: Right. And do you have any pets?
+PATIENT: Oh, yes! I have a cat. His name is Leo. He’s a big ginger tabby. Very cuddly, very spoiled. He doesn’t go outside, though, he’s strictly an indoor cat. He’s probably the healthiest member of my family, to be honest! Does that matter? I’m just trying to think of anything that could be relevant.
+DOCTOR: It's all… noted. Alright. It sounds like… you’re perfectly healthy. Perhaps a slight chill, but nothing alarming. It could be stress, a minor virus… I'll write you something for a mild cold, just in case. It won’t fix everything, but it might alleviate some discomfort.
+PATIENT: Oh, okay. That sounds… good? I mean, I was worried it was something serious! So, it's probably just…stress? That’s a bit annoying, to be honest. I thought I was managing things okay. But okay, I appreciate the prescription, thank you. Is there anything else I should be doing? Like, should I get more rest? Drink more water?
+DOCTOR: Rest, hydration… standard advice. If it persists, or worsens, then you can consider seeing a specialist. But honestly, it sounds like nothing to worry about. Any other questions?
+PATIENT: Okay, alright. No, I think that’s everything. Thank you so much for your time, Dr. Sink. I really appreciate it. I’ll try to get some more rest, and drink more water. And I’ll keep an eye on it, of course. Thank you again.
+DOCTOR: Very well. Have a good day. .

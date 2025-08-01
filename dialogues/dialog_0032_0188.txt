@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Secondi. I am Dr. Pipkorn. It's a pleasure to meet you. Please, have a seat. Now, to begin, could you tell me what brings you in to see me today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um... it's my pee. It's orange. I noticed it a few days ago and... well, it worried me. I don't know why it's orange.
+DOCTOR: Orange urine, you say. That is a change from the usual, and understandably concerning. To get a better understanding, could you describe it a little more precisely?
+PATIENT: Precise? Hmm... it's not... bright orange, more like... a dark orange, like... maybe the color of some juices, you know? Not clear, definitely. And it smells normal, I think. I didn't drink anything strange though. Just water and tea.
+DOCTOR: Alright. And have you noticed any other symptoms accompanying this change in urine color?
+PATIENT: Other symptoms? Let me think... No, not really. I feel okay. Maybe a little tired, but I always feel a little tired. Nothing special, honestly. No pain, no fever, nothing like that.
+DOCTOR: Very good. Now, let’s go through some of your medical history. Have you had any significant medical conditions diagnosed in the past?
+PATIENT: Significant… hmm. Not really. I broke my arm when I was a kid, but that healed. And I had the flu a few times, like everyone. I don't think anything serious. My wife, she always takes care of me when I'm sick, so... I don't worry too much about it. Is that okay?
+DOCTOR: Yes, that’s fine. It's good you have support at home. We simply need to be thorough. Have you ever had any surgeries?
+PATIENT: No, never. No surgeries. I try to stay healthy. I work with machines, you know? Gotta be careful. No time for being sick or needing to cut things open!
+DOCTOR: Understood. And what about your family?
+PATIENT: Family… my mother, she had… high blood pressure, I think. And my father, he had problems with his… stomach, a long time ago. He’s gone now. But they were okay. Old age, mostly. Nothing… scary like… cancer or anything. I think. It was a long time ago, and I wasn't really paying attention to those things.
+DOCTOR: Alright. And do you currently take any medications, including over-the-counter medications or supplements?
+PATIENT: No, Doctor. Nothing. I don’t like taking pills. Just… tea. Sometimes I take a vitamin C when I feel a cold coming on, but that's it. My wife says I should take more, but… I forget. She gets annoyed.
+DOCTOR: Very well. Now, let’s discuss your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no, no. I don’t do any of those things. Never. I don’t like them. Bad for your health, you know? My work is enough stress. I need to be clear-headed. I like to go for walks sometimes, with my wife, but... not so much lately, it's been hot.
+DOCTOR: Good. Now, I’d like to conduct a quick physical examination, if you don't mind. I'll listen to your heart and lungs, and I'd also like to examine your abdomen. And, of course, I’ll need a urine sample. That will help us determine the cause of the color change. Is that acceptable?
+PATIENT: Yes, that's fine. Whatever you need, Doctor. I trust you. A urine sample… okay. Where do I… do it? And how much do I need to give you? I hope it's not too much. I drank a lot of water this morning.
+DOCTOR: Certainly. The bathroom is just down the hall, first door on the right. You'll find a collection cup and instructions inside. A small sample is sufficient – about two to four ounces will do. Please try to collect a midstream sample, if possible – that means starting to urinate, then collecting the sample mid-flow. Do you understand?
+PATIENT: Mid… mid-flow? You mean… not the first part, and not the last part? Just… in the middle? I think I understand. I always get confused with those things. Okay, I will try. Where do I… give it to you when I’m done?
+DOCTOR: Yes, exactly. Just the middle portion. And when you’ve collected the sample, please place it on the tray just outside the door. I will let you know when I'm ready to examine it. Please take your time. I’ll be right here.
+PATIENT: Okay. Thank you, Doctor. I will go now. It's… a little embarrassing, but… I will try my best to get the middle part.

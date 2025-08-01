@@ -1,0 +1,28 @@
+DOCTOR: Good afternoon, Courtnye. I’m Dr. Alzoubi. It's nice to meet you. So, what brings you in to see me today?
+PATIENT: Hi Dr. Alzoubi, nice to meet you too. Um, it's about my bruising. It's been getting worse, even though I'm on blood thinners. It just...doesn't seem right, you know?
+DOCTOR: Okay, bruising that's worsening despite being on blood thinners is definitely something we need to look into. Can you tell me a little more about it?
+PATIENT: Sure. It started, I think, maybe a month ago? Little bumps, like normal, from bumping into things. But now… they’re bigger. And more of them. I didn’t even feel myself hit anything hard with this last one on my arm. It just… appeared. It's kinda scary, honestly.
+DOCTOR: I understand your concern. A bruise appearing without a clear injury is concerning. About how big would you say this new bruise on your arm is?
+PATIENT: Oh, gosh… hmm. It's… maybe the size of my palm? A little smaller, actually. But it's dark purple, and it’s raised a bit. Not a lot, but you can definitely feel it.
+DOCTOR: Okay, a palm-sized, raised, dark purple bruise appearing spontaneously… That's good information. Are the bruises mostly on your arms and legs, or are you noticing them in other places?
+PATIENT: Mostly arms and legs, yeah. I noticed a little one on my back a few days ago, but that might be from sleeping wrong? It’s small. But yeah, definitely more on my limbs. I haven’t really noticed them on my torso much before this one on my back.
+DOCTOR: Alright. And you said you’re currently taking blood thinners… can you tell me which one, and what are you taking it for?
+PATIENT: Oh, um… let me think. It’s… Warfarin, I think. Yeah, Warfarin. And I’m taking it ‘cause of… atrial fibrillation. That's what the doctor said, anyway. It’s my heartbeat, all wonky. They said I needed it to prevent a stroke.
+DOCTOR: Okay, Warfarin for atrial fibrillation. That’s important to know. Have you had your INR checked recently?
+PATIENT: INR? Oh… you mean the blood test? Uh… not recently. I think it was… maybe three months ago? The doctor who prescribed the Warfarin does that, and I haven't had an appointment with him in a while. I just thought I’d come in about the bruising. Does that matter?
+DOCTOR: Yes, that does matter. We need to know if you're properly anticoagulated, or if something else is going on. Do you know what your last INR result was?
+PATIENT: Ugh, no, not a clue. They just… tell me if I need to adjust my dose, or something. I don’t really pay attention to the numbers. Sorry! I’m not good with medical stuff. Is it bad that I don't remember?
+DOCTOR: It’s okay, Courtnye, don’t apologize. It’s common not to remember all the numbers. We can check it today, if you're okay with that?
+PATIENT: Yeah, okay, that'd be great. If you can figure out what’s going on, that would be a huge relief. I’m just… worried, you know? It feels like something’s not right.
+DOCTOR: Alright. Before we do the blood work, let’s do a quick physical exam, just to get a better look at the bruising and check for anything else. Is that alright with you?
+PATIENT: Yeah, sure. Whatever you think is best. Let's get it done.
+DOCTOR: Okay. If you could just sit up and have a seat here on the examination table, that would be great. I'm going to gently examine your arms and legs, and possibly your back, to get a better look at the bruising. I'll also listen to your heart and lungs, just to get a complete picture. Do you have any pain anywhere that I should be aware of?
+PATIENT: No, not really. No new pain, anyway. My joints get a little stiff sometimes, but that's just getting old, I guess. Go ahead, I’m ready.
+DOCTOR: Okay. I'm noticing several bruises here, Courtnye, varying in size and age. Some appear quite recent, others a bit older. They are tender to the touch, but no significant swelling. Your heart sounds regular, and your lungs are clear. I don't hear any unusual sounds. Now, can I take a look at your back?
+PATIENT: Yeah, sure. Go ahead. It doesn’t hurt or anything, just feels… weird. It’s just been getting me worried, that’s all.
+DOCTOR: Okay, I see a small bruise here on your upper back, as you mentioned. It’s slightly raised and tender to the touch. No other concerning findings on your back. Alright. I'm going to order some blood work. We'll check your INR, of course, but also a complete blood count and a basic metabolic panel. We'll also check your liver function, as that can sometimes be related to bruising. Does that sound okay?
+PATIENT: Yeah, that sounds… thorough, which is good. The more you check, the better, I guess. Let’s do it. Where do I go for the blood work? Is it here in the clinic?
+DOCTOR: Yes, it is. I'm sending the order to the lab just down the hall, room 203. The lab technician will draw your blood. It should just take a few minutes. Once the results are back, we’ll review them together and discuss the next steps. It usually takes about an hour or two for the results to come back. I’ll have the nurse call you when they're ready. Do you have any questions before you head to the lab?
+PATIENT: No, I think that's everything. An hour or two… okay. Hopefully, it's not anything too serious. Thanks, Dr. Alzoubi.
+DOCTOR: You’re very welcome, Courtnye. We'll get to the bottom of this. I’ll be here when you’re ready to discuss the results. Don’t hesitate to let the nurse know if you feel any new symptoms while you’re waiting. Have a seat in the waiting room, and someone will let you know when the results are available.
+PATIENT: Okay, will do. Thank you again.

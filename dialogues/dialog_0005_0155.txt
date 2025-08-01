@@ -1,0 +1,33 @@
+DOCTOR: Alright, Mr. Jezik, welcome. I'm Dr. Donate. So, what brings you in today?
+PATIENT: Tremor, you say? Yes, that’s right. It’s… well, my hand. It shakes. Has been for a little while now, I reckon. Not sure how long, exactly. Time… slips away, you know?
+DOCTOR: Time does, indeed. A little while… can you be a bit more specific?
+PATIENT: Specific… hmm. Maybe… six months? Or was it a year? It started slow, I think. Just a little wobble when I was… working. At the plant. Water treatment. It's… hard to say. Everything feels a bit fuzzy these days.
+DOCTOR: Right. So, it started while you were actively working at the plant, doing what specifically?
+PATIENT: Oh, boy… what was I doing? Valves, I think. Checking the valves. And… the pumps. Making sure everything was running smoothly. It's… complicated. Lots of dials and levers. And… water, of course. A lot of water. I've been doing that work for… a long time. Too long, maybe.
+DOCTOR: And you noticed the tremor when you were manipulating those valves and checking the pumps?
+PATIENT: Yes, that’s it. When I was… tightening them, I suppose. Or… adjusting them. It was just a little thing at first. I thought it was just… old age, you know? Hands aren't what they used to be. But it’s gotten… worse.
+DOCTOR: Worse how?
+PATIENT: Well… it happens more often now. Not just at work. Sometimes when I’m… eating. Or trying to hold a cup. It spills sometimes. And… it feels… harder to control. Like a little… vibration. Always in my right hand, mostly. See?
+DOCTOR: Alright. And does anything make it better or worse?
+PATIENT: Better or worse… hmm. I think… when I’m resting it’s a bit better. When I’m trying to do something… delicate. Like buttoning my shirt. That’s when it’s really bad. And… stress, maybe? If I’m worried about something… it gets worse, I think. Honestly, it's hard to tell sometimes. Everything feels… jumbled.
+DOCTOR: You mentioned stress makes it worse. Are you under any particular stress currently?
+PATIENT: Stress… well, being divorced is stressful, I suppose. It’s been… a few years now. And… I don’t have much family left. Just… me. Trying to keep things going, you know? The house… it needs work. Bills… always bills. Nothing major right now, but… it’s always something.
+DOCTOR: Alright. Now, have you noticed any other symptoms accompanying this tremor?
+PATIENT: Other symptoms… Let me think. No… not really. Maybe a little tired sometimes? But that’s just old age, I reckon. And my… my memory isn't what it used to be. But I forget things all the time. Can't remember what I had for breakfast half the time.
+DOCTOR: Okay. Any changes in your balance?
+PATIENT: Balance… No, I don't think so. I haven't fallen or anything. Maybe a little unsteady sometimes, but I just thought that was… being old. I still manage to get around, you know? I still do things around the house. A little gardening, mostly. Nothing strenuous.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: Medications… hmm. Not really. Just… an occasional aspirin for my knees, when they bother me. And… that’s about it, I think. I used to take something for… high blood pressure, years ago. But the doctor took me off it. Said it wasn't necessary anymore. I don't bother with much these days.
+DOCTOR: Okay, Mr. Jezik. I'm going to do a quick neurological exam, just to get a better sense of what's going on. Is that alright with you?
+PATIENT: Neurological… exam? Oh. Alright. If you think it's necessary. Just… don't expect much. Like I said, my memory isn't what it used to be. And… I’m not very good at those sorts of things.
+DOCTOR: That’s perfectly alright. We’ll take our time. Just relax, and do your best. First, can you follow my finger with your eyes without moving your head?
+PATIENT: Follow your finger… yes, alright. Just… go slow, please. My neck isn't as flexible as it used to be.
+DOCTOR: Good. Just keep your eyes on my finger… up and down… now to the left… now to the right… and back to the center. Alright. Now, I'm going to check your reflexes. Can you let your arms just relax at your sides?
+PATIENT: Relax… yes, alright. Just… don’t hit me too hard. Old bones, you know.
+DOCTOR: Just a little tap. Alright. Now, I'm going to check your muscle strength. Can you squeeze my hands as hard as you can?
+PATIENT: Squeeze… as hard as I can? Oh dear. Is that… good enough? My hands aren't what they used to be, you know.
+DOCTOR: That's alright. Thank you. Now, let's move on to coordination. Could you try to touch your nose with your index finger, then touch my finger with yours?
+PATIENT: Touch my nose… then your finger? Oh dear. Not very good at this, am I? My hands… they just don’t listen anymore. Let me try again.
+DOCTOR: Okay, Mr. Jezik. Based on what I’ve seen so far, it sounds like you’re experiencing a tremor that’s affecting your coordination and muscle strength. There are several possible causes for this. It could be related to essential tremor, which is a common condition, or it could be something else. To get a better understanding of what's going on, I’d like to order some blood tests to rule out any underlying medical conditions. I also think it would be beneficial to get a referral to a neurologist for a more specialized evaluation. Does that sound alright to you?
+PATIENT: Neurologist… blood tests… Oh dear. More appointments… more tests… Alright. If you think it's necessary. Just… please don't expect much. My memory isn’t what it used to be, you know? And I… I don’t really like going to doctors. But… if it will help, then alright.
+DOCTOR: .

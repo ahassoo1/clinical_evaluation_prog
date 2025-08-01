@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Jailenne. It’s nice to meet you. I’m Dr. Finco. So, what brings you in to see me today?
+PATIENT: Morning, Dr. Finco, nice to meet you too! Well, I’ve just been getting these chills, and they won’t really go away. It's a bit strange, honestly.
+DOCTOR: Chills, alright. And how long have you been experiencing these chills, Jailenne?
+PATIENT: Hmm… maybe about three days now? It started kinda slowly, just feeling a bit cold, but it’s gotten more noticeable each day. Not a fever, though, I don’t think so. I haven’t checked, actually.
+DOCTOR: Okay, three days. And you haven’t felt a fever, but haven’t taken your temperature either, correct?
+PATIENT: Yeah, that’s right. I usually don’t bother with a thermometer unless I feel really bad, you know? It’s just… the chills are what’s bothering me. They come and go, but when they hit, I really shiver.
+DOCTOR: I understand. It’s good to be aware of your body. Besides the chills, have you noticed any other symptoms?
+PATIENT: Let me think… I’ve been a little tired, I guess. More tired than usual, but I've been busy, so I just figured it was that. And maybe a bit of a headache, but nothing major. Not like a migraine or anything. Oh! And my muscles feel a little achy, but again, could just be from moving stuff around.
+DOCTOR: Okay, tiredness, a mild headache, and some muscle aches. Do you have any cough, sore throat, runny nose, or congestion?
+PATIENT: No, nothing like that. No cough, sore throat, runny nose… definitely not congested. It’s just… the cold shivers and feeling a bit worn out, really. It's a weird combination.
+DOCTOR: Alright. And have you had any changes in your appetite or any nausea, vomiting, or diarrhea?
+PATIENT: No, thankfully! Eating normally, no stomach troubles at all. I'm glad about that, at least. I hate being sick to my stomach.
+DOCTOR: Good to hear. Now, let’s talk a bit about your medical history, if you don’t mind. Have you been diagnosed with any medical conditions previously?
+PATIENT: Not really. I had tonsillitis when I was a kid, but that’s it. Nothing major, no chronic illnesses or anything. I usually stay pretty healthy. I try to eat well and get some exercise when I can, you know?
+DOCTOR: That’s good to hear. And have you ever had any surgeries?
+PATIENT: Nope, never had surgery. I've been lucky so far! I'm not a fan of hospitals, to be honest.
+DOCTOR: That's perfectly alright. And what about your family?
+PATIENT: Um… my mom has high blood pressure, I think. And my dad had diabetes, but he passed away a few years ago. Nothing else really stands out, if that makes sense. My siblings are all pretty healthy too, as far as I know.
+DOCTOR: Okay, so your mom has high blood pressure and your father had diabetes. Thank you. Now, are you currently taking any medications, or do you have any allergies to medications or anything else?
+PATIENT: No medications at all. And no allergies, thankfully! I can eat anything, use any kind of soap… nothing bothers me. That’s one less thing to worry about, right?
+DOCTOR: Certainly is. Alright, Jailenne, to get a better understanding of what might be going on, I’d like to do a quick physical exam, if that’s alright with you?
+PATIENT: Yeah, that sounds good. Whatever you think is best, Dr. Finco. I trust your judgment. Just let me know what you're doing as you go, okay? I get a little nervous with doctors sometimes.
+DOCTOR: Of course. I’ll explain everything as I go. First, I'm going to listen to your heart and lungs with the stethoscope. Just breathe normally. Heart sounds are regular, normal rate. Lungs are clear, no wheezing or crackles. Blood pressure is 120/80, pulse is 72. Lymph nodes are not enlarged. Ears are clear. Throat is clear, no redness or swelling. Everything seems normal so far, but given the chills, a bit of fatigue, and muscle aches, I’d like to take a quick blood test just to rule out any infections or other possible causes. How does that sound?
+PATIENT: Okay, that sounds… sensible. If it rules things out, that’s a good thing, right? A blood test is okay. Where will we do it? And will it take long? I have a couple of things I need to get done this afternoon.
+DOCTOR: Exactly, it’s just to be on the safe side. We can draw the blood right here in the clinic. It will only take a few minutes, and then we'll send it off to the lab. Results usually come back within a day or two. In the meantime, I recommend getting some extra rest and drinking plenty of fluids. Would you like me to give you a sick note for work, just in case?
+PATIENT: Oh, that would be great, actually, thank you! Yes, a sick note would be really helpful. Just in case I still feel rough tomorrow. Extra rest and fluids… I can definitely do that. Hopefully it's nothing too serious.
+DOCTOR: Here you go. This will cover you for a couple of days. I'm going to have the nurse draw the blood now. She will explain the process to you. Once we have the results, we can discuss them and come up with a plan. In the meantime, if you develop a fever, severe headache, or difficulty breathing, please go to the emergency room immediately, okay?
+PATIENT: Okay, thank you so much, Dr. Finco. I really appreciate it. And yes, I will definitely go to the emergency room if anything gets worse. I just want to feel normal again! I think that’s everything for now, right? The nurse will be with me shortly?
+DOCTOR: Yes, that’s right. The nurse will be in shortly. She will take you to the lab. Don't hesitate to ask her any questions you might have. I will review the results as soon as they come in and will be in touch. Have a good rest of your day, Jailenne. And please, don't hesitate to call if you have any concerns.
+PATIENT: Okay, thank you again, Dr. Finco. I will. Bye!

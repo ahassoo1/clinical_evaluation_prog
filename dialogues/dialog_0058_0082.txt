@@ -1,0 +1,25 @@
+DOCTOR: Alright, Odell Tayar, 22 years old. So, what brings you in today?
+PATIENT: Uh, travel. I need… something for travel. My wife and I, we were gonna go… somewhere. Not anymore, though. She… passed. But I still wanna go, I think. If it’s not too much trouble.
+DOCTOR: Right. Travel… and you’re dealing with a recent loss. I see. And you need… something medically to facilitate this trip?
+PATIENT: Yeah. Like… shots? Pills? I don’t know what I need, that’s why I’m here, right? It’s… for a country. Hot country. Lots of bugs, maybe? My wife, she always took care of this stuff. I just… held the bags.
+DOCTOR: Okay. Well, “a hot country with lots of bugs” isn't exactly helpful, Odell. We need specifics. Where were you planning to go?
+PATIENT: Uhh… Nepal. We were going to Nepal. That’s… where I’m from, actually. But… not that part. We were going to… the mountains. Pokhara, I think? She had the tickets and everything. It was a surprise for her birthday.
+DOCTOR: Nepal… right. Pokhara. Okay. Well, Nepal carries risks. Specifically, we need to consider typhoid, hepatitis A, and malaria, depending on the altitude and time of year you were planning to travel. And tetanus, of course. Have you had a tetanus booster in the last ten years?
+PATIENT: Ten years? Uh… no. I don’t think so. I don't really remember shots. Lots of them when I was little, I guess. My wife… she always kept track of things like that. I just… I’m not good with dates and stuff. Is malaria bad?
+DOCTOR: Malaria is very bad, Odell. It’s a parasitic infection transmitted by mosquitoes. Can be fatal if untreated. Alright, let's start with the basics. Do you have any allergies to medications?
+PATIENT: Uh… no. Not that I know of. She always asked me before I took anything, and I never had a problem. But… it’s been a while since I took… anything, really. Just… pain pills sometimes, for my back. From work.
+DOCTOR: Okay. And what do you do for work?
+PATIENT: I… build airplanes. Or, parts of them. Like… the outside. And the inside, sometimes. Mostly the outside, though. It’s… hard work. Lots of… bending and lifting. And… little tiny screws. Not as fun as it sounds.
+DOCTOR: Alright. And do you have any current medical conditions?
+PATIENT: Uh… my back hurts. Like I said. From work. And… I get tired. A lot. Especially now. Not like… sick tired, just… heavy tired.
+DOCTOR: Okay. And have you had any serious illnesses or surgeries in the past?
+PATIENT: No. Not that I remember. I broke my arm when I was a kid, climbing a tree. But… that was a long time ago. And my wife… she took me to the doctor for everything when we were together. I just… followed her.
+DOCTOR: Alright. Let's do a quick physical exam. I need to check your temperature, pulse, blood pressure, and listen to your heart and lungs. And I'll need to palpate your abdomen. Just to get a baseline. Please sit up on the exam table.
+PATIENT: Okay. Is this gonna take long? I… have things to do. Not important things, but… things.
+DOCTOR: It won't be long. Temperature is normal. Pulse is a bit elevated, but that could be anxiety. Blood pressure is… slightly high. Now, I'm going to listen to your heart and lungs. Take a deep breath in… and out. Sounds clear, but we’ll need to monitor that. Now, I’m going to feel your abdomen. It may be a little uncomfortable. Let me know if anything hurts.
+PATIENT: Okay… Ouch! That’s… sensitive. My wife always said I was… tender. It hurts a little when you push there… on the right side.
+DOCTOR: Hm. Tenderness on the right side. Could be muscular, could be something else. I'm going to order some blood work, just to be safe. Complete blood count, liver function tests, and a basic metabolic panel. And a urine sample. We also need to check for hepatitis. The lab is just down the hall. Once you've completed those, we can discuss travel vaccinations.
+PATIENT: Vaccinations… right. So many things. Do I have to get all these tests? My wife… she just knew what I needed. I always trusted her.
+DOCTOR: Odell, you’ve recently experienced a significant loss and are planning travel to a region with specific health risks. These tests are necessary to ensure your safety. I understand you relied on your wife, but now I’m your doctor, and I need to gather information to make an informed decision about your health. It's not optional. Go to the lab, provide a sample, and then come back, and we'll discuss this further.
+PATIENT: Okay… Fine. I’ll go. But… it’s a lot. .
+DOCTOR: .

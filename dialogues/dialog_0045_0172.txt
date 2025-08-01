@@ -1,0 +1,30 @@
+DOCTOR: Alright, Mrs. Engelhaupt. So, what brings you in today?
+PATIENT: Oh, goodness. Well, it’s… a social visit, I believe? My husband insisted. Honestly, I don’t recall precisely. We just moved here, you see, and he’s very particular about these things. New doctors and all. It’s all quite… unnecessary, if you ask me.
+DOCTOR: Well, even if it is a social visit, it doesn't hurt to make sure everything's in order. You’ve relocated recently, you said?
+PATIENT: Yes, relocated. From… oh dear. It was a perfectly lovely place. Very established. Not like this city, I assure you. Somewhere… warmer. That’s all I can really remember at the moment. My husband handles all the details, you see. He always has.
+DOCTOR: Alright. And is there anything specifically that he’s asked me to check?
+PATIENT: Honestly, no. He just said “get established with a doctor.” Men. Always so vague. I haven’t a clue what he expects. Perhaps a general… overview? I suppose. Are you meant to do overviews?
+DOCTOR: Yes, ma'am, we do overviews. It’s a good place to start. Let’s just go through some basic questions, and then I’ll take a look at you. Have you been feeling alright generally?
+PATIENT: Alright. Well, as alright as a woman my age can be, I suppose. A few aches and pains, naturally. It comes with the territory, doesn't it? Nothing alarming. Mostly just… tired. And a bit… forgetful, I must admit. But that’s just part of getting older, isn’t it?
+DOCTOR: Okay. And has this fatigue been a recent change, or has it been ongoing for a while?
+PATIENT: Oh, goodness. That’s a difficult question. Time… it all blends together, you see. Probably… longer than I care to admit. It's not something I've actively noticed, if that makes sense. It just… is. My husband might have a better idea. He’s very observant, you know.
+DOCTOR: Alright. And any other symptoms along with the fatigue?
+PATIENT: Symptoms? Oh dear. Let me think… Well, sometimes I feel a little… lightheaded when I stand up too quickly. And my appetite hasn’t been quite what it used to be. But truly, I think that’s just because the food here isn’t nearly as good as back home.
+DOCTOR: Okay. Now, are you currently taking any medications?
+PATIENT: Medications? Hmm… Let me see. I believe… yes. A small, white pill. For my… blood pressure, I think? Or perhaps it's my cholesterol. Honestly, the doctor back home just kept prescribing things and I took them. My husband manages the refills. I wouldn’t want to get the wrong thing, you see.
+DOCTOR: Alright. Do you happen to know the name of that medication?
+PATIENT: Oh, goodness, no. Names escape me these days. It’s a little white pill, that's all I know. Perhaps it had letters on it? I really couldn't say. Honestly, I leave all that to my husband. He’s very good with… details.
+DOCTOR: Okay. Well, let’s try something different then. I’m going to do a quick physical exam, just to get a baseline. Is that alright?
+PATIENT: A physical exam? Oh, very well. As long as it doesn’t take too long. I have… arrangements this afternoon. And I dislike being poked and prodded, if you must know.
+DOCTOR: Alright. If you could just sit here for me, please. I’m going to listen to your heart and lungs first. Please take a deep breath in… and out. Heart sounds are regular, slightly diminished. Lungs are clear to auscultation bilaterally, but breath sounds are diminished overall.
+PATIENT: Oh, goodness. Is everything alright? It feels… rather cold. And you're pressing quite hard, you know. I'm not used to all this… attention.
+DOCTOR: Everything is fine, Mrs. Engelhaupt. I’m just listening to your breathing. A little pressure is necessary to get a good reading. Now, let’s check your blood pressure. Blood pressure is slightly elevated, but not critically high.
+PATIENT: Elevated? Oh dear. Is that bad? My husband always said I worry too much. Perhaps I should have stayed home. This is all so… stressful.
+DOCTOR: It’s not necessarily bad, Mrs. Engelhaupt. It's a little higher than ideal, but not immediately concerning. We can discuss ways to manage it. Now, I’d like to check your reflexes. Reflexes are slightly diminished, but symmetric.
+PATIENT: Oh, goodness. More poking and prodding? Really, I don't see the point of all this. I feel perfectly fine, you know. Or as fine as a woman my age can be.
+DOCTOR: It’s just a standard assessment, Mrs. Engelhaupt. Helps me get a complete picture of your overall health. Now, I’m going to listen to your abdomen. Please relax your stomach muscles. Abdomen is normoactive, bowel sounds present. No tenderness to palpation.
+PATIENT: Oh, goodness. Is something wrong? My stomach has been a little upset lately. Perhaps it’s the food here. It’s simply dreadful.
+DOCTOR: It doesn’t seem to be anything serious, Mrs. Engelhaupt. Likely just some mild indigestion. Now, I think that’s enough for a basic assessment. Based on this brief examination, it seems you’re generally healthy for your age, but we do need to address your slightly elevated blood pressure and fatigue. I recommend we run some blood work to rule out any underlying issues. Would that be alright?
+PATIENT: Oh, goodness. More tests? Really, I’m not sure I have the energy for all this. My husband will be most displeased. He doesn't like me being poked and prodded, you know. Very well. If you insist. But please, make it quick. And tell your husband he’ll need to handle the paperwork. I simply can’t be bothered.
+DOCTOR: Alright. I’ll order a complete blood count, a basic metabolic panel, and a thyroid panel. The nurse will draw the blood before you leave. I’ll also give you a printout of instructions for lowering your blood pressure - diet and exercise recommendations. It's important to take an active role in your health, Mrs. Engelhaupt. Your husband can help, but ultimately, it’s your responsibility. We'll schedule a follow-up appointment to discuss the results in two weeks. .
+PATIENT: .

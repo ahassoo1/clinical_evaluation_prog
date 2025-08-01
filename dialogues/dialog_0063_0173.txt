@@ -1,0 +1,28 @@
+DOCTOR: Good morning. Dr. Jules. Please, have a seat. Now, Ms. Aslan, to what do we owe the pleasure of your visit today?
+PATIENT: Hi, good morning to you too, Dr. Jules. Well, I've been getting chills, and it's a bit worrying. It’s not like a cold chill, more… random, you know? Like a wave washing over me.
+DOCTOR: Random chills. Yes. And how long have these… waves, as you call them, been occurring?
+PATIENT: Hmm, let me think… probably for about a week now? It started maybe last Tuesday, I think. It’s hard to say exactly, honestly. Some days it's just once or twice, other days it's more frequent. It hasn't been constant, thankfully.
+DOCTOR: A week. And are these chills accompanied by any other symptoms?
+PATIENT: No, not really. That's what's weird! No fever, no cough, no sore throat… nothing like a normal sickness. Just the chills. Maybe a little tired, but I usually am, to be honest. Work keeps me busy.
+DOCTOR: “A little tired.” And what sort of work do you do, Ms. Aslan?
+PATIENT: I'm a Health Education Specialist. I work with a community center, mostly doing workshops and outreach programs – things like healthy eating, exercise, that sort of thing. It’s good work, but it can be draining running around all day.
+DOCTOR: Demanding, I imagine. Now, let’s move on. Have you noticed any other changes?
+PATIENT: Changes? Like what kind of changes? Sorry, I'm not sure I follow. Are you thinking about weight loss or anything like that? Because no, nothing like that.
+DOCTOR: Any change at all, Ms. Aslan. Appetite, sleep patterns, bowel habits… anything out of the ordinary. We must be thorough.
+PATIENT: Oh! Okay, okay, I get it. Thorough. Um… my appetite’s been a little off, yeah. Not eating as much as usual, but I figured it was just because I haven't been feeling great. And sleep… well, sleep is always a struggle, but maybe a bit more restless lately. Bowel habits are normal, if that's what you were asking.
+DOCTOR: And your past medical history?
+PATIENT: Not much, thankfully. I had chickenpox as a kid, like everyone else. And I broke my wrist a few years ago, but that healed fine. No serious illnesses, no surgeries… I'm generally pretty healthy. I try to be, anyway, considering what I do for work!
+DOCTOR: Any family history of… significant illness?
+PATIENT: Hmm… my mom has high blood pressure, and my dad had some heart trouble when he was older. And my grandmother, on my mom’s side, had diabetes. Is that what you mean? It's hard to keep track of everything, you know?
+DOCTOR: And do you take any medications currently?
+PATIENT: No, I don’t. I really try to avoid them if I can. Just the occasional pain reliever for a headache, but that’s it. I’m not a big fan of pills.
+DOCTOR: Very well. Let’s have a quick physical examination. Please, lie down on the table. We’ll start with your temperature, pulse and blood pressure. And then I'll listen to your heart and lungs. It won't take long.
+PATIENT: Okay, sure. Sounds good. Hopefully it's nothing serious.
+DOCTOR: Blood pressure is 128/82. Pulse is 76, regular. Temperature is normal. Lungs are clear to auscultation bilaterally. Heart sounds… slightly muffled, but not significantly concerning. Abdomen is soft, non-tender, no masses. No palpable lymphadenopathy. Let’s check your reflexes.
+PATIENT: Okay. Sounds… okay so far? Is that a good thing? I always get nervous during these things. I hate hospitals. Or clinics, I guess.
+DOCTOR: Reflexes are 2+ bilaterally, normal. Everything appears… within normal limits. However, given your report of these… chills, and the slight muffling of your heart sounds, I think it’s prudent to order some basic blood work. A complete blood count, a metabolic panel, and a thyroid panel. Just to rule out anything… unusual.
+PATIENT: Okay, that sounds… sensible. Blood work is fine. I guess it’s better to be safe than sorry. Will I need to fast before the blood work? And where do I go to get it done?
+DOCTOR: Yes, you will need to fast for 12 hours beforehand. No food or drinks, except water. The lab is located on the third floor of the building, Room 302. They will call to schedule an appointment. Once the results are in, we’ll schedule a follow-up appointment to discuss them. In the meantime, try to rest and stay hydrated. And if the chills worsen or you develop any other symptoms, please, do not hesitate to contact the clinic immediately. Do you have any questions?
+PATIENT: No, I think that covers everything. Thank you, Dr. Jules. Fasting and stay hydrated, got it. I appreciate you taking the time to look into this. I hope it's nothing too serious. I'll go and schedule the blood work now.
+DOCTOR: Very well. You’re welcome. And please, do not delay in scheduling the appointment. That will be all. Have a good day.
+PATIENT: Okay, thank you again. You too. Bye.

@@ -1,0 +1,33 @@
+DOCTOR: Right. Ms. Creagh, yes. So, what brings you in today?
+PATIENT: Good afternoon, Doctor Dechêne. It’s this… pressure I’ve been feeling in my bladder. It’s been happening for a little while now, and it’s starting to become quite bothersome.
+DOCTOR: A little while… could you be more specific?
+PATIENT: Let me think… it began, I believe, around the middle of June. Perhaps the 15th? It wasn’t constant then, just occasional discomfort. But over the last few weeks, it’s become… more frequent. And stronger, if that makes sense. It feels like I need to go constantly, even when I’ve just gone.
+DOCTOR: Frequent urination… and you say it’s gotten progressively worse. Any pain associated with it?
+PATIENT: No, thankfully, no pain. It’s purely pressure, a feeling of fullness, even after I’ve emptied my bladder. It's… disconcerting, to be honest. It doesn't hurt, it just feels like it's never quite finished.
+DOCTOR: Okay. And is this interfering with your daily activities?
+PATIENT: Yes, it is, actually. I work from home as a graphic designer, so thankfully it’s not a commute issue. But I find myself… planning my day around bathroom trips, which is a bit silly, but true. And it interrupts my concentration. It’s difficult to focus when you’re constantly aware of needing to go. I also… hesitate to go out for longer periods.
+DOCTOR: Alright. Do you have any changes in your urine?
+PATIENT: That's a good question. No, not that I've noticed. The color seems normal, and there's no… unusual odor, if you don’t mind my being specific. It appears as it always has. I try to drink a good amount of water throughout the day, so it's usually quite clear, actually.
+DOCTOR: Clear urine, no odor... any fever, chills, nausea, or vomiting?
+PATIENT: No, Doctor, none of those. I feel perfectly well otherwise – no fever, no chills, no nausea. Just this… persistent pressure. It's rather isolated, which is what makes me wonder what's causing it. I am a bit worried, if I may say so.
+DOCTOR: Hmm. Any history of urinary tract infections?
+PATIENT: That is something I do recall. When I was younger – perhaps in my early twenties – I had two UTIs, about a year apart. But that was… quite a long time ago, over fifteen years now. I haven't had one since, to my knowledge. I do remember them being quite painful, though, and this is… different. Much more subtle, but more constant.
+DOCTOR: And what medications are you currently taking?
+PATIENT: Let me think… I take a daily multivitamin, but that's it, really. And I occasionally use ibuprofen for headaches, but it’s very infrequent – maybe once or twice a month. Other than that, nothing. I have Medicare, so I try to be mindful of what I put into my system. Is that helpful?
+DOCTOR: Vitamins, occasional ibuprofen… any allergies to medications, food, or anything else?
+PATIENT: No, no allergies that I am aware of. I've been quite fortunate that way. My husband always checks when we try new restaurants, just in case, but I haven't had a reaction to anything in my life, as far as I know. It’s a blessing, really.
+DOCTOR: Alright. And your family history… any instances of bladder issues, kidney problems, or anything similar?
+PATIENT: That's a good question. My mother had some trouble with frequent urination later in life, but I believe it was attributed to age and weakening muscles, more than anything. She didn't pursue much in the way of treatment, to be honest. My father was perfectly healthy, as far as I know – no kidney issues or bladder problems that I'm aware of. I suppose it’s not particularly relevant, but I try to be thorough.
+DOCTOR: Hmm. Well, let's do a quick physical exam. We'll just check your abdomen and do a basic neurological assessment. It's standard procedure. And then we can consider some lab work. Is that acceptable?
+PATIENT: Yes, of course. That sounds perfectly reasonable, Doctor. I’m happy to do whatever you think is necessary. I appreciate you taking the time to listen and investigate this. I just want to figure out what’s going on. Thank you.
+DOCTOR: Alright. If you could lie down on the examination table, please. I’ll listen to your abdomen first. Just try to relax. Any tenderness here?
+PATIENT: No, nothing particularly tender. It feels… normal, I suppose. Just a slight pressure when you press, but that could be my own anxiety, to be honest. I do tend to tense up a bit during medical examinations. It's not painful, though. Just… awareness.
+DOCTOR: Okay. Sounds normal here. Lungs are clear. No obvious masses. Now, let's do a quick neurological exam, just to assess your reflexes.
+PATIENT: Yes, certainly. I understand. Please proceed. I will try my best to relax and cooperate. I am… a little nervous, but I trust your expertise.
+DOCTOR: Reflexes are normal. Strength is also normal in all extremities. Okay. Well, everything appears normal on initial examination. However, given your symptoms, I’m going to order a urinalysis and a urine culture to rule out infection. I’d also like to check your kidney function with a basic metabolic panel. We'll need a blood sample for that. The lab is right down the hall. After that, come back and we’ll discuss the results. Does that sound alright?
+PATIENT: Yes, that sounds perfectly sensible, Doctor. I appreciate your thoroughness. A urinalysis and blood work seem a logical next step. I'll head to the lab right away. Should I make a follow-up appointment, or will you contact me with the results?
+DOCTOR: I will have the results sent to my office, and my assistant will contact you to schedule a follow-up appointment once they are available. In the meantime, try to drink plenty of water. Any other questions for me at this time?
+PATIENT: No, I don’t believe so. You’ve been very thorough and reassuring, Doctor. Thank you again for your time and attention. I’ll head to the lab now.
+DOCTOR: Alright. Get it done as soon as possible. And try not to worry too much. It's likely something minor. Next.
+PATIENT: Okay. Thank you, Doctor. I will.
+DOCTOR: .

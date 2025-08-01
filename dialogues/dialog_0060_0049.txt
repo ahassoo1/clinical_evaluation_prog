@@ -1,0 +1,27 @@
+DOCTOR: Right. Well, Mr. Schneer, it says here you’re 83. Goodness. What brings you in today?
+PATIENT: Oh, uh, well now… it’s my ears, I reckon. They ain’t what they used to be, that’s for sure. People mumble a lot these days, or maybe it’s just me. I mostly just… don't hear things as clear as I used to.
+DOCTOR: Right. “People mumble.” Yes, I hear that a lot. And how long has this been going on, Mr. Schneer?
+PATIENT: Oh, goodness… a while now. Seems like… years, maybe? It’s hard to say. Everything kinda blends together after a bit, don't it? I suppose it’s gotten worse lately, though. It's harder to hear the television, and talking on the phone… forget about it!
+DOCTOR: Years, you say. And is it both ears, or just one?
+PATIENT: Both, I think. Yes, both. It's not a sharp pain or anything, just… quiet. Like someone turned the volume down real low on everything. Sometimes one seems worse than the other, but mostly just… muffled. Is that… normal? I don't rightly know.
+DOCTOR: "Muffled." Alright. And have you noticed any ringing in your ears?
+PATIENT: Ringing? Hmm… now that you mention it… sometimes. Not all the time, but yeah. A sort of… high-pitched whine, maybe? It comes and goes. It's not loud, thankfully, but it’s there sometimes, especially when it's quiet. Like after I’ve been… well, I don't know, just quiet. Is that bad?
+DOCTOR: Alright. Ringing, or tinnitus, is common. Now, have you ever been exposed to loud noises – working with machinery, shooting guns, anything like that?
+PATIENT: Oh, goodness yes. I worked in the shoe factory for… well, a long time. Lots of machines. Bangin’ and whirrin’ all day long. It was noisy work, that’s for sure. Never wore nothin’ in my ears, though. Didn't think much of it back then, honestly. Just part of the job, I suppose. They didn’t tell us to wear anything.
+DOCTOR: Right. Shoe factory. Well, that explains a good deal. And do you have any other medical problems?
+PATIENT: Oh, goodness… let me think. Not really. My knees bother me sometimes, gets stiff when it's cold. And I get a bit tired easy, but that’s just gettin’ old, I reckon. Oh, and the doctor gave me somethin’ for my blood pressure a few years back, but I stopped takin’ it. It made me feel kinda dizzy. Just the usual, I suppose. Nothing serious.
+DOCTOR: "Just the usual." Alright. And do you currently take any medications, even over-the-counter ones?
+PATIENT: Hmm… well, I take a little somethin' for my arthritis when my joints are really achin’. A little white pill, I think. And sometimes I take somethin’ for sleep, but not every night. Just when I can’t get to driftin’ off. I can’t remember what they’re called though, honestly. I just ask my neighbor to pick ‘em up for me. He goes to the store all the time.
+DOCTOR: Right. We'll need to get a list of those medications. Now, have you ever had any problems with your ears before – infections, pain, anything like that?
+PATIENT: Oh, goodness… now that you mention it, I think I had somethin’ when I was a boy. A real bad earache, I remember my ma puttin’ somethin’ warm in my ear. But that was a long time ago. Since then… nothin’ I can rightly remember. No pain or anything like that. Just… gettin’ old, I suppose. Everything’s a bit fuzzy after a while.
+DOCTOR: Alright. Now, I'm going to take a look in your ears. It’ll just take a moment.
+PATIENT: Oh, alright. Whatever you need to do, Doctor. Just be gentle, alright? My ears are a bit sensitive these days.
+DOCTOR: Hmm. There’s a bit of cerumen buildup in both ears. And the tympanic membrane appears… normal, but slightly dull. Similar findings on this side. It seems you have quite a bit of earwax buildup, which could be contributing to your hearing loss. It’s a common problem. We can remove it.
+PATIENT: Oh. Earwax, huh? Well, that sounds… manageable. I don’t mind gettin’ that cleaned out, if it’ll help me hear better. What’s involved in gettin’ it out? Is it painful? I don't want nothin' poked around too much.
+DOCTOR: We can use a few different methods. I prefer irrigation – using a gentle stream of water to flush out the wax. It’s usually quite comfortable, though some people experience a little dizziness. We can also use ear drops to soften the wax first. As for "poking around," we certainly won't be doing anything like that. It's a fairly straightforward procedure. We'll start with the ear drops, then see if irrigation is necessary. Sound alright?
+PATIENT: Ear drops sounds… alright. Less scary than water squirting in, anyway. Yeah, ear drops first sounds good to me. As long as it don’t hurt. And you promise not to poke around? I've just never had much done with my ears before, so I'm a bit nervous.
+DOCTOR: Alright. No poking around, I assure you. It's a very gentle process. I'll write you a prescription for some ear drops. Use them as directed for a week, then come back, and we’ll see if they’ve softened the wax enough to remove. In the meantime, try to avoid getting water in your ears. Do you have any questions?
+PATIENT: No, I don't think so. Just use the drops, avoid water, and come back. That sounds… manageable. Thank you, Doctor. I appreciate you explainin’ everything. I reckon I'll be seein’ you again in a week then.
+DOCTOR: Alright. One week. Here’s the prescription. The nurse will go over the instructions with you. Try to be patient. It takes time.
+PATIENT: Alright. Thank you again, Doctor. I’ll see you then.
+DOCTOR: .

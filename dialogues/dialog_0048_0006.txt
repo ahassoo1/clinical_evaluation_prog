@@ -1,0 +1,28 @@
+DOCTOR: Right. Ms. Weichers, yes?
+PATIENT: Yes, that is me. Thank you for seeing me, Doctor Sink. It is… concerning, what is happening.
+DOCTOR: Concerning, is it?
+PATIENT: Yes. I… coughed up some blood. Not a lot, but enough to worry me. It happened two days ago, and again this morning. It scared me quite a bit.
+DOCTOR: Blood, you say. And how much is “enough”?
+PATIENT: Hmm… it wasn't like… a lot, like in a movie. More like… streaks, mixed in with the mucus. Maybe a teaspoon, total, over both times? It is hard to say exactly. I was very frightened, so I didn’t really… measure.
+DOCTOR: A teaspoon…right. And you’ve had no other symptoms?
+PATIENT: No, not really. I have felt a little tired lately, but I thought that was just from work. And maybe a small cough, but nothing major. No fever, no chest pain, nothing like that. Just the… blood. Is that bad? I do not know what to think.
+DOCTOR: Right. And what do you do for work, Ms. Weichers?
+PATIENT: I am a physical therapist. I work with people recovering from injuries, mostly. It is a good job, I enjoy it. But it can be tiring, helping people move again. I have been doing it for… almost twenty years now.
+DOCTOR: Physical therapist… strenuous work. Any recent illnesses?
+PATIENT: No, not that I recall. Just the usual little colds, maybe, a few times a year. Nothing serious. I try to be healthy. I eat well and try to get enough sleep when I can. I had a flu shot last fall.
+DOCTOR: Alright. And any family history of… lung problems?
+PATIENT: That is a good question. My… my husband, he passed away five years ago. He smoked for many years, but I don't believe he had any major lung issues. My mother, she was very healthy, as far as I know. No one really talked about illnesses much in my family. I'm sorry, I wish I could be more helpful.
+DOCTOR: Right. Very well. Let's have a listen to your lungs then, shall we?
+PATIENT: Yes, please. That sounds… sensible. I trust your judgement, Doctor. Whatever you think is best.
+DOCTOR: Alright. Take a deep breath for me, please. And exhale slowly. …Alright. And again. Hmm. Sounds…clear enough. No wheezing, no crackles. Have you noticed any weight loss recently?
+PATIENT: No, I haven’t. In fact, I think I might have gained a little bit, if anything. It is hard to tell, but my clothes feel a bit snugger lately. I have not been weighing myself regularly, though. I don't pay much attention to that.
+DOCTOR: No significant weight loss. Alright. And any allergies to medications?
+PATIENT: No, not that I know of. I have never had a bad reaction to anything the doctors have given me before. I did have some penicillin as a child, but I don't remember anything bad happening. I have a very strong stomach, usually.
+DOCTOR: Very well. Let's check your oxygen saturation. Just a quick clip on the finger. … 98%. That’s acceptable. Look, Ms. Weichers, it's likely nothing serious, but it could be a minor irritation. Perhaps a slight bronchitis. However, given your history is…limited, I'd like to order a chest X-ray, just to be sure.
+PATIENT: That sounds… prudent, Doctor. If that is what you recommend, then yes, please. I would feel much better knowing for certain what is happening. A chest X-ray is okay. Will it be… uncomfortable?
+DOCTOR: No, it's perfectly harmless. A quick image. Nothing to worry about. The radiology department is down the hall, room 3. They'll give you instructions. I'll have the results sent over to me as soon as they're available. In the meantime, try to rest and drink plenty of fluids. If the coughing gets worse, or you notice any fever, do contact the office immediately. Understand?
+PATIENT: Yes, I understand perfectly. Rest, fluids, and contact the office if it gets worse. Room 3, radiology. Thank you, Doctor Sink. I appreciate you taking the time to explain everything so clearly. I will go do that now.
+DOCTOR: Alright. The technician will explain everything. And Ms. Weichers?
+PATIENT: Yes, Doctor?
+DOCTOR: Try not to worry unnecessarily. These things often resolve on their own. Now, off you go. I have other patients waiting.
+PATIENT: Yes, of course. I will try not to worry. Thank you again, Doctor.

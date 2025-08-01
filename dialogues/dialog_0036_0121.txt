@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Pipolo. Welcome to the clinic. I’m Dr. Bacy. It’s nice to meet you. So, to start, can you tell me what brings you in today?
+PATIENT: Morning, Doctor. Just…my eyes. They feel real dry lately. Been botherin’ me for a bit now. Don’t like it.
+DOCTOR: Okay, dry eyes. I understand. That can be quite uncomfortable. Can you tell me a little more about when this dryness started?
+PATIENT: Hmm…when did it start? Geez. Not sure exactly. Maybe…a few months ago? Hard to say. Things kinda blur together when you get old, you know? It just…got worse little by little.
+DOCTOR: I understand, Mr. Pipolo. That’s perfectly alright. A few months ago, gradually worsening… Okay. And is it constant dryness, or does it come and go?
+PATIENT: Comes and goes, I guess. Worse when I’m workin’ outside. Cement dust, you know? Gets in everything. But even when I’m not workin’, they still feel…scratchy. Not all the time, though.
+DOCTOR: Okay, so it's worse with cement dust exposure, but still present even when you're not working. Do you experience any other symptoms along with the dryness?
+PATIENT: Other symptoms…let me think. Sometimes things look…fuzzy. Like I need to clean my glasses, but they are clean. And…my eyes feel tired. Real tired. Especially at the end of the day. Does that make sense?
+DOCTOR: Yes, that makes perfect sense. Fuzzy vision and tired eyes. Are you experiencing any pain with the dryness, or redness?
+PATIENT: No, not really pain. Just…uncomfortable. And…I don’t think they’re red. Haven’t looked close, to be honest. Don’t bother lookin’ at ‘em much. Just want ‘em to feel better.
+DOCTOR: Okay, no pain or redness. Just discomfort and the fuzzy vision, tiredness. Have you tried anything already to help with the dryness, like artificial tears or anything like that?
+PATIENT: Artificial…tears? No. Never heard of ‘em. Used some eye drops once, years ago, but don’t remember what for. Didn't really help much, I think. Just kinda stung. I mostly just blink a lot. Does that count?
+DOCTOR: Blinking can help a little. Okay, let’s take a look at your eyes. I'm going to do a quick exam to see what’s going on. If you could have a seat, please.
+PATIENT: Alright. Hurry it up, will ya? Got things to do today.
+DOCTOR: Okay, Mr. Pipolo. Your lids don't show any obvious inflammation, and your conjunctiva looks clear. Your corneas appear smooth, but I am noticing some mild dryness. Your pupillary responses are good. It does appear you have some dry eye. Given your work outdoors and the cement dust exposure, that’s a likely cause. Now, do you have any allergies that you know of?
+PATIENT: Allergies? Not that I know of. Never been bothered by pollen or nothin’. Maybe when I was a kid, but I can’t remember. Lots of dust where I work, though. Is that an allergy? I dunno.
+DOCTOR: That's good to know. Dust isn't necessarily an allergy, but it can certainly irritate the eyes. Do you currently take any medications, including over-the-counter medications or supplements?
+PATIENT: Nope. Don't take nothin’. Never really needed to. Just try to stay healthy, you know? Eat okay, don’t smoke… that’s about it. Old age is the biggest medicine I need, I guess.
+DOCTOR: Okay, no medications. And what about your past medical history?
+PATIENT: Past medical… hmm. Had the flu once, real bad. Broke my arm when I was younger, fallin’ off a roof. But that’s about it. Nothin’ serious. Stayed outta the doctor’s office as much as possible.
+DOCTOR: Okay, so flu and a broken arm in the past. And you said you haven't had any surgeries?
+PATIENT: Nope. Never been cut open. Avoided that too. Look, Doc, can we just get to the fixin’ part? I got cement to pour.
+DOCTOR: Alright, Mr. Pipolo. I understand. So, it sounds like we're dealing with dry eye likely exacerbated by your work environment. I'm going to recommend a couple of things. First, I want you to start using artificial tears four times a day, even when your eyes don’t feel dry, to help keep them lubricated. I'll write you a prescription for a preservative-free brand, as those are gentler on the eyes. Second, and this is important, wear safety glasses when you’re working to protect your eyes from the cement dust. Do you happen to have a pair of those?
+PATIENT: Safety glasses… yeah, I got some. Old ones. Been using ‘em for years. They’re kinda scratched up, though. Prescription for the drops… alright. Four times a day, huh? Preservative-free… got it. Anything else? I really gotta get goin’.
+DOCTOR: Okay, good. Using those glasses will really help. And, let's try the drops for two weeks. If you're not seeing any improvement after two weeks, or if your eyes get worse, please come back and see me. We may need to consider other options, like a referral to an ophthalmologist. Also, I'm going to give you a work note excusing you from tasks that heavily expose your eyes to dust for the next week, just to give them a chance to recover. Does that sound alright?
+PATIENT: Work note… yeah, that'd be good. Boss gets cranky if I slow down. Alright, two weeks with the drops, see if it helps. If not, come back. And the work note. You got all that written down somewhere? Old man’s memory ain’t what it used to be.
+DOCTOR: Here you are, Mr. Pipolo. The prescription for the artificial tears and the work note. I’ve also written down the instructions on both. Do you have any questions for me before you go?
+PATIENT: Nope. I think that’s it. Just…thanks, Doctor. Gotta get back to work.
+DOCTOR: You're very welcome, Mr. Pipolo. Please don’t hesitate to come back if you have any concerns. And remember to protect your eyes. Have a good day, and be careful out there.
+PATIENT: Alright. You too, Doctor. .

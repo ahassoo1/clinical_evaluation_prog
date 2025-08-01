@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Ms. Reihner. Welcome. I’m Dr. Fazzina. Now, what brings you in to see me today?
+PATIENT: Good morning, Doctor. My back is… painful. I want to get this sorted quickly, if that is possible.
+DOCTOR: Yes, of course. Back pain… alright. Can you tell me a little more about it?
+PATIENT: It started… about three weeks ago, I think. Maybe a little longer. I was putting up a section of wire fence – part of my work, you see. It just… went snap. Not a loud snap, more of a… give-way snap. It hurts to bend over, and lifting anything is… difficult. I need to keep working.
+DOCTOR: Right, a “give-way snap” while fencing… and it’s been about three weeks. You mentioned difficulty bending and lifting. Is the pain constant, or does it come and go?
+PATIENT: It’s mostly when I try to bend or lift. If I’m sitting, it's alright. Not good alright, just… bearable. When I move… it’s a sharp pain, then it dulls to an ache. It does not go away completely, though.
+DOCTOR: Okay, a sharp pain with movement, then a dull ache… that's helpful. Does the pain radiate – meaning, does it travel anywhere else, like down your legs?
+PATIENT: Down my legs? No. It stays right in my lower back. Right across here. <gestures to the small of her back with a hand> It does not go anywhere else. And it’s worse when it’s cold.
+DOCTOR: Alright, stays localized to the lower back, worse with cold… Have you had any numbness or tingling in your legs or feet?
+PATIENT: No, Doctor. No numbness. No tingling. Everything feels… normal, except for the pain, of course. It’s just… frustrating. I have work to do.
+DOCTOR: Okay. And just to be sure, have you had any issues with your back before this, like previous injuries or pain?
+PATIENT: No. Nothing. I’ve always been strong. Always worked hard. This is… new. This just happened after the fence work. I have never had problems like this before.
+DOCTOR: Alright. I’d like to do a quick physical exam, just to get a better sense of things. Is that alright with you?
+PATIENT: Yes, that is fine. The quicker we can figure this out, the better.
+DOCTOR: Okay. If you could lie down on your stomach for me, please. We’ll start with some range of motion tests. Okay, can you tell me on a scale of zero to ten, with zero being no pain and ten being the worst pain imaginable, what’s the pain like when I do this?
+PATIENT: It’s… a six, Doctor. When I bend forward, it’s a sharp six. And when I try to arch my back… it’s more like an eight. It really hurts when you push there. <points to the right side of her lower back> Does that tell you anything?
+DOCTOR: Yes, that’s helpful. Your reflexes are normal, and your strength seems good, thankfully. There is tenderness to palpation on the right side of your lower back. It sounds like a muscle strain, possibly a sprain. However, to rule out anything more serious – like a disc issue – I would like to get an x-ray. Would that be alright?
+PATIENT: An x-ray… yes, alright. If that’s what you think is best. As long as it doesn’t take too long. I have sections of fence that need repairing. Can they do it here, at the clinic?
+DOCTOR: Yes, we can do it right here. It's a quick procedure. I'll put in the order now. It shouldn’t take more than a few minutes for the technician to get you in. In the meantime, I recommend avoiding any heavy lifting or bending. I'll also prescribe an anti-inflammatory to help with the pain and swelling. Does that sound reasonable?
+PATIENT: Reasonable, yes. As long as I can get back to work soon. What kind of anti-inflammatory? Will it make me… sleepy? I need to be alert.
+DOCTOR: It's ibuprofen, 800 milligrams, three times a day with food. It shouldn’t make you drowsy, but if you experience any dizziness or excessive sleepiness, please stop taking it and let us know. The technician is ready for you now; they will take you to the X-ray room. We should have results in about fifteen minutes.
+PATIENT: Ibuprofen… alright. Thank you, Doctor. Let’s get this over with. I hope it’s nothing serious. I have work waiting.
+DOCTOR: Certainly. We'll get you those results as quickly as possible. The technician will guide you. We will discuss the results and a plan when you get back.
+PATIENT: Thank you.

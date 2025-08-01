@@ -1,0 +1,36 @@
+DOCTOR: Alright, Ms. Kobler, 25 years old. So, what brings you in today?
+PATIENT: Oh, um, hello Doctor… Osga, is it? Yes. Well, it's been… difficult to breathe, lately. Not bad difficult, just… like there isn't enough air. And my mouth and eyes feel very dry. It’s been going on for a little while now, I think. Honestly, the time feels a little… blurry.
+DOCTOR: Blurry, right. Well, that's... helpful. “A little while now” doesn’t really narrow things down, does it?
+PATIENT: No, I suppose not. I truly am sorry. It feels like… maybe a few months? Perhaps longer? Things haven’t been very clear lately, in my head, you see. I'm trying my best to remember. It’s just… frustrating.
+DOCTOR: Okay, alright. Let’s try to be… specific. Is this shortness of breath constant, or does it come and go?
+PATIENT: It… comes and goes, I believe. It’s worse when I… exert myself, perhaps? Like, walking up hills or… carrying things. But even when I'm resting, sometimes I notice it. Not always, though. It’s very… inconsistent.
+DOCTOR: Inconsistent… wonderful. And this dryness, is it just your mouth and eyes, or do you have any other symptoms?
+PATIENT: Just my mouth and eyes, I think. Though… sometimes I feel a little tired. Very tired, even after sleeping. But I assumed that was just… life, you know? It’s hard to say if that’s connected.
+DOCTOR: Right. Fatigue. Always fatigue. Any fever, chills, or night sweats?
+PATIENT: No, no fever or chills, Doctor. And I haven't… sweated at night. At least, not that I recall. I sleep rather… deeply, so it's possible I wouldn't notice.
+DOCTOR: Deeply... Okay. Any cough?
+PATIENT: No cough, Doctor. Nothing like that. My throat sometimes feels a little… scratchy, but not enough to cough. It’s more like an… irritation, really.
+DOCTOR: Irritation. Alright. And what about your medical history?
+PATIENT: Oh dear. That… is difficult. I was divorced a few years back, and… things got a little chaotic, I’m afraid. I have private insurance, but I don't have much memory of past illnesses or… procedures. I think I was generally healthy before all of this started, but… it’s all a bit foggy.
+DOCTOR: Foggy. Of course. Any surgeries?
+PATIENT: No, Doctor. No surgeries that I recall. I… really haven't had much need for them. I’ve always been… careful, I suppose. I think.
+DOCTOR: Alright. Any significant family history?
+PATIENT: That's… complicated. My family is… spread out. Mostly in the Aleutian Islands, and… I didn’t keep in close contact. I… honestly don’t know much about their medical history. I’m sorry.
+DOCTOR: Right. Okay. And what about social history?
+PATIENT: Oh. Um, I'm a writer, Doctor. That's what I do. I spend a lot of time… thinking and reading and writing. Mostly indoors, I’m afraid. I don’t… socialize much. It’s a quiet life.
+DOCTOR: Quiet. Right. Any smoking, alcohol or drug use?
+PATIENT: No, Doctor. None. I've never smoked, and I very rarely drink alcohol. And I certainly don’t use drugs. I assure you.
+DOCTOR: Alright. Any allergies to medications or anything else?
+PATIENT: No allergies that I’m aware of, Doctor. I’ve never had any… reactions to anything. I can take most medications without issue, I believe.
+DOCTOR: Right. Well, let’s have a listen to your lungs, shall we?
+PATIENT: Yes, of course, Doctor. Whatever you think is best.
+DOCTOR: Alright. Your breathing is… a little diminished on both sides, but nothing alarming. I'm going to check your oxygen saturation now. 95%. That’s acceptable. Now, let’s have a look at your throat. Mildly dry, but no obvious signs of infection.
+PATIENT: Is that… normal, Doctor? The diminished breathing, I mean. Is it something to worry about?
+DOCTOR: “Normal” is a relative term, Ms. Kobler. It could be due to a number of things. Given your… vague recollection of things and these symptoms, I'm going to order a chest X-ray and some basic blood work. Just to rule things out.
+PATIENT: An X-ray? And blood work? Oh. Very well, Doctor. If you think that's best. What… what are we ruling out, exactly? I apologize for my… questions.
+DOCTOR: We're ruling out pneumonia, heart failure, and… other less likely possibilities. I want to be thorough, given your… condition. The nurse will take you to get your blood drawn and schedule the X-ray. Do you have any questions for me right now?
+PATIENT: Other… less likely possibilities? That sounds… concerning. Will the X-ray… will it be painful? And… will I get the results quickly? I… I just want to know what’s happening.
+DOCTOR: The X-ray is painless, Ms. Kobler. It's a quick procedure. As for the results… it depends. It typically takes a day or two for the radiologist to read them and for me to get the report. We’ll discuss them at your follow-up appointment. The nurse will schedule that for you now. I’ll also give you a prescription for a humidifier to help with the dryness. Do you understand?
+PATIENT: A humidifier. Yes, that sounds… helpful. And a day or two for the results… I understand. Thank you, Doctor Osga. I appreciate you taking the time to… investigate. It’s just… unsettling, not knowing.
+DOCTOR: Right. Well, I have other patients waiting. The nurse will handle the logistics. Let's get this over with.
+PATIENT: .

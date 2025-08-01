@@ -1,0 +1,41 @@
+DOCTOR: Good morning, Ms. Meigs. I’m Dr. Nestingen. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Back is really bad. Been hurting for… well, a long time now, but worse these last few weeks. It’s a sharp pain, mostly down low. Feels like something is poking me.
+DOCTOR: “A long time now,” you say. Can you be a little more specific?
+PATIENT: Hmm… let me think. I think it started… maybe six months ago? Not so bad then, just a little ache after work. I work at the fish plant, you know, sorting. Lots of bending. Then it got worse after I fell in the kitchen, maybe three months ago? Didn't think much of it at the time, just bruised my hip. But the back never really got better. It's been getting worse steadily since then.
+DOCTOR: Sorting fish… a lot of bending, you say. And a fall three months ago. Did you seek any treatment for the fall at the time?
+PATIENT: No, Doctor. I didn’t go to the doctor for the fall. Just put some ice on it. Old lady told me to. She said it was just a bump. I don't like going to doctors unless I really have to.
+DOCTOR: Alright. And this pain… you describe it as sharp, mostly down low. Does it radiate anywhere?
+PATIENT: Yes! It goes down my leg sometimes. Not all the way to my foot, but down the back of my thigh. And… sometimes it feels numb, like pins and needles, in my… well, the back of my leg, mostly. It happens when I’m walking for a long time.
+DOCTOR: Radiating down the leg, numbness… and aggravated by walking. Do you notice anything that improves the pain?
+PATIENT: When I lie down, it gets better. And… if I sit real still, not moving, it’s not so bad. But standing or walking… that’s when it really hurts. Also, the heat pad helps a little. Not a lot, but a little.
+DOCTOR: Alright. And have you noticed any weakness in your leg?
+PATIENT: Weakness… hmm. Not really. I can walk, I can climb stairs. But… sometimes I feel like I have to… be careful. Like I might stumble. It’s hard to explain. I don't feel weak, exactly, just… unsteady sometimes. It’s worse when I’m tired.
+DOCTOR: Unsteady… alright. Now, I’m going to ask a few questions about other things. Have you had any trouble with your bladder or bowels recently?
+PATIENT: Oh… um. Well, no. Not really. Everything is… normal there. I haven't noticed anything different.
+DOCTOR: Good. Any fever, chills, or unexplained weight loss?
+PATIENT: No fever. No chills. And I… I think I lost a little weight, but I haven’t been eating much lately, because of the pain. It’s hard to enjoy food when your back hurts all the time. I haven’t really tried to lose weight.
+DOCTOR: Alright. Let's move on to your medical history. Have you ever been diagnosed with arthritis, osteoporosis, or any other back problems before?
+PATIENT: Well, Doctor, I have cancer. You know, in my… well, I had surgery a few years ago for it. But that was different. That was… inside. This back pain… this feels different. It's in my back, not… there. I've never been told I have arthritis or osteoporosis or anything like that.
+DOCTOR: You have a history of cancer… I see. And you had surgery. Can you remind me what type of cancer it was, and when you had the surgery?
+PATIENT: It was… ovarian cancer. They took out… a lot. It was maybe five years ago? Six? I don't remember exactly. It was a long time ago. I had chemo and everything. They said it was gone after that, but I have to go for check-ups every six months.
+DOCTOR: Alright. And are you currently undergoing any other treatment for the cancer?
+PATIENT: No, Doctor. Not right now. Last check-up was good. They said everything looked clear. Just… this back pain came on after that. That's why I'm worried. It feels different than what I felt before.
+DOCTOR: Alright. Now, I'd like to do a quick physical exam. Just to get a better understanding of what's going on. Is that alright with you?
+PATIENT: Yes, Doctor. That's fine. Whatever you think is best. I just want to know what's causing this pain.
+DOCTOR: Alright. If you could lie down on your back for me, please. I'm going to start by listening to your back, then I'll check your range of motion and do a few neurological tests. Just let me know if anything causes you pain. Breathing normally… sounds clear. Now, can you point to where the pain is the worst?
+PATIENT: Right here. And it goes down my leg like I said. Not all the way, but… down here.
+DOCTOR: Tenderness here… and here. Some muscle spasm. Does this hurt when I press?
+PATIENT: Yes. That hurts. Ouch! That's the worst spot. And when you push there… it feels like something is pinching.
+DOCTOR: Okay. Now, can you lift your right leg straight up, keeping it straight?
+PATIENT: It's hard, Doctor. It hurts. I can't go very high. It pulls on my back.
+DOCTOR: Alright. And now the left leg. Okay. Now, I’m going to check your reflexes. Reflexes are normal on both sides. Now, can you stand up for me?
+PATIENT: Okay. A little unsteady, but I can stand.
+DOCTOR: Alright, now can you bend forward and try to touch your toes?
+PATIENT: I can't, Doctor. It hurts too much. It's pulling on my back again.
+DOCTOR: Alright, that’s enough. Based on the exam, you have limited range of motion and tenderness in your lower back, radiating pain down your leg, and difficulty with straight leg raise. Given your history of ovarian cancer, we need to consider several possibilities. It could be a muscle strain, a disc issue, or… unfortunately, metastatic disease. To rule out the more serious possibilities, I'm going to order an MRI of your lower back and a bone scan. We'll also need to check your cancer markers again. Does that sound alright?
+PATIENT: Metastatic… you mean the cancer spread? Oh dear. Yes, Doctor. Do whatever you think is best. MRI and bone scan… and the markers. I just… I just want to know what's going on. It's scary not knowing.
+DOCTOR: I understand. It's best to be thorough. I'll get the orders sent to the radiology department. They'll call you to schedule the appointments. In the meantime, I'm going to prescribe you a muscle relaxant and a mild pain reliever to help manage the discomfort. I'm also recommending you avoid any heavy lifting or strenuous activity. Here's the prescription. And I’ll also give you a referral to a physical therapist. They can teach you some exercises to strengthen your back and improve your posture. Do you have any questions for me at this point?
+PATIENT: Physical therapy… that sounds good. Maybe that will help. Um… how long will it take to get the results from the tests? And… will they call me, or should I call them? I always get so confused with all these appointments and tests.
+DOCTOR: The radiology department will call you to schedule the appointments. They typically take a few days to schedule. The results themselves usually take 3 to 5 business days to come back to my office. The radiology department will let us know when the results are available. My staff will then call you to schedule a follow-up appointment to discuss them. So, you don't need to worry about calling them directly. My office will reach out to you. Do you have any other questions, Ms. Meigs?
+PATIENT: No, I think that answers everything. Thank you, Doctor. I appreciate you explaining it so clearly. It's… a lot to take in, but I feel a little better knowing we're doing something to figure it out.
+DOCTOR: You're very welcome, Ms. Meigs. It is a lot, and we'll take it one step at a time. Please don’t hesitate to call my office if you have any concerns or questions before your follow-up appointment. Alright, I think that’s everything for today. I’ll see you then. Have a good day, Ms. Meigs.

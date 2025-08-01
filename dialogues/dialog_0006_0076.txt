@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. Aluia, good to meet you. So, tell me, what brings you in today?
+PATIENT: Oh, hello Doctor Gorga. It's nice to meet you too. Well, it’s these bumps on my legs, see? On my shins. They’re red and kinda… hard. They hurt, especially when I touch ‘em. Been botherin’ me for a little while now.
+DOCTOR: Okay, bumps on the shins… red, hard, painful to the touch. And you said “a little while now”?
+PATIENT: Yeah, maybe… a month or so? It started with just one, I think. I didn’t think much of it at first, figured I just bumped into somethin’. But then more kept showin’ up. Not a whole lot, but enough to notice, you know? And they just… don’t go away.
+DOCTOR: A month…okay. And are they itchy at all, these bumps?
+PATIENT: No, not really itchy. Just… sore. Like a bruise, but harder. And sometimes, especially after I’ve been on my feet all day—I do a lot of movin’ at work, you see—they kinda ache all over. It’s not a bad pain, but it's definitely there.
+DOCTOR: Alright, let me take a look. Hmm… yes, I see what you mean. They are firm, a bit raised… and tender to the touch, as you said. No warmth or redness extending beyond the bumps themselves. How about any recent injuries to your legs?
+PATIENT: No, sir. Not that I remember. I mean, I bump my legs at work all the time, movin’ boxes and stuff. But these don’t feel like a regular bruise. They just… appeared. I haven’t fallen or nothin’. Ooh, that one’s a bit sensitive.
+DOCTOR: Okay, sensitive to palpation… alright. And have you noticed any changes in your skin anywhere else?
+PATIENT: Hmm… let me think. No, not really. I’ve got a few age spots, you know, the usual for an old guy like me. But no new rashes or anything like that. My skin feels pretty normal everywhere else. Well, maybe a little dry, but that's just from the weather, I think.
+DOCTOR: Alright. And just to be thorough, any fever, chills, or fatigue recently?
+PATIENT: No, no fever or chills. And I’m a little tired sometimes, but that's just from work, I guess. I'm 71, Doctor! I get tired easy these days. Nothing out of the ordinary.
+DOCTOR: Okay. Do you have any medical conditions, like diabetes or something that affects your circulation?
+PATIENT: Oh, no, nothin' like that. I have high blood pressure, but it’s under control with medicine. My regular doctor checks it all the time. And I take somethin' for my joints, you know, arthritis. But that's it. Nothing else, really.
+DOCTOR: Alright. And what medications are you currently taking for your blood pressure and arthritis?
+PATIENT: Let me see… for my blood pressure, I take lisinopril, I think that's it. And for the arthritis, it’s naproxen. Just one of those little white pills every day. I've been takin' 'em for a while now, nothin' changed recently.
+DOCTOR: Okay, lisinopril and naproxen. And any allergies to medications, food, or anything else?
+PATIENT: No allergies, not that I know of. I eat pretty much everything. Never had a bad reaction to any medicine before. I’m pretty lucky that way, I guess.
+DOCTOR: Alright. Hmm. Based on what you've told me, and the examination, it could be a few things. Sometimes these can be shin splints, even without strenuous exercise, if there’s a bit of underlying inflammation. They can also be related to minor trauma you might not remember, or even a reaction to medication, though that's less likely given your history. It’s hard to say for sure without a little more information. I think we should get a blood test to rule out anything serious and maybe an X-ray of your shins to see if there's anything going on with the bone. How does that sound?
+PATIENT: That sounds… sensible, Doctor. I mean, I just want to know what's causin' these bumps. A blood test and an X-ray… yeah, that's fine with me. I trust your judgment. Will that take long? I have to get back to work, you know.
+DOCTOR: Okay, the bloodwork will take a few days to come back. The X-ray can be done right here in the clinic, and the results should be available to me within the hour. We can schedule a follow-up appointment to discuss the results once I have them. How does next Tuesday afternoon sound?
+PATIENT: Tuesday afternoon… hmm. That should work. I have to ask my wife to make sure she can drive me, but I think so. Yeah, Tuesday afternoon is good. Will I need to do anything special before the blood test? Fast or anything like that?
+DOCTOR: Yes, please fast for 8-12 hours before the blood test. You can drink water, but no food. I’ll have the nurse give you a slip with those instructions before you leave. We’ll get you checked in for the X-ray right away. And if the pain gets significantly worse, or you develop a fever, please don't hesitate to contact us immediately. Do you have any other questions for me right now?
+PATIENT: No, I don't think so, Doctor. 8-12 hours fastin'... got it. And I will contact you if it gets worse. You've been very helpful. Thank you for takin' the time to look at my legs.
+DOCTOR: You're very welcome, Mr. Aluia. We'll get to the bottom of this. The nurse will be in shortly to draw your blood and get you scheduled for the X-ray. Have a good day, and we’ll see you Tuesday.
+PATIENT: Thank you, Doctor. You too. .

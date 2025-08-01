@@ -1,0 +1,39 @@
+DOCTOR: Alright, Mr. Withycombe. Have a seat. So, tell me, what brings you in to see me today?
+PATIENT: Oh, thank you, Doctor. It’s… the flushing. I get very red, you see. Happens sometimes, mostly in my face. It’s been happening for, oh… maybe a month now? Not every day, but enough to worry me a little.
+DOCTOR: Hmm. Flushing, you say. And it's mostly in the face?
+PATIENT: Yes, Doctor. Mostly the face, and sometimes my neck. Not… all over, you understand? It feels warm, like I’m… hot, but I don’t feel sick, if that makes sense. No fever, no chills. Just… red.
+DOCTOR: Right, just the redness and warmth. And you said this has been going on for about a month?
+PATIENT: Yes, about a month. Maybe a little longer. It's hard to say exactly. It doesn’t happen all the time, like I said. Sometimes it happens after I eat, sometimes just… when I’m sitting. I haven't noticed anything that always makes it happen. It's very strange.
+DOCTOR: Okay. And does anything relieve it?
+PATIENT: Relieve it? Well… not really. It just… goes away on its own. After a while. Maybe half an hour, maybe longer. Cool air helps a little, I think. But it doesn’t stop it, just makes it… less bad, maybe? It's not a big problem, but it’s unsettling. You know?
+DOCTOR: Unsettling, yes, I understand. Let's go through some other things. Do you have any other symptoms at all when this flushing happens?
+PATIENT: Other symptoms… No, not really. Sometimes my heart feels a little fast, but I don't know if that's the flushing or just… me. I get a little worried easily, you see. No sweating, no dizziness, no headache. Just the red face and the warm feeling. And sometimes, a little bit of a fast heartbeat. But maybe that’s just my nerves.
+DOCTOR: Alright. And do you have any medical conditions that I should be aware of?
+PATIENT: Medical conditions… Not really. My wife… she was the one with the medical problems. I took care of her. I don’t… I haven’t been to the doctor much since she passed. Just for check-ups, mostly. Nothing serious. High blood pressure, a little bit, but it was under control with… well, with pills. I stopped taking them a while ago. It’s been a long time.
+DOCTOR: Okay. And when was the last time you had a check-up, roughly?
+PATIENT: Oh, goodness. Let me think… It must have been… two, maybe three years ago? Before my wife… got really sick. It was a long time ago. I haven't really kept track. I was too busy… taking care of her.
+DOCTOR: Alright. And are you currently taking any medications at all?
+PATIENT: No, Doctor. Nothing at all. Like I said, I used to take pills for the blood pressure, but I stopped. My wife’s doctor said it was okay to try and get off them, and… well, I never went back. I just haven’t needed to, until now, I suppose.
+DOCTOR: Okay. Do you have any allergies to any medications or anything else?
+PATIENT: No, no allergies. Not that I know of. I eat everything, I haven't had any bad reactions to anything. My wife was the one with the allergies, you see. Dust, pollen… all sorts of things. I always had to be careful what I brought into the house. But me? No allergies. I'm a pretty simple man.
+DOCTOR: Alright. Now, could you tell me a little bit about your family history?
+PATIENT: Family history… My mother had… heart problems. She passed away when I was young. My father was healthy, very strong. Worked in the fields all his life. My wife’s mother had… diabetes, I think. And her father had… high blood pressure, like me. But that’s about it, really. Nothing too serious. Mostly just old age, you understand?
+DOCTOR: Okay. And what about your social history?
+PATIENT: Social history? What do you mean, Doctor? I live alone now, since my wife passed. I don’t… go out much. Mostly stay at home, read books, watch television. I used to work as a counselor, helping people with… problems. But I retired a few years ago. Quiet life, you see.
+DOCTOR: Alright. And did you ever smoke or drink alcohol?
+PATIENT: No, Doctor. Never smoked. Never drank alcohol. My wife didn't like it, and… I didn’t want to upset her. So I never started. It’s always been… tea for me. And water, of course. A simple life, like I said.
+DOCTOR: Okay. Let's do a quick physical exam, if that’s alright. I’d like to check your blood pressure and listen to your heart. Just to get a baseline. Do you mind if I take your temperature as well?
+PATIENT: No, no problem, Doctor. Whatever you need to do. I trust your judgement. My blood pressure… it was always a little high, you know. But I haven't had it checked in a long time. Go ahead.
+DOCTOR: Okay, your blood pressure is a little elevated, 148 over 85. Not alarmingly so, but something we'll want to keep an eye on. Now let me listen to your heart. Heart sounds are regular, but I do detect a slight murmur. It's faint, but it's there. And your temperature is normal, 98.6 Fahrenheit. Do you feel any pain anywhere?
+PATIENT: A murmur? Oh dear. Is that bad, Doctor? I don’t feel any pain, no. Not anywhere. Just… the flushing, of course. But that doesn’t hurt. Just… unsettling. A murmur… my wife had a murmur, I think. Is it serious?
+DOCTOR: It's too early to say whether it's serious, Mr. Withycombe. Many murmurs are harmless. But we need to investigate further to be sure. The fact that your wife had one is… relevant, but doesn't automatically mean the same thing is going on with you. Let's run some blood tests, just to check your overall health. And I'd like you to have an EKG, to check your heart rhythm. That will give us a clearer picture.
+PATIENT: An EKG… Blood tests and… an EKG. Alright, Doctor. Whatever you think is best. It’s just… a lot. I haven’t been to the doctor in so long. But if you think it’s necessary… I’ll do it. Will it… will it take long?
+DOCTOR: The blood tests will just take a few minutes, and the EKG won't take much longer, perhaps 10-15 minutes. The results will take a few days to come back. In the meantime, I'm going to suggest a low-sodium diet and some light exercise, if you’re able. And try to manage your stress. Easier said than done, I know, but it can really affect your blood pressure. We'll figure this out, alright?
+PATIENT: Low sodium… and exercise. Alright, Doctor. I can try. It's been a long time since I’ve done much exercising. Mostly just walking to the shops, you see. And I’ll try to manage the stress. It’s… difficult. Being alone… But I’ll try. Thank you, Doctor. You’ve been very kind. So… what happens next? The blood tests… and the EKG?
+DOCTOR: The nurse will draw your blood right away, and then we’ll get you set up for the EKG. They’ll put some stickers on your chest to monitor your heart rhythm. After that, you’re free to go. I'll review the results as soon as they come back, and we'll schedule a follow-up appointment to discuss them. It's usually within a week. If you experience any chest pain, shortness of breath, or dizziness, please go to the nearest emergency room immediately, okay?
+PATIENT: Chest pain… shortness of breath… Alright, Doctor. I understand. Chest pain, shortness of breath… I’ll remember that. Thank you again, Doctor Nooruddin. You’ve put my mind at ease… a little. I’ll see the nurse now?
+DOCTOR: Yes, please. I’ll have her come get you. Don’t hesitate to ask if you have any questions before you go. And Mr. Withycombe?
+PATIENT: Yes, Doctor?
+DOCTOR: Try not to worry too much. We're just being thorough. It's better to be safe than sorry. Now, off you go. The nurse is right outside.
+PATIENT: Thank you, Doctor. You're very kind. I will try not to worry. Goodbye, Doctor Nooruddin.
+DOCTOR: .

@@ -1,0 +1,28 @@
+DOCTOR: Right. Ms. Weichers, yes?
+PATIENT: Yes, that is me. Thank you for seeing me, Doctor Memmolo.
+DOCTOR: Yes, yes. Let's not waste time. What brings you in today?
+PATIENT: Well… it’s a little embarrassing to talk about, but I’ve been coughing up… blood. Just a little, but it scared me. It started maybe three days ago.
+DOCTOR: Blood, you say?
+PATIENT: Yes. Not a lot, like… streaks, really. In the mucus. And it’s not every time I cough, but enough to worry me. I don’t… I don’t know what it means.
+DOCTOR: Right. Streaks. Well, it could be anything. Do you smoke?
+PATIENT: No, never. I don’t smoke. My husband… he used to, a long time ago, but he stopped many years before he… passed. But I have never smoked.
+DOCTOR: Good, good. We can rule that out, then. Any fever?
+PATIENT: No fever. I checked my temperature yesterday, just to be sure, and it was normal. I feel… tired, maybe a little more tired than usual, but that could be anything, too. I haven't been sleeping very well.
+DOCTOR: Tired. Naturally. And have you had any recent illnesses?
+PATIENT: Hmm… not really. Just a little cold about a month ago, but it was very mild. Just a stuffy nose and a little cough. It went away quickly. Nothing like this. This… this blood is new.
+DOCTOR: A month ago. Okay. And what about any chest pain?
+PATIENT: No, no chest pain. It doesn’t hurt when I cough, just… worrying. And it’s a little frightening to see. I am probably overreacting, but… it’s blood, you know?
+DOCTOR: Yes, yes, I understand. Blood is… concerning. Do you have any shortness of breath?
+PATIENT: No, not really. I haven’t had trouble breathing. I walk every day, usually about a mile, and I haven’t noticed any difference. No trouble catching my breath at all.
+DOCTOR: Alright. Let's have a look at your EHR… See what your primary care physician has documented. And we’ll listen to your lungs. Please, sit up straight.
+PATIENT: Okay, that sounds good. I am happy to do whatever you think is best, Doctor. Thank you.
+DOCTOR: Hmm. Lungs sound… clear enough. No wheezing, no crackles. But that doesn’t rule anything out, of course. Your oxygen saturation is 98% on room air, which is acceptable. Do you have any allergies to medications?
+PATIENT: No allergies that I know of. I haven't taken many medicines in my life, thankfully. Just over-the-counter things for headaches sometimes, and those have always been fine. I don’t have any reactions to anything that I’m aware of.
+DOCTOR: And are you currently taking any medications, even vitamins?
+PATIENT: No, nothing at all. I try to eat healthy, and that’s about it. No vitamins, no pills, nothing. I just… worry a lot, I suppose.
+DOCTOR: Alright. It could be a minor irritation, some sort of viral thing lingering. But given that it's blood, we should be thorough. I'm going to order a chest X-ray just to rule out anything serious. And a complete blood count, just to be safe. Does that sound acceptable?
+PATIENT: Yes, that sounds very sensible, Doctor. I would feel much better knowing we have checked everything properly. An X-ray and a blood test… yes, please. Thank you for listening to me.
+DOCTOR: Very well. The nurse will get the orders for you. And if it gets worse – significant increase in the amount of blood, fever, shortness of breath – go to the emergency room immediately. Don't hesitate.
+PATIENT: Okay. I understand. More blood, fever, trouble breathing… I will go to the emergency room. Thank you again, Doctor Memmolo. I appreciate you taking the time to see me.
+DOCTOR: Yes, yes. Dismissed. The nurse will guide you. Don't waste my time if it’s nothing. .
+PATIENT: Okay, thank you, Doctor. I will see the nurse then. .

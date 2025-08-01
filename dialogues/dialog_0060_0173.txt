@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Jailenne. I'm Dr. Nooruddin. Please, have a seat. So, what brings you in to see me today?
+PATIENT: Hi Dr. Nooruddin, good morning! Um, well, I've just been getting the chills lately. It’s kind of weird, really. Not like a fever chill, just… cold.
+DOCTOR: Chills, you say. And you’re sure it’s not accompanied by a fever?
+PATIENT: Yeah, pretty sure. I’ve checked my temperature a couple of times, and it’s been normal. That's what's so confusing about it! It just feels… like I'm always cold, even when it's warm.
+DOCTOR: Hmm, interesting. And how long has this been going on?
+PATIENT: Oh, gosh… maybe a week or so? It started gradually, I think. At first, I just thought I was a little tired, you know? But then it just kept… happening. It’s not constant, it comes and goes. Like, sometimes I’ll be perfectly fine all day, and then suddenly I’ll get a shiver.
+DOCTOR: And are these shivers accompanied by anything else?
+PATIENT: Not really... well, sometimes I feel a bit tired afterwards, just a little. And maybe a tiny bit achy, but honestly, I get achy just from everyday stuff, if you know what I mean? Nothing major. I haven't noticed anything else, no cough, no sore throat, nothing like that.
+DOCTOR: Right. And you said you’ve checked your temperature several times… do you know what your normal temperature usually is?
+PATIENT: Um, usually around 98.6, I think? It's kind of hard to remember exactly, but that sounds about right. I've been taking it with a regular digital thermometer, under my tongue.
+DOCTOR: And are you experiencing any other symptoms at all?
+PATIENT: Let me think… Oh! Actually, now that you mention it, I have been feeling a little…off, like my appetite isn't quite there. Not a huge change, just not as hungry as usual. And maybe a little bit thirsty, but it’s been really hot lately so I thought that was just from the weather. Does that count?
+DOCTOR: It could count. So, let’s just recap. You have chills without fever, some fatigue, a slightly decreased appetite, and increased thirst… all for about a week now. And you're certain there's no cough, no sore throat, no muscle aches beyond your usual discomfort?
+PATIENT: Yep, pretty much. No cough, no sore throat, and yeah, just my regular aches, nothing new there. It’s just… frustrating! It’s not sick sick, it’s just… weirdly cold. It’s hard to explain. I’m just hoping it’s nothing serious.
+DOCTOR: Well, "weird" symptoms can sometimes be the most difficult to pinpoint. Let's do a quick physical exam, just to rule out anything obvious. I'll listen to your lungs and heart, and check your thyroid. Would that be alright?
+PATIENT: Yeah, sure, that sounds good. Whatever you think is best, Dr. Nooruddin. I just want to figure out what's going on. My thyroid? Is that what could be causing it? I don't really know much about that.
+DOCTOR: It could be, among other things. The thyroid regulates body temperature, so if it’s not functioning properly, it can cause these types of symptoms. Now, if you’ll please lie back on the examination table… I'm going to listen to your heart and lungs first.
+PATIENT: Okay, sounds good.
+DOCTOR: Okay. Heart sounds are regular. Lungs are clear. No wheezing or crackles. Now, I’m going to palpate your thyroid gland. Your thyroid feels… slightly enlarged, but not dramatically so. And there's a small amount of tenderness when I press here.
+PATIENT: Oh, that's a little sensitive, yeah. I hadn’t really noticed it before, though. Is that bad? Is that why I'm feeling so cold? I haven't really been stressed or anything lately, so I'm not sure why it would be enlarged.
+DOCTOR: It could be the cause, yes. Enlargement and tenderness suggest possible thyroiditis – an inflammation of the thyroid gland. It’s not necessarily serious, but it needs to be investigated. We’ll need to run some blood tests to check your thyroid hormone levels, TSH, and inflammatory markers. That will give us a clearer picture.
+PATIENT: Okay, blood tests. That makes sense. Is it a lot of blood? I’m not really a fan of needles, to be honest.
+DOCTOR: It’s not a large amount, Jailenne. Just a standard vial or two. It’s a necessary step to determine the cause of your symptoms. We'll also check a complete blood count, just to rule out any other possibilities. I'll write the orders for the lab now. I’ll also order a Vitamin D level, just to be thorough. A deficiency can sometimes cause fatigue and other vague symptoms.
+PATIENT: Okay, that sounds good. Vitamin D, I guess that makes sense too. My mom always tells me to get more sun, haha. How long will it take to get the results back? And then what happens? Will I need medication?
+DOCTOR: The results usually take 24-48 hours. Once we have them, we’ll review them and discuss the next steps. If it is thyroiditis, as I suspect, we may need to consider medication, depending on the severity. However, often, it resolves on its own with supportive care. We'll see what the tests tell us first. It’s important not to jump to conclusions. Let's get the facts before we worry about medication. The lab is just down the hall. Go there and they’ll draw the blood for you. You can call my office tomorrow afternoon to check if the results are back. Do you have any questions?
+PATIENT: No, I think that covers it. 24-48 hours, Vitamin D, and not to worry too much yet. Okay. Thanks, Dr. Nooruddin. I’ll go get the blood work done now. I appreciate you looking into this.
+DOCTOR: Alright. You’re welcome. Don’t hesitate to call if you have any concerns before then.

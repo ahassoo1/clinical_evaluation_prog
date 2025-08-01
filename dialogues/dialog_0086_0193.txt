@@ -1,0 +1,23 @@
+DOCTOR: Alright, Mr. Goodstein. So, you're here today… tell me, what brings you in?
+PATIENT: Good day, Doctor. Well, it is… a bit embarrassing, truly. But I have been… passing gas. A lot of gas. More than usual, I think. It started, oh, maybe a week ago? It’s… disruptive, you understand.
+DOCTOR: Disruptive, yes, I understand. It’s… good you’re addressing it. A week, you say?
+PATIENT: Yes, approximately. Perhaps a little longer. It isn’t painful, Doctor, just… frequent. And sometimes, the smell is… not pleasant. I eat normal things, you understand. Not anything… exotic.
+DOCTOR: “Normal things,” right. Can you be a bit more specific?
+PATIENT: Well… I had a sandwich yesterday. Ham and cheese on rye bread. And before that, soup. Chicken noodle soup. Oh, and I do enjoy… cabbage. Sometimes. But not every day, Doctor. I also drink… a lot of sparkling water. Is that bad?
+DOCTOR: Sparkling water… interesting. Alright. And when you say “a lot,” how much are we talking about daily?
+PATIENT: Oh, let me see… Perhaps three or four… big glasses? Maybe more if it’s warm. I find it… refreshing, you understand. I do not drink… soda, though. Only the sparkling water. And sometimes, tea. Herbal tea, mostly.
+DOCTOR: Okay. Any changes in bowel habits along with this… increased flatulence?
+PATIENT: Changes… hmm. Not that I have noticed, Doctor. Everything is… regular, you understand? As regular as it usually is. No… constipation, or… the opposite. Just… the gas. It is mostly the gas. Perhaps a little… rumbling sometimes before, but not always.
+DOCTOR: Alright. And any abdominal pain, bloating, nausea, or vomiting accompanying this?
+PATIENT: No, Doctor. No pain at all. Not even a little. And no… bloating, or… what did you say? Vomiting? No, none of those things. It is… just the gas. It is… quite embarrassing, truly. I hope you can help.
+DOCTOR: Alright. And what about any new medications, or changes in your diet other than the sparkling water and occasional cabbage?
+PATIENT: New medications… no. I take nothing, Doctor. Nothing at all. And changes in my diet… no, not really. I eat the same things, mostly. Ham and cheese. Soup. Sometimes cabbage. The sparkling water is… the only thing that is different, I think. I haven’t been… traveling, either. Just staying home, you understand. It is… a simple life.
+DOCTOR: Okay. Let’s do a quick physical exam. I’m going to listen to your abdomen, just to rule out anything obvious. Is that alright?
+PATIENT: Yes, Doctor. That is… perfectly alright. Anything to help, you understand. I am… ready whenever you are. Just… please be gentle? It is… a little sensitive, perhaps. Because of the… gas.
+DOCTOR: Of course. Just lie back for me. I’ll be gentle. Okay… bowel sounds are present, a bit hyperactive actually. Not particularly tender to palpation. No masses. It sounds like we're dealing with a fairly straightforward case of excessive gas. Your diet… specifically the sparkling water and potentially the cabbage… are likely the culprits. Do you have any known allergies?
+PATIENT: Allergies? No, Doctor. None that I know of. I have eaten… all sorts of things in my life, you understand. Never had a problem. No… skin rashes, or… trouble breathing. Just… the gas. It is… quite a relief to hear it might be something simple. Perhaps I should… stop drinking the sparkling water?
+DOCTOR: That would be my recommendation. Reduce or eliminate the sparkling water and see if that makes a difference. Also, cabbage is a known gas producer. Moderation is key. Try to keep a food diary for a week, noting when you experience the most gas, and what you’ve eaten. That may help pinpoint other potential triggers. Any questions so far?
+PATIENT: A food diary… yes, I can do that. I have… a notepad at home. And stop the sparkling water… yes, that sounds reasonable. No… I think I understand. So, it is not… something serious? Not… a medical problem? Just… what I eat? No questions, Doctor. Thank you. That… puts my mind at ease.
+DOCTOR: It doesn’t sound like anything serious, no. Excessive gas is common and often related to diet. However, if it worsens, or you develop other symptoms – abdominal pain, bloating, changes in bowel habits, weight loss – please come back immediately. We don’t want to ignore anything. For now, try the dietary changes, keep the diary, and see if things improve. I’ll document this visit and we’ll consider further investigation if needed. Do you have any other concerns today?
+PATIENT: No, Doctor. That is… everything. You have been very… helpful. Thank you for listening, and… not laughing. I appreciate it. I will… stop the sparkling water. And keep the notepad handy. Goodbye, Doctor.
+DOCTOR: Very well. Goodbye, Mr. Goodstein. And don’t hesitate to call if anything changes. .

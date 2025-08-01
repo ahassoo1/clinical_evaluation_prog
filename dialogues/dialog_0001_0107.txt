@@ -1,0 +1,23 @@
+DOCTOR: Alright, Mr. Puder, let’s get straight to it. What brings you in today?
+PATIENT: My heart... it feels funny sometimes. Like it's flapping. Not always, but... yeah. It's been happening for... a little while now, maybe a month? Not every day, you understand.
+DOCTOR: "Flapping," huh?
+PATIENT: Yeah, like a bird. But inside. It's... fast. Not pain, just... weird. And makes me tired sometimes. Not a lot, but... more tired than usual, you know? It stops after a bit.
+DOCTOR: Okay. And when this “flapping” happens, are you doing anything specific?
+PATIENT: Not really. Sometimes when I'm just sitting. Sometimes when I walk. I was working... fixing a pump... last week when it started. But it's happened when I'm resting too. Hard to say, really. It just... happens. My wife, she noticed it too. She said I looked a bit pale.
+DOCTOR: Pale, huh?
+PATIENT: Yeah. She worries. She makes good tea, though. Very strong. Helps me calm down when it happens. It doesn’t fix it, just... makes it easier. Do you need to… check my color? I don’t know if that’s important.
+DOCTOR: We’ll get to it. Let's start with your medical history. Anything I should be aware of?
+PATIENT: Not much. I broke my arm when I was a kid, climbing a tree. Nothing serious. And… I had the fever, like everyone else, a couple years ago. But that was quick. Other than that… I'm usually pretty healthy. I work hard, you know? But this heart thing... it's new. I don’t have insurance, so I don’t usually go to the doctor. That’s why I waited.
+DOCTOR: Right. No insurance. Family history?
+PATIENT: My father... he had problems with his legs. Swelling. But not heart. And my mother... she was strong. Always working in the garden. No one really talked about heart things much, you understand? We didn’t have much money for doctors back home. Just... tea and rest. Is that… bad? Not knowing about family history?
+DOCTOR: It’s… less than ideal. Okay, let's move on. Do you take any medications, herbal remedies, anything at all?
+PATIENT: No, sir. Nothing. Just the strong tea my wife makes. She puts a lot of ginger in it. And sometimes honey. I drink a lot of water, too. I try to eat good. Rice, fish, vegetables. Nothing fancy. Just… normal food. You know? Not pills or anything like that.
+DOCTOR: Alright. Let's do a quick exam. Just so we can rule things out. Take a deep breath for me, please.
+PATIENT: Okay. Like this? I'm a little nervous, if you don’t mind me saying. It’s been a long time since anyone… looked at me like this.
+DOCTOR: Hmm. Heart rate is a little elevated. Rhythm’s… irregular. Blood pressure’s normal. Lungs sound clear. Alright. Nothing obvious.
+PATIENT: Irregular? That doesn’t sound good, does it? Is it… bad irregular? My wife said I looked worried before. I am a little worried, now. I don't want to have… a problem. Can you… tell me what it means? Just... simple, okay? Not too much doctor talk.
+DOCTOR: Look, Mr. Puder, it could be a number of things. Probably nothing serious, but your heart's electrical system isn't perfectly synchronized. We need to rule out some possibilities. I'm going to order an EKG and some basic blood work. It'll give us a better picture. It’s standard procedure.
+PATIENT: EKG? Blood work? Is that… expensive? I don’t have a lot of money, you understand. And... what does it do? Will it… hurt? My wife will worry if I have too many tests. She’s very protective.
+DOCTOR: Look, Mr. Puder, I understand your concerns. EKG is just a quick, painless scan of your heart's electrical activity. Blood work is… well, blood work. It checks for basic issues. I can’t give you a price, you’ll have to check with the billing department. But we need to know what we’re dealing with. Here’s a requisition form. Go to the lab downstairs. I’ll review the results when they come in. Next.
+PATIENT: Oh. Okay. Billing department… downstairs… I understand. But… will you tell me what it means, when you look at it? Simple, okay? Not too much doctor talk. And… my wife. Can she come with me next time? Just… to listen? She worries a lot. .
+DOCTOR: We’ll see. Just get the tests done. And frankly, this isn't the time to be bringing people. I have other patients. Next. .

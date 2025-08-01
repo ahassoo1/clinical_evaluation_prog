@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Mr. Orwin. I'm Dr. Voytek. So, what brings you in today?
+PATIENT: Morning. Yes, well, get on with it, really. I haven’t got all day. It’s about this… procedure. The one for my face. Need a clearance, they said. So here I am.
+DOCTOR: Alright, Mr. Orwin. I see here you're scheduled for a cosmetic procedure… a facelift, correct?
+PATIENT: Yes, a facelift. Is that really so difficult to grasp? And don’t tell me it’s “cosmetic” like it’s some sort of…frivolity. It’s corrective. My jowls are quite distracting, you know.
+DOCTOR: Of course, Mr. Orwin. I understand. We just need to ensure you're healthy enough for elective surgery. “Corrective” or “cosmetic”, the pre-operative evaluation is the same. Can you tell me a little more about why they requested medical clearance?
+PATIENT: They just want to be certain, I suppose. Young people these days, so cautious. I told them I've been perfectly healthy my whole life. Worked hard, always. Terrazzo work is strenuous, you know. But they insisted. Something about my age, I reckon.
+DOCTOR: Okay. And just to confirm, you’ve had no significant changes in your health recently?
+PATIENT: No. None. Same as always. A bit of arthritis, naturally. What do you expect at my age? But it doesn't stop me. I still get around. And I eat sensible things, mostly. Not like these youngsters with their… processed foods.
+DOCTOR: Alright. And when you say “sensible things,” can you describe a typical day of eating for me?
+PATIENT: Well, breakfast is usually coffee and a piece of toast. Sometimes a bit of herring, if I’m feeling peckish. Lunch is… well, whatever my daughter brings over. She worries too much, you know. And dinner, I usually have fish. Salmon, mostly. It’s good for you. And a small potato.
+DOCTOR: Okay. And are you currently taking any medications, vitamins, or supplements?
+PATIENT: Just a little something for the arthritis. Ibuprofen, sometimes. When it flares up. And a multivitamin. Can't hurt, can it? My daughter bought it for me. She’s always trying to get me to take more things.
+DOCTOR: Alright. And do you have any allergies to medications, food, or anything else?
+PATIENT: No. None that I know of. I've eaten everything. Lived a full life, I have. No allergies. Really, is this all necessary? It’s delaying things, you know.
+DOCTOR: Just a few more questions, Mr. Orwin. Have you ever been hospitalized for anything?
+PATIENT: No. Never. Not once. I've always been a strong man. Broke a wrist when I was a boy, climbing a tree, but that’s hardly a hospitalization. A bit of a cast, that was all.
+DOCTOR: Alright. And what about any major surgeries in the past?
+PATIENT: No. Nothing major. Had my tonsils out when I was a lad. But that was ages ago. And a mole removed from my back, years and years ago. But it wasn’t serious. Just a little thing.
+DOCTOR: Okay. And finally, do you have any family history of any significant medical conditions – heart disease, cancer, diabetes, anything like that?
+PATIENT: My father had… something with his heart. But he smoked like a chimney, so it doesn’t really count, does it? And my mother… well, she lived to be ninety, so I suppose she was alright. Really, I come from a strong line.
+DOCTOR: Alright, Mr. Orwin. Thank you for that information. Now, I’m going to listen to your heart and lungs, and take your blood pressure. Just to make sure everything is in good working order for the procedure. Then we’ll discuss the results. Is that alright?
+PATIENT: Finally. Yes, get on with it. Let’s just get this over with. I have things to do, you know.
+DOCTOR: Alright, Mr. Orwin. Heart sounds are regular, no murmurs noted. Lungs are clear to auscultation bilaterally. Blood pressure is 140/85. A little elevated, but not concerning given your age and recent activity… are you stressed about the surgery?
+PATIENT: Stressed? Of course not! I'm a pragmatic man, Doctor. I simply want it done. And what's wrong with my blood pressure? Is it going to stop me from getting this finished? I’m not some frail old man, you know.
+DOCTOR: Your blood pressure is slightly elevated, Mr. Orwin. It’s not necessarily a reason to halt the procedure, but we should address it. Do you regularly monitor your blood pressure at home?
+PATIENT: Monitor it? No! Why would I? I feel fine. Always have. This is ridiculous. Are you trying to tell me I can’t have this surgery? Because if you are…
+DOCTOR: No, Mr. Orwin, I’m not saying that. But given your slightly elevated blood pressure, I’d like to order a basic blood panel – just to rule out anything obvious. And I recommend following up with your primary care physician to discuss blood pressure management. Would you be amenable to that?
+PATIENT: Fine. Whatever. Just get the tests done. I don't have time for all this fuss. But I expect it won’t change anything. I want this surgery. And I want it soon.
+DOCTOR: Alright, Mr. Orwin. I’ve ordered the blood tests. They can be done here in the clinic. Once we have the results, we can discuss them and proceed. In the meantime, I’m going to write a note to the surgical team outlining my findings and recommendations. Does that sound alright?
+PATIENT: Yes, yes, get on with it. And tell them to schedule it. I haven’t got all year. I’m sure everything will be perfectly fine. Now, can I go?
+DOCTOR: Alright, Mr. Orwin. Here’s the lab requisition form. The phlebotomist will be with you shortly. I'll have the surgical team review everything. We'll contact you once they have a date scheduled. In the meantime, if you experience any chest pain, shortness of breath, or severe headache, please go to the nearest emergency room immediately. Do you have any questions for me before you go?
+PATIENT: No. None whatsoever. Just get it done. And hurry.
+DOCTOR: Alright, Mr. Orwin. Have a good day. .

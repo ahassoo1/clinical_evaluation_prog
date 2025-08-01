@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Schaust. I am Dr. Yackey. So, let’s get straight to it. What brings you in today?
+PATIENT: Good morning, Doctor. Well, it’s… it’s a bit difficult to explain. I’ve just been feeling weaker, gradually, over the last few months. And my eyelids… they feel heavy, and they’re drooping a bit. It’s becoming noticeable, and frankly, it’s a little worrying.
+DOCTOR: Weakness and… drooping eyelids, you say. Months, you indicated?
+PATIENT: Yes, months. It started subtly, I thought I was just tired, you know? Working long hours. But it hasn’t gone away, and it’s… it’s getting worse. It’s not like a sudden thing, it's been a slow decline. Mostly in my arms and legs, I think. It makes things like carrying groceries… difficult.
+DOCTOR: Hmm. And aside from the weakness and the eyelids, have you noticed anything else?
+PATIENT: Let me think… Well, sometimes my vision feels a bit blurry, but I wear glasses anyway, so I just assumed it was my prescription needing updating. And… now that you mention it, I've been a little more irritable than usual, but I figured that was just stress. I don’t know if any of that’s connected.
+DOCTOR: Irritability and blurry vision. Right. Do you have any other medical conditions that I should be aware of?
+PATIENT: No, not really. I had the flu a couple of years ago, but that was it. Nothing chronic. And I don't take any regular medications. I try to stay healthy, eat reasonably well… though work has been hectic, so sometimes it’s hard.
+DOCTOR: Alright. Any surgeries in the past?
+PATIENT: No, never had any surgeries. I've been quite fortunate in that regard, thankfully. I've always tried to avoid them if possible.
+DOCTOR: Family history?
+PATIENT: Well… my mother had some issues with her heart when she was older, but that was quite a while ago. My father was healthy as a horse, if I recall correctly. Nothing major on either side, as far as I know. I don't really… keep up with those details, to be honest. My parents are both… no longer with us.
+DOCTOR: And your social habits?
+PATIENT: Social habits? Oh. Um… I work a lot, as I mentioned. I don’t really have much time for… hobbies or socializing. I occasionally have a beer with colleagues after work, but nothing excessive. I certainly don't smoke, and I rarely drink alone. I was… divorced about a year ago, so that’s changed things a bit, too. I haven’t been dating much, if that’s what you mean.
+DOCTOR: Alright. Any allergies to medications or anything else?
+PATIENT: No allergies that I know of. I’ve never had any reaction to anything, as far as I can remember. I've had the usual vaccinations, but nothing beyond that.
+DOCTOR: Very well. Let’s do a quick examination, shall we?
+PATIENT: Yes, of course. Whatever you think is best, Doctor. I’m happy to cooperate.
+DOCTOR: Alright, Mr. Schaust, can you squeeze my hands?
+PATIENT: Yes, certainly. Is that alright? I… I think my left hand feels a bit weaker, actually. It's subtle, but… there’s a difference.
+DOCTOR: And now, push against my hands. Arms extended, please. We’ll start with your right arm.
+PATIENT: Okay, like this? It feels… a little tiring, actually. More tiring than it should be, I think. It's hard to gauge, but… I feel like I'm exerting more effort than I used to.
+DOCTOR: And now the left. Push against my resistance. Alright. Now, let's check your reflexes.
+PATIENT: Yes, of course. Just let me know what you need me to do. I'm a little nervous, to be honest. Is this something serious, Doctor? It’s been worrying me a lot lately.
+DOCTOR: Hmm. Patellar reflexes are… diminished bilaterally, but more pronounced on the left. Now, let’s examine your eyelids closely. Ptosis is present in both eyes, but more significant on the left. We’ll need some bloodwork to rule out a few things. I'm going to order a complete blood count, a metabolic panel, and a thyroid stimulating hormone level. Also, given your symptoms, I think it would be prudent to get an MRI of the brain and… potentially a referral to a neurologist.
+PATIENT: Oh. That… sounds like a lot, Doctor. MRI? A neurologist? Is it… is it something serious? I mean, what are we looking for? I’m getting quite anxious now, to be honest. I didn’t expect it to be this… involved.
+DOCTOR: Mr. Schaust, your symptoms – the weakness, the drooping eyelids, the fatigue – could be indicative of several things. It's premature to panic. The bloodwork will help us rule out common deficiencies or infections. The MRI is simply to get a clearer picture of your brain and rule out any structural issues. A neurologist is a specialist. They can provide a more definitive diagnosis if necessary. It's a standard procedure, and frankly, erring on the side of caution is always the best approach. I'll have the lab order sent electronically to the lab downtown. They should be able to accommodate you today. I will also forward a referral request to Dr. Eleanor Vance, a highly-regarded neurologist. She’ll contact you directly to schedule an appointment. Do you understand?
+PATIENT: Yes, I… I think so. It’s just a lot to take in. Bloodwork, MRI, neurologist… It sounds… serious. And how long will it take to get the results? Will they call me if something is… wrong? I don’t have insurance, Doctor, so… will this be very expensive? I'm worried about the costs.
+DOCTOR: The bloodwork results typically take 24-48 hours. The MRI results will take a bit longer, potentially a few days. The lab will contact you directly with the results; however, I will also review them and contact you if there are any immediate concerns. As for the costs, I understand your concern. Unfortunately, I am unable to provide an exact estimate. The costs will vary depending on your location and the specific tests performed. You may want to inquire about a payment plan or financial assistance programs at the lab and with Dr. Vance’s office. Frankly, delaying diagnosis is rarely beneficial. I’m finishing the orders now. Do you have any other questions?
+PATIENT: No… I think that’s all for now. Thank you, Doctor. I’ll… I’ll go and get the bloodwork done. I appreciate you taking the time. .

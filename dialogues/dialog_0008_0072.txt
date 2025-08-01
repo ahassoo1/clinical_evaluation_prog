@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Ms. Heidenthal. I'm Dr. Cumper. So, what brings you in to see me today?
+PATIENT: Oh, good morning, Doctor. Well, it’s a bit embarrassing, really. I’ve been… forgetting things. Not like, where my keys are all the time, but… important things. It’s been worrying me.
+DOCTOR: Okay, I understand. It's good you're bringing this to my attention. Memory issues can be concerning, and it's always best to get them checked out. When you say “important things,” can you give me a few examples of what you've been forgetting?
+PATIENT: Hmm, let me think. Just last week, I completely forgot a patient’s appointment. Mrs. Gable, very sweet lady. I had it written down, everything, but… it just slipped my mind. And a couple of times now I’ve started to tell a story, and then… just blank. I can’t remember what I was talking about. It’s frustrating, honestly.
+DOCTOR: Alright, forgetting an appointment and losing your train of thought – those are good examples. And how long has this been going on, roughly?
+PATIENT: Oh, goodness. It’s hard to say exactly… maybe six months? It started slowly, just little things. But it feels like it's been getting worse lately, definitely in the last couple of months. It’s just… unsettling.
+DOCTOR: Okay, six months with a recent increase in frequency. Have you noticed any other changes along with the memory issues?
+PATIENT: Let me think… I don’t know. I guess I’ve been a little more… tired than usual? And maybe a bit more clumsy. I tripped over the rug at the office the other day, which I never do. But other than that… not really. I don’t think so.
+DOCTOR: Alright. Fatigue and a bit of clumsiness. Have you experienced any headaches, vision changes, or difficulty with speech?
+PATIENT: No headaches, thankfully. And my vision seems fine, I had an exam just a few months ago. No trouble speaking, either, as you can tell! It's just… remembering things is the problem.
+DOCTOR: Okay, good. No headaches, normal vision, and no speech difficulties. Now, let's talk about your medical history. Do you have any current medical conditions?
+PATIENT: Hmm, not really. I had the flu last winter, but that’s it. I'm generally pretty healthy, to be honest. I eat okay, I try to get some exercise when I can, and I don't smoke. I do drink a glass of wine with dinner sometimes, if that matters. Do you need to know about medications? I don’t take any regularly.
+DOCTOR: Okay, generally healthy, no regular medications. And you mentioned a glass of wine with dinner – how much is typically a glass?
+PATIENT: Oh, just one glass. Maybe five ounces? Nothing too crazy. I’m not a big drinker. I just like a little something with my food sometimes. It’s a Pinot Noir, usually. Is that important?
+DOCTOR: That’s good to know. Just gathering information. Have you had any surgeries or been hospitalized for anything in the past?
+PATIENT: No, never. No surgeries, no hospital stays. I’ve been lucky, really. I broke my arm when I was a kid, but that was it. Just a cast for six weeks. Nothing serious. Is this normal for… you know, memory problems? Because I'm starting to worry I'm going to find out something awful.
+DOCTOR: Okay, no surgeries or hospitalizations. It's completely understandable to be worried, Ms. Heidenthal. We're just gathering information right now to get a better picture of what’s going on. Let’s talk about your family history. Do you have any family members – parents, siblings, grandparents – who have experienced memory loss or dementia?
+PATIENT: That's a good question. My mother… she did have some trouble remembering things towards the end of her life, but we just chalked it up to old age. She was in her nineties. My father, he was sharp as a tack until the very end. I don’t know about grandparents, honestly. I didn’t know them very well. Was that helpful? It's hard to remember, you know...ironic, isn’t it?
+DOCTOR: It is a bit ironic, yes. And yes, that's helpful. Okay. Finally, let's quickly cover allergies. Do you have any known allergies to medications, foods, or anything else?
+PATIENT: No, not that I know of. I’ve never had a reaction to anything. I can eat pretty much anything. I’m very fortunate that way, too. Is that all the questions? I feel like I’ve been grilled!
+DOCTOR: Okay, no known allergies. And you haven't been grilled, Ms. Heidenthal, just gathering information. Alright. Now, I’d like to do a brief physical exam and a quick cognitive assessment, if you don't mind. It will involve some simple memory and attention tests. Is that okay with you?
+PATIENT: Yes, that’s fine. Whatever you think is best. I just want to figure out what’s going on. Let’s get it over with, I guess. I'm a bit nervous, but... here we go.
+DOCTOR: Great. If you could just have a seat here, we’ll start with your vital signs – blood pressure, pulse, temperature. Then we’ll move onto a brief neurological exam and then the cognitive assessment. Your blood pressure is 130/80, pulse is 72, and your temperature is normal. Now, can you tell me today’s date?
+PATIENT: Oh. Um… let me think. Today is… August… the second? 2025? Is that right? I feel like I just said it, but… it feels strange.
+DOCTOR: Okay. And can you tell me what city we are in?
+PATIENT: Oh. That’s… easy, isn’t it? It’s… It’s… I always forget the name of cities. It’s… a big city. It starts with a… L? I'm so embarrassed.
+DOCTOR: That’s alright, Ms. Heidenthal. Don’t worry about it. These tests can be tricky. Now, I'm going to ask you to repeat three words for me. I’ll say them slowly, and after I ask you some other questions, I’ll ask you to remember them. The words are: Apple, Table, Penny. Can you repeat those for me, just to confirm you heard them?
+PATIENT: Apple, Table, Penny. Yes, I think I've got them. Apple, Table, Penny. But… I’m already starting to feel like they’re slipping away. It’s awful!
+DOCTOR: Okay. Now, I'm going to ask you some simple questions about your general knowledge. What year did the United States declare independence?
+PATIENT: Oh… um… That's… a history question, right? I always liked history in school… Was it… 1776? I think it was 1776. But I’m really not sure now. I feel like I’m dredging up something from a dream. Is that bad?
+DOCTOR: That’s perfectly alright. You got the year correct. Now, can you tell me who is the current president of the United States?
+PATIENT: Oh… goodness. Um… I… I should know this! It’s… a man… he's… I always see him on TV. But I can’t pull his name right now. It’s on the tip of my tongue, but… it won’t come out. This is terrible!
+DOCTOR: Okay, Ms. Heidenthal. That's enough for now. You've done very well. I'm going to step out for a moment to review your chart and discuss some potential next steps with the nurse. Please stay seated and try to relax. I’ll be right back.
+PATIENT: .
+DOCTOR: .

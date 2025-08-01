@@ -1,0 +1,27 @@
+DOCTOR: Right. Mr. Radillo, is it?
+PATIENT: Yes, that is correct. Gerhard Radillo. It is nice to meet you, Doctor… Overgaard, yes?
+DOCTOR: Yes, Overgaard. Ledarius Overgaard. Though frankly, I find most patients aren’t concerned with my name, just with getting their ailments sorted. So, let’s get straight to it. What brings you in today?
+PATIENT: Yes, of course. Sorry. I… sometimes forget things. I am here because of my ear. It has… discharge. Coming out. For maybe three days now. It is not painful, but… concerning.
+DOCTOR: Discharge, you say?
+PATIENT: Yes. A liquid. From the ear. Not a lot, but… enough that I noticed. It is… clear, I think. Or maybe a little yellow? It is difficult to see properly. I tried to clean it, but it keeps coming back.
+DOCTOR: Right. And you attempted self-treatment, I presume?
+PATIENT: Yes. With a… cloth. A clean cloth. Just to wipe away what I could see. I did not put anything in my ear, if that is what you are asking. I know one should not do that. My mother… she always said so.
+DOCTOR: Good. That’s… marginally sensible. Alright, let’s have a look. Please sit up straight and tilt your head to the side. Which ear is this affecting?
+PATIENT: The left ear, Doctor. This one. I will sit very still. Just tell me what you need me to do.
+DOCTOR: Hm. Yes, I see some cerumen…and some fluid in the canal. The tympanic membrane appears slightly… clouded. Not perforated, thankfully. Do you experience any hearing loss?
+PATIENT: Hearing loss? Not that I have noticed, no. Everything sounds… normal, as far as I can tell. I do not shout, or ask people to repeat things. Perhaps a little muffled sometimes, but I thought that was just… old age. I am sixty years old, you know. Perhaps my ears are just not as good as they once were.
+DOCTOR: “Perhaps.” Right. And have you had any fever, chills, or recent illness?
+PATIENT: No, Doctor. No fever. No chills. I feel… quite well, apart from this ear. No cough, no sore throat. Just the discharge. It began suddenly, I think. Three days ago, like I said. I was… watering my garden, and then I noticed it. That is all.
+DOCTOR: Any history of ear infections, Mr. Radillo?
+PATIENT: As a child, yes. Many years ago. When I was very small, growing up in Somalia. I remember being very sick, a lot of pain. The doctor… he gave me some medicine, I think. But that was a long time ago. I have not had any problems with my ears since then, until now.
+DOCTOR: And any recent travel?
+PATIENT: No, Doctor. I have not travelled anywhere. I live here, in the suburbs. I have been here for… twenty years now. I have not been back to Somalia since… a very long time ago. Just here, with my work. I teach at the college.
+DOCTOR: Alright. Let’s discuss your current medications, allergies and past surgical history. Do you have a list of medications you are currently taking?
+PATIENT: Yes, I do. Here you are. Just for… my blood pressure. And a vitamin, for my bones. The doctor said I should take it. It is all here. No allergies. And no surgeries. Never had any surgeries.
+DOCTOR: Right. Blood pressure medication… reasonable. And vitamin D. Very good. Now, Mr. Radillo, I suspect you have otitis externa - swimmer's ear. It’s not uncommon, especially with recent activity. However, to rule out other possibilities, I want to send a sample of the discharge to the lab for culture. It’s a simple procedure. Are you agreeable to that?
+PATIENT: A culture? Yes, of course. If that is what you think is best, Doctor. I trust your judgement. What does it involve? Is it… painful? I do not like pain. And will it take long? I have a class tomorrow morning, you see.
+DOCTOR: It’s a simple swab, Mr. Radillo. A brief moment of discomfort, at most. Barely noticeable. The lab results will take a couple of days. In the meantime, I'm going to prescribe you some ear drops. Apply them as directed, and avoid getting water in the ear. I'll also give you a referral to an ENT specialist if the symptoms don't improve after a week. Does that sound acceptable?
+PATIENT: Ear drops… yes, that sounds good. And a specialist, if needed. No problem. I will be very careful with the water, you see. I can write down the instructions for the drops, if you wish? I sometimes forget things, and I do not want to make a mistake. This is all very helpful, Doctor. Thank you.
+DOCTOR: Writing them down is… advisable, given your proclivity for forgetfulness. I’ll print out the instructions now. Follow these precisely. And Mr. Radillo, please, try to manage your expectations. This is a relatively minor issue, but it requires diligence. Any further questions?
+PATIENT: No, Doctor. I think that is everything. Thank you for your time, and for explaining everything so clearly. I will follow the instructions carefully, I promise. I appreciate your help very much.
+DOCTOR: Very well. Good day, Mr. Radillo. I expect to hear from you if things don't improve. .

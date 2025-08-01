@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Lucia. Have a seat. So, what brings you in today?
+PATIENT: Good morning. Thank you. Um... it's my... burping. I burp a lot. It's been happening for... a little while now. Not sure how long, exactly.
+DOCTOR: Burping, alright. "A little while now," you say. That's… helpful. Is it constant, or does it come and go?
+PATIENT: It comes and goes. Sometimes it's... more. Like, after I eat. Or sometimes just... when I’m standing. Not always after eating, though. It's not like, every time I eat. Does that make sense? It’s hard to explain.
+DOCTOR: It's… vague, yes. After eating, you said. What kind of foods?
+PATIENT: Oh. Um... everything, I think? I haven’t really noticed. Maybe... spicy food makes it worse? But I eat a lot of things. Rice and beans, chicken... you know, regular food. I don’t eat anything weird. Is there a food I should be paying attention to?
+DOCTOR: Well, of course there are foods. Everything affects something. But let's try to be more specific. Rice and beans... are you having a lot of gas with that, as well?
+PATIENT: Gas? Yes, sometimes. Not always with the rice and beans, but... yes. A little bit. Not a lot, usually. It's more the burping. The burping is... embarrassing. I just want it to stop.
+DOCTOR: Alright. And how about anything else?
+PATIENT: Anything else? Um... No... not really. I feel okay. I sleep okay. I work, you know, at the factory. It’s not a hard job. Sometimes I feel tired, but everyone feels tired. I don't have any... pain, or anything like that. Just the burping and the gas sometimes. And it smells bad, sometimes.
+DOCTOR: Right. And do you have any known allergies?
+PATIENT: Allergies? Not that I know of. I've never been to the doctor about allergies. My mom never said anything about allergies. I can eat anything, usually. No problems. I mean, I don't like some foods, but that's not an allergy, right?
+DOCTOR: And what about medications?
+PATIENT: Medications? No. I don’t take any. Never have. I get sick sometimes, like a cold, but I just rest and drink tea. I don't like taking pills. I don't need any.
+DOCTOR: Alright. Well, frankly, it sounds like you're probably just eating too fast, or swallowing too much air. Try slowing down when you eat, and avoid carbonated beverages. But… let’s just listen to your abdomen, okay?
+PATIENT: Okay. That sounds easy enough. Slow down... yes, I can try that. Listening to my... tummy? That's okay. Is something wrong? You think it's something bad?
+DOCTOR: No, I didn't say that. It's just… these things are rarely serious. But it's my job to rule things out. Now, lie back, please. And try to relax.
+PATIENT: Okay. Relax... I'm trying. It's just... I get nervous at the doctor. Go ahead.
+DOCTOR: Normal bowel sounds. No distension. No tenderness to palpation. As I suspected. It's likely just… you're sensitive. Perhaps a bit of indigestion.
+PATIENT: Sensitive? What does that mean? Like... my stomach is just... easily upset? Should I take something for it? Like, a pill? Even though I don’t like them?
+DOCTOR: It means you react more to things, alright?
+PATIENT: Okay... But what do I do about it? If I'm sensitive, what helps? Should I change what I eat? Or just… try to relax more? Is there anything specific I should avoid? Anything at all?
+DOCTOR: Look, I'm not going to have you overhaul your entire diet based on a few burps. Try over-the-counter simethicone if it bothers you. Gas-X. And really, just slow down when you eat. That’s it. I have other patients. Do you have any other concerns?
+PATIENT: No... I guess not. Just... the burping. But if you think it's nothing... Okay. Thank you. Gas-X... I'll try that. I don't want to take up your time. .
+DOCTOR: .

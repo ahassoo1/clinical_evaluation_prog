@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Mr. Bigger. It’s good to meet you. I’m Dr. Fazzina. So, what brings you in to see me today?
+PATIENT: Morning, doctor. Bigger is the name. They sent me here... something about the mine. Not feeling sick, you know. Just... checking. They want me checked. Lots of dust down there, always. Not my fault, mind you.
+DOCTOR: Right, right. Checking, yes. Dust…understandable. And you said “they” sent you?
+PATIENT: Yes, they. The company. Big people. Insurance people too, I think. They said I need to make sure nothing is…wrong. I been working that mine a long time, you see. Longer than you been alive, probably.
+DOCTOR: I see. Well, that’s very responsible of them. And you don’t feel sick, you said?
+PATIENT: No, doctor. Nothing. Maybe a little tired, but that’s just old age, eh? Always been strong, though. Lifting and moving. That’s what I do. Not like these young fellas, always complaining.
+DOCTOR: Right, strong. That's good. And just to be thorough, Mr. Bigger, have you noticed any changes at all recently?
+PATIENT: Changes? Hmmm. Let me think… the food don’t taste like it used to, maybe? But that’s just the wife gone, you know? She made good soup. Not like this canned stuff. Other than that… no. Everything feels… normal for an old man.
+DOCTOR: I understand. And I'm very sorry for your loss, Mr. Bigger. Just going through the motions here, sir. Have you been having any trouble breathing?
+PATIENT: Breathing? No. Never had trouble breathing. Always been a strong chest, you see. From all the lifting. Maybe a little wheezing sometimes in the cold, but that's just… old man things. Like the soup, eh?
+DOCTOR: Alright. Well, let’s just do a quick check-up, just to be sure, Mr. Bigger. I'm going to listen to your heart and lungs, and we'll take a look at everything. Would that be alright?
+PATIENT: Alright. Listen to the heart, you say? Fine. But don’t poke too much. This old body ain’t what it used to be. And make it quick, eh? I got things to do.
+DOCTOR: Of course, sir. Just a quick listen. If you could just take a deep breath for me... in and out. Okay, heart sounds… a little irregular, but nothing to be overly concerned about right now. Lungs sound a bit wheezy, as you mentioned. Do you cough much?
+PATIENT: Wheezy, eh? Always a little bit when the weather changes. And yes, I cough sometimes. Not a bad cough, though. Just an old man clearing his throat, you know? Been coughing since I was a boy.
+DOCTOR: Alright. Now, I'm just going to check your blood pressure and pulse. Blood pressure’s a little high, and pulse is still irregular. Nothing alarmingly high, but we’ll keep an eye on it. Now, have you ever been diagnosed with anything?
+PATIENT: Diagnosed? Hmmm. Let me think… The company doctor gave me some pills for my back once. Years ago. But that was just for a strain, lifting a big beam. Nothing serious. Never been to a real doctor much, until now.
+DOCTOR: Okay, just a back strain. And do you take any medications currently, besides those pills for your back?
+PATIENT: No, no pills now. Stopped taking them years ago. Didn’t seem to do much good, anyway. Just a little liniment on my back when it aches. Rub it in good, that's all. The wife used to rub it in for me.
+DOCTOR: Alright. Now, just to finish up, do you have any allergies to any medications, foods, or anything else?
+PATIENT: Allergies? Hmmm. Never been allergic to anything, not that I know of. Ate all sorts of things growing up. We didn’t have fancy food back then. Just ate what we could get. No, no allergies.
+DOCTOR: Alright, Mr. Bigger. Well, everything seems alright, but we do have a few things to monitor. Your blood pressure and pulse are a little elevated, and the slight wheezing in your lungs is something we'll keep an eye on. I recommend we schedule a follow-up appointment in three months, just to check everything again. How does that sound?
+PATIENT: Three months? Seems alright. Long time to wait, though. But if you say so. Just hope nothing breaks down before then. Company won’t be happy if I get sick.
+DOCTOR: Alright. I'll also write you a prescription for a bronchodilator inhaler, just in case the wheezing gets worse. It’s just a precaution. And I recommend you try to get some rest and stay hydrated. Does that sound acceptable to you, Mr. Bigger?
+PATIENT: Inhaler, eh? Never used one of those. But alright. If it keeps the company happy, I’ll try it. Just don't want to be messing around with too many pills. Always preferred a good rest, myself. And a strong cup of tea.
+DOCTOR: Alright, here’s the prescription. It’s easy to use; the pharmacist can show you how. And rest is good. Very good. We’ll see you in three months. Do you have any questions for me before you go?
+PATIENT: No, no questions. Just hope I don’t need to come back before then. Thank you, doctor. You been… alright.
+DOCTOR: You’re very welcome, Mr. Bigger. And please, don’t hesitate to call if you experience any changes or concerns. Have a good day, and take care of yourself. .
+PATIENT: ... You too, doctor. A good day to you. .

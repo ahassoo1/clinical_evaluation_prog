@@ -1,0 +1,26 @@
+DOCTOR: Right. Amy Ragunathan. 31 years old. So, what brings you in today?
+PATIENT: Good morning, Doctor. Well, for the past few weeks I’ve been noticing a… a lump, I guess you’d call it, in my lower abdomen. It doesn't hurt, not really, but it's definitely there, and it’s making me a bit anxious.
+DOCTOR: A lump… in the lower abdomen. Okay. And how long exactly have you been noticing this lump?
+PATIENT: Hmm, let me think. It started… probably around the middle of July, so maybe a month, a little more? It was very small at first, I almost didn’t notice it, but it’s grown a bit since then, slowly.
+DOCTOR: Slowly growing... Right. And can you describe it for me?
+PATIENT: Well, it feels… firm, if that makes sense? Not hard like a stone, but definitely not soft. It’s… roundish, I think. Maybe the size of a plum? It’s hard to tell exactly, because… well, it’s inside, of course. It doesn't really move when I press on it, either. Just feels… fixed.
+DOCTOR: Fixed, you say. And is there any pain associated with it at all?
+PATIENT: No, not really pain. More like… a slight discomfort if I push on it hard, but not pain. And it doesn’t hurt when I walk or sit or anything like that. It’s just… there. That’s what’s worrying me. It’s new, you see. I haven’t felt anything like this before.
+DOCTOR: New is always concerning. Any other changes you've noticed?
+PATIENT: No, not that I can think of. My appetite’s been normal, my… bathroom habits are regular, no fever, no weight loss. I’ve been feeling generally healthy, to be honest. That’s why I was surprised when I felt this lump. I just… I wanted to get it checked out, just to be sure.
+DOCTOR: Right. Any family history of… abdominal issues?
+PATIENT: That’s a good question. Hmm… my mother had some stomach problems when she was younger, something about ulcers, I think, but I don’t think it was anything serious. And my father was generally very healthy. Nothing like this on either side, as far as I know. We don’t really talk about medical history much. I apologize, I'm not much help there.
+DOCTOR: Right, well. Let’s move on. Do you have any allergies to medications or anything else?
+PATIENT: No, thankfully not. No known allergies. I can take most medications without any problems. And no sensitivities to food or anything like that, either. I'm quite lucky in that regard, I suppose.
+DOCTOR: Alright. Well, I suppose we should have a look, then. If you wouldn't mind stepping onto the examination table.
+PATIENT: Of course. That sounds good, Doctor. Just let me know if you need me to adjust my position. I'm a little nervous, but I'll try to stay still.
+DOCTOR: Alright. I'm just going to palpate your abdomen. Try to relax. I need to feel for the lump, assess its size and consistency, and see if there's any tenderness. Let me know immediately if you feel any discomfort. It’s important I understand your pain threshold.
+PATIENT: Okay. That’s… not painful, exactly, just… awareness of pressure. It feels a bit strange. It's lower down, on this side. About… here.
+DOCTOR: Mmm. Yes, I feel it. It is firm, approximately 2cm in diameter. Non-tender to palpation, but… not easily displaced. Bowel sounds are normal. Right. It’s... something. Not particularly alarming, but certainly warrants further investigation.
+PATIENT: Okay. Further investigation… that sounds… serious. What sort of investigation are you thinking about, Doctor? Is it something I should be very worried about? I apologize if I’m being… demanding. I just… I’d like to know what we’re dealing with.
+DOCTOR: Well, "serious" is relative, Mr. Ragunathan. It's likely benign, but we need to rule out anything concerning. I'm going to order a complete blood count and a comprehensive metabolic panel to get a baseline. But more importantly, I'm scheduling you for an abdominal ultrasound. That will give us a clear picture of what this mass is. Do you understand?
+PATIENT: Yes, that makes sense. Ultrasound… to get a clearer picture. Complete blood count and… the metabolic panel. I understand. And when are you thinking of scheduling the ultrasound, Doctor? Is it something I need to prepare for? Should I be fasting or anything like that?
+DOCTOR: You will receive a call from the radiology department within 24 hours to schedule the ultrasound. You will need to fast for six hours beforehand. And frankly, the bloodwork can be done whenever is convenient for you. I’ll send the orders to your primary care physician. It's standard procedure, Mr. Ragunathan. Nothing to unduly worry about. Any other questions?
+PATIENT: Okay, fasting for six hours… I can manage that. And the bloodwork… I'll have to check with my primary care doctor then. No, I think that’s everything for now, Doctor. Thank you for explaining everything so clearly. I appreciate your time and… and for not dismissing my concerns. Should I call if anything changes, like if the lump gets bigger or more painful?
+DOCTOR: Yes, absolutely. If there is a sudden increase in size, significant pain, or any other concerning symptoms, contact your primary care physician immediately. They can expedite things. Now, if you'll excuse me, I have other patients waiting. The front desk will schedule your follow-up appointment once the ultrasound results are in. Next. .
+PATIENT: Thank you, Doctor. Have a good day. .

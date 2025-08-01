@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Criston. Welcome to the clinic. I’m Dr. Pfennig. It's nice to meet you. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um, well, my pee… it’s orange. It started a few days ago, maybe three? I don’t know why. It’s a little… worrying.
+DOCTOR: Okay, orange urine. That is something to look into. Three days ago, you said?
+PATIENT: Yes, about three days. Maybe a little longer, I’m not very good with dates. It's not painful, just… the color is strange. Like, really orange. Not normal.
+DOCTOR: Alright. And has anything else changed – any pain when you urinate, increased frequency, or any changes in your bowel movements?
+PATIENT: No pain when I pee. Not more or less than usual, I think. And no, nothing different with… how I go to the bathroom, other than the color. Everything else is normal. I think.
+DOCTOR: Okay. And have you noticed any changes in your appetite, or have you been feeling unusually thirsty lately?
+PATIENT: Um… I eat normal, I think. My wife cooks, so I eat what she makes. And maybe a little more thirsty, yes. But it’s very hot now, so I drink more water anyway. Is that… is that a problem?
+DOCTOR: That's good information. The increased thirst could be related, given the heat, but it’s worth exploring. Let's talk a little about your past medical history. Do you have any known medical conditions – diabetes, kidney problems, anything like that?
+PATIENT: No, Doctor. Nothing that I know of. I’ve never been to the hospital, except for a broken arm when I was a kid. My wife always says I'm very healthy, but I worry about this pee.
+DOCTOR: Okay, good to know. And any surgeries in the past?
+PATIENT: No surgeries. Just the arm when I was small, they fixed it with a cast. That was a long time ago. I don’t remember much about it. I just remember it hurt for a while.
+DOCTOR: Alright. How about your family?
+PATIENT: My family… my father had problems with his heart, I think. He was older when it happened. My mother, she was always healthy too. No big problems that I remember. I don't think anyone had problems with… with their water, if you know what I mean. Like my pee.
+DOCTOR: Okay. And do you take any medications at all – prescription, over-the-counter, vitamins, supplements?
+PATIENT: No, Doctor. Nothing. I don't like taking pills if I can avoid it. My wife sometimes gives me a vitamin, but not often. Just when I look very tired, maybe.
+DOCTOR: Alright. And do you have any allergies to medications or anything else?
+PATIENT: No allergies that I know of. Never had a reaction to anything. I eat everything. My wife says I'm like a goat, I eat anything she gives me!
+DOCTOR: Okay, that’s all very helpful information. Now, let’s talk a little bit about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, Doctor. I don't smoke. I don't like the smell. And I don’t drink alcohol, not really. Maybe a small glass of wine with dinner sometimes, but not every night. And no, I don’t use any… those things. I work very hard, I don't have time for that.
+DOCTOR: Okay. And what kind of work do you do?
+PATIENT: I am an engineering technician. I work with machines, mostly. Fixing them, making sure they work okay. It’s… a physical job. Sometimes hot, sometimes dirty. I work outside sometimes too. Does that matter?
+DOCTOR: It absolutely could matter. Being physically active and working in hot conditions can lead to dehydration, which can sometimes affect urine color. Okay. Now, I'd like to do a quick physical exam. Just going to listen to your heart and lungs, and then I'll take a quick look at your abdomen. Is that alright with you?
+PATIENT: Yes, Doctor. That’s fine. Whatever you need to do. I trust you.
+DOCTOR: Okay. Heart sounds are normal, regular rate and rhythm. Lungs are clear to auscultation bilaterally. Abdomen is soft, non-tender, no masses palpated. No guarding or rebound tenderness. Okay. Everything feels normal to the touch, but the orange urine is still concerning. To be thorough, I’d like to order a urinalysis. It will check for things like infection, blood, and the concentration of different substances in your urine. Does that sound okay?
+PATIENT: Yes, Doctor. That sounds good. I want to know what’s wrong with my pee. If you think that will help, then please do it. What do I have to do? Is it… is it painful?
+DOCTOR: No, it's not painful at all. You'll just need to provide a urine sample. I’ll have the nurse show you to the restroom and give you a sterile cup. Just collect a small amount of urine in the cup, and then bring it back to me. It's important to try and collect a mid-stream sample – that means start urinating, then collect the sample a few seconds later. That helps to reduce the risk of contamination. It’s a very simple procedure. While we wait for the results, I'd recommend increasing your fluid intake significantly. Drink plenty of water throughout the day. We'll see what the urinalysis shows, and then we can discuss the next steps. Do you have any questions for me at this point?
+PATIENT: No, I think I understand. Just… drink more water and give you a pee sample. Okay. Will you tell me if it's something serious? My wife will worry if I don’t tell her everything. She worries a lot.
+DOCTOR: Absolutely. I will explain the results to you in detail, and we’ll discuss what they mean together. And I understand your wife’s concern. You’re welcome to share the information with her, and she’s welcome to join us for a follow-up appointment if you’d like. We’ll figure out what’s going on and take care of it. Let's get the nurse in here to get you set up with the urine sample.
+PATIENT: Thank you, Doctor. That makes me feel better. I appreciate you taking the time to listen to me.
+DOCTOR: You're very welcome, Criston. It's my job. .

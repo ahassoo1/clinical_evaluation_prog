@@ -1,0 +1,22 @@
+DOCTOR: Alright, Tarin, right?
+PATIENT: Yes, that is correct. Tarin Kinjerski. It’s a pleasure to meet you, Doctor Pehrson.
+DOCTOR: Yeah, yeah. Look, I’m… busy. Let’s just get down to it. What brings you in today?
+PATIENT: Well, I’ve been experiencing some numbness in my leg. It’s… rather persistent, and I wanted to have it checked out, just to be sure everything is alright. It started a few weeks back, I believe around July 15th, and hasn’t fully gone away.
+DOCTOR: July 15th...right. Persistent numbness, you say?
+PATIENT: Yes, that’s correct. It’s not a complete loss of feeling, more like… a dulling. And it seems to be mostly in my left leg, starting at the thigh and going down to my foot. Sometimes it feels a little tingly too, but mostly just numb. It doesn't happen constantly, but it's frequent enough to be concerning.
+DOCTOR: Frequent enough to be concerning. Right. Okay. Any injuries?
+PATIENT: No, sir. No recent injuries. I haven't had any falls, bumps, or anything of that nature that I can recall. I work as a special effects artist and animator, so I spend most of my time at a computer or building things at a desk, but nothing that would explain this. It wasn’t brought on by any particular event, as far as I can remember.
+DOCTOR: Desk job...figures. Alright. Any other symptoms?
+PATIENT: Not that I’ve consciously noticed, no. My general health is quite good, I believe. I haven't experienced any pain in my back, or anywhere else for that matter. No weakness, dizziness, or changes in bowel or bladder function. I haven’t had any fever, chills, or unusual fatigue. I've been sleeping normally, and my appetite is consistent. Just the numbness in my leg, really. Though, now that you mention it, sometimes my foot feels a bit colder than the other one, but I didn't think much of it.
+DOCTOR: Colder foot...hmm. Alright. Let’s take a quick look. Hop up on the exam table.
+PATIENT: Certainly, Doctor. Just let me know if there’s anything specific you’d like me to do.
+DOCTOR: Just lie down, stomach up. I'm going to check your reflexes and sensation. Don’t overthink it.
+PATIENT: Understood. I will do my best not to overthink it, Doctor. Please, proceed at your own pace.
+DOCTOR: Okay. Reflexes are…present, but a little diminished on the left. Sensation…yeah, definitely decreased in the foot and lower leg. Can you feel this?
+PATIENT: Yes, I can feel that… but it’s… muted, as compared to my other leg. It’s not a sharp sensation, more like a dull pressure. It’s definitely less distinct than when you touch my right leg. Is that what you were expecting?
+DOCTOR: Muted…yeah, that's what I figured. Alright. Look, I'm thinking it could be some nerve compression. Probably nothing serious, but we should rule out anything worse. I'm going to order an MRI just to be safe. And get a blood test for basic metabolic panel.
+PATIENT: An MRI and a blood test, yes. That sounds… thorough. Is there anything specific I should be aware of in preparation for either of those tests? And could you explain a little more about what “nerve compression” entails? I’m not familiar with the medical terminology, and I'd like to understand what we're looking at.
+DOCTOR: Nerve compression...basically, a nerve is being squeezed somewhere. Could be in your back, could be in your leg. MRI will show us. Blood test just to rule out anything else. Don't eat or drink anything after midnight before the blood test. The MRI...just lie still. It's loud. And don't bring any metal. You know, jewelry, phones... common sense. I’ll have the receptionist schedule those for you. Next.
+PATIENT: Thank you, Doctor. That clarifies things considerably. No food or drink after midnight for the blood test, and avoid metal for the MRI. I will certainly keep that in mind. I appreciate you explaining it in terms I can understand. Is there anything else I should be doing in the meantime, such as avoiding specific activities? Or any warning signs I should be aware of that would warrant immediate attention?
+DOCTOR: Look, just… don't overdo it. If you get sudden weakness, or lose control of your bowel or bladder, go to the ER. Otherwise, just…wait for the results. I’ve got other patients. The receptionist will give you paperwork. Next.
+PATIENT: I understand, Doctor. No sudden weakness or loss of bowel or bladder control. I will wait for the results, and I’ll be sure to collect the necessary paperwork from the receptionist. Thank you for your time and attention. I appreciate your assistance. .

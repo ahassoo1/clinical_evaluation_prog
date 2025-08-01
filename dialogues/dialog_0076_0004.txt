@@ -1,0 +1,25 @@
+DOCTOR: Alright, Mrs. Fornes, good to meet you. So, what brings you in today?
+PATIENT: Oh, hello Doctor Ruocco. It's nice to meet you too. Well, it’s just for my shots, really. A routine check-up, you know? I figured it was time to get those updated.
+DOCTOR: Shots, right. Routine. Yes. Well, we need to be a little more specific than that, don't we?
+PATIENT: Oh, you're right, sorry. I get a little fuzzy on the names of them all. I know I’m due for a tetanus booster, I think? And maybe a flu shot soon, even though it’s August. I just want to be on top of things before winter hits, if that makes sense.
+DOCTOR: "Think" is hardly a basis for medical decisions, Mrs. Fornes. We have records, don’t we?
+PATIENT: Oh, you're right, you're right! I always forget what the nurse tells me. It was a nurse who mentioned the tetanus, I'm pretty sure. And something about a new recommendation... I don’t recall exactly what it was for though. Sorry, I’m not the best at remembering all this stuff.
+DOCTOR: Let’s see... Tlingit, suburban... right. Hmm. According to this, your last tetanus booster was… 2015. That is quite a while ago. As for the “new recommendation”… honestly, most people don’t need to worry about everything the CDC suggests. It’s mostly for… well, never mind. Let's just focus on the basics. Any allergies to vaccines?
+PATIENT: No, not that I know of. Never had a problem with a shot before, thankfully. My grandma always said a little bit of pain is good for you, but I reckon that was just her way of getting us kids to stop crying!
+DOCTOR: Old wives’ tales. Right. Any current medications you’re taking?
+PATIENT: Nope, not a one. I try to stay healthy, mostly. Lots of walking, good food when I can get it. My husband, he does most of the cooking these days. He's a good man.
+DOCTOR: Okay, good. No medications complicating things. Let’s just do a quick physical exam, just to be thorough. Blood pressure, pulse, listen to your heart and lungs… the usual. Roll up your sleeve.
+PATIENT: Sounds good to me, Doctor. You just let me know if anything seems off. I always feel a little nervous with the blood pressure cuff, it feels so tight!
+DOCTOR: It is supposed to feel tight, Mrs. Fornes. That’s how it works. 138 over 82. A little elevated, but not alarming. Pulse is 78, regular. Lungs are clear. Heart sounds… unremarkable. Okay. Everything seems… acceptable.
+PATIENT: Acceptable? That’s good, right? I always worry when doctors say “acceptable.” Does that mean I need to worry about something?
+DOCTOR: “Acceptable” means you are not actively dying, Mrs. Fornes. It does not mean you are in perfect health. Look, you’re 53. Everyone has something. We're here about shots, remember?
+PATIENT: Oh, okay. Right, the shots. Sorry, I just… get anxious sometimes. It's silly, I know. So, which shots do you recommend? The tetanus, definitely? And the flu one, even now? I just want to do what’s best.
+DOCTOR: Fine. Tetanus booster, absolutely. And yes, getting the flu shot now is... a reasonable precaution. It’s never too early to prepare for the inevitable onslaught of seasonal illness. And I recommend the pneumococcal vaccine. It protects against pneumonia. You’re at an age where you should consider it. It's really quite simple.
+PATIENT: Pneumo… what now? Pneumococcal? I've never even heard of that one. What does it protect against exactly? Is it a bad one? I don’t want anything that’s going to make me feel sick for a week.
+DOCTOR: It prevents pneumonia, Mrs. Fornes. A lung infection. And no, it doesn't usually cause a week-long illness. Some mild soreness at the injection site, perhaps. It’s a very common vaccine. Honestly, you’re making this far more complicated than it needs to be. Look, do you want to be protected from preventable diseases, or not?
+PATIENT: Oh, of course I do! I just… I get nervous, I guess. It’s silly. Okay. Okay, yes. Do the pneumococcal one too. All of them. Just… maybe tell me when you’re about to poke me? I hate surprises.
+DOCTOR: Fine. Just try to relax. And don’t flinch. It’ll be over before you know it. There. All done. Now, try not to dwell on any minor discomfort. It’s for your own good. We'll schedule a follow-up in a month, just to be sure.
+PATIENT: Ouch! That was a poke. Okay, okay, I'm alright. A month, you said? That sounds good. Is there anything I should be looking out for? Like, a really bad fever or something?
+DOCTOR: Mild soreness, maybe a low-grade fever. If you develop a high fever, difficulty breathing, or swelling in your face, go to the emergency room. But honestly, you're unlikely to have any serious side effects. Here's a pamphlet about the vaccines. Read it if you feel the need. Now, is there anything else I can help you with, or are we finished here?
+PATIENT: No, I think that’s everything. Thank you, Doctor. And… thank you for being patient with me, even though I’m a bit of a worrywart. I appreciate it.
+DOCTOR: Very well. Next. .

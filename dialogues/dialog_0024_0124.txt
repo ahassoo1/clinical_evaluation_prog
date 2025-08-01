@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Ms. Paes. I am Dr. Mutnick. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, I've been feeling really tired lately, and my skin… it's gotten darker. Not like a sunburn, just… overall darker, you know? It's a bit worrying.
+DOCTOR: “Darker,” you say. Can you elaborate on that, please?
+PATIENT: Hmm… it’s hard to explain. Like, my whole complexion is just… less bright, I guess? And it’s not just my face, it’s my arms, my legs… everywhere, really. I noticed it a few months ago, but it seems to be getting more noticeable. I haven’t been spending more time in the sun, that’s for sure. Maybe a little, with the garden, but nothing crazy.
+DOCTOR: And how long have you been experiencing this fatigue, Ms. Paes?
+PATIENT: Oh, the tiredness… probably around the same time as the skin darkening, so a few months now. It’s not like… falling asleep all the time tired, but just… constantly dragging. Like I don't have any energy to do things, even things I usually enjoy. It’s frustrating.
+DOCTOR: “Dragging,” you say. Have you noticed any other changes, Ms. Paes?
+PATIENT: Let me think… not really, not that I’ve noticed. I mean, I’ve been eating pretty normally, I guess. Maybe a little less appetite than usual, but not a big difference. No fever, no chills, no weird aches or pains. Just… tired and darker. It's just… different than how I usually feel. Does that make sense?
+DOCTOR: And are you currently taking any medications, Ms. Paes?
+PATIENT: No, Doctor, I don’t take anything regularly. Just over-the-counter stuff if I have a headache, but nothing prescribed. I try to avoid medication if I can, to be honest.
+DOCTOR: Very well. And do you have any allergies to medications, foods, or anything else?
+PATIENT: No, not that I know of. I've never had a bad reaction to anything, thankfully. I eat pretty much everything… well, most things. I’m Cambodian, so we eat a lot of different things! I don't think allergies are a problem.
+DOCTOR: Alright. Let’s move on to your medical history. Have you been diagnosed with any medical conditions in the past?
+PATIENT: Hmm… not really. I had the usual childhood illnesses, like chickenpox, but nothing serious. I've been pretty healthy overall, thankfully. My mother had some trouble with her heart when she was older, but that was years ago. Other than that, nothing I can think of. Does that help?
+DOCTOR: And have you ever had any surgeries, Ms. Paes?
+PATIENT: No, Doctor. Never had any surgeries. I’ve been lucky so far, haven’t needed any. I try to take care of myself, you know? I do a bit of gardening, it keeps me active. Hopefully that'll keep things that way!
+DOCTOR: Alright. Now, family history. Are your father and any siblings still living?
+PATIENT: My father passed away a few years ago. He had some trouble with his blood sugar towards the end, but he lived a long life. I have one brother, he’s doing fine, lives in the city. He doesn't have any major health problems that I know of. We don't talk every day, but we check in. Is that what you needed to know?
+DOCTOR: Do you smoke, drink alcohol, or use any recreational drugs, Ms. Paes?
+PATIENT: Oh, no, Doctor. Absolutely not. Never smoked a cigarette in my life. I don’t drink alcohol either, never really liked it. And definitely no drugs. I’m a pretty simple person, honestly. Just like my garden and spending time with my friends. It's not really my style.
+DOCTOR: Very well. Let’s proceed with a physical examination. Please have a seat on the examination table. We’ll start with your vital signs, and then I’ll take a closer look at your skin.
+PATIENT: Okay, Doctor. Sounds good. Is there a gown I should put on?
+DOCTOR: No, that won’t be necessary for this examination, Ms. Paes. Just sit comfortably, and we’ll begin. Blood pressure is 130/85. Slightly elevated. Now, let's have a look at your skin... Skin appears hyperpigmented, particularly on the extremities and face. No rashes or lesions noted. Capillary refill is normal. Palpating lymph nodes... Lymph nodes are within normal limits.
+PATIENT: Okay. Is that… normal, Doctor? The hyperpigmentation? It just feels weird, you know? I haven’t changed anything in my routine, and I'm always careful about the sun.
+DOCTOR: "Normal" is a relative term, Ms. Paes. Hyperpigmentation can be caused by a multitude of factors. Given your symptoms of fatigue, and the absence of any other obvious cause, I'm going to order a complete blood count, a comprehensive metabolic panel, and a thyroid stimulating hormone test. It’s likely nothing serious, but it’s best to rule out any underlying medical conditions. The results should be available in a few days. I will have my nurse contact you to schedule a follow-up appointment to discuss them. In the meantime, try to get some rest, and I suggest you avoid excessive sun exposure. Do you have any questions?
+PATIENT: Okay, that sounds… thorough. A few days… alright. No, I don’t think so, not right now. Just… try not to worry, right? And avoid the sun. Got it. Thank you, Doctor. Do I need a referral for the bloodwork, or…?
+DOCTOR: My nurse will provide you with the necessary paperwork for the lab. It's a standard procedure, Ms. Paes. I expect you will be contacted shortly. Now, if you'll excuse me, I have other patients to see.
+PATIENT: Okay. Thank you, Doctor.

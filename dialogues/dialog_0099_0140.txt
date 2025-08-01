@@ -1,0 +1,23 @@
+DOCTOR: Alright, Mr. Schieber. Forty-one years old, yes?
+PATIENT: Yes, that is correct. Though I fail to see why my age is relevant to… this. Let’s just get on with it, shall we? I have things to do.
+DOCTOR: Right. Efficient, I see. Well, “things to do” often get more complicated when your health isn’t cooperating, wouldn’t you agree?
+PATIENT: With all due respect, Doctor… Overgaard, was it? I assure you, my health is cooperating just fine. It’s a minor… irritation. Hardly worth the bother of a visit, but my wife insisted. A rather… persistent white coating in my mouth, she says.
+DOCTOR: “Persistent white coating,” you say. And how long has this “irritation” been present?
+PATIENT: Oh, goodness… perhaps a week? Maybe a little longer. It’s difficult to say precisely. I don’t spend my days examining the inside of my mouth, Doctor. It simply… appeared. And hasn’t gone away. Honestly, it's probably nothing.
+DOCTOR: A week or so. And is it painful?
+PATIENT: Painful? No, not at all. Discomforting, perhaps. A bit… strange. It doesn't hurt, if that’s what you're asking. It just… is. Really, I suspect it's something I ate. I had some rather exotic fruit last week, now that I think of it. Though I doubt that's your area of expertise.
+DOCTOR: "Exotic fruit," you say. And have you noticed any other symptoms?
+PATIENT: Other symptoms? No. I feel perfectly… adequate. Perhaps a little tired, but that's likely due to work. I'm a faller, you see. It's a physically demanding profession. I doubt a bit of fatigue is relevant to this… coating.
+DOCTOR: And what exactly is a “faller,” Mr. Schieber?
+PATIENT: Really, Doctor? You’ve never heard of a faller? We harvest trees. We cut them down, prepare them for transport. It requires considerable strength and… well, a certain level of risk. It’s not a desk job, shall we say. It involves… falling trees.
+DOCTOR: Right. A physically demanding profession, as you said. And have you noticed any difficulty swallowing, or changes in your taste?
+PATIENT: Difficulty swallowing? No. I eat quite heartily, thank you very much. And my taste is… adequate. It hasn't been altered. Though I suppose everything tastes a bit bland when you're tired. Is this going to take much longer? I really do have things to do.
+DOCTOR: And your wife, she noticed this white coating… where exactly in your mouth is it located?
+PATIENT: Everywhere, more or less. On the tongue, the insides of the cheeks… perhaps not the very back of the throat, but certainly a significant portion of the mouth. She’s quite observant, my wife. Perhaps too observant. It's white. It's on my mouth. Is there something more I need to tell you, Doctor? I’m beginning to question the value of this consultation.
+DOCTOR: Alright. I’m going to take a quick look. Open wide, please. It's difficult to assess without a proper examination.
+PATIENT: Fine. Just… be quick about it. I haven’t got all day. Honestly, it’s just a bit of… fluff.
+DOCTOR: Hmm. Yes, I see it. Diffuse white coating on the tongue and buccal mucosa. No ulcers or distinct lesions. It does appear somewhat generalized. It could be something as simple as oral thrush, a yeast infection… but without further testing, it’s difficult to say definitively. Do you have any underlying health conditions?
+PATIENT: Underlying health conditions? Absolutely not. I am in perfectly good health, as I said before. Perhaps a little tired from work, but that is hardly a condition. I haven’t been sick a day in my life, Doctor. Well, almost. A cold, perhaps, a few years ago. But that was… insignificant. Really, I don’t see what all the fuss is about. It’s probably just something I ate.
+DOCTOR: Alright. Given your insistence on good health, and the lack of other symptoms, we can start with a conservative approach. I’m going to recommend an antifungal mouthwash, nystatin, to be used twice daily for two weeks. If the coating doesn't improve within that timeframe, or if you develop any difficulty swallowing, pain, or fever, you need to come back immediately. Do you understand?
+PATIENT: An antifungal mouthwash. Very well. Though I still maintain this is entirely unnecessary. Twice daily, you say? For two weeks? Honestly, Doctor, that seems… excessive. Fine, fine. I'll try it. But if it doesn't work, I’m not wasting any more of my time on this. And if it causes any… side effects, I expect a full refund. Do I need to schedule a follow-up appointment now? .
+DOCTOR: A refund is not a standard practice, Mr. Schieber. And no, I do not suggest a follow-up unless symptoms worsen. If it doesn’t improve, or new symptoms arise, then schedule an appointment. I'll have the nurse print out the instructions for the mouthwash and the potential side effects. Do you have any allergies to medications?

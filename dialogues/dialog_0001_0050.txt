@@ -1,0 +1,21 @@
+DOCTOR: Alright, Mr. Pavlovec, I see you’re 90 years old. Good for you. Now, what brings you in today?
+PATIENT: Oh, uh, well… it’s this cough. Been… a while now. A dry cough. Not much… not much coming with it, you know? Just… scratchy. Feels like something stuck in my throat sometimes. It’s been… a long time. I forget exactly when it started, honestly.
+DOCTOR: A long time, huh?
+PATIENT: Yes. A good long time. Longer than… well, longer than I can rightly say. Before… before my wife passed, I think. Or maybe a little after. Everything’s a bit… fuzzy these days, you know? It just… hasn’t gone away.
+DOCTOR: Right. Fuzzy. Okay. And has anything changed about the cough recently?
+PATIENT: Changed? Hmm… Not that I recall. It's pretty much the same. Maybe… maybe a little worse when I lie down? Makes it harder to sleep sometimes. But mostly just… there. Always there.
+DOCTOR: Alright. Any fever, chills, or shortness of breath with this cough?
+PATIENT: Fever… not that I’ve noticed. I don’t usually check, to be honest. Chills… sometimes I get cold, but I’m always cold these days, you know? Old bones. Shortness of breath… well, I get tired easily, but I figure that’s just age, too. I don’t… I don't think I'm short of breath, exactly. Not like… wheezing or anything.
+DOCTOR: Okay. And do you smoke, or have you smoked in the past?
+PATIENT: Oh, no, never. Never smoked a day in my life. My wife… she didn’t like it. And I… well, I didn’t want to upset her. Good woman, she was. A very good woman. No, never smoked.
+DOCTOR: Alright. Any other symptoms?
+PATIENT: Hmm… Well, my appetite ain’t what it used to be. Eat a little, then I get full real quick. And… sometimes I feel a little lightheaded when I stand up too fast. But I always just figured that was from getting old, too. Hard to say what’s new and what’s just… me now, you know? It all feels the same after a while.
+DOCTOR: Okay. Let’s just do a quick listen to your lungs and check your heart, alright?
+PATIENT: Oh, alright. Yes, that sounds… good. Whatever you think is best. I trust you, doctor. Just… try to be gentle, okay? My ribs get… sensitive these days.
+DOCTOR: Take a deep breath… and exhale. Again. Good. Sounds a little… diminished breath sounds bilaterally. Some mild wheezing on expiration. Heart sounds are regular, a little distant. Pulse is weak. Now, let me check your oxygen saturation… 92%. A little low, but not critically low.
+PATIENT: Ninety-two…? Is that… bad? I don’t… I don’t know what any of that means, really. Diminished… and wheezing… It all sounds… worrisome. What does it mean, doctor? Is it serious?
+DOCTOR: Look, Mr. Pavlovec, it could mean a lot of things. You’re 90 years old. Your lungs aren't going to be what they used to be. It suggests some mild obstruction, possibly due to… well, age, or maybe a touch of bronchitis. It's not an emergency, but we need to figure out what’s going on. I'm going to order a chest X-ray, just to be sure. And I'll prescribe you an inhaler to open up your airways. Try to use it twice a day.
+PATIENT: An X-ray… and an inhaler… I see. Well, alright. Whatever you think is best, doctor. But… will the X-ray… hurt? And what if it is something serious? I don't… I don't have much family left, you know. It’s just me these days. I worry… a lot.
+DOCTOR: The X-ray won’t hurt. It’s just a picture. And honestly, at your age, it's probably nothing. But we need to rule things out. Look, I'm going to order the X-ray, and the nurse will schedule it for you. Come back next week with the results, and we'll talk about them then. Here. This is for the imaging center. Now, is there anything else?
+PATIENT: No… I don’t think so. Just… thank you, doctor. I appreciate you taking the time. It’s… good to know someone is looking at me, you know? Even if it’s just to take a picture. I guess… I’ll see you next week then. .
+DOCTOR: .

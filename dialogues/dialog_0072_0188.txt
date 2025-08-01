@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Mr. Secondi. I’m Dr. Hembrey. It says here you’re 36 years of age. Welcome to the clinic. Now, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Yes, 36. Um, okay. I... my pee is orange. It started a few days ago, maybe three or four. It’s not hurting or anything, just… orange. It worries my wife.
+DOCTOR: Orange urine, you say?
+PATIENT: Yes. Like… not dark yellow, but actually orange. Like… the color of an orange fruit, maybe a little lighter. I drink a lot of water, usually. I don’t know why it’s happening.
+DOCTOR: Hmm. And you mention you drink a lot of water. Are you taking any vitamins or supplements, Mr. Secondi?
+PATIENT: Vitamins? Um… sometimes. My wife buys me a multivitamin. The orange one. I take it most days, but not every day. I forget sometimes. Is that… is that what’s doing it?
+DOCTOR: It could be the multivitamin. Many contain high doses of beta-carotene, which can cause a harmless discoloration of the urine. But we need to rule out other possibilities. Have you noticed any changes in your stool?
+PATIENT: Stool? You mean… my poop? No, not really. It looks… normal. Like it always does. Maybe a little hard sometimes, but I think everyone has that problem. Nothing… different color or anything.
+DOCTOR: And have you experienced any abdominal pain, nausea, vomiting, or fever alongside this change in urine color?
+PATIENT: No, nothing like that. No pain, no feeling sick, no throwing up, no fever. Just the orange pee. It’s… strange. I feel okay, otherwise. My wife made me come, she was worried. I don’t think it’s a big deal.
+DOCTOR: Alright. Well, despite your feeling well, Mr. Secondi, we still need to gather some information. Do you have any allergies to medications, food, or anything else?
+PATIENT: Um… allergies. I don’t think so. Maybe a little bit of dust sometimes, makes me sneeze. But not like, a serious allergy. I can eat anything. No problems with any medicine I’ve ever taken. My wife asks me every time, and I always say no.
+DOCTOR: And what medications are you currently taking, even if over-the-counter?
+PATIENT: Just the… the orange vitamin, sometimes. And, uh… sometimes I take ibuprofen for my back. It gets sore from work. Just when it hurts, though. Not every day. And… that's it. I don't take much, really. My wife keeps track of everything, she's good at that. I mostly just forget.
+DOCTOR: Okay. And what kind of work do you do, Mr. Secondi?
+PATIENT: I work as… an engineering technician. I fix things. Machines and stuff. Mostly at a factory, out near the highway. It's… physical work, sometimes. Lifting and bending. It's okay work, pays the bills. It makes my back sore sometimes, that's why I take the ibuprofen.
+DOCTOR: Alright. Let's do a quick physical exam. I’d like to check your abdomen and listen to your bowel sounds, just to be thorough. And I will need a urine sample. We can start with the urine sample, and then we’ll proceed to the abdominal exam. Do you have any difficulty providing a sample?
+PATIENT: No, no problem with that. I can give a sample. Where do I… go? Is there a bathroom? I can go right now. No problem at all. Just tell me where.
+DOCTOR: Yes, right through that door. There are instructions inside. Please collect a mid-stream sample, and bring the cup back to me when you’re finished. I'll be here.
+PATIENT: Okay, good. Thank you, Doctor. I'll be right back.
+DOCTOR: Please try to be prompt.
+PATIENT: Okay.
+DOCTOR: ...
+PATIENT: Here you go, Doctor. It was… orange, still. Sorry it took a minute. I had to… go a few times.
+DOCTOR: Thank you. Now, if you’ll please lie down on the examination table, we’ll listen to your abdomen.
+PATIENT: Okay. Like this? Is this okay? It's a little cold.
+DOCTOR: Alright. Deep breaths, please. In and out… good. No tenderness to palpation, bowel sounds are present, albeit a little… sluggish. No masses detected. Your abdomen feels normal. Now, sit up. I will send this urine sample to the lab for analysis, just to rule out any infection or other abnormalities. It's likely just the vitamin, as you suspect, but we must be certain.
+PATIENT: Okay. So… it's probably the vitamin? I told my wife. When will I know the results? And… do I need to stop taking the vitamin?
+DOCTOR: The lab results will take approximately 24 to 48 hours. I recommend temporarily discontinuing the multivitamin until we have the results back. If the color persists after discontinuing the vitamin for a few days, we'll need to investigate further. Do you understand?
+PATIENT: Yes, Doctor. Stop the vitamin for a few days, and see if it still happens. Okay. Thank you. Is there anything else I need to do? Or… worry about?
+DOCTOR: No, Mr. Secondi. Unless you develop a fever, abdominal pain, or any difficulty urinating, there's no immediate cause for concern. I'll have the results sent to your wife's email address, as I see she manages your medical information. This concludes the consultation. Please schedule a follow-up appointment if your symptoms do not improve, or if new symptoms arise. Do you have any further questions?
+PATIENT: No, Doctor. I think that’s everything. Thank you for your time. I appreciate it. I'll tell my wife. .
+DOCTOR: Very well. .

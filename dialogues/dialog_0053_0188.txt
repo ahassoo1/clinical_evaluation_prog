@@ -1,0 +1,23 @@
+DOCTOR: Alright, Mr. Secondi. Good to meet you. So, tell me, what brings you in today?
+PATIENT: Uh, hello. It’s… my pee. It’s orange. For, like, two days now. Not every time, but mostly. I drink water, you know? Normal amount. It just… changed color.
+DOCTOR: Orange, you say?
+PATIENT: Yes. Like… not bright orange, but… you know, not the normal yellow. More… a little dark. Like maybe… carrot juice color? I don’t know if that makes sense. It worries my wife.
+DOCTOR: Right. Carrot juice color. Well, it's good your wife is observant. It could be something simple, but we need to figure out what's causing it. First, let's get a bit more detail. Have you noticed any pain or burning when you urinate?
+PATIENT: No, no pain. Not burning. Nothing like that. It just… comes out orange. And, uh… everything else feels normal. I haven’t felt sick or anything. Maybe a little tired, but I work long hours.
+DOCTOR: Okay, no pain or burning. Just the color change and a bit of fatigue. Fatigue is rather non-specific, but we’ll keep that in mind. Now, are you taking any vitamins or supplements?
+PATIENT: Uh… let me think. My wife gives me some… a multivitamin, every morning. And sometimes, fish oil. She says it’s good for my heart. That’s all, I think. Nothing else. I don’t take pills usually.
+DOCTOR: Alright. Multivitamin and fish oil. That's a start. Sometimes those can cause discoloration, but let's not jump to conclusions. Have you noticed any changes in your bowel movements?
+PATIENT: Changes in… poo? Sorry, doctor, I don’t understand. Like, is it different color? No, not that I noticed. It’s… normal. You know. Regular. Everything is… going through. If that makes sense.
+DOCTOR: Yes, yes, “going through” is good. Just checking for anything unusual. Alright. And have you had any fever, chills, nausea, or vomiting in the past few days?
+PATIENT: No, no fever. Not chills. No throwing up. Nothing like that. Just… the pee. It's really all I've noticed. It’s making me worried because my grandfather, he had… problems with his kidneys, a long time ago.
+DOCTOR: I see. Family history of kidney problems is relevant. We’ll certainly keep that in mind. Let’s do a quick physical exam, just to get a baseline. I'll listen to your abdomen, check your vitals, and do a brief neurological check. Then, I'd like to order a urinalysis. That will give us a clearer picture of what's going on. Does that sound alright?
+PATIENT: Yes, that sounds… good. A urinalysis? You mean, like, test the pee? Okay. I can do that. Whatever you think is best, doctor. I just want to know what’s wrong.
+DOCTOR: Excellent. Alright, let’s start with your vitals. If you could step on the scale for me, please?
+PATIENT: Okay. I hope it’s nothing bad. My wife will be very worried.
+DOCTOR: 106 kilograms and blood pressure is 130/85. A little elevated, but not drastically so. Now, let’s listen to your abdomen. Take a few deep breaths for me… and again… Any pain or tenderness when I press here?
+PATIENT: No, no pain. Nothing when you push. It feels… normal. Like usual. I eat a lot, maybe that's why it feels… firm?
+DOCTOR: “Firm.” Right. Well, it’s good there's no tenderness. Let's move on. Squeeze my hands… and now, push against my resistance… Good, good. Everything seems neurologically intact. Now, we’ll need a urine sample. I’ll have the nurse bring you a container. Please try to collect a mid-stream sample, and bring it to me as soon as possible. Do you have any questions before we proceed?
+PATIENT: Mid-stream… what does that mean exactly? Like, not the first part? And how long does it take to get the results? My wife is waiting.
+DOCTOR: A mid-stream sample means you start urinating, let a bit go into the toilet, then collect the sample in the container. That ensures we get a cleaner reading. As for how long the results will take, it depends on the lab, but usually within a few hours. I'll have the nurse let you know as soon as they're available. In the meantime, try not to worry too much. It’s likely something minor, but we're doing the necessary tests to rule out anything serious. The nurse will be in shortly with the container.
+PATIENT: Okay. Not the first part. I can do that. Thank you, doctor. I hope it’s nothing bad. I really do. I'll wait for the nurse. .
+DOCTOR: .

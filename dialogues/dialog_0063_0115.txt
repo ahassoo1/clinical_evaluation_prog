@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Ms. Durig. I am Dr. Jules. Now, please, tell me what brings you in today. I have limited time, so if you could be concise, that would be appreciated.
+PATIENT: Good morning, Doctor. Yes, well… it’s my… a patient of mine. He’s quite yellow, you see. A dreadful color. It has something to do with his liver, I believe. He has… a sickness. A liver sickness. I’m afraid I don’t recall the specifics, it was some time ago.
+DOCTOR: A patient of yours?
+PATIENT: Oh, yes, forgive me. I mean, my patient. He comes to me for treatment. It’s… it’s all a bit muddled, you understand. I’ve seen so many over the years. A very good man, though. Very polite.
+DOCTOR: And you are… a physician as well, Ms. Durig?
+PATIENT: Oh, no, dear. Not a physician. I… I calculate things. For the treatments. With the… the machine. It’s very precise work. Medical Dosimetrist, that’s what they call it. Though, I mostly just remember numbers these days.
+DOCTOR: I see. A Dosimetrist. And this patient… what is his chief complaint?
+PATIENT: Well, the yellowing, of course. His skin and… and his eyes. It started gradually, I think. And he felt… tired. Very tired. And a bit unwell in his stomach, perhaps? It was some time ago, I truly don't recall the details. He has a… a liver problem. Hepatitis, I believe they said.
+DOCTOR: Hepatitis. Alright. Do you happen to know which type of hepatitis?
+PATIENT: Oh dear. No, I wouldn't know that. Honestly, I just work with the numbers, you see. The dosage, the angles… not the specifics of the illness itself. It was a long time ago. They just told me he had hepatitis, and to calculate the treatment.
+DOCTOR: Very well. And what treatment was he receiving?
+PATIENT: Radiation, I believe. Yes, definitely radiation. It involved a large machine… quite a complicated process, really. I calculated how much, and where to aim it, of course. That was my part. I'm afraid I don't recall the specifics of why he was receiving it.
+DOCTOR: Right. And approximately when was this radiation treatment administered?
+PATIENT: Oh, goodness. That's a difficult question. Let me think… it was… several years ago. Perhaps… five or six? Or maybe more? It feels like a lifetime. I really don't keep track of dates, dear. It was before… before everything became so digital.
+DOCTOR: Ms. Durig, your patient’s records indicate he completed radiation therapy for hepatocellular carcinoma—liver cancer—six years ago. He was referred back to primary care for follow-up. Are you saying you’ve been monitoring this patient without a physician’s oversight?
+PATIENT: Oh. Oh dear. That is what the record says, isn't it? I… I assumed someone was still looking after him. I just continued the calculations, as I always do, when he requested further adjustments. I thought… I thought it was a standard follow-up. I haven't spoken with a doctor about him in… well, a long time. I'm very sorry.
+DOCTOR: Ms. Durig, with all due respect, you are not qualified to monitor a patient with a history of liver cancer. The yellowing you describe, the fatigue… these are concerning symptoms that require immediate medical attention. We need to run some tests—blood work, imaging—to assess his current condition. Let's start with a complete blood count and a liver function panel. Do you have any idea when he last had these tests performed?
+PATIENT: Oh, goodness. I see. Well, I suppose you are right. I hadn’t thought… I just continued as I always had. He didn’t mention any problems, specifically. As for tests… I haven’t any idea when he last had them. He simply brought me the requests and I calculated the figures. Perhaps… a few years ago? I’m terribly sorry. I’m getting old, you see, and things slip my mind.
+DOCTOR: Alright. Let’s focus on the present. What brings him in today?
+PATIENT: He’s… much yellower now, Doctor. Noticeably so. And weaker. He has been complaining of a pain in his stomach, a dull ache. He’s also quite breathless, even with minimal exertion. He came to me hoping I could… adjust the treatment, perhaps? Though, I explained I can only calculate, not prescribe. He looked very unwell when he visited, truly.
+DOCTOR: And has he experienced any fever, nausea, vomiting, or changes in his bowel habits?
+PATIENT: Oh dear. Let me think… He didn't specifically mention a fever, no. I believe he said his appetite was poor, but that’s not unusual for him. He may have mentioned feeling a bit queasy, but I don't recall him saying he actually vomited. As for his… bowel habits, I'm afraid I didn't ask. It wasn’t something we discussed. I simply calculated the numbers, you understand.
+DOCTOR: Ms. Durig, I’m going to need to perform a physical examination. And I strongly recommend we admit your patient for further evaluation. His symptoms are concerning enough to warrant immediate investigation. Please, if you'll excuse me.
+PATIENT: Oh. Very well, Doctor. Whatever you think is best. I truly am sorry for any confusion. I should have… I should have realized. Please, do whatever you need to do. I’ll just… I’ll just wait here.
+DOCTOR: Alright. Please lie back. I'm going to press gently on your abdomen. Tell me if you feel any pain. Tenderness to palpation in the right upper quadrant, with guarding. Now, let’s listen to your heart and lungs. Breath sounds are diminished in the lower lobes bilaterally. Have you noticed any swelling in your legs or ankles?
+PATIENT: .
+DOCTOR: .

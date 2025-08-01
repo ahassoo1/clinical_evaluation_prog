@@ -1,0 +1,38 @@
+DOCTOR: Right, Yamir Shanor. 31 years old. So, tell me, what brings you in today?
+PATIENT: Uh, yes. Doctor... Memmolo, right? I need... check for referee. For sports. Fitness check. I do basketball mostly. Need to make sure I’m okay to run around a lot. Want to be fast.
+DOCTOR: A…referee check?
+PATIENT: Yes. For... work. I referee basketball games. They want me to get checked. Before I start the season. Make sure heart is good. And... legs. I run a lot. It’s important. I don't want to fall down.
+DOCTOR: Right. A physical for refereeing… I suppose that falls under preventative care. Though, usually people come to me when something is wrong, not to…anticipate it. Alright. So, you want a general fitness assessment to ensure you’re physically capable of officiating basketball games. Any specific concerns?
+PATIENT: No... not really. Just… want to be sure. I lost my wife... last year. She... had heart problem. So, I worry sometimes. But I feel okay. Mostly. Just... tired sometimes. That’s all.
+DOCTOR: I see. A family history of heart problems. That's… relevant. Tiredness… is that new?
+PATIENT: Uh, yes. A little new. Maybe… six months? Before that, I was... more energy. Now... after games, I feel very tired. And sometimes... even walking up stairs. It's not bad, but... different.
+DOCTOR: Six months. Okay. And are you experiencing any chest pain, shortness of breath, palpitations, or dizziness with this fatigue?
+PATIENT: Chest… pain? No. Shortness of breath… sometimes. When I run really fast. Like, after a sprint. But… normal. I think. Pal... pal-what? And… dizzy? No. Not really. Maybe a little when I stand up fast, but… everyone gets that, right?
+DOCTOR: Palpitations. Like your heart is racing or fluttering. Never mind. You're right, many people experience dizziness when standing quickly. Let’s move on. Any past medical history I should be aware of?
+PATIENT: No... nothing. I never... go to doctor. Always healthy. Until… well, you know. My wife. But I always okay. Just… small cuts sometimes. From work. Refractory… materials. It’s hot. But nothing serious. Never been sick.
+DOCTOR: And past surgical history?
+PATIENT: No. Never had surgery. Never needed. I... I don't like hospitals. They make me sad.
+DOCTOR: Alright. And family history, beyond your wife's heart condition?
+PATIENT: My father... he had high blood pressure. I think. He didn’t... take care of himself. Ate a lot of salty food. And… my mother had diabetes. But she… she lived a long life. She was very old.
+DOCTOR: High blood pressure and diabetes. Noted. Social history?
+PATIENT: Uh... what's that? I... I don't understand.
+DOCTOR: Do you smoke?
+PATIENT: No! No smoke. Never. Bad for you.
+DOCTOR: Drink alcohol?
+PATIENT: Sometimes. A little. Beer. When I watch basketball on TV. Not a lot. Maybe one or two. Sometimes none for weeks. It... doesn’t help me sleep.
+DOCTOR: And any drug use?
+PATIENT: No! Never. What kind of question is that? I just want to make sure I’m okay to referee!
+DOCTOR: Alright. Allergies?
+PATIENT: No. None that I know of. I can eat anything. Except... maybe durian. It smells bad. But that’s not an allergy. It’s just… durian.
+DOCTOR: Medications?
+PATIENT: No medications. I don't take anything. Never needed. I take vitamins, sometimes. Multivitamin. But that’s all. Nothing special.
+DOCTOR: Alright. Well. Let’s do a quick physical exam then. It’s rather… unusual to come in for a fitness check with a vague complaint of tiredness, but we’ll proceed. I'll listen to your heart and lungs, check your blood pressure, and take a look at your general condition. Please lie down on the examination table.
+PATIENT: Okay. Yes. Good. Just want to make sure. Table… is that… over there?
+DOCTOR: Yes, that’s it. Please. And please remove your shirt and shoes. We need to get this over with.
+PATIENT: Okay… okay. This is… cold.
+DOCTOR: Heart rate is… slightly elevated. 88 beats per minute. Lungs are clear bilaterally, no wheezes or crackles auscultated. Blood pressure is 135/85… a little high, but not alarming. Abdomen is soft, non-tender. Reflexes are 2+ and equal bilaterally. Alright. Get dressed. We’ll need some blood work to get a clearer picture. I want a complete blood count, a basic metabolic panel, and a lipid panel. Also, an EKG to rule out any cardiac abnormalities.
+PATIENT: Okay... a lot of tests. EKG? Is that… serious? What will the blood work show? I just want to referee basketball. Not… be sick.
+DOCTOR: An EKG is routine, Mr. Shanor. It's a simple test to check your heart's electrical activity. The blood work will give us information about your overall health - your kidney function, blood sugar levels, cholesterol... things that can affect your energy levels and cardiovascular health. It's not a diagnosis, it’s just information. Look, I understand you're anxious, but we need to be thorough. I'll write up the orders for the lab. The nurse will come in and draw the blood samples. Do you have any questions about where the lab is located?
+PATIENT: No questions. Just... when will I get the results? Can I still referee this weekend? The season starts Saturday. I already promised the league.
+DOCTOR: The results usually take 24-48 hours, Mr. Shanor. I strongly advise against refereeing until we've reviewed them. It’s irresponsible to put your health – and potentially others' – at risk. The nurse will explain the process. Don't push it, Mr. Shanor. We’ll see what the tests say. Now if you'll excuse me, I have other patients waiting.
+PATIENT: Okay. Fine. 24-48 hours. I’ll wait. Thank you, Doctor. .

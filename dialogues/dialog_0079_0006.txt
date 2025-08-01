@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Ms. Weichers. I am Dr. GonzalezPerez. It says here you’re 41 years of age. Now, to what do we owe the pleasure of your visit today?
+PATIENT: Good morning, Doctor. Yes, 41 is correct. Um… I came because I coughed up some blood. It scared me a lot.
+DOCTOR: I see. Coughing up blood, you say?
+PATIENT: Yes. It was… not a lot, but enough to worry me. It happened two days ago, and then again this morning. It's… red, of course. And it was mixed with my… normal cough stuff. I hope that doesn't sound strange to say.
+DOCTOR: No, that is… adequately described. And you say this occurred two days ago, and again this morning?
+PATIENT: Yes, that is right. Two days ago, and then just a little bit when I woke up today. It wasn’t… a huge amount either time, but it was definitely blood. I don't smoke, if that matters.
+DOCTOR: Very well. Do you have any pain associated with the cough?
+PATIENT: Um… not really pain, exactly. More… a soreness in my chest. Like I’ve been coughing a lot, you know? It’s not sharp, just… uncomfortable. And a little bit tired, maybe, after I cough.
+DOCTOR: Soreness with the cough. And fatigue. Have you noticed any fever, chills, or night sweats accompanying this?
+PATIENT: No, no fever or chills that I’ve noticed. And I don’t think I’ve had any night sweats. I… I sleep pretty normally, I think. I haven’t felt sick, just worried about the blood.
+DOCTOR: Alright. And have you experienced any weight loss recently?
+PATIENT: No, I don't think so. My clothes… they fit the same as always. I haven’t been trying to lose weight, and I haven’t noticed anything different. I’ve been eating normally, I think. Maybe a little less when I feel worried, but nothing big.
+DOCTOR: Very well. Now, let's move on to your medical history. Have you been diagnosed with any chronic conditions – asthma, bronchitis, anything of that nature?
+PATIENT: No, nothing like that. I’ve always been pretty healthy, to be honest. I had the usual childhood things, but… I haven’t really been to the doctor much. Just for check-ups. My husband… he had some heart trouble, but that was… a few years ago. He is… he passed away. It was sad.
+DOCTOR: I see. And have you had any prior surgeries?
+PATIENT: No, I haven't had any surgeries. Never needed them, thankfully. I… I don't really like hospitals. Not a good place, for me.
+DOCTOR: Very well. And what about family history?
+PATIENT: Um… that’s a little hard to say. My mother… she had high blood pressure, I think. And my father… he had some kind of cancer, a long time ago. But I’m not sure what kind. It was… a long time ago, and we didn’t talk about it much. I don’t know a lot about their medical histories, if that makes sense.
+DOCTOR: Adequate. Now, are you currently taking any medications?
+PATIENT: No, I'm not taking any medications right now. Just… sometimes a pain reliever for a headache, if I need it. Nothing regularly. I prefer to avoid them, if possible.
+DOCTOR: Alright. And do you have any allergies to medications, foods, or anything else?
+PATIENT: No, I don't have any allergies that I know of. I can eat anything, and I haven’t ever had a reaction to any medicine. I think I'm pretty lucky that way.
+DOCTOR: Very well. Now, Ms. Weichers, I'm going to perform a brief physical examination. I will listen to your lungs and heart, and palpate your chest wall. Please inform me if anything feels particularly uncomfortable.
+PATIENT: Okay, that sounds… alright. I’ll let you know if anything hurts. Do I need to… change clothes?
+DOCTOR: No, that won't be necessary. Just sit comfortably. Take a deep breath… and exhale. Heart sounds are… regular. Any tenderness here?
+PATIENT: No, that doesn't hurt. Just… feels a little bit like pressure, maybe. But not pain. It feels a little strange, but not bad. Is something wrong?
+DOCTOR: There is some mild tenderness upon palpation, but no significant findings at this time. Your lungs are clear to auscultation bilaterally. I’d like to order a chest X-ray and a complete blood count. That will give us a better picture of what might be going on. Does that sound acceptable?
+PATIENT: Yes, that sounds… good. If it will help find out what’s wrong, then yes, please. An X-ray and blood work. Okay. Where do I go for that?
+DOCTOR: The radiology department is just down the hall, second door on the left. They will take the X-ray. Then, the lab is on the first floor, near the entrance. Please bring this form with you. The results will be sent to me. We will review them and discuss a plan of action once I have them. In the meantime, if you experience any significant bleeding, shortness of breath, or chest pain, please go to the nearest emergency room immediately. Do you understand?
+PATIENT: Yes, I understand. X-ray down the hall, blood work on the first floor. And go to the emergency room if anything gets worse. Thank you, Doctor. I appreciate you looking into this. I was very worried. Is it… is it something serious, do you think?
+DOCTOR: It is too early to say definitively, Ms. Weichers. The results of the tests will provide more information. It could be a number of things, most likely a minor respiratory irritation. However, it is always best to rule out more serious possibilities. We will proceed methodically and determine the appropriate course of action once we have the results. Do you have any further questions at this time?
+PATIENT: No, I think that’s all for now. Thank you again, Doctor. I will go get the tests done. I appreciate your time. I hope it’s nothing too serious.
+DOCTOR: Very well. Please do not hesitate to contact the office if you have any concerns. Have a good day.

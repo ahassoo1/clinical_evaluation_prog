@@ -1,0 +1,24 @@
+DOCTOR: Alright, Kandy, right?
+PATIENT: Yes, that’s me. Kandy Yadao. It’s nice to meet you, Doctor… Pehrson, is it? I hope I’m saying that right.
+DOCTOR: Pehrson is fine. Look, I'm a busy man, so let’s just get straight to it. What brings you in today?
+PATIENT: Well, it’s… a bit embarrassing, really. I’ve been having trouble going to the bathroom. It just… takes a long time, and I don’t feel like I empty everything. It’s been going on for a few weeks now, I’d say.
+DOCTOR: Okay, constipation. Common enough. A few weeks, you say?
+PATIENT: No, not constipation exactly. It's not that hard to… well, go. It just… doesn’t want to, and when it finally does, it’s a weak stream. It takes effort, you know? Like I have to push. And it feels like there's still some left in there afterwards. Does that make sense?
+DOCTOR: Right. Not constipation. Weak stream… effort… residual urine. Hmm. And you’re 66, right?
+PATIENT: Yes, 66 this year. July 14th, if you need the exact date. And I’m a woman, in case that matters. I sometimes feel like doctors forget that part. No offense, of course.
+DOCTOR: Right, right. Female. Of course. Look, let’s not get bogged down in details. Have you had any fever, pain, blood in your urine?
+PATIENT: No, no fever. No pain either, thankfully. And no, I haven’t seen any blood. Just… this difficulty. It's just frustrating, you know? I used to be able to go without even thinking about it. It’s starting to worry me a little.
+DOCTOR: Okay, and any changes to your fluid intake?
+PATIENT: Not really. I drink about the same amount of water as always. Maybe a little less in the winter, but it’s August now, so probably normal. I have a glass with breakfast, one with lunch, and sometimes a cup of tea in the afternoon. I don't drink soda, if that matters. Just water and tea, mostly.
+DOCTOR: Alright. And what about medications?
+PATIENT: Oh, well, I take something for my blood pressure, Lisinopril, I think it’s called. And a vitamin D supplement, because the doctor said my levels were low last year. That's about it. Nothing else regularly. Just those two things.
+DOCTOR: Lisinopril… right. And no allergies to medications?
+PATIENT: No, no allergies that I know of. I've taken a lot of different things over the years, and I haven’t had any bad reactions. Nothing I can recall, anyway. I'm pretty sure I'd remember something like that. My mother was allergic to penicillin, but I'm not.
+DOCTOR: Okay. Let's just do a quick exam. Can you hop up on the table for me?
+PATIENT: Yes, of course. Just let me know if I need to do anything special. It’s been a while since I’ve been to the doctor, so I might be a little rusty.
+DOCTOR: Just lie down, and we’ll start with your abdomen. I'm going to palpate, just feel around. Tell me if anything feels painful.
+PATIENT: Okay. I'll let you know if anything hurts. It's just… a little cold on this paper.
+DOCTOR: Hmm. Soft, non-tender. No masses. Bladder feels… full. Okay. Now, I'm going to listen to your abdomen with the stethoscope. Just breathe normally. Normal bowel sounds. Alright. Now, we need a urine sample. I'll have the nurse bring you a cup.
+PATIENT: Okay, a urine sample. Should I just… go in the bathroom? Will the nurse show me where? I haven't done this in a doctor's office in ages, so I’m not sure what the procedure is anymore.
+DOCTOR: Bathroom's down the hall. Standard procedure. Just a clean catch, if you can manage. Nurse will give you instructions. I'll be back to review the results. Don't dilly-dally. I have patients waiting.
+PATIENT: Okay. A clean catch… right. I’ll… I’ll try my best. Thank you, Doctor.

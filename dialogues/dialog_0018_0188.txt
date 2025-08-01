@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Secondi. Welcome to the clinic. My name is Dr. Lorana Stilaire. It's a pleasure to meet you. Now, to begin, could you tell me what brings you in today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um, I came because… my pee is orange. It started a few days ago, maybe four or five days. It’s not hurting or anything, just…orange.
+DOCTOR: I understand. Orange-colored urine for four or five days. And to clarify, you haven’t experienced any pain or discomfort while urinating, is that correct?
+PATIENT: No, no pain. Nothing like that. Just…the color. It looks like…orange juice, but it’s not, you know? I drink water, normal water.
+DOCTOR: Alright, that’s helpful. And has anything changed in your diet recently?
+PATIENT: Hmm… not really. Same food, I think. My wife, she does most of the cooking. I eat what she makes. Maybe a little more oranges last week? But not a lot.
+DOCTOR: Okay, slightly increased orange consumption. And are you taking any vitamins or supplements at all, Mr. Secondi?
+PATIENT: Vitamins… let me think. Yes! I take one multivitamin, every morning with breakfast. It’s… it’s got everything, you know? Like, A, B, C… all the letters. It’s for, um… staying healthy. My wife buys it.
+DOCTOR: Excellent. And do you happen to know the brand or have the bottle with you?
+PATIENT: I don’t remember the brand, sorry. No, I don't have the bottle here. It’s at home, with my wife. It’s… a blue bottle, I think? And it's not too big, like… a normal size for pills.
+DOCTOR: Okay, a blue bottle, normal size. We'll try to look that up later, if needed. Now, let’s move on to a few more general questions. Have you noticed any changes in your bowel movements recently?
+PATIENT: Bowel… you mean, like, poop?
+DOCTOR: Yes, precisely. Any changes in the color, consistency, or frequency of your bowel movements?
+PATIENT: No, nothing different there. Normal. Everything is… regular, you know? Like always. Sorry if that’s… too much information.
+DOCTOR: Not at all, Mr. Secondi. It’s important information. Now, have you experienced any fatigue, nausea, vomiting, or abdominal pain at any point in the last few weeks?
+PATIENT: No, no to all of that. I feel normal, mostly. Just a little tired sometimes, but that’s… work. Long hours. No sick feeling or anything.
+DOCTOR: Alright. And finally, do you have any history of kidney problems, liver problems, or any other significant medical conditions?
+PATIENT: No. Nothing like that. I had the flu when I was a kid, but that was a long time ago. My wife always says I'm too healthy, to be honest. I try to eat good.
+DOCTOR: That’s excellent to hear. Now, Mr. Secondi, to get a clearer picture, I would like to perform a quick physical exam, including checking your hydration status and palpating your abdomen. Would that be alright with you?
+PATIENT: Yes, that’s okay. Whatever you think is best, Doctor. I trust you.
+DOCTOR: Thank you, Mr. Secondi. If you could please lie down on the examination table, that would be perfect. I’m going to listen to your abdomen first, then I'll just feel gently to check for any tenderness. Please let me know if anything feels uncomfortable. Your abdomen is soft, and I don’t feel any masses or tenderness. Your bowel sounds are normal. Now, I'd like to check a urine sample. It will help us determine the cause of the discoloration. I'll give you a cup, and I’ll leave you some privacy. Please collect a mid-stream sample, and then pass it to me through the hatch.
+PATIENT: Okay, a pee sample. I can do that. Where is the hatch? And… what is “mid-stream”?
+DOCTOR: Yes, that’s right. The hatch is just over there. And "mid-stream" simply means letting a small amount of urine flow first, and then collecting the sample from the middle of the stream. This helps ensure we get an accurate result. There are instructions on the lid of the cup as well. Do you have any questions about that?
+PATIENT: Okay, I think I understand. Start, then a little, then get the good part. Is that right?
+DOCTOR: Precisely, Mr. Secondi. That’s exactly right. Take your time, and let me know if you have any difficulties. I’ll be just outside the room if you need anything.
+PATIENT: Okay, thank you, Doctor.
+DOCTOR: Mr. Secondi, are you finished?
+PATIENT: Yes, Doctor! I put it in the hatch.
+DOCTOR: Thank you, Mr. Secondi. I'm going to send this sample to the lab for analysis. The results typically take a few hours, and my nurse will call you with the findings. In the meantime, based on what you’ve described—the orange-colored urine, no pain, normal bowel movements, and no other significant symptoms—the most likely cause is a mild dehydration or a dietary factor, possibly related to the multivitamin. However, we need the lab results to confirm this. To be on the safe side, I recommend increasing your water intake over the next 24 hours. Aim for at least eight glasses of water. Do you have any questions for me at this time?
+PATIENT: Eight glasses… okay, I can do that. More water. And no, I don’t think so. Just… wait for the call. Thank you, Doctor. You were very helpful.
+DOCTOR: You're very welcome, Mr. Secondi. I'm glad I could help. We’ll be in touch as soon as the results are available. Please don't hesitate to call the clinic if you experience any new or worsening symptoms. Have a good day, and try to stay hydrated.
+PATIENT: .

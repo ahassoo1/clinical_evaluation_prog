@@ -1,0 +1,30 @@
+DOCTOR: Alright, Mr. Goodstein. Good to see you. So, what brings you in today?
+PATIENT: Thank you, Doctor Gorga. It is... a bit embarrassing, really. But, I have been having... a lot of gas. More than usual. It started maybe two weeks ago, I think. It is... quite disruptive.
+DOCTOR: Okay, disruptive... right. And it just started about two weeks ago, you said?
+PATIENT: Yes, Doctor. Around then, yes. August first, maybe? I remember because my cousin, Eva, she visited. It was… before she left. It has been… consistent since. Every day.
+DOCTOR: Consistent… okay. And is it associated with anything specific?
+PATIENT: Hmm. That is a good question. I… I don’t know. I eat… well, I eat mostly normal things. Burgers, fries… sometimes a hot dog. Nothing too different than usual, I think. Maybe… maybe a little more cabbage lately? My neighbor, she gave me some from her garden.
+DOCTOR: Cabbage, okay. And how would you describe the gas?
+PATIENT: Oh. Well… it is… loud. And… frequent. It smells… normal, I guess? Like… food. Not… bad. But it happens a lot. Especially after I eat. And… sometimes when I just sit. It is… uncomfortable, Doctor.
+DOCTOR: Okay, loud, frequent, normal smell… happens after eating and sometimes just sitting. Alright. Any abdominal pain associated with it?
+PATIENT: No, Doctor. No pain. Just… the gas. It feels… full, maybe? Like… too much air inside. But no actual hurt. Just… a bit embarrassing, you understand?
+DOCTOR: I understand. No pain, just fullness and… the gas. Any nausea, vomiting, diarrhea, constipation?
+PATIENT: No, Doctor. None of those. Everything… goes normally, if you understand. Regular. Yes, regular. No changes there. Just… the gas. It is… very strange.
+DOCTOR: Alright. And are you taking any medications currently, Mr. Goodstein?
+PATIENT: No, Doctor. I do not take any pills. Just… vitamins. A multivitamin, sometimes. But… that is all. Medicare pays for it, you know. Just the basic one.
+DOCTOR: Okay, just a multivitamin. Any allergies to medications or food?
+PATIENT: No, Doctor. I don’t think so. I eat everything. My mother, she always said I had a strong stomach. No problems with allergies, as far as I know. I have never had a… reaction.
+DOCTOR: Alright. And what about your medical history, Mr. Goodstein?
+PATIENT: Well, Doctor… I had my appendix out when I was very young. Maybe eight years old? Nothing else, really. I go to the doctor for checkups, you know, once a year. They say I am healthy. Blood pressure is a little high, sometimes, but nothing too bad.
+DOCTOR: Okay, appendix removed as a child, slightly elevated blood pressure. And what about your family history?
+PATIENT: Hmm. My mother, she had… problems with her stomach, sometimes. Indigestion, I think. But nothing serious. My father… he was healthy. Very strong. Worked in a factory. No… no heart problems or anything like that. Just… normal. I think.
+DOCTOR: Okay. And finally, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, Doctor! No, no, no. I do not smoke. I do not drink. And I certainly do not do… those things. Never have. I like a nice soda with my burger, that’s all.
+DOCTOR: Alright, Mr. Goodstein. So, no smoking, no alcohol, no drugs, just a multivitamin and soda with your meals. This sounds like it could be a number of things, and often it’s related to diet. It sounds like you're otherwise healthy, but given the recent onset, we should explore a few things. Let’s do a quick abdominal exam. Just going to listen to your belly and feel for any tenderness. Is that alright?
+PATIENT: Yes, Doctor. That is fine. Whatever you think is best. I want to… stop the gas. It is very… disruptive, you understand?
+DOCTOR: Alright. Just relax. Deep breaths. Hmm… no tenderness, no masses. Sounds normal. Bowel sounds are present in all four quadrants. No signs of obstruction or anything concerning. It sounds like it's likely a benign cause. I'm going to recommend trying an over-the-counter medication for gas, like simethicone. And maybe reduce your cabbage intake for a while. Also, try to avoid carbonated beverages for a few days. If it doesn't improve within a week, we can consider some other tests, but I don’t think that's necessary at this time. Does that sound alright?
+PATIENT: Yes, Doctor. That sounds… good. Simethicone… I will try that. And… less cabbage. And no soda. It is… a lot of changes, but I want to feel better. Thank you, Doctor Gorga.
+DOCTOR: Alright, Mr. Goodstein. I'm writing you a little summary with those recommendations. Here you go. If it persists, or if you start experiencing any pain, bloating, nausea, or changes in your bowel habits, please don’t hesitate to call the office. Otherwise, I’ll see you for your regular checkup next year. Do you have any other questions for me today?
+PATIENT: No, Doctor. I think that covers everything. Thank you for… listening. It was embarrassing, but you made me feel… better. And thank you for the paper. I will… try the medicine.
+DOCTOR: You're very welcome, Mr. Goodstein. It’s my job. Just remember, these things happen. Try those recommendations, and hopefully you’ll be feeling back to normal soon. Have a good day.
+PATIENT: Thank you, Doctor Gorga. You too. Good day.

@@ -1,0 +1,20 @@
+DOCTOR: Right. So, Mr. Puder, let’s get this over with. What brings you in today?
+PATIENT: Uh, hi Doctor. My heart... it feels funny sometimes. Like it’s beating too fast, but not always. It’s hard to explain. It started, maybe, a month ago? I think so.
+DOCTOR: A month, you say. "Funny" isn’t a very descriptive medical term, Mr. Puder. Is it painful?
+PATIENT: No, not pain. Just… fast. Like a bird flapping its wings in my chest. And sometimes it feels like it skips a beat. Not all the time, just… when I walk, or when I’m excited, maybe. It stops if I sit down.
+DOCTOR: Alright. So, palpitations. Associated with exertion or, as you say, excitement. And it resolves with rest. Do you smoke?
+PATIENT: No, no smoking. Never. My wife, she would kill me. I drink sometimes, maybe a beer with dinner. Not much.
+DOCTOR: And what about… family history?
+PATIENT: Family… uh. My father, he had problems with his… pressure, I think. High pressure. He needed pills for it. My mother, she was okay. No heart trouble, that I know of. Lots of family back in Yemen, but it’s hard to know things from so far away. They don't always tell you everything.
+DOCTOR: Right. And are you currently taking any medications?
+PATIENT: No, Doctor. Nothing. Just… sometimes I take something for my stomach. When it hurts. But not right now. It's okay. It's just a little thing. Not a heart thing.
+DOCTOR: “Little thing.” Of course. Let’s just quickly listen to your heart. Sit back. And try to relax.
+PATIENT: Okay, okay. I'm trying. It’s hard when I think about my heart, you know?
+DOCTOR: Rate is… elevated. Normal S1 and S2. No murmurs appreciated. Frankly, I suspect it's just anxiety. You’re a young man, relatively slim… …height 171, weight 119. You need to eat more.
+PATIENT: Anxiety? But… I don't feel anxious all the time. It's just my heart. It feels real, Doctor. Like something is wrong with the heart itself, not just in my head. Is there a test? To check it, really check it?
+DOCTOR: Look, Mr. Puder, I’ve been doing this for… well, a while. And frankly, I don’t see any compelling reason to run a battery of tests. But fine. To get you out of my office, I’ll order an EKG. And a basic metabolic panel, just to be thorough. But I suspect you’ll be perfectly fine. It’s probably just…stress. Do you have any allergies?
+PATIENT: Allergies? Uh… no, not really. I get a little itchy sometimes with dust, but that's all. Nothing serious. And… thank you, Doctor. For the test. It makes me feel better knowing we're checking.
+DOCTOR: Right. Well, the nurse will schedule those tests for you. And try to eat something substantial before you leave. And… try to relax. Now, is there anything else you want to discuss, or are we finished?
+PATIENT: No, I think that's it. Just… the tests. And maybe a little less stress, if I can find it. Thank you, Doctor. I appreciate it.
+DOCTOR: Good. That’s all I needed to hear. The nurse will see you out. .
+PATIENT: Okay. .

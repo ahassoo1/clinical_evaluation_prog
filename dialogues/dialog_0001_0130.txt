@@ -1,0 +1,17 @@
+DOCTOR: Alright, Mr. Schwer, good to see you… I guess. Look, I’m a busy man, so let's get straight to it. What brings you in today?
+PATIENT: Well, hello Doctor. Busy is okay, I understand. I... I want to feel better about things, you know? My mother... she had some bad sickness. And my sister too. It makes me worry. I want to make sure I don’t get it. Just... peace of mind, I guess.
+DOCTOR: “Peace of mind.” Right. Okay. So, you're coming in because of family history?
+PATIENT: Yes, family history. That is right. My mother, she had... something with her stomach, I think. Very bad. And my sister, she had something with... her blood? It was a long time ago, I don't remember exactly. They both... passed away. That's why I worry. I am getting older now too.
+DOCTOR: Hmm. Okay. So, stomach issues with your mother, and…blood issues with your sister. Do you recall what kind of blood issues?
+PATIENT: Blood issues... It was... not good blood. Doctor, I am not a doctor, you see. It made her very weak. She had to go to the hospital a lot. They gave her... something to help, but it didn't work. I was just a young man then. I didn't ask many questions. Is that okay? I don't know much about this.
+DOCTOR: Look, it's fine, it’s just… details matter. Okay, so vague “not good blood” issues, hospital visits. Alright. And you’re here because you're concerned about potentially having the same thing?
+PATIENT: Yes, that is right. Maybe the same thing. Or something else. I feel okay now, mostly. But… I get tired sometimes. And my stomach doesn't always feel good. Not bad bad, just… off. I worry it could be something like my mother had. I want to know if I need to be worried. Is there a test for this?
+DOCTOR: Tests cost money, Mr. Schwer. Alright, fatigue, occasional stomach discomfort. Any nausea, vomiting, diarrhea?
+PATIENT: No, no vomiting. Not really diarrhea, either. Sometimes…a little loose, but not bad. No, not like…sick loose. Just… sometimes not firm, you know? And no… I don’t think I get… what is the word? Sick to my stomach. Just tired. And the stomach feels… full sometimes, even when I don’t eat much. Is that…normal? I eat okay, I think. Mostly rice and fish.
+DOCTOR: Rice and fish. Alright. Look, being older, some things are just going to…happen. Okay?
+PATIENT: But… my mother and sister. They both… passed away. Is it just because I am old? I want to be sure. I don't want to just… wait for something bad to happen. Maybe a little test? Just to be safe? I have Medicare. Will that help?
+DOCTOR: Medicare covers a lot, but it doesn't cover everything. Look, let’s just do a basic blood count. It's not a magic bullet, but it'll rule out some of the more obvious things. We'll get that ordered, and you can come back in a week to discuss the results. Does that sound…acceptable?
+PATIENT: Yes, that sounds…good. A basic blood count. Okay. One week. And then you will tell me what it means? Will it tell me if I have… the bad sickness? The one my mother and sister had? I just want to know. Thank you, Doctor.
+DOCTOR: It might give us some clues. Don't get ahead of yourself. The nurse will draw the blood now. And try not to worry. It's probably nothing. Next patient!
+PATIENT: Okay, okay. Thank you, Doctor. I will… wait for the nurse. Thank you. .
+DOCTOR: .

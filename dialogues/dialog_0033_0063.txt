@@ -1,0 +1,22 @@
+DOCTOR: Right. Ms. Meigs, is it?
+PATIENT: Yes, that’s me. Larin Meigs. It’s nice to meet you, Doctor… Dech-ene? Sorry, I’m not good with names.
+DOCTOR: Dech-ene. Dr. Dech-ene is fine. And you can skip the pleasantries, if you don’t mind. I have a rather full schedule. So, tell me, what brings you in today?
+PATIENT: Okay, Dr. Dech-ene. Well, my back… it’s been really bad. Hurts a lot. It started a few weeks ago, just a little ache, but now… now it’s hard to even stand up straight. And I already… you know… I have the cancer. So I got worried it was something more with that.
+DOCTOR: Cancer, right. Yes, I see that in your chart. Which cancer, specifically?
+PATIENT: Um… it’s in my… my lung. They found it last year. I’ve been getting treatments, but… it hasn’t gone away completely. They said it was… small cell? I think that’s what the doctor said. It’s hard to remember everything. It's been a lot.
+DOCTOR: Small cell. Yes, well. Back pain in a cancer patient… it’s rarely just back pain, is it?
+PATIENT: No, that’s what I thought. That’s why I came. It’s not just a normal ache. It feels… different. Like it’s going down my leg now, too. And it hurts when I cough. Everything just feels… worse.
+DOCTOR: Right. And how long ago did this pain start going down your leg?
+PATIENT: About… maybe three days? It started kind of slow, just a little tingle. Now it's like… a sharp pain. It’s mostly on my left side. And it’s worse when I try to walk. I used to be able to walk to the store, but now… I need help.
+DOCTOR: Alright. Let’s not exaggerate. Walking to the store… is that a significant distance?
+PATIENT: Well, it's… maybe five blocks? It doesn’t sound far, but… hills. Lots of hills. And I don’t move as fast as I used to, even before the pain. My daughter usually helps with the groceries now. She worries about me.
+DOCTOR: Right. Let's have a look. I'm going to need to do a quick physical exam. Please lie down on the examination table. I’ll need you to point to where it hurts the most. Don't bother with a detailed explanation, just show me. And try to be precise.
+PATIENT: Okay. It's… right here. And it feels like it goes all the way down my leg, like… right here. And sometimes, it feels like it tingles in my foot. It’s hard to explain. It’s not just one spot. It’s… everywhere.
+DOCTOR: Hmm. Tenderness is… present. But not remarkable. Can you lift your left leg straight up while I apply resistance?
+PATIENT: Like… like this? Oh… that hurts. It really hurts when I try to do that. It feels like it’s pulling something. Is that… bad?
+DOCTOR: A positive straight leg raise… potentially indicative of nerve impingement. We’ll need imaging. An MRI of the lumbar spine. I’ll write the order. And we’ll need to rule out metastatic disease, naturally. I’ll also order a bone scan. The radiology department is backed up, so it may take a few days to get an appointment.
+PATIENT: Okay… MRI and a bone scan. What does that mean? Is it… is it the cancer spreading? I just want to know what’s going on. I don't like waiting. Is it going to hurt to get those tests? And… will my insurance cover it? I have the private one, but… you know how it is.
+DOCTOR: Look, Ms. Meigs, I understand you’re anxious. But jumping to conclusions isn’t helpful. The scans are to determine the cause of your pain. It could be a number of things. As for your insurance, that is not my department. The billing office will handle that. I’ll order pain medication in the meantime. A low dose of oxycodone. Enough to take the edge off. Do not exceed the prescribed dosage. And I expect you to follow up promptly once the results are available. Do you understand?
+PATIENT: Yes, Doctor. I understand. Pain medication… and the scans. I’ll… I’ll call to make the appointments. And I’ll follow up. Thank you. I… I just want to feel better. It’s hard… being in pain all the time. And I will be careful with the pills. I promise.
+DOCTOR: Good. That’s all. The nurse will provide you with the prescription and instructions. I have other patients waiting. Next. .
+PATIENT: .

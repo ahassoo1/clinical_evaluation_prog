@@ -1,0 +1,29 @@
+DOCTOR: Right. Mr. Pipolo, is it?
+PATIENT: Yeah, that’s me. Andrew Pipolo. Just… Andrew is fine. You got much time? I got things to do.
+DOCTOR: Time is… a limited resource for everyone, Mr. Pipolo. But we need to cover some basics. So, what brings you in today?
+PATIENT: My eyes. They’re just… dry. Real dry. Feels like sand in ‘em sometimes. Been happenin’ a while now. Not sure why. Just… bothersome.
+DOCTOR: “A while now…” Can you be a little more specific?
+PATIENT: Hmm. Gosh. Let me think… maybe… six months? More or less. Hard to say exactly. Things kinda blur together when you get to be my age, you know? It’s not like it came on suddenly. Just… got worse and worse.
+DOCTOR: Six months. And is it both eyes, or just one?
+PATIENT: Both. Pretty much the same in both. Not one worse than the other, not that I’ve noticed. They just… itch and feel scratchy. Especially when it’s windy, or if I’m out in the sun.
+DOCTOR: And have you tried anything to alleviate it?
+PATIENT: Alleviate? You mean… like, make it better? No, not really. I used to just blink a lot. Didn’t seem to help much. I don’t know… what do people do for dry eyes? I ain’t one for fancy medicines, if that makes sense.
+DOCTOR: Right. Well, there are several possibilities. We should rule out anything serious first. Have you noticed any changes in your vision?
+PATIENT: Vision? No, not really. Things look… blurry sometimes, but that's just my age, I figure. Always been a little nearsighted. Haven't needed new glasses in… well, a long time. Don’t know when, exactly.
+DOCTOR: And any pain?
+PATIENT: Pain? No, not pain exactly. More like… irritation. Like somethin’s stuck in there. Not sharp, just… uncomfortable. Mostly just feels dry, like I said. Real dry.
+DOCTOR: Alright. Let’s have a quick look. Just open wide, and look straight ahead. We need to check the surface of your eyes.
+PATIENT: Okay, okay. Just get it over with, would ya? I got halibut to smoke.
+DOCTOR: Hmm. Conjunctiva appears a little dry, and some mild punctate staining bilaterally. Nothing alarming, but consistent with dry eye syndrome. Have you had any other medical conditions diagnosed?
+PATIENT: Medical… conditions? Let me think… I had a bad cold last winter. Real bad. And my knees ache somethin’ fierce, especially when it rains. Other than that… nope. Not that I recall. I try to stay healthy.
+DOCTOR: Any medications you're currently taking, even over-the-counter ones?
+PATIENT: Nope. Don’t take nothin’. Never been much for pills. Tried some ibuprofen once for my knees, but didn’t seem to help much, so I stopped. I mostly just tough it out.
+DOCTOR: Alright. And family history?
+PATIENT: Family history? Gosh. My mama… she had bad eyesight too, I think. Wore glasses all her life. And my grandpa… he lost his sight when he got old. Don’t know what caused it. That was a long time ago.
+DOCTOR: Right. And do you smoke, drink alcohol, or use any recreational substances?
+PATIENT: Smoke? Sometimes. Just a pipe, now and then. Helps me relax. Drink? A beer with dinner, maybe. Nothing fancy. Recreational… what now? No, nothin' like that. I'm an old man, not a… whatever you’re thinkin’.
+DOCTOR: Alright. Well, it sounds like you likely have dry eye syndrome, possibly exacerbated by environmental factors and, potentially, your smoking. We can try some artificial tears. Over-the-counter. Several brands available. Use them as needed.
+PATIENT: Artificial… tears? Like, eye drops? Okay. I guess I can try that. Where do I get ‘em? And how often should I use ‘em? I don’t want to be puttin’ stuff in my eyes all day.
+DOCTOR: Any pharmacy will have them. The pamphlet has instructions, but start with a few times a day, and adjust as needed. If it doesn't improve after a week, or if it gets worse, come back and we'll consider other options. I'll send a note to the pharmacy. Do you have any further questions?
+PATIENT: No, I guess not. Just… eye drops. Okay. Thanks, Doc. I gotta get goin’ now. That halibut ain’t gonna smoke itself.
+DOCTOR: Alright. Very well. Here’s the information for the pharmacy. If anything changes, don't hesitate to call. Have a good day. .

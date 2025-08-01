@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Kingan. Welcome to the clinic. I'm Dr. Iuzzolino. It’s good to meet you. Now, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just… a check-up. For a team tryout. Gotta make sure I’m still good to go, you know? Don’t want any surprises.
+DOCTOR: A team tryout, excellent! Always good to be proactive. Just a general check-up then, to ensure you’re fit for purpose. Hmm… let me pull up your chart here… I see you’re 62 years old, and your height is 183 centimeters, weight 129 pounds. Is that information still accurate?
+PATIENT: Yeah, that’s all right. Pretty much spot on, actually. Haven't changed much in the last… well, a while. Let's just get this done, if you don’t mind. I got practice later.
+DOCTOR: Certainly, Mr. Kingan. No problem at all. We’ll try to be as efficient as possible. To get started, could you tell me a little bit about your overall health?
+PATIENT: Overall health… hmm. I… mostly okay, I guess. I try to stay active. You know, keep moving. Not much trouble, really. No big problems that I can think of. Just… getting older, I suppose. That's the main thing.
+DOCTOR: “Getting older,” yes, that affects us all. And staying active is wonderful. Have you noticed any specific changes lately?
+PATIENT: Specific changes… Well, my knees sometimes ache a bit. Especially after… a long run. And I get tired quicker than I used to, naturally. Is that what you mean? Nothing serious, just… old age stuff.
+DOCTOR: Knee aches and fatigue… yes, that’s helpful. And when did you first start noticing these changes?
+PATIENT: Oh, jeez… that's a hard one. The knees… maybe six months ago? Started kinda gradual, you know? The tiredness… longer than that, probably. A year or so. Honestly, Doctor, I don't keep track of these things. I just push through it.
+DOCTOR: I understand. Pushing through is admirable, but it's good you're letting me know now. Do either the knee pain or the fatigue interfere with your daily activities other than practice?
+PATIENT: Hmm… Well, sometimes getting up from the couch is a bit harder. And… carrying groceries. I used to be able to haul a bunch, now I gotta take two trips. Small stuff, really. Doesn’t stop me from doing things, just… more effort. Is that what you wanted to know?
+DOCTOR: Yes, that's very helpful, Mr. Kingan. It sounds like it’s gradually increasing in intensity. Now, let's talk a little bit about your past medical history. Have you ever been diagnosed with any medical conditions, like high blood pressure, diabetes, or heart problems?
+PATIENT: Nope. Never. I’ve been pretty lucky, actually. I’ve had a few colds, a broken arm when I was a kid… but nothing serious. Doctors haven't ever told me anything was wrong. Can we hurry this up? I really need to get going.
+DOCTOR: Certainly, Mr. Kingan. No major diagnoses, good to know. And what about surgeries?
+PATIENT: Nope. Never had surgery either. Avoided all that. Look, is this stuff important for the tryout? I just need a thumbs-up, right? Don’t want to waste any time.
+DOCTOR: It is important, Mr. Kingan, to make sure you’re fit to participate safely. Knowing your medical background helps me determine that. Just a few more questions, then we can do a quick physical exam. Have any family members been diagnosed with serious medical conditions, like heart disease, cancer, or diabetes?
+PATIENT: Family… hmm. My mother had… something with her heart, I think. Years ago. She passed away when I was young. And my uncle… he had cancer. Lung cancer. But that was a long time ago. Honestly, Doctor, I don't really know the details. We weren’t a very close family. Is this all?
+DOCTOR: I understand. That gives me some information to work with. Now, let’s quickly go over any medications you are currently taking, or have taken regularly in the past. This includes prescription drugs, over-the-counter medications, vitamins, and supplements.
+PATIENT: Nothing. Absolutely nothing. I don't take pills. Never have. I try to stay healthy naturally. Maybe some vitamin C when I feel a cold coming on, but that's it. Can we get to the physical exam now? I’m losing daylight.
+DOCTOR: Alright, Mr. Kingan. No medications. Good. And do you have any allergies to anything – medications, foods, environmental factors like pollen or dust?
+PATIENT: Nope. Not that I know of. I can eat anything, breathe anything. I've never had a reaction to anything. Look, are we almost done? This is taking forever. I’m pretty sure I’m fine. Just need you to sign something, right? A form?
+DOCTOR: No known allergies. Alright, Mr. Kingan. One last thing before the physical exam. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: What kind of question is that? No! I don't smoke, drink, or… do those things. I’m an athlete! I take care of myself. Honestly, Doctor, this is getting ridiculous. Can we please just get on with it? I’m wasting my time here. .
+DOCTOR: Very well, Mr. Kingan. Alright, let's do a quick physical exam then. Just going to listen to your heart and lungs, check your blood pressure, and take a look at your knees. It shouldn’t take long. If you could just sit up straight and relax…

@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Pipolo. I’m Dr. Nestingen. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just… my eyes. They feel real dry. Been that way a while now, I guess. Not fun.
+DOCTOR: “A while now…” Can you be a little more specific?
+PATIENT: Hmm… let me think. Maybe… six months? Hard to say exactly. Time kinda… slips away when you get old, you know? It’s not like a bad pain, just… gritty. Like sand in ‘em.
+DOCTOR: Six months. Alright. And is this dryness constant, or does it come and go?
+PATIENT: Comes and goes, I think. Worse when it’s windy, for sure. We get a lot of wind here. And… when I’m workin’. Cement dust, you know. Gets everywhere.
+DOCTOR: Windy conditions and cement dust exposure. Do you wear any eye protection when you're working with cement?
+PATIENT: Eye protection? Sometimes. I got some goggles… somewhere. Don’t always remember to put ‘em on, I’ll be honest. Old habits, you know?
+DOCTOR: Right. And besides the gritty feeling, are you experiencing any blurred vision, redness, discharge, or sensitivity to light?
+PATIENT: Blurry vision… not really. Redness, sometimes. Not all the time, but yeah, they get red. And… the light. Bright sun, it kinda… bothers me now. Didn't used to.
+DOCTOR: Okay. Redness and increased sensitivity to light. Have you noticed any pain in your eyes?
+PATIENT: No, no pain. Just… uncomfortable. Like somethin’s there, rubbin’ on ‘em. Not sharp or anything. Just… annoying.
+DOCTOR: Alright. And are you currently using any eye drops or any other treatments for this dryness?
+PATIENT: Nope. Never used nothin’. Always figured it would just… go away. You know, tough it out.
+DOCTOR: I see. And do you have any other medical conditions, like diabetes or arthritis?
+PATIENT: No, nothin’ like that. Just… old. Everything gets a little creaky when you get old.
+DOCTOR: Alright. And are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: Nope. I don't take nothin'. I try to stay away from pills if I can. Never been a fan.
+DOCTOR: Okay. Well, Mr. Pipolo, it sounds like you've been dealing with dry eyes for quite some time now. Let's take a quick look at your eyes, if you don't mind. Just to get a better idea of what’s going on.
+PATIENT: Alright. Whatever you think is best, Doctor. I just want it to stop feelin' like sandpaper.
+DOCTOR: Please have a seat here, and I'll take a look. Okay, look straight ahead for me… yes… hmm… I’m seeing some mild conjunctival injection – that’s the redness you mentioned. Your tear film appears a little… sparse. Not alarming, but it’s consistent with dry eye. I also see a bit of corneal haze. This is likely contributing to the gritty sensation.
+PATIENT: Corneal… what now? Sounds serious. Is it somethin' bad?
+DOCTOR: “Corneal haze” simply means there's some slight clouding on the clear front surface of your eye. It's not necessarily “bad,” but it can contribute to discomfort and blurred vision if left untreated. In your case, it appears to be mild, likely from the chronic dryness and cement dust exposure. It’s not an emergency, but we need to address the dryness to prevent it from worsening.
+PATIENT: So… dust is makin’ it worse? I figured as much. What can I do about it? Besides, you know, stop workin’. Can’t exactly do that.
+DOCTOR: Cement dust is certainly a contributing factor, Mr. Pipolo. Ideally, you'd minimize exposure, but I understand that’s not always practical. We’ll start with some artificial tears—over-the-counter lubricating eye drops. Use them liberally, several times a day. And—this is important—you need to wear proper eye protection when you're working. Goggles, safety glasses… whatever keeps the dust out of your eyes. We can discuss some more aggressive options if the drops and goggles aren’t sufficient, but let's start with the basics.
+PATIENT: Alright. Eye drops and goggles. Sounds… doable. Where can I get these drops? And what kind should I look for? I don’t want somethin' that'll sting.
+DOCTOR: Any preservative-free artificial tears will do. Preservatives can sometimes cause irritation, especially with frequent use. This slip has a few brands I recommend; you can find them at most pharmacies. As for stinging, preservative-free drops are generally well-tolerated. Start with those, and if you experience any irritation, let me know. We may need to try a different formulation. I’d also like to see you back in a month to assess your progress. Is that agreeable?
+PATIENT: A month. Yeah, that’s fine. I can do that. Preservative-free… got it. Thanks, Doctor. I appreciate it. Hopefully, this’ll do the trick. I’m tired of feelin’ like I got sand in my eyes.
+DOCTOR: Very well. I’ve documented our plan. Remember, consistent use of the eye drops and proper eye protection are crucial. Here’s a work note excusing you from heavy dust exposure, if needed. I’ll see you back in a month. If the symptoms worsen significantly before then, don’t hesitate to call the office. Is there anything else I can assist you with today, Mr. Pipolo?
+PATIENT: Nope. That’s all, Doctor. Thanks again. I think I can manage from here.
+DOCTOR: Good. Have a good day, Mr. Pipolo.
+PATIENT: .

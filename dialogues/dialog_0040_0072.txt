@@ -1,0 +1,34 @@
+DOCTOR: Right, Ms. Heidenthal, yes. Well, let's get right to it, shall we?
+PATIENT: Yeah, okay. It's just...things haven't been right, you know? I keep forgetting little things. Not like, big important things usually, but...it's worrying me.
+DOCTOR: Hmm. Forgetting things, you say?
+PATIENT: Yeah. Like…yesterday I made a grocery list, and I went to the store and completely forgot what was on it. And I had to go back three times to get everything. It's not usually like me to be so scattered.
+DOCTOR: Right. And how long has this been going on?
+PATIENT: Oh, gosh…it's hard to say exactly. Maybe…six months? It started slowly, I think. Just misplacing things, then it got a bit worse. It’s definitely more noticeable lately, that’s for sure.
+DOCTOR: Six months… alright. And aside from the forgetfulness, are you experiencing anything else?
+PATIENT: Hmm…not really. I mean, I've been a little more tired than usual, but I figured that was just from work. Being a dentist is…tiring, you know? I haven't noticed anything else…not that I can think of, anyway. Do you need me to think of specific things? I'm not really sure what would be connected.
+DOCTOR: Well, tiredness is vague. Any changes in your appetite?
+PATIENT: No, not really. I eat pretty normally, I think. Maybe I haven't been as hungry as usual, but honestly, sometimes I just forget to eat because I get busy. Does that make sense? It's not like I've lost my appetite or anything.
+DOCTOR: Alright. And any issues with your sleep?
+PATIENT: Ugh, yes actually. I wake up a lot during the night. Not every night, but…more than I used to. I don't usually have trouble falling asleep, but I'll wake up and then it's hard to get back to sleep. I've just been putting it down to stress. It’s hard to switch off, you know?
+DOCTOR: Stress, yes. Very common. And are you taking anything for this… stress, or the sleep issues?
+PATIENT: No, I haven’t taken anything. I really try to avoid medication if I can. I’ve tried a few things, like chamomile tea and stuff, but they don't really help much. I figured I could just…push through it. But now this memory stuff is happening, and it’s a bit worrying.
+DOCTOR: Alright. Any family history of memory problems or… anything neurological?
+PATIENT: Oh, that's a good question. My grandmother, on my mother’s side, she had… I think it was Alzheimer's? Or something similar. It was a long time ago, and I wasn’t very close to her, so I don't know a lot of details. But my mother always said she had problems with her memory towards the end. Does that matter?
+DOCTOR: It can matter. We need to rule things out, of course. Alright, Ms. Heidenthal, I'm going to do a quick physical exam, just to get a baseline. Then we’ll talk about some possible tests. It’s likely nothing, but best to be sure. Can you follow me?
+PATIENT: Okay, yeah, sure. That sounds… good. I just want to figure out what’s going on, you know? Lead the way.
+DOCTOR: Alright. If you'll just have a seat here. First, I'm going to check your reflexes.
+PATIENT: Okay. <climbing onto the examination table> Reflexes, right. Sounds good. I haven’t had a full checkup in ages, so this is… nice, actually. A little nerve-wracking, but nice.
+DOCTOR: Alright. And now the other side… Normal reflexes. Blood pressure is a little elevated, but not concerning. Let's listen to your heart and lungs. Breathe deeply, please. Lungs clear, heart rate normal. Now, I'd like you to follow my finger with your eyes… don't move your head.
+PATIENT: Okay, following the pen… <tracks the pen with eyes, trying to keep head still> Is that… okay? It feels a little strange, trying not to move my head. <blinks> I hope I'm doing it right.
+DOCTOR: Yes, that's fine. Just as expected. Now, I want you to repeat after me... "No ifs, ands, or buts."
+PATIENT: “No ifs, ands, or buts.” <repeats clearly, though slightly hesitant> Is that alright? I didn’t… stumble or anything, did I?
+DOCTOR: No, perfectly clear. And finally, a brief cognitive assessment. Just a few simple questions. It's standard procedure, Ms. Heidenthal. What is today's date?
+PATIENT: Um…today is August 2nd. 2025, right? It’s a little difficult to keep track sometimes… especially with work. I just… hope I get it right. <frowns slightly, concentrating>
+DOCTOR: Alright. And can you tell me what city we are in?
+PATIENT: Oh, that's… easy. It’s… Suburbia. I think. Yes, definitely Suburbia. I live here, work here…I should know that. <laughs nervously> It’s just been a busy week.
+DOCTOR: Alright. Based on this brief exam and what you've told me, it's difficult to say definitively, but there are a few things we need to investigate further. It could be stress-related, as you suspect, or it could be something else. We’re going to order some blood work to rule out any deficiencies, and I’m going to refer you to a neurologist for a more thorough cognitive assessment. They have specialized tests to evaluate memory and thinking skills. Does that sound agreeable?
+PATIENT: Yes, that sounds… good. Actually, very good. I just want to know what’s going on. Blood work and a specialist…that makes sense. Will the neurologist… will they think I'm crazy or something? <fidgets with hands> I’m probably just being silly, but…
+DOCTOR: No, Ms. Heidenthal, that’s a completely unreasonable fear. Neurologists deal with these concerns all the time. It’s their job to assess and diagnose. The sooner we get this checked out, the better. I'll get the referral paperwork started, and the lab order for the blood work. It's likely nothing serious, but we need to rule things out. I'll also send you some information about managing stress in the meantime. Any other questions?
+PATIENT: No, I don't think so. That all sounds… very thorough. Thank you, Dr. Osga. I really appreciate you taking the time. And…for not thinking I’m crazy. <manages a small smile> I guess I’ll just wait for the paperwork then. How long does it usually take to get an appointment with the neurologist?
+DOCTOR: It varies. Likely a few weeks. I'll flag the referral as urgent, but they’re quite busy. My nurse will be in shortly to give you the paperwork and schedule the blood work. Do you have any medication allergies?
+PATIENT: No, no allergies. Just… a dislike of needles, if that counts. <grimaces slightly> But I’ll survive. Thank you again, Dr. Osga. I think that’s all for now. I’ll just… wait for the nurse then. <shifts uncomfortably on the examination table>

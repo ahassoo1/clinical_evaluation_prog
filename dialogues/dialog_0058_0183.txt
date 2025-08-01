@@ -1,0 +1,33 @@
+DOCTOR: Alright, Mr. Grumman, have a seat. So, what brings you in today?
+PATIENT: Tired. Just… very tired. All the time. It’s… not good for work, you know? I make things with my hands. Need hands to work. And liver… doctor told me about liver a long time ago. Still tired.
+DOCTOR: Okay. Tiredness… and a history of liver issues. Right. Let’s unpack that a bit. “A long time ago” is… how long exactly?
+PATIENT: Ten years, maybe? Eleven? Something like that. Doctor… different doctor, in the city. He said… something about too much… I don’t remember. It was a long time ago. He gave me pills. Stopped taking them after a while. Didn’t feel like they did much.
+DOCTOR: Right. And you haven't seen a doctor about this tiredness or your liver specifically since then?
+PATIENT: No. No doctors. Waste of time, mostly. They ask questions. Tell you to eat better. I always eat better. It doesn’t… fix the tired. Just tired. That’s all.
+DOCTOR: Okay. Well, even if you've tried things on your own, it’s still important to try and figure out why you’re feeling this way. Let’s go through some questions, if you don’t mind. It will help me determine what, if anything, needs to be investigated further. First, can you describe this tiredness?
+PATIENT: Like… heavy. Like carrying rocks. All day. Even when I sleep. Doesn’t help. And… things blurry sometimes. Not my eyes, exactly. Just… can’t think straight. Like slow. Very slow. Makes work hard. Very hard.
+DOCTOR: “Blurry,” you say. And it’s not your vision?
+PATIENT: No, not eyes. In my head. Like… fog. Hard to explain. You know, when you try to lift something very heavy and your brain… goes slow. Like that. All the time now. Not just when lifting. It’s… annoying. And scary. Makes me worry about work.
+DOCTOR: Right. So, mental fogginess… and persistent tiredness. Okay. Have you noticed any changes in your appetite?
+PATIENT: Appetite? Same. Always eat. Eat rice, eat vegetables, sometimes meat. Wife cooks good food. Never not eat. Doesn't make tired go away though. Good food, but still tired. That's the problem.
+DOCTOR: Alright. And what about your bowel movements?
+PATIENT: Bowel… what? You mean… going to the bathroom? Normal. Sometimes hard, sometimes soft. Like everybody. Why you ask about… that? This not helping the tired.
+DOCTOR: It’s important, Mr. Grumman. Changes in bowel habits can indicate a number of things. Just answer the question. Have you noticed any blood in your stool?
+PATIENT: Blood? No. Never blood. I would… see blood. I am not… foolish. I know what blood looks like. This is… strange questions. Still tired. That’s the problem.
+DOCTOR: Alright, alright. Let’s move on then. Do you drink alcohol, Mr. Grumman?
+PATIENT: Sometimes. A little beer. With dinner. Maybe two. Not every night. Wife doesn’t like it, but… a little beer is okay. Not a lot. Not like I’m… a drunkard. Just a little beer. Helps me relax. Doesn't make the tired worse. I don't think.
+DOCTOR: “A little” is subjective. How much is a little?
+PATIENT: Two bottles. Small bottles. Like… twelve ounces each. Sometimes three if… a hard day. But not often. And not every day. Maybe three times a week? Wife says too much. But she always says too much.
+DOCTOR: Okay. I think it’s time we do a quick physical exam, Mr. Grumman. I need to check your abdomen, listen to your heart and lungs, and just get a general sense of things. Can you lie down on the examination table, please?
+PATIENT: Lie down? Now? What for? You already asked lots of questions. And I told you I'm tired. Lying down won't fix the tired. I don’t see why I need to lie down.
+DOCTOR: Mr. Grumman, it is a standard part of a medical evaluation. It allows me to assess your condition properly. I understand you’re tired, but that doesn’t mean we can skip essential steps. Please, lie down on the table. It will only take a few minutes. I need to see what’s going on, not just hear about it.
+PATIENT: Fine. But if it takes long, I am complaining. And if it doesn’t fix the tired… This is a waste of time.
+DOCTOR: Alright. Now, just relax. I’m going to press here and here… tell me if you feel any pain. First quadrant… any discomfort?
+PATIENT: A little. There. Sort of… achey. Always achey, really. Thought it was just… old age. Don't press so hard. It makes the ache worse.
+DOCTOR: And how about here?
+PATIENT: That… is worse. There. Definitely worse. It feels… full. Like something is… heavy. Not painful, exactly. Just… heavy. And uncomfortable. Stop. Please. That doesn't feel good.
+DOCTOR: Alright, alright. I've noted that. Lungs sound clear. Heart rate is… normal. Given your history, and what I’m feeling during the exam… I think we need some blood work. Liver function tests, a complete blood count… just to get a baseline. And potentially an ultrasound of your abdomen.
+PATIENT: Ultrasound? More tests? This is what I thought. More time. More questions. More poking and prodding. And it still won't fix the tired. Fine. Do the tests. But if they don't find anything… I am coming to a different doctor. A doctor who understands that being tired is… a problem. Just… tell me when I can go home.
+DOCTOR: The lab is just down the hall, nurse will draw blood. I'll need you to schedule an ultrasound appointment with the radiology department. The order will be sent electronically. Once the results are back, we'll discuss them and determine the next steps. It’s unlikely I can give you a definitive answer today, Mr. Grumman. These are the instructions for the blood work and the radiology department contact information. Do you have any other questions?
+PATIENT: No. Just… when can I go home? I'm very tired. And I have things to do. .
+DOCTOR: You’re free to go now, Mr. Grumman. Please follow up when the results are available. Have a good day. Some people… .

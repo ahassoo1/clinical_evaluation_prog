@@ -1,0 +1,29 @@
+DOCTOR: Alright, Mr. Fratoni, 26 years old. Let's get straight to it, shall we?
+PATIENT: Yeah, sure. Straight to it sounds good. It’s just… getting up. It’s been a bit weird, honestly.
+DOCTOR: "A bit weird?
+PATIENT: Yeah, like… not painful, not really hard, just… stuck. Like I gotta really think about doing it, you know? And sometimes it takes a couple tries. It started a few weeks back, I guess. After I finished a job up in the Permian.
+DOCTOR: The Permian… right. Well, "a few weeks" isn’t terribly specific, is it?
+PATIENT: No, it ain't. I keep pretty good track of things usually, but jobs kinda blur together after a while, you know? Let me think… probably around July 10th, give or take a few days. That was the last job before it started happening. I remember 'cause the heat was brutal that week.
+DOCTOR: Brutal heat… and this is affecting… getting up. Look, are we talking about getting out of bed, or…?
+PATIENT: No, no, not bed. Any chair, really. Office chairs, the ones on the rig, even just a regular kitchen chair. It's the same. Like my legs just… don’t wanna go right away. Gotta kinda focus on it. Not a cramp, not a weakness, just… hesitant.
+DOCTOR: Hesitant… right. So, no pain, no weakness, just… a mental block when attempting to stand from a seated position?
+PATIENT: Not a block exactly. More like... my brain and legs aren’t communicating properly when I first go to stand. Like there's a little delay. It doesn’t happen every time, but enough that it's starting to worry me. I gotta concentrate on lifting my legs. It's kinda embarrassing, honestly.
+DOCTOR: Alright. And has this…hesitancy…been worsening progressively since July 10th?
+PATIENT: Yeah, I think so. It started as just a little…odd feeling. Now, it’s happening more often. And it takes me longer to get going. Like, I’ll sit down for a minute, and then kinda dread having to stand up. It's not bad, just... annoying. And I’m worried it’ll get worse, especially if I get another job. The rigs don’t exactly have comfy chairs.
+DOCTOR: You said you were working “on the rig.” What exactly does that entail?
+PATIENT: Mostly just moving stuff around, tightening bolts, cleaning up. I'm a roustabout, so whatever needs doing. Lots of walking, lots of bending, lots of…being outside. It's physical work, but nothing crazy heavy. I ain't lifting engine blocks or anything. Usually, I'm good as a horse after a day of it, but this is different.
+DOCTOR: Walking, bending… well, that narrows it down…slightly. Any recent injuries?
+PATIENT: Nope. Nothing that I remember. No falls, no twists, nothing. I’m pretty careful. Gotta be, when you’re working around all that machinery. I mean, I get bumps and bruises like anyone else, but nothing serious enough to… I dunno, mess with my legs.
+DOCTOR: Alright. And your medical history?
+PATIENT: Not much to tell. Usual childhood stuff, maybe. Chickenpox, a broken arm once when I was a kid. But nothing serious, nothing chronic. I haven’t really been sick in years. And I definitely haven’t seen a doctor since… well, since my wife… It’s been a while.
+DOCTOR: Any family history of neurological issues?
+PATIENT: Neurological… issues? Hmm. My grandma on my mom's side… she got kinda shaky towards the end, I think. Like, tremors. But she was old, you know? And I don’t know if it was… brain stuff or just old age. Nobody really talked about it much. My dad was healthy as an ox 'til the day he died. I honestly don’t know much about family medical stuff.
+DOCTOR: Alright. Let's do a quick physical exam. Can you stand and walk for me?
+PATIENT: Yeah, sure. No problem. Just… don’t be surprised if it takes a second. There we go. How's that look? It feels… smoother now that I'm already moving.
+DOCTOR: Gait appears normal once initiated, but there's a slight hesitancy at the start. No visible tremors or weakness. Reflexes 2+ bilaterally. Strength 5/5 in all extremities. Romberg negative. "Okay. Everything appears normal. But this hesitancy is concerning. Are you on any medications?
+PATIENT: Nope. Not a single one. I don’t like taking pills if I can help it. I eat okay, get enough sleep when I can, try to stay in shape. That’s about it. I just wanna know why it’s hard to get up sometimes.
+DOCTOR: Well, at this point, it's difficult to say. It could be a number of things, frankly. It's unlikely to be anything serious given your physical findings, but we should rule out some possibilities. I'm going to order some basic bloodwork – just to check your vitamin levels and rule out any underlying deficiencies. We’ll also do a thyroid panel.
+PATIENT: Yeah, okay. That sounds…good. If it’s something simple, that'd be a relief. Vitamin deficiency, I could get behind that. I don't always eat the best when I'm on a job, gotta be honest. Where do I go to get that done? And how long does it usually take to get the results?
+DOCTOR: "Here. The lab is just across the street, second door on the right. They take walk-ins. Results usually take 2-3 business days. In the meantime, try to maintain a balanced diet – especially getting enough B vitamins. If the hesitation worsens, or you develop any other symptoms – weakness, numbness, dizziness – come back immediately. "Do you have any other questions?
+PATIENT: No, I think that covers it. B vitamins, keep an eye on it, and come back if it gets worse. Sounds good. Thank you, Dr. Osga. I appreciate you listening. I'll go get that done first thing tomorrow.
+DOCTOR: "Alright. Just try not to dwell on it, Mr. Fratoni. It's likely nothing serious. And try to get some rest." .

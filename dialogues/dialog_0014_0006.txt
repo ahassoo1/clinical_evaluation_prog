@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Weichers. I’m Dr. Osterholm. So, what brings you in today?
+PATIENT: Good morning, Doctor. Thank you for seeing me. Um… well, I have been coughing up… blood. It scared me very much. It was in my… spit, when I coughed. It happened a few times now, over the last week.
+DOCTOR: Coughing up blood… right. That is concerning, yes. Now, when you say “a few times,” can you be more specific?
+PATIENT: Yes, sorry. Maybe… three times? It was not a lot each time, but enough to worry me. The first time, I thought maybe I bit my tongue in my sleep, but then it happened again. And then… yesterday. It is… brownish, mostly. Not bright red. Does that make sense?
+DOCTOR: Brownish… okay, that’s… helpful. And it’s only when you cough?
+PATIENT: Yes, only when I cough. Not… just when I spit normally. And… I don’t have any pain when I cough. Just… the blood. And a little tired, but I thought that was just… being older, maybe.
+DOCTOR: Tiredness can be a lot of things. Alright. Let's try and get a better picture here. Have you noticed any other symptoms along with the coughing?
+PATIENT: Um… let me think. I have been a little… short of breath, sometimes. Not all the time, but when I walk up the stairs, I feel it more than before. And… a little bit of a fever, maybe? My husband… my late husband, he always checked my temperature, but I have not checked it myself recently.
+DOCTOR: Short of breath with exertion and a possible low-grade fever… Okay. And how about your medical history?
+PATIENT: Well, I was… very healthy, mostly. I did have… pneumonia, maybe ten years ago? It was not very bad, and I recovered quickly. Other than that… nothing much. My late husband, he took care of all the… paperwork, you know? I don’t remember much about my past illnesses. I am sorry. It’s been a long time.
+DOCTOR: Right. Well, sometimes memory fades. Any surgeries?
+PATIENT: No, no surgeries. Never. Just… the normal things. Childhood illnesses, like chickenpox, when I was a little girl. Nothing serious. And… my late husband always said I was very strong. He used to say that all the time. I miss him. Sorry. I don’t mean to… wander.
+DOCTOR: Alright. And…family history?
+PATIENT: Um… that is hard. My parents… they passed away a long time ago. Both from… old age, I think. I don’t… I didn't know them very well. They were not… very healthy people, if I remember correctly. But… I don’t know of any… special illnesses that run in the family. My husband’s family… they were very healthy too, I think. I am not very good at this, am I?
+DOCTOR: It’s alright, Ms. Weichers. We’ll make do. Now, any allergies to medications?
+PATIENT: No, I don't think so. I've never had to take much medication. Just… painkillers, sometimes, for headaches. And… antibiotics, for a cold, maybe, a few times. But I don't think I am allergic to anything. I have never had a reaction. Is this important?
+DOCTOR: It's standard procedure. Are you currently taking any medications, even over-the-counter?
+PATIENT: No, not at all. I don’t like to take pills if I can help it. Just… vitamins, sometimes. But nothing regularly. And… that's it. I promise. I really do try to stay healthy. It’s just… this blood is very worrying.
+DOCTOR: Alright. Well, Ms. Weichers, this warrants a closer look. I’m going to listen to your lungs and heart, and then I think we should get a chest x-ray to see what’s going on. Would that be alright?
+PATIENT: Yes, that sounds… good. Whatever you think is best, Doctor. I just want to know what is causing this. Listening and… the x-ray. That is fine. Thank you. I appreciate you taking the time to see me.
+DOCTOR: Alright. Please have a seat here, and I'll start with the auscultation. Take a deep breath in… and out. …Bilateral breath sounds are slightly diminished, but clear. No wheezes or crackles noted. Heart sounds are regular, with no murmurs. I'm going to send you down for a chest x-ray now. The radiology department is just down the hall, third door on the left. They'll give you instructions on what to do. Do you have any questions before we proceed?
+PATIENT: No, I don't think so. Diminished… what was that word? Sorry. It’s hard to keep track. Third door on the left, you said? And they will… tell me what to do? That sounds… manageable. Thank you, Doctor. I will go now.
+DOCTOR: Yes, diminished. It simply means your breath sounds aren't as strong as they should be. Don’t worry about the details. Yes, third door on the left. They will instruct you. Go ahead, and we’ll review the results when you get back.
+PATIENT: Alright. Thank you again, Doctor. Third door… on the left. .
+DOCTOR: .

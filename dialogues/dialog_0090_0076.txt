@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Aluia. I’m Dr. Kur. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. It's these bumps on my legs, see? On my shins, mostly. They’re red and… well, they hurt, kinda. Not all the time, but when I walk, especially.
+DOCTOR: Hm. Bumps, you say. And they’re red and painful with walking. How long have you noticed these bumps, Mr. Aluia?
+PATIENT: Oh, gosh… that's a good question. Maybe… a couple of months now? It started with just one, I think. And I didn’t think much of it. Just figured I bumped into something. But then more kept showing up.
+DOCTOR: A couple of months. And they’ve been gradually increasing in number, you said?
+PATIENT: Yeah, that’s right. Slowly, slowly more. Not a lot at once, but… they just keep coming. My wife, she noticed it before me, actually. She's got a good eye for these things.
+DOCTOR: Right. And are these bumps… just on your shins, or have they spread anywhere else?
+PATIENT: No, just the shins. Both of them, pretty much the same. Not on my knees, not on my ankles… just right here. They don’t itch, though. It’s mostly just… a dull ache when I'm on my feet.
+DOCTOR: Alright. Well, let's have a look. If you don't mind. Please have a seat on the examination table. I'll need to examine your legs to get a better idea of what's going on.
+PATIENT: Sure, no problem. Just let me know if you need me to move 'em around or anything. These old legs aren't as nimble as they used to be.
+DOCTOR: Hmm. They seem firm, and a bit tender to the touch. Do you have any history of diabetes, Mr. Aluia?
+PATIENT: Diabetes? Not that I know of, Doctor. Never been told I had it. My wife keeps an eye on my sugar, makes sure I don’t eat too much sweets. She's pretty good about that, always has been. Is that what you think it might be?
+DOCTOR: Well, it’s possible. Diabetes can sometimes cause skin changes like this, but we need to rule out other things first. Have you had any recent injuries to your legs?
+PATIENT: Recent injuries… hmm. No, not really. I do a lot of walking for work, you know, moving stock around. But nothing major. Maybe a little scrape here and there, but nothing that would cause bumps like these. I wear pretty good boots, though. Steel-toed.
+DOCTOR: And are you on any medications currently, Mr. Aluia?
+PATIENT: Just what the doctor gives me for my blood pressure. A little white pill, every morning. Been on it for… oh, maybe ten years now? Keeps things steady, mostly. Nothing else.
+DOCTOR: Alright. Based on what you've told me, and my examination, it could be several things. The most likely possibility, given your age and history, is stasis dermatitis. It's a common condition caused by poor circulation, often seen in people with…well, with aging legs. The bumps you're feeling are likely due to inflammation and fluid buildup. However, we can't rule out other things without doing some further testing. I’d like to order a CBC and a CMP, just to get a baseline. And perhaps a Doppler ultrasound to assess the blood flow in your legs. Does that sound alright?
+PATIENT: Oh, goodness. All that testing… Well, if you think it’s important, Doctor, then sure. Whatever you need. I trust your judgment. Stasis… what did you call it? That sounds… serious? Is it something I should be worried about? My wife is gonna worry something fierce.
+DOCTOR: It’s not necessarily serious, Mr. Aluia, but it is something we need to address. Untreated, it can lead to skin ulcers and infections. The tests will simply help us determine the extent of the problem and the best course of action. As for your wife...well, that's what wives are for, aren't they?
+PATIENT: Yeah, you're right. She worries, that's just her nature. Alright, let's do the tests. When can I get 'em done? And… how long does it usually take to get the results? I got work tomorrow, gotta make sure I can swing it.
+DOCTOR: The lab is right down the hall. They take walk-ins until 4 PM today. Results usually take 24 to 48 hours. I'll have my nurse call you with the findings. In the meantime, try to elevate your legs whenever possible. And try not to bump them. I’ll also prescribe a topical steroid cream to help with the inflammation. Do you have any allergies to any medications?
+PATIENT: Allergies… hmm. Not that I know of, Doctor. Never had a bad reaction to anything before. My wife always says I'm too tough to be allergic to anything. Except maybe shellfish. Makes my stomach a little upset, but I don’t eat it often anyway.
+DOCTOR: Alright. No shellfish. Good to know. The nurse will go over the instructions for the cream. She’ll also schedule a follow-up appointment for when the results are back. We’ll discuss the findings then. Any other questions for me today, Mr. Aluia?
+PATIENT: No, I think that's everything, Doctor. Just… try to keep it simple, alright? My wife gets real worried if I don’t understand what’s going on. And I don’t wanna bother you with too many questions. Thanks for taking the time to look at my legs. I appreciate it.
+DOCTOR: Very well. The nurse will be in shortly. Have a good day, Mr. Aluia.
+PATIENT: Thank you, Doctor. You too.

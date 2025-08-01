@@ -1,0 +1,25 @@
+DOCTOR: Right. Mr. Komarov, is it?
+PATIENT: Yeah, that’s me. Arbin Komarov. Good to meet you, Doctor… Dechêne, right? I think I read your name on the door.
+DOCTOR: Yes, Dechêne. Though frankly, it's pronounced 'Deh-SHEH-neh'. Now, let’s not waste time. What brings you in today?
+PATIENT: Oh, sorry about that! Deh-SHEH-neh. Got it. Well, it’s this sensitivity to the sun, really. It’s been getting worse lately. My eyes especially bother me, but my skin feels… prickly when I’m out in it for too long. It’s kind of hard to explain.
+DOCTOR: Sensitivity to the sun… and how long has this been occurring?
+PATIENT: Hmm, let me think… it started maybe six months ago, but it was just a little annoying then. Like, sunglasses helped. But in the last month or so, it’s gotten really bad, even with the glasses. Feels like a burn sometimes, even on cloudy days.
+DOCTOR: Cloudy days, you say?
+PATIENT: Yeah, it’s strange, isn’t it? Not just bright sunshine. Even when it’s overcast, if I’m out for a while, I start to feel it. It’s mostly around my eyes and on my cheeks, but sometimes my nose too. It's… well, it makes me want to just stay inside all the time.
+DOCTOR: And what sort of activities are you typically doing when you notice this occurring?
+PATIENT: Oh, not much really. I work as a dental assistant, so I’m mostly indoors. But I like to garden a little bit, when the weather’s nice. And I walk to the shops sometimes. Nothing too strenuous. It's just… frustrating, you know? I miss being able to just be outside without worrying about it.
+DOCTOR: Do you have any other symptoms accompanying this sensitivity?
+PATIENT: Let me see… Not really, not that I've noticed. No headaches or anything like that. My eyes sometimes feel a little gritty, like there's something in them, but that could just be from the air conditioning at work, maybe? And… oh, sometimes my skin feels a little tight, like after a sunburn, but there’s no actual redness, not usually.
+DOCTOR: Any family history of skin conditions, or sensitivity to sunlight?
+PATIENT: That's a good question. My wife… she passed away a few years back, and she didn’t have any problems like this. As far as I know, her family was okay too. My mum… she lived in Ghana her whole life, and the sun is pretty strong there, but I don’t remember her ever mentioning anything like this. I don't really know much about my dad's side of the family, to be honest. He wasn’t around much when I was growing up.
+DOCTOR: Right. And are you currently taking any medications, or do you have any allergies I should be aware of?
+PATIENT: Just the usual stuff, really. A little bit of ibuprofen sometimes for aches and pains, but not regularly. Oh, and I take a vitamin D supplement, because the doctor said my levels were low. As for allergies… I think I’m a little sensitive to dust, makes me sneeze sometimes, but nothing serious. No known drug allergies, thankfully. I have Medicare, so they usually keep pretty good track of everything anyway.
+DOCTOR: Very well. Let’s have a look at your eyes. And then we’ll examine the skin. If you could sit up here, please.
+PATIENT: Okay, sounds good. I'm happy to do whatever you need. Just let me know if anything feels strange.
+DOCTOR: Pupils are normal, reflexes intact. Some slight conjunctival injection, but nothing alarming. Skin is warm and dry. No rash or obvious lesions. Minimal tenderness to palpation. Overall, a rather unremarkable examination. It could be photosensitivity, but we’ll need to rule out other causes. I’m going to order a complete blood count and a basic metabolic panel. And I'll recommend a dermatology consult just to be thorough.
+PATIENT: Okay, that sounds… sensible. Blood work and a dermatologist. Is that going to be expensive? I'm on Medicare, so I'm a little worried about the cost. And how long will it take to get the results?
+DOCTOR: Medicare should cover the majority of the costs, though there may be a small co-pay. As for the results… the lab usually takes about three to five business days. The dermatology appointment… well, that depends on their availability. I can have the receptionist schedule it for you. We'll proceed with these tests and see what they reveal. It is likely nothing serious, but it's always best to investigate thoroughly. Do you have any other questions?
+PATIENT: No, I think that covers everything for now. Three to five days for the blood work, and the receptionist can set up the dermatologist. That sounds good. Thank you, Doctor Deh-SHEH-neh. I appreciate you taking the time to look into this.
+DOCTOR: You’re welcome. The receptionist will provide you with the necessary paperwork and instructions. If anything changes, or if your symptoms worsen, please contact the clinic immediately. Next patient.
+PATIENT: Okay, I will. Thank you again. .
+DOCTOR: .

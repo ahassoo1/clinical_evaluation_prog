@@ -1,0 +1,30 @@
+DOCTOR: Hi Lucia, welcome. I’m Dr. Amussen. So, what brings you in today?
+PATIENT: Hi Doctor. Um… it’s my… belching. It’s been happening a lot. Like, a lot a lot. It’s kinda embarrassing, but it won’t stop.
+DOCTOR: Okay, belching. And you said it’s been happening a lot recently. Can you tell me a little more about that?
+PATIENT: Yes. Maybe… two weeks? I don’t know exactly. It doesn't matter when it started, just that it keeps happening. Even when I haven’t eaten much. Sometimes after I eat, but sometimes… just when I’m sitting.
+DOCTOR: Okay, so about two weeks, happening even when you haven’t eaten much, and sometimes after eating. Is it constant throughout the day, or does it come and go?
+PATIENT: It comes and goes. Not all the time, thank goodness! But… maybe a few times an hour? It’s hard to say exactly. Some hours are worse than others, I think. Like, this morning it was really bad. But right now… not so much.
+DOCTOR: Okay, a few times an hour, worse in the morning. Does anything seem to trigger it?
+PATIENT: Hmm… that’s a good question. I don’t know. Maybe… when I’m nervous? But I’m not always nervous when it happens. And sometimes I eat something and nothing happens. I really don’t know if anything makes it worse, or better.
+DOCTOR: Alright. And are you experiencing any other symptoms along with the belching?
+PATIENT: Other symptoms? Like… other things wrong? No, not really. My stomach sometimes feels a little… full. But I don’t feel sick. And no pain. Just… the belching. And the feeling full sometimes.
+DOCTOR: Okay, no pain or nausea, just the belching and occasional fullness. Have you noticed any change in your diet recently?
+PATIENT: Not really. I eat pretty much the same things. Rice and beans, chicken sometimes, you know? Nothing new. Maybe I drank a little more soda this week, but that's it.
+DOCTOR: Okay. And do you have any allergies to any foods or medications?
+PATIENT: No, I don’t think so. Never had any problems with allergies. Not that I know of, anyway. My mother always made sure I ate good food.
+DOCTOR: Okay, good. Are you currently taking any medications, including over-the-counter medications or supplements?
+PATIENT: No, Doctor. Nothing at all. I don’t like taking pills if I can help it.
+DOCTOR: Alright. And what about your medical history?
+PATIENT: Um… I don’t really have much of a medical history. I haven't been sick much. When I was a little girl, I had the usual things – chickenpox, a cold sometimes. But nothing serious. I haven’t been to the doctor in… a long time, I think. Maybe five years?
+DOCTOR: Okay, so generally healthy, haven’t been to the doctor in about five years. Do you have any family history of medical problems, like digestive issues?
+PATIENT: Hmm… my grandmother, on my mother’s side, she had a bad stomach sometimes. But I don’t know exactly what was wrong. She just… complained a lot. And my uncle, he had… something with his heart, I think. But that’s all I remember. It’s a big family, and I don’t know everyone’s problems.
+DOCTOR: Okay. And just to cover the basics, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no, no. I don’t do any of those things. Never have.
+DOCTOR: Okay, good to know. Alright, Lucia, based on what you’ve told me, it sounds like you’re experiencing excessive belching without any major alarm symptoms. It could be something as simple as swallowing too much air, possibly related to eating habits or even stress. I’d like to listen to your abdomen with my stethoscope just to get a baseline. Is that okay?
+PATIENT: Yes, that’s okay. Whatever you think is best, Doctor. I just want it to stop.
+DOCTOR: Okay. Okay, I'm listening now. Everything sounds normal – no unusual bowel sounds, no tenderness. Your abdomen is soft. For now, let’s try a few things. Try to eat slower, and avoid carbonated beverages and chewing gum. See if that helps reduce the amount of air you swallow. Also, try to manage your stress levels if you think that might be a factor. If it doesn’t improve in a week or two, or if you develop any other symptoms like abdominal pain, nausea, vomiting, or weight loss, please come back and see me. Does that sound alright?
+PATIENT: Yes, that sounds good. I can try that. Eat slower, no soda. I will. Thank you, Doctor.
+DOCTOR: You’re welcome, Lucia. I’m glad I could help. I'll document this visit and our plan. Just remember, if things worsen or don’t improve, don’t hesitate to come back. Do you have any questions for me before you go?
+PATIENT: No, I don’t think so. You explained everything very clearly. Thank you again, Doctor Amussen.
+DOCTOR: You’re very welcome. Have a good day, Lucia. And try not to worry too much.
+PATIENT: Okay, you too, Doctor.

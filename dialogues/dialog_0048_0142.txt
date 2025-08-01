@@ -1,0 +1,30 @@
+DOCTOR: Right. Mr. Lawther, is it?
+PATIENT: Yeah, that’s me. Jaxston. Though, most folks just call me Jax. It’s… good to meet you, I guess. I don't really remember the last time I was at a doctor's, to be honest.
+DOCTOR: Yes, well. Let’s not dwell on that. So, what brings you in today, Jax?
+PATIENT: Um… headaches, mostly. Real bad ones. And… I get kinda sweaty when they hit, and my heart races. It’s… unsettling. They just come on suddenly, you know? I don’t really know what sets ‘em off. It’s been happening on and off for a while now.
+DOCTOR: “On and off” is… not particularly helpful, Jax. Can you give me a timeframe?
+PATIENT: Hmm… Geez, that’s a tough one. A few months, maybe? It feels like… longer than that, but I’m terrible with dates. They definitely happen more often now than they used to, though. Like, a couple times a week now, sometimes more. I really wish I could be more specific. Sorry.
+DOCTOR: “A couple times a week.” And how long do these headaches typically last?
+PATIENT: Ugh, that varies too. Sometimes it’s just a few minutes, like a really intense throbbing that fades quickly. Other times… they hang around for hours. Like, all afternoon. It’s kinda random, really. Makes it hard to plan anything, to be honest. I usually just have to lie down.
+DOCTOR: Alright. And is there anything that seems to trigger them?
+PATIENT: Honestly? No, not that I’ve noticed. Which is the frustrating part! I’ve tried thinking about it… food, stress, weather… nothing seems to connect. It just… happens. Sometimes I'm doing nothing at all, just sitting around, and bam, there it is. I wish I could pinpoint something. It feels kinda… scary, not knowing.
+DOCTOR: Hmm. And do you have any other symptoms with these headaches?
+PATIENT: Other symptoms… Well, like I said, the sweating and the fast heartbeat. Sometimes I feel a little… dizzy. And I think… maybe nausea? Not full-on throwing up, just kinda queasy. And… sometimes my vision gets a little blurry, but that could just be my eyes, honestly. I haven't really looked into it.
+DOCTOR: Do you have any medical conditions that you're aware of?
+PATIENT: Not that I know of. Never been diagnosed with anything, if that makes sense. I mean, I had the usual childhood stuff, chickenpox and all that, but nothing serious. And… I got divorced a couple years back, if that counts as a condition. But other than that, I’m pretty healthy, I think. I used to be more active, but… life happened.
+DOCTOR: Any medications you're currently taking?
+PATIENT: Nope. Not a single one. I try to avoid them if I can, to be honest. Never really been a fan of pills. I'll just tough things out, usually. I know that's probably not the best approach, but… yeah. Nothing.
+DOCTOR: Allergies?
+PATIENT: Hmm… Not that I know of. I mean, I sneeze sometimes, like everyone does. But no major reactions to anything, no hives or anything like that. Dust maybe? But that’s just a normal sneeze. Nothing serious, really. I don’t carry an EpiPen or anything.
+DOCTOR: Alright. Let’s move on to your family history. Any significant medical problems in your family?
+PATIENT: Oh, jeez. Family history… That’s a tough one. My dad… he had high blood pressure, I think. And my mom… she had some kind of arthritis, I think it was in her hands. But beyond that… I don’t really know. We weren’t a super close family, if that makes sense. Didn't really talk about health stuff much. I'm sorry, I’m not very helpful.
+DOCTOR: And your social history?
+PATIENT: Social history… Um… well, I work, you know? Production work. Nothing fancy. I live alone. Used to… go out more, but not so much lately. Got divorced, like I said. Don’t really drink or smoke. Never really got into that. Just… kinda quiet, mostly. Is that what you're looking for?
+DOCTOR: Yes, that will do. Now, I'm going to perform a quick physical exam. Just standard things, blood pressure, pulse, listen to your heart and lungs… nothing to be alarmed about. Please lie down on the examination table.
+PATIENT: Okay, yeah, sure. No problem. Sounds good. Just let me know if you need anything. Though… I’m not really a fan of hospitals, or, uh, doctor’s offices. But I’m trying to be brave.
+DOCTOR: Blood pressure is… elevated. 148 over 92. Pulse is 88, regular. Respiration is 16. Heart sounds are… normal. No murmurs. Lungs are clear to auscultation. No wheezes or crackles. Neurological exam is… grossly intact. Pupils are equal, round, reactive to light. Reflexes are 2+ bilaterally. Abdomen is soft, non-tender. Alright. We'll need to run some tests. I’m ordering a complete blood count, a metabolic panel, and a thyroid-stimulating hormone test. We'll also do a urinalysis. This will help us rule out any underlying causes for your headaches.
+PATIENT: Okay… that sounds… thorough. Tests, huh? Will they… hurt? And how long will it take to get the results? I really hope it’s nothing serious. I’ve got work tomorrow, and… well, I just kinda need to know what’s going on. Is there anything I should be doing in the meantime? Should I avoid anything? Like, strenuous activity or… certain foods?
+DOCTOR: The tests themselves are not painful. Just a small blood sample and a urine sample. As for what you should do in the meantime… try to manage your stress. I know that’s easier said than done. Avoid caffeine and alcohol. Stay hydrated. And, if you feel a headache coming on, lie down in a dark, quiet room. The results should be back in a couple of days. I’ll have the nurse call you with the results. Don’t panic. It’s likely nothing serious. But we need to rule out some possibilities. Do you have any questions?
+PATIENT: No, I think that covers it. Manage stress, no caffeine, stay hydrated… and wait for the call. Okay. Thank you, doctor. I really appreciate you taking the time to listen. It’s… good to have some direction, at least. I’ll try to stay calm. Where do I go to give the samples?
+DOCTOR: The nurse will escort you to the lab. She’s just outside. Now, if you’ll excuse me, I have other patients to see. I'll be in touch. Don’t hesitate to call if you experience any worsening symptoms.
+PATIENT: Okay. Right. Thank you again. I will. .

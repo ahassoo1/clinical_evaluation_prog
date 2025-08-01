@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Ms. Dudney. I am Dr. Yackey. Now, let’s not waste any time. What brings you in today?
+PATIENT: High blood pressure, like the nurse said. Honestly, I don't see why I even had to come in. It's just a number, isn't it? My husband says I worry too much.
+DOCTOR: A “number,” as you put it, is often indicative of a serious underlying issue. It’s rarely “just a number.” Your husband’s opinion, while… endearing, is not a substitute for a proper medical evaluation. Now, the nurse gave me a brief overview, but I prefer to hear it directly from the patient. When were you first told you had elevated blood pressure?
+PATIENT: About three weeks ago, I think. It was at my annual check-up with Dr. Abernathy. She was very… insistent I follow up. Said I needed to “get it checked out.” Like I don't have better things to do.
+DOCTOR: Dr. Abernathy… yes, I see her notes here. And what has been your experience since that appointment?
+PATIENT: Well, nothing’s changed. I feel fine. Maybe a little tired sometimes, but who isn’t? I've been taking the pills the nurse told me to, though. Small white ones. They taste awful.
+DOCTOR: "Pills," you say. Do you recall the name of the medication?
+PATIENT: Ugh, no. Some long word... starts with an 'A', I think? Honestly, I just take them because my husband reminds me. I don't bother with memorizing names of things. It’s a waste of brain space.
+DOCTOR: An “A”… helpful. The nurse should have provided a more detailed medication list. Let’s move on. Have you noticed any other symptoms at all?
+PATIENT: No. Look, I’m a practical person. If something hurts, I’ll tell you. But feeling a little sluggish? That's just life. I don’t need a doctor telling me I need to worry about every little thing. Is this going to take much longer?
+DOCTOR: Your dismissive attitude is… concerning, Ms. Dudney. Elevated blood pressure, even without overt symptoms, can lead to serious complications. Now, let's attempt a brief physical exam. I need to listen to your heart and lungs, and check your reflexes. It will be quicker if you simply cooperate. Please lie back on the examination table.
+PATIENT: Fine. But don't expect me to sit here all day. And try to be gentle. I have things to do.
+DOCTOR: Heart sounds are… within normal limits, though slightly rapid. Lungs are clear. Blood pressure is 158/92. As I suspected. Reflexes are… adequate. Do you have any family history of hypertension, heart disease, or stroke?
+PATIENT: My grandma, on my mother’s side, had something with her heart. I don’t remember exactly what. She lived to be eighty, so it couldn’t have been that bad. And my uncle smokes, if that counts. He's fine, too, as far as I know. Look, are we done yet? This table is uncomfortable.
+DOCTOR: "Something with her heart," you say. Again, vague recollections are… unhelpful. We’ll note a family history of cardiovascular disease, though the specifics are lacking. Now, do you have any allergies to medications?
+PATIENT: No. I eat everything. And I've never had a problem with any pills before, other than those awful white ones. Are you going to write me a prescription for something else? Because I’m not taking anything that tastes bad.
+DOCTOR: The taste of a medication is hardly the primary concern, Ms. Dudney. However, to address your question, I'm prescribing Lisinopril 10mg daily. It’s a different medication than what you were initially prescribed and may be better tolerated. We will also schedule a follow-up appointment in one month to reassess your blood pressure. Do you have any further questions?
+PATIENT: No. Just… where do I pick up the prescription? And please don't tell me I need to change my diet or exercise. I do enough already.
+DOCTOR: The prescription can be filled at the pharmacy across the street. And while I won't force you to adopt healthier habits, I strongly advise you to consider them. Ignoring this issue will only lead to complications. Now, if you’ll excuse me, I have other patients waiting. Have a good day. .
+PATIENT: .

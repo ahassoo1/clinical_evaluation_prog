@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Reyno. I’m Dr. Nestingen. So, tell me, what brings you in to see me today?
+PATIENT: Uh, good mornin'. Doc, right? Yeah. It's… a cough. Been coughin' up stuff. Not just regular stuff. There's… red in it. Blood, I think. I smoke, see. Been smokin' a long time. Don't remember exactly when it started, but it's been gettin' worse lately.
+DOCTOR: Okay. A cough with… blood. You said you smoke?
+PATIENT: Yeah, I smoke. Always have, pretty much. Marlboros. Though… what kind I get sometimes… I forget. Been a habit a long time. I told ya, don't remember much these days. Is… is that bad? The cough, I mean.
+DOCTOR: Well, smoking is never good for you, Mr. Reyno. It’s a… contributing factor to many things. But let’s not jump to conclusions. How much do you smoke, generally?
+PATIENT: Uh… a pack a day? Maybe a pack and a half. Some days more, some days less. It depends. Honestly, Doc, I just… smoke when I need to. Been doin' it so long I don't really keep track anymore. Is it… a lot?
+DOCTOR: It’s… a significant amount, yes. And how long have you been smoking, approximately?
+PATIENT: Ugh… a long time. Since I was… young. Real young. Maybe… forty years? Fifty? I dunno. Lost track. I been workin’ at the power plant a long time too, always busy dispatchin’… hard to remember dates and stuff.
+DOCTOR: Alright. And this cough… is it constant, or does it come and go?
+PATIENT: Comes and goes. Worse in the mornin', usually. When I get up. Sometimes it's just a tickle, sometimes… it really hurts. Like somethin' is tearin' up inside. Then… the red stuff. It scares me a little.
+DOCTOR: Alright. And any other symptoms?
+PATIENT: Uh… I get tired easy. Real easy. Been sleepin’ more lately. And… sometimes I feel kinda short of breath. Like I can’t get enough air. But… I always figured that was from the smokin’.
+DOCTOR: And has your weight changed recently, Mr. Reyno?
+PATIENT: Weight? Uh… I don’t know. Maybe a little. Probably lost some. Been eatin’ less. Not much appetite these days. Doc, is this gonna be a long thing? I got work… gotta get back to dispatchin’.
+DOCTOR: We need to rule some things out, Mr. Reyno. Let’s start with a physical exam. I'll listen to your lungs, check your oxygen levels, and feel your lymph nodes. Just a standard procedure. Then we can discuss potential next steps, perhaps some imaging.
+PATIENT: Ugh… lymph nodes? Imaging? Look, can’t ya just… tell me if it’s bad? I don’t wanna run a bunch of tests if it’s just… old age and smokin’. I got things to do.
+DOCTOR: Mr. Reyno, I understand your concerns, but I cannot simply tell you if something is “bad” without proper evaluation. It’s irresponsible and frankly, dangerous. A cough with blood is never something to dismiss. We need to determine the cause. Now, if you’ll please remove your shirt, I’ll begin the exam.
+PATIENT: Ugh… fine. Just… get it over with. Just hurry up, Doc.
+DOCTOR: Alright. Deep breath in… and out… again… Okay. I’m hearing some… diminished breath sounds in the lower lobes, bilaterally. There’s also some wheezing. Your lymph nodes are… slightly enlarged, but not significantly. Now, let's check your oxygen saturation. 92%. That's a little low. I also want to examine your throat. Say “ah.”
+PATIENT: Ugh… ninety-two? Is that bad? Feels dry in here. Like dust. Always feels dry.
+DOCTOR: Your throat is a little irritated, some redness, but nothing acutely concerning. Alright. Based on what I'm hearing and seeing, you need a chest X-ray, Mr. Reyno. And I’m going to order a complete blood count and a metabolic panel. We need to rule out infection and assess your overall health. I'll have the nurse draw the blood now. Do you have any allergies to medications?
+PATIENT: Ugh… X-rays and blood… look, can’t I just… take some cough syrup? I don’t like hospitals and stuff. And… no, don’t think I’m allergic to nothin’. Never had a problem with medicine before. But… what if it’s somethin’ real bad?
+DOCTOR: Cough syrup will not address the underlying cause, Mr. Reyno. It will simply mask the symptoms. And frankly, avoiding a diagnosis will not make things better. As for “something real bad,” that’s precisely what we need to determine with these tests. The nurse will be in shortly to draw your blood. Afterwards, we'll schedule you for a chest X-ray at the clinic. Do you understand?
+PATIENT: Ugh… I guess. Just… get it over with. Clinic’s good. Hospital… no.
+DOCTOR: Very well. The nurse will be with you shortly. I'll review the results as soon as they are available. In the meantime, I recommend you avoid strenuous activity and continue to drink plenty of fluids. And Mr. Reyno, I strongly advise you to consider smoking cessation. It is severely impacting your health. .
+PATIENT: Ugh… fine. Whatever. Just… call if it’s somethin’ real bad, okay? I gotta get back to work. .

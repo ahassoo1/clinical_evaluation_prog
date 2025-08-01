@@ -1,0 +1,17 @@
+DOCTOR: Right, yes. Kahrin, is it?
+PATIENT: Yeah, that’s me. Look, I just need to know the results, quickly if possible. I have a pretty tight schedule today.
+DOCTOR: “Quickly” isn’t really how medicine works, dear. But alright. What exactly are the results you’re needing?
+PATIENT: The blood tests. The ones I had last week. Dr. Osga ordered them, right? I just… need to know if everything’s okay. No need to go through the whole process if it’s nothing, honestly.
+DOCTOR: Last week… yes, yes. Let’s see. You had a standard metabolic panel, CBC… Hmm. Honestly, most people don’t need to know all of this. Your levels are… mostly within range. A little low on Vitamin D, which, frankly, everyone is these days. And your white blood cell count is slightly elevated.
+PATIENT: Elevated? What does that mean? Is that bad? I don’t… I don’t understand “slightly.”
+DOCTOR: It means… something is causing your body to make more white blood cells. Could be anything. A cold, stress… Honestly, it's probably nothing. But… we should probably rule things out. Do you have a fever?
+PATIENT: No, no fever. I haven’t been sick, not really. Just… busy. Really busy. Is it something I should be worried about? Because if it's serious, I really don’t have time for a long thing.
+DOCTOR: “Long thing”... Look, I’m a doctor, not a fortune teller. Slightly elevated white blood cell counts can indicate a lot of things, most of them not immediately life-threatening, but we can’t just ignore it. Have you had any… unusual fatigue?
+PATIENT: Unusual fatigue? Hmm… well, I'm always tired. But that's just… life, you know? Working all the time. Is that what you mean? It's not like, collapsing tired, just… normal exhausted. Do you think it's the Vitamin D? Can that cause that?
+DOCTOR: Vitamin D deficiency can contribute to fatigue, yes. But a slightly elevated white blood cell count alongside it… It could also be something else. It’s… difficult to say without more information. Have you noticed any night sweats?
+PATIENT: Night sweats? No. I mean, sometimes I get a little warm, but I live in the tropics, it’s hot. Are you thinking it’s something… bad? I need to know if I should rearrange things, or if I can just take some supplements and get on with it.
+DOCTOR: Look, I’m not going to speculate. It could be nothing, as I said. But… elevated white blood cells require some investigation. I’m going to recommend a referral to a hematologist. Just to be safe. They can run some more tests, figure out what’s going on. It’s better to be cautious. Do you have any family history of blood disorders?
+PATIENT: Blood disorders… not that I know of. My grandmother had… high blood pressure, I think? But that’s it. Honestly, I’m not very close to my family, so I wouldn’t really know. A hematologist? That sounds… serious. How long will that take? I really can’t be spending weeks going to appointments.
+DOCTOR: It's standard procedure. The hematologist will assess your situation, likely order some further blood work. As for how long, that depends on their availability, and the results. It could be a few weeks, yes. Here's the referral. The office will contact you to schedule an appointment. And please, try to get some rest. It might just be stress, but it's best to rule things out. Is there anything else?
+PATIENT: No. I think that’s it. Just… please make sure they understand I don't have a lot of free time. I need something quick. Thanks. I guess I’ll… go call them. .
+DOCTOR: Yes, yes. Do that. And try not to worry too much. .

@@ -1,0 +1,19 @@
+DOCTOR: Good morning, Mr. Pipolo. I am Dr. Blim. Now, let’s not waste any time. What brings you in today?
+PATIENT: Dry eyes. Been happenin’ a while now. Feels like sand, mostly. Don't need a long visit, if that’s okay.
+DOCTOR: “A while now,” is not a particularly useful timeframe, Mr. Pipolo. But very well. Let’s try to be concise. When you say “sand,” can you elaborate?
+PATIENT: Just...gritty. Like somethin’s in 'em, even when I blink. It’s worse when the wind blows, I guess. We get a lot of wind where I live. Out by the water.
+DOCTOR: Wind exposure, naturally. And you haven’t attempted any over-the-counter remedies?
+PATIENT: Remedies? Like…drops? I got some once, a long time ago. Didn't seem to do much. That was years back, though. Can’t remember the name.
+DOCTOR: "A long time ago" is not a diagnosis, Mr. Pipolo. We need specifics if we are to proceed efficiently. Let’s move on. Do you have any other medical conditions?
+PATIENT: Nah. Not really. Old age, I suppose. And my eyes. That's it. Never been much for doctors, to be honest. Just need somethin’ for the grit, Doc. Is that possible?
+DOCTOR: "Old age" is not a medical condition, Mr. Pipolo. It is a stage of life. Have you experienced any changes in your vision?
+PATIENT: Changes…? Well, things ain’t as clear as they used to be. But that’s just gettin’ older, right? Everything’s blurry a little bit. Not sudden or nothin’. Just…gradual. Like lookin' through a dirty window.
+DOCTOR: Alright. And do you currently take any medications, prescribed or over-the-counter?
+PATIENT: Nope. Never been a fan of pills. Not unless I really need 'em. And right now, I just need somethin’ for these darn eyes.
+DOCTOR: Very well. Let’s perform a brief examination. Please look straight ahead. I'm observing some mild conjunctival injection and…yes, reduced tear film breakup time. This confirms what I suspected. It appears to be dry eye syndrome, likely exacerbated by the wind exposure you mentioned.
+PATIENT: Syndrome? Sounds serious. Is it gonna need…pills? I really don’t want pills.
+DOCTOR: Not everything requires pills, Mr. Pipolo. Although, a proactive approach is often more effective. We'll start with artificial tears, several times daily. I recommend a preservative-free formulation. I’ll write you a prescription for Systane Ultra. And I strongly advise you to use lubricating eye ointment before bed.
+PATIENT: Okay. Drops and ointment. That…I can handle. Preservative-free, you said? How long before they start workin’? I got a fishin’ trip planned next week. Don’t want to be blinkin’ all day.
+DOCTOR: The effect is not instantaneous, Mr. Pipolo. It requires consistent application. You should notice improvement within a few days, but complete relief will take longer. As for your fishing trip, I recommend wearing wraparound sunglasses to protect your eyes from the wind. Is there anything else, or may we conclude this consultation?
+PATIENT: Nah, I think that's it. Drops and ointment. And glasses. Thank you, Doc. I appreciate it. Don’t want to take up any more of your time. .
+DOCTOR: Very well. Have a…pleasant fishing trip. .

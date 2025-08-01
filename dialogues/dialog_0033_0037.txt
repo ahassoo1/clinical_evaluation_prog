@@ -1,0 +1,35 @@
+DOCTOR: Right. Mrs. Kilton, is it?
+PATIENT: Yes, that is right. Margret Kilton. It is nice to meet you, Doctor… Dech-ene, is it?
+DOCTOR: Yes, Dech-ene. And please, just Doctor will do. Now, what brings you in today?
+PATIENT: Well, Doctor, I have been… having trouble with my breathing. It is like a whistling sound when I try to breathe, especially when I walk. It worries me a little.
+DOCTOR: Breathing trouble. Alright. And how long has this been going on?
+PATIENT: Oh, let me think… perhaps two weeks now? It started slowly, just a little puffing when I took the stairs. Now, it happens even with a gentle walk. Not every time, but often enough to be a bother.
+DOCTOR: Two weeks. And is it constant, or does it come and go?
+PATIENT: It comes and goes, Doctor. Some days are better than others. Today is… not a good day. I feel a bit tight in my chest, too, not always, but when the whistling is bad. Does that make sense?
+DOCTOR: Chest tightness… alright. Do you have any pain associated with that?
+PATIENT: No, not really pain. It's more like… a squeezing feeling. Not sharp, just uncomfortable. And it is not constant, like the whistling. It comes and goes with the breathing trouble. I hope that is clear?
+DOCTOR: Yes, yes, squeezing. Fine. Any history of asthma, bronchitis, or similar respiratory issues?
+PATIENT: Oh, goodness. I do not think so, Doctor. I have never been told I have asthma. When I was a little girl, back in Bhutan, I had some coughs and colds, like everyone, but nothing that needed a doctor for very long. I don't know about "bronchitis"... is that something bad?
+DOCTOR: It’s an inflammation of the airways. Never mind. Alright. And are you currently experiencing any fever, chills, or cough?
+PATIENT: No fever, no chills. And… a little bit of a cough. Not a bad cough, just a small one, mostly when I lie down at night. It does not bring up much, if anything. It is more the whistling that worries me. Does that sound strange?
+DOCTOR: No, it's not strange. Alright, let’s have a listen to your lungs. Please, sit up straight and take a deep breath in… and out.
+PATIENT: Okay, Doctor. <takes a deep, deliberate breath in and slowly exhales> Is that alright? I will try to breathe as you like. Should I hold my breath at any point?
+DOCTOR: Hmm. <pauses, listening for a few more seconds> And again. <listens again, then removes the stethoscope> There is some wheezing, as you’ve described. Not particularly alarming, but we'll need to investigate further. Do you have any allergies?
+PATIENT: Allergies… That is a good question. I do not know of any, Doctor. I have never really paid much attention. I sometimes sneeze when the flowers bloom, but everyone does, doesn't they? I do not have any problems with cats or dogs or anything like that. But I haven't ever been tested, if that makes sense. Is there something I should be allergic to?
+DOCTOR: No known allergies. Fine. And what medications are you currently taking?
+PATIENT: Just a small pill for my blood pressure, Doctor. The doctor gave it to me a few years ago. It is white and small. And… that is all. I do not take anything else regularly. I try to stay healthy with good food and walking. Does that help?
+DOCTOR: Blood pressure medication… what is the name of it?
+PATIENT: Oh dear. That is a hard question, Doctor. I do not remember the name. I just take the little white pill every morning. My husband used to manage all of that, but… he is not here anymore. I get it refilled at the pharmacy, and they know which one. Would that help? I could write down the name if I remembered it.
+DOCTOR: It would be very helpful to know the name, Mrs. Kilton. We can’t properly assess your condition without knowing what medications you are on. Let’s try to remember. Is it a small white pill?
+PATIENT: Yes, it is small and white, Doctor. I think… it might have letters on it? I am very sorry. It is just… a little while ago, and my memory is not what it used to be. Perhaps the pharmacy has a record? They always know everything. I promise I am usually very good at remembering things. It's just… this pill. Perhaps it starts with a "B"? I truly apologize for the trouble.
+DOCTOR: Alright. We’ll look into it. Now, let's move on. Do you smoke, or have you ever smoked?
+PATIENT: No, Doctor. Never. My husband smoked, but I always told him it was a very bad habit. I do not like the smell, and I would never start myself. I always believed fresh air is best. Is that important?
+DOCTOR: No smoking. Good. Now, do you have any family history of lung problems, like emphysema or chronic bronchitis?
+PATIENT: Oh, that is… a tricky question, Doctor. My family is very far away, back in Bhutan. We do not speak often, and I haven’t seen them in many years. I do not know if anyone has those problems. We didn't talk about health very much. Is that alright? It is hard to remember things about my family.
+DOCTOR: Alright. Well, let’s get a chest X-ray, just to rule out anything serious. And I'll order a pulmonary function test to assess your lung capacity. We need to see what’s going on. Do you have any questions for me at this point?
+PATIENT: An X-ray… and a test? That sounds… a little frightening, Doctor. What will the test involve? Will it hurt? And what if the X-ray shows something bad? I am a little worried now. Perhaps if you could explain a bit more, I would feel better.
+DOCTOR: The X-ray is standard procedure. It’s a picture of your lungs. No pain involved. The pulmonary function test involves breathing into a machine. It's a bit tiring, but harmless. As for what it might show… we’ll cross that bridge when we come to it. Let’s not borrow trouble, alright?
+PATIENT: Alright, Doctor. I understand. A picture, and breathing into a machine. I will try not to worry too much. Could you tell me where I need to go for these tests? And… how long will they take? I have a small appointment with my friend later this afternoon.
+DOCTOR: Down the hall, second door on the left. The technician will explain everything. Expect it to take about an hour, maybe a little longer. The results will be sent to me, and we’ll schedule a follow-up appointment to discuss them. Any other questions?
+PATIENT: No, Doctor, I think that is all for now. Thank you for explaining everything. I will go down the hall now. I hope the tests do not take too long. <stands up slowly> Thank you again, Doctor.
+DOCTOR: Yes, yes. Get it done, and we’ll see what we find. .

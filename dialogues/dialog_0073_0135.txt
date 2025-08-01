@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Radillo. I’m Dr. Korrell. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Thank you for seeing me. I have... something coming from my ear. A liquid, you understand? It is not good. It started, hmm... maybe one week ago.
+DOCTOR: A liquid draining from your ear, for about a week now. Okay. Can you describe the liquid for me?
+PATIENT: It is… clear, mostly. Sometimes a little bit… yellow? Not much yellow, mostly clear. And it smells… not good. Not a strong smell, but… not clean. It makes me worry.
+DOCTOR: Not a clean smell… Alright. Is there any pain associated with it?
+PATIENT: Pain? Hmm. Not much pain, Doctor. A little… pressure, sometimes. Like something is… full inside. Not sharp pain. A dull… ache, if you understand. Mostly when I move my head quickly.
+DOCTOR: Pressure, and a dull ache with movement… Have you noticed any hearing loss or ringing in your ear at all?
+PATIENT: Ringing… no, not ringing. My hearing… maybe a little quiet in that ear, but I thought it was just because of… well, I am getting older, you understand? Not sure if it is less hearing or the liquid. It is hard to say.
+DOCTOR: I understand. Alright, Mr. Radillo, let's take a look. I’m going to need to examine your ear. Please sit forward and tilt your head slightly to the left.
+PATIENT: Yes, Doctor. Whatever you need. Is this good? I try to hold very still.
+DOCTOR: Hmm. I do see some fluid in the ear canal, as you described. The ear canal itself appears a bit inflamed. I also note some… discharge. Any tenderness here?
+PATIENT: A little… yes. When you… push there. Not very bad, but I feel something. Like… a small ache, quickly gone. But yes, tenderness. Is that… bad, Doctor? I worry it is an infection. My sister… she had an ear infection, many years ago, and it was very painful.
+DOCTOR: It’s possible. Given the fluid, inflammation, and tenderness, an infection is certainly something we need to consider. Do you have a fever, or have you been feeling generally unwell at all?
+PATIENT: No, Doctor. No fever. I feel… tired sometimes, but I am old, you understand? That is normal. Not sick feeling. Not cough, not cold. Just… tired. I eat well, I sleep well, but I am getting older. It is hard to explain. It is just… normal old feeling.
+DOCTOR: Alright. Have you experienced any dizziness or nausea recently?
+PATIENT: No, Doctor. No dizziness. No… sick to my stomach, you understand? Very steady. I walk very well. My balance is… good. I have not fallen, not even once. I am careful.
+DOCTOR: Okay. And just to clarify, have you had any recent illnesses, even a minor cold or upper respiratory infection?
+PATIENT: No, Doctor. Nothing. I… I was visiting my daughter, in the city, about two weeks ago. But I was very careful to avoid getting sick. I did not feel sick before, and I did not feel sick after. Just a good visit. She is very happy, you understand? But no sickness.
+DOCTOR: Alright, Mr. Radillo. We will need to get a sample of that discharge to see exactly what we're dealing with. I’m going to send it to the lab for a culture and sensitivity. That will tell us if it's an infection, and if so, what kind of infection and what antibiotics will be most effective. Does that sound alright?
+PATIENT: Yes, Doctor. That sounds… very good. If you can find out what is causing this… that is best. I am happy to let you take a sample. Just… tell me what I need to do. I trust your judgement, Doctor. You seem very… knowledgeable.
+DOCTOR: Very well. I’ll have the nurse come in and collect a sample. It may be a little uncomfortable, but it shouldn't be painful. Afterwards, I’m going to prescribe you some ear drops to use in the meantime, to help with any discomfort. We’ll get the lab results back within a few days. .
+PATIENT: Alright, Doctor. Thank you very much. I will wait for the nurse. And I thank you for taking the time to listen to my problems. I feel… a little better already, knowing we are doing something about it. .

@@ -1,0 +1,30 @@
+DOCTOR: Right. Lucia Fogelstrom, 38 years old. So, what brings you in today?
+PATIENT: Oh, hello Doctor. Um… it’s my… belching. It’s been happening a lot lately. Like, a lot. It’s embarrassing, really.
+DOCTOR: Belching. Yes. And how long has this… “a lot” been going on for?
+PATIENT: Hmm… maybe two, three weeks now? I don't really keep track of days, sorry. It just started, and then it didn't stop. It’s not always happening, but it feels like it is, you know? Especially after I eat.
+DOCTOR: Two or three weeks. After eating, you say. Any particular foods seem to trigger it?
+PATIENT: That’s a good question… I haven’t really noticed, to be honest. I eat… normal food. Rice and beans, chicken… sometimes a little bit of pork. Maybe soda sometimes? I drink a lot of water, though. I don't think it’s the water. I really don't know what makes it worse.
+DOCTOR: "Normal food." Right. And are you experiencing any other symptoms alongside this… excessive belching?
+PATIENT: Other symptoms? Like… what kind of symptoms? I feel okay, mostly. Maybe a little bit tired sometimes, but everyone is tired, right? My stomach doesn’t hurt hurt, but it feels… full, even when I haven’t eaten much. Is that a symptom?
+DOCTOR: Fullness… alright. Do you experience any heartburn or indigestion?
+PATIENT: Heartburn? Um… sometimes, yeah. A little burning feeling in my chest. Not all the time, just… now and then. I take… I think it's called Maalox? The pink stuff. It helps a little, but not always.
+DOCTOR: Maalox. We’ll get to that. Any nausea?
+PATIENT: Nausea… like, feeling like I want to throw up? No, not really. I’ve been feeling okay in that way. I have been a little bit… gassy, if that counts? More than usual, anyway. But no throwing up.
+DOCTOR: Alright. And what about your bowel movements?
+PATIENT: Oh… um. That’s a bit… personal. They're… okay, I guess. Regular. Nothing… different. I haven’t had any trouble with that.
+DOCTOR: Fine, fine. Any family history of… digestive problems?
+PATIENT: Hmm… my grandmother, on my mother’s side, she had a lot of stomach trouble. She always complained about feeling sick. And my uncle… he had something, I think, with his… colon? But I don’t really know the details. It was a long time ago.
+DOCTOR: Alright. And do you smoke?
+PATIENT: No, never. I don't smoke. I don't like the smell of it. It makes me cough.
+DOCTOR: Do you drink alcohol?
+PATIENT: Sometimes. Maybe a beer with dinner on the weekend. Nothing much. I don't drink every day. I don’t really like it, to be honest.
+DOCTOR: Okay. Let’s do a quick examination. Please lie down on the examination table.
+PATIENT: Okay. Is it going to be… uncomfortable?
+DOCTOR: It shouldn't be. I'll just listen to your abdomen. Try to relax. Normal bowel sounds, though slightly hyperactive. Soft, non-tender. No guarding or rebound tenderness. Alright. Everything seems normal, physically. It's likely some form of indigestion, possibly aggravated by diet.
+PATIENT: Okay… good. So… what does that mean? What do I do about the belching?
+DOCTOR: It means you’re probably not dying. Which is good. For the belching… Try eliminating common irritants. Carbonated drinks, spicy foods, fatty foods. Smaller meals. And stop taking the Maalox unless you’re actively experiencing heartburn. It's just masking the problem. If it persists… or gets worse… come back. We might need to consider a referral, but let's try this first. Do you understand?
+PATIENT: Yes, Doctor. No soda, no spicy food, small meals… and stop the pink stuff. Okay. I can try that. What if… what if it doesn't get better?
+DOCTOR: If it doesn't get better, we'll consider other possibilities. Could be something more complicated. But frankly, I suspect it’s just… nerves. People hold a lot of stress in their stomachs. Here. This is a list of foods to avoid, and some general dietary recommendations. If it continues to be a problem after a couple of weeks, schedule a follow-up appointment. Any other questions?
+PATIENT: Okay, thank you, Doctor. No, I don't think so… I guess I'll just try those things. Thank you for your time.
+DOCTOR: Very well. Next patient. .
+PATIENT: .

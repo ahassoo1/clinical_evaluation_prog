@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I am Dr. Pipkorn. Please, have a seat. Now, to what do I owe the pleasure of your visit today?
+PATIENT: Good morning, Doctor. Thank you. It’s… well, it’s my belching. It’s been happening a lot lately. It’s… embarrassing, really.
+DOCTOR: Belching, you say?
+PATIENT: Yes. A lot. Like… after I eat, mostly. But sometimes even when I’m just… sitting. Not always, but often. It doesn’t hurt, it just… happens.
+DOCTOR: And how long has this been occurring, Ms. Fogelstrom?
+PATIENT: Hmm… let me think. Maybe… two, three weeks? It started slow, just a little bit after big meals. But now… it’s almost every time I eat, and sometimes when I don’t. It’s not painful, Doctor, just… annoying. And like I said, embarrassing.
+DOCTOR: And what exactly do you mean by “big meals”?
+PATIENT: Oh… um. Like… a normal dinner? You know, chicken, rice, maybe some beans? Not like, a huge feast. Just… what a person would eat. Sometimes it happens with lunch too, if it's something heavier, like a sandwich and soup. It's hard to say exactly what causes it, that's the problem. It just… does.
+DOCTOR: And are you experiencing any other symptoms alongside this… belching?
+PATIENT: Hmm… let me think. No, not really. I feel okay, mostly. Maybe a little… full sometimes after eating, but that’s normal, right? No stomach pain, no heartburn, nothing like that. Just… the belching. Oh! Actually, now that you mention it, sometimes my stomach feels a little bubbly before it happens. Like… little gurgles. But it doesn’t hurt, it just… feels funny.
+DOCTOR: And what about your diet generally, Ms. Fogelstrom?
+PATIENT: Oh. Um… well, I try to eat healthy. Lots of rice and beans, chicken, fish when I can get it. I like fruit. I drink water. Not much soda. I don't eat a lot of fried food, but I do like a little sometimes. Like… maybe once a week? Is that bad? I don't know. I try not to eat too much sugar. It's hard, you know?
+DOCTOR: And are you currently taking any medications, prescription or over-the-counter?
+PATIENT: No, Doctor. Nothing. I don’t really like taking pills if I can avoid it. I try to just… deal with things. I haven't needed any medicine for a long time, thankfully. Just a little pain reliever sometimes for a headache, but that’s it. Really, that’s it.
+DOCTOR: Very well. Let’s proceed with a brief physical examination. I'd like to listen to your abdomen. Please lie back on the examination table.
+PATIENT: Okay. Is it… cold?
+DOCTOR: Just the standard examination, Ms. Fogelstrom. Try to relax. I’m detecting some…increased bowel sounds. Not alarming, but present. Do you experience any bloating or abdominal distension alongside the belching?
+PATIENT: Bloating… hmm. Sometimes, yes. After I eat, especially. My stomach feels… full, and a little bit tight. Not painful tight, just… uncomfortable. Like it’s stretched. And maybe a little bit… gassy. But just after eating. It goes away after a while. Is that… bad?
+DOCTOR: And have you noticed any changes in your bowel habits recently?
+PATIENT: Changes…? Not really. I go… normally. Not too hard, not too soft. Same as always, I think. Maybe… a little more often after the belching, but that's probably just because my stomach is upset. I haven’t noticed anything different, exactly. Just… regular. Does that make sense?
+DOCTOR: Ms. Fogelstrom, based on your description and the findings of the examination, it appears you may be experiencing symptoms consistent with excessive gas, likely related to your diet and eating habits. It is unlikely to be a serious condition. However, given your concerns and the persistence of the symptoms, I recommend a trial of dietary modification. Avoid carbonated beverages, and limit your intake of foods known to produce gas, such as beans, broccoli, cabbage, and onions. Consider trying smaller, more frequent meals. If your symptoms do not improve within one to two weeks, or if they worsen, or if you develop any new symptoms such as abdominal pain, nausea, vomiting, or weight loss, please return for further evaluation. Do you understand?
+PATIENT: Okay. So… no more soda, and eat less beans and broccoli? Smaller meals… I can try that. No carbonated drinks… that will be hard. But I can try. And if it doesn’t get better, I should come back? Even if it just… doesn’t go away?
+DOCTOR: Precisely, Ms. Fogelstrom. If there is no improvement, or if new symptoms arise, it is imperative you return for further assessment. It’s always best to rule out any underlying causes. Do you have any further questions for me at this time?
+PATIENT: No, I think that’s all. Thank you, Doctor. I appreciate you listening. And… I’ll try the diet. I hope it works. .
+DOCTOR: Very well. This is a list of foods to avoid and some recommendations for dietary modification. Follow these guidelines for two weeks and if you’re still experiencing these symptoms, please schedule a follow-up appointment. Good day, Ms. Fogelstrom.

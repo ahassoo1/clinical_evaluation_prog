@@ -1,0 +1,41 @@
+DOCTOR: Hello Lucia, good morning. Welcome to the clinic. My name is Dr. Tosca. It's nice to meet you. What brings you in today?
+PATIENT: Good morning, Doctor Tosca. Nice to meet you too. Um… it’s my… belching. It’s been happening a lot.
+DOCTOR: Okay, belching… happening a lot. Can you tell me a little more about that?
+PATIENT: Well… it’s not like, all the time. But after I eat, usually. Sometimes even when I’m not eating, just… it comes up. It's… embarrassing, you know?
+DOCTOR: I understand, it can be quite bothersome. And yes, embarrassing is a good way to put it. So, it happens mostly after you eat, but occasionally even when you're not?
+PATIENT: Yes, that's right. Mostly after eating. And… sometimes when I bend over, too. Not always, but… sometimes. I don't know why.
+DOCTOR: Okay, so after eating and sometimes when bending over. About how long after eating does this typically happen?
+PATIENT: Hmm… maybe like, thirty minutes after? Or an hour? It’s hard to say exactly. It’s not right after, but… not too long either.
+DOCTOR: Okay, so roughly thirty minutes to an hour after eating. And would you describe the belching as painful, or just… uncomfortable?
+PATIENT: Not painful, no. Just… a lot of air. And it smells bad sometimes, which is… why I came. I worry it's something I ate.
+DOCTOR: Okay, so it’s not painful, just excessive air, and you've noticed an odor at times. That's good information to know. Let's talk a little bit about what you've been eating. Has your diet changed recently?
+PATIENT: Not really. I eat pretty much the same things. Rice, beans, chicken… normal Cuban food, you know? Maybe a little more… soda lately because it’s hot. But not much more.
+DOCTOR: Okay, so fairly consistent diet, with maybe a slight increase in soda consumption. Do you have any heartburn or indigestion along with the belching?
+PATIENT: Heartburn? No… not really. Sometimes my stomach feels… full, maybe? Like, heavy after I eat. But not burning. It's just… heavy.
+DOCTOR: Okay, so not heartburn, but a feeling of fullness or heaviness after eating. Any nausea or vomiting?
+PATIENT: No, no vomiting. And no… how you say… sick to my stomach? Never that. Just the air. And the feeling full.
+DOCTOR: Alright, no nausea or vomiting. Let’s move on to some other things. Do you have any other medical problems that I should be aware of?
+PATIENT: No, not really. I'm usually healthy. I work, I move around… no big problems. I don't have insurance, so I don't go to the doctor much unless I have to.
+DOCTOR: Okay, that’s good to know. And have you had any surgeries in the past?
+PATIENT: No, never had surgery. Nothing like that. I’ve been lucky, I think. Just… this belching now. It's new.
+DOCTOR: Alright, no prior surgeries. And what about your family?
+PATIENT: My family? Hmm… my mother, she sometimes had a… upset stomach, I guess? But not like this. Nothing serious. Everyone’s okay, mostly.
+DOCTOR: Okay, a bit of stomach upset in your mother, but nothing significant. Do you take any medications currently, or any vitamins or supplements?
+PATIENT: No, I don’t take anything. Nothing at all. Just… water. And maybe the soda, like I said.
+DOCTOR: Okay, no medications, vitamins, or supplements. Now, I'd like to ask about your social history. Do you smoke?
+PATIENT: No, I do not smoke. Never have. It's bad for you, my mother always said.
+DOCTOR: Okay, good. Do you drink alcohol?
+PATIENT: Sometimes. A little bit of wine with dinner, maybe. Not every night, just… when I'm feeling like it. Not much though, I promise.
+DOCTOR: Okay, occasional wine. And finally, do you have any allergies to medications, foods, or anything else?
+PATIENT: No, no allergies that I know of. I can eat anything. I’ve never had a problem with that.
+DOCTOR: Okay, no allergies. Thank you for all of that information, Lucia. It's very helpful. Now, I'd like to do a quick physical exam, if you don't mind. I'll listen to your abdomen to see if there are any unusual sounds. Would that be alright?
+PATIENT: Yes, that's okay. Whatever you need to do. I just want to stop the belching, if possible.
+DOCTOR: Okay. Take a few deep breaths for me, please. ... Alright. I’m hearing some normal bowel sounds, but I also notice some gurgling sounds, which can be associated with gas. Your abdomen isn't tender to the touch, which is good. It doesn't seem like anything is acutely painful. Now, I think this is likely related to gas, possibly from swallowing air while eating or drinking, or from the breakdown of certain foods in your digestive system. Given your history, I don’t think we need any urgent testing at this point. However, to be sure, and because this has been bothering you, I recommend starting with some simple dietary changes. Do you have any questions about that?
+PATIENT: Diet changes? Like… what kind of changes? I eat what I always eat. Is it something bad I'm eating?
+DOCTOR: It's unlikely to be something bad you're eating, more likely that certain foods are producing more gas. Let's try limiting carbonated beverages – that soda you mentioned – for a week or two, and see if that makes a difference. Also, try to eat more slowly and avoid gulping down your food. Sometimes, that can lead to swallowing more air. We can also look at cutting back on beans temporarily to see if that helps, although I understand they are a staple in your diet. Would you be willing to try those changes?
+PATIENT: Okay… no soda. That will be hard, but I can try. And eat slower… yes, I guess I do eat fast sometimes. Less beans… that's… harder. But I will try everything. If it helps stop the belching… yes, I will try.
+DOCTOR: That’s excellent, Lucia. I appreciate you being willing to try those changes. Let’s start with the soda and eating slower for a week, and then reassess. If those don’t help significantly, we can discuss reducing your bean intake a bit. If the belching persists or gets worse despite these changes, or if you develop any other symptoms like abdominal pain, nausea, vomiting, or changes in your bowel habits, please come back to see me right away. Does that sound like a reasonable plan?
+PATIENT: Yes, that sounds good. No soda, eat slower. And come back if it's worse. Okay. Thank you, Doctor Tosca.
+DOCTOR: You're very welcome, Lucia. I hope these changes help. I'll write down some of these recommendations for you to take home, just as a reminder. Also, since you don't have insurance, I'll keep our visit brief, but please don't hesitate to come back if anything changes. Do you have any questions for me before you leave?
+PATIENT: No, I think I'm okay. You explained everything very well. Thank you again.
+DOCTOR: You're very welcome. Have a good day, Lucia, and I hope you feel better soon. Don’t hesitate to reach out if you need anything. .

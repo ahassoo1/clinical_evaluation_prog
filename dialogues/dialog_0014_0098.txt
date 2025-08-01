@@ -1,0 +1,38 @@
+DOCTOR: Alright, Demondre, good to meet you. So, what brings you in today?
+PATIENT: Uh, hi Doctor Osterholm. Nice to meet you too. Well, I just... I was kinda curious, ya know? I ain't really sick sick. Just wanted to get a check-up, see how things are goin'. Been workin' on the boats a while now and figured it couldn't hurt.
+DOCTOR: Hmm. A “curiosity check-up,” is it?
+PATIENT: Yeah, pretty much. I guess that sounds kinda silly when I say it out loud. But I been feelin’ alright, just… wanted to make sure everything stayed alright, if that makes sense. It's just a good time to get looked at, ya know? Medicare covers it and all.
+DOCTOR: Right. Well, preventative care is... something. Let's just go through the motions, shall we?
+PATIENT: Okay, sure. Whatever you think is best, Doctor. You know what you're doin'. Where do we start? I ain't had a real check-up since… well, a long time. Before the divorce, I think.
+DOCTOR: Alright. Let’s start with the basics. Any significant past medical history?
+PATIENT: Hmm… not really. I broke my arm when I was a kid, fallin’ outta a tree. And I had the chickenpox, like everybody else. Other than that… nope. I haven’t really been to the hospital or anything, not since I was little. Just the usual colds and stuff, ya know? Nothing major. I’m pretty healthy, I think.
+DOCTOR: No surgeries?
+PATIENT: Nope. Never had any surgeries. I mean, I work on boats, so I get little scrapes and bruises all the time, but nothin' that needed a doctor to cut me open or anything. Just bandages and stuff. Does that count?
+DOCTOR: No, Mr. Heindel, that does not count. And your family?
+PATIENT: Oh, family… My mom is still around, she’s doin’ okay for her age. A little bit of high blood pressure, I think, but she takes her pills. My dad… he passed away a few years back. Heart problems. And I got a sister, she lives out west somewhere, I don't talk to her much. She's always been healthy, as far as I know. Why you askin’ about them? Is it important?
+DOCTOR: Just routine, Mr. Heindel. It’s always helpful to have a complete picture. Now, social history. Do you smoke?
+PATIENT: Nope, never smoked a day in my life. Tried it once when I was younger, didn’t like it. Smelled awful and made me cough. I do… sometimes have a beer with the guys after work, but nothin’ crazy. Maybe a couple on a Friday night. Does that matter? I don't do any other kinda drugs, if that's what you're askin'.
+DOCTOR: And alcohol consumption, how many drinks a week would you say, on average?
+PATIENT: Uh… let me think. Probably… four or five? Sometimes less, sometimes a little more if we're havin' a good time. I don't really keep track, to be honest. It ain't like I'm drinkin' every night. Mostly just on weekends, you know? I work pretty hard during the week, so I don't usually feel like it.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: Nope, not that I know of. I haven't really taken much medicine over the years. Maybe some ibuprofen for a headache now and then, but never had any reaction to it. I don't think I'm allergic to anything, honestly. Is that… good? I should know somethin' I'm allergic to?
+DOCTOR: It’s helpful to know, Mr. Heindel. Now, are you currently taking any medications?
+PATIENT: Nope. Like I said, I don't take nothin'. Just vitamins sometimes, if I remember. A multivitamin, that's it. Nothing prescribed by a doctor, nothin' for any kinda problem. I like to keep things natural, ya know? Is that… a problem? You makin’ me feel like I should be takin’ somethin’.
+DOCTOR: Right. Well, let's proceed with a physical exam, shall we?
+PATIENT: Okay, sure. Whatever you need me to do, Doctor. Just tell me. I ain't nervous or nothin’. I just… hope it don't take too long. I got a shift startin’ pretty soon. Is it gonna be one of those where I gotta… you know… take my shirt off?
+DOCTOR: We’ll start with your vitals and auscultation. Then we can discuss the need for a more thorough examination. Please, have a seat. We'll start with your blood pressure.
+PATIENT: Okay, sure. Blood pressure… right. Is it gonna hurt? I don't like needles. Just lettin' you know upfront.
+DOCTOR: Mr. Heindel, we're not getting blood yet. This is just a blood pressure reading. It won’t hurt. Relax your arm.
+PATIENT: Okay, okay. Relaxin'. This is kinda weird, ya know? I haven't been to a doctor in ages. Is my blood pressure usually… high? My mom's always tellin' me to watch my salt intake. Should I be worried about that?
+DOCTOR: 140 over 90. Elevated. As I suspected. We'll need to monitor this. Now, let's listen to your heart and lungs. Take a deep breath.
+PATIENT: Okay, deep breath. Is that… bad? I don't usually cough. Maybe it's just the air in here. I work around a lot of fumes on the boats, ya know? Does that affect your lungs? I never thought about that before.
+DOCTOR: Lungs are clear, but there's a slight murmur. Nothing alarming, but we’ll document it. Now, let’s check your reflexes.
+PATIENT: Okay, sure. Reflexes... what do I gotta do? I'm not very good at those kinda things, never been coordinated. You gonna hit my knees with somethin'? I saw that in a movie once.
+DOCTOR: I am not going to “hit” your knees, Mr. Heindel. I will gently test your reflexes with a reflex hammer. Relax. Patellar reflexes are 2+ bilaterally. Normal. Achilles reflexes are also 2+ bilaterally. Now, let’s take a look in your ears, nose and throat.
+PATIENT: Okay, ears, nose and throat... I get ear infections pretty easy sometimes, especially when it's cold. And I think I got a little bit of a stuffy nose today, just from the weather. You gonna stick somethin' up my nose? I hate that.
+DOCTOR: Ears are clear, minimal cerumen. Throat is normal, no visible inflammation. Alright. Everything appears normal, for now. However, given your elevated blood pressure and your family history, I recommend a lipid panel and a basic metabolic panel. We'll also check your thyroid.
+PATIENT: Okay… that’s a lot of panels. What does that even mean? Is somethin' wrong? I thought I was just comin' in for a check-up, not a whole bunch of tests. And… does this cost a lot of money? My Medicare… it covers everything, right? I don't wanna get a huge bill.
+DOCTOR: It simply means we’re gathering more information, Mr. Heindel. Your blood pressure is slightly high, and your father had heart problems. It’s standard protocol. As for cost, I can’t guarantee coverage details. You’ll need to verify with Medicare. My office staff can assist you with that. I’ll write the orders for the lab work now. Please, go to the lab down the hall. They'll take care of you. Return with the results next week, and we'll discuss them. Do you have any questions?
+PATIENT: Okay… okay. Lab work. Next week. So I just… go down the hall? And they’ll know what to do? I don't wanna mess anything up. And what if they find somethin' wrong? Is it somethin' serious? Should I be worried about my heart? This is makin’ me nervous, Doctor. I just wanted a check-up…
+DOCTOR: Mr. Heindel, please. Don't jump to conclusions. These are routine tests. If anything is concerning, we will discuss it. Just go to the lab, they are accustomed to handling these orders. If you are truly anxious, schedule a follow up appointment now so you can discuss the results with me as soon as they are available. Now, if you will excuse me, I have other patients waiting. The lab is right down the hall, desk number three. You may go now.
+PATIENT: Okay… okay. Right. Thanks, Doctor. I… I’ll go to the lab.

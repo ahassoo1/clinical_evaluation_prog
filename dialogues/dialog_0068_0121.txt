@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Mr. Pipolo. I’m Dr. Sham. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just… my eyes are dry. Real dry. Feels like sand in 'em sometimes. Don't like it.
+DOCTOR: Dry eyes, alright. And how long have you been experiencing this dryness, Mr. Pipolo?
+PATIENT: Oh, geez… a while now. Maybe… a few months? Hard to say exactly. Things kinda blur together when you get old, you know?
+DOCTOR: Yes, I understand. A few months. Is it constant dryness, or does it come and go?
+PATIENT: Comes and goes. Worse when it’s windy, for sure. And when I’m workin’ with the cement, lots of dust. That don't help none.
+DOCTOR: Worse with wind and cement dust… alright. Do you experience any pain, redness, or blurry vision along with the dryness, Mr. Pipolo?
+PATIENT: Nah, no real pain. Just… itchy. And things are kinda blurry sometimes, but I think that’s just my age. I ain’t got the best eyesight anymore. Never did, really.
+DOCTOR: Alright. And are you currently using any eye drops or any other medications for your eyes?
+PATIENT: Nope. Never used nothin'. Always thought it'd just go away on its own. I don't like puttin' stuff in my eyes.
+DOCTOR: Okay. No eye drops. Do you have any allergies that you know of, Mr. Pipolo?
+PATIENT: Allergies? Uh… not that I know of. Never been told I did. I spend most of my time outside workin', so… don't really come across much to be allergic to.
+DOCTOR: Alright. And what about your general health?
+PATIENT: Well, I'm 83, so things ain't perfect. Knees bother me some. And I get tired easy. But I keep workin' as long as I can. Can't sit still, you know?
+DOCTOR: Yes, staying active is good. Any major medical conditions that a doctor has told you about in the past, Mr. Pipolo?
+PATIENT: Hmm… let me think. Doc told me my blood pressure was a little high a few years back. Said to watch the salt, but… I forget sometimes.
+DOCTOR: High blood pressure… alright. And are you currently taking any medications for that, or anything else?
+PATIENT: Nope. Didn't like takin' pills, so I just... stopped. Didn't seem to be doin' much good anyway.
+DOCTOR: Alright. Do you have any family history of eye problems, Mr. Pipolo?
+PATIENT: Uh… not that I recall. My… my sister had bad eyesight, wore glasses all her life. But I don't think it was the same as this. She just needed glasses, I think.
+DOCTOR: Alright. Well, let's take a quick look at your eyes. Just going to shine a light in them and check a few things. If you could just sit there for me, please?
+PATIENT: Okay. Sounds good. Just let me know if you see somethin' you don't like.
+DOCTOR: Alright, Mr. Pipolo. I'm just checking your pupils and the back of your eyes. Pupils are equal and reactive to light. Some mild dryness of the conjunctiva, and a little bit of… mild lens opacity, expected at your age. No obvious signs of infection or inflammation. Your tear production seems a little low. It’s not dramatically low, but it could be contributing to the dryness.
+PATIENT: Tear production? Low? So, what does that mean? Is it serious?
+DOCTOR: It means your eyes aren't making enough tears to keep them comfortably lubricated. It's not necessarily serious, but it can be uncomfortable, and if left untreated, it can lead to irritation. Given your age and that you stopped taking medication for your blood pressure, this could be related to decreased tear production. We can try a simple artificial tear drop, over-the-counter. If that doesn't help, we may need to consider a referral to an ophthalmologist. How does that sound?
+PATIENT: Artificial tear drop? Like, eye drops? I told ya I don't like puttin' stuff in my eyes. But… I guess if it's just to try… where do I get 'em? And what kinda kinda kinda kinda...?
+DOCTOR: Yes, eye drops. Over-the-counter. You can find them at any pharmacy – Walgreens, CVS, even most grocery stores. There are many brands; any simple artificial tear, preservative-free if possible, would be a good starting point. Use them as needed, a few times a day. If the dryness persists, or if you experience any pain, redness, or vision changes, please see an ophthalmologist immediately. I can provide a referral if needed. Does that make sense, Mr. Pipolo?
+PATIENT: Yeah, I think so. Pharmacy… ask for… eye drops. The kinda without… stuff in 'em. Okay. I can do that. Is that… is that all? I got some things I gotta get to.
+DOCTOR: Yes, for now, that's all. We'll see how the artificial tears work. I'm going to write you a note to recommend trying preservative-free artificial tears four times a day. Here's a handout with that information, and a phone number for a local ophthalmologist should you need it. If things don’t improve within a week or two, or if they worsen, please call the ophthalmologist. Do you have any other questions for me today, Mr. Pipolo?
+PATIENT: No, I think that's all. Thanks, Doctor. I appreciate ya. I gotta go now.
+DOCTOR: You're welcome, Mr. Pipolo. Get well soon. Have a good day. .

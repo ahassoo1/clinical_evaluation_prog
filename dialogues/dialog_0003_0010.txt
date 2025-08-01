@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Mr. Tomassoni. I’m Dr. Yackey. Now, let’s not waste time. What brings you in today?
+PATIENT: Good morning, Doctor. It’s… well, it’s a bit difficult to explain precisely. I’ve noticed some swelling, and I thought it best to have it checked. I don’t quite recall when it started, to be honest. It feels… recent, but specifics escape me.
+DOCTOR: Recent is… unhelpful, Mr. Tomassoni. Vague recollections don’t aid in diagnosis. Where is this swelling located?
+PATIENT: Oh, apologies, Doctor. You’re quite right. It’s… primarily around my jaw, I believe. And perhaps a little on my neck. It’s not terribly painful, more… uncomfortable, and noticeable, of course. I hadn’t realized how much one relies on precise memory until… well, now. Is that… clear enough?
+DOCTOR: Jaw and neck… right. Is it symmetrical?
+PATIENT: Hmm… that’s a good question. I… believe so, yes. It appears to be roughly the same on both sides. Though, it's hard to be certain, truthfully. I’m not very good at self-assessment, Doctor. It just… feels puffy, all around.
+DOCTOR: "Puffy" is not a medical term, Mr. Tomassoni. Any fever, chills, or night sweats?
+PATIENT: No, Doctor, I don’t believe so. No fever that I’ve noticed. No chills, and… I sleep quite soundly, actually. So, no night sweats either. I do apologize for my lack of… precision. It’s rather frustrating, this inability to recall things. Perhaps it’s stress? I’ve been… busy. Is that relevant?
+DOCTOR: Stress, invariably, is relevant to something. But unlikely to cause unilateral—or even bilateral—jaw swelling. Any difficulty chewing, swallowing, or speaking?
+PATIENT: No, Doctor, thankfully not. Chewing is… normal. Swallowing isn’t difficult, and my speech feels alright, as you can probably tell. Though, I do ramble a bit, I suspect. It's just… a bit of a habit. Are you finding this helpful? I want to be as cooperative as possible.
+DOCTOR: Rambling is, frankly, unhelpful. Have you experienced any recent trauma to the jaw or neck?
+PATIENT: Trauma… no, Doctor, I don’t believe so. Nothing I recall, at least. I haven’t had any falls or injuries. I… I lead a rather quiet life, to be honest. Perhaps I bumped it in my sleep? But I would have remembered that, surely? This is… difficult. I apologize for being so vague. Is it alright if I take a moment to think? It feels as though I’m missing something important.
+DOCTOR: A moment is fine, Mr. Tomassoni, but let’s try to be concise. Any dental work recently?
+PATIENT: Oh! Dental work… yes, actually. I had a… a filling replaced, I believe. About a week ago. Yes, that’s it. A week, perhaps a little less. At Dr. Elara’s office. Does that… does that change things? I hadn't thought of that. It seems silly to have forgotten something like that.
+DOCTOR: Finally, something concrete. Any redness, warmth, or pain at the site of the filling?
+PATIENT: Now that you mention it… there was a little sensitivity for a day or two afterward. Not pain, exactly, but… a dull ache. And perhaps a little redness, yes. It subsided quickly, though. I assumed it was normal post-procedure discomfort. It’s… it’s nothing persistent, Doctor. Is that… relevant?
+DOCTOR: "Relevant" is a gross understatement, Mr. Tomassoni. Let me examine you. Please open your mouth. And try to relax.
+PATIENT: Certainly, Doctor. As you wish. Please, do take your time. I trust your judgment.
+DOCTOR: Hmm. There's some mild tenderness around the recent filling, and slight swelling of the submandibular glands. No signs of cellulitis, thankfully. Lymph nodes are… slightly enlarged, but not dramatically so. I suspect this is a localized inflammatory response related to the dental work. Possibly a mild infection, but not severe enough to warrant immediate antibiotics. We’ll monitor it closely. I’m prescribing a course of anti-inflammatory medication. If the swelling worsens, or you develop a fever, contact the office immediately. Do you understand?
+PATIENT: Yes, Doctor, I believe I do. Anti-inflammatory medication… and monitor for worsening swelling or fever. That… that sounds reasonable. Thank you for your thorough examination. It’s… reassuring to have a possible explanation. And I appreciate your patience with my… difficulties. Should I schedule a follow-up appointment?
+DOCTOR: A follow-up in one week to assess progress. If it doesn't improve, we'll consider imaging. Now, are there any other concerns, or shall we consider this consultation concluded?
+PATIENT: No, Doctor, I believe that covers everything. Just the swelling, and the medication. Thank you again for your time and… expertise. I appreciate your help very much. .
+DOCTOR: Very well. The nurse will provide discharge instructions and schedule your follow-up. Have a… satisfactory day, Mr. Tomassoni. .

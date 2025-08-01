@@ -1,0 +1,42 @@
+DOCTOR: Good morning, Mr. Sobkowic. I’m Dr. Osterholm. So, what brings you in today?
+PATIENT: Chest… hurts. And fast beat. Like drum. Old man heart no good anymore, I think. Blood pressure… wife say high. She always right.
+DOCTOR: Alright. Chest pain and a fast heartbeat… and your wife has mentioned high blood pressure, is that correct?
+PATIENT: Correct. She worry too much, but… she is wife. Always check. Always tell me what to do. I eat too much salt, maybe? She say so.
+DOCTOR: Okay. And how long have you been experiencing this chest pain and fast heartbeat?
+PATIENT: Hmm… maybe one week? Not every day. When I… work too hard. Garden. Fix fence. Old man things. Not… always bad. Just… feel it.
+DOCTOR: Okay, a week. And would you describe the pain as sharp, dull, pressure, burning… anything specific?
+PATIENT: Specific? Like… heavy. Not… cut. Not like broken. Just… heavy. Like someone sit on chest. And… sometimes arm feel funny. Left arm.
+DOCTOR: Heavy, like pressure… and you're noticing it in your left arm. Alright. And is this pain constant, or does it come and go?
+PATIENT: Come and go. Not always there. When I walk up hill… or after I eat big meal. Wife make good food. Too good, maybe. Old man problem.
+DOCTOR: Okay, so it seems to be brought on by exertion or a large meal. And does anything relieve the pain?
+PATIENT: Rest. I sit down. Watch TV. She make tea. That help a little. Not much, but… quiet time. That good. Still feel it sometimes, though.
+DOCTOR: Alright. And besides the chest pain and fast heartbeat, have you noticed any other symptoms?
+PATIENT: Hmm… Sometimes… little dizzy. When I stand up fast. And… I sweat more. Not big sweat, just… shiny. Like… old man.
+DOCTOR: Okay, dizziness when standing and increased sweating. Have you experienced any shortness of breath, nausea, or vomiting?
+PATIENT: No. No throw up. No… puffing. Just… tired. Old man tired. Always tired. That normal.
+DOCTOR: Alright. Now, let’s talk about your medical history. Do you have any known medical conditions, like diabetes, high cholesterol, or heart problems?
+PATIENT: High blood pressure, wife say. She take me to doctor. He say… something. Pills. I take pills. Forget what he say. She remind me. Always. Other than that… nothing. I strong man. Used to be.
+DOCTOR: Okay, so you're on medication for high blood pressure. Do you remember the name of that medication, or roughly how long you've been taking it?
+PATIENT: No. White pill. Small. Take every morning. Wife fill box. I just… swallow. No good memory anymore. Old man brain.
+DOCTOR: Alright. Well, we have it documented here as Lisinopril, 20mg daily. Have you had any surgeries in the past?
+PATIENT: Lis… what? Doctor talk fast. No. No cut. No… big fix. Maybe… tooth pull when young. That all. Long time ago.
+DOCTOR: Alright, no surgeries. And what about your family history?
+PATIENT: Family? My father… he have weak heart. Sick many years. Mother… she live long life. Strong woman. Brothers… all okay, I think. They live far away. No see them much.
+DOCTOR: Okay, your father had a weak heart. And how about your social history?
+PATIENT: Social… what? You mean… friends? I have wife. She my friend. No other friends. Not much time for friends. Work garden. Take care house. Old man life.
+DOCTOR: Right. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Smoke? No! Never! Bad for heart, wife say. Drink… little beer sometimes. With dinner. Not much. Maybe one small glass. No… other things. Old man no need other things.
+DOCTOR: Okay. And finally, do you have any allergies to any medications or anything else?
+PATIENT: Allergies? No. Never have. She ask me every time. No. No allergy. I eat everything. Except maybe… bad fish. That make me sick. But that food, not… medicine.
+DOCTOR: Alright, Mr. Sobkowic. Now, I'd like to do a quick physical exam. Just listen to your heart and lungs, check your blood pressure, and feel your pulse. Is that alright?
+PATIENT: Okay. Quick. Good. I no want spend all day here. Wife waiting. But… be gentle. Old man bones.
+DOCTOR: Certainly. Now, if you could just lie back for me... First, let's check your blood pressure. Hmm... 160 over 90. A bit elevated. Now, let's listen to your heart. I do hear a slight murmur, and your heart rate is a little fast, around 90 beats per minute. Lungs sound clear. Pulse is regular, but a little weak. Alright. And do you have any swelling in your ankles or feet?
+PATIENT: Swelling? Maybe… a little. Wife say my shoes tight. Old man feet get big. She buy me new shoes.
+DOCTOR: Yes, I do see some mild swelling in both ankles. Alright, Mr. Sobkowic. Based on what you've told me and the physical exam, it sounds like you are experiencing symptoms consistent with… possibly some worsening of your high blood pressure and some mild heart failure. Now, I want to order some blood tests to check your kidney function, electrolytes, and a cardiac enzyme called Troponin to rule out any heart damage. I’d also like to get an EKG to look at your heart rhythm. Does that sound alright?
+PATIENT: Blood tests? EKG? No! I no like needle! And… machine? No. Just… pills. Give me more pills. I want go home. Wife waiting. I feel okay. Just… old.
+DOCTOR: Mr. Sobkowic, I understand you're not keen on further testing, but these tests are important to get a clear picture of what's going on and make sure we’re not missing anything serious. Your symptoms, along with the elevated blood pressure and swelling, are concerning. We need to rule out anything that could be dangerous. Without these tests, I can't give you the proper treatment. However, I can increase your current Lisinopril dosage, but I strongly recommend the blood work and EKG. What do you think?
+PATIENT: More pills… always more pills. Wife will be happy. She like pills. But… I no want machine. No machine. Maybe… just pills. And I rest. Quiet time. No more tests. Please. I old man. What’s the point?
+DOCTOR: Alright, Mr. Sobkowic. I respect your wishes, but I need to document that you are declining the recommended blood work and EKG. I am increasing your Lisinopril dosage to 30mg daily. I also recommend you follow up with a cardiologist within the next month. If you experience any worsening chest pain, shortness of breath, dizziness, or significant swelling, you need to go to the emergency room immediately. Do you understand?
+PATIENT: Emergency room? No. No emergency room. Just… pills. Wife take care. I follow up with her doctor. She know everything. And… I rest. Quiet time. Can I go now? I think I need tea.
+DOCTOR: Alright, Mr. Sobkowic. You may go. Here's a prescription for the increased Lisinopril dosage. Please make sure your wife is aware of the dosage change. And I’m strongly recommending you follow up with a cardiologist, as I mentioned. Get some rest, and please don’t hesitate to seek medical attention if anything changes. Have a good day. .
+PATIENT: Okay. Okay. Wife happy. I go. Bye.

@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Ms. McConnon. I am Dr. Blim. Now, let’s not waste time. What brings you in today?
+PATIENT: Oh, good morning, Doctor. It's… it’s my tummy. It feels… big. And I don’t want to eat much anymore. Not like I used to. It just doesn't feel right, you know?
+DOCTOR: "Big," you say?
+PATIENT: Yes, big. Like… full of water, maybe? I don’t know how to explain. It’s just… rounder. And harder, a little. It happened slowly, I think. A long time now. I forget dates… everything gets mixed up.
+DOCTOR: We’ll get to the specifics eventually, Ms. McConnon. Let’s start with… when did you first notice this fullness?
+PATIENT: Oh dear… when did I notice? Hmm… that's a hard one. A while ago, I think. Maybe… spring? No, before that. Last winter, maybe? It’s all so blurry. I used to go to the market every week, but… I don’t go as much now. Makes my tummy feel funny to walk too far.
+DOCTOR: Alright. And has anything changed in your diet besides simply eating less?
+PATIENT: Oh, let me think… Not really, I don't think. I always liked my soups, and bread. And tea, of course! Lots of tea. Maybe… less meat? I don't buy it as often. It’s expensive, you know. And… hard to chew sometimes.
+DOCTOR: Very well. And are you experiencing any… other symptoms?
+PATIENT: Other symptoms… hmm. Let me see… I get tired easy, very easy. And sometimes… my legs feel a little swollen. Not bad, but… puffy. And… sometimes I feel a little… wobbly. Like I might fall. That’s all I can think of right now.
+DOCTOR: Alright. Now, Ms. McConnon, do you have any allergies to medications, or any medical conditions that anyone has ever told you about?
+PATIENT: Oh, allergies… I don’t think so. I used to take something for my… aches, a long time ago. But I stopped. And… medical conditions? Well, I had a little trouble with my heart, years and years ago, but the doctor said it was okay then. That was… a long time before I came here, I think. I forget the doctor's name.
+DOCTOR: And what medications are you currently taking?
+PATIENT: Oh, just a little something for my sleep sometimes. It doesn’t always work, but it helps a little. A small blue pill, I think. And… that’s it. I don’t take much. I don’t like taking pills.
+DOCTOR: Alright. I’m going to need to examine your abdomen, and listen to your heart and lungs. Please lie back on the examination table. It won't take long, but do try to remain still.
+PATIENT: Oh, alright. On the table, you say? Yes, yes, I can do that. It’s just… a little hard to move these old bones sometimes.
+DOCTOR: Heart sounds are regular, though slightly diminished. Lungs are clear to auscultation, but with some diminished breath sounds bilaterally. Now, the abdomen. Abdomen is distended, firm to palpation. There’s some mild tenderness in the lower quadrants, no guarding or rebound tenderness. I detect a fluid wave. The distension and fluid wave are concerning. I suspect ascites.
+PATIENT: Ascites? What’s that? Does that mean… bad? I don’t understand these words, Doctor. Is it something serious?
+DOCTOR: Ascites is fluid accumulation in the abdomen, Ms. McConnon. And yes, it can be a sign of a serious underlying condition. It could be related to your heart, your liver, or even… other things. We need to run some tests to determine the cause. I’m going to order a complete blood count, a comprehensive metabolic panel, and a liver function test. We’ll also need to perform an abdominal ultrasound. This will give us a clearer picture of what's going on. I'll have my nurse draw the blood now.
+PATIENT: Oh dear. Tests… lots of tests. That sounds… scary. Will it hurt? And… how long will it take to get the results? I don’t like being poked and prodded, you know.
+DOCTOR: The blood draw will be a slight pinch, Ms. McConnon. Hardly anything. As for the ultrasound, it’s completely painless. It involves a gel and a probe, that’s all. The results will take a few days, possibly a week. We’ll contact you as soon as they’re available. Now, is there anyone I can contact if needed?
+PATIENT: Oh… no, not really. I… I don't have family close by anymore. Just… an old friend, maybe? But she's… not very good with phones. She wouldn't be much help. You can just… leave a message with me, I suppose. I can write it down.
+DOCTOR: Very well. I'll note that. Now, I’m going to write you a prescription for a diuretic to help manage the fluid buildup. It won’t cure the problem, but it may provide some temporary relief. Take it as directed. And please, if you experience any shortness of breath, dizziness, or significant abdominal pain, go to the nearest emergency room immediately. Do you understand?
+PATIENT: Diuretic… that’s another new word. Helps with the water, you said? Alright. And… emergency room? If I feel… bad? Yes, I understand. I'll try to remember. Could you… say that word again? "Di-u-ret-ic"? Just so I can write it down.
+DOCTOR: Diuretic. D-I-U-R-E-T-I-C. Now, I have other patients waiting, Ms. McConnon. We’ve covered everything for today. The nurse will take your blood and explain the logistics of the tests. If you have any questions after you leave, you can call the clinic, but I'm rather busy, so please be concise. Good day.
+PATIENT: Oh, alright. D-I-U-R-E-T-I-C. Thank you, Doctor. Yes, thank you very much. Good day to you too. I hope it’s not too serious…

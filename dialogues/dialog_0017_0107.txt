@@ -1,0 +1,34 @@
+DOCTOR: Good morning, Mr. Puder. I am Dr. Blim. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. Uh, my heart... it feels like it's flapping. Not always, but sometimes. Like a little bird inside. It makes me feel... off. Not pain, just… wrong.
+DOCTOR: “Flapping,” you say. An… interesting description, Mr. Puder. Can you be more specific?
+PATIENT: Hmm… okay. It’s fast. Really fast. Like thump-thump-thump-thump-thump – a lot of thumps close together. And it don’t feel steady, you know? Like normal heart. Normal is… thump-pause-thump-pause. This is… different. It lasts maybe a minute, maybe less. Sometimes it just… stops on its own.
+DOCTOR: Right. Palpitations, then. Irregularly fast heartbeat. And this has been happening for…?
+PATIENT: Not long. Maybe… two weeks? Three? Hard to say exactly. It’s not every day. More often when I’m… not doing much. Like sitting, watching TV. Not when I’m working. I work with… big machines. Chemical stuff. Keeps me busy.
+DOCTOR: Chemical stuff?
+PATIENT: Yeah. I… operate them. Big tanks, pipes, valves. Make… different things. Plastic. Stuff like that. I wear a mask, gloves… all the safety things. It's… a good job. But it keeps me moving, so I don’t notice the heart thing then.
+DOCTOR: Very good. And before these past two or three weeks, would you say you’ve ever experienced anything like this before?
+PATIENT: No, never. Not like this. I’ve felt tired sometimes, you know? Like anyone. But never the fast heart. Never the… flapping. My wife, she says I seem more worried lately. But I don’t feel sick, if that makes sense. Just… strange.
+DOCTOR: Alright. Let's move on to some general health questions. Do you have any known allergies – to medications, foods, anything at all?
+PATIENT: No allergies. I eat everything. My wife makes good food. I don’t take any pills… except sometimes for a headache. But not often. Regular headache pills, you know? Like… aspirin. Nothing special.
+DOCTOR: And what about your past medical history, Mr. Puder?
+PATIENT: Hmm… nothing much. When I was a little boy, I had the measles, I think. Maybe chickenpox. But nothing serious. I haven’t been to the doctor in… a long time. Years. I always felt okay. Until this heart thing.
+DOCTOR: And your family?
+PATIENT: My father… he had high blood pressure, I think. My mother… she was okay, mostly. She died when I was young. Heart trouble, maybe? I don’t remember exactly. It was a long time ago. No brothers or sisters. Just me.
+DOCTOR: Very well. Let’s move on to social habits. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No smoking. Never. Alcohol… sometimes a little beer with dinner. Not every day. Maybe once a week. Sometimes not even that. No drugs. Never. My wife would be very angry. I don't need that.
+DOCTOR: Alright. Now, I’d like to do a quick physical examination. Can you please lie down on the examination table?
+PATIENT: Okay. Sure. Is this gonna hurt? I don't like needles.
+DOCTOR: We'll start with listening to your heart and lungs, Mr. Puder. No needles yet. Please lie flat. Now, breathe normally.
+PATIENT: Okay, okay. I'm lying down. Just tell me what you want me to do. And… try to be quick, please?
+DOCTOR: I'm hearing a slightly elevated heart rate – currently 98 beats per minute. Rhythm is irregular at times, as you described. Lungs are clear. Blood pressure is 130/80. Pulse is also irregular. I'm also noting some slight tremor in your hands. Do you typically experience this tremor?
+PATIENT: Tremor? Hmm… sometimes. Not all the time. When I’m… tired, maybe. Or worried. I drink coffee, you know? A lot of coffee. Maybe that does it. I don’t think it’s a big deal. Just my hands shake a little. Like when I’m holding something delicate.
+DOCTOR: Right. Now, I’m going to listen to your abdomen. Please let me know if you feel any discomfort.
+PATIENT: Okay. No, that’s fine. No pain. Feels… normal. I ate a sandwich for lunch. Maybe you’re feeling the sandwich?
+DOCTOR: No masses, no tenderness. Alright, Mr. Puder. Based on what you’ve told me, and my examination, it appears you are experiencing palpitations – an irregular and fast heartbeat. The tremor and the elevated heart rate are also concerning. We need to run some tests. I’m ordering a complete blood count, a comprehensive metabolic panel, and an electrocardiogram – an EKG – to assess your heart’s electrical activity. We'll also need a thyroid-stimulating hormone test.
+PATIENT: Tests? What kind of tests? Is something really wrong? An EKG… that sounds serious. Will it hurt? And… how much will all this cost? I don’t have insurance, you know.
+DOCTOR: The EKG involves placing small sensors on your chest to record your heart's electrical activity. It’s painless. The blood tests will require a simple blood draw. As for the cost… I understand you are uninsured. The lab will likely offer a self-pay rate, but I cannot give you an exact figure at this moment. The clinic’s billing department will need to provide that information. It's important to determine the cause of these palpitations, Mr. Puder. It could be something simple, or it could indicate a more serious underlying condition. Ignoring it is not an option. I’m also prescribing a low dose of propranolol to help slow your heart rate and manage your symptoms while we await the test results. It's a beta-blocker. Do you have any allergies to medications?
+PATIENT: No allergies. Never. But… propranolol? What does that do? Will it make me feel sleepy? I operate big machines, you know? I can’t be sleepy. And… will it interact with the coffee? I need my coffee.
+DOCTOR: Propranolol slows your heart rate, which should help alleviate your palpitations. It can cause some fatigue in some patients, but it is unlikely to cause significant drowsiness at the prescribed dosage. As for the coffee… I strongly advise you to limit your caffeine intake while taking this medication. Caffeine can counteract the effects of propranolol and potentially worsen your symptoms. Take this to the pharmacy. The pharmacist will provide detailed instructions. We'll schedule a follow-up appointment in one week to discuss your test results and adjust your treatment plan if necessary. If your symptoms worsen before then, especially if you experience chest pain, shortness of breath, or dizziness, go to the nearest emergency room immediately. Do you understand?
+PATIENT: Okay. No coffee… that’s… hard. But okay, I’ll try. One week… And if I feel really bad, go to the hospital. I understand. So… that’s all for today? I can go now?
+DOCTOR: Yes, that’s all. The clinic staff will schedule your follow-up appointment. Please ensure you fast for 12 hours prior to your blood tests. Have a good day, Mr. Puder.
+PATIENT: Okay. Thank you, Doctor. I'll… I'll try not to drink any coffee. .

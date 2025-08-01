@@ -1,0 +1,26 @@
+DOCTOR: Right, Mr. Tati. 35 years old… Look, I’m a busy woman, so let’s just get straight to it. What brings you in today?
+PATIENT: Eh… cough. I cough a lot. Long time already. And… tired also. Very tired. And my nose… always block, then runny. Then block again. Like that, you know?
+DOCTOR: "Long time already…" Right. Well, that’s… helpful. Let's try to be a bit more specific, shall we?
+PATIENT: Specific…? I dunno. Just… always. Maybe… six months? Or longer? I work, you see. Change tires. Very dusty work. Maybe from the dust? I forget… it's hard to remember. My wife, she tells me I cough even when I sleep.
+DOCTOR: Dusty work, huh?
+PATIENT: Yeah, very dusty. Lots of cars. And… sometimes rain also. Wet dust is worse, I think. Makes me cough more. I take some medicine from the shop, the normal kind, for cough. It helps a little, then stop helping.
+DOCTOR: And what kind of "normal kind" are we talking about?
+PATIENT: Uh… the red one? In the small bottle? I don't know the name… just… cough syrup. The shop man, he give me. It sweet, like cherry. I buy it when cough bad. Sometimes the white one also, for… phlegm? I think that one.
+DOCTOR: Right. Okay. And are you having any other symptoms?
+PATIENT: Other…? Hmm… sometimes my head ache. Not always. And… I feel warm also, sometimes. Not high fever warm, just… not cool. And a little bit… pain in my chest, when I cough too much. Like… squeezed.
+DOCTOR: Take a deep breath… and exhale. Good. Another one… and out. Lungs sound a bit… congested, unsurprisingly. Any history of asthma?
+PATIENT: Asthma…? I don’t think so. My wife, she never say anything about asthma. I… I run around when I was small, play football and all. Never had trouble breathing then. But now… when I climb stairs, a little bit… puff puff. But I think that’s because I tired.
+DOCTOR: Alright. And any family history of… anything like this?
+PATIENT: Family…? My father, he cough a lot when he was old. But he smoke, you see. Always smoke. My mother… she okay. Never cough. My sister, she got… allergies, I think. Always sneeze. But not cough. I dunno, doctor. We don’t really talk about sickness like that. Just… if you feel, you see? You go to the shop.
+DOCTOR: Right. Well, shop medicine isn’t always going to cut it. Let's try this: have you noticed any weight loss?
+PATIENT: Weight loss…? Hmm… maybe a little bit. My clothes feel… looser. But I work hard, you know? Maybe I just… smaller now. My wife say I eat less also. But that's because I tired, I think. No energy to eat much.
+DOCTOR: Alright. And what about allergies?
+PATIENT: Allergies…? I dunno. I get itchy eyes sometimes. And runny nose, like I said. But… everyone gets that, right? Especially when the weather change. Maybe that's allergies. Never see doctor for it. Just… blink blink. And buy tissue.
+DOCTOR: Okay. Look, Mr. Tati, this could be a number of things. It sounds like you’ve got a chronic cough, potentially some congestion, and fatigue. It could be a simple upper respiratory infection, but given the duration and the fatigue, we need to rule a few things out. You're uninsured, correct?
+PATIENT: Yeah, no insurance. Very expensive, you know? I just… try to work. My wife, she work also. We just… pay as we go. What you think it is, doctor? Just… normal cough?
+DOCTOR: Look, without tests, I can't tell you definitively. Given your situation, I'm going to prescribe you a stronger cough suppressant and a decongestant. I'll also recommend a course of daily multivitamins, just to support your energy levels. However, if this doesn't improve within two weeks, or if you develop a fever, shortness of breath, or chest pain, you need to go to the emergency room. Understand?
+PATIENT: Emergency room…? Very expensive, right? Two weeks… okay. I try. Stronger cough syrup… good. Multivitamins… okay. I write down. Two weeks, then see how it goes. What about the dusty work, doctor? Should I… stop changing tires?
+DOCTOR: Look, I'm not going to tell you to stop working. That’s not realistic. But minimize exposure to the dust as much as possible. Wear a mask. Try to stay hydrated. And if things get worse… you know where to go. I’m going to write up these prescriptions now. Next!
+PATIENT: Okay… mask. And drink more water. I understand. Thank you, doctor.
+DOCTOR: Here. That’s the prescription. And please, try to rest when you can. Next!
+PATIENT: Okay… thank you, doctor. .

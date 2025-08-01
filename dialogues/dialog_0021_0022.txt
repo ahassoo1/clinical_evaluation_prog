@@ -1,0 +1,32 @@
+DOCTOR: Alright, Soila, nice to meet you. I’m Dr. Havird. So, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. Nice to meet you too. Hmm… what brings me in? Let me think… It’s my tummy. It’s… bigger, I think. And I don't feel like eating much anymore. Not like I used to. It just… doesn’t taste good, really.
+DOCTOR: Bigger, you say?
+PATIENT: Yes, bigger. It feels… full, even when I haven’t eaten. And hard, sometimes. It’s hard to explain. It just… isn't right. I don't remember it ever feeling like this before, but… well, my memory isn’t what it used to be.
+DOCTOR: Right, alright. So, fullness even without eating much, and a hardness you’re noticing. And you said it’s not feeling like your usual tummy. Has this been happening suddenly, or has it been a gradual change?
+PATIENT: Oh, dear… gradual, I think. Yes, gradual. Not all at once, no. It’s been… a little bit at a time. Maybe a few weeks, maybe longer? It’s hard to say exactly. Time… it goes so fast now.
+DOCTOR: Okay, a few weeks or longer… gradual onset. And are you having any other symptoms alongside this?
+PATIENT: Symptoms? Let me see… I feel… tired, maybe? Yes, tired. And a little bit… achy. Not a bad ache, just… old. Like an old woman ache, you know?
+DOCTOR: Tired and achy… alright. Now, have you noticed any changes in your bowel movements?
+PATIENT: Bowel… what now? Oh! You mean… going to the bathroom? Well… not really. Not that I’ve noticed. It’s… pretty much the same as always, I suppose. Maybe a little less, but… old people don’t eat as much, so…
+DOCTOR: Right, alright. Any nausea or vomiting?
+PATIENT: Nausea… is that when you feel sick to your tummy? No, no, I haven't been sick. No throwing up, either. Just… not hungry. And the tummy feeling full. It’s a strange feeling, really.
+DOCTOR: Okay. Well, let's have a listen to your tummy and feel it, alright?
+PATIENT: Oh, alright. That sounds… good. If you think it will help. Please be gentle, dear.
+DOCTOR: Okay. Just breathe normally. Deep breaths. Alright. Now I'm just going to gently press on your tummy. Tell me if anything feels particularly tender or painful. Is this uncomfortable anywhere?
+PATIENT: Oh… that’s a little… firm there. Not really painful, but… solid. And maybe a little… sensitive. It’s hard to explain. It’s not a sharp pain, just… a pressure. Oh, that’s a bit more… hmm.
+DOCTOR: Alright, alright. That's helpful. Okay, Soila, given your age and what you're describing – the fullness, the lack of appetite, the firmness in your lower left abdomen – it could be a number of things. But, to be on the safe side, I think we should get some blood work done to rule out anything serious. And… I'm also going to recommend an ultrasound of your abdomen. It will give us a better look at what's going on in there. Does that sound alright?
+PATIENT: Oh, dear. Blood work and… an ultrasound? Is it… is it something bad, Doctor? I don’t like hospitals very much.
+DOCTOR: It doesn't necessarily mean anything is bad, Soila. It's just… thoroughness. We want to make sure everything is okay. And an ultrasound is non-invasive - it doesn’t involve needles or anything like that. It just uses sound waves to create a picture. I understand you don’t like hospitals, and we can schedule these tests at the clinic, if possible. We'll get a referral for the ultrasound, and I'll order the blood work now. It's better to be safe than sorry, alright?
+PATIENT: At the clinic… that’s… good. That’s much better. No needles, you say? Alright, Doctor. If you think it’s best… then yes. Let’s do the tests. But… what if it is something bad?
+DOCTOR: Well, Soila, if it is something more serious, we'll deal with it. There are options. And we’ll discuss them thoroughly. But let’s not jump to conclusions. We'll get the test results back as quickly as possible, and then we'll go from there. Right now, we just need to gather more information. Do you have any allergies to any medications?
+PATIENT: Allergies… hmm. Not that I know of, dear. I used to take some pills for my… for my heart, a long time ago. But I stopped taking them years ago. No… I don’t think I have any allergies. Unless… …I once had a rash from some… flowers? A long, long time ago. But that was just a little rash.
+DOCTOR: Alright. And are you currently taking any other medications, vitamins, or supplements?
+PATIENT: No, no. Nothing at all. Just a little bit of tea sometimes. Chamomile, for sleeping. But that's not a medicine, is it?
+DOCTOR: No, chamomile tea isn't a medication. Alright. Well, Soila, I’ve ordered the blood work, and I’ll get the referral for the ultrasound sent over to the clinic. They'll call you to schedule an appointment. In the meantime, try to eat whatever you can tolerate, even if it's just small portions. And if you experience any new or worsening symptoms—like pain, fever, or nausea—please give the clinic a call right away. Do you have any questions for me?
+PATIENT: New or worsening… yes. I’ll remember. Umm… how long will the tests take? And… will they hurt?
+DOCTOR: The blood work should be processed within a few days. The ultrasound… scheduling can sometimes take a week or two, depending on availability. As for pain… the blood draw will be a quick pinch, like a mosquito bite. The ultrasound is completely painless. They’ll just move a wand over your tummy. It’s very gentle. Do you want me to write down the clinic’s number for you?
+PATIENT: Yes, please. That would be very kind. My memory… it isn't what it used to be. And… thank you, Doctor. For being so patient with me.
+DOCTOR: Of course, Soila. That's what I'm here for. Don't hesitate to call if you have any questions or concerns, alright?
+PATIENT: Thank you, dear. I will. Well… I think that’s all. Thank you again, Doctor Havird.
+DOCTOR: You’re very welcome, Soila. Get some rest, and we'll talk soon. Have a good day.
+PATIENT: You too, Doctor. Goodbye.

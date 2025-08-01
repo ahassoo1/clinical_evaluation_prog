@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Jailenne. My name is Dr. Dashevsky. It's nice to meet you. So, what brings you in to see me today?
+PATIENT: Good morning, Dr. Dashevsky, it’s nice to meet you too. Um, well, I've been getting chills lately, and it’s a little concerning. It’s not like a fever chill, just… cold.
+DOCTOR: Okay, chills… and you said it’s not accompanied by a fever?
+PATIENT: No, not a fever. At least, I haven’t checked, but I don’t feel hot or anything. Just… shivery. It happens on and off, not constantly.
+DOCTOR: Alright. And when did you first start noticing these chills?
+PATIENT: Hmm, that’s a good question. Let me think… probably about three days ago? Maybe four? It was after I went to that outdoor concert with my friend, but I don’t know if it’s related. It was a bit chilly that night, but nothing crazy.
+DOCTOR: Okay, about three or four days ago, potentially after an outdoor concert where it was a little chilly. And have you noticed anything else happening at the same time as the chills?
+PATIENT: Well, I’ve been a little more tired than usual, I guess. Not like, can’t-get-out-of-bed tired, but just… needing more naps. And maybe a tiny bit achy, like my muscles feel a little sore, but honestly, I do a lot of gardening, so I'm often a bit achy. It's hard to tell what's normal for me, you know?
+DOCTOR: Yes, I understand. That makes it trickier. So, increased fatigue and some muscle aches along with the chills. Is the muscle ache all over, or is it localized to specific areas?
+PATIENT: It’s mostly in my back, actually. Lower back, to be specific. And sometimes in my shoulders. I did lift a lot of soil last week preparing the garden for planting, so I just figured it was that. But the chills… that’s what’s worrying me.
+DOCTOR: Okay, lower back and shoulder aches, potentially related to gardening. And the chills are what prompted you to come in. Have you had any other symptoms like a cough, sore throat, runny nose, nausea, vomiting, or diarrhea?
+PATIENT: No, nothing like that. No cough, no sore throat, definitely no stomach stuff. Just the chills and the tiredness and the back ache. Honestly, I thought maybe I just pushed myself too hard with the gardening and was run down, but it’s not getting better, and the chills are… unsettling.
+DOCTOR: Alright. No other symptoms. I understand your concern about the chills not improving. Now, have you traveled anywhere recently?
+PATIENT: No, I haven't travelled anywhere. Just been pottering around here, really. Haven’t left the state in… oh gosh, ages, probably.
+DOCTOR: Okay, no recent travel. Let’s talk a little bit about your medical history. Do you have any pre-existing medical conditions that I should be aware of?
+PATIENT: Um, no, not really. I had a really bad bout of the flu a few years back, but I recovered fine. And I have some mild allergies, mostly to pollen, but I manage those with over-the-counter antihistamines. Nothing serious, though. I'm generally pretty healthy, to be honest.
+DOCTOR: Okay, good to know. No major medical conditions, just a history of the flu and some pollen allergies managed with antihistamines. Are you currently taking any medications, even over-the-counter ones besides the antihistamines?
+PATIENT: Just the antihistamines when the pollen count is high, and sometimes I take ibuprofen if my back is really bothering me, which it has been lately, like I said. But that's it. Really.
+DOCTOR: Okay, antihistamines as needed for allergies and ibuprofen for back pain. And have you had any surgeries in the past?
+PATIENT: No, never had surgery. Lucky me, I guess!
+DOCTOR: Good to know. Now, do any medical conditions run in your family?
+PATIENT: Hmm… My mum has high blood pressure, and my dad had some heart problems when he got older. And my grandma had arthritis, but that's about it, I think. Nothing too major.
+DOCTOR: Okay, high blood pressure in your mother, heart problems in your father, and arthritis in your grandmother. Now, can you tell me a little about your lifestyle?
+PATIENT: Sure. Well, I work as a health education specialist, so I spend a lot of time on my feet giving presentations, which is good exercise. I love gardening, like we talked about. I eat pretty healthy, mostly, lots of fruits and vegetables. I don’t smoke, and I only drink occasionally, maybe a glass of wine with dinner sometimes.
+DOCTOR: That’s all very helpful, thank you. And finally, do you have any allergies to medications?
+PATIENT: No, no allergies to any medications that I know of. I’ve never had a reaction to anything before.
+DOCTOR: Okay, fantastic. That’s a very thorough history, Jailenne. Now, I'd like to do a brief physical exam, if you don't mind. I’ll listen to your heart and lungs, check your temperature, and take a look at your throat and ears. Would that be alright?
+PATIENT: Yes, absolutely. That sounds fine. Go ahead.
+DOCTOR: Okay, your temperature is normal. Now I’m going to listen to your heart and lungs. Your heart sounds regular, and your lungs are clear. No wheezing or crackles. Your throat looks a little red, but no signs of infection. Your ears are clear as well. Now, I'm going to palpate your lymph nodes to check for swelling. Your lymph nodes aren’t swollen, which is good. Do you feel any tenderness when I press here?
+PATIENT: No, that doesn't hurt. Not really. A little pressure, but not pain.
+DOCTOR: Okay, good. And can you bend forward and touch your toes for me?
+PATIENT: Okay, done. It's a little stiff, but I can do it. It probably just means I need to stretch more.
+DOCTOR: Okay, thanks. Alright. Based on what you've told me and the physical exam, it sounds like you likely have a mild viral illness, possibly with some muscle strain from gardening. The chills, fatigue, and muscle aches are consistent with a virus, and the slight redness in your throat could be from that as well. The stiffness in your lower back is probably related to the gardening. However, because the chills persist, and we want to rule out anything more serious, I’d like to order a complete blood count and a basic metabolic panel just to be sure. Would that be alright?
+PATIENT: Yes, that sounds sensible. If it puts my mind at ease, then absolutely. A blood test is fine. I don't mind at all.
+DOCTOR: Great. Okay, I'll write the orders for the lab tests now. The lab is just down the hall, and they'll take care of you. It’s just a routine blood draw. Once the results are back – usually within 24-48 hours – we can schedule a follow-up appointment to discuss them. In the meantime, I recommend getting plenty of rest, drinking lots of fluids, and taking over-the-counter pain relievers like ibuprofen or acetaminophen for the aches and pains. If your symptoms worsen, or if you develop a fever, cough, or shortness of breath, please contact the clinic immediately. Does that sound good?
+PATIENT: Yes, that sounds perfect. Rest, fluids, and pain relievers. I can do that. Thank you so much, Dr. Dashevsky. I appreciate you taking the time to listen and check me out.
+DOCTOR: You’re very welcome, Jailenne. I’m glad I could help. The nurse will be in shortly to draw your blood. Don't hesitate to call if you have any questions or concerns before your follow-up appointment. Have a good day, and I hope you feel better soon.

@@ -1,0 +1,19 @@
+DOCTOR: Right. Nathaiel Paguiio, 47 years old. So, Mr. Paguiio, what brings you in today?
+PATIENT: Oh, hello! Well, it's about getting some vaccinations, if that’s alright. I think I need to update a few, to be safe, you know? I just want to make sure I'm all set.
+DOCTOR: Vaccinations. Alright. And you’re thinking you’re due for some?
+PATIENT: Yes, I believe so. I… I don’t have all the dates right in front of me, honestly. That’s why I wanted to come in, to see what I need. Is there a record here, maybe? I’m pretty good with remembering what happened, but the when… not so much.
+DOCTOR: Let’s see… Medicare records aren’t always the most detailed, are they?
+PATIENT: No, they aren't! I’ve found that out the hard way a couple of times. It’s alright though, we can figure it out. Do you have any idea which vaccinations you're thinking of? Like, tetanus, flu, anything like that?
+DOCTOR: Honestly, at your age, you should be current on pretty much everything standard. Tetanus booster every ten years, annual flu shot… the usual. But let's not waste time guessing. Have you had a flu shot last year?
+PATIENT: Hmm… last year… I think so? I usually try to, around October or November. I went to that pharmacy down on Elm Street, I think. But… honestly, I can't be certain. It was a busy season, and I was helping my cousin with something then, so I was running around a lot. Did they send anything to Medicare? That might help us know.
+DOCTOR: Well, according to this… there's nothing on record for a flu shot last year. And the last tetanus booster was… 2014. That's quite a while ago, Mr. Paguiio. Honestly, you’re quite negligent about these things.
+PATIENT: Oh dear. 2014! That is a long time ago, isn't it? I… I apologize. Life just gets in the way, I suppose. I really do try to keep up with these things, it’s just… difficult sometimes. So, what does that mean? We need both then? A flu shot and a tetanus booster?
+DOCTOR: Yes, precisely. You require both. And frankly, given your weight… … it's even more important to stay current on your vaccinations. Complications are… less desirable in individuals with a higher BMI. Are you aware of that?
+PATIENT: Oh. I… I hadn’t thought of it that way, no. Complications? That sounds… concerning. What kind of complications are we talking about? And… is that why it’s important to get them now, specifically? I'm a little worried now, to be honest. I try to eat healthy… well, I try!
+DOCTOR: Look, Mr. Paguiio. I’m not going to sit here and explain the intricacies of the immune system to you. Suffice it to say, being overweight puts you at higher risk for any infection, and the consequences are… more severe. We need to get you protected. Now. Are you ready to get the vaccinations, or do you need me to explain basic biology?
+PATIENT: Oh, no, no, please, no need for a biology lesson! You're right, I trust your judgment. I… I just get a little anxious sometimes. Yes, let's just get them done, please. Whatever you recommend is fine with me. What's the best way to do it? Will it hurt a lot? I'm a little… sensitive.
+DOCTOR: Alright. Well, you’ll receive both vaccinations in your deltoid muscle – upper arm. It's a standard procedure. There will be a slight sting, naturally. It's… not pleasant, but you won't be incapacitated. I'll have the nurse come in and administer them. Honestly, the anxiety is worse than the actual injection. Nurse! Paguiio, vaccinations, please!
+PATIENT: Okay, thank you. I appreciate you explaining it, even if it’s just a little bit. And… thank you for getting the nurse. I'm ready when she is. I really do want to get this done and not worry about it anymore.
+DOCTOR: Alright, Mr. Paguiio, just relax your arm for me. A little sting, and then you're all set. Doctor, which arm first?
+PATIENT: .
+DOCTOR: .

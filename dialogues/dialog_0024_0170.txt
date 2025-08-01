@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Putney. I am Dr. Mutnick. So, tell me, what brings you in today?
+PATIENT: Morning, Doctor. Just here for a life insurance thing. They need me to get checked out, that’s all. Want to get it over with quick if we can.
+DOCTOR: A life insurance physical. Yes, quite common. Well, “quick” is relative, Mr. Putney. There are certain procedures we must follow to ensure accuracy. It's not simply a matter of...expediency. But we will be as efficient as possible. Let’s start with your medical history. Have you been seen by a physician regularly?
+PATIENT: Not really, no. Used to go when I had better insurance, but… Medicare doesn’t really cover check-ups, does it? Mostly just go when somethin’s really wrong. It's been a while since I’ve seen anyone.
+DOCTOR: I see. A rather…reactive approach to healthcare. Very well. Have you been hospitalized for anything in the past?
+PATIENT: Hmm… let me think. When I was a kid, maybe? I broke my arm once, playing. And… my wife, she had to go to the hospital a few times, but that wasn't me. Other than that, not that I recall. It was a long time ago though. It's hard to remember everything.
+DOCTOR: And any surgeries?
+PATIENT: No surgeries. Never had any. Nope. Nothing like that. I'm pretty lucky, I guess. Aside from the usual aches and pains of gettin' older.
+DOCTOR: "Lucky" is not a medical term, Mr. Putney. Now, your family history. Are your parents still living?
+PATIENT: No, they both passed. My dad, he… well, he had some heart trouble. And my mom, she had diabetes, I think. It was a while back, before I really paid attention to things. I don't know much about what caused it, just that they were sick.
+DOCTOR: Heart trouble and diabetes. Common enough. Do you have any siblings?
+PATIENT: Yeah, I got two sisters. Both living, as far as I know. I don't see them much, though. They moved away a long time ago, to the mainland. I think one of them has high blood pressure, but I'm not sure. We don't really talk about health stuff.
+DOCTOR: Very well. Now, let’s discuss your current lifestyle. Do you smoke?
+PATIENT: No, never smoked. Never liked it. Bad for you, right? Always thought so.
+DOCTOR: A sensible decision. Alcohol consumption?
+PATIENT: Just a beer now and then. Maybe one or two on the weekend. Nothing crazy. I don't really drink much. It's not my thing. Mostly just water, really.
+DOCTOR: And any medications you are currently taking?
+PATIENT: Nope. Nothing at all. Just… the occasional pain reliever for my back, if it's really botherin' me. But that's it. Over the counter stuff. Doesn't really count, does it?
+DOCTOR: Everything is relevant, Mr. Putney. Even over-the-counter medications. What, specifically, do you take for your back?
+PATIENT: Uh… ibuprofen, usually. Or… sometimes naproxen, if the ibuprofen doesn’t work. The kind you get at the drugstore. I don't remember the exact name of the brand, there's a lot of 'em. It's for the aches, you know? Not a regular thing, just when I need it.
+DOCTOR: Very well. Now, let's proceed with a physical examination. Please step onto the scale.
+PATIENT: Okay, fine. Let’s just get this over with.
+DOCTOR: 97 kilograms. That is…above the ideal range, Mr. Putney. I will document that. Now, please face away from me. I need to listen to your heart and lungs. Take a deep breath…and exhale.
+PATIENT: Is somethin' wrong? You sound…serious. I just want to know if everything is okay. I told you, I'm pretty healthy. Mostly.
+DOCTOR: Your breathing is slightly labored, and I detect a slight irregularity in your heart rhythm. It’s…not immediately alarming, but it warrants further investigation. I will need to check your blood pressure, and then we will discuss some possible tests. Please extend your arm.
+PATIENT: Okay… that doesn't sound good. What kind of tests? I don't like tests. Are they expensive? I'm on Medicare, you know…
+DOCTOR: Your blood pressure is elevated, Mr. Putney. 150/90. That requires attention. As for tests, we will start with a basic blood panel and an EKG to assess your heart function. They are standard procedures. As for cost…Medicare should cover the majority, but there may be a co-pay. We will have the billing department verify your coverage. Now, please sit back down. I need to ask you about any recent symptoms…chest pain, shortness of breath, swelling in your ankles… anything unusual at all?
+PATIENT: Well… now that you mention it, my ankles have been a little puffy lately. And sometimes I get a little winded walkin' up the stairs, but I figured that was just gettin' older. No chest pain, though. Never had that. Just the puffy ankles and feelin’ tired sometimes. Is that bad? I really don’t want to be sick.
+DOCTOR: Puffy ankles and fatigue… combined with the elevated blood pressure and irregular heart rhythm, it suggests a potential cardiovascular issue. It is not something to dismiss, Mr. Putney. We will need to rule out several possibilities. I am going to order an EKG and a comprehensive blood panel, including a lipid profile and a complete metabolic panel. I will also order a urinalysis. This will give us a clearer picture of your overall health. In the meantime, I recommend you limit your sodium intake and engage in light exercise, if you are able. I will have my nurse schedule these tests for you immediately. .
+PATIENT: Okay… fine. Whatever you think is best. Just… don't tell me I need surgery, okay? I really don't want surgery. And can the nurse tell me how much this is going to cost? I need to know.

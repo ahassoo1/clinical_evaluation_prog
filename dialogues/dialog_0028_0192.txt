@@ -1,0 +1,36 @@
+DOCTOR: Right. Mr. Hartness, yes. So, what brings you in today?
+PATIENT: Well, it's about this exam. For the… the army thing. They want me to get checked out before I can… you know. Sign up. It's all very important, apparently. My wife said I should come. She worries too much, honestly. But better safe than sorry, I guess.
+DOCTOR: An army physical. Right. And your wife suggested this… for due diligence?
+PATIENT: Due diligence. That’s a fancy way to put it. She just doesn’t want me getting… rejected or something. Says I’m not as young as I used to be. Which is true, obviously. I’m fifty-one. Not a spring chicken. But I still work hard, you know? I build engines all day. It’s physical work.
+DOCTOR: Yes, well. We'll see. Let's just get through this quickly. Have you had any… significant medical problems in the past?
+PATIENT: Significant? Hmm. Not really. I broke my arm when I was a kid, climbing a tree. And I had the flu a couple times, like everyone does. Nothing… serious. Never been to the hospital for anything big. Just the usual aches and pains from work, I suppose.
+DOCTOR: And any surgeries?
+PATIENT: No surgeries. Never needed any. I eat alright, I guess. Not fancy food or anything. Just… normal Swedish food. Meatballs, potatoes, that sort of thing. My wife is a good cook. Keeps me… functional.
+DOCTOR: Functional. Alright. Any medications you’re currently taking?
+PATIENT: No. Nothing at all. I don’t like taking pills if I can avoid it. Makes you feel… slow. And I need to be sharp, you know? For the exam, and for work.
+DOCTOR: Any allergies to medications, food, or anything else?
+PATIENT: Nope. Not that I know of. My wife sometimes uses a strong perfume, and it makes my eyes water a little, but that's not an allergy, is it? Just… strong.
+DOCTOR: No, that's not an allergy. Alright. And family history… any major illnesses run in your family?
+PATIENT: Hmm. My father had… something with his heart, I think. He was always tired. And my mother… well, she just got old. Like everyone does. Nothing… dramatic. Lots of Swedes live long lives. It’s in the genes, probably.
+DOCTOR: Alright. And to clarify, when you say “something with his heart,” do you know if it was high blood pressure, a heart attack, or something else?
+PATIENT: No, I don't. He never went to the doctor much. Old-fashioned man, you know? He just… slowed down. He sat in his chair a lot more. And then… he wasn’t anymore. My wife asked, but nobody really knew the details.
+DOCTOR: Right. Well. Let's move on to current symptoms. Are you experiencing any pain, shortness of breath, fatigue, dizziness… anything at all out of the ordinary?
+PATIENT: Well… now that you mention it, my back's been a little stiff lately. From lifting things at work. It's nothing I haven't dealt with before. And sometimes I feel a bit tired at the end of the day, but who doesn't? I'm fifty-one, remember?
+DOCTOR: When you say “stiff”, can you describe the pain?
+PATIENT: It’s… a dull ache, mostly. Not sharp, not stabbing. It’s worse after I’ve been bending over a lot, working on an engine. It eases up if I sit down and rest. My wife rubs it sometimes, with a cream. Helps a little.
+DOCTOR: Alright. And how about shortness of breath?
+PATIENT: No shortness of breath. I can breathe just fine. I walked up the stairs here, didn't I? Not puffing and panting. I’m a practical man, I know my limits. If I couldn't breathe, I wouldn't be here.
+DOCTOR: And any dizziness?
+PATIENT: No dizziness. Never had a problem with that either. I get a bit lightheaded if I stand up too fast sometimes, but that’s just… old age, I suppose. Everyone does that, don’t they?
+DOCTOR: Alright. Let's do a quick physical exam, then. Please step onto the scale.
+PATIENT: Fine. Just get it over with.
+DOCTOR: Hmm. 187 centimeters, 53 kilograms. Rather… slender. Blood pressure is 130 over 80. Pulse is 72. Respiration… normal. Lungs are clear. Heart sounds… unremarkable. Abdomen is soft, non-tender. Reflexes are… present. Everything seems… within normal limits.
+PATIENT: Within normal limits, you say? Well, I should hope so. I told you I was functional. So, can I go now? I've got work to do.
+DOCTOR: Given your age and slender build, and the vague reports of back stiffness, I recommend a Vitamin D supplement, and to continue with whatever you are doing for your back. However, given your father’s history, I suggest a basic EKG to rule out any cardiac abnormalities. It's just a precaution, given your desired activity. Do you consent to an EKG?
+PATIENT: An EKG? For a bit of backache and being… slender? Honestly. My wife will be thrilled. Is it going to take long? And how much is it going to cost? I’m not made of money, you know.
+DOCTOR: It's a standard procedure, Mr. Hartness. Takes five minutes. As for the cost… I’m not the billing department. It will be… reasonable. Considering your stated goals, it's a prudent step. Do you want the EKG or not?
+PATIENT: Prudent. Right. Fine. Do it. Just get it over with. But if it costs too much, I'm blaming you.
+DOCTOR: We'll need to get an EKG done, please. Quickly. The technician will explain everything. Just lie still.
+PATIENT: Lie still. As if I don't know how to lie still. Honestly.
+DOCTOR: Alright. The results are back. There’s a slight… irregularity. Nothing alarming, but it warrants further investigation. I recommend a consultation with a cardiologist. It's best to be safe. Do not begin any strenuous activity until you've been cleared by a specialist. I'll write you a referral. It's… better to know. .
+PATIENT: A cardiologist? Now you're just trying to get more money out of me. Irregularity? I feel fine! This is ridiculous. Fine. Write your referral. But I'm telling you, this is a waste of my time. And my money. .

@@ -1,0 +1,13 @@
+DOCTOR: Alright, Mr. Croonquist, good to see you. Though, honestly, people your age… it’s a wonder you’re still coming in for routine things. Now, what brings you in today?
+PATIENT: Routine? Oh, uh… right. The lab work. That’s it. Just the lab work, please. I don’t… I don't really remember why I need it, just that the nice lady on the phone said I did. Is that alright? I'd like to get it over with quickly, if possible.
+DOCTOR: The “nice lady on the phone,” right. Well, someone clearly thought it was important. Honestly, at your age, things tend to just… happen. Alright, let’s not dwell. We'll get the lab work done. But I really need to understand why you're here. Was this a follow-up for something specific?
+PATIENT: Specific… hmm. No, I don’t think so. Look, I apologize. My memory isn’t what it used to be. I just… I get a call, they tell me to come in for tests, and I come in. I don’t recall a previous visit, or a doctor telling me anything. Maybe it was a long time ago? Is that… is that a problem? I’m sorry to be difficult.
+DOCTOR: No, it’s not… ideal. Let me pull up your records… ah. Okay, it says here you had a general check-up about… three years ago. Blood work then was… unremarkable. Honestly, these notes are pretty sparse. Alright. So, three years ago, everything was fine. Now, you're just here for… repeat blood work, as requested by the front desk?
+PATIENT: The front desk… yes, that sounds right. Three years ago… I suppose that’s possible. I really don’t remember. I live alone, you see. Don’t have anyone to remind me of these things. Just… do the blood work, please? I feel a bit… flustered trying to recall everything. Is there a form I need to sign?
+DOCTOR: Alright, alright. No need to get upset. Here. Just your basic consent and insurance information. Medicare, right?
+PATIENT: Yes, Medicare. That’s correct. Here we go… name, address… all this seems right. Honestly, I just hope this doesn’t take too long. I have… things to do.
+DOCTOR: Alright. Just down the hall, first door on the left. They’ll draw the blood. Tell them Dr. Osterholm sent you. It shouldn’t be long. And please, try to relax. Getting worked up won’t help anyone. After the blood work, come back and we can discuss… whatever they find. Honestly, I’m not even sure what we’re looking for.
+PATIENT: Right. Down the hall. Thank you. Honestly, this is all a bit much. But… thank you.
+DOCTOR: Yes, yes. Go ahead. Don't worry about it. Honestly, people your age… it's always something.
+PATIENT: .
+DOCTOR: Right.

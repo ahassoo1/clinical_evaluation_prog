@@ -1,0 +1,26 @@
+DOCTOR: Right. Mr. Goodstein, is it?
+PATIENT: Yes, that is correct. Jammal Goodstein. It is a pleasure to meet you, Doctor...Sink, is it?
+DOCTOR: Yes, Sink is fine. Let’s not waste time with pleasantries. You're here today because…?
+PATIENT: Well, Doctor Sink, it is...difficult to explain politely, but I have been having…a lot of gas. More than usual. It is…uncomfortable, and sometimes…embarrassing. I thought perhaps you could help me understand what is going on?
+DOCTOR: Gas. Right. And how long has this… “excessive gas” been occurring?
+PATIENT: Oh, let me think… it started, I believe, sometime in late June. Perhaps the last week of June? It has gotten…steadily worse since then, I would say. Not suddenly, just… more and more. I can remember exactly when I ate a particularly spicy sausage, though - that seemed to be a turning point!
+DOCTOR: Spicy sausage, you say. Interesting. And apart from the… dietary indiscretion, have you noticed anything else?
+PATIENT: Hmm... let me see. No, not really. I mean, I eat pretty much the same things as always. I have not been traveling. No new medications. My appetite is normal. I sleep okay. Oh! Except… sometimes my stomach feels a little… bloated, even when I haven't eaten much. It’s not pain, exactly. More like… fullness. A heavy feeling.
+DOCTOR: Bloating. And how would you rate this bloating, on a scale of one to ten, with ten being the most severe?
+PATIENT: Oh, a scale, yes. That is… a good way to put it. Hmm. Most of the time, it is probably a three or four. Not terrible, just… noticeable. But after eating, particularly if I have had something… rich, it can go up to maybe a six or seven. It is uncomfortable, but I have not needed to… miss work or anything.
+DOCTOR: Right. And have you had any changes in your bowel habits?
+PATIENT: Changes? You mean… going to the bathroom? Yes, a little. I am…going more frequently than usual, I think. And it’s… softer. Not diarrhea, exactly, but not as… solid as it normally is. Does that make sense, Doctor? I hope I am not being too… detailed.
+DOCTOR: Details are…necessary. And are you experiencing any abdominal pain, nausea, vomiting, fever, or weight loss?
+PATIENT: No, no pain at all. No nausea or vomiting. I have not had a fever. And I believe I have actually gained a little weight recently, if anything! I enjoy a good meal, you see. Not a lot, but… maybe a pound or two. It’s not a worry, I don't think.
+DOCTOR: Alright. Lie back on the examination table. Let me have a quick listen, and then I'll feel your abdomen. Not particularly tender to the touch... bowel sounds are present. Anything painful here?
+PATIENT: No, Doctor, that doesn’t hurt. A little pressure, perhaps, but no pain. I am… a little sensitive in the lower left side, maybe? But it is not sharp or anything. Just… aware of it. Like a fullness, you understand?
+DOCTOR: Hmm. Well, it sounds like you have a classic case of… indigestion. Likely related to your dietary habits, as you mentioned the spicy sausage. Perhaps you should consider a bland diet for a few days. Avoid spicy foods, dairy, and carbonated beverages. Over-the-counter gas relief medication may also provide some temporary relief.
+PATIENT: A bland diet… yes, that makes sense. I suppose I do enjoy my richer foods. And I have noticed dairy sometimes… unsettles me a little. Gas relief medication… I believe I have seen those at the store. So, you don’t think it is anything…serious?
+DOCTOR: Serious?
+PATIENT: Well, Doctor, I just… I worry sometimes. My mother, she always said a healthy gut is a happy life. And with all this gas… it doesn’t feel very happy. It’s just… unsettling. I would like to be certain it is not something I should be overly concerned about.
+DOCTOR: Look, I have more patients waiting. I can order a stool sample to rule out anything… unusual. But frankly, I highly doubt it’s necessary. It’s most likely just a digestive upset. We can also check a complete blood count to be certain, although again, I suspect it will be perfectly normal. Do you agree to these tests?
+PATIENT: Yes, Doctor, that would be wonderful. A stool sample… and the blood count. It would give me great peace of mind, you see. I appreciate you taking the time to consider it. And, if everything is normal, would you… recommend anything to help prevent this in the future?
+DOCTOR: Alright. I'm ordering both tests. The lab results should be available in about a week. In the meantime, follow the dietary recommendations I previously gave you. And consider probiotics. They sometimes help. Don't bother me unless you develop a fever, severe abdominal pain, or bloody stools. Next.
+PATIENT: Very good, Doctor. Thank you for your time and assistance. I will follow your instructions carefully. I appreciate the tests and the advice. And thank you again for listening to my… concerns. I will be sure to contact the lab about the results. Have a good day, Doctor Sink.
+DOCTOR: Right. Good day. .
+PATIENT: .

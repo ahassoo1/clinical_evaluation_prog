@@ -1,0 +1,34 @@
+DOCTOR: Alright, Mr. Way. Good to see you, I guess. So, what brings you in today?
+PATIENT: Well, good to see you too, Doctor Billman. It's this pain, see? It's been bothering me for a while now. Just…hurts, you know?
+DOCTOR: “Hurts,” right. Everyone says that. Can you be a little more specific?
+PATIENT: Oh, sorry, sorry. It’s…it’s in my lower back. Like, right at the small of my back. It kinda shoots down my leg sometimes too, the left one. Not all the time, thankfully. It’s just a dull ache most of the time, but if I bend over or try to lift something…oof. That's when it really hurts.
+DOCTOR: “Shoots down your leg,” you say. Okay. How long has this been going on?
+PATIENT: Hmm…let me think. It started…maybe three months ago? It wasn’t bad at first, just a little stiffness after gardening, you know? But it’s gotten worse each week, I think. I didn't really pay it much mind at first, thought it'd just go away on its own. I guess I was wrong.
+DOCTOR: Three months…okay. And what kind of gardening are we talking about here?
+PATIENT: Oh, just the usual. Tomatoes, some peppers, a little bit of everything, really. Nothing too heavy lifting, mostly weeding and watering, getting down low to plant things. My wife usually handles the bigger stuff, thankfully. She's got the stronger back!
+DOCTOR: Right. So, you're a gardener. Let’s try to narrow this down. Does anything specifically make it better?
+PATIENT: Hmm…well, lying down helps. Especially on my side, with a pillow between my knees. And heat, you know? A warm bath. That kinda takes the edge off for a bit. But it always comes back, doesn't it? It doesn’t stay better, if that makes sense.
+DOCTOR: Lying down…heat…classic. Okay. Any numbness or tingling in your leg or foot?
+PATIENT: Sometimes, yeah. Not all the time, like the pain. But when it’s really bad, my left foot feels kinda…prickly. And sometimes it feels a little…weak? Not like I can't walk, but it just doesn’t feel as strong as it usually does.
+DOCTOR: Alright. And have you tried anything for it besides heat and lying down?
+PATIENT: Oh, yeah. My wife gave me some of those…Ibuprofen, I think it was? The over-the-counter stuff. Helped a little, for a few hours maybe. But I didn't want to just keep taking pills, you know? Didn't seem like a good idea. And besides, it wasn't really doing much after a while.
+DOCTOR: Okay. Let's get a quick look at your back, alright?
+PATIENT: Sure, Doctor. Whatever you think is best.
+DOCTOR: Just lie face down on the table, if you can. I need to check your range of motion. Try to relax. And please, try not to anticipate the pain. That just makes things worse.
+PATIENT: Okay, okay. Relax…right. Easier said than done, I guess. I’ll try my best, Doctor. Just let me know if you need me to do anything.
+DOCTOR: Okay…a little tenderness right here…and here. Does that hurt?
+PATIENT: Oof! Yeah, that’s…that’s a bit sore. Not terrible, but definitely feels it. Like a dull ache that spreads down my leg a little.
+DOCTOR: Okay. Now, lift your left leg straight up. Just as high as you comfortably can. Don’t push yourself.
+PATIENT: Okay…that’s about as high as I can go without really feeling it. It kinda pulls in my back. It's not easy, Doc.
+DOCTOR: Alright. Now, lift your right leg straight up. Same thing, just as high as you comfortably can. Hmm…okay. Now, try to point your toes. Both feet.
+PATIENT: There. Toes are pointed. It's…tight. Everything feels tight, you know? Like something's pulling. Does that help you see something?
+DOCTOR: Okay. Reflexes are…present. A little diminished on the left side, but not alarming. Alright. Let’s have you sit up slowly. Based on what you’ve told me and the quick exam, it sounds like you’ve got a classic case of lumbar radiculopathy. Basically, a pinched nerve in your lower back. Gardening, of course. It's always something people do with their bodies that causes problems.
+PATIENT: Lumbar…what now? A pinched nerve? Is that…bad? And you really think it’s from the gardening? I mean, I don’t do anything too strenuous. So what does that mean? Do I need…surgery or something?
+DOCTOR: Surgery is always the first thing people jump to. Calm down. It’s not an emergency. Lumbar radiculopathy means a nerve root in your lower back is being compressed, probably by a disc or some other narrowing of the space. Gardening likely exacerbated an underlying issue. Most cases resolve with conservative treatment. We’ll start with physical therapy – exercises to strengthen your core and back muscles, improve your posture, and relieve the pressure on the nerve. I’m going to prescribe you some muscle relaxants to help with the pain and inflammation, and a non-steroidal anti-inflammatory drug – naproxen – to reduce the swelling. I’m also going to give you a handout with some exercises you can do at home. Pay attention to proper form. You don't want to make it worse. If you don't see improvement in four weeks, then we can talk about imaging – an MRI to get a better look at the discs. But let’s not get ahead of ourselves. Here. Read this carefully. And no heavy lifting. Not even tomatoes. Got it?
+PATIENT: Okay…physical therapy…muscle relaxants…naproxen…no heavy lifting. Four weeks…to see if it gets better. And no tomatoes. That’s…a lot to remember. Will the muscle relaxants make me sleepy? I need to be able to, you know, function. I guess I can try it, but I really don't want to end up needing surgery. Is this a common thing? Do a lot of people have this?
+DOCTOR: Common?
+PATIENT: Yes, common.
+DOCTOR: Look, a lot of people sit at desks all day, they have bad posture, they lift things the wrong way, they don’t exercise…it’s a modern epidemic. This happens all the time. The muscle relaxants can cause some drowsiness, yes. Start with a low dose, take them at night before bed, and see how you feel. Don't operate heavy machinery, obviously. And if it's really bothering you, stop taking them. Do you have any other questions?
+PATIENT: Well… I guess not. Just…try not to lift anything too heavy and see if it gets better. Physical therapy and…take the pills at night. I think that covers it. Thank you, Doctor. I hope this works. I really don't want to have to stop gardening.
+DOCTOR: Alright. Follow up with my nurse in four weeks. She’ll schedule another appointment if necessary. And try to be more careful with your back. Next! .
+PATIENT: .

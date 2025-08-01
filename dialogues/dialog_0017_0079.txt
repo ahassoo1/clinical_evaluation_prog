@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Ms. Hainley. I am Dr. Blim. Now, let’s get straight to it. What brings you in today?
+PATIENT: Morning, Doctor. Straight to it is good with me. It's my bruising. It's been...worse lately, even though I'm taking the blood thinner like I'm supposed to. It just seems to happen with anything now, even little bumps.
+DOCTOR: "Worse lately," you say. And you are currently prescribed a blood thinner?
+PATIENT: Yes, Doctor. Warfarin, I think it is? The little orange pills. Started taking them about six months ago, after…well, after the blood clot in my leg. And like I said, everything causes a bruise now. It's a bit scary, honestly.
+DOCTOR: Six months, alright. And you’ve been diligent with the Warfarin, consistently taking the prescribed dosage?
+PATIENT: Yes, very diligent. Every night, same time. I have a pill organizer, Doctor. I don't mess around with that stuff. It’s important, you know? I remember taking them, every single one.
+DOCTOR: Good. That's...reassuring. Now, let's get a detailed history. When you say "anything," can you be more specific?
+PATIENT: Okay, specifics… hmm. Last week, I bumped my arm on the corner of the kitchen counter – nothing hard – and ended up with a bruise the size of my hand. And yesterday, I just…carried a grocery bag that felt a little heavy and got one on my forearm. Little things, Doctor. Things that wouldn't have even registered before.
+DOCTOR: And these bruises… are they painful?
+PATIENT: Not terribly, no. More…tender, and they show up so easily. It's not like agonizing pain, but enough to notice. And they take ages to go away, longer than they used to. It’s worrying, that's all.
+DOCTOR: Alright. Let's move on to other medications. Are you taking anything else besides the Warfarin?
+PATIENT: Just the occasional ibuprofen for headaches, Doctor. Like, once or twice a month, maybe? Nothing regular. And a multivitamin, but that's it. I try to stay away from pills if I can. Honestly, I don’t take much of anything.
+DOCTOR: Ibuprofen…yes, that's important. It can interact with Warfarin. And any herbal supplements?
+PATIENT: No, no herbal supplements. I don't really believe in that stuff. Just…the multivitamin, like I said. And ibuprofen when my head really pounds. Is that a problem? I didn’t think it was, honestly.
+DOCTOR: It can be. Now, have you noticed any other unusual bleeding?
+PATIENT: Unusual bleeding… hmm. Not really. Maybe my gums bleed a little when I brush really hard, but that’s always been the case, honestly. And… oh! I had a nosebleed about a month ago, but it stopped pretty quickly. Nothing major. Does that count?
+DOCTOR: It… contributes to the picture. Now, let’s move on. Any family history of bleeding disorders?
+PATIENT: Bleeding disorders… not that I know of. My mum had high blood pressure, and my dad had diabetes, but nothing about bleeding. We’re Tongan, you know? We’re pretty sturdy people. Not much goes wrong, usually.
+DOCTOR: Alright. I'm going to need to do a brief physical examination. Please, have a seat on the examination table. I need to check your blood pressure, pulse, and look at the bruising. It will be a quick assessment.
+PATIENT: Okay, fine. Let's get it over with. The sooner I know, the better.
+DOCTOR: Blood pressure is 138/82. Pulse is 72 and regular. Auscultation unremarkable. Bruising noted on both forearms, varying shades of purple and blue. No palpable masses. Tenderness to palpation noted, but no acute signs of infection. The bruising appears consistent with easy bruising, but we need to rule out other causes. I'll order a complete blood count and a PT/INR to assess your clotting factors.
+PATIENT: Okay. That sounds…thorough. PT/INR? Is that going to take long? I have an appointment later this afternoon. I just want to know what's going on. And if I need to worry.
+DOCTOR: The lab work should be relatively quick. I’ll have the nurse draw the blood now. It usually takes about an hour for the results to come back. We’ll review them together then. In the meantime, I recommend avoiding any activities that could cause injury, and certainly no ibuprofen. Understand?
+PATIENT: Yes, Doctor. No ibuprofen. I understand. An hour, okay. I’ll just…sit here, I guess. Just hope it’s nothing serious. Can I at least have a glass of water?
+DOCTOR: Yes, the nurse will bring you a glass of water. Please remain here. I will return shortly with the results of your blood work.
+PATIENT: .

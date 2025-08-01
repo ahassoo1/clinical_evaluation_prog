@@ -1,0 +1,47 @@
+DOCTOR: Good morning, Ms. Fabing. My name is Dr. Christopher Neppl. It’s a pleasure to meet you. To begin, could you tell me what brings you in to see me today?
+PATIENT: Morning, Doctor. It's nice to meet you too. Well, it's not really bringing me in, I guess. Just need to get some forms filled out for Medicare. They said I needed a doctor to sign off on ‘em.
+DOCTOR: Certainly, Ms. Fabing. We handle those forms frequently. While we’re completing those, I do like to take a brief medical history of all my patients, just to have a complete picture. Would that be alright with you?
+PATIENT: Oh, yeah, that’s fine. No problem at all. Just let me know if you need anything special from me. I don’t really go to the doctor much, so I’m not used to all this.
+DOCTOR: That’s perfectly alright, Ms. Fabing. We’ll take it at your pace. Let’s start with the reason for today's visit – the Medicare forms. Are you experiencing any health concerns at the moment, or is this purely for administrative purposes?
+PATIENT: Purely administrative, Doctor. Everything's good, knock on wood. Just gotta get these papers done so I can keep things rolling.
+DOCTOR: Very good. In that case, we can proceed with completing the necessary paperwork. Before we do, could you please confirm your date of birth and current address for my records?
+PATIENT: Sure. My birthday is February 14th, 1990. And my address is 34 Willow Creek Road, Browning, Montana, 59417.
+DOCTOR: Thank you, Ms. Fabing. And just to confirm, you are currently insured under Medicare?
+PATIENT: Yep, that’s right. Medicare Part A and B. Been on it for a little while now, since… well, since I needed it. It's all a bit of a blur, to be honest.
+DOCTOR: I understand. Many people find navigating insurance can be confusing. Alright, Ms. Fabing, to complete these forms, I’ll need to document some basic medical information. Have you had any significant illnesses or hospitalizations in the past?
+PATIENT: Hmm... let me think. Not really. I had chickenpox when I was a kid, like everyone else, and broke my arm once falling out of a tree. But nothing serious. No big hospital stays or anything like that. I've been pretty lucky, I guess.
+DOCTOR: That’s good to hear. And have you ever had any surgeries?
+PATIENT: Nope. Never had any surgery. Always avoided it if I could. Don't much care for the idea of folks cutting me open!
+DOCTOR: I can certainly understand that. Now, Ms. Fabing, are you currently taking any medications – prescription, over-the-counter, or herbal supplements?
+PATIENT: Just a daily multivitamin. And sometimes ibuprofen if my joints are acting up, but that’s about it. Nothing regular. I try to stay away from too many pills if I can.
+DOCTOR: Alright. And do you have any allergies to medications, food, or anything else?
+PATIENT: Nope, not that I know of. I eat pretty much anything. My grandma always said I had a cast-iron stomach! Never had a reaction to anything.
+DOCTOR: Excellent. Now, regarding your family history… are there any significant medical conditions that run in your family – things like heart disease, diabetes, cancer, or mental health conditions?
+PATIENT: Hmm… let me see. My grandpa on my mom's side had heart trouble, I think. And my aunt had diabetes. Other than that, not really. Lots of strong folks on both sides of the family, honestly. We’re Blackfeet, you know? Pretty resilient people.
+DOCTOR: That's good to know. And to get a complete picture, could you tell me a little about your lifestyle?
+PATIENT: Lifestyle… what do you mean by that? Like, hobbies? I like to bead, and spend time with my family. We do a lot of traditional things, like powwows and ceremonies. I try to stay active, help out around the house, stuff like that. Nothing too fancy.
+DOCTOR: That’s wonderful, Ms. Fabing. And do you currently smoke, use tobacco products, or drink alcohol?
+PATIENT: Nope. Never smoked a day in my life. Don’t care for it. And I might have a glass of wine with dinner sometimes, on special occasions, but that’s about it. Not much of a drinker, either.
+DOCTOR: Alright, Ms. Fabing, that gives me a good overview of your medical background. Now, just to be thorough, I’d like to do a brief physical exam. Is that alright with you?
+PATIENT: Oh. A physical exam? I thought this was just for the forms… I mean, if you have to, I guess. But I’m not feeling sick or anything. What kind of exam are we talking about?
+DOCTOR: It’s a very quick and routine exam, Ms. Fabing. Just checking your blood pressure, heart rate, listening to your lungs, and a quick look in your ears and throat. It helps me get a complete picture of your health and ensures there are no underlying concerns. We can skip it if you're truly uncomfortable, but it's standard practice. It will only take a few minutes. Would you like me to explain each step as I go?
+PATIENT: Okay... if it’s quick and you’ll explain what you’re doing, I guess that's alright. I don’t like surprises, you know? And I’m kinda sensitive about people touching me… But if you say it’s routine… go ahead. Just be gentle, okay?
+DOCTOR: Absolutely, Ms. Fabing. I completely understand. I will be as gentle as possible and explain each step before I do it. We'll take it slowly. First, let’s take your blood pressure. I’m just going to wrap this cuff around your arm… It might feel a little tight, but it shouldn’t be uncomfortable. Just relax your arm, please.
+PATIENT: Okay... I'm trying to relax. It is a little tight. Is that thing pumping up my arm? It feels kinda weird.
+DOCTOR: Yes, it is pumping up your arm slightly. It's perfectly normal. It's just inflating to measure the pressure in your arteries. It will only take a moment. Okay, your blood pressure is 122 over 78, which is within a normal range. Now, I’m just going to listen to your heart and lungs with this stethoscope. I’ll place it on your chest… Just breathe normally.
+PATIENT: Okay… It feels a little strange. Are you hearing anything weird? My grandma always said my heartbeat was strong.
+DOCTOR: Your heartbeat is strong and regular, Ms. Fabing, just as your grandmother said. Your lungs sound clear as well. Now, I’m going to take a quick look in your ears and throat with this light. Please open your mouth and say "Ah."
+PATIENT: Ahhhh… Is everything okay? It feels kinda funny with the light in there.
+DOCTOR: Everything looks good, Ms. Fabing. Your throat is clear, and your ears look healthy. No signs of any infection or inflammation. Alright, that concludes the brief physical exam. Overall, you appear to be in good health. Do you have any questions about what I just did or what I found?
+PATIENT: No… not really. Everything seemed okay, you said. That’s good. So, can we just get to the forms now? I just wanna get this over with. I have some beading I need to finish.
+DOCTOR: Certainly, Ms. Fabing. We can absolutely proceed with the Medicare forms now. I just need you to verify some information and sign here and here. Please let me know if you have any questions as we go through them. We'll take our time.
+PATIENT: Okay... This address is right, 34 Willow Creek Road… and my birthday is February 14th… is this about my insurance plan? I think it's Part A and B…
+DOCTOR: Yes, that is correct. This section confirms your address and date of birth, and this next part verifies your Medicare Part A and B coverage. Here, it's asking for your Medicare number. Do you have that readily available?
+PATIENT: Oh! I think it’s on that card… Here it is. It's kinda faded, though. Is that okay? I keep it in there, but everything gets kinda squished.
+DOCTOR: Yes, this is perfect, Ms. Fabing. It's a little faded, but perfectly readable. Now, this last section asks about any authorized representatives who can assist with your healthcare decisions. Do you have anyone you'd like to designate here?
+PATIENT: Hmm... my husband, Dale. He helps me with stuff sometimes. Yeah, put his name down. Dale Fabing. He's a good man. He helps me remember things. It's good to have someone help.
+DOCTOR: Alright, Ms. Fabing, I believe that completes the Medicare forms. Would you mind taking a moment to review them as well, just to ensure everything is accurate?
+PATIENT: Okay… 34 Willow Creek Road… February 14th… Part A and B… Dale Fabing… Yup. That all looks right. I think that’s everything. Thank you, Doctor. You were very patient with me.
+DOCTOR: You're very welcome, Ms. Fabing. It was my pleasure. Here you go. Please keep these for your records. Is there anything else I can assist you with today?
+PATIENT: No, I think that's everything. Thank you again, Doctor. I appreciate your help. Have a good day!
+DOCTOR: You as well, Ms. Fabing. Please don't hesitate to schedule an appointment if you have any health concerns in the future.

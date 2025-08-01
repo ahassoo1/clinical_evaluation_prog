@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Ms. Wease. I'm Dr. Chora. Welcome to the clinic. So, what brings you in today?
+PATIENT: Oh, good morning, Doctor. It’s… well, it’s my waterworks, I suppose. They bother me something awful. Keep getting these… troubles. I don’t rightly remember when it started, just that it happens again and again. It’s very… inconvenient, if you understand.
+DOCTOR: Inconvenient, yes, I understand. Can you tell me a little more about these "troubles"?
+PATIENT: Well, it feels like… burning. Down there. And I have to go to the bathroom all the time. Even when I don’t need to, I feel like I need to. It’s… unpleasant. Honestly, I don’t remember much else. It just… hurts when I go.
+DOCTOR: Burning sensation and frequent urination, even when you don't feel a full need. And pain with urination, correct?
+PATIENT: Yes, that sounds right. Pain, yes. A sharp pain, mostly. It comes and goes, but it's… unsettling. I’ve been trying to drink lots of water, like my mother always said, but it doesn’t seem to help much.
+DOCTOR: Alright. And how long has this been going on, roughly?
+PATIENT: Oh dear… that’s a difficult question. It feels like… a long time. Months, certainly. Maybe even longer? I really can’t put my finger on it. It comes and goes in waves, you see. A few good days, then it’s back again. I truly don’t have a good memory for dates these days.
+DOCTOR: I understand. Months, that gives us something to work with. Now, have you noticed any blood in your urine, or any fever or chills accompanying this?
+PATIENT: Blood? Oh, goodness. I… I don’t think so. I haven’t looked, if that makes sense. I try not to think about it too much. And fever… well, I sometimes feel a little warm, but I thought that was just the weather. It's been awfully hot lately.
+DOCTOR: Alright. No blood in the urine that you've noticed, and any warmth you've felt is likely due to the heat. Now, let's talk about your medical history. Do you have any known medical conditions, like diabetes or high blood pressure?
+PATIENT: Oh, goodness. Let me think… My doctor back in… well, back home, he said my blood pressure was a little high once, but he gave me some pills, and I took them for a while. I stopped taking them, though. They made me feel… dizzy. And… I don’t believe I have anything else. My knees ache, of course, but that’s just old age.
+DOCTOR: High blood pressure in the past, but you stopped taking medication due to dizziness. Okay. Any surgeries or hospitalizations you can recall?
+PATIENT: Hmm… let me see. I had my appendix out when I was a girl, a long, long time ago. And… oh, I broke my arm once, falling from a tree. But that was when I was very young. Nothing else comes to mind. I haven’t been in the hospital in… well, decades.
+DOCTOR: Appendix removed in childhood, broken arm. And no hospitalizations in decades. Do you have any allergies to medications?
+PATIENT: Oh, that's a good question. I don't think so. I haven't taken much in the way of medicine lately. Once, I tried a new pain reliever for my knees, and it made me feel… sick to my stomach. But I don't recall the name of it, and I haven't taken it again.
+DOCTOR: Okay, possible sensitivity to a pain reliever, but nothing definitive. Now, are you currently taking any medications, vitamins, or supplements?
+PATIENT: No, Doctor. Nothing at all. I tried some of those vitamin things a while back, but they didn't seem to do anything, so I stopped. I prefer to just… get on with things, if you understand.
+DOCTOR: Alright. No current medications. Now, let’s talk a little bit about your family. Does anyone in your family have a history of kidney problems, bladder issues, or frequent urinary tract infections?
+PATIENT: Oh, my… that’s a hard question. My mother… she always complained of aches and pains, but I don’t rightly recall anything specific about her bladder. My sister, she had some trouble with her stomach once, but I don’t think it was the same thing. It was a long time ago, and I wasn’t very close to her, you see.
+DOCTOR: Okay. No known family history of kidney or bladder problems. Now, could you tell me a little about your lifestyle?
+PATIENT: Lifestyle… well, I live alone, mostly. I keep busy with a bit of gardening, and I do some tinkering with… things. I used to travel a lot, but that was before my divorce. Now, I just try to stay comfortable. I drink tea, mostly. And I try to eat healthy, though it's hard sometimes when you live by yourself.
+DOCTOR: Alright. Now, just to be thorough, have you been sexually active recently?
+PATIENT: Oh my… Doctor, really? I… I haven’t been… involved with anyone for a very long time. Not since… well, not since my divorce. It's hardly relevant, is it?
+DOCTOR: You are absolutely right to ask that question, Ms. Wease, and I apologize if that was insensitive. It is relevant, but it was poorly phrased. Let’s move on. Now, I’d like to do a quick physical exam if you don’t mind. It'll just involve checking your abdomen and a quick urine sample, if possible. Would that be alright?
+PATIENT: Oh. Well, alright. If you think it’s necessary. I suppose a quick look won’t hurt. I do want to get to the bottom of this, if you understand. A urine sample… yes, I can manage that. Though it might take me a moment.
+DOCTOR: Absolutely. Take your time. There's a restroom just down the hall. I'll be right here when you're ready. After that, I'll just need to listen to your abdomen and do a quick external exam. Let me know when you've collected the sample, and we’ll go from there.
+PATIENT: Alright. Thank you, Doctor. I’ll be right back. .
+DOCTOR: .

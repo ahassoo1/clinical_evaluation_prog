@@ -1,0 +1,25 @@
+DOCTOR: Right. Mr. Barban, yes. So, what brings you in today?
+PATIENT: Uh, yes. The… the paper said something about a check-up. Before the insurance starts. I need to be… approved, I think. Is that right? It’s a bit confusing.
+DOCTOR: A pre-authorization check-up, yes. Medicare can be…particular. Still, we need to determine why you're here. Are you experiencing any specific health problems?
+PATIENT: No. Nothing… specific. I feel… fine. Mostly. I work, you know? Food processing. It is… work. Not a lot of time to have problems, if you understand.
+DOCTOR: “Not a lot of time to have problems.” Right. Well, even healthy individuals benefit from a baseline assessment. It helps us identify potential issues before they become problems. Let's start with a review of your systems. Have you noticed any recent changes in your weight, appetite, or sleep patterns?
+PATIENT: Weight? No change. I always… this weight. Appetite is… normal. I eat. Sleep… sometimes good, sometimes not. The factory is… loud. It makes sleeping hard. Is that what you mean?
+DOCTOR: Okay. Loud environment affecting sleep. Noted. Any fevers, chills, night sweats?
+PATIENT: No. I do not get… sick often. I work too hard to be sick. It is… a waste of time, being sick.
+DOCTOR: Very well. Any pain anywhere?
+PATIENT: Pain? Sometimes. My back, maybe. From… lifting boxes. It is the job. Not… a serious pain. Just… old. Everyone has old aches.
+DOCTOR: Lower back pain, work-related. And what about your bowels?
+PATIENT: Excuse me? I… I do not understand. You ask… strange questions. Is this… necessary?
+DOCTOR: Routine questioning, Mr. Barban. It helps us get a complete picture of your health. Simply, are you having any difficulty with your… digestion?
+PATIENT: Digestion… No. Everything… goes through. Is that what you want to know? It is… private. I do not like this conversation.
+DOCTOR: Alright, alright. We can move on. Any shortness of breath, coughing, or chest pain?
+PATIENT: No. I breathe. I work in a factory, I move things. I do not have time for… delicate breathing. Is this going to take long?
+DOCTOR: Just a few more questions, Mr. Barban. Have you noticed any changes in your urine – color, frequency, or any burning sensation?
+PATIENT: This is enough. I came for the insurance paper. I do not need to… discuss my urine with you. I feel… disrespected. Can we just finish, please? I have work.
+DOCTOR: Very well. I suppose a basic physical exam is in order, then. Please, have a seat. I'll listen to your heart and lungs, and take your blood pressure. After that, I can sign the necessary forms. But understand, this is a very limited assessment given the…circumstances.
+PATIENT: Fine. But quickly, please.
+DOCTOR: Heart sounds are regular, rate is 72. Lungs are clear to auscultation bilaterally. Blood pressure is 130/80. Within normal limits, but perhaps slightly elevated. Abdomen is soft, non-tender. No masses palpated. Alright. I’ll need you to step on the scale, please. Just to confirm your weight.
+PATIENT: There. Is that enough?
+DOCTOR: 90 kilograms. As documented. Alright, Mr. Barban. I've completed the physical examination and documented my findings. I’ll sign the necessary forms for your insurance authorization. However, I strongly recommend you schedule a follow-up appointment with a primary care physician for a more comprehensive assessment. This is… insufficient. Here you go. Do you have any other questions before you leave?
+PATIENT: No. No questions. Thank you.
+DOCTOR: .

@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Ms. Cassimatis. I am Dr. Blim. Now, let’s not waste any time. What brings you in today?
+PATIENT: Good morning, Doctor. Well, it’s my skin. It’s been so itchy lately. Just driving me crazy, really. It started a few weeks ago, I think. Not sure exactly when, honestly.
+DOCTOR: “A few weeks ago.” Right. It’s always “a few weeks ago” with these things. Is it all over, or is it localized?
+PATIENT: Oh, it's not all over, thankfully. Mostly on my arms and back. And my legs a little bit. It’s not…like a rash, really. Just…itchy. Really, really itchy. It’s hard to explain. It doesn't look bad, which is why I waited so long to come in. I figured it would just go away.
+DOCTOR: “Figured it would just go away.” And how often does that happen, Ms. Cassimatis?
+PATIENT: Not very often, Doctor, you're right! That’s why I’m here now, isn’t it? I just… I don’t like bothering people. And it’s not like it's life-threatening, you know? But it keeps me up at night, scratching. It's just…uncomfortable.
+DOCTOR: “Keeps you up at night.” Very well. And has anything changed recently?
+PATIENT: Hmm…let me think. Not really. I mean, nothing major. I did switch laundry detergents a couple of months ago, now that I think about it. A new brand, supposed to be good for sensitive skin, but maybe it’s not? I don't know. Other than that…no. Same routine, same food, same everything. I've been trying to drink more water, though. Doctor said I needed to.
+DOCTOR: "Doctor said?
+PATIENT: Oh! Yes, my primary care doctor. Dr. Ramirez. She just mentioned it at my check-up, said it was good for everything, including skin. But that was a while ago. I don't think that's it, necessarily. It just... popped into my head when you asked about changes. Sorry, rambling a bit. Old age, I guess!
+DOCTOR: Right. Well, let's focus. Any other medical conditions I should be aware of?
+PATIENT: Not really. Just… the usual aches and pains of getting older. A little arthritis in my hands, but it’s manageable. And high blood pressure, but I take medication for that. Been on it for years. That’s about it. Nothing else that flares up or anything. I had a hysterectomy a long time ago, but that was…well, a long time ago!
+DOCTOR: And what medications are you currently taking for the high blood pressure?
+PATIENT: Oh, let me see… it’s Lisinopril, I think. Ten milligrams, once a day. I've been taking it for…oh, goodness, must be fifteen years now? It keeps things steady, thankfully. I fill the prescription at the pharmacy down the street, the one near the bakery. They make good cookies.
+DOCTOR: Alright. Any allergies to medications, food, or anything else?
+PATIENT: No, not that I know of. I've never had a bad reaction to anything. I used to get stung by bees when I was a little girl, but that was just pain, not an allergy. I eat pretty much everything. I'm Puerto Rican, Doctor! We love to eat! No restrictions there.
+DOCTOR: Very good. Now, let’s have a look at this skin. Please, if you would, turn around and I’ll take a brief examination.
+PATIENT: Certainly, Doctor. Just let me know if you need me to move a certain way. I'm not as flexible as I used to be!
+DOCTOR: Hmm. No visible rash, no excoriations. Skin appears generally normal, though slightly dry. And how would you describe the itch itself?
+PATIENT: Well… it’s not a burning itch, or a stinging itch. It’s more… a deep, nagging itch. Like it’s coming from inside the skin, almost. And it comes and goes, but when it’s there, it's really bothersome. I have to scratch, you know? It’s the only thing that relieves it, even if just for a little while. It makes me very…distracted. I can’t concentrate on anything when it’s really bad.
+DOCTOR: Distracted. Right. And any family history of skin conditions?
+PATIENT: Hmm... that's a good question. My mother had eczema when she was a little girl, I think. But that was a long time ago, and she grew out of it. And my grandmother… she had dry skin, always complaining about it. But nothing major, you know? No psoriasis or anything like that. Mostly just…sensitive skin runs in the family, I guess. I’m not sure if that’s relevant.
+DOCTOR: It may be relevant. Now, I’m going to order a basic metabolic panel and a complete blood count. It's standard procedure. And a skin scraping to rule out any fungal infection, though I suspect it’s not that. We'll send it to the lab, and we’ll have results in a few days. Do you have any questions for me before I do that?
+PATIENT: Oh. Okay. That sounds… thorough. No, I don’t think so. Just… what do you think it could be, Doctor? Is it something serious? I’m always a little worried, you know, when things start happening to my body.
+DOCTOR: Ms. Cassimatis, at your age, and with the limited information we have, it's likely just dry skin exacerbated by something. Perhaps the detergent, perhaps the climate. It could be a mild form of eczema. However, it's important to rule out other possibilities. Let's get these tests done, and we will proceed accordingly. I’d like to see you back here in one week to discuss the results. And try to avoid scratching if possible. It only makes things worse. I'll have the lab order sent to the front desk. Next.
+PATIENT: Okay. One week. No scratching. I’ll try. Thank you, Doctor. .

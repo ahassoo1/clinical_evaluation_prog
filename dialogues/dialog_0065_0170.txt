@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Putney. I’m Dr. Duplichan. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just need to get this life insurance thing done. They sent me over for a check-up, said it's for the paperwork. Want to get it over with quick, if that’s alright.
+DOCTOR: Right. A life insurance physical. Well, we’ll certainly try to be efficient. But I still need to gather some information to ensure everything is accurate and complete for the application. It's not simply doing a physical, you understand. So, let's start with your medical history. Have you been diagnosed with any chronic conditions – things like diabetes, high blood pressure, heart disease, anything like that?
+PATIENT: Not really. I mean, the doctor back home… he said my blood pressure was a little high once, a few years back. But he just told me to watch my salt. Nothing I ever really had to do anything about. Other than that, no. I've been pretty lucky, I guess.
+DOCTOR: "HTN, reported transient elevation, dietary management advised." Alright. And have you had any surgeries or been hospitalized for anything?
+PATIENT: Let me think… hmm. When I was a kid, I had my tonsils taken out. That was a long time ago. And… oh! When I broke my arm, playing baseball. That needed a cast, but that was… maybe thirty years ago now. Other than that, no hospitals or anything big.
+DOCTOR: Tonsillectomy, childhood. Fracture, upper extremity, approximately 30 years ago. Do you have any allergies to medications, foods, or anything else?
+PATIENT: No allergies that I know of. I can eat anything, take most pills… never had a reaction or anything. I'm pretty simple that way too.
+DOCTOR: And are you currently taking any medications – prescription, over-the-counter, vitamins, herbal supplements… anything at all?
+PATIENT: Nope. Nothing. I try to stay away from pills if I can help it. Mostly just drink water. That's about it.
+DOCTOR: Alright. Now, let’s talk about your family history. Are there any significant medical conditions that run in your family – heart disease, diabetes, cancer, stroke…?
+PATIENT: My dad… he had some heart trouble when he got older. Had a bad one, I think. And my mom… she had diabetes, I think. It was a long time ago, and I don’t really remember all the details. They were both Marshallese, lived back home most of their lives. Not a lot of fancy doctoring going on over there, you know? Does that help?
+DOCTOR: It’s a start. And what about your lifestyle?
+PATIENT: Lifestyle? What do you mean? I work, mostly. I manage a hotel. Long hours, lots of stress. I try to get some sleep when I can. Not much time for hobbies or anything. What kind of stuff are you looking for?
+DOCTOR: Do you smoke?
+PATIENT: No, never. Don't smoke. Bad for you. Always thought so. Always told my kids not to either.
+DOCTOR: Okay. And how much alcohol do you consume, if any?
+PATIENT: Uh… not much. Maybe a beer sometimes with dinner. But not every day, definitely not. I don’t really drink much at all, honestly. It makes my head hurt.
+DOCTOR: Alright. Now, before we move on to the physical exam, let me just quickly review what we have so far... You've reported a transient elevation in blood pressure in the past, managed with dietary changes. Tonsillectomy as a child and a fractured arm approximately thirty years ago. No known allergies or current medications. Family history of heart disease in your father and diabetes in your mother. And you smoke and drink very little. Is that an accurate summary?
+PATIENT: Wait, hold on. I don’t smoke. I just told you, I never smoke. I said I drink a little. I think you got that wrong. Everything else sounds right, though. I don't smoke.
+DOCTOR: Yes, I do believe I have it correct. You stated you smoke and drink very little. I am documenting what you tell me. Perhaps you are misremembering. However, we can clarify this by going over the questions again. Do you currently smoke cigarettes, cigars, pipes, or use any other tobacco products?
+PATIENT: Look, I'm telling you, I don't smoke! I just said I drink a beer sometimes. I'm starting to get a little annoyed. I need this done, and I don't have time to keep repeating myself. You asked about smoking and drinking. I said a little drinking, no smoking. Is that clear enough? I manage a hotel, Doctor, I'm a busy man.
+DOCTOR: Very well. Let’s move on. It appears we are having some difficulty with accurate recall. We will proceed with the physical exam. Please undress down to your underwear and a gown. I will listen to your heart and lungs, check your blood pressure, and perform a brief examination. Please let me know if you feel any discomfort during the examination. The changing room is just over there.
+PATIENT: Alright, fine. Whatever gets this over with faster. Just let me know when you're ready. Don't want to waste any more time.
+DOCTOR: Take your time. I will be right outside.

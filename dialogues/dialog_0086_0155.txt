@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Jezik. I’m Dr. Murtic. So, what brings you in today?
+PATIENT: Morning, Doctor. Uh… well, it’s this shaking. It’s mostly in my hands, I think. It’s been… a while now. Honestly, I can’t quite put my finger on when it started. It just… is. I’d like to get it looked at, if that’s alright. Don't really want to be a bother.
+DOCTOR: Alright. “Shaking,” you say. Mostly in your hands. And you’re not sure when it began… Hmm. It is good you’re getting it checked out. Now, is it shaking all the time, or does it come and go?
+PATIENT: Comes and goes, mostly. Worse when I try to… do things. Like, holding a cup of coffee is a bit of a challenge these days. Or… buttoning my shirt. Small things, mostly. Not… constant, thankfully. It’s just… annoying. Really annoying.
+DOCTOR: “Annoying” is a good way to put it, I suppose. So, it's exacerbated by fine motor skills, you’re saying?
+PATIENT: Fine motor… is that what you call it? Yes, that sounds right. Anything that needs a steady hand, really. I used to be good with my hands, you know. Worked with… pipes and things. Water treatment. But that was a long time ago. Now… well, now it's just a bit wobbly.
+DOCTOR: Right. And were you exposed to anything unusual during your work with water treatment?
+PATIENT: Unusual? Oh, goodness. Everything was unusual back then. Chemicals, mostly. Different kinds all the time. I don't… I don't remember the names of them. It was a long time ago. We had safety gear, I suppose. Masks, gloves… It all feels like a blur, honestly. Not very good with remembering details these days.
+DOCTOR: Alright. Well, let's move on from that for now. Do you have any other symptoms?
+PATIENT: Symptoms? Uh… Not that I’ve noticed. Maybe a little tired sometimes, but who isn’t? And my… balance isn’t what it used to be. I nearly tripped over the rug the other day. But that’s probably just getting old.
+DOCTOR: "A little tired" and "balance isn't what it used to be." Right. And is this tiredness constant, or does it come and go?
+PATIENT: Comes and goes, mostly. Some days I feel alright, other days… just a bit sluggish. Like I’m dragging my feet, you know? It’s hard to explain. It’s just… not as energetic as I used to be. I keep telling myself it's just old age creeping up.
+DOCTOR: Alright. Let's have a quick look at your hands. Can you extend your arms in front of you, palms up?
+PATIENT: Sure, sure. There. See? It’s not that bad all the time, but it’s there.
+DOCTOR: Hmm. I see some tremor, yes. And the reflexes are a little diminished. Now, can you try to touch your nose with your index finger, alternating hands?
+PATIENT: Okay, okay. Like this? It’s… harder than it looks. My arm feels… clumsy.
+DOCTOR: Yes, I see some difficulty with coordination. Now, let's check your gait. Could you please stand up and walk a few steps for me?
+PATIENT: Alright. There. Not very graceful, I’m afraid. Balance isn’t what it used to be, remember?
+DOCTOR: Yes, I see. A slightly wide-based gait, some instability. Now, I'd like to order some blood work. Just to rule out some basic things, you understand. And perhaps a referral to a neurologist. Just to be thorough. Given your age and these symptoms… it’s best to get a specialist’s opinion.
+PATIENT: A neurologist… sounds… serious. Is it something bad, Doctor? I just want to get this shaking sorted, not… not whatever a neurologist deals with.
+DOCTOR: Mr. Jezik, it’s not necessarily serious. A neurologist specializes in the nervous system. Shaking, balance problems, coordination issues… these all fall under their purview. It's simply a precaution. We need to rule things out. It could be… nothing. But we have to be diligent. The blood work will check for deficiencies and other common causes. And the neurologist can assess if there’s anything more going on. Do you understand?
+PATIENT: Yes, yes, I understand. Precaution. Just… a lot of tests. I just… I don’t like going to doctors. Always something wrong. When will I hear back about the blood work? And… how long until I see this neurologist?
+DOCTOR: The lab results should be back in about a week. I’ll have my nurse call you with the results. As for the neurologist… it depends on their availability. I've put in the referral, but it could take a few weeks to get an appointment. I'll have the nurse give you their contact information, and you'll need to schedule it yourself. Now, do you have any other questions?
+PATIENT: A few weeks… that seems like a long time. No, I don’t think so. Just… try to get me in as soon as possible, alright? I just want this sorted. Thank you, Doctor. I think that’s all.
+DOCTOR: Very well. The nurse will be in touch. And try not to worry too much, Mr. Jezik. It’s likely nothing serious. .
+PATIENT: .

@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Ms. Bonck. I am Dr. Mutnick. Now, please, tell me what brings you in today. Be concise, if you would. My schedule is…rather full.
+PATIENT: Uh, hi Doctor. It’s…Emileigh. I just moved here, and I think…I need to get set up with a doctor? It’s a social thing, I guess. Like, for healthcare. I have Medicare. I don’t…really know what else to say. It’s all kinda new.
+DOCTOR: Medicare, yes. I see that. Very good. A “social thing,” you say?
+PATIENT: Um…yeah. Like, the lady at the…place? She said I needed to pick a doctor ‘cause of my insurance. And I should come for a visit. Just to…check things. I don’t…feel sick or anything.
+DOCTOR: A general check-up, then. Standard. While not ideal, I suppose we can accommodate. Have you had any prior medical care?
+PATIENT: Prior…? Oh, um…I think so? When I was little…maybe? It was a long time ago. I don’t really remember much about it. Just…shots, I think? And maybe a doctor when I broke my arm once, but…that was ages ago. I don’t know where that was, or who…anything, really.
+DOCTOR: I see. A rather…sparse medical history, then. Very well. Any allergies to medications?
+PATIENT: Allergies…? Hmm… I don’t think so? I mean, nothing I know about, anyway. I’ve never…reacted to anything, as far as I remember. Does…like, being tired count? ‘Cause I get tired a lot. But I think everyone does.
+DOCTOR: No, Ms. Bonck, general fatigue does not constitute an allergy. Are you currently taking any medications – prescription, over-the-counter, herbal supplements…anything at all?
+PATIENT: No, sir. Nothing. I don’t really…take pills, or anything. I try to just…get enough sleep, when I can. Not much luck with that lately, though.
+DOCTOR: Very well. We'll proceed with a basic physical examination. Please, step onto the scale. And try to stand still. I haven't all day.
+PATIENT: Okay. Is it…is it a fancy one? Like, does it tell you a lot of stuff? I’m not good with numbers.
+DOCTOR: It provides a weight, Ms. Bonck. A single, crucial data point. 82 kilograms. Now, please, onto the examination table. We’ll begin with your vital signs. And please, try to relax. Your apprehension is not conducive to accurate readings.
+PATIENT: Okay, okay. Vital signs… is that like… my heartbeat? I get kinda nervous at doctors, I guess. I don’t really like being poked and prodded.
+DOCTOR: Your heart rate is slightly elevated, unsurprisingly. Blood pressure is…acceptable. Now, breathe deeply. I need to listen to your lungs.
+PATIENT: Like this? Or deeper? It’s kinda hard to breathe deep when you’re thinking about breathing deep. Sorry.
+DOCTOR: Adequate. Now, open your mouth. Let me take a look at your throat. Hmm. Any difficulty swallowing?
+PATIENT: No, sir. Not really. I mean, sometimes food gets stuck, but…that happens, right? Everyone chokes sometimes? It’s not a big deal, is it?
+DOCTOR: Occasional dysphagia, you say?
+PATIENT: Dys…what-ia? I just said food sometimes gets stuck. Like, when I eat too fast. Is that…bad? I don't know all the fancy words.
+DOCTOR: Difficulty swallowing, Ms. Bonck. A layperson's term is acceptable. However, it warrants noting. Now, let’s move on. I need to palpate your abdomen. Lie flat.
+PATIENT: Okay. Palpate…? Is that… pressing? It kinda tickles. Ooh, a little lower… that’s kinda sensitive.
+DOCTOR: Sensitive, you say?
+PATIENT: Yeah, kinda. Not… painful, exactly. Just…tender? Like, if you push there? It's been kinda…off, lately. I thought it was just because I ate too much pizza.
+DOCTOR: Subjective report of abdominal tenderness. While I appreciate your self-diagnosis, Ms. Bonck, it is insufficient. Now, let’s conclude this examination. We will need some blood work to rule out any underlying pathology.
+PATIENT: Blood work…? Like, needles? I…I don’t really like needles. Is it gonna hurt a lot? And what…what are you looking for?
+DOCTOR: A standard complete blood count and metabolic panel. It will assess your overall health and rule out any obvious abnormalities. And yes, it involves a small needle prick. It is…briefly uncomfortable. Now, do you require a chaperone for this procedure?
+PATIENT: A…chaperone? For a needle? Uh, no. No, I don’t think so. I just…I get kinda lightheaded sometimes. Is there a chair I can sit in? Maybe if I sit down, it won’t be so bad?
+DOCTOR: Very well. Sit, then. And please, try to remain still. I haven't got all day. This will sting momentarily. Do not flinch.
+PATIENT: Okay… Just…tell me when it’s over? Please?
+DOCTOR: Done. There. That wasn't so dreadful, was it?
+PATIENT: Ow! …It stings. Yeah, it was…dreadful. Is it…is it bleeding a lot?
+DOCTOR: Minimal bleeding. Within acceptable parameters. Now, the results will take approximately three to five business days. I will have the nurse contact you with the findings. Is there anything else?
+PATIENT: Uh…no. I think that’s it. Just…wait for the nurse to call? Thank you, Doctor. I think.
+DOCTOR: Very well. You may dress and depart. Do attempt to maintain a reasonable diet and obtain adequate rest. And please, do not hesitate to contact the clinic if you experience any…untoward symptoms. .
+PATIENT: Okay. Thank you again. Bye.

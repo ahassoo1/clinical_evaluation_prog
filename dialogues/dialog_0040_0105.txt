@@ -1,0 +1,26 @@
+DOCTOR: Right, yes. Mr. Kochubey, is it?
+PATIENT: Yeah, that’s me. Bradlee. It’s… good to meet you, Doctor? Sorry, my mind’s a little foggy these days.
+DOCTOR: Osga. Dr. Osga. Don’t bother with formalities. Look, I have a rather full schedule, so let's get straight to it. What brings you in today?
+PATIENT: Well, it’s about… getting surgery. For my weight, I mean. My wife helped me set up the appointment. Honestly, I don’t remember all the details, but she said it was… to see if I can have it? It's a bariatric surgery, she called it. Does that make sense?
+DOCTOR: Bariatric... right. Okay. So, you’re considering weight loss surgery. And your wife set up the appointment… because you don’t recall?
+PATIENT: Yeah, pretty much. I… I just don’t hold onto things like I used to. Little things, mostly. Important things too, sometimes. It's frustrating. She worries about me, and I trust her, so… she handles a lot of the practical stuff. I just know I’ve been trying to lose weight for a long time, and nothing really sticks.
+DOCTOR: Right. Well, we'll need to get some basics down. Let’s start with your height and weight, just to confirm what’s on the referral. The notes are…sparse. You said 38?
+PATIENT: Yeah, 38. And… uh… I’m about 5’1”. Maybe 5’2”? And I think I weigh around 140, give or take a few pounds. I haven't really checked lately. It fluctuates, you know? It’s hard to keep track.
+DOCTOR: 5’1”. Alright. And your BMI is…substantial. Let's just say surgery is potentially an option, though not everyone is a suitable candidate. Have you tried any specific diets or exercise programs recently?
+PATIENT: Recently… hmm. That’s a good question. My wife tries to get me to walk with her. We do that sometimes, but not every day. And she makes me healthier meals, mostly. I’ve tried… keto, I think? And some other things, but honestly, it all blurs together. I usually end up back where I started. It’s… discouraging. I don't really stick to anything.
+DOCTOR: Alright. Any medical conditions?
+PATIENT: Medical conditions… let me think. I don't think so. Nothing major, anyway. My blood pressure gets a little high sometimes, the doctor said, but he didn’t give me any medicine for it. Just told me to watch my salt. And… my knees bother me, but that's probably from the weight. Does that count? I haven't been to a doctor in a while, if that helps.
+DOCTOR: High blood pressure… and knee pain. Very descriptive. Any allergies to medications?
+PATIENT: Uh… no, I don’t think so. I haven’t had to take anything regularly in years. I don't recall ever having a bad reaction to anything, but… like I said, my memory isn't great. I’m pretty sure I’m okay, but I wouldn't bet my life on it. Is that a problem? Should I be checking with my wife?
+DOCTOR: It's always preferable to have a precise medical history. Let’s move on. Any medications you’re currently taking?
+PATIENT: No, nothing at all. Just… vitamins sometimes. Nothing prescribed, just a multivitamin my wife picks up. Honestly, I mostly forget to take them. It’s hard to keep track of everything. It's a mess. I'm sorry.
+DOCTOR: Right. Okay. And your family… any history of obesity, diabetes, heart disease?
+PATIENT: Hmm. That’s a tough one. My family… we’re not really big on talking about health stuff. I know my dad had some problems with his heart later in life, but I don’t know the details. And my mom… she was always a little bigger, but I don't think it was anything serious. I really wish I knew more, but it’s not something we ever discussed. Does that help at all? I feel like I’m just guessing here.
+DOCTOR: Look, this is... challenging. Very little concrete information. Alright, let's do a brief physical exam. Just the basics, to get a baseline. Can you step on the scale, please?
+PATIENT: Yeah, sure. No problem. Here we go. Hope it’s not too… revealing. It’s probably not good news, is it?
+DOCTOR: 139 pounds. Confirmed. Height 5’1”. Blood pressure is… elevated. 140/90. Heart sounds are normal, though a bit muffled. Lungs are clear. Abdomen is… protuberant, as expected. Knees exhibit crepitus on range of motion. Alright. We need to run some bloodwork. Standard panel, check your cholesterol, blood sugar, kidney function, thyroid… the usual.
+PATIENT: Okay, that sounds… thorough. Bloodwork, right. I can do that. Do I need to… fast beforehand? I always forget those things. My wife usually reminds me, but… well, you know. Is there anything I need to bring with me? A list of medications, maybe? Even though I don't take any?
+DOCTOR: Yes, you’ll need to fast for 12 hours beforehand. No food, no sugary drinks, just water. And a list of medications isn't necessary if you aren't taking any. Honestly, just try to remember to fast. It will make the results more accurate. The lab is down the hall, third door on the left. They’ll give you instructions. I'll review the results when they come in, and we'll discuss the possibility of surgery further. Don't get your hopes up.
+PATIENT: Okay, 12 hours. No food. Got it. I’ll try my best to remember. Third door on the left. Thank you, Doctor. I guess I’ll go do that, then. I appreciate you seeing me. It's… a lot to take in.
+DOCTOR: Yes, well. Don’t hesitate to call if you experience any concerning symptoms. Otherwise, I'll see you when the lab results are available.
+PATIENT: .

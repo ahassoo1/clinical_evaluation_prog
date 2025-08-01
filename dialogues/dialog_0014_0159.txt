@@ -1,0 +1,28 @@
+DOCTOR: Alright, Mr. Fratoni. Good to meet you. So, what brings you in today?
+PATIENT: It’s… well, it’s kinda embarrassing, actually. I’m havin’ trouble gettin’ up from chairs. Like, I’ll be sittin’ and then… just stuck. Not stuck stuck, but it takes effort, y’know? And sometimes my legs feel kinda shaky when I do finally get goin’.
+DOCTOR: Hmm. Takes effort, you say?
+PATIENT: Yeah. Like, a normal amount of effort, usually. But lately… it’s more. I work out on the rigs, so I’m used to movin’ around all day. It’s not like I’m weak or anything. It just… feels different. It started maybe a week ago, but it’s been gettin’ worse each day. Especially after sittin’ for a long time.
+DOCTOR: Right. And you said you work on the rigs… what sort of work do you do exactly?
+PATIENT: Mostly I’m a roustabout. You know, general labor. Haulin’ stuff, checkin’ equipment, fixin’ small things… a lot of bendin’ and liftin’. It’s hard work, for sure. Been doin’ it since I was eighteen. Used to be able to work a double shift no problem. Now… not so much.
+DOCTOR: Okay. And has anything specific happened recently that might have triggered this?
+PATIENT: Specific… not really. No big falls, no injuries. I mean, little bumps and scrapes, but nothin’ that would explain this. The only thing… … my wife, Elena, she passed away about six months ago. It’s been… rough, obviously. Maybe stress? I don’t know. I been tryin’ to keep busy, throwin’ myself into work, but… yeah. That’s the only thing I can think of.
+DOCTOR: Well. That’s… significant. Grief can manifest in strange ways. But we still need to rule out anything physical. Let's do a quick exam, alright?
+PATIENT: Yeah, okay. That sounds good. Whatever you think is best. I just wanna figure out what’s goin’ on, y’know? It’s freakin’ me out a little bit. I need to be able to do my job. Plus… Elena would want me to take care of myself.
+DOCTOR: Alright. First, I’m going to check your reflexes and strength in your legs. Then we'll take a look at your range of motion. Just relax, and let me know if anything feels painful. Could you please lie down on the table?
+PATIENT: Yeah, sure. No problem. Woah… okay, maybe a little help? This is… worse than I thought. I usually can manage, but… it’s really stickin’ today.
+DOCTOR: Alright, let me assist you. See?
+PATIENT: Thanks. Seriously, I appreciate that. It’s like… my legs just don’t wanna cooperate sometimes. Feels like somethin’s locked up in there. Okay, all set. Just tell me what you want me to do.
+DOCTOR: Alright, let’s start with your reflexes. Just relax your leg. Okay. Now, can you point your toes and then flex your feet?
+PATIENT: Yeah, sure. There we go. A little stiff, but… yeah, I can do it. It’s not pain, exactly, more like… a tight pullin’ sensation. Especially when I flex 'em. Does that make sense?
+DOCTOR: Mm-hmm. Tight pullin’ sensation. And strength?
+PATIENT: Okay, liftin’… uh… like this? Feels a little weaker than usual, to be honest. Nothin’ major, but I definitely have to put more effort into it. Especially this one. See? This one’s kinda shaky.
+DOCTOR: Alright. And can you sit up for me?
+PATIENT: Uh… yeah, comin’ up… Oof… that’s… not fun. It feels like somethin’ in my back is pullin’ too. Maybe that’s where the tightness is comin’ from? Whew. That took more than it should have.
+DOCTOR: Alright. I'm going to listen to your back. Please lie back down flat. This will help me rule out any spinal issues.
+PATIENT: Okay… that spot right there, kinda low on my back, that’s where it feels the tightest. It's not a sharp pain, just… a constant ache. Like somethin's pinched or somethin'. And it kinda radiates down my legs sometimes.
+DOCTOR: Mm-hmm. Radiating pain. Mr. Fratoni, it sounds like you may be experiencing muscle strain, likely exacerbated by… recent emotional stress. However, given the radiating pain and weakness, we need to rule out other possibilities. I'm going to order some blood work to check for inflammation and nerve function. And I'd also like you to get an MRI of your lower back.
+PATIENT: Okay… an MRI? That sounds… serious. Is it somethin’ bad? I mean, you said muscle strain, but now you’re talkin’ about MRIs and nerve stuff… I just wanna get back to work, y’know? What’s the blood work for, exactly? Just tryin’ to understand what’s goin’ on here.
+DOCTOR: Mr. Fratoni, I understand your concern. An MRI will simply give us a clearer picture of your spine, to rule out any structural issues. And the blood work will help us identify any inflammation or underlying conditions that could be contributing to your symptoms. It’s standard procedure. Don’t jump to conclusions. We're being thorough. Now, I'm going to write you a referral for both. The lab is just down the hall, and the MRI facility is across the street. Let’s get this done quickly, alright?
+PATIENT: Okay… yeah, alright. Whatever you think is best. Lab and MRI… got it. Just… tryin’ to stay positive, I guess. Will I be able to work while I’m waitin’ for the results? I kinda need to… gotta pay the bills, y’know?
+DOCTOR: Mr. Fratoni, I cannot advise you to continue strenuous physical activity until we have a definitive diagnosis. It could worsen your condition. I recommend you take some time off work. I can provide a note for short-term disability if needed. We'll schedule a follow-up appointment to discuss the results as soon as they're available. Do you have any questions?
+PATIENT: No… I guess not. Time off… that’s… gonna be tough. But… alright. A note for disability… yeah, that would be helpful. Okay. Lab and MRI… follow-up appointment… disability note… I think that’s everything. Thanks, Doc.

@@ -1,0 +1,30 @@
+DOCTOR: Alright, Ms. Aslan, good to meet you. So, tell me, what brings you in to see me today?
+PATIENT: Hi, nice to meet you too, Doctor Donato. Well, I’ve been having these…chills, on and off, for a couple of days now. It's a bit strange.
+DOCTOR: Chills, okay. And how long exactly has it been a “couple of days”?
+PATIENT: Hmm, let me think… I guess it started on Saturday? So, three days, maybe? It’s not constant, like I don’t have them all the time, but they come and go throughout the day. It’s just…uncomfortable.
+DOCTOR: Alright, three days, intermittent chills. And are these chills accompanied by anything else?
+PATIENT: Yeah, actually. I've been feeling really tired, just…wiped out. And I think I had a bit of a headache yesterday, but it wasn't too bad. Oh, and my muscles feel a little achy, like I’ve been doing a workout or something, but I haven’t.
+DOCTOR: Okay, fatigue, headache, and muscle aches along with the chills. Have you taken your temperature at all?
+PATIENT: No, I haven’t. I didn't even think to, to be honest. I just figured it was…I don’t know…a little bug or something? Should I have? I don’t really get sick often.
+DOCTOR: It's always good to check. While it may be nothing, a fever can give us a better idea of what’s going on. Do you have a thermometer at home?
+PATIENT: Yeah, I think so… somewhere. Let me think… I think it's in the bathroom cabinet, but my ex left a lot of stuff when we split, so it might be buried. It's probably one of those digital ones.
+DOCTOR: Alright. Well, since you don't have a recent temperature reading, I'm going to take one for you now. Let's start with that. If you could just have a seat here, please.
+PATIENT: Okay, sounds good. Hopefully it's nothing serious!
+DOCTOR: Alright, your temperature is 100.8 Fahrenheit. A little elevated. Now, let’s do a quick physical exam to see if we can narrow things down. I'm going to listen to your lungs and heart, and feel your lymph nodes. Is that alright with you?
+PATIENT: Yeah, that's fine. 100.8… okay. I usually run a little cool, so that is higher than normal for me. Go ahead.
+DOCTOR: Alright, lungs sound clear. Heart rate is normal. Lymph nodes are a little tender, but not significantly enlarged. Do you have any other symptoms?
+PATIENT: Hmm… let me think… Oh! I've been a little bit thirsty, more so than usual. And I guess I haven’t had much of an appetite the last couple of days. Not completely gone, but definitely not as hungry as I normally am. Does that make a difference?
+DOCTOR: Thirst and decreased appetite... okay. Any nausea or vomiting?
+PATIENT: No, thankfully, no nausea or vomiting. Just… not feeling like eating much. I made myself a sandwich yesterday, but I only managed a few bites. It just didn’t taste good, you know? Not because it wasn’t good, just… I didn’t feel like it.
+DOCTOR: Alright. And just to be thorough, any changes in your bowel habits?
+PATIENT: Oh, um… no. Everything’s… normal there, if you don’t mind me being blunt. Sorry!
+DOCTOR: Perfectly alright. I have to ask. Now, have you been around anyone else who’s been sick recently?
+PATIENT: Hmm… not that I know of. My neighbor’s kid was coughing a lot last week, but I didn’t have much contact with him, just waved from across the yard. And my coworker, Sarah, said she had a bad cold last month, but that was ages ago. I don’t think that's relevant.
+DOCTOR: It’s always good to ask. Based on what you’ve told me, and the slight fever, it sounds like you likely have a mild viral infection – probably a common cold or the flu. However, given the muscle aches and fatigue, we should rule out a few other possibilities. I'm going to order a complete blood count and a basic metabolic panel just to be on the safe side. It will give us a clearer picture of what's going on. Would that be alright with you?
+PATIENT: Yeah, that sounds sensible. If it puts my mind at ease, definitely. Bloodwork is fine. Is it going to be a lot of poking around? I'm not great with needles, to be honest.
+DOCTOR: It's just a standard blood draw, Ms. Aslan. A quick pinch. The phlebotomist is very good. We’ll just need a few vials. It shouldn't be too bad. While we wait for the results, I recommend plenty of rest, fluids, and over-the-counter pain relievers like ibuprofen or acetaminophen for the fever and aches. And if your symptoms worsen, or if you develop a high fever, shortness of breath, or chest pain, you need to seek immediate medical attention. Understand?
+PATIENT: Okay, that sounds… doable. Rest, fluids, and pain relievers. I can definitely manage that. And I'll keep an eye out for those other symptoms, definitely. A pinch, you say? Alright. When do I need to go get the bloodwork done?
+DOCTOR: There's a lab right across the street. Here's a requisition form. Just take this to the front desk and they’ll get you set up. They are open until 5 PM today. I'll have the results back tomorrow morning, and we can discuss them then. Do you have any questions for me before you go?
+PATIENT: No, I think that covers everything. Thank you, Doctor Donato. I appreciate you taking the time to listen and not just brush it off as nothing. I'll head over to the lab now.
+DOCTOR: Alright. Get some rest, Ms. Aslan. And don’t hesitate to call if you have any concerns.
+PATIENT: Okay, I will. Thanks again.

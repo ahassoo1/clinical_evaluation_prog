@@ -1,0 +1,31 @@
+DOCTOR: Alright, Mr. Espinueva, have a seat. So, what brings you in to see me today?
+PATIENT: Thank you, Doctor. Well, it’s this pain in my side again, mostly on my right. And… well, I seem to be getting those water infections quite a bit lately, too. It’s been happening for a little while now. I suppose it’s been worse the last few months, if I’m honest.
+DOCTOR: Right side pain and recurrent water infections, you said?
+PATIENT: Yes, that's right. It’s… uncomfortable, to say the least. And the infections, they knock me about a bit. I’m not as young as I used to be, you see. It takes me a little longer to get over things these days.
+DOCTOR: Of course. Let's start with this pain on your right side. Can you describe it for me?
+PATIENT: Hmm… well, it’s not a sharp pain, exactly. More of a dull ache, really. Sometimes it’s just a nagging feeling, other times it’s more noticeable. It comes and goes, but it’s been pretty consistent lately, that's what worries me. It doesn’t really shoot anywhere, just stays in that one spot, mostly.
+DOCTOR: And where exactly is that spot?
+PATIENT: Well, if you look here… It's right about there. It’s hard to explain, but it feels deep inside, not just on the skin.
+DOCTOR: Okay, right flank. And when did you first notice this pain?
+PATIENT: Oh, goodness… that’s a good question. It’s been… years, I think. Not constant, mind you. It would come and go, and I always thought it was just getting old. But it's been more frequent, as I said, and that's what finally brought me in. Probably the last six months, it’s been bothering me more regularly.
+DOCTOR: Six months of increasing right flank pain. Now, about these water infections… how often would you say you’re getting them?
+PATIENT: Oh, dear. Let me think… It used to be maybe once a year, or even less. But in the last few months, it's been… three times now? Perhaps four? I'm not very good at keeping track, to be honest. They’re always unpleasant, and I have to go to the doctor to get medicine for them.
+DOCTOR: Four infections in six months is certainly concerning. Do you remember any symptoms accompanying those infections?
+PATIENT: Well, the usual, I suppose. A burning feeling when I… go to the toilet. And a bit of a… discomfort, lower down, you see. And I always feel very tired and weak when I get them. Nothing too dramatic, but enough to knock me off my feet for a few days. I also find I need to go quite often, even if there isn’t much there.
+DOCTOR: Alright. And have you noticed any blood in your urine with these infections?
+PATIENT: Blood? Hmm… I don’t think so. I haven’t paid much attention, to be honest. It’s never been anything obvious, if there has been. I try not to look too closely, you see. It worries me to see anything like that.
+DOCTOR: I understand. Okay. Now, let's talk about your medical history. Have you been diagnosed with any other conditions?
+PATIENT: Well, the doctor told me a few years back that my kidneys weren’t quite right. Something about lots of little… sacs, he said. He gave me a name for it, but I’ve forgotten, I’m afraid. He said it could cause problems down the line, and I should keep an eye on things. I’ve been seeing him regularly for check-ups, but… I didn’t realise it might be this.
+DOCTOR: Polycystic kidney disease… yes, I see it in your records. And how about past surgeries?
+PATIENT: No, never had any surgeries. I’ve been quite lucky, really. Just the usual things, like tonsils out when I was a boy. Nothing major.
+DOCTOR: Alright. And what about your family?
+PATIENT: Family… well, my mother had some trouble with her kidneys when she got older, but I don’t know exactly what was wrong. And my father, he was always a strong, healthy man. No real illnesses to speak of. I have a few cousins, but I haven't seen them in years. I'm not sure about their health, to be honest.
+DOCTOR: Okay. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh, no, no, nothing like that. Never been one for smoking. I used to enjoy a glass of wine with dinner now and then, but I haven't touched alcohol in years. And definitely no drugs. Never had any interest in them. A cup of tea is about as exciting as I get these days!
+DOCTOR: Good to hear. Now, are you currently taking any medications, or have any allergies to medications?
+PATIENT: Just the usual, Doctor. A tablet for my blood pressure, and sometimes something for my arthritis when it flares up. Nothing special. As for allergies… I don’t think so. I've never had any bad reactions to anything, thankfully. Though I did have a bit of a rash once from a bug bite, but that wasn’t a medicine, was it?
+DOCTOR: Alright, Mr. Espinueva. Given your history of polycystic kidney disease, the recurrent water infections, and the consistent right flank pain, I'm concerned about a few possibilities. It's important to rule out a kidney infection, and to assess the function of your kidneys. I'd like to start with a urine sample to check for infection, and some blood tests to see how well your kidneys are working. Would that be alright with you?
+PATIENT: Yes, Doctor, that sounds sensible. Whatever you think is best. I trust your judgement. A urine sample and blood tests, you say? Yes, that’s perfectly alright with me. Where do I go to do that?
+DOCTOR: The nurse will take you to the lab just down the hall. She'll give you a container for the urine sample, and draw some blood for the tests. Once we have the results, we’ll discuss them and decide on the best course of action. In the meantime, if you experience a fever, chills, or worsening pain, please go to the nearest emergency room immediately. Do you understand?
+PATIENT: Yes, Doctor, I understand. Fever, chills, or worse pain – go to the emergency room. And the nurse will show me where to go for the tests. Thank you. I appreciate you taking the time to listen. It’s a relief to finally be doing something about this.
+DOCTOR: You're welcome, Mr. Espinueva. We'll get to the bottom of this. Let me just document that we've discussed potential emergency symptoms and the plan for the urine sample and blood tests. The nurse will be with you shortly.

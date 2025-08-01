@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Secondi. I am Dr. Mutnick. Please, have a seat. Now, let’s get straight to it. What brings you in today?
+PATIENT: Good morning, Doctor. Uh, it’s my… my pee. It’s orange. I noticed it a few days ago. Not every time, but… yeah. Orange. It worries me a little.
+DOCTOR: Orange, you say. And for how many days precisely, Mr. Secondi?
+PATIENT: Hmm… let me think. Maybe… four days? Five? It started after I was doing some work outside, in the sun. I work with… with machines, fixing them. Lots of sweating, you know? I drink water, but… maybe not enough. Is that… bad?
+DOCTOR: It could be dehydration, Mr. Secondi, though I find patients often overestimate their water intake. Do you experience any pain or burning during urination?
+PATIENT: No, no pain. Not at all. Just… the color. It’s strange. It’s not… bright orange, more… a darker orange. Like… juice, maybe? But not a nice juice. A… a weird juice color. I don't know. Sorry. I’m not good at explaining.
+DOCTOR: “Patient reports darker orange urine, no dysuria.” Are you experiencing any nausea, vomiting, or abdominal pain?
+PATIENT: No, nothing like that. I feel… okay, mostly. A little tired, but I always feel a little tired. Work is hard, you know? Lifting things, bending… But no sickness or pain in my stomach. Just the pee. And the tiredness.
+DOCTOR: And you have no history of liver problems, kidney issues, or recent infections that you are aware of?
+PATIENT: No, Doctor. Nothing like that. I haven't been sick in… a long time. My wife, she keeps telling me to see a doctor more, but I… I don't usually need to. I feel strong. But this pee… this is why I came. I don't know what it means.
+DOCTOR: Very well. Let's perform a quick physical examination and obtain a urine sample. It's likely nothing serious, but we must rule out any potential issues. Please follow me to the examination room. We'll start with a basic assessment of your hydration status and then move on to the sample collection.
+PATIENT: Okay, Doctor. That sounds good. Whatever you think is best. Lead the way. I hope it's nothing. I have work tomorrow.
+DOCTOR: Please, lie down on the table. I’ll listen to your heart and lungs, and then palpate your abdomen. It will be a brief examination, Mr. Secondi. I assure you.
+PATIENT: Okay. Just… let me know if you need me to do anything. I’m not used to this.
+DOCTOR: Your heart sounds regular, lungs are clear. Abdomen is soft, no tenderness to palpation. Blood pressure is 130/80, pulse is 72. Hydration appears… adequate, though could be improved. Now, I need a urine sample. I’ll provide you with a container. Please collect a mid-stream sample. There’s a restroom just through that door. Do try to provide a reasonable amount, Mr. Secondi. We need sufficient volume for accurate analysis.
+PATIENT: Okay, Doctor. A… a reasonable amount. I will try. Just through that door, you said? Right. I hope it's not too hard.
+DOCTOR: Men. I’ll be here when you return, Mr. Secondi. Do take your time, but not too much time. I have other patients waiting.
+PATIENT: Here you go, Doctor. I… I think it was enough. It wasn't easy, but… I did it.
+DOCTOR: Adequate. We'll send this to the lab for a urinalysis. It will take a few hours to get the results. While we wait, let's review your medical history. Have you had any recent changes in your diet or medication?
+PATIENT: No, Doctor. Nothing changed. I eat the same things, my wife cooks. And I don't take any pills or anything. I try to stay healthy. Just work, eat, sleep. Maybe that's the problem? Not enough water? I don’t know.
+DOCTOR: No reported allergies, no current medications, no significant past medical history. Your wife seems to be managing your health adequately. It is likely a simple case of dehydration, exacerbated by physical exertion. However, we must rule out other possibilities. I'll order a complete blood count as well, just to be thorough. We'll review the results when they come in. For now, I recommend increasing your fluid intake significantly. At least two liters of water per day.
+PATIENT: Two liters… that’s a lot of water. But okay, I can try. I will drink more water. And if the pee stays orange…?
+DOCTOR: If the urine remains orange after three days of increased hydration, you will schedule a follow-up appointment. We may need to consider further investigation, such as an abdominal ultrasound. But I assure you, Mr. Secondi, it is highly unlikely to be anything serious. Now, do you have any other concerns?
+PATIENT: No, Doctor. I think that’s everything. Just the water. I will try the water. Thank you for… for checking. And for not laughing at my orange pee. .
+DOCTOR: Very well. I’ll have the lab results sent to your wife’s email address. And please, Mr. Secondi, prioritize hydration. .

@@ -1,0 +1,29 @@
+DOCTOR: Alright, Ms. Pitzel. So, you’re here today… tell me what brings you in. And please, try to be concise. My schedule is rather full.
+PATIENT: Well, good morning, Doctor Sink. It’s a pleasure to meet you. I suppose… I’m feeling a bit…stuck. Not sick, exactly. Just…not as vibrant as I used to be. I’m hoping for a bit of a…reset, if that makes sense. A jumpstart, perhaps? I want to feel like myself again.
+DOCTOR: “Stuck,” you say. And a “reset.” Right. That’s…vague. Let’s try to be more specific. When did this…lack of vibrancy…begin?
+PATIENT: Oh, goodness. Specific…yes, you’re right. It’s hard to pinpoint. Perhaps… six months ago? Around November, maybe? It wasn’t sudden, more of a… gradual fading. I just noticed I wasn’t bouncing back as quickly after things, you know? Little things tiring me out. I’m not sure if that helps.
+DOCTOR: November. So, roughly nine months. And “little things” being…?
+PATIENT: Oh, um…gardening, mostly. I enjoy my garden very much. But I used to be able to spend all day out there, no problem. Now, an hour or so and I feel completely drained. And…walking the dog. Simple things like that. My husband, Ricardo, says I nap more, too. Which…isn’t a bad thing, necessarily, but it's different.
+DOCTOR: Gardening and walking the dog. And increased napping. Alright. Any other symptoms?
+PATIENT: Hmm…let me think. Not that I’ve noticed, really. My appetite is…normal, I suppose. I haven’t lost weight, or gained any, thankfully. Sometimes I feel a bit…foggy, like I’m having trouble remembering things, but I chalked that up to just getting older, honestly. Is that something I should be concerned about?
+DOCTOR: Foggy. Well, memory issues can be a sign of many things. Let's move on. Do you have any pain anywhere?
+PATIENT: No, not really. Not consistent pain, anyway. Sometimes my knees ache a little after gardening, but that’s just…gardening. Old age, again! Ricardo jokes that I’m turning into an old tree root, myself. But no, nothing persistent or debilitating.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: Oh, yes. Just one. For my blood pressure. Lisinopril, I believe it’s called. I’ve been on it for…oh, about five years now, I think. Doctor Ramirez prescribed it. It seems to be working alright, my pressure is usually good when I have it checked at my yearly visit.
+DOCTOR: Lisinopril. Dosage?
+PATIENT: Oh, goodness. Let me see… Here it is. 20 milligrams, once a day. Every morning. I take it with my breakfast. I try to be very good about it, Doctor.
+DOCTOR: Good. Any allergies to medications, food, or anything else?
+PATIENT: No, not that I know of. I've always been very lucky that way. Ricardo is the one with allergies – pollen, mostly. I have to be careful when I’m gardening in the spring to keep the windows closed! But me? Nothing. I’ve never had a reaction to anything, thankfully.
+DOCTOR: Alright. And what about your family history?
+PATIENT: Oh, that’s…complicated. My mother, she passed away a few years ago from…well, just old age, really. She had a weak heart. My father, he’s still alive, thankfully, but he has diabetes. And my brother…he’s healthy as a horse, always has been. That I know of, anyway. It's a large family, so keeping track is difficult.
+DOCTOR: Diabetes and a weak heart. Alright. Now, let’s talk about your lifestyle. Do you smoke?
+PATIENT: Oh, no, never! I find it dreadful. My mother always said it was a terrible habit, and I listened to her. Ricardo used to smoke, years ago, but he quit a long time ago, thankfully. We both try to be very health-conscious. It's important, you know? Especially as you get older.
+DOCTOR: Good. And how much alcohol do you consume?
+PATIENT: Oh, very little. Just a glass of wine with dinner sometimes, on special occasions. Or a small glass of sherry. Nothing excessive, I assure you. Ricardo enjoys a beer now and then, but he's also very moderate. We don’t really make a habit of it.
+DOCTOR: Alright. Well, based on what you've told me...it sounds like you’re generally healthy. Perhaps a little fatigued. It could be a number of things. We can draw some blood to check your vitamin levels, thyroid, and general bloodwork. It's unlikely to be anything serious, but it's best to rule things out.
+PATIENT: That sounds… sensible, Doctor. I appreciate that. I do just want to feel like myself again. Bloodwork is fine. Is there anything I should…avoid before the blood draw? Anything I need to do to prepare?
+DOCTOR: Fasting for 12 hours before the draw. No food, just water. And try to avoid strenuous activity the day before. Now, the lab is just down the hall. The phlebotomist will handle everything. I’ll have the results sent to me and we can discuss them next week. Do you have any other concerns?
+PATIENT: No, I don’t think so. Just the bloodwork, then. Thank you, Doctor Sink. I appreciate you taking the time to listen to me. It's…reassuring to have a plan. And I’ll be sure to fast and take it easy. Ricardo will be glad to hear I'm not entirely falling apart, either.
+DOCTOR: Alright. Good. The lab technician will explain everything. Next week. And try not to worry. It’s likely just a vitamin deficiency. Next.
+PATIENT: .
+DOCTOR: .

@@ -1,0 +1,11 @@
+pandas
+openai
+python-dotenv
+matplotlib
+seaborn
+tqdm
+boto3
+langchain
+langchain-aws
+scikit-learn
+joypy # Added for AWS Bedrock

@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mrs. Kilton. I’m Dr. Yackey. Now, let’s try to be concise, shall we?
+PATIENT: Good morning, Doctor. Yes, alright. I am here because… well, I have been having trouble breathing. It is a… a whistling sound when I breathe out.
+DOCTOR: A whistling sound, you say. How… long has this been occurring, Mrs. Kilton?
+PATIENT: Oh, let me think… maybe… two weeks now? Perhaps a little longer. It comes and goes, you see. Not all the time. Sometimes it is worse when I walk, or… when I am doing things.
+DOCTOR: "Comes and goes," right. And is this… whistling sound accompanied by any other symptoms?
+PATIENT: Well… sometimes my chest feels tight. Not painful, exactly. Just… squeezed. And I get a little tired, quicker than usual. I do not know if that is from the breathing, or just… getting older.
+DOCTOR: "Getting older." Yes, well. And have you noticed any swelling in your ankles or feet, Mrs. Kilton?
+PATIENT: Swelling? Hmm… now that you mention it… yes. A little. Just at the end of the day, usually. I thought it was from standing too long when I am helping my grandson with his garden.
+DOCTOR: Right. And do you have any history of… heart problems?
+PATIENT: Oh, no, not that I know of. My father had high blood pressure, I think. But I have always been quite active. I used to be a trainer, you see. For the school teams. I keep myself moving.
+DOCTOR: Alright. Any allergies to medications, Mrs. Kilton?
+PATIENT: Oh dear. Let me think… I had a reaction to some cream once, many years ago. It made my skin very itchy. I do not remember what it was called. And… I think I was a little sick after taking some pills for a cold, but that was a long time ago too.
+DOCTOR: Very well. Are you currently taking any medications, prescribed or over-the-counter?
+PATIENT: Just a little something for my arthritis, Doctor. It is… a white pill. I take it every morning. Helps with the pain in my hands. And sometimes I take something for my stomach, if it is bothering me.
+DOCTOR: And what is the name of this… medication for your arthritis, Mrs. Kilton?
+PATIENT: Oh dear. That is a good question. My grandson helps me with my pills, he knows the names. I… I really do not remember. It comes in a little orange bottle.
+DOCTOR: Right. Well. Let’s move on to a quick physical examination, then. Please, if you would, take a seat on the examination table. I need to listen to your lungs and heart.
+PATIENT: Yes, alright. That sounds good. I hope it will not take too long.
+DOCTOR: It won’t. Now, if you could just breathe deeply through your mouth… Take a deep breath… and exhale. Again.
+PATIENT: Like this, Doctor? It feels… strange to breathe so deeply.
+DOCTOR: Yes, that is fine. Now, I'm going to listen to your heart. Deep breath, please. And exhale. Again. Your heart sounds… somewhat irregular. And I do detect some wheezing in your lungs.
+PATIENT: Oh dear. Irregular? That does not sound good. Is that… serious, Doctor?
+DOCTOR: It could be. It's difficult to say definitively without further investigation. Given your age and these findings, I suspect you may be experiencing some degree of… congestive heart failure and possibly some underlying chronic obstructive pulmonary disease. However, it's premature to jump to conclusions. We'll need some tests.
+PATIENT: Congestive… what? And pulmonary… that sounds very scary. What kind of tests, Doctor? Will they be… painful?
+DOCTOR: It's not scary, Mrs. Kilton. It's simply a matter of gathering information. We'll need a chest X-ray, an electrocardiogram – that's a simple heart tracing – and some blood work to assess your kidney function and check for inflammation. The X-ray is painless, the EKG involves some stickers on your chest, and the blood work… well, it's a needle prick. Not pleasant, but hardly excruciating. I'll order those now.
+PATIENT: A needle prick… oh dear. I do not like needles very much. Will it take long to get the results, Doctor? And… what if it is something serious?
+DOCTOR: The results should be available within a few days, Mrs. Kilton. And if it is something serious – which, again, is not a certainty – we will discuss treatment options. Those might include medication, pulmonary rehabilitation, or, in some cases, referral to a specialist. Now, I’m going to write you a prescription for a bronchodilator to help ease your breathing in the meantime. It's a standard treatment for wheezing. Do you have any questions before I conclude?
+PATIENT: A broncho… what? Will that… medicine help right away? And… will it interact with the pill I take for my arthritis? I do not want to make things worse.
+DOCTOR: The bronchodilator, Mrs. Kilton, will help open your airways and make breathing easier. It should provide some relief within a few hours. As for interactions, it’s unlikely to interfere with your arthritis medication, but I will flag your medication list in your chart. Here is the prescription. Take it to your local pharmacy. Now, if you'll excuse me, I have other patients waiting. I recommend scheduling a follow-up appointment in one week to discuss the test results. Do you have any other urgent concerns?
+PATIENT: No… I think that is all for now. Thank you, Doctor. I… I hope it is nothing too serious.
+DOCTOR: Very well. The nurse will escort you to the checkout. Please schedule that follow-up appointment. .
+PATIENT: Yes, alright. Thank you… I hope it is nothing too serious… .

@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Way. I’m Dr. Sham. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Well, it's this pain I've been having. It's been bothering me for a bit now, and I figured I should get it checked out.
+DOCTOR: Okay. Pain… and how long has this “bit now” been?
+PATIENT: Hmm, let me think... maybe about three weeks now? It started kinda mild, just a little ache, but it's gotten worse over time. It's not constant, you know? It comes and goes.
+DOCTOR: Three weeks… intermittent pain. Can you describe the pain for me?
+PATIENT: Well, it's… hard to explain. It's not a sharp pain, more like a dull ache. And sometimes it feels like… a burning sensation? It's mostly in my lower back, but it sometimes shoots down my leg a little. Does that make sense?
+DOCTOR: Lower back, radiating down the leg… burning sensation, dull ache… Yes, that’s helpful. Is it on one side, or both?
+PATIENT: Mostly on my right side. Sometimes I feel a little something on the left, but it's nothing compared to the right. It's definitely worse on the right.
+DOCTOR: Right side predominantly… alright. And does anything specifically make it worse?
+PATIENT: Oh, yeah. Bending over is a killer. And if I try to lift anything, even something not too heavy, oof. That'll set it off for sure. Sitting for too long isn't great either. I like watching TV, but I gotta get up and walk around after a while.
+DOCTOR: Bending, lifting, prolonged sitting… Okay. And what about anything that makes it better?
+PATIENT: Hmm… lying down helps. Especially on my back with a pillow under my knees. And sometimes, if I take a warm bath, that eases it up a bit. But it doesn't last long, you know? Just temporary relief.
+DOCTOR: Alright. Okay. Let's do a quick physical exam, if you don’t mind. Just going to check your range of motion and do a few neurological tests. Does that sound alright?
+PATIENT: Yeah, that sounds good, Doctor. Whatever you need to do. I trust your judgment.
+DOCTOR: Excellent. If you could lie down on your stomach for me, please. I’m going to start with your lower back. Just relax as much as possible. Okay… a little tenderness here… and when I ask you to lift your leg like this… Any pain radiating down your leg with that?
+PATIENT: Ooh, yeah. When you lift it up like that… definitely feels it shooting down my right leg. Not a severe pain, but I can feel it. Like a tingling, almost. And a little ache in my back, too. It's definitely worse when you stretch it out like that.
+DOCTOR: Positive straight leg raise on the right… tingling sensation… Okay. Now, can you stand up for me, if you can?
+PATIENT: Yeah, sure. There we go. A bit wobbly, but I can stand.
+DOCTOR: Alright. And can you walk a few steps for me?
+PATIENT: Okay, here we go. Just a normal walk, right? It feels a little… off, I guess. I'm kinda favoring my right side a little, to be honest. Trying not to, but it's just… more comfortable that way.
+DOCTOR: Slight antalgic gait… favoring the right side… Okay. Based on what you've told me, and the exam, it sounds like you likely have a pinched nerve or some irritation of the sciatic nerve – potentially sciatica. It's common. But we'll need to rule out other possibilities. Do you have any history of diabetes?
+PATIENT: Diabetes? No, not that I know of. My doctor’s never said anything about it. I get a check-up every year, and they always tell me my blood sugar is fine. I do like sweets, though… but I don't think I have diabetes. I think.
+DOCTOR: Okay, good. Alright. We'll start with some conservative treatment. I'm going to recommend a course of physical therapy, and I'll prescribe an anti-inflammatory medication to help with the pain and inflammation. And try to avoid any heavy lifting or bending for the next few weeks. If the pain doesn't improve within a month, or if it gets significantly worse, we may need to get an MRI to get a better look at the spine. Does that sound alright?
+PATIENT: Yeah, that sounds like a plan, Doctor. Physical therapy and the medication... I can definitely try that. No heavy lifting is fine with me, honestly. I'm just tired of being in pain. A month sounds good. Hopefully, it'll get better by then. And yeah, if it doesn’t, then the MRI… whatever you think is best. Thanks, Doctor.
+DOCTOR: Alright. I’m sending the prescription to your pharmacy now. And I’ll have the nurse give you a referral for physical therapy before you leave. Here's a handout with some basic exercises you can do at home to help with your back pain. Do you have any allergies to medications?
+PATIENT: Oh, good, a handout. That's helpful. And no, I don't have any allergies. Never had a reaction to anything before, thankfully. Not to any medicine, or anything else for that matter.
+DOCTOR: Okay, good. Alright, Mr. Way, I think we've covered everything for today. If you have any questions or concerns, don't hesitate to call the office. And if the pain becomes severe, especially with weakness or numbness in your legs, please go to the emergency room immediately. Is there anything else I can help you with today?
+PATIENT: No, I think that’s everything, Doctor. You've been very helpful. I appreciate you taking the time to listen and explain everything so clearly. I'll follow your instructions and hopefully, I'll be feeling better soon. Thanks again, Doctor.
+DOCTOR: You're very welcome, Mr. Way. Take care.

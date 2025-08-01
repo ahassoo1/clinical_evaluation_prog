@@ -1,0 +1,26 @@
+DOCTOR: Alright, Ms. Hughston, good to meet you… I suppose. So, what brings you in today?
+PATIENT: Oh, hello doctor. It’s… well, it’s this drug test, isn’t it? Medicare sent me. Honestly, I don’t really remember why exactly. Something about… making sure I’m okay? It’s all a bit fuzzy, you see. I do a lot of work, out on the roads… paving and such. Keeps me busy, thankfully.
+DOCTOR: Right, right. Medicare… paperwork. Honestly. Paving, you say?
+PATIENT: Yes, paving. And sometimes tamping, you know, getting the ground ready. It’s… physical work. Not that I'm complaining! Keeps the mind sharp too, figuring out the angles and all. Though, sometimes I forget where I parked the truck… does that make sense?
+DOCTOR: Look, Ms. Hughston, I have patients waiting. We need to focus. Are you experiencing any specific symptoms?
+PATIENT: Symptoms? Hmm… not that I’ve noticed, really. I mean, I get tired, but that’s just the work, isn’t it? And my knees ache a bit in the evenings, but… well, I’m not exactly spring chicken anymore! Is there something specific I should be looking for? I honestly wouldn't know where to start.
+DOCTOR: Alright. Let’s try this. Any dizziness?
+PATIENT: Dizziness… not really. Sometimes I feel a bit… off balance after a long day, but I figured that was from being on my feet for so long. You know, like when you stand up too fast? Is that what you mean? I don't get spinning or anything, if that helps.
+DOCTOR: And any changes in your vision?
+PATIENT: Vision… well, now that you mention it, things haven’t been quite as sharp lately. I just thought it was my eyes getting older. I haven't been to the eye doctor in… oh dear, I couldn't even tell you how long. It's probably just needing new glasses.
+DOCTOR: Okay. And headaches?
+PATIENT: Headaches… on and off. Not terrible, usually. More like a dull ache, behind my eyes. Like a tension headache, you know? I usually just take something over the counter and it goes away. They don’t happen every day, though. It's hard to remember when exactly I had one last, to be honest.
+DOCTOR: Alright, alright. Let’s just do a quick exam, shall we?
+PATIENT: Oh, alright, yes, that sounds good. Whatever gets this done. I’m happy to do whatever you need, doctor. Is it going to be a long exam? I have a job to get back to, you see.
+DOCTOR: Have a seat. I'll check your reflexes and balance first. Just relax.
+PATIENT: Okay, relax... I can do that. Balance… that’s a good one. I'm usually pretty steady on my feet, though, all that work keeps you that way, I suppose.
+DOCTOR: Reflexes are a bit diminished, but within normal limits for your age. Now, stand up slowly. A little unsteady... not alarming, but concerning. Any falls recently?
+PATIENT: Falls? Hmm... Not exactly falls. I stumbled a couple of times, I think. But I always managed to catch myself. It was more like… losing my footing. That truck is a bit high to get into and out of, you know. Maybe it was that. It hasn't been recent though, not for a while.
+DOCTOR: Alright. Blood pressure and pulse are normal. Let's just check your ears.
+PATIENT: Oh, okay, ears… I do get a bit of ringing in my ears sometimes, especially after a long day on the machinery. Just a faint ringing, though. Nothing too bothersome, usually. Is that something to worry about, doctor?
+DOCTOR: Tinnitus. Common. Look, Ms. Hughston, given your age and these vague symptoms… and frankly, your difficulty recalling details… I'm going to order a basic blood panel and a CT scan of your brain. Just to rule things out. It’s probably nothing, but we need to be thorough.
+PATIENT: Oh. A blood panel and a… a scan? That sounds… serious. Is something wrong, doctor? I just came in for a drug test, you know. And I really need to get back to work. Are you sure it's necessary?
+DOCTOR: Ms. Hughston, I understand your concern. But a CT scan will help us rule out any structural issues that could be causing your dizziness and balance problems. And the blood panel will give us a baseline of your overall health. Better safe than sorry, you understand?
+PATIENT: I suppose so… but it all sounds rather… frightening, to be honest. And what if it is something? I haven’t got anyone to help me, you see. My husband… he passed a few years ago. And I live alone. What if… what if something’s really wrong, doctor?
+DOCTOR: Look, let’s not jump to conclusions. The vast majority of the time, these things are nothing. We're being proactive. The nurse will give you the orders for the lab and scan. Schedule them as soon as possible. We’ll discuss the results when they come back. Now, is there anything else you wanted to discuss?
+PATIENT: No… I don’t think so. Just… it’s a lot to take in. I just want to go back to work, you know? I need to keep busy. Thank you, doctor. I suppose. I’ll… I’ll talk to the nurse. .

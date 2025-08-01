@@ -1,0 +1,29 @@
+DOCTOR: Hi Criston, welcome to the clinic. I'm Dr. Rosanova. So, what brings you in today?
+PATIENT: Hello Doctor. Thank you. I… my pee is orange. It started a few days ago, maybe three or four. It’s a little… strange.
+DOCTOR: Okay, orange urine is definitely something we should look into. Three or four days, alright. And is it always orange, or does it come and go?
+PATIENT: It’s… most of the time. Not every time, but yeah, mostly orange. I drink a lot of water, I think. Maybe too much? I don't know.
+DOCTOR: Okay, drinking a lot of water is generally a good thing, but we’ll figure out if that could be a factor. Besides the color change, have you noticed any other changes?
+PATIENT: Hmm… let me think. No, not really. I feel okay. No pain or… burning. Just the orange pee. I’m a little tired, but I work long hours.
+DOCTOR: Alright, no pain, no burning, just fatigue and the orange urine. And you mentioned long work hours – what do you do for work, Criston?
+PATIENT: I work with… machines. Like, fixing them and making sure they work good. Engineering… something. Technicians. It’s… hard to explain. I make things work.
+DOCTOR: Okay, so a technician, working with machinery. That's helpful to know. Do you come into contact with any chemicals or dyes in your work?
+PATIENT: Yes. Sometimes. Oil, and… cleaning stuff. And some things… red things. For when metal is broken, maybe? I use them to… check for cracks. I don't know the names of the things.
+DOCTOR: Okay, oil, cleaning stuff, and red dyes used for crack detection – that’s good information. Do you have any known allergies to medications or anything else?
+PATIENT: No, not that I know of. I haven't taken medicine in… a long time. Maybe a headache pill, but nothing else. My wife, she knows more about that kind of thing.
+DOCTOR: Alright, no known allergies. And you haven’t been taking any medications regularly. Okay, Criston, I'd like to do a quick physical exam, just to get a better sense of things. I'll check your abdomen, listen to your heart and lungs, and we'll do a quick urine sample to check for any abnormalities. Does that sound alright?
+PATIENT: Yes, that sounds okay. Whatever you think is best, Doctor. Urine sample… that’s easy, right?
+DOCTOR: Yes, very easy! We have a private restroom right down the hall. I’ll give you a cup, and I'll just ask you to collect a mid-stream sample – that just means start peeing, then collect a little bit in the cup, then finish. I'll give you instructions. I'll be right outside when you're done. After that, we'll do a quick exam.
+PATIENT: Okay. Mid-stream… I think I understand. I will go now. Thank you, Doctor.
+DOCTOR: Alright, take your time. I’ll be right here.
+PATIENT: Okay, I did it. Here is the… sample.
+DOCTOR: Thank you, Criston. Alright, let's just have you lie down on your back for a moment. I’m going to listen to your heart and lungs, and then I’ll just gently feel your abdomen. Nothing to worry about, just a quick check. Take a deep breath… and another one… Everything sounds clear. Now, I'm just going to feel your abdomen. Any tenderness here?
+PATIENT: No, not really. A little… hard, maybe? But not painful. I… eat a lot of bread. Maybe that?
+DOCTOR: Okay, a little tenderness, possibly related to diet. That's good to know. And no fever, no chills, no nausea or vomiting, correct?
+PATIENT: No, nothing like that. Just the orange pee and… feeling tired sometimes. And eating too much bread, I think. My wife always tells me.
+DOCTOR: Alright. So, Criston, based on what you've told me and the initial exam, several things could be causing the orange urine. Dehydration can definitely cause it, even if you're drinking water. Certain foods, like beets, can also cause it. But given your work with machinery and potential exposure to chemicals, we need to rule out a few other possibilities. It could be a side effect of something you've been exposed to, or even a mild liver issue, though I don't see any other symptoms suggesting that at this time. To be on the safe side, I’m going to order a complete blood count, a comprehensive metabolic panel – that checks your liver function – and a urinalysis to look for any abnormalities in your urine. Does that sound alright?
+PATIENT: Yes, that sounds… good. Blood tests and… the other test. I want to know what is wrong. And… how long will that take?
+DOCTOR: Okay, good. I understand. The blood tests and urinalysis should take about 24 to 48 hours to come back. We'll give you a call as soon as we have the results. In the meantime, I recommend increasing your fluid intake even more, just to be safe. And try to reduce your intake of processed foods for a few days. Does that sound manageable?
+PATIENT: Yes, more water is good. And… less bread. My wife will be happy to hear that. Thank you, Doctor Rosanova.
+DOCTOR: You're very welcome, Criston. I’ll also give you a printout of the lab orders and instructions. If you experience any pain, fever, or any change in your overall condition before we get the results, please don’t hesitate to call the clinic immediately. We’ll be in touch soon. Is there anything else I can help you with today?
+PATIENT: No, I think that is everything. Thank you again, Doctor. I hope it is nothing serious.
+DOCTOR: We'll figure it out, Criston. It's likely something simple, but it's always best to rule things out. You have a good day, and please don't hesitate to reach out if you have any concerns.

@@ -1,0 +1,31 @@
+DOCTOR: Alright, Mr. Kingan, good to see you. So, what brings you in today?
+PATIENT: Yeah, hi. Just need a checkup for… well, a sports team. Tryouts, you know? Gotta make sure I'm good to go. Don't want any surprises.
+DOCTOR: A sports team?
+PATIENT: Right. Sounds silly, I know, at my age. But it's… a sort of endurance thing. Not football or anything. More… running, hiking, that kind of stuff. They want to see if I can handle it.
+DOCTOR: Endurance, huh. Well, alright. We can certainly do a checkup. Just to be thorough, let's start with a bit of your medical history. Have you been seeing a regular doctor?
+PATIENT: Not really, no. Haven't needed to, honestly. Just the usual colds, nothing serious. Been pretty healthy, all things considered. No insurance, either, so… I try to avoid it if I can.
+DOCTOR: Right. No insurance. Okay. Let’s just get through this as efficiently as possible then. Any major illnesses in the family?
+PATIENT: Hmm. My mother had… something with her heart, I think. Years ago. Passed away when I was young. And my father, he had bad knees, always complaining about them. Nothing else comes to mind, really.
+DOCTOR: Heart condition, arthritis. Alright. Any allergies to medications, food, anything like that?
+PATIENT: Nope. I can eat anything, take anything. Never had a reaction to anything, thankfully. I'm pretty simple that way.
+DOCTOR: Okay. And are you currently taking any medications, prescription or over-the-counter?
+PATIENT: No, nothing at all. Like I said, pretty simple. Just… trying to stay in shape for this tryout, you know?
+DOCTOR: Right. Well, "simple" doesn't necessarily mean healthy. Let’s at least do a basic physical exam. I need to check your vitals, listen to your heart and lungs, and feel your abdomen. Just to make sure you're not about to drop dead during this... endurance thing. Is that alright?
+PATIENT: Yeah, okay. Sounds… thorough. I guess. Let's just get it over with. The sooner I know if I'm good, the better.
+DOCTOR: Alright. If you'll step over here. First, let’s get your weight and height. Then we’ll move on to the blood pressure and pulse.
+PATIENT: Okay. Just… try to be quick, alright? I got things to do.
+DOCTOR: I assure you, I’m as efficient as possible. 183 centimeters, 129 pounds… a bit underweight, frankly. Blood pressure is… 130 over 80. Pulse is 72. Not terrible, but we'll need to listen to your heart and lungs. Please, sit up on the table.
+PATIENT: Yeah, I know I'm thin. Always been that way. Runs in the family, I guess. Just… let’s get this over with.
+DOCTOR: Hmm. A little bit of a murmur, but it's faint. Nothing to immediately worry about, probably just normal age-related changes. Take a deep breath… and exhale. Again. Lungs sound clear. Any pain here?
+PATIENT: Nope, nothing. Feels… normal, I guess. Just a bit empty, maybe? Like I said, I don’t eat much.
+DOCTOR: Hmm. A little tenderness in the upper right quadrant, but nothing significant. You said you don't eat much. What does a typical day look like, diet-wise?
+PATIENT: Well, coffee in the morning. Maybe a small piece of toast. Lunch is usually… nothing. Or a piece of fruit. Dinner, if I'm really hungry, maybe some rice and a little bit of fish. Honestly, it varies. I don’t really pay much attention. I get enough energy for what I need.
+DOCTOR: “Enough energy” isn’t a medical assessment, Mr. Kingan. This is… concerning. Your weight is quite low, and your diet sounds severely inadequate. Are you experiencing any fatigue, weakness, dizziness?
+PATIENT: Well, now that you mention it… I have been feeling a little tired lately. And sometimes a bit lightheaded, especially after I’ve been running. Thought it was just from the exercise.
+DOCTOR: “A little” tired and “a little” lightheaded with a weight of 129 pounds and a diet consisting of coffee and rice?
+PATIENT: Look, I'm not a doctor, alright? I just wanted to make sure I was healthy enough for this tryout! I didn't realize I was supposed to be giving you a detailed medical history.
+DOCTOR: You came in for a checkup, and you neglected to mention you’re practically starving yourself. I'm going to order some blood work. Complete blood count, electrolytes, liver function tests, and a basic metabolic panel. We need to see what's going on. And frankly, I strongly advise against participating in this “tryout” until we have results and can assess your condition properly. It's irresponsible to push yourself like this when your body is clearly not getting what it needs.
+PATIENT: Okay, okay! Fine. Blood work. Whatever. But can we hurry? I got things to do. And… look, is this going to be expensive?
+DOCTOR: I’m aware you’re uninsured, Mr. Kingan. I’ll see what I can do to minimize the cost. There’s a local lab, they offer a discount for cash payments. I’ll write you a referral. Here. Take this to the lab, they'll draw the blood. It will take a few days to get the results back. And honestly, I’m recommending you see a nutritionist. Your dietary habits are… inadequate. I can provide a referral for that as well. Now, is there anything else?
+PATIENT: No… No, I think that’s it. Just… the blood work. Thanks. .
+DOCTOR: Alright. I’ll have my nurse schedule a follow-up appointment for when the results are available. And please, reconsider participating in any strenuous activity until we’ve addressed your nutritional deficiencies. .

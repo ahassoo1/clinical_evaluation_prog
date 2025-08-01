@@ -1,0 +1,34 @@
+DOCTOR: Hi Jerrel, good to meet you. I'm Dr. Amussen. So, what brings you in today?
+PATIENT: Oh, hello Doctor. Tremor, they said? Yes, well, it’s this… shaking. It’s bothersome, really. Can we get this over with quickly? I have things to do, you know.
+DOCTOR: Right, shaking. Okay. And how long has this shaking been going on?
+PATIENT: Oh, goodness. A while now. Months, I suppose? It comes and goes. Honestly, it’s hard to keep track. Old age, probably. Everything just… fades, you know?
+DOCTOR: I understand. Months is helpful, though. Is it constant, or does it happen with certain activities?
+PATIENT: Activities? Hmm. I… I don't really do much these days. It seems to happen when I’m trying to… hold something. Like a fork. Or a glass. Makes a mess, mostly. And it's embarrassing.
+DOCTOR: Okay, so it's worse when you're holding things, like eating or drinking. Does it happen at rest too, when you're just sitting or lying down?
+PATIENT: At rest? Now you're asking too many questions. Look, I mostly just sit and watch TV. Maybe it happens then, I don't pay attention. Really, I just want to know what can be done about it. Is it serious?
+DOCTOR: Alright, I understand your frustration. We'll get through this quickly. Let's try to figure out a bit more so I can give you the best advice. It's good to rule things out, okay?
+PATIENT: Rule things out? What things? Look, I’m eighty years old. What is there to rule out? It’s just a shaky hand, Doctor. Not the end of the world. Honestly, I've seen it in other people.
+DOCTOR: Okay. I understand your point. But even a shaky hand can have different causes, and it's important to check. Have you noticed any other symptoms along with the shaking?
+PATIENT: Other symptoms? Like what? I get tired, of course. Eighty years will do that to you. And my joints ache. But that's just… being old! I don't see what that has to do with my hand shaking. Are you a specialist in old age?
+DOCTOR: No, I'm a family medicine doctor, so I treat a wide range of conditions. The aching and tiredness are helpful to know, though. And just to be thorough, have you noticed any stiffness in your muscles, any changes in your balance, or any difficulty speaking?
+PATIENT: Stiffness… sometimes. Balance? I don't fall or anything. And speaking? What are you implying? I’m perfectly clear! Look, I don't appreciate being interrogated like this. I told you, it’s just a tremor.
+DOCTOR: I apologize if I'm coming across as interrogative. It's just important to gather all the information. Okay. Let's do a quick physical exam. Could you hold your arms out in front of you, like you're trying to balance?
+PATIENT: Fine. But don’t expect much. I haven’t done a lot of…balancing lately. Honestly, this is a waste of time.
+DOCTOR: Okay, I see a little bit of shaking at rest, and your arms are a bit stiff. Now, can you tap your finger to your thumb as quickly as you can?
+PATIENT: There. Happy? It's not exactly a talent I possess. Used to be good with my hands, built things, fixed things... But that was a long time ago.
+DOCTOR: Okay. And can you follow my finger with your eyes without moving your head?
+PATIENT: I’m doing my best, Doctor. My eyes aren’t what they used to be either. Really, what’s the point of all this? Is it Parkinson’s? My cousin had that. Dreadful.
+DOCTOR: Okay, I understand your concern. It could be a number of things, and it's too early to say definitively. Based on what you've told me and the exam, it's most likely essential tremor or Parkinson’s disease, but we need some more information to be sure. I'd like to order a blood test to rule out other causes, and I think a referral to a neurologist would be a good idea. Would you be okay with that?
+PATIENT: Neurologist? More doctors? Blood tests? Honestly, this is getting ridiculous. Look, I’m an old man. I don’t want a bunch of tests. I just want something to stop the shaking! Is there a pill or something? Can't you just give me something?
+DOCTOR: I understand your frustration, Jerrel. I wish I could just give you a simple answer, but it's not safe to prescribe medication without knowing what's causing the shaking. There are medications that can help with both essential tremor and Parkinson's, but they have potential side effects, and the wrong one could actually make things worse. Let's start with the blood test. It's relatively simple. And I can get a referral to a neurologist who specializes in movement disorders. They can do a more thorough evaluation and discuss treatment options with you. Would that be alright?
+PATIENT: Fine. Whatever. Blood test. Neurologist. Just… get it over with. I have things to do, you know. And make it quick.
+DOCTOR: Alright. I’ll get the lab order for the blood test right now. It should only take a few minutes. I’ll also get the referral to Dr. Levine, a neurologist downtown. They’re very good. While we’re waiting, do you have any allergies to medications?
+PATIENT: Allergies? Hmm. Not that I know of. Maybe penicillin when I was a kid? But that was a lifetime ago. Honestly, I've taken so many pills over the years, I can’t remember. Just… nothing that makes me break out in hives. That would be unpleasant.
+DOCTOR: Okay, no known hives. Good to know. And are you currently taking any medications, even over-the-counter ones?
+PATIENT: Just… a little something for my blood pressure. The doctor prescribed it. Can’t remember the name. Small blue pill. And sometimes I take something for my joints. When they really ache. But that's it. Really. Don’t make me rack my brain any further, Doctor. It’s exhausting.
+DOCTOR: Alright. We’ll look up your blood pressure medication in your records. Okay, it looks like you’re on lisinopril. And for your joints, are you taking ibuprofen or naproxen occasionally?
+PATIENT: Naproxen! That’s it. Little white pills. I take them when I have to, you know? When I can’t get up in the morning. Honestly, I just want to be left alone. Can we finish this already?
+DOCTOR: Okay, so lisinopril and naproxen as needed. Good. Alright, I’m printing out the lab order and the referral information now. The lab is just down the hall. Once they’ve taken your blood, Dr. Levine's office will call you to schedule an appointment. Do you have any questions for me before we finish up?
+PATIENT: Questions? No. Just… get it over with. I wasted a perfectly good afternoon on this. Look, thank you. I suppose. Now, if you’ll excuse me…
+DOCTOR: Okay, Jerrel. I understand. I’ll have my nurse escort you to the lab. Please don’t hesitate to call the clinic if you have any concerns. And remember to take your medications as prescribed. Have a good day. .
+PATIENT: Right. Thank you. Goodbye.

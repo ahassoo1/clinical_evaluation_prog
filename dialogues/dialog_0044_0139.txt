@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Yamir. I'm Dr. Asami. It’s nice to meet you. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just… fitness check. For… referee stuff. Need paper say I’m okay. Want finish quick, if okay.
+DOCTOR: Okay, a fitness check for refereeing – I understand. A pre-participation physical, essentially. Absolutely, we can work to make this efficient. Just to be thorough, even with it being a quick check, I'll need to ask a few questions and do a brief physical exam. Is that alright with you?
+PATIENT: Yeah, okay. Questions first is good. Less… touching, maybe? Just say if need touch. I okay with questions.
+DOCTOR: Certainly, Yamir. Questions first is perfectly fine. We’ll minimize the physical exam part as much as possible. I'll definitely let you know before I need to listen to your heart, lungs, or anything like that. Let's start with your medical history. Have you been diagnosed with any medical conditions – things like high blood pressure, diabetes, asthma, or heart problems?
+PATIENT: No. Nothing like that. Wife… she had… problems, but I… healthy. I think. Never really sick. Maybe cold sometimes. But not… big stuff. Sorry. Hard talk about wife.
+DOCTOR: It’s alright, Yamir. No need to apologize at all. It's perfectly understandable that’s difficult to discuss. We can absolutely skip anything you're not comfortable with. Just focusing on your health today is what's important. Have you ever had any surgeries or been hospitalized for anything?
+PATIENT: No surgeries. No… long time in hospital. Small cuts, maybe when work… refractory, you know? Hot. But not… need hospital. Just bandage. Once, broke finger. But doctor just… wrap. No cut open.
+DOCTOR: Okay, so no significant surgeries or hospitalizations. Just a broken finger that was treated with a wrap. And what about your family?
+PATIENT: Family…? Not much family left. Wife’s parents… gone. I… from China long time ago. Parents there, but… don’t see. Don't talk. Maybe heart problem, mother. Not sure. Old. No good contact. Sorry. Not good family talk.
+DOCTOR: That's perfectly alright, Yamir. You don’t need to share anything you're not comfortable with. Knowing a lot of detail isn’t always necessary. Let's move on to some lifestyle questions then. Do you smoke, use tobacco, or vape?
+PATIENT: No. Never. Wife… she try once. I say no. Bad for lungs. Always work dusty, already. No need more bad.
+DOCTOR: That's excellent, Yamir. Good for you both. Do you drink alcohol, and if so, how much and how often?
+PATIENT: Sometimes… small beer. With food. Not every day. Maybe… weekend. One or two. Not much. Nothing make me… silly. I need work. Need strong. Not… drink a lot.
+DOCTOR: Okay, so occasional, light alcohol consumption. And do you use any recreational drugs?
+PATIENT: No. Absolutely not. Never. Bad. Waste money. Wife… she say bad. And I agree. Work too hard. No time for… that.
+DOCTOR: That's good to know, Yamir. Now, do you have any allergies to medications, foods, insects, or anything else?
+PATIENT: No. I think. Sometimes skin… itchy with some plants, when work outside, but… not serious. Not like… close throat. Just small itchy. Maybe from dust too. Hard to say. Never go doctor for itchy.
+DOCTOR: Okay, so no known serious allergies. Some minor skin irritation, possibly related to environmental factors. Are you currently taking any medications – prescription or over-the-counter?
+PATIENT: No. Nothing. I strong. Just… sometimes painkiller when work… really hard. Ibuprofen, maybe. Not every day. Only when really sore. And then… just one. Two. Not many. Stop when okay.
+DOCTOR: Okay, so you occasionally use ibuprofen for pain, as needed. Now, to get a better picture of your current fitness level… are you experiencing any pain, shortness of breath, dizziness, or chest discomfort with exertion?
+PATIENT: No! No chest pain. Never. Sometimes… tired after work. Very heavy lifting. But not… like hurt. Just old. And…refractory, very hot work. Sweat a lot. No dizzy. No dizzy. Always careful. I need work. Can’t get dizzy.
+DOCTOR: That's good to hear. Okay, let's do a quick physical exam to finish up. I'll just listen to your heart and lungs, check your blood pressure and pulse, and do a basic visual assessment. Does that sound alright?
+PATIENT: Okay… quickly. Yes. Just… don’t want spend all day. Hurry is good. Then I can go work.
+DOCTOR: Absolutely. We’ll be quick. If you’ll have a seat here, I’ll start with your blood pressure. Then I’ll listen to your heart and lungs. Blood pressure is 130 over 80. That’s within a normal range. Heart sounds are regular, no murmurs detected. Lungs are clear to auscultation bilaterally. Do you have any vision problems or wear glasses or contacts?
+PATIENT: No glasses. No contacts. Vision… okay. Maybe not so good for small print, when old, but… still okay for work. Still can see. Not bad.
+DOCTOR: Okay, good. Alright, Yamir. Everything seems to be within normal limits based on this quick assessment. Do you have any questions for me?
+PATIENT: No questions. Just… paper? I need paper for referee. Is okay now? Can go work now? Is quickly, you say. Thank you, Doctor.
+DOCTOR: Yes, absolutely. This form indicates you are cleared for participation in refereeing activities. It’s good for one year from today’s date. If you could just sign here, and we’re all set. I’m glad we could get this done quickly for you. Please don’t hesitate to reach out if you experience any changes in your health or have any concerns in the future. And thank you for coming in, Yamir. Have a safe and productive day at work.
+PATIENT: .

@@ -1,0 +1,29 @@
+DOCTOR: Right. Jase Nahrwold, 20 years old. So, what brings you in today?
+PATIENT: Um, hi. It's… my stomach. It's been, well, not good. Lots of… going to the bathroom. Diarrhea, I think they call it. It's been happening for a while now. I don’t really keep track of dates, sorry.
+DOCTOR: "A while now," is… helpful. Look, is this a new thing, or has this been going on for months?
+PATIENT: Months, I think? Maybe longer? It comes and goes, but it's been pretty constant lately. Like, almost every day for the last… few weeks, at least? It’s hard to say exactly. I just… feel unwell a lot. Sorry, I’m not very good at explaining things.
+DOCTOR: Right, okay. Constant for "a few weeks." Any blood in the stool?
+PATIENT: Blood? Um… I don’t think so. Not that I’ve noticed, anyway. Sometimes it's… darker, but I didn’t think much of it. Is that… bad? I really don’t know what’s normal and what isn’t.
+DOCTOR: Darker stool can be significant. Alright. Any fever?
+PATIENT: Fever… not really. I feel tired a lot, but I don't think I've actually felt hot. Like, I haven’t needed to take anything for a temperature. Does that make sense? I get… chills sometimes, but that could be anything, right?
+DOCTOR: Chills. Okay. Any nausea or vomiting?
+PATIENT: Sometimes a little nauseous, yeah. But I haven't actually thrown up. It just… feels like I might. And I don't have much of an appetite, which… isn’t great. Everything feels a bit off, honestly. Is this… related to my stomach? I'm married, by the way, if that's important.
+DOCTOR: Your marital status is… largely irrelevant. Appetite loss, nausea... We're getting somewhere. Have you lost any weight recently?
+PATIENT: Oh. Okay. Um… yeah, probably. My clothes feel a bit looser, I guess. I haven't weighed myself, though. My husband probably knows, but he's at work. It’s just… gradual, you know? Not like a sudden drop or anything. I just haven't been eating as much. Does that make sense? I have Medicare, if that matters too.
+DOCTOR: Medicare. Fine. Any abdominal pain?
+PATIENT: Yeah, sometimes. It's… hard to describe. It’s not like a sharp pain, more like cramping. Mostly in my lower stomach. It comes and goes, and it doesn't usually last very long. It feels… worse after I go to the bathroom, if that makes sense. I don't think it's bad bad, but it's definitely uncomfortable.
+DOCTOR: Alright. Cramping, worse after bowel movements…Have you traveled anywhere recently?
+PATIENT: Traveled? Not really. Just… around town. Nothing exciting. No vacations or anything. We mostly stay close to home. I don’t think it’s travel related. I honestly don't remember the last time I went anywhere far.
+DOCTOR: Look, I need some concrete information here. Any new foods you’ve tried?
+PATIENT: New foods… hmm. Not really, I don’t think. We usually eat the same things. My husband does most of the cooking. Oh! Wait. He tried a new spice a couple of weeks ago, maybe? It was… something Indian? I don’t remember the name. It didn’t taste weird, though. It just tasted… spicy. Could that be it?
+DOCTOR: Possibly. Okay. And are you currently taking any medications, or have you taken any recently—even over-the-counter things?
+PATIENT: Um… not really. Just the usual, like, painkillers for headaches sometimes. Nothing for my stomach. I’ve tried… I think I used some anti-diarrhea stuff a while back, but it didn’t really help. And I get a yearly flu shot, I think. Does that count? I really am bad at remembering things, sorry.
+DOCTOR: Okay. Right. Anti-diarrheals ineffective...Let me ask you this. Do you have any allergies that you know of?
+PATIENT: Allergies… not that I’ve ever noticed, no. I mean, I haven't had a really bad reaction to anything. Nothing food-related, at least. Sometimes my skin gets a little itchy, but I just thought that was from the weather. Is that important? I'm not sure. It just doesn’t seem… related.
+DOCTOR: Look, this is a rather non-specific constellation of symptoms. I'm going to listen to your abdomen, and then we'll figure out what tests need to be done. Lie back on the examination table, please.
+PATIENT: Okay, sure. Is everything okay? I feel a little worried now, if I'm honest. This is all a bit… much.
+DOCTOR: Alright. Relax. Tenderness to palpation in the lower abdomen, slight guarding. Sounds… a little distended. It’s not alarming, but it needs to be investigated. Okay. We’re going to order a stool sample to rule out any infection, and some blood work to check for inflammation and dehydration. Also, let's get a basic metabolic panel. Does that sound alright?
+PATIENT: Okay. Yeah, that sounds… good. Whatever you think is best. Stool sample and blood work, right? Is… is it something serious? I mean, you said it needed to be investigated… I just… I don't want anything to be really wrong.
+DOCTOR: Look, it’s likely something fairly benign—gastroenteritis, perhaps, or a sensitivity. But we need to rule out anything more serious. The tests will give us a clearer picture. The nurse will come in shortly to draw your blood and explain how to collect the sample. In the meantime, I’m going to prescribe you a bland diet. No dairy, no caffeine, no spicy foods. And drink plenty of fluids. That's all for now. Do you have any other questions?
+PATIENT: Okay, bland diet, no dairy, no caffeine, no spicy foods… got it. No, I don't think so. Just… please let me know if there’s anything… really bad going on. And thank you, doctor.
+DOCTOR: The nurse will contact you with the results. Have a good day. .

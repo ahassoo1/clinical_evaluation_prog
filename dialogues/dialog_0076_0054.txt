@@ -1,0 +1,18 @@
+DOCTOR: Right. So, Mr. Tati, what brings you in today?
+PATIENT: Uh, hi doctor. Sorry, always busy work, you know? Cough... been coughing a lot. And tired. Very tired. Feels like... inside my nose, always blocked. Get sick a lot too, the nose one.
+DOCTOR: Blocked nose and tired, alright. “Get sick a lot” is… vague. How long have you been dealing with this cough and tiredness?
+PATIENT: Hmm... long time. Maybe... six months? Or more? Hard to say exactly. Work keep me busy, don't really keep track. Cough worse when it's cold, I think. And the tired... always there now. Even after sleep. Don't know. Sorry.
+DOCTOR: Six months or more… right. And this blocked nose is constant, or does it come and go?
+PATIENT: Come and go. Mostly go when warm. When rain, or cold... very bad. Then I... sniffle a lot. Need tissue all the time. Sometimes headache too, with the nose block. I don't know what cause it. I just... fix tire.
+DOCTOR: Fix tires… I see. Any fever, chills, or body aches with this?
+PATIENT: Fever… sometimes. Not high, just... warm. Body ache... not really. Mostly just tired. And the cough make my chest hurt a little, when I cough too much. Not always, but sometimes. Sorry, I don't... understand if you want more detail? I just feel bad.
+DOCTOR: Alright, alright. Let’s just get through this. Any allergies that you know of?
+PATIENT: Allergies? Uh… I don’t think so. Never been to allergy doctor. Maybe dust? When I fix tire, a lot of dust. But everyone get dust, right? I don’t know if that’s allergy. I just... work. And cough. Sorry.
+DOCTOR: Right. And any medications you’re currently taking?
+PATIENT: Medication? No. Never take. Just… panadol when headache very bad. But not often. I try to rest, you know? But hard to rest when need to work. I don't like take pills. Make me sleepy. Sorry.
+DOCTOR: Okay. Let's do a quick exam. I need to listen to your lungs and check your nose and throat. Please sit up straight.
+PATIENT: Okay. Straight? Like this? Sorry, doctor. I will try. My back a little ache from work, you know? But I will sit straight. Okay. Do it quick, okay? I have work later.
+DOCTOR: Lungs sound… a bit congested, not surprising given your history. Nose is inflamed, throat a little red. Nothing alarming. Sounds like a common cold, probably with some post-nasal drip. It's likely viral. I recommend rest, fluids, and over-the-counter decongestants. If it doesn’t improve in a week, come back. Next.
+PATIENT: Viral? Like... flu? Okay. Rest… I try. Fluids… okay. Decongestant… what kind? Sorry, I don't know much about pills. And if it doesn't get better... one week? Okay. Thank you, doctor. Is that all? I really need to go.
+DOCTOR: Here. Read this. It lists common decongestants. Pseudoephedrine or phenylephrine. Just follow the dosage instructions. And yes, that’s all. Unless it gets worse—high fever, difficulty breathing—go to the emergency room. Don’t waste my time with something simple. Next! .
+PATIENT: Okay, okay. Thank you, doctor. I will read. Pseudo… and pheny… okay. Emergency room… if bad. Okay. Thank you very much. Bye.

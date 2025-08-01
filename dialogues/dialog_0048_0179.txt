@@ -1,0 +1,24 @@
+DOCTOR: Right. Mr. Gyamfi, is it?
+PATIENT: Yes, that is correct. Sherrell Gyamfi. It is… nice to meet you, Doctor Sink, I believe? It has been some time since I have… been to a doctor. Perhaps a long time.
+DOCTOR: Yes, well. The records are…sparse. Let's not dwell on that. You said it's been a while. What brings you in today, Mr. Gyamfi?
+PATIENT: Ah, yes. The reason… it is… difficult to explain. Words, they do not come so easily now. I… struggle to find the right ones. It is very frustrating, you understand. It has been happening… a while, now. Not all the time, but… often enough to be… concerning.
+DOCTOR: Concerning how, exactly?
+PATIENT: Hmm. Well… I find myself… pausing. Thinking very hard about what I want to say. Simple things, you know? Like… asking for the salt at the table. Or… telling my neighbor about the weather. It used to be so… automatic. Now… I stumble. And sometimes… the word just… is not there. It feels like it is on the tip of my tongue, but I cannot grasp it. It makes conversations… difficult. And I worry. I worry about… forgetting things completely.
+DOCTOR: Right. So, difficulty with…word retrieval. And you’re concerned about memory. How long has this been going on, precisely?
+PATIENT: Precisely… that is a good question. It is… difficult to say. I believe it started… perhaps six months ago? Maybe a little longer. It was gradual, you see. Not sudden. At first, I thought it was just… being tired. Or… preoccupied. But it has not gone away. It has… slowly become worse. I am not very good with dates, I must confess.
+DOCTOR: Six months. Approximately. And is this…consistent?
+PATIENT: Consistent… yes, I believe so. It happens most days, now. Some days are… better than others, of course. But there is always… something. A pause, a stumble, a forgotten word. It is not like a sudden event, where I am completely unable to speak. It is more… a constant struggle. It does not matter what I am talking about, either. Simple things, complicated things… it affects everything.
+DOCTOR: Alright. And has anything changed in your life around the time this started?
+PATIENT: Changed… hmm. That is… a thoughtful question. Let me see. Well, my wife… passed away about a year ago. It was… a difficult time, as you can imagine. I have been… adjusting, slowly. I have mostly been… keeping to myself, to be honest. Not much socializing. Perhaps that has something to do with it? I do not know. Everything feels… a little blurry, if I am being honest.
+DOCTOR: A recent loss. Significant life event. We'll note that. Any other changes?
+PATIENT: Other changes… I retired from my work about two years ago now. Compensation, Benefits, and Job Analysis… it was a good career, but… it was time. I spend my time… reading mostly. And walking. Nothing too strenuous. No new hobbies, really. I have not… traveled anywhere. Just… quiet things, mostly. I do not think anything else stands out, to be honest.
+DOCTOR: Alright. And any history of… neurological issues in your family?
+PATIENT: Neurological… hmm. That is a… complicated question. My mother… she had some trouble with her memory towards the end of her life, I believe. But it was very old age, you see. Everyone in her family lived a long time, but… their minds sometimes went with it. My father… he was quite healthy, if I recall correctly. No major issues. I do not know of any other… neurological issues, to be precise.
+DOCTOR: Alright. And are you currently taking any medications, Mr. Gyamfi?
+PATIENT: Medications… no, not currently. I take a small pill for my blood pressure, sometimes. But it is very infrequent. Just when it gets a little high. And I take a vitamin D supplement, in the winter. But that is it. Nothing else. I try to avoid taking too many pills, if I can help it.
+DOCTOR: Alright. And any allergies to medications or anything else, for that matter?
+PATIENT: Allergies… no, not that I am aware of. I have never had a… serious allergic reaction, thankfully. A little bit of hay fever in the spring, perhaps. But nothing that requires medication. Just a bit of a runny nose. Nothing more.
+DOCTOR: Alright. Well, Mr. Gyamfi, it sounds like you're experiencing some cognitive difficulties, possibly related to grief and adjustment. I'm going to recommend a basic neurological assessment, and perhaps some blood work to rule out any underlying medical causes. Do you have any objections to that?
+PATIENT: No, no objections at all, Doctor. That sounds… sensible. If it can help me understand what is happening, I am happy to do it. Blood work and an assessment… yes, that is fine. Whatever you think is best. It is… reassuring to know someone is taking it seriously.
+DOCTOR: Good. I'll have the nurse draw blood, and schedule you for an appointment with Dr. Lehmann, our neurologist, next week. She’ll run a few tests. .
+PATIENT: .

@@ -1,0 +1,23 @@
+DOCTOR: Alright, Mr. Chayer, have a seat. So, what brings you in today?
+PATIENT: Uh, hi Doctor... Burlingham, right? Yeah, sorry, things are kinda hectic. It’s… my breathing. It’s been hard. Like, I get really short of breath, just doing normal stuff. It’s been going on for a bit now, I guess. Not sure exactly how long, to be honest. Everything feels a little…fuzzy lately.
+DOCTOR: “Fuzzy,” you say. Hmm. Well, “a bit” isn’t terribly helpful, is it?
+PATIENT: No, you're right, sorry. It’s just… hard to pinpoint. Maybe… a couple of months? Definitely before the really hot weather started, if that helps. It's just gotten worse lately, especially when I'm, uh… working. My job’s pretty physical, you know? Lots of walking around, checking things at the plant.
+DOCTOR: “At the plant,” right. And what exactly do you mean by “hard”?
+PATIENT: Uh… like, I have to stop and catch my breath a lot. Even just walking from one part of the plant to another. And sometimes, even when I’m resting, it feels like I can’t get enough air. It's kinda scary, honestly. It's not a constant thing, but it happens enough that it’s worrying me. I get a tightness in my chest sometimes, too, but… I don’t know if that’s related. I don’t… remember ever feeling like this before.
+DOCTOR: Tightness in the chest… hmm. And you say this is new?
+PATIENT: Yeah, pretty new. Like I said, maybe a couple of months? It’s… hard to remember exactly when it started. Everything feels a little mixed up. But definitely not something I've ever experienced before. It's not a sharp pain, more like… pressure? And it comes and goes. Honestly, Doctor, I’m just trying to keep up with work. My wife… she’s been worried, but I don’t want to make a big deal out of things if it's nothing.
+DOCTOR: "Not making a big deal out of things…" Mr. Chayer, that's not really my concern. We need to figure out what's going on. Do you have any allergies?
+PATIENT: Uh… allergies? I don’t think so. Not that I know of, anyway. I’ve never really had a reaction to anything. No trouble with food, no hay fever, nothing like that. My wife might know better, actually. She remembers things better than me these days. I’m really not sure, Doctor.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: No, nothing at all. I try to stay away from pills if I can. Never really needed them before. Just… try to eat healthy, get enough sleep… well, try to get enough sleep. Work’s been kinda demanding. My wife keeps telling me to slow down, but… it’s hard.
+DOCTOR: Right. Well, let's have a listen to your chest, shall we?
+PATIENT: Okay, yeah, sure. Whatever you think is best, Doctor. I'm ready when you are. Hopefully, it's nothing serious.
+DOCTOR: Take a deep breath in… and out… okay, one more… alright. Sounds a bit… wheezy. And I hear some diminished breath sounds on both sides, especially lower down. Can you tell me if you've had any recent illness?
+PATIENT: Wheezy? Oh. Recent illness… hmm. Let me think. Not really. I had a little cold, maybe a month or so ago? Just a stuffy nose, a sore throat. Nothing major. Over-the-counter stuff, you know? I didn’t bother going to the doctor. Thought it would pass. My wife kept saying it wasn't just a cold, but… she worries a lot. Does that sound important, Doctor?
+DOCTOR: "Not major," you say. Well, everything is “major” until we rule it out. And a little cold, followed by shortness of breath and wheezing… it’s not ideal. Do you have any family history of lung problems?
+PATIENT: Lung problems… Hmm… my grandfather, on my mother’s side, he used to smoke a lot. I think he had… emphysema? Or something like that. He had trouble breathing towards the end. But that was a long time ago. And my mother, she had asthma when she was a kid, but she grew out of it, I think. That’s all I can really remember. Honestly, Doctor, my memory isn’t what it used to be.
+DOCTOR: Alright. Well, Mr. Chayer, given your symptoms and your family history, I think we need to get a chest X-ray to rule out anything serious. And I’d like to check your oxygen saturation levels. Just to be safe. We’ll start with those here in the clinic.
+PATIENT: X-ray? Oh. Okay, sure. If you think it’s necessary. I… I just hope it’s nothing too bad. My wife will be worried sick. And… I have a lot of work to do. But… yeah, okay. Let's do the oxygen thing first, I guess? Whatever you need me to do, Doctor.
+DOCTOR: Good. Nurse Rodriguez will get you set up. It’s just a clip on your finger. Doesn’t hurt a bit. And then we’ll see what the X-ray shows. Don’t worry unduly, Mr. Chayer, we are just being thorough. Though, you really should try to slow down. It doesn't help anyone if you collapse on the job.
+PATIENT: .
+DOCTOR: .

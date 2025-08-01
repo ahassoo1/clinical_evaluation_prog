@@ -1,0 +1,17 @@
+DOCTOR: Alright, Mr. Kristofik. So, what brings you in today?
+PATIENT: Bloating. Look, I don't have time for a lot of questions. Just...my stomach's puffed up, okay? It's uncomfortable. Been happening for a bit now. Honestly, I just want something to make it stop.
+DOCTOR: Right, "bloating." And how long is "a bit now," exactly?
+PATIENT: Ugh, I don't know. A week? Maybe two? Look, I work. Pile driving doesn’t leave a lot of room for keeping track of when my stomach swells up. It just…does. It’s not exactly a detail I write down, you know? It’s frustrating, alright?
+DOCTOR: Frustrating, yes, well. Pile driving is strenuous. Any changes in your bowel habits?
+PATIENT: Bowel...what? Look, I go to the bathroom when I need to, okay? Is this really necessary? I’m not here to give a detailed report of my…digestive system. Just fix the puffiness, doc. I got work tomorrow.
+DOCTOR: Right. Well, changes can indicate…things. But fine. Any nausea?
+PATIENT: Nausea? Sometimes. Look, it's hard to tell if it’s from the stomach being big or if it’s just…being tired. I work hard, alright? It’s hot out. It’s probably just heat exhaustion, honestly.
+DOCTOR: Heat exhaustion… possibly. Have you noticed any fever, chills, or vomiting?
+PATIENT: Vomiting? No. Look, I told you, I just feel bloated. And a bit tired. Honestly, doc, are you even listening? It's my stomach. It feels like a balloon. That's it.
+DOCTOR: Alright, alright. Let's just have a quick feel. Relax your abdomen for me. Hmm. Sounds… fairly normal. No obvious tenderness. Perhaps some mild distension. But it’s hard to tell with your build. Any pain when I press here?
+PATIENT: No! Stop poking! It's uncomfortable, alright? It feels…sensitive, yeah. Like anything's going to pop. But it doesn’t hurt, hurt. Just…pressure. Honestly, this isn’t helping.
+DOCTOR: Alright, well, sounds like some abdominal discomfort, likely some gas buildup. Given your line of work and the heat, it’s probably not anything serious. But we still need to rule things out. Any allergies to medications?
+PATIENT: Medications? Look, I take whatever the guys on the crew give me for a headache sometimes, alright? Ibuprofen, probably. I don't keep a list of everything I swallow, doc. This is ridiculous. Can we just get a pill or something and be done with this?
+DOCTOR: Alright, Mr. Kristofik. I’m going to prescribe you something for the gas. But I strongly recommend increasing your water intake and watching your diet. It's likely that's contributing to this. And, frankly, you need to be more attentive to your body. It's your responsibility. Here. Take as directed. If it doesn't improve in a few days, then come back and we’ll consider further investigation. Is that understood?
+PATIENT: Fine. Whatever. Just…here. Look, I gotta go. I got things to do. Thanks…I guess. .
+DOCTOR: .

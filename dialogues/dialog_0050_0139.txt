@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Mr. Shanor. I am Dr. Paraskevopoulos. It says here you're 31 years of age. May I ask what brings you in to see me today?
+PATIENT: Good morning, Doctor. Yes, thirty-one. I… need check for referee. For fitness. I want to be sure I can do it. Not get hurt.
+DOCTOR: A “referee check,” you say?
+PATIENT: Yes. For… sports. I referee basketball. Need to be okay for season. They want me to get check-up first. Is… good idea. I think.
+DOCTOR: I see. A pre-participation physical exam, then. While I appreciate your proactive approach, Mr. Shanor, we typically conduct these exams with a bit more… structure. To ensure a comprehensive evaluation. Let’s begin with a detailed history. Could you please describe your overall health?
+PATIENT: Overall health… okay, I guess. I work hard. Repair things. Hot, dirty work. Sometimes back hurt. But mostly okay. I eat… normal food. Not much exercise except for the referee work. I don’t… get sick much. Is that enough? I don’t know what you want to know.
+DOCTOR: “Normal food” is rather vague, Mr. Shanor. And “hot, dirty work” doesn't give me much to work with. Let’s try this. Have you been diagnosed with any medical conditions – anything at all – in the past?
+PATIENT: No. Nothing. Not really. Except… my wife, she… passed away last year. But that not… medical. Is… sad. I don't know what else. No doctor before this. Not much money for that.
+DOCTOR: I understand. A difficult time, certainly. We’ll proceed. Have you ever had any surgeries or been hospitalized for anything?
+PATIENT: No. Never. No surgery. No hospital. I break my arm when I was little, but my mother fix it. With… bandages. Is long time ago. Nothing serious. I promise.
+DOCTOR: Very well. Now, let’s discuss your family history. Are your parents still living?
+PATIENT: Yes. Both. They live in… China. I talk to them sometimes. They… old. My father, he has… trouble with his legs. Gets tired easy. My mother, she okay. Strong lady. But… old. Is all. No other sickness I know of.
+DOCTOR: And what about any siblings?
+PATIENT: I have one sister. She live in… different city. I don’t see her much. She… healthy, I think. Works in office. Nothing wrong with her. We don’t talk about… health things. Is private.
+DOCTOR: Very well. Now, let’s move on to your social habits. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No. No smoking. No drugs. Sometimes… small beer with dinner. Very small. Once a week, maybe. Not much. Is… relaxing. But I can stop if you want. Is not problem. Really.
+DOCTOR: And finally, do you have any allergies to medications, foods, or anything else?
+PATIENT: No allergies. I eat everything. I touch everything. Never have problem. I don’t… understand why you ask so many questions. Is just for referee. Is not… big job. But okay. I answer. Is that all?
+DOCTOR: Alright, Mr. Shanor. Now, let’s proceed with a physical examination. Please step onto the scale for me. We'll start with your weight and height, then move on to blood pressure, heart and lung sounds, and a basic musculoskeletal assessment. Please remove your shoes.
+PATIENT: Okay. Shoes off. Is… cold floor. I hope this not take long. I have things to do. Referee training start next week.
+DOCTOR: 134 pounds. And your height is listed as 174 centimeters, which is approximately 5 feet 8 inches. Now, let’s take your blood pressure. Please extend your arm. Blood pressure is 128 over 76. Heart sounds are regular, normal S1 and S2. Lungs are clear to auscultation bilaterally. Now, I'm going to assess your range of motion. Can you please bend forward and touch your toes?
+PATIENT: Okay. This… hard. My back… a little stiff. Not very flexible. Is okay though. I can still run. I promise. Just need… warm up.
+DOCTOR: I see. And can you rotate your head side to side?
+PATIENT: Like this? A little… crack. Old injury. From… work. Nothing serious. I can see everything. Is just… sound. Don’t worry.
+DOCTOR: Now, let's check your reflexes. Please sit on the examination table, legs dangling. Reflexes are 2+ bilaterally, normal. Strength appears adequate in upper and lower extremities. However, I note some tenderness to palpation over the lumbar spine. Do you experience any radiating pain down your legs?
+PATIENT: Lumbar spine… you mean my back? Yes. Sometimes. When I lift heavy things. Not all the time. Just… a little ache. Not down my legs though. Just… in my back. Is like… old man back. Is not so bad. I can still work. Still referee.
+DOCTOR: Alright, Mr. Shanor. Based on this brief examination, it appears you have some mild lumbar tenderness, likely due to your occupation. Your reflexes and strength are within normal limits. However, given your history of back pain, I recommend a course of physical therapy to strengthen your core muscles and improve your flexibility. I can write you a prescription. Would you like that?
+PATIENT: Physical therapy… Is expensive. And take time. I really just need… okay from doctor. For referee. Is that all I need? Can you just write… “fit to referee”? Please? I don’t want to waste money on… stretching. I just need to work hard and be careful.
+DOCTOR: Mr. Shanor, I understand your concerns about cost and time. However, as a physician, I have an ethical obligation to provide you with the best possible care. Simply stating you are "fit to referee" without addressing your underlying back pain would be… irresponsible. I will not compromise my professional standards. I can write a note stating you have been evaluated and do not currently exhibit any acute medical conditions that would preclude you from participating in moderate physical activity. However, I strongly recommend that you follow through with the physical therapy. Will that be acceptable?
+PATIENT: …Okay. Fine. The note… is okay. “No acute medical conditions.” That good enough. But no therapy. I can’t afford it. And I promise to be careful. Is that all? Can I go now? I really need to get back to work. And train.
+DOCTOR: Very well, Mr. Shanor. I have documented your evaluation and will provide you with a note stating you do not currently exhibit any acute medical conditions precluding moderate physical activity. I strongly advise you to listen to your body and cease activity if you experience any worsening back pain. Here is your note. Please sign this acknowledgment of receipt. And I must reiterate, while you may be currently fit to referee, neglecting your back pain could lead to more serious problems down the line. I suggest you reconsider the physical therapy. But ultimately, the decision is yours. Is there anything else I can assist you with today?
+PATIENT: No. That’s all. Thank you, Doctor. I… appreciate your time. I really have to go now. .
+DOCTOR: .

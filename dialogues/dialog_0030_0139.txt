@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Mr. Shanor. Welcome to the clinic. I'm Dr. Quicksey. It’s nice to meet you. To start, could you tell me what brings you in today?
+PATIENT: Morning, Doctor. Just… fitness check. For referee. I need paper say I okay. Quick, if possible? My time… not much.
+DOCTOR: Certainly, Mr. Shanor. A sports physical for referee certification. We can certainly do that. To ensure I have a complete picture, even for a routine check, I’ll need to ask a few questions and perform a brief examination. It shouldn’t take too long. First, have you had any significant illnesses or injuries in the past that I should be aware of?
+PATIENT: Injuries… yes. Many small. From game. People fall on me. Shoulder hurt sometimes. Old back pain too. But… nothing big. No… serious sick. Just normal things. Like… cold. Flu. You know.
+DOCTOR: Okay, shoulder discomfort and past back pain. And you've had typical illnesses like colds and flu. Just to clarify, when you say your shoulder hurts, is it a constant pain, or does it come and go with activity?
+PATIENT: Comes and goes. When I… move arm a lot. Or if someone… bump into me. Not all time. Usually okay. I just… ignore it. It's okay. Mostly.
+DOCTOR: Alright. And how about your back pain?
+PATIENT: Back… old. Years ago. Sometimes feel it when lift heavy thing. Or sit long time. But… I stretch. I okay. Not big problem now. Honestly, I don't think much about it. It's been a long time.
+DOCTOR: That’s good to hear. Now, have you ever been diagnosed with any medical conditions – things like high blood pressure, diabetes, or heart problems?
+PATIENT: No. Never. Doctor check before, always say I… healthy. Strong. Just… normal man. I work hard. Referee need be fast, you know? Not sick.
+DOCTOR: That's excellent. And are you currently taking any medications, including over-the-counter medications, vitamins, or supplements?
+PATIENT: No. Nothing. I don't like pills. Just… water. And maybe… tea sometimes. When cold. That's all. Simple.
+DOCTOR: Okay, no medications. Do you have any allergies to medications, food, or anything else?
+PATIENT: No allergies. Never had problem. I eat everything. I… try everything. No reaction. Nothing.
+DOCTOR: Good. That’s helpful to know. Now, let's move on to your family history. Are there any significant medical conditions that run in your family – things like heart disease, diabetes, cancer, or high blood pressure?
+PATIENT: Um… my father… he had… heart problem. Old. Very old. But he… live long time. My mother… she okay. Just… normal old lady things. I don't… know much about other family. Not close. Sorry.
+DOCTOR: That's perfectly alright, Mr. Shanor. Knowing what you do is helpful. Finally, a few quick questions about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No. No smoke. No drink. No… bad things. I need be… clear head. Referee need see everything. Focus. Bad things make you slow. Stupid. I don't need that.
+DOCTOR: That’s very responsible of you. Okay, that completes the initial questionnaire. Now, I’d like to perform a brief physical exam. We’ll check your blood pressure, pulse, vision, and listen to your heart and lungs. Is that alright with you?
+PATIENT: Yes. Okay. Quick, please? I have game tonight. Need be fast.
+DOCTOR: Certainly, Mr. Shanor. We’ll keep it as efficient as possible. Please have a seat here on the exam table. First, let’s check your blood pressure. Just relax your arm for me, please.
+PATIENT: Okay. Relax. I try. This… tight. Is normal?
+DOCTOR: It can feel a little tight, yes. Your blood pressure is 122/78, which is within the normal range. Now, let’s check your pulse. Pulse is 72 and regular. Good. Now, could you please follow my pen with your eyes without moving your head?
+PATIENT: Okay. Pen. Is this… good? Fast enough? I don't want to waste time.
+DOCTOR: Yes, that's perfect, Mr. Shanor. Your vision appears to be good. Now, I’m just going to listen to your heart and lungs with the stethoscope. Take a deep breath in… and out… again… and out… Your heart sounds regular and your lungs are clear. Everything sounds good so far. Now, I'm going to quickly check your reflexes.
+PATIENT: Okay. Reflexes. Is good? Everything okay? I feel little… tickle. But okay.
+DOCTOR: Yes, your reflexes are normal. Everything appears to be within normal limits. Overall, your physical exam is normal. Based on the history and physical exam, it appears you are in good health and fit to referee. I'll prepare a form stating you've had a medical evaluation and are cleared for athletic activity. Do you have any specific restrictions or concerns I should note on the form?
+PATIENT: No. No restrictions. Just… say I okay. Strong. Fast. That’s all. Thank you, Doctor. Very fast. I appreciate. Can I get paper now? Need go.
+DOCTOR: Certainly. Here's the completed form. It states that you’ve had a medical evaluation on August 2, 2025, and are cleared for athletic activity. Is there anything else I can assist you with today, Mr. Shanor?
+PATIENT: No. That’s all. Thank you again, Doctor Quicksey. Have a good day.
+DOCTOR: You’re very welcome, Mr. Shanor. You have a good day and a safe game tonight! .

@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Ms. Heidenthal. I’m Dr. Yackey. So, to begin, what brings you in to see me today?
+PATIENT: Good morning, Dr. Yackey. Well, it’s… honestly, it’s my memory. It’s been getting worse, and it’s starting to worry me. I forget things… important things, sometimes.
+DOCTOR: Yes, well. Memory issues are… concerning, certainly. Can you elaborate on what you mean by “important things”?
+PATIENT: Ugh, it’s hard to explain. Like… appointments. I'll write them down, and then just… blank. Or I’ll go into a room and forget why I went in there. And names… I used to be so good with names, but now… it’s just… gone. It’s not all the time, but it’s happening more and more. It’s really frustrating.
+DOCTOR: Right. And how long has this been going on?
+PATIENT: Oh, gosh. That’s a good question. I think… maybe six months? It started slowly, just little things, and I figured it was stress, you know? But it’s definitely gotten worse in the last couple of months. It's… it’s starting to feel like more than just stress.
+DOCTOR: And are there any other symptoms accompanying this?
+PATIENT: Hmm… let me think. Not really, not that I’ve noticed. I sleep okay, I guess. Maybe a little tired sometimes, but who isn't? No headaches or anything like that. I haven’t… fallen or anything. Just the forgetting. Is that enough to be worried about? I feel a little silly even talking about it, to be honest.
+DOCTOR: “Silly” is not a medical term, Ms. Heidenthal. Now, let’s review some basic medical history. Do you have any pre-existing medical conditions?
+PATIENT: Not really. I had my tonsils out when I was a kid, and I broke my arm once, but nothing serious. I’ve been pretty healthy, actually. I try to eat well, and I walk a lot. No diabetes, no heart problems… nothing like that. I do have Medicare now, since I turned 38, but I haven't needed to use it much.
+DOCTOR: And any allergies to medications?
+PATIENT: No, not that I know of. I've taken antibiotics a few times, over the years, for sinus infections, but never had a reaction. I’m pretty sure I’m not allergic to anything, but I can ask my mom, just to be safe? She remembers everything, which is… annoying, but helpful sometimes.
+DOCTOR: Unnecessary, I assure you. Now, family history. Any instances of dementia or Alzheimer’s disease in your immediate family?
+PATIENT: Oh, that's a good question. Let me think… my grandfather on my mom's side… he did get really confused towards the end of his life. I don’t know if it was Alzheimer’s or just old age, honestly. No one really talked about it much. My grandmother was fine, as far as I know. And my parents are both still healthy. Does that count? It’s a little hazy, to be honest. I was pretty young when my grandfather was sick.
+DOCTOR: Hazy is… unhelpful, Ms. Heidenthal. Now, let’s move on to your social history. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh, goodness, no! Definitely not. I don't smoke. I'll have a glass of wine with dinner sometimes, maybe once or twice a week, but that's it. And I absolutely don't do any drugs. I'm a dentist, Dr. Yackey. It wouldn't exactly be a good look, would it?
+DOCTOR: Very well. Now, let's perform a brief cognitive assessment. It's a standard procedure, Ms. Heidenthal. I'm going to ask you a few simple questions. It will take only a few moments. First, can you tell me today's date?
+PATIENT: Um… today is… August 2nd… 2025, right? Is that correct? I think so. It’s hard to keep track sometimes, honestly.
+DOCTOR: Adequate. Now, can you spell “world” backwards?
+PATIENT: Oh, boy… okay, um… let me think. D-l-r-o-w… Is that right? I always mess up backwards spelling. It's terrible.
+DOCTOR: Alright. Now, I'm going to ask you to recall three objects. I will say them, and then I will ask you to repeat them back to me in a few minutes. Are you ready?
+PATIENT: Yes, I think so. Okay, ready.
+DOCTOR: Excellent. The objects are: apple, table, and penny. Repeat those for me, please.
+PATIENT: Okay… um… apple… table… and… penny! Yes, apple, table, and penny. Got it. I hope I remember those.
+DOCTOR: We shall see. Now, I want you to count backwards from 100 by sevens.
+PATIENT: Oh, dear… by sevens? Um… okay. 100… 93… 86… 79… Oh, this is harder than it sounds. 72… 65… I'm losing track… 58… Is that right?
+DOCTOR: Adequate. Now, let's move on to a physical examination. I'll listen to your heart and lungs, check your reflexes, and perform a brief neurological assessment. Please lie back on the examination table.
+PATIENT: Oh, okay. Right. A physical exam. I guess that makes sense. Just let me know if I need to do anything special.
+DOCTOR: Heart sounds are regular. Lungs are clear bilaterally. Reflexes are… within normal limits. Now, I'm going to check your cranial nerves. Follow my finger with your eyes, please, without moving your head.
+PATIENT: Okay, I can do that. Is this okay? I feel a little silly, just staring at a light.
+DOCTOR: Neurological exam is… unremarkable. Given your age and these preliminary findings, I suspect we are dealing with early cognitive decline, likely age-related. However, it is too early to make a definitive diagnosis. We need to rule out other potential causes.
+PATIENT: Oh. That… that sounds scary. Early cognitive decline… What does that even mean? Like… what could be causing it? And what can we do about it? Is there anything I can do to… slow it down?
+DOCTOR: “Cognitive decline” simply means a reduction in mental abilities. It could be due to a variety of factors – genetics, lifestyle, vascular issues. To investigate further, I am ordering a complete blood count, a thyroid panel, and a Vitamin B12 level. I’m also scheduling an MRI of the brain to rule out any structural abnormalities. As for slowing it down… maintain a healthy lifestyle, exercise regularly, and keep your mind active. Puzzles, reading, social interaction. The usual platitudes. I will also refer you to a neurologist for a more comprehensive evaluation.
+PATIENT: An MRI… Okay. That sounds… a little overwhelming. And a neurologist? Is it going to be… bad news? I just want to know what’s happening. And if there’s something I can do. I’m a dentist, Dr. Yackey, I’m used to fixing things. I need a plan. When will I hear about the tests? And when can I see the neurologist?
+DOCTOR: The MRI will be scheduled through the hospital radiology department. They will contact you directly. As for the neurologist, I’m submitting the referral now. It may take several weeks to get an appointment. Regarding a “plan,” Ms. Heidenthal, we gather information first. We don’t jump to conclusions. Once we have the test results and the neurologist’s assessment, we can formulate a course of action. I will contact you with the lab results as soon as they are available. In the meantime, try to remain calm and avoid unnecessary stress. Do you have any other questions?
+PATIENT: No… I don’t think so. Just… try to stay calm. Right. I'll… I'll try. Thank you, Dr. Yackey. .
+DOCTOR: .

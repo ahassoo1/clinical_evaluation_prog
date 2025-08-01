@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Dhanoa. I'm Dr. Pirl. It’s nice to meet you. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. Jaylyne is fine, please. Um, well, it’s this ringing in my ears. It’s been happening for a bit now, and it’s really starting to bother me.
+DOCTOR: Jaylyne, certainly. Ringing in the ears… alright. And how long exactly has it been happening?
+PATIENT: Hmm… let me think. Maybe… three, four months now? It started off quiet, like a little hum, but it's gotten louder, especially at night. Makes it hard to sleep.
+DOCTOR: Three or four months… I see. And is it constant, this ringing, or does it come and go?
+PATIENT: It comes and goes, yeah. Most of the time it's quiet, like you barely notice it. But then sometimes, out of nowhere, it gets really loud. And it's usually both ears, but sometimes just the left one feels worse. It’s hard to explain.
+DOCTOR: Both ears, sometimes just the left… fluctuating. Alright. Have you noticed anything that seems to trigger it, Jaylyne?
+PATIENT: Trigger it? Not really, not that I’ve noticed. I mean, loud noises definitely make it worse while they're happening, but I don’t think anything starts it, you know? Just… happens. I used to work a lot of events, maybe that has something to do with it? Lots of music, people yelling… all that.
+DOCTOR: Events… exposure to loud noises. That’s… pertinent information. Do you still work these events, Jaylyne?
+PATIENT: Not as much anymore, no. I still pick up shifts here and there, but it’s not like it used to be. After the divorce, things got a bit… complicated, and I needed something more regular. Now I mostly just work at the restaurant, it’s a lot quieter.
+DOCTOR: I understand. A change in lifestyle can certainly have an impact. Now, aside from the ringing, have you experienced any other symptoms?
+PATIENT: Other symptoms? Um… not really. Maybe a little bit of dizziness sometimes, but I don’t know if that’s related. And I’ve been a bit more tired than usual, but everyone's tired these days, right? It’s probably just life.
+DOCTOR: Dizziness… and fatigue. Alright. Have you noticed any hearing loss, Jaylyne?
+PATIENT: Hearing loss… hmm. That's a good question. I haven’t really noticed any, but my ex-wife always complained I didn’t listen to her anyway… Seriously though, I don’t think so. I can still hear fine. I think. Maybe I should get that checked too? I don't know.
+DOCTOR: It’s always good to be thorough. We’ll assess that today. Now, just to get a more complete picture, could you tell me about any medical conditions you have, or have had in the past?
+PATIENT: Yeah, sure. Uh… not much, really. I had my appendix out when I was a kid, and I broke my arm once playing rugby. Oh, and I have… high blood pressure, Doctor told me a few years back. I try to keep it under control with diet, but it’s not always easy. I have private insurance, so I go for regular checkups. I think that’s it. Nothing major.
+DOCTOR: Appendix, broken arm, hypertension… alright. And are you currently taking any medications for your blood pressure, or any other conditions?
+PATIENT: Yeah, I take… Lisinopril, I think it’s called. Small dose, once a day. And sometimes Panadol if I get a headache. That's about it, really. Nothing fancy. I keep a list at home if you need the exact dosages.
+DOCTOR: Lisinopril… good. We'll verify that. Now, are you allergic to any medications, or anything else, for that matter?
+PATIENT: Nope, not that I know of. Never had a reaction to anything. I've had all my shots, too, growing up and for work, so I'm pretty sure I'm covered there. I'm Fijian, we get everything! Honestly, Doctor, I think I’m a pretty healthy guy, all things considered. Just this ringing is really getting to me.
+DOCTOR: Alright, that’s all very helpful, Jaylyne. Now, I’d like to do a quick physical exam, if that’s alright. I'll check your ears, listen to your heart and lungs, and do a basic neurological assessment. Will that be okay?
+PATIENT: Yeah, that’s fine, Doctor. Go ahead. Just… try not to poke too hard, okay? I'm not the best with… surprises. Let's get this over with, yeah? I've got a shift at the restaurant later.
+DOCTOR: Certainly, Jaylyne. I’ll be as gentle as possible. Let's start with your ears. Please lean forward slightly…
+PATIENT: .
+DOCTOR: Alright… the ear canal appears clear, no signs of infection. The eardrum looks… normal in appearance. No perforations or fluid buildup. Right ear is also clear. Now, let's listen to your heart and lungs. Please take a deep breath for me… and exhale.

@@ -1,0 +1,22 @@
+DOCTOR: Right, well hello there, Mr. Bulaong. Good to meet you. So, tell me, what brings you in to see me today?
+PATIENT: Hello. Um... my chest hurts. Not all the time, but... yeah. It's my chest. It's...painful.
+DOCTOR: Okay, chest pain. Right. And when you say not all the time, could you tell me a bit more about when it happens?
+PATIENT: Hmm... it's hard to say exactly. Sometimes when I'm... working on the roof, you know? Lifting things. But not every time I lift. And...sometimes just...at night, when I'm lying down. It's not a sharp pain, more like...sore. Like after a hard workout. Does that make sense?
+DOCTOR: It does, it does. So, exertion sometimes brings it on, and it also happens at rest... at night. And you describe it as more of a soreness rather than a stabbing or crushing pain?
+PATIENT: Yes. Not crushing. Never crushing. Just...sore. Like a muscle that’s used too much. My wife, she says it looks...different, too. But I don’t know. I don’t really look at myself.
+DOCTOR: Alright. And your wife notices something… different?
+PATIENT: Yeah. She said...like, the skin, maybe? It's hard to say. I just feel the pain, you know? She worries a lot. She said it’s a little...swollen, maybe? But I don’t know if that’s right. I’m a roofer. Things get bumped and bruised all the time.
+DOCTOR: Right, I understand. Roofing is physical work. Swelling… okay. Now, just to be thorough, have you noticed any other symptoms alongside the pain?
+PATIENT: Other...symptoms? Um... no. Not really. Maybe I'm a little tired, but... I always a little tired after work. Nothing else. No fever, no... lumps, I don't think. Like I said, I don't really check. My wife would notice. She always does.
+DOCTOR: Alright. And just so I have a full picture, can you tell me a bit about your medical history?
+PATIENT: Medical...history? Um...not much, I think. I've never been to the doctor much. I break a bone once, when I was a kid, falling from a tree. And... the usual colds, you know? Nothing serious. Never had anything...important. My wife takes care of all that. She remembers all that stuff. I don’t take any pills, if that matters. And I don't have insurance.
+DOCTOR: Okay, no significant medical history, broken a bone as a child, generally healthy. No medications. And you mentioned you aren’t currently insured, correct?
+PATIENT: Yes. No insurance. It's...expensive. We haven't been able to afford it for a while now. But I'm here now, so... hopefully it's not too bad.
+DOCTOR: Alright, Mr. Bulaong. Well, let's have a quick look at your chest. Just want to listen to your heart and lungs, and take a feel around. It'll only take a moment. Okay?
+PATIENT: Okay. That’s fine. Whatever you need. I hope it's nothing. My wife will be worried.
+DOCTOR: Alright. I'm hearing clear lung sounds on both sides, and your heart rhythm sounds regular. I do notice some tenderness when I press here on your left side , and the area feels slightly swollen. It's not dramatically so, but it is present. It could be a muscle strain, a rib injury, or… other possibilities. Given the swelling and the pain, it's best to rule things out. I'm going to order a chest X-ray to get a better look at what's going on. Would that be alright?
+PATIENT: An X-ray? Is it... bad? Like, really bad? Will it cost a lot? I don’t have much money… I just want to know if it's something serious. My wife is going to be really scared.
+DOCTOR: No, no, it doesn’t necessarily mean it's bad, Mr. Bulaong. An X-ray is just a precaution to get a clearer picture of what’s happening. It helps us rule out some of the more serious possibilities. As for the cost… Let me see what the cost is here at the clinic. And we can discuss options if it’s a concern. I understand you’re uninsured, and we’ll do our best to find a solution. First, let me get the order in for the X-ray. It's a quick procedure, and we can get the results back relatively quickly. Okay?
+PATIENT: Okay… Quickly is good. My wife… she’ll be glad it's quick. Whatever you think is best, Doctor. Just… please tell me if it’s something bad.
+DOCTOR: Alright, the order is in. The technician is ready for you just down the hall. They’ll explain the procedure. It shouldn’t take more than a few minutes. I'll review the images as soon as they're available, and we’ll discuss the results together. I’ll be right here. Why don’t you go ahead, and I'll see you shortly.
+PATIENT: Okay. Thank you, Doctor. .

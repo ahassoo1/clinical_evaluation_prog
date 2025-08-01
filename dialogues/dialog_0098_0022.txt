@@ -1,0 +1,36 @@
+DOCTOR: Hello, Soila. It’s good to meet you. I’m Dr. Bombara. What brings you in to see me today?
+PATIENT: Oh, hello Doctor. Is nice to meet you too. Um… my tummy. It feels… big. And I don't want to eat much anymore. Not like I used to. It just doesn’t… feel right.
+DOCTOR: Okay, “big” and not feeling right… and a loss of appetite. I understand. Can you tell me a little more about when you first noticed your tummy feeling big?
+PATIENT: Oh dear… when did it start? That's… a hard question. It feels like a long time. Maybe… a few weeks? Or months? Everything is… blurry now, you know? I used to be good with dates, when I was working… with the people… studying them. But not anymore.
+DOCTOR: I understand completely. It's very common for things to feel a little less clear as time goes on. A few weeks or months… okay. Has the feeling of fullness, or the size of your tummy, been changing at all during that time?
+PATIENT: Changing? Hmm… yes, I think so. It feels… bigger each day, maybe? Not a lot, but… noticeable. And sometimes it feels… tight. Like a balloon. I don't know if that makes sense, Doctor.
+DOCTOR: It makes perfect sense, Soila. Tight, like a balloon… that's a good way to describe it. And is this fullness or tightness constant, or does it come and go?
+PATIENT: Oh, it comes and goes, I think. Some days are better than others. But mostly… it's there. Not always painful, just… uncomfortable. And when I lie down… it feels very full.
+DOCTOR: Okay, uncomfortable when lying down… and mostly present. Have you noticed any changes in your bowel movements?
+PATIENT: Bowel… movements? Oh, dear. Is that… going to the toilet? Well… not really. I go, when I need to. But it feels… different. Harder, maybe? And not as often. But I forget things, Doctor. Is hard to remember.
+DOCTOR: Okay, harder and less frequent… that’s helpful. I understand it's difficult to remember. Let’s try to focus on what you do recall. Have you experienced any nausea or vomiting recently?
+PATIENT: Nausea… Is that… when you feel like you might get sick? Oh, yes! A little. Mostly in the mornings. But I haven't… thrown up. Just… feels like I want to. And my mouth feels… dry sometimes.
+DOCTOR: Okay, nausea in the mornings and a dry mouth. Have you noticed any unintended weight loss recently, Soila?
+PATIENT: Weight loss? Oh… yes, I think so. My clothes feel… loose. Not tight like my tummy! But… baggy. My granddaughter, she said I look… thinner. But I don’t weigh myself, Doctor. Never did.
+DOCTOR: Okay, clothes feeling looser. That's good information. And have you been experiencing any fatigue or weakness lately?
+PATIENT: Fatigue… Weakness? Oh, yes. I get very tired. Just… want to sit and rest all the time. Not much energy for… anything. Even gardening, and I love my garden!
+DOCTOR: Okay, fatigue and weakness, and less energy. Now, thinking about your medical history – do you have any significant medical conditions that you've been diagnosed with in the past?
+PATIENT: Oh dear… medical conditions… I used to be very healthy! When I was working… traveling… But now? I forget. I think… maybe high blood pressure, a long time ago? The doctor gave me pills. But I don't remember much else. I haven’t been to the doctor in… a very long time.
+DOCTOR: Okay, high blood pressure in the past. And do you currently take any medications?
+PATIENT: Medications… Oh, no. Not anymore. I stopped taking them… when I moved here. Too many doctors, too many pills. I just… stopped. I don't like taking pills, Doctor.
+DOCTOR: Alright. And have you had any surgeries in the past?
+PATIENT: Surgeries… Oh, yes. A long time ago. When I was… younger. Something with my… gallbladder, I think? But it was so long ago, I barely remember. It was in Russia, before I came here.
+DOCTOR: Okay, gallbladder surgery in Russia. Now, thinking about your family – are there any medical conditions that run in your family?
+PATIENT: Family… Oh, my mama, she had… heart problems. And my papa, he had… diabetes, I think? But everyone in my family was… strong. They lived long lives.
+DOCTOR: Okay, heart problems and diabetes in the family. And finally, do you have any allergies to any medications or anything else?
+PATIENT: Allergies? Oh, no. I don't think so. Never had any problems with food or… anything. I eat everything. Except… I don't like beets. But is not an allergy!
+DOCTOR: Alright, Soila. That's very helpful. Now, I'm going to do a quick physical examination, if that's alright with you. I'll listen to your heart and lungs, and I'll gently feel your abdomen. Just let me know if anything feels uncomfortable.
+PATIENT: Oh, yes. That is… fine. But be gentle, Doctor. Please.
+DOCTOR: Okay, Soila. Just breathe normally. I’m listening to your heart now… sounds a little fast, but regular. Now, I'm listening to your lungs… breathing sounds clear. Now, I’m going to gently press on your abdomen. Is this tender anywhere?
+PATIENT: Oh… yes. Here. And… here. It feels… uncomfortable when you push. Not painful, but… tight. And… a little bit… sore.
+DOCTOR: Okay, tenderness to palpation in the right lower and mid abdomen. I also notice some mild abdominal distension. Now, based on what you’ve told me and what I’ve found during the examination, it's difficult to say definitively what's going on. Your symptoms could be related to a number of things. I'm concerned about the possibility of constipation, but we need to rule out other causes. To get a clearer picture, I'd like to order some blood work and a CT scan of your abdomen. The blood work will help us assess your overall health and rule out infection. The CT scan will allow us to visualize your organs and identify any abnormalities. Would that be alright?
+PATIENT: Oh dear… Blood work and a… what was it? A scan? That sounds… scary. Is going to hurt? I don't like needles, Doctor. And I don't want to lie in a… machine.
+DOCTOR: I understand your concerns, Soila. It’s perfectly normal to feel anxious about these tests. The blood work will involve a small needle prick, but it’s usually very quick and only causes mild discomfort. As for the CT scan, you will lie on a table that slides into a large donut-shaped machine. It doesn’t hurt at all—it’s like having an X-ray, but more detailed. You won't feel anything during the scan. We’ll make sure you're comfortable and safe. The results of these tests will help us figure out what's causing your discomfort and develop the best treatment plan for you. Would you like me to explain the tests in more detail, or perhaps have a nurse come in and talk to you about them?
+PATIENT: Oh… a nurse? Yes, please. A nurse sounds… nice. Could she explain it to me? And… is it very expensive? I don’t have much money, Doctor.
+DOCTOR: Certainly, Soila. I will have the nurse come in to explain the tests in detail and answer any questions you have. I understand your concerns about the cost, and we will absolutely work with you to figure out the financial aspect. Our billing department has options for patients who are uninsured, and we'll make sure you understand all of your choices. Let me just quickly document this conversation, and I'll summon the nurse right away. Okay, just a moment… Nurse, could you please come to exam room three?
+PATIENT: Oh… thank you, Doctor. That is… very kind.

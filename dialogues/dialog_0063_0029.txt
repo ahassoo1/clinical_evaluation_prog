@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Mr. Obarr. I am Dr. Jules. Now, let’s not waste time. What brings you in today?
+PATIENT: Morning, Doctor. Just Norval’s fine, please. Well, it’s… I get full awful quick these days. Even if I don't eat much. It’s been going on a while now, maybe a few months. Makes it hard to enjoy a meal, you know?
+DOCTOR: A few months, you say?
+PATIENT: Yeah, roughly. Hard to say exactly. Time kinda… slips away when you get to be my age, eh? But definitely not like it used to be. I used to be able to put away a plate of food, no problem. Now… a few bites and I’m stuffed. It's a bit worrying, to be honest.
+DOCTOR: Worrying how, Mr. Norval?
+PATIENT: Well, I dunno. Just… feels wrong. Like somethin’s not workin’ right, you know? And my wife, bless her heart, she’s been frettin’ too. Says I’m losin’ weight, even though I try to eat. Not much, but I try. She makes a lovely salmon chowder, but I can barely get through a bowl these days. It's just… not normal, is it?
+DOCTOR: Weight loss with early satiety… Yes, well, it warrants investigation. Have you noticed any other symptoms alongside this fullness?
+PATIENT: Hmm… let me think. Not really, not that I can recall. Maybe a bit tired sometimes, but who isn’t at my age? My stomach… sometimes feels a little gassy, I suppose, but that could be anything. No pain, no… well, nothin’ major. It’s mostly just the full feeling, too quick and easy. And the lack of appetite, 'cause of that. Does that make sense?
+DOCTOR: No nausea, vomiting, or changes in bowel habits?
+PATIENT: No, no sickness or anything like that. Bowels are… regular, I suppose. Maybe a little less frequent than they used to be, but nothin’ to write home about. My wife keeps an eye on those things, thankfully. She’d be the first to notice if somethin’ was truly off. She's got a good memory, unlike me these days!
+DOCTOR: I see. And any family history of… gastrointestinal issues?
+PATIENT: Now that’s a good question… Hmm. My mother, she had a bit of trouble with her stomach now and then, heartburn mostly. And my uncle, on my father’s side, he had surgery for somethin’… a blockage, I think. But that was years ago, and I don’t recall the details. We didn’t talk about those things much back then. It wasn't the Haida way, really. Is that helpful? I'm afraid my memory’s not what it used to be.
+DOCTOR: Alright. Well, Mr. Norval, given your age and these symptoms, we need to rule out a few possibilities. I'd like to conduct a brief physical examination, and then I'll order some blood work. Is that acceptable?
+PATIENT: Yeah, that sounds sensible, Doctor. Whatever you think is best. I trust your judgement. A poke and prod is fine by me. And blood work… well, it’s not my favourite thing, but I’ll do what I need to. Just let me know what’s what, alright?
+DOCTOR: Very well. If you’ll just lie down on the table, please. I’ll listen to your abdomen first. Please point to any areas that are tender or uncomfortable.
+PATIENT: Alright. Here we go. Hmm… I don’t think there’s much tenderness, really. Maybe… just a little bit right here. But it’s not sharp pain, just… a bit uncomfortable when you press on it. Like a dull ache, if that makes sense.
+DOCTOR: I note some mild tenderness in the epigastric region upon palpation, as you mentioned. No masses palpated. Auscultation reveals normal bowel sounds… albeit slightly diminished. Now, I'll need to check your reflexes.
+PATIENT: Alright. Reflexes, eh? I haven’t had those checked in… well, a long time. Whatever you need to do, Doctor. Just try not to hit me too hard! I’m an old man, you know. Bones are a bit brittle these days.
+DOCTOR: Reflexes are diminished, which is not uncommon at your age, Mr. Norval. Now, I will need to order a complete blood count, a comprehensive metabolic panel, and a fecal occult blood test. This will help us rule out any underlying issues.
+PATIENT: Okay, that’s a lot of tests… But if it helps find out what’s goin’ on, then that’s good. Fecal test, eh? Not the most pleasant thing, I imagine. Will I need to come back for that one, or… ? And how long will it take to get the results? I’m not one for waiting around, but I understand these things take time.
+DOCTOR: You'll receive a kit to collect the sample at home, Mr. Norval. It’s straightforward. Results typically take 5-7 business days. We'll schedule a follow-up appointment once they are available to discuss them. Is there anything else you wish to discuss today?
+PATIENT: Oh. Right. A kit. That’s… good. Less embarrassing, I suppose. And five to seven days… alright. No, I don't think so. That about covers it. Just wanted to get to the bottom of this fullness, you know? Hopefully, these tests will tell us somethin'. Thank you, Doctor.
+DOCTOR: Very well. A nurse will provide you with the necessary paperwork and instructions for the fecal occult blood test. Have a good day, Mr. Norval. .
+PATIENT: .

@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Mr. McKinnon. I'm Dr. Kur. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. It’s… muscle weakness, mostly. It’s been getting worse lately, and it’s… frustrating, honestly. It’s making things difficult.
+DOCTOR: "Muscle weakness," alright. And how long has this been going on, exactly?
+PATIENT: Hmm, let me think… it started maybe six, seven months ago? It was just a little bit at first, easily ignored. But now… now it’s hard to open jars, things like that. Lifting anything feels… heavier than it should.
+DOCTOR: "Six, seven months…that's quite a while to let something go. And where are you experiencing this weakness, specifically?
+PATIENT: Mostly in my arms and legs, Doctor. It's not like I can't move them, it’s just… tiring. Like they get heavy after a bit. And sometimes… sometimes my hands feel clumsy. It’s hard to explain. It’s not constant, though. Comes and goes.
+DOCTOR: "Comes and goes… alright. Have you noticed any other symptoms alongside the weakness?
+PATIENT: Other symptoms… let me think. No fever, no pain, not really any numbness. I have been more tired than usual, I guess. Just… generally run down. And… oh! My appetite’s been off. Not eating as much as I used to. But I figured that was just stress.
+DOCTOR: "Stress can certainly affect appetite. But let's get a fuller picture. Do you have any difficulty breathing?
+PATIENT: No, Doctor, no trouble breathing at all. I can walk up the stairs just fine, no wheezing or anything like that. It’s definitely not my lungs, I don't think.
+DOCTOR: "Alright. And have you noticed any changes in your bowel habits?
+PATIENT: Changes in… my bowel habits? Uh… not really. Everything’s pretty normal there, if you don't mind me saying. Sorry, a bit personal, I know. Just trying to answer your questions.
+DOCTOR: "It's all part of the process, Mr. McKinnon. Just trying to rule things out. Now, let's talk about your past medical history. Have you ever been diagnosed with any medical conditions?
+PATIENT: No, Doctor. Nothing diagnosed, anyway. I've had the usual colds and flu, broken a bone or two when I was a kid, but nothing serious. No diabetes, no heart problems, nothing like that. I try to stay healthy, you know?
+DOCTOR: "Alright. Any surgeries in the past?
+PATIENT: No surgeries. Never needed any, thankfully. I’m pretty lucky in that regard, I suppose.
+DOCTOR: "And what about your family?
+PATIENT: Family? Hmm. My dad had high blood pressure, I think. And my mom… she had arthritis, bad in her hands. But nothing else really springs to mind. Not like any major illnesses, no.
+DOCTOR: "Alright. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, Doctor. None of the above. Never really been much of a smoker or drinker. And definitely no drugs. I'm a pretty straight-laced guy, honestly.
+DOCTOR: "Alright. Now, let's do a quick physical exam, if you don't mind. I'd like to check your reflexes, muscle strength, and a few other things. Can you just relax your arms for me?
+PATIENT: Sure, Doctor. Whatever you need. Go ahead. I just hope you find something out, honestly. This is… unsettling.
+DOCTOR: "Reflexes are… slightly diminished, bilaterally. Not dramatically, but noticeable. Now, squeeze my hands. Don't hold back." "Grip strength is also slightly weaker than expected. Now, can you push against my hands?
+PATIENT: Like this? It feels… harder than it should. Not impossible, just… tiring quickly. I feel a bit weak doing that, if you don’t mind me saying.
+DOCTOR: "Yes, I see. Weakness is present, but not severe. Now, let’s check your legs. Can you sit on the edge of the bed?
+PATIENT: Sure, no problem. Just let me know what you want me to do.
+DOCTOR: “Alright, now push against my hands with your legs… like you’re trying to push me away. Do that for a few seconds. Just a gentle push, nothing strenuous.” “And can you stand up, please?
+PATIENT: Like this? It’s getting harder and harder, honestly. My legs feel… heavy. There. That was… tougher than usual. I don’t usually struggle that much with standing up.
+DOCTOR: “Alright. Well, based on the exam, you do have some generalized weakness. It’s not dramatic, but it’s there. Now, I'm going to order some blood tests. We need to check your vitamin levels, thyroid function, and rule out any underlying inflammation. It could be a lot of things, frankly. We’ll start with the basics.” "I’ll also order a complete blood count to check for any signs of anemia or infection."
+PATIENT: Okay, Doctor. That sounds… thorough. Blood tests, right? I guess that's a good place to start. How long will it take to get the results? And… will I need to come back for another appointment? I’d like to get this sorted out as quickly as possible, if you don’t mind. I have things I need to do, you know?
+DOCTOR: “The lab usually takes 24-48 hours to process the results. I’ll have the nurse call you with the findings. If anything significant comes up, we'll schedule a follow-up appointment. But frankly, based on what I'm seeing, it's probably nothing major. Likely a vitamin deficiency, or perhaps just fatigue. Don’t get ahead of yourself. In the meantime, try to get some rest and stay hydrated.” “And try not to overexert yourself. We need a baseline for comparison.”
+PATIENT: Okay. 24-48 hours. And rest, right. Alright, Doctor. Thank you for your time. I appreciate it. I hope it is just a vitamin deficiency. .
+DOCTOR: .

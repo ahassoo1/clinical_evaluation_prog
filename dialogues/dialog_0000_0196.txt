@@ -1,0 +1,26 @@
+DOCTOR: Alright, Janie Licano, 52 years old. So, tell me, what brings you in today?
+PATIENT: Oh, um… well, it’s this tiredness. Just… always tired. It’s been going on… a long time, I think. Honestly, the days all sort of blend together, you know? It’s just… draining. I don’t have the energy for… much of anything anymore.
+DOCTOR: “A long time,” is not very helpful, dear. We need specifics. When did you first notice this tiredness?
+PATIENT: Oh, goodness. Specifics… Right. Um… maybe… a couple of years? Before… before my husband passed. Yes, definitely before then. It was… worse after, with everything, but I think it was starting even before. I really don’t remember exactly when. Everything’s a bit… fuzzy.
+DOCTOR: Fuzzy. Right. Well, let’s try this. Has it been getting progressively worse, staying the same, or fluctuating?
+PATIENT: Fluctuating, I think. Some days are… less bad. But then other days… I can barely get out of bed. It's not like a sudden thing, it just… comes and goes. I used to be able to do… things. Now… not so much. Is that helpful?
+DOCTOR: Slightly. Okay. And when you say "tired," is it more physical exhaustion, mental fatigue, or both?
+PATIENT: Oh, both, definitely both. My body feels… heavy. Like I’m dragging it around. And my brain… just… slow. I forget things. A lot of things. Like… names, what I was doing… It's frustrating, honestly.
+DOCTOR: Forgetfulness. Hmm. And are we talking about just everyday things, or are you concerned about something more serious?
+PATIENT: Oh, just everyday things, I think. I used to be very good with dates, remembering birthdays… now, not so much. It's not like I'm wandering around lost or anything! Just… little things. Annoying things.
+DOCTOR: Alright. Let’s take a look at your chart here. I see you’ve had a fairly regular check-up history. Last one was… October of last year. Nothing significant noted then. Any major illnesses or surgeries in the past?
+PATIENT: Oh, um… let me think. Nothing major. I had my appendix out when I was a girl, a long, long time ago. And… I had a bad flu a few years back, but that's about it, I think. Nothing else that I can recall. I always try to stay healthy.
+DOCTOR: And family history?
+PATIENT: Family history… oh dear. My mother… she had some problems with her heart, I think. And my father… he always complained about being tired, but he just… put it down to getting old. Honestly, everyone in my family gets tired easily! It's probably just… hereditary, you know?
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: Oh, just… Medicare covers my blood pressure, I think. A small pill, every morning. And sometimes I take something for my arthritis, when it flares up. That’s… ibuprofen, usually. Nothing else regularly.
+DOCTOR: Okay. Any allergies to medications?
+PATIENT: No, not that I know of. I’ve never had a bad reaction to anything. I used to be able to remember all this sort of thing… but now, it’s all a bit of a blur, honestly.
+DOCTOR: Alright. Let’s do a quick physical exam, then we’ll see what we find. Please lie down on the table. I'm going to listen to your heart and lungs, and check your reflexes. And I'll need to take your blood pressure again, just to confirm.
+PATIENT: Okay, alright. It’s just… tiring even thinking about getting examined. But, okay. Here we go.
+DOCTOR: Alright. Blood pressure is 135/85 – a little elevated, but not concerning given your history. Heart sounds are regular, no murmurs. Lungs are clear. Reflexes are… a little sluggish, but within normal limits. Abdomen is soft, no tenderness. Now, I'm going to check your thyroid. Thyroid feels normal. You’re a little pale, but that could be anything. I think we'll order some blood work, just to rule out some common causes of fatigue. Complete blood count, thyroid panel, vitamin D level, and a basic metabolic panel. Does that sound alright?
+PATIENT: Oh, blood work… yes, that sounds… sensible. Anything to get to the bottom of this. Vitamin D… I don't think I get much sun. So, yes. That sounds… good. Is it going to be very painful? I don't do well with needles.
+DOCTOR: It’s a simple blood draw, dear. A little pinch, that's all. The phlebotomist is very good. Honestly, it's less uncomfortable than thinking about all of this. I'll write the orders now. Then the nurse will come in and take you to the lab. We'll get the results back in a few days and schedule a follow-up appointment to discuss them. In the meantime, try to get a little more rest, and drink plenty of fluids. Do you have any questions for me?
+PATIENT: No, I… I think that covers it. Rest and fluids… I suppose. It’s just… tiring thinking about resting. But, okay. Thank you, Doctor Batara. I'll go wait for the nurse, then?
+DOCTOR: Yes, exactly. The nurse will be right with you. And try not to worry. It's likely just a vitamin deficiency or something simple. We'll get it sorted. .
+PATIENT: Okay. Thank you again. .

@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Jailenne. I'm Dr. Vanochten. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Well, I’ve been getting chills, and it's a bit worrying. Not like a cold chill, more… random, you know? Just suddenly cold, then fine again.
+DOCTOR: Okay, random chills. And how long have you been experiencing these chills, Jailenne?
+PATIENT: Hmm, let me think… probably about a week now? Maybe a little less. It started off just once or twice a day, but the last couple of days it’s been happening more often. It's annoying, to be honest.
+DOCTOR: Alright, a week or so, increasing in frequency. And are you experiencing anything else with the chills?
+PATIENT: Not really… I mean, I’ve been a little tired, but everyone's tired, right? Nothing major. No fever, no cough, no sore throat… just the chills and feeling a bit worn out. I haven't really noticed anything else different.
+DOCTOR: Okay, no fever, cough, or sore throat, just the chills and fatigue. Have you noticed the chills at any particular time of day, or are they completely unpredictable?
+PATIENT: They seem to be… worse in the evenings, maybe? Like, I'll be sitting watching TV and then whoosh, cold. But they do happen during the day sometimes too, just… not as often. It’s hard to pin down, really. Completely unpredictable is probably the best way to describe it.
+DOCTOR: Alright. And have you had any recent travel, or been exposed to anyone who's been sick?
+PATIENT: No travel, no. And I don't think so… I work with a lot of people, you know, health education, so always around folks, but no one's mentioned being particularly sick recently. Just the usual sniffles and coughs, nothing serious.
+DOCTOR: Okay. And do you have any known allergies?
+PATIENT: Nope, no allergies that I know of. Never had a reaction to anything. My mum always said I was a pretty hardy kid!
+DOCTOR: Alright, no known allergies. And are you currently taking any medications, including over-the-counter medications or supplements?
+PATIENT: Just a multivitamin, honestly. Nothing else. I try to eat pretty healthy, so I don’t really need much. And no, definitely nothing prescribed by a doctor.
+DOCTOR: Okay, just a multivitamin. Let’s talk a little bit about your medical history. Have you had any significant illnesses or surgeries in the past?
+PATIENT: Hmm… let me think. I had my appendix out when I was a teenager, that’s the only surgery. And… I had chickenpox as a kid, like everyone else. Nothing else really springs to mind, to be honest. I’ve always been pretty healthy.
+DOCTOR: Okay, appendectomy as a teenager and chickenpox as a child. And what about your family?
+PATIENT: Oh, family… my mum's got high blood pressure, and my dad… he had some heart trouble a few years back, but he’s doing okay now. Nothing major on either side, if that makes sense. No weird genetic illnesses or anything.
+DOCTOR: Alright, family history of high blood pressure and some heart trouble. Now, can you tell me a little about your lifestyle?
+PATIENT: Sure. I work full time, like I said, so it's a bit busy. I try to eat well, lots of vegetables and stuff, but sometimes it's hard with the hours. I don't smoke, and I only drink socially – maybe a glass of wine with dinner once or twice a week. I try to walk when I can, but I’m not really a big exercise person, if I'm honest. Does that help?
+DOCTOR: Okay, that’s helpful. Just to clarify, when you say "tired", can you describe that a little more?
+PATIENT: It’s not like, can’t-get-out-of-bed tired, you know? More like… just dragging a bit. Like I need more sleep than usual to feel rested, and even then, I don't feel completely refreshed. It's just a general… lack of energy, I guess. It's hard to explain.
+DOCTOR: Alright, a general lack of energy, needing more sleep. Okay. I’d like to do a quick physical exam if that’s alright. I’ll check your temperature, listen to your heart and lungs, and just take a look at your overall condition. Is that okay?
+PATIENT: Yeah, that sounds good. Go ahead. I trust your judgement, Doctor. Just let me know if you need me to do anything.
+DOCTOR: Okay, great. Let’s start with your temperature. Normal temperature, 98.6. Now, I'm going to listen to your heart and lungs. Please take a few deep breaths for me. Heart sounds are regular, no murmurs. Lungs are clear, no wheezing or crackles. Lymph nodes feel normal, no swelling. Overall, your physical exam is unremarkable at this point. However, given your symptoms and the fact that they've been ongoing for a week, I'd like to order some blood work just to rule out any underlying infection or other issues. Does that sound alright?
+PATIENT: Yeah, that sounds sensible. Blood work sounds good, if it helps figure things out. What kind of things will it be testing for? Just so I know what we're looking at.
+DOCTOR: We’ll be checking a complete blood count – that looks at your red and white blood cells, to see if there's any sign of infection or anemia. We’ll also check your thyroid levels, as fatigue and chills can sometimes be related to thyroid problems. And we'll do a basic metabolic panel to check your kidney and liver function, and electrolytes. It’s a fairly standard set of tests, and it should give us a good starting point. I'll get the order sent to the lab now. They'll need a sample of your blood. Do you have any questions about the blood work?
+PATIENT: No, that sounds pretty thorough, actually. No questions so far. How long does it usually take to get the results back? And will I need to come back, or will you call me?
+DOCTOR: Usually, the results take about 24 to 48 hours. I will call you with the results as soon as they are available. If anything concerning comes back, we can schedule a follow-up appointment to discuss it further. In the meantime, make sure you're getting enough rest and staying hydrated. Is there anything else I can help you with today?
+PATIENT: No, I think that's everything for now. Thank you, Doctor Vanochten. I appreciate you taking the time to listen and run some tests. It makes me feel better knowing we're trying to figure things out.
+DOCTOR: You’re very welcome, Jailenne. I'm glad I could help. We'll get those results back to you as quickly as possible. Don't hesitate to call the office if your symptoms worsen or you have any concerns before I call. Have a good day.

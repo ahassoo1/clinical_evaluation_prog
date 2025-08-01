@@ -1,0 +1,25 @@
+DOCTOR: Good afternoon, Melvenia. It's good to meet you. I'm Dr. Fazzina. Now, what brings you in to see me today?
+PATIENT: Well, good afternoon to you too, Doctor. It's nice to meet you as well. I just need some papers signed, really. Some health forms that need verifying for… well, it’s a long story. Basically, I need a notary, and I was told you could help with that. I’m trying to get this all done quickly if possible.
+DOCTOR: Okay, forms… right. I think I can help with that, yes. Just let me pull up your information here… Melvenia Tippens, is that correct?
+PATIENT: Yes, that’s right. Tippens. I have the forms right here in my bag, if that makes it easier. I don't want to hold up anyone’s day.
+DOCTOR: Yes, let's see the forms. Just one moment… Ah, here we are. No previous notes about needing these verified. That’s alright. Could you tell me briefly what these forms are for, just so I have a little context?
+PATIENT: It’s for… a volunteer program. I’m trying to go help out at a clinic down south. They need everything notarized, and I don't have anyone else to do it. It’s a little… complicated, honestly. I’m not very good at explaining things. Here they are. Sorry for the mess.
+DOCTOR: No problem at all, don’t apologize. Volunteer work is wonderful. Let’s see… yes, these just need my signature and a notary seal. I can certainly do that for you. Before I do, though—just a standard practice—could you quickly confirm your date of birth for me?
+PATIENT: Of course. It’s February 14th, 1949. Is that all?
+DOCTOR: Okay, perfect. And just to be sure—are you currently experiencing any health problems?
+PATIENT: No, not really. Just… old age, I suppose. I get a little tired sometimes, but that’s just part of getting older, you know? Nothing that would stop me from volunteering. I’m pretty strong for my age, actually.
+DOCTOR: Alright, that’s good to hear. And are you currently taking any medications?
+PATIENT: Just a little something for my blood pressure, but it’s a very low dose. I don’t even think about it anymore. The name is… uh… Let me think… Amlodipine, I think. Yes, Amlodipine. Five milligrams, once a day. It’s been years, honestly.
+DOCTOR: Okay, Amlodipine 5mg. And do you have any allergies to medications or anything else?
+PATIENT: Not that I know of. I’ve never had a bad reaction to anything, as far as I remember. Maybe a little itchy sometimes with certain lotions, but that's it. Nothing serious. Can we just get this signed now? I really need to get going.
+DOCTOR: Alright, alright. Just a few more quick questions, then we’ll get these signed and notarized. Have you had any recent hospitalizations or surgeries?
+PATIENT: No, not for a long time. Not since… oh, goodness. Probably when I was in my thirties, I had my appendix out. That was… a long time ago. Everything's been fine since then. I haven't been sick enough to go to the hospital since.
+DOCTOR: Okay. And finally, and this is just a formality – are you currently experiencing any pain anywhere?
+PATIENT: No, no pain. Just… my knees get a little creaky in the morning, but that’s just age again. Nothing to worry about. Honestly, Doctor, I’m pretty healthy for my age. Can we please get this over with? I have a bus to catch.
+DOCTOR: Alright, alright. No pain to be concerned about. Let me just verify one last thing… you're Melvenia Tippens, date of birth February 14th, 1949. You are currently taking Amlodipine 5mg for blood pressure, and have no known allergies. Is that all correct?
+PATIENT: Yes, that’s perfect! Exactly right. Thank goodness. Now, can we sign these papers? I really appreciate your help, Doctor. I was getting worried I wouldn't be able to get this done in time.
+DOCTOR: Absolutely. Here you are. Just sign where indicated, and I’ll notarize them for you right away. Let me know if you have any questions.
+PATIENT: Perfect! This is a relief. I just want to get this volunteer work done. There you go!
+DOCTOR: Alright, here you are. All notarized and official. Wishing you all the best with your volunteer work, Melvenia. It sounds wonderful. Is there anything else I can assist you with today?
+PATIENT: Oh, that’s wonderful, thank you so much, Doctor! No, I think that’s everything. You’ve been a lifesaver, honestly. I really appreciate your help and your patience. .
+DOCTOR: You're very welcome, Melvenia. Glad I could help. Be careful out there, and enjoy your volunteering. Have a good day.

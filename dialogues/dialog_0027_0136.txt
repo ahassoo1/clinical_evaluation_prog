@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Lucia. I'm Dr. Fazzina. It's nice to meet you. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um… it’s my… belching. It’s been happening a lot lately. It’s… embarrassing, really.
+DOCTOR: I understand. It can be quite bothersome, and you're right to address it. “A lot lately”… can you tell me a little more about that?
+PATIENT: Hmm… maybe like, two or three times a day for the last month? Before that, it was… not so much. Just normal, I think. It doesn’t hurt, just… loud. And sometimes it feels like it comes up really fast.
+DOCTOR: Okay, so a noticeable increase over the past month. Not painful, just frequent and… sudden. Do you notice anything that seems to trigger these episodes?
+PATIENT: Trigger? Like… what makes it happen? Um… sometimes after I eat. Especially if I eat fast. And… bubbly drinks. Soda, you know? Those definitely make it worse. I don’t think anything else… not that I can think of.
+DOCTOR: Okay, so a correlation with eating quickly and carbonated beverages. That’s helpful. And how about what you're eating?
+PATIENT: What I’m eating… hmm. I eat a lot of rice and beans, you know, Cuban food. Sometimes chicken. Not much… dairy. I don't really like milk. Does that matter?
+DOCTOR: No, that doesn't matter at all. Just trying to get a complete picture. Rice and beans, chicken… nothing spicy or particularly… rich in fats, it sounds like?
+PATIENT: Not usually. Sometimes I have some… fritas, you know, the little street food with the pork? But not every day. And I like avocado, if that counts. It has… good fats, right?
+DOCTOR: Avocado is excellent. Everything you've described sounds fairly typical. Now, just to be thorough, are you experiencing any other symptoms alongside the belching?
+PATIENT: Other symptoms? Like… what do you mean? Um… no, not really. Maybe a little… bloated sometimes, after I eat a big meal. But that happens to everyone, right? No pain, no… burning, nothing like that. Just the belching. And feeling a little embarrassed.
+DOCTOR: Bloating is common, yes. No heartburn, no nausea, no vomiting, no weight loss?
+PATIENT: No, no to all of those. Everything is… normal, except the belching. I haven’t lost any weight, I think. Maybe a little… but that’s probably just the summer heat, you know? It’s been so hot.
+DOCTOR: Alright. And just to confirm, no changes in your bowel habits?
+PATIENT: Bowel habits? Um… no. Everything is… regular. Sorry, is that too much information?
+DOCTOR: No, not at all. It’s important to have a complete picture. Okay. Let's do a quick physical exam, just to listen to your abdomen and rule out anything obvious. Is that alright with you?
+PATIENT: Yes, that’s okay. Whatever you think is best, Doctor.
+DOCTOR: Alright. If you could lie back on the examination table, that would be great. I’m just going to listen to your stomach with this. It might be a little cool. Just try to relax and breathe normally. Okay… everything sounds normal so far. No unusual noises or tenderness. Your abdomen feels soft. I don’t feel any masses or anything concerning.
+PATIENT: Okay. That’s… good, right? So what is it? Is it something serious? I was a little worried.
+DOCTOR: It’s good that the exam didn’t reveal anything concerning. Based on what you’ve described, and the physical exam, it sounds most likely to be excessive air swallowing, leading to increased gas in your digestive system. It's rarely a sign of anything serious. The belching is your body’s way of releasing that gas. Do you follow?
+PATIENT: Air swallowing? I… I don’t understand. How do I swallow air? I mean, I don’t try to. Is it something I’m doing wrong?
+DOCTOR: It’s not necessarily “doing something wrong,” it’s more about habits. Things like eating or drinking too quickly, chewing gum, smoking, or even talking while you eat can cause you to swallow more air than you realize. Sometimes even anxiety can contribute. It’s a very common cause of belching, and usually easily managed. Does that make sense?
+PATIENT: Oh. I do eat fast. And I sometimes talk a lot when I’m eating with my friends. And… sometimes I chew gum. So it's just… bad habits? That's all? That's a relief. What do I do about it?
+DOCTOR: Exactly. It’s often a matter of breaking those habits. Try to eat more slowly, and focus on chewing your food thoroughly. Avoid talking while you eat, and maybe cut back on the gum. Drinking through a straw can also cause you to swallow more air, so try drinking directly from a glass when possible. We can start with those simple changes. If it doesn’t improve after a couple of weeks, we can explore other possibilities, but I think that’s a good place to begin. Does that sound reasonable?
+PATIENT: Yes, that sounds good. Slow down when I eat, less gum… I can do that. And no straws. Okay. Is there anything else I should be worried about? Or… any medicine I need to take?
+DOCTOR: No, there's no need for medication at this point. Over-the-counter remedies for gas are available, but I'd recommend trying the lifestyle changes first. They're often more effective in the long run, and avoid any potential side effects. If you experience any other symptoms—like abdominal pain, nausea, vomiting, weight loss, or difficulty swallowing—please let me know right away. But for now, let’s focus on those habits. Do you have any other questions for me?
+PATIENT: No, I think that’s everything. Thank you, Doctor. You made me feel much better. I was really worried it was something serious. I’ll try to eat slower. And less gum. .
+DOCTOR: You’re very welcome, Lucia. I’m glad I could help. It’s always best to get things checked out, and you did the right thing by coming in. Remember, small changes can make a big difference. If it doesn’t improve after a couple of weeks, or if you develop any new symptoms, don’t hesitate to call the office. Have a good day, and try to enjoy your meals! .

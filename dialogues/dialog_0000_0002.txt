@@ -1,0 +1,29 @@
+DOCTOR: Right then. Zoie Stoffregen, is it?
+PATIENT: Yes, that’s right. Stoffregen. It’s… a long name, I think. My husband, he always remembers it. I… sometimes I don’t.
+DOCTOR: Well, that’s…fortunate you have a husband to assist with such trivial matters. Now, let’s not dwell on names. You’re 87, aren’t you?
+PATIENT: Yes, that’s right. Eighty-seven. Feels… old sometimes, but not always. What were we talking about? My mind… it wanders, you see.
+DOCTOR: We were about to discuss why you’re here today, Mrs. Stoffregen. What brings you in to see me?
+PATIENT: Oh! Yes. Right. The… going to the bathroom. It’s… hard now. Takes a long time, and… doesn’t always come out strong, you know? It’s a bit embarrassing to talk about.
+DOCTOR: “A bit embarrassing”?
+PATIENT: Well, it is! A lady doesn’t usually talk about… these things. But it’s been going on for a while, and… it’s making things difficult. Especially when we go visiting.
+DOCTOR: Right. So, difficulty with urination. How long has this been going on, precisely?
+PATIENT: Oh dear. Precisely… that’s a hard one. Months, I think. Maybe longer? It sort of… crept up on me. Not all at once, you see? It’s… hard to say exactly when it started being a problem.
+DOCTOR: “Sort of crept up on you.” Very helpful, Mrs. Stoffregen. Do you feel like you’re emptying your bladder completely when you go?
+PATIENT: No… not always. Sometimes I feel like there’s still a little bit left. And then a little bit later, I have to go again. It’s… annoying, to be honest. Feels like it never quite finishes.
+DOCTOR: And are you experiencing any pain or burning when you urinate?
+PATIENT: No, no pain. Not really. Just… weak. It's like trying to push water through a small straw, you know? Not burning, just… takes effort. Does that make sense? I'm not very good at explaining.
+DOCTOR: "Like pushing water through a small straw." I suppose. Do you have any trouble starting to urinate?
+PATIENT: Yes! That’s it! Sometimes it just… won’t start. I have to wait a bit, and then try again. It’s… frustrating. Like it’s stuck, you see? My husband, he says I should just relax, but it’s not that easy!
+DOCTOR: Alright. And are you experiencing any fever, chills, or lower abdominal pain?
+PATIENT: No, no fever. Not that I know of. And no chills either. My tummy… sometimes a little bit sore, but not really pain. Just… old aches, you know? Like when the weather changes. It's probably just my age.
+DOCTOR: Lie back for me, please. Let’s have a feel. Tell me if anything feels particularly tender. Right here… and here… Anything?
+PATIENT: Ooh, that’s a bit… firm. Not painful, exactly, but… yeah, feels different there. It's probably just… muscles, isn't it? I do a lot of gardening, you see. Not very graceful anymore, though.
+DOCTOR: Hm. And what about constipation?
+PATIENT: Oh, yes. That too. Not all the time, but… it's a bit difficult sometimes. It’s… not regular, you see? I eat a lot of fruit, but it doesn’t always help. It’s just one thing after another, isn’t it?
+DOCTOR: Right. So, we have difficulty urinating, incomplete emptying, hesitancy, constipation... It's likely a combination of factors, given your age and… other complaints. We’ll need to do a urine test, to rule out infection. And I think a post-void residual scan would be helpful, to see how much urine is left in your bladder after you go.
+PATIENT: Oh dear. Tests? A scan? What does that involve? I don't like the sound of that… Will it hurt? I’m not very good with… things like that.
+DOCTOR: The urine test is simple. Just a sample. The scan is non-invasive. It involves an ultrasound to measure the amount of urine left in your bladder. No discomfort. It's standard procedure, Mrs. Stoffregen. I'll have the nurse come in and get that started. Then we can discuss the results. Do you have any allergies I should be aware of?
+PATIENT: No, no allergies that I know of. Not to medicine, or food… nothing like that. Just… old age, I suppose. That’s my biggest problem. Is the nurse coming now? It all sounds a bit… much.
+DOCTOR: Yes, she’ll be in shortly. And it's not "much", Mrs. Stoffregen. It's a necessary assessment. Don’t worry. It's routine. Just try to relax.
+PATIENT: Oh. Okay. I’ll… try. Thank you, doctor. I think.
+DOCTOR: .

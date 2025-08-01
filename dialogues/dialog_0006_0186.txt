@@ -1,0 +1,28 @@
+DOCTOR: Alright, Mr. Kingan, good to meet you. So, what brings you in to see me today?
+PATIENT: Uh, yeah, hi. I’m here for a physical. It's… for a sports team. Tryouts. Gotta get cleared, you know? Don’t want any surprises.
+DOCTOR: Okay, a sports physical. Right, gotta make sure you’re good to go. Tryouts, eh?
+PATIENT: Yeah. Old man’s trying to prove he still got it. Don’t mind the weight on the chart, I’m mostly muscle, honestly. Been training.
+DOCTOR: I see. Well, we’ll definitely take a look. Just gotta go through some standard questions and a quick exam to get everything checked out. Let's start with your medical history. Have you been diagnosed with any medical conditions – anything at all – in the past?
+PATIENT: Hmm… not really. Nothing major. I had the flu a couple times, you know, normal stuff. And maybe a bad sprain in my ankle years ago, playing… something. Honestly, can’t even remember what sport. Old age, you know?
+DOCTOR: Okay, flu and an old ankle sprain. Nothing chronic?
+PATIENT: Nah, nothing that stuck around. No heart problems, no… diabetes, or anything like that. I eat alright, I guess. Mostly meat and noodles, you know, Mongolian food. Does that… matter?
+DOCTOR: It can give me a better picture. Okay, good. And any surgeries in the past?
+PATIENT: Nope. Never had surgery. Not even for the ankle. Just… wrapped it up good and took it easy for a while. I’m a tough old bird.
+DOCTOR: Alright, no surgeries. Good to know. How about your family?
+PATIENT: Family… uh. My parents are both gone now. And I don’t really… keep in touch with my siblings. They live back in Mongolia. Long story. As far as I know, they were healthy enough. Nothing major, if that makes sense.
+DOCTOR: Okay, that's alright. Do you have any allergies to medications, foods, or anything else?
+PATIENT: Nope. Not that I know of. I can eat pretty much anything. Never had a reaction to anything. Not even bee stings or anything. Lucky, I guess.
+DOCTOR: Okay, no known allergies. Are you currently taking any medications?
+PATIENT: Nah. Nothing. Don't like taking pills if I can avoid it. Just… vitamins sometimes. But I ran out a while ago. Can we just… get this over with? I got things to do.
+DOCTOR: Yes, of course. We're almost there. Just need to do a quick physical exam, and we’ll get you squared away. Alright, if you don't mind, I'm going to listen to your heart and lungs, then check your reflexes and a few other things. Is that alright?
+PATIENT: Yeah, yeah, sure. Whatever you gotta do. Just… be quick, okay?
+DOCTOR: Alright. Let’s start with your heart and lungs. Take a deep breath in… and out. Hmm… a bit of wheezing, but nothing too concerning. Blood pressure is a little elevated, 140/90. Reflexes are a bit diminished, but within normal limits for your age. Now, let's just take a look at your throat... Say "ah". Everything looks okay there.
+PATIENT: Wheezing? Elevated what-now? Look, I told you, I’m an old guy. Things ain’t gonna be perfect. Just tell me if I can play sports or not, alright?
+DOCTOR: Alright. The wheezing could be from a number of things, could be just some mild inflammation. The elevated blood pressure is something we should keep an eye on, though. It’s not alarmingly high, but we want to make sure it doesn't get worse. Now, to be completely safe, and given your blood pressure, I’d recommend a quick EKG just to rule out anything serious before you start strenuous activity. It's a quick test, just to be sure. Would that be alright?
+PATIENT: An EKG? Seriously? Look, doc, I’m not a heart patient. I just want to try out for a team. This is getting ridiculous. Can’t you just… clear me? I'm in good shape, I promise. I’ve been training!
+DOCTOR: I understand your frustration, Mr. Kingan. And you likely are in good shape, but I have a responsibility to ensure your safety. Given your age and the slightly elevated blood pressure, performing an EKG is the safest course of action. It’s a simple procedure, takes only a few minutes, and can give us peace of mind. I wouldn't recommend it if it wasn’t important. If you're unwilling to do that, I unfortunately cannot clear you for strenuous physical activity. It's a liability issue, and more importantly, it's about your health.
+PATIENT: Fine. Fine! Do your… EKG. But if it takes all day, I’m gonna be really mad. And I'm telling you, it’s gonna be normal. Just normal old guy stuff. Just… get it over with.
+DOCTOR: Alright. It won't take long, I promise. The technician will be right in to get you set up. In the meantime, is there anything else I can help you with?
+PATIENT: Nah. That's it. Just… hurry up with the test. I got stuff to do.
+DOCTOR: Alright. The technician should be with you any moment now. I'll be over reviewing your chart. Thank you for your patience, Mr. Kingan.
+PATIENT: .

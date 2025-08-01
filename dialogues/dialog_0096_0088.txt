@@ -1,0 +1,25 @@
+DOCTOR: Alright, Mr. Dhanoa, good morning. Have a seat. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. It's… this ringing in my ears. It's been happening for a bit now, and it's starting to get to me.
+DOCTOR: Ringing, you say?
+PATIENT: Yeah, ringing. Like a high-pitched whine, sometimes. Other times it's more of a buzzing. It's hard to explain. It’s not always there, but when it is… it's distracting, you know? Especially when it's quiet.
+DOCTOR: Mm-hm. And how long exactly has this “ringing” been going on?
+PATIENT: Oh, gosh… let me think. It started… maybe three months ago? Around May, I think. It was faint at first, I barely noticed it. But it’s definitely gotten worse over the last month or so. I just figured it would go away on its own, but it hasn’t.
+DOCTOR: Three months. And have you been exposed to any particularly loud noises recently?
+PATIENT: Loud noises… not really, I don’t think. I work at the restaurant, you know, tables, taking orders… it gets a bit busy, a bit noisy with people talking, but nothing like a concert or anything. I haven’t been to a concert in years. Does that make sense?
+DOCTOR: So, restaurant work. And no recent exposure to extreme noise. Right. Any other symptoms along with the ringing?
+PATIENT: Um… not really. I mean, I’ve been a bit more tired lately, but I figured that’s just from working long hours. And maybe a little bit stressed with… stuff. My divorce, you know? But nothing that I’d connect to the ears, specifically. Just… normal life stuff.
+DOCTOR: “Normal life stuff,” you say. Alright. Now, have you noticed any dizziness, hearing loss, or fullness in your ears?
+PATIENT: No dizziness, thankfully. My hearing seems okay, I can hear everything just fine. And no, no fullness or anything like that. It’s just the ringing. It’s really… annoying, that’s the best way to put it. It makes it hard to concentrate sometimes. Especially when I'm trying to sleep.
+DOCTOR: Alright. And are you currently taking any medications, or do you have any allergies I should be aware of?
+PATIENT: No medications, no. And no allergies that I know of. I've never had a bad reaction to anything, thankfully. Just the usual, you know, maybe a bit of a runny nose during allergy season, but nothing serious.
+DOCTOR: Alright. Well, let's have a listen to your ears, shall we?
+PATIENT: Yeah, sure. Whatever you think is best, Doctor. Just want it to stop, you know? This ringing… it's driving me crazy.
+DOCTOR: Hmm. Your ear canals appear clear. Now I'm going to do a quick hearing test. Just follow my instructions, alright?
+PATIENT: Okay, sounds good. A hearing test… alright. Just tell me what to do. I'll try my best.
+DOCTOR: Alright. The hearing test shows a slight dip in high-frequency hearing in both ears, but nothing drastic. It could be due to noise exposure over time, even if you don't recall anything specific. It could also be related to stress. It’s common.
+PATIENT: A slight dip… okay. So, it’s not something serious then? Is there anything I can do about it? Anything at all? It's just… really frustrating when I'm trying to work or relax. I just want it to go away. Is there a pill or something?
+DOCTOR: Well, Mr. Dhanoa, there’s no “pill” for tinnitus, unfortunately. It’s often a symptom, not a disease in itself. We can rule out other causes, of course, but often it’s something you learn to manage. We can explore some things… sound therapy, stress reduction techniques. Sometimes a simple white noise machine at night can help. I'll give you a referral to an audiologist, they can do a more thorough evaluation and discuss those options with you. They might recommend some coping strategies.
+PATIENT: An audiologist… okay. Coping strategies… So, there’s nothing… immediate? No way to just make it stop? I just feel like I’m going crazy sometimes, you know? It’s always there, in the background. I really appreciate you looking into it, Doctor, but… it’s a bit disappointing to hear there isn't a quick fix. Is the referral something I can get today? I’d like to get this sorted out, if possible.
+DOCTOR: Mr. Dhanoa, I understand your frustration, but you need to understand that many things don’t have a “quick fix.” We've ruled out anything serious, which is good. An audiologist is the best course of action now. Yes, I can certainly send a referral to Dr. Anya Sharma, she’s very good. I’ll have the receptionist print that out for you before you leave. In the meantime, try to reduce your stress levels, and avoid exposure to loud noises as much as possible. And really, try to accept that sometimes, things just… are. Is there anything else I can help you with today?
+PATIENT: No, I think that’s it. Just… the referral. Thank you, Doctor. I guess I’ll try the stress thing. It’s easier said than done, though. I just… I hope it doesn’t get worse. Thank you again.
+DOCTOR: Alright. You’re welcome. And remember, try to be patient with yourself. Have a good day, Mr. Dhanoa.

@@ -1,0 +1,38 @@
+DOCTOR: Alright, Jeannemarie, so what brings you in today?
+PATIENT: Good morning, Doctor. Thank you for seeing me. Um… well, I coughed up some blood. A little bit, but it was… there. It scared me, so I thought I should come get checked. It happened two days ago.
+DOCTOR: Coughing up blood, you say. Hmm. And how much blood are we talking about?
+PATIENT: Oh, it wasn’t much. Not a lot at all. Maybe… a teaspoon? Less, maybe. It was mostly with my mucus, mixed in. It was… bright red. I was very surprised. I don’t usually cough anything up like that.
+DOCTOR: Bright red, mixed with mucus. And this happened just the once, two days ago?
+PATIENT: Yes, just that one time. I haven’t seen any since. I’ve been trying to… pay attention, you know? To see if it happens again, but nothing. I feel okay, otherwise. A little tired, but… I always feel a little tired.
+DOCTOR: “A little tired.” Right. And have you had any other symptoms along with this, Jeannemarie?
+PATIENT: Let me think… No fever, no chills. No pain in my chest, or anything like that. I haven’t lost my appetite. Maybe… a little bit of a cough, but I get those sometimes, especially in the mornings. It’s usually just… a tickle.
+DOCTOR: And how long have you had this “tickle”, as you call it?
+PATIENT: Oh, the cough? On and off for… a long time, I think. Years, maybe? It comes and goes with the seasons. It's never been… serious. Usually just when it’s dry, you know? Like in the winter.
+DOCTOR: Alright. And any shortness of breath?
+PATIENT: Shortness of breath… Not really. I walk a lot, I like to walk in the park, and I haven’t had any trouble with that. Maybe… if I climb a very steep hill, I get a little winded, but I always have when I do that. It's not new.
+DOCTOR: Okay. Let's talk about your medical history. Have you been diagnosed with any health problems in the past?
+PATIENT: Well… my husband, he passed away last year. He had… heart trouble. And I… I had some problems with my back a few years ago. I saw a physical therapist for it, it helped a lot. Other than that, I think I've been pretty healthy. I don’t really get sick much.
+DOCTOR: Back problems. Alright. And any surgeries?
+PATIENT: No, no surgeries. Never had any. Just the physical therapy for my back. They helped me strengthen my muscles, it was very good. I even learned some exercises I still do.
+DOCTOR: And what about your family?
+PATIENT: Um… my mother, she had high blood pressure. And my father… he smoked for a long time, and he had some trouble with his lungs later in life. But that was… a long time ago. I don’t know… specific details. It was a long time ago, and we didn’t talk about it much.
+DOCTOR: Alright. And do you smoke?
+PATIENT: Oh, no, never. I don’t smoke. My husband tried, a long time ago, but I didn’t like it, so he stopped. I’ve always been very careful about my health.
+DOCTOR: Any allergies to medications?
+PATIENT: Um… I don’t think so. I haven’t had to take much medication in my life. I had a reaction to penicillin once, when I was a child, but I remember the doctor making a note of it. I always tell them, just in case.
+DOCTOR: Penicillin allergy noted. And are you currently taking any medications, even over-the-counter things?
+PATIENT: Just… vitamins. A multivitamin, and sometimes vitamin D in the winter. I try to eat healthy, but I like to make sure I’m getting everything I need. Nothing else.
+DOCTOR: Alright. Let's do a quick physical exam, Jeannemarie. I'll listen to your lungs and check your heart. Then we’ll see what’s going on. Please sit back.
+PATIENT: Okay, that sounds good, Doctor. Thank you. I hope it's nothing serious.
+DOCTOR: Let’s take a listen. Take a deep breath for me... and exhale. Breath sounds are clear bilaterally, though there is some mild wheezing on exhalation. Your heart rate is regular, no murmurs auscultated. Oxygen saturation is 98% on room air. Now, let me take a look at your throat. Throat appears mildly erythematous, but no obvious lesions. Your lymph nodes are not enlarged.
+PATIENT: Okay. That… doesn't sound too bad, does it? What does that mean, exactly? The… wheezing?
+DOCTOR: Wheezing simply means there’s some narrowing of the airways. It could be a number of things, Jeannemarie. Often it's just a minor irritation, like a lingering cold or allergies. But given the hemoptysis - the coughing up of blood - we need to be thorough. I want to order a chest X-ray to rule out anything more serious. And I'll send a sputum sample to the lab to check for infection. Do you understand?
+PATIENT: A chest X-ray and… a sample of my spit? Yes, I understand. That sounds… sensible. Is it something I should be very worried about? I’m a little anxious, I admit. The blood… it frightened me.
+DOCTOR: Anxiety won't help, Jeannemarie. We're being proactive. It’s unlikely to be anything serious, but we need to investigate. The X-ray will give us a clearer picture. The sputum sample will rule out infection. The nurse will draw a blood sample to check your complete blood count. I want to rule out anemia as well. Do you have any questions?
+PATIENT: A blood test, too? Okay. No, I don’t think so. Just… how long will it take to get the results? And what happens if… if it is something serious? I'm sorry to ask so many questions. It's just… I'm alone now, you see, and I worry.
+DOCTOR: The lab results should be back within 24 to 48 hours. We'll schedule a follow-up appointment to discuss them. If, and it’s a big if, the tests reveal something concerning, we’ll discuss your options – which could include a CT scan, or a referral to a pulmonologist. But let’s not jump to conclusions. We’ll take it one step at a time. The nurse will provide you with instructions on how to collect the sputum sample. Do you understand?
+PATIENT: Yes, I understand. One step at a time. Thank you, Doctor. That makes me feel a little better. I will wait for the results. And I will collect the sample. Is there anything else I need to do, or avoid, while I'm waiting?
+DOCTOR: Avoid strenuous activity. And if you experience any fever, worsening shortness of breath, or significant chest pain, go to the emergency room immediately. Otherwise, just try to relax and don't worry yourself unnecessarily. The nurse will give you a written summary of the instructions. Do you have any other questions, Jeannemarie?
+PATIENT: No, I think that's all. Thank you very much, Doctor. You've been very helpful, even if I am a bit of a worrywart. I appreciate you taking the time to explain everything.
+DOCTOR: Alright. The nurse will be in shortly. Don't hesitate to call if anything changes. .
+PATIENT: .

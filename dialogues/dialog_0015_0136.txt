@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I’m Dr. Trestrail. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Um, it's my…belching. It’s been happening a lot. It’s just…a lot of gas.
+DOCTOR: Belching, alright. And you say it’s been happening a lot recently?
+PATIENT: Yes. Maybe…two weeks? Before that, not so much. Just normal, you know? Like everyone. But now…after I eat, mostly. And sometimes even when I’m not eating.
+DOCTOR: Two weeks…primarily after eating, but also at other times. Can you describe the belching?
+PATIENT: Hmm…describe? It just…comes up. Like bubbles. Sometimes it feels…stuck, and then pop. Not painful, usually. Just…loud. And embarrassing.
+DOCTOR: Loud and…uncomfortable, I gather. Are you experiencing any other symptoms alongside the belching?
+PATIENT: Um…sometimes my stomach feels a little…full. Even if I don't eat a lot. And…maybe a little heartburn? Not bad, but…warm.
+DOCTOR: Fullness and some heartburn. Can you rate the heartburn on a scale of one to ten, with one being barely noticeable and ten being the worst pain you can imagine?
+PATIENT: Oh…one to ten? Hmm. I don’t…I don’t get pain, really. Maybe a…two? Like, I notice it, but it doesn’t keep me up at night or anything.
+DOCTOR: A two, alright. And this fullness... does anything specific seem to trigger it, or does it happen regardless of what you've eaten?
+PATIENT: That’s a good question. I think…beans. Definitely beans. And sometimes…spicy food. But not always. It’s hard to say. I eat a lot of different things.
+DOCTOR: Alright. Let’s go over a bit of your medical history. Have you been diagnosed with any medical conditions in the past?
+PATIENT: No, not really. Just…the usual colds, you know? Nothing serious. I haven't been to the doctor much.
+DOCTOR: No significant medical history. Any surgeries?
+PATIENT: No, never had surgery.
+DOCTOR: And what about your family?
+PATIENT: Hmm…my mom, she had…problems with her stomach sometimes. But I don't know what kind. Just…upset stomach, I think. And my dad, he was always healthy.
+DOCTOR: Family history of unspecified stomach problems in mother. Now, do you take any medications regularly?
+PATIENT: No, I don’t. Just sometimes…something for a headache, if I need it. But not every day.
+DOCTOR: No regular medications. And finally, any allergies to medications or anything else?
+PATIENT: No, I don't think so. I eat everything. Shellfish, nuts, everything. Never had a problem.
+DOCTOR: Alright. Ms. Fogelstrom, based on what you’ve told me, it sounds like you’re experiencing symptoms consistent with dyspepsia—what most people call indigestion. It’s often related to diet, and the timing of your symptoms—after eating, especially with certain foods like beans and spicy food—supports that. It's unlikely to be serious, but persistently bothersome. I’m going to do a quick physical exam to rule out anything more concerning. Is that alright?
+PATIENT: Indigestion…okay. That sounds…not so bad. A physical exam…yes, that’s fine. Whatever you think is best, Doctor.
+DOCTOR: Excellent. If you'll just have a seat here, I'll listen to your abdomen and do a quick check. Please let me know if anything feels uncomfortable.
+PATIENT: Okay.
+DOCTOR: Alright, just relax. Deep breaths, if you can. Any pain or tenderness here?
+PATIENT: No…not really. Just…feels a little funny, maybe. Like…pressure. But not pain.
+DOCTOR: Alright. Your abdomen is soft, no significant guarding or rigidity. Bowel sounds are present in all four quadrants, albeit somewhat…active. I don’t detect any masses or organomegaly. Everything feels fairly normal physically, which is reassuring. Given your history and the physical exam, I suspect this is indeed related to diet and possibly some degree of gas buildup.
+PATIENT: Okay…that sounds good. So…it’s not something bad?
+DOCTOR: No, it doesn’t appear to be anything serious at this time. However, I’m going to recommend some simple lifestyle modifications and an over-the-counter medication. I suggest avoiding trigger foods like beans and spicy foods, eating smaller, more frequent meals, and avoiding carbonated beverages. For the gas, you can try simethicone—it’s available over-the-counter. If your symptoms worsen or don’t improve within two weeks, or if you develop new symptoms like weight loss, nausea, vomiting, or bloody stools, you must return for further evaluation. Do you understand?
+PATIENT: Yes, I understand. Avoid beans, spicy food…smaller meals…and simethicone. And come back if it gets worse. Okay. That sounds…doable.
+DOCTOR: Alright. I’ll also provide you with a handout detailing these recommendations. Since you are currently uninsured, I do want to emphasize the importance of being vigilant about any changes in your symptoms. It’s better to err on the side of caution. Do you have any questions for me at this time?
+PATIENT: No, I think I understand everything. No, I don't have any questions. Thank you, Doctor.
+DOCTOR: Very well. Ms. Fogelstrom, I trust you will find some relief with these measures. Please don't hesitate to contact the office if needed. Have a good day. And do try to avoid the beans. It’s likely your primary culprit. .
+PATIENT: Okay, I will. Thank you again, Doctor. You too. .

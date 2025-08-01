@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. Stoegbauer, yes... 87, right?
+PATIENT: Yes, that is correct. Emiliano Stoegbauer. It is good to meet you, Doctor... Ruocco, you said? It’s a pleasure.
+DOCTOR: Ruocco, yes, yes. Look, I have a rather full schedule today, so if you could just get straight to the point… what brings you in?
+PATIENT: Oh, excuse me. Yes, well… my foot. It’s been… bothering me. A sore, really. It won’t seem to heal. It’s on the bottom, near my toes. It hurts to walk, you know?
+DOCTOR: Hmm. A sore… on the foot. How long has this “sore” been… bothering you?
+PATIENT: Oh, goodness. A good while now. Maybe… three, four months? It started small, I think. I didn’t pay it much mind at first. Just thought it was a little scrape from walking barefoot. But it just… stayed. And got worse.
+DOCTOR: Barefoot?
+PATIENT: Well, yes. Sometimes. I like to feel the earth, you know? It’s good for the soul. But… that’s not important right now. It’s the foot that’s the problem.
+DOCTOR: Alright, alright. And what exactly does it feel like?
+PATIENT: It… burns. Mostly. And it’s tender. Very tender. Even with shoes on. And sometimes… it feels like little pins and needles. Does that make sense? It’s hard to explain.
+DOCTOR: Pins and needles… Right. And you said it’s on the bottom of your foot, near the toes. Is it… the whole bottom, or a specific spot?
+PATIENT: It’s not the whole bottom. More… towards the big toe. And a little bit on the side, where it bends. It’s hard to point without… well, without taking my shoe off, which I suppose I could do. Would you like me to?
+DOCTOR: No, no. That won't be necessary. I'll take a look. Though frankly, it sounds like you probably just have a callus. People walk barefoot, they get calluses. It's not rocket science. Go ahead, sit. Let's just get this over with.
+PATIENT: Oh. A callus? Well, I suppose that's possible. I haven’t really thought about it. I just know it hurts. Alright. Here I am.
+DOCTOR: Yes, alright. It is a callus. A rather significant one, I must say. And some redness. Do you have diabetes, Mr. Stoegbauer?
+PATIENT: Diabetes? Oh dear… my doctor… Dr. Matsumoto, she told me… a few years ago. Yes, I have the diabetes. I try to take my pills, but sometimes I forget.
+DOCTOR: Of course you do. Look, diabetes complicates things. It reduces blood flow. That’s why simple calluses can become… problematic. Alright. We'll need to monitor this. Do you have any… neuropathy?
+PATIENT: Neuropathy? What… what is that? Is that something bad? I take so many pills now, I can’t keep track of everything. I… I feel the pins and needles in my foot, like I said, is that… is that the neuropathy?
+DOCTOR: That could be. It means nerve damage. Common with diabetes. Alright. Look, I'm going to prescribe you a stronger cream for the callus. And you must be diligent about your blood sugar. Check it regularly, take your medication. And if it gets worse – redness, swelling, pus – you come back immediately. Do you understand?
+PATIENT: Yes, Doctor, I understand. Stronger cream, check my sugar, take my pills… and come back if it gets worse. Redness, swelling, pus. I will try my very best. It’s just… sometimes it’s hard to remember everything.
+DOCTOR: Right. Well, the nurse will give you the prescription. And try to wear proper shoes. Sandals are… not ideal. Next. Is there anything else?
+PATIENT: Oh… well, I suppose… sometimes my feet feel cold. Even when it’s warm. Is that… is that the diabetes too? It's just... a little discomfort, really. I didn’t want to bother you with it, but since we’re talking about my feet…
+DOCTOR: Cold feet are… common. Poor circulation. Nothing to worry about right now. Honestly, Mr. Stoegbauer, you have a lot of typical diabetic symptoms. Cream for the callus, monitor your blood sugar, proper shoes. That's all there is to it. Any questions?
+PATIENT: No… I think… I think I understand. Cream, sugar, shoes. No, I don’t think I have any more questions right now. Thank you, Doctor Ruocco.
+DOCTOR: Alright. Good. The nurse will see you out. Next! .
+PATIENT: .

@@ -1,0 +1,19 @@
+DOCTOR: Alright, Ms. Ottaviani. Have a seat. So, what brings you in today?
+PATIENT: Well, Doctor... Pitmon, is it? I have a sore throat. It’s been… bothering me. Honestly, I don’t have a lot of time for this. Just want to know what it is and how to fix it.
+DOCTOR: Right. "Fix it," yes. Well, a sore throat can be many things, Ms. Ottaviani. Let’s try to get a bit more specific, shall we?
+PATIENT: Specific? Look, it hurts when I swallow. Is that specific enough? I work with… machines, big ones. Lots of dust. Maybe it's that. I don’t know. I really don't have time to list every little detail.
+DOCTOR: Yes, well, simply stating it "hurts when you swallow" isn't particularly helpful, is it?
+PATIENT: Oh, I’m sorry my description isn't to your liking. I don’t get paid to explain everything, you know. I just want it gone. Is it… serious? Because I have things to do.
+DOCTOR: Let’s just take a quick look, alright?
+PATIENT: Fine. Just… be quick about it. I haven't got all day. And please, don't poke too much. It's already sore enough.
+DOCTOR: Open wide, please. Say “Ah.” And please, try to cooperate. It'll go much faster if you do.
+PATIENT: There. Is that good enough? Honestly, this is quite undignified.
+DOCTOR: Mm-hmm. Your throat is a little red, some slight swelling. Do you have any fever or chills?
+PATIENT: Fever? I… I haven’t checked. Chills? No, I don't think so. I was working yesterday, as usual. I don’t have time to be sick. I don't even know how to take my temperature. What does that even mean?
+DOCTOR: Right. Well, a temperature would help determine if there’s an underlying infection. Are you experiencing any cough, runny nose, or body aches?
+PATIENT: A little… stuffy, maybe? But I work around dust and grease, Doctor. Of course my nose is stuffy! And my body aches from standing all day! That’s just… life. Is it something serious? Do I need… pills?
+DOCTOR: It could be a simple viral pharyngitis – a sore throat from a virus. However, without knowing your temperature or a more thorough history, it’s difficult to say definitively. Do you have any allergies?
+PATIENT: Allergies? Goodness, no. I’ve never had allergies. Honestly, Doctor, this is taking far too long. Just give me something to make it stop hurting. I have work to get back to. I'm a very important part of that machine line, you know.
+DOCTOR: Alright, Ms. Ottaviani. Given your lack of other symptoms, and the fact you've stated no allergies, I can prescribe a lozenge to soothe your throat. However, if your symptoms worsen – fever develops, difficulty breathing, severe pain – you must return immediately, or go to the emergency room. Do you understand?
+PATIENT: Yes, yes, I understand. Lozenge. Good. Just… where is it? And how long until I can go back to work? Honestly, the sooner the better. I really don't have time for this. .
+DOCTOR: Here you go. The pharmacy is down the street. As for going back to work, use your best judgment. If you're still in significant pain, it’s best to rest. But frankly, I doubt it's anything serious. Just try to avoid getting dust in your throat. Next patient.

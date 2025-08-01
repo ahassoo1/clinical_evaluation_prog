@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Erxleben. I'm Dr. Dechene. So, what brings you in today?
+PATIENT: Good morning, Doctor. Well, to be frank, I’ve been extraordinarily thirsty lately. And hungry, constantly hungry. It’s…rather disruptive, to be honest. I just feel like I’m always needing something to eat or drink.
+DOCTOR: Thirsty and hungry… right. And how long has this been going on?
+PATIENT: Oh, let me think… perhaps three, maybe four weeks now? It started gradually, I suppose. Just a little more water with meals, a slightly bigger portion at dinner. Now…it’s quite noticeable. I’m not sure if that helps.
+DOCTOR: Vague timelines are… less than ideal, but alright. And has anything else changed?
+PATIENT: Hmm. That’s a fair question. Let me see… not that I can readily recall, no. No weight loss, no feeling particularly tired… just the thirst and hunger. Perhaps a bit more frequent trips to the lavatory, now that I think of it, but nothing alarming. I wouldn’t say it’s been… problematic.
+DOCTOR: Frequent urination... Alright. And do you have any family history of… diabetes, perhaps?
+PATIENT: Diabetes? I… believe my mother’s sister had something along those lines. Type 2, I think? It was many years ago, and frankly, we weren’t terribly close. I don’t recall the specifics, if that’s what you’re asking. Is that relevant?
+DOCTOR: It can be. And do you take any medications currently?
+PATIENT: No, Doctor. Nothing at all. I’ve always been rather fortunate with my health, all things considered. Just the occasional ibuprofen for a headache, and that’s it. Very rarely, mind you.
+DOCTOR: Alright. And any allergies to medications or anything else?
+PATIENT: No allergies that I’m aware of. I’ve eaten… well, a great variety of things over the years without issue. Penicillin, shellfish, nuts… all perfectly fine. I’ve never had a reaction to anything, thankfully.
+DOCTOR: Good. Let's do a quick exam. I want to check your blood pressure, pulse, and do a basic physical assessment. If you could just step on the scale for me?
+PATIENT: Certainly, Doctor. Whatever you require. Is there anything specific I should be doing? Like holding still, or…?
+DOCTOR: Just stand still, please. No need to complicate things. Blood pressure is a little elevated, 140 over 90. Pulse is 88, regular. Lungs are clear. Now, let’s just take a quick look in your ears and throat. Open wide.
+PATIENT: Alright. Is everything alright? It feels… a little cold.
+DOCTOR: Nothing immediately concerning. Let’s run a few blood tests. Standard glucose and a comprehensive metabolic panel. That’ll give us a clearer picture. The nurse will draw the samples. This is likely just a minor issue, but we need data.
+PATIENT: Very well, Doctor. Whatever you deem necessary. I must admit, I’m eager to have this sorted. It's…inconvenient, to say the least. Where will the nurse be?
+DOCTOR: She’s just outside, preparing the lab requisition. It won't take long. And try not to overthink things, Mr. Erxleben. It’s likely nothing serious.
+PATIENT: Right. Very good. I shall endeavor to remain… composed. Thank you, Doctor.
+DOCTOR: You're welcome. I’ll be in and out while the results come in. Just…try to relax.
+PATIENT: .

@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Ms. Uzarski. I’m Dr. Yackey. So, let’s get right to it. What brings you in today?
+PATIENT: Oh, good morning, Doctor. Well, it’s this… tingling. In my hands and feet, mostly. It’s been going on for a little while now, and I thought maybe it would just go away, but it hasn’t. Honestly, I just want to figure out what it is so I can get back to my route.
+DOCTOR: A tingling sensation, you say. And it’s interfering with your… route?
+PATIENT: Yes, my mail route. I’m a carrier. It’s… hard to explain. It’s not painful, exactly, just… annoying. Makes it hard to sort the mail sometimes, you know? Dropping things. And walking can be… off. I don't want to lose my job, Doctor.
+DOCTOR: I see. Dropping things… and an unsteady gait. How long precisely has this been occurring?
+PATIENT: Oh, goodness. Let me think… It started, I guess, maybe… three months ago? It was just little things at first. Like, I'd fumble with the keys a bit. Now it’s… more noticeable. And it seems to be getting worse, slowly. It’s hard to say exactly, time just… slips away these days.
+DOCTOR: Three months. And has this tingling been constant, or does it come and go?
+PATIENT: It comes and goes, mostly. Some days I barely notice it, and other days… well, other days it’s all I can think about. Especially if it’s cold out. That makes it much worse. Though, to be honest, it's been pretty warm lately, so that's not it right now.
+DOCTOR: Cold exacerbates it. Very well. And are you experiencing any other symptoms alongside this tingling?
+PATIENT: Hmm… let me think. No, not really. Maybe a little tired, but who isn't? I work long hours. And my knees ache a bit sometimes, but that's just old age, I suppose. Nothing else… no numbness, no weakness, no… I don't know, fancy things like that. Just the tingling.
+DOCTOR: “Fancy things?
+PATIENT: Oh, you know… like what doctors always ask about? Weakness, or trouble walking, or… things like that. I just figured I'd mention it if I had them! I’m not a doctor, I just know it’s the tingling that's bothering me. I just want to get this sorted, if that makes sense.
+DOCTOR: Right. Of course. Let's move on. Do you have any past medical problems I should be aware of?
+PATIENT: Well, I had my gallbladder out years ago… maybe twenty years? And my blood pressure gets a little high sometimes, but I don’t take anything for it. The doctor said to just watch my salt intake. Other than that… no, I’ve been pretty lucky, honestly. Though, maybe this tingling is my luck running out.
+DOCTOR: Gallbladder removal, hypertension… noted. Any family history of… neurological issues?
+PATIENT: Oh, goodness. That's a hard one. My family… we weren't big on doctors. Nobody really talked about things like that. My mother, she had… arthritis, bad arthritis. And my father… he just worked too hard, I think. Didn’t take care of himself. I don’t think anyone had anything… neurological. If that's what you mean. I really don’t know, Doctor. Sorry.
+DOCTOR: Alright. And finally, are you currently taking any medications, vitamins, or supplements?
+PATIENT: No, nothing at all. I don’t like taking pills if I can avoid it. Just a cup of tea in the morning, that’s all. And maybe a little honey when I have a cold. No prescriptions, no fancy vitamins… just tea. Is that… bad?
+DOCTOR: No, not necessarily bad. Let’s perform a brief neurological exam, shall we?
+PATIENT: Oh. Okay. What does that involve? Will it be… unpleasant? I’m not good with needles, if that matters.
+DOCTOR: No needles, Ms. Uzarski. It's quite simple. I will test your reflexes, strength, and coordination. Just follow my instructions. If you’ll just sit here…
+PATIENT: Oh, good. No needles. That’s a relief. Alright, I can do that. Just tell me what to do, Doctor. I hope it won’t take long. I have a lot of mail to deliver.
+DOCTOR: Reflexes are… diminished, bilaterally. Strength is 5/5 in upper and lower extremities. Coordination is slightly off, but within normal limits. Could be peripheral neuropathy, but further testing is required. I recommend a nerve conduction study. I’ll write you a referral to a neurologist. It's likely nothing serious, but it’s best to rule out any underlying issues.

@@ -1,0 +1,23 @@
+DOCTOR: Right, Maribeth Vanderwiele. 71… Yes. Well, let’s not waste time. What brings you in today?
+PATIENT: It's my breathing, Doctor. When I lie down flat, it gets… difficult. Like something is pressing on my chest, you see. It’s been happening for… oh, a couple of weeks now, I’d say. Maybe a little longer.
+DOCTOR: Hmm. Difficulty breathing when lying flat… A couple of weeks, you say. And it's only when lying down?
+PATIENT: Yes, Doctor. Only when I'm lying flat. If I sit up, or even prop myself up with pillows, it's much better. I can breathe normally then. It's just… uncomfortable when I try to sleep. Makes for a restless night, you understand.
+DOCTOR: Right. Restless nights. Okay. And has this been gradually getting worse, or did it start suddenly?
+PATIENT: It was… gradual, I think. At first, it was just a little bit harder to get comfortable. Then, each night it seemed a little worse. Now… well, now it’s quite noticeable. I haven’t been able to sleep through the night in… oh, goodness, a good while now. It's not a sharp pain, Doctor, just… pressure.
+DOCTOR: Pressure, not pain. Alright. Any swelling in your ankles or feet, Maribeth?
+PATIENT: Swelling? Let me see… No, not that I’ve noticed. They feel normal. I do get a little tired easily, but I always chalked that up to my age, you understand. I used to be very active, but… well, things change.
+DOCTOR: Tired easily… right. And any coughing?
+PATIENT: A little, Doctor. Just a small cough. Nothing persistent, mind you. It's more of a… a tickle in my throat, really. Happens mostly in the mornings. I haven't had a bad cough in… oh, decades. It’s not related to this breathing, I don’t think. Just an old habit, perhaps.
+DOCTOR: Right. And are you on any medications currently?
+PATIENT: Just Medicare, Doctor. I don't take anything regularly. Used to take something for my blood pressure, years ago, but the doctor took me off of it. That was… oh, must be ten years ago now. I haven’t needed anything since then. I try to stay healthy, you understand. Mostly just fruit and vegetables.
+DOCTOR: Okay. No medications. Alright. Let's have a listen to your lungs. If you don’t mind.
+PATIENT: Certainly, Doctor. Whatever you need. Just let me know if it gets cold. This old skin doesn’t keep me warm like it used to.
+DOCTOR: Deep breath in… and out… again… Okay. A few crackles on the lower lobes, but nothing alarming. Let's check your heart sounds now.
+PATIENT: Very well, Doctor. I do get a bit anxious when I think about my heart, you understand. My father… well, he had a weak heart. Is everything alright so far?
+DOCTOR: Heart sounds are… regular, but a little faint. And your blood pressure is a bit low, frankly. 100/60. Okay. We need to rule a few things out. I’m going to order a chest X-ray and an EKG. And a basic blood panel, just to be safe.
+PATIENT: X-ray and… EKG? Is something seriously wrong, Doctor? I don’t like the sound of tests. It's just breathing, you understand. I didn't think it was anything major. What are you looking for, exactly? I’d like to know.
+DOCTOR: Look, Maribeth, it’s just standard procedure. We need to see what's causing the difficulty breathing. The X-ray will check for fluid in your lungs, or any other abnormalities. The EKG will check your heart rhythm. It doesn’t necessarily mean anything is seriously wrong, but we need to know. Frankly, your low blood pressure and the crackles in your lungs are… concerning. It could be something simple, like mild heart failure, or it could be something else entirely. We need to rule things out. Don’t worry. The nurse will schedule those tests for you now.
+PATIENT: Heart failure… Well, if you think it’s necessary, Doctor. I suppose I have no choice. Just… please let me know as soon as you have the results. I don’t like being kept in the dark, you understand. And… are these tests painful? I’ve never had an EKG before.
+DOCTOR: No, the EKG is not painful at all. They just put some sticky pads on your chest. It's a quick procedure. As for the results, the nurse will contact you. I'll review them as soon as they're available. Now, is there anything else?
+PATIENT: No, Doctor. I think that’s all. Just… thank you. I appreciate you taking the time to listen to me, even if it means tests. I hope it’s nothing serious, you understand. I just want to be able to sleep comfortably again. .
+DOCTOR: Right. Well, we'll see. The nurse will be in shortly to schedule those tests. Have a good day. .

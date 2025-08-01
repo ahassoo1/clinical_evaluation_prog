@@ -1,0 +1,21 @@
+DOCTOR: Alright, Mr. Secondi, good to see you. So, what brings you in today?
+PATIENT: Uh, hello Doctor. It’s… my pee. It’s orange. I noticed it yesterday. It scared me a little.
+DOCTOR: Orange, huh?
+PATIENT: Yes. Like… not bright orange, but you know, definitely not normal. Like… the color of… carrots, maybe? A little darker than that, I think. I drink a lot of water, usually. That’s why I was surprised.
+DOCTOR: Okay, carrot-colored… and you said you typically drink a good amount of water. Have you noticed any pain or burning when you urinate?
+PATIENT: No, no pain. Nothing like that. Just… the color. It's just the color that's weird. I haven't felt sick or anything. No fever, no stomach ache… just orange pee. Is that… bad? I don't know what could cause it.
+DOCTOR: Right, no other symptoms. Hmm. It could be a number of things, honestly. Sometimes certain medications or even foods can cause a change in urine color. But, we want to rule out anything more serious. Let’s start with a quick review of your medical history, if you don't mind. Do you have any past medical problems I should be aware of?
+PATIENT: I don’t… I don’t think so. Nothing major. I broke my arm when I was a kid, playing football. And I had the flu a couple times, like everyone does. But nothing the doctor ever needed to… really do anything about. I'm married, and I have insurance. Does that matter? I work as a… a technician. Engineering, mostly.
+DOCTOR: Okay, no major medical history, broken arm as a child, typical illnesses. Insurance is good to know. Engineering technician… alright. Have you had any surgeries?
+PATIENT: No, never had surgery. Not even tonsils. I’m… a little scared, Doctor. Is it something serious? My wife, she said I should come right away. She gets worried easily. I try to tell her it’s probably nothing, but… orange pee isn’t normal, right?
+DOCTOR: No, orange pee isn’t typical, you're right to be concerned. We’ll figure it out. Now, any family history of… kidney problems, liver issues, or anything like that?
+PATIENT: Uh… I don’t know. My parents… they are both okay, as far as I know. They live in Morocco. We don’t talk about health stuff much. My father… he has high blood pressure, I think. My mother, she’s just… old. She has aches and pains, like you would expect. I don’t think anyone had problems with their kidneys or liver. We don't really talk about those things, you know? It’s… not a big thing in my family. Sorry. I don’t know if that’s helpful.
+DOCTOR: Okay, no known family history of kidney or liver issues. That's helpful, thank you. Now, do you take any medications at all?
+PATIENT: No, I don’t take anything regularly. Sometimes, if my back hurts after work, I take ibuprofen. But that’s it. And I haven't taken any in the last week. Just… the normal stuff, when I need it. I try to avoid pills if I can.
+DOCTOR: Alright. No regular medications, occasional ibuprofen. And no allergies to any medications or anything else?
+PATIENT: No allergies. Nothing I know of, anyway. My wife always asks me that question, and I always say no. I haven't ever had a reaction to anything. I eat everything, I think. Except maybe olives. I don't really like olives. But that’s not an allergy, is it?
+DOCTOR: No, olives don't count. Okay, good. Let’s do a quick physical exam, just to rule a few things out. I'll listen to your abdomen and check your vitals. Is that alright?
+PATIENT: Yes, that’s fine. Whatever you think is best, Doctor. I just want to know what’s wrong. It’s… it’s a little embarrassing, talking about this. But I’m glad I came. My wife will be happy.
+DOCTOR: Alright. Let's start with your blood pressure and then we’ll listen to your stomach. Just lie down on your back, please. Okay, deep breaths… everything sounds normal here. Blood pressure is 130 over 80, pulse is 72. No tenderness to the touch. Now, let’s get a urine sample. I'll leave you some privacy to do that. There's a cup in the bathroom. Just try to collect a mid-stream sample if you can.
+PATIENT: Okay. A urine sample. Right. Mid-stream… I think I know what that means. I’ll go do that now. Just… tell me if you need anything. And thank you, Doctor.
+DOCTOR: Take your time. I'll be right here when you're finished. Just let me know when you’ve collected the sample. And don’t hesitate to ask if you have any questions.

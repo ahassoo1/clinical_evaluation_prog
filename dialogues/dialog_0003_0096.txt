@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Mr. Komarov. I'm Dr. Yackey. Please, have a seat. Now, let's get straight to the point. What brings you in today?
+PATIENT: Good morning, Doctor. Thanks for seeing me. Well, it’s… it’s about the sun, really. I've been getting really bothered by it lately. More than usual, anyway. It’s making my skin feel really sensitive, like it’s burning even when it’s not that bright out.
+DOCTOR: Sensitive skin… right. And how long has this “sensitivity” been occurring?
+PATIENT: Hmm… let me think. It started… maybe a little over a month ago? Around the end of June, I’d say. It was gradual at first, just noticing a bit more redness after being outside. But now… now it feels like even just walking to the car on a cloudy day can be a problem. I used to not think much of it, you know? But it's getting worse.
+DOCTOR: June… alright. And is this redness localized to any particular area, or is it… widespread?
+PATIENT: It’s mostly on my face, I think. My cheeks get really flushed, and around my eyes too. It feels… prickly there, almost. And my nose sometimes. Not so much on my arms or legs, though. I haven't really noticed it anywhere else, to be honest. It’s just really uncomfortable.
+DOCTOR: Prickly… hmm. And have you changed anything in your skincare routine recently?
+PATIENT: Oh, no, nothing at all. I use the same soap, the same… well, I don't really do much, to be honest. Just a basic bar of soap. I haven't tried anything new. Definitely not. I just wash my face like I always have. I haven’t been using any lotions or anything fancy.
+DOCTOR: Alright. And do you spend a significant amount of time outdoors?
+PATIENT: Not significant, no. I work indoors, as you probably know, being a dental assistant. But I do like to walk to the store sometimes, and I try to get a little bit of fresh air when I can. Maybe… twenty, thirty minutes a day, on a good day? It's not like I'm a gardener or anything. I just like a little walk.
+DOCTOR: Twenty to thirty minutes… right. Do you consistently use sun protection when you are outdoors for those walks?
+PATIENT: That’s… a good question. Honestly? Not really. I usually don’t bother with sunscreen for such short walks. I figured it wasn’t that long. I know I should, but I haven’t been. I feel a bit silly now, saying it out loud.
+DOCTOR: Well, there's your answer. It sounds like a classic case of sun exposure. Let me take a look. Hmm. Yes, there's some redness, and… slight dryness. Nothing alarming, but certainly indicative of sun damage.
+PATIENT: Okay. That… that makes sense, I guess. I feel bad that I wasn’t being careful. Is it… is it serious? Will I need… special cream or something? I just want to make sure it doesn’t get worse.
+DOCTOR: No, it's not "serious," Mr. Komarov. You haven’t described anything that would suggest anything alarming. It’s simply irritation. We’ll start with a topical steroid cream. Use a thin layer twice daily to the affected areas. And, and this is crucial, always wear sunscreen with an SPF of 30 or higher when you're outdoors. Is that understood?
+PATIENT: Yes, that's understood. Sunscreen, SPF 30, twice a day with the cream. And… how long should I use the cream for? Will I need a special prescription, or can I just get it at the store? I just want to be clear before I leave. And thank you, Doctor.
+DOCTOR: It's a mild hydrocortisone cream. You can get it over the counter. Use it for two weeks. If there's no improvement after that, then we’ll talk about a prescription. And please, Mr. Komarov, try to be more diligent about sun protection. This is a preventable condition. Do you have any other… complaints?
+PATIENT: Okay, two weeks, over the counter. I will definitely be more careful with the sunscreen. No, that’s all, Doctor. Just the photosensitivity. Thank you for seeing me, and for explaining everything. I appreciate it.
+DOCTOR: Very well. See to it you follow those instructions. And try not to waste my time again with something so easily preventable. Good day, Mr. Komarov.
+PATIENT: .

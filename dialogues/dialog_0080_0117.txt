@@ -1,0 +1,31 @@
+DOCTOR: Hi Devin, good to meet you. I’m Dr. Rosanova. So, what brings you in today?
+PATIENT: Uh, hi Doc. Just… a cough. Been coughin' a bit. And there’s… stuff. Red stuff. When I cough. Not all the time, but… yeah. It worries me. I smoke, if that matters. Been smokin’ a long time.
+DOCTOR: Okay, a cough with some red… material when you cough. And you smoke, you said. How long have you been coughing, Devin?
+PATIENT: Long time… can’t say exactly. Maybe… a couple months? Hard to remember things these days. It started small, just a tickle. Now it’s… more. More than a tickle, that’s for sure.
+DOCTOR: A couple of months, okay. And it has gotten worse over that time. Can you describe the red stuff a little more?
+PATIENT: Uh… it's… bright. Like, not dark. It's in the… mucus. When I cough it up. Not a lot, but enough to see. It scares me, Doc. Honestly. I don't… I don't know what it is. It ain’t like a cold cough, that's for sure.
+DOCTOR: Okay, bright red in the mucus. And not like a typical cold cough. Have you had any other symptoms along with the cough?
+PATIENT: Other stuff? Hmm… I get tired easy, I guess. But I always get tired easy. Maybe… a little short of breath sometimes, when I walk up hills. But I live in the hills, so… hard to say if that’s new. Not much else, I don't think.
+DOCTOR: Okay, fatigue and some shortness of breath when walking uphill. Now, let’s talk a little bit about your past health. Have you ever been diagnosed with anything, like asthma, COPD, or heart problems?
+PATIENT: COPD… did you say? I think… the doc at the reservation said somethin' about my lungs once. Years ago. When I first started coughin' bad. Somethin’ about… not gettin’ enough air. But I don’t really remember the name of it. And I don’t see doctors much, truth be told.
+DOCTOR: Okay, so possibly COPD, diagnosed some time ago. And you don’t see doctors often. Have you ever had any surgeries?
+PATIENT: Surgeries… nope. Never had any. Just… broke my arm when I was a kid. Fell out of a tree. But that was a long time ago. No cuttin’ or nothin’.
+DOCTOR: Okay, no surgeries. Now, thinking about your family… is there anyone in your family who has had lung problems, like COPD, emphysema, or lung cancer?
+PATIENT: Lung problems… hmm. My grandpa… on my mom's side… he smoked too. Always coughin’. I think… I think he had somethin' bad with his lungs. But he died a long time ago. I don't remember exactly what it was. Lots of folks smoked back then.
+DOCTOR: Okay, a history of lung problems in the family, specifically your grandfather. Now, let’s talk a little bit about your smoking. How much do you smoke, and for how long have you been smoking?
+PATIENT: Uh… a pack a day. Maybe a little more if I'm stressed. Been smokin'… since I was 18. So… a long time. Over 50 years. I know, I know. Bad habit. I tried to quit a few times, but… it's hard.
+DOCTOR: Okay, a pack a day for over 50 years. Do you have any allergies to medications or anything else?
+PATIENT: Allergies… not that I know of. Never had a bad reaction to anything. I don’t take much medicine, Doc. Just… when I really need it.
+DOCTOR: Alright. And just to confirm, are you currently taking any medications, even over-the-counter ones?
+PATIENT: Nope. Not takin' nothin' regular. Maybe some ibuprofen for my knees now and then, but that’s it.
+DOCTOR: Okay, no regular medications. Alright, Devin, I’d like to listen to your lungs and check your oxygen levels. Then we can talk about some next steps. Is that alright with you?
+PATIENT: Yeah, that's fine. Whatever you need to do. Let's get it over with.
+DOCTOR: Okay. Take a deep breath in… and out… again… and again. Alright. Your oxygen saturation is a little low, at 92%. Your lungs sound… diminished in some areas, and I can hear some wheezing. I also notice a slightly bluish tint to your lips, which isn’t ideal. Now, I’m going to check your heart rate and blood pressure.
+PATIENT: Blue tint? Oh. Hmm. That don’t sound good. I get outta breath easy, but… I didn't know it was turnin’ me blue. What does that mean, Doc?
+DOCTOR: It means your blood isn't getting enough oxygen, Devin. While it doesn’t automatically mean something catastrophic, it’s definitely something we need to investigate further. Your blood pressure is 140/90, and your heart rate is 88. Given your smoking history, the cough with red mucus, the low oxygen levels, and the wheezing, I’m concerned about COPD exacerbation and the possibility of something more serious, like pneumonia or even lung cancer. I want to order a chest X-ray and some blood work to get a clearer picture of what’s going on. Does that sound alright?
+PATIENT: X-ray and blood work… Sounds serious. But… yeah, okay. Do what you gotta do. I just… I want to know what’s wrong. Don’t want to keep coughin' up blood.
+DOCTOR: Okay, Devin, I understand. We’ll get those tests ordered right away. In the meantime, I’m going to prescribe you a short course of antibiotics to cover potential pneumonia and a bronchodilator inhaler to help open up your airways. I also strongly recommend you stop smoking, if possible. I can refer you to a smoking cessation program if you'd like. I also want you to come back in one week for a follow-up appointment to review the results of the tests. If your symptoms worsen – like if you develop a high fever, severe shortness of breath, or chest pain – please go to the nearest emergency room immediately. Does that all make sense?
+PATIENT: Antibiotics… inhaler… stop smokin’… Yeah, I think so. Emergency room if it gets worse. Okay. I’ll try to quit, Doc. It's gonna be hard, but… I’ll try. And I'll come back in a week. Thank you.
+DOCTOR: Okay, Devin. I’m glad to hear you’re willing to try. Here are the prescriptions and the referral information for the smoking cessation program. The nurse will be in shortly to go over everything with you and schedule your follow-up appointment. Do you have any questions for me before I leave?
+PATIENT: No… I don’t think so. Not right now. Just… thank you, Doc. For lookin' at me. And tryin’ to help. I appreciate it. I guess… I’ll see you in a week.
+DOCTOR: You’re very welcome, Devin. It's my job to help. Take care of yourself, and please don’t hesitate to reach out if you have any concerns before your follow-up appointment.

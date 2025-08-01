@@ -1,0 +1,18 @@
+DOCTOR: Good morning, Kahrin. Welcome to the clinic. I'm Dr. Bombara. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just here for the results, if you don't mind getting straight to it. I’m pretty busy today.
+DOCTOR: <stage>I nod understandingly, though I vaguely recall this patient mentioning a busy schedule... or was that someone else?
+PATIENT: Alright, no problem at all. Let’s get right to it then. So, the bloodwork came back, and everything looks pretty normal, actually. Your cholesterol is a little high, but nothing we can't address with some lifestyle changes. Are you familiar with those types of recommendations?
+DOCTOR: Yes, yes... lifestyle changes. Diet, exercise, that sort of thing. Do you have any questions about that specifically, or would you like me to go over some of the recommendations in more detail?
+PATIENT: Detail would be good, please. I want to know exactly what I'm looking at. Just… keep it brief, if you could. I’m trying to get through a lot today.
+DOCTOR: Certainly. So, regarding your cholesterol… we want to focus on reducing your LDL – that's the "bad" cholesterol – and potentially increasing your HDL – the “good” cholesterol. Diet-wise, that means limiting saturated and trans fats – things like red meat, processed foods, and fried foods. Increasing fiber intake is good – fruits, vegetables, whole grains. And regular exercise, at least 30 minutes most days of the week, can help. Does that make sense so far?
+PATIENT: Yeah, okay. Red meat less, more… plants. Exercise. Got it. Is there a specific number I should be aiming for with the cholesterol, or is it just… lower is better? I’m trying to avoid a whole lot of back and forth.
+DOCTOR: Hmm… yes, good question. We generally aim for an LDL cholesterol below 100 milligrams per deciliter. Your current level is… 135. So, we’re looking to bring that down. HDL, we want to see above 60. Yours is… 45. So, a bit of improvement there as well. Do you have any other questions about those specific numbers, or would you like to discuss how we could approach making those changes?
+PATIENT: Okay, 135 and 45. Right. What's the quickest way to see results? Like, what’s the one thing I should focus on if I only have time for one change?
+DOCTOR: If I had to choose just one thing, I’d say focus on your diet. Specifically, reducing your intake of saturated and trans fats. Those have the biggest impact on LDL cholesterol levels. Start by reading food labels and being mindful of hidden fats in processed foods. Replacing red meat with fish or poultry a few times a week can also make a difference. Now, are you currently taking any medications, or do you have any allergies I should be aware of?
+PATIENT: No medications. No allergies. I’m good. Is that everything? I really need to get going.
+DOCTOR: <stage>I quickly scan your file again, feeling a slight pang of… something missing?
+PATIENT: Yes, I believe so. We’ve discussed your results, some lifestyle recommendations, and your medical history. I’ll print out a copy of these recommendations for you to take home. Unless you have any further questions, you’re all set. We can schedule a follow-up appointment in three months to recheck your levels if you’d like.
+DOCTOR: Here you go. And… please don’t hesitate to contact the clinic if you experience any unexpected symptoms or have any concerns. Do you have any questions before you leave, Kahrin?
+PATIENT: No, that’s fine. Thank you, Doctor. I think I’m good. I really need to run. Bye.
+DOCTOR: Alright, have a good day, Kahrin. And please, take care. .
+PATIENT: .

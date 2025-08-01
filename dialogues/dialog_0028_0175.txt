@@ -1,0 +1,18 @@
+DOCTOR: Alright, Mr. Way. Let's get this over with. What brings you in today?
+PATIENT: Well, hello there, Doctor. It's my back, mostly. Been hurting pretty bad for a little while now, you see. Just… achy, and sometimes it feels like a sharp pinch.
+DOCTOR: “Achy and pinch-y.” Right. And how long is “a little while”?
+PATIENT: Oh, gosh. Let me think… maybe three, four weeks now? It started kinda slow, just a little bit uncomfortable after I’d been sitting for a long time. Then it got worse, you know? Especially if I try to lift something. Nothing too heavy, mind you. Just groceries, stuff like that.
+DOCTOR: “Groceries.” So, it’s aggravated by normal activity. Any fever, weakness, or numbness in your legs?
+PATIENT: No, no fever or anything like that. And my legs feel fine. No numbness, no weakness… just the back pain. It doesn't shoot down my legs, if that makes sense. It stays pretty much in my lower back. It’s just… annoying. Really annoying.
+DOCTOR: Alright. Let's have a look. Please lie down on the examination table. I'll need to do a quick physical exam. Try to relax. And honestly, don't tell me every single ache you’ve ever had while I'm palpating. Just the current problem, please.
+PATIENT: Okay, sure. No problem. I'll try to be quiet. This table cold, huh?
+DOCTOR: Hmm. Tenderness present on palpation of the lumbar spine, approximately L4-L5. No palpable muscle spasm. Range of motion… limited due to pain. Reflexes 2+ bilaterally. Straight leg raise… negative. So, it doesn’t seem to be anything catastrophic, but we need to rule things out. Have you had any imaging done of your back before?
+PATIENT: Imaging? You mean like… X-rays or something? No, never had any imaging done of my back. Doctor hasn't ever sent me for one. I usually just take some ibuprofen and try to rest, but it’s not really helping this time. Is it… serious? Ouch, that spot right there. That’s the one.
+DOCTOR: Look, I'm not going to speculate. It’s probably just a muscle strain, which is what 90% of these cases are. But given your age…and the fact that ibuprofen isn’t cutting it, I want to order an X-ray just to be safe. It's standard procedure. Don't make a fuss. I'll write you a referral to the imaging center down the street. You can go whenever you have time. Do you have any allergies to medications?
+PATIENT: No, no allergies. Never had a reaction to anything. That's good, right? X-ray sounds okay, I guess. Better safe than sorry, like you said. Is the imaging center far? I don't drive anymore, my wife usually takes me. I'll ask her to schedule it tomorrow, maybe?
+DOCTOR: It’s about ten minutes away by car. Ten minutes. Look, I’ve given you the referral. Get the X-ray done. Then come back and see me so we can review the results. Frankly, I have other patients waiting. Do you take any medications currently?
+PATIENT: Oh, right, medications. Just… a little something for my blood pressure. Lisinopril, I think it’s called. And sometimes, when my arthritis flares up in my hands, I take naproxen. That's it. Small doses of both. I’m sorry to take up your time, Doctor.
+DOCTOR: Lisinopril and naproxen. Fine. Alright. Get the X-ray. Come back next week with the results. And try to avoid lifting anything heavy. Seriously. This is very straightforward. Now, is there anything else or can I finally move on to my next patient?
+PATIENT: No, that's… that's everything, I think. Just the X-ray and try not to lift anything. Thank you, Doctor. I’ll see you next week then.
+DOCTOR: Good. Next! .
+PATIENT: .

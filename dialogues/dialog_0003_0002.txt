@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Ms. Stoffregen. I’m Dr. Yackey. Now, let's try to be efficient, shall we?
+PATIENT: Oh, good morning to you too, Doctor. Stoffregen, yes, that’s me. Efficient is good. My bones ain't what they used to be, you know?
+DOCTOR: Yes, well, age does have a way of doing that to everyone. Now, what brings you in today?
+PATIENT: Oh, um… it’s… going to the bathroom. It’s hard, now. Not… not painful, exactly. Just… takes a long time. And I don’t… I don’t get it all out, sometimes. Does that make sense?
+DOCTOR: Difficulty emptying… right. And how long has this been occurring, Ms. Stoffregen?
+PATIENT: Oh dear… how long? That’s a good question. A while. Not just started, no. Maybe… a few months? Or longer? Time gets away from me, you know. My husband, he usually notices these things first…
+DOCTOR: A few months… vague, unfortunately. And have you noticed any changes in the stream itself?
+PATIENT: Stream? You mean… the water? It feels… weaker, maybe? Not as strong as it used to be. And sometimes… sometimes it stops and starts. Like a… a leaky faucet, I guess. Is that what you mean?
+DOCTOR: Yes, Ms. Stoffregen, that is precisely what I mean. Have you experienced any fever, chills, or lower abdominal pain accompanying this?
+PATIENT: Fever… no, I don’t think so. I feel warm sometimes, but that’s just the house, it gets stuffy. Chills… not really. And my belly… no, it doesn’t hurt. Just… feels a bit empty, sometimes. Old age, probably. Everything feels a bit… off, these days.
+DOCTOR: Alright. And do you have any history of urinary tract infections?
+PATIENT: Urinary… what now? Infections? Oh dear. I’ve been sick, of course. Everyone gets sick. But I don’t know about… that kind of sick. My daughter, she’s a nurse, maybe she knows. I forget things so easily… Did I tell you about my grandson? He's learning to play the ukulele!
+DOCTOR: Ms. Stoffregen, with all due respect, we need to focus. Urinary tract infections can cause these symptoms. Have you ever been treated for one?
+PATIENT: Oh! Treated… Oh, yes! A long time ago. Very long ago. I remember… pills. Lots of pills. And drinking a lot of water. It was… unpleasant. But it went away. I think. Doctor, is something serious wrong?
+DOCTOR: Alright. Let’s just take a quick look. Abdomen is soft, but I do note some mild fullness in the suprapubic region. Nothing overtly concerning at this stage, but we should rule out a few things. I’m going to order a urinalysis and a basic metabolic panel. It will give us a clearer picture.
+PATIENT: Oh, okay. A… a what-now-lysis? And a panel? Sounds… complicated. Will it hurt? And how long will it take? My husband is expecting me for tea…
+DOCTOR: Urinalysis is just a urine sample, Ms. Stoffregen. Completely painless. The basic metabolic panel is a blood draw. A small pinch, that’s all. It will take about an hour for the results to come back. The nurse will draw the blood now. Please take this to the lab and then let the nurse know you’re ready for the blood draw. Do you understand?
+PATIENT: Oh… a pinch. Okay. A little pinch. A lab… and then the nurse. Right. Which way is the lab? And what about my tea? My husband will be wondering where I am… I get so confused nowadays. Tea… lab… pinch…
+DOCTOR: Down the hall to your left. The nurse’s station is just past it. I’m sure they can help you with everything else. I have other patients waiting, Ms. Stoffregen. Please proceed when you are able. .
+PATIENT: Oh… okay. Down the hall. Thank you, Doctor. Down the hall… tea… I must remember the tea… .

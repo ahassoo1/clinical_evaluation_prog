@@ -1,0 +1,39 @@
+DOCTOR: Well, hello Rayshon. Nice to meet you. I'm Dr. Renzi. Thirty years I’ve been practicing… feels like yesterday sometimes! So, what brings you in to see me today?
+PATIENT: Uh… hello Doctor. Nice to meet you too. Thirty years… wow. I… got cough. Long time cough. And… tired a lot. Also, my nose… always blocked, or runny. Happens often. It's… annoying.
+DOCTOR: Okay, a cough, fatigue, and a stuffy or runny nose. That does sound annoying, especially if it’s been going on for a while. Let's try to get a better picture of what's going on. First, about this cough… how long have you been coughing, roughly?
+PATIENT: Long time… hmm… maybe… six months? Or more? I dunno exactly. It comes and goes, you know? Sometimes worse, sometimes… okay-lah. Not so bad. But it never really go away, completely.
+DOCTOR: Right, comes and goes… that's helpful to know. And is it a dry cough, or do you bring anything up when you cough?
+PATIENT: Ah… sometimes… got a bit of… stuff. Like… phlegm. Not much, but yeah, sometimes. Mostly dry cough, though. Especially in the morning.
+DOCTOR: Okay, so mostly a dry cough, worse in the morning, but sometimes you bring up some phlegm. Is the phlegm any particular color – clear, white, yellow, green…?
+PATIENT: Uh… I dunno lah. Never really look. Just… spit it out. Maybe… white-ish? Or… sometimes a bit yellow? I don't pay attention so much. Sorry.
+DOCTOR: No, no need to apologize at all! It’s perfectly alright. Alright. And this fatigue… how would you describe it?
+PATIENT: Just… tired. Always tired. Even after sleep. Like… no energy. Hard to do things. Work also… hard. I'm tire repairer, you know? Need strong. But… not strong now.
+DOCTOR: Okay, so fatigue even after sleeping, and it’s making it difficult to do your work. I understand – that must be frustrating. And you mentioned your nose being blocked or runny… is that happening constantly, or does it come and go like the cough?
+PATIENT: Comes and goes. Sometimes okay for a few days. Then… blocked. Or runny. Lots of tissue. Especially when… the weather change. Rainy season… very bad.
+DOCTOR: Alright, so it's related to the weather. That's useful information. Now, have you had any fever, chills, or body aches with any of this?
+PATIENT: Fever… hmm… maybe a little bit sometimes? Not very high. Just… warm. No chills, I think. Body ache… sometimes, after work. But that's normal, you know? From lifting tires.
+DOCTOR: Right, understandable about the body aches from work. Now, have you noticed any shortness of breath or chest pain?
+PATIENT: Shortness of breath? No. Not really. Chest pain… sometimes a little bit… like… tight. But maybe just… from the coughing so much? I dunno.
+DOCTOR: Okay, tightness in the chest, possibly related to the coughing. Let’s get a little bit more background information. Have you had any other medical problems in the past?
+PATIENT: Hmm… not that I remember. I… went to clinic before, for broken arm when I was young. But… nothing else. Never really sick much.
+DOCTOR: Alright, just a broken arm when you were younger. And have you had any surgeries?
+PATIENT: No. No surgery. Never.
+DOCTOR: Okay, good to know. Now, are you currently taking any medications?
+PATIENT: Medication… ah, sometimes I take… for headache. Panadol? Or something like that. When headache really bad. But… that's it. Not every day.
+DOCTOR: Okay, just over-the-counter pain relievers for headaches when needed. Do you have any allergies to medications, food, or anything else?
+PATIENT: No allergies. I eat everything. No problem. Never had a reaction to anything.
+DOCTOR: Alright, good. And finally, do you smoke, or are you around people who smoke?
+PATIENT: No smoke! I don’t smoke. My wife also don't smoke. We don't like smoke. Very bad for health.
+DOCTOR: Okay, that's good to hear. Alright, thank you for all of that information. Now, I’d like to do a quick physical exam, if that’s alright with you. I'm just going to listen to your lungs and heart, check your throat, and maybe take your temperature. Does that sound okay?
+PATIENT: Okay. That’s okay. You check.
+DOCTOR: Great. Alright, let’s start by listening to your lungs. Please take a few deep breaths in and out for me. Deep breath… and again… okay. Lungs sound a little bit wheezy, but otherwise clear. Now I'll listen to your heart. Heart sounds regular. Now, can I take a look at your throat?
+PATIENT: Okay. You look.
+DOCTOR: Throat’s a little bit red, but no obvious signs of infection. And your temperature is 99.1 Fahrenheit, which is slightly elevated. Alright, thank you. Based on what you've told me, and the physical exam, it sounds like you might have a respiratory infection, possibly bronchitis. The wheezing in your lungs and the slightly elevated temperature support that. However, the symptoms have been going on for a long time, so we should rule out other possibilities. I'd like to order a chest X-ray to get a clearer picture of your lungs and see if there’s anything else going on. Would that be alright with you?
+PATIENT: X-ray? What… what does that mean? Is something… bad? I don't like… being poked and prodded. And… how much cost? I don't have insurance.
+DOCTOR: That's a very fair question. An X-ray is just a picture of your lungs, like a photograph. It doesn't involve any poking or prodding, just standing still for a moment while the machine takes the image. It helps us see if there's any inflammation, fluid, or anything else that might be causing your symptoms. As for the cost, it can vary, but I can ask the billing department to give you an estimate before you have it done, so you know exactly what to expect. We can also discuss options if the cost is a concern. We have some programs that might be able to help. We can also consider starting you on an inhaler and some cough medication to see if that helps alleviate your symptoms, while we decide about the X-ray. What do you think?
+PATIENT: Inhaler… cough medicine… okay. Maybe try that first. I don't like X-ray if not necessary. But… what kind of cough medicine? And… how long I need to take it?
+DOCTOR: Okay, that sounds reasonable. We'll start with an inhaler and cough medicine. The inhaler will help open up your airways, and the cough medicine will help soothe your throat and loosen up the mucus. I'm going to prescribe you a bronchodilator inhaler – it's called albuterol. You'll use it two puffs every four to six hours as needed, especially when you're feeling short of breath or wheezy. And for the cough, I'm going to prescribe you a guaifenesin-containing cough syrup. Take two teaspoons every four hours as needed. You should see some improvement within a few days. If your symptoms don’t improve after a week, or if they get worse, it’s important to come back in, and we can discuss getting that X-ray. Does that sound good?
+PATIENT: Okay. Albuterol… and guaifenesin. Every four hours. See if better. One week. Okay. I write down. Thank you, Doctor.
+DOCTOR: You’re very welcome, Rayshon. Here's the prescription for the inhaler and cough syrup. The pharmacy will be able to explain any side effects or interactions. Also, make sure to drink plenty of fluids, and get some rest. Do you have any other questions for me today?
+PATIENT: No, I think that's all. Just… hope the medicine work. Thank you again, Doctor Renzi.
+DOCTOR: You're very welcome, Rayshon. I hope it helps too! If anything changes, or you’re not feeling better, don’t hesitate to call the clinic, alright?

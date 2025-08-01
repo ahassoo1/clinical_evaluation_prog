@@ -1,0 +1,38 @@
+DOCTOR: Well, Mr. Astores, good afternoon. I’m Dr. Osterholm. So, what brings you in today?
+PATIENT: Good afternoon, Doctor. Thank you for seeing me. It’s… well, it’s my strength. It’s been getting weaker, slowly. It’s hard to explain… just not as strong as it used to be. It's been happening for a little while now, not a sudden thing.
+DOCTOR: Okay, strength weakening… not sudden. And how long is “a little while” exactly, Mr. Astores?
+PATIENT: Hmm… let me think. Maybe… six months, perhaps? Maybe a little longer. It’s hard to say exactly. It comes and goes, you know? Some days are better than others. Not terrible, just… less. Less than it used to be.
+DOCTOR: Alright. And is this weakness all over, or is it more focused in certain areas?
+PATIENT: Oh, good question. It's mostly in my legs, I think. Walking feels… harder. And getting up from a chair takes more effort now. My arms feel okay, mostly. I can still do things, but… I don’t have the same pep, you know? It’s just… tiring.
+DOCTOR: Tiring, yes. Do you notice any pain with the walking or getting up, Mr. Astores?
+PATIENT: No, not really pain. More… like a heavy feeling. Like I’m pushing through something. Sometimes a little shaky, but not pain. Just… hard work. And it makes me worry, Doctor. It's not like it used to be, and I want to stay active, you know?
+DOCTOR: Alright. And have you noticed any other changes, Mr. Astores?
+PATIENT: Changes? Let me think… Oh! Yes, sometimes my vision gets a little blurry. Not all the time, just… comes and goes. And sometimes I feel… a little off balance, like I might stumble. It doesn’t happen often, but it’s there. I forget things sometimes too, but I’m an old man, Doctor! That happens.
+DOCTOR: Blurred vision, off balance… yes. And you said six months with the weakness. Has anything specific happened around that time that might have triggered this?
+PATIENT: Triggered…? Hmm. Not that I can think of, no. Just… slowly getting worse. No falls, no accidents, no big changes in my life. Just… time, I guess. I do get tired easier now, too. Even doing things I used to enjoy.
+DOCTOR: Alright. And do you have any medical conditions currently being treated?
+PATIENT: Oh, yes. I have what the doctor calls… multiple sclerosis, they said. It’s been a long time now, many years. I take some medicine for it, but… I forget the name. And I have Medicare, if that helps.
+DOCTOR: Multiple sclerosis, okay. And you said you’re on medication for it… do you recall approximately when you were diagnosed with MS, Mr. Astores?
+PATIENT: Oh, goodness. That was a long, long time ago. I was a young man, still working. Maybe… forty years ago? Perhaps even longer. It was a different doctor then. I’ve seen many doctors over the years, you know. I don’t remember all the details.
+DOCTOR: Alright. And are you currently taking any other medications besides the one for the MS?
+PATIENT: Let me think… I take something for my blood pressure, I think. A little white pill. And sometimes, when my knees bother me, I take something for that too. But I mostly try to walk it off, you know? I forget what they're called. My wife handles most of the pills.
+DOCTOR: Okay. Do you have any allergies to any medications, Mr. Astores?
+PATIENT: No, not that I know of. I’ve never had a bad reaction to anything. My wife always checks when the doctor gives me something new. She's very careful. I haven't noticed anything, no.
+DOCTOR: Alright. Well, I'd like to do a quick physical exam, if you don't mind, Mr. Astores. Just to check your reflexes and strength. It'll be fairly quick. Can you stand up for me?
+PATIENT: Yes, of course. That's fine. Just… give me a moment. Old bones, you know?
+DOCTOR: Alright, take your time. Now, can you walk a few steps for me, Mr. Astores?
+PATIENT: Yes, I can. Just a little slow today, Doctor.
+DOCTOR: Alright. And can you try to walk on your heels, then on your toes for me, please?
+PATIENT: Oh… oh dear. This is… difficult. I haven’t done this in a long time. It feels… very unsteady. I'm afraid I might fall.
+DOCTOR: Alright, alright, that’s enough. Please, sit down. Okay. Now, I’m going to check your reflexes. This will just involve a little tap on your knees and ankles. Is that alright?
+PATIENT: Yes, that’s fine. Just… be gentle, please. Old man’s bones, you know. I appreciate you catching me back there, Doctor.
+DOCTOR: Alright. And now your ankles… Okay. I’m also going to listen to your heart and lungs, if you don't mind. Okay. Your heart sounds are good, and your lungs are mostly clear, but I did hear a few crackles at the base.
+PATIENT: Oh, that sounds… concerning, Doctor. Crackles? Is that bad? I’ve never had crackles before. I mostly just try to take it easy, you know? I used to be a strong man, but… things change. Is this something serious?
+DOCTOR: Well, Mr. Astores, crackles can be caused by a number of things. Often they’re just a little fluid in the lungs, especially if you've had a bit of a cough recently. But given your history of MS and the weakness you’re experiencing, we need to investigate further. It’s likely a combination of things. Your age, your MS… and possibly a little bit of fluid buildup. We need to rule out anything serious. I want to order a chest X-ray, and some blood work to check your overall health and rule out any infection. Does that sound alright?
+PATIENT: Yes, that sounds… sensible, Doctor. Whatever you think is best. X-ray and blood work… alright. I trust your judgment. I just want to know what’s going on, you know? And hopefully… hopefully it's not too serious. I still want to be able to walk my grandkids, Doctor. That’s important to me.
+DOCTOR: Alright, Mr. Astores. We’ll get that sorted out for you. I’m going to write the orders for the X-ray and blood work now. The nurse will come in and get you scheduled for the X-ray, and we'll draw the blood samples right here in the office. It should take about an hour to get the results. In the meantime, I want you to try and get some extra rest, and avoid any strenuous activity. I’m also going to prescribe a mild diuretic to help with any potential fluid buildup. It's just a precaution. Does that sound acceptable?
+PATIENT: Yes, that sounds… good. Rest and a diuretic… alright. Anything to help. The nurse will schedule the X-ray, and draw the blood… alright. Thank you, Doctor. I appreciate you taking the time to look at me. I just hope it's nothing too bad. I worry about my wife, you know. She takes care of me so well.
+DOCTOR: Alright, orders are placed. The nurse will be in shortly. And yes, it’s important to take care of your wife, certainly. We will have a better idea once we have the results. For now, try not to stress. I'm also going to write a referral to a neurologist, just to get their opinion on managing your MS, given the recent changes. They may want to adjust your medication. Does that sound alright, Mr. Astores?
+PATIENT: A neurologist? Yes, that sounds… sensible, Doctor. Another opinion couldn't hurt. My MS… it’s been a long time. Perhaps they have new ideas. I just want to be able to keep living, you know? Keep being a husband, a grandfather… That’s all I ask. Thank you, Doctor. Thank you for everything.
+DOCTOR: Alright. Well, we’ve done what we can for today, Mr. Astores. The nurse will be in to get you scheduled, and draw your blood. Try to relax, and we'll discuss the results as soon as they're available. Just remember, these things take time. And getting older isn't easy. The nurse will be right with you. .
+PATIENT: .

@@ -1,0 +1,34 @@
+DOCTOR: Good morning, Mr. Pipolo. I'm Dr. Roseburrough. It's nice to meet you. So, what brings you in today?
+PATIENT: Morning. Just… my eyes. They feel real dry. Like sand. Been that way a bit now. Don’t like it.
+DOCTOR: Okay, dry eyes. And how long has this been going on, roughly?
+PATIENT: Hmm… a few months, I think. Maybe longer? Hard to say exactly. Time goes fast when you’re old, you know. It just got worse lately, that’s all I know for sure.
+DOCTOR: Right, I understand. “Lately” is helpful. Any redness, blurry vision, or discharge with the dryness?
+PATIENT: No discharge. Just… dry. And sometimes blurry, yeah, when I blink. Not all the time though. Just when they really feel… scratchy. Like something’s in them. You know? It's just annoying more than anything.
+DOCTOR: Yes, I do know that feeling. It sounds like it could be a few things. Do you use any eye drops currently, even over-the-counter ones?
+PATIENT: No, I don't. Never used eye drops. Seems like something the young folks use. I just… try to blink more. Doesn't help much, though.
+DOCTOR: Okay. And do you spend a lot of time outdoors?
+PATIENT: Yeah, I do. Work outside. Cement work. Dust, wind… all that. Been doing it a long time.
+DOCTOR: Alright, cement work. That dust exposure is definitely a factor we need to consider. Do you wear any eye protection when you're working?
+PATIENT: Sometimes. Not always. Gets in the way, you know? Slows you down. I try to shield 'em with my hand, but… it’s not the best.
+DOCTOR: Okay. And do you have any other medical problems – anything like diabetes, arthritis, or high blood pressure?
+PATIENT: No, not really. Old age, that's about it. A little ache here and there, but nothing a doctor ever really looked at. Never needed insurance, never had much money for it.
+DOCTOR: Alright. Any allergies that you know of – to pollen, pets, anything like that?
+PATIENT: Nope. Never been allergic to anything. Lucky that way, I guess.
+DOCTOR: Okay. And are you currently taking any medications – prescription or over-the-counter?
+PATIENT: No. Nothing. Just… water. And coffee. Lots of coffee.
+DOCTOR: Okay. Let's do a quick eye exam, if you don't mind. I'm going to check your vision and look at the surface of your eyes. This won't take long.
+PATIENT: Alright. Sounds good. Get it over with quick, if you can. I got things to do.
+DOCTOR: Okay, Mr. Pipolo, can you read the bottom line on this chart for me?
+PATIENT: Ugh… blurry. Real blurry. I can kinda make out… a few letters. Maybe… E and… L? I don't know. It's hard.
+DOCTOR: Okay. And looking at your eyes now... I see some mild dryness and a little bit of irritation, consistent with exposure. No major issues visible at first glance, but there’s some mild conjunctival injection – that’s redness in the white part of your eye. Let me check the tear production. I’m going to place these small strips in the lower corner of each eye for a moment, just to see how much moisture they collect. It might feel a little strange.
+PATIENT: Strange is okay. Long as it’s quick. Don't want nothin' poked at 'em. What's conjuncti… whatever you said? Is that bad?
+DOCTOR: No, it's not necessarily bad. Conjunctival injection just means the small blood vessels on the surface of your eye are a little inflamed. It often happens with dryness or irritation. Okay, the tear strips are in… just a moment. Alright. Okay, Mr. Pipolo, your tear production is a bit low, which explains the dryness. It’s not severe, but it’s contributing. It seems we’re dealing with a combination of age-related dryness and irritation from the cement dust. It’s good we checked.
+PATIENT: So… what do I do about it? Just… keep blinkin'? That ain't workin'.
+DOCTOR: No, blinking isn't enough. We'll start with some artificial tears – over-the-counter lubricating eye drops. Use them four times a day, even when your eyes don’t feel dry, to help keep them moist. Also, and this is important, you really need to protect your eyes at work. Safety glasses or goggles are essential. If you can't get prescription ones, even a pair of inexpensive drugstore glasses is better than nothing. Would you be willing to try that?
+PATIENT: Yeah, I guess so. Glasses. Okay. I can… try. Where do I get 'em? And… what kind should I get? I don't know nothin' about glasses.
+DOCTOR: Any drugstore or hardware store will have them. Look for ones that wrap around the sides to create a good seal. You want to protect your eyes from dust and wind. I can write you a little note to take with you explaining what you need – “Safety glasses with side shields for dust protection”. How does that sound?
+PATIENT: That sounds good. A note. That’d be helpful. Don’t want to forget. And… how long 'til I feel better with these drops?
+DOCTOR: Here you go. This explains what to look for. As for the drops, it may take a few days to a week to notice a real improvement. If they don't help after a week, or if your eyes get worse, please come back and see me. We may need to consider a stronger medication, or refer you to an eye specialist. Is there anything else I can help you with today?
+PATIENT: No. I think that's all. Just… tired of dry eyes. Thanks for the note. I gotta get goin'.
+DOCTOR: You're very welcome, Mr. Pipolo. Remember the safety glasses and use the drops regularly. And don’t hesitate to come back if things don’t improve. Have a good day.
+PATIENT: Alright. You too. .

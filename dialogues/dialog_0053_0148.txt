@@ -1,0 +1,27 @@
+DOCTOR: Right, Noelani Stepbro, is it?
+PATIENT: Yes, that is correct. It’s… a pleasure to meet you, Doctor Pitmon. Though, truthfully, I’m not quite sure how I arrived here today. My memory… it isn’t what it used to be.
+DOCTOR: Mm-hmm. Well, that’s… concerning. Not ideal. Alright. Let’s try to piece things together. You said you’re not sure how you arrived here. Do you mean you don’t recall making the appointment?
+PATIENT: Yes, exactly. I don’t… I don’t remember scheduling anything. Or even why I’m seeing a doctor at all, if I’m being honest. I just… woke up this morning, and then… found myself on my way here. It’s very strange.
+DOCTOR: Right. Okay. And is this…typical for you?
+PATIENT: Typical? Yes… I suppose so. It happens quite often, actually. Moments… whole periods of time… just… gone. It’s frustrating, and… a little frightening, to be truthful. I try to write things down, but even that doesn’t always help.
+DOCTOR: Mm-hmm. And when did you first start noticing these… gaps in your memory?
+PATIENT: Oh, goodness. That’s a difficult question. It wasn’t sudden, you see. It was… gradual. Maybe… five years ago? Perhaps longer. At first, it was just forgetting where I put my tools, or a name here and there. But it’s… worsened over time. I suppose it’s been about a year now that it’s truly concerning.
+DOCTOR: Right. And do you have any family history of… memory problems?
+PATIENT: That’s… a good question. My mother… she had some difficulties towards the end of her life, yes. She often repeated herself, and would get confused about dates. But it was dismissed as simply “old age”, you see. She was quite elderly. I don’t know if it was… the same thing as what I’m experiencing. I wasn’t very close to my family, unfortunately.
+DOCTOR: Alright. Let’s talk about your current symptoms. Aside from the memory issues, are you experiencing anything else?
+PATIENT: Symptoms… Well, I have been feeling… a discomfort, low down. In my… well, in my groin, I suppose. It’s not constant, but it’s been present for a few days now. A sort of… ache. And… I’m terribly embarrassed to say this, but I haven’t been sleeping very well. Just… restless.
+DOCTOR: Right. And what about your bowel habits?
+PATIENT: Oh, my. Well, they’ve been…regular, I believe. Nothing unusual there. Perhaps a little…constipated, lately. But nothing…alarming. I eat quite a lot of fruit, you see, so I usually manage alright. Is that… relevant, Doctor?
+DOCTOR: Alright. Let’s move on to some general questions. Do you have any allergies?
+PATIENT: No, not that I’m aware of. I’ve always been quite fortunate in that regard. I can eat… pretty much anything, without any problems. Though, I do find spicy foods rather…unpleasant. But that’s a matter of taste, not an allergy, you see.
+DOCTOR: Any medications you’re currently taking?
+PATIENT: Let me see… Just a daily multivitamin, Doctor. Nothing else. I try to stay away from medications as much as possible. I prefer natural remedies, when I can. Though… truthfully, I haven’t been feeling well enough to even think about remedies lately.
+DOCTOR: Alright. Let’s do a quick physical exam. I’m going to listen to your heart and lungs, and then I’ll want to palpate your abdomen. Is that alright?
+PATIENT: Yes, of course. That’s perfectly alright, Doctor. Whatever you need to do. I trust your judgment completely. Just… please be gentle. My stomach has been rather…sensitive lately.
+DOCTOR: Heart sounds are regular, rate 72. Lungs are clear to auscultation bilaterally. Abdomen is soft, non-distended. Tenderness to palpation in the lower quadrants, particularly on the left side. No rebound tenderness. No guarding. Bowel sounds are present, though slightly sluggish. I’m going to need a urine sample. And I’d like to order a complete blood count, a metabolic panel, and a thyroid stimulating hormone level. We’ll start there.
+PATIENT: Yes, of course, Doctor. Whatever you think is best. A urine sample… and blood tests. I understand. Where should I…provide the sample? And will someone explain the results to me, when they’re ready? I… I do get a little confused easily, you see.
+DOCTOR: The restroom is down the hall, on the left. There’s a specimen cup in there. Bring it back to the nurse, and she’ll handle it. As for the results… the nurse will call you with the basics. If anything is…concerning, they’ll schedule a follow-up appointment. Is there anything else you’d like to discuss?
+PATIENT: Oh. Well… no, I suppose not. Just… the memory issues. Is there anything… anything at all that could be done about those? It's… terribly frightening to forget things, Doctor. To feel like you're losing yourself. But if you need to run the tests first… that's perfectly alright. I trust your judgment.
+DOCTOR: We’ll see what the tests show. It could be a number of things. Stress, vitamin deficiencies, thyroid issues… It’s too early to say. Don’t jump to conclusions. And frankly, at your age, some memory decline is…normal. The nurse will be with you shortly to collect the sample.
+PATIENT: Oh. Very well, Doctor. Thank you for your time.
+DOCTOR: .

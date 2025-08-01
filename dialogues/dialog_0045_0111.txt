@@ -1,0 +1,15 @@
+DOCTOR: Good morning, Mr. Drahota. I’m Dr. Billman. So, what brings you in to see me today?
+PATIENT: Yes, well. It’s… this discoloration. My skin. It’s darkened, you see. And I tire easily. Honestly, I haven’t the time for this. Is it something serious? I have work to do, reinforcing iron, you know. A man’s work.
+DOCTOR: Reinforcing iron… right. Okay. So, this discoloration… where exactly is it?
+PATIENT: Everywhere, really. On my arms… hands… perhaps my face? It’s difficult to say. I don’t spend much time looking at myself. It’s just… darker than it used to be. And the fatigue… it’s quite bothersome, naturally. Do you need a precise location? It seems rather obvious.
+DOCTOR: Okay, “generalized darkening.” And when did you first notice this, Mr. Drahota?
+PATIENT: Oh, goodness. That’s… a difficult question. Some time ago. A few months, perhaps? It’s all rather blurred, you understand. I’ve been busy. Very busy. I don’t keep track of such trivial things. Is it important?
+DOCTOR: It can be, Mr. Drahota. It helps me figure things out. A few months… has it been getting worse steadily, or does it come and go?
+PATIENT: Steadily, I suppose. Though, frankly, I haven’t been observing it, as I’ve told you. Work takes precedence. It’s… a gradual darkening. Not sudden, if that’s what you’re asking. I simply noticed it wasn’t as… vibrant as it once was. Goodness, are we going to be here all day? My wife will be wondering where I am.
+DOCTOR: We’ll try to be quick, Mr. Drahota. Now, besides the discoloration and fatigue, have you noticed any other symptoms?
+PATIENT: Symptoms? What sort of symptoms? I feel… tired. And my skin is darker. Isn't that enough? I haven't been feeling ill, if that's what you mean. No aches, no pains, no… whatever else people complain about. I’m a practical man, Doctor. I don’t fuss over trifles. Honestly, I don’t understand why I needed to come here at all. My wife insisted. She worries too much.
+DOCTOR: Alright. And has your appetite been normal?
+PATIENT: Appetite? Yes, perfectly normal. I eat what my wife prepares. She’s a good cook, though a bit… overbearing. No changes there. I require sustenance to perform my work, you see. A man needs his strength. Are we getting anywhere with this, Doctor? I have beams to secure.
+DOCTOR: Okay. Any recent changes in your bowel habits?
+PATIENT: Good heavens! Are you serious? What kind of question is that? I hardly think that’s relevant. This is… preposterous. I came here about a skin discoloration, not… not that. I refuse to answer such impertinent inquiries. This whole consultation is a waste of time. .
+DOCTOR: Mr. Drahota, I understand your discomfort, but these questions are relevant. We need to rule out possible causes. Now, have you noticed any blood in your stool?

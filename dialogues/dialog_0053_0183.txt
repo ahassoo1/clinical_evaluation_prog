@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Mr. Grumman. I'm Dr. Pitmon. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. It’s… tiring. Always tired. Like, very, very tired. Been this way a long time, I think. The wife keeps telling me to come, she says I look… washed out. She's right, usually. It’s just… work is work, you know? I do what I do. But now even that feels hard.
+DOCTOR: “Work is work,” yes. That’s… a common sentiment. But “very, very tired” for a “long time” isn’t normal, sir. We need to figure out why you’re feeling this way. Let's start with a bit more detail. When you say a “long time,” roughly how long are we talking?
+PATIENT: Hmm. Let me think… maybe… six months, seven? Hard to say exactly. Time… it all blurs. It started… after that bad spell of weather we had. Lots of rain, everything damp. Made the work… heavier, somehow. More… draining. Not the work itself, you understand. The feeling of the work.
+DOCTOR: Right. So, roughly six to seven months. And you associate the start of this fatigue with a period of bad weather. Interesting. Did anything else change around that time, sir?
+PATIENT: No. Not really. Wife started a new… hobby, I think. Lots of plants. Smells funny in the house now. But that’s all. No… nothing important. I eat the same, sleep the same. Work, eat, sleep. That’s my life. She worries too much, honestly.
+DOCTOR: “Eat the same, sleep the same…” Well, let’s clarify that. Roughly how many hours of sleep do you get each night?
+PATIENT: Six. Maybe seven. Sometimes less if something is bothering me. The neighbor's dog, usually. Barks all night. Wife says I should talk to him, but… what’s the point? It’s a dog. It barks.
+DOCTOR: Six to seven hours, interrupted sleep. Alright. And what do you eat, typically, in a day?
+PATIENT: Mostly… injera. And wat. Various kinds. My wife makes it. Very good. Sometimes lentils. I drink coffee, of course. Lots of coffee. Keeps me going. And tea, sometimes. Not much else. We don't really… do fancy foods.
+DOCTOR: Right. So, a largely carbohydrate-based diet with significant caffeine intake. Do you experience any other symptoms along with this fatigue, Mr. Grumman?
+PATIENT: Hmm. Sometimes my stomach… feels funny. Not sick, exactly. Just… bloated. And heavy. Like after a big meal, even when I haven't eaten much. And… my skin feels itchy sometimes. Not all over, just… here and there. Wife says it’s the weather.
+DOCTOR: Bloating and intermittent itching. And you haven’t noticed any weight loss?
+PATIENT: Weight loss? No. I’m the same. Maybe a little… thinner, but that’s just age, I think. Always been a thin man. Wife says I need to eat more, but… I eat when I’m hungry.
+DOCTOR: Alright. I’d like to do a brief physical exam, if you don’t mind. I want to check your vital signs, listen to your heart and lungs, and feel your abdomen. Then, I’d like to order some blood work to get a better idea of what might be going on. It's possible we're looking at a simple vitamin deficiency, but we need to rule out other possibilities. Do you have any allergies to medications I should be aware of?
+PATIENT: Allergies? No. Never had allergies. But… I don’t like needles. Makes me… shaky. But if you need to… I suppose. Just… be quick, please.
+DOCTOR: Very well. We will be as efficient as possible. First, let's check your blood pressure and pulse. Then I’ll listen to your heart and lungs. Please lie back on the examination table when you're ready. And then we can discuss the blood work.
+PATIENT: Fine. Just get it over with. And make it quick, like you said.
+DOCTOR: Alright, your blood pressure is 135 over 85. A little elevated, but not drastically so. Pulse is 78, regular. Take a deep breath for me, please… And another… Lungs sound clear. Any tenderness here?
+PATIENT: No. Not really. Just… feels… full. Like I said, bloated. Especially here, on the… left side.
+DOCTOR: A bit of mild tenderness there, as you mentioned. Alright. I’m going to order a complete blood count, a metabolic panel, and a thyroid panel. We will also check your Vitamin D and B12 levels. This should give us a good starting point. The lab will need a sample of about ten milliliters of blood. It’s a routine draw. The results should be back in about three to five business days. I’ll have the nurse come in and draw the blood now. Do you have any questions for me before she comes in?
+PATIENT: Three to five days? That seems… a long time. But… alright. No. No questions. Just… get it done. And be quick. Please.
+DOCTOR: Very well. I will let the nurse know you'd like it done quickly. She will be in shortly. In the meantime, try to relax. And if anything changes significantly before your follow-up appointment – severe pain, dizziness, weakness – please contact the clinic immediately.
+PATIENT: Alright.

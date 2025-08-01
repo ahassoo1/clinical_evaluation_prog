@@ -1,0 +1,25 @@
+DOCTOR: Alright, Mr. Baide, have a seat. So, what brings you in today?
+PATIENT: Ugh, finally. Look, it’s this…shaking. My hand, mostly. Been happening for a bit now, and it's getting on my nerves. Honestly, I haven’t got all day to sit here explaining things. Just…it shakes. Is that enough?
+DOCTOR: Yes, well, "it shakes" isn’t terribly helpful, is it?
+PATIENT: Look, I’m eighty years old! What do you want from me, a detailed scientific report? It just…trembles. Especially when I try to hold something. Like a glass, or…or a fork. Makes eating rather messy, you know. And embarrassing.
+DOCTOR: Right. Messy. And when did you first notice this…messiness?
+PATIENT: Messiness? Goodness. Uh… Honestly? It's all a blur. A while ago, I suppose. Months, maybe? Hard to say. Everything kinda blends together after a while, you know? My wife…she noticed it first, probably. But she's…gone now.
+DOCTOR: Alright. And has it been gradually getting worse, or does it come and go?
+PATIENT: Worse, I think. Definitely worse. It used to be just a little quiver, barely noticeable. Now…well, now people stare. And I hate that. Absolutely hate it. It’s rude, you know. They should look away.
+DOCTOR: Right. Okay. And are you experiencing any other symptoms?
+PATIENT: Symptoms? What kinda symptoms? I’m tired, if that counts. Eighty years old, remember? Things ache. I get confused sometimes. Normal stuff. It's not like I've got a fever or somethin'. This hand is the main problem. And frankly, I'm losing patience with this whole thing.
+DOCTOR: Alright. Any family history of…tremors or shaking?
+PATIENT: Family history… oh, boy. Now you're askin' things. My mother… she wasn’t the steadiest woman. Always dropping things. But that was just her, you know? Clumsy. My father, strong as an ox. Didn't drop a thing in his life, probably. Honestly, I don’t spend much time thinkin’ about my relatives. They weren’t very…interesting.
+DOCTOR: Okay. And are you currently taking any medications?
+PATIENT: Medications? Just what the doctor gave me for my blood pressure. Little white pills. Can’t remember the name of ‘em. Old age, you know? Memory’s not what it used to be. And a little somethin’ for my arthritis, when it flares up. But that's about it. Nothing fancy.
+DOCTOR: Alright. Let's have a look at your hand then. Could you hold your arms out in front of you, palms up?
+PATIENT: Fine, fine. But don’t expect miracles. It's gonna shake, what with all this…attention. And frankly, this chair isn't very comfortable.
+DOCTOR: Okay. I see a resting tremor in both hands, more pronounced in the right. There's also a slight rigidity. Can you tap your fingers together for me?
+PATIENT: There. Happy now? See? Shakes. Like I said. What’s it all mean? Just tell me if I need a pill or somethin'. I haven’t got time for a lot of…diagnosing.
+DOCTOR: Well, based on what you’ve told me and the exam, it could be essential tremor, or Parkinson’s. It’s too early to say definitively. I'm going to order some blood work just to rule out other possible causes. And I’ll need to refer you to a neurologist for a proper evaluation. They can do some imaging and give you a more accurate diagnosis.
+PATIENT: A neurologist? More doctors? Imaging? Honestly, I just want somethin' to stop the shaking! I don’t need a whole investigation. Can't you just…give me somethin'? A pill, a cream, anything! All this runnin’ around… It's a waste of time.
+DOCTOR: Mr. Baide, I understand your frustration, but I cannot simply give you medication without a proper diagnosis. That would be irresponsible. The neurologist will be able to determine the cause of the tremor and recommend the appropriate treatment. Until then, I can prescribe a low dose of propranolol, which may help with the symptoms, but it’s not a long-term solution. We need to understand what we're dealing with first. I'll also give you a referral slip and the lab requisition. Do you have any questions?
+PATIENT: Propranolol… fine, whatever. Just… get it over with. And no, I don’t have any questions. Just tell me where to go for these…tests. And make it quick, will you? I haven’t got all day.
+DOCTOR: Alright. The lab is located at the hospital, 123 Main Street. The neurologist's office is on the third floor, Suite 305. Here’s the number. They'll call to schedule an appointment. Try to get it done as soon as possible. And please, try to be patient. These things take time. Is there anything else I can help you with today?
+PATIENT: No. Absolutely not. This has been… thoroughly unpleasant. Good day.
+DOCTOR: Very well. Good day to you, too.

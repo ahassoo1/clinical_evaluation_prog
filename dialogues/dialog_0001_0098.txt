@@ -1,0 +1,27 @@
+DOCTOR: Alright, Demondre. Twenty-five, right?
+PATIENT: Yeah, that's right. Twenty-five. Just came in 'cause...well, I was nearby and figured I'd see what this was all about. Never really been to a doctor much before.
+DOCTOR: "Nearby," huh?
+PATIENT: Yeah, I'm workin' on a boat down by the river. It's... well, it's a job. Keeps me busy. This clinic wasn't too far off, so I thought, why not? Just seein' if everything's okay, you know?
+DOCTOR: Okay. And "okay" meaning…?
+PATIENT: Just… feelin' alright, mostly. No big problems, really. Just wanted to make sure nothin' was...missin', I guess? Like, checkin' everything's workin' like it should. I don't even know what doctors do, honestly. You kinda tell people what's wrong, right?
+DOCTOR: Right. Well, "making sure everything's working" is… a start. Let’s try and be a little more specific, shall we?
+PATIENT: Okay, yeah, sure. Specific… Hmm. I get kinda tired sometimes, more tired than I think I should be for the work I'm doin'. And my back... it aches a bit after a long shift on the boat. That's about it, I think. Nothin' bad, just… annoyin'. Does that make sense?
+DOCTOR: Tired and a sore back. Right. How long has this tiredness been going on?
+PATIENT: Oh, man… a few months, I guess? Maybe since spring? It comes and goes, but it's been stickin' around more lately. Like, I used to be able to push through it, but now I need a bit of a rest after work most days. It's not a bad tired, just… heavy, you know? Like I'm carryin' somethin'.
+DOCTOR: "Heavy." And the back pain?
+PATIENT: The back… it kinda starts slow, achin' after a few hours. Then it gets worse if I move the wrong way. Mostly when I'm bendin' or liftin' stuff on the boat. Doesn't really hurt all the time, just when I'm workin'. It feels like...like somethin's pulled, maybe? I dunno. I just figured it was from the work.
+DOCTOR: Any numbness or tingling in your legs or feet?
+PATIENT: Numbness… not really. Tinglin’… sometimes, yeah, a little. In my feet, maybe. Not all the time, and it doesn't last long. Just kinda… fades in and out. Is that bad? I don't usually pay much attention to that kinda stuff.
+DOCTOR: Okay. And you said you've been feeling tired for months. Any changes in appetite or weight?
+PATIENT: Appetite… not really. I eat about the same as always, I think. Maybe a little less when I'm really tired, but nothin’ major. Weight… hmm. I haven't weighed myself in a while, to be honest. I dunno. I haven't really noticed a change. I'm usually pretty steady, I think.
+DOCTOR: Alright. Let’s do a quick physical exam, just to get a better idea of what’s going on. Can you step on the scale for me?
+PATIENT: Yeah, sure. No problem. Hope I'm not too heavy.
+DOCTOR: 91 kilograms. Okay. Now, if you’ll follow me over here, we’ll listen to your heart and lungs. Take a deep breath in… and out. Normal heart sounds. Lungs are clear. Abdomen is soft. Any pain when I press here?
+PATIENT: No, that doesn't hurt. Feels… normal, I guess. A little pressure, but no pain. Is everything okay? Everything feelin' alright to you?
+DOCTOR: Reflexes are… diminished. And let's check your lower back now. Tenderness to palpation. Some muscle spasm. Alright. Given your symptoms and the exam findings, it sounds like you’re experiencing fatigue and lower back pain, possibly related to muscle strain from your work. Your reflexes are a bit sluggish, which could be related to the fatigue, or something else. You really should be taking better care of yourself.
+PATIENT: Yeah, I guess. It's just...work, you know? Gotta get it done. What does "sluggish" mean? And what do I need to do? I mean, what do you suggest? Is it somethin' serious? Should I be worried?
+DOCTOR: "Sluggish" means your nerves aren't firing as quickly as they should be. Could be a lot of things – dehydration, vitamin deficiency, even just lack of sleep. We’ll need to run some blood work to rule out anything serious. I'm going to order a complete blood count, a metabolic panel, and a Vitamin D level. In the meantime, I recommend you take it easy, stretch regularly, and drink plenty of water. And listen to your body. I'll also give you a referral to a physical therapist. They can teach you proper lifting techniques and exercises to strengthen your back. Honestly, this all could have been avoided with a little preventative care.
+PATIENT: Okay… blood work, physical therapist… lots of things. Vitamin D? I don't even know what that is. Where do I go for the blood work? And… how much is all this gonna cost? I just got Medicare, so… I don’t wanna get a big surprise bill.
+DOCTOR: The lab is across the street. They take Medicare, so your cost should be minimal, but you'll need to confirm with them. As for the physical therapy, I'll have the receptionist give you a list of providers that are in-network with Medicare. I'm printing out a list of instructions now, with the lab order and a referral form for physical therapy. Read it carefully. Honestly, just try to take better care of yourself. I see a lot of people who neglect themselves until something serious happens. Anything else?
+PATIENT: No, I think that's it. Thank you, I guess. I'll try to… take better care of myself. Just… one more thing. What if… what if it is somethin' serious? What if the blood work shows somethin' bad?
+DOCTOR: We'll deal with it if we need to. That's what I'm here for. Now, if you’ll excuse me, I have other patients to see. .

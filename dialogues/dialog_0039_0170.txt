@@ -1,0 +1,33 @@
+DOCTOR: Hello, Mr. Putney. Welcome. It’s nice to meet you. I’m Dr. Kamahele. So, tell me, what brings you in to see me today?
+PATIENT: Oh, hi Doctor. Just… this life insurance thing. They sent me here for a check-up, you know? Gotta get it done to get the policy. I'd like to get this over with quickly if that's alright.
+DOCTOR: Yes, of course. Life insurance physicals are pretty standard. We’ll get through it as efficiently as we can. It's August 2nd, 2025, just to confirm. To start, could you tell me a little bit about your general health?
+PATIENT: Sure. Uh… I’m okay, I guess. I work at the hotel, mostly sitting at a desk. Not much exercise, unfortunately. I get a little tired sometimes, but who doesn’t? I had a divorce a few years back, that was stressful. Other than that… nothing major, I don't think. Is there a list of things you want to know? It’d be easier if you just told me what you need.
+DOCTOR: That's perfectly alright. A list is helpful sometimes! Let’s see… how about we start with any past medical conditions you’ve been diagnosed with?
+PATIENT: Hmm… let me think. I had high blood pressure a while back, maybe ten years ago? The doctor put me on some pills for it, but I stopped taking them after a bit. Felt better, so I figured it was okay. Nothing else really. I broke my arm when I was a kid, but that healed fine. Does that count?
+DOCTOR: Okay, high blood pressure in the past, and you’re currently not taking anything for it. And the broken arm… that doesn’t really factor in now. Have you ever had any surgeries, Mr. Putney?
+PATIENT: No, never had surgery. Not even for the arm. It healed up on its own. Just a cast for a few weeks, that’s all.
+DOCTOR: Good to know. Alright. Now, thinking about your family… are there any significant medical conditions that run in your family?
+PATIENT: Uh… my mom, she had diabetes. And her mom too, I think. And my dad… he had heart problems, I remember him being sick a lot when I was little. That's about all I know, really. Nobody really talked about health stuff much.
+DOCTOR: Okay, so diabetes on your mother's side, and heart problems with your father. That’s helpful information. Now, just to get a complete picture, could you tell me about any medications you’re currently taking, even over-the-counter ones or supplements?
+PATIENT: No, like I said, I'm not taking anything right now. Stopped the blood pressure pills a long time ago. Just… sometimes I take something for a headache, but that’s it. Regular Tylenol, nothing fancy.
+DOCTOR: Okay, no regular medications. And no allergies to any medications that you're aware of?
+PATIENT: No allergies that I know of. Never had a reaction to anything. I eat pretty much anything.
+DOCTOR: Good. That simplifies things. Now, I'd like to ask a few questions about your lifestyle. Do you smoke, or use any tobacco products?
+PATIENT: No, never smoked. Don't like it. Bad for you, you know?
+DOCTOR: That's excellent. How about alcohol?
+PATIENT: Just a beer sometimes with dinner. Maybe a couple on the weekend. Nothing crazy, I promise.
+DOCTOR: Okay, light alcohol use. And finally, do you engage in any regular physical activity?
+PATIENT: Like I said, mostly sitting at a desk. I try to walk a little when I can, but it’s not much. The hotel is pretty busy, so I'm on my feet some, but it’s not like I’m exercising or anything.
+DOCTOR: Alright, Mr. Putney, that gives me a good overview. Now, I'd like to do a quick physical exam, just to get a baseline. We'll check your blood pressure, heart rate, listen to your lungs, and do a basic visual assessment. Is that alright with you?
+PATIENT: Yeah, that’s fine. Just… let’s hurry, okay? I got things to do.
+DOCTOR: Absolutely. We'll be as efficient as possible. First, let’s check your blood pressure. Okay… 148 over 92. A little elevated. And your heart rate is 78, regular. Lungs are clear, no wheezing or crackles. Everything looks alright visually. Now, just a quick listen to your heart... Sounds regular, but I do hear a slight murmur. It’s faint, but worth noting.
+PATIENT: A murmur? What's that mean? Is that bad? Look, I really need to get this insurance thing done. Is this going to be a problem?
+DOCTOR: Okay, Mr. Putney, let’s not get worried just yet. A heart murmur is simply an extra sound heard when listening to the heartbeat. It doesn't always mean there's a problem, but it does warrant further investigation. Many things can cause a murmur, some are completely harmless. Given your elevated blood pressure and the murmur, I think it would be prudent to order a few tests, just to get a clearer picture of your heart health. Would you be okay with that?
+PATIENT: Tests? What kind of tests? Look, the insurance company isn’t going to pay for a bunch of tests just because of a little murmur. I just need a form signed so I can get my policy. This is getting complicated.
+DOCTOR: I understand your concern about the cost and the insurance company. Let me explain. An EKG – that’s a simple, non-invasive test that measures the electrical activity of your heart – would be very helpful. And a basic blood test to check your cholesterol and kidney function would also be good to have. These aren’t extensive or expensive tests, and they can give us valuable information. I want to ensure you’re healthy and that we’re not missing anything. To be upfront, the insurance company may require these tests to approve your policy. If we skip them, there’s a chance they could deny coverage later on if something comes up. Would you be willing to proceed with these tests?
+PATIENT: Ugh. Fine. But can we just get it done quickly? I don’t want to spend all day here. And who pays for all this? The insurance?
+DOCTOR: Yes, we can definitely work quickly. I’ll write the orders for the EKG and blood tests now. The EKG can be done right here in the clinic, and we can draw the blood samples before you leave. Regarding payment, Medicare should cover the majority of the cost. There may be a small co-pay, depending on your plan, but we have staff here who can verify your coverage and let you know the exact amount. Let me get those orders written up, and then we can get the tests scheduled.
+PATIENT: Alright, fine. Just… hurry.
+DOCTOR: Okay, here's the order for the EKG and blood tests. The technician is ready for you now, just down the hall. They'll only take a few minutes. Once you’ve had those done, come back and we can discuss the results and create a plan. Is there anything I can answer for you before you head down there?
+PATIENT: No, I think that’s it. Just… let's get this over with.
+DOCTOR: Alright, Mr. Putney. Take your time, and let me know when you're finished.

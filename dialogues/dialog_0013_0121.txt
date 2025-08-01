@@ -1,0 +1,26 @@
+DOCTOR: Hi Andrew, good to meet you. I’m Dr. Morenomartinez. What brings you in to see me today?
+PATIENT: Just… my eyes. They feel real dry. Been that way a bit now. Don’t like it.
+DOCTOR: Okay, dry eyes. I understand. That is uncomfortable. Can you tell me a little more about when this started?
+PATIENT: Hmm… when did it start? Not sure exactly. Maybe… a couple months? Hard to say for sure. I work outside a lot, with the cement. Dust and all.
+DOCTOR: A couple of months, working with cement… that dust exposure is definitely a factor we need to consider. Besides the dust, are you experiencing any other symptoms – like burning, stinging, blurry vision, or feeling like something is in your eye?
+PATIENT: Burning, yeah, a little. Not all the time. And sometimes… feels like grit. Like sand. Not a lot, just… there. Blurry? Not really. I still see good enough to do my work.
+DOCTOR: Okay, burning and a gritty sensation, but vision is still okay for work. That’s good to know. Have you tried anything so far to help with the dryness – like eye drops, or maybe wearing sunglasses outside?
+PATIENT: Eye drops… no. Never used ‘em. Sunglasses… sometimes. When it’s real bright. But not every day, no.
+DOCTOR: Alright. And just to get a better picture, do you have any other medical conditions – like arthritis, diabetes, or Sjogren's syndrome – or take any medications regularly?
+PATIENT: Medical… no. Nothing they ever told me about. Just… old. Don't take no pills either. Never needed ‘em.
+DOCTOR: Okay, no known medical conditions or medications. Good. And have you had any eye injuries or surgeries in the past?
+PATIENT: Nope. Never had nothing done to my eyes. Always been okay. ‘Til now, I guess.
+DOCTOR: Alright. And is anyone else in your family ever had trouble with dry eyes or other eye problems?
+PATIENT: Hmm… my mother, maybe. She always rubbed her eyes. But she was… well, she was old too. Can't say for sure if it was the same thing.
+DOCTOR: Okay. Let’s take a look at your eyes then. I’m going to check your vision, look at the surface of your eyes, and check the pressure. It won’t be uncomfortable, just let me know if anything feels odd. I'll start with the vision test.
+PATIENT: Alright. Sounds… fine. Let’s get it over with. I got things to do.
+DOCTOR: Okay, Andrew, can you read the smallest line you can see on this chart?
+PATIENT: Uh… …That one? The one with the letters… kinda blurry. Can't make 'em all out. I think… 20… something. Not good, huh?
+DOCTOR: Okay, that’s alright. It looks like your vision is about 20/30 in your right eye and 20/40 in your left. Not bad for your age, but definitely some decline. Now, I'm going to use a special light to look closely at the surface of your eyes. This won't hurt, but please try to keep your eye still. Hmm… okay. I see some dryness and mild inflammation on the surface of both eyes, and a bit of debris. It’s consistent with dry eye, likely exacerbated by the cement dust exposure. The tear film is a little thin. The pressure is normal, thankfully. No signs of glaucoma.
+PATIENT: Tear film? Thin? What does that mean? Is it bad? Look, doc, I just want somethin' to make my eyes stop feelin' like sand.
+DOCTOR: Okay, let's break that down. Your tear film is basically the layer of moisture that keeps your eyes lubricated. It’s a little thinner than it should be, which means your eyes aren't staying as hydrated as they need to. That's why they feel dry and gritty. It’s not bad bad, but it needs to be addressed. Given your symptoms and the exam findings, it sounds like you have moderate dry eye, likely from the dust exposure at work. I recommend starting with over-the-counter artificial tears – the kind without preservatives are best, you can use them as often as you need, four to six times a day. Also, wearing wraparound sunglasses when you're working outside will help protect your eyes from the dust. I'm going to write you a recommendation for Systane Ultra, preservative-free.
+PATIENT: Systane… alright. Sunglasses, I can do. And the drops… how long ‘fore they work? I got a job to do, can't be wastin' time.
+DOCTOR: You should start to notice some improvement within a few days, Andrew. If the Systane isn’t enough after a week or two, we can explore other options, like a prescription eye drop or a plug to block your tear ducts, which helps keep your eyes moist. But let's start with the artificial tears and sunglasses and see how those work for you. Do you have any other questions for me?
+PATIENT: No. I think… that's all. Just gettin' old, I guess. Thanks, doc.
+DOCTOR: Alright. Well, don’t hesitate to call if things don't improve, or if you experience any new symptoms. Here’s the recommendation for the Systane. And please, try to protect your eyes as much as possible. It’s a lot easier to prevent problems than to fix them. Have a good day, Andrew.
+PATIENT: .

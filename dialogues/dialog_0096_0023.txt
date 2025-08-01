@@ -1,0 +1,33 @@
+DOCTOR: Alright then, Mr. Bulaong. Have a seat. So, what brings you in to see me today?
+PATIENT: Um, hello Doctor. It's... my chest. It hurts. Not all the time, but it does hurt. Like... a pain. In my chest.
+DOCTOR: “A pain,” you say. Right. Well, that's… descriptive. Can you tell me a little more about this pain?
+PATIENT: It's... hard to say. It's not like when you fall down, you know? Not sharp. More like... a heavy ache. Sometimes it feels like... full. Like my chest is too full. It happens on both sides. Not just one place.
+DOCTOR: Hmm. A heavy ache, fullness... both sides. And it’s not related to any injury?
+PATIENT: No, no injury. Nothing I did. It just... started. Maybe a week ago? I don’t really remember exactly. My wife, she noticed it first, actually. She said I was... quieter than usual. And she felt it too when she... you know... when we hug.
+DOCTOR: Your wife felt it when you… hug?
+PATIENT: Yeah. She said it felt... tender. Like when you have a bruise, but not really. She said she was worried. She is always worrying. But... maybe she is right this time. It does bother me. A little. Not bad, but... there.
+DOCTOR: Right. Well, alright. It’s good your wife is observant. Tenderness... that's… unusual. Let's try to narrow this down. Does anything make the pain worse?
+PATIENT: Um... not really. I work on roofs, you know? So I move a lot. Sometimes it feels a little more when I'm up high, but not always. And… sometimes when it's hot. But I work outside all the time. So… I don’t know if that’s it. It doesn't really stop me from working.
+DOCTOR: So, exertion and heat can sometimes make it worse, but it doesn’t stop you from working. Hmm. And what about when you're resting?
+PATIENT: When I'm resting... it's better. Not gone, but... quieter. Like a little echo. I sleep okay, I think. My wife says I snore, but I always snore. She complains about that more than the pain, maybe.
+DOCTOR: Right. Snoring… okay. Let’s talk about your medical history. Have you ever been diagnosed with anything?
+PATIENT: Um… not really. I don't go to the doctor much. I'm usually okay. No big problems. Maybe a cold sometimes, but… nothing serious. I don’t take any pills. And I don't have insurance, so… I try to stay healthy.
+DOCTOR: No prior medical problems, no medications. Alright. Any family history of heart problems?
+PATIENT: Um... my father, he had… trouble with his chest. I think. He died when I was young, so I don’t really remember. My mother didn't talk much about it. She said he was just… old. No one else that I know of.
+DOCTOR: “Just old.” Right. And what about smoking or drinking?
+PATIENT: No smoking. Never. And I drink… sometimes. A beer with dinner, maybe. Not every night. Maybe two or three times a week. Nothing more. I don't get drunk or anything. Just to relax.
+DOCTOR: Alright. Let's do a quick physical exam, then. I want to listen to your heart and lungs. And I'll feel your chest to see if I can pinpoint the source of the pain. Can you lie down on the examination table for me?
+PATIENT: Okay. Sure. Is it going to hurt? I don’t like needles.
+DOCTOR: No needles, Mr. Bulaong. Just listening and feeling. It shouldn’t hurt, but let me know if anything does feel uncomfortable. Just breathe normally.
+PATIENT: Okay. I'm trying to relax. It's just… weird. I don't usually come to the doctor. It makes me nervous.
+DOCTOR: Alright. Heart sounds… regular, but a little fast. Lungs are clear. Any tenderness here?
+PATIENT: Ooh. A little. There. And there. Not sharp, just… uncomfortable. Like a bruise, maybe? But… inside.
+DOCTOR: Tenderness to palpation in the mid-sternal region, bilaterally. Hmm. It’s difficult to say what’s causing this without some further investigation. Given your history and the physical exam, it could be musculoskeletal pain – perhaps strain from your work. But the tenderness and your wife's observation... it warrants further evaluation. I'd like to order a chest X-ray and an EKG to rule out any cardiac issues. Are you able to get those done?
+PATIENT: Um... X-ray? EKG? What are those? And… how much will they cost? I don't have insurance, like I said. I don't want to get a big bill. Is it… serious?
+DOCTOR: An X-ray takes a picture of your chest to see your lungs and heart. An EKG measures the electrical activity of your heart. They’re both relatively quick and painless. As for the cost… it varies. I can have the clinic’s billing department give you an estimate. It’s unfortunately difficult to say exactly without knowing the specific rates. And while I don't want to cause unnecessary alarm, it’s better to be safe than sorry, especially with chest pain. It could be nothing serious, but we need to rule out other possibilities. Let me write the orders. Then we can discuss payment options and get you scheduled. I will also give you a referral to a cardiologist for a consultation once we get the results, just in case.
+PATIENT: A cardiologist? That sounds… expensive. I just thought it was… a pulled muscle, maybe? From working on the roof. I don't want to spend a lot of money if it's nothing. My wife will be mad… but I don't want to worry her. Can’t we just try… something else first? Like… some pills for the pain?
+DOCTOR: Mr. Bulaong, with all due respect, “something else first” isn’t responsible medical practice when you’re dealing with chest pain. I understand your concerns about the cost, and I will have the billing department look into options for you. But dismissing potential cardiac issues because of cost is… unwise. Pain pills will only mask the symptoms; they won't address the underlying cause. And frankly, I'm not comfortable prescribing anything until we have a clearer understanding of what's going on. I can write you a prescription for an over-the-counter anti-inflammatory to help with any muscle soreness, but the X-ray and EKG are necessary. Here. This should help with any discomfort. Please, let me help you get these tests scheduled. We need to be thorough.
+PATIENT: Okay. Okay, you’re right. It's just… a lot. My wife is going to kill me. Fine. Schedule the tests. Whatever you think is best. Just… tell me how much it will cost before you do anything. Please. Just… don't let it be too expensive.
+DOCTOR: Alright. I understand. I will personally speak with the billing department and get you a detailed estimate before any tests are ordered. I promise to keep your financial concerns in mind. Let me get the scheduling coordinator on the line. She can explain the process and answer any questions you have about the costs and payment options. Just a moment, please. Hi, Sarah?
+PATIENT: Okay. Thank you, Doctor. I… I guess I'll just wait here. .
+DOCTOR: .

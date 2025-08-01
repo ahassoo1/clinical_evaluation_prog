@@ -1,0 +1,38 @@
+DOCTOR: Alright, Adyn, so what brings you in today?
+PATIENT: Oh, um... well, it's my speech. It's been... a bit off, lately. Like, I'm not saying things as clearly as I usually do, I think. It's hard to explain. Honestly, I don't really remember when it started, exactly. Just… noticed it.
+DOCTOR: "Noticed it," huh?
+PATIENT: Yes, sir. It's just...slurred, sometimes. Not all the time, though. It's very… inconsistent. My husband mentioned it a couple times, and I thought maybe I was just tired, but it hasn’t really gone away.
+DOCTOR: Okay. Inconsistent slurring… Alright, let's pull up your chart here. Husband noticed it, you say?
+PATIENT: Yes, that’s right. He's quite observant, my husband. I… do I need to tell you his name? I’m sorry, my memory isn’t what it used to be.
+DOCTOR: No, no, that's alright. We have his information as an emergency contact. We just need to focus on your symptoms right now, Adyn. Let's try and pinpoint exactly when this started, if you can recall any specific events around the time you first noticed it. Was there any illness, injury, or stressor that might have coincided with this?
+PATIENT: Um… that’s a difficult question, sir. Everything feels a bit… blurry, to be honest. I was working, of course. I'm a Construction Manager, so I'm always quite busy. I don’t think I was sick, and I don’t recall any injuries… Stress, definitely. Work can be stressful. But I don't know if that explains the speech.
+DOCTOR: Construction Manager, huh?
+PATIENT: Yes, sir. I’ve been with the company for about three years now. It’s a good job, keeps me on my feet. A lot of responsibility, though. I oversee several projects at a time, coordinating teams, ensuring everything runs smoothly… It’s… demanding.
+DOCTOR: Demanding, yes. Alright. So, no specific incident you can recall?
+PATIENT: No, sir. I truly don’t. It just… gradually became noticeable. It’s frustrating, because I can’t pinpoint anything. Like trying to remember a dream, you know? Faint impressions, but nothing concrete. It's not like I hit my head or anything like that.
+DOCTOR: Alright. Let's move on to other symptoms then. Have you noticed any difficulty swallowing, Adyn?
+PATIENT: Swallowing…? Hmm. I don’t think so, sir. Not that I’ve noticed, anyway. I eat normally, haven’t had any trouble keeping food down. Maybe… sometimes I cough a little when I drink water too quickly, but that’s just a habit, I think.
+DOCTOR: A habit, you say. Alright. Any weakness in your arms or legs?
+PATIENT: No, sir. My job requires a fair bit of physical activity, and I haven’t noticed any problems with my strength. I lift things, climb ladders, walk around sites all day… Everything feels normal in that regard. Honestly, I feel pretty good, aside from this speech thing.
+DOCTOR: Okay. And any changes in your vision?
+PATIENT: Vision…? Let me think. Not that I’ve noticed, sir. I wear glasses for reading, but my prescription hasn’t changed recently. Everything looks… the same as usual, I suppose. I haven't been getting any blurry vision or double vision or anything like that.
+DOCTOR: Alright. Let’s do a quick neurological exam, just to get a baseline. Can you follow my finger with your eyes without moving your head?
+PATIENT: Yes, sir. Certainly.
+DOCTOR: Good. Now, can you smile for me?
+PATIENT: Yes, sir. Is that alright?
+DOCTOR: Alright. Stick your tongue out.
+PATIENT: Here you go, sir. Is something wrong?
+DOCTOR: Just documenting, Adyn. Now, can you squeeze my hands?
+PATIENT: Yes, sir. Like this? Is that good?
+DOCTOR: Good. Now, I’m going to check your reflexes.
+PATIENT: Alright, sir. Whatever you need. I’m ready.
+DOCTOR: Alright. Now, I want you to say “one, two, three” for me.
+PATIENT: One… two… three. Is that clear enough, sir?
+DOCTOR: No, it isn’t particularly clear. Look, Adyn, given your symptoms and this basic neurological assessment, it’s difficult to say definitively what’s going on. However, your speech pattern and subtle facial weakness are concerning. We need to rule out some serious possibilities. I’m ordering an MRI of the brain and a CT scan of the head. This will help us see if there’s any underlying structural problem causing this. We’ll also do some blood work, just to be thorough.
+PATIENT: An MRI and a CT scan…? Oh dear. Is it… serious, sir? What could it be? I don't understand.
+DOCTOR: Look, Adyn, I don’t want to alarm you unnecessarily. It could be a number of things – a minor stroke, a nerve issue, even a tumor, though that’s less likely. We need imaging to get a better picture of what’s going on. These scans will help us rule things out and give us a clearer direction for treatment. I’m referring you to Dr. Ramirez, a neurologist, who will coordinate the scans and interpret the results. She’s excellent. Here’s a referral slip and information about the imaging center. You should schedule the appointments as soon as possible. Do you understand?
+PATIENT: A neurologist… a tumor… Oh, my. I… I think so, sir. A scan to see… what’s happening. It all sounds… very frightening. I don't even remember if I’ve ever had a scan before. And Dr. Ramirez… where is her office?
+DOCTOR: Her office is at City General Hospital, on Elm Street. Here's the address and phone number. Look, Adyn, I understand you're anxious, but worrying won’t help. Just get the scans done, and we'll go from there. I don't have time to hold your hand through every single detail. We’ll get the results back in a few days and schedule a follow-up appointment. In the meantime, avoid strenuous activity, and if you experience any sudden worsening of symptoms – weakness, severe headache, double vision – go to the nearest emergency room immediately. Do you have any other questions?
+PATIENT: No… I think that’s all, sir. Thank you. It's just… a lot to take in. And I’m a bit worried about driving, if my speech gets worse…
+DOCTOR: Then don’t drive. Get someone to take you. I have other patients waiting, Adyn. Take care. Next!
+PATIENT: Thank you, sir…

@@ -1,0 +1,26 @@
+DOCTOR: Right. Marialena Creagh, 31 years old. So, what brings you in today?
+PATIENT: Good morning, Doctor Sink. It’s… well, it’s a bit embarrassing to talk about, but I’ve been having a lot of pressure in my bladder lately. It's been going on for about a week now, and it’s starting to worry me.
+DOCTOR: Pressure, you say?
+PATIENT: Yes, pressure. Like… a constant feeling of needing to go, even when I’ve just gone. It’s not painful, exactly, but definitely uncomfortable and… distracting. It feels like it’s always there, you know?
+DOCTOR: Distracting. And how much fluid are you generally taking in a day?
+PATIENT: That’s a good question. I try to drink a lot of water, probably around eight glasses, maybe a little more if it’s hot out. I drink coffee in the mornings – usually two cups – and some herbal tea throughout the day. I don’t really drink soda. Would knowing what kind of herbal tea be helpful?
+DOCTOR: No, no. The type of tea isn’t necessary. Eight glasses of water… and coffee. Alright. Have you noticed any changes in your urine – color, smell, frequency, anything like that?
+PATIENT: Yes, actually. I have noticed I'm going to the bathroom much more often, even at night. The color seems normal, I think – a usual yellow. And I don't think the smell is different, but… it's hard to say, honestly. I usually just try not to think about it too much.
+DOCTOR: Frequency at night… that is noteworthy. Any fever, chills, back pain, or nausea accompanying this?
+PATIENT: No, none of those. No fever, no chills, and my back feels completely normal. No nausea either. It's really just the constant pressure and the frequent trips to the bathroom, and it’s starting to interfere with my work. I’m a graphic designer, so I need to be able to concentrate.
+DOCTOR: Graphic designer… right. And are you sexually active?
+PATIENT: Yes, I am. I'm married. Is that… relevant? I apologize if that’s a personal question. I wasn't sure what information would be important.
+DOCTOR: It can be. Alright. Any pain or burning with urination?
+PATIENT: No, no pain or burning at all, thankfully. It’s just… the feeling of always needing to go. Like my bladder isn’t emptying completely, even after I’ve been. Does that make sense? It's hard to describe. I don't feel any discomfort during urination, just the pressure afterwards.
+DOCTOR: Alright. Let's do a quick examination. Please have a seat on the examination table. We’ll just need to check your abdomen and do a brief urine sample. It's standard procedure.
+PATIENT: Okay, that sounds good. I understand. Is there a restroom nearby? And should I… is there anything special I need to do for the sample? I want to make sure I do it correctly.
+DOCTOR: Restroom's right through there. A sterile cup is in the cabinet. Midstream catch, if you please. And try to hurry; I have other patients waiting.
+PATIENT: Okay, midstream catch. I remember that from… well, a long time ago. I'll go do that now. Thank you, Doctor.
+DOCTOR: Honestly, these vague complaints… It’s always something. Just waiting for that sample, then we can move on.
+PATIENT: Here you are. I… I tried to do it correctly. I hope I didn’t mess anything up. It felt a little awkward, but… I followed the instructions as best I could.
+DOCTOR: Adequate. Send this to the lab for a urinalysis and culture. Alright. Let's discuss your options. Based on your description, it could be a simple urinary tract infection, although the lack of pain is… unusual. We’ll await the lab results. For now, I'm going to prescribe a short course of antibiotics, just to be safe.
+PATIENT: Okay, that sounds… reasonable. Antibiotics, even before we know for sure? I trust your judgment, Doctor. Will those have any side effects I should be aware of? And… will the results take long? I have a deadline for a project next week, and I’m worried about feeling unwell.
+DOCTOR: Common side effects are nausea, diarrhea. Stop taking them if they become severe. Results should be back in 24-48 hours. Here. Take as directed. And if your symptoms don't improve within three days, or worsen, contact the office immediately. Do you have any other questions?
+PATIENT: No, I think that covers everything. Thank you, Doctor Sink, for seeing me so quickly, and for explaining everything. I appreciate it. I'll be sure to contact you if I don't feel better within three days. Hopefully, this will clear it up quickly.
+DOCTOR: Very well. Try to stay hydrated. Next patient. .
+PATIENT: .

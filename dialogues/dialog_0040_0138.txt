@@ -1,0 +1,35 @@
+DOCTOR: Alright, Ms. Tofani, good to see you… sort of. I’m Dr. Osga. Now, you’re 83, right?
+PATIENT: Oh, yes, that's right. Eighty-three. Seems like just yesterday I was… well, a lot younger, of course! Is that a long time to be seeing a doctor, dear? I don’t remember the last time I was in here, honestly.
+DOCTOR: Yes, well, it is a while. Look, let’s not dwell on the past. What brings you in today?
+PATIENT: Oh, goodness. It's… well, my daughter, bless her heart, she's been worried. Something about… weakness on one side? And my sister, her mother’s side, they always had terrible headaches. Not me so much, but it's been on my mind. It comes and goes, you see. Not all the time. It’s hard to explain.
+DOCTOR: Weakness… on one side?
+PATIENT: Yes, that’s right. My right side, I think. Or maybe the left? It's… funny. Sometimes my hand feels a little clumsy, or my leg is a bit heavy. It doesn't last long, just… comes and goes. And then the headaches… they aren't bad headaches, more like a dull ache, really. But my daughter, she says it could be something serious. She worries so.
+DOCTOR: Alright, well, let's try to get a clearer picture. Have you noticed any changes in your speech, Ms. Tofani?
+PATIENT: Changes in my speech? Oh, dear. I don’t know. Does it sound different? I talk the same as always, I think. Maybe a little slower these days? Old age, probably. My daughter would know. She's always telling me to slow down, to think before I speak! But no, I haven’t noticed anything… different, exactly.
+DOCTOR: Right. And any problems with your vision?
+PATIENT: Vision… hmm. Well, things aren’t as sharp as they used to be, of course. Everything gets a bit blurry after a while, doesn't it? I need stronger glasses every few years. But no… no double vision, or seeing spots. Just… old lady eyes! Is that what you're asking about?
+DOCTOR: Alright. And have you had any fever, nausea, or vomiting recently?
+PATIENT: Oh, no, nothing like that. No fever, no upset stomach… just… the weakness and the headaches. And feeling a bit tired, I suppose. But that’s just getting older, isn’t it? I sleep well enough, though. A good night's rest usually helps. Do you think it could be… something I’m eating? My daughter makes me eat so much healthy food!
+DOCTOR: It’s unlikely to be the kale, Ms. Tofani. Now, let's do a quick examination, alright?
+PATIENT: Oh, alright dear. Whatever you think best. I trust your judgment. I’m not good with all the medical stuff, you know. It all sounds so complicated! Just tell me if anything hurts, will you? I don't want to be a bother.
+DOCTOR: Alright. If you'll just sit up here for me. I'm going to check your reflexes and strength. Can you raise both your arms for me, please?
+PATIENT: Oh, yes, of course. Here we go. Like this? It feels a little stiff, I must say. My arthritis is acting up today, probably. Is that alright? Am I doing it right?
+DOCTOR: Okay, good. Now, can you squeeze my hands?
+PATIENT: Oh, yes, certainly. Here you go. Is that strong enough? It feels a bit… clumsy today. I’ve been knitting a lot lately, maybe that’s why. They aren’t as nimble as they used to be, that’s for sure.
+DOCTOR: Right. And can you push against my hands?
+PATIENT: Oh, yes, of course. Just tell me when to push, dear. Like this? Is that enough? It feels a little… stiff. This old body doesn't move as well as it used to, you know. Is everything alright?
+DOCTOR: Alright. Now, let’s check your reflexes… Just relax. This might feel a little strange.
+PATIENT: Oh, alright dear. I'll try to relax. It's always a bit nerve-wracking, all these tests. Just tell me if anything hurts, will you? My daughter always says I tense up when the doctor comes near! I suppose it’s just a habit.
+DOCTOR: Okay. That’s enough for now. I want to get a CT scan to rule out anything serious.
+PATIENT: Oh, a CT scan? What's that for, dear? Is something wrong? My daughter was mentioning something about strokes... Is that what you're thinking? I don't feel sick, you know. Just a little weak and tired sometimes. It's probably nothing, right? I don't like the sound of scans. Are they painful?
+DOCTOR: Ms. Tofani, it's standard procedure. The scan will help us see what's going on in your brain. It's not about assuming anything, it’s about ruling things out. No, it's not painful, just a bit noisy. But we need to do this to be certain. I'm ordering it now.
+PATIENT: Oh, alright dear. If you think it's best… My daughter will be relieved, I suppose. She worries so much. But I don’t understand why my brain would be involved? I feel fine, mostly. Just… a little off sometimes. Will I have to stay overnight? I don’t like being away from home.
+DOCTOR: No, you won't stay overnight. It’s an outpatient procedure. And frankly, Ms. Tofani, I'm not going to speculate on what might be wrong until we have the results. Now, the scan is scheduled for tomorrow morning at 9 am. Do you have someone who can drive you?
+PATIENT: Oh, tomorrow morning… Yes, my daughter, bless her heart, she's taking me. She wouldn't let me go alone, not for anything. She’s very protective. Will it show everything, dear? Will it tell us what’s causing the weakness? And… is it expensive? I don’t want to be a burden.
+DOCTOR: It will give us a good look. As for the cost… that’s between you and your insurance, Ms. Tofani. Now, are there any allergies or medications I should be aware of?
+PATIENT: Oh, allergies… hmm. I don’t think so. Maybe a little bit of hay fever in the spring, but nothing serious. And medications… Just a little pill for my blood pressure, Lisinopril, I think it's called. And sometimes I take Tylenol for my arthritis, when it flares up. That’s all, dear. I don’t like taking too many pills. They make me feel funny.
+DOCTOR: Alright. Lisinopril. Good. We'll need you to fast for at least six hours before the scan. Now, do you have any questions for me before we finish?
+PATIENT: Oh, fast… six hours? No breakfast? My daughter makes such a lovely breakfast… But no, I don't think I have any questions, dear. Just… try to be quick, will you? I get nervous in hospitals. And please, tell me if it's nothing serious. That's all I ask. I trust you, doctor.
+DOCTOR: Alright. We'll do our best. The scan is scheduled for tomorrow at 9 am. Here's a slip with the instructions. And please, Ms. Tofani, try not to worry. I have other patients waiting.
+PATIENT: Oh, alright dear. Thank you. Nine o'clock, right. I’ll remember. Thank you for seeing me. And… good day to you, doctor.
+DOCTOR: Yes, yes. You’re welcome. Good day.

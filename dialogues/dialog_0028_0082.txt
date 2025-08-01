@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. Tayar, so what brings you in today?
+PATIENT: Travel... medicine? Yeah. My wife... she liked travel. We were supposed to go. Now... not so much. Just need... what you give for going places. Before... you know. Lots of bugs and stuff.
+DOCTOR: Right. Travel medicine. So, you're looking for vaccinations or preventative medications for an upcoming trip?
+PATIENT: Upcoming? Not really. More like... for when I can go. If I go. Honestly, I don't even remember where we were planning to go. Somewhere hot, I think. She did all the planning. I just... held the bags. And paid.
+DOCTOR: I see. So, preventative measures generally, then?
+PATIENT: Measures? Like... fences? No, no fences. Just... shots? Pills? Whatever stops the sickness. Is that what you mean? I don't know what's good for hot places. She always knew.
+DOCTOR: Let’s start with some basics. Do you have any allergies to medications?
+PATIENT: Allergies... hmm. Not that I know of. Never really been sick, not bad sick. A little sniffles maybe. She always gave me something for that. Orange juice, usually. Is orange juice a medicine?
+DOCTOR: No, Mr. Tayar, orange juice is not a medicine. Are you currently taking any medications, prescription or over-the-counter?
+PATIENT: Just... something for my heart. The doctor gave it to me after... after everything. Little white pills. I think. It's in a bottle. At home. I don't know what it's called. She handled all that too. Everything.
+DOCTOR: Alright. And you said “after everything.” Can you elaborate on that?
+PATIENT: Elaborate? You mean... like, tell you more? It was... the accident. She was driving. A truck. Big truck. Everything happened so fast. I... I don't like to talk about it. It was a long time ago, but... still. Bad. Very bad.
+DOCTOR: I understand. We don’t have to go into detail if you’re not comfortable. Just trying to get a full picture of your medical history. Do you recall the name of the doctor who prescribed the medication for your heart?
+PATIENT: Doctor... hmm. Old man. Gray hair. Office… near the shops? No, wait. It was further away. Not near the shops. Everything looks the same now. I just... I just go when they call me. I don't remember names. She always remembered everything.
+DOCTOR: Right. Okay. Let's try this. Have you had any recent hospitalizations or surgeries?
+PATIENT: After the accident... yeah. For a long time. A very long time. Lots of... poking and prodding. And tubes. I don't like hospitals. Bad dreams. She visited every day, until... well. Not anymore. I don't remember much else.
+DOCTOR: And before the accident?
+PATIENT: Before...? Nothing. I was healthy. Always healthy. Worked every day. Strong. She used to say I was too strong. Didn't take care of myself. Now... now I just… exist. Is that enough? Can we just get the shots? I don't like talking about this.
+DOCTOR: Of course, Mr. Tayar. We can get to the vaccinations. But to ensure I recommend the correct ones, I need a bit more information. Do you have any idea what region your wife was planning to travel to?
+PATIENT: Region...? She liked... warm places. Beaches. Lots of trees. Monkeys, maybe? Somewhere with spicy food. I think it was an island. A big island. Not Hawaii. She said it was too touristy. Something… beginning with a ‘B’? Bali? Was it Bali? I really don't know. She had the brochures.
+DOCTOR: Bali is a possibility. Before we proceed, Mr. Tayar, have you had a tetanus shot within the last ten years?
+PATIENT: Ten years...? I... I don't know. Like I said, she always kept track of everything. I just showed up when she told me to. Probably not. I haven't felt any… rust. Does that make sense? I don't know anything about shots or rust.
+DOCTOR: Right. We're going to need to do some bloodwork, just to get a baseline and see what you might be lacking. And I strongly recommend a consultation with a specialist in travel medicine. Someone who can properly assess your risks and needs based on where you might be going. I’ll write up a referral now.
+PATIENT: Referral...? Specialist...? Look, I just want some medicine. Something to stop the bugs. I don't want bloodwork. I don't want specialists. I just want to go on a trip. Like we planned. Is that too much to ask?
+DOCTOR: Mr. Tayar, with the limited information I have, and frankly, your difficulty recalling even basic medical history, I can't responsibly prescribe anything. I’m concerned about potential interactions, allergies, and the specific risks of the region you may be traveling to. It would be negligent of me to proceed without a proper assessment. I’m going to have the nurse bring you some forms for a more detailed medical history. We can at least start there. And again, I strongly urge you to see a specialist. .
+PATIENT: Fine. Whatever. Just... get it over with. This is ridiculous. Forms. Specialists. It's all too much. Just... leave me alone.

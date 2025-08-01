@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Brum. I am Dr. Mutnick. Now, let’s not waste any time. You've come to see me today, yes?
+PATIENT: Yes, Doctor. Good morning to you too. My head… it hurts in the back. Been hurting for… oh, maybe three days now. Not all the time, but it comes and goes.
+DOCTOR: Three days. Right. And is this a new type of headache for you, Mr. Brum, or have you experienced headaches before?
+PATIENT: Oh, I’ve had headaches before. Little ones, you know? Like a tight band. This one… this one is different. It feels… deeper. Like a weight. I can’t… describe it good.
+DOCTOR: “Deeper.” Very subjective, Mr. Brum. Is there anything that makes it worse?
+PATIENT: Hmm… let me think. Sunshine makes it bad. Bright light, yes. And… when I bend over. Like when I was trying to fix the garden hose yesterday. That really made it hurt. Just bending to pick up something small, sometimes.
+DOCTOR: Sunshine and bending. Any fever, nausea, or vomiting accompanying these headaches, Mr. Brum?
+PATIENT: No, Doctor. No fever. I feel… warm sometimes, but not sick warm. And no, no throwing up. Just the head pain. It’s… annoying is what it is. Makes it hard to think.
+DOCTOR: "Annoying." Alright. And have you noticed any changes in your vision?
+PATIENT: Vision? No, I don't think so. Everything looks… normal. Maybe a little blurry when I wake up, but I always need my glasses. I have had the same glasses for… oh, maybe ten years now. Never thought about changing them.
+DOCTOR: Ten years. Right. And are you currently taking any medications, Mr. Brum?
+PATIENT: No, Doctor. I don't take anything. Never really needed to. Just… a little bit of liniment for my knees sometimes. They bother me when it rains, you know? But that's it. Nothing for my head.
+DOCTOR: Very well. Now, let's have a quick examination. Please sit up straight and look forward. I'm going to check your reflexes and do a neurological assessment.
+PATIENT: Okay, Doctor. Whatever you need. It’s been a long day already, but I’ll try to sit still.
+DOCTOR: Reflexes are… adequate, although a little diminished. Strength is 5/5 bilaterally. Sensation intact. Pupillary response is sluggish. Mr. Brum, given your age and the sluggish pupillary response, I suspect this may be related to… well, let’s not jump to conclusions. I'd like to order a CT scan of your head just to rule out anything serious.
+PATIENT: A CT scan? What is that? Is it… painful? And what are you thinking it could be, Doctor? I don’t like things I don’t understand.
+DOCTOR: A CT scan is a quick X-ray of your head, Mr. Brum. It’s not painful – you simply lie on a table and a machine takes images. We use it to look for any abnormalities in the brain. Given your age and the nature of the headache, we need to rule out things like… a bleed, a tumor, or even just age-related changes. It’s a precaution, understand?
+PATIENT: A tumor? Oh dear. I… I see. So, it's not something I did? It’s not because I was out in the sun too long, or lifting those rocks in the garden? I was worried about that.
+DOCTOR: Highly unlikely, Mr. Brum. It’s far more likely related to something internal. Now, the problem is, you're uninsured. A CT scan is rather expensive. I can refer you to the county hospital, but the wait times are… significant. Alternatively, you could pay out-of-pocket. Do you have any family who might be able to assist with the cost?
+PATIENT: No, Doctor. No insurance. And no, no family. My wife… she passed away five years ago. And my son… he moved to California a long time ago. We don’t talk much anymore. I have… a little bit of money saved up. But not much.
+DOCTOR: Very well. In that case, let’s proceed with the CT scan at the county hospital. It is the most fiscally responsible course of action, given your circumstances. I will write you a referral now. It may take a few weeks to get an appointment. In the meantime, I recommend over-the-counter ibuprofen for the pain. Do not exceed the recommended dosage. Do you understand?
+PATIENT: I understand, Doctor. Ibuprofen. Not too much. A few weeks… Thank you… I think. It’s… good to know what it is. Even if it takes a while. Is there anything else I should be looking out for? Something that would mean I need to go to the hospital right away?
+DOCTOR: Yes, Mr. Brum. If you experience any sudden weakness on one side of your body, difficulty speaking, severe vision changes, or a particularly violent headache accompanied by fever or stiff neck, you must go to the emergency room immediately. Do you understand?
+PATIENT: Yes, Doctor. Weakness… speaking trouble… bad vision… violent headache with fever. I’ll remember that. Thank you for… telling me. I hope it’s nothing serious.
+DOCTOR: Very well, Mr. Brum. I’ve documented everything. I expect you to follow up with the county hospital as soon as possible. That is all. Now, if you’ll excuse me, I have other patients waiting. .
+PATIENT: Thank you, Doctor. Goodbye. .

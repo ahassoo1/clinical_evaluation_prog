@@ -1,0 +1,24 @@
+DOCTOR: Alright, Mr. Putney, good to see you… or, well, here. So, what brings you in today?
+PATIENT: Yeah, hi. Look, I gotta be quick, if that’s alright. It’s for a life insurance thing. They sent me here for a medical exam, that's all. Just need to get it over with.
+DOCTOR: Right, a life insurance thing. Wonderful. Okay, well, let’s just get this done then. So, no current problems, just a check-up for paperwork, is that correct?
+PATIENT: Pretty much. No problems that I know of. I mean, I get a little tired sometimes, but who doesn't, right? I mostly just want to make sure this doesn't take all day.
+DOCTOR: Okay, so no major complaints. Let’s just run through a quick history… I see here you're 49, and your height and weight are listed as 174 centimeters and 97 kilograms. Is that accurate?
+PATIENT: Yeah, that sounds about right. Maybe a little heavier now, to be honest. It’s been a rough year. But yeah, those numbers are close enough.
+DOCTOR: Alright. And, uh, any allergies?
+PATIENT: Hmm... allergies. Let me think. Not that I know of. I don't break out in hives or anything. Sunlight maybe? I burn pretty easy. Does that count?
+DOCTOR: Sunlight isn't typically considered an allergy, Mr. Putney. More of a sensitivity. Anything else?
+PATIENT: Oh. Okay, right. Sensitivity. No, nothing else comes to mind. I’ve never had a bad reaction to food or… anything, really. Look, is this going to be a long list? I have an appointment later.
+DOCTOR: No, no, we're almost done with the basics. Any medications you’re currently taking?
+PATIENT: Nope. Nothing at all. I try to stay away from pills if I can. Don't like how they make me feel. I just take a multivitamin sometimes, if I remember.
+DOCTOR: Okay, no medications. Good. Now, have you had any serious illnesses or surgeries in the past?
+PATIENT: Uh... let me see. When I was a kid, I had chickenpox, of course. And I broke my arm once, fell out of a mango tree. But nothing major, nothing serious like, you know, heart stuff or anything. I had a divorce, does that count?
+DOCTOR: No, Mr. Putney, a divorce does not count as a medical condition. Just serious illnesses or surgeries. Were you hospitalized for anything?
+PATIENT: No, never been hospitalized. Not even for the broken arm. Just a cast and some pain pills. I'm pretty lucky, health-wise, I guess. Can we get to the actual exam now? I really am pressed for time.
+DOCTOR: Alright, alright. Let's just do a quick physical then. I'm going to listen to your heart and lungs, check your blood pressure, and… a basic exam. Please sit back.
+PATIENT: Okay, fine. Just… be quick about it, please.
+DOCTOR: Heart sounds… within normal limits, though a bit rapid. Blood pressure is 140/90. That's a little elevated. Confirmed, 142/92. Abdomen soft, no tenderness. Lungs clear to auscultation. Everything seems… acceptable, for your age. We’ll need a blood sample and a urine sample, standard procedure. The nurse will be in shortly.
+PATIENT: Okay. Blood and… pee. Wonderful. Is that all? This is taking longer than I thought. Is that high blood pressure something I need to worry about right now?
+DOCTOR: It's slightly elevated, Mr. Putney. We can discuss it further if the blood work shows persistent high readings. For now, let’s focus on getting these samples done. The nurse will explain the process. Don't worry about it too much. It could be situational. Just try to relax.
+PATIENT: Situational? Like, being here? Look, I don't have time for this. I have a fishing trip planned, and this is cutting into it. Can we just speed things up? I'm starting to get really anxious.
+DOCTOR: Mr. Putney, I understand you're anxious. But we need to follow protocol. I’m documenting elevated blood pressure now. The nurse is preparing the samples. It will be a few minutes. Frankly, I'm not sure why you even bothered coming in if you’re going to be… difficult. It’s a life insurance exam, not a full workup. We're just confirming you're still alive, essentially.
+PATIENT: .

@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Ms. Heidenthal. I'm Dr. Nestingen. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, it’s a bit embarrassing, but I’ve been… forgetting things. It's been happening more and more lately, and it's starting to worry me.
+DOCTOR: Forgetting things… alright. Can you be a bit more specific?
+PATIENT: Hmm… it’s not like big things, you know? More… little things. Like, I’ll go into a room and forget why I went there. Or I’ll start a sentence and the word I wanted just… vanishes. It’s frustrating! And sometimes I have trouble remembering what day it is. It’s not every day, but often enough to be annoying.
+DOCTOR: I see. And how long has this been going on?
+PATIENT: Oh, goodness. That’s a good question… I want to say maybe six months? It started slowly, just a little bit here and there, and I thought it was just stress. But it’s definitely gotten worse in the last couple of months, maybe three or four. It's hard to pinpoint exactly when it started, honestly.
+DOCTOR: Alright. And has anything changed in your life around that time?
+PATIENT: Changed… let me think. Not really, no. Work is the same, I haven’t moved or anything… Oh! My mom had a small fall around then, so I was helping her out a bit more. But that’s about it. Nothing major. I mean, life happens, you know?
+DOCTOR: A fall, assisting your mother… alright. And are you currently taking any medications, or do you have any known allergies?
+PATIENT: No medications, thankfully. And no allergies that I know of. I'm pretty healthy, usually. That’s part of why this is so worrying, to be honest. I don’t usually forget things.
+DOCTOR: Alright. And has anyone else noticed these memory lapses?
+PATIENT: That’s a good question. My sister mentioned something a few weeks ago, actually. She said I repeated a story about a patient, and I hadn’t even realized I’d told it before. She just gave me a funny look. So, yeah, I guess she has. I didn’t think much of it at the time, but now…
+DOCTOR: Okay. Let's do a quick assessment, then. Just a few simple questions and a brief physical exam, if you don’t mind. We’ll start with a few questions to gauge your cognitive function. Can you tell me today’s date?
+PATIENT: Oh, um… let me think. Is it… August 2nd? Yes, August 2nd, 2025. Is that right? I think so.
+DOCTOR: Yes, that is correct. Alright. And what city are we in?
+PATIENT: Oh, goodness. That’s… embarrassing. I know this. It’s just… on the tip of my tongue. Is it… Havenwood? No, that’s not right. It’s… a rural area… I drive through a lot of fields… I really should know this! Is it Crestview?
+DOCTOR: It’s alright, Ms. Heidenthal. It's understandable to be a bit flustered. Let’s try something different. Can you repeat these three words for me?
+PATIENT: Oh, okay. That sounds easier. Go ahead.
+DOCTOR: Apple, Table, Penny. Now, repeat them back to me.
+PATIENT: Apple… Table… Penny. Is that right? I think so. It felt easy just saying them, but now I'm worried I'll mess it up.
+DOCTOR: Alright. Now, I’d like to check your reflexes and do a brief neurological exam. It’s just routine, Ms. Heidenthal. Could you please follow my finger with your eyes?
+PATIENT: Yes, of course. Just let me know if you want me to go a certain direction.
+DOCTOR: Very good. Now, can you squeeze my hands as tightly as you can?
+PATIENT: Yes, of course. Like this? Is that too hard? I don't want to hurt you.
+DOCTOR: No, that’s fine. Just a normal grip. And finally, I’m going to listen to your heart and lungs. Please breathe deeply. Heart sounds are regular. Lungs are clear.
+PATIENT: Okay. So… what do you think? Is it something serious? I'm getting a little worried now.
+DOCTOR: Well, Ms. Heidenthal, these are early signs of… cognitive decline. It could be a number of things – stress, vitamin deficiencies, early stages of dementia… honestly, it’s too early to say definitively. I’m going to order some bloodwork – a complete metabolic panel, a thyroid panel, Vitamin B12 levels, and a CBC. We should also do an MRI of the brain to rule out any structural issues. I will also have my nurse schedule you for a follow-up appointment in two weeks to discuss the results. And I would recommend you bring a family member or close friend with you to that appointment. Does that sound alright?
+PATIENT: Oh… goodness. That sounds… a lot. Dementia? Really? I… I don’t know what to say. MRI… That sounds scary. Okay. Yes, I… I guess that sounds alright. I can bring my sister. But… is it definitely dementia? It’s just… I don’t feel like I’m losing my mind. I just forget things. It’s… I think I need a minute.
+DOCTOR: It’s best to rule out all possibilities, Ms. Heidenthal. I don't want to alarm you, but early detection is key. It's likely nothing serious, but we need the data. My nurse will explain the bloodwork procedure and schedule the MRI. In the meantime, try to reduce stress and get plenty of rest. And remember, these tests are just to get a clearer picture. Don't jump to conclusions. I’ll see you in two weeks. The nurse will be right in. .
+PATIENT: .

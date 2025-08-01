@@ -1,0 +1,28 @@
+DOCTOR: Right. Janie Licano, 52. And what brings you in today?
+PATIENT: Oh, um… the tiredness. Just… always tired. It’s been going on for… a long time, I think. Honestly, the days sort of blend together. It’s just… draining.
+DOCTOR: “A long time,” is… not particularly helpful, unfortunately. Can you give me a timeframe?
+PATIENT: Ugh, honestly? Months, I guess. Maybe… six? It feels like forever, though. I don’t really keep track of dates anymore… not since… well, never mind. It just is.
+DOCTOR: Right. And is this tiredness… constant?
+PATIENT: Pretty much. Some days are worse than others, sure. But even when I do sleep, I wake up feeling… not rested. Like I didn’t sleep at all. It’s… frustrating.
+DOCTOR: And are you experiencing any other symptoms along with this tiredness?
+PATIENT: Hmm… let me think. I… ache a little, all over. Not like a sharp pain, just… dull. And I get… a bit shaky sometimes. Hard to explain. It’s like my bones are heavy, and my muscles are weak.
+DOCTOR: Shakiness, aches… Okay. And have you noticed any changes in your appetite or weight recently?
+PATIENT: Oh, goodness. Appetite… not really. I eat when I remember to, I suppose. Weight… probably lost some. Clothes feel a little looser, but I haven’t… you know, actually weighed myself. Not for a while.
+DOCTOR: Right. And any issues with… bowel habits?
+PATIENT: Oh, dear. Um… sometimes. Things are… not always regular. Sometimes okay, sometimes… not. Is that… important? I don't really like talking about this.
+DOCTOR: It can be. We need to rule things out. Any fever, chills, night sweats?
+PATIENT: Fever… not that I’ve noticed. No chills. Night sweats… maybe? I do get warm sometimes when I sleep, but I just thought that was… the blankets. I always sleep with a lot of blankets.
+DOCTOR: Alright. Let’s do a quick physical exam, then we can discuss potential causes. Please lie down on the examination table.
+PATIENT: Oh. Okay. Fine. Just… try to be quick, please? I have… things to do.
+DOCTOR: I’ll be as efficient as possible. First, I'm going to listen to your heart and lungs. Please take deep breaths.
+PATIENT: Okay… deep breaths. Is this going to take long? I feel a little… anxious.
+DOCTOR: Heart sounds are… regular, though a bit faint. Lungs are clear. Now, let's check your reflexes. Please extend your arms. Reflexes are… diminished. And some muscle weakness in the extremities. Now, let me just palpate your abdomen.
+PATIENT: Ooh, that’s… tender there, on the left side. A little bit anyway. It's always been a bit sensitive, honestly.
+DOCTOR: Tenderness noted, left quadrant. Alright. I'm going to order some routine blood work. Complete blood count, comprehensive metabolic panel, thyroid function tests… just to get a baseline. And a Vitamin D level. It's surprisingly common.
+PATIENT: Vitamin D? Okay… That sounds… good, I guess? Will that tell us what’s wrong? I just want to feel… normal again. This tiredness is awful.
+DOCTOR: It will help us rule things out. It's unlikely to be a simple deficiency, but we have to start somewhere. We'll also check your iron levels. Anemia can cause fatigue. The lab results will take a few days. I'll have my assistant schedule a follow-up appointment for next week to discuss them. Until then, try to get as much rest as possible—though I understand that's difficult—and stay hydrated. Do you have any questions for me?
+PATIENT: No… not really. Just… when will I feel better? That’s all I really want to know. And… will I need more tests after this? I hate going to doctors.
+DOCTOR: I cannot tell you when you will feel better. That depends on the underlying cause—which we don't know yet. And yes, you may need further testing depending on these initial results. It's a process of elimination. My assistant will be with you shortly to schedule your follow-up and draw the blood. Is there anything else immediately concerning you?
+PATIENT: No… I think that’s all. Just… tired. Always tired. I guess I’ll just… wait for the results.
+DOCTOR: Alright. Have a good day.
+PATIENT: .

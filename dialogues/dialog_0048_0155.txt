@@ -1,0 +1,40 @@
+DOCTOR: Right. Mr. Jezik, is it?
+PATIENT: Yeah, that’s me. Lyman. Though… honestly, folks just call me Lyman. Is it hot out there today? Feels warm in here. I just… want to get this over with, if you don't mind. I got things to do.
+DOCTOR: Yes, it is rather warm. And I assure you, I’m quite aware of your time. Let’s just get straight to it then. What brings you in today, Mr. Jezik?
+PATIENT: Oh, right. The… shaking. My hand. It’s been… well, it comes and goes. Worse when I try to… do things. Like, holding a cup. Or… writing. Not that I do much writing these days. It's just… annoying.
+DOCTOR: Shaking… in your hand, you say. And it interferes with… fine motor skills?
+PATIENT: Fine… motor? Is that… like, small things? Yeah, that’s it. Small things. It's hard to explain. It’s not always there, you see. Sometimes I can pick up a spoon just fine. Other times… it feels like I'm trying to hold jelly. I don’t know if that makes sense.
+DOCTOR: Intermittent tremor affecting fine motor skills. How long has this been going on, Mr. Jezik?
+PATIENT: Oh, goodness. That’s a tricky one. A while. Months, I think? Maybe longer? It started… slowly. I just thought I was getting old, you know? Everything gets a little shaky when you get to be my age. Hard to pinpoint exactly when it started being a problem.
+DOCTOR: And has it been getting worse over these… months?
+PATIENT: Worse… hmm. I think so. Or maybe I just notice it more. It's… it's distracting. Makes me avoid things. Like, I used to enjoy fixing things around the house. Now… I just don't bother. It’s easier to leave it.
+DOCTOR: So, avoidance due to the tremor. Are you experiencing this shaking at rest, or only when you're actively doing something?
+PATIENT: Rest… what does that mean? Like, when I’m just sitting? I… I think it's usually when I try to do something. Holding a glass, as I said. Or using a tool. I don't think it shakes much when I'm just… sitting and watching TV. No, I don't think so. But honestly, I don't really pay attention when I’m just sitting.
+DOCTOR: Alright. And do you have any other symptoms?
+PATIENT: Symptoms? Like… other things that are wrong? I… well, my knees bother me sometimes. Old sports injury, from… a long time ago. And I get tired easily. But that's just… getting old, right? Everyone gets tired when they get old. I don’t know… is that what you mean by symptoms?
+DOCTOR: Any changes in your balance?
+PATIENT: Balance… hmm. I… I haven’t fallen, if that’s what you mean. But… I sometimes feel a little unsteady. Like I need to hold onto something. It’s probably just… my age. I don't stumble often. I wouldn't say that's happening.
+DOCTOR: Alright. Do you have a family history of… tremors, or neurological conditions?
+PATIENT: Neurological… oh, goodness. That’s a big word. My mother… she had some trouble with her memory near the end. But I don’t know if that’s what you mean. And my father… he was a strong, healthy man. Never sick a day in his life, as far as I know. I don’t think anyone in my family had… shaking hands, no.
+DOCTOR: And what medications are you currently taking?
+PATIENT: Medications… Oh, boy. Let me think. I take something for my blood pressure, I think? A little white pill. And sometimes, when my knees really bother me, I take something over-the-counter. Ibuprofen, I think it's called. That’s about it, I think. Honestly, I don’t really keep track. My daughter usually handles all that.
+DOCTOR: Well, let’s just take a quick look at your hands, Mr. Jezik. And I'll want to check your reflexes. It will only take a moment. Please extend your arms in front of you, palms up.
+PATIENT: Fine. Get it over with, then. But don’t take too long, alright? I got things to do.
+DOCTOR: Alright. Now, can you tap your fingers on your knees, as quickly as you can?
+PATIENT: Like this? Is this fast enough? It feels… awkward.
+DOCTOR: Alright. And can you follow my finger with your eyes?
+PATIENT: Is this okay? It feels… strange. I don’t like being stared at.
+DOCTOR: Alright. That will be all for the physical exam. I have enough information to start.
+PATIENT: Finally. Is it bad? Are you going to tell me I need surgery or something? I don’t want surgery.
+DOCTOR: It's unlikely to be anything requiring surgery, Mr. Jezik. Based on what you've told me, and what I've observed, it appears you're likely experiencing the early stages of an essential tremor. It's a common neurological condition, particularly in older adults. It causes involuntary shaking, as you've described. It's generally not life-threatening, but can be… bothersome.
+PATIENT: Essential… tremor? Never heard of it. So… it's not serious? I mean, I can still fix things around the house, right? I don’t want to just sit around and do nothing.
+DOCTOR: It's not immediately dangerous, Mr. Jezik, but it can progress over time. It's unlikely to be fatal, but it could interfere with your daily activities if left untreated. As for fixing things, that will depend on how much the tremor progresses. We can try some medications to manage the symptoms. They don’t cure the condition, but they can help reduce the shaking. There are also therapies, like occupational therapy, that can help you adapt.
+PATIENT: Occupational… therapy? Sounds… complicated. And medication… I don’t really like taking pills. Are there… alternatives? Can’t I just… ignore it? Maybe it’ll go away on its own?
+DOCTOR: Ignoring it is rarely effective, Mr. Jezik. It will likely worsen. And while there are no cures, there are lifestyle adjustments that may help. Avoiding caffeine and alcohol can sometimes reduce the severity. But… medication is generally the most effective approach for managing the symptoms. I can prescribe a low dose of propranolol to start. It’s a beta-blocker that's often used for essential tremor. We’ll monitor your response and adjust the dosage accordingly.
+PATIENT: Pro… what now? Beta… something? I don't want to get hooked on anything. And what are the side effects? I’ve heard bad things about pills. Look, I really don't want to take medication unless it’s absolutely necessary. Maybe I'll just try to avoid caffeine. That I can do.
+DOCTOR: Propranolol is a common medication, Mr. Jezik. It’s not addictive. Potential side effects can include fatigue, dizziness, and low blood pressure. I assure you, we will start with the lowest effective dose and monitor your condition closely. If you experience any adverse effects, we can discontinue the medication. But frankly, avoidance alone is unlikely to provide adequate relief. I can give you a prescription for a trial course of propranolol, and if you are still unhappy, we can discuss a referral to a neurologist for further evaluation.
+PATIENT: Fine. Just… give me the prescription. But I’m telling you, I don’t like pills. And if I start feeling strange, I’m calling you right away. I just want to fix my hands, not feel worse. Can we get this over with then?
+DOCTOR: Alright. Here's your prescription. Dosage instructions are clearly printed on the label. I’ve also included a handout with information about essential tremor and potential side effects. If the shaking significantly worsens, or if you develop any other concerning symptoms, consult with me immediately. Do you have any other questions, Mr. Jezik?
+PATIENT: No. No more questions. I just want to go home. Thank you. Or… whatever.
+DOCTOR: Very well. Have a good day, Mr. Jezik.
+PATIENT: .

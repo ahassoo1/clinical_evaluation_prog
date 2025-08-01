@@ -1,0 +1,24 @@
+DOCTOR: Right. Lucia Fogelstrom, 38. Okay, well, let's get this over with. What brings you in today?
+PATIENT: Oh, hi Doctor. It’s… the belching. It’s been happening a lot. Like, a lot a lot. It’s embarrassing, you know? I just… keep burping. Even when I don’t want to.
+DOCTOR: Belching. Right. And how long has this… excessive belching been going on?
+PATIENT: Hmm… let me think. Maybe… two months? I think it started after a party. A friend’s birthday. But I don’t think it was anything at the party… just, after. It just… kept going. I don’t really know why.
+DOCTOR: A party. Of course. Well, things don't just start for no reason. Tell me, are you experiencing any other symptoms along with this… belching?
+PATIENT: Other symptoms? Let me see… not really. Maybe… sometimes my stomach feels a little… full? Even when I haven’t eaten much. And… oh! Sometimes a little heartburn. Not bad, just… a warm feeling. Is that a symptom? I don't know all the fancy words, Doctor.
+DOCTOR: “Fullness” and “warm feeling.” Right. And what about diet?
+PATIENT: Diet? Normal, I think. Rice and beans a lot. Chicken. Sometimes pork. I try not to eat too much fast food, but sometimes… you know? I drink… soda sometimes. Not every day, but… a few times a week. Does that matter?
+DOCTOR: Does it matter?
+PATIENT: Oh! Um… I guess so? Is soda bad for it? I didn't know. I like it, but… if it’s causing this, I can try to stop. What kind of soda matters? Is it the bubbles? I drink the sweet ones, usually. Like… cola.
+DOCTOR: Look, let’s be realistic. You’re consuming carbonated sugary beverages, likely irregularly timed meals… it’s probably just gas. We need to rule out anything serious, naturally. Have you had any weight loss?
+PATIENT: Weight loss? No, Doctor. If anything… maybe a little gain. It's hard to say, you know? I’ve been a little stressed lately, and that always makes me hungry. Not much weight, though. Definitely not losing any. Just… normal. I think.
+DOCTOR: Alright. And family history?
+PATIENT: Family history? Hmm… my mama, she had… stomach problems sometimes. Not like this, but… she’d complain a lot. She said it was the rice, maybe. But she didn't go to the doctor much. My papa… he was healthy as a horse. No problems at all. Does that help? I don't know much about it, really. Just what I remember.
+DOCTOR: "Healthy as a horse." Well, that's… informative. Alright. Let's have a quick listen to your abdomen, shall we?
+PATIENT: Okay. That sounds good, Doctor. Whatever you need. Just tell me if it’s going to be cold.
+DOCTOR: Okay. Sounds… normal. Not particularly distended. No obvious masses. You’re a bit tender here… But nothing alarming. Now, I'm going to ask you to lie down. Just on the table, please. We'll check for any rebound tenderness.
+PATIENT: Okay. Is this going to hurt? I’m a little scared of doctors… Just let me know what you’re doing, okay?
+DOCTOR: Relax. It shouldn't. Just telling me if anything hurts when I press. Just breathe normally.
+PATIENT: Ouch… that’s a little… sensitive. Just there. Not bad, just… a little uncomfortable. Does that mean something is wrong?
+DOCTOR: Sensitivity. Right. Look, it’s likely just… trapped gas. A lot of people experience this. However, given your discomfort and history, I want to order some basic blood work. Just to rule out anything more serious. And… I’m going to recommend a referral to a gastroenterologist. They’re the specialists in this sort of thing. Now, do you have any allergies I should be aware of?
+PATIENT: Allergies? Hmm… no, not really. I mean, I get itchy sometimes with bug bites, but that's everyone, right? And… I don't think so. I haven’t ever had a bad reaction to anything. Maybe a little heartburn from spicy food, but that's not an allergy. No allergies, Doctor. I don’t think.
+DOCTOR: Alright. No allergies. Fine. We'll get the blood work ordered and I'll write a referral for you. .
+PATIENT: Oh… okay. Thank you, Doctor. Will the referral be easy to… find the doctor? I don’t have much money, so I hope they take my insurance. Or… no insurance, actually. Will that be a problem? .

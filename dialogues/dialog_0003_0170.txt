@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Putney. I’m Dr. Yackey. I understand you're here today for a consultation. Could you tell me, in your own words, what brings you in?
+PATIENT: Yeah, good morning. Just need to get this life insurance thing done. The paperwork said I need an exam, so here I am. Trying to get it over with quick, if that's alright.
+DOCTOR: Yes, well, a medical assessment is standard procedure for life insurance policies, unfortunately. It is necessary. To expedite things, let’s try to be concise. Do you have any significant medical conditions – anything that requires regular treatment, or has in the past?
+PATIENT: Hmm... let me think. I had some trouble with my blood pressure a few years back, the doctor put me on some pills for it, but I stopped taking them. Felt kinda sick all the time on 'em, and it went down on its own after a while. Other than that... not really. Nothing major, I don’t think. I get the usual colds, you know? Nothing a little rest doesn't fix.
+DOCTOR: "Stopped taking them," you say. And when would this have been, approximately?
+PATIENT: Uh... geez, let me think. It was... maybe five, six years ago? Hard to say exactly. It was before my divorce, definitely. That was in 2018. So, before then. I don't really keep track of dates like that, to be honest. Is that okay?
+DOCTOR: It's... helpful to have some timeframe. And did the physician document any reasons for discontinuing the medication?
+PATIENT: Reasons? Uh... like why I stopped? Just didn't feel good on 'em, like I said. Made me dizzy, and kinda tired all the time. I told the doctor, and he said I could try stopping to see what happened. And it went down on its own, so... that's what I did. He didn't tell me to stop, exactly, but he said it was okay if I tried. Does that make sense? I wasn't really keeping close track of everything back then, things were kinda messy.
+DOCTOR: Right, “messy.” And currently, are you experiencing any symptoms related to blood pressure – dizziness, headaches, shortness of breath, chest pain – anything at all?
+PATIENT: No, not really. I mean, I get tired sometimes, but everyone gets tired, right? Nothing I'd say is from my blood pressure. No headaches, no chest pain, no shortness of breath. I'm okay. Just... a little stressed, maybe. This whole insurance thing is a pain.
+DOCTOR: Very well. Do you have any allergies to medications, food, or anything else?
+PATIENT: Nope, not that I know of. Never had a reaction to anything. I eat pretty much everything. My ex-wife was always the one with the allergies, not me. Stop.
+DOCTOR: Alright. Let's proceed with a brief physical exam, then. I'll need to check your vital signs – blood pressure, pulse, and listen to your heart and lungs. Please have a seat on the examination table.
+PATIENT: Okay, sounds good. Let’s just get it over with.
+DOCTOR: Blood pressure is… 158 over 92. Pulse is 78, regular. Lungs are clear, bilaterally. Heart sounds… normal S1 and S2, no murmurs appreciated. I'm also going to palpate your abdomen. Any tenderness here?
+PATIENT: Nope, not really. Feels normal to me. Maybe a little… full, I ate lunch not too long ago. But no pain, no tenderness.
+DOCTOR: Alright. Given your elevated blood pressure reading and history of previously managed hypertension, I'm going to order some blood work: a complete metabolic panel, lipid panel, and a urinalysis. This will give us a more comprehensive assessment of your overall health. Does that sound agreeable?
+PATIENT: Yeah, fine. Whatever you need to do. Just tell me when it's over. Is it gonna take long?
+DOCTOR: The lab work itself will only take a few minutes. There might be a slight wait depending on their current workload. I’ll have the nurse draw the samples now. Then, we can discuss the results when they become available. Stop.
+PATIENT: Okay. Let’s just get it done.
+DOCTOR: .
+PATIENT: .

@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. MacVittie. I’m Dr. Yackey. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. It’s… well, it’s a bit embarrassing, to be honest. I’ve been going to the bathroom a lot lately. More than usual, and it’s… disruptive. I can’t quite put my finger on when it started, though. It feels like it’s been building for a while now.
+DOCTOR: Disruptive, you say?
+PATIENT: Yes, disruptive. I find myself needing to go quite frequently throughout the day, and even… during the night. It’s made it difficult to concentrate at work, and honestly, just… to leave the house sometimes. It’s rather inconvenient, and I’m a little worried about what’s causing it. I apologize for being vague; it’s difficult to pinpoint exactly when it began.
+DOCTOR: Right. Well, “frequent” is subjective. Can you give me a number, roughly?
+PATIENT: Oh dear. A number… that’s difficult. I suppose… normally, I’d go, perhaps four or five times a day? Now… it feels like every hour or two. Sometimes more often. It really varies. And… at night, I’m waking up two, sometimes even three times to use the restroom. It’s not a sharp pain or anything, just… the urge. I hope that clarifies things, Doctor?
+DOCTOR: Hmm. And is there anything in your urine that you’ve noticed?
+PATIENT: Oh… goodness. I haven’t… specifically looked, Doctor. I apologize. I suppose not, no. It appears normal, as far as I can tell. I haven’t noticed any blood or… anything unusual. It just feels like a lot of… liquid.
+DOCTOR: Alright. And any changes in your diet recently?
+PATIENT: Changes in diet… not drastically, no. I’ve been trying to drink more water, actually, as I heard it’s good for you. And perhaps a bit more caffeine, with the longer shifts at work. Nothing else comes to mind, really. I tend to stick to fairly… regular meals. Perhaps a few more sugary treats than I should, if I'm being honest.
+DOCTOR: Caffeine, you say. And what sort of work do you do, Ms. MacVittie?
+PATIENT: I'm a concierge, Doctor. I work at a rather… upscale apartment building. It involves a lot of standing, walking, and being on my feet for extended periods. And, as I mentioned, longer shifts recently – they’ve added a few extra hours. It can be quite tiring, actually.
+DOCTOR: Standing for long periods, increased caffeine intake… and you mentioned increased water consumption. Have you experienced any fever, chills, or abdominal pain?
+PATIENT: No fever or chills, Doctor, thankfully. And no abdominal pain either. It's really just… the frequent need to urinate. It doesn't hurt to go, it just… happens a lot. I feel perfectly healthy otherwise, which is what’s so perplexing. Is this… common, Doctor?
+DOCTOR: Common doesn't mean good. We'll need to rule some things out. I'm going to perform a quick physical exam, if you don't mind. Then, I'll order a urinalysis. Is that agreeable?
+PATIENT: Yes, of course, Doctor. That sounds perfectly reasonable. A physical exam and a urinalysis… I’m happy to do whatever you think is best. I trust your judgment.
+DOCTOR: Very well. Please have a seat on the table. I'll need to listen to your abdomen, and then a quick neurological assessment. Just relax.
+PATIENT: Certainly, Doctor. I'll do my best to relax. Please let me know if there's anything specific I need to do.
+DOCTOR: Alright. Deep breaths, please. In… and out… Good. Abdomen is soft, no tenderness to palpation. Reflexes are… normal. Now, just follow my finger with your eyes, don't move your head. Left… right… up… down… Cranial nerves intact. Now, I need to check your hydration status. Let me just take a look at your skin turgor. Hmm. Skin turgor is slightly diminished, but not significantly. No edema noted.
+PATIENT: Alright. I’m following your finger, Doctor. And yes, the skin pinch… I suppose it feels a little less elastic than usual. Is that… concerning?
+DOCTOR: Slightly diminished turgor could indicate mild dehydration. Not necessarily alarming, given the increased caffeine and standing. Alright, that's enough for the physical exam. Now, let's collect a urine sample. The lab is just down the hall, and there are instructions posted. Please bring it back when you're finished. We'll have the results in a few hours.
+PATIENT: Very good, Doctor. I’ll head to the lab right away. A few hours… alright. Thank you. I appreciate your thoroughness.
+DOCTOR: You're welcome. We'll discuss the results when they're available. In the meantime, try to increase your water intake and reduce your caffeine consumption. I’ll be in my office.
+PATIENT: Alright. I will certainly try to do that, Doctor. More water, less caffeine… noted. Thank you again for your time. .
+DOCTOR: .

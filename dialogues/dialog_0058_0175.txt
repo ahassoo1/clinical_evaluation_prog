@@ -1,0 +1,41 @@
+DOCTOR: Good morning, Mr. Way. I'm Dr. Todorovich. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, it’s this pain I’ve been having. It’s been bothering me for a little while now, and I figured I should get it checked out.
+DOCTOR: Okay. And where exactly is this pain?
+PATIENT: It’s… mostly in my lower back, you know? Right here. Sometimes it shoots down my leg a little, too, but mostly it’s just in my back.
+DOCTOR: Hmm. And when did this start?
+PATIENT: Let me think… it started maybe… three weeks ago? It wasn't bad at first, just a little ache after I’d been sitting for a long time. But it's gotten worse since then. I don’t really remember doing anything to cause it, honestly.
+DOCTOR: Okay. And what makes it worse?
+PATIENT: Well, bending over definitely makes it worse. And like I said, sitting for too long isn’t good. Standing for a long time isn't great either, actually. It feels like everything just… locks up, you know?
+DOCTOR: Right. And anything make it better?
+PATIENT: Yeah, actually. When I lie down flat, it feels a lot better. And if my wife rubs it, that helps too. Not a cure, but it takes the edge off.
+DOCTOR: Okay. So it's aggravated by bending and prolonged sitting or standing, and relieved by lying down and massage. Have you noticed any numbness, tingling, or weakness in your legs or feet?
+PATIENT: No, not really. No numbness or tingling, thankfully. Sometimes my leg feels a little… heavy, maybe? But not weak, exactly. Just… tired, I guess. It's hard to explain.
+DOCTOR: Okay. And any problems with your bladder or bowels?
+PATIENT: No, no changes there. Everything’s… normal, thankfully. That hasn't been an issue at all.
+DOCTOR: Alright. Have you tried any medications or treatments for this pain besides what you've already mentioned – the lying down and massage?
+PATIENT: No, I haven't. I usually just try to tough it out, to be honest. My wife suggested I see a doctor, because I was complaining about it a lot more this week. I'm not really one for taking pills unless I really have to.
+DOCTOR: Okay. Now, let’s go through a little bit of your medical history. Do you have any other medical conditions – things like diabetes, heart problems, or arthritis?
+PATIENT: Hmm… not that I know of. The doctor always says my blood pressure is a little high when I go for my yearly checkup, but it’s usually okay if I just watch my salt. Other than that, I’m pretty healthy, knock on wood. I haven’t been diagnosed with anything major.
+DOCTOR: Alright. Any surgeries in the past?
+PATIENT: No, no surgeries. Never had to have anything like that done. Just the usual childhood stuff, maybe tonsils when I was little, but that was ages ago. Nothing serious in adulthood, though.
+DOCTOR: Okay. And how about your family?
+PATIENT: That's a good question. My mother, she had arthritis in her hands when she got older, pretty bad. And my father… he had some back problems too, later in life. Not sure what exactly, just that he complained about it a lot. It might have been something like sciatica, but I don't really remember the details.
+DOCTOR: Okay. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no to all of that. Never smoked a day in my life. I might have a glass of wine with dinner sometimes, but that's about it. And definitely no recreational drugs. I try to stay pretty healthy, you know?
+DOCTOR: Alright. And any allergies to medications or anything else?
+PATIENT: Nope, no allergies that I know of. My wife always asks when she gets me new medicine, just in case, but I've never had a reaction to anything. I'm pretty lucky that way.
+DOCTOR: Okay. Well, let’s take a look at your back. Could you stand up for me and bend forward a little?
+PATIENT: Okay, sure. Like this? Is there anything specific you're looking for?
+DOCTOR: Alright, stop there. I see… there's some limited range of motion with forward flexion, and you appear to have some muscle guarding. Now, can you try bending backwards a little?
+PATIENT: Okay. It's a little stiff, but I can do that. Does that look okay? It hurts a little more going back than going forward, actually.
+DOCTOR: Alright. Let me just feel along your spine here… Hmm. Tenderness to palpation at the L4-L5 level. Now, I'm going to do a quick neurological exam. Could you walk on your heels for me?
+PATIENT: Okay, walking on my heels… Like this? It's a bit tricky, I don't do this very often.
+DOCTOR: Alright, stop there. Now, can you try walking on your toes?
+PATIENT: Okay, walking on my toes… Like this? It feels a little better than the heels, but it’s still not easy.
+DOCTOR: Alright. Okay, now I'm going to check your reflexes. Just relax your legs. Both patellar reflexes are present and equal bilaterally. Based on what you’ve told me and what I've found during the exam, it sounds like you likely have a lumbar strain. It’s common, especially with your age and activity level. The muscle guarding and tenderness suggest some inflammation.
+PATIENT: A lumbar strain, huh? So, it's just a pulled muscle? That doesn't sound too bad. What does that mean for… getting better? Will it just go away on its own?
+DOCTOR: It can resolve on its own, yes, but that doesn’t mean you should just sit and wait. It's important to manage the pain and prevent it from getting worse. I recommend over-the-counter pain relievers like ibuprofen or naproxen to help with inflammation. Also, gentle stretching and low-impact exercise, like walking, can help. However, I want to be cautious. Given your age and the fact that the pain has been present for three weeks, and because you mentioned your father had back problems, I’d like to get an X-ray to rule out any other issues, like arthritis or a compression fracture. Would you be okay with that?
+PATIENT: An X-ray… yeah, okay. If that’s what you think is best, then let’s do it. Better safe than sorry, right? I just want to get back to feeling normal again. How long does the X-ray take? And will I need an appointment for that?
+DOCTOR: Yes, it’s always best to be thorough. The X-ray itself only takes a few minutes. We can do it right here in the clinic, and it shouldn’t take long to get the results. I’ll have my nurse schedule it for you right away. In the meantime, start with the over-the-counter pain relievers as directed on the bottle and try to avoid any activities that aggravate the pain. If the pain worsens significantly, or if you experience any numbness, tingling, or weakness in your legs, come back immediately. Do you have any questions for me right now?
+PATIENT: No, I think that covers everything. You've explained it all very clearly, Doctor. Thank you. I appreciate you taking the time to check me out. I’ll let your nurse know I’m ready for the X-ray whenever she’s free.
+DOCTOR: Okay. Glad I could help. I'll have the nurse come in and get you set up. And remember, if anything changes, don’t hesitate to contact the clinic. We'll get those X-ray results back as quickly as possible, and we'll discuss a long-term plan for managing your back pain then. Nurse, could you please come in here?

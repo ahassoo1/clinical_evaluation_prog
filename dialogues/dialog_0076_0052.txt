@@ -1,0 +1,29 @@
+DOCTOR: Right, Mr. Benic, is it?
+PATIENT: Aye, that’s right. Aurthur Benic. And please, call me Aurthur. It feels a bit… formal otherwise, don’t you think?
+DOCTOR: If you insist. Now, Aurthur, what brings you in today?
+PATIENT: Well, it's been this nausea, see. Mostly in the mornings. It’s a bit… unsettling, to be honest. And the doctor back home… well, he said something about my heart not being as strong as it used to be. Heart failure, he called it. That sounded… serious. It's just been getting worse the last few weeks, and I thought I best get it checked out.
+DOCTOR: Right, right. Heart failure. People say that word too easily these days. So, mornings, you say?
+PATIENT: Aye, mostly mornings. Not every morning, mind you. But enough to make me dread getting out of bed, if I'm honest. It's not a violent sickness, just… queasy. And it usually sticks around for a good hour or so before fading. Does that make sense? I'm no' good at describing these things.
+DOCTOR: It's… vague, but alright. And is this accompanied by any other symptoms?
+PATIENT: Aye, now that you mention it… I've been a bit more breathless than usual. Especially when I'm doing something. Like climbing the stairs, or walking to the shops. It’s not terrible, just… I need to pause more often. And my ankles… they’ve been a bit swollen at the end of the day. Not huge, but noticeable. I hadn't thought much of it, to be fair. Just put it down to the weather.
+DOCTOR: Right. Breathlessness, swelling… typical. Any chest pain, palpitations, dizziness?
+PATIENT: No chest pain, thankfully. And no palpitations that I’ve noticed. I get a wee bit dizzy now and then, but I’ve always been a bit prone to that. Gets worse if I stand up too quickly, maybe? I’ve never really paid it much mind, to be honest. Could just be my age, I thought. It's hard to say what's new and what's just… me, you know?
+DOCTOR: Alright. And past medical history?
+PATIENT: Well, I had pneumonia when I was a lad. Bad case of it. But that was… oh, goodness, nearly fifty years ago now. Other than that… high blood pressure, the doctor said, a few years back. He put me on tablets for it. Been taking them regularly enough, I think. And… oh, I had my appendix out when I was young. But that's about it, really. Nothing major. I've always been a pretty healthy fellow, all things considered. Until recently, that is.
+DOCTOR: Tablets… what tablets were you prescribed?
+PATIENT: Let me think now… it was a wee white pill. Small, round… I think it started with an ‘A’. Amlodipine, maybe? Or something similar? It's terribly difficult to remember these things, you see. I just take what the doctor gives me, and hope for the best. I haven't really been keeping track, if I'm honest. Would it be in my records?
+DOCTOR: Amlodipine... yes, here we are. And any allergies?
+PATIENT: No, not that I know of. Never had a reaction to anything, thankfully. I've always been able to eat whatever I liked, and take whatever medicine I was given. Bit of hayfever in the spring, maybe? But nothing serious. I’m pretty lucky that way, really. Just the usual aches and pains of getting old, you know?
+DOCTOR: Right. And do you smoke, drink alcohol?
+PATIENT: No, I don't smoke. Never have, never will. Tried it once when I was a lad, didn’t agree with me. As for alcohol… I used to enjoy a pint or two down the pub with my friends. But that was years ago now. I hardly drink at all these days. Maybe a glass of sherry at Christmas. Nothing more. I'm trying to be careful, you see. Especially with my heart not being what it used to be.
+DOCTOR: Alright. Let’s have a listen to your chest. And I’ll take your blood pressure. Try to relax, Mr. Benic.
+PATIENT: Aye, that sounds sensible. I'll do my best to relax. It's not always easy, you know, with all this worrying. Just tell me if you need me to do anything. Don't mind me, just a wee bit anxious, that's all.
+DOCTOR: Blood pressure is elevated… 160 over 90. Lungs sound a little crackly, especially on the lower lobes. Now, let's take a look at your ankles.
+PATIENT: Aye, go ahead. They're not too bad, but I can feel a bit of swelling if I press on them. Been worse lately, I think. Hopefully, it's nothing serious. Are those crackly lungs... is that bad? I'm no' doctor, so I haven't the faintest idea what any of this means.
+DOCTOR: The edema is mild, but present. Crackles in the lungs, edema… elevated blood pressure. It's… concerning. We'll need some blood work, an ECG, and a chest X-ray. Just to be thorough.
+PATIENT: Aye, that sounds… thorough, alright. Blood work, ECG, X-ray… It’s a lot, isn’t it? But if it'll help figure out what's going on, then I suppose I ought to get it done. Will it take long? And will it be uncomfortable? I’m not a fan of hospitals, if I’m honest. Always makes me feel a bit… anxious.
+DOCTOR: The blood work is standard. ECG is painless, just some electrodes on your chest. X-ray is quick. It’ll take a few hours to get the results back. I’ll have the nurse draw your blood and set up the ECG. Don't worry, it's routine.
+PATIENT: Aye, routine… that’s good to hear. A few hours, you say? I suppose I can sit and wait. I'll try to relax, as you said. Do you think it could be something serious? My heart, I mean. I'm not wanting to bother you with silly questions, but… it’s just a wee bit worrying, you see. It's just... the thought of something being wrong with my heart… It's not a pleasant thought.
+DOCTOR: It could be a number of things. We need the test results to determine the cause. Until then, I don't want to speculate. The nurse will explain everything. I have other patients waiting.
+PATIENT: Aye, alright. No speculating… sensible, I suppose. Just trying to get a wee bit of reassurance, that’s all. I’ll see the nurse, then. Thank you for seeing me. And thank you for… not speculating. I'll just… wait for the nurse, then. .
+DOCTOR: .

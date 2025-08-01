@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Licano. I'm Dr. Nestingen. So, tell me, what brings you in today?
+PATIENT: Oh, good morning, Doctor. Um... it's this tiredness. Just... always tired. It’s been going on… well, a long time. Honestly, I don't even remember exactly when it started. It's just... draining, you know? Makes everything hard.
+DOCTOR: A long time… yes. Well, "a long time" isn't terribly specific, is it?
+PATIENT: No, I guess not. It’s… after my husband passed, things just felt… heavy. Maybe it started then? Or before. I really don’t recall. It's all a bit of a blur, to be honest. Is that helpful? I just… want to feel normal again.
+DOCTOR: It's… something. We’ll try to piece things together. So, this tiredness… is it constant, or does it come and go?
+PATIENT: Oh, it’s pretty constant, I think. Some days are worse than others, definitely. But I rarely feel… rested. Even after a full night's sleep, which isn’t always easy, mind you. It’s just… always there, this weight. I don’t bounce back like I used to, that’s for sure.
+DOCTOR: And when you say you don't sleep well... are you having trouble falling asleep, staying asleep, or waking up too early?
+PATIENT: Hmm… a little of everything, I think. Falling asleep isn’t always a problem, but I wake up a lot during the night. And then I'm just… awake. Tossing and turning. And then when I do finally get back to sleep, it doesn’t feel… good. Restful, you know? And then I wake up feeling… well, you know. Tired.
+DOCTOR: Frequent awakenings, non-restorative sleep. Right. Are you snoring, Ms. Licano?
+PATIENT: Snoring? Oh dear… I don’t think so. My husband… he would have said something, wouldn’t he? He never mentioned anything. But… honestly, I don’t really pay attention. I’m usually asleep already. Or trying to be. Does it matter?
+DOCTOR: It can. It can indicate a sleep issue, something we should explore. Now, besides the tiredness and the sleep problems, have you noticed any other changes?
+PATIENT: Changes… oh, goodness. Let me think. I get… a bit forgetful sometimes. Worse than usual, anyway. And… I’ve lost my appetite, I think. I don’t really feel like eating much. Not like I used to. Everything just feels…blah.
+DOCTOR: Forgetfulness, decreased appetite... Alright. Has your weight changed recently, Ms. Licano?
+PATIENT: Oh, yes. I’ve lost some weight, I think. Not a lot, but enough that my clothes feel a bit… looser. I don’t weigh myself often, to be honest. Never really have. It's probably a good thing, but I don't have the energy to really do anything about it.
+DOCTOR: And any other symptoms?
+PATIENT: Oh… sometimes my muscles ache, just a general… soreness. And… I feel a bit dizzy sometimes, especially when I stand up too fast. Not often, but it happens. It's hard to explain, Doctor. Everything just feels… off.
+DOCTOR: Alright, Ms. Licano. We need to do a brief physical exam to get a better picture of things. And I'd like to order some blood work. Routine things – complete blood count, thyroid function, vitamin D levels… just to rule out some common causes. Is that alright with you?
+PATIENT: Yes, that sounds… good. Whatever you think is best, Doctor. I just want to know what's wrong, you know? And maybe, hopefully, feel a little bit better. Let’s just get it done.
+DOCTOR: Very well. Let's start with your vital signs. Please step onto the scale.
+PATIENT: Okay. Here we go… I haven't been on a scale in ages. Honestly, I’m probably lighter than I used to be.
+DOCTOR: 108 pounds. And your height is on file as 187 centimeters. Blood pressure is 110 over 70. Heart sounds are regular, lung sounds are clear. Abdomen is soft, no tenderness. Now, let's check your reflexes. Reflexes are… slightly diminished. And finally, let’s take a look at your throat. Throat appears normal. Alright. That gives us a starting point. Now, we'll get the lab order sent to the front desk. They'll draw the blood for you. It shouldn't take long.
+PATIENT: Okay. Good. That's… a lot. Thank goodness it's just blood work, then. Hopefully, we’ll have some answers soon. Just… please, let it be something fixable.
+DOCTOR: We’ll see what the labs show. In the meantime, try to get as much rest as you can, Ms. Licano. And drink plenty of fluids. We'll schedule a follow-up appointment to discuss the results once they are available. The front desk will handle that for you. Next patient.
+PATIENT: Okay. Thank you, Doctor. I appreciate it. .
+DOCTOR: .

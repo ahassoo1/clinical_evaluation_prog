@@ -1,0 +1,30 @@
+DOCTOR: Alright, alright. Name and why you’re taking up my time today?
+PATIENT: My name is Nani Derasmo. And frankly, Doctor, I haven't much time to spare either. I believe I'm here about… a persistent sadness. It’s been weighing on me.
+DOCTOR: "Persistent sadness," huh?
+PATIENT: Yes. It’s not… a new feeling, exactly. But it’s grown heavier lately. It makes even getting up in the morning a chore. And frankly, at my age, I don’t have the energy for chores I don’t need to do.
+DOCTOR: Seventy-five… alright. And how long exactly has this “heaviness” been going on?
+PATIENT: Oh, goodness. That’s a difficult question. Years, I suppose. On and off. But the last… six months, perhaps? It’s been consistently… draining. It’s hard to pinpoint, you see. Life happens, doesn't it? But this feels… different. More persistent.
+DOCTOR: Six months… okay. And is anything happening currently that might be contributing to this?
+PATIENT: Not… particularly. My divorce was final some years ago now. The children are grown, settled. I keep busy with my… work, as you can see on the file. It’s just… a lack of joy, I suppose. A general feeling of… emptiness. It’s difficult to explain. It’s not something that happened, Doctor, it’s more of a… nothing.
+DOCTOR: "Emptiness," right. And are you sleeping alright?
+PATIENT: Oh, sleep. A blessing when it comes, a torment when it doesn't. I… I wake frequently. Toss and turn. Sometimes I lie awake for hours, just… thinking. Or not thinking. Just… being awake. It's not restful, certainly. I wouldn’t say it’s insomnia, not every night. But rarely a good night’s sleep, you understand?
+DOCTOR: Okay. And any changes in appetite?
+PATIENT: Oh, that’s a good question. Not a great deal, no. I… I don’t enjoy eating as much as I used to. It feels like a chore, truthfully. I make sure I eat something, don’t misunderstand. But I don’t have much of an appetite. Everything tastes… muted, if that makes any sense. Not bad, just… less.
+DOCTOR: Alright. Any other symptoms?
+PATIENT: Hmm. Let me think. I tire easily, that’s for certain. And I find myself… withdrawing. Avoiding social situations. It’s not that I dislike people, you understand. It’s just… easier to be alone. Less effort. And… perhaps a little less… hopefulness, if that’s a word. It's difficult to put into words, really. It’s a general… fading, I suppose. Like a light dimming. Is that… helpful?
+DOCTOR: Okay, okay. I’m getting a picture. Have you been on any medications for this?
+PATIENT: No, Doctor. I've always preferred to… manage on my own. I believe in… resilience, you understand. This is the first time I’ve felt the need to… seek help. And truthfully, I’m not particularly fond of medications. Side effects and all that. I prefer a… natural approach, if possible. Is that foolish? I do enjoy my work; I need to be sharp.
+DOCTOR: “Natural approach.” Right. And no history of… serious illness?
+PATIENT: Not particularly. A touch of arthritis, as one would expect at my age. High blood pressure, managed with diet and exercise… mostly. Nothing that would… contribute to this, I wouldn’t think. I’ve always been a… strong woman, physically. This… this is different. It’s not a physical ailment. It’s… something inside. Is that clear enough? I'm trying to be concise, Doctor. My time is valuable.
+DOCTOR: Alright, let's just do a quick check, just to rule things out. Blood pressure, pulse… and I’ll listen to your heart and lungs. Just a formality, really. But it's policy. Please, sit.
+PATIENT: Very well. But do try to be quick, Doctor. I have a shift starting shortly. And please, be gentle. My joints aren't what they used to be.
+DOCTOR: Blood pressure’s a little elevated, 140 over 90. Lungs are clear. Heart rate is regular… a little fast, perhaps. 88. Okay. Let me check your reflexes.
+PATIENT: Oh, that's... brisk. Always have had rather… sensitive reflexes, I suppose. Is that… concerning? I used to be quite the swimmer, you see. Very quick reactions. I hope that’s not interfering with your… assessment.
+DOCTOR: Reflexes are… hyperactive. Okay. And just one last thing. Let’s do a very brief cognitive assessment. Just a few simple questions to check your memory and concentration. Don’t worry, it’s nothing complicated.
+PATIENT: Very well. But if you ask me to draw a clock, Doctor, I’m leaving. I’m a lifeguard, not an artist. Proceed, quickly, if you please. I trust this won't take long? My mind is usually quite sharp; I need it to be, for my work.
+DOCTOR: Fine, fine. It’s just a few simple questions. What is today's date?
+PATIENT: Today… August the 2nd, 2025. I believe. Yes, that is correct. Though truthfully, all the days blur together these days. But I do remember the date. I made a point of it. Important shift. Is this truly necessary, Doctor?
+DOCTOR: Right. And can you spell "world" backwards?
+PATIENT: D… L… R… O… W. Yes. D-L-R-O-W. Is this some sort of… test? I assure you, Doctor, I haven’t lost my faculties. I am a professional. I need to be alert. This is rather… undignified.
+DOCTOR: Alright, alright. I've got enough. Honestly. It’s probably just… stress. You’re working too hard. Try to relax more. And get more sleep. You really should try to slow down. Honestly. I’m going to write you a prescription for something to help you sleep. It’s mild. But don’t expect miracles. And if it doesn’t work, you can always come back. I suppose.
+PATIENT: Very well. Sleep. Right. As if it were that simple. Though I doubt a small pill will magically erase years of… well, never mind. And I assure you, Doctor, I am perfectly capable of managing my own life. I just needed… confirmation, I suppose, that I haven't entirely lost my mind. Is that too much to ask? Thank you for your… time. Though I must say, it was rather a waste of both our time, wasn’t it? Now, if you’ll excuse me, I have a shift to get to. .

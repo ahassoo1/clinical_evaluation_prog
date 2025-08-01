@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Ms. Fontanazza. I am Dr. Mutnick. So, tell me, what brings you in today?
+PATIENT: Uh, good morning. The paper say... patient education? I don't really know. My husband, he make the appointment. Something about... being careful? I work with metal, very sharp metal. It's… a job.
+DOCTOR: Very well. So, a preventative visit, initiated by your husband, regarding your occupation. Metal work, you say?
+PATIENT: Yes. Sheet metal. It's… loud. And messy. Lots of… cutting. And bending. I don't know what he think need "educating" about. I been doin' it a long time. It’s not like I want to get hurt.
+DOCTOR: Right. And for the record, are you experiencing any current injuries or discomfort related to this work?
+PATIENT: Discomfort? Sometimes my hands ache. After a long day. But everyone's hands ache, right? It's… work. And my back gets a little sore, but I'm not… old. Not yet, anyway. I take some… pills sometimes. For the ache. My mother give them to me.
+DOCTOR: “Pills sometimes”?
+PATIENT: Uh… yes. Little white pills. She get them from… a friend. They help with the ache. I don't know what they are. She just say, "Take these." It’s not a big deal. I don't take them every day. Only when it really hurts.
+DOCTOR: Ms. Fontanazza, with all due respect, taking medication—any medication—without a proper diagnosis and prescription from a licensed physician is… unwise. Do you have any allergies?
+PATIENT: Allergies? Not that I know of. I eat everything. Except… I don’t like cilantro. Is that an allergy? And… sometimes my skin get itchy if I touch certain metal. Not all of it, just… some. It’s not bad itchy. Just… annoying. It’s fine. Really.
+DOCTOR: Alright. And do you have any history of significant medical conditions?
+PATIENT: Significant…? I had the… flu once. A long time ago. And… I broke my arm when I was little. Fell out of a tree. That’s it. My husband say I’m strong. He say I worry too much. Is this important? What are you trying to find out?
+DOCTOR: It is always important, Ms. Fontanazza. Family history. Any history of heart disease, diabetes, cancer… in your parents, siblings?
+PATIENT: Family history… My mother… she get sick. A long time ago. Very sick. She… weak. She stay in bed a lot. She… died. My father… he work very hard. He was… strong. He died working. Something with… a machine. That's it. We don't talk about it. It's bad luck.
+DOCTOR: And your social history, Ms. Fontanazza?
+PATIENT: Social…? You mean… like, friends? I have friends. We… eat sometimes. And talk. Not much, though. I work a lot. And my husband… he doesn’t like me going out. He say it's dangerous. Is this about my job? Are you trying to tell me I shouldn't work?
+DOCTOR: No, Ms. Fontanazza. I am simply attempting to ascertain a comprehensive understanding of your overall health profile. Now, do you smoke, drink alcohol, or use any recreational substances?
+PATIENT: Smoke? No! Never. Makes you cough. My mother… she didn’t smoke. Drink… sometimes a little wine with dinner. Very little. My husband drink more. And… recreational…? What does that mean? Are you accusing me of something?
+DOCTOR: Let us move on. You mentioned some hand and back discomfort. May I examine you?
+PATIENT: Examine…? You mean… touch me? I don't know… What are you looking for? If it's about my job, I told you, I'm fine! I’ve been doing this for years. It’s just… work. I don’t like being touched.
+DOCTOR: Ms. Fontanazza, a physical examination is a standard component of a medical consultation. It allows me to assess the source of your discomfort and rule out any underlying conditions. It is necessary. If you will not cooperate, I am unable to provide you with adequate care. Now, if you will simply extend your arms…
+PATIENT: Fine. But be quick. And don't pull. I might yell. This is very… undignified.
+DOCTOR: Hmm. There is some tightness in your forearms. And some mild tenderness along the radial head. Calluses consistent with repetitive manual labor. A few superficial abrasions, likely from metal work. Range of motion is slightly limited in both wrists with extension. Now, your back. Please bend forward and touch your toes.
+PATIENT: Ouch! See? I told you. It’s just… work! And it hurts more now! This is ridiculous. What are you even looking for? I need to get back to work.
+DOCTOR: Mild lumbar muscle spasm. Consistent with strain. Ms. Fontanazza, it appears you are experiencing musculoskeletal discomfort related to your occupation. Given your lack of insurance and the relatively minor nature of your symptoms, I recommend over-the-counter pain relievers—ibuprofen or naproxen—as needed. And… stretching. I also strongly advise you to avoid lifting heavy objects and to maintain proper posture while working. Do you understand?
+PATIENT: Pills? More pills? I already take some. And stretching? What kind of stretching? My husband doesn't like me doing… exercises. He says it's a waste of time. So… you're saying I'm okay? I can go back to work? That's all I need to know. I don’t have time for this.
+DOCTOR: Ms. Fontanazza, with all due respect, you are not “okay.” You are presenting with symptoms of chronic musculoskeletal strain. While I can offer symptomatic treatment, I strongly recommend a comprehensive ergonomic assessment of your workplace to prevent further injury. And I strongly discourage self-treating with unknown substances. I will provide a brief written summary of my recommendations, but understand this is not a long-term solution. I strongly suggest you consider obtaining insurance. And please, prioritize your health. You may go. .
+PATIENT: Ergonomic… what? Fine. Whatever. My husband will know what to do. And I don’t need a doctor telling me how to live my life. Waste of time.

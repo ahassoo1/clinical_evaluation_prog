@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Secondi. I’m Dr. Sham. So, what brings you in today?
+PATIENT: Good morning, Doctor. It’s… my pee. It’s orange. I noticed it a couple of days ago. It’s a little… scary looking, you know?
+DOCTOR: Orange urine… right. Yes, that can be concerning. Can you tell me a little more about it?
+PATIENT: Well, it's not like, really dark orange. More… a light orange. Like… juice, maybe? And it doesn’t hurt to pee, no burning or anything. Just… the color. I drink a lot of water, normally. I don’t know why it’s doing this.
+DOCTOR: Okay, light orange, no pain… and you generally stay well-hydrated. Hmm. Have you noticed any other changes?
+PATIENT: Other changes… let me think. Not really. Maybe… I’ve been a little tired lately? But I work long hours, so that’s normal too. And maybe a little… constipated? But not bad. Is that important?
+DOCTOR: Fatigue and some constipation… potentially. Okay. Let’s go through some basics. Have you had any fever, chills, nausea, or vomiting recently?
+PATIENT: No, no fever. No chills. And I haven’t been sick to my stomach. No, nothing like that. I ate a tagine last night, but I eat tagine all the time. It didn't bother me then.
+DOCTOR: Tagine… right. Okay. And what about your past medical history?
+PATIENT: Past medical… nothing much, really. I broke my arm when I was a kid, playing football. And I had the flu a couple times. But nothing serious. No long-term problems. I don’t take any pills, either. Just… sometimes, for headaches. Ibuprofen, maybe? When it’s really bad.
+DOCTOR: Okay, no significant medical history, occasional ibuprofen… Any surgeries?
+PATIENT: No surgeries. Never had one. My wife, she had her appendix out, but that was a long time ago. I haven’t. No, nothing like that for me.
+DOCTOR: Alright. And… family history?
+PATIENT: Family… my father, he had problems with his blood sugar. Diabetes, I think. My mother was okay, mostly. Just… old age problems, you know? Nothing big. My brother is healthy, as far as I know. We don’t talk much.
+DOCTOR: Diabetes in the family… Okay. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No smoking. I used to, a long time ago, when I was younger. But I quit, maybe ten years ago. I drink sometimes, with dinner. A glass of wine, maybe two. And no, definitely no drugs. Never.
+DOCTOR: Alright. And… any allergies to medications, food, or anything else?
+PATIENT: No allergies. Not that I know of. My wife is allergic to peanuts, but I'm not. I can eat anything. I mean, I do eat anything. We have a lot of spices in Moroccan food, you know? I’d know if I was allergic to something.
+DOCTOR: Okay. Let's do a quick physical exam. I’m going to listen to your abdomen, check your reflexes, and take your blood pressure, if that’s alright. It’s just to rule out anything obvious.
+PATIENT: Yes, okay. That’s fine. Whatever you think is best, Doctor. I just want to know what’s going on with my pee. It's a bit worrying, you know?
+DOCTOR: Alright. Abdomen feels… soft, non-tender. No masses detected. Bowel sounds are present, a little sluggish, but not concerning at this point. Blood pressure is 130/80, pulse is 72. Reflexes are normal. Now, could you give me a urine sample?
+PATIENT: Yes, okay. A urine sample. Where do I… how do I do that? I haven't done that in a long time. Is there a bathroom?
+DOCTOR: Yes, the bathroom is just down the hall to your left. There's a cup in there. Try to collect a mid-stream sample – meaning, start urinating, then collect some in the cup, then finish. I'll send a nurse to collect it when you're done.
+PATIENT: Okay, mid-stream. I think I understand. I'll go do that now, then. Hopefully it will tell us what’s wrong with my pee. Thank you, Doctor.
+DOCTOR: Yes. We'll see what it shows. I’ll be right here. Let me know when you’ve left it with the nurse.
+PATIENT: Okay, I will.
+DOCTOR: .

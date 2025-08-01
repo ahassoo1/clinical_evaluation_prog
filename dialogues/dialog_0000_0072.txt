@@ -1,0 +1,31 @@
+DOCTOR: Right. Ebony Heidenthal, 38 years old. Well, don't just sit there. Tell me what brings you in today. And try to be concise, please. My time is valuable, you know.
+PATIENT: Oh, um, right. Sorry. It's… my memory. It’s been getting worse, I think. Little things, mostly. Forgetting where I put things, appointments… stuff like that. It’s a bit worrying, to be honest.
+DOCTOR: "A bit worrying." That’s…helpful. "Little things," you say. How long has this been going on?
+PATIENT: Hmm… that’s a good question. Probably… six months, maybe? It started slowly, I didn’t really notice at first. Just thought I was stressed with work, you know? But it’s definitely getting more frequent now. Like, I forgot a patient’s name today, and I’ve known her for years!
+DOCTOR: Six months. And you're a… what, exactly?
+PATIENT: I'm a dentist. General practice. So, I should be remembering things, right? It's… embarrassing, honestly. I'm usually very organized.
+DOCTOR: A dentist. Right. So, you’re supposed to have a sharp mind. And this is interfering with your practice, you say?
+PATIENT: Yes, exactly! It’s not just personal stuff anymore. I've had to double-check appointments, ask colleagues about treatment plans… things I’d normally do without thinking. It’s… unsettling. And patients have noticed, I think. I just want to figure out what’s going on.
+DOCTOR: Alright. Let’s not get dramatic. Many things can cause memory lapses. Stress, as you mentioned. Fatigue. Even just… getting older. We’ll need to rule things out. Do you have any other symptoms?
+PATIENT: Um… not really? I mean, I've been a little more tired lately, but that could just be work. No headaches, no dizziness… nothing like that. I sleep okay, I think. Maybe a little restless sometimes. And… I don’t know… maybe a little more easily frustrated than usual? But that's probably just because I'm worried about the memory stuff!
+DOCTOR: Restless sleep, increased irritability… noted. Let’s talk about your past medical history. Any significant illnesses?
+PATIENT: No, not really. I had chickenpox when I was a kid, and a broken arm once, but nothing major. No surgeries, no chronic conditions… I'm generally very healthy. I eat pretty well, try to exercise when I can, although work makes that difficult sometimes.
+DOCTOR: And your family?
+PATIENT: My family… my parents are both still alive, thankfully. My dad’s got high blood pressure, and my mom has arthritis, but that’s about it. No history of… you know… dementia or Alzheimer’s that I’m aware of. My grandparents… my mom’s dad was a bit forgetful towards the end, but I always assumed it was just old age.
+DOCTOR: Alright. And what about medications?
+PATIENT: Just a multivitamin, really. And occasionally ibuprofen if I have a headache. Nothing regular, nothing prescribed. I try to avoid taking pills whenever possible.
+DOCTOR: Good. Let’s do a quick physical exam. Nothing extensive, just a basic neurological assessment. Sit up straight. I'm going to check your reflexes, coordination, and cognitive function. Don't overthink it.
+PATIENT: Okay. Sounds good. I’m… a little nervous, to be honest. But I’ll try not to overthink it. Just tell me what to do.
+DOCTOR: Right. First, I want you to follow my finger with your eyes. Don't move your head. Keep your gaze fixed on my finger. Okay, good. Now, squeeze my hands. Both of them. Hard. That's fine. A little weak, but within normal limits. Now, I'm going to test your reflexes. Relax your arms… Normal. A little diminished, but not concerning. Now, let's do a simple memory test. I'm going to say three words, and I want you to repeat them back to me after I'm finished. Ready?
+PATIENT: Okay, yes, ready. Three words. Let's do it.
+DOCTOR: Okay. The words are… apple, table, penny. Apple, table, penny. Now, repeat them back to me. Don't overthink it, just say what you remember.
+PATIENT: Um… apple… table… and… oh dear. I think… was it… penny? Yes, I think it was penny.
+DOCTOR: "I think it was penny." Correct, but with hesitation. Not ideal. Now, I'm going to ask you a few simple questions. What is today's date?
+PATIENT: Oh! Um… August… the 2nd? 2025, right? Yes, August 2nd, 2025.
+DOCTOR: Correct. And where are we right now?
+PATIENT: Uh… this is… Dr. Batara's office? In the… rural clinic? I think that's right. It's a bit… out of the way, isn't it?
+DOCTOR: Alright. Based on this brief assessment, and your history, it's too early to make a definitive diagnosis. However, your memory lapses, coupled with the slight hesitation during the recall test, are concerning. It could be stress, as you mentioned, or early signs of cognitive impairment. We need further investigation. I'm going to order a complete blood count, a thyroid panel, and a Vitamin B12 level to rule out any underlying medical conditions. I’m also recommending a referral to a neurologist for a more comprehensive cognitive evaluation. They can perform detailed memory tests and brain imaging if necessary. Does that sound acceptable?
+PATIENT: Yes, that sounds… sensible. I mean, I want to know what’s going on, so yes, definitely. Blood tests and a neurologist… that sounds good. It’s just… a bit scary, to be honest. But I’d rather know, I guess.
+DOCTOR: "Scary" is a perfectly reasonable reaction. We're being proactive. I'll send the lab orders to the front desk. They'll schedule you for the blood draw. I'll also fax a referral to Dr. Chen, a neurologist in the city. They'll contact you to schedule an appointment. In the meantime, try to reduce your stress levels as much as possible. Get adequate sleep, eat a healthy diet, and stay mentally active. I know it’s easier said than done when you’re a dentist, but try to delegate tasks if you can. I'll review the lab results as soon as they come in and contact you with the findings. Do you have any questions for me at this point?
+PATIENT: Um… no, I think that covers everything, actually. Thank you, Dr. Batara. I appreciate you taking the time to listen and… not dismissing it as just stress. It’s… a relief to have a plan, I guess.
+DOCTOR: Very well. Don't hesitate to contact the office if you experience any new or worsening symptoms. And try not to worry unduly. We'll get to the bottom of this. Next patient.

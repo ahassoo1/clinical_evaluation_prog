@@ -1,0 +1,25 @@
+DOCTOR: Right. Mr. Benic, is it?
+PATIENT: Aye, that’s right. Aurthur Benic. And please, call me Aurthur. It feels a bit…formal otherwise, don’t ye think?
+DOCTOR: Very well, Aurthur. Though, generally I prefer to maintain a professional distance. Now, you’re here today… for what reason, exactly?
+PATIENT: Well, it’s this morning sickness, really. Been happening for a couple o’ weeks now. Not ideal, to be honest. Especially with…well, with my heart not bein’ the strongest. Makes me worry it’s somethin’ more than just a wee bit o' queasiness.
+DOCTOR: "Morning sickness," you say?
+PATIENT: Aye. I know it sounds daft, at my age. But that's what it feels like. Starts first thing, usually. Nothin’ actually…comes up, mind ye. Just a right awful feelin’ in me stomach, and a bit lightheaded. It usually passes after a few hours, but it's knockin’ me for six, it is. I just… wanted to get it checked, just in case. With the heart condition and all.
+DOCTOR: Right. And you say this started a couple of weeks ago?
+PATIENT: Aye, roughly. Maybe a bit longer. It started gradual-like, just a wee bit o’ discomfort. I thought it was somethin’ I ate, to be honest. But it’s become more regular now. Every mornin’, pretty much. I’ve been tryin’ to eat bland things, you know? Toast, crackers…doesn’t seem to make much difference, sadly. I haven't changed anything in me routine, either.
+DOCTOR: And you've had no fever, no diarrhea, no changes in your bowel movements?
+PATIENT: No, not at all. No fever, no upset stomach, nothin' like that. Bowels are…regular as clockwork, if ye don’t mind me sayin’. It's purely the nausea, and the feelin' a bit weak after it. It's just… unsettling, ye ken? Especially considerin' my heart. I'm not one to bother the doctor unnecessarily. I just thought it best to be safe.
+DOCTOR: Alright. Let’s have a listen to your heart and lungs, shall we?
+PATIENT: Aye, that sounds sensible. Happy enough to get that done. Just warn me if ye need me to do anything special, alright? My joints aren't what they used to be.
+DOCTOR: Of course. Just lie back on the table. I’ll need you to take a few deep breaths for me. Nothing complicated.
+PATIENT: Right ye are. Deep breaths, ye say? No problem. Just let me know if ye want me to hold it at any point. Old lungs here need a bit o' encouragement sometimes.
+DOCTOR: Okay. Heart rate is…irregular, as expected. A bit of a murmur. Lungs are clear, though a little diminished breath sound on the lower lobes. Blood pressure is 130 over 80. Any tenderness here?
+PATIENT: No, not really. Feels…normal enough, I suppose. A bit creaky, like the rest o’ me, but no pain or discomfort. Oh, just there… that's a wee bit tender. But it’s likely just from leanin' over and such, I reckon. Not a sharp pain, mind ye, just a bit o' awareness. I’m a bit thin, ye see. Not much padding these days.
+DOCTOR: And you haven’t noticed any changes in your appetite?
+PATIENT: No, appetite's been alright. I've been eatin' smaller portions, maybe, just because o' this nausea, but I'm not feelin' less hungry, if that makes sense. I've been managin' to keep most things down, as I said. It's more the queasiness itself than anythin' else. And a bit o' weariness afterward. It's just... unsettling, feelin' like this when I know me heart's not at its best. I’m not one to complain, ye understand.
+DOCTOR: Alright. Given your cardiac history and the persistence of these symptoms, I’m going to order some blood work. We need to check your electrolytes, kidney function, and rule out any other underlying causes. I’m also going to order an EKG to assess your heart rhythm.
+PATIENT: Aye, that sounds sensible enough. Whatever ye think best, Doctor. Blood work and an EKG, right? Will that need a separate appointment, or can it be done here today? I’m tryin’ to avoid too many trips back and forth, if ye don’t mind me sayin’.
+DOCTOR: We can do both here today. The EKG will only take a few minutes. The blood work will require a visit to the lab, which is just down the hall. I'll write you a requisition form. And, frankly, Mr. Benic, I'm slightly concerned about your self-diagnosis. 'Morning sickness' at your age is highly unusual, and we need to rule out more serious possibilities before we simply dismiss it.
+PATIENT: Aye, I understand that perfectly, Doctor. I wasn't expectin' ye to take me at me word. It just…felt like that, is all. I'm no' a medical man, as ye can likely tell. I just wanted to mention it to give ye a startin’ point. And I appreciate ye takin’ it seriously. A requisition form, ye say? Down the hall, right. No problem at all. I'll head down there as soon as I'm done here. Thank ye for lookin' after me.
+DOCTOR: Right. Go ahead and head to the lab. They'll take care of you. I’ll review the results as soon as they come in, and we'll discuss the next steps. Don’t hesitate to inform the lab staff of your cardiac condition. Next patient.
+PATIENT: Aye, that’s grand. I will do that. Thank ye again, Doctor. I’ll be off then. Good day to ye.
+DOCTOR: .

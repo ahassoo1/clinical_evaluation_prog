@@ -1,0 +1,22 @@
+DOCTOR: Alright, Mr. Secondi. Good to meet you. So, tell me, what brings you in to see me today?
+PATIENT: Hello Doctor. Uh, it's my pee. It's… orange. I noticed it a few days ago. Not every time, but sometimes it's really orange. It worries me a little.
+DOCTOR: Orange urine, huh?
+PATIENT: Yes. Like, not just a little bit darker. Really orange. I drink a lot of water, I think. Maybe too much? I don't know. It's just… not normal, right?
+DOCTOR: Well, "normal" is subjective, but it's good you're paying attention to changes. Drinking a lot of water can dilute things, but it doesn't usually cause it to turn orange. Let's start with the basics. How often are you urinating during the day?
+PATIENT: Um… usually, maybe four or five times? Sometimes six if I drink a lot. At night, I wake up once, maybe twice to go. Is that… a lot? I don’t really keep track. It feels normal for me.
+DOCTOR: Okay, four to six times a day, waking once or twice at night. That’s… within the range of normal, but we need to consider everything. Now, have you noticed any pain or burning when you urinate?
+PATIENT: No, no pain. Nothing like that. It just… comes out. Orange sometimes, normal color other times. No burning, no… I don't know… pushing or anything. Just orange pee. It doesn't feel different, just look different.
+DOCTOR: Alright. And have you noticed any changes in your bowel movements?
+PATIENT: Bowel… you mean my poop? No, not really. Same as always, I think. Sorry, it’s a little embarrassing to talk about this stuff. Normal color, normal… you know. Nothing different there either.
+DOCTOR: It's alright, Mr. Secondi. We have to cover all the bases. Changes in urine color can sometimes be linked to other things. Let's talk about medications. Are you currently taking any prescription medications, over-the-counter drugs, or supplements?
+PATIENT: Um… let me think. I take a vitamin D supplement, my wife tells me I need it. And sometimes I take ibuprofen for my back, when it hurts. Nothing else, I don't think. Just the vitamin D and the ibuprofen when I need it. Maybe once a week, sometimes less.
+DOCTOR: Vitamin D and ibuprofen. Okay. And how much ibuprofen would you say you typically take when you take it?
+PATIENT: Usually… two pills. 200 milligrams each, I think. My wife buys them. I don't really look at the box. Just two pills when my back hurts bad. Not every day, like I said. Maybe two or three times a month. Sometimes less.
+DOCTOR: Alright. Ibuprofen can sometimes cause changes in urine color, though it’s not usually this pronounced. Let’s do a quick physical exam, just to rule out anything obvious. I’m going to listen to your abdomen, and I’ll do a quick check of your back. Is that alright?
+PATIENT: Yes, that’s fine. Whatever you think is best. I just want to know what’s going on with my pee. It’s making me worry a bit. Listen to my stomach, check my back… yes, okay.
+DOCTOR: Okay. Your abdomen sounds normal, and your back is a little tender, but nothing alarming. It doesn't seem to be related to an acute injury. Now, I'd like to order a urinalysis. It’ll check for things like infection, blood, and other abnormalities. We can also check your kidney function with a basic metabolic panel. Would that be alright?
+PATIENT: Yes, that sounds good. A test is good. I want to know what's going on. Urina… what was it? The pee test, and the kidney test… yes, okay. Whatever you need. Is it painful? The test?
+DOCTOR: No, the urinalysis is not painful at all. You simply provide a urine sample. The blood test will involve a small prick of a needle in your arm. It’s a routine blood draw, nothing to worry about. I'll have the nurse come in and get you set up for both tests. In the meantime, try to drink your normal amount of fluids. And please, try not to stress about it too much. We'll get some answers.
+PATIENT: Okay, okay. Not painful… good. Just pee in a cup and a little poke… I can do that. Thank you, Doctor. I was getting really worried. I’ll try not to stress. Just let me know when I can go to the bathroom.
+DOCTOR: The nurse will be in shortly. She'll explain the process. We'll get the results back as quickly as possible, usually within a day or two. In the meantime, if you experience any fever, chills, or significant pain, please don't hesitate to contact the office immediately.
+PATIENT: Okay. Fever, chills, pain… I will remember that. Thank you, Doctor. I appreciate it. .

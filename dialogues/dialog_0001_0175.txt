@@ -1,0 +1,23 @@
+DOCTOR: Right, Mr. Way, is it?
+PATIENT: Yeah, that’s right. Michae Way. Good to meet you, Doctor… Pehrson, right? I think my wife told me your name. She usually handles these appointments, but she’s… busy today.
+DOCTOR: Pehrson, yes. Look, I'm a busy man too, so let’s just get straight to it. What brings you in here today?
+PATIENT: Well, it’s my back, mostly. It’s been…painful. Not all the time, but enough to bother me. It started a few weeks ago, I think. Just a little ache at first, but it's gotten worse. It's hard to explain exactly where it hurts, it kind of…moves around. Does that make sense?
+DOCTOR: “Back pain…” Vague. Okay. A few weeks, you say?
+PATIENT: Yeah, a few weeks now. Maybe… four or five? It's hard to keep track, to be honest. I mostly just try to ignore it, but it's making it hard to sleep sometimes. And bending over is… not fun. I used to enjoy gardening, but… not so much lately.
+DOCTOR: Sleeping issues, gardening… Alright. Any injuries?
+PATIENT: No, no injuries that I can think of. Nothing I did to cause it, anyway. It just…started. I didn't lift anything heavy or fall or anything. I was just…doing my usual stuff. Maybe I slept wrong one night? I don’t know. My wife asked if I’d been straining myself, but I hadn’t.
+DOCTOR: Hmmm. Any pain radiating down your legs?
+PATIENT: No, not really. It stays in my back, mostly. Sometimes I feel a little…tightness in my hips, but no shooting pain down my legs or anything like that. My wife was worried about sciatica, but it doesn't feel like what she described. She reads a lot of medical stuff online, you know?
+DOCTOR: Online, right. Well, that's usually not reliable. Let’s just do a quick exam, then we'll see what we're dealing with. Can you stand for me?
+PATIENT: Sure, no problem. I can stand. Just let me… …there we go. Is there anything specific you want me to do while I'm standing? Just tell me. I'm not very good at guessing.
+DOCTOR: Okay, just…relax. Let me listen to your back. Breathe normally. Now, can you bend forward and touch your toes?
+PATIENT: Okay, bending forward… …Whoa, that's… a little uncomfortable. I can't quite reach my toes, Doctor. It feels tight. I’m sorry, I'm not very flexible. Never was. Is that okay?
+DOCTOR: Limited range of motion. Alright. Now, let me check your reflexes. And the other side. Normal reflexes. I’ll need to check your weight again. Step on there, please.
+PATIENT: Okay, stepping on the scale now… 122, it says. Yeah, that sounds about right. I haven't gained or lost much weight lately. Mostly just getting older, I guess. So, what do you think it is, Doctor?
+DOCTOR: Well, you’re a bit underweight, but that’s not necessarily the cause of your back pain. Based on what you’ve told me and the quick exam, it looks like simple muscle strain. Probably something you did without realizing it. We'll start with some over-the-counter pain relievers. Ibuprofen or naproxen, take as directed. And try some gentle stretching. Do you have any allergies to medications?
+PATIENT: No allergies that I know of. Never had any problems with ibuprofen or anything like that. Stretching… okay, I can try that. My wife has some yoga videos, maybe I’ll look at those. Is there anything else I should be doing? Like, should I be resting it, or keeping it moving? I always get mixed messages about that sort of thing.
+DOCTOR: Look, don’t overdo it. Avoid heavy lifting. Continue your normal activities as tolerated. If it doesn't improve within a week or gets worse, then we can talk about imaging. But honestly, I think it’s just a pulled muscle. Do you understand?
+PATIENT: Yeah, that makes sense. No heavy lifting, normal stuff as I can do it, and see if it gets better in a week. I can do that. So, just ibuprofen and stretching for now? And if it doesn't work, I come back? That sounds good. Thank you, Doctor.
+DOCTOR: Yes, that’s right. And try not to read too much on the internet. It'll just worry you. Here’s a printout with some basic stretching exercises. Next.
+PATIENT: Okay, thank you again, Doctor. I’ll try to stay off the internet. Have a good day.
+DOCTOR: .

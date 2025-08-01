@@ -1,0 +1,43 @@
+DOCTOR: Good morning, Mr. McKinnon. I'm Dr. Vanochten. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. It’s… well, it’s my muscles. They feel really weak. It’s been happening for a few weeks now, and it’s getting harder to do things.
+DOCTOR: Okay. A few weeks of muscle weakness… and it's progressively getting worse, you said?
+PATIENT: Yeah, that’s right. It started with just feeling a little tired after doing stuff, but now… even lifting a grocery bag feels like a big deal. It’s mostly in my arms and legs, I think. Not really in my back or anything.
+DOCTOR: Alright. And is this weakness… constant?
+PATIENT: No, not constant. It comes and goes, mostly. Some days are better than others. Like yesterday, I could walk okay, but this morning… getting out of bed was rough. It feels… unpredictable.
+DOCTOR: Okay, unpredictable. And when you say "rough," can you describe that a bit more?
+PATIENT: It’s hard to explain… like trying to push through thick mud. It's not painful, exactly, just… heavy. And it takes a lot of effort to get going. Like my legs just don’t want to cooperate sometimes. It's frustrating, honestly.
+DOCTOR: I understand. Frustrating is a good word for it. Have you noticed any other symptoms alongside the weakness?
+PATIENT: Hmm… let me think. Not really. I've been a little more tired than usual, I guess, but I thought that was just from… well, from worrying about the weakness. I haven’t been sick, no fever, no dizziness, nothing like that. Just the muscles feeling weak and tired.
+DOCTOR: Okay. No fever, no dizziness, just weakness and fatigue. And this fatigue... is it all the time, or does it come and go like the weakness?
+PATIENT: It’s more like the weakness, comes and goes. Some days I feel alright, energy-wise, and other days I just want to lie down. It’s hard to get motivated to do anything on the bad days, even stuff I usually enjoy. I haven't noticed it get worse with activity, specifically.
+DOCTOR: Alright. And have you had any changes in your diet recently?
+PATIENT: No, not really. I eat pretty much the same stuff as always. Mostly just… you know, regular food. I try to eat okay, but I don’t really follow a strict diet or anything. Nothing fancy. I’ve definitely not been eating less, if that’s what you mean.
+DOCTOR: Okay, no changes in diet. And what about any recent illnesses, even a cold or the flu?
+PATIENT: Nope. Haven’t been sick in months. Last time I had a cold was… probably last winter, but that was a long time ago. Definitely nothing recent. I'm pretty careful about washing my hands and stuff.
+DOCTOR: Okay. And are you currently taking any medications?
+PATIENT: No, sir. I don't take any regular medication. I try to avoid them if I can. I haven't needed anything in years, honestly. Just… over-the-counter stuff for headaches sometimes.
+DOCTOR: Alright. No medications. Now, I’d like to ask a few questions about your medical history. Have you ever been diagnosed with any medical conditions?
+PATIENT: No, not that I know of. I’ve been to the doctor for check-ups and stuff, but they never told me I had anything seriously wrong. Just the usual stuff – high blood pressure a few years back, but it went down with diet and exercise. Nothing major.
+DOCTOR: Okay, high blood pressure in the past, controlled with diet and exercise. And have you ever had any surgeries?
+PATIENT: Nope. Never had surgery. I’m… lucky, I guess. I've always been pretty healthy, until this muscle weakness started. It’s really worrying me, to be honest. I need to be able to work, you know?
+DOCTOR: Alright, no surgeries. And what about your family?
+PATIENT: My family… my dad had diabetes, but other than that, not really. My mom was pretty healthy until she got old, and my siblings are all okay, as far as I know. Nothing major that I'm aware of, like muscle problems or anything like that. We don't really talk about health stuff much, to be honest.
+DOCTOR: Okay. No significant family history. Now, one last thing before we do a quick physical exam. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, sir. I don’t smoke, and I rarely drink. Maybe a beer or a glass of wine with dinner sometimes, but not often. And definitely no drugs. Never touched them. I try to stay clean and healthy. It's just... this weakness is really throwing me for a loop.
+DOCTOR: Alright. Thank you for that information, Mr. McKinnon. Now, I’d like to do a quick physical exam. Can you stand up for me, please?
+PATIENT: Sure. There we go. Be careful, my balance isn't the best these days.
+DOCTOR: Okay. I see. Just walk a few steps forward and back for me, please. And can you try to raise up onto your toes?
+PATIENT: Okay… that’s… harder than it looks. My legs are feeling a bit shaky now. It’s like they want to give out. There. That was… not great.
+DOCTOR: Alright. And now, can you push against my hands?
+PATIENT: Like this? It’s… not very strong. I used to be able to push much harder than this. Sorry. It feels… like I’m trying to push through mud again.
+DOCTOR: Okay, I see. And now, I'm going to check your reflexes. This might feel a little strange. Please relax your legs. I’m going to tap just below your kneecap.
+PATIENT: Okay. Relax… right. Just let me know if it hurts. I’m a bit jumpy.
+DOCTOR: Okay. And now the other leg. Alright. Now, I’m going to listen to your heart and lungs. Just breathe normally. Okay, those sound good. Alright, Mr. McKinnon. Thank you for letting me do that. Based on what you’ve told me and the quick exam, it seems we need to run some tests to figure out what's causing your muscle weakness. It could be a number of things, from vitamin deficiencies to something more serious. I’m going to order a complete blood count, a comprehensive metabolic panel, and a vitamin D level. We'll also check your thyroid function. Does that sound alright?
+PATIENT: Yeah, that sounds… good. I just want to know what’s wrong. I need to get back to work, you know? Those tests… will they take long? And how will I get the results?
+DOCTOR: The tests shouldn’t take long, a couple of days at most. The lab is right down the hall, and the nurse will give you instructions on how to get there. As for the results, we'll call you as soon as they come back, and we can schedule a follow-up appointment to discuss them. Given your symptoms and lack of insurance, I also want to refer you to a neurologist for a more specialized evaluation. They can do more in-depth testing if needed. Would you be open to that?
+PATIENT: A neurologist… okay. That sounds… serious. But yeah, if you think it’s best, I guess. I just… I don’t have insurance, Doctor. Will that be expensive? I don’t want to get a huge bill I can’t pay.
+DOCTOR: I understand your concern about the cost, Mr. McKinnon. Many neurologists have sliding fee scales for patients without insurance, and we can also look into options for financial assistance. The clinic social worker is excellent at navigating these things, and I can have her contact you to discuss your options. I wouldn’t recommend a specialist if I didn’t think it was necessary, and we will work with you to make sure you can access the care you need. In the meantime, try to avoid any strenuous activity, and if you notice any new symptoms – like difficulty breathing, changes in vision, or severe headaches – please go to the nearest emergency room immediately. Does that sound alright?
+PATIENT: Okay… alright. That… that sounds better, knowing there’s help with the cost. I appreciate that, Doctor. Avoiding strenuous activity, and emergency room if anything new happens. Got it. Okay. So, the lab first, then the nurse will contact me? And then the social worker?
+DOCTOR: Yes, exactly. The nurse will give you the paperwork for the lab right now. Once you get the results back, we'll schedule the follow-up appointment. And the social worker will contact you within the next day or two to discuss financial assistance for the neurologist referral. I’m going to write up a summary of our conversation and these plans for you to take with you. Here you are. Do you have any questions for me before you go?
+PATIENT: No, I think that covers everything. Thank you, Doctor. I really appreciate you taking the time to listen and not just brush me off. It’s… a weight off my shoulders, knowing we’re doing something. Thank you again. I’ll go see the nurse now.
+DOCTOR: You're very welcome, Mr. McKinnon. I'm glad I could help. And please, don't hesitate to call the clinic if you have any questions or concerns. Take care. .

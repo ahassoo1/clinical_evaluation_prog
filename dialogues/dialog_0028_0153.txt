@@ -1,0 +1,42 @@
+DOCTOR: Right. Mr. Krahn, is it?
+PATIENT: Yes, that’s right. Krahn. Though… honestly, it’s been a while since anyone’s asked. Is there… something wrong? I just need this done so I can get back to work, if you don’t mind.
+DOCTOR: Well, something brought you in here, didn’t it?
+PATIENT: Did it? Oh dear… I… I think so. It’s for the theatre, right? A check-up? I get so many things going on these days, it all blurs together. A performance physical, that’s it. They said I needed to come in.
+DOCTOR: A performance physical… Right. And what exactly do you perform?
+PATIENT: Oh. Well… I usher, mostly. And take tickets. Sometimes help in the lobby. It’s… it’s not exactly performing, is it? More like… making sure everyone can perform. I've been doing it a long time, though. A very long time.
+DOCTOR: Ushering. I see. And what prompted them to send you here for a physical?
+PATIENT: That's a good question! Honestly, I don't recall. Someone from the management, I think. Said it was… a new rule? For everyone who works there? Maybe they had a scare? I really couldn’t say. It all feels a bit… hazy.
+DOCTOR: No notes here… Just a basic demographic form. Well. Let’s just get this over with, shall we?
+PATIENT: Yes, please. That sounds good. The quicker, the better, if you don't mind. I have a show starting in a few hours, and I need to make sure everything’s running smoothly.
+DOCTOR: Alright. Let's start with the basics. Any allergies?
+PATIENT: Allergies? Hmm… I don’t think so. Not that I’m aware of. I used to have a bit of a sniffle in the spring, but that was ages ago. Dust, maybe? Or just the changing weather. Nothing serious, I assure you.
+DOCTOR: Okay. And any medications you're currently taking?
+PATIENT: Medications… let me think. Oh! I take something for my… well, for my knees. They ache a bit, you know, from standing all day. A little pill. I can’t recall the name, though. It’s… white, I think? Small. I get it from the pharmacy down the street.
+DOCTOR: Right. And do you know the dosage?
+PATIENT: Dosage? Oh dear. That’s… that’s a good question. I just take one. Every morning. Or sometimes two if my knees are really bothering me. I just ask the pharmacist to give me what I usually get. I'm terrible with names and numbers these days.
+DOCTOR: Wonderful. Alright. Let's move on. Any past medical history?
+PATIENT: Past medical history… Oh, that’s a long list, probably. I’ve lived a long life, you know. I had… a bad flu once. And I broke my arm when I was a child. Nothing major, really. A few aches and pains here and there, as you get older. Honestly, it’s all a bit of a blur. I don't keep track of these things.
+DOCTOR: Right. And have you ever had any surgeries?
+PATIENT: Surgeries… Hmm. Let me think… I had my tonsils out when I was young. And… oh! Yes. Something with my… my knee, years ago. A small operation. To fix something. I can't remember exactly what was broken, but it helped for a while.
+DOCTOR: Anything else?
+PATIENT: Well… I think I had a cataract removed in one eye, maybe? A long time ago. It’s all a bit foggy, as you can imagine. And… oh dear. This is exhausting, isn’t it? I’m just trying to recall everything. It’s been a long life.
+DOCTOR: Alright. Let’s do a quick physical exam, then. Just to make sure nothing is… drastically wrong. Can you stand for me?
+PATIENT: Yes, yes, of course. Though my knees… well, you already know about my knees. There. Is that alright? I’m not as nimble as I used to be.
+DOCTOR: Hmm. And can you bend forward and touch your toes?
+PATIENT: Oh dear. That’s… that’s going to be difficult. There. That’s about as far as I can go, I’m afraid. My back isn’t what it used to be either.
+DOCTOR: Limited range of motion. And… some discomfort noted. Alright. Let's listen to your heart and lungs. Take a deep breath… and exhale.
+PATIENT: Like this? Is that alright? I try to breathe deeply, but it sometimes feels… constricted. Old age, you know. Everything gets a little tighter.
+DOCTOR: Heart sounds are… regular, but slightly diminished. Lungs are clear, but breathing is a bit labored. Alright. And blood pressure?
+PATIENT: Blood pressure? Oh dear. I always get nervous when they take my blood pressure. Is it going to hurt? It usually feels a bit… tight.
+DOCTOR: 150/90. Slightly elevated. And finally, let me just check your reflexes.
+PATIENT: Reflexes? Oh, all right. I haven't had my reflexes checked in ages. Do I need to do anything special?
+DOCTOR: Diminished reflexes bilaterally. Alright. That’s all for now.
+PATIENT: Oh. Well. That wasn't so bad, was it? What did you find? Is everything alright? I really need to get back to the theatre, if possible. They’re relying on me.
+DOCTOR: Alright, Mr. Krahn. Your blood pressure is slightly elevated. Your reflexes are diminished, and you have limited range of motion in your knees. Your heart sounds are a bit weak, but your lungs are clear. Honestly, it's not ideal. Given your age and these findings… I recommend a follow-up with a cardiologist, and possibly a physical therapist.
+PATIENT: A cardiologist? Oh dear. That sounds… serious. And a physical therapist? I just need to keep working, you know? The theatre needs me. Is it really necessary? Can’t I just… take it easy?
+DOCTOR: "Taking it easy" isn't a treatment, Mr. Krahn. Look, I'm not saying you're in immediate danger, but these are things that need to be addressed. The cardiologist can assess your heart function, and the physical therapist can help with your knee pain and mobility. Ignoring this won’t make it go away, and could lead to more serious problems down the line. Do you have insurance?
+PATIENT: Insurance? Oh… no. I don’t. Not anymore. It’s… complicated. It’s been a long time since I could afford it. I just… I pay as I go, when I need something. This is going to be expensive, isn’t it?
+DOCTOR: It will be. Unfortunately, without insurance, these tests and therapies will be quite costly. There are some free clinics in the area, but they have limited resources and long wait times. I can give you a list, but I can't guarantee anything. Look, I’m going to write a referral for both a cardiologist and a physical therapist. It’s your decision whether or not you pursue it. But I strongly advise you to do so. In the meantime, try to avoid strenuous activity. Do you have any questions?
+PATIENT: Questions… Oh dear. This is a lot to take in. No… I don’t think so. Just… thank you. For everything. I’ll… I’ll think about it. I need to get back to the theatre, though. They're probably wondering where I am.
+DOCTOR: Alright. Well. Try to take care of yourself, Mr. Krahn. That will be all. .
+PATIENT: .

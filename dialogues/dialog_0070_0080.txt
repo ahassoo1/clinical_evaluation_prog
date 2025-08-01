@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Ms. Fabing. Welcome to the clinic. My name is Dr. Abady. It’s nice to meet you. To begin, could you tell me what brings you in today?
+PATIENT: Morning, Doctor. Nice to meet you too. Well, it’s not really a visit, exactly. Just need to get some forms filled out, that’s all. Medicare asked me to, you know, update some things.
+DOCTOR: Certainly, Ms. Fabing. We can absolutely assist with those forms. While we're at it, would you mind if I took a few moments to review your medical history with you?
+PATIENT: Oh, sure. That’s fine. I don't really have much going on, honestly. I'm pretty healthy, I think. But go ahead, if you need to.
+DOCTOR: Excellent. Let’s start with your past medical history. According to my records, it appears we don't have a great deal documented. Have you been diagnosed with any chronic conditions, such as diabetes, high blood pressure, asthma, or heart disease?
+PATIENT: No, sir. Nothing like that. Never been diagnosed with any of those. I’ve had the usual colds and flu, you know, but nothing serious enough for a doctor, really. Just stayed home and rested.
+DOCTOR: That’s good to hear, Ms. Fabing. And how about any past surgeries or hospitalizations?
+PATIENT: Nope. Never had any surgeries. And haven't been in the hospital since I was born, I think. My mom always said I was a healthy baby.
+DOCTOR: That’s wonderful. Family history can be important, Ms. Fabing. Are there any significant medical conditions that run in your family – perhaps heart disease, cancer, diabetes, or other illnesses?
+PATIENT: Hmm… that’s a good question. My grandma, on my mom’s side, had… something with her heart, I think. It was a long time ago, and I don’t remember the details. She passed when I was pretty young. And my uncle, he had cancer, a few years back. Lung cancer, I think it was. But other than that… not really. Everyone else seems pretty healthy, as far as I know.
+DOCTOR: Thank you, Ms. Fabing, that's helpful. Now, let’s talk a little about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh, no, none of that. Never smoked a day in my life. Don’t care for it. And I might have a glass of wine with dinner sometimes, but that’s it. Not a big drinker. And definitely no drugs.
+DOCTOR: That’s excellent, Ms. Fabing. And what about your occupation?
+PATIENT: I’m a control and valve installer and repairer. Except for mechanical doors, that is. It's a bit of a mouthful, I know. Mostly I work with water systems, making sure everything’s running right. It keeps me busy, but I like it. It's good, honest work.
+DOCTOR: That sounds very important work, Ms. Fabing. Do you find it physically demanding?
+PATIENT: It can be, sometimes. Lots of bending and lifting, crawling around in tight spaces. But I’ve been doing it for a while now, so I’m used to it. Stay in pretty good shape, I think. Not as good as I used to be, but good enough.
+DOCTOR: That's good to hear. Now, to complete your medical history, are you currently taking any medications, including over-the-counter medications, vitamins, or supplements?
+PATIENT: Nope. Nothing at all. I try to eat healthy and get enough sleep, that’s about it. Maybe a multivitamin sometimes, but I haven’t taken one in a while, to be honest. I don't really like taking pills if I don't have to.
+DOCTOR: And finally, do you have any allergies to medications, food, or anything else?
+PATIENT: Nope, not that I know of. Never had a reaction to anything. My mom always said I had an iron stomach. I've eaten some pretty questionable stuff in my life, and I've always been okay. I think I'm pretty lucky, honestly.
+DOCTOR: Wonderful. Thank you for providing me with that detailed information, Ms. Fabing. It sounds like you are in generally excellent health. Just to be thorough, would you mind if I performed a brief physical exam?
+PATIENT: Oh, sure. That’s fine. If you think it’s necessary, go ahead. I'm happy to help in any way I can. I just want to get these forms done and get on with my day, but I'm happy to get checked out if you want to.
+DOCTOR: Certainly. It will be quick. Let's start with your vital signs. Blood pressure is 122/78, pulse is 72 and regular, and your temperature is 98.6 Fahrenheit. Now, I'll listen to your heart and lungs. Please take a deep breath for me. Heart sounds are normal, no murmurs noted. Lung sounds are clear bilaterally. Abdomen is soft, non-tender, and non-distended. No masses or organomegaly noted. Reflexes are 2+ and symmetrical. Everything seems to be within normal limits. Well, everything appears to be normal, Ms. Fabing. You're in good shape.
+PATIENT: That’s good to hear, Doctor. I was hoping that would be the case. So, can we just get those forms filled out now? That’s all I really came for, you know. Medicare’s been on my back about them for weeks.
+DOCTOR: Absolutely, Ms. Fabing. Let’s get those forms completed for you. I'm just documenting everything we discussed and noting the normal findings from the exam. It should only take a few minutes. Here you go, Ms. Fabing. Please review them to make sure everything is accurate, and let me know if you have any questions. Is there anything else I can assist you with today?
+PATIENT: Okay, perfect. Yep, everything looks right. Thank you, Doctor. No, I think that’s everything. I appreciate your help.
+DOCTOR: You’re very welcome, Ms. Fabing. It was a pleasure meeting you. If you experience any changes in your health, please don’t hesitate to schedule an appointment. Here’s my card with the clinic’s contact information. Have a wonderful day! .
+PATIENT: Thank you, Doctor. You too! .

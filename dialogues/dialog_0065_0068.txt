@@ -1,0 +1,17 @@
+DOCTOR: Good morning, Ms. Queener. I’m Dr. Duplichan. So, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. It's...the swelling. After the cancer stuff, you know? It's in my leg, mostly. It's been getting bigger, and it's a little uncomfortable.
+DOCTOR: "After the cancer stuff," alright. So, this swelling...it’s in one leg, you said?
+PATIENT: Yes, mostly the right one. Sometimes the left one feels a bit puffy too, but not as bad. It’s hard to explain…it’s like it fills with water, I think. Is that…normal? I don't really remember the doctor explaining much after everything.
+DOCTOR: “Fills with water”... you mean edema, then?
+PATIENT: Edema? Is that…the water part? I don't know medical words, Doctor. Sorry. It just…feels full, like when you squeeze a sponge. Does that make sense? I just want it to go away, honestly. It's making it hard to wear my shoes.
+DOCTOR: Yes, edema is the medical term for swelling caused by fluid retention. It’s…common, shall we say, after certain treatments. But “common” doesn’t mean it’s unimportant. Let’s get some specifics. When did you first notice this swelling, Ms. Queener?
+PATIENT: Hmm... let me think. It started…maybe a month ago? A month and a half? It was small at first, I barely noticed. I thought it was just from sitting too long. But it's definitely gotten worse in the last few weeks. It's hard to keep track, you know? Everything feels a bit…blurry now. I just want to feel normal again.
+DOCTOR: "Blurry"... Alright. And has anything specific made it worse?
+PATIENT: Specific...? Well, standing for too long, I think. And…hot weather. It gets really bad when it’s hot. Oh! And I ate a lot of salty food last week. My friend made a lovely stew, but now I think that wasn’t such a good idea. I don't know, Doctor. I just try to enjoy what I can.
+DOCTOR: So, prolonged standing, heat, and a high-sodium diet. Those are all contributing factors, Ms. Queener. Now, let's move on. Are you experiencing any other symptoms?
+PATIENT: Other symptoms…let me see. My leg feels heavy, like I’m dragging it around. And sometimes it feels a little…itchy? Not all the time, just now and then. And I’m a bit tired, always tired, really. But I guess that’s just from getting older. Is that what you want to know? I try not to bother you with things.
+DOCTOR: “Heavy” and “itchy” and “tired.” It’s important to document everything, Ms. Queener, even what you think might be insignificant. Now, let's talk about your past medical history. You mentioned “cancer stuff” earlier. Can you elaborate on that?
+PATIENT: Oh… right. It was…breast cancer. About two years ago. They did surgery, and then…radiation. And pills. Lots of pills. I don’t remember all the names, honestly. It was a difficult time. My doctor…Dr. Beaumont, a very nice man, but he was always so busy. I finished the treatment last year. Everything was supposed to be…better. That’s why I'm confused about the swelling.
+DOCTOR: "Finished treatment"... And you’ve been followed up regularly since then?
+PATIENT: Yes…ish. I saw Dr. Beaumont every six months for a while, but then he retired. And the new doctor…well, she just checked my scans and said everything looked okay. I haven’t really seen anyone much since then, to be honest. I didn't want to bother them if everything seemed alright. I'm a bit of a worrier, I guess. Is that a problem? .
+DOCTOR: “Seemed alright” is not a substitute for a thorough examination, Ms. Queener. Now, let’s move on. Do you have any allergies to medications?

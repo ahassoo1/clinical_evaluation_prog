@@ -1,0 +1,21 @@
+DOCTOR: Alright then, Kahrin, is it?
+PATIENT: Yep, that’s me. Look, I appreciate you squeezing me in, Dr. Burlingham. I just really want to know what the tests said, if you don’t mind getting straight to it? I've got a pretty busy day.
+DOCTOR: Busy, yes, everyone's busy these days. But rushing things doesn't get us anywhere, now does it?
+PATIENT: Honestly? It kinda does for me. I planned everything around getting this over with. No offense, but I’m really hoping it’s nothing serious and I can just…move on with things. What did they find?
+DOCTOR: Well, “nothing serious” is for you to determine, after I explain things. I have the results here… and frankly, it looks like your white blood cell count is a little elevated. Now, that could be a number of things. Have you been feeling unwell?
+PATIENT: Elevated? Okay. No, not really. I mean, I get tired, but who doesn’t? I work long hours, coordinating shipments… it’s stressful. Is that…enough to make it go up? I haven't had a fever or anything. Honestly, I thought I was just run down.
+DOCTOR: "Just run down," you say. People always minimize things. Stress can affect things, yes, but it doesn't automatically explain everything. Do you have any aches or pains?
+PATIENT: Nope. Not really. Sometimes my back hurts from lifting stuff at work, but that's it. It goes away after I sit down for a bit. I really don’t get sick much, honestly. I've always been pretty healthy. So, is it…bad? Like, do I need…pills or something? I'm trying to figure out if I need to reschedule a whole bunch of deliveries.
+DOCTOR: "Pills," you say?
+PATIENT: Well, yeah! Is that what it takes to fix it? Look, I’m not a doctor, I just want to know what we’re dealing with. If it’s something simple, great. If it's something I need to be worried about, I need to know now. I have a deadline, Dr. Burlingham. Is it something contagious? Should I tell my coworkers?
+DOCTOR: Contagious… you jump straight to the worst possibilities, don't you?
+PATIENT: Well, wouldn’t you want to know if someone you worked with could potentially get sick? I’m just trying to be responsible. So, is it? Yes or no? Look, I'm a logistician – I deal with problem-solving. Just give me the facts, please. I can handle it.
+DOCTOR: Alright, alright. It's not immediately concerning, but the elevated white blood cell count needs investigating. We'll need to run some further tests. I'm ordering a complete blood count with differential, and a metabolic panel.
+PATIENT: Okay. More tests. Fantastic. How long will those take? And…will I need to come back again? Because if I have to reschedule everything again… Is there anything I should be doing in the meantime? Like, avoiding certain foods or something?
+DOCTOR: Avoiding foods?
+PATIENT: Well, yeah! Like, is there anything that makes it worse? I read online that certain things can affect your blood count. Honestly, Dr. Burlingham, I’m just trying to be proactive here. I really don't have time for this to drag on. What kind of timeframe are we looking at? A week? Two? And can I still work?
+DOCTOR: “Read online,” you say. That’s your medical education now, is it?
+PATIENT: Look, I’m just trying to understand! I’m not trying to be difficult. I just… I like to be prepared. I'm a planner. So, can I work, or can’t I? And about those tests… do I need a special appointment, or can I just drop by whenever? I really need to get back to the office.
+DOCTOR: You can continue your work, but I suggest reducing strenuous activity until we have the results. As for the tests… the lab is open 8 to 5, Monday through Friday. You'll need to sign in at the front desk, and they’ll take care of it. I'll call you with the results once they’re back. Don't bother me until then. Do you have any other questions, or are we finished?
+PATIENT: Okay, 8 to 5. Got it. And you'll call? Not have me call back? Fine. No, I think that's it. Thank you, Dr. Burlingham. I really appreciate you squeezing me in. .
+DOCTOR: Very well. Try not to overexert yourself. And perhaps spend less time “reading online.”

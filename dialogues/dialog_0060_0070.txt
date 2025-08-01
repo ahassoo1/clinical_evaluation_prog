@@ -1,0 +1,44 @@
+DOCTOR: Good morning, Mr. Szmyd. I’m Dr. Nooruddin. So, what brings you in to see me today?
+PATIENT: Morning. Uh… just moved here. New place, you know? Need… doctor. Something about the… the cards, the Medicare cards. They say I need to come. Old man told me.
+DOCTOR: Right, the cards. Yes, well, that’s understandable. It’s good you’re getting things sorted. But besides that, is there anything specific bothering you?
+PATIENT: Bothering me? Hmm. Not really. I mean, old bones ache a little, but that’s just… life, yes? I paint faces. For the theater. Lots of standing. That’s all. Not a big problem.
+DOCTOR: “Lots of standing,” you say. And painting faces…interesting. So, these aches… where exactly are they located?
+PATIENT: Achings… everywhere, a little. Back, mostly. And my feet. Always the feet. Like little hammers, you know? But I work with them. Gotta stand. It’s not… serious. I don’t need… bandages or anything.
+DOCTOR: “Everywhere a little” is a bit vague, Mr. Szmyd. It makes it difficult to understand what's going on. Let’s try to be a little more precise. On a scale of zero to ten, with zero being no pain and ten being the worst pain imaginable, how would you rate the pain in your back right now?
+PATIENT: Zero to… ten? What kind of question is that? Pain… hmm. Right now… maybe a three? Four? It comes and goes. It's not like… shooting pain. More like… old. Everything is just… old. Not a four, maybe a three. But sometimes… sometimes it's more.
+DOCTOR: Alright, a three or four. And the pain in your feet?
+PATIENT: Feet… oh, the feet. Always complaining. Maybe a five? When I’ve been standing all day. It’s… a dull ache. Like they’re filled with stones. I used to have good shoes, but… well, things get lost, you know? Divorce. Everything goes.
+DOCTOR: Right. So, back and feet. Any pain anywhere else?
+PATIENT: Elsewhere? Let me think… My hands sometimes. From holding the brushes, you know? They get… stiff. Not pain, exactly. More… tired. Old hands. Like they’ve done a lot of work. Maybe a two? Is this important? I just came about the cards.
+DOCTOR: It's helpful to get the full picture, Mr. Szmyd. Even if it seems minor to you. So, hands, two. Do you have any trouble sleeping because of these aches and pains?
+PATIENT: Sleeping… sometimes. I toss and turn. Old mattress. It's not a good one. But I sleep. I always sleep. Never had trouble sleeping. Maybe I wake up once or twice, but… everyone does that, yes? It's not a big deal.
+DOCTOR: Alright. Now, have you noticed any other symptoms?
+PATIENT: Symptoms? What kind of symptoms? Like… fever? No. I don’t get sick. Never been one for sickness. Maybe a little… winded sometimes. But I’m not… athletic. Never was. Just… old lungs, perhaps?
+DOCTOR: Winded… when does that happen, Mr. Szmyd?
+PATIENT: Winded… hmm. When I climb the stairs. My apartment is on the third floor. Not a big deal. I just… take my time. Slowly, slowly. It’s not… a running problem. I don’t run. Too old for running.
+DOCTOR: Okay. And are you currently taking any medications for anything?
+PATIENT: Medications? No. Never been one for pills. Bad for the stomach, you know? I drink tea. Lots of tea. Helps with… everything. Maybe a little chamomile before bed. That’s all. No pills.
+DOCTOR: Alright. No medications. Now, have you ever had any serious illnesses or been hospitalized for anything?
+PATIENT: Serious illnesses? Hmm. When I was a boy… I had the measles. Very bad, I remember. But that was… a long time ago. And maybe… a broken arm once. When I was young. But nothing serious lately. Just old age. That’s the serious thing.
+DOCTOR: Alright. No recent hospitalizations. And what about surgery?
+PATIENT: Surgery? No. Never had surgery. Don't like knives, you know? Too much poking and prodding. Bad for the… the aura. No surgery. Definitely not.
+DOCTOR: Okay, no surgery. Now, is there anyone in your family - your parents, siblings, children - who has had similar problems with aches and pains, arthritis, or anything like that?
+PATIENT: Family? Not really. My mother… she was strong. Worked in the fields. Never complained. My father… he was a soldier. Tough as nails. I don't remember them having… aches and pains. They were… different people. Things were different then.
+DOCTOR: Alright. One last thing, Mr. Szmyd. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Recreational… what? No. Never. Bad for the face. Bad for everything. A little vodka sometimes. Very little. For… the throat. And a cigarette… maybe one a month. When I’m very stressed. But mostly… just tea. No, no drugs. I'm a painter, you know? Need steady hands.
+DOCTOR: Alright. Well, Mr. Szmyd, it sounds like you’re generally healthy, despite some aches and pains. What you're describing sounds like typical wear and tear with age, perhaps some mild osteoarthritis. But given your report of being winded on the stairs, I want to be thorough. I'm going to listen to your heart and lungs, and check your reflexes. Then we’ll talk about some simple things you can do to manage the pain. Is that alright?
+PATIENT: Manage the pain… yes, alright. As long as it doesn't involve knives. Sounds… sensible. Listening to the heart… fine. But quick, please. I have… things to do. Paint faces, you know?
+DOCTOR: Right. Please sit back and take a few deep breaths. We’ll start with your heart.
+PATIENT: Old lungs. I told you.
+DOCTOR: Your breathing is a little wheezy, Mr. Szmyd. And your heart rate is slightly elevated. Do you experience any swelling in your feet or ankles?
+PATIENT: Swelling… sometimes. After I’ve been standing all day. They get… puffy. Like little balloons. But it goes away when I lie down. Old age, you know? Everything puffs up.
+DOCTOR: Yes, I can see some mild swelling. And your reflexes are a little diminished. Alright, Mr. Szmyd. Based on what you’ve told me and what I’ve found during the exam, it sounds like you have some mild osteoarthritis in your knees and feet, and possibly a touch of mild COPD, likely from some previous smoking. The wheezing and slightly elevated heart rate could be related to that. It's good you've cut back on the cigarettes. It’s not an emergency, but we should address it.
+PATIENT: COPD? What is that? Sounds… complicated. And I didn’t smoke that much. Just a little when I’m stressed! Complicated sounds… expensive.
+DOCTOR: COPD stands for Chronic Obstructive Pulmonary Disease. It's a lung condition that makes it harder to breathe, often caused by smoking, but sometimes by other things. It's not something to panic about, but it’s important to manage it. We’ll start with a simple breathing exercise and discuss some over-the-counter pain relief options for your knees and feet. I'm also going to order a chest X-ray just to get a better look at your lungs. Does that sound alright?
+PATIENT: X-ray? More poking and prodding? And breathing exercises? I paint faces, you know! I need… stillness. Not puffing and blowing. Is this expensive? And will it affect my… aura?
+DOCTOR: Mr. Szmyd, the X-ray is a simple procedure. It doesn’t involve any poking or prodding. It's just a picture of your lungs. The breathing exercises are very gentle; they won’t interfere with your painting. And they’re covered by Medicare. As for your “aura,” I am a medical doctor, not a… spiritual advisor. I can assure you, it won’t affect your aura. Look, these are simple preventative measures. We need to rule out anything serious and manage your symptoms. I’m ordering the X-ray, and my nurse will give you instructions on how to do the breathing exercises. We can discuss over-the-counter pain relief options after we get the results. Do you have any other questions?
+PATIENT: Questions… yes. Will this affect my ability to… see colors? I need to see colors. Very important. And… can I still drink vodka? A little, for the throat, you understand? It’s medicinal.
+DOCTOR: Mr. Szmyd, the X-ray and breathing exercises will not affect your ability to see colors. And I advise limiting your alcohol consumption, even if it's "for the throat." I'm a doctor, and that is my professional advice. My nurse will schedule you for the X-ray and go over everything with you. I have other patients waiting. Do you understand?
+PATIENT: I understand… you're a doctor. And I paint faces. Very important faces. But… a little vodka doesn't hurt. Alright. Tell your nurse. But be quick. I have things to do.
+DOCTOR: Very well. My nurse will be in shortly. Have a good day, Mr. Szmyd.
+PATIENT: 

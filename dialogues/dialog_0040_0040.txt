@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. Espinueva, is it?
+PATIENT: Yes, that’s right. Clearance Espinueva. It’s nice to meet you, Doctor… Osga, wasn’t it?
+DOCTOR: Yes, yes. Look, I have a very full schedule today, so let’s just get right to it. What brings you in?
+PATIENT: Well, it’s my side, mostly. It’s been hurting on and off for a while now. And… I keep getting these water infections, you see. They’re not nice at all.
+DOCTOR: “On and off” isn’t a diagnosis, Mr. Espinueva. How long is “a while”?
+PATIENT: Oh, goodness. Let me think… probably six months, maybe a little longer? It comes and goes, but lately it’s been more often. And the infections… three times this year, I think. It's hard to keep track, to be honest.
+DOCTOR: Three times this year…right. And is it painful to urinate?
+PATIENT: Yes, it is. It burns a bit, and sometimes… sometimes there’s a little bit of blood, if I’m being honest. It’s quite worrying, really.
+DOCTOR: Alright. Blood… lovely. Any fever, chills, nausea with these… infections?
+PATIENT: Sometimes a bit of a temperature, yes. Not a high one, but I feel hot and shivery. And no, I haven’t been sick to my stomach, thankfully. Just… tired. Very tired. It feels like it takes all my energy just to get through the day.
+DOCTOR: Alright. Let’s have a look at your records. Hmm. Medicare… rural location… Okay. I’m going to need to do a quick exam. We’ll start with your abdomen, then I’ll want a urine sample. Don't make me ask twice.
+PATIENT: Oh, alright. Yes, that sounds… sensible. A urine sample, you say? Is there a… a place I can go to do that? I hope it’s not too far.
+DOCTOR: Bathroom's that way. There are cups in there, the little ones with the lids. Try to catch the mid-stream, you know… the usual. And please don't make a mess. I have other patients waiting. I’ll be right back to get it when you're done. Don’t dawdle.
+PATIENT: Oh, right. Mid-stream… yes. I think I remember that. I’ll… I’ll try my best not to make a mess. Thank you, Doctor.
+DOCTOR: Good.
+PATIENT: Here you are, Doctor. I hope this is alright. It wasn't easy, if I'm being honest.
+DOCTOR: Right. Let’s get this sent to the lab. Honestly, some people… Now, about your side pain. Where exactly does it hurt?
+PATIENT: It’s… mostly on my right side, lower down. Sometimes it feels like it goes around to my back, a bit. It’s not a sharp pain, more of a dull ache, really. And it comes and goes, like I said. But lately, it's been pretty constant. It feels… full, somehow. Uncomfortable.
+DOCTOR: Hmm. Does that hurt?
+PATIENT: Ouch! Yes, that does! A bit tender, you see. Not terribly painful, but… definitely noticeable. Is that… normal?
+DOCTOR: Tenderness…right. Look, it could be a number of things. Probably just a muscle strain. But given your age and the recurrent infections… we need to rule things out. I'm ordering a full blood count, a urine analysis, and an ultrasound of your abdomen and pelvis. You'll need to go down to radiology, they'll schedule you. Don't forget the requisition form – it's on the counter.
+PATIENT: Oh. An ultrasound… That sounds a bit serious, doesn't it? What… what are you trying to find out? And a requisition form… I'm not very good with forms, if I'm honest. I hope it's nothing too bad.
+DOCTOR: Mr. Espinueva, honestly. I am not going to speculate. It's a precaution. We need to see what's going on. Radiology will explain everything. The requisition form has the address and instructions. If you need help, ask the receptionist. Now, are there any allergies I should be aware of?
+PATIENT: No, no allergies. Not that I know of, anyway. I eat most things. I've been lucky that way, I suppose. This is all a bit overwhelming, Doctor. I just want to feel better.
+DOCTOR: Alright. No allergies. Good. Listen, I have a waiting room full of patients, and frankly, you've taken up quite a bit of my time. I've ordered the tests. Go get them done, and then schedule a follow-up appointment with me in two weeks to discuss the results. The receptionist can help with that, too. Now, if there's nothing else… .
+PATIENT: Oh… right. Two weeks. Tests… Thank you, Doctor. I’ll… I’ll try to remember everything. Two weeks… radiology… requisition form… .

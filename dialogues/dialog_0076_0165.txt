@@ -1,0 +1,21 @@
+DOCTOR: Right, yes. Mr. Brege, is it?
+PATIENT: Yeah, that’s me. Clide Brege. Look, doc, I got things to do, so if we could just get right to it, that’d be great. This fever’s been botherin’ me again.
+DOCTOR: A fever, you say. Again?
+PATIENT: Yeah, it comes and goes. Not every day, but maybe three or four times in the last month. It’s not a high fever, you know? Just feelin’ kinda warm, achy… enough to knock me off my feet for a day or so. I'm a chiropractor, so bein' down is…bad for business.
+DOCTOR: A chiropractor, huh?
+PATIENT: Yep. Been adjustin' spines for forty years now. Makes it kinda hard when my spine’s achin’ and I feel like garbage, ya know? It usually breaks after a day, but it's gettin' old. It's just… annoying more than anything, really.
+DOCTOR: Any chills with it?
+PATIENT: Sometimes, yeah. Not like shiverin’ uncontrollably, but just… a little cold now and then. Mostly just feelin’ hot then cold, back and forth. It's hard to explain. And no cough, no nothin’ like that. Just… fever and achy.
+DOCTOR: Alright. And you’re sure there’s no cough, no shortness of breath, no… anything else?
+PATIENT: Nope. Nothing else. Just the fever and the aches. Look, doc, is this somethin' serious? Because I really don’t have time for a long thing. I got patients waitin’. I’m not insured, so… tryin’ to keep this quick would be great.
+DOCTOR: Well, a chiropractor worryin' about bein' down...that's a new one. Alright, let's just do a quick check. Blood pressure, pulse… have a seat. Don't want you fallin' over on me.
+PATIENT: Fine by me. The faster we get this done, the better. Just gettin’ old, I guess. Forty years of twistin’ and bendin’ finally catchin’ up to me.
+DOCTOR: Blood pressure’s a little elevated, but not concerning. Pulse is normal. Lungs sound clear. Any recent travel?
+PATIENT: Nope, haven't left the state in… oh, must be five years now? Just back and forth to work, and the occasional trip to the grocery store. Small town life, ya know? Not much excitement. Definitely haven’t been travelin’.
+DOCTOR: Alright. And any changes in appetite or weight recently?
+PATIENT: Nah. Eat pretty much the same as always. My wife's a good cook, keeps me well-fed. And I ain’t gained or lost any weight, not that I’ve noticed. Still fit enough to do my job, when I’m not feelin’ like garbage.
+DOCTOR: Look, it's likely just a virus. Probably somethin’ you picked up. Get some rest, drink plenty of fluids. If it gets worse, then come back. Honestly, I've seen patients with much more serious problems than this.
+PATIENT: So... that's it? No tests or anything? Just rest? Look, I appreciate ya sayin' it's nothin' serious, but I'd kinda feel better knowin' what I'm fightin', ya know? I don't want this comin' back every month.
+DOCTOR: Look, Mr. Brege, I have other patients. We could run tests, sure. But honestly, it’s probably just a minor infection. Running a full panel will just cost you money for little to no benefit. If you insist, I can order a basic blood test and a flu swab, but I doubt it will change anything. Just try the rest and fluids for a few days. If it persists, then we can talk about tests.
+PATIENT: Alright, alright. Fine. Rest and fluids. But if this keeps happenin’, I am comin’ back, and I want the tests then. Don't wanna waste my money now, but I'm not just gonna ignore it if it doesn't go away. Okay, I guess that’s all. Thanks, doc. .
+DOCTOR: Yes, yes. Get some rest. And don’t come back unless it's absolutely necessary. I have a waiting room full of people. .

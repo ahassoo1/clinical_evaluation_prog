@@ -1,0 +1,30 @@
+DOCTOR: Right. Well, Jailenne Aslan, 29 years old. So, tell me, what brings you in today?
+PATIENT: Oh, hi! Um, well, I've just been getting chills, like, a lot of them. It's been going on for a few days now. Not a fever, just…cold. It’s kind of annoying, actually.
+DOCTOR: “Just cold,” you say. Right. And when did these chills start, exactly?
+PATIENT: Hmm… let me think. It was… probably last Thursday, I guess? So, like four days ago. It started kind of gradually, just feeling a bit off, then the chills really started on Friday. I thought it was just a summer cold, but it hasn’t gone away.
+DOCTOR: And have you been taking anything for it?
+PATIENT: Not really, no. Like I said, I thought it was just a cold, so I just tried to rest and drink a lot of water. I took some paracetamol on Friday night because I had a bit of a headache, but that was it. I don’t usually take much medicine.
+DOCTOR: Alright. And besides the chills and the headache, have you noticed anything else?
+PATIENT: Um… well, I've been a little tired, I guess. More tired than usual. And maybe a bit achy, like my muscles feel a bit sore. But honestly, it’s hard to tell because I do a lot of walking for work. It's part of my job, you know, health education, so I'm always on my feet. Is that helpful?
+DOCTOR: "A bit achy." Right. And do you have any cough, congestion, sore throat?
+PATIENT: No, not really. No cough, no stuffy nose, and my throat feels fine. That's why I was so confused about what it could be! It’s just… the chills. And the tiredness, I guess. It’s not like a normal cold, is it? I feel… weirdly cold, even when I’m wearing a sweater.
+DOCTOR: “Weirdly cold,” you say. Hmm. Let’s get some basic vitals, shall we?
+PATIENT: Sure, okay. Whatever you think is best. I just want to figure out what’s going on. I have a workshop next week and I really need to be feeling better by then.
+DOCTOR: Alright. If you’ll just have a seat. I'll listen to your lungs and take your temperature. Then we'll see.
+PATIENT: Okay, sounds good. I’m not great with doctors, if you couldn’t tell. It always makes me a little anxious.
+DOCTOR: Deep breath in… and out. Again. Okay. Temperature is 37.2 Celsius. Pulse is a bit elevated at 88, but not alarmingly so. Lungs sound clear. No signs of a respiratory infection, thankfully. Have you travelled anywhere recently?
+PATIENT: No, I haven’t. Not for a long time. I went to Morocco to visit my family last Christmas, but that was months ago. I haven’t been anywhere else since then. Just around here, really. My work keeps me pretty busy.
+DOCTOR: Alright. And any significant medical history?
+PATIENT: Um… not really. I had chickenpox when I was a kid, like everyone else. And I broke my arm once, when I was about ten. But nothing major. I’m generally pretty healthy, to be honest. That's kind of why this is so strange.
+DOCTOR: And what about allergies?
+PATIENT: Not that I know of. I’ve never really had any problems with allergies. Sometimes I get a little sniffly in the spring, but I just put that down to hay fever. Nothing serious enough to go to the doctor about.
+DOCTOR: Alright. Any medications you’re currently taking?
+PATIENT: Nope. Nothing at all. I really try to avoid taking pills if I can help it. I believe in letting my body heal itself, you know?
+DOCTOR: Alright. Well, based on what you’ve told me, it sounds like a mild viral infection. Probably nothing to be overly concerned about. You’re young and otherwise healthy. It will likely resolve on its own with rest and fluids.
+PATIENT: Oh… okay. But what about the chills? They’re really bothering me, and they haven't gone away. Is there anything I can do to make them stop? Or at least feel better?
+DOCTOR: You can take paracetamol for the discomfort, if you wish. But honestly, you’re probably just being overly sensitive. These things happen. Your body is adjusting. I’ll write you a prescription, just in case. But don't expect miracles. And if it doesn’t improve within a week, come back, and we’ll consider further investigation.
+PATIENT: Oh. Right. Okay. A week… that's a long time. And the workshop is next week… So, you don't think it's anything serious? Like, nothing I should be really worried about?
+DOCTOR: Look, I've seen hundreds of patients with similar symptoms. It’s highly unlikely to be anything serious. But if you develop a high fever, severe headache, or difficulty breathing, then, yes, you should seek immediate medical attention. But frankly, I doubt that will happen. Now, do you have any other questions, or can we finish up?
+PATIENT: Oh. Um… no, I guess not. Thank you, I suppose. I hope you're right.
+DOCTOR: Alright. Well, get some rest, and try not to worry. Here’s the prescription. And if you don’t feel better in a week, then we can talk again. .
+PATIENT: Right. Okay. Thank you. Bye. .

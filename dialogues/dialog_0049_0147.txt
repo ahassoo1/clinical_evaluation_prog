@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Mr. Raghunathan. I’m Dr. Nestingen. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, I've noticed a lump, a mass, in my lower abdomen. It’s been there for a few weeks now, and it doesn’t seem to be going away.
+DOCTOR: A lump in your lower abdomen, you say. And how long exactly have you noticed it?
+PATIENT: Hmm, let me think… probably around three, maybe four weeks now. It wasn’t very noticeable at first, just felt a little… firm. But it's definitely grown a bit since then.
+DOCTOR: Alright. And can you describe the lump to me?
+PATIENT: It’s… roundish, I think. Not perfectly round, but close. And it feels… hard. Not painful when I press on it, not usually. Sometimes a little uncomfortable, but not really pain. It's located… well, it’s about a few inches below my belly button, on my left side.
+DOCTOR: A few inches below the belly button, on the left side. And no significant pain, just some discomfort occasionally. Have you noticed any other changes?
+PATIENT: No, not really. My bowel movements are normal, no changes there. No fever, no weight loss. I haven’t felt nauseous or anything like that either. It just… is there. It's a little worrying, to be honest.
+DOCTOR: Hmm. And have you had any previous medical issues with your abdomen, any surgeries, or anything of that nature?
+PATIENT: No, not that I recall. I've had the usual childhood illnesses, but nothing major. No surgeries, no serious injuries. I’ve always been pretty healthy, actually. I do try to eat well and stay active, though.
+DOCTOR: Alright. And what about your family history?
+PATIENT: That's a bit complicated, to be honest. My mother passed away a few years ago, and I don't have a lot of information about her medical history. My father, he's still alive, but he lives overseas and we don’t speak often. I don’t know of any family history of… well, anything like this, but I wouldn't swear to it. It's not something we talked about much.
+DOCTOR: I see. Well, let’s do a quick physical examination, shall we?
+PATIENT: Yes, that sounds good, Doctor. Whatever you think is best. I'm ready when you are.
+DOCTOR: Alright. Please lie down on the examination table. I’m going to palpate your abdomen, so please let me know if anything feels tender or uncomfortable. I’ll start gently. Can you tell me if you've had any recent trauma to the area?
+PATIENT: No, definitely not. No recent injuries or anything like that. I haven’t bumped it or fallen or anything. It just appeared, as far as I can tell. It’s a little… strange. Ooh, that spot… that's a little sensitive, yes. There.
+DOCTOR: Alright. It does feel somewhat firm, as you mentioned, and non-mobile. Approximately… three centimeters in diameter. No rebound tenderness noted. Auscultation reveals normal bowel sounds in all quadrants. Hmm. We'll need to get some imaging done to get a clearer picture of what we're dealing with.
+PATIENT: Okay, imaging sounds good. What kind of imaging are you thinking? Is it something I need to prepare for? I hope it's not… too invasive. I'm a bit nervous, to be honest.
+DOCTOR: We'll start with an abdominal ultrasound. It’s non-invasive, doesn’t require any special preparation, and will give us a good initial view. If that's inconclusive, we may need a CT scan, which does involve a small amount of radiation, but is generally quite safe. Let’s not get ahead of ourselves, though. We'll start with the ultrasound. I’ll write you a referral order. Are you allergic to any contrast dyes?
+PATIENT: That sounds much better - an ultrasound first is good. No, I don’t have any allergies, not that I know of. I’ve never had any reaction to anything before. I'm happy to start with the ultrasound, whatever is best for figuring this out. Hopefully it's nothing too serious.
+DOCTOR: Alright. Here’s the referral for the ultrasound. The radiology center is located at [address]. You’ll need to call and schedule an appointment. Once they have the results, they’ll send them directly to my office. I’ll review them and contact you to discuss the next steps. In the meantime, if you experience any sudden pain, fever, nausea, or changes in your bowel habits, please go to the emergency room immediately. Do you have any questions for me?
+PATIENT: Okay, perfect. I have the address here. Thank you, Doctor. No, I don’t think I have any questions at the moment. Just a little worried, but I appreciate you explaining everything. I’ll schedule the ultrasound as soon as possible. Thank you again for your time.
+DOCTOR: Very well. Don’t hesitate to call the office if you have any concerns before your appointment. Have a good day, Mr. Raghunathan.
+PATIENT: Thank you, Doctor. You too. .

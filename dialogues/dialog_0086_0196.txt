@@ -1,0 +1,38 @@
+DOCTOR: Good morning, Ms. Licano. I’m Dr. Murtic. So, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. It's… well, it’s this tiredness. Just…always tired. It’s been going on a while now, I think. Honestly, the days sort of blend together. I just feel… drained, all the time. Is that what you wanted to know?
+DOCTOR: “Always tired,” right. And how long exactly has this “always” been going on?
+PATIENT: Ugh… that’s a good question. See, my memory… it’s not what it used to be. I want to say… maybe six months? Or was it longer? After… after my husband passed, things got a little… fuzzy. It's hard to pinpoint, you know? It wasn’t sudden, it just… crept up on me.
+DOCTOR: Six months, approximately. And did this tiredness start around the time of your husband’s passing?
+PATIENT: Yes, I think so. It's all a bit of a blur, but… yeah, it feels like it got worse after that. He… he was everything, you see? It was a big shock, and… well, I haven't really been the same since. Does that make sense? I’m sorry, I’m not very good at explaining things.
+DOCTOR: Yes, well, grief is…unsettling. But tiredness alone isn’t particularly helpful. Are you experiencing anything else?
+PATIENT: Anything else? Let me see… I suppose… sometimes I feel a little achy. Like my muscles are sore, but not like from working out or anything. Just… generally achy. And… oh! Sometimes I have trouble sleeping, even though I’m tired all the time. It's a weird thing. I wake up feeling like I haven’t slept at all.
+DOCTOR: Muscle aches and difficulty sleeping. And can you describe these aches?
+PATIENT: Hmm…they’re not sharp pains, you know? Just… dull. Like I’ve done too much gardening, but I haven't. They’re mostly in my back and shoulders, I think. And sometimes in my legs. It’s hard to say exactly. They come and go. Not all the time.
+DOCTOR: Alright. And are you noticing any changes in your appetite?
+PATIENT: Changes in my appetite… Not really. I eat… when I remember to. Sometimes I don’t feel hungry, and other times I’m fine. It’s not a big change, I don’t think. I still like my food, just… I don't have much energy to make it sometimes.
+DOCTOR: And you said you're having trouble sleeping. Do you have any difficulty falling asleep, or do you wake up frequently during the night?
+PATIENT: Oh, it’s both, really. I can lie in bed for ages before I drift off, just… thinking. And then I wake up, maybe once or twice, sometimes more. And then it's hard to get back to sleep. I toss and turn. It's very frustrating. I used to sleep like a log.
+DOCTOR: Difficulty falling asleep, frequent awakenings. Alright. Are you experiencing any fever, chills, or unintentional weight loss?
+PATIENT: Fever, chills… no, I don’t think so. I haven’t been sick, not really. And weight loss… hmm. I haven’t weighed myself in ages, to be honest. But my clothes… they feel a little loose, maybe? But that could just be… well, you know.
+DOCTOR: "Maybe" is not helpful, Ms. Licano. We need specifics. Now, let's talk about your medical history. Have you been diagnosed with any chronic conditions?
+PATIENT: Oh dear. Chronic conditions… that’s… I have Medicare, so I must have something. Let me think… I had my gallbladder out years ago, a long time ago. And the doctor said I had high blood pressure, but I take a pill for that. I think. I get a lot of pills, honestly. I can't keep track. Is that helpful?
+DOCTOR: Gallbladder removal and hypertension. Do you remember the name of the medication you take for your blood pressure?
+PATIENT: Ugh. No, I really don’t. It's a little white pill, I think. Wait… hold on. Here. Maybe it’s in here? I just take what the pharmacy gives me, you know?
+DOCTOR: Ms. Licano, this is… not ideal. Do you have a list of your medications anywhere?
+PATIENT: No, I don’t. I really wish I did. It’s all such a mess. I just… I let the pharmacy handle it. I should really get organized, I know, but… I just don't have the energy. Everything feels so hard lately.
+DOCTOR: Alright. Do you have any allergies to medications?
+PATIENT: Allergies… Not that I know of. I’ve never had a bad reaction to anything, not really. Maybe a little bit of a tummy ache sometimes, but nothing serious. I'm pretty sure I'm not allergic to anything.
+DOCTOR: No known allergies. Now, let's talk about your family history. Are there any significant illnesses that run in your family?
+PATIENT: Family history… That’s… hard to remember. My mother had… something with her heart, I think. She died when I was young. And my father… he had diabetes, maybe? It was a long time ago. Everyone on my side was pretty tough, to be honest. Didn't talk much about illnesses.
+DOCTOR: Alright. And finally, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh, goodness no! I would never! I used to drink a little wine with dinner, years ago, but not anymore. I stopped after my husband passed. I don’t smoke, and I certainly don’t do drugs. I just want to feel better.
+DOCTOR: Alright. I’d like to do a quick physical exam. Can you stand on the scale for me, please?
+PATIENT: Oh, alright. I’m a bit wobbly, Doctor. Just a warning.
+DOCTOR: 108 pounds. And your height is listed as 187 centimeters…which is approximately 6’1”. That seems… tall. Now, let's check your blood pressure and listen to your heart and lungs. Please sit back down.
+PATIENT: Six foot one? That sounds right, I used to be a volleyball player! My mother always said I got my height from my father. Do whatever you need to do, Doctor. I’m just tired.
+DOCTOR: Blood pressure is 140/90. Heart sounds are regular, but slightly distant. Lungs are clear to auscultation bilaterally. Abdomen is soft, non-tender. No palpable masses. Reflexes are 2+ bilaterally. Everything seems…within normal limits, physically. However, your blood pressure is slightly elevated. Given your fatigue and possible weight loss, I’d like to order some blood work. It will include a complete blood count, a comprehensive metabolic panel, thyroid function tests, and a vitamin D level. Does that sound acceptable?
+PATIENT: Yes, that sounds… good. Whatever you think is best, Doctor. I just want to know what’s wrong with me. Is it something serious?
+DOCTOR: It’s difficult to say without the blood work, Ms. Licano. But given your age and symptoms, we need to rule out several possibilities, including anemia, thyroid issues, and vitamin deficiencies. I'll also order a urinalysis. We'll need to schedule a follow-up appointment once the results are back. I'll have the nurse draw the blood now. Do you have any questions for me before she comes in?
+PATIENT: No. Not really. Just… when will I know the results? And will the nurse… will she hurt me? I don’t do well with needles.
+DOCTOR: The results usually take a few days. The nurse is very skilled; it will be a quick prick, and then it’s over. It’s unlikely to be painful. I'll have her explain the process to you. And Ms. Licano, it’s important that you try to get more organized with your medications. Perhaps a family member can help you create a list. It's crucial for your health. Now, I’ll let the nurse come in and get started.
+PATIENT: Okay. Just get it over with. I just want to sleep.

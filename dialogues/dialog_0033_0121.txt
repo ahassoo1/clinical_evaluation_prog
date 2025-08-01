@@ -1,0 +1,25 @@
+DOCTOR: Right. Mr. Pipolo, is it?
+PATIENT: Yeah, that’s me. Andrew Pipolo. Just… Andrew is fine. You got a minute? I got things to do today.
+DOCTOR: Of course, Andrew. Though “a minute” rarely exists in medicine. Let’s try to be concise. So, what brings you in today?
+PATIENT: My eyes. They’re just… dry. Real dry. Feels like sand in ‘em sometimes. Been happenin’ for a while now, I guess. Not sure how long, exactly. Old man problems, probably.
+DOCTOR: “Old man problems,” as you put it. Right. And has anything changed recently?
+PATIENT: Changed? Hmm… not that I can think of. Weather’s been kinda dry, I suppose. Hotter than usual this summer. But it’s Alaska, right? Always a bit chilly. I don't know… I mostly just work, come home, sleep. Not much changes.
+DOCTOR: Do you use any eye drops?
+PATIENT: Eye drops? No. Never used ‘em. Always figured it would just… go away. I don’t go to doctors much. Waste of time, usually. But this dry thing is gettin’ on my nerves.
+DOCTOR: And are you experiencing any other symptoms alongside the dryness?
+PATIENT: Like what kinda symptoms? I see okay, I think. Maybe a little blurry sometimes, but I always figured that was just my age. And dust. Lots of dust at the job site. No pain, nothin’ like that. Just… dry. It's mostly just annoying, really. Feels scratchy.
+DOCTOR: Alright. And what sort of work do you do at this “job site”?
+PATIENT: I’m a cement mason. Been doin’ it a long time. Concrete finishin’, mostly. Lots of dust, lots of sun. Outside work. Been doin' it since I was a young man. Not easy work, but it pays the bills. Is this important?
+DOCTOR: It is relevant, Mr. Pipolo. Dust and sun exposure can certainly contribute to eye irritation. Do you wear any protective eyewear while working?
+PATIENT: Protective… what now? You mean like glasses? No. Never wore ‘em. Slows you down. Can’t see what you’re doin’ as good. Besides, never needed ‘em before. It's just now this dryness is botherin’ me. I’m startin’ to get a little worried, maybe.
+DOCTOR: Right. Well, let’s have a quick look at your eyes. If you could just sit back and look straight ahead. I’ll need to get a closer examination to determine the cause of the irritation. It's likely something simple, but we need to rule out anything more serious.
+PATIENT: Fine, fine. Get it over with. The sooner I’m outta here, the better. Hurry it up, will ya? I got a job to get back to.
+DOCTOR: Okay, looking straight ahead… good. Now, tell me if this is too bright. Conjunctiva appears mildly irritated, some dryness noted on the corneal surface… Pupils are responsive, but… overall, it appears to be fairly typical of chronic exposure.
+PATIENT: So? What does that mean? Is it somethin’ bad? I don’t understand all that… “conjunc-whatsit” talk. Just tell me straight. Is it gonna make me blind?
+DOCTOR: No, Mr. Pipolo, it is not going to make you blind. It appears to be a fairly straightforward case of chronic dry eye, likely exacerbated by your work environment. However, chronic irritation can lead to other complications if left untreated. It’s… not ideal.
+PATIENT: Untreated? What kinda treatment? You gonna poke me with needles? I don’t like needles. And I don’t have insurance, so… don't go offerin’ me somethin’ expensive. Just tell me if it’s serious, or if I can just ignore it and hope it goes away.
+DOCTOR: Ignoring it is… not recommended. We can start with artificial tears – lubricating eye drops – over-the-counter. Use them frequently, especially when you're working. I also strongly recommend wearing some form of protective eyewear, even if it’s just basic safety glasses, to shield your eyes from dust and debris. As for more complex treatments, we can discuss those if the over-the-counter options don’t provide sufficient relief. But let’s start simple. Do you understand?
+PATIENT: Eye drops and… glasses. That’s it? Okay. I can probably manage that. Where do I get ‘em? And how much are they gonna cost? Don’t want to spend a fortune on somethin’ my eyes might not even like.
+DOCTOR: Artificial tears are readily available at most pharmacies – Walgreens, Rite Aid, even some grocery stores. The cost varies, but you can find generic brands for around ten to fifteen dollars. Safety glasses are similarly affordable – twenty to thirty dollars, depending on the style and level of protection. I'll write down a recommendation for both. Try these for a month. If your symptoms persist, or worsen, schedule a follow-up appointment. Do you have any other questions?
+PATIENT: A month… okay. That’s… manageable. No, I think that’s it. Just… eye drops and glasses. Thanks. I gotta get goin’ now. Thanks for your time, Doc. .
+DOCTOR: Very well. Try to protect your eyes, Mr. Pipolo. And don’t hesitate to return if you don’t see improvement. .

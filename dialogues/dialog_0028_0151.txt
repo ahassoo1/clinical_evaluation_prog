@@ -1,0 +1,20 @@
+DOCTOR: Right. Teretha Uzarski, 63. Yes… Well, let’s not waste time. What brings you in today?
+PATIENT: Oh, hello Doctor… Memmolo, is it? Yes, well, it’s this tingling. In my hands, mostly. It’s been going on for… oh, I don’t even know how long now. A few weeks, maybe? It’s just… annoying, really. Makes it hard to sort the mail sometimes.
+DOCTOR: A few weeks, you say. Tingling in the hands. Right. And is it… constant?
+PATIENT: No, no, not constant. It comes and goes. Mostly when I’m… well, when I’m using my hands a lot. Like at work, you know? Sorting all that mail. It’ll get really bad, then ease up a bit. It’s not pain, exactly. Just… pins and needles. Like when your foot falls asleep, but in my hands. Does that make sense?
+DOCTOR: Vaguely. And you do… what at work, precisely?
+PATIENT: Oh, I’m a mail carrier. With the Postal Service. Been doing it… goodness, almost 30 years now. Lots of sorting, delivering… carrying things, you know? It's… physical work. Not as easy as it used to be, that’s for sure. But what can you do? I need the income.
+DOCTOR: Thirty years. Right. Any other symptoms?
+PATIENT: Hmm… let me think. Not really, no. Not that I’ve noticed. Maybe a little tired sometimes, but who isn’t? And my hands feel a bit clumsy when the tingling is bad, makes it hard to grip things properly. But that's about it, I guess. No pain anywhere else, no weakness, nothing like that. Oh, and I've been a little more forgetful lately, but that could just be my age. It happens, doesn't it?
+DOCTOR: Forgetfulness. Of course. And any history of… injuries to your hands or wrists?
+PATIENT: Oh, goodness, you know, now that you mention it… I did twist my wrist pretty bad a few years back. Delivering a heavy package, slipped on some ice. Had to wear a brace for a bit. It healed up okay, I thought. Never really bothered me after that, until… well, until this tingling started. Does that matter?
+DOCTOR: A twisted wrist… several years ago. Potentially relevant. Have you noticed any swelling in your hands or fingers?
+PATIENT: No, no swelling. Not that I've noticed, anyway. They look normal, I think. They might be a little… rough, from all the handling of mail and being out in the weather, but not swollen. I wash my hands a lot, try to keep them clean. All that touching of everything… you have to be careful, you know? It's a dirty job sometimes.
+DOCTOR: Let me just… feel your pulses. And… yes, they feel normal. Alright. Let’s have you do a few simple things. Can you squeeze my hands?
+PATIENT: Oh, okay. Yes, of course. Like this? Is that too hard? I don’t want to hurt you. It feels a little awkward, with the tingling… makes my hand feel weak.
+DOCTOR: Adequate. Now, can you touch your thumb to each of your fingertips on the same hand?
+PATIENT: Oh, yes, I can try. This one feels a little stiff… and this one. It’s not as easy as it used to be, I’ll tell you that. Everything’s getting harder, it seems. Is that what you want me to do? I can keep going if you’d like.
+DOCTOR: It appears you have some… decreased dexterity. And frankly, at your age, that's not entirely unexpected. It's likely some mild carpal tunnel syndrome, exacerbated by your… demanding profession. I'm not going to order any unnecessary tests. Let’s try a brace. Wear it at night. And try to avoid repetitive movements when possible, although I understand that’s… difficult. Here. Take this to the pharmacy. It's a wrist brace. Wear it when you sleep. If it doesn’t improve in a month, then we’ll talk about more… invasive procedures. Do you have any other complaints?
+PATIENT: Oh. A brace. Well, that’s… good, I guess. It doesn’t sound too bad. A month, you say? And no tests? Are you sure? I just… I don’t want it to get worse, you know? I need to be able to do my job. No, I don’t think so. Not right now. Just the tingling, really. And… well, maybe a little bit of tiredness. But that could be anything, I suppose. Thank you, Doctor.
+DOCTOR: Fine. Just the brace. If it worsens, or doesn't improve, then come back. And try to get some rest. Now, if you’ll excuse me…
+PATIENT: .

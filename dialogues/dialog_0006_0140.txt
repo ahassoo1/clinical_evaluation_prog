@@ -1,0 +1,17 @@
+DOCTOR: Alright, Mr. Schieber. Good to meet you. So, what brings you in today?
+PATIENT: Well, Doctor Gorga, frankly, I haven't much time for this. It's a… a nuisance, really. Something to do with my mouth. White patches, mostly. It’s quite unpleasant, and my wife insisted I come. She worries too much, if you ask me.
+DOCTOR: Right, white patches… in your mouth. Okay. And how long have these patches been bothering you?
+PATIENT: Oh, goodness… a week, perhaps? Maybe a little longer. It's difficult to say precisely. I don't spend a great deal of time examining my mouth, if you understand. It’s not as though it's… life-threatening.
+DOCTOR: No, of course. And are they painful?
+PATIENT: Painful? Not exactly painful. More… irritating. And unsightly, naturally. It makes eating a bit… difficult, yes. Especially anything acidic. It stings, rather. My wife makes a lovely citrus salad… cannot enjoy it anymore. It’s a tragedy, really.
+DOCTOR: Alright. And have you noticed any other symptoms along with the irritation?
+PATIENT: Other symptoms? Doctor, I came in for white patches in my mouth. I haven’t been cataloging every little discomfort I experience. No, I haven’t noticed… anything else particularly noteworthy. Perhaps a little… fatigue. But who doesn’t feel fatigued these days? It’s the world we live in.
+DOCTOR: Okay. And any fever, chills, difficulty swallowing, or changes in your voice?
+PATIENT: Doctor, with all due respect, are you suggesting I have some sort of… plague? I assure you, I am perfectly healthy, aside from this… inconvenience. No fever, no chills. Swallowing is… normal. Voice is fine. Look, I fall trees for a living. I need my strength. If I were ill, I wouldn’t be here discussing white patches, I’d be in bed. Honestly.
+DOCTOR: Right, right. Falls trees. Okay. And any past medical problems I should be aware of?
+PATIENT: Past medical problems? No. I’ve always been a strong, healthy man. A few aches and pains, naturally, from the work. But nothing a little rest and strong coffee couldn’t fix. No doctors, no hospitals. Waste of time, if you ask me. Preventative care is… overrated.
+DOCTOR: Alright. Any medications you’re currently taking?
+PATIENT: Medications? No. Absolutely not. I don't believe in filling my body with chemicals. My wife tries to get me to take something for my blood pressure, but I refuse. Perfectly fine without it. Strong constitution. And I certainly don’t need anything for… this. It's a temporary irritation, I'm sure.
+DOCTOR: Okay. Well, let's just take a quick look in your mouth, just to be sure. It won’t take long. If you don't mind.
+PATIENT: Oh, very well. But do be quick about it, Doctor. I have trees waiting. And please, try not to poke too much. It’s rather… sensitive. Honestly, the things one must endure. .
+DOCTOR: Alright, Mr. Schieber. Open wide. <stage>Looks at the white patches on the tongue and inner cheeks.<stage>Notes observations.<stage>Observes redness and mild inflammation.<stage>Points penlight to examine the texture.<stage>Looks up at the patient.<stage>Verbalizes findings.<stage> Okay. I see some white patches on your tongue and inner cheeks, as you described. There’s some redness and a little inflammation. It doesn't look overly concerning at first glance. Could be a few things. Have you used any new mouthwashes or toothpastes recently?

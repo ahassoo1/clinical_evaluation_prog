@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Criston. Or… is it pronounced differently?
+PATIENT: Morning. Criston is good. Yes, that’s right.
+DOCTOR: Alright, Criston. Good. So, what brings you in to see me today?
+PATIENT: I… my pee. It’s orange. Been happening a few days now. Not much pain, just… orange. It worries my wife.
+DOCTOR: Hmm, orange urine, you say. A few days now. And no pain, that’s… good to hear, relatively speaking. Okay. Let’s try to get a little more information. Have you noticed any other changes?
+PATIENT: Changes? Like… what kind of changes? I don't know. Maybe I’m drinking less water than usual? Work is busy. I forget sometimes to drink.
+DOCTOR: Right, work being busy… easy to forget those things. Okay. And aside from the color, is there any burning when you urinate?
+PATIENT: No, no burning. Like I said, no pain. Just… the color. It’s a bright orange. Not a little bit, a lot. Makes it hard to miss.
+DOCTOR: Alright, bright orange. And no burning… good. Have you noticed any changes in how often you're going to the bathroom?
+PATIENT: I think… maybe a little less often. But I also maybe drinking less, so… hard to tell. Everything feels a bit mixed up. I’m sorry, I don’t know if I’m helping.
+DOCTOR: You are helping, Criston. Don't worry about that. It's… a bit tricky to pinpoint things when everything is a bit jumbled, as you say. Let’s see... Any fever, chills, nausea, or vomiting lately?
+PATIENT: No, nothing like that. No fever. No sickness in my stomach. Just… the orange pee. My wife made me come, she said it’s not normal. She's usually right about these things.
+DOCTOR: Right, your wife sounds sensible. Okay. And just to cover all the bases… have you noticed any changes in your bowel movements?
+PATIENT: Bowel movements? You mean… poop? No, everything is… normal there. Same as always. Sorry to be… direct.
+DOCTOR: No apologies necessary, Criston. It’s important information. Alright. Last question for now. Any recent changes in your diet?
+PATIENT: Not really. I eat the same things most days. Chicken, rice, vegetables… sometimes my wife makes tagine. Nothing new though, not for a long time. I don't take any pills, if that matters.
+DOCTOR: Okay, no pills, consistent diet… good. Alright, Criston. I’d like to do a quick physical exam, if you don’t mind. Just to check a few things. Nothing invasive, I promise. We'll start with your abdomen.
+PATIENT: Okay. That’s… alright. I trust you. What will you do? Just tell me so I’m not surprised.
+DOCTOR: Certainly. I’m going to listen to your belly with my stethoscope, and then gently press on it to feel for any tenderness or unusual masses. It shouldn't hurt, but let me know if anything does feel uncomfortable. If you could lie down on the examination table, that would be great.
+PATIENT: Okay. I’m ready. Go ahead.
+DOCTOR: Okay. No immediate tenderness, sounds are normal. Abdomen is soft. Any discomfort here?
+PATIENT: No, no pain. Feels… normal. A little cold from the thing you're using, but not pain. It's okay.
+DOCTOR: Okay, good. Alright. Everything feels within normal limits, physically. Now, I’m going to order a urine sample – a urinalysis – just to be certain. That will help us figure out what’s causing the color change. It’s a quick test, and we should have the results back relatively soon. Does that sound alright?
+PATIENT: Yes, that sounds good. A test is good. I want to know what is wrong. Where do I… do the test?
+DOCTOR: Okay, good. Don't worry. The nurse will give you a cup, and you'll just collect a sample in the restroom. It's… very straightforward. There’s a private restroom just down the hall. I’ll have the nurse come in with the cup. While we're waiting for the results, and to be cautious, I'd recommend drinking plenty of fluids - water is best - over the next day or so. Does that make sense?
+PATIENT: Yes, plenty of water. That’s easy. My wife will be happy to hear that. She always tells me to drink more water. Thank you, doctor.
+DOCTOR: Of course, Criston. We'll get those results back as quickly as possible. And if things get worse – if you develop any pain, fever, or if your urine becomes cloudy – please don’t hesitate to call the clinic immediately. Is there anything else I can address for you today?
+PATIENT: No, I think that’s everything. Just… the orange pee. I hope it’s not something serious. Thank you for listening. .
+DOCTOR: Alright, Criston. We'll get to the bottom of it. And please, don't worry unnecessarily. The nurse will be in shortly with the cup for the sample. I’ll be reviewing your results as soon as they come in. Have a good day, Criston. And tell your wife thank you for looking after you.

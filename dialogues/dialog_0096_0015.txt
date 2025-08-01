@@ -1,0 +1,27 @@
+DOCTOR: Alright, Miss Boham. Forty years old, yes?
+PATIENT: Yes, Doctor. That is right. Forty years old. It feels… longer some days, you know? But yes, forty.
+DOCTOR: Well, life does have a way of doing that, doesn’t it?
+PATIENT: Yes, it does. I… I am here about my sinuses, Doctor. They have been… bothering me. For a little while now. Not sure exactly how long, to be honest. Time… it goes.
+DOCTOR: “A little while.” Right. And what exactly does “bothering” mean, Miss Boham?
+PATIENT: It’s… hard to explain. Like… pressure, mostly. Behind my eyes and… in my face. And sometimes it's hard to breathe through my nose. Not always, but often. It feels… full. Like when you have a bad cold, but not quite as bad. I don't know if that makes sense?
+DOCTOR: So, pressure, nasal congestion… not a full-blown cold, you say. And has this been constant, or does it come and go?
+PATIENT: It comes and goes, I think. Some days it's worse. Especially when… when it is very dusty at work. I work with… the drills, you know? For the oil. It's always dusty there. I think the dust makes it worse, yes. But it happens even when I’m not at work. Just… not as bad.
+DOCTOR: Dust exposure… alright. And have you had any fever, chills, or body aches with this?
+PATIENT: No, Doctor. No fever. No chills. And no… body aches. I feel… tired sometimes. But I always feel a little tired, you know? From the work. Is that… normal? To be so tired?
+DOCTOR: Well, Miss Boham, you said you work with drills, yes?
+PATIENT: Yes, Doctor. Rotary drills. For the oil company. It’s… hard work. Long hours, very dusty. Very loud. But… it is a job.
+DOCTOR: Alright. And have you tried anything for this congestion?
+PATIENT: I… I tried some… medicine. From the store. For colds, I think. But it didn't really help. Not much, anyway. I don't remember the name. There are so many. Mostly I just… try to drink lots of water. Is that good?
+DOCTOR: Water is… adequate. Let's have a look at your sinuses. Could you sit up for me?
+PATIENT: Yes, Doctor. Whatever you need. Just… tell me if it will be uncomfortable. I get… worried easily, sometimes.
+DOCTOR: It shouldn’t be, Miss Boham. But I need to shine a light in your nose and listen to them, alright?
+PATIENT: Alright. I’m ready. Do what you need to do, Doctor. I trust you. Just… gently, please.
+DOCTOR: Hmm. The nasal mucosa is a bit inflamed, as expected. Some congestion present. Right side similar. No sign of any foreign bodies or significant structural abnormalities. I'm hearing some mild crackling sounds, consistent with sinus congestion. Your ears appear clear.
+PATIENT: That’s… good to hear about my ears. I get worried about my ears sometimes. Is the… the crackling bad, Doctor? Does that mean it's serious?
+DOCTOR: No, Miss Boham, it’s not necessarily serious. Crackling just indicates some fluid buildup. It’s common with… what appears to be a simple sinus infection. Though, given your work environment, we need to rule out other possibilities. I’m going to order a basic blood test and a sinus X-ray, just to be safe.
+PATIENT: A blood test and… an X-ray? Is that… expensive, Doctor? I don't have… I don’t have much money. And I don’t have insurance.
+DOCTOR: Well, Miss Boham, you should have thought of that before exposing yourself to such a… hazardous environment. But, we'll see what we can do. I'll write the orders. The lab and the radiology center have some financial assistance programs. It's not my problem if you don't have insurance. I’ll also prescribe a saline nasal spray to help with the congestion in the meantime. It’s over-the-counter, so you won't need a prescription for that.
+PATIENT: Yes, Doctor. I understand. I… I just need to work, you know? To support my family. Thank you for the… the spray. And for trying to help me, Doctor. Even if I… don't have much money. Where do I go for the tests?
+DOCTOR: Here. The lab is two blocks down, on Elm Street. And the radiology center is on Oak Avenue, near the hospital. The orders have the addresses on them. I’ll call you with the results in a couple of days. And Miss Boham, seriously, consider finding a less… dusty job. You’re jeopardizing your health. Next patient…
+PATIENT: Yes, Doctor. I will… I will think about that. Thank you again. Have a good day, Doctor.
+DOCTOR: .

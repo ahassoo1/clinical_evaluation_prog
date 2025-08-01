@@ -1,0 +1,36 @@
+DOCTOR: Alright, Chellsea, yes?
+PATIENT: Yes, that is correct. It’s nice to meet you, Doctor Havird.
+DOCTOR: Yes, yes. Nice enough. Now, don’t waste my time. What brings you in today?
+PATIENT: Well, it’s… about the cancer. I was told to come speak with you about it. I don’t… really know what that means, to be honest.
+DOCTOR: Cancer. Right. Let's see… taps screen Medicare, Apache… twenty years old. Honestly, people these days. Okay. Someone told you about cancer?
+PATIENT: Yes, ma'am. A doctor at the other clinic did. He… he said it was a bad kind, and I needed to come here for… for more help. I don't recall his name, though. It’s been a little confusing.
+DOCTOR: "Bad kind." Very specific. Well, I suppose that narrows it down. Look, you're young. These things happen, unfortunately. Do you have any records from this other clinic?
+PATIENT: I… I think so. They gave me some papers. Let me see… <rummages in a large handbag> Here. This is everything they gave me, I believe. It has a lot of words I don’t understand.
+DOCTOR: Hmm. Yes, quite a mess. Biopsy report… stage one adenocarcinoma… lung. Honestly. lung cancer at your age. Alright. And you’ve been… feeling unwell, I presume?
+PATIENT: Yes. I get very tired, even when I haven’t done much. And I’ve been coughing… a lot. It started a few months ago, but it’s gotten worse lately. Sometimes it… it hurts to breathe.
+DOCTOR: Tired, coughing… hurting to breathe. Any fever?
+PATIENT: Not that I've noticed, ma'am. I haven’t been checking my temperature or anything. I just… feel warm sometimes. But I thought that was from being tired. Is that important?
+DOCTOR: Well, everything is important, dear. Now, let's just get this over with. Have you lost any weight recently?
+PATIENT: I… I think so. My clothes feel a little looser. But I haven’t really weighed myself. My husband… he used to weigh me, but… <pauses, looks down at hands> He passed away last year.
+DOCTOR: Right. Very sorry to hear that. Look, let’s not dwell on the past. We need to focus on you now. Do you smoke?
+PATIENT: No, ma’am. Never have. My husband… he used to smoke, but he quit a long time ago. He said it was bad for his health.
+DOCTOR: Alright. So, no smoking history. That's... something. Now, any family history of cancer?
+PATIENT: Hmm. That's a good question. My grandmother… on my mother’s side, she had something, I think. But I don’t know what kind. It was a long time ago, and we didn’t talk about it much. It was… a very sad time. I don’t know if that helps.
+DOCTOR: Vague family history. Of course. Look, I'm going to need to listen to your lungs. Sit back, take a deep breath. And try not to be so… anxious. It makes it harder.
+PATIENT: Okay, ma’am. I’ll try. <sits up straighter, nervously smoothing her skirt> I am a little nervous. This is all… a lot to take in.
+DOCTOR: Alright. taps chart Decreased breath sounds in the right lower lobe. Some wheezing. Not entirely unexpected, given the report. Now, I'm going to palpate your lymph nodes. Again, try to relax. It won't hurt… much.
+PATIENT: Okay. <closes eyes tightly> I’m trying, ma’am. It’s just… hard to relax when I don’t know what’s happening. What are you looking for? What is a lymph node?
+DOCTOR: Lymph nodes… are part of your immune system. They swell when there’s an infection or… other problems. And yes, I feel some slight enlargement here. taps chart again Nothing alarming yet, but it requires further investigation. Now, let's move on to your abdomen.
+PATIENT: Okay. <flinches slightly as Doctor Havird touches her abdomen> That’s… a little tender there, ma’am. Especially on the right side. Is that normal? It hasn't always felt like this.
+DOCTOR: Tender. Right side. Yes. That's... concerning. Look, I’m going to order a CT scan of your chest, abdomen, and pelvis. And a PET scan. We need to see if the cancer has spread. And I’ll need you to get a full blood count and a metabolic panel. Now, do you have any allergies to contrast dye?
+PATIENT: Contrast dye? I… I don’t know. I've never had a scan before. What is contrast dye? Will it hurt? I get a little scared easily, ma'am.
+DOCTOR: Alright. Look, contrast dye is a liquid we inject into your veins to help make the images clearer on the scan. Some people have allergic reactions, which is why I'm asking. It can cause a warm sensation, maybe some itching. Very rarely, it can be more serious, but we have the equipment here to handle that. Now, do you have any allergies at all?
+PATIENT: I don’t think so. Not that I know of. I've never had trouble with any medicine or anything. My husband used to say I was a very healthy person. But that was before… before all this. Will the scan tell you how bad it is? Will it hurt? I'm just… worried.
+DOCTOR: Look, the scan will give us a better idea of the extent of the cancer. Whether it's spread, where it is, how big it is. It won't be pleasant, but it won't last long. And no, it shouldn’t hurt exactly. You might feel a little bit of discomfort from the injection. Now, do you have insurance information?
+PATIENT: Yes, I have Medicare. Here is my card. <hands over a Medicare card> Will that cover everything? I don't have much money, ma’am. My husband… he handled all the bills before. I'm not sure what any of this costs.
+DOCTOR: Medicare should cover most of it. There will likely be co-pays and deductibles. We have a billing department that can explain everything. Look, I’m going to write you a referral for the scan. You need to schedule it as soon as possible. And after the scan, you’ll need to follow up with me. Do you understand?
+PATIENT: Yes, ma'am. Schedule the scan… follow up with you. <takes the referral with trembling hands> Is there anything else I should know? Will you… tell me what the scan shows when I come back? I’m just… very scared. I don’t know what to do.
+DOCTOR: Look, I’ll review the results with you. We’ll discuss the options. Now, before you go, are you taking any medications currently?
+PATIENT: No, ma'am. I haven't needed to take anything. Just… some vitamins sometimes. But nothing regular. My husband used to remind me to take them. <pauses, looking down at her hands again> It's hard to remember things now. Everything feels… blurry.
+DOCTOR: Alright. No medications. Look, I've given you the referral. Get the scan done. And follow up with me. Don't delay. Now, if you'll excuse me, I have other patients waiting.
+PATIENT: Okay, ma'am. Thank you. <clutches the referral tightly and slowly stands up> I… I will. <hesitantly walks towards the door> Thank you again. .

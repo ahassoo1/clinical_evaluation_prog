@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I am Dr. Mutnick. Please, have a seat. Now, without wasting any time, what brings you in today?
+PATIENT: Good morning, Doctor. Thank you. Well, it's...belching. It's been happening a lot lately.
+DOCTOR: Belching. Yes. And how long precisely has "lately" been?
+PATIENT: Hmm... maybe two, three weeks now? It's not all the time, but… often enough that it’s bothering me. It’s embarrassing, you know? Especially at work.
+DOCTOR: Embarrassment is… a common accompaniment to many ailments. And what does this belching feel like, Ms. Fogelstrom?
+PATIENT: It just… comes up. Like, a bubble. Sometimes it's after I eat, but not always. Sometimes… just happens. It doesn’t hurt, it just… is. A loud noise.
+DOCTOR: “Just happens”?
+PATIENT: Yes. Like… I’m not doing anything special. Not exercising or anything. Just… talking, or sitting, or walking. It’s strange! I don't understand it.
+DOCTOR: Well, Ms. Fogelstrom, "just happens" is rarely a useful description for a medical complaint. Let's attempt a more structured approach. Do you notice any particular foods that seem to trigger these… episodes?
+PATIENT: Hmm… I don’t know. I eat a lot of… normal Cuban food. Rice, beans… pork sometimes. I like soda, too. Maybe the soda? I drink a lot of it. But I've always drunk soda.
+DOCTOR: “Always” is another term that proves… problematic. Tell me, aside from soda, what does a typical day’s diet consist of?
+PATIENT: Okay… Let me think. Breakfast is usually just coffee and maybe a little bread with butter. Lunch is often leftovers from dinner – rice and beans, maybe some chicken. And dinner… usually the same. Rice, beans, some meat, a salad sometimes. I do like sweet plantains a lot. Do those count?
+DOCTOR: Yes, plantains “count”. Do you experience any other digestive symptoms alongside this… belching?
+PATIENT: No, not really. No stomach pain, no… trouble going to the bathroom. Just the… bubbles. It’s mostly embarrassing, like I said. I feel fine otherwise. Just… gassy. A lot.
+DOCTOR: Any recent weight changes?
+PATIENT: No, Doctor. My weight stays pretty much the same. I’ve maybe gained a pound or two, but nothing major. I weigh about… one-thirty, one-forty pounds, maybe?
+DOCTOR: And family history?
+PATIENT: Family history? Hmm… my mom had… stomach problems sometimes, I think. But she didn't go to the doctor much. Just… old lady stuff, you know? My dad was healthy as a horse. I don’t really know much about it. We didn't talk about that stuff a lot.
+DOCTOR: Very well. And, to be thorough, do you currently take any medications, even over-the-counter remedies?
+PATIENT: No, Doctor. I don't take anything. I try to avoid medicines if I can. I get headaches sometimes, but I just drink water and rest.
+DOCTOR: Do you smoke or consume alcohol, Ms. Fogelstrom?
+PATIENT: No, Doctor. I don’t smoke. And I don't drink alcohol much. Maybe a glass of wine on a special occasion, but that's it. I don't have a drinking problem, if that's what you're asking.
+DOCTOR: I assure you, I am merely completing a necessary assessment, Ms. Fogelstrom. Now, allow me to conduct a brief physical examination. Please lie down on the examination table.
+PATIENT: Okay. Is something wrong? Do you think it’s serious?
+DOCTOR: It is premature to speculate, Ms. Fogelstrom. I am simply gathering information. Take a deep breath… and exhale. Any pain here?
+PATIENT: No, Doctor. It doesn't hurt. Just… feels strange having someone poke around.
+DOCTOR: Your abdomen is soft, non-tender… no obvious masses. Auscultation reveals… normal bowel sounds. Given your history and the unremarkable physical examination, it is likely this is a case of… excessive gas. Dietary modification is recommended. Reduce your intake of carbonated beverages and… foods known to produce gas.
+PATIENT: So… it’s just gas? From the soda and… food? Is there anything I can take for it? I don’t want to stop drinking soda completely!
+DOCTOR: There are over-the-counter remedies containing simethicone which may offer temporary relief. However, they address the symptom, not the cause. I strongly advise reducing soda consumption. And consider smaller, more frequent meals. I will provide a written summary of these recommendations. Do you have any further questions?
+PATIENT: No, I think that’s all. Thank you, Doctor. I’ll try the smaller meals… and maybe cut back on the soda a little. A little.
+DOCTOR: Very well. Avoid self-treating with medications for extended periods without consulting a physician. And if symptoms worsen or new symptoms develop, seek medical attention promptly. Good day, Ms. Fogelstrom.

@@ -1,0 +1,29 @@
+DOCTOR: Right, well, let’s get this over with. Jaylyne, is it?
+PATIENT: Yeah, that’s me. Jaylyne Dhanoa. Look, I don’t really have a lot of time, so… what do you need to know?
+DOCTOR: Honestly?
+PATIENT: Just… why am I here? You got my paperwork, right? Ear ringing. It’s been… annoying, to say the least. It’s why I made an appointment. Is that what you need to know?
+DOCTOR: Annoying, is it?
+PATIENT: Yeah, annoying is… putting it mildly. It's kinda constant, and it makes it hard to concentrate, you know? Especially at work. I’m a waiter, so I need to hear people. It's just… distracting.
+DOCTOR: Right, waiter. Constant ringing… Hmm. And how long has this “constant ringing” been going on for, exactly?
+PATIENT: Uh… let me think. It started… maybe a month or so ago? It was faint at first, I just thought it was the noise in the restaurant, but it hasn't gone away. It's actually gotten worse, if that makes sense.
+DOCTOR: A month. And has anything… specific happened in that month?
+PATIENT: Specific? Not really… work’s been busy, you know, usual summer rush. Oh! Actually… there was that really loud party a couple of weeks back. A friend's birthday. Music was really turned up. Maybe that did something? I didn’t think much of it at the time.
+DOCTOR: A party. Of course. And do you regularly expose yourself to loud noises at work, or elsewhere?
+PATIENT: Yeah, at work, definitely. It’s a restaurant, you know? Clattering dishes, people talking, music playing… it’s never quiet. I try to avoid standing near the speakers when they’re blasting though. But yeah, it’s pretty noisy. Is that… bad? I don’t really know what causes this.
+DOCTOR: Well, obviously. Alright. Any other symptoms?
+PATIENT: Other symptoms? Hmm… not really. I mean, I get a little tired, but that’s just from work, I think. No dizziness, no pain, nothing like that. Just the ringing. It’s weird. Sometimes it feels… like a pressure in my ears, but it’s not painful, just… there. Does that make sense?
+DOCTOR: Pressure. Right. And have you noticed any hearing loss?
+PATIENT: Hearing loss? Not that I’ve noticed, no. People still seem to hear me okay when I talk. I haven’t been yelling or anything. I haven’t… tested it or anything, if that's what you mean. I just assumed I could still hear fine. Is that something I should be worried about?
+DOCTOR: Let's have a look, shall we?
+PATIENT: Okay, sure. Whatever you need to do. Is it gonna be uncomfortable? I really don’t have a lot of time today.
+DOCTOR: Hmm. Tympanic membrane looks normal. No obvious signs of infection. But… slight cerumen impaction in both ears. Okay. And your reflexes seem… normal. Right. Well, it's likely noise-induced. You've exposed yourself to a lot of loud sounds. We can try removing the earwax, that might help.
+PATIENT: Okay… earwax? So it’s not anything serious? Just… loud noises and earwax? That’s… good, I guess. What do we do about the earwax? Will that fix the ringing? Honestly, I just want it to stop.
+DOCTOR: "Fix" is a strong word. Removing the wax might reduce the ringing. It’s unlikely to disappear completely, I have to be honest. We can attempt an irrigation, or I can refer you to an audiologist for more thorough testing and management. The audiologist can assess the degree of hearing loss and recommend hearing protection. Frankly, I think the latter is a better course of action. Do you have insurance?
+PATIENT: Yeah, I have private insurance. I… I think I'd rather just get it fixed if possible, you know? Is the irrigation painful? And honestly, an audiologist sounds like a whole thing. I just… really want to get this over with. Is it possible the ringing will go away on its own if I just… avoid loud noises for a while?
+DOCTOR: Avoid loud noises. Well, that's a start, isn't it?
+PATIENT: Right? So… is it worth trying the irrigation, then? If it's quick? I really don't want to spend hours on this. I've got shifts to cover. What are the chances it’ll actually help? I'm just trying to figure out if it's worth my time.
+DOCTOR: Look, it’s a quick procedure. Minimal discomfort. About a 20% chance of improvement, maybe. It’s better than doing nothing. Do you want me to proceed, or shall we schedule you with the audiologist?
+PATIENT: Ugh. 20%? Okay, fine. Do the… irrigation, then. Get it over with. Just… be quick, please. I’ve got customers waiting.
+DOCTOR: Alright. Lean your head this way... This might be a little uncomfortable. Left ear: moderate cerumen impaction, irrigation initiated. Right ear: similar impaction, commencing irrigation. Okay. That’s that. Now we'll see if it makes a difference. Follow up in two weeks if no improvement. Next patient!
+PATIENT: Okay, thanks. Two weeks. Right. I'll... try to avoid loud noises in the meantime. Thanks. .
+DOCTOR: .

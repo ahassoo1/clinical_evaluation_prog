@@ -1,0 +1,24 @@
+DOCTOR: Right, Mr. Guerrerolo Lopez. Leander, is it?
+PATIENT: Yes, that’s right. Leander. Look, if we could just… get on with it? I have things to do this afternoon. It’s my ears, you see. Feels blocked.
+DOCTOR: Blocked, yes. Well, "blocked" could mean a great many things. How long have your ears felt blocked?
+PATIENT: Hmm… a while. Honestly? I’m not very good with dates. A few weeks, maybe? It comes and goes, you know? Not constant. Worse when… well, I don’t know when exactly. It just… is. Sorry, I wish I could be more helpful.
+DOCTOR: A few weeks, intermittent… Right. And is it just a feeling of fullness, or is there any pain?
+PATIENT: No pain, thankfully. Just… muffled. Like you’re underwater a bit. It's annoying, more than anything. Makes it hard to hear people sometimes, especially my… well, never mind. Just muffled sounds, really.
+DOCTOR: Hmm. Any ringing in your ears?
+PATIENT: Ringing…? Now that you mention it… maybe a little? It's faint. Hard to tell if it's actually in my ears or just… things being quiet. I spend a lot of time alone, you see. It’s not loud, if that makes sense.
+DOCTOR: Alright. And have you noticed any dizziness, or any discharge from your ears?
+PATIENT: Dizziness… no, not really. I get a bit unsteady sometimes, but I put that down to… well, getting older. And no, nothing coming out of my ears. Definitely not. That would be… unpleasant.
+DOCTOR: Okay. Have you ever had ear infections, as a child or an adult?
+PATIENT: Ear infections… Oh, goodness. That was a long time ago. I think so? I had a lot of illnesses when I was little, my mother always said. But I couldn’t tell you specifically about ears. It was… a while ago. Sorry. My memory isn't what it used to be.
+DOCTOR: Right. Any family history of hearing loss or ear problems?
+PATIENT: Uhh… family history? Goodness. I wasn’t very close to my family, to be honest. My wife… she would have known. She kept track of those things. I… don’t know. I don't think so, but I really couldn't say. I'm sorry. This is all a bit… much.
+DOCTOR: Alright. Let’s just take a quick look in your ears, shall we?
+PATIENT: Fine, fine. Just… be quick, please? I really need to get going.
+DOCTOR: Hmm. Mild cerumen impaction bilaterally. Some mild redness of the tympanic membrane, but no obvious perforations. Same on this side. Not a severe buildup, but enough to potentially cause some blockage. I’d say this is likely the source of your problem.
+PATIENT: So… it’s wax? That’s all? Is it… serious? Can you just take it out? I’d really appreciate that. I just want to be able to hear again.
+DOCTOR: It’s not serious, no. It’s quite common. We can remove it. I can irrigate your ears, or I can use a small instrument to gently scoop it out. It will be slightly uncomfortable, but generally well-tolerated. I'll document the cerumen impaction and redness. Which do you prefer?
+PATIENT: Scooping sounds… less wet. If that’s alright? I don’t really like things going in my ears. As long as it doesn’t take too long. And it won’t hurt, right?
+DOCTOR: It won't be painful, Mr. Guerrerolo Lopez. A little pressure, perhaps. Alright, let’s proceed with manual removal then. Just try to relax. This shouldn't take long. I'll let you know if I encounter anything concerning.
+PATIENT: Good, good. Just… get it over with, please. I have appointments, you see. Really need to be going soon.
+DOCTOR: .
+PATIENT: .

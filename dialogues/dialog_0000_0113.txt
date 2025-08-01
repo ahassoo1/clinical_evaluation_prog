@@ -1,0 +1,38 @@
+DOCTOR: Good morning, Mr. Segretto. I’m Dr. Batara. So, tell me, what brings you in to see me today?
+PATIENT: Ugh, morning to you. Well, it’s this…this going to the bathroom thing. Seems like all I do is go. It’s a nuisance, really. Not a big deal, but my wife keeps telling me to get it checked. Women… always worrying.
+DOCTOR: A nuisance, you say?
+PATIENT: Yeah, a nuisance. I mean, I’m not sick, am I? Just…more frequent trips, that’s all. It’s not like I’m doubled over in pain or anything. Used to be able to go a good stretch without needing to…well, you know. Now it’s just…constant.
+DOCTOR: Constant is…not very specific, Mr. Segretto. Could you give me a rough idea of how frequent we’re talking?
+PATIENT: Rough idea? Hmm…let me think. Before, maybe two, three times a day? Now? Honestly, I’ve lost count. Seems like every couple of hours. Maybe more. It’s hard to say, I don't keep track of such things. I'm a farmer, not a…a counter of bathroom breaks!
+DOCTOR: Alright. And are you experiencing any other symptoms with this increased frequency?
+PATIENT: Symptoms? Like what kind of symptoms? I feel…normal, mostly. A little tired, maybe, but that's just getting old, isn't it? No burning, no pain, no…blood or anything like that. Just…the going. A lot of the going.
+DOCTOR: No burning, no pain, no blood…that’s good. And have you noticed any change in the stream itself?
+PATIENT: Stream? What do you mean, "stream"? Is it…weaker? Stronger? Honestly, I haven’t been paying attention to the strength of my…stream. I go, and that’s about it. Why would I need to notice that?
+DOCTOR: Because changes in the stream can indicate different problems, Mr. Segretto. It’s important information. Try to recall—is it a steady stream, or does it start and stop?
+PATIENT: Oh, for goodness sake. You're asking a lot, you know? Steady…I suppose so. I mean, it flows. It doesn't…splutter, if that's what you mean. It's not like a leaky faucet. Just…a normal stream, I guess. I really don't make a habit of inspecting my…output, if you don't mind me saying so.
+DOCTOR: Alright. Let’s move on to other things then. Have you been drinking more fluids than usual?
+PATIENT: Well, now that you mention it, it has been awfully hot lately. I've been trying to stay hydrated, you know? Drink a lot of water, maybe a little lemonade sometimes. Old habits, I suppose. Used to drink a lot of coffee, but my wife told me to cut back. She's always telling me what to do.
+DOCTOR: Alright. And any changes in your diet recently?
+PATIENT: Diet? Not really. Same old things. Potatoes, beets from the garden, some chicken when we get it. My wife does most of the cooking, so I don’t pay much attention to what exactly is in things. It all tastes the same to me after a while, honestly.
+DOCTOR: Okay. And what about your past medical history, Mr. Segretto?
+PATIENT: Medical history? Oh, goodness. That’s a long story. I had my tonsils out when I was a boy, broke my arm falling out of a tree…nothing serious. Had a bit of trouble with my prostate a few years back, but they gave me some pills, and it went away. Don't remember what they were called. It was a while ago. I'm not one for remembering names or pills.
+DOCTOR: Prostate trouble…pills… Alright. And are you currently taking any medications now?
+PATIENT: Um…let me think. My wife gives me something for my blood pressure, I think. A little white pill. And sometimes something for my knees, when they’re acting up. That one’s pink, I believe. But that’s it, mostly. I try not to take too many pills, if I can help it. They just make me feel sluggish.
+DOCTOR: Sluggish, you say?
+PATIENT: Yeah, sluggish. Tired, you know? Like I'm moving through mud. My wife says it's just old age, but I think those pills have something to do with it. Always messing with your system, those things.
+DOCTOR: Alright, Mr. Segretto. Let’s do a quick physical exam, then we can discuss this further. Could you step onto the scale for me?
+PATIENT: Fine, fine. Scale it is. Though I doubt it will tell you anything useful. I haven’t changed weight in years.
+DOCTOR: 127 pounds. That’s…consistent. And your height is 189 centimeters, correct?
+PATIENT: Hm. Sounds about right. Always been a tall fella. Used to be an advantage on the farm, reaching the high shelves and such. Not so much anymore, everything just feels…further away.
+DOCTOR: Alright. Abdomen is soft, no tenderness. Heart sounds are regular, lungs are clear. Now, I’m going to do a quick digital rectal exam. It's important for evaluating the prostate. I’ll need you to lie on your side.
+PATIENT: Ugh. Now that sounds unpleasant. Do you really have to? I mean, couldn't we just skip that part? It's…indignifying, frankly. But fine, if you insist. Just…be quick about it.
+DOCTOR: Alright. Prostate feels slightly enlarged, but no obvious nodules or tenderness. Stream is normal. Now, let’s get some lab work done. A urinalysis and a basic metabolic panel. It’ll help us rule out infection and assess kidney function. I’ll also order a PSA test – that’s a blood test to check for prostate-specific antigen.
+PATIENT: Ugh. More tests. Just what I needed. Well, alright. Whatever you think is best, Doctor. Just…tell me when it's over. And try not to poke around too much, if you don't mind. I'm a farmer, not a science experiment.
+DOCTOR: Alright, Mr. Segretto. The lab is just down the hall. Once you’ve had the tests done, come back and we’ll discuss the results. It will likely take a few days to get them back. While we are waiting, I recommend you limit caffeine intake and avoid drinking large amounts of fluid before bedtime. Does that sound reasonable?
+PATIENT: Limiting caffeine…that shouldn’t be too hard. I barely drink any anymore. And avoiding fluids before bed…well, alright. Seems sensible enough. But don't expect miracles, Doctor. Old habits die hard. I’ll try, but no promises. Just get me a straight answer about what’s going on, and I’ll be happy.
+DOCTOR: Alright, Mr. Segretto. We’ll see what the labs tell us. For now, it could be a number of things—benign prostatic hyperplasia, a urinary tract infection, or simply age-related changes. It’s unlikely to be something serious, but we need to rule things out. I’ll contact you when the results are available. Do you have any questions for me before you go?
+PATIENT: Benign…what-now? And age-related changes? Sounds like you're just telling me I'm getting old. Honestly, Doctor, I came here for answers, not medical jargon. Look, is it going to hurt? Is it cancer? Just tell me straight, no beating around the bush.
+DOCTOR: Mr. Segretto, I understand your concern. Benign prostatic hyperplasia simply means an enlarged prostate, which is common as men age. It can cause frequent urination. It is not cancer, and it's rarely serious. However, it's important to rule out other causes, which is why we're doing the tests. I’m not saying it is cancer, but it’s my job to investigate any potential concerns. You are being thorough, not alarmist. I will contact you when the results are available and we can discuss them in detail. Until then, please try to remain calm and follow the recommendations. Do you have any other questions right now?
+PATIENT: Well, alright. Calm, you say? Easier said than done. I suppose I can try. And no, I don't think I have any other questions. Just…get the tests done, and let me know what you find. And please, no more poking around. Honestly.
+DOCTOR: Very well, Mr. Segretto. The nurse will show you to the lab. I’ll be in touch.
+PATIENT: .

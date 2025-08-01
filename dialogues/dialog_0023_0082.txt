@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Mr. Tayar. I'm Dr. Versace. So, tell me, what brings you in to see me today?
+PATIENT: Uh, hello. Travel… medicine. My wife… she wanted me to come. Something about shots, I think? She made the appointment. I don’t really… remember where we’re going, exactly. Just… hot place. Lots of sun. She’s… not here anymore, so… I just came because she said to.
+DOCTOR: Right. Travel medicine. A preventative appointment, then. It’s wise to be prepared. While it’s good you’re following through with your wife’s wishes, it would be helpful if you could recall the destination, even a general region. Knowing where you’re travelling will determine which vaccinations and precautions are necessary. Do you have any idea at all – continent, perhaps?
+PATIENT: Continent…? Um… was it… Africa? Maybe? She liked looking at pictures of Africa. Animals and… sand. It was a long time ago when she booked it. I mostly just… do what I’m told. She always planned everything. I don’t… think I have any papers with the details.
+DOCTOR: Africa is a very large continent, Mr. Tayar. Different regions have drastically different health risks. Alright. And when approximately did your wife book this trip?
+PATIENT: Hmm… sometime last year, I think. Before… everything. She was really excited about it. She kept talking about…safari? And…bugs. She was worried about bugs. I think it was… around July? Or August? It was hot then, too. I really don’t… keep track of dates. She did.
+DOCTOR: Tanzania, then. That narrows things considerably. Alright, Mr. Tayar. It seems your wife scheduled a consultation regarding travel to Tanzania. Now, let's discuss you. Have you experienced any unusual symptoms lately?
+PATIENT: Tanzania… okay. Sounds right, maybe. Symptoms…? No, not really. I… feel okay. A little tired, maybe. But I’m always a little tired. Work is…work. Lifting things, bending down… it’s hard. I don’t… get sick much. Mostly just… achy. Like an old man.
+DOCTOR: And what sort of work do you do, Mr. Tayar?
+PATIENT: I…build airplanes. Parts of them. Like… the outside. And inside. The wings… and the body. It’s… noisy. Lots of bending and lifting. And… little screws. It’s… okay. But hard on my back.
+DOCTOR: Alright. Airplane construction. That explains the aches and fatigue. We’ll need to do a quick physical exam just to get a baseline, and to rule out anything more concerning. It’s standard procedure for travel medicine, especially with a physically demanding job. Could you please step up onto the scale for me?
+PATIENT: Scale…? Okay. I…hope it’s not too scary. I don’t like…machines.
+DOCTOR: It’s just a scale, Mr. Tayar. Nothing to be alarmed about. I simply need to get your weight and height. It helps me assess your overall health and determine appropriate vaccinations. Don’t worry; I’ll be right here.
+PATIENT: It’s… tight. I think it’s working.
+DOCTOR: Alright. 104 pounds and 155 centimeters. That's…below average weight for an adult male. Are you currently experiencing any unintentional weight loss?
+PATIENT: Weight loss…? No, not really. I always been… small. My wife… she always made sure I ate enough. She worried about me. I… don’t really have much of an appetite. It’s hard to… eat when you’re tired.
+DOCTOR: Right. I see. Well, let's proceed with the physical exam. I'm going to listen to your heart and lungs, then check your abdomen, reflexes, and so on. Could you please lie down on the examination table?
+PATIENT: Lie down…? Is it…clean? I don't want to… catch anything.
+DOCTOR: It is perfectly clean, Mr. Tayar. We use fresh paper for each patient. It's standard procedure. Please, lie down. It will only take a few minutes. It's necessary to properly assess your health before your trip.
+PATIENT: Okay… But… don’t take too long. I don’t like…being still.
+DOCTOR: Your heart rate is a little elevated, but otherwise sounds regular. Lungs are clear, no wheezing or crackles. Abdomen is soft, but slightly tender in the lower quadrants. Any pain here specifically?
+PATIENT: Um… a little. Sometimes. Like… a dull ache. Comes and goes. Not…sharp. Just… uncomfortable. Especially when I…bend over. Like at work.
+DOCTOR: Alright. And have you noticed any changes in your bowel movements lately?
+PATIENT: Bowel… movements? You mean… going to the bathroom? Um… No. Not really. Everything’s… normal, I guess. Sometimes a little…hard. But that’s normal, right? I don’t… talk about this with doctors.
+DOCTOR: Alright. Well, Mr. Tayar, based on this preliminary examination and your history, it appears you may be experiencing some mild constipation and lower abdominal discomfort. It’s likely related to your physically demanding job and possibly a less-than-optimal diet. However, we’ll need to run some bloodwork to rule out any underlying issues. Would you be willing to proceed with a complete blood count and a basic metabolic panel?
+PATIENT: Bloodwork…? You mean… needles? I… don't like needles. And I don't understand what those words mean. Is it…necessary? Can’t I just… take some pills?
+DOCTOR: Unfortunately, Mr. Tayar, bloodwork is necessary to get a clearer picture of your health. It will help us rule out any serious underlying conditions that could be causing your symptoms. And it's especially important before traveling to Tanzania, to ensure you're fit for any potential health risks. Yes, it does involve a needle, but it's quick and relatively painless. A phlebotomist will handle it—they're very skilled. We'll also discuss some dietary changes and perhaps a mild stool softener if the bloodwork comes back normal. Are you willing to proceed with the bloodwork?
+PATIENT: Okay…fine. If you say so. But… make it quick. And… don’t let it hurt. I… I really don’t like needles.
+DOCTOR: Very well. I'll have the phlebotomist come in shortly. They'll explain the procedure. While you're waiting, I'll go ahead and start outlining some potential vaccinations and malaria prophylaxis options based on your travel itinerary to Tanzania. It’s a good idea to start thinking about which option suits your lifestyle best, so we can have a plan in place after your bloodwork results are available.
+PATIENT: Vaccinations…? Pro… what now? This is… a lot. My wife always handled all this. I just… followed her instructions.
+DOCTOR: Malaria prophylaxis, Mr. Tayar, are medications you take to prevent malaria, a parasitic disease transmitted by mosquitoes. Tanzania is a malaria-risk area. As for vaccinations, depending on the specifics of your trip – are you travelling to rural areas, spending extended periods outdoors, etc. – you may need boosters for tetanus, diphtheria, and pertussis, as well as vaccines for hepatitis A and typhoid fever. I’ll have a nurse go over the options in detail once we have your bloodwork results. Don't worry; we'll take it one step at a time. For now, just try to relax. The phlebotomist should be here shortly.
+PATIENT: Mosquitoes… I hate mosquitoes. They always bite me. And… all those big words… I don’t understand. I just want to go home.
+DOCTOR: Alright, Mr. Tayar. Let’s focus on getting the bloodwork done first. Once we have those results, we can simplify things. I understand this is overwhelming. The phlebotomist is here now. Just try to breathe deeply, and it will be over before you know it.
+PATIENT: Just… get it over with.
+DOCTOR: .
+PATIENT: .

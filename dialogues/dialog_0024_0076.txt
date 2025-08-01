@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Aluia. I am Dr. Mutnick. Now, let's not waste time. What brings you in today?
+PATIENT: Good morning, Doctor. Well, it’s these bumps on my legs, you see? On my shins mostly. They’re red and… kinda hard. Been bothering me for a few weeks now. Not really painful painful, more like… sore, if I rub against things.
+DOCTOR: “A few weeks,” you say. And these “bumps,” are they… localized to the shins exclusively?
+PATIENT: Yeah, pretty much just the shins. Both of ‘em. I haven’t noticed any anywhere else. At first I thought maybe I just kept bumping into things, but… well, I try to be careful. My wife, she says I’m just getting old, ha!
+DOCTOR: I see. And have you noticed any changes in their appearance?
+PATIENT: Changes… hmm. They started small, like little pimples almost. Now they’re… bigger. Not huge, but noticeable. And redder, definitely redder. They don’t… ooze or anything. Just… red bumps. Sometimes they feel a little warm, I think.
+DOCTOR: Warm, you say. Any itching associated with these lesions?
+PATIENT: No, not really itchy. That’s good, right? I mean, I get a little uncomfortable when my pants rub on ‘em, that’s about it. But not itchy like a mosquito bite or anything.
+DOCTOR: And are you experiencing any other symptoms – fever, chills, fatigue, weight loss, any changes in your appetite?
+PATIENT: No, no fever or chills. I feel alright, actually. Maybe a little tired sometimes, but that’s just… getting old, ha! My appetite's been fine, too. My wife makes sure of that! She’s a good cook.
+DOCTOR: Very well. Let's proceed with a physical examination, then. Please, if you would, lower your trousers slightly so I may inspect the affected areas. I assure you, this is necessary.
+PATIENT: Oh. Uh… right. Sure. Is this… is this a private room?
+DOCTOR: The examination is conducted with the utmost privacy, Mr. Aluia. And yes, this is a private room. Now, if you could expose the shins completely. I haven’t all day.
+PATIENT: Okay, okay. There they are. Pretty ugly, huh? I haven’t been able to figure out what’s causing ‘em.
+DOCTOR: Hmm. Yes. Erythematous papules, some with slight scaling. No ulceration. Distribution is consistent with… They appear to be stasis dermatitis, although the lack of significant edema is… atypical. Do you have a history of venous insufficiency?
+PATIENT: Venous… what now? I don’t know what that is, Doctor. My legs… they get tired, sometimes, when I stand for too long. But I work on my feet all day, you know? That’s just… part of the job. I haven’t had any… problems with swelling or anything like that.
+DOCTOR: Very well. It’s unlikely to be anything serious, then. I’ll prescribe a topical corticosteroid cream – hydrocortisone 2.5% – apply it twice daily to the affected areas. And compression stockings, Mr. Aluia. Knee-high, 20-30 mmHg. You can get them at any pharmacy. Keep the area clean and dry, avoid scratching. If it doesn’t improve within two weeks, then we’ll discuss further investigation. Do you have any allergies to medications?
+PATIENT: No, not that I know of. My wife always asks when I get a new prescription, and she says I haven’t ever had a reaction to anything. Corticosteroid cream, you say? That sounds… fancy. And compression stockings… I guess I can try that. Two weeks, huh?
+DOCTOR: Yes. Two weeks. If there is no improvement, schedule a follow-up appointment and we will consider a referral to a dermatologist. Now, do you have any other concerns, or shall we conclude the consultation?
+PATIENT: No, I think that’s everything. Thank you, Doctor. I appreciate you looking at ‘em. Hopefully, that cream will do the trick. And… I’ll try to find some of those stockings. They sound… tight.
+DOCTOR: Very well. Follow the instructions and monitor for any adverse reactions. I have other patients waiting, Mr. Aluia. Have a good day. .
+PATIENT: Okay, you too, Doctor. Thank you again. .

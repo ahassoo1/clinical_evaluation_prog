@@ -1,0 +1,21 @@
+DOCTOR: Alright, Ms. Weichers. Welcome. So, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. Thank you for seeing me. Well... it's a little embarrassing to talk about, but I've been coughing up some blood. Not a lot, but enough to worry me. It happened a few times this past week.
+DOCTOR: Coughing up blood, you say. Hmm. Not pleasant at all. And you've noticed this for about a week now?
+PATIENT: Yes, about a week. Maybe a little less. It’s… it’s red, of course, but not bright red. More… darker? Like old pennies, maybe? I don't know if that makes sense. I am sorry, I am not very good at explaining.
+DOCTOR: It makes perfect sense, dear. Darker blood is significant. It suggests it's been a little further down in the lungs. Now, is this cough constant, or does it come and go?
+PATIENT: It comes and goes, Doctor. I don’t cough all the time. More when I… when I exert myself. Like walking up the stairs, or carrying groceries. Usually it's just a little bit then, not a big amount. And sometimes… sometimes I don't cough anything up at all for a whole day.
+DOCTOR: Alright. So, exertion brings it on, and there are days with no cough at all. Do you feel any pain when you cough?
+PATIENT: No, Doctor, no pain. Not really. It's more… uncomfortable, I think? Like a tickle in my chest. And sometimes I feel a little… weak after I cough, but that might just be from the coughing itself, you know? I am not sure.
+DOCTOR: A tickle, no pain. Weakness could be the cough, yes. Now, have you had any fever, chills, or night sweats with this?
+PATIENT: No fever, Doctor. Not that I've noticed. I check sometimes, because my mother always worried about fevers. No chills either, and… no night sweats. I sleep pretty soundly, actually. I haven’t been waking up feeling hot or anything like that.
+DOCTOR: Good, good. Now, have you been smoking, or around anyone who smokes?
+PATIENT: Oh, no, Doctor. Never. I don’t smoke, and my husband… my late husband, he quit years ago. He used to smoke, but not for a very long time. We both… we both tried to be very healthy. It’s… it’s been a little hard since he passed, but I still try.
+DOCTOR: Right. And any history of asthma, bronchitis, or pneumonia?
+PATIENT: No, Doctor. Nothing like that. I’ve been… lucky, I suppose. I haven’t had any serious illnesses. Just… the usual colds, now and then. I always tried to take care of myself, and I always… I always ate well. My mother was very strict about that. Is… is this serious, Doctor? I'm starting to get a little worried.
+DOCTOR: Well, any blood in the sputum is concerning, dear. It could be many things. We'll need to do a proper examination. Let's start with listening to your lungs, and then I’ll want to get a chest X-ray. Just to be on the safe side, of course. Now, if you'll just lie back on the examination table...
+PATIENT: Okay, Doctor. Yes, that sounds… sensible. An X-ray. Alright. I can lie back, yes. I hope it's not anything too bad.
+DOCTOR: Don't jump to conclusions, dear. Most likely it's something minor. Now, just breathe normally. Deep breaths, if you can. Alright. Take a deep breath… and exhale. Hmm. A little bit of wheezing on the left side, but nothing too dramatic. Now, let’s get that X-ray ordered. Nurse will be in shortly to take you down.
+PATIENT: Wheezing… on the left side? Is that… bad? I didn’t even know I was wheezing. What could cause wheezing, Doctor? I'm sorry, I am asking a lot of questions. I just… I like to understand what's happening.
+DOCTOR: It could be a number of things, dear. Allergies, a mild infection, sometimes just irritation. It doesn’t necessarily mean anything serious. We'll have a better idea once we see the X-ray. And honestly, Ms. Weichers, sometimes people don’t know they’re wheezing. That's why we listen. Now, please, let’s not get ahead of ourselves. We'll take it one step at a time. The nurse will be with you soon.
+PATIENT: Okay… one step at a time. Yes. I understand, Doctor. I just… I worry. It's just a habit, I suppose. Thank you for listening. I will wait for the nurse.
+DOCTOR: Alright. That's what I'm here for. Just try to relax. The nurse will be in shortly.

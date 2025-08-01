@@ -1,0 +1,39 @@
+DOCTOR: Good morning, Mr. Bulaong. Welcome to the clinic. I'm Dr. Lahn. It’s nice to meet you. So, to start, can you tell me what brings you in today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um... my chest hurts. Not all the time, but... sometimes. It's in my breast.
+DOCTOR: Okay, chest pain. That’s good you're getting it checked out. Can you tell me a little more about it?
+PATIENT: It's... hard to explain. It's not a sharp pain. More like... ache. And it feels… full, maybe? Not always, like I said. Sometimes I don't feel anything. I just… worry.
+DOCTOR: I understand. It's good that you're paying attention to your body and coming in to get it checked. When you say "full," can you describe where exactly you're feeling that sensation?
+PATIENT: Um... right here. And... maybe a little bit under my arm, too. Not much, but sometimes. It's hard to tell. I don't know if that makes sense?
+DOCTOR: It does make sense, thank you for pointing that out. And how long have you been noticing this pain and fullness?
+PATIENT: Maybe... a couple of months now? It comes and goes. At first, I thought it was just... nothing. Like a muscle ache from work. But it hasn't gone away completely. It just... changes. Sometimes worse, sometimes not.
+DOCTOR: Okay, a couple of months of intermittent pain. And what kind of work do you do, Mr. Bulaong?
+PATIENT: I'm a roofer. It's… hard work. Lots of lifting and moving. Sometimes I fall, not big falls, but... you know. I'm careful, but it happens.
+DOCTOR: Okay, roofing. That definitely involves a lot of physical activity. Have you noticed if the pain is worse after a particularly strenuous day at work, or after any specific movements?
+PATIENT: Yeah, I think so. After a long day, when I'm really tired, it hurts more. And... sometimes when I lift heavy stuff. But not always. It's confusing.
+DOCTOR: Alright. And have you noticed any other changes in that area?
+PATIENT: Changes? Like… what kind of changes? I don't know… No bumps, no… leaking. Everything looks normal, I think. But… sometimes it feels warm. Not hot, just… warmer than the other side. Does that make sense?
+DOCTOR: It does make sense. Warmth can be a sign of inflammation. Okay, let's move on to some other questions. Have you had any fever, chills, or night sweats recently?
+PATIENT: No, no fever. No chills, no… night sweats. I sleep okay. Sometimes I wake up tired from the work, but… not sweaty.
+DOCTOR: Okay, good. And have you had any changes in your appetite or weight recently?
+PATIENT: Um… I think I’m eating okay. Maybe a little less when it hurts, because… I don't feel like eating when I’m uncomfortable. But no big changes. And my weight… I don't know. I haven't weighed myself.
+DOCTOR: Okay. Now, I'm going to ask a few questions about your medical history. Have you ever been diagnosed with any medical conditions?
+PATIENT: Not that I know of. I've never really been sick. Just… small things. Colds, flu. Nothing serious. I don’t go to the doctor much.
+DOCTOR: Alright. Have you ever had any surgeries or been hospitalized for anything?
+PATIENT: No, never. No surgeries, no hospital. Like I said, I'm usually okay.
+DOCTOR: Okay. And what about your family?
+PATIENT: My family… um… my mom… she had… something with her stomach, a long time ago. I don't remember what it was. And my sister… she has high blood pressure, I think. But no one… no one has had anything with… this. With chest stuff.
+DOCTOR: Okay, that’s helpful to know. Now, are you currently taking any medications, including over-the-counter medicines or supplements?
+PATIENT: No. Nothing. I don't like taking pills if I can help it. Just… pain relievers sometimes, when it really hurts. But not often.
+DOCTOR: Okay. And finally, do you have any allergies to medications, food, or anything else?
+PATIENT: No allergies. Nothing that I know of. I eat everything. I never had a reaction to anything.
+DOCTOR: Alright, Mr. Bulaong. Thank you for answering all those questions. Now, I’d like to do a quick physical exam. I’ll listen to your heart and lungs, and then I’d like to examine your chest and under your armpit. Is that alright with you?
+PATIENT: Yeah, that’s okay. Whatever you need to do. I just want to know what’s going on.
+DOCTOR: Okay. First, I'm going to listen to your heart and lungs. Please take a deep breath in and out for me. Your heart and lungs sound clear. Now, I’m going to gently palpate your chest and under your armpits. Please let me know if anything feels particularly tender or painful. I'm noticing some tenderness to palpation in the upper portion of your chest, on the left side. There doesn't appear to be any obvious mass or swelling. I’m also feeling for any enlarged lymph nodes under your armpit, and they don't seem to be enlarged at this time. Do you feel any pain when I press here?
+PATIENT: Yeah, that's where it hurts. Not a bad pain, but… yeah, that's it. That's where it’s been bothering me. It feels… sore, like a bruise almost. But I don’t remember hitting myself.
+DOCTOR: Okay, soreness and tenderness to palpation. Given your description of the intermittent pain, the tenderness on palpation, and your physically demanding job, it's possible this could be a musculoskeletal issue – perhaps a strain or inflammation of the chest wall muscles. However, given that you've been experiencing this for a couple of months, and to rule out other possibilities, I would like to order a chest X-ray. It's a quick and simple test that can help us visualize your lungs and rule out any underlying issues. Would you be comfortable with that?
+PATIENT: An X-ray? Um… is it safe? I don’t want… you know… radiation. But… if you think it’s best… yeah. If it will help find out what’s going on, I guess so. Is it expensive?
+DOCTOR: That’s a very reasonable question. The amount of radiation from a chest X-ray is very low, and the benefits of ruling out potential serious causes outweigh the risks. It’s a standard diagnostic procedure. Regarding cost, because you are uninsured, the price can vary. The clinic does offer a discount program for patients without insurance, and we can discuss payment options after the test. I’ll have the staff provide you with an estimate of the cost before proceeding. Would you like me to proceed with ordering the X-ray?
+PATIENT: Okay… a discount would be good. And if it's quick… yeah. Let's do it. I want to know what's going on. Just… let me know about the cost before, okay?
+DOCTOR: Certainly. I will have the staff discuss the cost with you before proceeding. They will also let you know where to go for the X-ray, and how long it will take. In the meantime, I'm going to recommend that you avoid any heavy lifting or strenuous activities as much as possible. Over-the-counter pain relievers, like ibuprofen or naproxen, can help manage the pain. If the pain worsens or you develop any new symptoms, such as fever, shortness of breath, or coughing, please contact the clinic immediately. Do you have any questions for me at this point?
+PATIENT: No, I don't think so. Just… thank you, Doctor. I feel better knowing we're trying to find out what's wrong. I hope it's nothing serious.
+DOCTOR: You're very welcome, Mr. Bulaong. I understand your concern, and we’ll do our best to get to the bottom of this. The staff will be in shortly to discuss the X-ray details and cost with you. Please don't hesitate to contact us if you have any further questions or concerns. Have a good day, and we'll see you soon.

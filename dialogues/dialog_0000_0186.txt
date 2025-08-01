@@ -1,0 +1,38 @@
+DOCTOR: Good morning, Mr. Kingan. I’m Dr. Batara. So, tell me, what brings you in to see me today?
+PATIENT: Uh, good morning, Doctor. Just need a check-up for a tryout. Sports team thing, you know? Gotta make sure I'm still, uh, able. Don't want to pull a muscle before I even get started.
+DOCTOR: A sports team tryout at your age?
+PATIENT: Yeah, well… it's not the NFL or anything. It’s… competitive archery. Keeps an old guy busy.
+DOCTOR: Archery, huh?
+PATIENT: Yep. Been doing it a long time. Not as much lately, though. That’s why I'm here. Just wanna be sure everything’s still working okay before I put myself through it.
+DOCTOR: Alright. Well, "working okay" is a bit vague, isn’t it?
+PATIENT: Yeah, you're right. Sorry. I guess… any aches or pains I should be worried about? I get a little stiffness in my shoulder sometimes, but I figured that was just… getting older.
+DOCTOR: Shoulder stiffness is common, certainly. But we should rule things out. How long have you been noticing that stiffness, and is it worse with activity?
+PATIENT: Hmm... probably the last couple of months, really. It’s definitely worse after I’ve been practicing. Not terrible pain, just… tight. Makes drawing the bow a little harder, you know?
+DOCTOR: And you said "practicing." How often have you been practicing recently, if at all?
+PATIENT: Not enough, honestly. Used to be a few times a week, but life got in the way. Maybe once a month for the last few months. That’s another reason I wanted to get checked out - haven't been keeping up with it, so gotta see if I'm still in shape.
+DOCTOR: So, a recent decrease in activity level coupled with shoulder stiffness… Alright. Let's get some background information. Any past injuries to your shoulder, or any other joint problems for that matter?
+PATIENT: Nope, nothing major. Banged my knee up pretty bad when I was a kid playing soccer, but that healed up fine. Nothing with my shoulder, ever.
+DOCTOR: Alright, good. Any serious medical conditions – heart problems, diabetes, high blood pressure, anything like that?
+PATIENT: Uh... no, not that I know of. Never been told anything by a doctor, if that makes sense. I haven’t really been to a doctor in… a long time.
+DOCTOR: And do you take any medications regularly?
+PATIENT: No, sir. Nothing. Just… vitamins sometimes, if I remember.
+DOCTOR: Alright. And any allergies to medications or anything else?
+PATIENT: Nope, no allergies. Never had a reaction to anything.
+DOCTOR: Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Nope, none of that. Never really been my thing. Healthy living, you know? Well, trying to, anyway.
+DOCTOR: Family history – any heart disease, cancer, diabetes in your parents or siblings?
+PATIENT: Uh… my dad had… something with his heart, I think. A few years before he passed. I don't know much about it, honestly. He didn't talk about it much. Mom was healthy as a horse, though. No problems there. I don’t have any siblings.
+DOCTOR: Okay. Well, let’s do a quick physical exam then. I'm going to listen to your heart and lungs, and then I'll take a look at your shoulder. Can you please sit up and lean forward?
+PATIENT: Yeah, sure. Whatever you need, Doctor. Just wanna get this over with, if you don't mind.
+DOCTOR: Heart sounds are regular, no murmurs. Lungs are clear. Now, let's check that shoulder. Can you raise your arm out to the side?
+PATIENT: Okay, here we go... There. That's… about as high as it comfortably goes right now.
+DOCTOR: And how about lifting it forward?
+PATIENT: Same deal. Feels a little… tight. Not sharp pain, just… restricted.
+DOCTOR: Okay. I’m feeling some tenderness around the rotator cuff. Your range of motion is limited, as you noted, and there's some mild discomfort with active and passive movement. I don't feel any obvious instability. It could be tendinitis or a minor rotator cuff strain. We'll need to get an X-ray to rule out anything more serious. Let's head over to the radiology department.
+PATIENT: X-ray, huh? Alright. Sounds… serious. Okay, whatever you think is best, Doctor. Just want to know what's going on. Hopefully it's not too bad.
+DOCTOR: Don’t jump to conclusions. X-rays are just a precaution. While we're waiting for those results, I’d recommend avoiding any strenuous activity. No archery for now. And I’m going to prescribe you some ibuprofen to help with the inflammation and discomfort. Okay?
+PATIENT: Okay, yeah, that makes sense. No archery... that’s disappointing. Ibuprofen is fine. Thanks, Doctor. Just gotta get this sorted out so I can get back to it.
+DOCTOR: Alright, I’m writing the prescription now. And I'll order the X-rays. The radiology department should be able to get you in shortly. Once we have the results, we’ll discuss the next steps. In the meantime, try to ice your shoulder for 20 minutes at a time, several times a day. Do you have any questions for me right now?
+PATIENT: No, I think that covers it. Just… hopefully it’s nothing serious. And thanks for getting me in so quickly, Doctor. I appreciate it.
+DOCTOR: You're welcome. We’ll get this figured out. Let me know if you experience any worsening pain or new symptoms while you’re waiting for the results. And remember, no archery. Take care.
+PATIENT: Alright. Will do. Thanks again, Doctor. Bye.

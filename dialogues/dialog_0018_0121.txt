@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Mr. Pipolo. It’s a pleasure to meet you. My name is Dr. Stilaire. Thank you for coming in today. Could you tell me what brings you in to see me?
+PATIENT: Morning, Doctor. Just… my eyes. They feel real dry. Been that way a bit now. Don’t know why.
+DOCTOR: I understand. Dry eyes can be quite bothersome. And you said this has been going on for “a bit now”—could you tell me approximately how long you've been experiencing this dryness?
+PATIENT: Hmm. Maybe… a month? Two months, maybe. Hard to say exactly. Time goes quick when you’re older, you know? Not like it hurts, just… gritty. Makes me blink a lot.
+DOCTOR: I quite understand, Mr. Pipolo. Time does seem to accelerate as we get older. A month or two—that’s helpful to know. And you describe it as “gritty,” and that it makes you blink frequently. Is it constant throughout the day, or does it come and go?
+PATIENT: Comes and goes. Worse when it’s windy, I think. I do a lot of work outside. Cement work, you know? Lots of dust. Maybe that's it.
+DOCTOR: That's very good information, Mr. Pipolo. Cement work—yes, that certainly could contribute to the dryness with the dust exposure. Does anything seem to relieve the dryness, even temporarily?
+PATIENT: Not really. I tried… putting water in my eyes once. Didn't help much. Feels weird.
+DOCTOR: I understand. Putting water directly in the eyes isn't generally recommended, so it's good you didn't find it helpful. Let's explore this further. Have you noticed any other symptoms along with the dryness?
+PATIENT: Other… symptoms? Let me think. Sometimes feels like somethin' is in my eye, even when it's not. Like a little piece of sand. But I can’t see nothin’.
+DOCTOR: Okay, a sensation of something in the eye, even when there isn’t anything visible. That's important. And have you experienced any blurry vision, sensitivity to light, or any discharge from your eyes?
+PATIENT: Blurry vision… not really. Light… the sun bothers me a bit, always has. Old eyes, you know? And discharge? No. Just dry and gritty. That's all.
+DOCTOR: Alright. So, no significant blurry vision or discharge, and sun sensitivity which you attribute to age. Now, let's talk a little bit about your overall health. Do you have any medical conditions that you are aware of, such as diabetes or arthritis?
+PATIENT: No. Never been sick much. Just… old. I work hard, that’s all. Cement work ain’t easy on the body, but I don’t sit around feelin’ sorry for myself.
+DOCTOR: That’s wonderful to hear, Mr. Pipolo. A strong work ethic is certainly beneficial. And do you take any medications regularly, including over-the-counter medications or supplements?
+PATIENT: Nope. Don’t take nothin’. Never liked pills. Just a little coffee in the morning. That's it.
+DOCTOR: Alright, good to know. Now, regarding your family history – do you have any family members who have experienced eye problems, such as glaucoma or macular degeneration?
+PATIENT: Hmm… my mother… she had trouble seein’ when she got real old. I think she went to a doctor, but I wasn’t payin’ much attention then. Didn't ask much.
+DOCTOR: That’s alright, Mr. Pipolo. Any recollection of eye issues in your family is helpful. Lastly, do you have any allergies that you’re aware of?
+PATIENT: Allergies? Not that I know of. Never been bothered by pollen or nothin’. Like I said, just work.
+DOCTOR: Thank you for sharing all of that with me, Mr. Pipolo. Now, I would like to perform a brief eye examination to assess the dryness and rule out any other potential causes. Is that alright with you?
+PATIENT: Yeah, alright. Get it over with. I got things to do.
+DOCTOR: Certainly, Mr. Pipolo. It won’t take long. Could you please sit in the chair and look straight ahead?
+PATIENT: Hurry up, if you could.
+DOCTOR: Alright, Mr. Pipolo, just focus on my pen tip. I'm going to check your visual acuity first. …Okay, can you read the smallest line on this chart for me?
+PATIENT: …Uh… E… C… Z… Hard to see. They’re gettin’ blurry again.
+DOCTOR: That’s alright, Mr. Pipolo. It seems your vision is a little reduced. Now, I'm going to check the surface of your eyes for any signs of irritation or dryness. I see some mild punctate staining on both corneas, which indicates some dryness. Your tear ducts appear to be open, but your tear film seems a bit thin.
+PATIENT: Thin… tear film? What does that mean? Is it bad?
+DOCTOR: It means that you aren’t producing enough tears to keep your eyes adequately lubricated, Mr. Pipolo. It’s quite common, especially as we age, and it explains the gritty sensation and dryness you’ve been experiencing. The punctate staining is a sign of some minor damage to the surface of your eye from the dryness, but nothing serious at this point. It's manageable.
+PATIENT: Manageable… good. So, what do I do about it? I don’t want to be sittin’ around puttin’ drops in my eyes all day. I got work to do.
+DOCTOR: I understand, Mr. Pipolo. You're a busy man. We’ll start with the least disruptive approach. I recommend using over-the-counter artificial tears four times a day – two drops in each eye. There are many brands available, and most are quite similar. I can recommend a few if you'd like. Try to use preservative-free drops if possible, as preservatives can sometimes cause irritation. Also, try to avoid windy conditions if you can, and consider wearing sunglasses to protect your eyes. If the artificial tears aren’t providing enough relief, we can discuss other options.
+PATIENT: Drops… alright. Four times a day. Preserve-free. I can remember that. And the sunglasses… I already wear ‘em when it's bright. Is that it? Can I go now?
+DOCTOR: Yes, Mr. Pipolo, that’s a good starting point. Let’s try this for two weeks and see how you feel. If your symptoms don’t improve, or if they worsen, please schedule a follow-up appointment, and we can explore other options, such as a prescription eye ointment or a more thorough evaluation of your tear ducts. I’m going to write you a prescription for a small bottle of preservative-free artificial tears, just in case. And I'll give you a handout with more information about dry eye and how to manage it. Do you have any questions for me before you go?
+PATIENT: No. Just… get it over with. Thank you, Doctor.
+DOCTOR: You're very welcome, Mr. Pipolo. It was a pleasure meeting you. Please take care, and don’t hesitate to call if you have any concerns. .

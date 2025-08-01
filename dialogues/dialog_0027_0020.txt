@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Mrs. Benites. Or… is it Avril?
+PATIENT: Good morning, Doctor… Fazzina, yes? Avril is fine. It is good to meet you. My back… it is why I am here today.
+DOCTOR: Yes, yes, your back. Right. Hmm. Can you tell me a little more about what’s been going on?
+PATIENT: Well… it hurts. It started maybe… two weeks ago? Not so bad at first. Just a little ache after I work. I am a mechanic, you see. Lots of bending and lifting. But now… now it hurts even when I am sitting. And sometimes… sometimes it goes down my leg. It is not a sharp pain, more like… a heavy feeling.
+DOCTOR: Okay. A heavy feeling… down the leg. That's helpful. And when you say after you work… is it immediately after, or does it take a little while for the pain to start?
+PATIENT: It takes a little while. Maybe an hour or so after I finish for the day. Not right away. I try to stretch, but… it does not help so much anymore. It used to.
+DOCTOR: Okay, so it’s delayed onset… and the stretching isn’t as effective now. Do you notice anything specific that makes it worse?
+PATIENT: Hmm… specific? Bending over is bad. Very bad. And… when I have to reach for tools on the floor. I have to twist, you see, to get them. That always makes it worse. Lifting… lifting is okay if I do it right. But if I am tired… then it hurts.
+DOCTOR: Right, twisting and bending… lifting when fatigued. Okay. Now, do you have any numbness or tingling in your leg, or your foot?
+PATIENT: No, not really. Not numbness. Sometimes… a little bit of a weak feeling. Like it is harder to… push with my foot when I am driving. But it goes away. It is not all the time.
+DOCTOR: A little weakness when pushing with the foot… alright. And have you noticed any changes in your bowel or bladder habits recently?
+PATIENT: Oh… um. I… I do not understand. Changes in… what did you say? Bowel?
+DOCTOR: Oh, I apologize. That was… poorly phrased. I was just checking if you've had any trouble with… going to the bathroom, with your urine or stool. Any difficulty, or changes in how often you go?
+PATIENT: Oh! Going to the bathroom… No, no trouble. Everything is… normal there. Sorry, Doctor, I am not good with… doctor talk.
+DOCTOR: No, no, that's perfectly alright, Mrs. Benites. I apologize for the jargon. It's my job to explain things clearly. Now, let’s talk about your medical history. Do you have any other medical conditions that I should be aware of?
+PATIENT: Just my blood pressure. The doctor told me it is a little high, so I take a pill for it every day. And… I had my gallbladder out many years ago. But that is all.
+DOCTOR: Okay, high blood pressure and gallbladder removal. And what medication are you taking for your blood pressure?
+PATIENT: Um… let me think. It is a white pill. Small. I get it from the pharmacy every month. I do not know the name, sorry. I just take it in the morning. My husband… he always took care of the names. It has been two years since he… passed.
+DOCTOR: I understand. That's alright, we can look it up. Do you have any allergies to any medications or anything else?
+PATIENT: No, no allergies. Not that I know of. I eat everything. And I have not had a bad reaction to any medicine, ever.
+DOCTOR: Good, good. Alright. Now, Mrs. Benites, I’d like to do a quick physical exam, if that’s alright with you. Just to check your back and legs. We'll start with some simple movements and see where you feel pain. Is that okay?
+PATIENT: Yes, that is okay. I trust you, Doctor. I want to know what is wrong.
+DOCTOR: Excellent. If you could lie down on your side there for me, and we'll start with some gentle range of motion exercises. Can you point to where you are feeling the most pain right now?
+PATIENT: Yes. Here. It hurts mostly here, and sometimes it goes down my leg like you said.
+DOCTOR: Okay. And on a scale of zero to ten, with zero being no pain and ten being the worst pain imaginable, what would you rate this pain right now?
+PATIENT: Hmm… right now, it is maybe a four? Not so bad when I am lying down. But when I move… it gets worse. Maybe a six then? It is hard to say.
+DOCTOR: Alright. Now, can you try lifting your leg straight up, keeping it straight?
+PATIENT: Oh… that hurts a little. It is hard to lift it all the way.
+DOCTOR: Alright. And can you point your toes, and then flex your foot towards your shin?
+PATIENT: That… is okay. Not as bad as lifting it. But it does not feel right. It feels… tight.
+DOCTOR: Alright. Your reflexes are a little diminished on your right side, and your strength is slightly weaker, but nothing too concerning at this point. Based on what you’ve told me and the exam, it sounds like you may have a lumbar strain with possible radiculopathy – meaning the pain is radiating down your leg due to some irritation of a nerve root. I want to get some x-rays just to rule out any other issues, like arthritis or a fracture. Would that be okay with you?
+PATIENT: X-rays? Yes, that is okay. If it will help find out what is wrong, then yes. I want to get better, Doctor. It is just… hard to work when it hurts.
+DOCTOR: I understand completely. We’ll get those x-rays taken right away. In the meantime, I’m going to prescribe you a muscle relaxant and some anti-inflammatory medication to help with the pain and inflammation. I also recommend ice packs for 20 minutes at a time, several times a day, and avoiding any heavy lifting or bending as much as possible. We’ll review the x-ray results when they come back and discuss a longer-term treatment plan. Does that sound alright?
+PATIENT: Yes, that sounds… good. Medicine and ice. No lifting. I can do that. Thank you, Doctor. You have been very… helpful.
+DOCTOR: You’re very welcome, Mrs. Benites. And please, don't hesitate to call the office if you have any questions or if your pain gets worse. The nurse will go over the discharge instructions with you, and we'll schedule a follow-up appointment to discuss the x-ray results. I also have a handout with some simple exercises you can start once the pain subsides a bit. Here you are. We’ll get you feeling better soon.
+PATIENT: Thank you again, Doctor Fazzina. I will call if I need to. Have a good day. .

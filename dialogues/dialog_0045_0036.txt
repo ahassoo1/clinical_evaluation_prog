@@ -1,0 +1,21 @@
+DOCTOR: Alright, Mr. Barban, good to meet you. So, what brings you in to see me today?
+PATIENT: Yes, hello Doctor. I am here… for the check-up. Before the insurance starts, you understand? I need to make sure everything is… acceptable. It is very important.
+DOCTOR: Acceptable, alright. So, a general check-up before your Medicare coverage kicks in. That's… proactive of you. Let's get some details, then. When was the last time you had a full physical?
+PATIENT: Full physical? Hmm… I do not remember exactly. Perhaps… many years ago? In Yemen, it was different. We did not go to the doctor unless something was wrong, you see. Not for… checking. Is this important?
+DOCTOR: It is helpful to have a baseline, Mr. Barban. Knowing what's normal for you helps us spot anything new. But we’ll work with what we have. Okay. So, let's start with today. Are you having any specific symptoms?
+PATIENT: Symptoms? No. Not really. I feel… fine. A little tired sometimes, perhaps, but who is not? I work very hard at the factory. It is… demanding work. Is “tired” a symptom? It feels normal to be tired after a long day.
+DOCTOR: Alright, a little fatigue with a physically demanding job. That's not uncommon. But we'll explore it. Besides the tiredness, any other complaints?
+PATIENT: Complaints? No, no complaints. Everything… functions. I eat, I sleep, I work. It is simple. Are you looking for something specific? Perhaps you should tell me what you want to know, Doctor. It is difficult to… offer things you do not ask for.
+DOCTOR: You’re right to ask. Apologies. Let’s do a quick review of systems just to be thorough, then. It helps me get a complete picture. Have you had any fever, chills, or night sweats recently?
+PATIENT: Fever? No. Chills? Not really. Night sweats… sometimes, yes. But it is hot, you understand? The factory is very warm. I sleep with a fan. Is that what you mean by night sweats? Because if it is, it is not a problem, it is just the weather.
+DOCTOR: Okay, so occasional night sweats possibly related to the heat. Anything else?
+PATIENT: Hmm… my stomach is sometimes… unsettled. Not sick, but… not good. I eat the food my wife prepares, it is good food, but sometimes it does not sit well. Perhaps too much spice? I do not know. Is this important? It is just a little… discomfort.
+DOCTOR: Discomfort in your stomach. How often would you say this happens?
+PATIENT: Perhaps… two or three times a week? It is not severe, Doctor, I am still able to work. Just… a little rumbling. And sometimes… a little bit of gas. You understand. It is not… a delicate topic, but it is the truth. I do not take medicine for it. My wife says it is the spices.
+DOCTOR: Alright, two or three times a week, stomach discomfort and gas. Let's move on to something else. Have you noticed any changes in your bowel habits recently?
+PATIENT: Bowel… habits? I… I do not understand the question, Doctor. Is this… necessary? I came here for a check-up, not to discuss… private matters. Perhaps you could explain it in a simpler way? My English is not so good.
+DOCTOR: Yes, I understand. Apologies for the phrasing. I simply mean, have you noticed any changes in your… stool?
+PATIENT: Stool? You ask about my… waste? I do not understand why this is relevant to my insurance! It is… very disrespectful. I am a hard-working man. I do not appreciate these questions. I think I need to speak to the manager.
+DOCTOR: Mr. Barban, please. I'm simply trying to gather information to ensure you're healthy. It's standard procedure. It is relevant to your health. I assure you, I'm not trying to be disrespectful. But I need a complete picture to make an accurate assessment. Are you able to tell me if there have been any changes in how often you have bowel movements, or the consistency of your stool?
+PATIENT: Consistency? You ask too many personal questions! I came here for a simple check-up. I do not see the need for this… interrogation. Perhaps my wife should come in and explain it to you. She has better English, and she might understand why you need to know about my… bowel movements. I am not comfortable answering these questions. .
+DOCTOR: Alright, Mr. Barban. Let’s change direction then. Do you have any allergies to medications?

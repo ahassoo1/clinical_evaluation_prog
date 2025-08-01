@@ -1,0 +1,19 @@
+DOCTOR: Right. Mr. Paguió, is it?
+PATIENT: Yes, that’s right. Nathaiel Paguió. It’s nice to meet you, Doctor… Sink, is it?
+DOCTOR: Yes, Sink is fine. Look, I have a rather full schedule today, so let's try to be concise, shall we?
+PATIENT: Oh, absolutely, no problem at all. I understand. I’m here for a vaccination, I believe? Just whatever is recommended for… well, for someone my age, I suppose.
+DOCTOR: Recommended…right. Let me pull up your record. Medicare patients…always the paperwork. Hmm. Okay. You're 47, male... and the system says nothing about which vaccinations you've already had. Do you have any records with you?
+PATIENT: No, I don’t, unfortunately. I thought the doctor’s office would have that sort of thing. I’ve moved around a bit over the years, and honestly, keeping track of everything is… difficult. I’m sorry. Is it a problem?
+DOCTOR: A problem?
+PATIENT: Well, it makes it a little harder to know what you need, doesn’t it? We don’t want to give you something you’ve already had. Do you remember getting any vaccinations as an adult? Like, a tetanus shot, or a flu shot, or anything like that? Even roughly when?
+DOCTOR: Honestly, most people have some recollection. It's basic health maintenance. I suppose we can proceed with a basic panel, but it won’t be comprehensive without knowing your history. I'll need to administer tetanus, diphtheria, and pertussis – Tdap – since it’s been a while, I presume. And the annual influenza vaccine, of course. Do you have any allergies to eggs or any vaccine components?
+PATIENT: No allergies that I know of. Eggs are fine, I eat them regularly. And I don’t think I’ve ever had a reaction to a shot before, not that I remember. Is Tdap just one shot? And will the flu shot be that nasal spray I’ve heard about? I really don’t like needles.
+DOCTOR: The nasal spray is for children, Mr. Paguió. It's an intramuscular injection. Standard procedure. Yes, Tdap is one shot. It protects against tetanus, diphtheria, and whooping cough, which, frankly, adults can still get. And it's unpleasant. Roll up your sleeve. Let’s get this over with.
+PATIENT: Oh. Right. Okay. I see. Well, as long as it's necessary. I trust your judgement, Doctor. Just… let me know when you’re about to give it. I don't startle easily, but… it’s just a bit of a… thing, you know?
+DOCTOR: A “thing.” Yes. Well, I'm not here to discuss phobias, Mr. Paguió. Deep breath. This will sting for a moment. There. Done. Try not to dwell on it.
+PATIENT: Ouch. That did sting. It feels a bit sore already. How long before I can… move my arm normally? And will I feel unwell afterwards? I have a few errands to run this afternoon.
+DOCTOR: Soreness is normal. Use it, don’t lose it. Avoid strenuous activity for the rest of the day, but simple movement is fine. You might feel a little fatigued, perhaps a mild headache. Very rare reactions beyond that, but if you develop a fever over 101, seek medical attention. Now, is there anything else you came in for, or can we consider this concluded?
+PATIENT: No, that was everything, I think. Just the vaccination. Thank you, Doctor Sink. I appreciate you getting that done. Where do I go to schedule my next check-up? And… is there a print-out of my vaccination record I can take with me? For my own files?
+DOCTOR: The receptionist will schedule your follow-up. She’ll also print you a basic immunization record. Frankly, they should have offered it already. Next! Don’t hesitate to come back if you develop any concerning symptoms… though I doubt you will.
+PATIENT: Oh. Right. Thank you. .
+DOCTOR: .

@@ -1,0 +1,41 @@
+DOCTOR: Good morning, Mr. Tati. Welcome to the clinic. I’m Dr. Bombara. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. Uh... cough. I cough a lot. Been coughing for... a long time, I think. And tired also. Very tired. Sometimes my nose... feels blocked, yeah? Like got something inside. Happens a lot.
+DOCTOR: Okay, a cough, fatigue, and a stuffy nose. “A long time” is a little vague… can you try to be more specific?
+PATIENT: Specific… uh… maybe… six months? Or more? I dunno. Time… goes fast. I work a lot, you see. Changing tires… it's hard work. Maybe started after the rainy season? We had lots of rain last year. Does that help?
+DOCTOR: Yes, that does help. Six months or more, possibly linked to the rainy season… okay. And this cough – is it a dry cough, or do you bring anything up when you cough?
+PATIENT: Uh… got something coming up, yeah. Like… mucus. Not much, but… always got a little. Sometimes clear, sometimes… yellow-ish. Sorry, I dunno the proper words. Just… sticky stuff.
+DOCTOR: No need to apologize, Mr. Tati. “Sticky stuff” is perfectly fine. Clear or yellowish mucus… alright. And does anything make the cough worse?
+PATIENT: Hmm… cold air, I think. When it's raining, or when I wake up in the morning… worse then. And… dust. Lots of dust at the workshop, you see. Changing tires… lots of dust. Makes me cough a lot.
+DOCTOR: Okay, cold air, rain, and dust seem to be triggers. And the fatigue… is that constant tiredness, or does it come and go?
+PATIENT: Constant, I think. Always feel tired. Even after sleep. Not like… really sick tired, just… always dragging. Makes it hard to work, you know? Sometimes I need to take breaks. My wife… she worries about me.
+DOCTOR: I understand. Constant fatigue is difficult. And it’s good that your wife is looking out for you. Now, let’s talk about other things. Have you had a fever at all with this cough?
+PATIENT: Fever… uh… maybe? I dunno. I don't really check. When I feel hot, I just drink water. Maybe sometimes feel warm, but… not like shivering cold, yeah? Just… a bit warm. I'm not sure if that's fever.
+DOCTOR: Okay, no confirmed fever, but occasional feelings of warmth. Alright. Now, have you noticed any shortness of breath, or wheezing when you breathe?
+PATIENT: Shortness of breath… sometimes. When I climb stairs, maybe. Or when I carry heavy tires. But… I'm not very fit, you see. I always thought it was just… because I'm out of shape. Wheezing… what’s that?
+DOCTOR: Wheezing is a whistling sound when you breathe, like a high-pitched squeak. It happens when your airways are narrowed. Have you ever noticed a sound like that when you’re breathing?
+PATIENT: No… I don’t think so. I never listened. Just… breathe. Never listen to the sound. Sorry. I’m not very good with these things.
+DOCTOR: That’s perfectly alright, Mr. Tati. No need to apologize. Let's move on to your medical history. Have you ever been diagnosed with any medical conditions like asthma, bronchitis, or pneumonia?
+PATIENT: Uh… no. Never been to the doctor much. Just… small things. Headache, maybe. Never anything serious. My wife… she takes me to the clinic when I really need to go. She worries a lot.
+DOCTOR: Okay, no prior medical diagnoses that you're aware of. And have you had any surgeries in the past?
+PATIENT: No surgeries. Never. Just… small cuts, maybe. From work. Changing tires… can be dangerous sometimes. But nothing… big. Never needed surgery.
+DOCTOR: Alright. Now, what about your family?
+PATIENT: Family… my mother… she had cough a lot when she was old. But she just got old, you see. My father… he was strong. Never sick. My brother… he okay, I think. Works in the city. I don’t see him much.
+DOCTOR: Okay, mother had a cough in old age, father was healthy, brother is doing well. Do you smoke, Mr. Tati?
+PATIENT: No. Never smoke. My wife… she doesn’t like smoke. And it’s bad for you, you see.
+DOCTOR: That’s good. And do you drink alcohol?
+PATIENT: Sometimes. Just… beer. With friends, maybe. Not every day. Just… sometimes, when we relax.
+DOCTOR: Alright. And finally, are you allergic to any medications, foods, or anything else?
+PATIENT: Uh… no. I don’t think so. Never had any problems. I just take… painkiller sometimes. For headache. But never anything… serious. I dunno. Sorry. I don’t remember much.
+DOCTOR: Okay, Mr. Tati. Thank you for that information. Now, I’d like to do a quick physical exam, just to listen to your lungs and check your general health. Is that alright with you?
+PATIENT: Yeah, okay. That’s fine. Whatever you need to do, Doctor. I trust you.
+DOCTOR: Great. If you could sit up there for me, please. I’m going to listen to your heart and lungs with my stethoscope. Please take deep breaths for me. Alright, Mr. Tati. I'm hearing some wheezing in your lungs, especially on exhale. Your heart sounds normal, but your respiratory rate is a little elevated. I also notice you have a slightly increased work of breathing. It doesn't seem severe, but it's something to pay attention to. I’ll also check your oxygen saturation with this clip on your finger. Your oxygen saturation is 94%, which is on the lower end of normal. I want to run a few tests to get a clearer picture of what's going on. Would you be able to give me a sample of your sputum, if you cough something up?
+PATIENT: Sputum? You mean… the sticky stuff? Yeah, the sticky stuff. If you cough some up, we need to look at it. Uh… okay. I will try. But… sometimes I don’t cough much. I will try, Doctor. What happens if I can’t?
+DOCTOR: That’s alright, Mr. Tati. We can proceed even if you don’t produce a sample. We can also do a chest X-ray, if you’re comfortable with that, to get a better look at your lungs. And I’d like to order a complete blood count, just to rule out any infection. Does that sound okay to you?
+PATIENT: X-ray… and blood test? Is something… bad? I just got cough, you see. And tired. I don't want… too much trouble. Are these tests… expensive?
+DOCTOR: Mr. Tati, I understand your concerns. These tests aren’t necessarily indicating something bad, but they will help me determine the cause of your cough and fatigue and ensure we’re on the right track with your treatment. The X-ray will give us a clear picture of your lungs, and the blood test can identify any signs of infection or inflammation. Regarding the cost, I know you mentioned you're uninsured. We can discuss options with the clinic's financial counselor to see if we can find some assistance or payment plans. We don’t want cost to be a barrier to getting the care you need. Does that sound acceptable to you?
+PATIENT: Okay… if it helps… then okay. I trust you, Doctor. But… I don’t want too much trouble. And please… talk to your financial person. I don't have much money.
+DOCTOR: I understand completely, Mr. Tati. I will absolutely speak with the financial counselor on your behalf. Alright, let’s get started with the tests. The nurse will be in shortly to take your blood sample, and then we’ll proceed with the chest X-ray. In the meantime, I’m going to start you on a bronchodilator inhaler to help open up your airways and ease your breathing. Does that sound alright?
+PATIENT: Bron… what? Inhaler? You mean… like asthma people use? Is my lungs… bad?
+DOCTOR: It's not necessarily that your lungs are bad, Mr. Tati. A bronchodilator is a medication that helps to relax and open the airways in your lungs, making it easier to breathe. It's commonly used for conditions like asthma, but it can also be helpful for coughs and wheezing, even if you don't have asthma. It's a simple inhaler—you just breathe it in. We're trying it to see if it alleviates your symptoms. We’ll also review the results of your tests and discuss a treatment plan once they're available. Do you have any other questions for me at this time?
+PATIENT: No… I think that’s all. Just… please don’t make it too much trouble. And thank you, Doctor. You’re very kind.
+DOCTOR: You're very welcome, Mr. Tati. We'll take things one step at a time. The nurse will be in shortly to start the blood work, and then we’ll get the X-ray scheduled. Please don’t hesitate to call the clinic if you have any questions or concerns before then. .

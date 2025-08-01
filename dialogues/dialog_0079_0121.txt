@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Pipolo. I am Dr. Gonzalezperez. It’s a pleasure to meet you. Now, could you tell me what brings you in to see me today?
+PATIENT: Morning, Doc. Just… my eyes. They feel real dry. Been that way a bit now. Don't like it.
+DOCTOR: Dry eyes, you say. And how long has this been going on, Mr. Pipolo?
+PATIENT: Hmm… maybe a month? Hard to say exactly. Time goes fast when you're old, you know. Not like when I was workin' cement, every day felt long then.
+DOCTOR: A month, alright. And would you describe the dryness as… constant, or does it come and go?
+PATIENT: Comes and goes, I guess. Worse when it's windy. We get a lot of wind where I live, near the water. Makes 'em feel like sand.
+DOCTOR: Wind exposure, noted. Do you experience any other symptoms alongside the dryness, Mr. Pipolo?
+PATIENT: Other symptoms… let me think. Sometimes blurry. Not all the time, just… when they're real bad. And kinda itchy, sometimes.
+DOCTOR: Blurry vision and itchiness, alright. Now, have you tried anything to alleviate the dryness already?
+PATIENT: Nah. Never really bothered with nothin'. Used to just squint. Figured it would go away. Didn't seem right comin' to a doctor for somethin' like dry eyes.
+DOCTOR: I understand your hesitation, Mr. Pipolo. However, even seemingly minor issues can impact your quality of life, and it's best to address them. Now, let’s move on to your past medical history. Have you been diagnosed with any medical conditions previously?
+PATIENT: Not really. Just… old age, I guess. Had a bad back when I was pourin' concrete, but that's fixed now. No insurance, so never saw a doctor much.
+DOCTOR: Alright, a history of back pain, now resolved. And no other diagnosed medical conditions. Do you take any medications currently, Mr. Pipolo?
+PATIENT: Nope. Nothing at all. Never been a fan of pills.
+DOCTOR: Very well. And are you allergic to any medications, or anything else for that matter?
+PATIENT: Don't think so. Never had a reaction to nothin'.
+DOCTOR: No known allergies. Now, I'd like to ask about your family history, if you don't mind. Are there any medical conditions that run in your family?
+PATIENT: Hmm… my mother had… somethin' with her heart, I think. Real old, she was. My father, he just… wore out. Workin' on the boats, tough life. That's all I remember, really.
+DOCTOR: Alright, a family history of cardiac issues and general wear and tear. Now, regarding your lifestyle… do you smoke, or drink alcohol, Mr. Pipolo?
+PATIENT: Nope. Never touched a cigarette in my life. And maybe a beer now and then, real special occasion. Not much for drinkin'.
+DOCTOR: Very well. Now, before we proceed, could you tell me a little about where you live?
+PATIENT: Near the water. Small town. Lots of wind, like I said. Mostly older folks livin' there. Quiet.
+DOCTOR: Alright. Now, Mr. Pipolo, I’d like to perform a brief eye examination. Is that alright with you?
+PATIENT: Yeah, okay. Just get it over with, Doc. I got things to do.
+DOCTOR: Certainly. Please look straight ahead. I’m just going to shine a light in your eyes, and have you follow my pen with your gaze. It won't take long. Hmm. Your corneas appear slightly dry, with some mild punctate staining. Pupils are equal, round, and reactive to light and accommodation. Visual acuity is… diminished, but not significantly for your age. Palpebral fissures are normal, no ptosis observed. Overall, it appears to be a case of moderate dry eye, likely exacerbated by environmental factors.
+PATIENT: Moderate, huh? Sounds bad. What does that mean? And what can we do about it? I don't want to go blind.
+DOCTOR: “Moderate” simply means it requires attention, Mr. Pipolo. It is not an immediate threat of blindness, but if left unmanaged, it can lead to discomfort and, in rare cases, complications. The dryness is likely due to reduced tear production, possibly worsened by the wind exposure you mentioned. We can try a few things. I recommend starting with artificial tears – over-the-counter lubricating eye drops – four times a day. Avoid rubbing your eyes. If the dryness persists, we could consider a prescription eye ointment for nighttime use, to help keep your eyes lubricated while you sleep. I would also advise wearing sunglasses outdoors, to protect your eyes from the wind and sun. Given your lack of insurance, I'll write you a prescription for the artificial tears and suggest a good over-the-counter brand. We can re-evaluate in a month to see if this is providing sufficient relief. Does that sound acceptable?
+PATIENT: Artificial tears, okay. And sunglasses. Sounds… simple enough. How much do those tears cost? I don't wanna spend a fortune.
+DOCTOR: The cost varies, Mr. Pipolo, but a standard bottle of artificial tears should be around ten to fifteen dollars. They are readily available at most pharmacies. I'll also provide you with a handout detailing proper eye drop administration and other helpful tips for managing dry eye. Now, do you have any other questions for me at this time?
+PATIENT: No, I guess not. Just… get me the paper, Doc. And let’s get this over with. I got fish to clean.
+DOCTOR: Very well. Here is the information, and the prescription for the artificial tears. Please follow the instructions carefully. And remember, if your symptoms worsen, or if you experience any new changes in your vision, contact me immediately. I’ll see you in one month for a follow-up appointment. Good day, Mr. Pipolo. .
+PATIENT: Alright. Thanks, Doc. .

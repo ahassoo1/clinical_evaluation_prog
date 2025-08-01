@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Tati. I am Dr. Jules. Now, please tell me, what brings you in to see me today?
+PATIENT: Uh, good morning, Doctor. Sorry, my English not so good. I... cough a lot. Been coughing for long time already. And I feel tired all the time. Also, my nose... gets blocked up a lot. Like, sinus, you know? Gets painful.
+DOCTOR: A cough, fatigue, and nasal congestion. “Long time” is rather vague, Mr. Tati. Could you perhaps be more specific?
+PATIENT: Vague? Yes, yes, you right. Hmm… maybe… six months? Or more? I don’t really keep track, sorry. It started… after a bad flu, I think. Very bad one. Then the cough just… stayed. And I keep getting the nose problems again and again.
+DOCTOR: Six months or more… alright. And this fatigue, is it constant, or does it come and go?
+PATIENT: Constant, I think. Always feel a little bit tired, even after sleep. Not like… super tired, but… heavy, you know? Like I don't have energy. Makes work hard. I fix tires, you see? Need strong.
+DOCTOR: Fixing tires… a physically demanding profession. Have you noticed any fever, chills, or night sweats accompanying this fatigue and cough?
+PATIENT: Fever? Hmm… not really. Maybe a little bit warm sometimes, but nothing bad. No chills. And… night sweats? What is that? I sweat at night, but… everyone sweat, right? I don't know if it's more than usual. Sorry.
+DOCTOR: “More than usual” is still imprecise, Mr. Tati. Alright. Let’s move on. Any shortness of breath, or wheezing when you breathe?
+PATIENT: Shortness of breath… no. Not really. I get… puff puff sometimes when I run to catch bus, but that's just because I'm… not so young anymore. Wheezing? No, I don't think so. What does that sound like? I'm sorry, I don't know many English words for body things.
+DOCTOR: A whistling sound when you exhale, Mr. Tati. Never mind. Do you have any pain in your chest?
+PATIENT: Chest pain? No. Not really. Sometimes… a little bit ache after lifting heavy tires. But that’s just muscle, I think. Normal. I work hard, remember?
+DOCTOR: And have you noticed any changes in your appetite or weight recently?
+PATIENT: Appetite… maybe a little bit less? I eat normally, but… not so hungry. And weight… I don’t know. I haven’t weighed myself for a long time. My wife does the cooking, so I just eat what she gives me.
+DOCTOR: Alright. And what about any allergies?
+PATIENT: Allergies? Hmm… I don't think so. I don't get… rash or anything. Sometimes my nose itchy, but that's just dust, I think. Lots of dust fixing tires.
+DOCTOR: Any medications you are currently taking, Mr. Tati?
+PATIENT: No, Doctor. I don't take any medicine. Never really needed any before. I try to be strong, you know?
+DOCTOR: Very well. I’m going to listen to your lungs and heart now. Please remove your shirt.
+PATIENT: Okay, okay. Is… is cold in here?
+DOCTOR: Take a deep breath… and exhale. Again. Your lungs sound… somewhat clear, though there’s a slight wheezing in the lower lobes. Your heart rate is regular, but slightly elevated. I’d like to check your sinuses now.
+PATIENT: Sinuses? How you check? Is it… painful?
+DOCTOR: It may be slightly uncomfortable, Mr. Tati. I will use a small instrument to examine your nasal passages. Please remain still. There's some mild congestion and inflammation, as you described. No obvious signs of infection at this time. Hmm. I suspect this is likely a post-viral sinus infection exacerbated by your work environment.
+PATIENT: Post-viral… what does that mean? And… exacerbated? Is that bad? I just want to stop coughing, Doctor.
+DOCTOR: It means it developed after your flu, Mr. Tati. And “exacerbated” means your work is making it worse, with the dust and physical exertion. It’s not life-threatening, but it’s clearly affecting your quality of life. I’m going to prescribe you a nasal saline rinse to help clear the congestion, and a mild cough suppressant for nighttime use. It's unlikely to be a bacterial infection, so antibiotics aren’t necessary. I also recommend you minimize your exposure to dust as much as possible. Do you understand?
+PATIENT: Nasal saline… like, water for my nose? Okay. And cough suppressant… to stop the cough at night. Yes, I understand. But… what about the tiredness? The fatigue? Is there medicine for that?
+DOCTOR: Mr. Tati, fatigue is a symptom. It will improve as your cough and sinus issues resolve. I recommend you get adequate rest and maintain a healthy diet. I’m also going to recommend a multivitamin. I'm not going to prescribe anything further at this time. Follow these instructions, and if your condition does not improve within two weeks, return for a re-evaluation. Now, do you have any other questions?
+PATIENT: Two weeks… okay. No, Doctor. I think that’s all. Thank you.
+DOCTOR: Very well. I have other patients waiting, Mr. Tati. Please schedule a follow-up appointment if necessary. .
+PATIENT: Okay, Doctor. Thank you. .

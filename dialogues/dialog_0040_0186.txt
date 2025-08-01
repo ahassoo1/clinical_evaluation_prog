@@ -1,0 +1,22 @@
+DOCTOR: Right. Well, Mr. Kingan, let’s get this over with. What brings you in today?
+PATIENT: Just need a check-up for… a team tryout. Basketball. Old man's league, mostly. Gotta get something signed off on, you know? Don’t wanna pull a muscle before I even start.
+DOCTOR: Basketball, at your age?
+PATIENT: Hey, don't sound so surprised! Keeps me moving. Besides, it's not like I’m trying out for the NBA. Just… local fun. Can we just get this done? I got things to do today.
+DOCTOR: Fine, fine. Let’s just…skip the life story, shall we?
+PATIENT: Yeah, sounds good. Skip it. What do you need from me? Forms? Measurements? Just tell me what to do.
+DOCTOR: Alright. First, I need you to fill out this basic questionnaire. It's mostly allergies, medications...standard things. Then, we'll do a quick physical. Don't expect a full workup, I haven't got all day. And please be accurate. I don't have time to decipher sloppy handwriting.
+PATIENT: Right, allergies… Okay. I don't really have any… maybe dust, a little? It makes me sneeze sometimes. No medications, nothing regular. And I can write perfectly fine, thank you very much.
+DOCTOR: Dust. Right. Everyone’s allergic to something these days. Just…try to be concise. We’ll get through this. And your height and weight are on file, but I always double-check. Don't be offended.
+PATIENT: I’m 6’0” and… …around 180, maybe a bit less. Lost a few pounds this winter. It’s hard to keep weight on when you're…active. Don't worry, I'm not trying to cheat the system.
+DOCTOR: Alright, alright. Just finish the form. We'll verify those numbers in a moment. Then, if you wouldn’t mind, just a quick listen to your heart and lungs, check your reflexes...the usual. Don’t make this difficult.
+PATIENT: Okay, done. Happy now? Let’s just get the listening part over with. I haven't got all day, you know.
+DOCTOR: Fine. If you could just lie down on the examination table, please. Shirt up. I’ll try to be quick. Breathe deeply.
+PATIENT: Okay, okay. Deep breath... Is that good enough? Don't poke me with anything sharp.
+DOCTOR: Hmm. Sounds...reasonable. A bit of wheezing, but not unexpected. And that’s…present. Barely. Any chest pain?
+PATIENT: No, no chest pain. Just… sometimes a little short of breath when I really push it. Old man stuff, you know? It happens. Nothing to worry about, hopefully.
+DOCTOR: "Old man stuff." Right. Well, shortness of breath is always something to worry about, but… given your…activity level, it’s probably just deconditioning. Do you warm up properly before playing?
+PATIENT: Yeah, I do! Mostly stretching, a little light jogging. I'm not a complete idiot, you know. I've been playing for years. It’s not like I go from zero to full sprint without preparing.
+DOCTOR: Alright, alright. Look, I'm not implying… Nevermind. Given your age and…limited medical history, I’m going to clear you for participation. But, and this is important, listen to your body. Stop if you feel any pain, dizziness, or significant shortness of breath. Here. Sign here. And don’t come crying to me if you pull a muscle.
+PATIENT: Okay, fine. There. Happy? Can I go now? I really need to get going.
+DOCTOR: Yes, yes, you can go. And try not to overdo it, Mr. Kingan. I’ve got other patients to see. .
+PATIENT: .

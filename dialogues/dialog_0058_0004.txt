@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Ms. Fornes. I’m Dr. Todorovich. So, what brings you in today?
+PATIENT: Morning, Doctor. Just here for my shots, like we talked about. Routine stuff, you know? I think it's time for a check-up too, if you wouldn't mind.
+DOCTOR: Right, the… vaccinations. And a check-up. Okay. Let's get this over with. Just so I'm clear, which vaccinations were you thinking of?
+PATIENT: Oh, goodness. You know, I always forget the names. The ones the health department sends me a card about every year… the flu one, for sure. And… is it tetanus? It's the one you need if you get a cut, right? I do a lot of work with my hands, so I should probably stay up-to-date on that one. Is there anything else I should be getting?
+DOCTOR: Okay, so flu and tetanus. And you want me to… think for you about what else you should be getting?
+PATIENT: Oh, I didn't mean to put you on the spot! Sorry. Just… I figure you know what folks my age usually need. I just don’t keep track of all that stuff. You’re the doctor, after all! Is there a pneumonia shot I should be thinking about? I’ve heard of those.
+DOCTOR: Honestly, Ms. Fornes, it’s your health. I can’t just decide what vaccinations you need without knowing your history. It’s not my responsibility to keep track of it for you. But fine. Pneumonia shot is a good thought, yes. We'll need to review your records, and I'll ask some questions to determine if you're eligible. First, let’s start with a basic medical history. Have you been diagnosed with any chronic illnesses – diabetes, high blood pressure, heart problems, anything like that?
+PATIENT: No, thankfully, nothing like that. I’ve been pretty lucky, health-wise. I get a little tired sometimes, but that’s just from the work, I think. I work construction, you know? Building inspections, mostly. Lots of walking and climbing around. My husband says I work too hard. He’s probably right.
+DOCTOR: Construction… right. And no chronic illnesses. Good. Any surgeries?
+PATIENT: Let me think… Oh! Years ago, when I was a kid, I had my tonsils out. And… I had a C-section with my daughter. That was a long time ago, though. Must be… thirty years now? Other than that, nothing. Just the usual bumps and bruises from work.
+DOCTOR: Tonsillectomy, C-section. Okay. And any family history of serious illness?
+PATIENT: Hmm… that's a good question. My mother had… well, she had some heart trouble when she got older. And her sister, my aunt, she had diabetes. It ran in that side of the family, I think. My dad’s side was pretty healthy, as far as I know. He lived a long life. Is that what you need to know? Like, serious stuff that I might get?
+DOCTOR: Yes, Ms. Fornes, that’s what I need to know. Do you take any medications currently?
+PATIENT: No, nothing regularly. Just ibuprofen sometimes, if my back is really bothering me. And I take a multivitamin, but that’s about it. I try to eat pretty well, lots of fish. We’re Tlingit, you know? Fish is important to us.
+DOCTOR: Okay. And any allergies to medications, food, or anything else?
+PATIENT: Nope, none that I know of. I've eaten all sorts of things, never had a problem. I haven't even had poison ivy! Lucky, I guess. Though, my husband is allergic to cats. He sneezes something awful around them. Does that count?
+DOCTOR: No, Ms. Fornes, your husband’s allergies are not relevant. Your allergies. Since you claim you have none, let's move on. Now, I'm going to need to do a quick physical exam. Please step onto the scale.
+PATIENT: Oh! Right, sorry. Just trying to be helpful. Okay, the scale it is. I’m probably heavier than I used to be. All those fish dinners, I reckon.
+DOCTOR: 114 pounds. And your height is 169 centimeters, correct?
+PATIENT: Yes, that's right. I haven't changed much since my last visit, I don't think. So, what are you looking for? Is everything okay? I'm not feeling sick, just getting my shots.
+DOCTOR: 120/80. Normal. I’m just doing a routine assessment, Ms. Fornes. Listen to your heart and lungs, check your reflexes… it's standard procedure. Take a deep breath… and another one. Lungs are clear. Heart sounds… regular. Reflexes are present. Everything appears… unremarkable. Let's get to those vaccinations, then. Which one first?
+PATIENT: Oh, good! That's good to hear. Um… maybe the flu shot first? It's getting to be that time of year, isn't it? And it always makes me feel a little crummy afterwards, so I like to get it over with. Plus, I don’t want to get my husband sick. He’s not as tough as me.
+DOCTOR: Fine. Just roll up your sleeve. And try not to flinch. I haven't got all day.
+PATIENT: Okay, okay. I never like needles, but I know it's important. Just a little pinch, right?
+DOCTOR: Done. There. Hardly felt it. Now, about that tetanus booster… you said you do construction?
+PATIENT: That wasn't so bad! A little sore, maybe. Yes, construction. Lots of scrapes and bumps, you know. I’m always careful, but… things happen. So, the tetanus shot is a good idea, then?
+DOCTOR: It is. It protects against a very serious infection. It’s a shame people don't take basic precautions. Honestly, you should have been keeping track of your boosters yourself. There. And try to avoid getting any further injuries. I'm not a charity.
+PATIENT: Okay, that one stung a little more. But I'm tough, I can handle it! I appreciate you taking care of me, Doctor. Even if you are a little… direct. Is there anything else I should be thinking about? Any other shots, or tests, or anything? I don’t want to forget something important.
+DOCTOR: You really should take more responsibility for your own health. But fine. Given your age and history, I recommend a routine lipid panel—cholesterol check. And a mammogram. You're overdue. I’ll write you a referral for the mammogram. The lipid panel can be done here, if you'd like. Do you want a lab order?
+PATIENT: A mammogram? Oh my… I haven’t had one of those in… well, a long time. Yes, okay, a referral would be good. And yes, please, a lab order for the cholesterol check too. It's better to be safe, I suppose. Things just get away from you, you know? Thank you, Doctor. I really appreciate you reminding me.
+DOCTOR: Here. Schedule the mammogram as soon as possible. And schedule the bloodwork. Come back in three months for a follow-up to discuss the results. And try to remember your own medical history next time. Next patient.
+PATIENT: Okay, I will. Thank you, Doctor. Have a good day. And… thank you again. .

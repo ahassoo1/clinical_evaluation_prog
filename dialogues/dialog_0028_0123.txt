@@ -1,0 +1,21 @@
+DOCTOR: Alright, Mrs. Cassimatis, good morning. Or, well, it is almost afternoon, isn't it?
+PATIENT: Good afternoon, Doctor Memmolo. Yes, time just flies, doesn't it? It feels like yesterday was morning.
+DOCTOR: Yes, well. Time is…relative. Now, you’re here today because…?
+PATIENT: Oh, right. The itching. My skin has been so itchy lately. It's driving me a little crazy, to be honest. It’s all over, really. Arms, legs, back… everywhere.
+DOCTOR: Itching. Yes. And how long has this…itching been going on?
+PATIENT: Hmm…let me think. It started…oh, maybe a month ago? At first it was just a little bit, you know? I thought it was just dry skin from the summer heat. But it’s gotten worse and worse. It keeps me up at night sometimes.
+DOCTOR: A month. And have you tried anything for it?
+PATIENT: Oh, yes. Plenty. I put lotion on, the regular kind, and then I bought some of that anti-itch cream from the drugstore… the one with the menthol? That helped for a little while, but then it just stopped working. Honestly, I've tried so many things I can barely remember them all. Is this something serious, Doctor?
+DOCTOR: Well, “serious” is a strong word. Itching can be…a lot of things. We need to rule some things out. Have you been exposed to anything new recently?
+PATIENT: New? Oh dear... let me think. I did start using a new laundry detergent a few weeks ago. A friend recommended it, said it smelled lovely. But… I haven’t changed anything else, not that I can recall. Could that be it? It is a strong smell…
+DOCTOR: Laundry detergent. Of course. Often it's the simplest things. Now, do you have any other skin issues?
+PATIENT: No, not really. I mean, I get a little eczema sometimes in the winter, but that's about it. Nothing like this itching. This is different. It’s not flaky or bumpy, just… intensely itchy. It’s making me miserable, Doctor. I just want it to stop.
+DOCTOR: Alright. Let's have a look. Please, sit on the examination table. I’ll need to examine the affected areas.
+PATIENT: Oh, alright. Yes, of course. I hope you don’t mind, my knees aren’t what they used to be.
+DOCTOR: Hmm. No visible rash, no lesions. Skin is…slightly dry. Normal coloration. Alright. Blood work. We'll need a complete blood count and a comprehensive metabolic panel. And…let's just add a thyroid panel for good measure.
+PATIENT: Oh, blood work. Alright. Is that going to be…painful? I don't like needles very much. And what exactly are you looking for? What could this be from, Doctor? I'm a little worried now. I don't usually need this much testing.
+DOCTOR: It's a standard prick, Mrs. Cassimatis. A little pinch, that’s all. And we're just ruling things out. Could be allergies, could be…well, lots of things. Thyroid issues can sometimes cause itching. We need to see the results. The lab results usually take a few days. I’ll have the nurse contact you when they're in. Come back next week.
+PATIENT: Oh. Well, okay. A week… that feels like a long time to be itchy! But alright, if that's what you think is best. Will there be anything I can do in the meantime? Maybe a stronger cream? Or something for the…the discomfort? It's really bothering my sleep.
+DOCTOR: Honestly, Mrs. Cassimatis, creams are just a temporary fix. We need to find the cause. I can prescribe an antihistamine for the sleep disturbance, but don’t expect miracles. Avoid scented products, soaps, detergents. And try not to scratch. Next patient. The nurse will schedule a follow-up for next week.
+PATIENT: Oh. Right. Avoid scented things… and not scratch. Easier said than done, Doctor! But alright. Thank you… I guess. I’ll try my best. I hope we find out what’s going on soon. .
+DOCTOR: Yes, yes. Goodbye.

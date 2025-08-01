@@ -1,0 +1,46 @@
+DOCTOR: Good morning, Ms. Reihner. I'm Dr. Chora. Thanks for coming in today. So, what brings you in to see me?
+PATIENT: Good morning, Doctor. My back… it hurts. Has been for a while now. I need to get this sorted, if possible. I don't have much time today.
+DOCTOR: Alright. “A while now,” can you be a bit more specific?
+PATIENT: About three months, I'd say. Started gradual, like after a long day of work. Now… it’s pretty constant, even when I'm resting. It's mostly lower back, but sometimes it goes down my leg a little.
+DOCTOR: Okay. And when you say "down your leg," can you tell me exactly where it goes?
+PATIENT: Down the back of my leg. Not the front. Starts in my buttock, then goes down the back of my thigh… sometimes even to my calf. Not always, though. It feels… like a shooting pain, or a dull ache. It's hard to explain.
+DOCTOR: I understand. Shooting or aching, that gives me a better idea. Does anything specific make the pain worse?
+PATIENT: Bending over, definitely. Or lifting anything. Even just twisting to reach something. Work makes it worse, of course. Fencing is hard on your body, Doctor. And sitting for too long isn't good either.
+DOCTOR: Alright, fencing… that's good to know. And what about things that make it better?
+PATIENT: Lying down flat, mostly. And… honestly? Not much else. Heat helps a little, a warm bath. But it doesn’t last long. Nothing really gets rid of it, just takes the edge off for a bit. I’ve tried some over-the-counter pain relievers, but they don’t do much good.
+DOCTOR: Okay. And have you noticed any numbness or weakness in your leg or foot?
+PATIENT: Sometimes. My foot feels a little… tingly. Not all the time, just now and then. And my leg feels… heavy sometimes, like it's hard to lift it. But that doesn't happen every day. It’s worse after I've been working.
+DOCTOR: Okay. Now, have you had any recent injuries to your back?
+PATIENT: No, Doctor. No falls or anything like that. It just… started. Gradual, like I said. No specific incident. Just slowly got worse and worse. I haven’t done anything to cause it, as far as I know.
+DOCTOR: Alright. And are you having any trouble with your bowel or bladder function?
+PATIENT: No. Everything is… normal in that regard. No problems there. I apologize if that’s a strange question, Doctor.
+DOCTOR: No, it’s not a strange question at all, Ms. Reihner. We need to rule things out. Now, let's talk a bit about your medical history. Do you have any other medical conditions?
+PATIENT: I have… high blood pressure. And I’m a bit overweight, I suppose. That's about it. I take a pill for the blood pressure. And… I had my gallbladder out years ago, but that's all healed up. Medicare covers everything.
+DOCTOR: Alright, good to know. What medication are you taking for your blood pressure?
+PATIENT: Lisinopril. I take ten milligrams every morning. And… sometimes I take ibuprofen for aches and pains, but like I said, it doesn't do much for my back. I’ve been taking it for years, the Lisinopril. No problems with it.
+DOCTOR: Okay. Any allergies to medications or anything else?
+PATIENT: No, Doctor. No allergies. I can eat anything, take any medication… never had a reaction. I'm pretty simple that way. Not much bothers me.
+DOCTOR: Okay. Now, let’s talk about your family history. Does anyone in your family have back problems?
+PATIENT: My mother had arthritis, but I don’t think it was in her back. Mostly her hands and knees. And… my grandfather had some trouble with his hip. That’s about all I can remember. We didn't talk about health much in my family. It wasn't considered polite.
+DOCTOR: Okay. Now, before we move on to a physical exam, just one last question. What is your typical activity level?
+PATIENT: Well, work is my activity level. Fencing is hard work, Doctor. Long hours, lots of bending and lifting. Otherwise… I mostly rest. I don't do much walking or anything. I used to enjoy gardening, but it’s too hard on my back now. I wish I could still do that.
+DOCTOR: Okay. Thank you, Ms. Reihner, that’s very helpful. Now, I’d like to do a quick physical exam to assess your back. Is that alright with you?
+PATIENT: Yes, Doctor. That's fine. Let's get it over with. I have other things I need to do today. I appreciate you trying to figure this out.
+DOCTOR: Alright. Please lie flat on your back on the exam table. I’m going to gently feel along your spine and assess your range of motion. I'll also check your reflexes and strength in your legs. Please let me know if anything causes you pain. Alright, Ms. Reihner, does this hurt?
+PATIENT: Yes. Right there. Just a little bit below my shoulder blade, on the left side. It's tender. Not sharp, but… uncomfortable. And when you press down.
+DOCTOR: Okay. And what about bending forward?
+PATIENT: That’s the worst part, Doctor. It shoots pain down my leg when I try to bend over. It’s a sharp, pulling sensation. I can't go very far. Ow. That’s enough. It really hurts.
+DOCTOR: Okay. And when you bend backwards?
+PATIENT: It’s… not as bad, but it’s still uncomfortable. A dull ache, mostly. Not the shooting pain like when I bend forward. But it's hard to straighten up. It feels stiff.
+DOCTOR: Alright. Now, I'm going to check your reflexes in your legs. Please relax. Reflexes are normal bilaterally. Now, I'm going to check your strength. Can you lift your right leg straight up while I push down?
+PATIENT: I can try. It’s… hard. It feels weak. Like I'm pushing against something. It's not as strong as it used to be. It's definitely weaker than my other leg.
+DOCTOR: Alright. And your left leg?
+PATIENT: A little easier, but… still not as strong as it should be. It feels… tired. Like it's been working too hard. It’s not a complete weakness, Doctor, but something is definitely not right. I can walk, but it’s uncomfortable.
+DOCTOR: Okay. And when I lift your leg straight up like this, does that cause any pain to radiate down your leg?
+PATIENT: Yes! Right there. It shoots that pain down the back of my leg again. The same shooting pain I told you about. It starts in my buttock and goes all the way down to my calf. Ow. Please stop. That’s really painful.
+DOCTOR: Alright, alright. Okay, Ms. Reihner. That gives me some very useful information. Based on what you've told me and the physical exam, it sounds like you likely have sciatica, which is irritation of the sciatic nerve. It's often caused by a herniated disc or spinal stenosis. We'll need to get an MRI to confirm the diagnosis and see what’s causing the irritation. We'll rule out other possibilities. I'm going to order an MRI of your lumbar spine. I'll also prescribe a course of anti-inflammatory medication to help reduce the pain and inflammation. Do you have any questions so far?
+PATIENT: MRI… is that expensive? Will Medicare cover that? And… what does this mean? Will I need surgery? I just want this pain to go away. I need to work.
+DOCTOR: Alright, Ms. Reihner, let’s take it one step at a time. Yes, Medicare should cover the MRI. We'll verify your coverage before scheduling it, but it’s generally covered for sciatica. As for what it means… an MRI will give us a clear picture of your spine and help us identify the source of the irritation. Most cases of sciatica do not require surgery. We'll try conservative treatment first – medication, physical therapy, and possibly injections. Surgery is only considered if those treatments don’t provide relief. For now, I’m prescribing you Naproxen, an anti-inflammatory. Take 500 milligrams twice daily with food. I'm also giving you a referral to a physical therapist, who can teach you exercises to strengthen your back and core muscles. I'm also going to give you a handout with information about sciatica and how to manage your pain at home. We’ll schedule a follow-up appointment in two weeks to review the MRI results and see how you’re responding to treatment. Does that sound okay?
+PATIENT: Yes, that sounds… acceptable. Naproxen… I'll try it. And the physical therapy. I just hope this works. Thank you, Doctor. I appreciate you explaining everything. I'm glad we're doing something. When should I call to schedule the MRI?
+DOCTOR: Alright. Our scheduling department will be calling you within the next 24 hours to set up the MRI appointment. They’ll also confirm your insurance coverage. Their number is 555-123-4567. In the meantime, try to avoid any heavy lifting or bending, and use good posture. If your pain gets significantly worse, or if you develop any numbness or weakness in your legs, please call our office immediately. Here’s the handout, and the prescription is being sent electronically to your pharmacy. Do you have any other questions before you go?
+PATIENT: No, Doctor. I think that's everything. Thank you again for your time. I appreciate you not dismissing my pain. .

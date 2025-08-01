@@ -1,0 +1,12 @@
+DOCTOR: Good morning, Ms. Kovtun. I'm Dr. Sham. So, what brings you in today?
+PATIENT: Morning, Doctor. Just here for the results, if you could just get straight to it? I’ve got a pretty tight schedule today.
+DOCTOR: Yes, of course. I understand. Let me just pull up your information here… Right. Well, to be sure we're on the same page, could you remind me what tests we were looking at the results for?
+PATIENT: Ugh, honestly? It was… a full panel. Everything. Blood work, the vitamin D thing, you know… the standard check-up my employer insisted on. I don’t really remember the specifics, to be honest. I just showed up when they told me to.
+DOCTOR: Yes, yes… a comprehensive metabolic panel, lipid panel, complete blood count… and a vitamin D level, as you said. Hmm. It appears everything came back within normal limits, Ms. Kovtun. Your blood work is all good, vitamin D is sufficient… nothing immediately concerning. Do you have any specific symptoms you were hoping to discuss, or were you just wanting confirmation of the results?
+PATIENT: Okay, good. That's… good. No, nothing specific. I feel fine. Just wanted to know if there was something wrong and needing attention. If it’s all normal, I guess I’m good to go then?
+DOCTOR: Alright. That’s good to hear. Everything does appear normal on your tests. I always advise patients to maintain a healthy lifestyle – balanced diet, regular exercise, sufficient sleep. But based on these results, there’s no immediate medical intervention needed. Do you have any allergies I should be aware of?
+PATIENT: Nope. No allergies. I eat pretty much anything. Look, is there anything else? I really do need to get going.
+DOCTOR: No, Ms. Kovtun, nothing further at this time. We've documented the normal results, and there’s no need for any follow-up appointments based on these findings. I’ll just have the receptionist print out a copy of the results for your records. Do you have any questions for me before you leave?
+PATIENT: No, I think that's everything. Thanks, Doctor. Just… where do I go for the printout?
+DOCTOR: Just head up to the front desk. They’ll have it ready for you. And… please, don't hesitate to call if anything changes or if you develop any new symptoms. Have a good day, Ms. Kovtun.
+PATIENT: Okay, great. Thanks again. .

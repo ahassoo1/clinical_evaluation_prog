@@ -1,0 +1,28 @@
+DOCTOR: Alright, Lakiya. Forty-two, right?
+PATIENT: Yes, that is correct. Forty-two years of age. Is there something wrong? I have things I need to attend to this afternoon.
+DOCTOR: Yes, well… something brought you in, didn’t it?
+PATIENT: It did. My… my body is causing me pain. Quite a lot of pain, actually. I don’t usually complain, but it’s… difficult to ignore now. I work with fences, you see. It’s hard work.
+DOCTOR: Fences, right. And where is this pain, exactly?
+PATIENT: It’s… mostly in my lower back. And it travels down my left leg. It feels like… like a bad ache, but sometimes it’s sharp. Very sharp. It makes walking difficult. I try to ignore it, but… well, you asked.
+DOCTOR: Right, lower back radiating down the left leg. How long has this been going on?
+PATIENT: About… three months, I think. It started slow, just a little stiffness after work. I thought it was just from lifting the posts. But it hasn’t gotten better. It’s gotten worse, steadily. I haven't taken time off work though. I can't afford to.
+DOCTOR: Three months... lifting posts. Hmm. Any numbness or tingling in your leg or foot?
+PATIENT: Yes, actually. In my foot, mostly. The little toe, and sometimes along the side of my foot. It feels… like pins and needles. Not all the time, but often enough that I notice it. It’s worse when I’ve been on my feet all day.
+DOCTOR: Pins and needles... Okay. And any bowel or bladder changes?
+PATIENT: Bowel… or bladder changes? I… I don’t understand the question. Could you explain that in simpler terms, please? I’m not good with… medical words.
+DOCTOR: Have you noticed any trouble… controlling your bladder or bowels?
+PATIENT: No. Nothing like that. Everything is… normal in that respect. I apologize if I didn’t understand your first question, but those are… private things. I would know if something was wrong there.
+DOCTOR: Yes, alright, good. Just checking. Let’s have you lie down on the exam table. I’ll take a look.
+PATIENT: Very well. I suppose that is necessary. I hope this won’t take long. I have commitments this afternoon.
+DOCTOR: Just lie flat, facing up. I need to check your reflexes and strength. And I'll palpate your spine. Try to relax.
+PATIENT: Alright. Relax… I will try. It’s difficult when everything hurts. Do you need me to tell you if something causes me pain?
+DOCTOR: Yes, tell me immediately if something hurts. And where, specifically. Don't just say "my back." Now, can you point to the exact spot where you feel the most pain right now?
+PATIENT: Ow! There. Right there. That is… very tender. And a little to the left. It’s not a sharp pain, more like a deep ache that radiates outwards. Be careful, please. That really hurts.
+DOCTOR: Tenderness at L4-L5. Okay. Now, can you lift your left leg, straight up, keeping it flat?
+PATIENT: Oh… that’s difficult. It hurts too much. I can’t lift it very high. It pulls on my back, and the pain shoots down my leg. I can’t do that.
+DOCTOR: Alright, alright. Don’t strain yourself. Now, can you try to stand on your tiptoes?
+PATIENT: I can try. No. No, that’s… impossible. It hurts too much. My leg feels weak. I might fall. Please, I think I need to sit down.
+DOCTOR: Weakness… Alright. I think we have enough for now. It sounds like you may have a pinched nerve. Possibly a herniated disc. We'll need some imaging to confirm, an MRI preferably. And I'll order some physical therapy.
+PATIENT: Imaging… and therapy… Will that be expensive? I have Medicare, but… I don't want a large bill. And how long will this take? I need to know if I can still work. I have to provide for myself.
+DOCTOR: Medicare should cover most of it, but there will likely be a copay. As for work… I can’t say for certain without the MRI results. You should avoid heavy lifting until we know more. I’ll write a note for “limited duty” work, but don’t expect to be back to normal right away. Here. The referral is for the imaging center, and this is a note for your employer. Physical therapy will be scheduled separately. Now, is there anything else?
+PATIENT: No. I think that is all. Thank you. I appreciate you seeing me, even if you haven’t given me good news. I need to go now. I have things to take care of. .

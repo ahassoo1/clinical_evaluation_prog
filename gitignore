@@ -1,0 +1,12 @@
+# Ignore environment files
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore generated output folder
+output/
+
+# Ignore flake8 config fiel
+.flake8

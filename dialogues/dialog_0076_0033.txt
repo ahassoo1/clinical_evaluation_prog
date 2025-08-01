@@ -1,0 +1,23 @@
+DOCTOR: Right, Julie Burdette. 66… Okay. Well, let’s not waste time. What brings you in today?
+PATIENT: Oh, honestly. It’s… it’s rather inconvenient, this whole thing. My vision and hearing… they’ve just gone. Not entirely, you understand, but…diminished. I haven’t the time for this, Doctor. I have patients of my own to see, you know.
+DOCTOR: Yes, well, everyone is busy. Diminished, you say?
+PATIENT: Yes, diminished! As in, not as sharp as they used to be. Everything is… muffled and blurry. It started, oh, goodness, I can’t quite recall when. A few days ago, perhaps? It’s all a bit of a haze, truthfully. I simply noticed it this morning when trying to review some charts. Quite bothersome.
+DOCTOR: A few days… right. And this is affecting your… work, you said?
+PATIENT: Of course it’s affecting my work! How else would I have even known something was wrong? I’m a surgeon, Doctor. Pediatric surgeon, to be precise. One requires a certain level of… acuity. It’s quite simple, really. Though, I doubt you’d understand the pressures. Are we getting anywhere with this, or are we simply going in circles?
+DOCTOR: Right, a surgeon. Well, let’s not jump to conclusions. It could be… anything. Probably just fatigue. Do you have any… family history of similar issues?
+PATIENT: Family history? Honestly, Doctor, do you expect me to recall the medical ailments of distant cousins? It’s… irrelevant. My mother had cataracts, if that’s what you’re after, but she lived to be ninety, so I hardly think that’s a cause for alarm. I keep a very busy schedule, you know. I don’t have time to chronicle the health of every relative. Now, are you going to do something about my vision and hearing, or not?
+DOCTOR: Alright, alright. Let's just get through this. Any medications you’re currently taking?
+PATIENT: Medications? Just… a small dose of lorazepam now and then. For… nerves. The usual stresses of the profession, you understand. Nothing…significant. And a multivitamin, naturally. Does one really need to list every single little thing? It feels rather…degrading, frankly.
+DOCTOR: Lorazepam…right. How much, and how often?
+PATIENT: Oh, goodness. It varies. Half a milligram, perhaps? When I simply must compose myself. A few times a week, maybe. I don’t keep meticulous records, Doctor. It's hardly a life-threatening habit. Are we finished yet? I have a luncheon to attend.
+DOCTOR: Fine. Let's have a quick look at your ears. It will be faster if you just sit still.
+PATIENT: Oh, very well. But do be quick about it. I detest being prodded and poked. Honestly, the indignity of it all…
+DOCTOR: Hmm. Some cerumen buildup. Nothing drastic. And… your tympanic membranes look normal, as far as I can tell without a more thorough examination. Now, let’s check your vision. Can you read this chart for me?
+PATIENT: A chart? Honestly. Is this absolutely necessary? I assure you, my vision is perfectly adequate for surgical procedures. But… fine. Lead on. Just keep it brief, Doctor.
+DOCTOR: Start with the top line, please. And try not to strain your eyes.
+PATIENT: Goodness. These letters are terribly small. And… blurry. "P… T… L… oh, this is ridiculous. I can barely make them out. See? It’s quite obvious. My vision is impaired. Honestly, I expect a more… definitive diagnosis. Are you even qualified? "
+DOCTOR: Qualified?
+PATIENT: Well, you seem… hesitant. And frankly, I’ve had more competent medical students examine me during training. This is simply unacceptable. I have patients waiting, Doctor. I need answers, and I need them now. Are you going to order some tests, or am I wasting my valuable time here?
+DOCTOR: Fine. Let's order a basic audiology test and a referral to an ophthalmologist. But don’t expect miracles. It’s probably just age-related changes. And frankly, your lorazepam use might be contributing to the problem.
+PATIENT: Lorazepam? Honestly! I use it for… stress. A perfectly reasonable explanation. And "age-related changes"? How patronizing. Very well, order your tests. But if I find out this is due to something more serious, I expect a full apology. And a prompt one, at that.
+DOCTOR: .

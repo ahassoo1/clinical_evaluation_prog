@@ -1,0 +1,32 @@
+DOCTOR: Right. Mr. Altine, is it?
+PATIENT: Yeah, that’s me. Josie Altine. Look, I got things to do today, so if we could just get this over with, that’d be great. It’s just… food keeps comin’ back up, ya know? Not pleasant.
+DOCTOR: Yes, well, we all have busy lives, Mr. Altine. “Food coming back up,” you say. How long has this been going on?
+PATIENT: Oh, geez, I dunno. A while. Months, probably. Maybe longer? I don't really keep track of these things. It happens after I eat, usually. Especially if I eat somethin’ rich. You’d think at my age, I'd know better, wouldn’t ya?
+DOCTOR: Months, alright. And “rich” foods… could you be more specific?
+PATIENT: Specific? What do you mean, specific? Like… gravy? Fried chicken? Polish sausage? It's food, Doc! Good food. Not rabbit food, that's for sure. It's not like I'm eatin’ salads all day. Honestly, I don’t know why you need to know exactly what I’m eatin’. Does it really matter?
+DOCTOR: It matters, Mr. Altine, because the type of food can indicate the cause. Is it everything you eat, or just certain things?
+PATIENT: Certain things. Definitely certain things. Like, a nice heavy stew? That’s trouble. Anything with a lot of sauce. And chocolate. Don’t even get me started on chocolate. Though, to be fair, everything’s better with chocolate. But then it… comes back. It’s just… inconvenient, ya know? And messes up my good shirts.
+DOCTOR: Alright. And is this vomiting… projectile?
+PATIENT: Projectile? What are ya, askin’ if it shoots across the room? No, it doesn't shoot, Doc. It just… comes up. Like I said. It’s not a fountain or somethin’. Honestly, some of the questions you’re askin’… Are you even a real doctor?
+DOCTOR: Mr. Altine, I assure you I am. Projectile vomiting is a specific symptom. It helps us determine the severity. Does it happen immediately after eating, or a few hours later?
+PATIENT: A few hours, usually. Not right away. Maybe an hour, two hours. Sometimes even longer, if I’m really… indulgin’. Look, I’m not a scientist, alright? I just eat, and sometimes it stays down, and sometimes it doesn't. Is that what you need to know?
+DOCTOR: Alright. And have you noticed any abdominal pain, bloating, or weight loss alongside this?
+PATIENT: Pain, no. Not really. Maybe a little… full feeling, after a big meal. Which is normal, isn't it? Bloated? I wouldn't say bloated. And weight loss? Absolutely not. I've always been a slim fella, always have been. 51 pounds, soaking wet. Don't ask me how I stay so thin, it's a gift.
+DOCTOR: Any other symptoms?
+PATIENT: Other symptoms? Geez. Let me think… No heartburn, not really. Sometimes a little… gassy. But that’s just from the sausage, probably. I get no fever, no chills, no nothin’. Look, I just want somethin' to make it stop comin’ back up, alright? I’m a busy man, I don’t have time for this.
+DOCTOR: Alright. And do you take any medications regularly, or have any allergies?
+PATIENT: Medications? No. Never been much for pills. And allergies? Dust, I guess. Gets me sneezin' sometimes. But that's it. I’m a pretty simple guy, Doc. Simple needs, simple problems… apparently.
+DOCTOR: Alright. We’ll do a quick physical exam. Please lie down on the examination table. I'm going to listen to your abdomen, and then feel it.
+PATIENT: Fine, fine. Just get it over with. Don’t poke too hard, alright? I’m a delicate flower, ya know.
+DOCTOR: Alright. Abdomen is soft, non-tender. No masses palpated. Bowel sounds are… present, though somewhat diminished. No significant findings on auscultation or palpation. Now, can you tell me about your family history?
+PATIENT: Family history? What even is that? My mother liked pierogi, my father liked kielbasa. That’s about all I remember. They were both… hearty eaters, let's just say that. No fancy illnesses, no nothin'. They just… ate a lot and lived long lives. Is that important? Honestly, Doc, this is feelin' like a waste of my time.
+DOCTOR: Alright. And what about your social habits?
+PATIENT: Social habits? What are ya, the police? I go to church on Sundays, I watch the ball game, and I have a beer with the fellas sometimes. Normal stuff! Is this a medical exam or an interrogation? Look, I'm a respectable man, alright?
+DOCTOR: Mr. Altine, it’s necessary to understand your lifestyle. Do you smoke?
+PATIENT: Smoke? Are you serious? No! I’ve never touched a cigarette in my life. My mother would roll over in her grave! Goodness gracious, what are you even trying to get at? I just want somethin’ for my stomach, that’s all.
+DOCTOR: Alright. Based on the information provided, and the lack of significant findings on examination, it’s likely a case of functional dyspepsia – indigestion, essentially. It can be triggered by certain foods, as you've described. I'm going to prescribe a proton pump inhibitor to reduce stomach acid. It won’t cure it entirely, but it should alleviate your symptoms.
+PATIENT: Proton pump… what now? Sounds like somethin’ outta science fiction. Will that make me sleepy? I got things to do, you know. And what about the foods? Can I still eat my kielbasa? And my pierogi? This is all very… complicated.
+DOCTOR: It may cause some mild drowsiness, but it's unlikely. As for your kielbasa and pierogi… moderation, Mr. Altine. Avoid large quantities, especially rich sauces. The medication will help, but it’s not a license to overindulge. Take one tablet daily, before breakfast. I'm also going to recommend an antacid for breakthrough symptoms. This should provide some relief. Do you have any questions?
+PATIENT: Moderation… Right. That’s what they all say. Fine. I guess I can try. But if I can’t have my kielbasa, I’m holdin’ you responsible, Doc. And what if it doesn’t work? What then? Honestly, this whole thing’s been a waste of time.
+DOCTOR: If the symptoms persist, you'll need to follow up. We can consider further testing, such as an endoscopy. But let's try this first. I've printed out a summary of your care and the medication instructions. If you experience any severe abdominal pain, bloody stool, or unexplained weight loss, seek immediate medical attention. Now, if that's all, I have other patients waiting. .
+PATIENT: Fine. Endoscopy? Wonderful. Just what I needed. Look, thanks, I guess. Don’t expect a thank you card. Bloody stool… Honestly, some of these doctors… .

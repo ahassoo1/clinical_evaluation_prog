@@ -1,0 +1,24 @@
+DOCTOR: Alright, Ms. Fabing, good to meet you. So, what brings you in today?
+PATIENT: Oh, hi Doctor Donate. Good to meet you too. It's just... I need to get some forms filled out. Medicare sent me a bunch, and I figured it'd be easier to do it here with someone who could answer any questions.
+DOCTOR: Forms, huh?
+PATIENT: Yeah, a whole stack of 'em! Mostly about... well, I'm not even sure what some of it is about. They're pretty confusing, honestly. Is there a particular one you want me to start with?
+DOCTOR: Look, Ms. Fabing, I'm a doctor. I deal with medical issues. Filling out paperwork isn’t exactly what I went to school for. But… alright. Let's start with the one labeled “Medical History Questionnaire.” It’s the most important. It asks about past illnesses, surgeries… things like that. Can you read it over and tell me if you have any questions?
+PATIENT: Oh, I understand. Sorry to bother you with paperwork stuff. Okay, “Medical History Questionnaire.” Hmm… alright. It asks if I've had any serious illnesses... I had pneumonia when I was a kid, a pretty bad case. And I broke my arm once, falling out of a tree. Is that the kind of thing it's looking for?
+DOCTOR: Yes, those are the kinds of things. Anything else?
+PATIENT: Let me think… Oh! My grandma, on my mom’s side, she had… diabetes, I think? And heart trouble. But that was her, not me. Should I put that down? It asks about family history too, doesn't it?
+DOCTOR: Yes, family history is important, Ms. Fabing. It gives us an idea of your predisposition to certain conditions. Put down your grandmother's diabetes and heart trouble. Be specific if you know what kind of heart trouble. Was it a heart attack?
+PATIENT: Oh, okay, predisposition… I get it. Gosh, I was pretty young when she was sick. I think… it was more like her heart just got weaker over time. Not a sudden attack, more like… she got tired easily and her legs swelled up. Does that make sense? I don’t really know medical terms, sorry. Is that helpful?
+DOCTOR: That's… somewhat helpful, Ms. Fabing. It sounds like she likely had congestive heart failure. Put down “congestive heart failure” under family history, if you can. Now, any other medical issues in your family?
+PATIENT: Congestive heart failure… okay, I can write that down. Let me think… My grandpa, on my dad’s side, he had… problems with his kidneys, I think. He was on dialysis for a long time. Is that something important? I remember my mom saying something about it being… inherited? But I don't know if that's right.
+DOCTOR: Dialysis means he had kidney failure. And yes, kidney disease can be inherited. Write down "kidney failure" under family history. Look, Ms. Fabing, I appreciate you trying, but we need accurate information here. Are there any other significant illnesses in your family?
+PATIENT: Oh, I'm sorry! I just want to make sure I'm getting it right. Um… Let me see. Nothing else that I can really remember, honestly. My aunts and uncles were mostly healthy, as far as I know. No cancer, no… nothing major. Is it okay if I just leave it at that? I feel bad taking up your time with this.
+DOCTOR: Fine. Alright. Let's move on to your medical history. Have you ever been diagnosed with any serious medical conditions?
+PATIENT: Um… no, not really. I had pneumonia as a kid, like I said, but that was a long time ago. And I had my tonsils out when I was little. Other than that, I've been pretty healthy, knock on wood. Just the usual colds and flu, nothing serious.
+DOCTOR: And any surgeries other than your tonsils?
+PATIENT: Let me see… No, I don't think so. I broke my arm when I was a kid, but they just set it in a cast. It didn't need surgery. Just… a really bad break. And a lot of pain. So, no surgeries. Just the tonsils and the broken arm.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: Hmm… not that I know of. I’ve never really had a bad reaction to anything. I can take penicillin, and… I've taken ibuprofen, and… just the usual over-the-counter stuff. No hives, no trouble breathing, nothing like that. I think I'm good there. Is that what you're looking for?
+DOCTOR: Fine. Are you currently taking any medications, Ms. Fabing?
+PATIENT: No, I'm not. I don’t take anything regularly. Not even vitamins. I try to eat healthy, so I figure I get what I need from my food. Old habits from my grandma, she always said a good diet was the best medicine.
+DOCTOR: Alright. Well, it seems we've covered the basic paperwork. Now, if you'll excuse me, I have other patients to see. I'll have the nurse take your vitals. If anything serious comes up, she'll let me know.
+PATIENT: Oh, okay. Alright. Thank you, Doctor Donate. I appreciate you taking the time, even if I wasn't very helpful. I just wanted to get these forms done. I'll go wait for the nurse then. Thank you again.

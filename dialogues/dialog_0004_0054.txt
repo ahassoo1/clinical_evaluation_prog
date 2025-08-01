@@ -1,0 +1,19 @@
+DOCTOR: Good morning, Mr. Tati. I'm Dr. Deschane. So, tell me, what brings you in to see me today?
+PATIENT: Uh, good morning, Doctor. Sorry, my English not so good. I… cough a lot. For long time already. And tired also. Very tired. I keep getting… uh, blocked nose, you know? Sinus, I think they call it. Happens often.
+DOCTOR: Alright. A cough, fatigue, and nasal congestion… for how long exactly have you been experiencing these symptoms?
+PATIENT: Hmm… long time. Maybe… six months? Or more? Hard to remember exactly. I work a lot, you know? Tire shop. Very dusty. Maybe that makes it worse? I don't know. It just… always there, kind of. Sometimes better, sometimes worse.
+DOCTOR: Six months or more. And you said you work in a tire shop. Dusty environment, yes. Do you notice anything specifically that makes it worse?
+PATIENT: Uh… yeah. When I lift heavy tires, I cough more. And… when it's very cold, also bad. Like, rainy days. Or when the air is very dry. Then my throat feels… scratchy. And blocked nose really bad then. I take some medicine from the shop, but it doesn't really help much. Just stops for a little bit.
+DOCTOR: Okay. Cough exacerbated by physical exertion and cold weather. Scratchy throat with nasal congestion. And you've been self-treating with something from the shop… do you recall what that medication was?
+PATIENT: Uh… no, sorry. Just some… pills. My boss, he gives it to me. Says it helps with the… uh, flu. Small white pills. I don't know the name. I just take them when I feel bad. Sorry I can't remember. I not good with names of things.
+DOCTOR: Right. Well, that’s… less than ideal. We’ll need to get a more detailed history. Have you had a fever at any point with this cough?
+PATIENT: Fever? Hmm… I think so. Maybe a couple of times. Not very high fever, though. Just… warm. I don’t check with thermometer. I just feel hot, then I rest. Then it goes away. I don’t really… worry about it too much. Just tired. That’s the worst part. Very tired.
+DOCTOR: Okay. Intermittent low-grade fevers. And you mentioned fatigue is the most bothersome symptom. Do you have any shortness of breath, or any pain in your chest when you cough?
+PATIENT: Shortness of breath… no. Not really. I get tired after coughing, you know? Like, out of breath from the effort. But not… before. And no pain in chest. Just… feels tight sometimes. Like… pressure. But not pain. It’s hard to explain. I hope you understand.
+DOCTOR: I understand. Tightness in the chest, not pain, associated with the cough. Let's move on to some other questions. Have you noticed any weight loss recently?
+PATIENT: Weight loss? Hmm… maybe a little? My wife says I don’t eat as much. I just… don’t feel hungry. And I work very hard, so… maybe I burn more. I don’t know. I haven’t really checked. I just feel… weaker, I think. Not strong like before. My wife worries a lot.
+DOCTOR: Weakness and decreased appetite. Alright. And have you had any exposure to anyone with tuberculosis, or any chronic lung conditions?
+PATIENT: Tuberculosis? Uh… no. Not that I know of. Nobody in my family… nobody at the shop. We mostly just deal with tires. I don’t… I don’t think so. I don’t know what tuberculosis is, really. Is it… bad? My wife, she’s a nurse. Maybe she knows.
+DOCTOR: It can be, yes. It’s a serious lung infection. We just need to rule it out. Now, let’s talk about your past medical history. Have you ever been diagnosed with asthma, bronchitis, or any other lung problems?
+PATIENT: No, Doctor. Never. I always healthy. Work hard, never sick. Until… now. This cough… it’s new. Very strange. I don’t understand why I keep getting sick. My wife says I need to see a doctor. She’s right, I think. I just… not used to being sick. Very worrying. .
+DOCTOR: Alright, Mr. Tati. Well, let's have a listen to your lungs and do a quick physical exam. If you'll step over here, please. And please remove your shirt.

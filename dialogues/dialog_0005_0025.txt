@@ -1,0 +1,14 @@
+DOCTOR: Alright, Mr. Scobie, good to see you. I’m Dr. Donate. So, what brings you in to see me today?
+PATIENT: Eh, hello Doctor. Good to meet you too. I want… I want to know where my people come from. Long, long ago. I hear you can do a test for that? With… with spit, maybe? My daughter, she say I should ask. She say it’s important to know.
+DOCTOR: A test for… ancestry?
+PATIENT: Yes, Doctor. Ancestry. Like… where my family come from before Marshall Islands. Before that. My daughter, she got one of those… those computer things. She showed me pictures, lots of places. I want to know if I am… from one of those places. Is that okay? I don’t understand much, you see.
+DOCTOR: Well, Mr. Scobie, that’s… not really what we do here at the clinic. I’m a family medicine doctor, so I focus on your current health concerns, not tracing your family history. Those ancestry tests… they’re more of a personal interest thing, not a medical one. I understand your daughter suggested it, but this isn’t something I’m equipped to do, or frankly, something we offer. Are you experiencing any health problems that brought you in today?
+PATIENT: Oh. I see. No health problems, Doctor. Not really. Just… curious. My daughter, she say it could tell me things. Maybe why I like fish so much? Or why I feel so close to the ocean. She say it can show you where your people went long time ago. I just… want to know. Is there… is there someone else I can ask? Maybe a different doctor?
+DOCTOR: Look, Mr. Scobie, with all due respect, it sounds like you're looking for information that’s not related to your medical well-being. And frankly, tying your preference for fish to your ancestry… that’s not a medical question. I can’t recommend anyone here who does that kind of testing. It’s something you’d have to look into privately, online perhaps. But I really need to focus on your health. Are you sure there's nothing bothering you?
+PATIENT: Oh. Okay. I understand. No, no. Nothing bothering me. Just… old. Everything feels a little slow, you know? But I always feel slow. My daughter, she worry too much. Maybe I just wanted to tell someone about my curiosity. Thank you, Doctor. For listening.
+DOCTOR: Alright. Well, if you’re not experiencing any specific health issues, and you’ve just been feeling generally… slow, as you say, then we’re probably fine. Just keep an eye on things. If anything does change, or you start feeling unwell, please come back and see me. Do you have any questions for me at all?
+PATIENT: No, Doctor. I think that’s all. Thank you for your time. Maybe I’ll ask my daughter to find someone online, like you say. She’s good with the computers.
+DOCTOR: Alright then. Well, have a good day, Mr. Scobie. And please, if anything changes, don’t hesitate to call the office.
+PATIENT: Thank you, Doctor. You too.
+DOCTOR: .
+PATIENT: .

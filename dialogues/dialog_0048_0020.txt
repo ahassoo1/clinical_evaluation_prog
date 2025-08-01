@@ -1,0 +1,40 @@
+DOCTOR: Right. Mrs. Benites, is it?
+PATIENT: Yes, that is correct. Avril Benites. It is nice to meet you, Doctor… Sink, yes?
+DOCTOR: Yes, Sink. Dr. Sink. And you are here today for…?
+PATIENT: Oh, yes. The… the telehealth visit. My regular doctor, he said I should do this. Just a check-up, you know? To see how things are going. He said something about… Medicare wanting it done. I do not always understand everything.
+DOCTOR: Right, a preventative check-up. Medicare does have requirements. Well, let's get started then. Can you tell me what, if anything, brought you in specifically today?
+PATIENT: Specifically? Hmm… Well, my back, it aches sometimes. Not all the time, but when I bend over, or if I have been on my feet a long time at the shop. It is just… old age, I think. I work with cars, you know? It is hard work.
+DOCTOR: Back pain. And you attribute that to your work?
+PATIENT: Yes, I think so. I have been a mechanic for… oh, a long time. Thirty years, maybe more. Lots of bending, lifting… It is good work, but it is hard on the body. Is that… bad? Should I not be working?
+DOCTOR: Let's not jump to conclusions. Thirty years is a long time to be doing physical labor. Can you describe the pain?
+PATIENT: Oh… how to describe it… It is not a sharp pain, not like if you break something. It is more… a dull ache. It feels… tight, in my lower back. And sometimes it goes down my leg a little. Not all the way, just… a little bit. It is worse at the end of the day, of course. When I am tired.
+DOCTOR: Alright. And does anything relieve the pain?
+PATIENT: Yes, sometimes. If I lie down, that helps. And… warm water. A warm bath, or a warm compress on my back. It does not make it go away completely, but it feels better for a while. And… sitting very still. Not moving. But I cannot do that at work, you know?
+DOCTOR: I see. Any numbness or tingling in your legs or feet?
+PATIENT: Hmm… sometimes, yes. In my feet, a little bit. Not always, and not very bad. It is like… pins and needles. But it goes away. I thought it was just my shoes, maybe. I am on my feet all day. They are work boots, you know? Very sturdy. But not very comfortable.
+DOCTOR: Alright. And have you noticed any weakness in your legs, or difficulty walking?
+PATIENT: No, no weakness. I can walk just fine. I walk to the shop every day, it is not far. And I have to walk around the shop all day, checking cars, lifting things… No, my legs feel strong enough. It is just… the ache. And the pins and needles sometimes. I worry it is something bad, you know? Something serious. But I do not want to stop working. I need the work.
+DOCTOR: Right. Let's do a quick physical exam. Just so we can get a better idea of what's going on. Can you stand up for me, please?
+PATIENT: Yes, of course. Is this okay? I am not very flexible anymore. It takes me a moment to get going sometimes.
+DOCTOR: Alright. Now, can you bend forward and try to touch your toes?
+PATIENT: Oh dear. I cannot reach my toes anymore, Doctor. I used to be able to, but not now. It hurts a little, you know? Just a little. Is that bad?
+DOCTOR: Alright. And now, can you bend backward, just as far as is comfortable?
+PATIENT: Oh, that is… difficult. Just a little. It feels… tight. No, I do not like that very much. It is not comfortable at all. I think I will just stay still, Doctor. Is that okay?
+DOCTOR: Alright, alright. Let's not push it. Now, can you walk on your heels for a moment?
+PATIENT: Oh… on my heels? It is… difficult. I am not very good at this. I might fall. Is this what you want me to do? I feel… wobbly.
+DOCTOR: Alright, stop, stop. That's enough. Just stand still, please. Now, can you walk on your toes for a moment?
+PATIENT: Oh, good. Yes, on my toes? This is… easier. But my calves are starting to hurt. Is this okay? I do not want to fall.
+DOCTOR: Alright, alright. That's enough. Just stand still. Let me check your reflexes. I'm going to tap on your knees, and your ankles. It might be a little uncomfortable, but it shouldn't be painful.
+PATIENT: Oh… a hammer? Is this… necessary? I do not like the sound of this. But… if you think it is important, I will try. But please be gentle? I am a bit… sensitive.
+DOCTOR: Alright. Now the other side. And now your ankles. Hmm. I'm going to palpate your spine now, just to check for any tenderness.
+PATIENT: Oh… Ouch! Yes, there. That is… tender. It hurts a little when you press there. But everywhere else is… okay. I think. It is hard to tell, you know? I am not very good at feeling things. But yes, definitely there. That spot.
+DOCTOR: Alright. That’s helpful. Based on what you’ve told me, and the exam, it sounds like you have a musculoskeletal issue, likely a strain or sprain in your lower back. The tenderness you’re experiencing, combined with the pain when bending and lifting, points in that direction. It’s not uncommon, especially with your line of work. I'm going to order some X-rays to rule out anything more serious, just to be safe. We’ll also get some blood work to check for inflammation.
+PATIENT: Oh… X-rays? And blood work? Is it… bad? Is it something serious? I hope it is not something that will stop me from working. I need to work, you know? I do not have much savings. Will I be able to still go to work while I am having these tests?
+DOCTOR: No, no, it doesn't necessarily mean it's serious. It's standard procedure to rule out fractures or other underlying issues. The blood work will just check for inflammation, to see if there's anything else going on. As for work, I don't want you lifting anything heavy until we get the results back. You can still go to work, perhaps doing lighter tasks, but avoid straining your back. We’ll discuss it more thoroughly once we have the results, but I advise you to modify your activity for now. I’ll have the radiology technician schedule the X-rays, and the lab will draw the blood. I'll call you with the results as soon as they're available. Do you have any questions for me at this time?
+PATIENT: Oh… okay. No heavy lifting. Lighter tasks. I can do that, I think. The office work, maybe. And you will call me? When do you think that will be? And… will the Medicare cover all of this? I do not want to have a big bill.
+DOCTOR: The results should be back within a few business days. As for Medicare, yes, it should cover the X-rays and blood work. However, you might have a co-pay or deductible, so it's best to check with your insurance provider to confirm the exact cost. I will make a note for the staff to provide you with the necessary paperwork for billing. Honestly, I don't have the details of every individual insurance plan. Do you have any other questions, Mrs. Benites?
+PATIENT: Oh… yes. I understand. Paperwork. Okay. Well… what about… pain? Should I take something for the pain? Like… pills? Or a cream? I do not want to get… addicted to anything. My friend, she takes pills for her arthritis, and she is always tired. I do not want that.
+DOCTOR: You can take over-the-counter pain relievers like ibuprofen or acetaminophen, following the dosage instructions on the label. Those are generally safe for occasional use. There are also topical creams containing menthol or capsaicin that can provide some relief. I would advise starting with those before considering anything stronger. As for addiction, that's a valid concern, but with over-the-counter medications and occasional use, the risk is very low. We will discuss prescription options if these don’t work. Is there anything else I can assist you with today?
+PATIENT: Oh… okay. Ibuprofen. And the cream. I will try that. No, I think… that is all. Thank you, Doctor Sink. You have been very… helpful. Even though it is a little scary. I will wait for the phone call. And I will try not to lift anything heavy.
+DOCTOR: Alright. The staff will schedule your tests and let you know when to come in. Have a good day, Mrs. Benites. You’re all set.
+PATIENT: .

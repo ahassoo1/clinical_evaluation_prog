@@ -1,0 +1,30 @@
+DOCTOR: Hi Yamir, good to meet you. I'm Dr. Morenomartinez. So, what brings you in today?
+PATIENT: Uh, hi Doctor. I... need check for referee. For fitness. They want me to get checked before I can do games. Is... okay? I have papers.
+DOCTOR: Okay, a sports physical! Absolutely. We want to make sure you’re healthy and safe to play. Those papers are perfect. Let’s go through them, and then I'll do a quick exam. Just to be thorough, can you tell me a little more about what kind of fitness activities you’re planning?
+PATIENT: Referee... basketball. High school games. Running a lot. And... standing. Sometimes... pushing. Not big pushing. Just... if people get too close. I... not strong man. But I try.
+DOCTOR: Okay, high school basketball refereeing. That's great! Definitely involves a good amount of running and being on your feet. And yes, sometimes a little bit of physical contact is unavoidable. "Not a strong man" is perfectly fine – we're just looking to make sure everything's structurally sound and your heart is healthy for the activity. Let’s start with your medical history. Have you ever been diagnosed with any medical conditions – like asthma, diabetes, or heart problems?
+PATIENT: No. Never. I... think. Maybe small things when I was little kid. But nothing now. My wife… she knew. But… she passed away. Two years ago. So… I don’t remember everything. Sorry.
+DOCTOR: I understand, Yamir. That's completely okay. Losing your wife must have been incredibly difficult, and it's perfectly normal to have gaps in your memory during times of grief. We don’t need to know everything right this minute. Just tell me what you remember. No major illnesses or surgeries, as far as you recall?
+PATIENT: No surgeries. No. I... broke arm once. When I was young. Playing. But fixed good. No problem now. And… no asthma. I can run. Not fast. But I can run.
+DOCTOR: Okay, a broken arm as a child that healed completely – good to know. And no asthma, that's helpful. Now, what about medications?
+PATIENT: No medications. Nothing. I don’t like take pills. Only... sometimes for headache. Over the counter. Ibuprofen, I think. When stress.
+DOCTOR: Okay, just ibuprofen for occasional headaches when stressed. And no regular prescriptions?
+PATIENT: No. Nothing regular. Just when head hurts. That’s all.
+DOCTOR: Okay, good. And do you have any allergies to medications, foods, or anything else?
+PATIENT: No allergies. I eat everything. My wife... she had allergies. Pollen. But I'm okay. I don’t get sick from food. Or... anything.
+DOCTOR: Alright, no known allergies. That’s great. Now, just a couple of questions about your family history. Do you know if anyone in your family – parents, siblings, grandparents – has had any serious medical conditions, like heart disease, diabetes, or cancer?
+PATIENT: Um... my father... he had high blood pressure. When he was old. My mother... she was healthy. And I... don’t know my grandparents. I never met them. They... lived in China.
+DOCTOR: Okay, your father had high blood pressure, and your mother was healthy. That’s good to know. No need to worry about information you don’t have. Now, let's talk a little bit about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No. No smoking. No drink. No drugs. Never. My wife... she didn't like. And... I don't need. I just... need do games. Referee. That’s all.
+DOCTOR: Okay, that’s excellent. Very healthy lifestyle. Now, one last set of questions before we do a quick physical exam. Are you experiencing any pain, discomfort, or unusual symptoms right now?
+PATIENT: No pain. Sometimes... tired. But that's work. And… worry. About games. But no pain. No… anything. Just tired sometimes.
+DOCTOR: Okay, just some fatigue from work and worry about the games – perfectly understandable. Alright, Yamir, let's do a quick physical exam. I’m just going to listen to your heart and lungs, check your blood pressure, and take a look at your joints and reflexes. Does that sound okay?
+PATIENT: Okay. Yes. That’s okay. Hurry is good. I have games Saturday.
+DOCTOR: Absolutely. We’ll be as quick as possible. First, I'm going to listen to your heart and lungs. Please take a deep breath in... and out... again... good. Heart sounds are regular, no murmurs, and lungs are clear. Blood pressure is 128/82 – that’s within the normal range. Joints feel stable and have a full range of motion. Reflexes are 2+ bilaterally, which is normal. Everything seems to be structurally sound so far, Yamir. Now, just a quick check of your vision and a listen to your abdomen. Can you read the letters on this chart for me, please?
+PATIENT: Uh… okay. E… F… P… T… That's all I see. Maybe blurry.
+DOCTOR: Okay, that's good to know. Your vision is slightly reduced, and it sounds like you may need glasses. I recommend you see an optometrist for a full eye exam. We can provide a referral if you’d like. Now, let’s listen to your abdomen. Abdomen is soft, non-tender, and bowel sounds are normal. Everything sounds good here as well. Based on this quick exam, everything appears to be okay for you to participate in basketball refereeing. However, given your slightly reduced vision, I strongly recommend getting that checked by an optometrist before you start. Would you like a referral?
+PATIENT: Yes. Referral is good. Maybe... see better. Games important. I need see good. And... hurry is good, yes? I have games.
+DOCTOR: Absolutely. I understand. I’m sending a referral to Dr. Anya Sharma – she's an excellent optometrist just a few miles from here. Here’s the form with her contact information and appointment scheduling details. We'll also document the exam findings in your chart. To summarize: your physical exam was normal overall, but we recommend a follow-up with an optometrist for your vision. Do you have any questions for me at this point?
+PATIENT: No questions. Thank you, Doctor. Hurry is good. I go now. Games Saturday.
+DOCTOR: You're very welcome, Yamir. I’m glad I could help. Good luck with your games on Saturday! And please, don't hesitate to call if you have any concerns. Have a good day!
+PATIENT: .

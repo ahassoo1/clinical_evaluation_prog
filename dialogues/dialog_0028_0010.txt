@@ -1,0 +1,27 @@
+DOCTOR: Right, Jahaad Tomassoni. 25 years old. So, what brings you in today?
+PATIENT: Good morning, Doctor Memmolo. Well, it’s… a bit difficult to explain, honestly. I’ve noticed some swelling, and I was hoping you could take a look. It’s been happening for a little while now, but it’s… vague, if that makes sense. I don’t really recall exactly when it started.
+DOCTOR: Vague, alright. Well, “a little while” isn’t terribly helpful, is it?
+PATIENT: No, you’re quite right. I apologize. My memory isn’t the best, I’m afraid. Perhaps… a couple of weeks? Maybe a month? It’s mostly in my… ankles, I think. And sometimes my hands. It comes and goes.
+DOCTOR: Ankles and hands. Comes and goes. Alright. And is this swelling… painful?
+PATIENT: Not particularly, no. It’s… uncomfortable, certainly. A bit like they’re heavier than they should be. But not sharp pain, or anything like that. More… a dull ache, sometimes. It’s strange.
+DOCTOR: Dull ache. Okay. And are you noticing any redness or warmth with the swelling?
+PATIENT: Hmm… let me think. I don’t think so. No redness, at least not that I’ve noticed. And… no, not particularly warm either. They just feel… puffy. It’s hard to describe. I apologize for being so… imprecise.
+DOCTOR: It's... less than ideal, yes. Have you had any injuries to your ankles or hands recently?
+PATIENT: No, not that I recall. I try to be careful, and I don't think I've twisted an ankle or anything like that. And I work with my hands a lot, but nothing that would cause a sudden injury. Is this unusual?
+DOCTOR: Unusual isn’t the word I’d use. Unhelpful is more accurate. Alright. Let’s move on. Any other symptoms?
+PATIENT: Oh. Um… well, I’ve been feeling a little more tired lately, perhaps. But I’ve also been working quite long hours, so I assumed it was just that. And… sometimes my skin feels a bit itchy, but again, it could be anything, really. I’m sorry, I’m not being very helpful, am I?
+DOCTOR: Fatigue and itching. Right. And do you have any known allergies?
+PATIENT: Hmm… to my knowledge, no. I’ve never had a reaction to anything, as far as I can remember. Food, medications, pollen… nothing. I’ve always been… fairly resilient, I suppose. I hope that’s useful?
+DOCTOR: Resilient. Well, alright. Are you currently taking any medications?
+PATIENT: No, Doctor. I don’t take anything regularly. Occasionally, if I have a headache, I might take… ibuprofen, perhaps? But that’s it. I generally try to avoid medication if I can.
+DOCTOR: Alright. Well, let's have a look at your ankles. Please, sit back on the examination table and extend your legs.
+PATIENT: Certainly, Doctor. Whatever you need.
+DOCTOR: Hmm. There's a slight pitting edema bilaterally. Not significant, but present. And your skin feels… normal temperature. No noticeable redness. Alright. Now, let’s check your hands. Please, place them palms up.
+PATIENT: Of course. Just let me know if you need me to do anything. Is this something you’ve seen before? With other patients, I mean. I’m just trying to… understand what might be happening.
+DOCTOR: There is mild edema on the dorsal surface of both hands. Again, not substantial. It could be a number of things. Most likely, it's related to fluid retention. But we need to rule out other possibilities.
+PATIENT: Fluid retention? What would cause that? Is it… serious? I apologize for all the questions, I just… I don't like not knowing what's going on.
+DOCTOR: It could be benign. Prolonged standing, diet, a number of factors. But to be thorough, I’m going to order some basic blood work. Complete blood count, comprehensive metabolic panel, and a thyroid panel. And a urinalysis. That will give us a better idea. We'll need to schedule a follow-up appointment to discuss the results.
+PATIENT: Blood work… a thyroid panel… alright. That sounds… thorough. I appreciate that. When would I be able to schedule the follow-up? And is there anything I should be doing in the meantime? Reducing salt intake, perhaps?
+DOCTOR: Reduce your salt intake. Stay hydrated. Avoid prolonged standing if possible. The lab results should be back in about three to five business days. My assistant will call you to schedule the follow-up once they are. Now, is there anything else?
+PATIENT: No, I think that's everything, Doctor. Thank you for your time and for explaining everything so clearly. I appreciate your help. I suppose I'll just wait for the call then. .
+DOCTOR: Right. You may go. My assistant will be in touch.

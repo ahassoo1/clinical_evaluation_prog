@@ -1,0 +1,39 @@
+DOCTOR: Good morning, Criston. It’s nice to meet you. I’m Dr. Renzi. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um, it’s my… my pee. It’s orange.
+DOCTOR: Orange urine, alright. That’s… certainly something we can look into. And how long has it been orange?
+PATIENT: Maybe… two, three days? I not sure exactly. It just… started. I drink lots of water, always.
+DOCTOR: Okay, two or three days. And you mentioned you drink a lot of water – that’s good. Has there been any pain or burning when you urinate?
+PATIENT: No, no pain. Nothing like that. Just… the color. It worry my wife. She tell me to come see you.
+DOCTOR: Wives are usually right about these things! No pain is good. Have you noticed any changes in how you’re urinating – like more frequent trips, or a weaker stream?
+PATIENT: No, everything feel normal there. Same as always. I go maybe… four, five times a day? Normal for me.
+DOCTOR: Okay, four or five times a day, normal for you. And just to be thorough, have you noticed any fever, chills, nausea, or vomiting alongside this change in urine color?
+PATIENT: No fever. No… how you say… throwing up? No. Just the orange pee. I feel okay, other than being a little worried.
+DOCTOR: Alright, no fever, no nausea, just the orange urine and a little worry. Have you taken any new medications recently?
+PATIENT: No new… medicines. I take something for my blood pressure, but I take that for a long time now. Same one.
+DOCTOR: Okay, let's see… amlodipine. You've been on that for a while. Good to know. Do you have any allergies to medications, or anything else for that matter?
+PATIENT: No allergies. Never had one. I eat nuts, everything. My wife always ask, and no, nothing.
+DOCTOR: That’s good. And before we do a quick exam, can you tell me a little about your family history?
+PATIENT: Family history? Um… my father, he had… problems with his sugar. Diabetes, I think? My mother, she was okay. No big problems.
+DOCTOR: Okay, father with diabetes, mother healthy. And what about your lifestyle?
+PATIENT: Lifestyle? I work. I’m an engineer technician. I go to work, come home. Sometimes I fix things around the house. I don’t smoke, I drink maybe one glass of wine with dinner sometimes.
+DOCTOR: Alright, that’s helpful. And just one more question before we take a look – any recent travel?
+PATIENT: No travel. Not for a long time. Maybe… five years ago? To visit family in Morocco. But not since.
+DOCTOR: Okay, good. Well, Criston, let's just do a quick physical exam. I’ll listen to your heart and lungs, and I'd like to quickly check your abdomen and take a urine sample. Just to rule out anything obvious. Does that sound alright?
+PATIENT: Yes, okay. That sounds… good. I trust you, Doctor.
+DOCTOR: Excellent. Let's start by listening to your heart and lungs. Just breathe normally for me, in and out. Heart sounds are normal, and lungs are clear. Now, if you could lie back on the examination table, and we’ll check your abdomen. Let me know if anything feels tender. Abdomen is soft, no obvious masses or tenderness. Now, we just need a urine sample. I’ll give you a cup, and I’ll leave you a moment of privacy.
+PATIENT: Okay, good. I go now.
+DOCTOR: Take your time, Criston. I’ll be right here when you’re finished. Just let me know when you’ve collected a sample.
+PATIENT: 
+DOCTOR: Alright, thank you. Let’s take a look at this. Hmm… the results show a slightly elevated level of bilirubin. It’s not dramatically high, but it’s enough to explain the orange color of your urine. Bilirubin is a waste product, and sometimes it can build up in the body. Now, this could be a number of things, from mild dehydration to a minor liver issue. I want to run some further blood tests to get a clearer picture. Does that sound okay?
+PATIENT: Blood tests? Yes, okay. What does… what does that mean? Is it bad?
+DOCTOR: It doesn't necessarily mean it's bad, Criston. Blood tests will help us figure out why the bilirubin is elevated. It could be something simple like mild dehydration, or it could indicate a minor issue with your liver or gallbladder. We need more information to be sure. The tests will check your liver function, gallbladder function, and overall health. We’ll also check your kidney function, just to be thorough. It's a pretty standard set of tests, and we can get the results back quickly. Would you like me to explain the process?
+PATIENT: Yes, please. How does it work? Where do they take the blood from?
+DOCTOR: Certainly. We’ll just need a small sample of blood, usually from a vein in your arm. A phlebotomist – a specially trained technician – will insert a small needle, and collect a few vials of blood. It’s usually quick – maybe five to ten minutes. There might be a slight pinch, but it shouldn’t be painful. They’ll apply a bandage afterwards, and you’ll need to avoid strenuous activity with that arm for a little while. The blood will be sent to the lab, and the results will usually be available within 24 to 48 hours. We’ll schedule a follow-up appointment to discuss the results and determine the next steps. Does that sound alright?
+PATIENT: Yes, that sounds… okay. So, no big deal? Just a little pinch?
+DOCTOR: Exactly. Just a little pinch. And we’re being proactive here, Criston. It’s good that you came in to get this checked out. Most likely, it will be something minor. But we want to rule out anything serious, just to be safe. While we wait for the results, I recommend increasing your fluid intake – continue to drink plenty of water. And if you notice any changes in your symptoms – like abdominal pain, nausea, vomiting, or yellowing of your skin – please let me know immediately. Do you have any questions about that?
+PATIENT: No, I think I understand. So, more water. And call if something feels… wrong. Okay. Can we do the blood test now?
+DOCTOR: Absolutely. Let me just print out the lab requisition form. I'll call the lab and let them know we're sending you over. It's just down the hall, and they're expecting you. They'll take care of everything. I’ll schedule a follow-up appointment for you while we wait for the results. How does Thursday morning sound?
+PATIENT: Thursday morning… yes, that works. Okay, good. Thank you, Doctor.
+DOCTOR: Excellent. Let me just get that scheduled for you. Alright, Thursday at 9:00 AM. And the lab is just through that door. They’ll give you some instructions. Don’t hesitate to ask them any questions you have. Is there anything else I can assist you with today, Criston?
+PATIENT: No, I think that’s everything. Thank you very much for your help, Doctor Renzi. I feel much better now.
+DOCTOR: You’re very welcome, Criston. I’m glad I could help ease your concerns. Remember, if anything changes, don’t hesitate to call. And we’ll see you Thursday morning to discuss the results. Have a good day, and try not to worry too much!

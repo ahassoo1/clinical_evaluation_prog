@@ -1,0 +1,27 @@
+DOCTOR: Hello, Mr. Tati. I’m Dr. Osterholm. So, what brings you in today?
+PATIENT: Uh, hi Doctor. It's… cough. Been coughing a lot. And tired, always tired. Feels like… something in my nose, always blocked. Happens a lot, you know? Like… every few months, it comes back. I don't really… remember when it started, exactly. Just… always there, sort of.
+DOCTOR: "Always there, sort of." Right. Well, that’s… helpful. So, this cough, tiredness, and nasal congestion… it comes and goes, every few months you say?
+PATIENT: Yeah, every few months. Maybe… three, four months? Sometimes shorter. And the cough… it brings up stuff, you know? Not… blood, just… green stuff. Sometimes yellow. Sorry, I don't know the names of things. It's… annoying, mostly. And makes me feel very weak. My wife… she keeps telling me to come see a doctor.
+DOCTOR: Green or yellow sputum, yes. Okay. And how long have you been dealing with this… recurring issue?
+PATIENT: Recurring… Hmm… a long time. Maybe… five years? Or more? I don't really keep track. It comes and goes, so… I forget. I work, you know? Tire shop. Lots of dust. Maybe that’s it? I dunno. It just… happens.
+DOCTOR: Five years or more... and you work in a tire shop. Right. And besides the cough, tiredness and nasal congestion, anything else?
+PATIENT: Let me see… sometimes my head hurts. Like… pressure, behind my eyes. Not all the time, just… when the cough is bad. And… sometimes I feel a little feverish, but I don't check. My wife checks sometimes, she says it's not very high. Just… warm. Is that important?
+DOCTOR: Pressure behind the eyes and occasional low-grade fever... It could be something, or it could be nothing. Do you have any allergies?
+PATIENT: Allergies? Uh… I don’t think so. I mean, I don't sneeze a lot. Maybe… dust? From the shop? But everyone gets dusty there, right? I don't know. My wife says I should try some medicine, but I don’t really like taking pills. They make me feel strange.
+DOCTOR: Right. Dust... Well, we’ll see. Are you currently taking any medications?
+PATIENT: No, Doctor. Nothing. Like I said, I don't like taking pills. Just… sometimes I drink some herbal tea my wife makes. For the cough. Doesn't really help much, though. It just… makes it a little bit warmer. That's all.
+DOCTOR: Okay. And have you had any serious illnesses or surgeries in the past?
+PATIENT: Hmm… serious… I broke my arm when I was a kid, playing football. But that was a long time ago. And… I think I had the flu once, very bad. But that’s it, I think. I don't really remember much. My wife… she knows more about these things. Is that important?
+DOCTOR: It’s… helpful to know. Alright. And what about your family?
+PATIENT: My family? My wife, of course. And my two children, they are grown up now, living in the city. They are healthy, thank goodness. My mother… she had some problems with her breathing when she was old, but I don’t know what. That's all I really know. Does that matter, Doctor?
+DOCTOR: It… can. Alright. Well, let's have a quick look at your nose and listen to your lungs. If you could just sit up there for me.
+PATIENT: Okay… Is it… going to hurt? I don't like things going up my nose.
+DOCTOR: It won’t hurt, Mr. Tati. Just a quick look. Hmm. There's some swelling and redness in there. And your nasal passages are quite congested. Now, take a deep breath for me… and another one… A bit of wheezing on both sides. Okay. You've got some congestion in your lungs as well.
+PATIENT: Wheezing? Congestion? Is that bad, Doctor? My wife… she said maybe it's the dust. But I need to work, you know? What does that mean? Do I need pills?
+DOCTOR: It could be the dust, Mr. Tati. It could also be bronchitis, or even… something else. It's difficult to say without further investigation. We'll need to get a chest X-ray. And I'm going to prescribe you an inhaler to help with the wheezing. As for pills… an antibiotic might be necessary, depending on the X-ray results. It's all a bit preliminary at this point. Do you understand?
+PATIENT: X-ray? Antibiotic? Inhaler? I… I don't really understand. Is it serious, Doctor? I just want to feel better. And I don't like taking pills… my wife… she will be very worried. Can’t I just… take some tea? Maybe rest?
+DOCTOR: Look, Mr. Tati, I understand you don’t like taking medication. However, we can’t just hope it goes away. It could be something serious, and we need to rule that out. The X-ray will give us a clearer picture. The inhaler will help you breathe easier in the meantime. As for the antibiotic... we'll see what the X-ray shows. I'm going to write you a referral for the X-ray. You need to get that done as soon as possible. Do you have any questions?
+PATIENT: I… I guess not. X-ray… okay. Will it hurt? And… how much does it cost? I don't have much money, Doctor. My wife… she works very hard. Is it very expensive?
+DOCTOR: It shouldn’t hurt, Mr. Tati. As for the cost… I’m not certain. You’ll need to check with the radiology department. Unfortunately, I don’t have access to that information. I’m printing out the referral now. And I’ll write you a prescription for a basic inhaler. It’s not a cure-all, but it might help with the wheezing. Here’s the referral. And here’s the prescription. Make an appointment for the X-ray as soon as possible. And if your symptoms worsen… go to the emergency room. Understand?
+PATIENT: Okay… thank you, Doctor. Emergency room…? I will… try to make an appointment. My wife… she will help. Thank you again, Doctor.
+DOCTOR: Yes, yes. Get the X-ray done, Mr. Tati. That’s all. .

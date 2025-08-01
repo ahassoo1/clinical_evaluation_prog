@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Ms. Hainley. I'm Dr. Sham. So, what brings you in today?
+PATIENT: Morning, Doctor. It’s… well, it’s my bruising. It’s been getting worse, even though I’m taking the blood thinner like I’m supposed to. I really don’t have a lot of time today, so… that’s the main thing.
+DOCTOR: Alright, bruising… and you’re currently on a blood thinner, is that correct?
+PATIENT: Yes, that’s right. Warfarin, I think it’s called. Been on it for… oh, let me think… almost a year now, after the surgery. I try to be really good about taking it every day at the same time.
+DOCTOR: Okay, Warfarin for almost a year post-surgery. Do you recall which surgery, Ms. Hainley?
+PATIENT: Oh, right! It was my hip. Fell last year, needed a replacement. Everything was going pretty smooth, but this bruising… it’s just not right. It’s showing up on my arms mostly, and even my legs now. I bumped into the coffee table a couple of days ago, and the mark is huge. Bigger than it should be, I think.
+DOCTOR: Alright, hip replacement a year ago, now increased bruising despite being on Warfarin… Has anything else changed recently?
+PATIENT: Hmm… not that I can think of. Same routine, same foods… Oh! Wait. I did start taking that new vitamin D supplement. Doctor said my levels were low at my check-up a few months back. Does that… could that have something to do with it? I don’t usually pay much attention to all that stuff, honestly.
+DOCTOR: Vitamin D supplement…okay. And how much are you taking daily?
+PATIENT: Ugh, see, this is what I mean… I have no idea. The bottle… it has a bunch of numbers on it. Let me see… 2000 IU, it says. One tablet a day. I think. It was Doctor Miller who told me to take it, he filled out a prescription.
+DOCTOR: Okay, 2000 IU of Vitamin D daily. Let’s do a quick check. Could you roll up your sleeves, please?
+PATIENT: Sure. There. Pretty bad, huh? I’m starting to get worried. And it’s not just the bruising, it’s just… everything feels a bit off. Tired, you know? Not a lot of energy.
+DOCTOR: Yes, I see. Some variation in size and color, that's expected, but it is more than minimal. And you mentioned fatigue. Any bleeding elsewhere – nosebleeds, bleeding gums when brushing, blood in your urine or stool?
+PATIENT: No, thankfully nothing like that. Just the bruising, and feeling a bit wiped out. I haven't noticed anything else. I really don’t have time to be sick, Doctor. I have a meeting in… well, not long. Is something seriously wrong?
+DOCTOR: Okay. Ms. Hainley, your fatigue and increased bruising while on Warfarin warrants investigation. 2000 IU of Vitamin D can interfere with Warfarin's effectiveness, though it’s not always the case. We need to check your INR, to see how well your blood is clotting. I'd also like to order a complete blood count, just to rule out other causes. Would that be alright?
+PATIENT: Okay, fine. As long as it doesn’t take too long. I have to be back at the office by two. What does… the INR thing involve? Is it a lot of blood? I really don’t like needles. And will this tell me what's going on? I’m just trying to figure out if I need to worry or not.
+DOCTOR: It's a simple blood test, Ms. Hainley. A very small amount of blood, taken from your arm – just a quick prick. The INR test measures how long it takes your blood to clot. It will tell us if your Warfarin dose is correct, or if it needs to be adjusted. It’s a standard test, and we can get the results back fairly quickly. We’ll do that now, and I’ll also order the complete blood count. We can discuss the results and a plan once we have them. Sound okay?
+PATIENT: Okay, fine. Just… get it over with. But if it takes longer than 30 minutes, I might have to leave. Seriously. I have a really important client meeting.
+DOCTOR: Alright, Ms. Hainley. It will be quick. And we’ll do everything we can to keep it as efficient as possible. There you go. Just a little pressure for a few minutes to stop any bleeding. I’ll get the lab results sent to me as soon as they're available. We'll go from there.
+PATIENT: Okay. Thanks. Let me know when you have those results. Really. I need to know. .

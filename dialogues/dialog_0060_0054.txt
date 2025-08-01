@@ -1,0 +1,38 @@
+DOCTOR: Good morning, Mr. Tati. I’m Dr. Noordin. So, what brings you in to see me today?
+PATIENT: Uh, good morning, Doctor. I… cough a lot. Been coughing for a long time now. And… I feel tired all the time. Also, my nose… always blocked, feels like. Get sick a lot, sinus, I think they call it. It’s… annoying.
+DOCTOR: Okay, a chronic cough, fatigue, and nasal congestion… and frequent sinus issues. “A long time now” is a bit vague, Mr. Tati. Could you try to be a little more specific?
+PATIENT: Specific… hmm. Maybe… six months? Or more? I don’t really keep track. It comes and goes, but mostly it’s there, you know? Like, I always feel like I gotta clear my throat. And the tired… it's… hard to explain. Not like… sick tired, just… always heavy.
+DOCTOR: Six months or more… constant, but fluctuating. Alright. And you mentioned getting “sick a lot.” What do you mean by that?
+PATIENT: Like… cold, I think. Runny nose, blocked nose, sometimes fever. Not high fever, just… warm. My wife, she gets worried when I cough too much. She says I get it… every month or so. Maybe two months. It's… hard to remember exactly. I just feel unwell.
+DOCTOR: Okay, recurrent cold symptoms—nasal congestion, runny nose, low-grade fever—approximately every one to two months for the past six months. Do you have any allergies that you know of?
+PATIENT: Allergies? I don't think so. Never been to a doctor to check. I… sometimes my nose gets itchy when I'm outside, but everyone gets that, right? Dust and stuff. I don't know if that's allergy. Sorry, I don't really understand allergy.
+DOCTOR: Alright, no known allergies. We'll consider that. Have you had any previous medical problems?
+PATIENT: Medical problems… hmm. Nothing serious, I think. Maybe… I broke my arm when I was a kid, playing football. But that was a long time ago. I get… back pain sometimes, from working with the tires. Lots of bending and lifting. But it goes away with rest. Nothing else I can think of.
+DOCTOR: Okay, a childhood broken arm, and occasional back pain related to work. Have you ever had any surgeries?
+PATIENT: No, Doctor. Never had surgery. No. Just the arm when I was little, they put it in a cast. That’s all.
+DOCTOR: Alright. What about your family?
+PATIENT: Family… my wife is healthy. Mostly. She gets headaches sometimes. My mother… she had… something with her chest when she was old. Had to go to hospital. Not sure what it was. My father… he was always strong. Never sick. I think. Sorry, I don't really know much about my family's… medical stuff.
+DOCTOR: Okay, wife occasionally has headaches, mother had a chest condition as an older adult, father generally healthy. Do you smoke?
+PATIENT: No, Doctor! No smoking. Never. Bad for you, right?
+DOCTOR: Yes, very bad. Do you drink alcohol?
+PATIENT: Sometimes. Not much. Maybe… a beer with my friends on the weekend. Sometimes. Not every weekend. Just… social. I don’t drink alone.
+DOCTOR: Alright. And what kind of work do you do?
+PATIENT: I fix tires. And change them. At the shop. It's hard work, lots of lifting and bending. Sometimes it's dusty.
+DOCTOR: Okay. And are you currently taking any medications?
+PATIENT: No, Doctor. Nothing. Just… panadol sometimes, if I have headache. But not often. Not a regular thing. Just… when needed.
+DOCTOR: Alright. Finally, do you have any allergies to any medications?
+PATIENT: Allergies to… medicines? I don't think so. Never had a bad reaction to panadol. I haven't taken much medicine, really. Sorry, I don't really know.
+DOCTOR: Okay, Mr. Tati. Alright. Let’s have a listen to your lungs and check your throat. Could you please sit up straight and take a deep breath for me?
+PATIENT: Okay, Doctor. Deep breath… like this?
+DOCTOR: Yes, exactly like that. Another deep breath… and one more. Okay. Your lungs sound a little… congested. Not terribly concerning at this stage, but it’s something to note. Now, could you open your mouth and say "ah"?
+PATIENT: Ah…
+DOCTOR: Your throat is a little red, but no obvious signs of infection. Now, I'm going to feel your lymph nodes. These are in your neck. It might be a little uncomfortable. Your lymph nodes are slightly swollen. Okay, Mr. Tati. Based on what you've told me, and the quick exam, it sounds like you could have a chronic upper respiratory infection, possibly bronchitis. Your congestion, cough, and fatigue are consistent with that. The slight swelling of your lymph nodes suggests your body is actively fighting something off. However… it's been going on for six months, which is a bit long.
+PATIENT: Six months… Is it bad, Doctor? What does that mean? What do we do?
+DOCTOR: It doesn't necessarily mean it's bad, Mr. Tati, but it does mean we need to investigate a little further to rule out other possibilities. It’s unusual for a simple infection to last this long. I'd like to order a chest X-ray to get a better look at your lungs. And I'm also going to order some blood work to check for any underlying inflammation or other issues. In the meantime, I recommend you get plenty of rest, drink lots of fluids, and avoid irritants like smoke or dust. You can continue to take over-the-counter pain relievers like panadol for any discomfort. But if your symptoms worsen, or you develop a high fever, please come back immediately. Does that sound alright?
+PATIENT: X-ray… and blood work… Is it expensive, Doctor? I… don’t have much money. And… what if it is something bad?
+DOCTOR: I understand your concern, Mr. Tati. I'm aware that medical costs can be a worry. The X-ray and blood work will give us a clearer picture, and we can discuss the cost before proceeding. I can also connect you with a financial counselor at the clinic who can help you explore payment options. As for whether it's something bad… we don't know yet, and that's why we need these tests. It could be a persistent infection, allergies, or something else entirely. It's important to remember that most of the time, these things aren’t serious. But it's always best to be thorough. I'm going to write you a referral for these tests, and the lab can give you a cost estimate. We'll discuss the results as soon as they’re available. Does that sound a little better?
+PATIENT: Financial counselor… that would be good. Yes. Okay. Thank you, Doctor. I… I feel a little better now, knowing we’re doing something.
+DOCTOR: You're very welcome, Mr. Tati. That's what I’m here for. I’ll have the nurse schedule a follow-up appointment for us to discuss the results as soon as they come in. In the meantime, if anything changes, or if your symptoms worsen, don't hesitate to call. And don’t worry too much. We’ll figure it out. Is there anything else I can help you with today?
+PATIENT: No, Doctor. I think that’s all. Thank you very much for your help.
+DOCTOR: You're very welcome, Mr. Tati. Get some rest, and I'll see you at your follow-up. Have a good day.
+PATIENT: You too, Doctor. Goodbye.

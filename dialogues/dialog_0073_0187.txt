@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Mr. Sobkowic. I’m Dr. Korrell. So, tell me, what brings you in to see me today?
+PATIENT: Hmph. Chest… feels funny. Like bird flapping. And my blood… number high. Wife say I need check. I don't like hospitals. Waste of time.
+DOCTOR: “Funny” how, exactly?
+PATIENT: Like… thump-thump fast. Not regular. Like scared bird. I eat good. Not much sugar. Wife always check. But still… thump-thump. And I get… dizzy sometimes. Just little dizzy. Not fall down dizzy.
+DOCTOR: Alright. “Thump-thump fast,” and irregular, you say. And dizziness… when does that happen, Mr. Sobkowic?
+PATIENT: When I… walk fast. Or after eat big meal. Not every time. Sometimes. And I get… short of breath. Like climb stairs. But I no climb stairs much these days. Old man problems, you know?
+DOCTOR: So, the palpitations – that’s what we call the “thump-thump” – with exertion or after meals. And shortness of breath… is that when you’re actively doing something, or does it happen at rest as well?
+PATIENT: What… pal-pa-what? Never hear that word. Just… fast heart. And… short of breath when I try to do things. Not when I sit. Mostly. Sometimes when I… watch TV too much. Old man, remember? Everything slow. Everything hard.
+DOCTOR: Palpitations, Mr. Sobkowic, is the medical term for feeling your heart race or beat irregularly. It means the same thing as your “fast heart.” Now, about this shortness of breath… can you tell me how short of breath you get?
+PATIENT: Hmph. Like… can't get enough air. Like… running up hill. But I no run hill. Long time no run hill. Wife say I worry too much. She always say that. Makes me… more worried.
+DOCTOR: Yes, well, worrying doesn’t help, does it?
+PATIENT: No. Worry no help. Waste of good time. Just want to know if heart… break soon? I have things to do. Grandkids to see. Not much time left.
+DOCTOR: Mr. Sobkowic, I assure you, we’re not going to let your heart “break soon.” That’s a rather dramatic way to put it. But to be certain, I'd like to listen to your heart and lungs, and check your blood pressure. Then we can discuss some possible tests, alright?
+PATIENT: Tests? More waste of time. I don't like machines. Just… listen. Quick. I have appointment with… friend. Very important.
+DOCTOR: Very well. Lie back on the table, please. But understand, a proper diagnosis requires more than just listening. It’s for your benefit, Mr. Sobkowic.
+PATIENT: Hmph. Fine. But make it quick. I no have all day. And don't poke too much. Old man skin fragile.
+DOCTOR: Alright. Deep breaths, please. In and out… Hmm… I do detect a slightly irregular rhythm. And a bit of diminished breath sound on the lower lobes. Blood pressure is 145 over 88. Not ideal. Now, I’m going to feel your pulse in a few different places… Just relax.
+PATIENT: Hmph. See? I told you. Fast heart. And… weak. Wife say my feet always cold. She make me wear thick socks. Don't waste time with machines. Just… give me something for heart. Quick.
+DOCTOR: Mr. Sobkowic, I cannot simply “give you something for your heart” without knowing the cause of the problem. It could be a number of things – arrhythmia, heart failure, even something as simple as dehydration. Jumping to medication without a diagnosis is irresponsible, and potentially dangerous. We need an EKG, at the very least. And I’d like to order a basic blood panel to check your electrolytes and kidney function. It's not a waste of time, it’s called due diligence.
+PATIENT: EKG? Blood? No. No machines. No needles. I no like. I just want… pill. Make heart stop thump-thumping. That all. Waste of good time. You young doctor. No understand old man.
+DOCTOR: Mr. Sobkowic, with all due respect, your reluctance to undergo basic testing is… frankly, concerning. I understand you dislike hospitals and machines, but I am obligated to provide you with the best possible care. And that requires gathering information. I can’t in good conscience prescribe medication without knowing what I’m treating. If you absolutely refuse the EKG and blood work, I will refer you to a cardiologist for a second opinion. However, I strongly advise you reconsider. It could save you a lot of trouble—and potentially, a great deal more.
+PATIENT: Cardio… what? More doctors? No. No more doctors. Just… forget it. I go home. Wife will worry. Waste of good time. You no help old man.
+DOCTOR: Very well, Mr. Sobkowic. But please understand, by refusing basic diagnostic tests, you are accepting a level of risk. I will document your refusal in your chart. I strongly urge you to discuss this with your wife, and reconsider. Here is a referral to a cardiologist, should you change your mind. I wish you good health, regardless.
+PATIENT: Hmph. Young doctors… no understand anything.

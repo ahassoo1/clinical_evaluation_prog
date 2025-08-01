@@ -1,0 +1,24 @@
+DOCTOR: Right. Mrs. Benites, is it?
+PATIENT: Yes, that is correct. Avril Benites. It is nice to meet you, Doctor… Dech-ene? Is that how you say it?
+DOCTOR: Dech-ene, yes. Though honestly, most people butcher it. Let's not dwell on that. You're here today because…?
+PATIENT: Oh, well, the… the nice lady on the phone said to come for a check-up. A remote one, she said. My knees, you see. They bother me sometimes. Not all the time, but… enough that I thought I should have someone look at them.
+DOCTOR: A remote one… yes, I see a note about a telehealth consult initiated previously. And now you’re here in person for…knee pain. Hmm. Alright. When did this knee pain start?
+PATIENT: Oh, goodness. When did it start… that is a good question. It wasn't sudden, you see. It has been… little by little, for maybe six months now? It is hard to say exactly. I work with cars all day, so maybe that has something to do with it?
+DOCTOR: "Work with cars." That is…broad. Are you a mechanic?
+PATIENT: Yes, I am. A mechanic. For… a long time now. Fifty years, almost. Though, I do less of the… crawling under the cars now. Mostly helping the younger ones. But still, I am on my feet all day. And sometimes I need to… well, reach for things.
+DOCTOR: Fifty years is… considerable. And you're experiencing pain in both knees, I presume?
+PATIENT: Oh, no, not both. It's mostly the right one. The left one is okay, mostly. It gets a little stiff if I sit too long, but the right one… that one aches when I bend it. And sometimes even when I don't bend it. It's not terrible, but… it's there.
+DOCTOR: Alright. Just the right knee, primarily. Does it swell?
+PATIENT: Swelling… hmm. Sometimes. Not big swelling, like a balloon. But I notice it feels… puffier, maybe? After I have been on it a lot. Especially after a long day at the shop. It's hard to explain. Not always, though.
+DOCTOR: "Puffier" is…not a medical term, Mrs. Benites. But I understand. We’ll take a look. If you don’t mind, I’m going to do a quick physical exam of both knees. Just to get a baseline. Please lie down on the examination table.
+PATIENT: Oh, yes, of course. Whatever you need. A physical exam… that sounds good. I hope I am not too… creaky.
+DOCTOR: Alright. Please extend your right leg straight out. Now, I'm going to check your range of motion. Try to relax. Tell me if you feel any sharp pain. Just a general sense of discomfort is fine. And…yes, that’s quite a bit of crepitus. I’m noting that in the chart. Any tenderness here?
+PATIENT: Oh, yes, there is… a little tenderness right there. When you press… just there. Not sharp pain, like you said, but… a dull ache. And yes, it feels… crunchy, like you said. Crepi-tus? Is that what you called it? It has always done that, a little, but it seems worse now.
+DOCTOR: Yes, crepitus. It’s common, particularly with age and activity. Alright. Now, I'm going to check the stability of the joint. Tell me if that feels unstable, or if you feel any popping. Your left knee appears stable, and has minimal crepitus. Now, sit up, please. We'll need some X-rays to rule out any significant arthritis or structural damage.
+PATIENT: X-rays… oh dear. I haven’t had those done in… well, a long time. Is it going to be very… uncomfortable? I do hope it won't take too long. I have to get back to the shop, you see. Young Tom is covering for me, but he is still learning.
+DOCTOR: The X-rays themselves are not uncomfortable, Mrs. Benites. It’s a quick procedure. We'll send you to radiology after this. And yes, I understand you need to get back to the shop. We will try to be as efficient as possible. Here. Take this to radiology. They'll get you in as soon as possible. Once the X-rays are done, they'll send the results directly to me. We’ll review them and discuss a plan. Do you have any questions before I send you over?
+PATIENT: Oh, that is good to know about the discomfort. No, I don't think so. Just… where exactly is the radiology department? It's been so long since I've been to the doctor, everything is different. And… will I need to change clothes?
+DOCTOR: Radiology is down the hall to your left. You’ll see the sign. And no, you don’t need to change clothes. They may ask you to remove any metal objects, like jewelry, but you can keep your clothes on. They'll explain everything when you get there. Is there anything else?
+PATIENT: Oh, good. No changing clothes. That’s a relief. No, I think that’s all. Thank you, Doctor. . I will go down the hall then.
+DOCTOR: Alright. Good. Let the radiology staff know you were referred by me, Dr. Dechene. They have your information in the system. Have a… productive day. .
+PATIENT: Oh, yes, of course. I will. Thank you again. Have a good day as well, Doctor.

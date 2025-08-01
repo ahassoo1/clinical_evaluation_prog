@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Mr. Kingan. I’m Dr. Yackey. So, to begin, what brings you in to see me today?
+PATIENT: Yeah, good morning. Just need a check-up for… well, a sports team tryout. Gotta make sure I'm not too old to be running around, I guess.
+DOCTOR: A…sports team tryout. At your age. Right. Well, a general check-up is fine, I suppose. Though frankly, I find preventative medicine rather…overrated in many cases. Let’s get this over with. Do you have any specific concerns you’d like me to address, or shall we just proceed with the standard examination?
+PATIENT: No, no specific concerns. Just… wanna be sure my heart's okay, lungs are okay, you know? Standard stuff. Honestly, the less time we spend here, the better. I got things to do.
+DOCTOR: Very well. Let's expedite this then. I’ll need a brief medical history. Have you been diagnosed with any conditions – heart disease, diabetes, high blood pressure, anything of that nature?
+PATIENT: Nope. Never been diagnosed with anything. I've been pretty lucky, actually. Always been active. Well, mostly. Old age is catching up, I suppose.
+DOCTOR: “Lucky,” you say. And past surgeries?
+PATIENT: Nope, no surgeries either. Never needed 'em. Broke my arm once when I was a kid, climbing a tree, but it healed on its own. Nothing serious.
+DOCTOR: Family history then. Any significant illnesses in your immediate family – parents, siblings?
+PATIENT: Hmm... my dad, he had some trouble with his heart later in life, I think. But he smoked a lot, so… can’t really blame the genes on that one, can you? Mom was pretty healthy, if I remember right. No major problems. Siblings… I don’t really keep in touch. Probably nothing, honestly.
+DOCTOR: Very well. Social history. Do you smoke, drink alcohol, or use any recreational substances?
+PATIENT: Nope, none of that. Never been much of a smoker or drinker. Recreational substances… not my thing. Always been focused on staying fit, you know? Gotta keep this engine running.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: Nope, no allergies that I know of. I haven't taken much in the way of medicine. A cold now and then, that's about it. I usually just ride it out.
+DOCTOR: Fine. Let's proceed with a physical examination, then. Please step onto the scale. I'll need your weight, and we’ll take your blood pressure and listen to your heart and lungs. Don't make any sudden movements.
+PATIENT: Okay, sounds good. Let’s just get this over with.
+DOCTOR: 129 pounds. That’s…low for your height. Blood pressure is 138 over 82. Within normal limits, but on the lower end. Heart sounds…regular. A slight murmur, but likely benign given your history. Lungs are clear to auscultation bilaterally. Breathing is normal. Reflexes are…adequate. I'll need to check your pulse rate and oxygen saturation. Just a moment. Pulse is 72. Oxygen saturation is 98%. All within acceptable parameters.
+PATIENT: Okay. Good. So, what does that mean? Am I cleared for this tryout, or what? I don't need a long explanation, just a yes or no.
+DOCTOR: "Cleared" is a rather…absolute term. Based on this brief examination, you don’t exhibit any immediately disqualifying conditions. However, your weight is low, and the murmur warrants further investigation. I recommend a complete blood count and an electrocardiogram to rule out any underlying cardiac issues. I'm not prepared to provide a definitive clearance without those results. I'll write you a referral order for those tests. Don’t overexert yourself before you’ve had them completed. Do you understand?
+PATIENT: Tests… ugh. Look, I really don't have time for this. Is it gonna take long? And can't I just… sign a waiver or something? I really need to know if I can at least start training.
+DOCTOR: A waiver absolves you of legal responsibility, not medical risk. And yes, the tests will take time. Blood work typically comes back within a few days, the EKG usually sooner. I strongly advise against starting any strenuous training until we have the results. Your health is not something to be trifled with. I’m writing the orders now. Take this to the lab and schedule the EKG. Return with the results as soon as possible. Is there anything else?
+PATIENT: No. That's it. Thanks, I guess. Hopefully, this won't take too long.
+DOCTOR: Very well. Do try to take it seriously, Mr. Kingan. Some people… truly have no sense. .

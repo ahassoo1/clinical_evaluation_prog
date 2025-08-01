@@ -1,0 +1,22 @@
+DOCTOR: Alright, Mr. Bohnett, have a seat. Eighty-eight years young, huh?
+PATIENT: Yes, sir, eighty-eight come October. Though some days it feels like a hundred and eighty-eight! It's good to meet you, Doctor Pehrson.
+DOCTOR: Right, well, let's not dwell on the numbers. What brings you in today?
+PATIENT: Well, the nurse sent me back with some papers after my checkup, said something about my cholesterol being high. Hyper... something, I think she said. Honestly, I didn’t quite catch it all. It's been a bit of a worry, to be frank. Never had trouble with that sort of thing before.
+DOCTOR: Hyperlipidemia. Right. Look, I've got a lot of patients, things get…glossed over. It is important, but honestly, a lot of folks worry too much about numbers. So, are you feeling any different?
+PATIENT: No, not really. I feel…well, I feel like an eighty-eight-year-old, you know? A little stiff in the mornings, takes a bit longer to get going, but nothing new. No chest pain, no shortness of breath, just…old. Is it something I should be really concerned about even if I don’t feel bad?
+DOCTOR: Hmm. Well, feeling bad isn’t the only reason to treat it. It's about preventing things down the line. But, look, at your age...we gotta be realistic about what we’re trying to achieve. Let’s just get some basics. Any family history of heart problems?
+PATIENT: Oh, yes. My father, he had a bit of trouble with his heart later in life. Had to slow down quite a bit in his seventies, and I remember my aunt – my mother’s sister – she passed away suddenly, they said it was a heart attack. That was… oh, goodness, must be fifty years ago now. Both on my mother's side, if that makes a difference.
+DOCTOR: Okay, so some family history there. Alright. And are you on any medications currently?
+PATIENT: Just a little something for my arthritis, keeps the stiffness at bay. It’s called…let me think…Naproxen. And sometimes I take a little something for sleep if I'm really restless, but not every night. Just when I absolutely need it.
+DOCTOR: Right, Naproxen. Okay. Any allergies to medications?
+PATIENT: No, sir, not that I know of. Never had a bad reaction to anything, thankfully. I've been pretty lucky, all things considered. Though I do get a bit of a sniffle with some pollens in the spring, but that's just a regular allergy, not a medicine thing.
+DOCTOR: Alright. And what about your lifestyle?
+PATIENT: Lifestyle… well, I live alone since my wife passed, God rest her soul. I try to stay active, mostly puttering around the garden, that’s my favorite. I walk a little bit, not as much as I used to, to be honest. I eat… reasonably well, I suppose. I like my Swedish cooking, and sometimes that means a little rich food. But I do try to have my vegetables! I don't smoke, never have. And I only have a glass of wine with dinner now and then.
+DOCTOR: Okay, okay. Look, Mr. Bohnett, I’m sure you lead a perfectly acceptable life. Now, let's just do a quick listen to your heart and lungs, alright?
+PATIENT: Yes, sir, whatever you think is best. I trust your judgement. I’m ready when you are.
+DOCTOR: Alright. Heart rate’s a little…irregular, but not terribly concerning for your age. Lungs are clear. Blood pressure is… elevated. 150/90. We'll need to keep an eye on that. Now, let’s just check your reflexes.
+PATIENT: Alright. Sounds good, Doctor. I've always been a bit prone to getting worked up over things, maybe that’s affecting my blood pressure? I'll try to relax more. Go ahead with the reflexes.
+DOCTOR: Reflexes are… normal. Look, Mr. Bohnett, it sounds like you’ve got some mild hypertension and this elevated cholesterol. We're not going to throw you on a statin right away. Let’s start with some lifestyle modifications. Diet, exercise… and I want you to cut back on the salt. I’ll send you home with some information. We'll recheck in three months. If it's not improving, then we'll talk about medication. Does that sound alright?
+PATIENT: Yes, sir, that sounds sensible. Lifestyle changes, I can certainly try that. Less salt, more walking… I think I can manage that. And the information is helpful. Three months, you said? I’ll mark it on my calendar right away. Thank you, Doctor Pehrson. I appreciate your time and your patience.
+DOCTOR: Alright, alright. Don’t hesitate to call if anything changes. Next!
+PATIENT: .

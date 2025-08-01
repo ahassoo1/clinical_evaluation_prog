@@ -1,0 +1,39 @@
+DOCTOR: Good morning, Mr. Putney. Welcome to the clinic. I’m Dr. Iuzzolino. It’s nice to meet you. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just… this life insurance thing. They need me to get checked out before they’ll give me the policy. I hope it doesn’t take too long, to be honest.
+DOCTOR: Right, a life insurance physical. Perfectly understandable. We’ll do our best to keep it efficient. It's good you're being proactive about that. To start, can you tell me a little bit about your overall health?
+PATIENT: Overall… okay, I guess. I get tired easy, but who doesn’t these days? I had some trouble with my stomach a while back, but it’s been alright for a bit now. Nothing major, really. I mostly just try to take it easy.
+DOCTOR: Okay, tiredness and some past stomach trouble… alright. When you say “a while back” with the stomach, can you give me a rough idea of when that was?
+PATIENT: Hmm… let me think. Probably… two, maybe three years ago? It was before I got divorced, so definitely before last year. It was just on and off, you know? Not like a constant thing. A few weeks where it bothered me, then it’d go away for a while. I never really got it checked out properly.
+DOCTOR: Two or three years ago, intermittent stomach issues… Okay. And what kind of trouble were you having with your stomach?
+PATIENT: Mostly just… pain. Like cramping, and feeling bloated. Sometimes a bit nauseous, but I never actually threw up or anything. Just generally uncomfortable. And like I said, it wasn’t all the time. It’d come and go. I figured it was just something I ate.
+DOCTOR: Alright. And currently, are you experiencing any of that stomach discomfort now?
+PATIENT: No, not really. Like I said, it’s been alright for a while now. It hasn’t bothered me in… months, I’d say. Maybe six months or so. I’ve been eating pretty normally, haven’t changed my diet or anything.
+DOCTOR: Good to hear it's settled down for now. Now, let’s talk about your overall health a bit more broadly. Have you been diagnosed with any medical conditions – things like high blood pressure, diabetes, heart problems, or anything else?
+PATIENT: Um… not that I know of. The doctors never told me anything. I get checked up when I need to, you know? Just for regular stuff. I had my blood pressure taken at the pharmacy a few times, and it was always okay. I think. Honestly, I don’t really remember the numbers. Never been told I have anything wrong with me, though.
+DOCTOR: Okay, no known diagnoses. Have you had any surgeries in the past?
+PATIENT: No surgeries. Never needed any. Just a few stitches when I was a kid, fell out of a tree. But that was a long time ago. Nothing serious.
+DOCTOR: Good to know. Now, thinking about your family… are there any medical conditions that run in your family – things like heart disease, cancer, diabetes, or anything else that you’re aware of?
+PATIENT: That's a tough one. My family… well, it's complicated. My mom passed away a while back, but I don’t really know what she died from, to be honest. And I didn't really keep in touch with my dad’s side of the family, so I don't know anything about their health either. I think my grandmother on my mom’s side had something with her heart, but I'm not sure. It was a long time ago. So… not really. I don’t have a lot of information.
+DOCTOR: That's understandable. It’s common not to have a full medical history. Alright, let’s move on to some lifestyle questions. Do you smoke, or use any tobacco products?
+PATIENT: No. Never have. Don’t like it. Makes me cough just thinking about it.
+DOCTOR: Good. And how about alcohol?
+PATIENT: Just… sometimes. A beer with dinner, maybe on the weekend. Nothing crazy. I don't drink every day. It’s… relaxing, you know? But I don't have a problem with it. A couple of beers, that’s it.
+DOCTOR: Alright, a couple of beers occasionally. Do you take any medications regularly?
+PATIENT: Nope. Nothing. Just… sometimes I take something for a headache, if I need it. But that’s it. Over-the-counter stuff. Nothing a doctor prescribed me.
+DOCTOR: Okay, no regular medications. Finally, are you allergic to any medications, foods, or anything else?
+PATIENT: Hmm… not that I know of. I’ve never had a bad reaction to anything. I mean, I don't go around eating weird stuff, but I haven't ever had an allergic reaction. I’m pretty sure I’m okay.
+DOCTOR: Alright. Thank you for that information, Mr. Putney. It sounds like you’re generally in good health, but we still need to do a quick physical exam to get a better picture. Is that alright with you?
+PATIENT: Yeah, that’s fine. Just… let’s get it over with, okay? I got things I need to do. I hope it doesn’t take too long.
+DOCTOR: Absolutely. We'll be as quick as possible. First, I'm going to listen to your heart and lungs. Then I'll take a look in your ears, nose, and throat. After that, I'll feel your abdomen and check your reflexes. Does that sound good?
+PATIENT: Sounds good. Just… don’t poke too much, okay? I don’t like being poked. I’ll try to be still.
+DOCTOR: I'll be gentle, I promise. We're just gathering information. Alright, let's start with your heart and lungs. Please take a deep breath in… and out… Good. Now another one… Heart sounds regular. Lungs are clear, no wheezing or crackles. Now let's take a look in your ears…
+PATIENT: Okay… just tell me if it’s cold. I hate that cold thing.
+DOCTOR: No, it won’t be cold, I’ve warmed it up. Both ear canals are clear, no signs of infection. Now, if you could open your mouth and say "Ahhh…" Throat looks clear, no redness or swelling. Alright, everything looks good so far. Now, I'm going to gently feel your abdomen. Just relax, and let me know if anything feels tender.
+PATIENT: Ugh… yeah, that’s… kinda weird. Not painful, just… weird. Stop poking around so much, okay? It makes me nervous.
+DOCTOR: I apologize if that was uncomfortable. I’m just checking for any areas of tenderness or masses. It’s a routine part of the exam. No masses or tenderness detected. Abdomen is soft and non-distended. Alright. Just a few more quick tests. I’m going to check your reflexes now. Reflexes are normal. Okay, that’s all for the physical exam. It was quick, wasn’t it?
+PATIENT: Yeah, it was okay. Just… glad it’s over. So, what now? Do I get my insurance or what? I’m ready to go.
+DOCTOR: Alright, Mr. Putney. Based on the information you've provided and the physical exam, everything appears to be normal. Your heart and lungs sound good, your abdomen is soft, and your reflexes are normal. As for your life insurance, I'll need to fill out this health questionnaire with my findings. The insurance company will ultimately make the final decision. I recommend continuing to monitor your health and seeing a doctor if you experience any new or concerning symptoms. It’s important to get regular checkups, even if you’re feeling well.
+PATIENT: Okay, fine. Just hurry up, okay? I got stuff to do. Do you think they'll approve it? I really need that insurance. My wife… well, never mind. Just… will they approve it?
+DOCTOR: I understand your concern, Mr. Putney. Based on what we've found today, I don't anticipate any issues with your approval. The questionnaire reflects a generally healthy individual. However, insurance companies do have their own specific criteria. Here you go. I’ve documented everything in your chart as well. You can submit this to your insurance company. Do you have any other questions for me today?
+PATIENT: No, I think that’s it. Just… thanks, I guess. I hope I don't have to come back here anytime soon. Alright, bye.
+DOCTOR: You’re very welcome, Mr. Putney. I hope everything goes smoothly with your insurance. And if you do need to come back, please don’t hesitate to schedule an appointment. Take care, and have a good day.

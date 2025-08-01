@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I am Dr. Jules. Now, please, tell me – in as concise a manner as possible, if you wouldn’t mind – what brings you in today?
+PATIENT: Good morning, Doctor. It's… the belching. I belch a lot. It’s been happening for a little while now. Not sure why though.
+DOCTOR: “A lot,” you say. Could you quantify that for me?
+PATIENT: Hmm… quantify? Like… how many? Oh. Okay. Maybe… ten, twenty times a day? Sometimes more if I eat. It’s embarrassing, really.
+DOCTOR: Twenty times a day is… quite frequent, yes. And it is specifically after eating?
+PATIENT: Not always after. Sometimes just… happens. But yeah, eating makes it worse. Especially… fizzy drinks, maybe? And big meals. I don't know. I try not to drink too much soda, but sometimes…
+DOCTOR: Do you experience any other symptoms alongside these… episodes?
+PATIENT: Other symptoms? Let me think… sometimes my stomach feels a little full, even when I haven't eaten much. And… maybe a little heartburn sometimes? Not bad, just… a warm feeling. I don’t really know if that’s related, though.
+DOCTOR: And your dietary habits, generally?
+PATIENT: Oh, um… normal, I think? I like rice and beans, you know, Cuban food. Sometimes chicken or pork. I try to eat healthy, but… I like a sweet treat sometimes. Like cake. Or cookies. I don’t eat a lot of fast food, if that’s what you mean.
+DOCTOR: Fair enough. Any known allergies?
+PATIENT: No, not that I know of. Never had a bad reaction to anything, not that I remember. My mama always cooked everything, so I mostly ate what she made. She didn’t use a lot of… fancy stuff.
+DOCTOR: And are you currently taking any medications?
+PATIENT: No, Doctor. Nothing at all. I don’t really like taking pills if I can help it. I try to stay away from them.
+DOCTOR: Very well. Let's conduct a brief physical examination. Please lie down on the examination table.
+PATIENT: Okay, sure. Is it going to be… uncomfortable?
+DOCTOR: No, nothing strenuous. I will simply listen to your abdomen. Please relax. …Normal bowel sounds… though perhaps slightly hyperactive. Any abdominal pain with palpation?
+PATIENT: Palpation? Um… it feels okay. A little… tender right there. But not bad pain, just… noticeable when you push. Is that normal?
+DOCTOR: Hmm. Tenderness is…not ideal. Given your symptoms and the examination findings, it's likely you're experiencing some degree of indigestion, possibly aggravated by dietary factors and the frequency of carbonated beverages. It's also possible there’s mild gastritis. I suggest a bland diet for a few days – avoid fizzy drinks entirely – and over-the-counter antacids as needed. If the symptoms persist or worsen, you may need an endoscopy to rule out more serious conditions. Do you understand?
+PATIENT: Endoscopy? That sounds… scary. Bland diet… no soda… I can try. But what is gastritis? Is that… serious? And what if the antacids don’t help? I don't have insurance, Doctor… so I’m worried about spending a lot of money.
+DOCTOR: Gastritis is inflammation of the stomach lining. It can be quite uncomfortable, but often manageable. And yes, an endoscopy is…a procedure. We would need to look at the lining of your stomach to determine the exact cause, should the symptoms not resolve with simple measures. As for the financial aspect, I can recommend a gastroenterologist who offers a sliding fee scale. Here's a referral. Avoid large meals, spicy foods, and carbonated drinks. If the antacids offer no relief within a week, then schedule an appointment. Do you have any other questions?
+PATIENT: Okay. A sliding fee scale… that’s good to know. Thank you. Um… what kind of antacids? There are so many different kinds at the store. And… are there any foods I should eat? To help, I mean? Rice and beans are okay, right?
+DOCTOR: Any over-the-counter antacid containing calcium carbonate or aluminum hydroxide should suffice. As for foods, stick to bland, easily digestible options. Rice, plain toast, boiled chicken…avoid citrus fruits, fatty foods, and, as I’ve mentioned repeatedly, carbonated beverages. And yes, rice and beans in moderation are acceptable. I haven’t got time to compile a complete dietary plan for you, Ms. Fogelstrom. This information should be sufficient. Do you understand?
+PATIENT: Okay. Okay, I understand. Calcium carbonate… no soda… bland food… Thank you, Doctor. I think that’s all my questions. I’ll try the diet and the antacids and… if it doesn’t get better, I’ll call the… gastroenterologist. Thank you again.
+DOCTOR: Very good. Let's hope that resolves the issue. Good day, Ms. Fogelstrom.

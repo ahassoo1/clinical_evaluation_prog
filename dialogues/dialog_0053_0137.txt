@@ -1,0 +1,43 @@
+DOCTOR: Good morning, Ms. Abdollahi. I’m Dr. Pitmon. So, what brings you in today?
+PATIENT: Morning, Doctor. Is okay, you call me Lindra. My… how you say… the place for old people, yes? They want me to see a doctor first. For… checking. Before I go live there.
+DOCTOR: Right, the assisted living facility. They require a baseline physical, understandable. So, just a general check-up then. Alright, Lindra, let’s start with why you think you need to be seen. Are you experiencing any specific problems, anything bothering you?
+PATIENT: No, no problems. I feel… old, but that is normal, yes? My knees are not so good when it rains, but everyone says that happens. I just want to make sure I am healthy enough for the place. My husband, he worries too much. He said I have to get checked.
+DOCTOR: Okay. It’s good your husband is proactive. "Feeling old" isn’t really a medical complaint, Lindra, but we can certainly assess things. So, no pain anywhere other than the knees when the weather changes?
+PATIENT: No pain. Just… stiff. Like rusty door. And sometimes hard to walk, but not always. I can still cook, still clean. Everything takes longer, that is all. My hands, they get tired when I knit. I like to make blankets for the grandkids.
+DOCTOR: Right. So, some stiffness and fatigue with activity. Knitting, you say?
+PATIENT: Yes, knitting. And gardening, when it is warm. I used to have a big garden. Now, just some flowers. Not so much. Hard on my back, you know? But I still enjoy it. It is good for the soul.
+DOCTOR: Alright. Let's go through a bit of your medical history, if you don't mind. Have you been diagnosed with any conditions – diabetes, high blood pressure, anything like that?
+PATIENT: High blood pressure, yes. Doctor told me many years ago. I take a pill for it, every morning. And… sometimes my feet swell, but the pill helps with that too. I think. Other than that, I am okay. I have had colds, of course, but everyone gets colds.
+DOCTOR: Okay, hypertension. And you’re taking medication for that. Do you remember the name of the medication?
+PATIENT: Hmmm… no, I do not remember the name. It is a white pill. Small. My husband, he fills it for me. I just take it. He knows everything about my pills. He keeps the bottles. I don't worry about the names.
+DOCTOR: Alright. We'll have to verify that with your pharmacy then. Have you ever had any surgeries?
+PATIENT: Yes. A long time ago. When I was young. My appendix, it was bad. They took it out. And… I had a baby, two babies, so… that was surgery too, I think. They cut me open. It was a very long time ago. I do not remember much.
+DOCTOR: Alright. Appendectomy and Caesarean sections. Anything else?
+PATIENT: No, I don't think so. Maybe a little thing on my arm, when I was a little girl? A burn, from the stove. But it healed. It doesn't hurt anymore. It's just a little scar. Nothing important, I think. Is that okay? Are we doing okay?
+DOCTOR: Yes, yes, we’re getting there. Now, family history. Are there any significant illnesses that run in your family – heart disease, cancer, diabetes?
+PATIENT: Hmm… my mother, she had a bad heart. She died when I was young. And… my brother, he had the sugar sickness. Diabetes, yes? He had to take shots. And my aunt, she had… a lump. They cut it out, but she got sick again later. Is that cancer? I don't remember the name. It was a long time ago. It's very sad to think about.
+DOCTOR: Alright. Cardiac history and diabetes and a possible malignancy. Let’s move on to social history. Do you smoke?
+PATIENT: No, never. My husband, he smoked when we were young. But I never liked it. It smelled bad, and it made him cough. He stopped many years ago. He said it was bad for his health. He was a good man.
+DOCTOR: Do you drink alcohol?
+PATIENT: No, not much. Sometimes a little wine with dinner. On Sundays, maybe. But not every Sunday. Just a small glass. My husband, he liked a beer sometimes. But he doesn't drink anymore. It made him sleepy.
+DOCTOR: And finally, any allergies to medications or anything else?
+PATIENT: No, not that I know of. I eat everything. I don’t think I have ever been allergic to anything. Maybe a little itchy when the mosquitoes bite, but that is normal, yes? And sometimes I get a rash when I touch poison ivy. But that is not an allergy, is it? Just… itchy.
+DOCTOR: Alright. Well, it sounds like you've had a rather… unremarkable medical history. Now, I'd like to do a quick physical exam just to get a baseline. Is that alright?
+PATIENT: Yes, okay. That is good. I want to be sure. So they will let me live there, yes?
+DOCTOR: Let's not jump to conclusions. We’ll assess everything and then we can discuss it. If you'll just hop up on the table, we'll start with your blood pressure. Please, lie back and relax.
+PATIENT: Okay, doctor. Is it going to hurt?
+DOCTOR: No, it shouldn't hurt at all. Just a little pressure. Your blood pressure is… elevated. Not terribly so, but we'll need to keep an eye on it. Heart sounds are… regular. A slight murmur, but not concerning given your age. Lungs are clear. Take a deep breath for me, please.
+PATIENT: Okay, doctor. I am breathing. Is my blood pressure bad? Should I take another pill? My husband, he will worry.
+DOCTOR: It's not bad, Ms. Abdollahi. It's simply higher than optimal. We'll want to see if it's consistently elevated. Don’t adjust your medication on your own. We’ll discuss it after the exam. Now, let me just check your reflexes.
+PATIENT: Okay. My reflexes? Are they not good? I sometimes forget where I put my glasses. Does that count?
+DOCTOR: Your reflexes are… diminished, as expected for your age. It's not unusual. Forgetfulness is also common. Now, let me just palpate your abdomen. Any pain when I press here?
+PATIENT: No, no pain. Just… feels a little soft. I used to have a very flat tummy when I was young. But that was a long time ago. Are we almost finished, doctor? I am starting to feel a little cold.
+DOCTOR: Almost. Just a few more things. Let me listen to your heart again. Pulse is… regular, but a little weak. Not alarming, but something to be aware of. Alright. That’s all for the physical exam.
+PATIENT: Okay. So… is everything okay? Can I go live at the place? Will they let me?
+DOCTOR: Well, Ms. Abdollahi, everything appears… stable. You’re of advanced age, and naturally, there are some expected findings. Your blood pressure is slightly elevated, your reflexes are diminished, and your pulse is a little weak, but nothing that would preclude you from independent living. However, I recommend a more comprehensive cardiac workup to rule out anything serious. And we really need to get a better handle on your medication list. Ultimately, the decision of whether or not to accept you is up to the assisted living facility. I will send your chart to them with my findings.
+PATIENT: Oh. So… they might not let me go? Even if I feel okay? My husband… he was so excited for me.
+DOCTOR: Ms. Abdollahi, I am simply being thorough. They have protocols to follow. It is standard procedure. I’m not saying they won't accept you. I’m saying they need to assess your overall health. It's more about covering their bases than anything else. And frankly, knowing your medications accurately would be extremely helpful. I’ll write a note for them recommending you, but ultimately, it’s their decision. We’ll also schedule a follow-up appointment in a month to re-evaluate your blood pressure. Does that sound acceptable?
+PATIENT: Okay. A month. My husband will bring the list. He keeps everything. He is very organized. You think… you think they will let me go? Even if I am old? Even if my blood pressure is a little high?
+DOCTOR: Ms. Abdollahi, I’ve told you, I cannot guarantee anything. They have their own criteria. I’ve documented my findings and made a recommendation. The rest is up to them. I will have the receptionist schedule your follow-up appointment. Do you have any other questions for me?
+PATIENT: No… no, I think that is all. Thank you, doctor. I just want to be safe. And I want my husband to be happy. .
+DOCTOR: .

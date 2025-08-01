@@ -1,0 +1,38 @@
+DOCTOR: Alright, Ms. Heidenthal. So, what brings you in today?
+PATIENT: Oh, um, hi Doctor Memmolo. It’s… well, it’s my memory. It’s been a bit off lately, and it's worrying me. I just… forget things. Little things, mostly, but it’s happening more and more.
+DOCTOR: "A bit off," you say. Right. And how long has this "bit off" been going on?
+PATIENT: Hmm… that’s a good question. It’s hard to say exactly. Maybe… six months? It started slowly, I think. Just misplacing things, forgetting appointments. Now… now I worry I’m forgetting what I was doing, you know? It's not like huge things, but it’s unsettling.
+DOCTOR: Six months. And has anything…changed in your life around that time?
+PATIENT: Changed? Let me think… not really, no. Work’s been the same, same routine. I haven’t been traveling or anything. Oh! Well… my mom got a little sick around then, but she’s doing better now. We were going to the hospital a lot for a while, but that stopped a few months ago. Does that count?
+DOCTOR: Hospital visits…stressful. And you were the primary caregiver?
+PATIENT: Yes, mostly me. My brother helped when he could, but he lives a few hours away. It was… a lot. Lots of appointments, making sure she took her medicine, just… everything. I was pretty tired for a while there. I mean, I still am sometimes, but it’s… better now that she’s stable.
+DOCTOR: Alright. And aside from the memory issues and the stress with your mother, are you experiencing any other symptoms?
+PATIENT: Hmm… let me think. No… not really. I sleep okay, I guess. Maybe a little restless sometimes. I haven’t noticed any changes in my appetite. Oh! Sometimes I feel a little… foggy, like I can't quite focus. But that could just be tiredness, right? I don’t know. It’s hard to say.
+DOCTOR: Foggy…Right. And are you currently taking any medications, vitamins, or supplements?
+PATIENT: Oh, yes! Sorry. I take a multivitamin, just a basic one. And sometimes, when my back acts up from bending over patients all day, I take ibuprofen. Nothing else, really. Just the vitamin and the ibuprofen when needed.
+DOCTOR: Alright. And do you have any allergies to medications or anything else?
+PATIENT: No, not that I know of. Never had a reaction to anything. I've had all my shots, you know, tetanus and everything, but never an actual allergy. I’m pretty sure, anyway. I’ve never had to tell a doctor about one. Is that important?
+DOCTOR: It's good to know. Now, let's move on to your past medical history. Have you ever been diagnosed with any chronic conditions?
+PATIENT: No, not really. I had chickenpox as a kid, and strep throat a couple of times, but nothing serious. My blood pressure's usually a little high, the doctor told me, but I try to watch my salt and it's usually okay. Otherwise… pretty healthy, I think. I've always been active, and I try to eat well. Is this taking a long time? I feel bad taking up your time.
+DOCTOR: We're getting there. And have you ever had any surgeries?
+PATIENT: Oh, yes! When I was a teenager, I had my wisdom teeth taken out. That’s it. Just the wisdom teeth. It was a long time ago, though. Probably twenty years ago now. No problems from that, I don’t think. It was… routine. I don’t remember it being a big deal. Is that important?
+DOCTOR: Alright. Now, family history. Are there any instances of dementia, Alzheimer’s, or memory problems in your family?
+PATIENT: Hmm… that’s a tough one. My grandma, on my mom’s side, she… she got really confused towards the end of her life, but we didn’t really know what was wrong. They just said she was old. And my uncle, he had… some sort of stroke, I think, and it affected his memory, but that was a long time ago, and it wasn’t like Alzheimer’s. I don't think so, anyway. It’s hard to say, you know? We didn’t really talk about those things much.
+DOCTOR: Alright. And finally, social history. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh, no, none of that. Never smoked a day in my life. I’ll have a glass of wine with dinner sometimes, maybe once or twice a week, but that’s it. And definitely no drugs. I work in dentistry, you know? I have a reputation to maintain!
+DOCTOR: Alright. Let’s do a quick physical exam. Just some basic neurological checks, blood pressure, heart rate… routine.
+PATIENT: Okay, that sounds good. Whatever you need. I’m ready. Should I… lie down or anything?
+DOCTOR: No, just sit comfortably. First, let's check your reflexes. Please keep your arms relaxed. And I'm going to listen to your heart and lungs.
+PATIENT: Okay. I’m a little nervous, actually. I always get anxious at the doctor's office. Is that normal?
+DOCTOR: Reflexes are… normal. Heart sounds are regular, lungs are clear. Now, I’m going to check your cranial nerves – just some simple eye movements and facial expressions. Look straight ahead… now follow my finger.
+PATIENT: Okay. Like this? Is that okay? I hope I'm not doing it wrong. I'm always worried I'll mess something up.
+DOCTOR: Yes, that's fine. Smile for me… good. Now, frown. Okay. Speech is clear. And finally, let’s quickly check your balance. Please stand up, feet together, and close your eyes.
+PATIENT: Okay… um… Whoa… a little wobbly. Sorry! I’m not very good at this. I feel a bit silly. Is that bad? I definitely need to hold onto something.
+DOCTOR: Yes, that’s… not ideal. Slight imbalance. Alright, please sit back down. Based on this brief exam and your history, it's difficult to pinpoint a cause for your memory issues. It could be stress-related, a vitamin deficiency, or something else entirely. To rule out any serious underlying conditions, I recommend some blood work – a complete blood count, thyroid panel, vitamin B12 levels, and a basic metabolic panel. I also suggest a referral to a neurologist for a more comprehensive evaluation.
+PATIENT: Oh. Okay. That sounds… a lot. A neurologist? Is that really necessary? I was hoping it was just… stress. Blood work, okay. I can do blood work. Will the neurologist do… brain scans or something? This is a little scary.
+DOCTOR: It’s best to be thorough. A neurologist can perform cognitive testing and, if necessary, order imaging studies – an MRI or CT scan – to rule out any structural abnormalities. It doesn’t necessarily mean there is something wrong, but it provides peace of mind. I'll write you a referral order. I will also order the blood work. The lab is down the hall. I’ll have the results sent to me and we can schedule a follow-up appointment to discuss them. Is that acceptable?
+PATIENT: Okay… yes, that sounds… okay. A follow-up appointment. That's good. I guess. I just… I really don't like thinking about something being wrong. But I understand. Thorough is good. Can I still work normally while I wait for the results? I can't really afford to take a lot of time off.
+DOCTOR: Yes, you can continue working as usual. Unless you experience any new or worsening symptoms – severe headaches, vision changes, weakness, or difficulty speaking – there’s no need to restrict your activities. Here are your orders. The lab should be able to fit you in today. And I’ll have my staff schedule your follow-up appointment for about two weeks from now. Do you have any other questions?
+PATIENT: No… I think that’s everything. Thank you, Doctor Memmolo. I appreciate you taking the time to listen. It’s just… a little overwhelming. Two weeks… okay. I’ll… I’ll go get the blood work done now.
+DOCTOR: Alright. Just try not to worry too much. It's often nothing serious. My staff will guide you to the lab. Have a good day, Ms. Heidenthal.
+PATIENT: .

@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Parascandola. I’m Dr. Yackey. So, to begin, what brings you in to see me today?
+PATIENT: Morning, Doctor. It’s my foot, see? It’s been swelling up. Not all the time, but… mostly my left one. It’s been going on for a couple weeks now, I’d say. Feels kinda tight, too.
+DOCTOR: A couple of weeks, you say. And primarily the left foot… Is this a new development, or have you experienced this swelling before?
+PATIENT: No, never like this before. I mean, I’ve bumped it a few times, working, you know? But it never… stayed puffed up like this. Usually goes down quick. This one… it just keeps getting bigger, feels like. Especially if I’m on my feet all day.
+DOCTOR: Alright. And what sort of work do you do, Mr. Parascandola?
+PATIENT: I work at the bank. Loan interviews and stuff. Mostly sitting, but I gotta get up and walk people over to the desks, check files… a fair bit of standing, really. It's not heavy lifting or anything, but it's… being on my feet. A lot.
+DOCTOR: I see. And you said it worsens with standing. Are there any other times it’s particularly bad?
+PATIENT: Hmm… let me think. It feels worse at the end of the day, definitely. And… if it's real hot out. Like, if I'm walking around in the sun for too long. It kinda throbs then, too. Not a bad throb, but you notice it, you know?
+DOCTOR: Alright. Any pain associated with this swelling, beyond the throbbing you mentioned?
+PATIENT: Not really pain, no. More like… uncomfortable. Tight. Like my shoe is too small, even when it's not. It’s a dull ache, if anything. And sometimes… a little bit of tingling. Mostly in my toes. Does that make sense?
+DOCTOR: Tingling…yes. And has this tingling been constant, or does it come and go?
+PATIENT: Comes and goes. It’s not always there. More when it’s really swollen, I think. And like I said, at the end of the day. I don't really pay attention to it unless it's bothering me, you know? I just try to ignore it. But it's getting harder to ignore now that it's… puffier.
+DOCTOR: Alright. And do you have any other medical conditions, Mr. Parascandola?
+PATIENT: No, not really. I’ve always been pretty healthy, knock on wood. Never been to the hospital for anything serious. No diabetes, no heart trouble, nothing like that. I don’t take any pills regularly. Just… this foot now.
+DOCTOR: Very well. Any family history of… circulatory problems?
+PATIENT: Hmm… that’s a good question. My mother, she had some trouble with her legs when she got older. Not sure what it was, exactly. Something with the veins, I think. She had to wear those… support stockings. But that was when she was, oh, eighty, eighty-five maybe. And my father… he was fine as a fiddle, always walking. Never a problem. Does that help? I don’t really know much about it, to be honest. They lived back home, you know? Somalia. Hard to keep up with things.
+DOCTOR: I see. And you mentioned you haven’t taken any pills regularly. Any allergies to medications?
+PATIENT: Nope. Nothing I know of. Never had a reaction to anything. Doctor’s always ask, and I always say no. I think if I was allergic, I’d remember, right? I’m pretty careful about what I put in my body.
+DOCTOR: Right. Well. I suppose we should have a look at the foot. Please, if you would, remove your shoe and sock.
+PATIENT: Okay, sure. Always something, eh? Alright, here you go. It’s not always this bad, you know. It looks worse when I’ve been standing all day.
+DOCTOR: Dorsalis pedis pulse…present, but diminished. Capillary refill…slightly delayed. Some mild pitting edema. No obvious signs of trauma or infection. It appears to be a soft tissue swelling. We'll need to rule out some basic causes. I'm going to order a D-dimer and some basic blood work to check for inflammation.
+PATIENT: A… what now? A D-timer? Blood work, okay. Is that… serious? What are you looking for, exactly? And… how long will that take? I got things to do, you know. Work and all. Is it gonna be expensive? I don’t have insurance.
+DOCTOR: A D-dimer is a blood test that helps rule out a blood clot. The blood work will assess your overall health and inflammation levels. It’s standard procedure, Mr. Parascandola. As for cost… I can’t provide an exact figure. You’ll need to speak with the billing department. And the results will take… at least a few days. I’ll have the nurse draw the blood now. In the meantime, elevate the foot whenever possible and avoid prolonged standing. Return if the swelling worsens significantly, or if you develop any pain, redness, or fever. Do you understand?
+PATIENT: Okay, okay. A blood clot… not good. Elevate… yeah, I can do that. I'll try to stay off it. A few days… alright. And… talk to billing, got it. So, just keep it up, and if it gets worse, come back? That’s it? It doesn’t sound too… bad, I guess. But a blood clot… that sounds scary. Okay. Alright, let's get the blood drawn, then.
+DOCTOR: Yes. The nurse will be with you shortly. I have other patients to attend to. Do you have any further questions for me at this time?
+PATIENT: No, I think that’s all. Just… try not to worry too much, you said? That's what I'm hoping. Thank you, Doctor. I appreciate you seeing me. Hopefully it’s just… something simple.
+DOCTOR: Very well. Have a good day, Mr. Parascandola.

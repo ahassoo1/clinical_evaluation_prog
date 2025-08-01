@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Ms. Pitzel. I’m Dr. Pitmon. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It’s… well, it’s a bit hard to explain. I feel like I need a reset, a jumpstart, if you will. I just haven’t been feeling myself lately. I’m hoping you can help me figure out what’s going on.
+DOCTOR: Hmm. A “reset,” alright. That’s… vague. Let’s try to be a little more specific, shall we?
+PATIENT: Yes, of course. Sorry. It's just… everything feels a little off. Not necessarily sick, just… low energy, I suppose. And I’ve been having trouble sleeping, even though I’m tired. It's been going on for a few months now, maybe four or five. I don’t know exactly.
+DOCTOR: Four or five months, okay. And this low energy… is it constant, or does it come and go?
+PATIENT: It’s more consistent now, I’d say. There were weeks where it was better, but those are… fewer and farther between. It's like I'm wading through mud most of the time. It doesn’t take much to exhaust me. Even things I used to enjoy feel… like a chore.
+DOCTOR: And are you experiencing any other symptoms alongside this fatigue?
+PATIENT: Well… my appetite hasn’t been great. I’m not losing weight intentionally, but I just don’t feel hungry as much. And I’ve noticed I’m a little… forgetful, perhaps? Nothing major, just misplacing things, or struggling to remember names. Is that… is that something to be concerned about?
+DOCTOR: Misplacing things happens to everyone, Ms. Pitzel. But consistently, alongside the fatigue and appetite changes… alright. Let’s move on to some other areas. Do you have any pain anywhere?
+PATIENT: No, not really. No pain that I've noticed, anyway. Maybe a little stiffness in my shoulders sometimes, but I think that’s just from working. I do a lot of… well, I shape things. With my hands. It’s hard to explain. It’s a physical job, definitely.
+DOCTOR: Right. A physical job. Alright. Have you noticed any changes in your bowel habits recently?
+PATIENT: Oh. Um… I… well, yes, actually. I’m not… as regular as I used to be. It’s a little embarrassing to talk about, but it’s true. It’s been happening around the same time as everything else, I think. Not severe, just… different.
+DOCTOR: Alright, Ms. Pitzel. We’re getting somewhere. Now, have you had any fever, chills, or night sweats?
+PATIENT: No, thankfully. No fever, no chills, and I haven't had any night sweats. I do get warm sometimes, just… normal warm. Not anything that would make me think something was wrong. I'm glad it's not anything like that, to be honest.
+DOCTOR: Right. Let’s talk a bit about your medical history. Do you have any pre-existing conditions – diabetes, high blood pressure, anything like that?
+PATIENT: No, not that I know of. I've always been… fairly healthy, honestly. I had the usual childhood illnesses, but nothing serious. I see a doctor for yearly checkups, and everything was always fine. I’m on Medicare now, of course, but I haven’t really needed much beyond that. My husband keeps telling me to come in sooner when I don't feel well, though. He worries.
+DOCTOR: Alright. Any surgeries in the past?
+PATIENT: No surgeries. Never had any reason to need one, thankfully. And I don't have any allergies to medications, as far as I know. I did have a bad reaction to a mosquito bite once, but that was when I was a child. Is that relevant?
+DOCTOR: A mosquito bite is unlikely to be relevant, Ms. Pitzel. Now, are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: No, I don't take anything regularly. Just… sometimes a pain reliever for my shoulders if they're really bothering me. But that’s maybe once or twice a month, if that. I try to avoid medication if I can. I believe in letting my body heal itself, if possible.
+DOCTOR: Alright. Now, let's talk about your family history. Are there any significant illnesses that run in your family – heart disease, cancer, diabetes, anything like that?
+PATIENT: Oh, yes. My mother had diabetes, type 2, I believe. She was diagnosed when she was in her sixties. And my father… he had heart problems. He passed away when he was fairly young, in his seventies. And my brother has high blood pressure, I think. It seems like there's a lot of that on my side of the family.
+DOCTOR: Right. And finally, could you tell me a little about your lifestyle?
+PATIENT: Sure. I live with my husband, of course. We’ve been married for… oh, goodness, almost thirty years now. We don't have any children. I work, as I mentioned, shaping things. It keeps me busy. I try to eat healthy, mostly fruits and vegetables. But, honestly, I haven't been cooking much lately. It’s easier to just… not bother sometimes. And I don't exercise as much as I should. It’s hard, with the job. I’m on my feet all day.
+DOCTOR: Alright, Ms. Pitzel. Thank you for that information. Now, I’m going to do a quick physical exam. I'll listen to your heart and lungs, check your blood pressure, and feel your abdomen. Just lie back on the table when you're ready.
+PATIENT: Alright. That sounds… fine. I hope everything is alright, Doctor.
+DOCTOR: Blood pressure is slightly elevated, 140/90. Heart sounds are regular, but a little distant. Lungs are clear. Abdomen is soft, but I note some tenderness in the lower quadrants. Do you experience any pain when I press here?
+PATIENT: Yes, a little bit. Not sharp, just… uncomfortable. It's been like that for a little while, I think. Not enough to bother me terribly, but I notice it. Is that… bad?
+DOCTOR: Alright. Now, I want to order some blood work. A complete blood count, a comprehensive metabolic panel, and a thyroid panel. We’ll also check your Vitamin D levels. And I’d like to order a urine analysis as well. This will help rule out a number of things, and give us a clearer picture of what’s going on. Do you have any questions?
+PATIENT: That sounds… thorough. No, I don't think so, not at the moment. Where will I go to get the blood work done? And how long will it take to get the results? I hope it's not too long. I just want to feel like myself again.
+DOCTOR: The lab is just down the hall, to your left. They should be able to draw the blood right away. As for the results, it usually takes about three to five business days for everything to come back. We’ll schedule a follow-up appointment to discuss them once they’re available. In the meantime, I’d like you to try and get a little more rest, even if it's just for an extra hour or so each night. And try to eat something, anything, even if you don’t feel hungry. It's important to keep your strength up. Do you have any questions?
+PATIENT: No, I think that’s all right. Rest and eat. I can try to do that. Thank you, Doctor. I appreciate you listening. I’ll go get the blood work done now.
+DOCTOR: Alright, Ms. Pitzel. And don’t hesitate to call the office if you experience any new or worsening symptoms. We’ll get to the bottom of this.
+PATIENT: Alright. I will. Thank you again, Doctor. Have a good day.
+DOCTOR: .

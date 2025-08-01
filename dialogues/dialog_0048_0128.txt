@@ -1,0 +1,30 @@
+DOCTOR: Right. Lilliana Voner, 52. So, what brings you in today?
+PATIENT: Oh, hello Doctor... Sink, is it? Yes. My joints… they’re just stiff in the mornings. It’s… well, it’s been happening for a while now, I think. Not terrible, just… annoying. Hard to get going, you know?
+DOCTOR: “A while now.” Yes, well, that’s… helpful. Can you be a bit more specific?
+PATIENT: Specific… oh dear. That’s… hard. Let me think. Maybe… six months? Or was it a year? It all blurs together, honestly. It's not every morning, but most of them. Especially if it was a bit chilly overnight. It's mostly my hands and knees, I guess.
+DOCTOR: Right. Hands and knees. And you said it’s worse with the cold?
+PATIENT: Yes, definitely. When it's warm, it's… better. Not gone, just… easier. Like, if I get moving, it loosens up. But sitting for a bit, then trying to stand… that's when it really bothers me. Do you… do you need to know what I do? I work with children, you see. Lots of getting up and down.
+DOCTOR: Working with children… alright. And does the stiffness limit your ability to do your job?
+PATIENT: Well… it makes it harder, yes. I have to… be careful. I can't exactly jump up and chase after them like I used to. And sometimes… little ones want to be held, you know? Lifting them can be… tricky on a bad day. It doesn't stop me, but I have to think about it more.
+DOCTOR: Have you noticed any swelling or redness in those joints?
+PATIENT: Swelling… hmm. Redness… I don't think so. Not that I’ve noticed, anyway. They just feel… tight. Like they need oiling, if that makes sense? I mostly just try to ignore it and keep going, but it’s… frustrating.
+DOCTOR: Alright. Any pain associated with this stiffness?
+PATIENT: Pain… not really pain, no. More of a… ache. A dull ache. Especially when I first start moving. It’s not sharp or anything. Just… uncomfortable. Like I’ve been doing too much, but I haven't, really. It's hard to explain, I’m sorry.
+DOCTOR: Let me have a look. Can you bend your fingers for me?
+PATIENT: Oh, yes, of course. Like this? It feels… a little tight, doesn’t it? Not awful, but… you can probably feel it. I try to stretch them, but it doesn't seem to help much.
+DOCTOR: Crepitus. Yes. And range of motion is… limited, but not severely. Any history of injury to these joints?
+PATIENT: Injury… hmm. That's a good question. Not that I remember, no. I might have twisted my knee once, years ago, playing volleyball, but it wasn’t serious. Just a little bit sore for a few days. Nothing like this. I don't think I've ever hurt them badly.
+DOCTOR: Alright. And what about family history?
+PATIENT: Family history… oh dear. My mother had… arthritis, I think? In her hands. It was bad towards the end. But she lived to be 90, so… it didn't stop her. I don’t really remember much about it, though. Everyone in my family seemed to have something wrong with them, if I’m honest.
+DOCTOR: Alright. Any medications you're currently taking?
+PATIENT: No, Doctor. No medications. I try to avoid them if I can. Just… a little bit of ibuprofen sometimes, if it’s really bothering me. But I don’t like taking it regularly. Makes my stomach upset, you see.
+DOCTOR: Alright. Well, it sounds like you likely have some mild osteoarthritis. It’s common with age, especially with… activity. It's nothing overly concerning at this point. We can try some over-the-counter pain relief as needed, and I recommend some gentle stretching exercises.
+PATIENT: Oh. Arthritis… Is that… serious? Should I be worried? Gentle stretching… I do try, but it doesn't seem to help much. What kind of stretching? And is there anything else I can do? I just… want to be able to keep up with the little ones, you know?
+DOCTOR: It's not serious right now. It's manageable. As for stretching, just simple range of motion exercises. Flex your hands, bend your knees. There are plenty of videos online. Honestly, it's probably just from overdoing it. If it gets significantly worse, then we can revisit it. But I don’t want to put you on medication unnecessarily. Do you have any other questions?
+PATIENT: Videos online… oh dear. I’m not very good with computers, Doctor. My granddaughter helps me sometimes, but… Well… will it get worse? Is there anything I can do to prevent it from getting worse? Like… certain foods or something? And thank you, Doctor. For explaining it.
+DOCTOR: There's no definitive proof that diet impacts osteoarthritis. Maintaining a healthy weight is always a good idea. As for preventing it, there's not much you can do, unfortunately. It’s a natural part of aging. If you find the pain becomes unbearable, try a topical cream before resorting to oral medications. Do you think that covers everything?
+PATIENT: Oh. Right. Aging… Topical cream… alright. I’ll try that. And the stretching, even though I’m not very good at it. Thank you, Doctor. I think that’s everything. It's… good to know what it is, even if there’s not much I can do about it.
+DOCTOR: Alright. I'll send a summary of our conversation to your… file. And if you experience any worsening symptoms, don't hesitate to schedule another appointment. Have a good day.
+PATIENT: Okay. Thank you again, Doctor Sink. You too.
+DOCTOR: Yes, yes. Next.
+PATIENT: .

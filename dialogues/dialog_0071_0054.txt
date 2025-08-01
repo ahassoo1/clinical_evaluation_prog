@@ -1,0 +1,29 @@
+DOCTOR: Good afternoon, Rayshon. I’m Dr. Galena. So, what brings you in to see me today?
+PATIENT: Uh, hi Doctor. I… cough a lot. Been coughin’ for a long time now. And I feel tired all the time. Also, my nose… gets blocked up, like, a lot. Happens pretty often. I dunno, just feelin' not so good.
+DOCTOR: Okay, a cough, fatigue, and nasal congestion. Been going on for a long time, you said?
+PATIENT: Yeah, a long time. Maybe… months? I forget exactly when it started. Everything feels kinda blurry, you know? It’s just… always there, kinda. The cough is the worst, especially at night. Makes it hard to sleep.
+DOCTOR: Right, months. And does anything seem to make the cough worse?
+PATIENT: Um… hmm. I think… when it’s cold. Like, when the weather changes. And maybe… when I’m dusty? I work with tires all day, so… lots of dust. I dunno, maybe that’s why? It’s hard to say. I forget things easily.
+DOCTOR: Okay, cold weather and dust seem to be triggers. Do you have any fever, chills, or body aches along with this cough and fatigue?
+PATIENT: Fever… I don't think so. I haven’t checked my temperature, actually. I don't usually get sick like that. Body aches… sometimes, yeah. But I do heavy work, so… hard to tell if it’s from that or the… cough thing. Sorry, I’m not very good at explaining.
+DOCTOR: Right, heavy work can definitely cause aches. Okay. Let's see… and have you noticed any shortness of breath, or any chest pain when you cough?
+PATIENT: Shortness of breath… not really. Maybe a little, if I’m running? But I get out of breath easily anyway, you know? Chest pain… sometimes it feels a little sore when I cough really hard. But not all the time. Does that make sense? I try to ignore it.
+DOCTOR: Okay, a little soreness with a hard cough. And are you bringing up any phlegm when you cough?
+PATIENT: Phlegm… yeah, sometimes. White stuff. Not… much, though. Sometimes it’s just a dry cough. It’s kinda gross to talk about, sorry.
+DOCTOR: Alright, no need to apologize. It’s important information. Do you have any allergies that you know of?
+PATIENT: Allergies… hmm. Not that I know of. I don’t really pay attention to that kind of thing. My wife sometimes says I sneeze a lot when there’s flowers, but I thought that was normal. I dunno, sorry. I’m not good with remembering stuff.
+DOCTOR: Okay, no known allergies. And are you currently taking any medications, or have you taken any recently for this cough or anything else?
+PATIENT: Uh… no. I don’t really take medicine. Just… try to rest. Sometimes my wife gives me some cough syrup, but it doesn’t really help much. I don’t like taking pills if I can avoid it. I just hope it goes away on its own.
+DOCTOR: Okay, no regular medications. Alright. I’m going to listen to your lungs and take your temperature. Then we'll see. Could you please sit up a bit for me?
+PATIENT: Okay, sure. Is it gonna hurt? I don’t like needles.
+DOCTOR: No needles, I promise. I'm just listening with a stethoscope. Okay… I hear some mild wheezing. Nothing too concerning at the moment, but it's there. Your temperature is 98.9°F.
+PATIENT: Wheezing? What’s that mean? Is it bad? And 98.9… is that normal? I’m really bad with numbers, sorry. My wife is the one who knows all that stuff. I just feel tired and coughy.
+DOCTOR: Wheezing means there's some narrowing in your airways, it’s not immediately alarming, but it explains the sound I’m hearing. And 98.9°F is a slightly elevated temperature, but not a fever. Given your history and what I’m hearing, it sounds like you might be dealing with some mild bronchitis, possibly triggered by the dust at work. But it could also be allergies or even a lingering post-viral cough.
+PATIENT: Bronchitis… that sounds serious. What does that mean? Do I need… like, a shot? And what about the dust? Should I quit my job? I need the money, you see. My wife… she's got a bad back, and I'm the one who works.
+DOCTOR: It's not always serious. Mild bronchitis often clears up on its own. We’ll start with some basic treatments. No shot needed, thankfully. As for the dust, that’s definitely a contributing factor. We need to minimize your exposure as much as possible. Have you considered wearing a mask at work?
+PATIENT: A mask? Uh, no. Nobody wears masks at the tire shop. It's… dusty. And hot. I'm not sure it would help much. I try to hold my breath when it gets really bad. But… maybe I could try? If it helps my wife, I will try anything. She worries a lot.
+DOCTOR: Alright. Let's start with that, then. A good quality N95 mask can make a significant difference. I’m going to recommend you try that, and also a humidifier at home, especially at night. And drink plenty of fluids. If your cough worsens, or you develop a fever, or shortness of breath, you need to come back immediately. Does that sound doable?
+PATIENT: Yeah, I think so. A mask… and a humidifier… my wife is good with those things. She likes keeping the house clean. I will try the mask. I don’t want to worry her. And… what about a paper for the mask? So I can show my boss? He might get angry if I suddenly start wearing one.
+DOCTOR: Here. This explains the medical necessity of a mask due to your respiratory symptoms. It might help with your boss. We’ll see how you do with those measures. If things don’t improve within a week or two, we should consider a chest X-ray to rule out anything more serious. Does that sound alright?
+PATIENT: Okay, thank you, Doctor. This is… very helpful. My wife will be very happy. And the paper… yes, that’s good. I will try my best to wear the mask and drink lots of water. Thank you for not making me get a shot! I think that's all, right?
+DOCTOR: You’re very welcome, Rayshon. And no shot necessary! Remember, if anything changes, don't hesitate to come back. Here’s my card. Take care, and I hope you feel better soon.

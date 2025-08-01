@@ -1,0 +1,23 @@
+DOCTOR: Alright, Mr. Raghunathan, have a seat. So, what brings you in today?
+PATIENT: Good morning, Doctor Osga. Well, it’s… a bit embarrassing, to be honest. I’ve noticed a lump in my lower abdomen, and it’s been bothering me for a few weeks now. I wanted to get it checked out, just to be safe.
+DOCTOR: A lump, you say?
+PATIENT: Yes. It’s… not particularly painful, usually. More of a dull ache, if anything. And it seems to be getting a little bigger, slowly. I haven’t noticed any other changes, like with my weight or anything, but it’s definitely there.
+DOCTOR: Right. And where exactly is this “lump”?
+PATIENT: If you don’t mind me saying, it’s…low down, you know? Almost near my…pelvis. Hard to explain exactly. It’s on my left side, I think. It’s not on the surface, though. I have to…feel for it. It’s not easily visible.
+DOCTOR: Pelvic region…hmm. And how long precisely have you been "feeling for it"?
+PATIENT: Oh, I’d say…maybe three or four weeks now? At first, I thought it was just…something I was imagining. But it hasn’t gone away, and it does seem to be growing, however slightly. It’s not a sudden thing, it’s been very gradual.
+DOCTOR: Okay. And you say no other symptoms?
+PATIENT: No, not that I’ve noticed. No fever, no weight loss, no changes in my…bathroom habits, nothing like that. Just the lump. I've been sleeping alright, and my energy levels are normal, thankfully. I'm a choreographer, so I need my energy.
+DOCTOR: A choreographer…Right. Any family history of…anything like this?
+PATIENT: That’s a good question. Um… my mother had some…digestive issues when she was older, but nothing specific like this. My father was healthy, as far as I know. No cancers or tumors that I’m aware of, no. It's hard to say, honestly. We weren’t very close, so I don't know much about his medical history.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: No, not that I know of. I haven’t had many medical issues, thankfully. I’ve had the usual colds and flus, but nothing serious enough to require a lot of medication. I’ve never had an allergic reaction to anything, to my knowledge.
+DOCTOR: Fine. Let’s just have a quick feel, shall we?
+PATIENT: Yes, of course. Whatever you think is best, Doctor. I'm a little nervous, if I'm honest. It's just… strange having someone poke around down there.
+DOCTOR: It’s just an exam, Mr. Raghunathan. Now, lie back. Hmm…yes, I feel something. It's firm, not particularly tender…location is consistent with your description. It’s not large, but it is there. Alright. I’m going to need to order some imaging, just to be safe. An ultrasound should give us a good look.
+PATIENT: An ultrasound, yes, that sounds… sensible. Is that something I can do here, or would I need to go somewhere else? What are you thinking it could be, if you don't mind me asking? I understand you don’t want to jump to conclusions, but… it’s hard not to worry.
+DOCTOR: Worrying won't solve anything. We can do the ultrasound here, thankfully. It's likely nothing, probably just a cyst or…something muscular. But we need to know. I'll write you a referral. Don't go Googling things, alright?
+PATIENT: Oh, I definitely won’t! You’re right, Doctor, that’s a terrible idea. So, I just go to the radiology department here with this referral? And they’ll… scan my abdomen? Do I need to do anything to prepare?
+DOCTOR: Radiology is just down the hall, room 302. You shouldn’t need to do anything special, just wear comfortable clothes. They’ll let you know if there’s anything further. Look, I’ll get the results sent to me, and we’ll discuss them when I have them. Don’t call me. Next!
+PATIENT: Right, comfortable clothes. No calling. I understand. Thank you, Doctor Osga. I'll see you when you have the results, then. .
+DOCTOR: .

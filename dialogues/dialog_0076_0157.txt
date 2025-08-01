@@ -1,0 +1,25 @@
+DOCTOR: Right. Tasmia Dudney, 26. So, what brings you in today?
+PATIENT: High blood pressure, like the lady on the phone said. Honestly, I don’t have time for this. Is this going to be a long thing?
+DOCTOR: Look, I understand you’re busy. But "high blood pressure" isn't a diagnosis, it’s… a finding. We need to figure out why. And yes, it will take some time. It’s not something I can just wave a wand at. Now, can you tell me a little more about what’s going on?
+PATIENT: Well, my husband keeps telling me to come in. He checks my pressure at home sometimes and gets all worked up when it’s high. I feel fine. Usually. Sometimes a little tired, I guess. But everyone's tired, right? He's a worrier. Is that all you need to know? That he worries?
+DOCTOR: Alright. So, husband monitors blood pressure at home… and you feel generally okay, a little fatigue. When was the last time it was checked in a doctor's office?
+PATIENT: Honestly? I don't remember. Years, probably. I hate doctors. Everything always takes so long. And they always ask a million questions. Is this going to be like that?
+DOCTOR: It is going to involve some questions, yes. Look, I'm not going to waste your time, but I need information. It's not about me being nosy, it's about making sure you're alright. Just… try to be concise. Okay?
+PATIENT: Fine. Ask your questions. But if it’s about my diet or exercise… don't bother. I eat what I want and I don’t have time for… hobbies.
+DOCTOR: Alright. Do you have any medical problems – anything you’ve been diagnosed with, like diabetes or kidney issues?
+PATIENT: No. Nothing. My husband always says I'm healthy as a horse. Though he did mention something about my cholesterol being a little high last year, but he just told me to eat more oatmeal and I ignored him. Does that count?
+DOCTOR: Oatmeal…Right. Any surgeries?
+PATIENT: Nope. Never had anything done. I don’t like hospitals or… anything like that. It's all too scary. Just tell me if this is going to involve blood tests. I really hate needles.
+DOCTOR: Potentially. It’s standard procedure when investigating high blood pressure. We need to see what’s going on inside. Now, family history. Anyone in your family – parents, siblings, grandparents – have high blood pressure, heart problems, stroke, kidney disease?
+PATIENT: My grandma on my mother’s side… she had something with her heart, I think. But she smoked like a chimney and drank a lot of coffee, so… it's not really a fair comparison. My mom's fine, and my dad… well, he died in a car accident when I was little, so I don't really know anything about his health. Is that good enough?
+DOCTOR: Adequate. And allergies?
+PATIENT: Just dust, I guess. It makes me sneeze sometimes. Nothing serious. I don't carry an EpiPen or anything. Why are you asking so many questions about allergies? It doesn’t have anything to do with my blood pressure, does it?
+DOCTOR: Everything is connected. Now, medications?
+PATIENT: Just birth control pills. That’s it. And I take a multivitamin sometimes, but I forget a lot. It's not like I'm on a bunch of stuff. Is this really necessary? I have things to do.
+DOCTOR: Alright. Let’s take your blood pressure now. Then we'll do a quick exam. Then we can discuss whether this is "necessary". Please sit still and keep your arm relaxed.
+PATIENT: Fine. Just hurry it up. I really don't have all day. It feels… tight. And cold.
+DOCTOR: 162 over 98. Elevated, as expected. Now, let’s listen to your heart and lungs. Take a deep breath… and exhale. Normal heart sounds. Lungs are clear bilaterally. Now I'm going to palpate your abdomen. Let me know if anything feels painful.
+PATIENT: It’s… uncomfortable. And you’re poking me. My stomach is fine. Everything’s always fine. I told you, I feel perfectly normal. Stop poking me.
+DOCTOR: Alright. Now I'll check your pulses. Pulses are present and regular. No edema. Now, I'm going to need a urine sample. There’s a cup in the bathroom. And please try not to take all day. We need to rule out any kidney issues.
+PATIENT: Urine sample? Seriously? This is ridiculous. Fine. But if it takes longer than five minutes, don't blame me. This is a complete waste of my time. .
+DOCTOR: Some people... .

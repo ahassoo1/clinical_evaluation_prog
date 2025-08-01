@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I’m Dr. Paulino. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Um… it’s my…belching. It’s been happening a lot. It’s kinda embarrassing, but it won’t stop.
+DOCTOR: Belching, you say. And it’s been…how long has this been going on?
+PATIENT: Oh, let me think… maybe a month? A little longer, maybe? It started slow, just after I eat sometimes. Now it’s… pretty much all the time. Not all the time, but… a lot.
+DOCTOR: "Pretty much all the time" isn’t particularly helpful, Ms. Fogelstrom. Can you be more specific?
+PATIENT: Oh! Sorry, Doctor. I… I don’t know how to explain it good. After I eat, yes. And… sometimes when I’m just standing. Not when I’m… doing things, usually. Just… resting. Does that make sense? I don’t know how many times a day. A lot.
+DOCTOR: Alright. And what do you typically eat in a day?
+PATIENT: Hmm… That’s a hard question. I work in a factory, so sometimes I bring a sandwich. Like… ham and cheese. Or chicken. And I like rice and beans. I eat a lot of rice and beans. And sometimes… I get food from the little place near work. Fried things. I know I should eat better, but…
+DOCTOR: Fried foods, you say. And rice and beans… frequently?
+PATIENT: Yes, Doctor. Rice and beans almost every day. It's… it's easy, you know? And it tastes good. My grandmother used to make it.
+DOCTOR: I see. And do you experience any other symptoms along with the belching?
+PATIENT: Other symptoms…? Hmm. Sometimes my stomach feels… full. Even when I haven't eaten much. And… I feel a little bloated. Like… puffy. Is that a symptom? I don’t know.
+DOCTOR: Bloating and a feeling of fullness… right. Do you have any pain in your abdomen?
+PATIENT: No, not really pain. It’s… uncomfortable, you know? Like… pressure. But not pain. It doesn't hurt. Just… feels funny. Sometimes after I eat the fried food.
+DOCTOR: Alright. And have you noticed any changes in your bowel habits?
+PATIENT: Bowel… habits? Oh. Um… I… sometimes I go to the bathroom more than usual. And… it's… softer, I guess. Sorry, it’s kinda personal.
+DOCTOR: It is what it is, Ms. Fogelstrom. We need to understand the full picture. Any nausea?
+PATIENT: Nausea? No, not really. I don't feel like I'm going to… throw up, if that's what you mean. Sometimes a little… heartburn, maybe? After the fried food, definitely. But not… sick.
+DOCTOR: Alright. Let’s do a quick physical exam, shall we?
+PATIENT: Okay, Doctor. That’s… okay. Whatever you need.
+DOCTOR: Please lie down on the table. I'll listen to your abdomen and check for any tenderness.
+PATIENT: Okay.
+DOCTOR: Alright. I’m hearing some… increased bowel sounds. Nothing alarming, but present. And… there’s a slight tenderness in your lower abdomen when I press here. Not significant, but noted. Your lungs are clear, and your heart rate is normal.
+PATIENT: Okay… that doesn’t sound good, does it? Is it… serious?
+DOCTOR: It’s unlikely to be serious, Ms. Fogelstrom. It appears you’re experiencing symptoms consistent with… a rather common digestive issue. It’s likely related to your diet. The fried foods and rice and beans, while comforting, can cause excessive gas production and bloating. We’ll need to rule out a few things, though. I'm going to order a basic blood panel and a stool sample analysis to rule out any underlying infections or malabsorption issues.
+PATIENT: Okay… a blood test and… a stool sample? I don't like the sound of that one. But… if it will help, I guess. What do I have to do?
+DOCTOR: The blood test is standard. We'll take a small sample here in the office. The stool sample... you'll receive a kit from the lab. Instructions will be included. It’s not pleasant, but necessary. While we wait for the results, I recommend significantly altering your diet. Reduce the fried foods drastically. And limit the rice and beans. Opt for lighter meals, more fruits and vegetables. And drink plenty of water. Honestly, Ms. Fogelstrom, a change in lifestyle will likely resolve this issue more effectively than any medication. Do you have any questions?
+PATIENT: Okay… Less fried food and rice and beans. I can… try. It’s just… hard. Um… how long will the tests take? And… will I need to come back again?
+DOCTOR: The blood and stool tests should take approximately three to five business days to return. You will need to return for a follow-up appointment once the results are available to discuss them and formulate a long-term plan. I will have the receptionist schedule that for you before you leave. It's a simple matter of identifying the trigger foods and making sensible adjustments, Ms. Fogelstrom. And frankly, I suspect it is the fried foods and rice and beans. Do you have any further questions for me at this time?
+PATIENT: No… I think that’s all. Thank you, Doctor. I’ll… try to eat better.
+DOCTOR: Very well. The receptionist will provide you with the lab requisitions and schedule your follow-up appointment. Please don't hesitate to call if you experience any worsening symptoms. Have a… satisfactory day, Ms. Fogelstrom.
+PATIENT: Okay. Thank you again.

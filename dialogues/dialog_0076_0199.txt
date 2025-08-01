@@ -1,0 +1,22 @@
+DOCTOR: Alright, Mr. Chayer, yes?
+PATIENT: Yeah, that's me. Marquie Chayer. Look, I don't usually... well, I don't have a lot of time today, if that's okay. Just… been feeling kinda breathless lately.
+DOCTOR: Breathless, right. And how long has this “breathless” been going on?
+PATIENT: Ugh, honestly? It’s hard to say exactly. A few weeks, maybe? Everything’s a bit… fuzzy, you know? It comes and goes. Not always there, but when it is, it's… unsettling. I just figured it was stress, to be honest. Work's been hectic.
+DOCTOR: Stress, yes, everyone says stress. Any pain associated with it?
+PATIENT: Pain? Not really… no. It’s not painful breathless, if that makes sense. More like… I can’t get a full breath. Like someone’s sitting on my chest, but not actually sitting on my chest. Does that… sound weird? I'm not good at explaining things.
+DOCTOR: Alright. And are you having this difficulty with exertion?
+PATIENT: Exertion… like when I’m… working? Yeah, definitely worse then. Lifting stuff at the plant, climbing ladders… that'll get me winded real quick. Even just walking up a small hill feels harder than it used to. But sometimes it happens when I'm just sitting, too. Not as bad, but… there.
+DOCTOR: Hmm. Any cough?
+PATIENT: Cough? Sometimes. It’s not a bad cough, like a smoker's cough. Just… little ones. Dry, mostly. I haven't been sick or anything, though. No fever, no chills, just… this breathing thing. Honestly, I'm not sure if it’s even worth bothering you with. It probably is just stress.
+DOCTOR: Alright. Any history of asthma?
+PATIENT: Asthma… huh. I… don't think so? My mom had allergies, maybe? But I never had breathing problems growing up, never needed an inhaler or anything. I really don’t remember. Sorry, my memory… it’s not the best.
+DOCTOR: Alright. Let's just listen to your lungs, quickly. Sit up straight.
+PATIENT: Okay, sure. Whatever you need. Just… try to be quick, if you don't mind. I have a shift starting soon.
+DOCTOR: Okay. Breath sounds are… diminished bilaterally. Some mild wheezing. Nothing alarming, but… not completely clear either. Do you smoke?
+PATIENT: No, never smoked a day in my life. My wife… she doesn't approve, and frankly, neither do I. It just doesn’t… appeal to me. I work at a water treatment plant, you know? Gotta keep the air clean for everyone.
+DOCTOR: Alright. Given your lack of insurance and the… vague nature of your symptoms… I'm going to recommend an over-the-counter bronchodilator. Try something with albuterol. If it doesn't improve within a week, then we can talk about further testing. But frankly, it's likely just a mild bronchitis. Stress-related, probably. Any questions?
+PATIENT: Albuterol… okay. That sounds… expensive. Will that really help? I mean, you said stress-related… will a spray actually do anything? And… what if it is something worse? I don't really… have the money for a lot of tests. Sorry for all the questions. It’s just… I don’t know what to do.
+DOCTOR: Look, Mr. Chayer, I've seen plenty of people in your condition. It's likely nothing serious. Try the albuterol. If it gets worse, then go to the emergency room. They'll figure it out. I can't spend all day on this, frankly. Do you have any allergies to medications?
+PATIENT: Ugh. Okay, okay. Emergency room… right. No, I don’t think I have any allergies. Never had a bad reaction to anything, as far as I know. I guess… I'll try the spray. But what brand do you recommend? And… how much does it usually cost? This is… great. Just what I needed.
+DOCTOR: Any generic brand will do. I can’t tell you the price, it varies. Honestly, I’m not a pharmacist. Here. Now, if you’ll excuse me, I have other patients. Next.
+PATIENT: .

@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Ms. Fabing. I’m Dr. Chora. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just need to get some forms filled out, really. Medicare sent me a letter saying I needed to come in to get everything updated. Nothing's wrong, thankfully.
+DOCTOR: Okay, that’s perfectly alright. Medicare does require periodic updates. It’s good you’re taking care of it proactively. Just to confirm – so no new health concerns or changes in your condition since your last visit?
+PATIENT: Nope, nothing new. Feeling good, all things considered. Just the usual aches and pains of getting older, I guess! No big changes, anyway.
+DOCTOR: Alright. And just to be thorough, I’ll quickly review your medical history on file. It looks like your last comprehensive visit was… about two years ago. Just want to make sure everything is still accurate. Do you have any allergies I should be aware of?
+PATIENT: Hmm, allergies… let me think. Not to anything food-wise, no. And I don’t think so to medications, but I haven't taken anything regularly in a while. Maybe a little itchy sometimes with certain soaps, but that’s about it. Nothing serious enough to write down, I don't think.
+DOCTOR: Okay, no known drug or food allergies. “Mild sensitivity to certain soaps” noted. And are you currently taking any medications – prescription, over-the-counter, or herbal supplements?
+PATIENT: Nope, not a single one. I try to avoid them if I can, honestly. Just good old-fashioned rest and water when I’m feeling under the weather. I'm lucky enough to stay pretty healthy, for the most part.
+DOCTOR: Good to hear. Now, let's just briefly go over your past medical history. The chart shows…no major illnesses reported. Have you ever been hospitalized or had any surgeries?
+PATIENT: No hospital stays, thankfully. And no surgeries either. I've been pretty lucky, I guess. Just the usual childhood stuff - chickenpox, measles… nothing major. A couple of broken bones when I was a kid, being a bit of a tomboy, but those healed up fine.
+DOCTOR: Alright, no significant past medical or surgical history. Now, family history – are there any health conditions that run in your family?
+PATIENT: Oh, family history… hmm. My grandma on my mom’s side had diabetes, I think. And my dad’s brother had some heart trouble later in life. Other than that, not really. A lot of folks just lived long lives, you know? Nothing super concerning, at least not that I know of.
+DOCTOR: Okay. And finally, just a quick question about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, none of the above, Doctor. Never smoked a day in my life. I might have a glass of wine with dinner now and then, but that’s it. And definitely no recreational drugs. I like my peace and quiet, if you know what I mean.
+DOCTOR: Alright, Ms. Fabing, everything seems to be in order. It sounds like you're maintaining a healthy lifestyle. Just routine stuff, really. I'm going to do a quick physical exam to make sure everything is as it should be. Is that alright with you?
+PATIENT: Sounds good, Doctor. Absolutely. Happy to get it checked out, just to be sure. Go ahead whenever you're ready.
+DOCTOR: Great. Let’s start with your blood pressure and pulse. Could you please sit up and extend your arm?
+PATIENT: Sure thing. Here you go.
+DOCTOR: Blood pressure is 128 over 76, pulse is 72 and regular. Good. Now, let me listen to your heart and lungs. Please take a deep breath for me... and exhale. Again… deep breath in… and out. Lungs are clear. Heart sounds normal. Any pain or tenderness when I press here?
+PATIENT: Nope, no pain there. That feels normal. Just a little ticklish, maybe.
+DOCTOR: Alright. Good. Now, let's just check your reflexes. Both reflexes are present and equal. And finally, let me just take a look in your ears and throat. Ears look clear, throat is normal. Okay, everything appears to be normal. Physical exam is within normal limits.
+PATIENT: That's good to hear, Doctor. I appreciate you taking the time to check everything out. Makes an old lady feel a little better knowing things are still working like they should!
+DOCTOR: You’re very welcome, Ms. Fabing. Everything checks out well. I’ll just update your file with these results and we’ll be all set. Do you have any questions for me before we finish?
+PATIENT: Nope, I think that covers everything. You answered all my unspoken worries just by checking everything out so thoroughly. Thank you again, Doctor. I appreciate your kindness and patience. And the quick exam! I have a pot roast waiting for me at home.
+DOCTOR: You’re very welcome, Ms. Fabing. It was my pleasure. I'm glad I could help. Here's a copy of the updated form for your records, and a reminder of your next check-up in two years. And enjoy your pot roast! If anything changes before then, or if you experience any new symptoms, please don’t hesitate to call the office. Have a good day!
+PATIENT: Thank you so much, Doctor! I will. You have a wonderful day too. .

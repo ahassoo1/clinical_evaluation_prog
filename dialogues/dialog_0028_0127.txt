@@ -1,0 +1,33 @@
+DOCTOR: Good morning. Or… afternoon, I suppose. Gedalya Schaust, yes?
+PATIENT: Yes, that is correct. Good afternoon to you as well. Thank you for seeing me.
+DOCTOR: Right. Well, don’t thank me yet. Let’s get this over with. So, what brings you in today?
+PATIENT: Well, it’s… it’s a bit difficult to explain. I’ve been feeling weaker, generally. And my eyelids… they feel heavy, and they’re drooping a little, I think. It’s been happening gradually, over the past few months, but it’s definitely getting more noticeable.
+DOCTOR: “Weaker… eyelids drooping.” Months, you say?
+PATIENT: Yes, several months now. It started very subtly, and I thought it was just… tiredness, maybe. But it hasn’t gone away, and it seems to be getting worse, even with enough sleep. It's mostly on both sides, if that makes sense. Not one eye more than the other, at least not that I've noticed.
+DOCTOR: And you’ve… done anything about this?
+PATIENT: No, not really. I… I kept hoping it would just resolve on its own, like a temporary thing. I tried getting a bit more rest, but that didn’t seem to help. I haven’t seen a doctor about it before today, no. It just felt… strange to explain, to be honest. And I wasn’t sure what could be done about it.
+DOCTOR: Well, you're here now. Let's not dwell on what could have been done. Any other symptoms?
+PATIENT: Hmm… let me think. I’ve been a little more clumsy lately, I suppose. Dropping things, bumping into things… nothing major, but more than usual. And… sometimes it feels harder to swallow, but only with certain foods. Like, if it's something dry. Not with everything though. And… I’ve been feeling a bit more tired, overall, even with the sleep. Is that helpful?
+DOCTOR: "Helpful?
+PATIENT: Yes, I suppose. It’s hard to know what's relevant. I’m sorry if I’m rambling. I just… I don’t want to leave anything out, in case it’s important. It feels like a lot, now that I say it all out loud. Is that… is that concerning?
+DOCTOR: It’s… something. Alright. Do you have any past medical conditions?
+PATIENT: No, not really. I had chickenpox as a child, I suppose, but nothing serious. No surgeries, no major illnesses… I’ve always been fairly healthy, to be honest. A bit prone to colds in the winter, but nothing that needed a doctor, usually. I haven't really needed to see a doctor much in my life, until now. Is there anything specific you're looking for?
+DOCTOR: Family history?
+PATIENT: Hmm. That's a good question. My mother… she had some problems with her nerves, I think. Something about weakness, but it wasn’t really discussed much. She passed away a few years ago, so I don't have a lot of details. My father is still alive, he’s quite healthy, as far as I know. He lives a few hours away, so we don't see each other often. I don’t know much about his medical history, either, honestly. Is that… is that a problem?
+DOCTOR: It's… not ideal. Social history?
+PATIENT: Social history? Right. I… I'm divorced. It was amicable, but still… it's been a few years now. I live alone. I work as a facilities manager, mostly office buildings. It's… mostly paperwork, honestly, a bit of walking around. I don’t drink or smoke. I don’t really have many hobbies, if I’m honest. Just… work, mostly. And trying to keep the apartment tidy. Is that what you were looking for? It feels like I'm being interrogated.
+DOCTOR: Allergies?
+PATIENT: No, not that I know of. Never had a reaction to anything. I can eat pretty much anything, thankfully. No medication allergies either. I've always been lucky in that regard, I suppose. I haven't taken much medication in my life. Just… painkillers for headaches occasionally.
+DOCTOR: Fine. Let’s have a look at you. Please, have a seat on the examination table. I'm going to check your reflexes and strength. Try to relax.
+PATIENT: Okay. I will try. It's a bit cold, isn't it?
+DOCTOR: Alright. Look straight ahead. Now, I'm going to test your reflexes. Just let your arms relax. And the other arm. Now, please squeeze my hands as tightly as you can. Keep squeezing… And now, the other hand.
+PATIENT: I think that’s as tight as I can get it. I haven’t done much physical work lately, so they’re probably not as strong as they used to be. Is something… wrong? They feel a little shaky.
+DOCTOR: Your reflexes… are a bit diminished. And your grip strength is… weaker than expected for your age. Now, open your mouth, and say “ah.”
+PATIENT: Ah. It feels a bit dry in here, actually. Is everything okay? It feels like you're looking for something specific. I’m starting to get a little nervous.
+DOCTOR: Your palate is… slightly elevated. It's not significant, but I'm noting it. Now, I want you to follow my finger with your eyes. Don't move your head.
+PATIENT: Like this? Is everything alright? My vision seems… a little blurry, actually. It's probably just the light, though. I haven’t updated my glasses prescription in a while.
+DOCTOR: We need to get some blood work done. And an MRI, just to be safe. I'm ordering those now. It’s likely nothing serious, but these symptoms… they’re concerning enough to investigate further.
+PATIENT: Okay. MRI? Is… is that something to worry about? What are you looking for, exactly? I’m not good with hospitals. Or… medical things, generally. And what about the blood work? Will it take long? I have some… deadlines at work.
+DOCTOR: Don’t panic. It’s standard procedure. The MRI will give us a better look at your brain and nerves. The blood work will check for a variety of things - vitamin deficiencies, inflammation, that sort of thing. We'll send you to the lab downstairs. It shouldn't take more than an hour, and then you can go back to your… deadlines. I'll have the results sent to me, and we'll schedule a follow-up appointment once I've had a chance to review them. There. Don't worry, it's probably just fatigue.
+PATIENT: Fatigue… right. And… when should I expect to hear back about the MRI? Is there anything… anything I should be doing in the meantime? Avoiding strenuous activity? I don’t want this to affect my job.
+DOCTOR: The MRI usually takes a few days to schedule, and then another few to get the results. I'll call you when I have them. For now, try to get some rest, I suppose. Don't overexert yourself, but don’t become a hermit either. Just… live your life. Honestly, you're probably worrying over nothing. Next! .

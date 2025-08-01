@@ -1,0 +1,19 @@
+DOCTOR: Alright, Sasha. Good to meet you. So, what brings you in today?
+PATIENT: Oh, hello Doctor… Gorga, yes? It’s… well, it’s my leg. It’s been swelling up. It’s after the cancer treatment, you see. It’s… uncomfortable.
+DOCTOR: Right, right… cancer treatment. Okay. And when did you first notice the swelling, Sasha?
+PATIENT: Hmm… let me think. It started… maybe a month ago? A little after I finished the… the pills. It was just a little puffiness at first, but now… now it’s quite noticeable, especially at the end of the day. It’s my left leg mostly.
+DOCTOR: A month ago, after finishing the pills… left leg mostly. Okay. Is it painful, Sasha?
+PATIENT: Not really painful, no. More… heavy? And warm. It feels… tight, like my shoe is too small, even when it isn’t. Does that make sense?
+DOCTOR: Yeah, that makes sense. Heavy, warm, tight… Alright. Have you noticed any changes in the skin on your leg?
+PATIENT: Changes? Like… color? Hmm. I haven’t really looked closely, to be honest. I just noticed it was bigger. I’m not good at noticing those things. Maybe a little red sometimes? But I’m not sure. Is that important?
+DOCTOR: It could be important. Okay. And have you had any fever, chills, or any chest pain along with this swelling?
+PATIENT: Oh! No, no fever. Not that I know of. No chills either. And definitely no chest pain. I’ve been feeling alright, actually, just… bothered by this leg. It makes walking a bit hard, you know?
+DOCTOR: Alright. Any history of blood clots, Sasha?
+PATIENT: Blood clots? Oh dear. I… I don’t think so. I’ve never been told I had one. I had a bad fall when I was younger, broke my wrist, but that’s all. No one ever mentioned… clots. Why do you ask? Is that bad? I get worried easily, you see.
+DOCTOR: It's just standard procedure, Sasha, don't worry. We need to rule things out. Alright. Let's take a look at your leg. If you could just let me examine it, that would be great. Could you sit on the edge of the bed and put your feet down?
+PATIENT: Oh, yes, of course. This way? I'm not very flexible these days, you know. It's getting old, I suppose. Here we go. Is there anything special I need to do?
+DOCTOR: No, just relax. I'm going to feel around your leg, check for tenderness and swelling. I’ll also check your pulses. Just let me know if anything is particularly uncomfortable. Okay… a little bit of warmth here. And yes, definitely some swelling around the calf and ankle. Pulses are present, but a bit diminished compared to your right leg. Not dramatically, but noticeable. Any pain when I do this?
+PATIENT: Hmm… a little tender right… here. It’s not sharp pain, more like… a dull ache. And yes, the ankle feels a bit… funny. Is that bad? You’re making me nervous, Doctor. I don't like feeling things are wrong.
+DOCTOR: Alright, alright. Just trying to get a clear picture. I do see some mild redness around the ankle. And your skin feels a little warm to the touch. This could be a few things, Sasha. Given your history of cancer treatment and the swelling, redness, and tenderness, we need to rule out a blood clot. It’s not necessarily a clot, but we can’t ignore the possibility. I’m going to order a D-dimer test, which is a blood test that can help us assess if there's recent clotting activity. We might also need an ultrasound to visualize the veins in your leg if the D-dimer comes back positive. Does that sound okay?
+PATIENT: A… a D-dimer test? An ultrasound? Oh dear. Is that… is that serious? What if it is a clot? Will I have to go to the hospital? I don’t like hospitals. What does that even mean? And how long will this take? I have a lunch date with my friend, you see… I just want to know what's going on with my leg.
+DOCTOR: Okay, okay, deep breaths, Sasha. It could be nothing, alright?

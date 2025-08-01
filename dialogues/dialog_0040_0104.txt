@@ -1,0 +1,23 @@
+DOCTOR: Alright, Tammie. 44, right?
+PATIENT: Yes. That is correct. Look, I don’t have a lot of time, doctor. Just… my throat. It hurts. Bad.
+DOCTOR: “Throat, right. Of course. And when did this… throat issue begin?
+PATIENT: Oh, goodness. When? Um… a few days, I think? Honestly, it all feels like one long blur since… well, since everything. It’s just there. A pain. Not important details, really.
+DOCTOR: A few days. Right. And is this pain constant, or does it come and go?
+PATIENT: It comes and goes, I suppose. Mostly when I… well, when I try to speak. Or swallow. It’s just… uncomfortable. Really uncomfortable. Is that good enough? I need to get back to work soon.
+DOCTOR: “Uncomfortable.” Hmm. Any fever, cough, runny nose?
+PATIENT: Fever? I… I don't think so. No one's checked. I haven't been feeling well well, but I don’t sit around taking temperatures. A cough… maybe a little? Old people cough, don't they? I don’t really pay attention to these things.
+DOCTOR: “Right. Well, let’s just have a look then, shall we?
+PATIENT: Fine. Just… be quick about it, please. I haven't got all day, and frankly, I don't enjoy having people poke around.
+DOCTOR: Hmm. A little redness. Nothing remarkable. Any pain specifically when I press here?
+PATIENT: Ouch. Yes! There. That hurts. See? I told you it hurt. It’s not just… nothing.
+DOCTOR: Alright. And do you have any difficulty breathing?
+PATIENT: Breathing? No. I mean, I'm breathing, aren’t I? Why would I be here if I couldn’t breathe? Really, Doctor, these are very basic questions.
+DOCTOR: Any swollen glands?
+PATIENT: Swollen… glands? I don't even know what that means. Are you asking if my neck is big? It's a normal neck, if that’s what you mean. I haven’t been measuring it.
+DOCTOR: Right, alright. Let's see... Have you been around anyone who's been sick recently?
+PATIENT: Sick? Everyone is always sick. People cough all the time! Especially on the bus. No, I don’t keep track of who has a sniffle. It's none of my business, and frankly, I try to avoid people as much as possible.
+DOCTOR: Look, I'm going to write this down... Pharyngitis. Probably viral. Drink fluids, rest. Over-the-counter pain relievers. Is that clear?
+PATIENT: Yes. That's… simple enough. So, I can go now? I really must get back to work. And I don’t have insurance, so don’t expect me to pay for anything.
+DOCTOR: There. Instructions. Take two ibuprofen every four to six hours as needed. And… try to stay away from people. Honestly. Next.
+PATIENT: Fine. Thank you. Or… whatever. I’m leaving now. .
+DOCTOR: .

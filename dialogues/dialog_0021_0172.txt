@@ -1,0 +1,28 @@
+DOCTOR: Alright, Candice. Have a seat. So, what brings you in today?
+PATIENT: Oh, goodness. Well, it’s… a social visit, I believe. My husband insisted. New to the area, you see. Honestly, I don’t quite recall what all needs doing. It’s all rather… unnecessary, if you ask me. I feel perfectly fine.
+DOCTOR: Right. Well, your husband clearly has some concerns. Even if you feel fine, it’s good to get a baseline check when you’re establishing care with a new doctor, especially moving to a rural area. Just a quick overview of things, alright?
+PATIENT: Baseline… overview… Honestly, all this fuss. Very well. Get it over with quickly, if you please. I have… arrangements to make.
+DOCTOR: Alright. Let’s start with the basics. The system has some initial information, but I like to hear it directly from the patient. You’re 79 years old, and… Maya, is that correct?
+PATIENT: Yes, Maya. Though I haven’t… dwelt on that in years. It was a long time ago. And yes, seventy-nine, I suppose. Though birthdays are hardly momentous occasions at this point.
+DOCTOR: Right. And are you currently experiencing any health problems?
+PATIENT: Problems? No, not particularly. A little stiffness in the mornings, perhaps. But that’s just… age. Everyone gets a little creaky. I assure you, I’m not one to complain.
+DOCTOR: Okay. And how about any major illnesses or surgeries you’ve had in the past?
+PATIENT: Oh dear. That’s… a very long list, I’m afraid. It was so long ago. I honestly couldn’t recall specifics. Something with my appendix, I think. And a rather unpleasant bout of… something, decades ago. Honestly, it’s all rather hazy.
+DOCTOR: Alright. Well, sometimes family history can help jog the memory. Do you know much about your parents’ or siblings’ health?
+PATIENT: Family… yes. My mother lived to a good age, I believe. Very proper woman. Father… he was a businessman. I don’t recall any… significant ailments. They weren't ones for discussing such things, you understand. It wasn't considered… ladylike.
+DOCTOR: Right. And how about medications you're currently taking?
+PATIENT: Oh, just a little something for my… joints. The doctor back in the city prescribed it. Small white pill, I believe. I take it every morning. Honestly, I can't recall the name. It's all so… bothersome.
+DOCTOR: Okay. And do you have any allergies to medications, food, or anything else?
+PATIENT: Allergies? No, not that I’m aware of. I’ve always been rather… robust. Perhaps a slight sensitivity to dust, but that’s hardly an allergy, is it? Certainly nothing that requires… medical attention.
+DOCTOR: Alright. Well, let's do a quick physical exam, just to get a better picture of things. Can you stand up for me?
+PATIENT: Oh, goodness. Must we? I do hope this won't take long. Very well. Do hurry, please.
+DOCTOR: If you could step on the scale first, please. And then we’ll just do a quick listen to your heart and lungs, check your reflexes, the usual. It won't take long.
+PATIENT: Honestly, all this poking and prodding. It’s rather undignified. Do get it over with. And please, be gentle. I bruise easily.
+DOCTOR: Alright. If you could just take a deep breath for me… and exhale. Heart rate is regular, but a slight crackling in the lower lobes of both lungs. I’ll need to follow up on that. Reflexes are a little slow. And there's a slight tremor in her hands. Okay. Everything seems… stable, for your age. But I do want to order some blood work, just to get a baseline and rule out anything concerning. And a chest X-ray to look at those lungs a little closer.
+PATIENT: Blood work? X-rays? Honestly, this is becoming quite excessive. Is all of this absolutely necessary? I assure you, I feel perfectly fine. My husband is simply… overprotective. I really don’t see the point of all this fuss.
+DOCTOR: It's standard procedure when establishing care with a new patient, especially considering your age and some of the findings during the exam. The blood work will give us a good overview of your overall health, and the chest X-ray will help us determine the cause of that slight crackling in your lungs. It's better to be safe than sorry. Look, Mrs. Engelhaupt, I understand you feel fine, but these tests aren’t about proving anything is wrong. They're about getting a complete picture so we can monitor your health proactively. It’s a preventative measure. Will you allow me to order them?
+PATIENT: Very well. If you insist. But I expect a full explanation of the results, and I do hope it doesn't involve any… unpleasant procedures. And do try to be quick about it. I have arrangements to make, you understand. Arrangements.
+DOCTOR: Alright. The lab technician will come in shortly to draw your blood. The X-ray can be done at the imaging center across the street. They'll schedule you for an appointment. I’ll have my assistant print out the paperwork and instructions. And I’ll schedule a follow-up appointment in two weeks to discuss the results. In the meantime, if you experience any new or worsening symptoms, please contact the office immediately. Do you have any other questions for me at this time?
+PATIENT: No. No, I don’t believe so. Just… get it over with, please. This has been… quite enough.
+DOCTOR: Alright. My assistant will be with you shortly. Have a good day, Mrs. Engelhaupt.
+PATIENT: Good day. .

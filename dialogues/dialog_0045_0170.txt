@@ -1,0 +1,25 @@
+DOCTOR: Alright, Mr. Putney. Have a seat. So, what brings you in today?
+PATIENT: Yeah, hi. It’s… for a life insurance thing. They sent me here for a medical check, I think? Just need to get it done, honestly.
+DOCTOR: A life insurance check…right. So, you’re not sick sick, just need a doctor to sign off on paperwork?
+PATIENT: Exactly. Paperwork. That’s it. The less fuss the better, if you ask me. I got things to do today.
+DOCTOR: Well, someone has to make sure you're not about to keel over and invalidate the policy. It’s not just signing a form, Mr. Putney. We need to at least go through the motions. Let's start with a little history. Any major medical problems I should be aware of?
+PATIENT: Hmm… not really. I had my gallbladder out a while back, maybe ten years ago? And my knees bother me when it rains, but that’s just getting old, I guess. Nothing the insurance company needs to worry about. I think.
+DOCTOR: Gallbladder removal… alright. Ten years ago is…relevant. And the knees. Right. Any other surgeries?
+PATIENT: Nope. That's it. No, really. Just the gallbladder. And the knees ache sometimes, like I said. I'm a pretty healthy guy for my age, I think. I work hard, you know? Managing that lodge keeps me moving.
+DOCTOR: And what kind of work does managing a lodge involve, exactly?
+PATIENT: Lots of everything, honestly. Checking people in, making sure rooms are clean, dealing with… guests. Some repairs, mostly small stuff. It's physical work, but nothing crazy. It keeps me on my feet. A lot of walking. That's probably why my knees bother me.
+DOCTOR: Alright. Any family history of, let's say, early heart disease, diabetes, cancer?
+PATIENT: Oh, geez. Family history… my mom, she had some problems with her blood sugar when she got older, but she lived to be eighty-five. And my dad… he just kind of wore out, you know? Old age, mostly. Nothing… specific. It wasn’t like he dropped dead young or anything. I don’t really keep track of all that stuff.
+DOCTOR: Right. Okay. Do you have any allergies to medications?
+PATIENT: Nope. Not that I know of. Never had a bad reaction to anything the doctors have given me before. I’ve taken antibiotics a few times for colds and stuff, but that’s about it.
+DOCTOR: And are you currently taking any medications, even over-the-counter stuff?
+PATIENT: Just some ibuprofen now and then for my knees. When they really act up. Nothing regular. Honestly, I try to avoid taking pills if I can help it.
+DOCTOR: Alright, Mr. Putney. Let’s get a quick physical exam done. Just the basics to make sure everything’s functioning as it should. Blood pressure, pulse, listen to your heart and lungs... you know, the usual. Then we can wrap this up. Please hop up on the exam table.
+PATIENT: Fine. Whatever you need to do. The sooner this is over, the better.
+DOCTOR: Blood pressure is a little elevated, 142 over 88. Not alarming, but we’ll note it. Lungs are clear. Heart rate is regular, but a bit fast. I hear a slight murmur. Nothing drastic, but we’ll need to document it. Now, let me check your reflexes. Reflexes are…present. A little diminished, but within normal limits for your age. Now, I'm going to take a look at your knees. Can you bend them for me?
+PATIENT: Yeah, sure. They always bother me when it’s cold, or before it rains. Feels kinda… stiff. And sometimes they crack. Is that bad?
+DOCTOR: Some crepitus, as you noted. Normal wear and tear. Some tenderness to palpation. Range of motion is limited, but not severely. No significant swelling or redness. Alright, that's enough for now. Let's get some blood work ordered. Standard lipid panel, complete blood count, and a basic metabolic panel. Just to get a baseline.
+PATIENT: Okay, fine. Where do I go for that? Can I get this over with today? I really need to get back to the lodge. Things get kinda crazy when I’m not there.
+DOCTOR: The lab is just down the hall, second door on the left. They close at 4:30, so you'll need to hurry. I'll have the results faxed over here as soon as they're available. Once I have those, we can discuss the next steps. Don’t eat or drink anything after midnight if you need additional tests. We’ll need to schedule an EKG if the blood work is abnormal. Hopefully, it won’t come to that.
+PATIENT: Okay, okay. Lab, no eating after midnight, EKG maybe. Got it. Thanks, I guess. I’ll go do that. Hopefully, everything’s okay. .
+DOCTOR: .

@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Shanor. I’m Dr. Sham. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. Referee fitness test. Need paper say I okay. Want finish quick, if possible.
+DOCTOR: A referee fitness test… right. And you need a form completed stating you’re medically cleared?
+PATIENT: Yes. Exactly. I… do games. Basketball mostly. Need this for the league. They change rules every year. Paper important.
+DOCTOR: Okay, I understand. To fill out the form properly, I’ll need to ask a few questions, just to be sure everything is alright. It won’t take long, I promise. Have you had any recent illnesses or injuries that might affect your ability to referee?
+PATIENT: Hmm. Not really. Old back… sometimes hurt. From work. But okay. Take medicine. Not problem for games. Work is… heavy. Lifting. But I strong.
+DOCTOR: Back pain… and you manage it with medication?
+PATIENT: Yes. Little bit. When it bad. Usually okay. No problem running, jumping. Basketball… fast. Need be quick.
+DOCTOR: Alright. And what medication are you taking for the back pain, if you don’t mind me asking?
+PATIENT: Uh… I don’t remember name. White pill. Small. Doctor… different doctor… give me. Long time ago. Not every day. Only when really sore.
+DOCTOR: Okay… a white pill, small, prescribed by another doctor. That’s… helpful, to some extent. Do you have any allergies to medications, or anything else for that matter?
+PATIENT: No allergies. I think. Never had bad reaction. Eat anything. I… not picky. Is all okay for allergies, I think.
+DOCTOR: Alright, good. And do you have any medical conditions – high blood pressure, diabetes, heart problems, anything like that?
+PATIENT: No. I… healthy. Work hard, but healthy. Wife… she sick. But I… okay. No problems.
+DOCTOR: Okay. Let’s just do a quick physical exam, just to be on the safe side. Could you step on the scale for me, please?
+PATIENT: Okay. Scale is okay.
+DOCTOR: 134 pounds… and your height is listed as 174 centimeters. That's… within a normal range. Let me listen to your heart and lungs quickly. Could you take a deep breath for me?
+PATIENT: Okay, deep breath. Like this? Is good? Want finish quick, Doctor. Basketball season… soon.
+DOCTOR: Heart sounds are regular… lungs are clear. Blood pressure is 128 over 82. Normal. Now, just a quick range of motion check for your back. Can you bend forward and touch your toes?
+PATIENT: Ow. Not good. Not all way. Back… tight. Like old.
+DOCTOR: Okay. I see. Limited range of motion, some discomfort with forward bending. It's good you're telling me this. I'm not going to clear you for the fitness test completely without further evaluation. Do you have health insurance?
+PATIENT: Yes. Private. Good insurance. Can… get scan? MRI? Whatever needed. Just want paper. League… strict.
+DOCTOR: Alright. Given the limited range of motion and discomfort, and to be thorough, I’m going to recommend an MRI of your lower back. It will help us determine the cause of the pain and ensure it's safe for you to participate. I can send a referral to a specialist. Would that be alright?
+PATIENT: MRI is okay. Specialist is okay. Send paper. I… need play basketball. League starts next month. Can they do quick?
+DOCTOR: I’ll send a referral to Dr. Anya Sharma, a specialist in sports medicine. I’m including a note requesting expedited scheduling, given the league start date. I cannot clear you for the fitness test until after the MRI and a consultation with the specialist. It's a matter of safety. I will give you a note stating you are “pending medical evaluation” for the league. Will that work?
+PATIENT: Pending is okay. Better than nothing. But… they might not like it. Okay. Pending. Thank you, Doctor. Fast, if possible.
+DOCTOR: Here you go. "Pending medical evaluation – MRI scheduled with Dr. Sharma." I’m also sending a copy to the specialist's office. Please schedule the appointment as soon as possible. I understand your concerns about the league. We're doing this to make sure you stay healthy. Is there anything else I can help you with today?
+PATIENT: No. That is all. Thank you.
+DOCTOR: Alright. Have a good day, Mr. Shanor. And please, follow up with the specialist promptly.
+PATIENT: .

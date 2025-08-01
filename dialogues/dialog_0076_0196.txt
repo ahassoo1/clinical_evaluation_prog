@@ -1,0 +1,24 @@
+DOCTOR: Right, well, let's get this over with. You're Janie Licano, 52?
+PATIENT: Yes, that’s me. Though… honestly, dates… they all kinda blur together these days. Is today important? I just… I feel so tired all the time, and I'd like to figure out what's going on if we could.
+DOCTOR: Tired. Everyone says tired. What kind of tired?
+PATIENT: Oh, you know… like… really tired. Like I could sleep for a week and still not feel rested. It’s not just after a long day, it's… always there. Even when I do sleep. It makes it hard to… to do things. Remember things. Honestly, it’s just… exhausting.
+DOCTOR: Hmm. Alright. And how long has this “always there” tiredness been going on?
+PATIENT: Oh… that’s… a good question. A long time. Months, I think? Maybe longer. It’s hard to say exactly. Things just… gradually got worse. It didn’t happen overnight, you know? I wish I could give you a better answer. It's just… fuzzy.
+DOCTOR: Fuzzy. Right. Well, let’s see what the system says… Medicare, rural location… okay. Any other symptoms alongside this fatigue?
+PATIENT: Symptoms…? Let me think. Sometimes I get headaches. Not terrible ones, just… dull. And… I feel a bit achy, all over. Like I’ve been doing too much, but I haven't. It's hard to explain. I just… don’t have much energy for anything.
+DOCTOR: Headaches, aches…typical. Any fever, chills, night sweats?
+PATIENT: No, no fever or chills that I remember. And… night sweats? Not really. I get warm sometimes, but nothing… dramatic. I haven't been feeling sick, just… worn out. Is that making sense? I’m sorry, I’m probably not being very helpful.
+DOCTOR: Look, I've got other patients. We need to be concise. Have you noticed any changes in your weight, appetite, or bowel habits?
+PATIENT: Oh. Right. Concise. Well, I think I’ve lost a little weight, but I haven't been weighing myself regularly. My appetite… it comes and goes. Some days I don't feel hungry at all. And… …let’s just say things aren’t… regular. Sorry. Is that enough?
+DOCTOR: Weight loss, appetite changes, irregular bowel habits… Alright. Any family history of… anything significant?
+PATIENT: Significant… Hmm. My mother… she had some problems with her heart, I think. And my father… he had diabetes. But that was a long time ago. I’m not sure if it's relevant. Honestly, I don’t really remember the details. We didn't talk about it much. It's all a bit… hazy.
+DOCTOR: Okay, heart problems, diabetes. Anything else?
+PATIENT: No… not that I can recall. I mean, we all get colds and things, but nothing… serious. Look, I really appreciate you trying to figure this out, but I’m drawing a blank. Is there anything specific you want to know? Maybe that would help me remember. I’m just… tired. So very tired.
+DOCTOR: Alright. Let's do a quick physical exam. Just basic stuff. I need to listen to your heart and lungs, check your reflexes, and feel your abdomen. Can you lie down on the examination table?
+PATIENT: Yes, of course. Whatever you need. Just… please be quick, if you can. I don’t do well with… waiting around.
+DOCTOR: Heart sounds are…regular, but a little faint. Lungs are clear, no wheezing. Blood pressure is 110/70. Pulse is 72, regular. Abdomen is soft, no tenderness. Mildly reduced muscle mass. Reflexes are… slightly diminished. Okay. That's... not alarming, but not ideal either.
+PATIENT: Is something wrong? What does that mean? I just want to feel normal again.
+DOCTOR: Look, it’s probably just a vitamin deficiency. Or stress. You said you’re tired, losing weight…it could be a lot of things. I’m going to order some basic blood work: a complete blood count, a metabolic panel, thyroid function tests, vitamin D levels. That will give us a better idea. I'll also order a urinalysis, just to rule out infection. It's standard procedure.
+PATIENT: Blood work… okay. That sounds… good. I guess. As long as it finds something. I just… I can't keep feeling like this. How long will it take to get the results? And will it be expensive? My Medicare… it doesn’t always cover everything.
+DOCTOR: Results should be back in a few days. As for the cost… Medicare should cover most of it, but there might be a co-pay. Don't worry about it right now. We'll figure it out. In the meantime, try to get some rest, and drink plenty of fluids. And… try not to stress. Here's the lab order. Go there as soon as possible. I've got other patients waiting.
+PATIENT: Okay… right. Rest. Fluids. Thank you. I think… I think that’s all. Thank you for… trying. .

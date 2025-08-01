@@ -1,0 +1,20 @@
+DOCTOR: Right. Tammie Ottaviani, 44 years old. So, what brings you in today?
+PATIENT: Throat. It hurts. Been hurting for... a little while now. Not a long while, but enough. I don't have time for this, you know. Work is busy.
+DOCTOR: A sore throat. "A little while now," you say. Can you be more specific?
+PATIENT: Specific? Honestly, no. Maybe… a week? Two? It all feels the same these days. I don't keep track of things like that. It just… started hurting when I swallow. And it feels rough. Like sandpaper. Is that… important?
+DOCTOR: Sandpaper, alright. And is it constant pain, or does it come and go?
+PATIENT: It’s… more when I eat. And drink. Anything, really. When I have to swallow. Just sitting here, not much. Though, it feels… scratchy. Like something is stuck. I don’t know. I just want something to make it stop.
+DOCTOR: Alright. Any fever, chills, cough, or runny nose accompanying this?
+PATIENT: Fever? No. I don’t feel hot. And no cough. Not that I recall. Runny nose… maybe a little? Old age, you know. Things drip. It happens. Honestly, I'm not sure if that's related. Everything feels… off these days.
+DOCTOR: Any difficulty breathing, or pain radiating to your ears?
+PATIENT: Breathing? No, I can breathe fine. Perfectly fine. Ears… no. My ears are alright. I don't get earaches. I don't have time for fancy problems. Just a sore throat. A bad one.
+DOCTOR: Alright. Let's have a quick look. Open wide and say "ah." I need to check your throat. Don't worry, it won't take long.
+PATIENT: Fine. Fine. Just get it over with. Ah.
+DOCTOR: Hmm. Your throat is a bit red, some mild swelling. No visible pus or lesions. Palate looks normal. Your tonsils don’t appear to be enlarged. Lymph nodes feel… slightly tender. Nothing dramatically concerning, but a little bit of swelling.
+PATIENT: Swelling? What kind of swelling? Is it… bad? I told you, I don't have time for a long illness. I have work. Is it something I need… pills for? Quickly, if possible.
+DOCTOR: It's mild swelling. Probably just a viral pharyngitis – a sore throat caused by a virus. Most likely, it will resolve on its own. We're not looking at anything serious at the moment. I can prescribe a throat lozenge and recommend over-the-counter pain relief if you'd like. Plenty of fluids, rest. That’s usually sufficient. Do you have any allergies to medications?
+PATIENT: Allergies? No. I don't have allergies. I'm a strong woman. I don't get sick easily. Lozenge… fine. Anything to make it stop. And I suppose… rest. But I have to work. So, quickly, what kind of lozenge?
+DOCTOR: Here. A benzocaine lozenge, as needed for pain. You can find them over the counter at most pharmacies. Avoid using them for more than a few days. And if your symptoms worsen – difficulty breathing, high fever, severe pain – you need to seek immediate medical attention. Any other complaints today?
+PATIENT: Fine. Thank you. No. That’s all. I really must get going. Work is waiting. I hope this… lozenge works. Don't want to waste my time coming back.
+DOCTOR: Alright. If it doesn't improve within a week, or if your symptoms worsen, schedule an appointment. Have a good day. And try to get some rest, despite your busy schedule. .
+PATIENT: Fine. Goodbye. .

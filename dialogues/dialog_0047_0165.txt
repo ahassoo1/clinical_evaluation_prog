@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Mr. Brege. I'm Dr. Press. So, what brings you in today?
+PATIENT: Morning, Doctor. Just been gettin' these fevers again. Keep comin' back, ya know? It's… annoying, to say the least. Been happenin' for a couple weeks now, maybe a little longer.
+DOCTOR: “Annoying.” Right. Well, fevers are rarely just annoying, Mr. Brege. They indicate something is going on. A couple weeks, you say?
+PATIENT: Yeah, a couple weeks. Started kinda slow, felt a little warm, thought it was just the heat. But it keeps comin' back every few days. Not super high, never over 101, I don't think. My wife checks sometimes, but… well, she forgets things too.
+DOCTOR: "Right. So, intermittent fevers, not exceeding 101... and unreliable temperature readings. Do you feel unwell when you have these fevers?
+PATIENT: Yeah, definitely feel it when they hit. Just tired, achy. Like a really bad flu, but no cough or sniffles. Mostly just… weak. Hard to get around, ya know? Makes it tough to work.
+DOCTOR: And what do you do for work, Mr. Brege?
+PATIENT: I'm a chiropractor. Been doin' it for… oh, goodness, almost forty years now. Small practice, mostly older folks. Helps 'em stay movin', ya know?
+DOCTOR: A chiropractor. Interesting. And has this… weakness, as you call it, affected your ability to practice?
+PATIENT: Yeah, a bit. Can’t stand as long, gotta take more breaks. Wife's been helpin' out more, bless her heart, but she's not a chiropractor, ya know? Gotta get back to it, though. Bills don't pay themselves.
+DOCTOR: Alright. Let's try to get a better understanding of what might be going on. Have you traveled anywhere recently, Mr. Brege?
+PATIENT: Nope. Haven’t been on a plane in… well, decades. Mostly just stay around here, go to the grocery store, see patients. Maybe a trip to see my daughter in Florida last year, but that was it.
+DOCTOR: And do you have any other symptoms?
+PATIENT: Hmm… let me think. No cough, no sniffles like I said. No stomach trouble. No rash. Just the fever and the tiredness. Oh! Sometimes my joints ache a bit, kinda like arthritis, but it comes and goes.
+DOCTOR: Alright. Let’s have a listen to your lungs and heart, and I’ll take a look at your joints. Temperature is 99.8. Pulse is 78, regular. Blood pressure is 130 over 80. Not bad, considering. Now, breathe deeply for me, Mr. Brege.
+PATIENT: Okay, okay. Deep breaths… like this? Feels alright, I guess. Just a little outta breath easy these days.
+DOCTOR: Lungs are clear. Heart sounds normal. Joints… some mild tenderness in the knees, but no significant swelling or redness. Now, have you had any recent blood tests or seen another doctor about this?
+PATIENT: Nope. Haven’t really seen a doctor in years, to be honest. Usually just tough it out. Didn’t figure a fever was worth botherin’ anyone with. And no blood tests, no nothin’. Wife suggested it once, but… I figured it was just a bug.
+DOCTOR: Mr. Brege, while I appreciate your… resilience, intermittent fevers that persist for weeks, even without other obvious symptoms, warrant investigation. We need to rule out some possibilities. I'm going to order a Complete Blood Count, a Comprehensive Metabolic Panel, and an Erythrocyte Sedimentation Rate. These tests will give us a better idea if there’s an infection, inflammation, or other underlying issue causing your symptoms.
+PATIENT: Tests, huh? Alright. If you think it’s necessary. Where do I go for those? And… how long does it take to get the results? I got patients waitin', ya know.
+DOCTOR: You can get these done at the lab across the street – here's a slip with the address and instructions. They should be able to take you right away. Results typically take 24 to 48 hours. I'll have my nurse call you with the results once they're available. In the meantime, try to rest as much as possible and drink plenty of fluids. We'll discuss the results and a plan once we have them. Do you have any allergies to medications I should be aware of?
+PATIENT: No allergies, not that I know of. Taken plenty of stuff over the years. Just… tired of bein’ sick, ya know? Alright, 24 to 48 hours. I can manage that. Thank you, Doctor. .
+DOCTOR: Alright. We’ll see what the tests reveal. Don’t hesitate to call if your symptoms worsen. .

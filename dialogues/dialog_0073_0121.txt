@@ -1,0 +1,17 @@
+DOCTOR: Good morning, Mr. Pipolo. I'm Dr. Korrell. So, what brings you in to see me today?
+PATIENT: Morning. Just…my eyes. They feel real dry. Been that way a while now, I guess. Don’t feel like seeing much lately either.
+DOCTOR: Dry eyes… alright. And how long exactly is “a while”?
+PATIENT: Oh, geez… hard to say. Maybe… six months? More? Time kinda runs together when you’re older, you know? It's not sudden, it just… got worse and worse. Not hurting, just… scratchy. And blurry.
+DOCTOR: Six months, or more. And is it both eyes, or just one?
+PATIENT: Both, I think. Hard to tell sometimes. They both feel the same. Not like one is worse than the other, just… both dry. It's more bothersome in the mornings, though. Like I can't even open 'em all the way.
+DOCTOR: Alright. And do you use any drops, anything at all, for your eyes?
+PATIENT: Drops? No. Never used drops. Never really needed 'em before. Just… tried blinking more, I guess. Doesn’t seem to help much, though. Don’t even know where you get eye drops.
+DOCTOR: Hmm. Well, we can certainly get you some. Have you noticed any other symptoms with your eyes?
+PATIENT: Other symptoms? Like…? I dunno. Everything's kinda blurry, so… maybe I am noticing things. Like… sometimes they feel gritty? Like there’s sand in 'em. But maybe that's just the dryness. I mostly just wanna be able to see again, ya know?
+DOCTOR: Gritty, yes. That's common with dryness. Now, let’s not get carried away. It's probably just age. But, we'll take a look. If you'll just have a seat, I'll do a quick exam.
+PATIENT: Quick is good. Real good. I got things to do, ya know? Just wanna get this fixed. You won't keep me long, will ya?
+DOCTOR: I assure you, Mr. Pipolo, I’ll be as efficient as possible. Now, I’m just going to shine a light in your eyes, and have you read the letters on the chart. Start with your right eye, please. Cover your left one with your hand.
+PATIENT: Right eye… okay. This chart? It’s kinda blurry, Doc. You sure I can even read it?
+DOCTOR: Just do your best, Mr. Pipolo. We're trying to get a baseline here. Start with the top line, if you can. Very poor visual acuity. We'll move to the left eye now.
+PATIENT: Left eye… It’s… just a bunch of shapes, Doc. Honest. Can’t make out nothin’. Maybe I need new glasses? I haven’t had a new pair in… a long time. .
+DOCTOR: New glasses are a possibility, yes. But we need to rule out other causes first. Hmm. Some mild cataracts, expected at your age, but nothing alarming. Pupils are reactive, but slightly sluggish. Now, let me just check the pressure… This will just feel like a little puff of air.

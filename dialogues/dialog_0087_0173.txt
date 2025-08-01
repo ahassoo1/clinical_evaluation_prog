@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Ms. Aslan. My name is Dr. Soodeen. It’s good to meet you. What brings you in to see me today?
+PATIENT: Good morning, Dr. Soodeen, it’s nice to meet you too. Um, well, I’ve just been getting these chills lately. It’s a bit odd, really.
+DOCTOR: Okay, chills. And how long have you been experiencing these chills, Ms. Aslan?
+PATIENT: Hmm… maybe about three or four days now? It comes and goes, not constant. It’s not like a fever chill, you know? Just… a shiver.
+DOCTOR: Alright, three or four days of intermittent chills. And you said it doesn't feel like a fever chill – meaning you haven’t been running a temperature, or feeling particularly warm before the chills start?
+PATIENT: No, no fever at all. Definitely not warm. Actually, I usually feel a bit cold before the chills, if that makes sense. Like, just generally a little chilly, then the shivers start. It’s weird.
+DOCTOR: Okay, so a feeling of being cold precedes the chills. Have you noticed anything else accompanying these chills?
+PATIENT: Let me think… not really. I’ve been a little tired, but honestly, who isn’t these days? Maybe a tiny bit achy, like a mild muscle ache, but nothing major. It's hard to say if that's even related. I don’t feel sick, you know? Just… chilly.
+DOCTOR: Alright. No other significant symptoms at this time, just fatigue and mild muscle aches alongside the chills. To get a better understanding, could you describe the muscle aches – where are you feeling them, and how would you rate the pain on a scale of one to ten, with ten being the worst pain imaginable?
+PATIENT: Um, mostly in my back and shoulders, I think. And it’s not really pain, pain. More like… stiffness? Like I’ve been doing a lot of gardening. Maybe a three or a four, if I had to rate it. Honestly, I barely notice it most of the time.
+DOCTOR: Okay, mild stiffness in the back and shoulders, rating about a three or four when you do notice it. Have you been doing any strenuous activity recently, like gardening as you mentioned?
+PATIENT: Yeah, I’ve been trying to get my garden going. It’s been a bit of a project. Lots of digging and weeding. And before that, honestly, not much. Just normal stuff, you know? Work, errands… nothing too crazy.
+DOCTOR: Alright, so recent increased activity with the gardening. Now, let’s briefly go over your medical history. Have you been diagnosed with any medical conditions in the past?
+PATIENT: Not really. I had bronchitis a couple of years ago, but that was just a one-time thing. And I had the usual childhood stuff, you know, chickenpox, measles… nothing serious. No ongoing conditions, no.
+DOCTOR: Okay, no chronic medical conditions. Any surgeries or hospitalizations in the past?
+PATIENT: Nope. Never had surgery. And I’ve only been to the hospital for a broken arm when I was a kid. That’s it.
+DOCTOR: Alright. And are you currently taking any medications, including over-the-counter medications or supplements?
+PATIENT: Just a multivitamin, and sometimes I take ibuprofen if I have a headache, but that’s it. Nothing regular.
+DOCTOR: Okay, just a multivitamin and occasional ibuprofen. Do you have any allergies to medications, food, or anything else?
+PATIENT: Nope, no allergies that I know of. I eat everything, and I've never had a reaction to any medication. I think I'd know if I did!
+DOCTOR: Alright, no known allergies. And finally, can you tell me a little about your family history?
+PATIENT: Hmm... my mom has high blood pressure, and my dad had some heart issues when he was older, but that’s about it, really. No major illnesses that run in the family, as far as I know. Everyone lived to be pretty old, actually.
+DOCTOR: Okay. High blood pressure in your mother and some heart issues in your father. Thank you for that information. Now, I'd like to do a quick physical exam, if that's alright with you. I’ll check your temperature, pulse, blood pressure, and listen to your lungs and heart. Does that sound okay?
+PATIENT: Yes, that sounds fine. Whatever you think is best.
+DOCTOR: Your temperature is 98.6 Fahrenheit, which is within the normal range. Your pulse is 72 beats per minute, and your blood pressure is 120 over 80, also within normal limits. Your lungs sound clear. Your heart sounds regular, no murmurs noted. I'm also going to palpate your lymph nodes. No swelling in your lymph nodes detected. Do you feel any tenderness in your muscles when I press here?
+PATIENT: No, that doesn't hurt. Not really. Just normal pressure. Everything feels okay.
+DOCTOR: Alright, good. No significant tenderness on palpation. Given your symptoms – chills, mild fatigue, and mild muscle stiffness – and the normal findings on the physical exam, it’s possible you're experiencing a mild viral illness. However, it’s important to rule out other possibilities. I'd like to order a complete blood count, or CBC, and a basic metabolic panel, or BMP, just to get a clearer picture of what's going on. Would that be alright with you?
+PATIENT: Yes, that sounds sensible. Whatever you think is best. A blood test seems… thorough.
+DOCTOR: Alright. I'll write the orders for the lab tests now. The nurse will come in shortly to draw your blood. It should only take a few minutes. In the meantime, I recommend getting plenty of rest, drinking fluids, and taking over-the-counter pain relievers like ibuprofen if you have any muscle aches. We’ll get the results back within a day or two, and we can discuss them then. Do you have any questions for me at this time?
+PATIENT: No, I think you've covered everything. Rest and fluids… I can do that. Thank you, Dr. Soodeen.
+DOCTOR: Alright, Ms. Aslan. You’re very welcome. The nurse will be in shortly. Please let me know if you experience any worsening symptoms, such as a fever, shortness of breath, or chest pain, and don’t hesitate to call the clinic. Have a good day.
+PATIENT: .

@@ -1,0 +1,27 @@
+DOCTOR: Alright, Mr. Dhanoa, welcome to the clinic. So, what brings you in today?
+PATIENT: Oh, hi Doctor Billman. Thanks for seeing me. It’s this ringing in my ears, yeah? It’s been… annoying, to say the least. It started a few weeks ago, I think.
+DOCTOR: A few weeks, okay. And just to clarify, it’s ringing… is it in one ear, both ears?
+PATIENT: Both ears, actually. Not super loud, but it's always there. Like a high-pitched whine, sometimes. It makes it hard to concentrate, especially when it’s quiet.
+DOCTOR: Always there… that’s good to know. And has anything specific brought it on?
+PATIENT: Hmm… that’s a tough one. Not that I can think of, really. I work as a waiter, so it's pretty noisy at work, lots of chatter and music. But it started after a really busy weekend, so maybe that? I don’t know. I’ve been pretty stressed lately, with… stuff. Divorce and all.
+DOCTOR: Divorce, right. Stress can certainly do a number on you. So, the ringing… is it constant, or does it come and go?
+PATIENT: It's pretty constant, yeah. Like I said, it's always there, just… sometimes it's louder, sometimes quieter. When I'm really tired or stressed it gets worse for sure. I haven’t noticed it getting better at any point.
+DOCTOR: Okay, constant, worse with stress… Have you noticed any other symptoms alongside the ringing?
+PATIENT: Other symptoms… not really? I mean, I’ve been a bit more tired than usual, but that's probably just everything going on, you know? No dizziness, no pain, no trouble hearing, just… the ringing. It's just really frustrating.
+DOCTOR: Frustrating, I can imagine. Alright. Let’s go through some basics. Any history of ear infections?
+PATIENT: Nah, not that I remember. I had the usual kid stuff, colds and all, but no ear infections that I know of. I don't think my mum would have let me get away with ignoring something like that. She was pretty good about getting us to the doctor.
+DOCTOR: Good. Any family history of hearing loss, or… ear problems?
+PATIENT: Hmm… my grandfather on my mum’s side, he was pretty deaf when he got older. But that was just old age, I think. No one else that I know of had problems with their ears. I don't think so, anyway. It's not something we really talked about.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: Nah, nothing regular. Just… panadol when I get a headache. That's about it. And I used to take something for heartburn, but I stopped a while ago. It wasn’t really doing anything anyway.
+DOCTOR: Alright. And any allergies to medications or anything else?
+PATIENT: Nope. No allergies that I know of. I eat pretty much anything. My mum always said I had a cast-iron stomach. Though maybe this ringing is finally proving her wrong!
+DOCTOR: Right. Let's move on. We'll need to take a quick look in your ears. And I'll listen to your heart and lungs, just to rule things out. It's standard procedure. If you could just have a seat…
+PATIENT: Okay, yeah, sure. Whatever you need. Hopefully it’s nothing too serious. This is really getting to me.
+DOCTOR: Okay. Open wide… good. Hmm. Both tympanic membranes look normal. No signs of infection or fluid. Heart sounds are regular, lungs are clear. Blood pressure is 128/82. Pulse is 76. Alright. Everything sounds okay, physically. But the ringing… constant tinnitus, with no other neurological symptoms… It's likely sensorineural hearing loss, potentially aggravated by stress.
+PATIENT: Sensorineural… what does that even mean? Is that… bad? And what can we do about it? I just want it to stop.
+DOCTOR: Sensorineural hearing loss means the problem is with the inner ear, or the nerve that sends signals to the brain. It’s… common. Sometimes it’s age-related, sometimes it’s from noise exposure, sometimes we don’t know the cause. As for stopping it… unfortunately, there’s no cure. We can try to manage it. I'm going to order a basic audiogram, just to get a baseline of your hearing levels. It'll show us exactly where the hearing loss is. Then we can discuss strategies like tinnitus retraining therapy or sound masking. In the meantime, try to minimize your exposure to loud noises and manage your stress. Honestly, sometimes just getting a handle on the divorce will make a difference.
+PATIENT: Right. Easier said than done, Doctor. I know you're probably used to people saying that, but… it’s not that simple. Look, I appreciate you explaining things, but… is there anything else? Anything at all? Even if it's just a long shot? I just… feel like I'm going crazy with this constant ringing. A long shot would be nice. And the audiogram… how long will that take?
+DOCTOR: Look, Mr. Dhanoa, I understand it’s frustrating. But realistically, we’ve ruled out anything serious. The audiogram will give us a clearer picture, and then we can discuss options. It’s a simple test, takes about half an hour. We’ll have the results in a few days. As for “long shots”… there are some experimental therapies, but they’re expensive, and the results are mixed at best. Frankly, I wouldn’t recommend them. You're not going crazy. It's just tinnitus. Focus on the basics: minimize noise, manage stress, and we'll see what the audiogram shows. Is that acceptable?
+PATIENT: Yeah. Fine. Basics, right. Noise, stress. Audiogram. Half an hour. Okay. When can I schedule the test? Just… get it over with. I just want to know what I’m dealing with.
+DOCTOR: Alright. The audiologist, Ms. Reyes, has availability tomorrow afternoon at 2:30. Does that work for you?

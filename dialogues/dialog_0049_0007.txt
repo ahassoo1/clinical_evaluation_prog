@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Reihner. I'm Dr. Nestingen. So, what brings you in today?
+PATIENT: Good morning, Doctor. My back… it is very painful. I work with fences, you see. It hurts to move. I would like to be quick, if that is alright.
+DOCTOR: Fences, alright. And how long has this back pain been bothering you?
+PATIENT: About three weeks, Doctor. It started slow, a little ache after work. Now… now it’s hard to even bend over. I have tried resting, but it does not seem to help much.
+DOCTOR: Three weeks… and resting hasn’t provided much relief. Is it a constant pain, or does it come and go?
+PATIENT: It is mostly constant, Doctor. Some days are worse than others, of course. But even when it is not sharp, it is always… there. A dull ache. It bothers my sleep some nights.
+DOCTOR: Constant, with a dull ache… and impacting your sleep. Is the pain localized to one specific area of your back, or does it radiate anywhere else – down your legs, perhaps?
+PATIENT: It is mostly in my lower back, Doctor. Sometimes I feel it a little in my hip, on the right side. But it does not go down my legs, no. Not yet, anyway. I worry it might, if I keep working like this.
+DOCTOR: “Not yet, anyway.” Right. And can you describe the pain more specifically?
+PATIENT: It is… heavy. Like someone is sitting on my back. And when I try to lift something – even something not too heavy – it feels like something is going to snap. It is not a sharp, sudden pain, usually. More like a grinding. Does that make sense?
+DOCTOR: Heavy, grinding… alright. And have you noticed anything that makes the pain better?
+PATIENT: Sitting, sometimes. Not for long, but if I can sit still for a bit, it eases up. And… hot water. A hot bath helps a little, but not for very long. It is hard to find things that help, Doctor. Really hard.
+DOCTOR: Hot water… alright. Now, let’s get a bit of your history. Do you have any other medical conditions I should be aware of?
+PATIENT: No, Doctor. Nothing that I know of. I have always been… strong. Worked hard my whole life. My husband… he passed three years ago. That is the only thing, really. Medicare is what I have for insurance.
+DOCTOR: Alright. No other medical conditions. And you mentioned your husband passing three years ago. I’m sorry for your loss. Just to be thorough, any surgeries or hospitalizations in the past?
+PATIENT: No, Doctor. Never had any surgeries. Never been in the hospital, not even when I was a child. I am a simple woman, with a simple life. I try to avoid doctors when I can, to be honest. But this… this pain is too much.
+DOCTOR: No surgeries, no hospitalizations. I understand your reluctance. Alright, and are you currently taking any medications, prescription or over-the-counter?
+PATIENT: No, Doctor. Nothing. I do not like taking pills if I can avoid it. I tried some of those pain relievers you can buy at the store, the ibuprofen… but they did not do much, and they upset my stomach. So I stopped.
+DOCTOR: Alright, no medications. And any allergies to medications, food, or anything else?
+PATIENT: No, Doctor. Not that I know of. Never had a reaction to anything. I eat everything, and I have never had a problem. I am Lakota, you see. We are strong people. But even strong people can break, I suppose.
+DOCTOR: Alright. No allergies. And finally, any family history of back problems, arthritis, or anything similar?
+PATIENT: My mother had trouble with her joints when she got older, Doctor. Not her back, exactly. Mostly her hands and knees. She said it was just “old age.” And my father… he worked hard, like me. He always had aches and pains, but he never went to the doctor either. He just kept working. It runs in the family, I think. This pain… this is just what happens when you live a long life.
+DOCTOR: Alright. Well, Ms. Reihner, given your history, and what you’ve described, it could be a simple muscle strain, aggravated by your work. However, it's been three weeks and it's not improving with rest, and the grinding sensation… I’d like to do a quick physical exam to get a better sense of what's going on. Is that alright?
+PATIENT: Yes, Doctor. That is… alright. I want to get this fixed, if that is possible. I do not want to stop working, but I cannot keep hurting like this. A quick exam… yes. Please be quick, if you would. I have fences to mend. .
+DOCTOR: Alright. If you could lie down on the table face down, please. I’ll start with palpating your lower back to check for tenderness and muscle spasms. Then we’ll check your range of motion. This won’t take long.

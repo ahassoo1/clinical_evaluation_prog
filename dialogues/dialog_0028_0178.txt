@@ -1,0 +1,26 @@
+DOCTOR: Right. Mr. Pithan, is it?
+PATIENT: Yeah, that’s me. Gerardo Pithan. Look, I got things to get back to, so if we could just… get this over with, that’d be great.
+DOCTOR: Yes, well, I understand you're busy. Though, efficient healthcare requires some detail. So, tell me – in your own words – what brings you in today?
+PATIENT: It's this cough. It just… won’t quit. Been hacking up stuff for months now, feels like. And I’m always tired. Real tired. Plus, my sinuses… always feel stuffed up, get infections a lot. It's a whole thing.
+DOCTOR: Months, you say. And "stuff"... could you be more specific?
+PATIENT: Well, you know… phlegm. Greenish, sometimes. Other times it’s clear. It just depends. And it’s always worse in the mornings. Really have to clear my throat just to get going. Sorry if that’s… gross. It just is.
+DOCTOR: Right. Greenish phlegm… indicates a possible infection, naturally. And the morning congestion… Is it accompanied by any fever, chills, or night sweats?
+PATIENT: Fever… not usually a high one. Maybe a little warm sometimes, but nothing that makes me feel like I need to stay in bed. No chills, no sweats. Just… tired. And congested. Like I'm stuffed with cotton. I don't know if that makes sense.
+DOCTOR: It's… descriptive. Have you noticed any shortness of breath, chest pain, or wheezing with this cough?
+PATIENT: No chest pain. And I wouldn’t say shortness of breath, exactly. Just… winded easier, I guess. Doing things I used to do without thinking about it. Like carrying wood, or walking up a hill. And no wheezing, not that I’ve noticed. Mostly just this… constant tickle in my throat.
+DOCTOR: And have you tried any over-the-counter medications?
+PATIENT: Yeah, some cough syrup. The stuff with… guaifenesin, I think it is? Didn’t really do much. Tried some decongestants too, but they just made me feel jittery. Didn't last long with those. Didn't want to mess with my heart.
+DOCTOR: Right. Any allergies?
+PATIENT: Not that I know of. Never been tested. Grew up on the reservation, plenty of dust and pollen, never bothered me none. Could be different now, I guess. I dunno. Honestly, I don't spend much time thinking about allergies.
+DOCTOR: And your medical history?
+PATIENT: Not much to tell ya. Had the usual childhood stuff. Nothing serious. No major surgeries. Diabetes runs in the family, but I haven’t been diagnosed. Get checked every few years, always normal so far. Other than that… pretty healthy, always been on my feet, workin’. Mostly just this cough now, wearin’ me down.
+DOCTOR: Alright. Let’s just listen to your lungs, shall we?
+PATIENT: Yeah, alright. Whatever gets this over with faster.
+DOCTOR: Hmm. Reduced breath sounds bilaterally, some scattered rhonchi… and mild wheezing on auscultation. Not terribly significant. Do you smoke, Mr. Pithan?
+PATIENT: No. Never touched a cigarette in my life. My grandfather... he smoked. Didn't end well. No, I don’t smoke. Never have.
+DOCTOR: Very well. Given your history, and the examination findings… it’s likely a chronic bronchitis, potentially exacerbated by a recent respiratory infection. It’s not uncommon, especially given your rural environment. We can do a chest X-ray to rule out anything more serious, but I suspect it’s just inflammation.
+PATIENT: X-ray… alright, if you think it’s necessary. I just want this cough gone. I got work to do. What’s the next step? Is there a pill for this?
+DOCTOR: An X-ray will give us a clearer picture. I’ll write an order for that now. As for a “pill”… there's no magic cure. We can try an inhaled corticosteroid to reduce inflammation and a bronchodilator to open your airways. I'll also prescribe a course of antibiotics, just to cover any potential secondary bacterial infection. But honestly, lifestyle modifications are important: avoid irritants, stay hydrated, and rest. I’ll write the prescriptions, and the order for the X-ray. The nurse will schedule you for that. I’d also like you to follow up in two weeks, to assess your progress.
+PATIENT: Two weeks… alright. Sounds good. Just… let me know when I can get this X-ray done. And where the nurse is. I gotta get back to work, so the quicker the better. Thank you.
+DOCTOR: The nurse is just outside, to your left. She'll handle the scheduling and answer any further questions. I trust you’ll follow the instructions. Good day, Mr. Pithan.
+PATIENT: .

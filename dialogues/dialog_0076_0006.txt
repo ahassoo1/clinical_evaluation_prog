@@ -1,0 +1,28 @@
+DOCTOR: Right. So, Ms. Weichers, what brings you in today?
+PATIENT: Oh, um… hello Doctor Ruocco. It’s… well, I’ve been coughing up some blood. Not a lot, but… enough to worry me. It happened a few times now.
+DOCTOR: Coughing up blood, you say. Hmm. And how long has this been going on?
+PATIENT: Oh… let me think. It started maybe… a week ago? It wasn't every day, just… a couple of times. And it seemed to happen more when I was… moving around, like after my walk. Does that make sense?
+DOCTOR: A week, alright. And it’s associated with exertion… moving around, you said. Anything else accompany it?
+PATIENT: Um… well, I’ve been a little more tired than usual, I think. But I thought that was just… being older. And a little bit of a… ache in my chest, but nothing bad. It's hard to explain. It’s not a sharp pain, just… uncomfortable.
+DOCTOR: Tiredness, chest discomfort… Alright. And how much blood are we talking, Ms. Weichers?
+PATIENT: Oh, it’s not… a lot, Doctor. Just… streaks in the… phlegm, I guess? Not enough to fill a cup, or anything scary like that. Maybe a teaspoon each time? It’s… hard to measure, I’m sorry. It makes me nervous to think about it.
+DOCTOR: A teaspoon, alright. Look, Ms. Weichers, I've seen plenty of cases. Nervousness doesn't help. Do you smoke?
+PATIENT: Oh, no, Doctor. Never. My husband… he smoked, but I always told him it was bad for him. I try to be very careful about my health. I walk every day, and I eat… mostly healthy foods.
+DOCTOR: Good, good. Any other medical problems?
+PATIENT: Um… well, a few years ago I had some trouble with my blood pressure, but the doctor put me on medicine and it’s been okay ever since. And… after my husband passed, I was very sad for a long time, and the doctor gave me something for that too, but I haven’t needed it in a while. I think it was… an antidepressant. Is that important?
+DOCTOR: Blood pressure medication… antidepressant… Yes, that's… relevant. What medication specifically are you taking for your blood pressure?
+PATIENT: Oh… um… let me see… I have it somewhere… Just a moment. It’s a small orange pill… I think it’s called… Lisinopril? Yes, Lisinopril. 20 milligrams, once a day.
+DOCTOR: Lisinopril, alright. And you said you’re no longer on the antidepressant?
+PATIENT: Yes, Doctor. It was… a long time ago. After a few months, I felt better and the doctor said it was okay to stop taking it. I don’t remember the name, I’m sorry. It wasn’t helping me sleep, mostly. Just… made me feel a bit… distant.
+DOCTOR: Alright. Any family history of… anything like this?
+PATIENT: Oh… that’s a good question. My mother… she had some trouble with her lungs when she was older. She coughed a lot. And… my brother, he had some kind of… cancer, but not lung cancer. I think it was… leukemia? It was a long time ago. Does that help? I’m not very good at remembering these things.
+DOCTOR: Lung trouble, leukemia… Right. Okay. Let’s have a listen to your lungs. Sit back, please.
+PATIENT: Okay, Doctor. I hope it’s not anything too bad. I get worried easily.
+DOCTOR: Take a deep breath… and exhale. Hmm. Sounds… a little congested, but nothing alarming. A few wheezes here and there. We'll need to get a chest X-ray, just to be safe. And I'll order some bloodwork, basic CBC to rule out infection. Does that sound alright?
+PATIENT: Yes, Doctor, that sounds… sensible. An X-ray and bloodwork… I understand. I just want to know what’s going on, you know? I’m a little nervous about the X-ray, I’ve never had one before. Is it… painful?
+DOCTOR: No, Ms. Weichers, it's not painful. You just stand still for a few moments. The technician will explain everything. I'll have the nurse draw the blood while you're here. Then we’ll get you scheduled for the X-ray. Let's just rule out anything serious, alright?
+PATIENT: Alright. That sounds… good. Thank you, Doctor. I appreciate you taking the time to listen to me. It’s just… worrying about something unknown is the hardest part. I hope it’s nothing too bad.
+DOCTOR: We'll find out. Nurse will be in shortly. Any allergies to medications?
+PATIENT: Oh… um… let me think. No, I don’t think so. I’ve never had a bad reaction to anything before, that I know of. But… my skin gets a little itchy sometimes, especially in the winter. Is that an allergy? It’s not… life-threatening, just… annoying.
+DOCTOR: Itchy skin, noted. Alright. That’s all for now. The nurse will handle the bloodwork and scheduling. She’ll be in shortly. I have other patients waiting, you understand.
+PATIENT: Oh… yes, of course. I understand. Thank you, Doctor Ruocco. I’ll just… wait for the nurse then. Thank you again.

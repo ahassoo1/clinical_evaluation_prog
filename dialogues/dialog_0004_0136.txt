@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I'm Dr. Deschane. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It's… well, it's my burps. I burp a lot. It's been happening for… a little while now, I guess. Not dangerous, just… annoying.
+DOCTOR: Annoying, yes. Well, “a little while” is rather vague. Can you be more specific?
+PATIENT: Hmm… maybe, like, three months? Maybe four? I don't really keep track of dates good. It started… after a party, I think. A friend had a party. Lots of food, you know? But it hasn’t stopped since.
+DOCTOR: Right. And these burps… are they frequent throughout the day, or are they more tied to specific times, like after meals?
+PATIENT: Mostly after I eat, yeah. Big meals, small meals… doesn’t really matter. Sometimes even when I’m not eating, just… poof. It’s… embarrassing, sometimes. Especially if I'm with people.
+DOCTOR: I see. And would you describe the burps as painful at all?
+PATIENT: No, not painful. Just… loud. And they make me feel… full, even when I’m not. Like there’s air stuck inside. It doesn’t hurt, though. Just… uncomfortable.
+DOCTOR: Alright. And aside from the burping and the feeling of fullness, have you noticed any other symptoms?
+PATIENT: Let me think… not really. Maybe a little… tummy trouble sometimes? Not diarrhea, not constipation… just… not right. Hard to explain. Like a little bit of gas, maybe. But I get that sometimes anyway. I don’t know if it’s connected.
+DOCTOR: Okay. And has your appetite been normal?
+PATIENT: Yeah, I eat normal. Maybe a little less than usual, because I don’t want to burp so much, but I’m still hungry when I’m hungry. I like to eat!
+DOCTOR: Alright. And any nausea or vomiting?
+PATIENT: No, no sickness. No throwing up, no feeling like I will. Just the burps. And the… fullness.
+DOCTOR: Okay. Now, let's talk a bit about your medical history. Have you been diagnosed with any medical conditions in the past?
+PATIENT: Not really. I went to the doctor a long time ago, when I was a kid, for… I don’t remember. Nothing serious. I haven't been sick enough to need a doctor much. And… I don’t have insurance, so I don't go unless I really, really have to.
+DOCTOR: I understand. Have you ever had any surgeries?
+PATIENT: No, never had surgery. Never needed one, thank goodness. I'm a little scared of hospitals, to be honest.
+DOCTOR: Alright. And what about your family?
+PATIENT: My family… hmm. My mother, she had some problems with her stomach, I think. Always complaining about it. But I don’t know what it was. And my father, he was healthy as a horse. So, not much help there.
+DOCTOR: Okay. And are you currently taking any medications, prescription or over-the-counter?
+PATIENT: No, I don't take anything. Just vitamins sometimes, but not regularly. I try to eat healthy, so I don't really need them.
+DOCTOR: Alright. And finally, do you have any allergies to medications, food, or anything else?
+PATIENT: No allergies that I know of. I eat everything. I like all kinds of food! I haven’t ever had a bad reaction to anything.
+DOCTOR: Okay. Let’s do a quick physical exam. I'm going to listen to your abdomen, just to see if anything sounds unusual. Please lie down on the examination table.
+PATIENT: Okay. That's okay. I don't mind.
+DOCTOR: Alright. I'm not hearing anything overtly concerning—normal bowel sounds, though perhaps a bit hyperactive. No tenderness to palpation. Your abdomen is soft and non-distended. I’m going to listen to your heart and lungs as well, just to be thorough. Heart sounds are regular, lungs are clear. Blood pressure is 128/82, pulse is 80. Based on what you've told me and my initial examination, it sounds like you're likely experiencing excessive gas, possibly related to something you ate at that party and then persisting. It’s not uncommon.
+PATIENT: Oh, okay. That’s… good to know it’s not something bad. So, what can I do about it? Is there a pill I can take?
+DOCTOR: There are over-the-counter medications that can help, like simethicone or activated charcoal. However, I generally don’t recommend relying on those long-term. The better approach is usually dietary modifications. I'm going to print out a list of foods that commonly cause gas—things like beans, broccoli, carbonated beverages, and artificial sweeteners. Try eliminating those from your diet one at a time to see if it makes a difference. Also, eat slowly and chew your food thoroughly. Avoid swallowing air when you eat.
+PATIENT: Okay, I can try that. No more beans… that’s sad. But I want to stop burping! So, I’ll try the food list. And eat slower… that’s good advice, I always eat too fast.
+DOCTOR: Good. If the problem persists for more than a couple of weeks despite these changes, or if you develop any other symptoms like abdominal pain, bloating, nausea, vomiting, or changes in your bowel habits, I want you to seek medical attention. It could indicate something more serious. Now, given your lack of insurance, I wouldn’t recommend any unnecessary testing at this time. But if these measures don’t work, we can discuss options for a referral to a gastroenterologist. Does that sound reasonable?
+PATIENT: Yeah, that sounds… okay. I don’t want to spend money on tests if I don’t need them. I’ll try the food thing and eat slower. And if it doesn’t get better, I’ll come back. Thank you, Doctor. You made me feel a little better.
+DOCTOR: You're welcome. I understand your concerns about cost, and we'll proceed cautiously. I'm glad I could offer some reassurance. Do you have any other questions for me today?
+PATIENT: No, I think that's everything. Just… thank you again. I really appreciate you listening. And the food list.
+DOCTOR: You're very welcome, Ms. Fogelstrom. Please don’t hesitate to contact the office if you have any concerns. Have a good day.
+PATIENT: You too, Doctor. Have a good day. .

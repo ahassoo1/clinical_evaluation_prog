@@ -1,0 +1,26 @@
+DOCTOR: Alright, Ms. Yadao, let's get this over with. Why don’t you tell me what brings you in today?
+PATIENT: Oh, hello Doctor Ruocco. Well, it's...it's my waterworks, really. I'm having trouble, you see. It's hard to...to get it all out when I need to go. It takes a long time, and sometimes it doesn't feel like it’s done, even when I think it is. It’s been going on for a little while now, maybe a month or so.
+DOCTOR: A month, you say?
+PATIENT: Yes, about a month. Maybe a little longer. It didn't start suddenly, you know? It was gradual. First it was just a little bit harder to start, then it takes longer, and now…well, now it’s a bit worrying. I don’t like straining, if you understand. I've always been regular, so this is quite unusual for me.
+DOCTOR: Straining, alright. And is there any pain during this…process?
+PATIENT: No, not really pain. It’s not sharp, or anything like that. It's more of a…discomfort. Like something is blocking it, you see? And after I finally finish, there's a little bit of a dull ache, but it goes away pretty quickly. It's mostly the effort of it all that’s bothersome.
+DOCTOR: So, no actual pain, just…effort. And is this constant, or does it come and go?
+PATIENT: It definitely comes and goes. Some days it’s better than others. Today, it’s a little worse, that’s why I came. But there are days I barely notice it, and I think, “Oh, maybe it’s getting better!” And then the next day it’s back to being difficult again. It doesn’t seem to follow a pattern, not that I’ve noticed anyway.
+DOCTOR: Alright. Have you noticed any changes in the…stream itself?
+PATIENT: Changes in the stream? Hmm…let me think. Yes, actually. It’s not as strong as it used to be, I’ve noticed that. It’s more of a…trickle, sometimes. And it starts and stops, you know? It doesn’t flow steadily like it used to. And it splatters a bit now, which it never did before. I hadn't really thought much about it until you asked, but yes, it's definitely different.
+DOCTOR: Splattering and weaker stream…right. Any fever, chills, or lower abdominal pain at all?
+PATIENT: No, no fever or chills. And no pain in my tummy, no. Everything else feels…normal. I eat well, I sleep well, I walk every day. This is the only thing that's bothering me, really. It’s just…frustrating, and a little bit embarrassing to talk about. But it’s been on my mind, so I thought I should get it checked.
+DOCTOR: Alright. And what about your past medical history?
+PATIENT: Oh, let me see. Well, I had my gallbladder out years ago, in 1987, I believe. And I broke my wrist when I was younger, but that’s healed properly. Other than that, I’ve been quite healthy, thankfully. I’ve always been a strong woman, and I rarely get sick. As for regular medications, I just take a vitamin D supplement, the doctor told me my levels were low last year.
+DOCTOR: Gallbladder, vitamin D…Any allergies to medications?
+PATIENT: No, no allergies that I know of. I've never had a reaction to anything. My mother always said I had a strong constitution, and I think she was right! I've tried a lot of different things over the years, and never had any trouble.
+DOCTOR: Okay. Let’s have a quick physical exam, alright?
+PATIENT: Yes, of course. Whatever you need me to do, Doctor. I understand.
+DOCTOR: Alright. Your abdomen is soft, no tenderness to the touch…and I don’t feel any masses. Now, I'm going to listen to your abdomen with the stethoscope. Bowel sounds are present, normal. We'll need a urinalysis to rule out infection. And, frankly, given your age and these symptoms, I think we should also do a PSA test. It's a blood test, just to be on the safe side. Are you comfortable with that?
+PATIENT: A PSA test? What does that test for, Doctor? Is it something serious? I’m happy to do whatever you think is best, but I’d like to understand what we're looking for. And is a urinalysis just a normal pee sample? I hope it doesn’t require anything…difficult.
+DOCTOR: The PSA test checks for prostate problems. You’re a woman, so that’s not relevant. Just a standard procedure to rule things out. And yes, the urinalysis is just a pee sample. I'll give you a cup. Don’t worry about it. Nurse will be in shortly to draw blood and collect the sample. Honestly, it’s probably nothing, but we have to be thorough.
+PATIENT: Oh! A prostate test…well, that is silly for a woman, isn't it? I apologize, Doctor. My mind sometimes wanders. It’s good to be thorough, you’re right. So, just a normal pee sample and a blood draw then. No problem at all. I'll wait here.
+DOCTOR: Good. Nurse will be in momentarily. I’ll review the results when they’re available. Try not to drink too much water before the sample, alright?
+PATIENT: Yes, of course. Not too much water. Thank you, Doctor. I appreciate you explaining everything. It makes me feel much better knowing what's going on.
+DOCTOR: Alright. We'll get this sorted out. I'm sure it’s nothing serious. I have other patients waiting.
+PATIENT: .

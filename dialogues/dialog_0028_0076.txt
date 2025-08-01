@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. Aluia. So, you're here today... what brought you in?
+PATIENT: Oh, hi Doc. Well, it’s these bumps on my legs. They’re on my shins, mostly. They’re red and kinda…hard. Hurt a little to touch, you know? Been bothering me for a couple weeks now.
+DOCTOR: A couple weeks, you say. Hmm. And are these…new?
+PATIENT: Yeah, pretty new. I didn't have 'em a month ago, for sure. Maybe started…around the end of June, beginning of July? It's hard to say exactly, I don’t really look at my legs that often, haha.
+DOCTOR: Right. And have you noticed anything that makes them better or worse?
+PATIENT: Well, nothing I’ve really paid attention to, to be honest. They just…are. I work a lot on my feet, moving stuff around at the warehouse, but I always have, and they never bothered me before. Maybe…standing a lot makes 'em feel a little more sore at the end of the day? But I don't know if that's just 'cause I'm old, haha.
+DOCTOR: Old or not, we need to figure out what’s going on. Do you have any other medical problems that you’re aware of?
+PATIENT: Hmm…let me think. I have a little bit of trouble with my blood sugar, the doctor told me a few years back. But I try to watch what I eat, mostly. And my knees, they act up sometimes, but that's just getting old, I guess. Otherwise, I’m pretty good for my age! I got Medicare, if that matters.
+DOCTOR: Yes, Medicare is helpful. And you said trouble with your blood sugar…are you on any medications for that?
+PATIENT: Not right now, no. The doctor said to just watch my diet and exercise. I try, I really do. Lots of walking at work, that helps, I guess! But I don't take any pills or anything for it. Just…try to be good.
+DOCTOR: Alright. Any allergies to medications or anything else?
+PATIENT: No, not that I know of. Never had a bad reaction to anything, thankfully. My wife always says I can eat anything, and I usually do, haha! No allergies, no. Just old age!
+DOCTOR: Very well. Let's take a look at these bumps. Please, have a seat on the exam table and pull your pants up enough so I can see them properly.
+PATIENT: Okay, sure. Here we go... just let me pull these pants up a bit, like you said. They're on my shins, both legs. Hopefully you can see 'em alright.
+DOCTOR: Hmm. Yes, I see them. Several erythematous papules and nodules, mostly on the anterior shins. No ulceration. Palpable but not particularly warm to the touch. Do these hurt when I press on them?
+PATIENT: Yeah, a little. Not terrible, but I can feel it, for sure. Like a…dull ache, maybe? Not sharp or anything. It's kinda just a…general soreness, you know? Like I’ve been bumped around a bit. There we go, that's a little tender.
+DOCTOR: Alright. It could be a number of things. Based on what you've told me – and a quick look – it's likely a form of dermatitis, perhaps exacerbated by…standing. Or maybe a minor vasculitis. But we need to rule things out. I'm going to order a basic blood panel – CBC, CMP, ESR, CRP – just to get a baseline.
+PATIENT: Blood panel, huh? Okay, that sounds…serious. What does that check for? I don't really understand all those letters. Is it something bad? I just want these bumps to go away, you know?
+DOCTOR: It's standard procedure, Mr. Aluia. CBC checks your blood count, CMP your electrolytes, ESR and CRP are indicators of inflammation. It doesn’t necessarily mean anything is bad. We just need to see what's going on internally. I'll have the lab draw the blood now. And I'm going to prescribe a topical steroid cream – betamethasone – to apply twice daily. See if that helps with the inflammation. If it doesn't improve in two weeks, we’ll re-evaluate.
+PATIENT: Topical cream…okay. Betamethasone. Twice a day. That sounds easy enough. And the blood test…you think it's probably just inflammation then? Like from standing too much at work? Because I really don’t want anything serious. My wife would worry to death.
+DOCTOR: It's possible. But we need to rule out other causes. Now, are you currently experiencing any fever, chills, weight loss, or joint pain?
+PATIENT: No, no fever or chills. Haven't lost any weight, thankfully! Still eating pretty good. And my knees ache sometimes, like I said, but that’s just getting old. It’s just…a general soreness, you know? Nothing new or sudden. Just these bumps. That’s all.
+DOCTOR: Alright. Well, let’s get that lab order sent. The nurse will walk you down. Apply the cream as directed, and we’ll see you back in two weeks if it doesn't improve. Any other questions?
+PATIENT: Hmm…no, I think that's it. Just gotta put the cream on twice a day and get the blood test, right? And then see you in two weeks? I hope it's just something minor. Thank you, Doc. I appreciate you looking at it.
+DOCTOR: Yes, that’s correct. Apply the cream, get the blood work, and follow up in two weeks. The nurse will provide instructions. Have a good day, Mr. Aluia. .
+PATIENT: Okay, you too, Doc. Thank you again.

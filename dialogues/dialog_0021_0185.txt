@@ -1,0 +1,21 @@
+DOCTOR: Right, well, Zelina, have a seat. So, what brings you in today?
+PATIENT: Ugh, finally. Look, it's my breath. It smells. Badly. My ex-husband… well, used to complain about it constantly. Honestly, I don't need a lecture on personal hygiene. Just fix it, okay? I haven't got all day.
+DOCTOR: <stage>I raise an eyebrow slightly, making a note on the digital chart. A bit… blunt, isn’t she?
+PATIENT: Okay. And how long has this been going on? Is it all the time, or does it happen at certain times of the day? Anything you've noticed that makes it worse?
+DOCTOR: It’s… helpful to have some details, you know. “Smells bad” isn’t a diagnosis. When did you first notice it?
+PATIENT: Honestly? Probably… a few months after the divorce. Maybe six? Look, I’m not a scientist, I don’t keep track of these things. It's just been getting worse. And it's always there, okay? Morning, noon, night. It doesn't matter. I brush, I floss… what more do you want me to say? It’s embarrassing.
+DOCTOR: Alright. And have you noticed any other symptoms?
+PATIENT: Other symptoms? Like what? A fever? No. I don’t get sick often. My mouth doesn't hurt, if that’s what you mean. It just… smells. Is this going to take long? I have things to do.
+DOCTOR: Okay. Just trying to get a complete picture. Any change in your taste?
+PATIENT: Taste? No. Everything tastes… normal, I guess. Look, I eat what I eat. Pierogi, mostly. Sometimes sausage. What does that have to do with my breath? This is ridiculous. Are you a dentist or some kind of food critic?
+DOCTOR: Alright. Let’s have a quick look in your mouth. Just open wide, please. I'm going to need to take a look at your tongue and gums.
+PATIENT: Just get it over with. Honestly. I don't like people poking around in there.
+DOCTOR: Hmm. Your gums are a little red, and your tongue has a coating. Have you been drinking enough water?
+PATIENT: Water? Yeah, I drink water. Enough, I think. I mean, I don't go out of my way or anything. It’s not like I’m dehydrated. I drink with my meals. Does it really matter how much water I drink? This is getting silly.
+DOCTOR: It can. And it's important to rule things out. Have you ever had any problems with… cavities?
+PATIENT: Cavities? Not really. I had one when I was a kid, I think. My mom took me to the dentist then. But not as an adult. I don't go to the dentist regularly. Too expensive, and honestly, what’s the point? I brush, don’t I? It’s not like I eat candy all day. Well, sometimes I have a little chocolate with my coffee, but that's it.
+DOCTOR: Right. And what about your overall health?
+PATIENT: Overall health? Fine. I work. I sleep. I eat. What do you want me to say? I'm not sick or anything. I don't take any medication. Never have. I'm pretty healthy, for someone my age. Look, can you just give me something for it? A mouthwash or something? I really need to go.
+DOCTOR: Okay, Zelina. Look, I understand you’re busy. But “something for it” isn’t a treatment plan. The fact you don’t see a dentist, don’t take regular care of your teeth, and frankly, don't seem particularly concerned about your overall oral hygiene… is a problem. Bad breath, or halitosis, can be caused by a lot of things, but in your case, I suspect it's due to bacteria buildup.
+PATIENT: Bacteria? So you're saying it's my fault? I do brush! Look, I don't need a lecture. Just fix it, okay? Is there a pill for this? Or a spray? I don't have time for appointments and fancy cleaning and… all of that. Just tell me what I need to take. And how much it costs. .
+DOCTOR: There is no “pill” for bad breath, Zelina. And it’s not about blaming you, it’s about addressing the cause. The only way to truly fix this is with regular professional dental cleanings and a consistent oral hygiene routine – brushing properly twice a day, flossing daily, and potentially a prescription mouthwash. I can recommend a dentist in the area, but without addressing the underlying issue, anything I give you will only be a temporary fix. Given your insurance status, I can also point you toward some low-cost dental clinics. It's going to take work, yes, but refusing treatment won't make it go away. Do you understand?

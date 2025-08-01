@@ -1,0 +1,28 @@
+DOCTOR: Right. Sasha Queener, 59. So, what brings you in today?
+PATIENT: Oh, hello Doctor. It's… well, my leg. It’s been swelling up. After the… the treatments. For the cancer. It’s mostly my right leg, and it's getting harder to walk sometimes. It just feels… puffy, you know?
+DOCTOR: Cancer treatments, you say?
+PATIENT: Yes. A few years ago now. They said it was… lymphoma, I think? It was a long time ago, and honestly, I forget a lot of the details. They did… chemo, and radiation. It was at the big hospital downtown. Does that… help?
+DOCTOR: Vaguely. A lot of patients have had chemo and radiation. Right. And this swelling… when did you first notice it?
+PATIENT: Hmm… that’s a good question. It started… not right away, no. Maybe six months after I finished everything? It was just a little bit at first, I didn’t think much of it. I thought it was just… from sitting too long. But it's gotten worse, slowly.
+DOCTOR: And is it constant swelling, or does it come and go?
+PATIENT: It’s… mostly constant. Some days are better than others, but it’s always a little bit puffy. If I sit for too long, it gets really bad. And… at the end of the day, it’s the worst. It feels heavy, you know? Like it weighs a ton.
+DOCTOR: Alright. And any pain associated with the swelling?
+PATIENT: Not really pain, no. More… uncomfortable. Like a really bad ache. And it’s kind of… tight. Like my skin is too small for my leg. It doesn’t hurt to touch, just… feels wrong.
+DOCTOR: Any discoloration?
+PATIENT: Discoloration? You mean… color change? Hmm… I haven’t really noticed. Maybe a little bit red sometimes? But I’m not sure if that’s just my skin. I… I don't really look at my leg that closely, if that makes sense.
+DOCTOR: Alright. Let's have a look. Please, lie down on the table. I need to examine your leg.
+PATIENT: Oh, okay. Yes, alright. It’s a bit high, isn’t it? But I’ll manage. Just let me… get situated.
+DOCTOR: Okay. There is some pitting edema present. And your skin feels warm to the touch. Any recent injuries to the leg?
+PATIENT: Pitting… edema? Is that… bad? No, no injuries. I haven’t fallen or anything. I try to be careful. I… I don’t really remember bumping it, no. Just the swelling, like I said.
+DOCTOR: Pulses are present, but diminished. It's likely post-lymphatic edema, a common side effect of cancer treatment. We'll need to rule out other causes. Have you had any shortness of breath, chest pain, or dizziness recently?
+PATIENT: Oh, that sounds… complicated. Post-lymphatic… No, no shortness of breath. My chest feels fine. And no dizziness either, thankfully. I get a little tired sometimes, but that’s just… getting old, I think.
+DOCTOR: Alright. We'll need to order some blood work to check your kidney function and rule out any blood clots. And I’m going to recommend a Doppler ultrasound to assess the blood flow in your leg. I'll have the nurse draw the blood now, and schedule the ultrasound for tomorrow.
+PATIENT: Oh. Okay. That sounds like… a lot. Blood work and an… ultrasound. Is that… expensive? I’m on Medicare, and I don’t want to be surprised by a big bill.
+DOCTOR: Medicare should cover the majority of it. But I can’t give you a precise cost estimate. The billing department handles those details. The nurse will explain everything. Now, are you currently taking any medications?
+PATIENT: Oh, good. That’s a relief. Just… a little pill for my blood pressure. And sometimes, ibuprofen for my aches. But not every day. Mostly just when I need it.
+DOCTOR: And any allergies to medications?
+PATIENT: No, no allergies that I know of. I’ve never had a reaction to anything. Lucky, I guess.
+DOCTOR: Alright. The nurse will be in shortly to draw your blood and give you instructions for the ultrasound. We'll review the results next week. If the swelling worsens significantly, or you experience any pain, shortness of breath, or chest pain, go to the emergency room immediately. Do you understand?
+PATIENT: Yes, I understand. Blood work, ultrasound, and… emergency room if it gets worse. It’s a lot to remember, but I’ll try. Thank you, Doctor.
+DOCTOR: Good. The nurse will provide you with written instructions as well. Next patient. .
+PATIENT: Oh. Alright. Thank you again, Doctor. .

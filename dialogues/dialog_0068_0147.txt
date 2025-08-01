@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Mr. Raghunathan. I’m Dr. Sham. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, I’ve noticed a… a lump, I guess you’d call it, in my lower abdomen. It’s been there for a few weeks now, and I thought it was best to get it checked out.
+DOCTOR: A lump, alright. And how long exactly have you noticed this lump?
+PATIENT: Hmm, let me think… maybe four or five weeks, perhaps? It started small, and I didn’t really pay it much attention at first. It’s grown a little since then, though, and that’s why I decided to come in. It doesn’t hurt, not really, just… feels there.
+DOCTOR: Alright. And where exactly in your lower abdomen are we talking?
+PATIENT: If you don’t mind me asking, could you be a little more specific? I’m not very good with anatomical terms, I'm afraid. It’s kind of… down there, to the right of my belly button, maybe an inch or two. It’s hard to explain precisely.
+DOCTOR: No problem at all, Mr. Raghunathan. That helps. So, right lower quadrant. Has anything changed recently that you can think of?
+PATIENT: Changed? Not that I can think of, no. My routine’s been pretty normal. Work’s the same – choreography, teaching classes… same schedule. Diet hasn't altered much either. We eat fairly healthy at home, mostly. Nothing out of the ordinary, really.
+DOCTOR: Alright. And have you experienced any other symptoms alongside this lump?
+PATIENT: No, not really. No pain, like I said, and no… changes in my bathroom habits, if you don't mind me saying. No fever, no weight loss… honestly, it’s just there. That’s why it’s a bit worrying, you know? It’s not causing any trouble, but I’d rather be safe than sorry.
+DOCTOR: Understandable. Let's do a quick physical exam, if you’re comfortable with that. I just want to get a better feel for things. I'll need to examine your abdomen.
+PATIENT: Yes, of course, Doctor. That sounds perfectly fine. Please, go ahead. I trust your judgment. Just let me know if anything feels uncomfortable.
+DOCTOR: Alright. I’m going to press gently here. Tell me if you feel any tenderness. Hmm… okay. I do feel a mass here. It’s firm, but doesn’t seem to cause you any pain when I press?
+PATIENT: No, Doctor, not at all. It doesn’t hurt when you press on it. It just… feels solid. It’s not soft or anything. I haven't noticed it getting bigger very quickly, but it's definitely there. Is that… is that a bad sign? I apologize for asking so many questions, I'm just a little anxious.
+DOCTOR: No problem at all, Mr. Raghunathan, questions are good. Bowel sounds are normal. The mass is approximately two centimeters. It's not freely movable, which is something we'll need to investigate further. It doesn’t feel acutely concerning, but it’s not something we can ignore. I want to order some blood work and a CT scan of your abdomen to get a clearer picture. Does that sound alright?
+PATIENT: Yes, that sounds sensible, Doctor. Blood work and a CT scan… alright. Whatever you think is best. I appreciate you taking the time to examine me and not dismissing it. When would I be able to schedule those? And is there anything I should be doing in the meantime? Any restrictions on my activity?
+DOCTOR: Alright, I’ll get the orders sent to the lab and imaging center now. The lab can usually see you within 24-48 hours. The imaging center… let me see… they have an opening on August 5th. Would that work?
+PATIENT: August 5th should be fine, yes. That gives me a few days. And no, I don’t think it’s impacting my daily routine at all. So, no restrictions needed, correct? Just wait for the results?
+DOCTOR: Correct. No restrictions at this time. However, if you experience any changes – like increased pain, fever, nausea, vomiting, or any changes in your bowel habits – please contact the clinic immediately, or go to the nearest emergency room. We'll review the results together once they're available on August 5th, and discuss the next steps. Does that sound acceptable?
+PATIENT: Yes, that sounds very acceptable, Doctor. I will definitely contact you if anything changes. Thank you for explaining everything so clearly. I feel a lot more at ease now, knowing what to expect. I appreciate your time and attention.
+DOCTOR: You’re very welcome, Mr. Raghunathan. We'll get to the bottom of this. I’ll have the nurse give you the lab and imaging orders, and schedule a follow-up appointment for after the results are in. Do you have any other questions for me today?
+PATIENT: No, Doctor, I think that covers everything. Thank you again for your thoroughness and kindness. I’ll see you on August 5th then.
+DOCTOR: Alright. You have a good day, Mr. Raghunathan. And please don't hesitate to call if anything changes before your appointment.
+PATIENT: .

@@ -1,0 +1,23 @@
+DOCTOR: Right. Hedy Cantorán, 57. So, what brings you in today?
+PATIENT: Ugh, finally. Look, I don't have all day. Just… tired. Real tired. And I been… eating dirt. Not like on purpose, you know? Just… gotta have it sometimes. Feels… right. Don't ask me why. It’s stupid.
+DOCTOR: Eating dirt?
+PATIENT: Yes, dirt! Clay, mostly. Red clay, if I can get it. Look, are you writing this all down? Because it's embarrassing. And honestly, probably nothing. Just a phase. My husband… well, he didn’t mind. He thought it was… a quirk.
+DOCTOR: A quirk. Right. And how long have you been having this… quirk?
+PATIENT: Oh, goodness. A long time. Years, probably. Since… well, since he passed. It comes and goes. Worse lately, though. Everything is worse lately. Honestly, I just want to not feel so… drained. Is that what you want to know?
+DOCTOR: Drained… and the dirt eating is… new, or worsening, coinciding with this feeling?
+PATIENT: Coinciding? Is that… a fancy word for happening at the same time? Yes! It’s worse when I'm tired. Like… I need it when I feel weak. Don’t know why. And frankly, I don't care to spend all day figuring it out. Just tell me if I’m dying or something.
+DOCTOR: Dying is… unlikely. But eating dirt is… unusual. Do you have any other symptoms?
+PATIENT: Symptoms? What do you mean? I’m tired. I eat dirt. Isn’t that enough? Oh… my stomach's been a bit… off. Not like sick, just… unsettled. And my hands… ache sometimes. But I’m old. Old people ache.
+DOCTOR: Unsettled stomach and aching hands... Have you noticed any changes in your bowel movements?
+PATIENT: Bowel… what now? Look, are you a real doctor? You askin’ me about… that? I’m not discussing my… business. It's normal. Everyone goes to the bathroom.
+DOCTOR: Alright. Let’s skip that for now. Any recent weight changes?
+PATIENT: Weight? Ugh. Probably lost some. Haven’t been eating much. Not hungry when I'm tired. And honestly, when I do eat, it’s… not always the healthiest. Sometimes a craving hits, and it’s not an apple, you know?
+DOCTOR: Alright. Let's do a quick physical exam. I need to listen to your heart and lungs, and I'll feel your abdomen. It will just take a moment.
+PATIENT: Fine. Just get it over with. But don’t poke too hard, okay? My stomach's already upset. And I have places to be.
+DOCTOR: Okay. Heart sounds are… regular, though a little fast. Lungs are clear. Abdomen… soft, but slightly tender in the lower quadrants. No obvious masses. Blood pressure is a bit low. I’m going to order some bloodwork. Complete blood count, electrolytes, iron studies, and a basic metabolic panel. Just to rule things out.
+PATIENT: Rule things out? What things? Look, if it's nothing serious, I don't want a million tests. I just want some energy. Is there a pill for that? A simple pill?
+DOCTOR: There isn't a "simple pill" for fatigue, unfortunately. The bloodwork will help us determine if there's an underlying cause—like iron deficiency, which can cause both fatigue and unusual cravings. We need to rule out anything serious before we consider other options. It's standard procedure. I'll also order a stool sample, just to be thorough. We can discuss a referral to a gastroenterologist if the stool sample is concerning.
+PATIENT: A what now? Listen, I’m not giving anyone a… sample. Absolutely not. This is ridiculous. I came here for a simple problem, and now you want my… everything? No. Just… no. I'm leaving. I'll just… try to get more sleep.
+DOCTOR: Fine. But I strongly advise you reconsider the stool sample. It’s important. However, I understand your reluctance. Here’s a referral to a therapist. Sometimes fatigue and unusual cravings can be related to emotional distress. If you change your mind about the tests, call the office. And please, try to eat a balanced diet. Goodbye.
+PATIENT: .
+DOCTOR: .

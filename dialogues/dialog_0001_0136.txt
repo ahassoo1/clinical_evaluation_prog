@@ -1,0 +1,21 @@
+DOCTOR: Alright, Ms. Fogelstrom, have a seat. Look, I'm a busy man, so let's get straight to it. What brings you in today?
+PATIENT: Oh, hello Doctor. Um… it’s my… burps. I burp a lot. It’s… embarrassing, really. It started, I think, maybe a week ago? It just… keeps happening.
+DOCTOR: Burps. Right. A week, you say?
+PATIENT: Yes. Maybe a little longer, now that I think about it. Not all day, but… after I eat, mostly. And sometimes even when I’m not eating. It doesn't hurt, it just… happens. Loudly.
+DOCTOR: Loudly. Well, everyone burps, Ms. Fogelstrom. It’s a natural function. But persistent burping... Is it after every meal?
+PATIENT: Not every meal, no. Like… if I have a big plate, yeah. Or something… fizzy. But sometimes it happens even if I just eat something small. Like an apple. It's… strange. And it feels… different sometimes. Like, sometimes it's just air, and sometimes it feels… gassy? I don’t know if that makes sense.
+DOCTOR: Gassy. Okay. And what exactly have you been eating lately?
+PATIENT: Oh… um. Let me think. Yesterday… I had chicken and rice for lunch. And… a banana. For breakfast, I had toast with… a little bit of jam. Dinner… hmm. Spaghetti with… meat sauce. I cook at home, mostly. Nothing too fancy. I like simple food. I don’t eat a lot of… fast food.
+DOCTOR: Alright. And any… changes in your bowel habits?
+PATIENT: Oh! Um… well, no. Not really. Everything is… normal. I mean, regular. Sorry, is that… too much information? I don't usually talk about this with doctors.
+DOCTOR: It's fine, it's fine. We need to get a complete picture. Any nausea, vomiting, abdominal pain… anything else accompanying these… burps?
+PATIENT: No, no pain. And I haven't thrown up. Not sick to my stomach either. Just… the burps. It’s mostly just… annoying, really. And embarrassing. I was hoping maybe it was something I was eating?
+DOCTOR: Look, it's probably just… gas. You know, something you ate didn't agree with you. Try avoiding carbonated drinks, maybe eat smaller meals. We can check your abdomen, I suppose. Lie down on the table.
+PATIENT: Okay. That sounds… good. Avoiding fizzy drinks, right. I can do that. So… you want me to just… lie down on the table? Like a normal check-up?
+DOCTOR: Yes, exactly. Just lie flat, Ms. Fogelstrom. I'm going to listen to your abdomen. Don’t worry, it won't take long.
+PATIENT: Okay. I… am ready, Doctor. Just let me know if I need to do anything.
+DOCTOR: Hmm. Sounds… normal. No tenderness. Bloated, perhaps, but… nothing alarming. I’m not finding anything significant. Probably just indigestion. Take an antacid. And try to relax, Ms. Fogelstrom. Stress can cause digestive issues, you know.
+PATIENT: Oh. Okay. Antacid… I can get that at the… store? So… it’s not anything serious? I was worried it was something… bad. And… relax? That’s… easier said than done, Doctor. But I will try.
+DOCTOR: Yes, you can get it at the store. Over-the-counter. And no, it doesn't sound serious. I'm not concerned. If it persists for more than a week, or gets worse, then come back. But honestly, I think it's just gas. Now, is there anything else?
+PATIENT: No, I think that’s… everything. Thank you, Doctor. I appreciate you listening to me, even if it was just about burps. I'll get the antacid. And try to relax.
+DOCTOR: Right. Get well. Next! .

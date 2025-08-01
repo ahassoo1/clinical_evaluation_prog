@@ -1,0 +1,18 @@
+DOCTOR: Right. Mr. Reyno, is it?
+PATIENT: Yeah, that's me. Devin Reyno. Look, I got things to get back to, so… what do you need to know?
+DOCTOR: Well, that’s… direct. Alright. Let’s just get straight to it then. What brings you in today?
+PATIENT: It's… a cough. Been coughin' for a bit now. And… there's blood. Not a lot, but… in the stuff I cough up. Mucus, I guess. It's… red. I smoke, if that matters. Been smokin' a long time.
+DOCTOR: Smoking, naturally. Look, a cough with some… discoloration is hardly a crisis. How long has this been going on, exactly?
+PATIENT: Uh… a while. I dunno. A few weeks, maybe? Hard to say. I don't really… keep track of that kinda thing. It started small, just a little bit, and then… more. Not gettin' worse fast, I don't think. Just… there.
+DOCTOR: “A while.” Right. And is this cough…productive?
+PATIENT: Productive? You mean… do I cough stuff up? Yeah. Like I said, mucus. Sometimes it's clear, sometimes… not. Look, I don’t know all the fancy words. It's a cough. I cough. Sometimes there's red in it. Is this gonna take long?
+DOCTOR: Fine, fine. Any fever?
+PATIENT: Fever… hmm. I don't think so. I haven't taken my temperature or anything. I just… feel kinda tired, sometimes. But I always feel tired. It's hot out, you know? Could just be the heat.
+DOCTOR: Alright. Any shortness of breath?
+PATIENT: Shortness of breath… not really. I get winded sometimes, but I’m… not a young man anymore. Workin’ out on the lines all day does a number on ya. I haven't noticed any more trouble breathin' than usual, if that makes sense.
+DOCTOR: Alright, let's just have a quick listen to your chest. Don’t bother telling me your life story, just breathe normally.
+PATIENT: Okay, okay. Just listen. I'm not good with… this kinda thing. Makes me nervous.
+DOCTOR: Alright. Not particularly… remarkable. Sounds a bit congested, naturally. We'll need a chest X-ray to rule things out, just to be safe. And, frankly, you really should consider quitting smoking. It’s the most likely culprit here. I'm writing the order now. The radiology department is down the hall, third door on the left. They'll get you in as soon as possible. Don’t lose this.
+PATIENT: X-ray, huh? Sounds… serious. Look, I appreciate it. But quitting… that’s easier said than done. I’ve been tryin’ for years. Fine. X-ray. Third door. Is that all? Can I go now?
+DOCTOR: Yes, go. And seriously, think about a referral to a pulmonologist if the X-ray shows anything concerning. Here’s a pamphlet on smoking cessation. Don't say I didn’t warn you. Next patient! .
+PATIENT: Right. Okay. Thanks. Pulmonologist… great. .

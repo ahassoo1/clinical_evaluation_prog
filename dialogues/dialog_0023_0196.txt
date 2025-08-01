@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Ms. Licano. I'm Dr. Versace. So, what brings you in to see me today?
+PATIENT: Oh, good morning, Doctor. It’s… well, it’s this tiredness. Just… always tired. It’s been going on for… a while now, I think. Honestly, the days all sort of blend together these days. I just feel… worn out.
+DOCTOR: "A while now," you say. Can you be a bit more specific?
+PATIENT: Specific… oh dear. Let me think. It’s… after my husband passed, I think it really started. That was… two years ago? Maybe three? Time… it just slips away, you know? I don’t remember exactly when I started feeling this way, just that it got worse after… everything.
+DOCTOR: So, approximately two to three years, coinciding with the loss of your husband. And has this tiredness been constant since then, or does it come and go?
+PATIENT: Pretty constant, I’d say. Some days are… worse than others, definitely. But it’s always there. Like a weight. I don’t really have… good days, anymore. Just… less bad days.
+DOCTOR: And aside from the tiredness, are you experiencing any other symptoms?
+PATIENT: Hmm… let me think. Oh! My joints ache sometimes. Especially my knees and… my hands. And I feel… sort of foggy-headed? Like I can't quite concentrate. I forget things easily, too. But that could just be… well, you know. Getting older.
+DOCTOR: Foggy-headed, joint aches, and forgetfulness. And how would you rate the severity of these symptoms on a scale of one to ten, one being barely noticeable and ten being unbearable?
+PATIENT: Oh, goodness. A scale… That’s… hard. The tiredness is… maybe a seven? The aches, probably a five, on a good day. And the… fog, I don't know. Maybe a four? It’s just… annoying, mostly. It doesn't really stop me from doing things, just makes them… harder.
+DOCTOR: Alright. And are there any activities that make the tiredness worse?
+PATIENT: Oh, everything makes it worse, honestly. But… standing for a long time at work, definitely. I'm a pharmacy tech, so I'm on my feet a lot. And… gardening. I used to love gardening. But now… it just wipes me out. Even just a little bit.
+DOCTOR: Pharmacy tech, on your feet for extended periods. And do you notice any other triggers, perhaps related to stress or time of day?
+PATIENT: Stress… yes, definitely stress. When it’s busy at the pharmacy, with lots of people… it just makes everything worse. And… evenings. I feel the most tired in the evenings. I just want to sit down and… be still. It's hard to even… watch TV, sometimes.
+DOCTOR: Alright. Now, let's talk about your medical history. Have you been diagnosed with any chronic conditions – diabetes, high blood pressure, thyroid problems, anything like that?
+PATIENT: Oh… let me think. The doctor… he checked my thyroid a few years ago, said it was fine. I have… high cholesterol, I think? I take a pill for it. And… that’s about it, really. Nothing major. Just… old age creeping in, I suppose.
+DOCTOR: You mentioned high cholesterol. What is the name of the medication you are taking for that?
+PATIENT: Oh, dear. Now you’re asking things I don’t remember! Let me see… it’s a little white pill… I pick it up every month… I really couldn’t tell you the name. I just know it starts with a “S”, I think.
+DOCTOR: A small white pill starting with an “S”. We'll need to verify that. Do you have a list of your medications, or perhaps remember the pharmacy you use?
+PATIENT: Oh! Yes, the pharmacy! It’s… Miller’s Pharmacy, down on Oak Street. They’ve always been good to me. They know me well. They could probably tell me what I’m taking.
+DOCTOR: Excellent. We'll get that information verified. Now, any allergies to medications, food, or anything else?
+PATIENT: No, not that I know of. Never had a problem with allergies. I can eat anything, take anything… well, mostly. I just… don’t like licorice. Does that count?
+DOCTOR: No, licorice does not count. Now, let’s move on to your family history. Are there any significant medical conditions that run in your family – heart disease, cancer, diabetes, thyroid problems, anything like that?
+PATIENT: Oh dear. Family history… That’s… hard to remember. My mother had… something with her heart, I think? She passed away a long time ago. My father… he was healthy, I think. Just… old age, eventually. I don’t really know much about my grandparents… they passed away when I was very young.
+DOCTOR: Alright. And finally, let’s briefly discuss your social history. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh, goodness no! Never smoked a day in my life. And I maybe have a glass of wine with dinner once a month, if that. And… definitely no recreational drugs. Never been interested. I just want to get my energy back, that’s all.
+DOCTOR: Very well. Let’s take a look. Blood pressure is… 138 over 82. Pulse is 76. A little elevated, but not alarming. Let me listen to your heart and lungs… Breathing is clear, heart sounds are regular. Now, I'm going to check your thyroid… Thyroid feels normal. Some tenderness in your knees... and your hands... I'll need to order some bloodwork to rule out any underlying causes for your fatigue, and to get a better handle on your cholesterol levels.
+PATIENT: Oh… alright. Bloodwork… that sounds… alright. As long as it doesn’t take too long. I just want to know what’s wrong, you know? I really just want to feel like myself again.
+DOCTOR: We will get the results back as quickly as possible. I'm ordering a complete blood count, a comprehensive metabolic panel, a thyroid panel, and a lipid panel. We'll also check your Vitamin D levels, as deficiency can cause fatigue. In the meantime, try to get as much rest as you can, stay hydrated, and eat a balanced diet. Come back in one week to discuss the results. Does that sound acceptable?
+PATIENT: Yes, that sounds… alright. One week. I can do that. Thank you, Doctor. I appreciate you looking into this. I really just want to feel better, you know?
+DOCTOR: Very well. The lab results will be sent directly to my office. The nurse will schedule a follow-up appointment for you before you leave. If anything changes significantly before your appointment, please contact the office immediately. I'll see you in one week. .
+PATIENT: Alright. Thank you again, Doctor. I will. .

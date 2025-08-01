@@ -1,0 +1,20 @@
+DOCTOR: Alright, Mr. Osumi, let's get this over with. So, what brings you in today?
+PATIENT: Well, Doctor Pehrson, thank you for seeing me. It’s… about my weight, sir. I’ve been hoping to find something to help me lose a few pounds. It’s become… harder as I’ve gotten older, you see.
+DOCTOR: Right. Weight. Look, a lot of people come in with that. How long have you been… noticing this weight gain, exactly?
+PATIENT: Oh, goodness… it’s been gradual, Doctor. Probably… five, maybe seven years now? It wasn’t so bad at first, just a few extra pounds. But lately… it feels like it’s getting away from me. It’s difficult to say exactly, sir. It’s not like there was a single day I noticed it, you understand?
+DOCTOR: Okay, okay. Gradual. Right. And what have you done about it?
+PATIENT: Well, I try to walk, you see. Not every day, I admit. And I used to help my wife in the garden, but… she passed a couple years back now. Didn’t have much appetite after that, but I’ve been trying to eat a bit better lately. Smaller portions, mostly. It’s… hard to motivate myself, though, Doctor.
+DOCTOR: Okay. So, walking, used to garden, wife passed… Look, grief can definitely affect appetite. But we need to get to the point. Are you having any other symptoms?
+PATIENT: Symptoms, sir? You mean… besides feeling tired easily? And… a little achy in my joints sometimes? Nothing serious, I wouldn’t think. Mostly just… the weight, and feeling sluggish. Is that what you mean, sir? I’m not sure I understand.
+DOCTOR: Look, are you short of breath?
+PATIENT: Well… not really, sir. Not unless I’m really pushing myself, like climbing the stairs. But I don’t do that much anymore, if I’m honest. I mostly… take it easy. No, I wouldn’t say I’m short of breath, Doctor.
+DOCTOR: Alright. And any swelling in your ankles or feet?
+PATIENT: Now that you mention it… yes, a little. Especially at the end of the day. I thought it was just from sitting too long, to be honest, Doctor. My wife used to rub them for me, but… well.
+DOCTOR: Okay. Let's take a look at your vitals. And then we’ll do a quick physical exam. Don't worry, it won't take long.
+PATIENT: Alright, Doctor. That sounds… good. Whatever you think is best. I just… I’m hoping there’s something that can help me feel a bit better. I used to be so active, you see.
+DOCTOR: Alright, step on up. And then we’ll check your blood pressure. 80 kilograms. Blood pressure is… 140 over 90. Not great. Now, let’s listen to your heart and lungs. And I'll feel your abdomen. Lungs are clear. Heart sounds… normal. Abdomen is soft.
+PATIENT: Alright, Doctor. Is… is that bad? The blood pressure, I mean. I don't pretend to understand all of it.
+DOCTOR: Look, it’s elevated. Could be a lot of things. Stress, diet, weight… It's not immediately an emergency, but it needs to be managed. Honestly, Mr. Osumi, you need to lose weight and exercise more. I’m going to recommend a low-sodium, low-fat diet and at least 30 minutes of walking a day. I'm also going to prescribe a mild diuretic to help with the swelling and blood pressure. Take it as directed. Come back in a month for a follow-up. Next!
+PATIENT: Oh… alright, Doctor. A diuretic… I see. And… walking, diet… yes, I understand. It's just… difficult, sir. It's difficult to start, you see. Thank you, Doctor. Is… is there anything else I should know about this medication?
+DOCTOR: It'll make you pee more. Stay hydrated. Don't take it before bed. And if you experience any dizziness or weakness, stop taking it and call the office. Any other questions?
+PATIENT: No, sir. I… I don’t think so. Thank you, Doctor Pehrson. I appreciate your time. .

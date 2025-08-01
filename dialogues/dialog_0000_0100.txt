@@ -1,0 +1,21 @@
+DOCTOR: Alright, Lytisha Hughston. 51 years old. So, what brings you in to see me today?
+PATIENT: Oh, hello. Um… well, it’s about a test, I think. A drug test. They… someone said I needed one. Honestly, things are a bit fuzzy these days, you know? It was something to do with work, I believe.
+DOCTOR: “Fuzzy,” you say. Right. Well, that’s not terribly helpful, is it?
+PATIENT: No, it isn’t, is it? I really don't remember why I need it, or who exactly said so. I operate… big machines, you see. Paving equipment. Lots of dust and noise… probably scrambled my brain a bit. It’s just… routine, I suppose? If it has to be done, it has to be done.
+DOCTOR: Let’s try to be a little more precise, shall we?
+PATIENT: Oh, goodness. Precise… right. Was it… was it the new site manager? A Mr. Henderson, maybe? He started a few weeks back… a bit stern, if I recall correctly. He was asking about paperwork, and health things… could be him. I just… I don’t pay much attention to those things, honestly.
+DOCTOR: Alright, let's see… Henderson, new site manager… Yes, there’s a note here regarding a return-to-work drug screening following a minor incident report on July 18th. You tripped over some cabling, correct?
+PATIENT: Oh! Yes, that’s right! The cabling… I tripped, yes. Didn’t hurt myself, thankfully. Just a bit shaken up. So that's what this is about? A test because of a silly little trip? See, I knew there was a reason! My memory just isn't what it used to be.
+DOCTOR: A "silly little trip" can have repercussions, Ms. Hughston. Safety protocols, you understand. Now, let’s get this test done. Do you have any medical conditions I should be aware of that might affect the results, or any medications you’re currently taking?
+PATIENT: Oh, goodness. Medications… Let me see… I take something for my blood pressure, I think. A small white pill, every morning. And… sometimes, if my arthritis flares up, I take ibuprofen. That’s it, I believe. Nothing else regularly. I used to take something for… anxiety, years ago, but I stopped that a long time ago. Doctor said it was fine to stop.
+DOCTOR: Right. And what is the name of the medication you take for your blood pressure?
+PATIENT: Oh dear. Now that's a tricky one. It's… small and white, like I said. The bottle is blue. I think… it starts with an ‘A’? Or maybe a ‘B’? I really can’t recall the full name. My daughter usually refills it for me. She knows all these things. I’m sorry, I’m being terribly unhelpful, aren’t I?
+DOCTOR: Ms. Hughston, it is rather difficult to provide appropriate medical care when I do not know what medications you are taking. Do you understand?
+PATIENT: Oh, I do, I do! I’m so sorry. I truly am. It’s just… everything is a bit of a blur these days. Let me see… Wait… here! Lisinopril. That’s it! Lisinopril. See? I knew it was somewhere in here. And I do apologize for the confusion. Really.
+DOCTOR: Lisinopril. Very well. And you mentioned ibuprofen, as needed for arthritis. Any other pain relievers?
+PATIENT: No, just the ibuprofen. Sometimes a bit of heat, a warm bath, that’s all. I don't really like taking pills unless I absolutely have to. Too many side effects, you know? My mother always said so. I try to just… manage. Walk a bit, keep moving. That helps. Is that okay? Will the ibuprofen affect the test?
+DOCTOR: Ibuprofen should not interfere with a standard urine drug screen, but we will document its use. Now, let's proceed with the collection. Do you have any difficulty providing a sample?
+PATIENT: No, no difficulty at all. I drink plenty of water. More than I probably should, actually! I’m ready when you are. Just tell me where to go, and I'll do my best. Hopefully, it'll be quick and easy.
+DOCTOR: The restroom is just down the hall, the one marked "Private." There’s a collection kit inside. Follow the instructions carefully. Once you have the sample, bring it directly to the lab technician, Mrs. Petrov, at window three. Do you understand?
+PATIENT: Yes, perfectly. Down the hall, private restroom, collection kit, window three, Mrs. Petrov. I think I can manage that. Thank you for your patience, Doctor. And for… helping me remember things. I’ll be right back.
+DOCTOR: Honestly. Some people… .

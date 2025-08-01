@@ -1,0 +1,19 @@
+DOCTOR: Good morning, Mr. Pavlovic. I’m Dr. Alzoubi. It's nice to meet you. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. It's… nice to meet you too, I think. Just this cough, really. Been… a while now. A dry cough. Seems to stick around no matter what. I don’t really… remember when it started, to be honest. It just is.
+DOCTOR: Okay, a cough that's been sticking around for a while. That's good information to start with. You said it’s dry – meaning it doesn’t bring up any mucus or phlegm when you cough?
+PATIENT: Right, dry. No… nothing comes up. Just feels… scratchy. Like something’s stuck in my throat sometimes. I try drinking water, but it doesn’t seem to help much. Do you… need to know how often I cough? I don’t keep track of things like that these days.
+DOCTOR: That's alright, we can estimate. Would you say it's more frequent during the day, at night, or is it pretty consistent?
+PATIENT: Hmm… I think… worse at night. Makes it hard to sleep sometimes. During the day… it’s there, but I get used to it, I guess. It’s… hard to explain. It's just a constant bother. My wife… she used to make me tea when I coughed. But… she’s gone now.
+DOCTOR: I’m sorry to hear about your wife, Mr. Pavlovic. That must be very difficult. Let’s focus on this cough for now, but please know I’m here to listen if you ever want to talk. So, cough is worse at night and you've noticed it for… a while now. Any fever, chills, or shortness of breath along with the cough?
+PATIENT: Fever… not that I know of. No chills. Shortness of breath… sometimes. But I… I get winded easy these days, even just walking to the store. I thought that was just getting old, you know? Maybe it’s something else? I don’t really… pay attention to what’s causing what anymore. It all feels the same after a while.
+DOCTOR: Okay, shortness of breath, especially with exertion. That’s good to know. Have you noticed any swelling in your ankles or feet?
+PATIENT: Swelling…? I… I haven't really checked. I wear these old work boots all the time. They're comfortable. Do I need to take them off? I don’t think I remember the last time I looked at my feet. It's… it's been a long time since anyone asked me about my feet.
+DOCTOR: That’s alright, we can take a look. Would you mind removing your boots so I can examine your feet and ankles?
+PATIENT: Oh. Alright. But they're old and a bit… smelly, I warn you. Worked with cars for… well, a long time. I guess everything gets old eventually. Here. They're not pretty.
+DOCTOR: Okay, thank you, Mr. Pavlovic. I see some mild swelling in your ankles, and your skin is a little discolored. I'm also noting some redness. Let’s listen to your lungs now, and then I’d like to check your heart rate and blood pressure.
+PATIENT: Alright. Whatever you think is best, Doctor. I always get nervous when people listen to my chest. Reminds me of… things. Just get it over with, I guess.
+DOCTOR: Okay, Mr. Pavlovic. Take some deep breaths for me. I'm hearing some… crackling sounds in your lower lungs, especially on your left side. Your heart rate is a bit elevated, and your blood pressure is slightly high. Now, do you have any history of heart problems or lung disease?
+PATIENT: Heart problems… Not that I remember. I worked with cars my whole life. Always a little stressed, but… never any doctors telling me anything bad about my heart. Maybe when I was a boy, a bad flu or something… but it was so long ago. My wife… she always handled the doctor stuff. I just fixed things with my hands. That's all I ever knew.
+DOCTOR: Okay. And what about medications?
+PATIENT: Medications… Not really. Just… whatever the store had for aches and pains. Maybe some cough syrup now and then, but it didn't do much. My wife… she took some pills for her blood pressure, but I didn’t ask much about it. I always figured… just tough it out. That’s what we did. .
+DOCTOR: .

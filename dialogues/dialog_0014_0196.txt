@@ -1,0 +1,31 @@
+DOCTOR: Alright, Janie. So, what brings you in today?
+PATIENT: Oh… well, it's this tiredness. Just… always tired. It's been going on… a long time, I think. Honestly, the days all blur together these days. I just feel… drained. Is that what you wanted to know?
+DOCTOR: Drained, okay. And when you say “a long time,” can you give me a rough estimate?
+PATIENT: Rough… oh dear. Months, definitely. Maybe a year? It’s hard to say, really. My husband… he always kept track of things. Since he’s gone… everything feels… fuzzy. I just know it’s not getting better.
+DOCTOR: Right. Well, fatigue for a year is… significant. And besides just tired, are you experiencing anything else?
+PATIENT: Anything else…? Hmm. Sometimes I feel a bit achy, like after a really hard day of gardening, but I haven't been gardening. And… I don't sleep well. I wake up a lot. But, honestly, who does sleep well these days?
+DOCTOR: Okay, achiness and disrupted sleep. And is this achiness all over, or is it in specific areas?
+PATIENT: Specific areas… mostly my back, I think. Lower back. And my legs sometimes. It’s not pain, exactly. Just… heavy. Like I’ve been carrying a lot of things. Which… I suppose I have, in a way.
+DOCTOR: Alright. And do you notice anything that makes the achiness worse, or anything that makes it better?
+PATIENT: Worse…? Probably being on my feet too long. Though, like I said, I don't get out much these days. Better… nothing really. Maybe resting? But then I feel guilty for resting. Old habits, you know? Always had to be doing something.
+DOCTOR: Okay. Let’s see… have you had any recent blood work done?
+PATIENT: Blood work… oh, now that’s a question. I think so? The doctor at the old clinic… Dr. Petrov… he did a lot of tests. But I don't remember what they were for. Or what the results were. Honestly, everything feels like a blur after… everything.
+DOCTOR: Okay, I see some bloodwork from six months ago. It looks like your Vitamin D levels were a bit low. Other than that, everything seemed fairly normal. Do you take any vitamins currently?
+PATIENT: Vitamins? No, I don't think so. Not regularly. My husband used to get them for me… a big jar of something or other. But I haven’t touched them since… well, you know. I don't even remember what they were for.
+DOCTOR: Alright. Well, low Vitamin D can definitely contribute to fatigue and achiness. We can start with that. Are you experiencing any other symptoms?
+PATIENT: Other symptoms…? Let me see… Sometimes I feel a little… dizzy. Not often, but enough to make me nervous. And I've been forgetting things more and more lately. Like… names. And where I put my glasses. Which is… ironic.
+DOCTOR: Dizziness and forgetfulness… Okay. And how often would you say you’re experiencing the dizziness?
+PATIENT: Oh, not all the time. Maybe… a few times a week? When I stand up too quickly, usually. Or if I’ve been bending over for a bit. It doesn’t last long, just a few seconds. But it's enough to make me worried. I don't want to fall.
+DOCTOR: Alright. I'm going to do a quick examination just to get a better sense of things, okay?
+PATIENT: Okay… fine. Just… try to be quick, please? I have… things to do.
+DOCTOR: Okay. Blood pressure is good, heart and lungs sound clear. Reflexes are a bit sluggish, but nothing alarming. And I didn’t notice any swelling in your feet. Overall, things seem… okay. But given your fatigue, dizziness, and forgetfulness, I'm going to order some additional blood work.
+PATIENT: Additional blood work? Oh dear. More tests… Is it something serious? I just want to feel normal again.
+DOCTOR: No, no, not necessarily serious. It's just a precaution. We’ll check your thyroid function, a complete blood count to rule out anemia, and a B12 level. Sometimes these deficiencies can cause fatigue and memory problems. It’s a fairly standard panel. It will just give us a broader picture. Do you have any allergies to medications?
+PATIENT: Allergies? Not that I know of. My husband always handled the medications. I think… I think I'm okay. But… maybe ask at the pharmacy, just to be safe? They have all my records.
+DOCTOR: Alright. I’ll order the blood work and recommend you check with your pharmacy regarding any allergies. Once the results are back – usually a few days – we’ll schedule a follow-up appointment to discuss them. In the meantime, try to get some rest and drink plenty of water. And, I’m going to recommend a daily Vitamin D supplement - 2000 IU. Does that sound alright?
+PATIENT: Two thousand… what was that again? IU? Oh, never mind. Yes, okay. Vitamin D. Look, doctor, I appreciate you running the tests, but honestly, I just… I feel so tired all the time. Is there anything I can do right now? Just to feel a little bit better?
+DOCTOR: Well, aside from the Vitamin D, I understand you're looking for something immediate. Sometimes, simple lifestyle changes can help. Gentle exercise, like a short walk each day, can improve energy levels. And ensuring you're eating a balanced diet is also important. It won’t be a quick fix, but it can make a difference. Is that something you’d be willing to try?
+PATIENT: Look, I used to be very active. Before… before everything. But now… it's just so hard to motivate myself. But… okay. I suppose I can try. A short walk. But don't expect miracles, doctor.
+DOCTOR: Alright. That's a good start. I'll have the nurse print out some information on healthy eating and gentle exercise. And we’ll see what the blood work reveals. Here’s a lab requisition, and the nurse will schedule your follow-up appointment. Do you have any other questions for me today?
+PATIENT: No… I don’t think so. Thank you, doctor. I guess I’ll see you… later. I just want to feel like myself again.
+DOCTOR: Alright. We’ll do our best. Get some rest, and please don’t hesitate to call if anything changes. .

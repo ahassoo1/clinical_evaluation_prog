@@ -1,0 +1,31 @@
+DOCTOR: Alright, Mr. Schwer, good to meet you. So, what brings you in today?
+PATIENT: Uh, hello Doctor… Osterholm, is it? Yes. Well, it's… my family. Lots of heart trouble on both sides. My mother, my father… even my sister. I’m… I just want to make sure I’m okay. You know? I don't want any surprises.
+DOCTOR: Right, family history. Important, yes, though it doesn’t necessarily mean you’ll have problems. Still, good you're being proactive. So, have you experienced any symptoms yourself?
+PATIENT: Symptoms? Uh… not really. Not that I noticed. Maybe a little tired sometimes, but… I’m 73. I get tired. I walk a bit, but not much. Mostly just… worry, I guess. Is that a symptom?
+DOCTOR: Worry isn’t exactly a medical symptom, Mr. Schwer. It can contribute to things, of course, but let's focus on what’s physically going on. When you do exert yourself – even just walking – do you experience any chest pain, shortness of breath, palpitations… anything like that?
+PATIENT: Pal…pal-pit-ations? What’s that mean? Like… my heart beating fast? No, not really. It feels… normal, I think. Sometimes… sometimes I feel a little… fluttery. But it goes away quick. And it’s not with walking, not always. More when I… I don't know… when I think too much, maybe?
+DOCTOR: “Fluttery.” Right. And how long has this been going on, this “fluttery” sensation?
+PATIENT: Oh, a long time. Years, I guess. On and off. It's not every day. And it doesn't last long. Like… a few seconds. Maybe a minute. It’s… hard to say. I don't really pay attention unless it happens. Does it matter if it comes and goes?
+DOCTOR: Everything matters, Mr. Schwer. It’s about patterns. If it’s truly random and infrequent, it's less concerning. But let's get some basics down. Do you have any other medical problems?
+PATIENT: Um… I had my prostate checked a few years back. They said it was okay, just old man stuff. And my knees, they ache sometimes. Arthritis, the doctor said. Other than that… no. I think. I don't see the doctor much.
+DOCTOR: Alright. Any medications you take regularly?
+PATIENT: Just a little something for my knees. Something… naproxen, I think it's called. A little white pill. Here. Maybe this says it better.
+DOCTOR: Naproxen. Fine. And allergies to anything?
+PATIENT: Uh… no, I don't think so. Never had a problem with anything. Penicillin, maybe? When I was a kid, I think I got a rash, but it was a long time ago. I don't really remember.
+DOCTOR: Okay. Well, Mr. Schwer, given your age and family history… and these occasional “fluttery” sensations… I think we should do a quick EKG just to get a baseline. It’s a simple test, nothing to worry about. And I’d like to check your blood pressure and listen to your heart and lungs. Does that sound alright?
+PATIENT: An… EKG? Is that… does that hurt? I don't like needles… and I don't like tests. But… if you think it's best. Okay. Just… tell me what's going to happen.
+DOCTOR: It doesn’t involve needles, Mr. Schwer. It's perfectly painless. We just put some stickers on your chest, arms, and legs. It records your heart's electrical activity. It takes five minutes, tops. Now, if you’ll just lie down on the examination table…
+PATIENT: Okay… stickers. That sounds… okay. Is this a small room? I don’t like small rooms… Just… tell me if it’s going to be cold. I get cold easily.
+DOCTOR: It won't be cold, Mr. Schwer. Just relax. Deep breaths. I’m starting the machine now…
+PATIENT: Is… is this on? Can you tell it’s working? It feels… strange, having things stuck to me. Like… little spiders.
+DOCTOR: Yes, it’s working, Mr. Schwer. And no, they are not spiders. Just… stay still. Alright. Let's take a listen to your heart and lungs now.
+PATIENT: Okay… Is my heartbeat… normal? You can tell just listening? I always thought my heart was a little fast.
+DOCTOR: Your heart rate is… acceptable for your age. A little rapid, as you say, but not alarming. Lungs are clear. Now, blood pressure.
+PATIENT: Oh… that's a bit tight. Is it supposed to be that tight? It feels like it’s cutting off my circulation.
+DOCTOR: It's supposed to be tight, Mr. Schwer, but not painfully so. Let’s just take a look at the numbers. 140 over 90. Slightly elevated, but not critical. Now, based on everything… and your family history… I think we should start you on a low dose of a beta-blocker. It will help slow your heart rate and lower your blood pressure.
+PATIENT: A… a beta-blocker? What does that do? And are there… side effects? I don’t want to feel worse. I just want to… not worry. Is that too much to ask?
+DOCTOR: It helps your heart work more efficiently, Mr. Schwer. And it’s a very low dose, so side effects are minimal. Fatigue, dizziness… sometimes a little lightheadedness. But we’ll monitor you closely. Honestly, the benefits outweigh the risks, given your family history. It’s better to be proactive. I'll send this to your pharmacy. Take one tablet daily. And come back in a month for a follow-up.
+PATIENT: Okay… one tablet. Every day. And a follow-up. So… I have to take this medicine now? Even if I feel okay? I don't like taking medicine. Is it… expensive? I'm on a fixed income.
+DOCTOR: It's a generic, so it shouldn't be too expensive, but you’ll have to check with your insurance. And yes, you should take it as prescribed. It’s preventative, Mr. Schwer. Better to nip this in the bud now than deal with a heart attack later. Do you have any other questions?
+PATIENT: A heart attack… No… no, I think that’s all. Just… the medicine. And the follow-up. I guess. Thank you, Doctor. I… I’ll go check on the price. And I’ll see you in a month.
+DOCTOR: Alright. Take care, Mr. Schwer. And don’t forget to schedule your follow-up appointment before you leave.

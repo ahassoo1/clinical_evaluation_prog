@@ -1,0 +1,26 @@
+DOCTOR: Alright. Larin Meigs, yes?
+PATIENT: Yes, that's me. Sorry if I'm late. Traffic was...a lot. And I was trying to remember all the things I wanted to tell the doctor. It's my back, you see. It's been really bad.
+DOCTOR: Yes, well, we're all busy. “Back pain.” Right. How long has it been “really bad”?
+PATIENT: Oh, um… let me think. It started, not all at once, but maybe… three weeks ago? It was just a little ache then, I thought I just slept wrong. But it hasn’t gotten better, it's just…worse and worse. It’s hard to do anything now, even walking.
+DOCTOR: Three weeks. And what specifically makes it worse?
+PATIENT: Everything, almost! Bending is the worst, definitely. And standing for too long. Even sitting sometimes, if the chair isn’t just right. It feels like… like a sharp pain, deep inside, and then it shoots down my leg. Not all the time, but when it does… oof. It's in both legs sometimes.
+DOCTOR: Both legs?
+PATIENT: Yes. Not at the same time, usually. One day it’s more in my right leg, and then the next day it’s more in my left. But it’s been… spreading, I guess? It's hard to explain. And… well, you probably already know why I'm here. About the… the cancer.
+DOCTOR: Yes, I see your history mentions a previous cancer diagnosis. We'll need to rule out recurrence, naturally. But let's focus on the back pain itself first. Any numbness or weakness in your legs?
+PATIENT: Hmm… weakness, yes, sometimes. Especially when I first stand up. It feels… wobbly, like my legs are gonna give out. And numbness… not all the time, but my feet get kinda… tingly, you know? Like when they fall asleep. It’s worse at night, I think. Does that make sense?
+DOCTOR: "Wobbly" and "tingly". Alright. And any fever, chills, or unexplained weight loss?
+PATIENT: No fever, no chills. I have lost a little weight, I think. But I haven’t been eating much lately, because… well, everything hurts. It’s hard to get motivated to cook, you know? And I’m always tired. But I thought that was just… from everything.
+DOCTOR: Fatigue and decreased appetite. Standard. Alright, let's do a quick physical exam. Please lie down on the examination table. I need to check your reflexes and range of motion.
+PATIENT: Okay. Is it okay if I take my time? My back is really…sensitive right now.
+DOCTOR: Just get on the table when you're ready. I haven’t got all day.
+PATIENT: Okay… here I am. Just let me know if I need to do anything special. And… could you maybe tell me what you're looking for? Just so I understand, you know?
+DOCTOR: Standard neurological assessment. Checking for nerve compression, muscle weakness… things like that. Right leg. Lift it up, please.
+PATIENT: It hurts a little when I lift it. And when I put it down. Is that normal?
+DOCTOR: Pain with straight leg raise is… common. Now the left leg. Tender here?
+PATIENT: Yes, that one hurts too, but maybe a little less than the right. And… yes, it's tender there. Right around there. It feels… sore and achy all the time. Even when I'm not moving.
+DOCTOR: Alright. Limited range of motion, pain with straight leg raise, tenderness to palpation. Not surprising. We’ll need some imaging – an MRI of the lumbar spine, to rule out anything serious. And bloodwork, to check your inflammatory markers. I'll have the nurse draw those now.
+PATIENT: Okay. An MRI… that’s the one where I have to lie in that big machine? I don't like small spaces, if that matters. And bloodwork… okay, I can do that. Just… how long will it take to get the results? I really hope it's not too long. I'm getting scared, to be honest.
+DOCTOR: Yes, that's the one. We'll schedule it for as soon as possible. As for the results…it depends on the radiologist's workload. A few days, maybe a week. Try not to worry. It’s probably just a muscle strain, but we need to be thorough. The nurse will be in shortly to draw blood. Is there anything else?
+PATIENT: A week… Okay. No, I think that’s all for now. Just… thank you. I appreciate you taking the time to listen. And… could you maybe explain the results to me when they come back? Like, in plain English? I don’t understand all the medical words.
+DOCTOR: The nurse will explain the basics. I have other patients waiting. You can schedule a follow-up appointment with me to discuss the findings in more detail, if necessary. But don’t expect miracles. It’s probably just a muscle strain. The nurse will be with you soon.
+PATIENT: .

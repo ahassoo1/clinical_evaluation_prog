@@ -1,0 +1,19 @@
+DOCTOR: Alright, Mr. Kingan. So, you're here today... what brings you in?
+PATIENT: Yeah, right. Tryout physical. For the team. Gotta get this done quick, if you don't mind.
+DOCTOR: A sports physical. Okay. Well, we still need to go through some things, even if it is just for a team. It’s important to have a baseline, you know. Just a few questions, then I’ll take a look. Have you been cleared by anyone before for athletics?
+PATIENT: Cleared? Not really. Never really needed to be, honestly. Played a lot of pickup, that's it. Mostly just...felt okay. Is this gonna take long?
+DOCTOR: Right. Well, pickup is different than organized sports. We need to make sure everything is okay. It's a bit more formal now. Just routine stuff. Okay, so have you had any injuries – anything at all – in the past, even if it seemed minor at the time?
+PATIENT: Injuries… hmm. Twisted an ankle once, years ago. Playing basketball. Didn't seem bad, worked it off. And… pulled a muscle in my back lifting something heavy, maybe five years back? Felt it for a week or so. Nothing serious, I just rested it. That's about it, I think.
+DOCTOR: Alright. And any ongoing medical problems?
+PATIENT: Nah. Nothing ongoing. I feel pretty good, actually. Always been pretty healthy. Is this taking much longer? I got practice later.
+DOCTOR: We’re getting there. Just a few more questions, then I’ll listen to your heart and lungs and do a quick exam. Do you have any trouble breathing?
+PATIENT: Nope. Never had any trouble breathing. Even when I'm running. I run a lot, you know. Gotta be in shape. This is for the… well, it's a pretty important tryout.
+DOCTOR: Alright. Any chest pain?
+PATIENT: Chest pain? No. Never had any chest pain. Not ever. Look, is there a quick way to just... say I'm good to go? I really need to get back.
+DOCTOR: Mr. Kingan, I understand you're pressed for time, but I still need to perform a basic physical exam. It’s important. Just a quick listen to your heart and lungs, and I'll check your reflexes. It won’t take long. Could you please remove your shirt and shoes?
+PATIENT: Fine, fine. But make it quick, okay? I really don’t have a lot of time for this. There. Happy?
+DOCTOR: Alright. Please take a deep breath for me… and exhale slowly. Heart sounds… regular. Lungs are clear, but a little diminished breath sounds… could be normal for your build. Now, reflexes. Please extend your arm… good. And now, the other one… Reflexes are a bit sluggish. Not alarming, but something to note. Now, can you squeeze my hands?
+PATIENT: There. Strong enough? I work with my hands a lot. So? What does it all mean? Am I good to go or not?
+DOCTOR: Well, your strength is good. But those sluggish reflexes…and diminished breath sounds… I’m not entirely comfortable clearing you without a chest X-ray. Just to rule anything out. It's just a precaution, Mr. Kingan. It's better to be safe than sorry, especially with athletic activity. We can get it done here at the clinic. It’ll take about fifteen minutes.
+PATIENT: An X-ray?! Seriously? For a tryout? That's ridiculous! Look, I'm fine. I've been playing sports my whole life! I don't need an X-ray. This is a waste of my time. I'm leaving. You can write whatever you want on the chart, but I'm not waiting for an X-ray. .
+DOCTOR: Mr. Kingan, I strongly advise against participating in strenuous activity without a proper evaluation. It's your health we're talking about. I am documenting that you declined recommended imaging and are proceeding against medical advice. .

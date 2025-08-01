@@ -1,0 +1,34 @@
+DOCTOR: Alright, Chellsea, right?
+PATIENT: Yes, that is correct. Chellsea Luft. It’s nice to meet you, Doctor Pehrson.
+DOCTOR: Yeah, yeah. Look, I'm a busy man, so let's just get straight to it. What brings you in today?
+PATIENT: Well, it’s… about the cancer. I was told to come in for a check-up, and to talk about what happens next. It’s all a bit new, and honestly, a little scary.
+DOCTOR: Cancer, huh?
+PATIENT: Yes. My husband… he passed away from it last year. That’s why I have Medicare now. And why I’m… a little worried, I guess. Do you know what kind I have? I don’t think the other doctor explained it very well.
+DOCTOR: Let's see... Apache, 20 years old… right. Okay. You have… Stage I invasive ductal carcinoma. Breast cancer. Honestly, a lot of young people don't pay attention when doctors are talking, so it's not surprising you missed some details. It means it's localized, thankfully. We caught it early. Now, don't get all emotional on me, early doesn't mean it's nothing, just means we have options.
+PATIENT: Localized… that’s good, right? Options… what kind of options? I’m sorry, I just… it’s a lot to take in. And I don’t really understand all the… the words. Is surgery one of them?
+DOCTOR: Look, I'm a family doctor, not a miracle worker. Surgery is an option, yes. Lumpectomy or mastectomy, depending on the size and location. There’s also radiation, chemo… the whole nine yards. But we’ll figure it out. Honestly, the main thing is you're young. Young people usually respond well to treatment. Now, before we dive into all of that, let’s just go over some basics. Any family history of breast cancer?
+PATIENT: My grandmother, on my mother’s side, had it. A long time ago, though. I don’t know much about it. She didn’t talk about it. And my mother… she passed away when I was very young, so I never had a chance to ask her anything. I don’t know if it was the same kind, or anything. Does that matter?
+DOCTOR: Family history… vaguely relevant. Okay. And what about you?
+PATIENT: What do you mean? Like, what about my health? I’ve always been pretty healthy, I think. I work as an occupational therapist, so I’m on my feet a lot. I don’t smoke, I barely drink… I try to eat well, when I can. Is that important?
+DOCTOR: Occupational therapist, huh?
+PATIENT: Yes, sir. I help people with everyday tasks after injuries or illnesses. It’s… rewarding work. But right now, it’s hard to focus on that. I’m worried about how this will affect my job… and everything else. Will the treatment make me… sick? Like, really sick?
+DOCTOR: Look, everything has side effects. Chemotherapy, radiation… they’re not exactly picnics. Nausea, fatigue, hair loss… the usual. But we have medications to manage most of it. Now, let's not get ahead of ourselves. First, we need to get a clearer picture of the tumor itself. Have you had a biopsy?
+PATIENT: Yes, I did. The other doctor took a small piece out. I… I remember it being uncomfortable. They told me it was to see if it was cancer, and what kind. Is that what you mean? Did they send the results to you? I didn't get a very detailed explanation.
+DOCTOR: Alright, alright… biopsy results… Stage I, grade 2 invasive ductal carcinoma, ER positive, PR positive, HER2 negative. Standard stuff. Honestly, most patients just glaze over when I tell them all this. Now, before we even think about treatment options, I want to do a physical exam, just to get a baseline. Okay?
+PATIENT: Okay. That sounds… good. If you think it’s important. I just… I trust your judgment, Doctor. Whatever you think is best. I’m ready when you are.
+DOCTOR: Alright. Go ahead and get changed. We'll start with a general exam, then I'll take a closer look at the breast area. Don’t worry, I’ve seen it all.
+PATIENT: Okay. Thank you, Doctor.
+DOCTOR: Hurry it up. I have patients waiting.
+PATIENT: I’m ready. I… I hope this won’t take too long.
+DOCTOR: Alright. Let’s start with your heart and lungs. Take a deep breath… and exhale. Again. Good. Now, I'm going to palpate your lymph nodes, under your arms and around your collarbone. Tell me if anything feels tender. Lungs clear. Heart sounds regular. Lymph nodes… slightly enlarged on the left side, but likely reactive. Now, let me take a look at the breast area.
+PATIENT: That… that feels a little sore, yes. Around here. It's been feeling that way for a few weeks, actually. I thought it was just… muscle pain, maybe. Is that bad?
+DOCTOR: Hmm. Probably just related to the tumor. Now, don't get all worked up. We'll get some imaging done to get a clearer picture. We'll schedule a mammogram and an ultrasound. That’s standard. Now, do you have any allergies to contrast dye?
+PATIENT: Contrast dye? I… I don't think so. I've never had any imaging done before. I’ve never been sick enough to need anything like that. What does the dye do? And… what will the mammogram and ultrasound show? Will it hurt?
+DOCTOR: Look, the dye helps us see the tumor more clearly on the images. The mammogram is an X-ray, and the ultrasound uses sound waves. They both help us determine the size and location of the tumor. Will it hurt?
+PATIENT: Yes? How much? I… I’ve always been a little sensitive to pain. And what happens after the imaging? Will you tell me the results right away? Or will I have to wait?
+DOCTOR: The mammogram can be a little uncomfortable, a bit of pressure. The ultrasound shouldn’t hurt at all. As for the results… Honestly, I have other patients waiting. The radiologist will read the images, and then we'll schedule a follow-up appointment to discuss them. It won't be today. Now, do you have any questions about… lifestyle modifications?
+PATIENT: Lifestyle modifications? Like… what? Should I be changing what I eat? Or… exercising more? I mean, I do work as an occupational therapist, so I’m pretty active. But I get stressed sometimes, and I tend to eat… comfort food when I’m stressed. Does that matter?
+DOCTOR: Honestly, stress doesn't cause cancer. But it can weaken your immune system. And a healthy diet… well, it's always a good idea. But don't go overboard. We're not talking about a miracle cure here. Now, let’s get this referral for the imaging done so you can get this over with.
+PATIENT: Okay. Thank you, Doctor. Will… will someone explain everything to me after the imaging? Just… in case I don’t understand it? It's just… a lot to take in. And I don’t want to… get it wrong.
+DOCTOR: The radiology department will explain the images. If you have questions, schedule a follow-up with me. Now, I have other patients waiting. Have a good day.
+PATIENT: .

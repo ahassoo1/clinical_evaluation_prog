@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Pavlovic. I'm Dr. Todorovich. So, what brings you in today?
+PATIENT: Morning, Doctor. It’s… a cough. Been hacking away for a while now. A dry cough, mostly. Feels like something’s stuck in my throat, but there’s nothing there. It’s just… annoying, you know? Old man stuff, probably.
+DOCTOR: “Annoying,” right. Well, everything is “probably” something when you get to a certain age. But we should still figure out what it is, shouldn’t we?
+PATIENT: Yes, yes, you’re right. Best to know. My wife… she always said I should go to the doctor more. She’s… gone now, though. A long time ago. What were we talking about? Oh, the cough. It’s worse at night, I think. Keeps me up sometimes.
+DOCTOR: Right, the cough. Worse at night. And is it just a dry cough, or are you bringing anything up when you cough?
+PATIENT: Hmm… that’s a good question. Sometimes… sometimes a little something. Not much. Clear, mostly. Like… water. Not… thick, if you know what I mean. It’s hard to explain. My memory isn’t what it used to be, you see.
+DOCTOR: Clear mucus, okay. And has anything else changed?
+PATIENT: Changed? Like what kind of change? Everything feels… old, if that counts. My bones ache, I get tired easy… is that what you mean? The cough just… is. It’s been there a while now, getting a little worse, maybe. I don't really pay it much mind until it keeps me up at night. I suppose I’ve just been… ignoring it.
+DOCTOR: Right. Well, ignoring things doesn't make them go away. Any fever, chills, or shortness of breath with the cough?
+PATIENT: Fever… not that I’ve noticed. Maybe a little warm sometimes, but I always figured that was just the weather. It’s been hot, you know. And chills… no, not really. Shortness of breath… sometimes. When I walk up the stairs, maybe. But I am an old man, Doctor. I get winded easy. It could be anything. Honestly, I don't know. Everything feels… fuzzy.
+DOCTOR: Okay. And do you smoke, or have you smoked in the past?
+PATIENT: Smoke? Oh, Lord, no. My wife wouldn't have allowed it. She was a strong woman, my wife. Didn't tolerate foolishness. Never touched a cigarette in my life. A little bit of whiskey now and then, but never smoke. She always said it was bad for your lungs. Seems she was right about most things.
+DOCTOR: Alright. Well, let's have a listen to your lungs. Just breathe normally, in and out, through your mouth.
+PATIENT: Okay, Doctor. Whatever you think is best. I always did trust doctors. My wife… she picked a good one when she was sick.
+DOCTOR: Okay. I’m hearing some… wheezing. And a few crackles, particularly on the lower left side. Not alarming, but worth noting. Any chest pain when you cough or take a deep breath?
+PATIENT: Chest pain… Sometimes. A little ache, right here. Not sharp, just… uncomfortable. It comes and goes. I figured it was just… old age. Or maybe I slept on it wrong. It's hard to tell, you know? Everything hurts these days. Is that bad?
+DOCTOR: It could be a number of things, Mr. Pavlovic. Given your age, the wheezing, and the occasional chest pain, I’d like to get a chest X-ray just to rule out anything serious like pneumonia or bronchitis. It’s standard procedure. And we should also check your oxygen levels. Do you have any allergies to medications?
+PATIENT: X-ray, huh? Alright, if you think it’s best. I always said doctors know best. Allergies… hmm. Not that I recall. My wife always gave me the medicine. She kept track of all that. I think I might have had a reaction to something once, a long time ago… but I don't remember what. A little rash, maybe? It was years ago. I really don't keep track of those things.
+DOCTOR: Okay. No known allergies, then. The nurse will come in shortly to check your oxygen levels and get you set up for the X-ray. It’s a quick procedure. Do you have any living relatives we should contact in case of an emergency?
+PATIENT: Emergency? No… not anymore. My wife… she was everything. We didn't have children. All my brothers and sisters… they’re gone now too. Just me, I guess. Don’t worry about that. I’ve lived a long life. If anything happens… well, it’s been a good run. Just do what you need to do, Doctor.
+DOCTOR: Alright. The nurse will be in shortly. Please just try to relax. We're just being thorough. We’ll get to the bottom of this cough, Mr. Pavlovic.
+PATIENT: .

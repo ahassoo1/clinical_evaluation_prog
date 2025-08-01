@@ -1,0 +1,21 @@
+DOCTOR: Right. Tammie Ottaviani, 44. So, what brings you in today?
+PATIENT: My throat. It… hurts. Been hurting for a bit now. Honestly, I don’t have time for this. Is that all you need to know?
+DOCTOR: “A bit now” is… vague. Can you be more specific?
+PATIENT: Specific? Ugh. Maybe… three, four days? I don't keep track of these things. It just… started hurting. It's a pain. Like swallowing glass, almost. Is that specific enough for you? I have things to do, you know.
+DOCTOR: Glass… right. And is this pain constant, or does it come and go?
+PATIENT: Comes and goes. Mostly when I… eat. Or talk, I suppose. It's just… annoying. I don't understand why I have to explain everything like this. It hurts when I swallow. Simple.
+DOCTOR: Any fever?
+PATIENT: Fever? I haven’t taken my temperature. Do I look like I have a fever? Honestly, I barely have time to sleep, let alone check my temperature. No, I don’t think so. Why are you asking so many questions?
+DOCTOR: It's standard procedure, Ms. Ottaviani. Just trying to get a complete picture. Any cough?
+PATIENT: No cough. A little… stuffy maybe? But that’s just the dust from work. I work with machines, you know. It’s a dirty job. It's not a sickness, it’s… work. Are we almost done here?
+DOCTOR: Any difficulty breathing?
+PATIENT: Difficulty breathing? No! If I had difficulty breathing, don't you think I’d be in the emergency room? Really. That’s a ridiculous question. I can breathe just fine, thank you very much. Now, can we please get this over with? I have a schedule.
+DOCTOR: Alright. Let’s have a quick look at your throat. Open wide, please.
+PATIENT: Hurry it up. This is… unpleasant. I don’t like having things stuck in my mouth.
+DOCTOR: Hmm. Some redness, a little swelling. No obvious exudate. Lymph nodes are…slightly enlarged. Palpates neck quickly. Okay. Do you have any allergies to medications?
+PATIENT: Medications…? I… don’t really take anything. Not regularly. Maybe… penicillin? I think I reacted to penicillin when I was a child. But it was a long time ago. I don’t know. It's all a blur. Honestly, I just avoid taking anything if I can help it. They make me feel… unwell.
+DOCTOR: Alright. Based on what you’ve told me, it sounds like you likely have a mild case of pharyngitis - a sore throat, essentially. It’s probably viral, given the lack of fever and obvious pus. We won’t do any testing, given your insurance situation. It’s unlikely to be anything serious.
+PATIENT: Insurance situation? So, you're saying you wouldn't bother properly looking at me because I don't have… fancy paper? That’s… ridiculous. Viral, you say? So, what do I do about it? Just… suffer? I need something to make this stop. I can’t be sick. I have work.
+DOCTOR: You can try over-the-counter pain relievers – ibuprofen or acetaminophen. Warm salt water gargles. Plenty of fluids. Rest. That’s really all you can do. If it gets significantly worse – high fever, difficulty breathing, severe pain – then you should seek emergency care, naturally. And try to avoid straining your voice. Is that all?
+PATIENT: Fine. Salt water. Pain relievers. Wonderful. Just what I needed to hear. Look, can I at least get a note for work? Something saying I’ve been seen? I can't have them questioning my absences. And honestly, this has been a complete waste of my time. .
+DOCTOR: Alright, alright. Here. “Patient seen for sore throat. Advised symptomatic treatment.” Satisfied?

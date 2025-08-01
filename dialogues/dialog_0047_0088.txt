@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Mr. Dhanoa. I’m Dr. Press. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. It’s… this ringing in my ears. It’s been going on for a little while now, and it’s starting to bug me, honestly.
+DOCTOR: Alright, ringing in the ears. That’s tinnitus, technically. “A little while now” is rather vague, isn't it?
+PATIENT: Yeah, sorry. It started… maybe three months ago? It comes and goes, but it’s definitely been more consistent the last few weeks. It’s hard to keep track, you know? I just figured it’d go away on its own.
+DOCTOR: Hmm. And is it constant when it is present, or does it fluctuate?
+PATIENT: It… fluctuates, yeah. Sometimes it’s like a high-pitched whine, other times it's more of a buzzing. And the volume changes too. Some days I barely notice it, other days it's really loud and makes it hard to concentrate.
+DOCTOR: Right. And have you noticed anything that seems to make it worse?
+PATIENT: Um… not really, not that I’ve noticed. Loud noises maybe? But I work in a restaurant, so there’s always noise. I guess I’ve just gotten used to it… until now, when it's gotten worse.
+DOCTOR: And when you say you work in a restaurant, what’s your role?
+PATIENT: I’m a waiter. Been doing it for a few years now. Lots of running around, talking, the usual. It can get pretty hectic. I don't know if that has anything to do with it, though.
+DOCTOR: Being on your feet and a noisy environment… it certainly could. Alright. Now, before we get too far, let's just run through some basics. Any past ear infections?
+PATIENT: Nah, not that I remember. I was a pretty healthy kid, to be honest. Never had a lot of problems with my ears or anything. I mean, maybe a bit of wax build-up sometimes, but nothing major.
+DOCTOR: No ear infections noted in your record. Good. And any recent head injuries?
+PATIENT: No, nothing like that. I haven't hit my head or anything. I play a bit of touch rugby, but it’s not that rough. Just the usual bumps and bruises. Honestly, Doctor, I’m just worried about this ringing. It’s driving me a bit crazy.
+DOCTOR: Alright. Now, any family history of hearing loss or tinnitus?
+PATIENT: Hmm… that’s a good question. My dad’s a bit hard of hearing, now that he's older, but I think that’s just from age. My mum’s hearing is fine, as far as I know. No one else, really. I don't think so.
+DOCTOR: Right. And are you currently taking any medications?
+PATIENT: Nope. I don’t take anything regularly. Maybe the occasional painkiller for a headache, but that’s it. I try to stay healthy, you know?
+DOCTOR: Alright. Now, let's have a listen to your ears. I’m just going to use this otoscope… it won’t hurt. Can you tell me if you've had much exposure to loud music, either at work or in your free time?
+PATIENT: Yeah, okay. Loud music… not really anymore, no. When I was younger, maybe. Used to go to a few parties, concerts, that sort of thing. But I don’t go to clubs or anything like that now. It's mostly just the restaurant noise.
+DOCTOR: Hmm. Tympanic membrane appears normal, no sign of infection. Same on this side. Alright. Your ear canals are clear and your eardrums look healthy. Now, I’m going to do a quick hearing test. Just follow my instructions. It’s a simple test; I'll put headphones on you and you'll indicate when you hear tones.
+PATIENT: Okay, that sounds alright. Headphones are fine. As long as it doesn’t take too long… I got a shift starting in a couple of hours.
+DOCTOR: It will only take a few minutes, Mr. Dhanoa. Just raise your hand when you hear the tone, even if it's faint. We’ll start with the right ear.
+PATIENT: Alright, sounds good.
+DOCTOR: Okay, all done. Hmm. Your hearing is within normal limits at most frequencies, but there’s a slight dip at the higher frequencies in both ears. It's subtle, but it’s there. This is consistent with noise-induced hearing loss, which isn't surprising given your work environment and previous exposure to loud music. Now, tinnitus is often linked to hearing loss, even mild loss like yours. It's the brain trying to compensate. It’s not something I can fix, unfortunately, but we can manage it.
+PATIENT: Oh. Right. Manage it… So it’s not going to go away? I was hoping it was something simple. What does "manage it" even mean? What can I do? I really need to be able to hear customers at work.
+DOCTOR: Most tinnitus is chronic, I’m afraid. “Manage” means reducing your stress, protecting your hearing from further damage, and potentially using strategies to help you cope with the noise. The first thing is, and I cannot stress this enough, protect your ears at work. Earplugs, even if they’re not industrial-grade, will help. I recommend you consider a consultation with an audiologist. They can provide you with custom-fitted earplugs and teach you techniques such as tinnitus retraining therapy, or sound therapy to help mask the ringing. It’s not a cure, but it can significantly improve your quality of life. I can write you a referral now. And, as far as your work is concerned, I will put a note on your file recommending reduced exposure to loud noises, if that's appropriate, and the need to use hearing protection.
+PATIENT: Okay. Earplugs… and an audiologist. That sounds… like a lot. But I guess if it helps. Yeah, a referral would be great. And a note for work would be good too. Thanks, Doctor. I appreciate it. What about… anything I can take? Like a pill or something? Just to quiet it down a little?
+DOCTOR: There are no medications specifically approved for tinnitus, Mr. Dhanoa. Some people find relief with anti-anxiety medications, but that’s addressing the stress the tinnitus causes, not the tinnitus itself. And those medications have side effects. Frankly, I don’t recommend them in your case. We’ve only just identified the cause – mild noise-induced hearing loss. Let’s try the more conservative measures first – ear protection and the audiologist referral. Here’s the referral for the audiologist. I've also made a note on your file regarding the need for hearing protection at work. Do you have any other questions for me?
+PATIENT: No, I think that’s everything. Thank you, Doctor. I guess I’ll see what the audiologist says. I really hope they can help. I need to get back to work soon. Thanks again. .
+DOCTOR: Very well. Do take care, Mr. Dhanoa, and protect your hearing. .

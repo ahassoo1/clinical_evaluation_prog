@@ -1,0 +1,23 @@
+DOCTOR: Alright, so what brings you in today?
+PATIENT: Well, it's a bit embarrassing to talk about, but I've noticed a change in my body odor recently. It's... different than usual. I can't really describe it, just that it doesn't smell like me, if that makes sense.
+DOCTOR: Okay. Different how?
+PATIENT: Hmm. It’s not stronger, necessarily. It’s… sweeter, maybe? And a little bit… sour? Like, not a bad sour, just… not my normal smell. I usually just smell… clean, you know? I use the same soap, the same deodorant, everything. It started maybe a couple of weeks ago, I think. I noticed it after a long day at work, mostly.
+DOCTOR: Right. Sweeter, sour… Look, people sweat. Sometimes it smells different. You’ve been working, you said?
+PATIENT: Yes, I work as a floor layer, except for carpet, wood, and hard tiles. It's pretty physical work. Lots of bending, lifting, being in the sun… But I’ve been doing it for years, and it’s never bothered me like this before. I always shower right after, too. That's why it's a little concerning, I guess. It's not just sweat.
+DOCTOR: Physical labor… okay. Alright, let’s just cover some basics. Any fevers, chills, night sweats?
+PATIENT: No, no fever, chills, or night sweats. Nothing like that. I’ve been sleeping pretty normally, actually. Just a little tired from work, but that’s usual. Is this something I should be worried about? I mean, could it be something serious?
+DOCTOR: Look, it’s probably nothing. People worry too much. But, just to cover all bases… any recent weight loss?
+PATIENT: No, no weight loss. If anything, I think I’ve gained a little. It's hard to say for sure, but my clothes feel a bit snugger lately. I eat pretty regularly, mostly the same things I always have. I try to eat healthy when I can, but it’s hard with work. Long days, not much time to cook.
+DOCTOR: Okay. Any new medications?
+PATIENT: No, no new medications. I haven't changed anything with my prescriptions. I have Medicare, and I usually just go with what the doctor prescribes. I take something for my blood pressure, but I’ve been on that for years, too. Really, it's just this smell. It’s bothering me, and I just want to make sure it isn’t something I need to worry about.
+DOCTOR: Alright. Well, let’s have a quick look. I’ll just listen to your heart and lungs, and take your temperature, just to be sure. Then we can figure it out.
+PATIENT: Okay, that sounds good. I hope it's nothing serious. I have a job to do, you know? And this smell is just… distracting.
+DOCTOR: Heart and lungs sound clear. Temperature is normal. Blood pressure is… stable. Look, everything seems normal. It’s probably just… stress, or a change in your diet. Try to relax, eat healthy. If it really bothers you, maybe try a different deodorant.
+PATIENT: But I haven't changed anything! Same soap, same deodorant, same diet… same everything! And I do have a stressful job, but I’ve always been able to handle it. Is there anything else you can check? Maybe some kind of test? I just want to know why this is happening. It feels like something more than just stress. I don't usually bother doctors unless something's really wrong.
+DOCTOR: Look, I understand your concern. But running a bunch of tests for a change in body odor is… unnecessary. Unless you're experiencing other symptoms – like weight loss, fever, or excessive sweating – it’s unlikely to be anything serious. But, fine. To appease you, I’ll order a basic metabolic panel. Just to rule things out. But I’m telling you, it's probably normal. It's likely just a minor issue, and worrying about it won’t help. We can schedule a follow-up appointment to discuss the results in a week. Does that sound alright?
+PATIENT: A basic metabolic panel… okay, that sounds… good, I guess. Better than nothing. A week… alright. And what if it is something? What would that mean? And will the results be sent to my Medicare?
+DOCTOR: Look, let's not jump to conclusions. If there's anything abnormal, we'll discuss it. The results will be sent directly to my office, and we'll notify Medicare. Probably just a vitamin deficiency or something minor. Don’t Google things, okay?
+PATIENT: Okay, I won't Google things. So, a week then. And I'll just wait for someone to call me? Is there anything I should do in the meantime? Any specific things I should be watching out for?
+DOCTOR: Just try to relax. If you develop a fever, excessive sweating, unexplained weight loss, or any other concerning symptoms, call the office immediately. Otherwise, just wait for the results. Next. A nurse will let you know when you can schedule a follow-up.
+PATIENT: Okay. Thank you, I guess. .
+DOCTOR: .

@@ -1,0 +1,23 @@
+DOCTOR: Alright, Mr. Stoegbauer. Just try to be brief, okay?
+PATIENT: Brief? Oh. Yes, Doctor. I try. It’s… my foot. It hurts a lot. Been hurting for a little while now. Not good.
+DOCTOR: "A little while?
+PATIENT: Maybe… two months? Maybe three? Hard to say exactly. Everything feels long when it hurts, yes? It’s on my right foot… the top. It’s a sore… a bad sore that won’t get better. My wife… she used to help with it, but… she is gone now.
+DOCTOR: Right, right. Loss is tough, I get it. But we need to focus on this foot. Top of the foot, you said. Constant pain?
+PATIENT: Yes, Doctor. Constant. Not sharp, always just… ache-y. And red. Very red. Sometimes it feels warm too. And it smells… not good. I try to keep it clean, but… it’s hard when I can’t see so good anymore.
+DOCTOR: Okay, warm, red, smells… lovely. Any fever, chills, nausea?
+PATIENT: Fever… sometimes I feel a little warm, but I don't know if that's just the weather. It’s been very warm lately. No chills, no… nausea, no. Just tired. Very tired. And this foot hurts so much it makes me not want to eat.
+DOCTOR: Alright. Let’s have a look at this foot then. Don't expect miracles, okay?
+PATIENT: Okay, Doctor. Whatever you think is best. It’s… not pretty. I know that.
+DOCTOR: Hmm. Yes, definitely some inflammation. Redness, some… discharge. Feels warm to the touch. No obvious breaks in the skin, but… it’s not ideal. Looks like a possible infection. We’ll need to rule out a few things.
+PATIENT: Infection? Oh dear. What does that mean, Doctor? What will we do? Is it serious? My wife… she always knew what to do.
+DOCTOR: Look, Mr. Stoegbauer, it could be serious, okay?
+PATIENT: Serious how? Like… hospital serious? I don’t want to go to the hospital. I get lonely there. My wife… she would always come visit, but…
+DOCTOR: No, no, probably not hospital serious right now. But infections don't just go away on their own. We need to get a culture to see what we're dealing with. And probably some X-rays, just to rule out anything deeper. I'll order those now. Then we’ll see.
+PATIENT: A culture? And X-rays? That sounds… complicated. Will it hurt? And how long will it take? I have a friend who is coming to visit next week… I don’t want to be stuck here then.
+DOCTOR: Look, the culture just involves a quick swab, barely noticeable. X-rays are painless. As for how long… it depends. Lab results take a few days, X-rays are quicker. I can't guarantee anything, okay?
+PATIENT: A swab… that doesn't sound so bad. But a few days? My friend… she likes to play bingo with me on Tuesdays. And I promised her I would make my special pineapple cake… it takes a long time to make. My wife… she always liked my pineapple cake.
+DOCTOR: Look, Mr. Stoegbauer, we’re dealing with a possible infection here, not a cake schedule. I'll get the orders in for the lab and X-rays. The nurse will come in and get you set up. I have other patients waiting, okay?
+PATIENT: Oh. Yes, Doctor. Of course. Other patients. The nurse… she will tell me what to do? About the swab and the… X-rays? And about the cake… I guess I will have to cancel with my friend.
+DOCTOR: Yes, the nurse will explain everything. She’s good. Now, if you'll excuse me…
+PATIENT: Okay, Doctor. Thank you. I… I hope it’s not too serious. .
+DOCTOR: .

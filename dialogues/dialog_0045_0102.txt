@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. Vantine, good to see you. I'm Dr. Billman. So, what brings you in today?
+PATIENT: Oh, hello Doctor. Good to meet you too. Hmm… what brings me in? It’s… well, it’s hard to say exactly. I just… I find myself sighing a lot these days. Deep breaths, you know? Like a weight on my chest, but not painful, just… there. It happens mostly when I’m sitting, I think. Or maybe watching the news. Everything’s so… much these days.
+DOCTOR: Sighing a lot, huh?
+PATIENT: Yes, Doctor. It’s not new, not really. It’s been… building, I suppose. My wife, she used to tell me to sit up straight, take a good breath. She… she knew when I was getting like this. It’s been a few years since she passed, you see.
+DOCTOR: I see. And you said it happens mostly when you're sitting or watching the news?
+PATIENT: Yes, that’s right. Sitting… and the news. Though sometimes it just… happens. I’ll be thinking about something, maybe something from a long time ago, and whoosh… a big sigh. It doesn’t… stop me from doing things, but it’s… unsettling, you know? Like a little ghost in my chest.
+DOCTOR: A "little ghost," alright. And has anything else changed recently?
+PATIENT: Hmm… changed? Let me think. Not that I recall, really. I eat my usual rice and fish, walk around the neighborhood a bit… My grandson visits when he can, which is nice. He worries about me, always asking if I'm alright. I tell him I'm just an old man getting older. I suppose that’s change enough, isn't it? Getting older… everything slows down.
+DOCTOR: Well, getting older is a change, yes. But I'm trying to get a sense of anything new happening physically. Any shortness of breath, chest pain, dizziness, swelling in your legs or feet?
+PATIENT: Oh… physically. No, no chest pain. Not really. Sometimes I feel a little tired, but that’s just… old age, I think. Dizziness… not that I’ve noticed. Swelling… maybe a little in my feet sometimes, but I always figured that was from sitting too long. You know, like when you’ve been sitting for hours watching television. It goes down when I move around.
+DOCTOR: Alright. And are you currently taking any medications, or do you have any allergies I should be aware of?
+PATIENT: Medications? No, Doctor. Not really. I haven’t needed much over the years. Just a little something for my arthritis now and then, but nothing regular. Allergies… hmm… I don’t think so. I've never really paid much attention to allergies. My wife always did the worrying about those things.
+DOCTOR: Okay. Well, let's just do a quick listen to your heart and lungs, just to be sure everything's as it should be. And maybe check your blood pressure. It's standard procedure, you understand.
+PATIENT: Oh, yes, of course, Doctor. Whatever you think is best. My wife always said I should listen to the doctors. She was a sensible woman. I'll just… sit here then, won’t I?
+DOCTOR: Good. If you could just relax your arm for me... and take a deep breath. Alright. Heart sounds are… within normal limits. Lungs are clear. Blood pressure is a little elevated, 140 over 90. Not alarming, but something we'll keep an eye on.
+PATIENT: Elevated, you say? Is that bad, Doctor? My wife… she always worried about my blood pressure. She used to make me drink herbal teas. I never really liked them much, but I drank them anyway.
+DOCTOR: Well, it's not ideal. It's often just a sign of getting older, and can be managed with lifestyle changes. And, frankly, worrying about it won't help.
+PATIENT: Lifestyle changes? Like… drinking less tea? Or… what sort of changes, Doctor? I’m not very good at changes, you see. I like my routine. It’s… comforting.
+DOCTOR: Comforting is fine, Mr. Vantine, but ignoring potential problems isn't. We're talking about things like regular, moderate exercise - a walk around the block, perhaps - and a healthy diet. Less salt, more fruits and vegetables. Simple things. And perhaps try to avoid dwelling on upsetting news stories. It clearly doesn't do your blood pressure any favors.
+PATIENT: Oh. Exercise… and less salt. My grandson tells me the same things. He’s very health-conscious, that boy. And the news… well, it is upsetting. Everything is so… chaotic these days. It’s hard not to worry, Doctor. But I suppose I can try. Less tea, more walking… and less news. Is that all?
+DOCTOR: For now, yes. We'll monitor your blood pressure at your next appointment. If you start experiencing any chest pain, shortness of breath, or dizziness, you call my office immediately, understand?
+PATIENT: Yes, Doctor. Chest pain, shortness of breath, dizziness. I’ll remember that. My wife always said I had a good memory for important things. Though sometimes… things slip my mind these days. But I’ll try my best. When is my next appointment, Doctor?
+DOCTOR: We'll schedule you for three months from today. That'll be November 2nd. In the meantime, try to follow those suggestions. And try not to stress about it too much, Mr. Vantine. Is there anything else I can help you with today?
+PATIENT: No, Doctor. I think that’s all. Thank you for your time. And for listening to me. It’s… nice to talk to someone. November 2nd, you said? I’ll make a note of that.
+DOCTOR: Good. Have a good day, Mr. Vantine.
+PATIENT: You too, Doctor. Thank you again. .

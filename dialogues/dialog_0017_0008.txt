@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Guerrerolopez. I am Dr. Blim. Now, let’s not waste any time. What brings you in today?
+PATIENT: Right, good morning. Uh, my ear… it feels blocked. Full, you know? Been like that for… a bit now, I suppose. Honestly, time gets away from me these days. It’s just… uncomfortable.
+DOCTOR: “A bit now”?
+PATIENT: Oh, jeez… maybe a week? Two? It’s hard to say. Things… aren’t as clear as they used to be. My wife… she always kept track of these things. It’s definitely been long enough that it’s bothering me, though.
+DOCTOR: Alright. And is this fullness constant, or does it come and go?
+PATIENT: Hmm… mostly constant, I think. But… sometimes it feels a little worse. Like when the weather changes, maybe? Or if I’m… tired. It’s not sharp pain, just… pressure. A blocked feeling, like something’s inside. Does that make sense?
+DOCTOR: It’s… adequate. Have you experienced any discharge, ringing in the ear, or any hearing loss alongside this “pressure”?
+PATIENT: Discharge? No, I don’t think so. Ringing… sometimes, very faintly. Like a high-pitched whine, but it’s not constant either. And hearing… well, I’m not as sharp as I used to be, but I haven’t noticed anything drastically different. Everything seems… muffled, generally. But that could just be getting older, right?
+DOCTOR: Quite possibly. Do you have a history of ear infections?
+PATIENT: Ear infections… oh, goodness. As a boy, maybe? I had a lot of… childhood illnesses. My mother always said I was a sickly child. But as an adult? Not that I recall. It’s been a very long time. I… honestly can't remember specifics. Is that a problem?
+DOCTOR: It's... unhelpful. Are you currently experiencing any fever, nausea, or dizziness?
+PATIENT: No, no fever. Definitely not nauseous. And no dizziness, thankfully. Just this… blockage. It's mostly just annoying, to be honest. Makes it hard to hear people sometimes. Especially when they're speaking quietly. Does that help?
+DOCTOR: “Annoying.” Right. Let's have a look. Please, sit forward. I need to examine your ear. And try to remain still, if you wouldn't mind.
+PATIENT: Alright, alright. Just… try to be quick, if you could. I haven't got all day, you know. And… please be gentle? It's a little sensitive.
+DOCTOR: Hmm. There’s some cerumen impaction in both ears. And the tympanic membranes appear… slightly dull. No visible perforations. It's as I suspected. A blockage. I'll need to irrigate your ears. It’s a simple procedure.
+PATIENT: Irrigate? What does that… involve? And is it going to be painful? I don't do well with… things in my ears. My wife used to always handle these sorts of things. I really… I'd rather not if it's going to be unpleasant. Is there another way?
+DOCTOR: Another way?
+PATIENT: Well, I mean… could we try… drops first? Or… something milder? I just… I don’t like the sound of “irrigate.” It sounds… invasive. Is it absolutely necessary? Perhaps it’ll clear up on its own? It hasn't bothered me too much, until recently.
+DOCTOR: Mr. Guerrerolopez, a significant cerumen impaction requires removal. Leaving it untreated can lead to hearing loss, tinnitus, and even infection. Drops may offer minimal relief, but they will not adequately address the blockage. I can attempt manual removal with a curette, but it’s unlikely to be successful given the level of impaction. We can proceed with irrigation, or I can refer you to an audiologist. Your choice. However, delaying treatment is… unwise.
+PATIENT: Oh, dear. Infection… that doesn't sound good. And tinnitus… my wife had that, it was awful. Alright, alright. Irrigation it is, I suppose. But please… be gentle. And… tell me exactly what you’re doing, okay? I don't want any surprises. Is it going to be cold water? I don't like cold water in my ears.
+DOCTOR: The water will be body temperature, Mr. Guerrerolopez. And I will explain each step as I proceed. It involves gently flushing the ear canal with water to dislodge the cerumen. You may experience a slight sensation of fullness and… a brief feeling of vertigo. Remain still, and breathe normally. Now, lean your head to the left.
+PATIENT: Okay… okay. Vertigo? Oh, lovely. Just… let me know when it's over, alright? And… try not to poke anything too far in there, if you could. It’s a small ear, you know. My wife… she always said I had delicate ears. Just… take your time. And… is it working? I can't really feel anything.
+DOCTOR: I am observing some cerumen discharge, which is encouraging. There is resistance. Ah. There. Now, we’ll repeat the process on the right ear.
+PATIENT: Resistance? Oh dear. That doesn’t sound good at all. Please be careful… it’s very sensitive, you know. And… is it over soon? I really… I don't like this at all. Just… let me know when it’s finished, alright? My wife… she’d be furious if she knew I was enduring this. .
+DOCTOR: Finished. Now, let’s assess your hearing. Can you hear me clearly now?

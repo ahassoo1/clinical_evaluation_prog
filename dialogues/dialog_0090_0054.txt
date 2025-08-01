@@ -1,0 +1,38 @@
+DOCTOR: Good morning, Mr. Tati. I’m Dr. Kur. So, what brings you in to see me today?
+PATIENT: Uh, good morning, Doctor. Cough… I got cough. Long time already. And… feel tired all the time. Also, my nose… always block, then runny. Happens a lot.
+DOCTOR: “Long time already,” you say. Can you be a little more specific?
+PATIENT: Hmm… specific? Maybe… six months? Or maybe longer. I dunno exactly. I work a lot, change tires… dirty job. Maybe from the dust? I forget things easily, Doctor. Sorry.
+DOCTOR: It’s alright. We'll try to figure it out. So, six months, give or take. And you think it might be related to your work with the tires and dust?
+PATIENT: Yeah, maybe. Lots of dust. And sometimes… feel cold also. Not always fever, but like… chills. And the cough… it makes my chest hurt sometimes, when I cough really hard.
+DOCTOR: Chest pain with coughing… alright. Do you notice any pattern to the cough?
+PATIENT: Pattern? Like… when it’s worse? Uh… I think… at night, it’s bad. When I lie down. And… when the weather is cold, like today. Also, when I’m tired… it gets worse. I think. It's hard to remember.
+DOCTOR: Right. Worse at night, with cold weather, and when you’re tired. And you mentioned a runny nose… is the discharge clear, colored—yellow, green?
+PATIENT: Uh… Sometimes clear, sometimes… yellowish. Not green, I don't think. Mostly yellowish when I’m very sick. Then the nose… very block, cannot breathe. Sorry, Doctor, I’m not good with describing things.
+DOCTOR: Alright, alright. Let's move on. Have you had any fever, chills, or night sweats with this cough?
+PATIENT: Fever… sometimes. Not very high, I think. I don't take temperature. Chills, yeah, like I said before. Night sweats… Maybe? I dunno… I sleep with my wife, she doesn't say. Sorry. I forget. I just feel tired all the time.
+DOCTOR: Do you have any other symptoms?
+PATIENT: Other symptoms… Sometimes… headache. Not always. And… my body ache, like… when I move. Like after hard work, but… all the time a little bit. And… I eat less now. Not much appetite.
+DOCTOR: Alright. And have you noticed any weight loss?
+PATIENT: Weight loss… Maybe a little. My wife say my pants… a bit loose. But I dunno, maybe I just getting old. I work hard, always busy. I don’t have time to think about weight.
+DOCTOR: Alright. Let’s get some basics. Any allergies to medications, foods, anything like that?
+PATIENT: Allergies? I don’t think so. Never try any medicine before, Doctor. I just rest when I’m sick. My wife give me some tea… that's all. I don't know about allergies. I never had bad reaction to anything.
+DOCTOR: And are you currently taking any medications, prescription or over-the-counter?
+PATIENT: No, Doctor. Like I said, no medicine. Only tea from my wife. She makes ginger tea, very good. That’s all I take. I don't like pills.
+DOCTOR: Alright. Have you had any serious illnesses or been hospitalized before?
+PATIENT: Hospital… No. Never been to hospital. Just small fever when I was kid, maybe. My mother give me some herbs. Never need doctor. Until now.
+DOCTOR: And what about your family?
+PATIENT: Family? My wife, she healthy. My children… they okay. They live in city, work in office. My father… he had cough also, long time ago. But he okay now, very old. I dunno what kind of cough he had.
+DOCTOR: Alright. Do you smoke?
+PATIENT: Smoke? No, Doctor! Never smoke. Bad for health. I work hard, need good lungs to change tires.
+DOCTOR: And how much alcohol do you drink?
+PATIENT: Alcohol… Sometimes, with my friends. Not much. Maybe one or two beers on weekend. When I’m not tired. Nothing serious.
+DOCTOR: Alright, Mr. Tati. I’m going to listen to your lungs and check your throat. Please, have a seat.
+PATIENT: Okay, Doctor. Okay. I’m ready.
+DOCTOR: Take a deep breath in… and out… again… Hmm. A few wheezes… and some crackles on the lower right lobe. Say “Ahhh…” Mild redness… nothing too significant. Lymph nodes are slightly enlarged. Your throat's a little inflamed, lungs sound a bit congested. I'll need to order a chest X-ray to get a better look, and some blood work to rule out infection.
+PATIENT: X-ray? Blood work? Is… is it bad, Doctor? What’s wrong? I just got cough… and tired. I gotta work, you know? I need to change tires.
+DOCTOR: It’s not necessarily bad, Mr. Tati. But we need to rule things out. A chest X-ray and blood work will help me determine the cause of your cough, congestion, and fatigue. It could be a simple infection, but we can’t be sure without proper tests. I'll have the nurse draw some blood, and then we'll schedule you for an X-ray at the imaging center down the street. Do you have insurance?
+PATIENT: Insurance? No, Doctor. No insurance. I just… work. Pay cash. I don’t have much money… X-ray… blood work… very expensive, right? Can’t I just take some medicine?
+DOCTOR: Look, Mr. Tati, I understand. But I can't just prescribe medicine without knowing what I'm treating. It's irresponsible. The X-ray and blood work are essential. I'll see what I can do about getting you a reduced rate at the imaging center. And we can discuss payment options after the results are in. But we need to get these tests done. In the meantime, I’m going to prescribe you an expectorant to help loosen the mucus in your lungs, and a cough suppressant to ease the coughing. But these are just temporary measures. The tests are crucial.
+PATIENT: Okay… okay, Doctor. If you think it’s important… I’ll do it. Reduced rate… that would be very helpful. Thank you, Doctor. I just… worry about work. And my wife. I hope it’s nothing serious.
+DOCTOR: Alright. The nurse will be in shortly to draw your blood. And I’ll have the receptionist schedule you for the X-ray. Try to get some rest, Mr. Tati. And drink plenty of fluids. We’ll get to the bottom of this. .
+PATIENT: Okay, Doctor. Thank you. I will try. .

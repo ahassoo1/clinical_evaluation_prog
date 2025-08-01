@@ -1,0 +1,17 @@
+DOCTOR: Good morning, Mr. Sobkowicz. I am Dr. Blim. Now, let’s not waste any time. What brings you in today?
+PATIENT: Hmph. Chest hurt. And… heart beat fast. Like… thump-thump-thump. Blood pressure too high, nurse say. Very busy man, you know. Don't have time for this.
+DOCTOR: “Chest hurt,” you say. And a rapid heartbeat. And the nurse mentioned elevated blood pressure. Very well. Let’s attempt to quantify this. When did this chest pain begin?
+PATIENT: Begin? Hmph. Not important when. It just… happens. Sometimes when I walk. Sometimes when I… eat too much. Old man problems. Don't need to know exactly when. Just fix it.
+DOCTOR: “Just happens.” Right. Well, “just happens” isn’t a diagnosis, Mr. Sobkowicz. It’s… unhelpful. Is the pain sharp, dull, crushing?
+PATIENT: Crushing… maybe? Like… someone sitting on my chest. Not all the time, you understand. And it goes away if I… sit down. But it’s not good. Makes me worry. I have things to do!
+DOCTOR: “Makes you worry.” Understandable. We’ll have a listen. Please lie back on the examination table. I need to listen to your heart and lungs. And please, try to be precise with your descriptions. It assists in… accurate assessment.
+PATIENT: Hmph. Accurate. Yes, yes. Always with the… details. Just get it over with. Hurry.
+DOCTOR: Your blood pressure is indeed elevated – 160 over 95. Heart rate is 92, slightly irregular. Lung sounds are clear, but there's a slight… murmur. Have you ever been diagnosed with any heart condition before?
+PATIENT: Murmur? Never! No doctor ever said… murmur. I go to doctor, they say “take pills.” That’s it. No… murmur. I feel fine, mostly. Just… old. And tired. Pills, that’s all I need, probably. Don’t need fancy words.
+DOCTOR: “Fancy words.” Right. Let’s be clear, Mr. Sobkowicz. A murmur can indicate a variety of things. It doesn’t necessarily mean anything serious, but it requires investigation. Do you take any medications currently?
+PATIENT: Hmph. Yes. Little white pill. And… another one, blue. For… the pressure. Nurse give it to me. I don't remember the name. Too many pills already! Just fix the chest hurt. That's what I pay for.
+DOCTOR: “Too many pills.” I see. A little white pill and a blue one for blood pressure… insufficient information. Do you recall the dosage of either medication?
+PATIENT: Dosage? You think I keep track of… numbers? I take them in the morning, sometimes at night. Wife handles all that. She knows. Ask her! I just want to be done with this. What’s the problem? Tell me. Now.
+DOCTOR: Mr. Sobkowicz, with all due respect, a proper medical assessment requires details. We cannot simply “fix” a problem without understanding its cause. I need to know what you are taking, how much, and when. Since you are unable to provide that information, I suggest contacting your wife. Otherwise, we are wasting time. I can, of course, order an EKG and blood work to rule out any acute cardiac event, but it will delay things further. Would you like me to proceed with that?
+PATIENT: Hmph. Fine. Order the… the tests. Whatever they are. But hurry. And tell the nurse to call my wife. She has everything written down. This is ridiculous. I have appointments! Just… get it done. And don't give me any more questions.
+DOCTOR: Very well. The nurse will assist you with the EKG and draw the necessary blood samples. I will review the results as soon as they become available. In the meantime, please refrain from any strenuous activity. And I strongly suggest you have a conversation with your wife regarding your current medication regimen. .

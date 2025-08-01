@@ -1,0 +1,24 @@
+DOCTOR: Right. Well, Christen, have a seat. So, what brings you in today?
+PATIENT: Yes, thank you. I’ve been… rather excessively thirsty lately, and hungry as well. It’s been going on for a few weeks now, and it’s quite disruptive, to be frank. I'm hoping you can help me figure out what's going on.
+DOCTOR: Excessive thirst and hunger… a few weeks, you say?
+PATIENT: Yes, approximately three weeks, give or take a few days. It’s not… a gradual increase, exactly. More like it just started being much worse than usual, one day. And it hasn't let up. I find myself constantly reaching for water, and then feeling peckish not long after eating. It’s… inconvenient.
+DOCTOR: Inconvenient, yes. Well, we need to rule out the obvious things first. Have you noticed any changes in your… bathroom habits?
+PATIENT: Bathroom habits? I... I suppose not particularly. Everything seems... regular, if you understand me. No different than usual, really. I don’t really want to discuss this in detail, if you don’t mind. Is it absolutely necessary?
+DOCTOR: No, no, perfectly alright. Just covering the bases. It’s important to get a complete picture. Have you had any unexplained weight loss?
+PATIENT: Weight loss… Hmm. Now that you mention it, I believe my trousers are a bit looser than they were. Not a significant amount, mind you, but noticeable. I hadn't connected the two, to be honest. I haven't been actively trying to lose weight.
+DOCTOR: Alright. And what about your energy levels?
+PATIENT: They've been... low. A bit more tired than usual, I suppose. It's difficult to say, as my job isn't particularly strenuous. Shipping and receiving, you know. Mostly just moving boxes. But yes, definitely more fatigued. It's not debilitating, but it's there. I find myself needing to sit down more often.
+DOCTOR: Alright. And just to be thorough, are you experiencing any blurred vision, slow-healing sores, or frequent infections?
+PATIENT: Blurred vision... no, not that I've noticed. Slow-healing sores… I cut myself a few weeks ago while unpacking a shipment, but it healed normally, as far as I can tell. Frequent infections… no, nothing like that. I haven't been ill recently. I'm generally quite healthy, you see. I don't understand why this is happening.
+DOCTOR: Right. Well, “generally quite healthy” doesn’t rule everything out. Let’s do a quick physical exam, shall we?
+PATIENT: A physical exam? Very well. Though I assure you, I feel perfectly fine aside from the thirst and hunger. I hope it won't take long. I have a delivery schedule to manage, you understand.
+DOCTOR: Let’s just check your vital signs, listen to your heart and lungs, and a brief abdominal exam. It won't be extensive. If you’ll step over here… Blood pressure first.
+PATIENT: Very well. Though, honestly, I suspect this is just a minor inconvenience. Perhaps I'm simply dehydrated. Is that not the most likely explanation?
+DOCTOR: It's possible. But we need to rule out other causes. 130 over 85. Not terrible, but slightly elevated. Pulse is 78, regular. Now, let’s listen to your heart and lungs. Take a deep breath for me… and another… Lungs are clear. Heart sounds normal. Now, let's quickly palpate your abdomen. Any tenderness here?
+PATIENT: Ooh, yes, actually. A little tenderness right… there. Just below my ribs, on the right side. It's not sharp pain, more like… discomfort. It's been present for a few days, I suppose. I hadn't mentioned it because it wasn't particularly bothersome.
+DOCTOR: Hmm. And what about here?
+PATIENT: Yes, that’s… a bit tender as well, though less so than before. It's… difficult to describe. Not painful, exactly, but… uneasy. Is something wrong?
+DOCTOR: Right. Well, given your symptoms – the excessive thirst, hunger, weight loss, and now this tenderness – it’s worth running some blood tests. I want to check your blood sugar levels, kidney function, and liver enzymes. It could be a number of things, but we need to rule out diabetes and other potential causes. I'll have the nurse draw some blood. It's a standard procedure.
+PATIENT: Blood tests… of course. Very well. Though I must say, this is all rather disruptive. How long will this take, exactly? And will I receive a call with the results, or will I need to schedule another appointment? I have commitments, you understand.
+DOCTOR: The blood work itself will only take a few minutes. The results usually come back within 24-48 hours. The nurse will let you know if any further action is required. If everything is normal, we’ll discuss it briefly over the phone. If not… well, then we’ll schedule a follow-up. Now, let's get that blood drawn.
+PATIENT: Very well. I suppose that’s all I can do. I trust this won’t take too long. And I do hope you’ll have a clear explanation for all of this. It’s rather unsettling, to be frank.

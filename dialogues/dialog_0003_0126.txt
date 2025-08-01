@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Mr. Erxleben. I’m Dr. Yackey. So, let’s get straight to it. What brings you in today?
+PATIENT: Good morning, Doctor. Yes, well, I’ve been… unusually thirsty lately. And hungry, too. It's just been… a lot more than usual, if you understand. I'm not sure what's causing it, and frankly, I haven't much time to spend figuring it out.
+DOCTOR: Thirsty and hungry…right. And how long has this…increased appetite and thirst been going on?
+PATIENT: Oh, goodness… let me think. Probably… a month or so? It’s hard to pinpoint exactly. Things have been a bit chaotic since the… divorce. But definitely the last month, I’d say. It's just been getting worse steadily, not a sudden thing.
+DOCTOR: A month. And besides the increased thirst and hunger, are you experiencing any other symptoms?
+PATIENT: Hmm… not that I've noticed, no. I mean, I’m a bit tired, perhaps. But honestly, who isn’t? It's been a warm summer, and my job’s physical. Could just be that. I haven’t been feeling ill, exactly. Just… different. Is that helpful? I don't want to waste your time listing things that aren’t important.
+DOCTOR: Tiredness is…vague. Have you noticed any changes in your urination?
+PATIENT: Urination? Well… I suppose I've been going to the bathroom more often, yes. Now that you mention it. Again, I hadn’t really connected it to the thirst, but… yes. More frequent trips, if that’s what you mean. Is that…normal with being thirsty all the time? I really don't know.
+DOCTOR: More frequent urination with increased thirst… alright. And have you noticed any weight loss, despite the increased appetite?
+PATIENT: Weight loss… that’s a good question. I haven’t been weighing myself regularly, to be honest. But… my trousers do feel a little looser than they used to. Just a bit. I’m not sure if that’s from the activity at work, or… something else. It's hard to say. I haven’t been paying as much attention to things like that recently.
+DOCTOR: Alright. Let's do a quick check of your vital signs, and then I'll listen to your heart and lungs. Routine, of course. Then we'll proceed. Please step onto the scale.
+PATIENT: Very well. The quicker we can get this done, the better.
+DOCTOR: Your weight is 93 kilograms, and your height is 170 centimeters. That gives you a BMI of… 32.3. We'll need to discuss that separately, but for now, let's proceed. Blood pressure is 138 over 85. Pulse is 72 and regular. Respiration is 16 and unlabored. Deep breaths, please.
+PATIENT: Alright. Deep breaths. Is everything alright so far, Doctor? This isn’t going to take much longer, is it? I have a delivery to oversee this afternoon.
+DOCTOR: Lungs are clear. Heart sounds…normal. I’m going to order a basic metabolic panel and a complete blood count. Also, a urine analysis. It's standard procedure given your symptoms. This will help rule out several possibilities. We need to be thorough, Mr. Erxleben, despite your…busy schedule.
+PATIENT: Yes, of course. Thoroughness is… sensible. Just let me know what’s involved, how long it will take, and what the cost might be. I need to manage my time, and my expenses. And…is there anything I should avoid doing while we wait for the results?
+DOCTOR: The blood work requires a standard venipuncture. The urine analysis is…a sample. The lab is down the hall; it shouldn't take more than fifteen minutes for both. As for restrictions… maintain your usual diet and activity. Avoid excessive sugary drinks, though. And try to get some rest, if that's possible. Here's the form. The lab technician will explain everything. I'll review the results as soon as they're available. We'll schedule a follow-up then. Is that satisfactory?
+PATIENT: Yes, that’s… acceptable. Excessive sugar… noted. Thank you, Doctor. If you'll excuse me, I’ll be off to the lab. The sooner this is done, the better.
+DOCTOR: Very well, Mr. Erxleben. Please let the lab know you're here for the tests I ordered. We’ll be in touch.
+PATIENT: .

@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Mr. Shanor. My name is Dr. Pirl. It’s lovely to meet you. Now, could you tell me what brings you in to see me today?
+PATIENT: Morning, Doctor. Shanor is my name. I… need check for referee. For fitness. Want make sure okay. I… coach little league, and they want me to get checked.
+DOCTOR: A referee check, you said?
+PATIENT: Yes. For… be good referee. And coach. They say need check heart, and… running? And… strong? I don't know all the things.
+DOCTOR: I understand. So, a physical examination to ensure you are fit to coach and referee Little League. That’s perfectly reasonable. It sounds like they're requesting a sports physical. We'll assess your heart health, overall fitness, and make sure you're in good condition for those activities. Just to confirm, have you had a physical examination recently, perhaps within the last year?
+PATIENT: No. Long time. Maybe… five years ago? I… not remember exactly. After wife… not so much doctor.
+DOCTOR: I see. That’s quite alright. We'll do a thorough examination today then. Before we begin, could you tell me about any medical conditions you’re currently being treated for?
+PATIENT: No… nothing now. Sometimes… back hurt. From work. Lifting heavy things. But… okay mostly. Take some pills. Not every day.
+DOCTOR: Back pain, and you take medication for it as needed. Do you recall the name of the medication you’re taking for your back?
+PATIENT: Uh… I… give to pharmacy. White pills. Small. I don't know name. Sorry.
+DOCTOR: That’s alright, Mr. Shanor. We can often identify it through your pharmacy records. Do you have a preferred pharmacy where you usually fill your prescriptions?
+PATIENT: Yeah… Chen’s Pharmacy. Down on Elm Street. Near the market.
+DOCTOR: Excellent. I see your records here. It looks like you’ve been prescribed ibuprofen as needed for back pain. Now, are you currently experiencing any back pain right now?
+PATIENT: No… not bad now. Sometimes… after long day. But… okay. I can still move.
+DOCTOR: Good. And are you allergic to any medications, foods, or anything else that you’re aware of?
+PATIENT: No allergy. I… eat everything. Never had problem.
+DOCTOR: Very good. Now, let's talk a little about your family history. Are there any significant medical conditions that run in your family, such as heart disease, diabetes, or cancer?
+PATIENT: Um… my father… had heart problem. When he old. And… my mother… she had sugar sickness. Diabetes, I think.
+DOCTOR: Heart problems in your father and diabetes in your mother. Thank you. Now, do you smoke, or use any tobacco products?
+PATIENT: No. Never smoke. Wife… she smoke a little. But I… never.
+DOCTOR: Good. And how often do you drink alcohol, if at all?
+PATIENT: Sometimes. Weekends maybe. One or two beers. Not much.
+DOCTOR: Alright. And finally, are you currently taking any other medications besides the ibuprofen?
+PATIENT: No… just the pills for back. That's all. I think.
+DOCTOR: Okay, Mr. Shanor. Thank you for providing that information. Now, if you don't mind, I'd like to perform a brief physical examination. We’ll check your heart, lungs, blood pressure, and assess your general fitness. Is that alright with you?
+PATIENT: Yes. Okay. Whatever you need. Let’s do it. I want finish quick.
+DOCTOR: Certainly. Please, if you would, have a seat here on the examination table. We'll start with your blood pressure.
+PATIENT: Okay.
+DOCTOR: Your blood pressure is 130 over 80. A little elevated, but not significantly concerning. Now, I'm going to listen to your heart and lungs with the stethoscope. Please take deep breaths in and out. Your heart sounds regular. I’m hearing clear breath sounds in both lungs. Now, let's check your reflexes. Reflexes are normal. Finally, I’m going to ask you to stand up and walk a few steps so I can assess your gait and balance. Your gait appears normal, and your balance is good. Overall, your physical examination is within normal limits. However, because your blood pressure is a bit elevated, and given your family history of heart disease, I would recommend a follow-up appointment with your primary care physician for further evaluation and monitoring.
+PATIENT: Okay… good. So I can referee?
+DOCTOR: Based on this brief examination, there are no immediate concerns that would prevent you from refereeing. However, to be completely thorough and to ensure your long-term health, I strongly recommend discussing these blood pressure readings with your primary care doctor. They may want to do some additional testing. It’s always best to be cautious. Do you have a primary care physician I can send these results to?
+PATIENT: Uh… Doctor Lee. On Main Street. Near the bank. He… good doctor.
+DOCTOR: Excellent. I’ll send a summary of our visit and the blood pressure reading to Dr. Lee's office. He'll be in touch to schedule a follow-up appointment. In the meantime, I would recommend maintaining a healthy diet and getting regular exercise. And if you experience any chest pain, shortness of breath, or dizziness, please seek immediate medical attention. Do you have any questions for me at this time, Mr. Shanor?
+PATIENT: No. I think… that's all. Thank you, Doctor. I want go now.
+DOCTOR: You're very welcome, Mr. Shanor. I've sent the information to Dr. Lee, and he'll be in touch. Please take care of yourself, and thank you for coming in today. Have a good day.
+PATIENT: .

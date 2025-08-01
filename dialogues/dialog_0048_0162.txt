@@ -1,0 +1,19 @@
+DOCTOR: Alright, Mr. Kristofik. So, you’re here today… and for what reason, exactly?
+PATIENT: Bloating. Look, I don’t have time for a whole lot of this. It’s… my stomach. It puffs up. It’s annoying, alright? Just… bloated. I need to get back to work.
+DOCTOR: Bloated. Right. And how long has this “bloated” feeling been going on?
+PATIENT: Ugh, honestly? I don’t really… keep track of that kinda thing. A while. Weeks, maybe? It comes and goes. It's not like it's always there, you know? Just… when it happens, it’s unpleasant. Is that good enough?
+DOCTOR: Weeks, coming and going. Fine. And are there any other symptoms associated with this bloating?
+PATIENT: Other symptoms? Look, I told you, it puffs up. What more do you need to know? I… I guess sometimes I feel a little gassy, if that's what you mean. But everyone gets gas. It's not like I'm doubled over in pain or anything. It just… feels full, and uncomfortable. I eat, and then I feel… bigger.
+DOCTOR: “Full and uncomfortable.” Alright. And what do you typically eat in a day?
+PATIENT: Seriously? You need to know everything I eat? Look, I’m a pile driver operator. I eat to work. It’s usually… sandwiches, mostly. Whatever’s quick. Sometimes pasta. I don’t have time to be making fancy meals. And… I drink coffee, a lot of coffee. Is that a problem?
+DOCTOR: Coffee. Alright. And any changes in your bowel habits?
+PATIENT: Look, are you asking me if I’m… regular? I don't appreciate you asking me that. It's personal. But fine, yes, sometimes things are… slower than usual. Okay? Is that what you wanted to know? Just… leave it at that.
+DOCTOR: Slower than usual. And any… abdominal pain?
+PATIENT: No! I already said, I'm not doubled over in pain. Just… discomfort. It’s not sharp, it’s not… anything serious. It just feels full, like there’s too much in there. Like a balloon, almost. Look, I’m telling you, it’s probably just something I ate. I really need to get back to work.
+DOCTOR: Alright. Let's do a quick exam, just to rule things out. Lie down on the examination table. I need to listen to your abdomen. It’ll only take a moment.
+PATIENT: Listen to my abdomen? Really? You need to listen to my stomach? Look, I’m a grown man, alright? I know what’s going on with my body. But fine. Whatever. Just… get it over with.
+DOCTOR: Alright. Abdomen is… mildly distended. Normal bowel sounds, a little sluggish. No guarding or rebound tenderness. Given your symptoms and the brief exam, it’s likely some form of… dietary indiscretion. Perhaps exacerbated by the coffee. I recommend reducing caffeine intake and… attempting a bland diet for a few days. If symptoms persist, then we can consider further investigation.
+PATIENT: Dietary… what? Look, just tell me what I need to do, alright? Less coffee, eat boring food. Got it. Can I go now? I'm losing money every minute I'm here.
+DOCTOR: Yes, you can go. Avoid caffeine, stick to easily digestible foods. If no improvement in a week, schedule a follow-up appointment. And… try not to stress about it. It can make things worse. Here’s a copy of my notes. Now, if you’ll excuse me, I have other patients waiting.
+PATIENT: Fine. Whatever. Thanks. .
+DOCTOR: .

@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Ms. Weichers. I’m Dr. Paulino. So, what brings you in today?
+PATIENT: Good morning, Doctor. It is… a little embarrassing to talk about, but I have been coughing up blood. Not a lot, but enough to worry me. It started a few days ago.
+DOCTOR: Coughing up blood, you say. Hemoptysis, as we call it. And it began a few days ago. Very well. Let’s not dismiss anything as “embarrassing” when we’re discussing your health. It’s concerning, naturally, and we’ll get to the bottom of it. Can you describe the blood?
+PATIENT: Yes, of course. It is… bright red. Not dark, you understand? And it is mixed with… my mucus, when I cough. Sometimes there is more blood than mucus, sometimes less. It isn't… a huge amount, like in the movies. Just… spotting, really. It makes me feel very tired after, sometimes.
+DOCTOR: Bright red, mixed with mucus… varying amounts. And you experience fatigue afterward. Alright. And is this cough… productive, generally?
+PATIENT: Productive? I… I do not understand. Does that mean… do I cough up anything other than blood? Yes, usually. Mucus, like I said. Sometimes it is clear, sometimes… yellow. I have felt a little… congested, I think that is the word? Like my chest is full.
+DOCTOR: “Productive” simply means whether or not you are bringing anything up when you cough. So, yes, mucus, sometimes clear, sometimes yellow… congestion. Understandable. Now, have you had a fever, chills, or night sweats accompanying this cough?
+PATIENT: No, Doctor. No fever. Not that I have noticed. And no chills, or… night sweats. I sleep quite well, usually. I am a little worried about what is causing this, though. I do not smoke, if that is what you are thinking.
+DOCTOR: Non-smoker. Good to know. It’s… less common in those who don’t smoke, naturally. Have you travelled recently?
+PATIENT: No, Doctor. I have not travelled. I live here in the city and… I have not been away. I work at the clinic, you see? Physical therapy. I have been here for many years. It has just been… normal life. Until this cough started.
+DOCTOR: You work at the clinic… interesting. And how long ago did this cough begin precisely?
+PATIENT: Hmm… let me think. It was… Tuesday, I believe. Yes, Tuesday morning. So, about four days ago. I thought it was just a little irritation at first, but then… the blood. That is why I came to see you.
+DOCTOR: Four days. Alright. And have you noticed any shortness of breath, chest pain, or weight loss recently?
+PATIENT: No, Doctor. No shortness of breath. I walk up many stairs at work, to see patients, and… I am not having trouble with that. No chest pain, either. And my weight… I think I may have lost a little weight, but it is summer and… I have not been eating much. It is too hot. But nothing significant, I assure you.
+DOCTOR: Very well. We'll need to do a quick examination. I'm going to listen to your lungs, and I’ll take your blood pressure and pulse. Afterwards, we'll need to get a chest X-ray just to be certain of what’s going on. Do you have any allergies to medications?
+PATIENT: No allergies, Doctor. I have taken many medicines over the years, for… small things. No problems. The examination is fine. I trust your judgement. A chest X-ray sounds… sensible. I just want to know what is happening.
+DOCTOR: Good. Let's begin then. Please, if you'll have a seat here and take a few deep breaths… Take a deep breath… and exhale. Again… and again. Your respiratory rate is a little elevated, and there's some mild wheezing in the lower lobes, bilaterally. Blood pressure is 130 over 80, pulse 88. Now, I would like you to cough for me, if you can. Not forcefully, just a normal cough.
+PATIENT: Alright. Here I go… Like that? It is not much, I am sorry.
+DOCTOR: That will do. As expected. Now, I'm going to palpate your chest and listen to your heart. This might be slightly uncomfortable. Any tenderness here?
+PATIENT: Just a little… here. Not very painful, but… sensitive. And there, a little.
+DOCTOR: Tenderness… Alright. It could be musculoskeletal, but given the hemoptysis, we'll need to rule out other causes. We’ll get the X-ray done now. The technician is ready. I will review the results as soon as they are available. In the meantime, avoid strenuous activity and let me know if the bleeding worsens or you develop a fever. Do you understand?
+PATIENT: Yes, Doctor. I understand. No strenuous activity. And if it gets worse, I will let you know immediately. Thank you for your time. I appreciate you taking this seriously. I will go to the X-ray now?
+DOCTOR: Yes, go to the radiology department. They are expecting you. Room 302. I’ll be in touch as soon as I have the results. Don't hesitate to call the clinic if you experience any concerning symptoms before then. And Ms. Weichers… try to remain calm. It's likely nothing serious, but we need to be thorough.
+PATIENT: .

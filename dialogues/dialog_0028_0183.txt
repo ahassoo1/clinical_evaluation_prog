@@ -1,0 +1,32 @@
+DOCTOR: Right. Mr. Grumman, is it?
+PATIENT: Yes. Chirag Grumman. And you are the doctor? A young one.
+DOCTOR: Dr. Memmolo. And yes, I am the doctor. Now, if you don't mind, let's get straight to why you're here today. Time is… valuable.
+PATIENT: Value-able, yes. I am tired. Very tired. Not like… normal tired after work. This is… inside tired. Like something is wrong with the machine, you understand? My liver, the paper says. It is not good, yes?
+DOCTOR: Your records do indicate some elevated liver enzymes. "Inside tired," as you put it… that's not a very specific symptom, Mr. Grumman. Can you tell me more about this tiredness?
+PATIENT: Specific? What do you want specific? I wake up tired. I go to bed tired. Even sitting here, talking to you, I am… drained. It is not like I did too much. I sit at the loom all day. Not lifting heavy things. Just… sitting. My wife, she says I look like a ghost. She worries.
+DOCTOR: Right. A loom… sedentary work. And this has been going on for… how long exactly?
+PATIENT: Maybe… three months now? It started slow. Just a little bit more sleepy. Then it got worse. Each week, a little more. I thought maybe it was the weather. Or the new tea my wife bought. But it does not go away. It is… constant. Like a weight.
+DOCTOR: Three months. Constant… Alright. Do you have any other symptoms?
+PATIENT: Other? Hmm. My stomach… sometimes it feels… swollen. Not painful, just… big. And I do not eat much anymore. Food does not… taste good. Everything is… bland. Like cardboard.
+DOCTOR: Swollen stomach, loss of appetite, altered taste… Have you noticed any changes in your urine or stool?
+PATIENT: Urine? No. Stool… it is… dark. Very dark. Like… coffee. It has been like that for a little while. I did not think it was important.
+DOCTOR: Dark stool is absolutely important, Mr. Grumman. We need to investigate this further. Have you had any nausea or vomiting?
+PATIENT: No vomiting. Nausea… sometimes, yes. Just a little bit. In the morning, usually. But I can keep food down. Mostly. It's just… not very appealing. And the dark… you are sure this is bad? My wife worries too much.
+DOCTOR: Mr. Grumman, dark stool is a sign of bleeding in the digestive tract. It’s not something we can simply dismiss. Now, let's move on to your past medical history. Have you ever been diagnosed with anything else?
+PATIENT: Diagnosed? No. Not really. I had a cough, once, a long time ago. And my back… it hurts sometimes, from sitting. But nothing… serious. I am a strong man. Always have been. This tiredness… it is strange.
+DOCTOR: Alright. Any surgeries?
+PATIENT: No surgeries. Never. I do not like doctors cutting on people. My wife had her… lady problems fixed, once. But me? No. I prefer to keep everything… original.
+DOCTOR: Family history then. Are there any illnesses that run in your family?
+PATIENT: Family? My father… he died young. From… a fever, I think. In Ethiopia, a long time ago. My mother, she lived a long life. But she had… troubles with her stomach. Always complaining. And my brother… he drinks too much. That is his trouble. Not me.
+DOCTOR: Okay. And what about your social history, Mr. Grumman?
+PATIENT: Social? I work. I come home. I eat with my wife. I sleep. Sometimes I watch the news. It is not a very… exciting life. I do not drink. I do not smoke. I do not go to parties.
+DOCTOR: Do you have any allergies to medications?
+PATIENT: No allergies. I took some pills once, for a headache. But I do not remember what they were. They worked, I think. My wife gave them to me. She knows these things.
+DOCTOR: Alright, Mr. Grumman. I’m going to need to do a quick physical exam. I want to check your abdomen, listen to your heart and lungs, and feel your liver. Please lie down on the examination table.
+PATIENT: Table? It is not comfortable, is it? But fine. I will lie down. But you must be gentle. My wife says I am… delicate.
+DOCTOR: Yes, well. If you could just lie on your back with your arms at your sides. First, I'm going to listen to your heart and lungs. Heart sounds are regular, lungs are clear… a little diminished breath sounds, but that could be from your age. Your abdomen is… soft, but there's some tenderness in the upper right quadrant. And your liver is enlarged and tender to the touch. Okay, Mr. Grumman. I need to order some blood work and imaging. Specifically, a complete metabolic panel, a liver function test, and a CT scan of your abdomen.
+PATIENT: CT scan? Is that… safe? My wife reads things on the internet. She says those things have… radiation. And blood work… so many needles. I do not like needles. But… if you think it is necessary. What do you think is wrong with me, doctor? Is it… serious?
+DOCTOR: Mr. Grumman, the CT scan does involve radiation, but the benefits outweigh the risks in this case. We need to see what's happening inside your abdomen. As for the blood work, it's necessary to assess your liver function and rule out other potential causes. It’s too early to say definitively what’s wrong, but based on your symptoms and the preliminary physical exam, I suspect a problem with your liver. It could be anything from fatty liver disease to something more serious like hepatitis or even cirrhosis. I'm going to be frank with you. It could be serious, but we won’t know until we get the results of these tests. I’ll have the nurse draw your blood now. Then, we’ll schedule the CT scan as soon as possible. Do you understand?
+PATIENT: Understand? A little. Cirrhosis… that sounds bad. My wife… she will be very worried. And you are sure… the scan is safe? Even a little bit? I do not want to glow in the dark. But… if you say so. Blood work first, then the scan. And you will tell me everything, yes? Everything that is wrong?
+DOCTOR: Yes, Mr. Grumman. The risks of the CT scan are minimal. And I will explain the results to you as thoroughly as possible. I'll have the nurse come in shortly to draw your blood. In the meantime, please try to relax. Patient presents with fatigue, abdominal distention, dark stools, altered taste. Enlarged and tender liver on palpation. Suspect liver pathology. Order CMP, LFT, CT Abdomen. Discussed risks and benefits with patient. Just try not to worry too much before we have all the information. The nurse will be with you shortly.
+PATIENT: .

@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Vankampen. I am Dr. Mutnick. Now, please, tell me what brings you in today. Be concise, if you would. My schedule is rather…full.
+PATIENT: Good morning, Doctor. It’s my back, low down. Hurts a lot, it does. Been hurting for… well, a good while now. Feels like old bones, maybe? I’m 77, you know. Not as strong as I used to be.
+DOCTOR: "Old bones," you say?
+PATIENT: Yes, Doctor. That’s what it feels like. Like something is…brittle. I don’t know the big words, but it hurts when I bend over. And sometimes just…standing. It's a dull ache, mostly. But it can get sharp if I move wrong.
+DOCTOR: Right. And how long precisely has this “dull ache” been occurring?
+PATIENT: Hmm. Let me think… It started… maybe six months ago? A little bit at a time, you know? I didn't think much of it at first. Just figured I was getting old. But it's gotten worse the last few months, definitely. Enough that it bothers me every day.
+DOCTOR: And have you experienced any… other symptoms?
+PATIENT: Other symptoms? Let me see… Not really. No, I don’t think so. I mean, I’m tired sometimes, but who isn’t at my age? And maybe a little stiff in the mornings, but that’s just getting out of bed, you know? Nothing… serious. I haven’t fallen or anything.
+DOCTOR: Have you tried any treatments for this pain?
+PATIENT: Treatments? Well, I take some over-the-counter pain pills sometimes. The white ones… I forget the name, sorry. They help a little, but not for long. And my daughter, bless her heart, she rubs my back sometimes. That feels good while she’s doing it, but it doesn’t last either. I haven’t seen a doctor for it before now.
+DOCTOR: I see. And are you currently experiencing any numbness, tingling, or weakness in your legs or feet?
+PATIENT: No, Doctor. Nothing like that. My legs are good. I walk just fine. I go for a little walk every day, down to the bakery for a roll. Maybe not as far as I used to, but still. No numbness or tingling, no. Just the ache in my back.
+DOCTOR: Very well. Let's proceed with a physical examination, then. Please lie face down on the examination table. We need to assess the range of motion and identify any points of tenderness. I’ll need you to tell me if anything is particularly painful.
+PATIENT: Okay, Doctor. Whatever you need. This getting old part isn’t easy, you know.
+DOCTOR: Now, tell me if this is painful. And please, be specific. Don’t just say “yes.” Is there discomfort here?
+PATIENT: Ooh, yes. Right there. When you push… that's sore. Not a sharp pain, more like a deep ache. And… a little bit on this side too. But that right spot… that’s the worst.
+DOCTOR: And what about when I ask you to lift your leg, like so?
+PATIENT: Ooh, that’s… not good, Doctor. It hurts in my back when I lift it. Not a terrible pain, but definitely feels it. It's a pulling feeling, almost.
+DOCTOR: Reflexes are present bilaterally, sensation is intact. It appears we are dealing with likely lumbar strain, possibly some facet joint irritation. However, given your age and the persistence of the pain, we should obtain an imaging study to rule out other causes. We’ll need an X-ray of your lower back.
+PATIENT: An X-ray? Is that… safe? I heard things about those. And what will it show? Is it something bad? I don’t want anything… serious, Doctor. Just my back hurting, that's all.
+DOCTOR: Mr. Vankampen, the risk from the X-ray is minimal. It will allow us to visualize the bones in your spine and rule out any fractures, arthritis, or other structural abnormalities. It is a standard procedure. We are not assuming it is serious, we are being thorough. Frankly, at your age, we must consider all possibilities. A technician will take the images, and I will review them as soon as they are available. Do you consent to the X-ray?
+PATIENT: Well… if you think it’s best, Doctor. I trust your judgment. I don’t like the idea of the… rays, but I don’t want it to get worse. Yes, alright. Do the X-ray. But please be quick, and tell me what you find, okay? I don’t like waiting around worrying.
+DOCTOR: Very well. The technician will be in shortly to perform the imaging. In the meantime, continue with your over-the-counter pain medication, and avoid any strenuous activity. I will review the results and contact you with a follow-up plan. Now, is there anything else I can address today, or may you leave?
+PATIENT: No, Doctor, I think that’s all. Just… my back. Thank you for looking at it. I hope it’s not too bad. I'll see you later then.
+DOCTOR: Very well. The technician will guide you. Do try to be more mindful of your limitations. Good day, Mr. Vankampen. .
+PATIENT: .

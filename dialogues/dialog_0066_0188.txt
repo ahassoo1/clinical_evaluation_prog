@@ -1,0 +1,41 @@
+DOCTOR: Hi Criston, good to meet you. I’m Dr. Condray. So, what brings you in to see me today?
+PATIENT: Hi Doctor. Good to meet you too. Um, well, my pee is… orange. It’s been happening for a few days now. Not all the time, but often. I don’t know why.
+DOCTOR: Okay, orange urine for a few days. That's definitely something we should look into. To help me understand what's going on, can you tell me a little more about it?
+PATIENT: Sure. It's not, like, super bright orange. More… a little bit darker than normal. And it doesn’t hurt to pee, nothing like that. Just… the color is different. I drink a lot of water, usually. Maybe more than most people.
+DOCTOR: Okay, so it's not a bright orange, more of a darker than usual shade, and no pain or burning with urination. That’s good to know. And you mentioned you drink a lot of water – that’s excellent. About how much water would you say you drink in a typical day?
+PATIENT: Um… hard to say exactly. Maybe… three, four big bottles? Like, the one liter kind? I carry one with me all day, and I fill it up a lot. I work outside, so I try to stay hydrated.
+DOCTOR: Okay, three to four liters of water a day – that is a lot, which is great! Now, have you noticed any other changes – like in how often you’re urinating, or any changes in your stool?
+PATIENT: No, not really. I pee… normal amount, I think. Maybe a little more because I drink so much water. And my… poop is normal. No change there.
+DOCTOR: Alright, good. And just to be thorough, have you noticed any itching, rash, or pain anywhere else – like in your abdomen, back, or legs?
+PATIENT: No, nothing like that. No itching, no rash, no pain. I feel okay, really. Just worried about the pee color. It’s just… not normal, you know?
+DOCTOR: I understand your concern, it's good you're paying attention to changes in your body. Now, let’s talk a little about your medical history. Have you been diagnosed with any medical conditions in the past?
+PATIENT: No, not really. I had the flu a few times, but nothing serious. No… big sicknesses. I try to eat healthy and exercise. I don't go to the doctor often.
+DOCTOR: Okay, no major medical history. Have you ever had any surgeries?
+PATIENT: No, never had surgery. Not even when I was a kid. Everything is… original, I think!
+DOCTOR: Okay, good to know. Now, thinking about your family – are there any medical conditions that run in your family?
+PATIENT: Um… my father had high blood pressure, I think. And my grandmother… she had problems with her stomach, but I don’t know what kind. It was a long time ago. Not much else, really. We don’t talk about it much.
+DOCTOR: Okay, high blood pressure in your father and some stomach issues with your grandmother. And you said you eat healthy and exercise – can you tell me a little more about your diet and exercise routine?
+PATIENT: Sure. I try to eat a lot of vegetables, fish, chicken. Not too much red meat. My wife cooks most of the time, she's very good. For exercise, I work outside, so I walk a lot. And I try to go to the gym two or three times a week. Nothing too heavy, just weights and… the treadmill.
+DOCTOR: Okay, that sounds like a very healthy lifestyle. Now, are you currently taking any medications, vitamins, or supplements?
+PATIENT: No, nothing. I don’t like taking pills if I can help it. Just water, and whatever my wife puts in the food. She sometimes gives me garlic for my… you know, to stay healthy.
+DOCTOR: Okay, no medications or supplements, just the garlic. And you mentioned you work outside – what kind of work do you do?
+PATIENT: I work with… machines. Big machines. Like, for building things. I check them, make sure they work okay. It’s hot work, a lot of walking, sometimes dusty. It’s not easy.
+DOCTOR: Okay, working with machinery, potentially exposed to dust. Now, before we do a quick exam, just one last thing: do you have any allergies to medications, foods, or anything else?
+PATIENT: No, not that I know of. I eat everything. My wife tried to get me to stop eating sugar, but I said no. I don't have any… problems with anything. No allergies.
+DOCTOR: Alright, no known allergies. Okay, Criston, let’s take a quick look. I just want to check your abdomen, listen to your heart and lungs, and quickly examine a sample of your urine. Is that alright with you?
+PATIENT: Yes, that's fine. Whatever you need to do. I hope it's not anything bad.
+DOCTOR: Okay, let’s start with your abdomen. Any tenderness here?
+PATIENT: No, that doesn't hurt. A little bit… pressure, maybe, but no pain. Everything feels… normal.
+DOCTOR: Okay, good. Your heart and lungs sound clear. Now, we’ll just need a urine sample. I’ll leave you a cup, and I have a private restroom right down the hall. Please collect a mid-stream sample, and bring it back when you're ready. Do you know how to do that?
+PATIENT: Um… I think so. You mean… start, then stop, then collect in the cup? That’s what my brother told me once. I hope I do it right.
+DOCTOR: Yes, that's exactly right. Start, stop mid-stream, and then collect. Don’t worry if it’s not perfect, just do your best. Take your time. I’ll be right here when you get back.
+PATIENT: Okay, thank you, Doctor. I’ll be right back.
+DOCTOR: …
+PATIENT: Here you go. It wasn't easy, but I think I got it.
+DOCTOR: Okay, thank you, Criston. Let's see... Okay, the dipstick shows a slightly elevated level of urobilinogen and a small amount of blood, but everything else looks normal. The blood is too small to be causing concern on its own, but the urobilinogen could explain the orange color. It can be caused by dehydration, liver issues, or certain medications, but given your history of drinking a lot of water, dehydration is less likely. Let's get a complete blood count and a liver panel just to be sure everything is okay. Would that be alright?
+PATIENT: Okay… blood and… liver? That sounds… serious. But if you think it’s best. I just want to know what’s wrong. Yes, do the tests.
+DOCTOR: Okay, I understand your concern. It's better to be thorough, and these tests will give us more information. We’ll just need a quick blood draw. The phlebotomist will be right in. In the meantime, I’m going to write down some initial thoughts and recommendations. Based on what we’ve discussed, your symptoms could be due to a number of things, including mild liver dysfunction, increased urobilinogen production, or even a side effect of something you’re exposed to at work. We’ll rule those out with the blood tests. I also recommend you stay well hydrated and avoid any strenuous activity until we have the results. Do you have any questions so far?
+PATIENT: No… not really. It’s a lot of information. So… it could be my work? All the dust and machines? And… what if it is something bad with my liver?
+DOCTOR: That's a valid concern, Criston. It's possible exposure to certain substances at work could contribute to liver stress, but it’s also important to remember there are many other possible causes. As for what if it is something with your liver, well, we don't want to jump to conclusions. If we do find something, there are often very effective treatments available, especially if we catch it early. We’ll discuss all your options and create a plan together if needed. For now, let's focus on getting these tests done. The phlebotomist should be here any minute. Once we have the results, we can schedule a follow-up appointment to discuss them in detail. Does that sound okay?
+PATIENT: Yes… okay. I just want to feel normal again. Thank you, Doctor.
+DOCTOR: You’re very welcome, Criston. I understand. We’ll do everything we can to figure out what’s going on and get you back to feeling your best. Here’s the phlebotomist now. They’ll take excellent care of you. I’ll see you soon.

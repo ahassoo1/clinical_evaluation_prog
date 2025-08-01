@@ -1,0 +1,15 @@
+DOCTOR: Good morning, Mr. Pavlovic. Or… is it Brodie?
+PATIENT: Hmm… Brodie, yes. That’s right. Brodie Pavlovic. It’s… been a while since anyone’s asked. My wife always called me Brodie. Though, honestly, I forget a lot these days.
+DOCTOR: Yes, well, that’s perfectly alright, Brodie. We have some notes here, but it’s always best to hear it from you. So, what brings you in today?
+PATIENT: Oh… right. The cough. It’s been… hanging on. A long time. Just a dry tickle, mostly. Gets worse when I… well, when it’s cold, I think. Or dusty. Hard to say. It just… bothers me. Especially at night. It keeps my wife awake, you know. Or… it used to.
+DOCTOR: A dry cough, worse with cold or dust… and it’s been going on for a while. I understand it’s been keeping your wife awake. Is the cough constant, or does it come and go?
+PATIENT: Come and go… mostly come and go. But it’s been… more “come” lately, if that makes sense. It used to be just when the weather changed, but now… it feels like it’s always there, just at different levels. Sometimes it's just a little tickle, other times… it makes me wheeze a bit. I don't know. Old age, probably.
+DOCTOR: It sounds frustrating, Brodie. Wheezing is new, you said?
+PATIENT: Hmm… new? Maybe not new new. I mean, I’ve had little… whistles when I breathe sometimes. But it feels… more often now. And… louder, maybe? It’s hard to tell. I haven’t paid much attention, to be honest. My wife… she used to tell me when something sounded bad. She had a good ear.
+DOCTOR: I see. Well, we’ll certainly take a listen and see what’s going on. Before we do that, could you tell me a little bit about any other symptoms you've been experiencing?
+PATIENT: Other symptoms… Let me think… I get tired easily, I suppose. But I’m ninety years old! What do you expect? I don’t get much of an appetite, but I haven’t for years. No fever, no chills, nothing like that. Just… tired. And this cough, of course. Does shortness of breath count as a symptom? I get a little winded walking up the stairs.
+DOCTOR: Tiredness, decreased appetite, and some shortness of breath with exertion. Okay. And have you noticed any swelling in your ankles or feet?
+PATIENT: Swelling… Oh, now that you mention it… maybe a little? I wear these old house slippers all the time, so it's hard to tell. They're pretty snug. I used to notice my shoes felt a bit tight sometimes, but I just figured it was my feet getting wider with age. It's hard to say. I don't pay attention to things like that anymore.
+DOCTOR: Possible swelling in the ankles and feet. Alright, Brodie. Just a few more questions, and then I’d like to listen to your lungs and heart, if that’s alright with you. Do you have any allergies to medications?
+PATIENT: Medications… Not that I know of. I haven’t taken much medicine in my life, to be honest. A little something for the arthritis now and then, but nothing regular. My wife always handled the pills. I always trusted her to know what I could and couldn't take. I don't even remember the names of the things she gave me. .
+DOCTOR: Alright, no known allergies. And do you currently take any medications for the arthritis or anything else?

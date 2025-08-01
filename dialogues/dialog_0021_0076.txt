@@ -1,0 +1,30 @@
+DOCTOR: Alright, Mr. Aluia, good to meet you. So, what brings you in today?
+PATIENT: Oh, hi Doc. Well, it's these bumps on my legs. They’re on my shins, mostly. Really red and kinda sore, you know? They’ve been botherin' me for a few weeks now. Not sure what got into 'em.
+DOCTOR: A few weeks, you say?
+PATIENT: Yeah, maybe a month now? Hard to keep track, honestly. They didn’t start all at once, kinda popped up one by one. At first, I thought maybe I just bumped 'em or somethin', but they don’t seem to be gettin’ better. They’re just…there. And kinda itchy sometimes.
+DOCTOR: Itchy, alright. And just on your shins?
+PATIENT: Mostly, yeah. I think maybe one or two little ones started on my ankles, but nothin' like these on my shins. They're the worst. They make wearin' my work boots kinda uncomfortable, you know? I do a lot of liftin’ at my job.
+DOCTOR: Liftin', okay. And what kind of work do you do, if you don't mind me askin’?
+PATIENT: Oh, no problem, Doc. I work down at the warehouse, movin’ freight. Mostly boxes and stuff, unloadin' trucks, that kinda thing. Been doin' it for… a long time now. Keeps me on my feet, that's for sure. I guess that could have somethin’ to do with it.
+DOCTOR: Alright, warehouse work. Let's talk about your medical history for a moment. Do you have any health problems I should be aware of?
+PATIENT: Hmm… not really. I get a little arthritis in my knees sometimes, but it ain’t too bad. And I had my gallbladder out years ago, but that’s all fixed now. Oh, and I’m a diabetic, type 2. Been on medicine for that for about ten years, I think. Other than that, I'm pretty healthy for an old man, ha!
+DOCTOR: Diabetes, alright. And you said ten years?
+PATIENT: Yeah, about ten years, give or take. I take a pill every mornin' with my breakfast. Metformin, I think it’s called. Helps keep things steady. My wife helps me make sure I don’t forget. She’s good at keepin' me in line, ha!
+DOCTOR: Metformin, yes. Good. And any allergies to medications, or anything else for that matter?
+PATIENT: Nope, no allergies. I've never had a reaction to anythin'. My wife always asks when I go to the doctor, and I always tell her the same thing – nothin'. Lucky me, I guess.
+DOCTOR: Alright, no allergies. And how about family history?
+PATIENT: Hmm… that’s a tough one. My mom had high blood pressure, I think. And my dad… well, he didn't take too good care of himself. Smoked a lot. No one really talked about health stuff much when I was growin' up, you know? Nothing major that I can think of.
+DOCTOR: Okay. Let's take a look at your legs. If you could just pull up your pants a bit, please. We’ll just have a quick look.
+PATIENT: Sure, no problem. Here you go, Doc. See? They're kinda raised and red. And sore to the touch, especially if I bump 'em. I tried puttin' some lotion on 'em, but it didn’t seem to help much.
+DOCTOR: Hmm. They do look inflamed. I’m seeing some redness and a bit of swelling. They’re firm to the touch. Do you have any pain anywhere else?
+PATIENT: Nope, just in my legs, where these bumps are. No pain in my feet, or knees, or anywhere else. Just right here. Sometimes they itch a little, but mostly just sore. Like a bruise that won’t go away, kinda.
+DOCTOR: Alright. It's possible these are stasis dermatitis, related to the diabetes and some possible circulation issues. We'll need to rule out other things, of course. Do you notice any swelling in your ankles or feet at the end of the day?
+PATIENT: You know, now that you mention it… yeah, a little. Not too bad, but my wife says my feet look kinda puffy sometimes when I get home from work. I usually just put 'em up and it goes away. Never thought much of it, honestly. My wife notices everything, ha!
+DOCTOR: Okay. We’ll need to do some tests to confirm. I'm going to order a blood test to check your blood sugar levels and kidney function, and we’ll also do an ankle-brachial index to assess your circulation. Does that sound alright?
+PATIENT: Yeah, that sounds fine, Doc. Whatever you think is best. I trust your judgment. Blood test and… what was the other one? Ankle-bra…index? As long as it doesn't take too long, ha! I got things to do, but I'll make time.
+DOCTOR: Ankle-brachial index. It's a simple test where we compare the blood pressure in your ankles to the blood pressure in your arms. It’ll help us see how well your circulation is. We can get it done here in the office today. I’ll also have the lab draw some blood. We should have the results back in a few days. In the meantime, keep your legs elevated whenever possible, and avoid prolonged standing. Do you have any questions for me so far?
+PATIENT: Elevate 'em and take it easy, okay. Got it. No, I think you explained everything pretty clearly, Doc. Just gotta wait for the tests now, huh? Alright. When should I follow up with you after the tests?
+DOCTOR: I’ll have the nurse call you in a few days with the results. Let's schedule a follow-up appointment for next week, just to discuss them. How about Thursday at 2 PM?
+PATIENT: Thursday at 2… that sounds good. I should be free then. Alright, perfect. Thank you, Doc. You've been a big help already, just explainin' things. I appreciate it. Now, if you'll excuse me, I best be gettin’ home to my wife. She’s probably worryin’.
+DOCTOR: You’re very welcome, Mr. Aluia. It was a pleasure meeting you. Don't hesitate to call the office if you have any concerns before your follow-up appointment. And tell your wife we said hello.
+PATIENT: Thank you, Doc! You too. I will. And I will tell my wife you said hello, she'll be pleased!

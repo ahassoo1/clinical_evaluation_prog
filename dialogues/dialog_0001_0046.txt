@@ -1,0 +1,25 @@
+DOCTOR: Alright, Marialena, let’s get this over with. So, what brings you in today?
+PATIENT: Good morning, Doctor Pehrson. It’s… well, it’s a bit embarrassing to talk about, but I’ve been having a lot of pressure in my bladder lately. It’s been going on for a few weeks now, and it’s starting to worry me.
+DOCTOR: Pressure, huh?
+PATIENT: Yes, pressure. It’s not painful, exactly, but… uncomfortable, and I feel like I need to go to the bathroom constantly, even when I don’t really need to. It’s disrupting things, to be honest.
+DOCTOR: Constant urge...right. Any burning or pain while you urinate?
+PATIENT: No, thankfully no burning or pain when I go. Just… the feeling that I have to go all the time, and then sometimes it’s difficult to actually go when I do. It's a strange combination, if that makes sense.
+DOCTOR: Difficult to start?
+PATIENT: Yes, exactly! It takes a moment, and sometimes I have to try a couple of times before anything happens. It’s not a strong stream at first, either. It sort of… starts and stops. And then it’s normal for a bit, and then I feel like I have to go again very quickly.
+DOCTOR: And how much fluid are you typically drinking in a day?
+PATIENT: That's a good question. I try to drink a lot of water – at least eight glasses, maybe more, especially with the weather being so warm. I also have a cup of coffee in the mornings, and sometimes tea throughout the day. I wouldn’t say I drink excessive amounts, but I am mindful of staying hydrated.
+DOCTOR: Coffee and tea…caffeine, diuretics… Right. Any fever, chills, or lower back pain with this?
+PATIENT: No, no fever or chills. And thankfully, no lower back pain. It's really just the constant pressure and the… inconvenient bathroom trips. It's just been unsettling. I haven't changed anything in my diet or routine, which is why I'm a little worried.
+DOCTOR: Hmm. Okay. Any changes in your bowel habits recently?
+PATIENT: Oh, no, not really. Everything’s been fairly regular on that front. No constipation or diarrhea, if that’s what you’re asking. I do eat a good amount of fiber, which I think helps with that. Is something else usually causing this kind of thing?
+DOCTOR: Look, these things happen. Sometimes it's just…fluid. Let me take a look. If you don't mind, I'm going to need to do a quick exam, just to rule things out.
+PATIENT: Okay, that’s perfectly alright. I understand. An exam sounds sensible. Please let me know if there's anything specific I should be doing to prepare. And… how long should I expect it to take?
+DOCTOR: Not long. Just a standard external exam. We'll check your abdomen and, uh, the general area. Nothing to worry about. Just need to make sure everything looks okay. Go ahead and lie down on the table. There's a gown if you'd prefer.
+PATIENT: Thank you, Doctor. I think I will use a gown, yes. Just let me know when you're ready, and I'll lie down. It’s… a bit chilly in here, isn’t it?
+DOCTOR: Fine. Just lie flat once you’re ready. I’ll be right back. Alright, let’s get this over with. Deep breath now. Any tenderness here?
+PATIENT: No, that doesn’t hurt. It feels…normal, I suppose. A little pressure, still, but not pain. Just the uncomfortable feeling. It’s mostly focused lower down, right around… here.
+DOCTOR: Hmm. Okay. Bowel sounds present. Fine. Alright. Well, everything seems normal, physically. It’s likely just… irritation of the bladder. Drink less caffeine. See if that helps.
+PATIENT: Oh. Just irritation? So… nothing serious? If it’s just the caffeine, that’s a relief. But it’s been a few weeks now. Would cutting out caffeine be enough? I’m worried it might be something else, even if you don’t see anything right now. Perhaps a test would be helpful?
+DOCTOR: Look, I've been doing this for seventeen years. It’s usually just fluid intake and irritation. We don't need to run a battery of tests for every little discomfort. Try cutting out caffeine for a week and see what happens. If it doesn't improve, then we can talk about more drastic measures. I have other patients waiting, so let’s wrap this up.
+PATIENT: Oh. Very well. If you think that's best. A week of no caffeine. I'll make a note of it. If it doesn't improve, I will schedule another appointment, of course. Thank you for your time, Doctor Pehrson. .
+DOCTOR: Good. Don’t bother calling unless it gets significantly worse. Next! .

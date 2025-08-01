@@ -1,0 +1,27 @@
+DOCTOR: Alright, Mr. Obarr, yes?
+PATIENT: Norval OBARR: That's right. Norval, but everyone calls me Val. Good to meet you, Doctor… Osga, is it? It's a nice clinic you got here. Busy place, seems like.
+DOCTOR: It is busy. Now, Val, let's not waste time with pleasantries. What brings you in today?
+PATIENT: Norval OBARR: Right, right, get straight to it. Well, it’s my stomach, see? I just… don’t seem to be able to eat much these days. I get full awful quick. Even a small plate, and I’m stuffed. It’s been happening for a few weeks now, and my wife, Elsie, she’s starting to worry.
+DOCTOR: A few weeks, you say?
+PATIENT: Norval OBARR: Yeah, maybe six, seven weeks now? Hard to say exactly, old timers don’t keep track of things like that as well as they used to. It wasn't sudden, just… crept up on me. I used to have a good appetite, you know? Especially for salmon. Now, just a few bites and I'm done.
+DOCTOR: And are you experiencing any other symptoms alongside this… lack of appetite?
+PATIENT: Norval OBARR: Hmm, let me think… not really. No pain, thankfully. Sometimes I feel a little… tired, but I’m 88, Doctor! Tired comes with the territory, doesn’t it? Maybe a bit of heartburn now and then, but Elsie makes a mean salmon chowder, so that might just be that. Nothing major, though.
+DOCTOR: Alright. Any nausea or vomiting?
+PATIENT: Norval OBARR: No, thankfully, not a bit of either. Just… full. And frustrated, to be honest. I like my food, you see? Elsie’s a wonderful cook, and I hate not being able to enjoy it. It’s a waste, really.
+DOCTOR: Do you have any changes in your bowel habits?
+PATIENT: Norval OBARR: Bowel habits? Oh, goodness. Well… they’re… regular, I suppose. Not much different than usual. Maybe a little less, seeing as I’m not eating as much, but… yeah, regular. Sorry, Doctor, is that what you were asking? Old folks talk about everything but that, usually.
+DOCTOR: And what medications are you currently taking, Mr. Obarr?
+PATIENT: Norval OBARR: Just the one, really. Something for my blood pressure. Doctor gave it to me a few years back. Can’t remember the name offhand, Elsie handles all that. She’s got a little chart and everything. It’s a small white pill, I think? I take it every morning with my tea.
+DOCTOR: Right. And do you have any allergies to any medications, or anything else for that matter?
+PATIENT: Norval OBARR: Not that I know of. Never been much for allergies, thankfully. Elsie’s always careful about what she cooks, though. She’s a good woman, Elsie. Always looking out for me. I think that’s all, Doctor. Just the early fullness, and I’m an old man who misses his salmon.
+DOCTOR: Very well. Let's have a quick listen to your abdomen, and I'll do a brief exam. Then we can discuss possibilities. Please lie down on the examination table.
+PATIENT: Norval OBARR: Alright, alright. Sounds good to me. Examination table, eh? Haven’t been on one of those in a while. Just let me know if you need me to… well, you know.
+DOCTOR: Normal bowel sounds, no tenderness to palpation… slightly distended abdomen, but not acutely concerning. Your weight is listed as 54 kilograms… That’s a bit low, isn’t it?
+PATIENT: Norval OBARR: 54, is it? Seems about right, I haven’t been putting on weight lately, that’s for sure. Elsie worries about that too, says I need to eat more. Which is a bit hard when you get full after a few bites, eh? Still, I feel… alright. Just a little tired, like I said. It's probably just old age catching up with me.
+DOCTOR: Alright. Given your age, lack of other symptoms, and the gradual onset, it could be something relatively benign. But we need to rule out anything serious. I'm going to order a complete blood count and a basic metabolic panel. We should also consider a stool test to rule out any infections. Does that sound acceptable?
+PATIENT: Norval OBARR: A stool test? Oh, goodness. Well… I suppose it has to be done if you think it’s necessary, Doctor. Elsie always said a good doctor does what’s best, even if it's a bit… unpleasant. Blood work and a stool test, then? Sounds like a plan. Hopefully, it's just something simple.
+DOCTOR: Alright. Here are the requisitions for the blood work and stool test. The lab is just down the hall. Once you’ve had those done, make an appointment with the receptionist to follow up with me in a week to discuss the results. I'll also write you a referral for a dietician, just in case. Now, do you have any questions for me?
+PATIENT: Norval OBARR: A dietician, eh? Never been to one of those before. Elsie will be pleased. She's always trying to get me to eat more greens. A week, then? Alright. No, I think that covers it, Doctor. You've been very thorough. Thank you. And thank you for the referral. I appreciate it.
+DOCTOR: Very well. Try to increase your caloric intake slightly until we have the results. And if you experience any new symptoms – pain, vomiting, blood in your stool – go to the emergency room immediately. Dismissed.
+PATIENT: Norval OBARR: Alright, alright, more calories. And watch out for pain. Got it. Thank you again, Doctor Osga. You have a good day now.
+DOCTOR: .

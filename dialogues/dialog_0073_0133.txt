@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Ms. Tippens. I'm Dr. Korrell. So, tell me, what brings you in today?
+PATIENT: Oh, good morning, Doctor. Well, to be quick, I need some forms notarized, really. Health forms. My daughter said I needed to get them verified by a doctor before sending them off. It’s a bit of a hassle, honestly.
+DOCTOR: Notarized?
+PATIENT: Yes, notarized. And…verified. She said something about needing a doctor's signature to make sure the information is correct. It’s for a program…something to do with getting a little help with…well, never you mind. It’s just paperwork. I have the forms right here, somewhere…
+DOCTOR: Right. Well, this isn't quite what we do here, Ms. Tippens. We're a medical practice, not a notary public. However… I suppose I can review the forms. But I won’t simply sign something without seeing what I’m attesting to. What sort of information are they asking for, exactly?
+PATIENT: Oh, goodness. I didn’t mean to cause trouble. I just… my daughter said a doctor needed to sign them. Here you go. It’s mostly about…health history, I think. Allergies, past illnesses… that sort of thing. It feels very long. I'm not very good with these things.
+DOCTOR: Alright. Let's start with allergies. Do you have any known allergies, Ms. Tippens?
+PATIENT: Hmm… let me think. Not that I know of, exactly. I get a little sniffly sometimes with dust, but that’s just old age, I suppose. And pollen, maybe? But everyone gets sniffly with pollen. Nothing serious, I haven't ever had a bad reaction to anything. Oh! Except for shellfish. I can’t eat shellfish. Makes me terribly sick.
+DOCTOR: Shellfish. Alright. And what about medications?
+PATIENT: Oh, dear. Let me see… I take something for my blood pressure, I believe. A little white pill. And sometimes, if my arthritis is acting up, I take ibuprofen. That’s about it, really. Nothing fancy. My daughter handles most of that, to be honest. She’s very organized.
+DOCTOR: Do you happen to know the names of these medications, Ms. Tippens?
+PATIENT: Oh, goodness, no. I just take what she gives me. Little white pills and pink ones. I wouldn't know the proper names to save my life. I'm not very good with remembering things like that. She keeps a list, I'm sure. But she's not here with me today. Is this a problem?
+DOCTOR: It makes things…difficult. Alright. Let's move on to past illnesses. Have you ever been diagnosed with any serious medical conditions?
+PATIENT: Well, I had pneumonia once, a long time ago. When I was younger, before my daughter was born, I think. And I had my gallbladder removed. That was… unpleasant. And arthritis, of course. It’s just getting worse as I get older. Nothing else comes to mind right away. Honestly, Doctor, I'm not very good at remembering all these things. I just want to get these forms signed so I can send them off.
+DOCTOR: Pneumonia, gallbladder removal, arthritis. Fine. Any family history of significant medical conditions?
+PATIENT: Oh, my goodness. That's a tough one. My mother... she had high blood pressure, I think. And my father had something with his heart, but I don't remember the details. It was a long time ago. And my brother... he had diabetes, I believe. But honestly, Doctor, it was all so long ago, and I wasn't very close to them. Is this really necessary for just signing a form? It feels like a lot.
+DOCTOR: It’s important to have a complete picture, Ms. Tippens. Even for a simple form. Now, about your social history… Do you smoke?
+PATIENT: Oh, no, never. Never smoked a day in my life. Always thought it was a terrible habit. And I don't drink much either. Just a little wine with dinner sometimes, if my daughter is visiting. A very small glass. That's it. Is this almost done?
+DOCTOR: Alright. Now, do you live alone, Ms. Tippens?
+PATIENT: Yes, I do. My husband passed away many years ago. My daughter lives nearby, thankfully. She comes over to help me out. But mostly, it’s just me. Is this all? I really need to get going. I have an appointment later.
+DOCTOR: Very well. I’ll review these. I will need to perform a brief physical exam, just to be thorough. Blood pressure, pulse, listen to your lungs… standard things. Do you have any complaints today?
+PATIENT: Oh, goodness. A physical exam? I thought you were just signing a form… But alright, I suppose. My knees are a little achy, and my back bothers me sometimes, but that's just old age. And I get tired easily, but I always chalk that up to being… well, you know. Is it going to take long? I really don't want to be late for my appointment.
+DOCTOR: It won’t be extensive. Please have a seat on the examination table. I’ll listen to your heart and lungs first.
+PATIENT: Alright, alright. Here I am, Doctor. Let’s get this over with. I’m not very comfortable on these things, you know.
+DOCTOR: Alright. Take a deep breath for me, Ms. Tippens. And exhale slowly. Your breathing sounds a little… wheezy. Have you been coughing lately?
+PATIENT: Oh, goodness. Wheezy? I hadn’t noticed. A little coughing sometimes, yes. Just a tickle in my throat, really. Happens every now and then. Dust, probably. Or the pollen. It’s nothing serious, I assure you. I’ve always had sensitive lungs. Is that bad?
+DOCTOR: It’s…something to be aware of. Let me check your blood pressure. 140/90. A little elevated. Are you taking your blood pressure medication regularly?
+PATIENT: Oh, goodness. Elevated? I think so. My daughter reminds me. Sometimes I forget. I’m terrible with remembering pills, you know. Is that bad? Should I be doing something different? I really don’t like taking medication, if I can avoid it.
+DOCTOR: We'll discuss that later. Now, let’s check your pulse. 80. Regular. Any pain here?
+PATIENT: Oh, yes, a little. Especially when I stand up. And sometimes when it's cold. It just aches, you know? It’s the arthritis, I suppose. My daughter says I need to do more exercises, but it’s so painful! It’s just a dull ache, mostly. Nothing sudden or sharp. Are we almost finished?
+DOCTOR: Alright. That's sufficient for now. Based on this brief examination, and what you’ve told me, I can attest to the information on these forms. However, your blood pressure is slightly elevated, and you mention some wheezing. I recommend a follow-up with your primary care physician for a more comprehensive evaluation. And I suggest you discuss your medication adherence with them as well. Do you have a primary care physician?
+PATIENT: Oh, goodness. A follow-up? I thought you were just signing a form... But alright, I suppose. Yes, I have Dr. Ramirez. She's very nice, but it’s hard to get an appointment sometimes. I’ll have to make a note of that. And…what did you say about the medication? I’m getting a little confused. Can you just sign the forms, please? So I can get going?
+DOCTOR: I've documented my findings. Adherence to your medication regimen is important for blood pressure control. Follow-up with Dr. Ramirez is crucial. There. Now, if you'll excuse me, I have other patients waiting.
+PATIENT: Oh. Well, thank you, Doctor. I appreciate you signing them. I’ll try to remember to make an appointment with Dr. Ramirez. Have a good day.
+DOCTOR: .

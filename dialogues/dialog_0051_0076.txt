@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Aluia. Welcome to the clinic. I'm Dr. Glazewski. It’s nice to meet you. So, what brings you in to see me today?
+PATIENT: Good morning to you too, Doc. Nice to meet you as well. Well, it’s these… bumps on my legs. They’re on my shins, and they’re really bothering me. They’re red and kinda painful.
+DOCTOR: Okay, I see. Bumps on your shins, red and painful. Hmm. And when did you first notice these bumps, Mr. Aluia?
+PATIENT: Oh, let me think… it started maybe a couple of weeks ago? It wasn’t much at first, just a little itch. But then they got redder and started to hurt when I walk.
+DOCTOR: A couple of weeks ago, starting with an itch… and now pain with walking. Alright. And have you noticed anything that makes them better or worse?
+PATIENT: That’s a good question. I don’t think anything makes them better, honestly. But they definitely get worse if I’m on my feet a lot. Work, you know? I do a lot of moving things around.
+DOCTOR: Okay, worsened with activity. Have you had anything like this happen before, Mr. Aluia?
+PATIENT: You know, come to think of it… maybe, a long time ago? When I was younger, I had something similar. But it was so long ago, I can’t really remember what the doctor did for it. My memory isn’t what it used to be.
+DOCTOR: That’s perfectly alright, Mr. Aluia. Memories fade. Let’s focus on now. Besides these bumps, have you been experiencing any other symptoms?
+PATIENT: No, not really. Just the bumps and the pain when I walk. No fever, no feeling sick or anything like that. I’m eating okay, sleeping okay… just these legs. They’re really annoying, though.
+DOCTOR: Alright, no fever, no other symptoms, just the bumps and leg pain. Now, do you have any allergies to medications, Mr. Aluia?
+PATIENT: Hmm… allergies… I don’t think so. Never really had a bad reaction to anything. But my wife usually handles the medicines, so she’d know better than me.
+DOCTOR: Okay, no known allergies. And are you currently taking any medications?
+PATIENT: Just what the doctor gave me for my blood pressure, a little white pill. That’s about it. Nothing else.
+DOCTOR: Alright, just medication for blood pressure. Now, I'd like to take a look at those bumps. Would that be alright?
+PATIENT: Yes, that's fine, Doc. Go ahead.
+DOCTOR: Okay, I see here… they are erythematous papules and plaques, primarily located on the anterior shins. There’s some mild edema present as well. They appear to be fairly tender to the touch. Hmm. Based on what you've told me and what I’m seeing, it’s possible these are stasis dermatitis, or possibly even early signs of venous insufficiency. It’s also important to rule out other possibilities. Do you have any history of varicose veins or blood clots?
+PATIENT: Varicose veins… I don't think so. My wife might know. Blood clots… no, I don't think I've ever had one. I’ve never been told I had one, anyway. I get tired easily, but I figured that's just from working hard.
+DOCTOR: Alright. We need to get a clearer picture. I'd like to order a few tests just to be safe. I’ll start with a complete blood count to rule out any infection, and a lower extremity ultrasound to check the blood flow in your legs and look for any signs of venous insufficiency. Would that be alright with you, Mr. Aluia?
+PATIENT: Yes, that sounds good, Doc. Whatever you think is best. Just want to get these legs feeling better.
+DOCTOR: Excellent. I'll get the orders sent to the lab. While we're waiting for those results, I recommend elevating your legs whenever possible, especially at the end of the day. Compression stockings can also be helpful. I'm also going to prescribe a topical corticosteroid cream to help with the inflammation and itching. It’s a mild one. We'll review the lab results when they come back and discuss a long-term management plan. How does that sound?
+PATIENT: That sounds… very good, Doc. Corticosteroid cream and keeping my legs up. I can do that. Thank you.
+DOCTOR: You're very welcome, Mr. Aluia. I'm glad we have a plan in place. The nurse will be in shortly to draw your blood and give you instructions for the ultrasound. Do you have any questions for me at this time before she comes in?
+PATIENT: No, I don’t think so, Doc. You explained everything really well. I appreciate your help. I guess I’ll just wait for the nurse then.
+DOCTOR: Alright, wonderful. I'll leave you to it then. And if anything changes or you develop any new symptoms, please don’t hesitate to call the office. Have a good day, Mr. Aluia. .
+PATIENT: You too, Doc. Thank you again.

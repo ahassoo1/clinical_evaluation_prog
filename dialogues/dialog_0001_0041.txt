@@ -1,0 +1,31 @@
+DOCTOR: Alright, Mr. Astore, let's get this over with. You're 83, right?
+PATIENT: Yes, sir. Eighty-three years old this past June. A good long time, eh?
+DOCTOR: Yes, a long time. So, what brings you in today?
+PATIENT: Well, Doctor… it’s this weakness. It just keeps getting… worse. It started in my legs, you see. A little shaky, I thought it was just old age. But now… it’s harder to walk, harder to stand even. My wife, Leilani, she worries something awful.
+DOCTOR: Weakness… okay. And when did you first notice this weakness, exactly?
+PATIENT: Hmm… let me think. It was… oh, about six months ago, maybe? January, around then. We had a big family gathering, and I noticed I was a bit slower getting around the yard. Didn’t think much of it at the time, like I said. It’s been creeping up since then, though.
+DOCTOR: And is this weakness in both legs, or just one?
+PATIENT: It’s both legs, Doctor. But it’s… it feels worse on this side. My left leg, that is. It just feels… heavier, harder to lift. Sometimes it feels like it’s dragging a little. Leilani says she’s noticed me stumble a few times.
+DOCTOR: Dragging… Right. And are you experiencing any pain with this weakness?
+PATIENT: No, not really pain, Doctor. It's more… tiredness. Like my legs are just… heavy and tired all the time. Sometimes a little bit of numbness, like when my leg falls asleep. But no sharp pain, no. Just… worn out.
+DOCTOR: Okay. Any other symptoms?
+PATIENT: Let me see… well, I get a little dizzy sometimes. Not often, but enough to make me need to sit down quick. And my eyesight… it’s not what it used to be, of course, but it seems a little blurrier lately. Hard to read the paper. Leilani helps with that, mostly. She’s a good woman. Oh! And sometimes my hands feel a little shaky too, like when I’m trying to hold a cup of tea.
+DOCTOR: Dizziness, blurry vision, shaky hands… Alright. And are you on any medications currently?
+PATIENT: Just the ones the doctor gave me for my blood pressure. A little white pill, once a day. And some vitamins, of course. Nothing special, just the ones you can get at the store. I think… Lisinopril? Is that right? Leilani manages most of the pills, she’s very organized.
+DOCTOR: Okay, Lisinopril. Any allergies to medications or anything else?
+PATIENT: No, sir. No allergies that I know of. I’ve never had a reaction to anything. My mother always said I had a strong constitution. Though I did get a bad rash once from poison ivy, but that wasn’t a medication!
+DOCTOR: Alright. Let's take a look at your reflexes and strength. If you don't mind.
+PATIENT: Of course, Doctor. Whatever you need. I trust your judgment. Just… go easy on an old man, eh?
+DOCTOR: Alright. If you could sit here. I’m going to check your reflexes in your knees and ankles. Just relax. Left leg first.
+PATIENT: Alright, Doctor. It feels… strange, this tapping. Is this going to hurt?
+DOCTOR: Not hurt, just… test your reflexes. Hmm. And now the right. Weak. Both are… diminished. Okay. Now let’s check your ankles. Left… very weak. Right… even weaker.
+PATIENT: Oh… that is a little uncomfortable, Doctor. Is that normal? They are getting old, you know. Maybe they just don’t work like they used to. Leilani says I don't lift my feet when I walk sometimes...
+DOCTOR: Normal for someone your age, perhaps. But diminished reflexes… and some weakness here. Okay. Now, can you try and stand up, slowly?
+PATIENT: Yes, Doctor. Oh… oh dear. It’s harder than I thought. It feels… wobbly, like my legs are going to give out. Perhaps I should sit back down?
+DOCTOR: Easy now, easy. Yes, sit back down. Hmm. Weakness… diminished reflexes… and now difficulty rising. Alright, Mr. Astore. This could be a number of things. It's likely some age-related muscle loss, but we need to rule out anything more serious. I'm going to order some blood work and an MRI of your lower back to get a better look at what's going on. I'll also recommend a referral to a neurologist, just to be safe. We'll get this figured out.
+PATIENT: An MRI… and a neurologist? That sounds… serious, Doctor. Is it something bad? My wife… she’ll be very upset. Is there anything we can do right now? Just to make it a little easier?
+DOCTOR: Look, Mr. Astore, it’s probably nothing serious. We're just being thorough. It could be a vitamin deficiency, it could be something else entirely. But we need to rule things out. As for right now… I’m going to recommend a walking stick for support. It’ll take some of the weight off your legs. And I’ll write you a prescription for some physical therapy. That’ll help strengthen your muscles and improve your balance. No heavy lifting, and try to avoid long walks. We'll get the blood work results back in a few days, and I'll schedule the MRI as soon as possible. We'll take it one step at a time.
+PATIENT: A walking stick… and physical therapy. Alright, Doctor. Whatever you think is best. Will this… will this mean I can’t do things with my grandchildren? They’re having a luau next month… I promised I'd help them build the imu.
+DOCTOR: Look, Mr. Astore, let’s not jump to conclusions. We don’t even know what’s causing this yet. Hopefully, it’s something minor that physical therapy can fix. Here are the prescriptions and the referral information. The physical therapy will help you determine what you're capable of. And as for the luau… We’ll see how you’re progressing. Don’t cancel anything just yet. Get some rest, take it easy, and we’ll talk again when we have the test results. I have other patients waiting.
+PATIENT: Thank you, Doctor. I… I hope you’re right. Doctor? Be careful out there.
+DOCTOR: Right. You too. .

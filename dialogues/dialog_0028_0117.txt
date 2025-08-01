@@ -1,0 +1,25 @@
+DOCTOR: Right. Mr. Reyno, Devin, is it?
+PATIENT: Yeah, that's me. Devin Reyno. Look, I got things to do today, so... if we can just get this over with, that'd be great. I just... been coughin' up some stuff. Not good stuff.
+DOCTOR: Yes, well, we all have things to do, Mr. Reyno. But rushing through things doesn't help anyone. “Coughing up some stuff,” you say. Can you be a little more specific?
+PATIENT: Specific? Uh... it's... red. In the stuff I cough up. Like... blood. Not a lot, but… enough to worry me. It started a few days ago, I think. Maybe a week? Time kinda… blurs, you know? I smoke, if that matters. Always have.
+DOCTOR: Smoking, of course. And “a few days ago, maybe a week?
+PATIENT: Yeah, a week, maybe less. Honestly, I don't keep track. It’s… hard to remember things these days. It just started happenin', and it's gettin' worse, I guess. That's why I'm here. Don't really know what else to tell ya.
+DOCTOR: Right. And any other symptoms accompanying this cough?
+PATIENT: Uh… let me think. I get tired easy. Real easy. And kinda… short of breath. Especially when I walk. That's about it, I think. No fever, no chills, no nothin' else. Just tired and breathin' hard. Is that… bad? I don’t even know why I’m coughin' it up.
+DOCTOR: Tiredness and shortness of breath are… relevant, yes. Do you have any pain?
+PATIENT: Pain? Not really. Maybe a little ache in my chest sometimes, but it comes and goes. Nothin' sharp or… real bad. Just kinda… there. Like an old ache, you know? Like when the weather's changin'. Is that makin' sense? I don't usually… complain about aches.
+DOCTOR: Alright, Mr. Reyno. Let's have a listen to your lungs, shall we?
+PATIENT: Fine, whatever. Just… try to be quick, okay? I got… things. I gotta get back to things.
+DOCTOR: Alright… deep breath in… and out… again… Okay. There’s some… wheezing. And diminished breath sounds on the left lower lobe. Any history of pneumonia or bronchitis?
+PATIENT: Pneumonia… bronchitis… uh… I think I had somethin' like that once. Years ago. Real bad cold, real bad cough. Spent a week in bed. But I don't… remember the name of it. Old man’s memory, you know? Probably had it, probably didn't. Does it matter? I just want to know what's wrong now.
+DOCTOR: It always matters, Mr. Reyno. We need to establish a baseline. Family history, any lung cancer in the family?
+PATIENT: Lung cancer… uh… my grandpa, on my mom’s side, he smoked his whole life. I think he had somethin’ bad in his lungs, but… he died a long time ago. I don’t… remember the details. Mom never talked about it much. It was… sad. I don’t… I don’t think so, but I couldn’t tell ya for sure. My family… we don’t really talk about things like that.
+DOCTOR: Alright. Let's move on. Any allergies to medications?
+PATIENT: Uh… not that I know of. Never had much luck with pills, to be honest. Usually just made me feel worse. Gave 'em up years ago. Tried somethin' for a cold once, made me real dizzy. So… no. Not allergic to nothin', as far as I know.
+DOCTOR: Very well. I'm going to order a chest X-ray and a complete blood count. We'll need to rule out some possibilities. And I'm going to recommend you see a pulmonologist.
+PATIENT: A chest… what? And a… what was that other thing? Look, I just wanna know if it's serious, okay? X-rays and… specialists… that sounds expensive. And time-consumin'. Is it… bad? Like, really bad? I don’t need all this, doc. Just tell me if I need to worry.
+DOCTOR: Mr. Reyno, I understand your concern. But I can't give you a definitive answer without further investigation. The blood in your sputum, the wheezing, the diminished breath sounds… these are concerning findings. We need to determine the cause. The X-ray will help us visualize your lungs, and the pulmonologist is a specialist who can provide a more thorough evaluation. It could be something minor, but it could also be something more serious. I am not going to dismiss your symptoms. I strongly recommend you follow through with these tests. Do you understand?
+PATIENT: … Fine. Yeah. Okay. X-ray, specialist… whatever. Just… when can I get this done? And… how much is it gonna cost? I don't… I don't have a lot of money. I’m on Medicare, if that helps. Look, just… get it over with. I just… wanna breathe normal again.
+DOCTOR: Here. The referral is for Dr. Anya Volkov. She’s excellent. The X-ray can be done at the imaging center across the street. Medicare should cover most of it, but you'll need to verify the costs with them. They will contact you to schedule the appointment. I will also have the nurse give you a prescription for an albuterol inhaler to help with your breathing. It’s a temporary measure. Do you have any questions?
+PATIENT: No… not really. Just… get it done. That's all. Thanks… I guess. Look, I really gotta go now. Things… waitin’ for me. .
+DOCTOR: Very well. .

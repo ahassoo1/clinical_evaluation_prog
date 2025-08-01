@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. Parascondola, right?
+PATIENT: Yeah, that's me. Ricky. And please, call me Ricky. Mr. Parascondola makes me feel old!
+DOCTOR: Okay, Ricky. Look, I've got a lot of patients today, so let's try to be quick. What brings you in?
+PATIENT: Well, it’s my foot. See? It’s been swelling up for… oh, I don’t know, maybe three days now? It’s kinda painful to walk on, too. Not awful, but definitely there.
+DOCTOR: Three days, huh?
+PATIENT: Yeah, three days. Started kinda slow, just felt a little tight, you know? Then it just… got bigger. I haven't done anything to it, not that I remember. Didn’t twist it or anything. I just woke up one morning and it was like… a balloon.
+DOCTOR: Right. Any fever?
+PATIENT: Fever? Let me think... No, I don’t think so. I haven’t taken my temperature, but I haven’t felt hot or anything. No chills, no sweats… just this foot. It’s just… uncomfortable. Maybe a little warm to the touch, but not like I’m sick, you know?
+DOCTOR: Alright. Any medical problems I should be aware of?
+PATIENT: Not really. I mean, I’m 60, things creak a little, you know? But no… diabetes, heart trouble, nothing like that. I haven’t been to a doctor in… a long time, to be honest. I usually just try to tough things out. But this foot… it's not getting better on its own.
+DOCTOR: Any surgeries?
+PATIENT: Surgeries? No, never had any surgeries. Not a one. I've been lucky, I guess. Just the usual childhood stuff, maybe some stitches here and there, but nothing major. I've always been pretty healthy, despite my age. This foot thing is a real surprise.
+DOCTOR: Family history?
+PATIENT: Family history… Hmm. That's a tough one. My family is… spread out. I haven't seen most of 'em in years. My mother, she had… arthritis, I think? In her hands, mostly. And my father… he had high blood pressure, but that's all I really remember. It wasn’t something we talked about a lot, to be honest. We didn’t really do doctors, you know?
+DOCTOR: Alright. Medications?
+PATIENT: No medications. Not a one. I try to stay away from 'em if I can. I believe in letting the body heal itself, you know? Though, this foot might be changing my mind about that. It's pretty stubborn.
+DOCTOR: Okay. Let's take a look at this foot. Sit back, please.
+PATIENT: Alright, sounds good. Be gentle, okay? It’s kinda sensitive.
+DOCTOR: Hmm. It’s warm, definitely some swelling around the ankle and midfoot. Tenderness on palpation here and here. Can you move your toes?
+PATIENT: Yeah, I can. It’s a little stiff, but I can move 'em. Doesn’t feel… broken, if that makes sense. Just… uncomfortable. What do you think it is?
+DOCTOR: Probably a sprain. You likely just twisted it without realizing. We'll need to rule out a fracture, just to be safe. I'll order an X-ray.
+PATIENT: An X-ray? Okay… That sounds… thorough. Is it gonna be expensive? I don’t have insurance, you see… I just… I wasn’t expecting all this. I thought it was just a little swelling.
+DOCTOR: Look, I'm just covering my bases. X-rays aren’t that expensive. We need to know what we’re dealing with before we can even think about treatment. There's a facility down the hall. I’ll send the order over. Don't worry about it too much right now. Just go get it done.
+PATIENT: Okay… okay. Down the hall, you said? Alright. I’ll… I’ll go get it done. Hopefully, it’s nothing serious. Thank you, doctor.
+DOCTOR: Alright. Let them know you’re here for an X-ray of your left foot. And try not to put too much weight on it. Now, if you’ll excuse me, I have other patients to see.
+PATIENT: .

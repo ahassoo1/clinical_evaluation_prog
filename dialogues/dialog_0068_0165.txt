@@ -1,0 +1,29 @@
+DOCTOR: Good afternoon, Mr. Brege. Welcome. I’m Dr. Sham. So, what brings you in to see me today?
+PATIENT: Afternoon, Doc. Just been gettin’ a fever on and off, keeps comin’ back. It's been botherin’ me for a bit now, figured I should get it checked out. Don't like feelin' sick, ya know?
+DOCTOR: Right, a fever that comes and goes. Can you tell me a little more about it?
+PATIENT: Well, it ain’t a high fever, never gets too bad. Like, 101, maybe? Usually happens in the evenin’. I just get chills, feel kinda weak. Then it breaks, and I’m okay for a day or two, then it's back. It's been goin’ on for, oh, about three weeks now, I think. Hard to keep track, honestly.
+DOCTOR: Three weeks… alright. And besides the fever and chills, have you noticed anything else?
+PATIENT: Hmm… let me think. Not really. Maybe a little tired, but I’m 65, Doc, I am usually a little tired. No cough, no aches, no… nothin’ else I can think of, really. Just the fever. And the chills when it comes on.
+DOCTOR: Okay. And have you been traveling anywhere recently, or been around anyone who's been sick?
+PATIENT: Nah, haven't been on a plane or nothin'. Just been home mostly, takin' care of the garden. My wife, Elena, she had a little cold last month, but it didn't last long. Just a sniffle, really. Didn’t seem like much. I don’t think that’s it.
+DOCTOR: Alright. And do you have any known allergies to any medications?
+PATIENT: Nope, not that I know of. Never had a bad reaction to anything they've given me before. I haven't been takin' much these days, though. Just some ibuprofen now and then for my back. I'm a chiropractor, remember? Try to avoid the pills if I can.
+DOCTOR: Right, a chiropractor… yes, I recall now. And are you currently taking any medications regularly, even over-the-counter things?
+PATIENT: Just the ibuprofen when my back flares up, Doc. Maybe two or three times a week, tops. Small dose. And a multivitamin, but that's it. I try to eat right, mostly. Elena makes sure of that.
+DOCTOR: Okay. Now, let's talk about your past medical history. Have you had any serious illnesses or surgeries in the past?
+PATIENT: Let me think… I had my appendix out when I was a kid, back in Puerto Rico. And I broke my arm once, fell outta a tree. Other than that, nothin' much. Just the usual bumps and bruises. No heart trouble, no diabetes, nothin' like that. I’ve been pretty lucky, all things considered.
+DOCTOR: Alright. And what about your family?
+PATIENT: Well, my mother, she had high blood pressure, but she lived to be 85. My father… he had some problems with his knees when he got older, arthritis, I think. But no major illnesses, nothin' really passed down that I'm aware of. Both gone now, God rest 'em.
+DOCTOR: Okay. Now, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Nope, none of that. Never been a smoker, don't like the smell of it. I'll have a glass of wine with dinner sometimes, but that's it. And definitely no drugs. Elena would kill me. I keep busy enough with the garden and my practice, don't need any of that.
+DOCTOR: Alright. Well, that gives me a good start. Let’s do a quick physical exam, just to check things out. Can I listen to your heart and lungs, and feel your abdomen?
+PATIENT: Sure, Doc. Whatever you need to do. Just wanna get this fever figured out. Go ahead.
+DOCTOR: Okay, if you could just lie back here… Alright, deep breath in… and out… Heart sounds are regular, no murmurs that I can detect. Lungs are clear to auscultation… Now, let me check your abdomen. Any tenderness here?
+PATIENT: Nope, doesn't hurt when you press. Not really. Maybe a little…sensitive right here, but I think that's just my digestion. I had a pretty big lunch. Elena makes a good meal.
+DOCTOR: Okay. And what about your temperature right now?
+PATIENT: Oh, I haven’t checked it today, Doc. Haven’t been feelin' too bad today, so I figured it wasn't worth botherin' with. But last night, before bed, it was 100.8. That’s when I decided I should come in.
+DOCTOR: Alright. Given your history and the exam findings... this is a bit puzzling. A low-grade fever, no obvious source... I’m going to order some blood work, just to rule things out. A complete blood count, a metabolic panel, and a basic inflammatory marker. It’ll help us see if there's an infection or something else going on. Does that sound alright?
+PATIENT: Yeah, sounds good, Doc. Whatever you think is best. Just wanna feel normal again, ya know? So blood work is fine. Where do I go to get that done?
+DOCTOR: Alright. There’s a lab just down the hall, room 203. They'll take a small sample of blood, and it should only take a few minutes. I'll have the results sent to me, and I’ll call you with the results as soon as I have them. It usually takes 24 to 48 hours. In the meantime, continue to monitor your temperature and let me know if you develop any new symptoms, like a cough, shortness of breath, or severe pain. Does that all sound clear?
+PATIENT: Yeah, clear as mud, Doc. Room 203, wait 24-48 hours, let you know if it gets worse. Got it. Thanks for takin' a look at me, Doc. I appreciate it. Hope it ain't nothin' serious.
+DOCTOR: Alright. Well, let’s get those tests ordered. I’ll see what we find. And don't hesitate to call the office if you have any questions or concerns. Have a good day, Mr. Brege.

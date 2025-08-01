@@ -1,0 +1,19 @@
+DOCTOR: Right. Yamir Shanor, 31 years old. So, what brings you in today?
+PATIENT: Uh, yes, that’s me. I need… check for fitness. For… referee. And maybe coach. They want me to get checked by doctor first. Is okay?
+DOCTOR: Fitness check… for refereeing and coaching. I see. And you’re…concerned about something specific, or is this just a standard requirement?
+PATIENT: No, no concern. Just… they say I need. For insurance. And… to be sure I’m strong enough. Old age, you know? Not old old, but… not young either. They want papers. That’s all.
+DOCTOR: Right, paperwork. Of course. Well, let’s get this over with then. Have you had a physical in the last year?
+PATIENT: Uh… I don’t remember. Maybe? Long time ago. I work… a lot. With the… the bricks. Not really bricks, but… the stuff for hot places. I don't go to doctor much. Is okay if I don't remember, right?
+DOCTOR: It's… preferable to remember. But alright. And have you been experiencing any symptoms at all?
+PATIENT: Symptoms? Like… sick? No, not sick. Maybe… tired sometimes. But work is hard. And… my wife… she passed last year. So… tired from that too. Not… body tired, but… you know. Is hard to explain. Is everything okay?
+DOCTOR: I understand. Loss is… difficult. But we still need to rule out any underlying physical causes for your fatigue. Have you noticed any chest pain, shortness of breath, dizziness, or palpitations?
+PATIENT: Pal… what? No. No pain. Sometimes… feel warm. But is hot, you know? I work with fire. Always hot. And… dizzy? Maybe when I stand up fast. But everyone gets that, right? Is normal? I don’t know… I’m not good with… with body stuff. Is okay if I just… work?
+DOCTOR: Right. Well, "normal" doesn't necessarily mean good enough for the demands of refereeing and coaching. Let’s do a quick exam, just to be thorough. Can you stand up for me, please?
+PATIENT: Okay. Is this… long? I have things to do. Need to get back to work soon.
+DOCTOR: Just a few moments. Blood pressure, pulse, listen to your heart and lungs. Blood pressure is… elevated. 140 over 90. Pulse is a bit rapid as well, 88. Lungs sound clear, but we’ll want to do some blood work to rule out anything more serious.
+PATIENT: Elevated? Is that bad? I don't like numbers. Just tell me if I can work or not. Can I coach the little kids? That's all I want. The little ones don’t need… strong referee.
+DOCTOR: It's… not ideal. Elevated blood pressure increases your risk for heart disease and stroke. We need to get that under control. And frankly, even coaching little ones requires a reasonable level of cardiovascular fitness. I’m going to order a complete blood count, a lipid panel, and an EKG. We also need a urine sample. There’s a restroom down the hall. Bring back a sample when you’re done. Then we'll discuss the results. Do you have any allergies or medications I should be aware of?
+PATIENT: Allergies… no. Nothing I know of. And no… medicine. Never need medicine. Just… work. Urine… okay. Long time no urine test either. This is… a lot. Is this going to take all day?
+DOCTOR: It won’t take all day. But we need to be thorough. Bring the sample when you’re ready. And frankly, given your blood pressure, I'm recommending you refrain from any strenuous activity until we get these results back. It's better to be safe than sorry. I’ll have the lab technician come get it when you’re done.
+PATIENT: Okay. No… work. No coach. Just… urine. Fine. This is very… inconvenient. .
+DOCTOR: .

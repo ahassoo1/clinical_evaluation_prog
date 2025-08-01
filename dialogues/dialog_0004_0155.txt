@@ -1,0 +1,44 @@
+DOCTOR: Good morning, Mr. Jezik. I'm Dr. Deschane. So, tell me, what brings you in to see me today?
+PATIENT: Uh, good morning, Doctor. Tremor, you said? Yes, that’s right. My hands… they shake. Been happening for a while now, I guess. Not sure exactly how long, to be honest. It's… annoying. Mostly when I try to do things, you know? Like… holding a cup.
+DOCTOR: Alright. “A while now” isn’t terribly specific, Mr. Jezik, but we can work with that. And it’s primarily interfering with fine motor skills, such as holding a cup?
+PATIENT: Fine motor… yes, that sounds right. Holding things. Eating. Even… buttoning my shirt sometimes. It’s not constant, though. Sometimes they’re steady enough. It’s just… unpredictable. Look, I used to work with pumps and valves, big stuff. Never bothered me then. Now… it’s different.
+DOCTOR: Hm. And when did you retire from that work, Mr. Jezik?
+PATIENT: Retire… oh, goodness. Let me think. It was… around 2010, maybe? Or 2012? It was after my divorce, definitely. Everything sort of blurs together after… well, after a while. I don’t remember the exact date, sorry.
+DOCTOR: It’s alright, approximations are fine. So, the tremor began after your retirement and divorce, roughly around 2010-2012?
+PATIENT: Yeah, that sounds… about right. I think so. It wasn't right after, exactly. Took a little bit, I reckon. A few months, maybe? But yes, after all that. Things were… unsettled for a while. Didn't really notice it much then, to be honest. Too busy, I suppose.
+DOCTOR: Right. And has it been gradually worsening since then, or has it been more stable, with periods of being better or worse?
+PATIENT: Worsening… yeah, I think so. Slowly, but definitely. Some days are better than others, like you said. But overall… it's getting harder to ignore. Especially when I'm trying to eat soup. That’s a disaster, let me tell you.
+DOCTOR: I see. And aside from the tremor and difficulty with fine motor skills, have you noticed any other symptoms?
+PATIENT: Symptoms… other symptoms? Let me think… Well, I’ve been feeling a bit… tired lately. But who doesn't, at my age? My legs sometimes feel… heavy, I suppose. And I’ve been a bit… forgetful. But that’s just old age, isn't it?
+DOCTOR: Mr. Jezik, “just old age” can encompass a multitude of things, and it’s important we explore all possibilities. The fatigue and heavy legs are good information. Have you noticed any stiffness in your legs, particularly in the morning?
+PATIENT: Stiffness… yes, actually. Now that you mention it, mornings are the worst. Takes a while to get moving. Feels like I’m walking through mud sometimes. Not every morning, but… often enough to be a bother. Didn't really think it was important enough to mention.
+DOCTOR: Okay. And have you experienced any changes in your balance or coordination?
+PATIENT: Balance… hmm. I haven’t fallen or anything. But… I feel a little unsteady sometimes. Like I need to concentrate just to walk straight. It’s subtle. My wife – well, ex-wife – used to say I always walked a little funny, but…
+DOCTOR: Mr. Jezik, that’s useful information. And are you experiencing any difficulty with speech, or have you noticed any changes in your handwriting?
+PATIENT: Handwriting… Now that you ask, it is a bit shakier than it used to be. Hard to write a straight line. Speech… no, I don't think so. People still understand me, don’t they? I haven’t noticed any trouble talking.
+DOCTOR: Alright. And do you have any history of head trauma, or any neurological conditions?
+PATIENT: Neurological… goodness. Not that I know of. I bumped my head a few times working on those pumps, but nothing serious. No concussions or anything like that. No doctor ever told me about anything wrong with my… neurology.
+DOCTOR: Very well. Now, let’s discuss your past medical history. Do you have any chronic medical conditions, such as diabetes, high blood pressure, or heart disease?
+PATIENT: Oh, goodness. Let me think. High blood pressure, the doctor told me years ago. I took pills for it for a while, but… stopped. Didn’t like taking them. Felt better without them. As for anything else… I don’t really remember. It’s been a long time.
+DOCTOR: Right. And are you currently taking any medications, even over-the-counter ones?
+PATIENT: Just… some vitamins, now and then. Nothing regularly. A little bit of ibuprofen for aches and pains, but that’s about it. I don’t like taking pills, Doctor. Never have.
+DOCTOR: Do you have any allergies to medications, food, or anything else?
+PATIENT: No, not that I know of. Never had a reaction to anything. My ex-wife was the one who always remembered those things. I just ate what she put in front of me.
+DOCTOR: Okay. And finally, can you tell me about your family history?
+PATIENT: Family history… Well, my mother lived to be 85, I think. She had… arthritis, I believe. And my father… he died young, heart attack. I don't recall anyone in the family having… shaking, like this. Not that I remember, anyway.
+DOCTOR: Alright, Mr. Jezik. Thank you for that information. Now, I’d like to conduct a brief physical examination. I’ll need you to sit here, and I’ll start by checking your vital signs—blood pressure, pulse, and temperature. Then, I’d like to assess your reflexes, coordination, and gait. Would that be alright?
+PATIENT: Sounds… fine. As long as it doesn’t take too long. I have… things to do. But yes, go ahead. Just… try to be quick, if you could.
+DOCTOR: Very well. Let’s start with your blood pressure. 150 over 85. Elevated, not surprising given your history. Pulse is 72, regular. Temperature is 98.6, normal. Now, I’m going to check your reflexes. Please relax your arms. Reflexes are 2+ bilaterally, normal. Now, could you please extend your arms in front of you and touch your nose with your index finger, then repeat with the opposite hand?
+PATIENT: It's… harder than it used to be. Feel a bit shaky doing that.
+DOCTOR: I observe some mild tremor and slight difficulty with coordination. Now, please sit with your feet flat on the floor. I’m going to assess your gait. Could you please stand up and walk a few steps forward, then turn around and walk back?
+PATIENT: There. See? A little wobbly. Never used to be like this.
+DOCTOR: I observed a slightly wide-based gait and some mild instability. Alright, Mr. Jezik, thank you for that. Based on your history and the physical exam, several possibilities come to mind. Your symptoms could be indicative of essential tremor, Parkinson’s disease, or even a medication side effect, though you are not currently taking any regular medications. Given your age and the gradual onset of symptoms, it’s important to rule out Parkinson’s disease.
+PATIENT: Parkinson’s…? Oh, goodness. That sounds… serious. Is that… bad? I just thought it was old age, you know?
+DOCTOR: Parkinson’s disease can be serious, Mr. Jezik, but it's not necessarily a death sentence. Early diagnosis and treatment can help manage symptoms and maintain quality of life. However, it's essential to determine if that is what you’re dealing with. To do that, I recommend a neurological consultation and some imaging – specifically an MRI of the brain – to rule out other potential causes. Would you be open to those tests?
+PATIENT: Tests… more tests. I suppose so. If you think it’s necessary. I just want to know what’s going on, you know? And… hopefully, there’s something I can do about it. I don’t want to end up… shaking all the time.
+DOCTOR: Alright, Mr. Jezik. I understand. I will write a referral to Dr. Anya Sharma, a neurologist in the city. She’s very good. And I’ll order an MRI of the brain to be conducted at the clinic on August 9th. In the meantime, try to avoid any activities that exacerbate the tremor. And I'd also suggest contacting a physical therapist for some exercises to maintain your strength and balance. Do you have any questions for me at this time?
+PATIENT: Physical therapist… more appointments. Okay. No, I don't think so. Just… when will I hear about the MRI results? And… will Dr. Sharma be able to… fix this? Is that what neurologists do?
+DOCTOR: You will receive a call from the clinic within a week of the MRI being completed, Mr. Jezik, to discuss the results. As for Dr. Sharma, neurologists don't necessarily "fix" conditions like Parkinson’s, but they can significantly manage the symptoms with medication and therapies to improve your quality of life. She will provide a thorough evaluation and develop a treatment plan tailored to your specific needs. Does that make sense?
+PATIENT: I… think so. Manage it, you say? Not… cure it? Well, at least knowing what it is would be something. Thank you, Doctor. I guess I'll wait for the call. And try not to spill too much soup in the meantime.
+DOCTOR: .
+PATIENT: Alright, Mr. Jezik. Take care. .

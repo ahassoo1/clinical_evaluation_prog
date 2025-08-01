@@ -1,0 +1,22 @@
+DOCTOR: Right. Mr. Aluia, is it?
+PATIENT: Yes, that’s me. Clarke Aluia. But please, call me Clarke. Everyone does.
+DOCTOR: Very well, Clarke. And what brings you in today?
+PATIENT: Well, it’s these bumps on my legs. On my shins, mostly. They’re red and… well, they hurt. Not all the time, but enough to bother me. They’ve been there for a little while now, I guess. Maybe a month or so? It’s hard to keep track, honestly.
+DOCTOR: A month, you say. And they hurt. Can you describe the pain?
+PATIENT: It’s not like a sharp pain, you know? More like… achy. And kinda tender to the touch. If I bump ‘em, ouch! It’s not the worst pain, but it’s always there, a little bit. It gets worse if I’ve been on my feet a lot.
+DOCTOR: Hmm. And do you recall anything that might have started this?
+PATIENT: That’s a good question. Honestly, no, not really. I’ve been working the same job for… oh, goodness, twenty years now. Loading and unloading trucks, mostly. It’s hard work, but nothing different happened recently that I can think of. Maybe the heat? It’s been pretty warm this summer. I don't remember hurting my legs or anything.
+DOCTOR: Loading and unloading… right. And you’ve noticed these bumps only on your shins?
+PATIENT: Yes, just my shins. Both of ‘em. Not anywhere else. They started small, I think, and they’ve gotten… well, a little bigger. Not huge, but noticeable. My wife, Elena, noticed them right away. She always does! She's got a good eye for things.
+DOCTOR: Alright. Let’s have a look, shall we?
+PATIENT: Yes, please. Whatever you think is best. I’m happy to show you. Here, you can see them. They’re a little red today, maybe because I was walking a lot yesterday.
+DOCTOR: Hmm. Yes, I see. Several erythematous papules and plaques on both tibias. No ulceration. No signs of infection currently… though it could develop. Do you have any history of diabetes, Mr. Aluia?
+PATIENT: Diabetes? No, not that I know of. Never been told I have it. Elena gets her blood sugar checked regularly, but I haven't had mine done in… oh, goodness, probably years. I feel pretty good usually, besides these bumps. Is that… is that bad? Should I have been getting it checked?
+DOCTOR: It’s… not necessarily alarming. But these could be shin splints, or possibly a form of dermatitis. It’s difficult to say without further investigation. Are you currently taking any medications?
+PATIENT: Just a little something for my blood pressure. A small white pill, once a day. That's it. Nothing else. And I don’t have any allergies that I know of. Elena always asks when we go to the doctor, and I always say no. Is this going to be serious? I have work, you know? I can't be laid up for weeks.
+DOCTOR: I doubt it will be weeks. But we need to rule out a few things. I’m going to order some blood work - a basic metabolic panel and a complete blood count. We’ll check your blood sugar, kidney function, and look for any signs of inflammation. Also, an EKG, just to be safe, given your age.
+PATIENT: Okay, that sounds… thorough. Blood work and an EKG. Alright. Whatever you think is best, Doctor. Where do I go for those? Is it here at the clinic?
+DOCTOR: The lab is just down the hall, first door on the left. The EKG technician is in room three. They'll explain everything. The results usually take a few days. Once we have those, we'll discuss a plan. Don’t push yourself too hard in the meantime. And try to keep those legs elevated when you can. Anything else?
+PATIENT: No, I think that’s everything. Thank you, Doctor. I appreciate you looking at it. I’ll go get those tests done now. Hopefully, it's nothing serious. My wife will be relieved to know we’re getting it checked.
+DOCTOR: Good. See to it that you schedule a follow-up appointment once the results are in. The receptionist will handle that. Next. .
+PATIENT: .

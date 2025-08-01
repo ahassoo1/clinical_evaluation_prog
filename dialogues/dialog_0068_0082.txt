@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Mr. Tayar. I’m Dr. Sham. So, what brings you in to see me today?
+PATIENT: Morning. Uh, travel. I need... shots? For travel. My wife... she would have known where. Everything is... blurry. I just need to go. Somewhere warm.
+DOCTOR: Right, travel vaccinations. I see… blurry, you say?
+PATIENT: Yeah. Like... a long time ago now. Not important. Just… need to be safe. Where I’m going… lots of bugs, I heard. My wife… she always checked. Now I just… go.
+DOCTOR: Okay. It is important to know what you need, even if details are… difficult to recall. Do you remember where you are travelling to, Mr. Tayar?
+PATIENT: Hmm… Thailand, maybe? Or… Indonesia? Something with beaches. Lots of sun. She liked the sun. Honestly, I booked it online. Last minute. Didn’t really pay attention. Is that bad?
+DOCTOR: Not ideal, but we can work with it. Alright, let’s proceed as if it’s Thailand or Indonesia, covering the most common recommendations. Do you know if you’ve had any vaccinations previously?
+PATIENT: Vaccinations? Uh… a few as a kid? Like… the normal ones? For school? I don’t remember the names. My wife… she kept all the papers. Everything is… gone now.
+DOCTOR: I understand. Okay. Well, in that case, we’ll need to consider some basics and potentially some travel-specific ones. Before we get to those, have you experienced any unusual symptoms lately?
+PATIENT: Symptoms? Like… feeling sick? Not really. Tired, maybe. But I’m always tired. Just want to get away. Is that a symptom? Of… something?
+DOCTOR: No, wanting to get away isn't a symptom, Mr. Tayar. But let’s rule out anything else. Have you had any fever, chills, muscle aches, diarrhea, or skin rashes recently?
+PATIENT: No… no fever. Everything feels… normal, mostly. A little achy, you know? Old age. And… maybe a little stomach trouble sometimes? But nothing bad. Just… you know. Normal things.
+DOCTOR: Alright. And what about any chronic medical conditions?
+PATIENT: Conditions? Like… always feeling tired? That's it. Nothing the doctors ever bothered with. My wife… she always told me what to tell them. Just… weak bones, maybe? I break easy.
+DOCTOR: Okay. Weak bones… Do you have any history of osteoporosis or osteopenia?
+PATIENT: Os… what? Sorry, I don't know those words. Just… I fell a lot when I was younger. And sometimes now. My wife used to say I was clumsy. Does it matter? I just need the shots so I can go. Is that hard?
+DOCTOR: It’s helpful for me to understand your overall health, Mr. Tayar. Knowing about potential bone weakness helps me advise you on travel safely. Let's simplify. Have you ever been diagnosed with anything serious?
+PATIENT: Serious? No. A few colds, maybe? Broken a few bones. Nothing… that needed a doctor for long. My wife handled all that. She said I worried too much. She always knew what to do.
+DOCTOR: Okay. And are you currently taking any medications, even over-the-counter ones like pain relievers?
+PATIENT: Uh… sometimes I take something for my aches? Just… whatever is at the store. Ibuprofen, maybe? I don't remember the name. And… sometimes a little something to help me sleep. Not every night. Just when I can't.
+DOCTOR: Alright. Now, a quick family history, if you can recall. Are there any significant medical problems that run in your family?
+PATIENT: Family? Uh… My wife's mom… she had something with her heart, I think? And my… my father, he… he was always tired too. Just… old age, mostly. They all just… got old. I don’t know much about family things. My wife handled all that, too. .
+DOCTOR: Alright, Mr. Tayar. It sounds like a lot of your medical history was managed by your wife, and that’s… understandable. Let's proceed with some essential vaccinations, given your travel plans. I’m going to do a quick physical exam, just to get a baseline, and then we can discuss which shots are most important. Is that alright?

@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Kingan. I am Dr. Gonzalezperez. It says here you’re 62 years of age. Please, have a seat. Now, what brings you in to see me today?
+PATIENT: Yeah, good morning, Doctor. Just Lamark is fine. I'm here for a tryout physical. Trying to get on a team, you know? Gotta make sure I’m still good to go. Don't want to pull anything.
+DOCTOR: A tryout physical, alright. And what sort of team are we discussing, Mr. Kingan?
+PATIENT: Oh, it’s a… well, it’s a wrestling team. Older guys, mostly. Not the big leagues or anything. Just local. Keeps me active, you know? It's good exercise.
+DOCTOR: Wrestling, you say?
+PATIENT: Yeah, wrestling. Look, can we just get this over with? I got things to do, and I wanna know if I'm cleared or not. No point in wasting time, right?
+DOCTOR: Certainly, Mr. Kingan. Efficiency is…admirable. We'll proceed. I do need to ask a few questions for proper assessment, however. To begin, have you been experiencing any pain anywhere – chest, back, joints, anywhere at all – that might limit your physical activity?
+PATIENT: Nah, not really. Little aches and pains, you know, being my age. But nothing that stops me. My shoulder sometimes feels a bit stiff in the morning, but I work it out. It's fine. Really.
+DOCTOR: Stiffness in the morning… right. And has this shoulder stiffness been a recent development, or is this something you’ve dealt with for a while?
+PATIENT: Oh, a while. Years, probably. Comes and goes. Like I said, I work it out. It's never stopped me from, uh, wrestling. Look, is this gonna disqualify me? 'Cause I really don't wanna waste my time if it is.
+DOCTOR: We'll determine that after a thorough examination, Mr. Kingan. Let's move on. Do you have any difficulty breathing, even with mild exertion?
+PATIENT: No, no trouble breathing. I run, I wrestle… I wouldn't be doing that if I couldn't breathe, would I? Look, I'm pretty healthy. Just an old guy trying to stay active.
+DOCTOR: Very well. Have you experienced any dizziness or fainting spells?
+PATIENT: Nope. Never. Not even a little bit lightheaded. I'm good. Really. Can we just… check my reflexes or something? Get this done?
+DOCTOR: I assure you, Mr. Kingan, I am attempting to be thorough. Now, are you currently taking any medications, prescribed or over-the-counter?
+PATIENT: Nah. Don't take nothing. Never really needed to. Just… vitamins sometimes. The usual stuff. Nothing special. Honestly, Doc, I'm wasting my whole morning here. Is there a quick test we can do to see if I'm okay? I got errands.
+DOCTOR: Very well. Let's proceed with a physical exam, then. Please lie down on the examination table. I’ll start with your cardiovascular system. I will be listening to your heart and lungs. Please inform me of any discomfort you may experience.
+PATIENT: Okay, okay. Fine. Just hurry it up, alright? This table's kinda cold.
+DOCTOR: Your heart rate is somewhat elevated, even at rest. And I detect a slight murmur. Lungs sound clear, but your breathing is a little… shallow. Abdomen is soft, no tenderness. Now, let's check your reflexes.
+PATIENT: Reflexes are good, right? I used to be pretty quick. Still got some strength. Are you gonna tell me I'm too old for this? 'Cause that's a waste of time, Doc. Seriously.
+DOCTOR: Reflexes are… present, but diminished. Not alarming, but worth noting. Your shoulder does exhibit some limited range of motion, and there's tenderness upon palpation. You mentioned stiffness for years. Have you had any imaging done of this shoulder – X-rays, MRIs, anything at all?
+PATIENT: Nah, never. Just worked it out. Rubbed it. Took some ibuprofen sometimes. Look, Doc, I'm not a fancy guy. I don't go to doctors for every little ache. Can you just tell me if I can wrestle or not? I’m losing daylight here.
+DOCTOR: Given your history and the findings of this exam – elevated heart rate, diminished reflexes, limited range of motion and tenderness in your shoulder – I am concerned about potential underlying issues. While I’m not prepared to say definitively you cannot wrestle, I strongly recommend further investigation before engaging in such a physically demanding activity. Specifically, I advise an EKG to evaluate your heart health, and an X-ray of your shoulder to rule out any structural damage.
+PATIENT: Ugh. More tests? Seriously? Look, Doc, I appreciate you lookin' at me and all, but that's a lot of money and time. I’m a simple guy. I’m just tryin’ to stay active. I guess I can...think about it. But I'm not promising nothing. Can I go now?
+DOCTOR: Very well, Mr. Kingan. I’ve documented my findings and recommendations. I will provide you with a referral to a cardiologist and an imaging center. However, please understand that participating in a high-impact activity like wrestling without a proper assessment could pose a significant health risk. This sheet contains the referral information and contact details. Please schedule an appointment at your earliest convenience. And I must advise you to refrain from wrestling until you have received clearance from both specialists. You may go now.
+PATIENT: Fine. Whatever. I'll think about it. Don’t hold your breath. .
+DOCTOR: .

@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Ms. Voner. I’m Dr. Dechene. So, what brings you in today?
+PATIENT: Oh, good morning, Doctor. Um... my joints, mostly. They're just… stiff. Especially in the mornings. It’s been going on for a while now, I think. It's hard to say how long, exactly. A long while, though.
+DOCTOR: Right. “Stiff joints.” And where, specifically, are we talking about?
+PATIENT: Oh, you know… everywhere, a little bit. My hands, mostly. And my knees… they ache when I get up. Not all the time, just… first thing. It feels like I need to… work them loose, you know? Like an old door.
+DOCTOR: “Everywhere.” And how long would you say “a while” is?
+PATIENT: Oh dear… that's a good question. Hmm… maybe… a year? Or more? It's all a bit fuzzy, honestly. My husband… he used to help me remember things, but… it’s been a few years since he passed. So things get lost, you know?
+DOCTOR: Right. And has anything changed in the last year?
+PATIENT: Changed? Let me think… not really. It's just… consistently stiff. Maybe a little worse when it's cold? But nothing… sudden. I do a lot of bending and lifting at work with the little ones, so maybe that doesn't help?
+DOCTOR: And what is your work?
+PATIENT: Oh! I work with children. Childcare. I look after them at the center. Lots of playing, lots of picking up… little legs and arms, you know? It's good work, I like it. Keeps me busy.
+DOCTOR: Alright. And any other symptoms?
+PATIENT: Hmm… not that I can think of. No fever, no swelling… just the stiffness. Sometimes a little ache, but mostly just… hard to move in the mornings. I don’t feel… sick, or anything.
+DOCTOR: Any family history of… arthritis, or similar issues?
+PATIENT: Oh, goodness. That's a tricky one. My mother… she had aches and pains, I remember that. But I don't know what kind of aches and pains. And my father… well, he was a strong man, always working. I don't recall him complaining about his joints. It was a long time ago.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: No, Doctor. Not really. Just… sometimes a little something for a headache. But nothing regularly. I try to avoid taking pills if I can.
+DOCTOR: Alright. Let's have a look at your hands. Please extend your arms, palms up. Do you experience any pain with this?
+PATIENT: Oh, okay. A little bit, yes. Just… a dull ache. Not sharp, you know? More of a… creaky feeling. Like old wood.
+DOCTOR: Alright. And your knees… can you bend them for me?
+PATIENT: There we go… It’s a little stiff, you see? It clicks a bit, too. Not terribly painful, but… not smooth, you know? Like there's something… stuck.
+DOCTOR: Alright. Well, it sounds like… typical wear and tear, frankly. Age-related changes. We can get some x-rays, if you insist, but I doubt it’ll show anything significant. I can prescribe a mild anti-inflammatory if you’d like.
+PATIENT: Oh… wear and tear? Well, I do work with the children, like I said… I don't know about x-rays. Seems a bit much, doesn't it? The anti-inflammatory… what does that do, exactly? And are there any… other options? Maybe something I could do at home?
+DOCTOR: The anti-inflammatory reduces swelling and pain. It’s quite common. As for “other options,” frankly, keeping active is generally the best thing. And maintaining a healthy weight. We’ve discussed this before with other patients. Perhaps some gentle stretching would help. I'm not seeing a need for extensive investigation, Ms. Voner. We can start with the anti-inflammatory and see if that helps. If it doesn't, then we can consider further testing.
+PATIENT: Oh… I see. Well, I do try to stay active, with the children and all… and I guess I could try some stretching. I just… worry about it getting worse. And I don’t have insurance, so… testing is expensive. Is the anti-inflammatory… expensive? And would it… interfere with anything?
+DOCTOR: It’s a relatively inexpensive medication, generally. And no, it shouldn’t interfere with anything, given your current medication list. I’ll write you a prescription. However, if your symptoms worsen significantly, or you develop any new symptoms—fever, swelling, redness—you need to seek immediate medical attention. It's probably just wear and tear, but we must always rule out anything serious. Do you have any further questions?
+PATIENT: Oh… alright. That sounds… good. No, I don’t think so. Just… thank you, Doctor. For your time. I'll try the stretching and the… anti-inflammatory.
+DOCTOR: Very well. Try to manage your activity level. And don't hesitate to call if anything changes. Next! .
+PATIENT: Oh… right. Thank you again, Doctor. Goodbye.

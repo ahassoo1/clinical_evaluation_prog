@@ -1,0 +1,23 @@
+DOCTOR: Alright, Mr. Dhanoa. So, you're here today... what brings you in?
+PATIENT: Yeah, hi. It’s… this ringing in my ears. It’s been going on for a little while now, and it’s starting to bug me.
+DOCTOR: “A little while” is…how long exactly?
+PATIENT: Um… maybe, three, four weeks now? It comes and goes, but lately it’s been pretty consistent. It’s a high-pitched whine, mostly. It’s hard to explain. Like… a really quiet kettle, but inside your head.
+DOCTOR: A kettle. Right. And is it in one ear, or both?
+PATIENT: Mostly my right ear, yeah. Sometimes I think I can hear it a little in the left, but it's definitely worse on this side. It's not super loud, but it's there, you know? Constant.
+DOCTOR: Okay, okay. Any recent…loud noises?
+PATIENT: Loud noises? Not really… I work at the restaurant, so it can get noisy with people chatting and stuff, but nothing crazy. No concerts or anything like that. I don't think so…unless you count my ex-wife. But that’s not a noise, is it?
+DOCTOR: I assure you, Mr. Dhanoa, marital disputes are not a medical complaint. Let's focus. Any dizziness?
+PATIENT: No, no dizziness. Not at all. Just the ringing. And…sometimes it feels like…pressure in my ear, a little bit. It's hard to describe. Like it's…full. Not painful, just…there. Like when you're on a plane? Maybe a little like that.
+DOCTOR: Pressure, alright. And have you noticed any changes in your hearing?
+PATIENT: Yeah, actually… now that you mention it, things do sound a little muffled sometimes. Not all the time, but…like when someone's talking quietly, I have to ask them to repeat themselves more than usual. I thought it was just because I was tired, to be honest.
+DOCTOR: Tiredness doesn’t usually cause muffled hearing. Any family history of ear problems?
+PATIENT: Um… my grandma on my mum’s side… she was a bit deaf when she got old, but that was just old age, I guess? No one I know had ringing ears or anything like that. To be honest, we don’t talk about health stuff much in my family.
+DOCTOR: Alright. Let’s have a look. I’m going to check your ears, just a quick examination. Open wide.
+PATIENT: Okay, sure. Just let me know if anything feels weird, yeah? I'm a bit sensitive.
+DOCTOR: Hmm. Your ear canals appear clear. Tympanic membranes look normal…slight redness on the right side, but nothing concerning at first glance. I’m going to do a quick tuning fork test. Just tell me when you can't hear it anymore.
+PATIENT: Okay, yeah, no problem. Just let me know what to do.
+DOCTOR: Okay. Right ear… diminished sound conduction. Weber test…lateralizes to the right ear. Suggests conductive hearing loss, likely mild. It's probably just wax buildup, or a minor infection. We’ll start with some ear drops. I'll write you a prescription. If it doesn't improve in a week, then we can consider further testing.
+PATIENT: Ear drops? Okay. That sounds…good. Less testing is good. Will the drops…burn or anything? I don’t like things going in my ears. I guess as long as it goes away, right?
+DOCTOR: They might feel a little cold. It's just saline and a mild antiseptic. If you experience any pain, discontinue use. Look, this is very common. Don’t overthink it. I’ll send the prescription to your pharmacy. Anything else?
+PATIENT: No, I think that’s it. Just the ear drops, yeah? Thank you, Doctor. I appreciate it. I hope they work. And… thanks for not making me do too many tests.
+DOCTOR: Right. Good day. Try not to expose yourself to loud noises, even if they are your ex-wife’s voice.

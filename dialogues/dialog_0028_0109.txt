@@ -1,0 +1,23 @@
+DOCTOR: Right. Mr. Brum, is it?
+PATIENT: Yes, Mitchell Brum. That is right. Is… is something wrong with the paper? I hope I filled it out okay. My hands, they shake a little now, you see.
+DOCTOR: It’s… sufficient. Though, honestly, legibility is important. Now, let’s not dwell on paperwork. You're 90 years old, a little shaking is to be expected. What brings you in today?
+PATIENT: Oh. Good. I was worried. It’s… my head. Back of my head hurts. Been hurting for… maybe three days now? Not all the time, comes and goes. It’s a dull ache, not… sharp. Like a weight. Does that make sense?
+DOCTOR: A dull ache, three days… alright. And is this new?
+PATIENT: Yes, new. I’ve had headaches before, everyone does, but… this is different. It feels… in the back. And it doesn’t go away with just… resting. I usually lay down and it helps, but not this time. I worked… I worked at the rail yard for almost all my life, you know. Maybe that has something to do with it? Lots of heavy lifting.
+DOCTOR: The rail yard… yes, well, that could contribute. And what other symptoms are you experiencing?
+PATIENT: Symptoms? Hmm… Let me think. I haven’t felt sick to my stomach. No fever, I don’t think. And I can see okay… mostly. Sometimes things are a little blurry when I wake up, but that’s been happening for a long time. Oh! And I feel… a little tired, maybe. But I am ninety years old, Doctor. Everything gets a little tired.
+DOCTOR: Right. No fever, no nausea… blurry vision, long-standing… fatigue, expected. Let's proceed with a brief neurological exam, just to be thorough. Can you follow my finger with your eyes?
+PATIENT: Yes, I can try. My eyes… they don't move as fast as they used to. Is this okay? Do I just… look at your finger? No blinking?
+DOCTOR: Yes, follow the finger. Blink if you need to. Don’t strain. Alright. Now, can you squeeze my hands?
+PATIENT: Yes, I can squeeze. Like this? Is that too tight? I don't want to hurt you, Doctor. My grip… it’s not what it used to be either. Worked with metal all my life, you see. Hard on the hands.
+DOCTOR: Adequate. Though diminishing, as you say. Now, I’m going to check your reflexes. Relax your leg.
+PATIENT: Okay, I’m relaxed. My leg… it’s a little stiff sometimes, from the work, but I think it’s okay. Is this going to hurt? I don’t like surprises, Doctor.
+DOCTOR: A quick tap, that’s all. Hmm. And the other leg?
+PATIENT: Okay. Go ahead. It’s… always been a little weaker, that leg. Had an accident when I was young, working on the rail yard. Nothing serious, but it never healed quite right. Is something wrong? It feels… funny when you tap it.
+DOCTOR: Yes, well, as you said, a history of injury. Alright. Considering your age, your history, and the exam findings… it’s likely this is related to age-related changes and previous injury. We will need to do some imaging to rule out anything more serious. I’m ordering a CT scan of your head.
+PATIENT: A CT scan? What… what does that do? Is it painful? And… will it show what's wrong with my head? I just want the headache to go away, Doctor. Is it something bad? I don't have much money, you see, and my wife… she's gone now. I don’t have anyone to help with bills.
+DOCTOR: A CT scan is a special x-ray. It takes pictures of the inside of your head. It’s not painful. It’s to rule out anything serious, like a bleed or a tumor. It's standard procedure given your symptoms. As for the cost… the clinic has some assistance programs. We’ll see what we can do. I’m also going to prescribe you a mild pain reliever. Take it as directed. And I’m ordering a referral to neurology for further evaluation after the scan. We need to be thorough. At your age, we take every precaution.
+PATIENT: Oh. Okay. A pain reliever… that sounds good. And the scan… I hope it doesn’t show anything bad. I… I don’t want to be a bother. I just want to feel better. Will someone… will someone explain the results to me? I don't understand… all the doctor talk. And the neurology… what will they do there?
+DOCTOR: The results will be explained to you, yes. The neurology appointment is for a more in-depth assessment. They’ll ask questions, perhaps conduct further tests. It’s standard procedure. I’m printing you a referral, the scan order, and a prescription. The radiology department will explain the scan process. We've scheduled the scan for tomorrow morning. Do you have any other questions?
+PATIENT: Tomorrow morning… That’s… a lot. And so soon? I suppose… I suppose it’s best to get it done. No… no, I don’t think so. Not right now. Thank you, Doctor. Thank you for trying to help. I hope… I hope everything is alright. .
+DOCTOR: Very well. Get some rest. .

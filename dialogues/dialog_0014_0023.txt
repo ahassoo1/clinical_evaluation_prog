@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Bulaong. I’m Dr. Osterholm. So, what brings you in today?
+PATIENT: Good morning, Doctor. Uh... my chest hurts. Not always, but... yeah. It's my chest. It’s kinda... sore, sometimes. Like, a pain.
+DOCTOR: Okay. "Chest pain." Right. And how long has this been going on?
+PATIENT: Hmm... not so long. Maybe... a few weeks? Not even a full month, I think. It comes and goes. Not every day. Sometimes I just… feel it. It’s hard to say exactly.
+DOCTOR: A few weeks. Okay. And when it does happen, can you describe the pain?
+PATIENT: Uh... it's not like a sharp pain. More… dull? Like, when you use your muscles too much. A little bit achy. And it’s… both sides. Not just one spot. Hard to explain, sorry.
+DOCTOR: "Both sides," you say. And it feels like muscle ache… Hmm. Do you notice anything that makes it worse?
+PATIENT: Not really. I work on roofs, you know? So sometimes it’s hard to tell if it’s just from… the work. Lifting things. But… even when I’m not working, it happens. Not so often, but… yeah. It doesn’t feel like only the work.
+DOCTOR: Roofs, right. Physical job. Okay. And when you say “both sides,” is it exactly the same on both sides, or is one side worse than the other?
+PATIENT: Uh… mostly the same, I think. Maybe… sometimes my left side feels a little more… full? Like, a little heavier. But not always. It's hard to tell. I don’t really pay attention, I guess. Just know it hurts.
+DOCTOR: “Full”… alright. Do you have any shortness of breath with this pain?
+PATIENT: No, Doctor. Not that I know of. I can… breathe okay. I work on roofs, remember? Lots of walking. I think I would know if I couldn't breathe. It’s just… the pain. And sometimes… a little worried. That’s why I came.
+DOCTOR: Alright. And have you had any palpitations—that is, feeling like your heart is racing or skipping beats—at the same time as this chest pain?
+PATIENT: Pal… pal-pi… what was that word again? You mean like, my heart goes fast? No, I don't think so. My heart feels okay. Sometimes it beats fast when I’m working hard, but… that’s normal, right? Not a special… racing feeling. Just… normal fast. I don’t know. Sorry, I'm not good with… words.
+DOCTOR: Yes, yes. Normal fast. Okay. Let's move on. Any nausea, vomiting, sweating with this pain?
+PATIENT: No, Doctor. Nothing like that. No sick feeling. No… throwing up. No sweat. Just… the pain. I'm not sick, I don’t think. Just… worried about my chest. Is it bad? Should I be worried?
+DOCTOR: Well, that’s why you’re here, isn’t it?
+PATIENT: Yes, Doctor. Sorry. I just… I don’t want anything serious. I have a wife. I need to work. Is it… my heart? Should I see a… heart doctor?
+DOCTOR: Alright, Mr. Bulaong. I'm going to listen to your heart and lungs now, and then we'll talk about possible causes. Please lie back on the examination table.
+PATIENT: Okay, Doctor. I will lie down. Is it cold? Do I need a… a sheet?
+DOCTOR: There's a sheet there, if you'd like. Just lift your arms above your head. Take a deep breath in… and out… good. And another one. Deep breath in… and out… good. Your heart sounds… normal, rhythmically. Lungs are clear, but your breathing is a little… shallow. Do you smoke?
+PATIENT: No, Doctor. Never smoked. My wife… she doesn't like smoke. I walk a lot, from the roofs, you know? Maybe that's why I'm… shallow? It's hard to breathe when you walk up and down all day.
+DOCTOR: Alright. It's unlikely to be a lung issue then. Given your age and activity level, it could be muscular, but we need to rule out other things. I'm going to order an EKG, just to check your heart's electrical activity, and some basic blood work. Does that sound alright?
+PATIENT: Uh… EKG? What's that? And blood work? Is that… painful? I don’t like needles, Doctor. I get… scared. I just want to know if it’s bad. Is it bad?
+DOCTOR: The EKG is just a quick, painless test where we put some stickers on your chest to record your heart's rhythm. As for the blood work, it will be a small prick in your arm. I understand you're nervous, but it’s necessary to get a clearer picture. I'm ordering them just to be safe. The nurse will come in shortly and take care of it.
+PATIENT: Okay, Doctor. Safe. Stickers… and a little prick. That sounds… okay. If it’s safe. I don't want anything serious. When will I know… the results?
+DOCTOR: The results should be back within a couple of days. The nurse will call you with the findings. In the meantime, try to avoid any strenuous activity. If the pain gets significantly worse—if it radiates down your arm, or if you experience any shortness of breath, dizziness, or nausea—go to the nearest emergency room immediately. Do you understand?
+PATIENT: Yes, Doctor. No running. No… bad pain. I understand. Go to… the emergency room. Okay. Thank you, Doctor. I hope it's… not serious. Can I go now?
+DOCTOR: Yes, you can go. The nurse will be in shortly to draw your blood. I'll see you when the results are back.
+PATIENT: Okay, Doctor. Thank you again.

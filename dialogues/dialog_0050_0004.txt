@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Ms. Fornes. My name is Dr. Paraskevopoulos. It's a pleasure to meet you. Now, could you tell me what brings you in to see me today?
+PATIENT: Morning, Doctor. Nice to meet you too. Well, it's just for my shots, really. Routine stuff, you know? Gotta keep up with things. I think it’s time for a check-up on those, anyway.
+DOCTOR: Certainly. Preventative care is most important. And to clarify, Ms. Fornes, when you say “shots,” are you referring to vaccinations, or are you experiencing some sort of localized pain that you're describing as "shots"?
+PATIENT: Oh, vaccinations, Doctor. Just the yearly ones, I suppose. Not any pain, thankfully. I just… well, my husband, he keeps on me about it, making sure I don’t fall behind. He’s good that way.
+DOCTOR: Very good. Let me just access your record here… Ah, yes. I see your last influenza vaccination was October 12th, 2024. And a Tdap booster on March 5th, 2023. Given the date, you are due for your annual influenza vaccine. Before we administer that, however, I do like to perform a brief assessment to ensure there are no contraindications and to update your overall health profile. Is that acceptable?
+PATIENT: Sounds good to me, Doctor. Whatever you need to do, just let me know. I'm pretty healthy, I think. Just the usual aches and pains for someone my age, you know?
+DOCTOR: “Usual aches and pains” can be quite informative, Ms. Fornes. To begin, let’s review your medical history. Do you have any chronic medical conditions – such as diabetes, high blood pressure, heart disease, or lung problems – that I should be aware of?
+PATIENT: No, not really. Nothing the doctors ever bothered with, anyway. I had a bit of trouble with my blood pressure years ago, but it went down when I started eating better. It's been fine ever since. My husband keeps a close eye on it, though - he's a bit of a worrier, that one!
+DOCTOR: Very well. And have you had any surgeries in the past?
+PATIENT: Hmm... let me think. Just my gallbladder, a long time ago. Must’ve been... oh, goodness, nearly twenty years now? It was pretty straightforward, nothing fancy. Recovered just fine.
+DOCTOR: Alright, gallbladder removal twenty years ago. Do you have any allergies to medications, food, or environmental factors?
+PATIENT: Nope, not that I know of. I eat pretty much anything. And I spend a lot of time outdoors, you know, being Tlingit and all. Never had a problem with plants or anything like that. Maybe a little sensitive to dust when I’m cleaning, but that’s just a sneeze or two!
+DOCTOR: And currently, are you taking any medications – prescription, over-the-counter, or herbal supplements?
+PATIENT: Just a little ibuprofen now and then, for my knees. Mostly when the weather gets bad. That’s it, really. I try to avoid taking pills if I can.
+DOCTOR: Excellent. Now, let’s discuss your family history. Are there any significant medical conditions that run in your family – such as heart disease, cancer, diabetes, or stroke?
+PATIENT: Oh, goodness. That's a tough one. My momma, she had a bit of trouble with her heart towards the end. And my grandpa, on my dad’s side, he had diabetes. Other than that... I don't really know much about their histories, to be honest. We weren't big on talking about that sort of thing back then.
+DOCTOR: Understood. Now, to complete the assessment, could you briefly describe your lifestyle?
+PATIENT: Lifestyle, huh? Well, I mostly keep to myself and my husband. We like to fish a lot, when we can. It's good to be out on the water. And I do some weaving, traditional Tlingit designs. Keeps my hands busy. We don’t do much traveling, mostly stay around here. Pretty quiet life, all things considered.
+DOCTOR: Very good. Now, Ms. Fornes, before administering the influenza vaccine, I would like to briefly auscultate your lungs and listen to your heart, and check your blood pressure. Would that be acceptable?
+PATIENT: Oh, yes, of course! Whatever you need to do is fine with me. I trust your judgment, Doctor. I haven’t had any trouble breathing or anything like that, but go ahead, please.
+DOCTOR: If you would please remove your shirt from the waist up, or simply lift it slightly, I will begin the auscultation. It's simply a standard procedure to ensure there are no concerning abnormalities before proceeding.
+PATIENT: Oh! Right, of course. Sorry, I don't usually have to do this. It's just… haven't been to a doctor in a while. Is this cold?
+DOCTOR: Take a deep breath in... and exhale. Again, please. Breath sounds are clear bilaterally, though slightly diminished at the bases. This is not uncommon, particularly in individuals with a sedentary lifestyle. Heart rate is regular at 72 beats per minute. No murmurs, gallops, or rubs detected. Blood pressure is 138/82 mmHg. Slightly elevated, but within acceptable limits given your reported history. Alright, Ms. Fornes. Everything appears to be within reasonable parameters for the influenza vaccine. Do you have any questions before we proceed?
+PATIENT: No, I think I'm good, Doctor. Sounds like everything's okay. Just... get it over with, please? I don't like needles much.
+DOCTOR: Very well. Please expose your left deltoid. This may cause a brief stinging sensation. Try to relax. Done. Remain in the examination room for fifteen minutes for observation. If you experience any adverse reaction – such as difficulty breathing, hives, or swelling – notify the nursing staff immediately. Is there anything else I can assist you with today?
+PATIENT: No, I think that's everything. Just... thank you, Doctor. You're a very efficient doctor.
+DOCTOR: You're welcome. Have a pleasant day, Ms. Fornes. .
+PATIENT: .

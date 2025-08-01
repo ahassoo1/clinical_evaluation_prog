@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Ms. Aslan. I am Dr. Eaddy. Please, have a seat. Now, tell me, what brings you in to see me today?
+PATIENT: Hi Dr. Eaddy, good morning. It's nice to meet you too. Well, I've just been getting the chills, and it's been going on for a couple of days now. It's kind of annoying, honestly.
+DOCTOR: Chills, you say?
+PATIENT: Yeah, just...shivering, even when it's not cold. Not a fever, as far as I can tell – I haven't taken my temperature, but I don't feel hot. Just…cold. And shaky.
+DOCTOR: Hmm. And how would you describe the severity of these chills?
+PATIENT: Oh, not awful. Like, I can still do things, you know? It’s not like I'm stuck in bed. But it's enough to notice, and it makes me feel tired. It comes and goes, mostly. Sometimes it's just a little shiver, other times I'm properly cold for a bit. Does that make sense?
+DOCTOR: Vague descriptions aren’t terribly helpful, Ms. Aslan. But alright. And are these chills accompanied by any other symptoms?
+PATIENT: Oh, sorry! I just...it's hard to explain. Let me think. Um... I've been a bit more tired than usual, yeah. And maybe a little bit of a headache, but nothing major. I haven't coughed or anything, and no sore throat. I think that's it, really.
+DOCTOR: Headaches and fatigue. And you haven’t bothered to monitor your temperature, despite experiencing these...symptoms?
+PATIENT: Oh, I know, I should have. Honestly, I just thought it would pass. I’m usually pretty good at bouncing back, but this is dragging on. I guess I just hoped it was a little bug and didn’t need a thermometer. I do have one at home, I just haven’t used it. Sorry! Is that a problem?
+DOCTOR: It's…suboptimal, Ms. Aslan. We prefer patients to be more proactive in assessing their condition. Now, let’s move on. Have you experienced anything like this before?
+PATIENT: Not really. I get colds sometimes, of course, but this feels different. It’s not a stuffy nose or a sore throat. It’s just…the chills and the tiredness. It's weird. I mean, I was divorced last year, and things were stressful then, but this isn't like being stressed, if that makes sense. More…physical?
+DOCTOR: A recent divorce. Stress can manifest in a multitude of ways, Ms. Aslan. However, we must rule out other possibilities. Do you have any known allergies?
+PATIENT: No, not really. I mean, I don't break out in hives or anything. I get hay fever a little bit in the spring, but that's it. Nothing serious. I don’t take any medications regularly either. Just over-the-counter painkillers if I have a headache, but not often.
+DOCTOR: Very well. Now, let's briefly discuss your medical history. Have you had any significant illnesses or surgeries in the past?
+PATIENT: Um…nothing major. I had my tonsils out when I was a kid, that’s about it. And I've had all my usual vaccinations, I think. Nothing else comes to mind. I haven’t been in the hospital since I was little. Is there anything specific you’re looking for? I'm not very good at remembering dates or details, sorry.
+DOCTOR: Your family history, Ms. Aslan. Are there any medical conditions that run in your family?
+PATIENT: Oh, good point. My mum has high blood pressure, and my dad had diabetes, but he wasn’t very good at looking after himself, to be honest. My grandmother on my mum’s side had arthritis, I think. And…that’s about it, really. No one has anything serious, you know? Nothing like cancer or heart disease, thankfully.
+DOCTOR: And your social history, Ms. Aslan?
+PATIENT: Oh, um... well, I work as a health education specialist, so I'm pretty active during the day. I try to eat well, but I do enjoy a glass of wine with dinner sometimes. I don't smoke, and I rarely drink coffee. I don't have any pets. I live alone in a suburban area. Is there anything else? I'm not much of a partier, if that's what you mean!
+DOCTOR: Adequate. Now, Ms. Aslan, let’s proceed with a physical examination. Please lie down on the examination table. We'll begin with your vital signs.
+PATIENT: Okay, sure. Just let me know if anything feels uncomfortable, okay?
+DOCTOR: Blood pressure is…slightly elevated, but not critically so. Pulse is normal. Temperature is…99.2 Fahrenheit. Lungs are clear. Heart sounds…regular. Ears appear normal. No signs of infection. Lymph nodes are…slightly swollen, but not significantly. Findings are…inconclusive. The mild swelling of the lymph nodes is somewhat concerning, but the other findings are unremarkable.
+PATIENT: Okay. So what does that mean? Is it something serious?
+DOCTOR: Ms. Aslan, it is premature to draw any definitive conclusions at this stage. Your symptoms are vague, and the physical examination has yielded limited information. Given the slightly swollen lymph nodes, I recommend a complete blood count and a basic metabolic panel to rule out any underlying infection or inflammatory process. We'll also test for mononucleosis. I'll order these tests immediately. A phlebotomist will be in shortly to draw some blood.
+PATIENT: Okay, that sounds…a lot. Mononucleosis? Is that…serious? I just thought it was a chill. I didn't realize it would be this much.
+DOCTOR: Ms. Aslan, it is prudent to be thorough. Mononucleosis, while usually self-limiting, can cause significant fatigue and other complications. We must rule it out, along with other possibilities. The blood tests will provide us with a clearer picture of your condition. In the meantime, I recommend getting plenty of rest and drinking fluids. Avoid strenuous activity until we have the results. Do you understand?
+PATIENT: Yes, I understand. Rest and fluids… okay. And how long will the results take? And what if it is mononucleosis? I just have a lot of work stuff going on, and being sick isn't ideal.
+DOCTOR: The results should be available within 24 to 48 hours. If it is mononucleosis, it is typically managed with supportive care – rest, fluids, and over-the-counter pain relievers. Avoid contact sports for several weeks to prevent splenic rupture. I will schedule a follow-up appointment for you in three business days to discuss the results. The phlebotomist should be with you shortly. Do you have any further questions?
+PATIENT: No, I think that's everything for now. Thank you, Dr. Eaddy. I'll just…wait for the phlebotomist then.
+DOCTOR: Very well. .

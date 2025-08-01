@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Kristofik. Welcome. I’m Dr. Galena. Now, what brings you in to see me today?
+PATIENT: Bloating. Look, I don’t have time for a whole lot of this, Doc. Just…bloated. Feels like I ate a watermelon, even when I haven’t. It's been…a while, I guess. Not fun.
+DOCTOR: Okay, bloating. I understand you’ve been dealing with this for some time. “A while” is a bit vague, though, is it fair to say it's been more than a month?
+PATIENT: More than a month, yeah, probably. Honestly, Doc, I don’t really keep track of that stuff. Things happen, you know? My wife…well, she used to handle all that. Dates, appointments, remembering when the oil needs changed…all of it. It’s just…been different since then.
+DOCTOR: I understand. Life changes can certainly make keeping track of things difficult. So, more than a month of bloating… does it come and go, or is it pretty constant?
+PATIENT: Comes and goes. Mostly after I eat, I think. Big meals, definitely worse. Though sometimes it just…happens. Even if I just have a sandwich. It’s uncomfortable, Doc. Really uncomfortable. Makes my clothes feel tight, and… well, you don't need the details. It’s just…annoying.
+DOCTOR: Right, annoying and uncomfortable. And does anything relieve it?
+PATIENT: Relieve it? Not really. I mean, eventually it goes down on its own. Walking sometimes helps a little, but not much. Honestly, I just try to ignore it. I got work to do, Doc. Pile driving doesn’t exactly lend itself to sitting around feeling sorry for yourself.
+DOCTOR: Pile driving…that’s… physically demanding work. Okay. And are you experiencing any other symptoms along with the bloating?
+PATIENT: Other symptoms? Like what? I don’t know. I feel…normal, mostly. Maybe a little tired, but that’s just the work. I eat, I sleep, I work. It’s not exactly a complicated life, Doc. I really don’t notice much else.
+DOCTOR: Alright. Have you noticed any changes in your bowel habits?
+PATIENT: Bowel habits? Seriously? Look, I’m not here to discuss…that. I told you, I'm bloated. It’s uncomfortable. I don’t need a full interrogation on my…bathroom routine. Is this really necessary, Doc? I got a job to get back to.
+DOCTOR: I apologize, Mr. Kristofik. I understand your frustration. It's just that changes in bowel habits can sometimes be related to the bloating, and help me rule things out. But we don't have to dwell on it if you’re uncomfortable. Let’s try this: Any pain associated with the bloating?
+PATIENT: Pain? Sometimes. It’s not like a sharp pain, more of a…fullness. A really bad ache. Like everything’s just…stuffed. It usually goes away when the bloating does, but it’s…unpleasant. Look, are we getting anywhere with this? I’m not exactly sure what you need from me.
+DOCTOR: Okay, fullness and aching. And does anything seem to trigger the bloating, besides eating?
+PATIENT: Trigger? Not that I’ve noticed. I eat pretty much the same stuff all the time. Burgers, sandwiches, steak when I can afford it. Nothing fancy. I don’t go looking for weird foods or anything. Maybe stress? Work can be stressful. But honestly, I’m always stressed. It's just part of the job.
+DOCTOR: Alright. And any history of similar issues in your family?
+PATIENT: Family? Honestly, Doc, I haven't thought about my family's…digestive problems in years. My mother had…something. I don’t remember what. She passed a long time ago. My wife…she kept track of all that stuff, too. I just…don’t know. It’s not something we talked about.
+DOCTOR: Okay. Well, let's do a quick physical exam, just to get a better feel for things. I’ll listen to your abdomen, and gently press around to see if we can pinpoint any areas of tenderness. Is that alright?
+PATIENT: Fine. Just…get it over with. I really need to get back to work. Don’t poke too hard.
+DOCTOR: Alright, just breathe normally. Any pain here?
+PATIENT: A little. Not sharp, just…uncomfortable. Like a dull ache, like I said. Right about…there.
+DOCTOR: And how about here?
+PATIENT: No, that's okay. Not much there. Just…normal. Like it usually is. This is…weird, Doc. I don’t usually get poked and prodded.
+DOCTOR: Alright. Your abdomen is a little distended, and I do feel some mild tenderness in the lower right quadrant, as you mentioned. It doesn’t seem to be anything acute, but we should rule a few things out. I'm going to order a complete blood count and a comprehensive metabolic panel, just to check your overall health and look for any signs of inflammation. I also think a stool sample would be helpful, just to rule out any infections or parasites. Does that sound alright?
+PATIENT: A blood test, a stool sample…really? Look, Doc, is this necessary? I just want to know why I feel bloated. I don’t need a whole battery of tests. But…fine. Whatever. Just…tell me where to go and get it done. I got work to do. And I expect quick results.
+DOCTOR: Alright. Here's the requisition. The lab is just down the hall, room 203. They're open until 5 pm today. The stool sample kit is also there. It's… not the most pleasant task, but it's important. The results will take a few days, usually 3-5 business days. In the meantime, I recommend avoiding carbonated beverages, and try eating smaller meals. If the bloating gets significantly worse, or you develop fever, nausea, or vomiting, please go to the emergency room immediately. Do you have any questions for me?
+PATIENT: No. Just…get this over with. I'll go do the tests. Don’t bother calling me with anything minor. If it's serious, I guess you’ll find me. Now, if you’ll excuse me… .
+DOCTOR: Alright, Mr. Kristofik. Take care, and let me know if you have any issues getting the tests done. We'll get to the bottom of this. .

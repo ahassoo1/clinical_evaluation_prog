@@ -1,0 +1,27 @@
+DOCTOR: Alright, Mr. Way, good to see you. So, what brings you in today?
+PATIENT: Oh, hi Doc. Well, it's my back. It's been…painful, yeah, that's the word. Just a general ache, really. It's been bothering me for a little while now.
+DOCTOR: Okay, a general back ache. And how long is “a little while”?
+PATIENT: Hmm…let me think. Maybe…a couple of months now? It comes and goes, but lately it’s been more come than go, you know? It's not like a sudden thing, it just kinda…built up.
+DOCTOR: Right, a gradual onset over a couple of months. And where exactly is the pain?
+PATIENT: It's mostly in my lower back, right across here. Sometimes it feels like it shoots down into my…well, my hips a little bit. Not all the way down my legs, thankfully. It's just…uncomfortable.
+DOCTOR: Uncomfortable, okay. And does anything specifically make it worse?
+PATIENT: Oh, lots of things, Doc. Bending over is bad. Lifting anything…forget about it. Even sitting for too long, actually. I like to watch TV, you know, but after a while, I gotta get up and walk around. Standing for a long time isn't great either. So, pretty much everything, honestly.
+DOCTOR: So, pretty much any activity aggravates it. And on a scale of zero to ten, with zero being no pain and ten being the worst pain imaginable, what would you say it is usually at?
+PATIENT: Hmm…usually? On a good day, maybe a three or four. But when it flares up, it can get to a seven, easy. And that makes it hard to do…well, anything.
+DOCTOR: Alright, a three to seven. And have you tried anything to relieve the pain?
+PATIENT: Yeah, a little bit. My wife, she's always telling me to put heat on it. That helps some, for a little while. I've taken some over-the-counter pain relievers, you know, like ibuprofen. They take the edge off, but they don't really fix anything. Honestly, I was hoping you could figure out what's going on.
+DOCTOR: Okay. Well, it sounds like typical age-related wear and tear, to be frank. A lot of people your age experience this. Let's do a quick physical exam just to rule out anything serious. Can you lie down on the examination table for me?
+PATIENT: Age-related, huh? Well, I guess that makes sense. Alright, sure, I can lie down. Just tell me what you need me to do. It's a little hard for me to move around sometimes, Doc, just so you know. Not trying to be difficult, just letting you know.
+DOCTOR: Yes, well, I understand. Just lie flat on your back to start. I’ll be checking your range of motion and palpating your spine. Try to relax as much as possible.
+PATIENT: Okay, okay. Relax…right. Easier said than done, but I’ll try. Just let me know if you need me to do anything special.
+DOCTOR: Does this cause any pain?
+PATIENT: Ooh, yeah, that's…tender. Not sharp, just…uncomfortable. A little bit more than usual, anyway. It's right around here.
+DOCTOR: And what about when I ask you to bend forward?
+PATIENT: Oh…that's gonna be difficult. I don't bend very easily, Doc. Honestly, I'm afraid I might pull something. Ooh…that's not good. Definitely not good. That really hurts. I think I'll just stay sitting, if that's okay.
+DOCTOR: Alright, stay sitting. Given your age and limited range of motion, I don't want to risk any injury. It sounds like a muscle strain, likely aggravated by everyday activities. We'll start with some conservative measures. I'm going to recommend some physical therapy and over-the-counter pain relief. Continue with the heat, and try to avoid any strenuous activity.
+PATIENT: Physical therapy…okay. That sounds…good, actually. As long as it’s not too intense. And you really think it’s just a muscle strain? Nothing…serious? I just worry sometimes, you know? My wife, she's always saying I should get things checked out, and I just…I don't want to be a bother.
+DOCTOR: Look, it’s highly unlikely to be anything serious. We can order an X-ray if it would put your mind at ease, but I suspect it will just confirm a muscle strain. Honestly, a lot of people your age experience this. I will write you a referral for physical therapy and a prescription for a stronger pain reliever. Try to follow the instructions carefully and schedule an appointment as soon as possible. Here you go. If things don’t improve within a month, then we can consider further testing. Do you have any other concerns?
+PATIENT: A month…okay. I can try. I guess I just…worry about getting worse, you know? It’s hard to get around as it is. Um…is there anything I can do? Besides the therapy and the pills? Like, stretches or something? Just…something to help in between appointments? And, um, how much does the physical therapy usually cost? My wife and I, we're on a fixed income…
+DOCTOR: Honestly, Mr. Way, there are plenty of stretches online, but if you're worried about doing them incorrectly, I suggest focusing on the physical therapy. As for the cost, I have no idea. You’ll need to contact the clinic directly. Now, is there anything else, or are we finished here?
+PATIENT: No…I guess not. Thank you, Doc. I appreciate your time. I hope you have a good day. .
+DOCTOR: .

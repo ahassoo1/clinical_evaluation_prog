@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Mr. Raghunathan. I am Dr. Yackey. So, what brings you in today?
+PATIENT: Good morning, Doctor. Well, I’ve been noticing a lump, I guess you’d call it, in my lower abdomen. It’s been there for a little while now, and I thought it was best to get it checked out.
+DOCTOR: A lump, you say. And how long exactly is “a little while”?
+PATIENT: Hmm, let me think. Probably… about three months, maybe a little longer? It wasn’t really bothering me at first, just something I felt when I was lying down. But it hasn’t gone away, so I figured I should get it looked at.
+DOCTOR: Three months. And has it changed in size or consistency at all during that time?
+PATIENT: Yes, actually. I think it has gotten a bit bigger, slowly. It feels… harder now than it did initially. It wasn't very noticeable before, but now it's definitely more firm. Does that make sense?
+DOCTOR: Firm, you say. Alright. And is there any pain associated with it?
+PATIENT: No, not really pain, Doctor. More… discomfort, sometimes. Like a dull ache if I press on it, but it’s not sharp or constant. It doesn’t really hurt unless I poke at it. It’s just… there.
+DOCTOR: Discomfort. Hmm. And have you noticed any other changes?
+PATIENT: Other changes… let me see. No, not that I’ve noticed. My appetite’s been normal, and my… bathroom habits are the same as usual. I haven’t had any fever or weight loss or anything like that. Just the lump and the occasional discomfort.
+DOCTOR: Alright. We'll need to conduct a physical exam. Please lie down on the examination table. I need to palpate the area in question.
+PATIENT: Okay, Doctor. That sounds good. Just let me know if you need me to move a certain way.
+DOCTOR: Yes, I will. Now, please lie flat. I’m going to press gently on your abdomen. Tell me if you feel any tenderness or pain.
+PATIENT: Okay. Just let me know if I need to adjust. I’m ready when you are.
+DOCTOR: Alright. Yes, I feel a firm mass, approximately… three centimeters in diameter. It appears to be located in the lower left quadrant. Not freely movable. Tenderness is present upon deep palpation, but no rebound tenderness. No guarding. Hmm. And are there any changes in your bowel movements?
+PATIENT: No, not really. Everything’s been pretty regular, if you know what I mean. Same as always. No constipation, no diarrhea, nothing out of the ordinary. Is that… is that concerning, Doctor? What are you thinking?
+DOCTOR: We need to rule out several possibilities. Given the location and your description, it could be a number of things. We will need some imaging – a CT scan of the abdomen and pelvis. And a complete blood count, just to be thorough. I will write the orders now.
+PATIENT: Okay, that sounds… serious. A CT scan? Is it something I should be very worried about, Doctor? I’m not a medical professional, so I don’t really understand what this all means.
+DOCTOR: It's standard procedure, Mr. Raghunathan. We are simply being cautious. A CT scan will give us a clearer picture of what we’re dealing with. It doesn’t necessarily indicate anything serious. But, frankly, given your age and the nature of the mass, we need to consider possibilities like… lymphadenopathy, or even, though less likely, a primary abdominal malignancy. However, let’s not jump to conclusions. I’ll have the radiology department schedule you for the scan as soon as possible. I will also order a referral to a general surgeon for a consultation. They can assess the need for a biopsy. .
+PATIENT: .

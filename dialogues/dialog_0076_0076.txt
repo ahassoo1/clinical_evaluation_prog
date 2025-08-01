@@ -1,0 +1,22 @@
+DOCTOR: Right. Clarke Aluia, 71… Okay, well, let's get this over with. What brings you in today?
+PATIENT: Oh, hi Doc. Well, it's these bumps on my legs, see? On my shins, mostly. They're red and kinda… hard. They hurt, especially when I touch 'em. Been botherin' me for a little while now.
+DOCTOR: Bumps, huh?
+PATIENT: Yeah. Not like, big bumps, but you can definitely feel 'em. And they're kinda… shiny? I don't know if that makes sense. My wife, Elena, she noticed 'em first, actually. She's got a good eye for things.
+DOCTOR: Shiny, alright. And how long have these… shiny bumps been bothering you?
+PATIENT: Hmm, let me think… Maybe a couple of months now? It started with just one, I think, and then slowly more popped up. Not a whole lot, thankfully, but enough to notice, you know? And they’re gettin’ a little more sore, that’s why I figured I should come see you, Doc. It's just… uncomfortable.
+DOCTOR: A couple of months… right. Any fever, chills, or anything else going on with you?
+PATIENT: No, no fever or chills, not that I've noticed. Just… tired sometimes, but I'm 71, Doc! I get tired easy these days. Nothing new there. I eat okay, sleep okay… just these bumps. They don't itch or anything, which is good, I guess. Just painful.
+DOCTOR: Alright. Any recent travel?
+PATIENT: Recent travel? No, not really. Elena and I, we haven’t been anywhere since… oh, before the pandemic, I think. We used to go to the Philippines to visit family, but it’s been too long. Just stayin’ home mostly now. Mostly just around town, runnin' errands and such. Why do you ask, Doc? Is it somethin’ I caught somewhere?
+DOCTOR: Just routine. Any cuts or scrapes on your legs recently?
+PATIENT: Hmm, let me think… Oh, now that you mention it, I did brush against some rose bushes when I was helpin’ my neighbor trim his yard last month. I didn’t think much of it at the time, just a little scratch. Could that be it? I didn’t even bother puttin' a bandaid on it, it was so small.
+DOCTOR: Alright, let's take a look. Roll up your pants legs. Don't want to waste all day here.
+PATIENT: Okay, okay. Here you go, Doc. Careful now, skin gets kinda thin at my age, you know? Elena always tells me.
+DOCTOR: Hmm. Yes, alright. Red, raised… somewhat firm. Looks like some localized inflammation. Likely just a reaction to something. Rose bushes, you say?
+PATIENT: Yeah, the rose bushes. And Elena, she always says I should be wearin' long pants when I'm workin' in the yard. She's probably right, as usual. So, you think it's just from the scratches? Will it just go away on its own? I don’t really want to mess with too many medicines if I can help it. It's just uncomfortable, y'know?
+DOCTOR: Probably a localized reaction, yes. We can try a topical steroid cream. Apply it twice a day for a week. If it doesn't improve, come back and we'll consider other options. Don't bother me with it unless it gets significantly worse. Do you understand?
+PATIENT: Okay, topical cream, twice a day for a week. And come back if it gets worse. I think I can handle that. Topical… that’s like a cream you rub on, right? Not a pill? Good. Elena will be happy to hear it’s probably not somethin’ too serious. Will you write down the name of the cream for me, Doc? My memory ain’t what it used to be.
+DOCTOR: Hydrocortisone 1%. Over the counter. Now, is there anything else?
+PATIENT: Oh, thank you, Doc! Hydrocortisone… got it. No, I think that’s it. Just these bumps. You know, Elena will be so relieved. She worries about me. Thank you for takin’ a look, Doc. It feels good to know what it probably is. Appreciate it.
+DOCTOR: Alright. Glad to be of assistance. Try not to brush against rose bushes in the future. Next patient. .
+PATIENT: Okay, Doc. Will do! No more rose bushes. Thank you again! .

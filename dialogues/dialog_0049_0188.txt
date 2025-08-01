@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Secondi. I'm Dr. Nestingen. So, what brings you in today?
+PATIENT: Good morning, Doctor. It's... my pee. It's orange. It started maybe two days ago. I don't... I don't know why.
+DOCTOR: Orange urine, you say. And it's been two days. Hmm. Have you noticed any pain or burning when you urinate?
+PATIENT: No, no pain. Not burning. Just... the color. It scared my wife. She said I should come see a doctor.
+DOCTOR: Wives are usually right about these things. Alright. Have you noticed any changes in how often you're urinating?
+PATIENT: No, not really. Same as always, I think. Maybe a little less, now that I think about it… But I drink a lot of tea, so it changes all the time. It's hard to say.
+DOCTOR: Tea… right. What kind of tea do you typically drink, Mr. Secondi?
+PATIENT: Mostly mint tea. I drink a lot of it. My mother always drank mint tea, and I… I just always have. Sometimes I have other kinds, but mostly mint.
+DOCTOR: Mint tea… well, some herbal teas can certainly affect urine color. It’s likely nothing serious, but we should rule out other possibilities. Have you had any fever, chills, or nausea recently?
+PATIENT: No, no fever. No chills. And I don't feel sick to my stomach. Everything else is okay, I think. I've been working, same as always. Long hours.
+DOCTOR: "Same as always" isn't a very helpful medical history, Mr. Secondi. Long hours doing what, exactly?
+PATIENT: Oh! Sorry. I work with… with machines. Big machines. Like for building things. Engineering stuff. I check them, make sure they work. It’s… a factory job. Very dusty.
+DOCTOR: Dusty factory work. Alright. And do you drink enough water during your shifts?
+PATIENT: I try to. It’s hot in the factory, so I drink when I'm thirsty. Maybe not enough. It’s hard to get to the water fountain when things are busy.
+DOCTOR: Alright, Mr. Secondi. Let's have a quick look. Please lie down on the examination table. We’ll just listen to your abdomen and feel around. Don’t worry, it won’t be unpleasant.
+PATIENT: Okay. Is it cold? Should I take my shirt off too?
+DOCTOR: No, no need for that, Mr. Secondi. Just your pants down is fine. We’re just listening, not performing surgery.
+PATIENT: Okay. Sorry. I just… want to help.
+DOCTOR: Alright. Abdomen is…soft. No tenderness to palpation. Bowel sounds are present. Now, I'd like to take a quick urine sample. There's a cup in the bathroom. Please collect a mid-stream sample, and try to get at least 30 milliliters. Do you know how to do that?
+PATIENT: Yes, I think so. My wife told me before, just in case. I'll be right back.
+DOCTOR: Honestly, some people have no basic medical knowledge… Just get the sample, Mr. Secondi. We'll take it from there.
+PATIENT: Here you go. I tried to get enough. It wasn't easy.
+DOCTOR: Right. Let's see what we have here. Hmm. Specific gravity is elevated. Some ketones present. Trace amounts of blood. No sign of infection. It appears you’re mildly dehydrated, and possibly experiencing some… metabolic stress.
+PATIENT: Metabolic… what does that mean? Is it bad?
+DOCTOR: It means your body is working a little harder than it should be, likely due to your long hours and insufficient hydration. It’s not immediately dangerous, but it needs to be addressed. The blood could be from irritation, but we'll want to keep an eye on it. I'm going to order a complete blood count and a basic metabolic panel, just to be thorough. We also need a urine culture to rule out any hidden infection. In the meantime, I want you to increase your water intake significantly. At least three liters a day. And try to get some more rest. Easier said than done, I know. But it’s important.
+PATIENT: Three liters? That’s a lot of water. Okay, I’ll try. And what about the blood? Should I be worried about that?
+DOCTOR: A trace amount of blood in the urine is common, especially with dehydration. We'll get the culture results back in a few days and see if there’s anything to be concerned about. If you experience any pain or notice a significant change in the color of your urine, you need to go to the emergency room immediately. Do you understand?
+PATIENT: Yes, Doctor. Pain or change in color, go to the hospital. Okay. And… how long until I get the other results? The blood count and the… metabolic panel?
+DOCTOR: The lab says approximately 48-72 hours. The results will be sent to my office, and my nurse will contact you to schedule a follow-up appointment. In the meantime, focus on hydration and rest. Do you have any other questions for me, Mr. Secondi?
+PATIENT: No, I think that’s everything. Thank you, Doctor.
+DOCTOR: Very well. My nurse will be in touch. Try not to overwork yourself, Mr. Secondi. It's not good for you. .
+PATIENT: Okay. Thank you again, Doctor. Have a good day.

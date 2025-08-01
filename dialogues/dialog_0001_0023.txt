@@ -1,0 +1,24 @@
+DOCTOR: Alright, Mr. Bulaong, have a seat. So, what brings you in today?
+PATIENT: Um, hello Doctor. My chest… it hurts. Not all the time, but… yeah, it hurts sometimes. Like a dull ache. It's been going on for a few weeks now, I think.
+DOCTOR: A few weeks, huh?
+PATIENT: Yeah, maybe a month? It's hard to say exactly. Work keeps me busy, you know? I'm a roofer. Lots of climbing. Maybe that has something to do with it?
+DOCTOR: A roofer. Right. And this ache… where exactly is it?
+PATIENT: Um… it's not like, one spot. It's more… all over. Like, both sides of my chest. Not my muscles, I don't think. It feels… inside. It's hard to explain.
+DOCTOR: Inside… okay. And does anything make it worse?
+PATIENT: Hmm… not really. Maybe when I'm tired? After a long day on the roof, it feels more sore. But even when I'm resting, it can still bother me. It doesn't really go away completely. I tried to ignore it, but it's not getting better.
+DOCTOR: Okay. And any other symptoms?
+PATIENT: No, not really. No fever, no… lumps, nothing like that. Just the pain. I haven't noticed anything else different. My wife asked if I was coughing or something, but no. Everything else feels normal. I was worried about it, that's why I came. It feels… strange, you know? For a man to have chest pain.
+DOCTOR: Right. Well, strange things happen. Alright, let's have a listen to your heart and lungs. Take a deep breath for me.
+PATIENT: Okay, sure. Is that good? Should I breathe in harder? I'm not very good at this.
+DOCTOR: Okay. Lungs sound clear enough. Heart rate is… regular. A little fast, maybe, but you said you were a roofer. Any shortness of breath, Mr. Bulaong?
+PATIENT: No, not really. I get tired after work, but that's just from climbing so much. I haven't felt like I'm having trouble breathing. You think it's something serious? I don't have insurance, so… going to the hospital is… expensive.
+DOCTOR: Look, I’m not going to jump to conclusions. It could be muscle strain, something from the work. But chest pain… you always need to rule things out. I'm going to check your blood pressure and do a quick EKG. Just to be safe. Don't worry about the cost right now. We'll figure it out.
+PATIENT: Okay… that sounds good. I appreciate that, Doctor. I just… I don't want to worry my wife too much. She gets scared easily. Blood pressure first, right? Where should I sit?
+DOCTOR: Right there. Relax your arm. And try not to tense up. 140 over 90… not great, but not terrible. Okay. Now, let's get you hooked up to this EKG. I'll need you to lie down on the table. It's just a few stickers.
+PATIENT: Okay, sure. Stickers are okay. I don't like needles though. Are there needles? Just checking.
+DOCTOR: No needles, Mr. Bulaong. Just stickers. Relax. Try to breathe normally. Okay… let’s see… Hmm. Interesting. I’m seeing some… nonspecific ST-T wave changes. Look, I'm not saying it’s a heart attack, but it's enough of a concern that I want you to get a chest X-ray and some blood work. Just to be certain.
+PATIENT: Okay… X-ray and blood work. That sounds… serious. How much will that cost? My wife… she's going to worry. Is it something I should be really scared about?
+DOCTOR: Look, Mr. Bulaong, worrying won't help. We need information. The X-ray will rule out anything in your lungs. The blood work will check for things like inflammation and heart enzymes. As for the cost… I can't give you an exact number, it depends on the lab. I'll have the nurse give you some information on local resources for uninsured patients. We’re being cautious, that’s all. It’s better to be safe than sorry. We’ll get the results back as quickly as possible. I'm going to write you a referral order, and the nurse will handle the rest.
+PATIENT: Okay… that sounds… okay. Thank you, Doctor. I appreciate you being careful. My wife will be glad you're being careful. Do you think… it could be stress? Work has been really busy lately.
+DOCTOR: Stress can contribute to anything, Mr. Bulaong. But we need to rule out the serious things first. I’m not dismissing stress, but it's not a diagnosis. Here's the referral order. The nurse will explain everything. I need to see other patients. I'll be in touch if the results are concerning.
+PATIENT: Okay. Thank you, Doctor. I’ll… see the nurse then. Thank you again.

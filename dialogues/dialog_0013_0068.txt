@@ -1,0 +1,13 @@
+DOCTOR: Hi Sasha, welcome to the clinic. I’m Dr. Morenomartinez. It’s nice to meet you. So, what brings you in today?
+PATIENT: Oh, hello Doctor. It’s nice to meet you too. Well, it’s my leg, mostly. It’s been… puffy, you know? After the cancer stuff. It’s not painful, exactly, just… swollen. It’s been a few weeks now, I think. Maybe longer? It’s hard to keep track.
+DOCTOR: Okay, “puffy” and swollen for a few weeks, possibly longer. And you said this is after cancer treatment?
+PATIENT: Yes, after. They gave me… the medicine. In the hospital. A lot of it. It helped with the… you know, the bad stuff. But now this leg. It’s just… annoying, really. I can still walk, but it feels heavy. Is that… normal?
+DOCTOR: Okay, so the swelling started after a course of chemotherapy, and you're feeling heaviness in the leg. It's good you can still walk, but we definitely want to figure out what’s going on. To get a better picture, could you tell me which leg is affected?
+PATIENT: Oh! Right, the leg. Sorry, my brain is a little slow sometimes. It’s the left leg. Yes, the left one. It's… it’s not getting worse fast, but it hasn’t gone down either. Just… stays like this.
+DOCTOR: Okay, left leg. Constant swelling, not rapidly worsening. Have you noticed any pain at all with it?
+PATIENT: No, not really pain. Like I said, just heavy. Sometimes… a little achy, maybe? But it’s not like a sharp pain, or anything. More like… tired. If that makes sense? It feels like I’ve been walking a long way, even when I haven’t.
+DOCTOR: Okay, heaviness and some achiness, like it's tired even after rest. Have you noticed any changes in the skin on your left leg?
+PATIENT: Hmm… let me think. Skin… No, not that I’ve noticed. It looks… normal, I guess. Maybe a little… red sometimes? But I get hot easily, so maybe that’s just that. I don’t know. It doesn’t feel different, if that helps. Not dry, not bumpy, just… skin.
+DOCTOR: Alright, no changes to the skin itself – no dryness, bumps, or color changes besides possible redness from heat. Let's talk a little bit about your medical history. Do you mind if I ask about any other health conditions you have?
+PATIENT: Oh, no, not at all. Ask away. Honestly, it’s not much. Just… the cancer, obviously. And I have a little bit of trouble with my blood pressure, but it’s usually okay with the pills. Nothing else, really. I’m a pretty healthy person, usually! .
+DOCTOR: Okay, so cancer history, and managed hypertension. And generally healthy otherwise. What medications are you currently taking for your blood pressure?

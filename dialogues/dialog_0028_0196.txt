@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Ms. Licano. I'm Dr. Memmolo. So, what brings you in today?
+PATIENT: Oh, good morning to you too, Doctor. It's...well, I'm just so tired. Always tired. It's been going on for...a long time now, I guess. Honestly, I can't really say how long. A while. I just feel… drained.
+DOCTOR: Right. “Tired.” Yes. A very… common complaint. Can you be a bit more specific?
+PATIENT: Specific… Ugh. It's not like being sleepy, you know? It’s… like all my energy is just gone. Even after a full night’s rest. I just don't have the… the get-up-and-go anymore. I used to love gardening, but now…now I just sit. Does that make sense?
+DOCTOR: Gardening… Yes, alright. And has anything changed recently?
+PATIENT: Changed…? Oh dear… everything feels a bit… blurry. My husband, George… he passed away about two years ago now. Everything’s been a bit…different since then, I suppose. But I don't know if that's why I'm tired, you know? It’s just…life.
+DOCTOR: Two years… hm. And before that?
+PATIENT: Before that… Honestly, Doctor, it's hard to say. I worked at the pharmacy for… well, a long time. A very long time. I retired… before George got sick, I think. Maybe a year or two before? Everything just kind of… runs together now. I apologize. I'm not very good at remembering dates and things.
+DOCTOR: Alright. Let’s try this differently. Any other symptoms along with this fatigue?
+PATIENT: Symptoms…? Oh, goodness. Let me think. Sometimes my muscles ache, especially in my back. And… I think I've been a little more forgetful lately. Not just dates, you know, things like… where I put my glasses. Which is ironic, isn’t it?
+DOCTOR: And have you noticed any changes in your appetite or weight?
+PATIENT: Oh, my appetite… Not really. I eat, I think. Maybe not as much as I used to, but… I don’t really feel hungry a lot. And my weight… I haven't weighed myself in a while. I suppose I’ve lost a little bit, but nothing drastic. I don't really keep track of those things anymore.
+DOCTOR: Any fever, chills, night sweats?
+PATIENT: Fever…? No, not that I know of. I haven’t felt sick, like with a cold or the flu, in…well, I can't remember when. No chills, no sweating at night. Just… tired. Always tired. It’s so frustrating, Doctor.
+DOCTOR: Alright. Let’s do a quick physical exam, just to rule some things out. Can you stand up for me?
+PATIENT: Oh, alright. Careful now, my balance isn’t what it used to be. It's probably just old age, Doctor.
+DOCTOR: Alright. Let's check your reflexes. Two plus. And your strength seems within normal limits. No tenderness here. Let me listen to your heart and lungs. Heart rate is regular, lungs are clear. Blood pressure is 130/80. Hmm.
+PATIENT: Is something wrong, Doctor? It's just… everything feels like a blur, you know? I just want to feel normal again.
+DOCTOR: Well, everything appears normal. However, given your fatigue and forgetfulness, I think it’s prudent to run some blood tests. Just to rule things out. Specifically, a complete blood count, thyroid panel, vitamin D level, and a basic metabolic panel. The lab will call you with the results. It will take about a week.
+PATIENT: Blood tests… alright. That sounds… sensible. A week… I hope it's not anything too serious, Doctor. I just want to know why I'm so tired all the time. Will the lab call me, or should I call them?
+DOCTOR: The lab will call you with the results. If you haven’t heard anything in a week, then call them. In the meantime, try to get some rest. Is there anything else?
+PATIENT: No, I don’t think so. Thank you, Doctor. I appreciate you trying to figure things out. I just…I'm tired. Really tired.
+DOCTOR: Alright. Well, we’ve done what we can for now. If anything changes, or if you experience any new symptoms, please contact the office immediately. Have a good day, Ms. Licano.
+PATIENT: Alright… thank you, Doctor. You too. I guess I’ll just… go home and rest, then.

@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Chayer. I'm Dr. Pitmon. So, what brings you in to see me today?
+PATIENT: Uh, good morning, Doctor. It’s… my breathing. It’s been a little short lately. Like I can't get enough air, you know? It’s hard to explain, honestly. It just… happens. I'm Marquie, by the way.
+DOCTOR: Right. “A little short of breath.” Okay, Marquie. And when you say it “just happens,” can you be a bit more specific?
+PATIENT: Ugh, specifics… that's tough. It’s not like every time I breathe, but… walking up the stairs is bad. And… I think it was worse when I was helping my wife with the garden last week? Lifting stuff, bending over… yeah, bending over feels… tighter. Honestly, I don’t really remember exactly when it started, just that it's been getting… noticeable. Does that make sense?
+DOCTOR: Not the clearest history, but we'll work with it. So, it’s exertion-related – stairs, gardening, bending. And you’re saying it's a relatively recent onset, gradually getting worse. Any coughing associated with this shortness of breath?
+PATIENT: Coughing… hmm. Sometimes, yeah. Not a bad cough, more like… a little tickle. It doesn’t bring anything up, if that makes sense. Just a dry… irritation. It doesn't happen every time I'm short of breath though. Mostly just… when it's really bothering me.
+DOCTOR: Okay, intermittent dry cough. And is there anything that relieves it?
+PATIENT: Relieves it… … Honestly? Nothing really. I just… slow down. Sit down. It goes away eventually. I haven’t really tried anything specific, to be honest. I figured it was just… being out of shape, you know? I mean, I work, but it’s not like I'm running marathons or anything.
+DOCTOR: Right. Well, “being out of shape” can certainly contribute. But we should rule out anything more serious, just to be safe. Have you ever had asthma?
+PATIENT: Asthma… … I don’t think so. My wife mentioned something once, when I was a kid, about me wheezing, but I don’t remember it. It was a long time ago. We lived in Venezuela back then, and things… weren’t always clear, you know? Doctors weren't always easy to come by. I just… don’t really know.
+DOCTOR: Right. A less-than-definitive medical history, as expected. Okay, and any history of allergies?
+PATIENT: Allergies… … I get itchy eyes sometimes in the spring, maybe? But I always figured that was just pollen. I don't break out in hives or anything dramatic. Nothing I’ve ever needed to take medicine for, if that makes sense. Nothing serious.
+DOCTOR: So, mild seasonal allergies. Let's move on. Any chest pain associated with this shortness of breath?
+PATIENT: Chest pain? … No, not really. Maybe a little… tightness, sometimes, when I’m really struggling to breathe. But it’s not like a sharp pain. More like… discomfort. It goes away when I rest. Does that make sense? It's not like someone's sitting on my chest.
+DOCTOR: Right. Discomfort, not pain. Okay. Have you ever smoked?
+PATIENT: Smoked? No, never. My parents… they didn't smoke, and I never picked it up. Never been interested.
+DOCTOR: Good. And how about any family history of lung problems, like asthma, emphysema, or lung cancer?
+PATIENT: … That’s… a tough one. My mom… she had some breathing issues when she got older, but I don't remember exactly what. It was… complicated. We didn’t have great doctors back home. My dad was healthy, I think. But honestly, I don't really know details. It was a long time ago, and things weren't always talked about.
+DOCTOR: Right. A consistently vague history. Well, let’s do a quick physical exam, and then we can consider some basic tests. Could you stand up and let me listen to your lungs?
+PATIENT: Okay, sure. Whatever you think is best. I just… want to know what's going on, you know?
+DOCTOR: Alright. Take a deep breath in… and out… Okay, again… Hmm. Your breathing sounds a little wheezy, especially on exhale. I also notice some mild chest tightness when I palpate your ribs. It’s not significant, but it's there. Your heart sounds normal. Now, could you take a few deep breaths while I time your respiratory rate?
+PATIENT: Okay, sure. Wheezy… that doesn’t sound good, does it? I haven’t noticed that before. It just feels… tight. Like I'm not getting enough air, even when I try to breathe deeply.
+DOCTOR: Your respiratory rate is slightly elevated at 20 breaths per minute. Not drastically, but higher than normal. Based on what you've told me and the exam, it could be a mild case of asthma, but it's difficult to say definitively without further testing. I want to order a chest X-ray to rule out anything more serious, like pneumonia or a collapsed lung. I’ll also order a spirometry test to measure your lung function. Does that sound alright?
+PATIENT: X-ray and a… spirometry test? Is it something serious, Doctor? I just… I don't have insurance, and those things can get expensive. I'm just worried about the cost.
+DOCTOR: Look, let’s not jump to conclusions. It’s likely nothing serious, but we need to rule things out. The X-ray and spirometry will give us a clearer picture. As for the cost... I'll see what we can do regarding a payment plan or if there are any assistance programs available. But right now, let’s focus on getting the tests done. We’ll schedule those now. In the meantime, try to avoid strenuous activity, and if you feel your breathing gets significantly worse, go to the nearest emergency room. Do you have any questions?
+PATIENT: Emergency room… Okay. No, I guess not. Just… get the tests done. Hopefully, it's nothing. Thank you, Doctor. I appreciate you trying to help.
+DOCTOR: Alright. My nurse will schedule the X-ray and spirometry test for you. We’ll review the results as soon as they come in, and then we can discuss a treatment plan. Try not to worry too much. Now, is there anything else I can help you with today?
+PATIENT: No, I think that’s everything. Thank you again, Doctor.
+DOCTOR: Very well. Get well, Mr. Chayer. .

@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Ms. Fabing. Or, uh… Thyra, right?
+PATIENT: Morning. Yeah, Thyra is fine. Thanks for having me.
+DOCTOR: Right, of course. Well, let’s get straight to it. What brings you in today?
+PATIENT: Oh, it's just... paperwork, really. I got a notice about needing to fill some things out, and I figured it was easier to do it here if I had questions. Medicare sent it, I think. I’m not always the best at keeping track of these things.
+DOCTOR: Paperwork… yes, Medicare can be… thorough. And it's perfectly alright to need help with it. No worries at all. Is there a specific form that’s giving you trouble?
+PATIENT: Um… let me see. This one, I think. It asks about… family history? And some stuff about what kind of doctor visits I've had. It's just a lot to go through, and some of it's kinda confusing.
+DOCTOR: Right, family history. Okay. That can be tricky. We want to get a good picture of your overall health, see if there’s anything that runs in the family that we should be aware of. Let's start with the family history part, if you’re comfortable. Do you know much about your parents’ and grandparents’ health?
+PATIENT: Yeah, mostly. My mom... she had some trouble with her heart when she was older, I think. And my dad, he worked really hard, outside a lot, so his joints always bothered him. He didn’t go to the doctor much, though. My grandparents… well, they lived on the reservation their whole lives. They didn’t really talk about health stuff much, you know? More about just getting through the winter and taking care of each other. It wasn't like it is now.
+DOCTOR: That’s… understandable. Things were different back then, and it’s good to know what you do know. So, heart trouble with your mom, and joint pain with your dad… anything else you remember about either of them?
+PATIENT: Hmm… My mom had diabetes for a little while, I think. Towards the end. And my grandma… she was really strong, but I remember her eyesight getting bad when she got older. That’s about all I can really remember, honestly. It’s hard to recall everything.
+DOCTOR: Okay, diabetes with your mom, and eyesight issues with your grandma… that's helpful. We’ll make a note of that. Now, switching gears a bit… have you had any significant health issues or surgeries in the past?
+PATIENT: Not really. I broke my wrist when I was a kid, climbing a tree. But that healed up fine. And I’ve had the usual… colds, flu, stuff like that. Nothing major. I try to stay healthy. I work outside a lot, but it keeps me moving.
+DOCTOR: Good, good. Staying active is important. And no major surgeries or chronic illnesses… that's excellent. Now, are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: Just a multivitamin, mostly. And sometimes I take ibuprofen if my back is bothering me after work. That’s it, really. Nothing else. Does that count as a medication? It’s over the counter.
+DOCTOR: Yes, ibuprofen absolutely counts. It’s good you tell me everything you're taking, even over-the-counter things. It’s important to know about potential interactions. And now, just a few more questions... do you have any allergies to any medications, foods, or anything else?
+PATIENT: Nope, not that I know of. Never had a reaction to anything. I eat pretty much everything. My mom always said I had a cast-iron stomach.
+DOCTOR: That’s good to hear. A strong constitution is a blessing. Now, before we finish up with the paperwork, is there anything you're concerned about today?
+PATIENT: Not really, no. I mostly just wanted to make sure I filled everything out right. And to ask questions if I got stuck. I think we’ve covered everything. Thanks for your help. It’s a lot easier with someone explaining it.
+DOCTOR: You’re very welcome, Thyra. I'm glad I could help. Just let me quickly review this to make sure everything is complete. It looks like we have all the necessary information. And it's good that you came in; it's always better to ask questions. Everything looks good. If anything changes, or if you do start experiencing any new symptoms, don't hesitate to give us a call. We're here to help. Now, about that Medicare paperwork… I'll get this processed and filed for you. It shouldn't take too long.
+PATIENT: Okay, great. Thank you. I appreciate it. I'll remember to call if anything comes up.
+DOCTOR: Excellent. You take care now, Thyra. And don’t hesitate to reach out if you need anything at all. Now, is there anything else I can help you with today?
+PATIENT: Nope, I think that's everything. Thanks again for your time. Have a good day.
+DOCTOR: You too, Thyra. Have a good one. And remember, don’t hesitate to call if anything changes. .

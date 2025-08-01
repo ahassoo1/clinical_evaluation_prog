@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Mr. Putney. I'm Dr. Nestingen. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just need to get this life insurance thing done. They said I gotta have a check-up first. Want to get it over with, if you don't mind.
+DOCTOR: A life insurance physical… right. Well, we'll do our best to be efficient. It's standard procedure, of course. Just to ensure everything is… as it should be. Let’s start with a bit of your medical history. Have you been seeing any other doctors regularly?
+PATIENT: Not really. Just the usual, when I’m sick. I had a bad cold last winter, saw someone at a walk-in clinic for that. Before that… hmm. It’s been a while. I got Medicare, so they send me letters reminding me to get check-ups, but I usually just toss 'em. Don't mean to be difficult, just… busy.
+DOCTOR: Right, Medicare. Yes. And you said a cold last winter… Any other significant illnesses or hospitalizations that you recall?
+PATIENT: Let me think… I broke my arm when I was a kid, playing with some friends. That was a long time ago, though. And… my divorce was pretty rough on me a few years back. Does that count? I was really stressed. But nothing… physically wrong, you know? Just… hard.
+DOCTOR: I see. We're primarily concerned with physical ailments, Mr. Putney, but I appreciate you sharing. Now, family history… are there any significant medical conditions that run in your family?
+PATIENT: Family history… that’s tough. My dad… he had some problems with his heart, I think. Passed away when I was pretty young. And my mom… she had diabetes, I think that's what it was. She's back on the islands now, so it’s hard to remember everything. Didn’t see her much after I moved here. It’s been a while.
+DOCTOR: Alright. Heart problems in your father, diabetes in your mother. Do you know if anyone else in your family had high blood pressure or any other chronic illnesses?
+PATIENT: Honestly, Doctor, I really don’t. We didn’t really… talk about that stuff much. Things were different back home. Everyone just… dealt with things. I wish I knew more to tell you, but I don’t. Is this important? Will it take much longer? I got things I need to get done today.
+DOCTOR: It's always helpful to have a complete picture, Mr. Putney, but we can proceed. Let’s talk about your lifestyle. Do you smoke?
+PATIENT: No, never smoked. Tried it once when I was a teenager, didn’t like it. And I don't really drink much either. Maybe a beer now and then with dinner, but that's it. Mostly just water. It gets hot here, you know? Gotta stay hydrated.
+DOCTOR: Good. And what about exercise?
+PATIENT: Exercise… well, I work at the hotel. Lots of walking around, dealing with guests. It keeps me busy, if that counts. I don't go to the gym or anything. Not much time for that. It's a lot of standing, though. My feet hurt sometimes.
+DOCTOR: Alright. Standing for extended periods… we'll note that. Now, are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: Nope. Nothing. Just… maybe some ibuprofen sometimes for my back, when it acts up. But that’s it. I try to avoid taking pills if I can. Don’t like how they make me feel.
+DOCTOR: Right. No regular medications. And any allergies to medications or anything else?
+PATIENT: Nope. Never had any allergies that I know of. I can eat anything. I’m pretty lucky that way. Is this almost done? I really gotta get going soon. I told my boss I wouldn’t be long.
+DOCTOR: Very well. Let’s do a quick physical exam, just to get a baseline. Blood pressure, pulse, listen to your heart and lungs… standard things. Please, have a seat on the table. It won’t take long.
+PATIENT: Okay, okay. Let's get it over with. Hope this doesn't take too long.
+DOCTOR: Blood pressure is a little elevated, 142 over 90. Heart sounds are… regular, but a bit fast. Lungs are clear. Now, if you'll just lie back, I’ll listen again. Abdomen is soft, no tenderness. Any pain when I press here?
+PATIENT: No, that doesn't hurt. Just feels… normal. Like you’re poking me. Is my blood pressure really bad? I don’t feel sick. Just tired, mostly.
+DOCTOR: Reflexes are normal. Heart rate is still elevated, 88 beats per minute. Weight is 97 kilograms, height is 174 centimeters. That puts your BMI at 34, which is considered obese. We'll need to discuss lifestyle modifications, Mr. Putney.
+PATIENT: Obese? Look, I’m a big guy, okay? I work hard. I don’t just sit around. And I told you, I don’t have time for… modifications. This is for the life insurance, right? Can we just get this done so I can go?
+DOCTOR: We still need to draw some blood for a basic metabolic panel and a lipid panel. And I recommend an EKG, given your elevated heart rate and blood pressure. Just to rule out anything serious. The nurse will be in shortly to draw the blood. It's standard procedure for a life insurance physical, Mr. Putney. I will review the results when they come back and we can discuss potential options then. Is there anything else you want to discuss before the nurse comes?
+PATIENT: No! Nothing else. Just get it over with. The blood, the thing… whatever. I gotta go. I told my boss… Look, can I at least get a copy of this report when it's done? I want to see what you’re writing about me.
+DOCTOR: The nurse will provide you with the preliminary report. It will take a few days for the full results to come back. I will have my assistant fax a copy to your primary care physician as well. Now, please remain seated while the nurse prepares the blood draw. .
+PATIENT: .

@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Shanor. I’m Dr. Nestingen. So, tell me, what brings you in to see me today?
+PATIENT: Uh, good morning, Doctor. I… need check for referee. For fitness. I do sports, need okay from doctor. Is for… evaluation, you said? I want finish quick if can.
+DOCTOR: A referee evaluation for fitness… I see. Yes, we do those. Though we typically call it a sports physical. And while I understand you'd like to be quick, a proper evaluation takes time to ensure you're healthy enough to participate. It's not just about a quick okay. Now, let’s start with some basics. What sport do you play?
+PATIENT: Basketball. I… I used to play a lot more. Now I mostly… just referee games. High school, mostly. Sometimes college. It’s not… very running, but still need good heart, you know? And not fall down.
+DOCTOR: Right. Refereeing is still physical activity, certainly. And a good cardiovascular system is important. Okay. And have you been experiencing any problems lately?
+PATIENT: Problems? Not… really. Maybe tired sometimes. But I work hard. And… my wife, she passed away last year. So… sometimes just sad. But not… sick tired. If you understand.
+DOCTOR: I understand. Grief can be… profoundly exhausting. We'll certainly keep that in mind. But let's focus on any physical symptoms you’ve been experiencing. Any chest pain, shortness of breath, dizziness, palpitations… anything that feels unusual or concerning?
+PATIENT: No chest pain. Sometimes… a little dizzy when stand up fast. Old man thing, maybe? And… sometimes heart beat fast after run. But just… after run. Not all the time. I try drink water. It usually okay.
+DOCTOR: A little dizziness upon standing… and palpitations after exertion. Alright. Have you ever been diagnosed with any medical conditions?
+PATIENT: No. Never. I… I always healthy. Except… wife sick. But I not sick. Doctor always say I good. Just… normal check up, you know?
+DOCTOR: Alright. And have you ever had any surgeries?
+PATIENT: No surgery. Never. Broken arm when I was little boy, but just… cast. Fixed quick. No big deal.
+DOCTOR: No surgeries, just a childhood broken arm. Family history – are there any significant medical conditions that run in your family?
+PATIENT: Uh… my father, he had… high blood pressure, I think. And… my mother, she had… something with her sugar. Diabetes? I think that’s it. Not much else. Family not… big talker about sickness.
+DOCTOR: Alright. High blood pressure in your father and diabetes in your mother. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No smoke. Maybe… one beer sometimes. With friends. Not every week. And no… no drugs. Never. I just… work. And referee.
+DOCTOR: Okay. And are you currently taking any medications?
+PATIENT: No. Nothing. Just… water. And sometimes… pain killer for old back. But just when really hurt. Not every day.
+DOCTOR: Alright. Well, Mr. Shanor, to properly evaluate your fitness for refereeing, I’m going to need to perform a physical exam. This will involve listening to your heart and lungs, checking your blood pressure, and a basic neurological assessment. Is that alright with you?
+PATIENT: Yes, okay. Quick, please? I have games Saturday.
+DOCTOR: Very well. Please, have a seat on the table. First, let’s listen to your heart and lungs. Please remove your shirt, and I’ll need you to take some deep breaths. Breathe in… and out… good. Heart sounds… regular, but slightly fast. Nothing concerning at this moment. Lungs clear. Now, let’s check your blood pressure. 140 over 90. A little elevated, but not alarmingly so. We'll need to monitor that.
+PATIENT: Okay. Is bad? I… I don’t like doctor. Always something wrong.
+DOCTOR: It's slightly elevated, Mr. Shanor. It doesn’t necessarily mean something is wrong. Stress can affect blood pressure, and it's something we'll keep an eye on. Now, let’s check your reflexes. Patellar reflex… good. Achilles reflex… good. Peripheral pulses… normal. Now, I'd like you to stand up and walk a few steps for me. Gait appears normal. No obvious signs of imbalance.
+PATIENT: Okay. Walking is… good. I walk a lot. Refereeing. Up and down the court. Always moving.
+DOCTOR: Yes, you mentioned that. I'm going to order a basic blood panel to check your cholesterol, blood sugar, and kidney function. It will also be helpful to get an EKG to assess your heart rhythm. This is standard procedure, Mr. Shanor. We need to rule out any underlying issues before you resume strenuous activity. The results should be available in a few days. I’ll have my assistant schedule a follow-up appointment for us to discuss them. Do you have any questions?
+PATIENT: Blood? No like blood. How many days? Saturday is games. And… what if bad?
+DOCTOR: It’s a small blood draw, Mr. Shanor. Standard procedure. As for how long...typically 3-5 business days, but it depends on the lab. I understand you have games on Saturday, but we need to prioritize your health. If the results come back abnormal, we’ll discuss the necessary steps. It may involve further testing or consultation with a cardiologist. It's unlikely, but we must be thorough. I’ll have the assistant schedule the follow-up for early next week. In the meantime, if you experience any chest pain, shortness of breath, or dizziness, please go to the emergency room immediately. Do you understand?
+PATIENT: Emergency room? No. Okay. Next week. Fine. I… I just want to referee. Is all. Thank you, Doctor.
+DOCTOR: Very well. My assistant will be with you shortly to schedule your follow-up appointment and draw the blood sample. Have a good day, Mr. Shanor. .
+PATIENT: .

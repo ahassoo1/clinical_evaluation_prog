@@ -1,0 +1,30 @@
+DOCTOR: Right. Rayshon Tati, is it?
+PATIENT: Uh, yes. That's me. Rayshon. It's… good to meet you, Doctor?
+DOCTOR: Havird. Dr. Havird. Now, let’s not waste time. What brings you in today?
+PATIENT: Okay, Dr. Havird. This cough… it doesn't go away. It's been… a long time, I think. And I get really tired. Like, really tired. And my sinuses… always blocked. Feels like I have a cold all the time.
+DOCTOR: “Long time” isn't helpful, Mr. Tati. Can you be more specific?
+PATIENT: Hmm… maybe… six months? Or more? It’s hard to say. Things are… busy. I work a lot. Tires, you know? Changing them, fixing them. It started… after a bad flu, I think. But it never really went away, even after the flu was gone.
+DOCTOR: So, six months of a persistent cough, fatigue, and sinus congestion following a bout of the flu. Any fever associated with this?
+PATIENT: Fever… sometimes, I think. Not high, though. Just… warm. Not like when I really have the flu. More like… feeling a bit hot, then cold. It comes and goes. I don’t usually check with a thermometer, you know? Just feel it.
+DOCTOR: “Feeling it” isn't a reliable measurement, Mr. Tati. Have you noticed any chest pain with the cough?
+PATIENT: No, no chest pain. Just… this cough. It makes my chest feel tight, sometimes. Like I can't get a good breath. But not pain. And… sometimes I cough up stuff. Yellow stuff. Sorry. Gross, I know.
+DOCTOR: Yellow sputum. Alright. Any shortness of breath without the cough?
+PATIENT: Hmm… not really short of breath. Just… tired. Really tired. Even after sleeping. Like I haven’t slept at all. I get winded when I’m lifting tires, of course. That's normal, right? Heavy work. But not just walking around. Just… worn out.
+DOCTOR: And what about any weight loss recently?
+PATIENT: Weight loss… maybe? My wife says I haven’t been eating as much. But I haven’t been trying to lose weight. Just… not hungry. Everything tastes… funny, sometimes. Not bad, just… not as good. I don’t know. I haven’t weighed myself in a while.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: Allergies… not that I know of. I don’t really take much medicine. Just… painkillers, sometimes, for my back. From lifting the tires. Nothing fancy. I don’t think I’ve ever had a bad reaction to anything.
+DOCTOR: And are you currently taking any medications, even over-the-counter?
+PATIENT: No, Doctor. Nothing. Just… sometimes I take something for my back, when it’s really bad. But not every day. Maybe once a month? It's… Ibuprofen, I think? The blue pills?
+DOCTOR: Alright, Mr. Tati. Let's have a listen to your lungs. Please, have a seat and take a deep breath for me.
+PATIENT: Okay. Deep breath… like this?
+DOCTOR: Alright. Your breathing sounds… congested. There's some wheezing, too. A little dullness on percussion here. Do you have any history of asthma, bronchitis, or pneumonia?
+PATIENT: Asthma… no. Never been told I have asthma. Bronchitis… maybe? I had something bad when I was a kid. A long time ago. My mother gave me some medicine. I don't remember what it was. Pneumonia… no, I don't think so. I've been sick, of course. Everyone gets sick. But nothing serious. I think. It was a long time ago.
+DOCTOR: Your sinuses are definitely tender to the touch. Tongue looks normal. Now, let’s check your temperature. 100.7 Fahrenheit. Slightly elevated. We’ll need to run some tests. I want a complete blood count, a chest X-ray, and a sputum culture.
+PATIENT: Tests… okay. X-ray? Is something… bad? I just want this cough to go away. And to not be so tired all the time. The sputum culture… is that the stuff I cough up?
+DOCTOR: It’s standard procedure, Mr. Tati. The X-ray will help us rule out pneumonia or anything more serious. The sputum culture will identify any bacteria causing the infection. It's unlikely to be anything major, but we need to be thorough. I’ll have the nurse draw your blood and send you to radiology. We’ll get the results back within a few days. In the meantime, I'm going to prescribe you an antibiotic to cover a possible bacterial infection. And I recommend you rest as much as possible.
+PATIENT: Okay… antibiotic. Rest. My wife will be glad I'm finally seeing a doctor. She's been telling me to come for weeks. How much will the tests cost, Doctor? I don’t have insurance, you know.
+DOCTOR: I’m aware you are uninsured, Mr. Tati. The costs will vary. The blood work is relatively inexpensive, but the X-ray will be more substantial. I can offer a discount, but it won’t eliminate the cost entirely. The clinic has a financial assistance program, and the nurse can provide you with more information. Let’s get the tests done first, then we can discuss payment options. The nurse will be in shortly to draw your blood and give you the order for the X-ray. Do you have any other questions for me right now?
+PATIENT: No… I think that’s all. Just… I hope it’s nothing too bad. And I hope this antibiotic works. I need to get back to work. Thank you, Doctor.
+DOCTOR: Alright. The nurse will be with you shortly. .
+PATIENT: .

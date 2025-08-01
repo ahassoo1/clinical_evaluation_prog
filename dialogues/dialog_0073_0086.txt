@@ -1,0 +1,17 @@
+DOCTOR: Good morning, Ms. Kovtun. I’m Dr. Korrell. So, tell me, what brings you in today?
+PATIENT: Morning. Just the results, please. I’m really short on time today.
+DOCTOR: Results?
+PATIENT: Right, the bloodwork from last week. You said they’d be ready by today. I need to know if everything’s okay so I can get back to work. I scheduled this just to go over those.
+DOCTOR: Yes, well, sometimes these things take a little time. Let me pull them up here… Alright, Ms. Kovtun, I have your results here. Before we get into specifics, do you have any familiarity with basic bloodwork terminology?
+PATIENT: Not really, no. That’s why I came to you. Just tell me if it's good, bad, or if I need to worry. Plain English, please.
+DOCTOR: Very well. Overall, most of your values are within the normal range. However… your Vitamin D level is quite low. Significantly so, actually. And your iron stores – ferritin – are also on the lower end. Nothing else immediately alarming, but these two are worth addressing. Do you experience much fatigue?
+PATIENT: Fatigue? Yeah, sometimes. I work long hours, so… that’s not surprising. I just figured it was the job. What does low Vitamin D even mean? Is it serious?
+DOCTOR: It simply means your body isn’t absorbing enough Vitamin D. It’s… common, particularly in individuals with limited sun exposure. It can contribute to fatigue, muscle weakness, and… a variety of other things. Serious?
+PATIENT: Okay… so what do I do about it? Pills? Do I need to change my diet? I really don’t have time for a whole lifestyle overhaul right now.
+DOCTOR: Well, ideally, a combination of things. Increased sun exposure, when feasible. Dietary changes – fatty fish, fortified foods. But given your… constraints, I think a Vitamin D supplement is the most practical approach. We can start with a high-dose loading dose, then a maintenance dose. As for your iron, let's hold off on supplementation for now. I'd like to repeat the iron studies in a month, just to confirm these results aren't a fluke. Do you have any allergies to medications?
+PATIENT: No allergies. Okay, so just the Vitamin D for now. What kind of Vitamin D? And how much? I need to know exactly what to buy at the store.
+DOCTOR: Vitamin D3, cholecalciferol. It’s better absorbed. I’m going to prescribe you 50,000 IU once a week for eight weeks. Then, we’ll recheck your levels and likely transition to a daily maintenance dose of 2,000-4,000 IU. Take it with a meal containing fat for optimal absorption. And try to get some sunlight if possible, even if it’s just a short walk during your lunch break. Do you have any questions about that?
+PATIENT: No, I think I got it. 50,000 IU once a week with food. And try for some sun. Okay. Is that all? I really need to get going.
+DOCTOR: Well, I would recommend a more comprehensive approach to your health, but I understand your time is limited. I’ll schedule a follow-up appointment in eight weeks to recheck your levels and assess your response to the Vitamin D. And if your fatigue worsens, or you develop any other concerning symptoms, please schedule an appointment sooner. Otherwise… that should be all for today. Here's a printed summary of our discussion. Is there anything else I can assist you with before you leave?
+PATIENT: No, that’s everything. Thank you. I appreciate it. I’ve got a meeting in twenty minutes.
+DOCTOR: Very well. Have a productive day, Ms. Kovtun. And please, don’t hesitate to contact the office if you have any questions. .

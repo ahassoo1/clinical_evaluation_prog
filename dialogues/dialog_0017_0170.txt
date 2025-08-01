@@ -1,0 +1,37 @@
+DOCTOR: Good afternoon, Mr. Putney. I am Dr. Blim. Now, let’s get right down to it. What brings you in to see me today?
+PATIENT: Right. Uh, life insurance. They sent me over for a check-up before they... you know, give me the policy. Just gotta get it done, really.
+DOCTOR: Life insurance. Yes, a rather…practical reason for a medical evaluation. While I understand the necessity, a comprehensive assessment is still required. Let’s begin with a detailed history. Tell me, Mr. Putney, have you been experiencing any specific symptoms lately – anything at all that’s been bothering you?
+PATIENT: Not really. I mean, aches and pains, you know, getting older. But nothing… serious. I’ve been a little tired, I guess, but I work long hours at the hotel. It’s probably that.
+DOCTOR: “Aches and pains.” Vague, as always. And “tiredness” is hardly a diagnosis. Now, let's try to be a bit more specific. Can you describe these aches and pains?
+PATIENT: Mostly in my back. From lifting stuff at work, I think. And my knees sometimes. It's nothing that stops me, just… bothersome. Like an old man, I suppose.
+DOCTOR: “Like an old man,” you say. Well, Mr. Putney, at your age, one should expect a certain degree of wear and tear. However, we must rule out anything more… concerning. When did you first notice these back and knee issues?
+PATIENT: Hmm… the back, probably a few years now. On and off. The knees… maybe the last year or so. It comes and goes. Honestly, I don’t pay it too much mind unless it’s really bad. I just take some ibuprofen.
+DOCTOR: Ibuprofen. Self-treating, are we?
+PATIENT: Yeah, well, what else am I gonna do? Go to the doctor every time my back twinges? I run a hotel, Doc, I don’t have time for that. It gets the job done. Mostly.
+DOCTOR: A pragmatic approach, I suppose, though rarely a sound one. Now, Mr. Putney, let’s move beyond the musculoskeletal complaints, if you will. Have you noticed any changes in your appetite or weight recently?
+PATIENT: Weight… maybe a little bit heavier. It's hard to say. I eat pretty much the same, but… things change, you know? Appetite's okay. I like my food.
+DOCTOR: “Likes food.” Remarkable. Very well. Do you have any difficulty breathing, Mr. Putney?
+PATIENT: No. Not really. Sometimes I get a little winded walking up the stairs, but I'm not exactly a young man anymore. I figured that was just… being out of shape. You know? Is that a problem?
+DOCTOR: Everything is a “problem” when one seeks a life insurance policy, Mr. Putney. Let's not digress. Now, have you experienced any chest pain, palpitations, or swelling in your ankles or feet?
+PATIENT: No chest pain. Palpitations… not that I’ve noticed. Ankles… maybe a little swollen sometimes, after a long day on my feet. But I just figured it was… from standing. It goes down if I put my feet up. Look, is this all necessary? The insurance company didn’t say anything about a full workup. I just need to sign some papers, right?
+DOCTOR: The insurance company's requirements are rarely comprehensive enough for my comfort, Mr. Putney. We are conducting a thorough assessment to ensure we have a complete picture of your health, not simply satisfy a bureaucratic checklist. Now, do you have any history of diabetes, high blood pressure, or high cholesterol?
+PATIENT: Uh… my dad had high blood pressure, I think. And maybe cholesterol. He didn't take care of himself, though. Me? They checked when I got divorced, for the court thing. Everything was… okay. I think. I don't remember exactly. It was a few years ago.
+DOCTOR: “Okay” is hardly a medical term, Mr. Putney. Do you currently take any medications, even over-the-counter ones, besides ibuprofen?
+PATIENT: Just the ibuprofen, when I need it. And sometimes I take something for… indigestion. Like Tums. But that’s not often. Mostly just when I eat something bad. I try to avoid it, if I can.
+DOCTOR: Very well. Now, Mr. Putney, do you have any allergies to any medications, foods, or environmental factors?
+PATIENT: No, not that I know of. Never had a reaction to anything. I've been pretty lucky, I guess. Look, Doc, how much longer is this gonna take? I got a hotel to run.
+DOCTOR: Patience, Mr. Putney. A complete medical history is essential. Now, have you ever smoked or used tobacco products?
+PATIENT: No. Never. Always hated the smell. My wife smoked, though. Drove me crazy. That was… a long time ago.
+DOCTOR: And alcohol consumption, Mr. Putney?
+PATIENT: A beer with dinner sometimes. Maybe a glass of wine on the weekend. Nothing heavy. Doc, honestly, is this going to affect my policy? I really need this insurance.
+DOCTOR: That, Mr. Putney, is a question for the actuaries. But a thorough assessment increases the likelihood of a favorable outcome. Now, tell me about your family history. Were there any significant illnesses—heart disease, cancer, stroke—that ran in your family?
+PATIENT: Like I said, my dad had high blood pressure. And my grandma… she had something with her heart, I think. Died when I was little. My mom's side… mostly everyone lived to be pretty old, but I don't know specifics, you know? We didn't really talk about that stuff. Look, Doc, this is getting me nowhere. Is there a way to speed this up?
+DOCTOR: Very well. Since you seem intent on minimizing the importance of a comprehensive history, we shall proceed to the physical examination. Please, have a seat. I trust you are appropriately attired?
+PATIENT: Yeah, yeah. I'm wearing a shirt. Let's just get this over with.
+DOCTOR: Heart sounds are… within normal limits, though slightly tachycardic. Lungs are clear to auscultation bilaterally. Abdomen is soft, non-tender. No palpable masses. Blood pressure is 148/92. Slightly elevated. Let’s check your reflexes. Patellar reflexes are 2+ bilaterally. Now, if you would kindly lie down… I need to auscultate your carotid arteries. Carotid arteries are clear, with no bruits.
+PATIENT: Okay… is that it? I mean, can we be done now? I got a conference call in like, an hour.
+DOCTOR: Almost. We still need to assess your height and weight. Please step onto the scale, Mr. Putney. Height is 174 centimeters. Weight is 97 kilograms. BMI is 34.1, indicating obesity. I also want to check your feet for any signs of neuropathy. Please, remove your shoes and socks.
+PATIENT: Look, Doc, I told you, I stand all day. My feet are probably just tired. This is ridiculous. Can't you just write down "normal" and be done with it?
+DOCTOR: Peripheral pulses are present, though diminished. Sensation to light touch is… intact, but slightly reduced in the distal extremities. No obvious signs of ulcers or deformities. Very well. That will suffice for now. I have enough information to formulate a preliminary assessment. I recommend a lipid panel and a comprehensive metabolic panel to rule out any underlying metabolic abnormalities. And I strongly advise you to discuss weight management strategies with your primary care physician. We'll discuss the results when they become available. Do you have any questions?
+PATIENT: No, I... no questions. Just… when will I know something? And will this affect my policy? That's all I really want to know. I gotta go, Doc. Really. I appreciate your time.
+DOCTOR: Uncooperative. Thoroughly uncooperative. Preliminary assessment: Obese male with slightly elevated blood pressure and diminished peripheral pulses. Further investigation required. And a complete lack of concern for his own health… Remarkable. .

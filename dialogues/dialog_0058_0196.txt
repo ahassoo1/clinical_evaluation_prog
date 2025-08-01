@@ -1,0 +1,29 @@
+DOCTOR: Alright, Janie Licano. 52 years old. So, what brings you in today?
+PATIENT: Oh… um… it’s this tiredness. Just… always tired. I don’t really… know when it started, to be honest. It just is. It’s been going on for a while now, I guess. A long while.
+DOCTOR: “A long while.” Right. Okay. And when you say tired… is this like, needing an extra cup of coffee tired, or… more than that?
+PATIENT: Oh, much more than coffee. Coffee doesn’t… do anything, really. It’s like… dragging myself through mud all day. Even after sleeping. Which… I do sleep, I think. Hard to remember sometimes. It’s just… heavy. Everything feels heavy.
+DOCTOR: Okay. “Heavy.” So it’s not just feeling sleepy, it’s… a physical weight. And you said you think you sleep okay?
+PATIENT: Yes… I mean, I go to bed, and I wake up. I think I sleep. But I don't feel rested. Not ever. It’s… frustrating. My husband… well, he used to say I was always exhausted. But… he’s gone now. So… it’s hard to say how long exactly.
+DOCTOR: Right. Well, losing a spouse is… difficult. It can definitely affect things. But we need to figure out what’s going on physically. Any other symptoms along with the tiredness?
+PATIENT: Oh… um… sometimes my muscles ache. Not all the time, but… yeah. And I get… little dizzy spells. Not falling-down dizzy, just… woozy. And… I forget things. A lot. Like… what was I saying? Oh dear. It's really bad sometimes.
+DOCTOR: Muscle aches, dizziness, and forgetfulness… Okay. Are these symptoms… constant, or do they come and go?
+PATIENT: They… come and go. The aches are worse when I… when I've been doing something. Even just… walking around the house. The dizziness… random, I guess. And the forgetting… always there, really. But worse some days than others. It’s… a nuisance, to be honest. I don’t like not remembering things.
+DOCTOR: Right. And has anything changed recently?
+PATIENT: Changed? Um… no, not really. Not that I can recall. Everything’s… pretty much the same. Just… this tiredness. It’s always there. I suppose… the grocery store changed their layout. But that doesn’t… feel important.
+DOCTOR: Okay. Well, let's go over some basics. Do you have any medical conditions that you've been diagnosed with?
+PATIENT: Oh… um… let me think. The doctor… before… he said my blood pressure was a little high, once. I think. And… I’ve had the usual things. Flu shots, that sort of thing. But nothing… serious. Really. I have Medicare, so… they keep an eye on things, I suppose.
+DOCTOR: Alright. Any surgeries or hospital stays?
+PATIENT: Um… no. No surgeries. And… I haven’t been in the hospital. Not since… well, not in a long time. I broke my arm when I was a little girl, but that doesn't… count, does it? Honestly, I don't have a good memory for dates or… details.
+DOCTOR: Okay. Any medications you’re currently taking?
+PATIENT: Um… let me see. Just… a little something for my blood pressure, sometimes. But not every day. And… oh, a vitamin D supplement, I think. The lady at the pharmacy recommended it. Honestly, I can’t remember the name of it. It's… little white pills.
+DOCTOR: Alright. And do you have any allergies to medications or anything else?
+PATIENT: Oh… no, I don’t think so. I haven't had any bad reactions to anything. But like I said, my memory is… not the best. It’s really frustrating, honestly. I just want to feel… normal again.
+DOCTOR: Okay. Well, let's do a quick physical exam. I'm going to listen to your heart and lungs, check your reflexes, and do a basic neurological assessment. Just routine.
+PATIENT: Alright… fine. As long as it doesn’t take too long. I have… things to do.
+DOCTOR: Alright. Please have a seat. Heart sounds are regular, but slightly diminished. Lungs are clear to auscultation bilaterally. Reflexes are 2+ and symmetric. Balance is slightly unsteady. Coordination appears intact, but she's a bit slow. Okay. Your heart sounds are a little quiet, and your balance is a bit off. I’m going to order some blood work to check your thyroid levels, vitamin D, B12, and a complete blood count. We'll also do a basic metabolic panel.
+PATIENT: Oh. Blood work. Fine. As long as it doesn't take forever. And… will it tell me what's wrong? I just want to know why I’m so tired all the time.
+DOCTOR: It will help us rule out some common causes of fatigue. It won’t give us a definitive answer immediately, but it's a good starting point. We'll also review your Medicare records to see what’s been documented previously. We’ll need to schedule a follow-up appointment to discuss the results. Is that alright?
+PATIENT: Fine. A follow-up. As long as it's not too long from now. I don't want to… wait forever. Honestly, all this… it’s just a lot.
+DOCTOR: I can schedule you for two weeks from today. That should give the lab enough time to process the results. In the meantime, try to get as much rest as you can, even if you don’t feel rested when you wake up. Are there any other questions before I let you go?
+PATIENT: No. No, I think that’s all. Just… please hurry. I really just want to feel better. And thank you… I suppose.
+DOCTOR: Alright. The lab slip is printed and waiting at the front desk. We'll see you in two weeks. .

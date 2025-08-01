@@ -1,0 +1,19 @@
+DOCTOR: Good morning, Mr. Schieber. I’m Dr. Kur. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Look, I don’t have a lot of time, so I’ll be brief. It’s… something in my mouth. It’s quite unpleasant, really. A white coating. My wife suggested I come, she worries over nothing, usually, but… it won’t go away.
+DOCTOR: A white coating, you say?
+PATIENT: Yes, a coating. Like… milk curd. Not a pretty sight, I assure you. It’s on my tongue mostly, and the inside of my cheeks. And it’s… difficult to eat with, you know? Everything tastes… off. I've been rinsing with water, but it doesn’t seem to help much. Frankly, it’s embarrassing.
+DOCTOR: Alright. And how long has this “coating” been present, Mr. Schieber?
+PATIENT: Oh, goodness… let me think. It started… about a week, maybe a little longer. It wasn’t terribly noticeable at first, just a slight film. But it’s definitely gotten worse over the past few days. It’s becoming… troublesome. And, as I said, my wife is being rather insistent.
+DOCTOR: And have you noticed any other symptoms accompanying this?
+PATIENT: Other symptoms? No, not particularly. Just the… the coating. And the unpleasant taste, of course. I haven’t been feeling sick, if that’s what you mean. No fever, no aches, no… anything dramatic. Honestly, I think it's just a minor irritation. I’m a very healthy man, usually. Work outside all day, keep busy. It’s probably just something I ate. Is this going to take long?
+DOCTOR: Well, we need to look to be certain it's nothing more than "something you ate." Let's have a quick look in your mouth, shall we?
+PATIENT: Must we? It's rather… undignified. Fine, but please be quick about it. I have work to get back to. Just… try not to poke too much.
+DOCTOR: Hmm. Yes, I see what you mean. There is a whitish coating on your tongue and buccal mucosa. It appears somewhat patchy. No obvious lesions or ulcers. Have you been using any new mouthwashes or toothpastes recently?
+PATIENT: No, Doctor, I have not. I use the same things I’ve used for years. Perfectly ordinary things. This isn't some complicated dental issue, I assure you. It’s probably just… a temporary thing. Is there anything else?
+DOCTOR: Well, “temporary things” can sometimes indicate underlying issues, Mr. Schieber. Have you noticed any difficulty swallowing, or any pain when you eat or drink?
+PATIENT: No, no difficulty swallowing. And no pain, exactly. Just… uncomfortable. It’s a bit gritty, that’s all. Honestly, Doctor, I’m a faller. I spend my days in the woods. I eat simple food. I wouldn’t expect to be having… whatever this is. I have responsibilities, you know. This is wasting my time.
+DOCTOR: Alright. Have you had any recent illnesses?
+PATIENT: No! No recent illnesses. I told you, I’m a healthy man. I haven’t been to a doctor in… well, I can’t even remember. I don’t get sick. Look, I appreciate your concern, but I think this is a simple issue. Perhaps a stronger mouthwash? That’s all I need. I’m not a complicated case. Is there anything you can suggest quickly?
+DOCTOR: Mr. Schieber, while I appreciate your assertion of good health, dismissing a symptom without investigation is… unwise. However, to appease you, and given your insistence, we can try a simple approach. I'm going to recommend an antifungal mouthwash, Nystatin. Rinse twice daily for one week. If it does not improve within that time, you will need to return for further evaluation. Do you understand?
+PATIENT: Yes, yes, an antifungal. Fine. One week. Good. That’s… acceptable. As long as it doesn’t take long. I’ll be going now, Doctor. I have things to do. Thank you… I suppose.
+DOCTOR: Very well. Should it worsen before then, or if you develop any fever or difficulty breathing, seek immediate medical attention. Patient resistant to thorough evaluation. Follow-up contingent on self-reporting. .

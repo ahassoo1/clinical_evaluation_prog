@@ -1,0 +1,38 @@
+DOCTOR: Alright, Ms. Licano, have a seat. So, what brings you in today?
+PATIENT: Oh, um... well, it's this tiredness. Just… always tired. I don’t really know why. It’s been… a while. Honestly, dates are… hard for me to keep track of these days. But a good long while.
+DOCTOR: "A while," is helpful, but we'll need to be more specific if we're going to figure this out. Is this tiredness new?
+PATIENT: New? Hmm… no, not really. It’s not like it started suddenly. It’s just… gotten worse, I guess. It's always been there, a bit, but now it’s… harder to do things. Even simple things.
+DOCTOR: Okay. So, it's a gradual onset, more of a worsening over time. Can you describe what you mean by "harder to do things?
+PATIENT: Well… like, I used to enjoy gardening. Really enjoyed it. Now, I try, and I just… have to sit down every few minutes. And it’s not like my back hurts, exactly. It's just… everything feels heavy. And I get… foggy. Like my brain is slow. It's hard to explain.
+DOCTOR: Foggy, heavy… I understand. That sounds frustrating. Any other symptoms along with the fatigue and brain fog?
+PATIENT: Um… sometimes my muscles ache a little. Not all over, just… here and there. And I’ve been sleeping… well, I sleep a lot, but I don’t always feel rested. It’s strange. And I get… cold. Even when it’s warm.
+DOCTOR: Okay. Sleeping a lot but still feeling tired, muscle aches, and feeling cold… Have you noticed any changes in your weight recently?
+PATIENT: Oh, weight… I don’t really keep track of that. I think… maybe I’ve lost a little? It's hard to say. Clothes feel a bit looser, maybe? But I haven't actually weighed myself. It's not something I worry about much.
+DOCTOR: Alright. And what about your appetite?
+PATIENT: My… appetite? It comes and goes, really. Some days I don’t feel hungry at all. Other days, I could eat a little. But I don't have much of a taste for things, if that makes sense. Food just… doesn't seem appealing.
+DOCTOR: Okay. Let's talk about your medical history. Do you have any current medical problems?
+PATIENT: Um… well, I have Medicare, so… I see a few doctors. I had some trouble with my heart a while back, but they said it was… managed. And I get my blood pressure checked regularly. Oh! And I’m widowed, if that matters. My husband, Stefan, passed away a few years ago.
+DOCTOR: I'm sorry to hear about Stefan. It does matter; grief can certainly impact your health. You mentioned heart trouble and blood pressure. Do you know what the diagnoses were?
+PATIENT: Oh… um… I think it was… something with the rhythm? Atrial fibrillation, maybe? The doctor used big words. And my blood pressure… it used to be high, but they gave me pills. Now it's… okay, I think. They check it every time I go. Honestly, I don’t pay close attention. I just… take the pills they give me.
+DOCTOR: Okay, so atrial fibrillation and hypertension, managed with medication. Any other medical problems?
+PATIENT: Let me think… Oh! I had some trouble with my thyroid a long time ago, but they said it was fixed with pills, too. And I think I had pneumonia once, a long time ago. But… that's about it, I think.
+DOCTOR: Alright. Any surgeries or hospital stays that you can recall?
+PATIENT: Surgeries… Hmm. I had my gallbladder out, years ago. And I was in the hospital when I had the pneumonia. Just for a few days, though. And… I think I had a hysterectomy, but it was so long ago, I don’t remember much about it.
+DOCTOR: Okay. Now, let’s talk about your family. Do you have any family history of medical problems?
+PATIENT: Oh, family… My mother had… something with her heart, I think. And my father… he had diabetes. But everyone on my side smoked, so… it's hard to say what was what. I don’t really know much about their medical histories. They lived back in Romania, mostly.
+DOCTOR: Okay. And what about your lifestyle?
+PATIENT: Lifestyle? Well, I live alone, in an apartment. I don’t… go out much. I used to enjoy gardening, like I said, but now… it's harder. I try to eat okay, but I don’t have much of an appetite. And I don’t smoke, never have.
+DOCTOR: Alright. Do you have any allergies to medications, foods, or anything else?
+PATIENT: Allergies… Hmm. I don't think so. I haven’t had any problems with the pills the doctors give me. I think I used to be allergic to bee stings when I was a little girl, but that was a long time ago. I don't remember ever having a food allergy.
+DOCTOR: Okay. Now, are you currently taking any medications, vitamins, or supplements?
+PATIENT: Oh, yes. Let me think… I take a pill for my blood pressure, and one for my heart. And I think the doctor gave me something for my thyroid, too. Oh! And a vitamin D pill. She said I wasn't getting enough sunlight.
+DOCTOR: Alright. Let's see… Amlodipine 5mg daily, Metoprolol 25mg twice daily, Levothyroxine 75mcg daily, and Vitamin D 2000IU daily. Okay. Now, I'm going to do a quick physical exam. Is that alright with you?
+PATIENT: Yes, yes, that's fine. Whatever you need to do. I just want to figure out why I’m so tired all the time.
+DOCTOR: Alright, Ms. Licano. Blood pressure is 130/80, pulse is 72 and regular, and temperature is 98.6. Normal so far. Let me listen to your heart and lungs. Heart sounds are slightly irregular, consistent with atrial fibrillation. Lungs are clear bilaterally. Now, let's take a look at your thyroid. Thyroid feels normal. No enlargement or nodules detected. Now I'm going to check your reflexes. Reflexes are normal. Finally, I'm going to check your feet for any signs of neuropathy. Sensation is slightly diminished in both feet. Okay, that's all for the physical exam.
+PATIENT: Diminished sensation… is that bad?
+DOCTOR: It can be, Ms. Licano. It suggests some mild nerve damage, possibly related to diabetes or vitamin deficiencies. We’ll need to do some bloodwork to get a better understanding of what’s going on. It looks like we should check your blood sugar, thyroid levels, vitamin D, vitamin B12, and a complete blood count. Would you be willing to have blood drawn today?
+PATIENT: Yes, yes, whatever you think is best. I just want to know what's wrong. Bloodwork is fine. The sooner the better, really. I'm just tired of feeling tired all the time.
+DOCTOR: Okay. I'll write you a lab order. The lab is just down the hall. Once the results come back, we’ll schedule a follow-up appointment to discuss them and decide on a treatment plan. In the meantime, try to get some rest and drink plenty of water. And if you experience any new symptoms, such as chest pain or shortness of breath, please go to the emergency room immediately. Do you have any questions for me right now?
+PATIENT: No, I… I think that's everything. Just… thank you. I appreciate you taking the time to listen. I'll go do the bloodwork now. Hopefully, we can figure out what's going on.
+DOCTOR: You’re very welcome, Ms. Licano. I understand it’s frustrating dealing with unexplained fatigue. We’ll do our best to get to the bottom of this. The lab technicians will take good care of you. And please don’t hesitate to call the office if you have any concerns before your follow-up appointment.
+PATIENT: Okay. Thank you again. .

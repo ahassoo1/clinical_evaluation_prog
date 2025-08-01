@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. Vantine. So, you’re here today… what brings you in?
+PATIENT: Oh, hello Doctor. It’s… well, it’s just been a lot of sighing, I think. Deep breaths, mostly. I don't even realize I’m doing it half the time, my daughter tells me. She worries. I just feel… tired, I suppose. It’s hard to explain. It's not a pain, not exactly. Just… heavy.
+DOCTOR: Sighing, huh?
+PATIENT: Yes. It feels… like a weight, like I said. I don’t know if that makes any sense. It’s been going on for… a while now, I guess. Months, maybe? Time… it slips away from me these days. Do you… do you need to know a specific date? I’m not very good with those anymore.
+DOCTOR: Months, alright. Noted. And is this sighing… constant?
+PATIENT: Not constant, no. It comes and goes. More when I’m… quiet, I think. Sitting alone, remembering things. Or trying to, anyway. Old memories are funny things, Doctor. Sometimes they’re clear as a bell, and other times… they’re just a feeling. A weight, almost. Like this sighing.
+DOCTOR: Okay. And has anything changed recently that might be causing this?
+PATIENT: Changed? Hmm… Not that I recall, Doctor. My daughter, Srey, she moved her family a little further away last year… but that was a while back now. We still see each other, just… not as often. Everything else… just the usual old age things, I suppose. Body doesn't work like it used to, but… that's to be expected, isn't it?
+DOCTOR: Right. Usual old age things. Any trouble sleeping?
+PATIENT: Oh, the sleep… yes, that’s been… a little off. I wake up a lot during the night. Not from pain, just… awake. Thinking. Or not thinking. Just… being awake. It's not every night, mind you. But enough to make me feel… tired. Like this sighing makes it harder to rest.
+DOCTOR: Alright. And do you have any difficulty with your appetite?
+PATIENT: No, not really. I still enjoy my food. Srey makes sure I'm eating enough, even when I don't feel particularly hungry. She worries a lot, that one. I like to eat my rice and fish, like always. And a little bit of mango, when it’s in season. That's about it, really. Nothing fancy.
+DOCTOR: Okay. Any chest pain, shortness of breath, or swelling in your ankles?
+PATIENT: Chest pain… no, no pain. Shortness of breath… sometimes, when I climb the stairs, a little. But I always stop and rest. And swelling… … now that you mention it, maybe a little. Hard to tell, my legs have always been a bit thick. I’m an old man, Doctor. Things swell.
+DOCTOR: Right. Let’s get a quick listen to your lungs and heart, just to be sure. And I'll take a look at those ankles. Just standard procedure.
+PATIENT: Yes, of course, Doctor. Whatever you think is best. I trust your judgement. It's kind of you to listen to an old man complain about sighing, really.
+DOCTOR: Lungs sound a little congested, but not alarming. Ankles have some mild edema. Blood pressure's a bit on the lower side. We'll need to check some bloodwork to rule things out. I’m also going to order an EKG.
+PATIENT: Oh. Bloodwork and… an EKG? That sounds… serious, Doctor. Is something wrong? I just thought it was… sighing. Is it my heart? Or my lungs? Srey will be worried if I go getting tests… she already frets enough.
+DOCTOR: Look, Mr. Vantine, it's just standard procedure. We need to rule things out. It doesn't necessarily mean anything is seriously wrong. It's just… you're 80 years old, and you're experiencing new symptoms. We need to be thorough. I’ll get the lab order and EKG scheduled for you. It's better to be safe than sorry. Don't worry yourself too much. We'll have results back in a few days. In the meantime, try to get some rest. Now, do you have any allergies to any medications?
+PATIENT: Allergies… Not that I know of, Doctor. Never had any trouble with medicine before. Srey usually handles all of that, anyway. She asks all the right questions. I suppose if I had been allergic to something, I would know, wouldn't I?
+DOCTOR: Right. Good. Any medications you’re currently taking?
+PATIENT: Let me think… Just a little pill for my… well, Srey gives it to me for my waterworks. Old age, you know. Makes me go to the bathroom less. And sometimes, when my knees bother me, I take one of those over-the-counter things… Ibuprofen, I think it's called. But that's only when they really ache. Is that all you need to know, Doctor?
+DOCTOR: Okay. Alright. Ibuprofen, noted. Let's get you scheduled for those tests. The nurse will come in shortly with the paperwork. And try to drink plenty of fluids. We'll talk results when we have them. I'm going to see another patient now. Do you have any questions for me before I go?
+PATIENT: Oh… Just… will the tests be painful, Doctor? I don't like needles very much. And… will I be able to go home afterwards? Srey… she might want me to stay nearby, just in case. I just… I don't want to cause trouble.
+DOCTOR: The blood draw is quick. The EKG is painless. You can go home afterwards. Don’t worry yourself sick. The nurse will explain everything. Now, if you'll excuse me…
+PATIENT: Oh… alright. Thank you, Doctor. I hope it's nothing serious…

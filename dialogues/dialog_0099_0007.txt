@@ -1,0 +1,39 @@
+DOCTOR: Good morning, Ms. Reihner. I’m Dr. Overgaard. So, what brings you in today?
+PATIENT: Good morning, Doctor. My back… it is painful. I want to get this sorted quickly, if possible. I have work to do.
+DOCTOR: Right. “Painful back.” Okay. And when did this start?
+PATIENT: It started… let me think. July 18th. Yes, July 18th. I was putting up a section of wire fence, and I felt a sharp pull. It hasn’t gotten better since.
+DOCTOR: Okay, July 18th while putting up a fence. A sharp pull, you said. Can you describe the pain?
+PATIENT: It’s… a deep ache, mostly. But when I move a certain way, like bending over, it shoots right down my leg. Not always, but often. It makes it hard to do my job.
+DOCTOR: Hmm. Shooting pain down the leg… alright. And where exactly in your back is the pain concentrated?
+PATIENT: It’s low, on my right side. Right across where my back curves. Not right in the middle, but… over to the side. I can show you, if that helps.
+DOCTOR: Yes, please do. Go ahead and point to where it hurts the most. And tell me, does anything relieve the pain?
+PATIENT: Right here. It feels better when I lie flat. And… warm baths help a little. But not for long. Mostly, nothing really makes it go away.
+DOCTOR: Alright. And have you noticed any numbness or tingling in your leg, or any weakness?
+PATIENT: No, not weakness. But… sometimes my foot feels… cold. Not always, and it doesn’t last long. Just a cold feeling, like the circulation is off. It’s my right foot, the same side as the pain.
+DOCTOR: Okay. And do you have any trouble with your bladder or bowels?
+PATIENT: No, Doctor. Everything is… normal there. No changes. I understand why you ask, but no.
+DOCTOR: Alright. Have you tried any pain medication, over-the-counter or otherwise?
+PATIENT: Yes. I took some ibuprofen, the kind you get at the store. It didn’t do much. A little, maybe, but it wore off quickly. I don’t like taking pills if I can avoid it.
+DOCTOR: Okay. Let’s get some more information. Any past injuries to your back?
+PATIENT: No, never. Not that I recall. I’ve always been strong, worked hard. This is… new. Never had anything like this before. I've strained muscles before, but nothing that felt like this.
+DOCTOR: Alright. And what about your overall health?
+PATIENT: I have Medicare. I see Doctor Miller for my blood pressure, but otherwise… I’m generally healthy. I work hard, I eat reasonably well. I was widowed five years ago, so I mostly keep to myself. It’s just this back now. It’s interfering with everything.
+DOCTOR: Okay. Any major medical problems in your family?
+PATIENT: My mother had arthritis, in her hands mostly. And my father… he had heart trouble. But nothing like what I am dealing with. And I don’t think that’s related. It’s just… my back. Can we figure out what’s wrong so I can get back to work?
+DOCTOR: Alright. Let’s do a quick physical exam. Can you lie face down on the table for me?
+PATIENT: Yes, Doctor. Just tell me what you need me to do.
+DOCTOR: Okay. Just relax as much as possible. I'm going to feel along your spine and the muscles on either side. Tell me if anything feels particularly tender. ...Alright, that's a bit tender right there. And here. ...Now, I want you to try and lift your right leg straight up, keeping it straight. ...And how does that feel?
+PATIENT: That… hurts. Right in my back. And… down my leg. Not sharp, but a pulling feeling. It’s harder than it should be, Doctor. I can’t lift it as high as I used to. It feels like something is stopping me. Is this going to tell you something?
+DOCTOR: Okay. That's helpful. And now, can you try and bend forward, reaching towards your toes?
+PATIENT: I can’t go very far. It hurts too much if I try to go further. It’s right in my lower back, and… it feels like it’s pinching something. Does that make sense?
+DOCTOR: Alright. Now, can you stand up for me, and I want you to walk on your heels for a few steps?
+PATIENT: Okay. This… feels strange. It puts pressure on my back. Not painful, but… uncomfortable. Like it’s pulling. Is this enough?
+DOCTOR: Okay. And now, walk on your toes for a few steps.
+PATIENT: This is harder. It feels… off. It’s more pressure on my foot, and… a little bit of pain in my back. I don’t like this. Is this helping you?
+DOCTOR: Alright. Okay. Based on what you’ve told me and the physical exam, it sounds like you likely have a lumbar strain with possible sciatica, meaning the pain is radiating down your leg due to irritation of the sciatic nerve. However, we need to rule out anything more serious. I'm going to order some imaging – an X-ray of your lower back to see if there's any structural problem, and possibly an MRI if the X-ray is inconclusive, to get a better look at the nerves and soft tissues. I also want to order some blood work to rule out any inflammatory conditions. Does that sound okay?
+PATIENT: Yes, that sounds… thorough. I appreciate that. Blood work and X-rays… if that’s what you need to find out what’s wrong, then yes. Do I need to make another appointment to get these done? I’d like to get this sorted quickly, if possible. I have work waiting.
+DOCTOR: Alright. The nurse will schedule you for the X-ray and bloodwork today. We’ll get the results back in a few days, and then we'll schedule a follow-up appointment to discuss them. In the meantime, I recommend over-the-counter ibuprofen, 600 milligrams three times a day with food, if you can tolerate it. I also want you to avoid any heavy lifting or strenuous activity. And I’m going to write you a prescription for a muscle relaxant to help with the pain and spasms. Does that sound good?
+PATIENT: Yes, that sounds… reasonable. Ibuprofen, avoid lifting, and the muscle relaxant. I will try to follow your instructions. I really just want to get back to work. Is there anything else I need to do or know before I leave? Will the muscle relaxant make me… sleepy? I need to be able to work.
+DOCTOR: Yes, the muscle relaxant can cause drowsiness, so be careful driving or operating machinery. Start with a low dose, especially the first time you take it, to see how it affects you. I’m also going to give you a handout with some basic exercises you can do to help strengthen your back muscles once the pain subsides, but don’t start those until you’ve discussed them with me after we have the test results. The nurse will go over the medication instructions and answer any questions you have. She’ll also schedule the imaging. Do you have any allergies to any medications?
+PATIENT: No, no allergies. Just… a lot of pain. I appreciate you taking the time to explain everything, Doctor. Hopefully, we can get this figured out quickly. Thank you. I suppose I should wait for the nurse then?
+DOCTOR: Alright. You're welcome. Just let the nurse know if you have any questions. She’s right this way. And try to rest and avoid any activities that aggravate the pain. We’ll get to the bottom of this. Stop by and see me in a few days and we’ll discuss the next steps.

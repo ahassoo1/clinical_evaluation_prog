@@ -1,0 +1,11 @@
+DOCTOR: Alright, Mr. Szmyd, so you're here today... why don't you tell me what brings you in?
+PATIENT: Hmm? Oh. Yes. New here. Just... the paperwork said I need to come. Doctor... Memmolo, yes? Is that right? I do makeup, you know. For the theater. Not... sick or anything. Just moved. Small town. Everything is... different.
+DOCTOR: Yes, Dr. Memmolo. And while I appreciate your… hobbies, Mr. Szmyd, we really need to focus. The paperwork indicates a new patient visit. That means you need to tell me what’s going on. Are you experiencing any health problems?
+PATIENT: Health problems? No, no. Not really. Old bones, maybe. Everything aches a little. But that's just... being old, isn't it? I don't feel sick. Though, now that I think about it… my sleep is not so good. But who sleeps good these days? It’s the world, you know? Always noisy.
+DOCTOR: "Old bones," as you put it, can still be something. And sleep disturbances… those are worth noting. Let's try to be a bit more specific. When did you start noticing the aches?
+PATIENT: Specific? Ugh. When… a long time ago. Years. Maybe after the divorce. Everything started feeling… worse then. It’s hard to remember exactly. It’s not like one day I woke up and… boom! Aches. It just… happened. Slowly. Like dust collecting. Is that helpful? I doubt it.
+DOCTOR: Dust collecting… right. And where are these aches, specifically?
+PATIENT: Hmm. Let me think. Back, mostly. Lower back. And… knees. Sometimes my hands, but that’s from holding brushes all day. You wouldn’t understand. It’s very precise work. Very… demanding. Not like sitting in an office. Is that what you do? You look like an office person. No offense.
+DOCTOR: I am a physician, Mr. Szmyd. And while I appreciate your… observations, let’s get back to your symptoms. You mentioned lower back and knees. On a scale of one to ten, with ten being the worst pain imaginable, what would you rate the pain in your lower back right now?
+PATIENT: One to ten? Ugh. Numbers. I’m not good with numbers. Let me see… hmm. It’s not… crippling. I can still walk. Still work. Maybe… a four? A five on a bad day. Depends on the weather, you know? Damp weather makes it worse. Like everything. It’s always something. .
+DOCTOR: A four or five. And the knees?

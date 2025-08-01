@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Mr. Reyno. I am Dr. Jules. Now, let’s not waste any time. What brings you in today?
+PATIENT: Uh, yeah, good mornin'. I… I got a cough. Been coughin' up stuff. Red stuff. Not a lot, but… yeah. It worries me. I smoke, you know. Always have.
+DOCTOR: A cough, you say. And “red stuff.” Honestly, Mr. Reyno, smoking is… detrimental. How long have you had this cough?
+PATIENT: Long? Uh… a while now. Not just started. Seems worse lately, though. Maybe… a month or two worse? Hard to say, really. I don’t keep track of things like that. Just… felt it getin’ bad. That's why I'm here now, I guess.
+DOCTOR: A month or two of a worsening cough… and you waited until now?
+PATIENT: Look, lady, I don’t have a lot of time for this. I took the day off work for this, and I got things to do. Just… can we figure out what’s wrong? I don't need a lecture on smokin'. It ain't gonna change nothin' now.
+DOCTOR: Very well. Let’s proceed. Have you experienced any fever, chills, or night sweats with this cough?
+PATIENT: Fever… sometimes. Not real high. Just feel kinda warm, you know? Chills… not really. Night sweats… maybe? I sleep pretty warm anyway. Hard to tell. I mostly just feel tired. Really tired.
+DOCTOR: Tired… and intermittent fever. Any shortness of breath or chest pain accompanying the cough?
+PATIENT: Shortness of breath… yeah, a little. Especially when I… when I walk up hills. Or do somethin' hard. Chest pain… not pain pain, but… feels tight sometimes. Like somethin's squeezin' me. That happenin' more lately too. It kinda scares me.
+DOCTOR: Alright. And do you notice any swelling in your ankles or feet?
+PATIENT: Swelling… huh. Now you got me thinkin'. I think… yeah, maybe a little. My boots felt kinda tight yesterday. I figured it was just the heat. I dunno. I don't pay much attention to my feet. Work boots are work boots, you know?
+DOCTOR: I see. Let's have a quick listen to your lungs and check your vital signs. Please take a seat on the examination table.
+PATIENT: Okay, okay. Just… don’t take long, alright? I got a schedule.
+DOCTOR: Take a deep breath in… and out… again… Good. There's some wheezing in your lower lobes. And your breathing sounds a little coarse. Blood pressure is slightly elevated, pulse is a bit fast. I'm going to need to order a chest X-ray and some bloodwork. It could be a number of things, honestly. It's likely a chronic bronchitis exacerbation, given your smoking history. But we need to rule out anything more serious.
+PATIENT: X-ray? Bloodwork? Look, lady, I don’t do good with needles. And X-rays… are those gonna cost a lot? I'm on Medicare.
+DOCTOR: Medicare should cover it, Mr. Reyno. But honestly, avoiding diagnostics won’t make things better. As for the bloodwork, it’s a small draw, and frankly, necessary. We need to see if there's an infection present. I’ll have the nurse draw the blood, and we’ll get the X-ray done immediately after. It’s standard procedure. Do you have any allergies to medications?
+PATIENT: Uh… allergies? Not that I know of. I take… somethin’ for my blood pressure, sometimes. The little white pill. Doc gave it to me a while back. But I forget to take it sometimes. Mostly I just… deal with it.
+DOCTOR: Very well. I’ll make a note of that. The nurse will be in shortly to draw your blood. Afterwards, we'll head over for the X-ray. Please try to remain calm. The sooner we get these tests done, the sooner we can determine what’s going on.
+PATIENT: Fine. Just… hurry it up, alright? I got things to do. .

@@ -1,0 +1,38 @@
+DOCTOR: Right. Mrs. Nini, is it?
+PATIENT: Yes, that's right. Darl Nini. Though, everyone just calls me Nini, dear. It’s… a long story. It's nice to meet you, Doctor… Memmolo, was it?
+DOCTOR: Yes, yes. Memmolo is fine. Though I prefer to keep things…efficient. Now, let's not dwell on nicknames. You’re here today because…?
+PATIENT: Oh, goodness. Right. Well, it’s about my blood. I need to know… what kind it is. For some paperwork, you see. My son… he said I needed it. It’s just… slipped my mind. I used to know, but… it was a long time ago.
+DOCTOR: Paperwork. Of course. Blood type. Honestly. It's… a very simple thing. But fine. Do you have any recollection of why you might need this information now?
+PATIENT: Oh, my. That’s a good question. My son, Ricardo… he’s been dealing with… things. Legal things. I think it has something to do with… a property? Or maybe an inheritance? It all gets a bit muddled, you understand. He said the form needed my blood type, and I just… agreed. I trust him, always have.
+DOCTOR: Right. So, no particular symptoms, no recent illnesses or… trauma prompting this request?
+PATIENT: Oh, no, dear, nothing like that! I'm feeling quite alright, actually. Just the usual aches and pains for an old woman, you know? Nothing to trouble a doctor with. Just… paperwork, like I said. It's Ricardo being… careful. He worries so much.
+DOCTOR: Very well. Have you ever been formally typed?
+PATIENT: Oh, goodness. That’s… a tricky one. I think so. A very long time ago. Maybe when I was… a young woman? I remember a doctor… and a little prick on the finger, I suppose. But where? When? I really couldn't tell you. It feels like a lifetime ago, dear.
+DOCTOR: Hmm. Alright. We’ll need to do a quick blood draw, then. It's standard procedure. We can get the results back relatively quickly. Do you have any allergies to latex or… anything that might complicate things?
+PATIENT: Oh, latex… let me think. No, I don’t think so. I used to garden a lot, you know. Roses mostly. I had gloves, of course, but… I don't remember having any trouble with them. Though, I've got sensitive skin, generally. A bit of a rash sometimes. But nothing serious.
+DOCTOR: Sensitive skin noted. Alright. And are you currently taking any medications?
+PATIENT: Oh, just a little something for my knees, dear. The arthritis, you know. It's called… hmm… let me see if I can remember… It's a white pill. Small, round… I get it from the pharmacy down the street. Oh, bother, I can never remember the name! It starts with a 'C', I think… or maybe a 'P'?
+DOCTOR: A white pill, starting with 'C' or 'P'. Wonderful. Do you have the bottle with you, Mrs. Nini?
+PATIENT: Oh, goodness, no. I left it at home, of course. I didn't think… I just came for the blood test, you see. Ricardo didn't mention needing the bottle. I'm terribly sorry. I’m just a bit…scattered these days. I'll have to send my son to fetch it, I suppose.
+DOCTOR: Right. Well, we can proceed without it for now, but it will be difficult to make any accurate assessments regarding potential interactions. Let’s just get this blood draw done, shall we?
+PATIENT: Yes, of course. Whatever is easiest. Blood draw it is, then. I always did hate needles, you know. Though, I suppose a little prick is nothing.
+DOCTOR: Nurse, could you please draw a blood sample from Mrs. Nini?
+PATIENT: Oh, very kind of you, dear. Thank you. I do hope it doesn’t hurt too much… and please, be gentle with my veins. They’re not what they used to be.
+DOCTOR: Just get it over with. Just relax your arm, Mrs. Nini. It will be over quickly.
+PATIENT: Alright, dear. I’ll try my best. It’s just… always made me a bit dizzy, you see. A bit faint. But I'm sure you're very good.
+DOCTOR: Alright, that's all done. Just a little pressure to stop the bleeding. Now, let’s get this sent to the lab. It should be back in about an hour. While we wait, I'll just quickly listen to your heart and lungs. Routine, of course.
+PATIENT: Oh, good. Thank you, dear. A little sore, but nothing terrible. Heart and lungs, you say? Of course. Whatever you think is best, Doctor. I used to walk miles, you know. Years ago. Before my knees…
+DOCTOR: Heart rate is a little elevated, but that's not unusual given your anxiety about the blood draw. Lungs are clear. Everything sounds… acceptable. Still, we'll get the results back from the lab to be certain. Now, tell me, have you had any recent changes in your weight?
+PATIENT: Oh, weight… that’s a good question. I think I’ve lost a little bit. Not much, just… a pound or two, maybe. It’s hard to say, really. I haven’t been weighing myself regularly. I used to, but… Ricardo keeps telling me I should eat more, but I don’t have much of an appetite these days.
+DOCTOR: Weight loss, decreased appetite. Noted. Alright, Mrs. Nini, let's just wait for those lab results. It shouldn't be much longer. Do you have any allergies to any medications in particular?
+PATIENT: Oh, allergies… hmm. Let me think. I don’t think so. Though… once, years ago, I had a rash from… a penicillin, maybe? It was a long time ago. I barely remember. It was a small rash, not a terrible one. Nothing like… anaphylaxis, or anything dramatic. I just… stopped taking it, and it went away.
+DOCTOR: Penicillin rash, remote. Noted. Alright. We’ll have the results shortly. Just try to relax, Mrs. Nini. It's a simple blood type, it's not as if we’re diagnosing anything serious.
+PATIENT: Yes, dear, I understand. A simple blood type. Ricardo makes it sound so important, though. He’s such a worrier, my son. Always has been. I just want to get this paperwork done and get home to my garden. The roses are in bloom, you know.
+DOCTOR: Nurse, do we have the results?
+PATIENT: Oh, goodness. Here we go. I hope everything is alright. I'm not very good with these things, you know. Just tell me what it means.
+DOCTOR: Alright. You are type O positive. There. See?
+PATIENT: Oh. Oh, good. Type O positive. That’s… that’s good, isn't it? Ricardo will be pleased. What does it… mean, though? Is it a good type to have?
+DOCTOR: It means you can receive blood from types O and B, and donate to types O, A, B and AB. It’s… a common type. It's not particularly good or bad. It just is. Now, is there anything else, Mrs. Nini?
+PATIENT: Oh. Right. Common. Well, that's… reassuring, I suppose. No, dear. I think that's all. Just the blood type. Thank you for your help, Doctor. And thank you for being patient with me. I do tend to get a bit… muddled.
+DOCTOR: Very well. Here’s a copy of the lab report for your records. Make sure to give this to your son. If you experience any new symptoms, please consult your primary care physician. Good day, Mrs. Nini.
+PATIENT: Oh, yes, of course. I will. Thank you again, Doctor. Good day to you too, dear.

@@ -1,0 +1,39 @@
+DOCTOR: Good morning, Ms. Bonck. I’m Dr. Yackey. So, tell me, what brings you in today?
+PATIENT: Uh, hi. It’s… well, I just moved here. And I need to, like, get set up with a doctor, I guess? It’s a social thing, mostly. Medicare said I should come in. I don’t really… need anything, I think.
+DOCTOR: A “social thing,” you say?
+PATIENT: Yeah. It was part of, um… getting help with things after I moved. I don’t really remember all the details. Lots of paperwork. My husband helped with that. He’s pretty good at stuff like that. Is that… weird? To not remember?
+DOCTOR: Not ideal, certainly. We’ll get through it. Medicare requires a baseline assessment for new enrollees, even without a specific complaint. It's… standard procedure. Let’s start with a brief history. Have you been experiencing any current symptoms – anything at all that’s been bothering you, no matter how minor?
+PATIENT: Hmm… not really? I mean, sometimes my back gets a little sore from work, but that’s… normal, I think. I build things. Lots of bending and lifting. Nothing I can’t handle, usually. Does that count as a symptom? I don’t really… feel sick, if that makes sense.
+DOCTOR: "Sore" is subjective, Ms. Bonck. Where exactly is the soreness?
+PATIENT: Um… mostly lower back. Kinda… all across it, really. It gets worse if I’m on my feet all day, or if I twist a lot. Like, when I'm trying to get under something to fix it. It’s not… sharp pain, more of a dull ache. Sometimes it feels a little stiff, too. I usually just take a break and it gets better.
+DOCTOR: And how long has this been occurring?
+PATIENT: Oh, gosh. A while now? I don’t know, exactly. Probably… since I started working more regularly? Maybe a year? It comes and goes, so it's hard to remember when it started, exactly. I just… deal with it.
+DOCTOR: Very well. Let’s move on. Any other medical conditions I should be aware of?
+PATIENT: Um… not that I know of? I mean, I haven't been to a doctor in… a long time. Before this, I mostly just stayed home. My husband said I was fine. He always took care of things like that. I don’t think I have anything… serious? I really don't remember getting diagnosed with anything.
+DOCTOR: And your family history?
+PATIENT: Oh… family history. Uh… my mom was… she had a lot of headaches, I think. And my dad… he worked with his hands a lot, like me. I don’t think either of them had anything bad, really. They both just… got old, I guess? I’m not sure. We didn't really talk about health stuff much.
+DOCTOR: And any allergies to medications, food, or anything else?
+PATIENT: Hmm… not that I know of. I can eat pretty much anything. And I haven’t taken any medicine in… a long time. Not since, like, a cold a few years back. Maybe? I don’t think I’m allergic to anything. My husband always checks, though.
+DOCTOR: Are you currently taking any medications, prescription or over-the-counter?
+PATIENT: No, sir. Nothing. I told you, I haven’t taken anything. Just… nothing. I don’t really like taking pills if I can avoid it. I’d rather just… rest if I need to.
+DOCTOR: Very well. Let’s proceed with a brief physical examination. It will be… limited, given your… lack of specific complaints. Please step onto the scale.
+PATIENT: Okay. Is that… is that all you need to know? It feels like you’re… frustrated with me?
+DOCTOR: Your weight is noted, Ms. Bonck. Now, height please. And no, I am not “frustrated.” I simply require a complete medical history. It is... standard protocol.
+PATIENT: Oh. Um… I’m not very tall. I think… five foot two? Maybe five foot three? It's hard to remember exactly. My husband always knows. He measured me once, a long time ago.
+DOCTOR: Adequate. Now, let's listen to your heart and lungs. Please remove your shirt and bra.
+PATIENT: Oh… Um… do I have to? I… I don’t really understand why. Is that really necessary? I just came for a check-up.
+DOCTOR: It is a standard component of a physical examination. It allows me to assess your overall health, even in the absence of specific complaints. Unless you have a medical reason preventing it, I require you to disrobe from the waist up. Now.
+PATIENT: Okay… Is this going to take long? I… I don’t really like being cold.
+DOCTOR: Heart sounds are regular. Lungs are clear to auscultation bilaterally. Adequate. Now, please lie on the examination table. I will palpate your abdomen.
+PATIENT: Okay… Is it going to hurt?
+DOCTOR: Abdomen is soft, non-tender, non-distended. Bowel sounds are present in all four quadrants. Adequate. Now, please sit up. I will briefly assess your neurological function.
+PATIENT: Okay. What does that… involve? I don’t really like surprises.
+DOCTOR: I will test your reflexes and strength. It is a simple procedure. Please extend your arms. Reflexes are 2+ bilaterally. Strength is 5/5 bilaterally. Adequate. Now, stand up.
+PATIENT: Is… is that it? I feel a little cold. And… confused. What did you find? Is something wrong?
+DOCTOR: Your physical examination was unremarkable. You appear to be in generally adequate health, despite your… lack of clarity regarding your medical history. I recommend maintaining a healthy lifestyle, including regular exercise and a balanced diet.
+PATIENT: So… I don’t need any tests? Or medicine? I just… came to get set up. Is there a form I need to sign or something? And… will I need to come back?
+DOCTOR: No specific tests are indicated at this time. You are up to date on all routine screenings. Here is a summary of your visit. I recommend returning for a follow-up appointment in one year. Do you have any further questions?
+PATIENT: Um… I don’t really understand what most of this says. And… I still don't really understand why I came. Just to get set up? Is that all? And… will my husband need to come with me next time?
+DOCTOR: Look, Ms. Bonck. You came for a Medicare baseline assessment. It is a standard procedure. You appear to be healthy. If you wish to bring your husband to future appointments, you may. Now, is there anything else?
+PATIENT: No… I guess not. Thank you, sir.
+DOCTOR: Goodbye.

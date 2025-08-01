@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Ms. Kilton. I'm Dr. Kur. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor Kur. It is nice to meet you. I have been… how you say… wheezing. It makes it hard to breathe sometimes. It has been happening for maybe… one week, I think?
+DOCTOR: Okay, wheezing, happening for about a week. And is this wheezing constant, or does it come and go?
+PATIENT: It comes and goes, yes. Not all the time. When I walk fast, it gets worse. And… sometimes at night when I lie down. It is not good. I feel… tight in my chest.
+DOCTOR: So it’s worse with exertion, like walking, and when you're lying flat. And you feel tightness in your chest... Is that tightness a pain, or more of a… pressure?
+PATIENT: Hmm… not really pain. More like… heavy. Like someone is sitting on my chest, maybe? It is hard to explain. Not sharp pain, no. Just… heavy and makes it hard to take a big breath.
+DOCTOR: Okay, heavy feeling, difficulty taking a deep breath. And does anything relieve it?
+PATIENT: Relieve it…? Let me think. When I sit up, it is better. And… if I use my little blue puff… the one the other doctor gave me a long time ago. That helps a little. Not much, but some.
+DOCTOR: So sitting up helps, and the blue inhaler provides some relief… I see. And how often have you been using that inhaler?
+PATIENT: Oh, not very often, Doctor. Maybe… two times this week? I try not to use it too much. I did not want to get used to it. The other doctor… he said too much is not good.
+DOCTOR: Right. Well, sometimes we need to use them as needed. Now, have you had a fever, cough, or any swelling in your ankles or feet recently?
+PATIENT: No fever, Doctor. And… a little cough, yes. Not much. Just a small cough. And no swelling. My feet are okay. I check them every day.
+DOCTOR: Good. Any history of… heart problems, or lung problems, Ms. Kilton?
+PATIENT: Lung problems… not that I know of. When I was young, I had some sickness… but I do not remember what. The doctor fixed it. Heart… I think my husband… he had heart problems, but I did not.
+DOCTOR: Alright. And do you smoke, or have you smoked in the past?
+PATIENT: No, Doctor. Never. I do not like smoking. It smells bad, and it is not good for you. My mother… she always told me not to smoke.
+DOCTOR: Good. Now, I'm going to listen to your lungs and heart, if that's alright with you. Could you please take a deep breath in and out?
+PATIENT: Yes, that is fine. I will try to breathe deep.
+DOCTOR: Okay, take a deep breath… and exhale. Again… good. And one more… alright. I do hear some wheezing in your lungs, as you described. Your heart sounds regular, but a little fast. I also notice some mild swelling in your ankles. Do you notice that yourself?
+PATIENT: Yes, sometimes I notice a little bit of… puffiness. But I thought it was just from being on my feet too long. I like to garden, you see. Lots of walking.
+DOCTOR: Gardening... alright. Now, I’d like to check your oxygen level with this little clip on your finger. Just hold still for a moment. Hmm. Your oxygen is a little low, at 92%. That, combined with the wheezing and low-grade ankle swelling, suggests your breathing issue could be related to some mild congestive heart failure exacerbating your asthma, or COPD. It could also be pneumonia. It’s not an emergency right now, but it does need to be investigated.
+PATIENT: Congestive… what did you say? My heart? Oh dear. I thought it was just getting old. And… asthma? I never had asthma before. I am a little scared, Doctor.
+DOCTOR: It's alright to be scared, Ms. Kilton. It doesn’t necessarily mean you have those conditions. We need to do some tests to find out what’s going on. Congestive heart failure simply means your heart isn’t pumping as efficiently as it should, which can cause fluid to build up in your lungs and ankles. And sometimes, conditions can develop later in life. We’re going to get a chest x-ray and do a blood test. This will help us rule things out and get you the correct treatment. I'm going to order those now, and then we'll schedule a follow-up appointment to discuss the results. Does that sound acceptable?
+PATIENT: X-ray… and blood test. Yes. That sounds… okay. If it will help me breathe better, then yes, I will do it. I trust you, Doctor. And… how long will it take? I have to get home to water my tomatoes. They need me.
+DOCTOR: Of course. We’ll get you set up for those tests right away. The x-ray will only take a few minutes, and the blood test will be quick as well. The results usually take 24-48 hours to come back. We'll call you with the results as soon as we have them. In the meantime, I’m going to increase the dosage of your blue inhaler. Use it every four hours, even if you're not wheezing. And if you start feeling significantly worse – severe shortness of breath, chest pain – go to the nearest emergency room immediately. Understand?
+PATIENT: Every four hours… even when I do not wheeze. And more, if I feel… bad. Yes, I understand, Doctor. Thank you. I will be very careful. And… you will call me, yes? About the tests?
+DOCTOR: Absolutely, Ms. Kilton. We will call you as soon as we have the results. And if you don't hear from us within 48 hours, please call the office to check on the status. Now, let me write up the orders for the tests and the inhaler prescription. Is there anyone who can help you get home, or are you driving yourself?
+PATIENT: I drive myself, Doctor. But… my grandson, he lives nearby. I can call him if I need a ride. He is a good boy. But I will try to drive, if I feel okay.
+DOCTOR: Alright, Ms. Kilton. Just be mindful of how you're feeling. And please, don't hesitate to ask your grandson for help if you need it. Here’s the paperwork for the x-ray and blood tests, and a new prescription for your inhaler. The nurse will be in shortly to go over everything with you. Do you have any other questions for me at this time?
+PATIENT: No, Doctor. I think that is all. You have been very helpful. I feel a little better knowing what is happening, even if it is… a little scary. Thank you.
+DOCTOR: You're very welcome, Ms. Kilton. We'll do everything we can to get you feeling better. Please don’t hesitate to call if anything changes. Have a good day, and take care of those tomatoes. .

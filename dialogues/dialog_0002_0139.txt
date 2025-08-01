@@ -1,0 +1,31 @@
+DOCTOR: Hi Yamir, good to meet you. I'm Dr. Ranjan. So, what brings you in to see me today?
+PATIENT: Uh, hello Doctor. Yes, hello. I need… check for referee. For fitness. Is okay? I need paper say I good for work. For games.
+DOCTOR: Okay, I understand. You need a physical exam, a check-up, to make sure you're fit for work – specifically for games, and you need a note for your employer. Is that right?
+PATIENT: Yes. Exactly. Need note. Fast. Games start soon. Is important.
+DOCTOR: Okay, we can definitely get that sorted for you. To help me get a good picture of your overall health, I'm going to ask you a few questions. Then I'll do a quick physical exam. Does that sound good?
+PATIENT: Yes, okay. Quick is good. I have… things to do.
+DOCTOR: Great. Let’s start with your medical history. Have you been diagnosed with any medical conditions – anything at all, like asthma, diabetes, high blood pressure, or anything else?
+PATIENT: Uh… no. Not really. I mean, I had… the flu, maybe? Long time ago. Nothing doctor ever… write down. My wife… she took care of me when I sick. But… she is gone now. So… no doctor for a long time.
+DOCTOR: Okay, I understand. So, no ongoing medical conditions that you're aware of. And you haven't seen a doctor regularly for a while. That's perfectly alright. Have you ever had any surgeries or been hospitalized for anything?
+PATIENT: No surgery. Never. Hospital… once. Long time ago. Car… small accident. Not bad. Just… check. Stay one night. That is all. Nothing broken.
+DOCTOR: Okay, good to know. And what about your family?
+PATIENT: Family? Uh… my mother… she is old. Lives in China. I don't see her much. She… okay, I think. She always says she is okay. My wife… she is… gone. No kids. No other family here. Is… hard to talk about. Sorry.
+DOCTOR: I understand, Yamir. You don’t need to apologize at all. It's okay to take things at your own pace. Knowing a little about your family health history can sometimes be helpful, but it’s not a problem if you don’t have that information. Let’s move on to something else then. Do you have any allergies – to medications, food, pollen, anything like that?
+PATIENT: No allergies. I eat everything. I… used to eat with my wife. She liked… spicy food. I don't think I am allergic to anything. Never had problem.
+DOCTOR: Okay, that's good. And are you currently taking any medications – prescription or over-the-counter?
+PATIENT: No. Nothing. I don't like… pills. I only take… vitamins sometimes. When I remember. Not every day. Just… to feel better.
+DOCTOR: Okay, no regular medications. That's helpful to know. Now, before we do the physical exam, could you tell me a little bit about what your job involves?
+PATIENT: I… fix things. For sports. Like… the floor in basketball. Or… the net in volleyball. When they break, I make strong again. Is… hard work. Lots of bending. And lifting. Sometimes hot. Sometimes cold. Is… okay. I like fixing things.
+DOCTOR: Okay, so you do physical repair work for sports facilities – bending, lifting, working in different temperatures. That gives me a good idea. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No. No smoke. No drink. No… those things. Never liked them. My wife… she didn't like them either. Is… bad for health. I try to be healthy. For… everything.
+DOCTOR: Okay, that’s great. Alright, Yamir, let’s move on to the physical exam. I'm just going to listen to your heart and lungs, check your blood pressure, look in your ears, and take a quick look at your overall condition. Is that alright with you?
+PATIENT: Yes. Okay. Quick is good, remember? I have… games to think about. Is hot today, yes?
+DOCTOR: Yes, it is hot today. And I will be as quick as possible. Okay, just relax your arm for me. Blood pressure is 128/78, that's within the normal range. Now, let's listen to your heart. Heart sounds are regular. Lungs sound clear. Ears look clear. Now, I’m going to check your reflexes. Reflexes are normal. And finally, I'll just do a quick range-of-motion check. Can you bend forward and touch your toes?
+PATIENT: Oof. Like this? Is… not so easy. I do this all day, but… bending is hard. Old back, maybe? Not broken, but… feels it. I can do it, though. Just… slow.
+DOCTOR: Okay, I see. A little stiffness, but nothing alarming. And can you squeeze my hands?
+PATIENT: Like this? Strong. I fix things, remember? Need strong hands. Is good grip. Not weak.
+DOCTOR: Yes, you have a very good grip. Alright, Yamir, that completes the physical exam. Everything looks generally good. You seem to be in reasonably good health for the type of work you do. I did notice some stiffness in your back, so it's important to be mindful of that and lift properly. Based on this exam, and the information you’ve given me, I don’t see any reason why you shouldn’t be able to continue your work. Would you like me to write a note for your employer stating that you are fit to work?
+PATIENT: Yes! Please! That is… important. Very important. Games… they depend on me. Fast, please? Thank you, Doctor. Thank you very much.
+DOCTOR: Absolutely. Here you go. This note states that you've had a physical exam on August 2nd, 2025, and are deemed fit to perform the physical demands of your job. It also recommends proper lifting techniques and being mindful of your back. Is there anything else I can do for you today, Yamir?
+PATIENT: No. That is all. Thank you again, Doctor. You are very kind. I need to go now. Games… waiting. Goodbye.
+DOCTOR: .

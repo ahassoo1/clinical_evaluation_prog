@@ -1,0 +1,6 @@
+DOCTOR: Good morning, Mr. Trendler. It’s nice to meet you. I’m Dr. Renzi. So, what brings you in to see me today?
+PATIENT: Hmph. Good morning to you too. Look here, Doctor, I ain't got all day. I come 'bout... well, lookin’ in the mirror these days just ain’t pleasant. Everything’s droopin’ and saggin’. I want somethin’ done 'bout it. And quickly, if you please.
+DOCTOR: Alright, alright. I understand you’re concerned about some changes you’ve noticed in your appearance. “Droopin’ and saggin’,” you say. Is this something that’s developed recently, or has it been a gradual process over time?
+PATIENT: Gradual? Good heavens, man, I've seen more rapid changes in the weather! It’s been… oh, I don't know... a good five, maybe ten years now. Slow, but steady. Used to be a strong lookin’ man, you know. Pile drivin’ is hard work. Builds ya up. Now… well, now it’s all comin’ down. Don't need a lecture on gettin' old, neither. Just want it fixed.
+DOCTOR: <stage>I chuckle softly, scribbling on my chart. A pile driver, huh?
+PATIENT: So, when you say “fixed,” what exactly are you hoping for? Are we talking about tighten things up a bit, or somethin’ more… involved? And where are you most concerned about these changes? Face? Neck? Elsewhere? Be specific, if you can. I need to know what bothers you the most. Don't want to waste time on things that don't matter.

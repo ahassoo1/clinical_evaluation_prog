@@ -1,0 +1,28 @@
+DOCTOR: Alright, Mr. Grumman, have a seat. Fifty-two, is it?
+PATIENT: Yes. Fifty-two. And… a good fifty-two, I might add. Not like some people. So, you say you’re tired? What kind of tired is it? There are many kinds, you know.
+DOCTOR: Yes, well. I am a doctor, Mr. Grumman, I believe I'm aware there are 'many kinds' of tiredness. But you telling me what kind it is isn't helpful. Is it a physical tiredness?
+PATIENT: Physical, yes. Very physical. Like… like the sun took all my strength. It’s not just… sleepy. It’s… heavy. Everything feels heavy. Even talking. And my stomach… it doesn’t feel right either. Not always, but often.
+DOCTOR: Heavy… right. And how long has this ‘heavy’ feeling been going on?
+PATIENT: Oh, a long time now. Months, certainly. Maybe… six months? More? It comes and goes. Some days it’s… manageable. Other days… I just want to lie in bed. It's hard to keep track. I don't write things down. Things just are.
+DOCTOR: Six months of… something being ‘just ared’. Very helpful. Does anything make it better?
+PATIENT: Better? Not really. Maybe… resting. But then I feel… weak. Like an old man. And food… sometimes food helps. Sometimes it makes it worse. It’s very confusing. You see? It doesn't make any sense!
+DOCTOR: Well, of course it doesn't make sense. That's why you came to me. Now, let's try to be precise. When you eat, what specifically makes it worse?
+PATIENT: Anything rich. Anything with… fat. Like, the good foods. The tasty foods! Fried things, creamy sauces… even too much meat. It just… sits. And then I feel worse. Very uncomfortable. My wife keeps telling me to eat healthier. As if I don’t know what’s good for me.
+DOCTOR: So, you experience discomfort after consuming foods high in fat. Alright. And what about other symptoms?
+PATIENT: Other… symptoms? Well… sometimes my skin itches. Not all over, just… here and there. And my legs… they feel swollen sometimes. Especially at the end of the day. Not huge, but… noticeable. And I get… angry, easily. My wife says so. She says I have no patience anymore.
+DOCTOR: Swollen legs, itchy skin, irritability… Medicare, you said?
+PATIENT: Yes, Medicare. Best thing ever, honestly. Don’t know what I’d do without it. And yes, the legs and the itch… it’s all connected, isn’t it? That's why I came here, Doctor. You’re supposed to know these things.
+DOCTOR: Alright, Mr. Grumman. Let’s do a quick physical exam, shall we?
+PATIENT: Fine. But don't poke too much. And be gentle. I bruise easily, you know. Old age.
+DOCTOR: Please lie down on the table. I need to listen to your heart and lungs, and then I'll check your abdomen and extremities. And yes, I will be gentle. Now, please, let’s begin. Take a deep breath... and exhale.
+PATIENT: Deep breath… there. Exhale. Is that good enough? My lungs aren’t what they used to be. Spent too much time… working. Not a fancy job, you know. Just… work.
+DOCTOR: Lungs sound… slightly diminished, as you said. Heart rate is regular. Abdomen is… soft, with some mild tenderness in the upper quadrants. No significant masses detected. Now, let’s check your extremities. Hmm… some slight pitting edema in both ankles. And your skin is indeed a bit dry and itchy. Any history of diabetes, Mr. Grumman?
+PATIENT: Diabetes? No. Not that I know of. My wife would have told me. She keeps track of everything, you see. Always fussing about sugar. But no, no diabetes. Just… tired. Very tired. Does this mean anything?
+DOCTOR: Well, Mr. Grumman, the combination of fatigue, weight gain, edema, and abdominal discomfort… suggests a possible issue with your liver function, and potentially some early signs of insulin resistance. It's not a definitive diagnosis, mind you, but it warrants further investigation. I'm going to order a complete blood panel, including a liver function test and a fasting glucose level. We'll also need to check your lipid profile.
+PATIENT: Liver? Liver problems? I don't drink much! Maybe a glass of wine with dinner sometimes… but nothing excessive. My father, he… he had problems with his stomach. But not his liver. Is this… serious, Doctor?
+DOCTOR: It could be, Mr. Grumman. We need to determine the cause of these elevated liver enzymes and assess your overall metabolic health. It's not necessarily a dire situation, but ignoring it won’t make it go away. I’ll also order a basic metabolic panel. I will need a urine sample as well. The lab is just down the hall. And I suggest you schedule a follow-up appointment for when the results are available. Next week, perhaps?
+PATIENT: Fine. Urine sample. Next week. Just… more tests. This is what my wife always says. Always something. And what am I supposed to do in the meantime? Just… be tired?
+DOCTOR: For now, try to follow a relatively low-fat diet. Avoid fried foods, creamy sauces, and excessive amounts of red meat. And try to get some moderate exercise, if you're able. Nothing strenuous. Walking is good. And… try to reduce your stress levels. I know that’s easier said than done, but it’s important. I’ll have the nurse give you a list of dietary recommendations and some information about managing stress. Now, are there any other concerns you'd like to discuss before you go?
+PATIENT: Stress? My stress comes from going to doctors and getting more tests! No. No other concerns. Just… get it over with. I want to go home.
+DOCTOR: Very well, Mr. Grumman. The nurse will be in shortly to collect your urine sample and provide you with the necessary instructions. She will also schedule your follow-up appointment. Please try to adhere to the dietary recommendations, and I’ll see you next week. .
+PATIENT: Fine. More tests… always more tests…

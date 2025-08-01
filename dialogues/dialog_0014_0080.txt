@@ -1,0 +1,22 @@
+DOCTOR: Alright, Ms. Fabing. Have a seat. So, what brings you in today?
+PATIENT: Oh, hi Dr. Osterholm. Just need to get some forms filled out, really. Medicare sent me a notice saying I needed to update some things. Nothing's wrong, thankfully.
+DOCTOR: Right, paperwork. Always paperwork. Though, you did schedule an appointment, so I do like to at least briefly go over things. It's good practice, you know. Even if everything seems fine. Just to be thorough. Now, is there anything at all—and I mean anything—that’s been bothering you, even a little?
+PATIENT: Well, now that you mention it… my back’s been a little stiff lately. Mostly just when I’m bending over, doing work stuff. It’s not terrible, and it usually works itself out, but it’s been happening more often the last few weeks. Is that something I should put on a form? I don’t usually bother with little things.
+DOCTOR: "Little things" can become big things, Ms. Fabing. That's why we're here. Okay, "back stiffness." How long exactly has this been going on?
+PATIENT: Hmm… let me think. Probably… a month or so? Maybe a little longer. It comes and goes, like I said. It’s worse after a long day at a job site, bending and twisting to get valves in. Not constant pain, just…aches when I move a certain way. Does that make sense?
+DOCTOR: Valves, right. Physical labor. And where exactly is the stiffness?
+PATIENT: Mostly in my lower back, right around my…well, the small of my back, I guess you’d call it. Sometimes it feels like it radiates a little down my hips, but not all the way down my legs or anything. It's not sharp, just…sore. I'm probably making a big deal out of nothing, honestly.
+DOCTOR: "Probably." Right. Well, let's have you lie down on the exam table. I'll just take a quick look. It's good to rule things out. Don’t strain yourself getting up there.
+PATIENT: Okay, sounds good. Just let me know if you need me to move a certain way. This old body doesn’t bend like it used to!
+DOCTOR: Alright. Lie flat for me. Okay… a little tenderness there, as you said. Can you point to the exact spot that hurts the most?
+PATIENT: Right about there. It’s not always right on that spot, but that’s where it usually starts. And if I push on it too hard, it definitely gets worse. Just a dull ache, though, not like a stabbing pain.
+DOCTOR: Okay, now can you bend forward and touch your toes?
+PATIENT: Whoa, hold on a sec. That's… not as easy as it used to be. It's mostly in my back, but I can feel it a little in my hamstrings too. Definitely feels tighter going forward. I can do it, but it's not comfortable.
+DOCTOR: Alright. And can you twist to the right and then to the left?
+PATIENT: Okay… twisting is a little stiff too, especially to the right. Feels like something’s…catching, maybe? Not a sharp pain, but definitely not smooth. I'm not getting any younger, that’s for sure.
+DOCTOR: "Not getting any younger." A classic symptom, Ms. Fabing. It seems you have some muscle strain, likely exacerbated by your work. We can get some x-rays just to rule out anything more serious, though I suspect it's nothing of concern. We'll also talk about some physical therapy exercises. But frankly, I think avoiding heavy lifting when possible is your best bet. Do you have any idea what triggered this to start?
+PATIENT: Hmm… triggered? I don’t know if I did anything specific. Just… a lot of bending and lifting at the Peterson job site last month. We were installing some pretty big valves, and the space was tight, so I was twisting a lot. It’s just… a normal day at work, really. I didn’t fall or anything. Probably just overdid it.
+DOCTOR: "Probably." Right. Well, let’s get those x-rays ordered. The technician is down the hall, room three. They’ll give you instructions. Then we can discuss some over-the-counter pain relievers while you’re waiting. Ibuprofen, naproxen – things like that. But don’t exceed the recommended dosage, understand?
+PATIENT: Okay, sounds good. X-rays first. I think I can find room three. And yeah, I always try to stick to the directions on the bottle. No need to mess with things more than they already are. Thanks, Dr. Osterholm.
+DOCTOR: Very well. Go ahead. And try not to strain yourself on the way. I’ll be in the office if you have any questions. Or, more likely, if I have questions about the x-ray results.
+PATIENT: Okay, will do. Thanks again.

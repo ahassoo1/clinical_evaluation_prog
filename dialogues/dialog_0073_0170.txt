@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Putney. I’m Dr. Korrell. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just here for a life insurance thing. They need me to get checked out, you know, medical stuff for the policy. I’d like to get it over with as quick as possible if we could.
+DOCTOR: Right, a life insurance exam. Understandable. Well, we’ll do our best to be efficient. It's a fairly standard check-up, though we will need to cover some basics. Let’s start with your medical history. Have you had any significant illnesses or hospitalizations in the past?
+PATIENT: Hmm… significant? Not really, I don’t think so. I had the flu a couple times, like everyone does. And when I broke my wrist a long time ago… maybe ten years ago? Needed a cast, but that’s about it. Nothing major, Doctor. I’ve been pretty lucky, I guess.
+DOCTOR: Okay. And any surgeries, Mr. Putney?
+PATIENT: No surgeries. Never had one. Nope.
+DOCTOR: Alright. And what about your family?
+PATIENT: Family… uh. My dad had some heart trouble when he got older, I think. He passed away a few years back. Mom's still around, she's 78, doing okay for her age, mostly just aches and pains. Nothing too serious on her side either, as far as I know. It’s been a while since we talked about it, to be honest.
+DOCTOR: Heart trouble in your father, okay. And you said your mother has aches and pains… any specific conditions diagnosed?
+PATIENT: No, not really diagnosed. Just… old lady stuff, you know? Arthritis maybe? She complains about her knees and back a lot, but she doesn’t really go to the doctor much. Says it won’t help.
+DOCTOR: I see. Alright. Now, let’s talk about your habits. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no, and definitely no. Never been a smoker. I have a beer maybe once a month with dinner, but that’s it. And I don’t… I don’t do any of that other stuff. Never have.
+DOCTOR: Good. And are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: Nope. Just a multivitamin sometimes, but that's about it. Nothing a doctor prescribed, nothing regular. Is this gonna take much longer?
+DOCTOR: Almost through with the initial questions, Mr. Putney. Just a few more. Do you have any allergies to medications, foods, or anything else?
+PATIENT: Nope, none that I know of. I eat pretty much anything. Never had a reaction to anything. I'm pretty tough.
+DOCTOR: Alright. Now, I’m going to need to do a brief physical exam. Just listening to your heart and lungs, checking your blood pressure, and feeling your abdomen. Is that alright?
+PATIENT: Yeah, sure. Whatever you gotta do. Just… try to be quick, please? I got things I need to get back to.
+DOCTOR: Very well. If you could just sit back and relax… or as relaxed as possible. Your heart rate is a little elevated, but that could be due to anxiety… or caffeine. Blood pressure is 142/90. A bit higher than optimal. Abdomen is soft, no tenderness. Lungs are clear. Given your blood pressure reading, and your father's history of heart trouble, I'd like to order a basic lipid panel and a complete blood count just to get a baseline. Also, an EKG wouldn't be a bad idea.
+PATIENT: Wait, wait, wait… tests? I thought this was just a quick checkup for the insurance? I didn’t want to have to do a bunch of tests. Are you saying something’s wrong? I just need a form signed, right? To get the policy?
+DOCTOR: Mr. Putney, it’s standard practice to gather some basic information when evaluating someone for life insurance. It doesn't necessarily mean something is wrong. These tests will give us a clearer picture of your overall health, especially given your slightly elevated blood pressure and family history. It’s a precaution, nothing more. The insurance company may require them as well. An EKG is a simple, non-invasive test to check your heart’s electrical activity. The blood tests are standard… cholesterol, blood count, that sort of thing. We can do them right here in the clinic. It will take about 30 minutes. Are you refusing the tests?
+PATIENT: Ugh. Fine. Whatever. Thirty minutes, you said? But if they try to raise my rates because of this, I'm blaming you. Just… get it over with. And make it fast.
+DOCTOR: Very well. The nurse will be in shortly to draw your blood and perform the EKG. I’ll review the results as soon as they are available and discuss them with you. In the meantime, I would advise you to reduce your salt intake and increase your physical activity. It's always a good idea, regardless of the test results.
+PATIENT: Okay, yeah, whatever you say. Salt and exercise. Got it. Can I at least sit down somewhere else while I wait for the nurse? This chair isn't very comfortable. .
+DOCTOR: You may wait in the waiting room. The nurse will call your name. .

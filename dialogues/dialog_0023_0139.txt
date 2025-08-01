@@ -1,0 +1,40 @@
+DOCTOR: Good afternoon, Mr. Shanor. I’m Dr. Versace. So, tell me, what brings you in to see me today?
+PATIENT: Uh, hello Doctor. I… need check for referee. For sports. I want to be sure I’m okay to… run around. They say I need this evaluation.
+DOCTOR: A referee evaluation… right. So, you need a physical to become a sports referee?
+PATIENT: Yes. Exactly. I do basketball, mostly. Sometimes volleyball. But… mostly basketball. I need to know if I’m strong enough. My wife… she would want me to be careful.
+DOCTOR: I see. Well, “strong enough” is a rather vague term. Let’s start with a more thorough history, shall we?
+PATIENT: Okay. History… What you want to know? I… not very good at explaining things.
+DOCTOR: Let’s begin with your current symptoms. Are you experiencing any pain, shortness of breath, dizziness, or any other discomfort at all?
+PATIENT: No… not really. Sometimes my knees a little achy. Old injury, from… a long time ago. But I can still run. And jump. A little. Not as high as before.
+DOCTOR: “A little achy,” you say. And how long have your knees been bothering you, specifically?
+PATIENT: Uh… maybe five years? Six? It comes and goes. When it’s cold, it’s worse. And after a lot of running. But I take… something. A pill. For the pain.
+DOCTOR: What pill are you taking for the pain, Mr. Shanor?
+PATIENT: I… don’t remember the name. It’s… white. Small. My wife… she always got it for me. After she… passed, I just keep getting what’s in the bottle. I don’t really look.
+DOCTOR: You’ve been taking a pain medication, continuously, for five or six years, and you do not know what it is?
+PATIENT: Uh… yes. That sounds right. Is that bad? I… I don't pay attention to those things. My wife handled all the pills. I just… took them when my knees hurt.
+DOCTOR: It is problematic, Mr. Shanor. We need to identify that medication. Do you have the bottle with you?
+PATIENT: No. I… left it at home. I only brought what I needed for the check-up. I didn’t think… I didn't think I needed the bottle.
+DOCTOR: Alright. Well, we’ll need to proceed cautiously. Let's move on to your past medical history then. Have you been diagnosed with any medical conditions – diabetes, high blood pressure, heart problems, anything at all?
+PATIENT: No. Not that I know of. My wife always took me to the doctor. She said I was… okay. Just a little… out of shape.
+DOCTOR: And have you ever had any surgeries, Mr. Shanor?
+PATIENT: No surgery. Never. Just… a broken arm when I was little. From climbing a tree. That’s it.
+DOCTOR: Alright. And your family history – are there any significant medical conditions that run in your family?
+PATIENT: Uh… my mother had… something with her heart, I think. She… she passed away when I was young. My father… he was always healthy. Very strong. He lived a long life.
+DOCTOR: Any history of diabetes, high blood pressure, or cancer in either parent, Mr. Shanor?
+PATIENT: I… don’t know. I never asked. We didn't really talk about those things. My wife… she would ask the doctor, and then tell me what I needed to know. I’m sorry. I’m not very helpful.
+DOCTOR: Mr. Shanor, with all due respect, you are presenting with a concerning lack of knowledge regarding your own medical history. This makes providing a proper assessment extremely difficult. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No! No smoking, no drugs. Maybe… a beer sometimes. With friends. Not very often. Just… when we watch basketball. My wife… she liked to have a glass of wine, sometimes.
+DOCTOR: Alright. Let’s proceed with a physical examination. Please step onto the examination table. I'm going to listen to your heart and lungs, check your blood pressure, and assess your knee range of motion. Then we’ll discuss next steps. Please remove your shoes and socks.
+PATIENT: Okay. Okay, Doctor. I will.
+DOCTOR: Alright. Lie back, please. First, let's listen to your heart. Heart sounds are… regular, but slightly rapid. No murmurs detected. Now, let’s check your blood pressure. 140 over 90. Elevated. Now, let’s assess your knees. Can you bend them fully?
+PATIENT: Ouch… that’s a little sore. I can bend them… but not all the way. It’s… stiff. It feels better when I stand up.
+DOCTOR: There is tenderness over the medial joint line of both knees. Range of motion is limited, approximately 90 degrees flexion bilaterally. Slight crepitus noted with movement. Now, can you stand up and walk a few steps for me?
+PATIENT: Okay. Like this? It feels… okay, but my left knee… it clicks sometimes.
+DOCTOR: Yes, exactly like that. I do notice a slight antalgic gait, favoring your left leg. You have limited extension and flexion in both knees. Mr. Shanor, based on this limited examination, it is concerning. I recommend we order some imaging – X-rays of both knees to assess for osteoarthritis. We also need to get a complete blood panel to assess your overall health. And most importantly, we need to identify the pain medication you are taking. I'm also referring you to a physical therapist for evaluation and strengthening exercises.
+PATIENT: Okay… Okay, Doctor. That’s… a lot. But… if you think it’s best. I just… want to be able to referee. I don't want to cause any trouble. Can you… help me remember what the pills look like? Maybe draw it?
+DOCTOR: Mr. Shanor, I'm not going to draw a pill. I need you to recall the details of a medication you’ve been taking for years. But, I can give you a description. It’s small, white, and pill-shaped, you said?
+PATIENT: Yes. Small, white… like a little bean. Maybe. Not very big. I think it has a line on it? A small line… down the middle. But… I’m not sure. Everything is a little blurry, I guess.
+DOCTOR: Mr. Shanor, I’m growing increasingly concerned about your lack of familiarity with your medical history and current medications. I strongly urge you to contact your primary care physician immediately to obtain a comprehensive medical record. Until then, I recommend you refrain from refereeing or engaging in any strenuous activity. I will order the X-rays and blood work as discussed. Do you have any questions at this time?
+PATIENT: No… I don't think so. Thank you, Doctor. I guess… I’ll try to find out about the pills. I don't want to cause any problems.
+DOCTOR: Very well. My nurse will be in shortly to draw your blood and provide instructions for the X-rays. Please schedule a follow-up appointment once you have the results. And again, I strongly advise you to contact your primary care physician. .
+PATIENT: .

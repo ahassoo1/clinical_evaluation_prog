@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Lucia. Welcome to the clinic. I’m Dr. VODZAK. It’s nice to meet you. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um... I keep... belching. It’s a little embarrassing, but it’s happening a lot. Like, more than usual.
+DOCTOR: Okay, belching. And you say it’s more frequent than usual. Can you tell me a little more about that?
+PATIENT: Yes. Usually, I maybe belch after I drink soda, you know? Or eat too fast. But now... it happens even when I’m not doing those things. Sometimes just sitting here! It doesn’t hurt, it’s just… annoying. And people look.
+DOCTOR: I understand. It is unsettling when something changes like that, and it’s perfectly reasonable to feel self-conscious. So, it's happening even when you haven’t eaten anything recently or had a carbonated drink?
+PATIENT: Yes, exactly! Like, yesterday, I was just reading a book on the couch, and poof – a big belch. It was quiet, but I still felt my face get red. And this morning, before breakfast… same thing. It’s not a little one, either. It’s… a good one.
+DOCTOR: Okay, so spontaneous, noticeable belching, even when resting. Has anything else changed recently?
+PATIENT: Hmm… let me think. Not really. I mean, work is the same. I’m still at the factory, checking the machines. I haven’t started any new foods or anything like that. Maybe… I have been a little more stressed lately? My cousin is visiting from Cuba and… well, she’s a lot.
+DOCTOR: Okay, so potential increase in stress levels with your cousin visiting. Stress can definitely manifest in physical ways. Let’s talk a little more about this. Do you experience any other symptoms along with the belching?
+PATIENT: No, not really. No pain. No… burning in my chest. No feeling sick to my stomach. Just… the belching. Sometimes I feel a little… full, even if I haven’t eaten much. But that might be because I’m worried about belching, so I don't want to eat a lot!
+DOCTOR: That’s good to know – no associated pain or heartburn. And it’s understandable that worry could affect your appetite. Now, could you tell me a little bit about your medical history?
+PATIENT: Um… not much. I don’t really go to the doctor much. I had the flu once, a long time ago. And… I broke my arm when I was a little girl, but that healed fine. I don't have any… big problems. I don't take any pills, or anything like that.
+DOCTOR: Okay, so generally good health, no chronic medical conditions, no medications. Have you ever had any surgeries?
+PATIENT: No, never any surgeries. Nothing like that. My mama always said I was too healthy to need them!
+DOCTOR: Alright. And what about your family?
+PATIENT: Um… my mama is okay, she’s got a little arthritis in her hands, but she's doing good for her age. My papa… he passed away a few years ago. And I have one brother, he lives in Havana. He’s healthy, too, as far as I know. No one in my family has… problems with their stomach, or anything.
+DOCTOR: Okay, no significant family history of gastrointestinal issues. Are you allergic to anything – medications, foods, environmental factors?
+PATIENT: No, I don't think so. I've never had a bad reaction to anything. I eat lots of different foods, especially when my cousin visits and cooks!
+DOCTOR: Alright, good to know. Now, let's get a little more information about your lifestyle. Do you smoke?
+PATIENT: No, never. I don't like smoking. My papa smoked, and it wasn't good for him.
+DOCTOR: Okay, good. How about alcohol consumption?
+PATIENT: I drink sometimes, with dinner. Maybe a glass of wine, a couple of times a week. Not much more than that.
+DOCTOR: Okay, moderate alcohol intake. And what about your typical diet?
+PATIENT: Well, I try to eat healthy. Lots of rice and beans, chicken, fish. My cousin likes to make big meals, lots of pork, but I try to have salad too! I don't eat a lot of fast food.
+DOCTOR: Okay, generally healthy diet. Now, I'd like to do a quick physical exam, if that’s alright with you. Just listening to your abdomen and checking for anything obvious. It won’t take long.
+PATIENT: Yes, that's okay. Whatever you think is best, Doctor.
+DOCTOR: Alright, Lucia. Just let me know if anything feels particularly tender. Bowel sounds are present in all four quadrants, normal activity. No masses or tenderness to palpation. Abdomen is soft and non-distended. Everything feels normal to the touch. Based on what you've told me and this exam, it's likely this is related to swallowing excess air, possibly exacerbated by stress and worry. It’s often referred to as aerophagia.
+PATIENT: Aerophagia? What is that? Is it… serious?
+DOCTOR: No, it's not serious. It just means you're swallowing too much air. It can happen when you eat or drink quickly, chew gum, smoke, or even talk a lot while eating. Stress and anxiety can also cause you to swallow more air unconsciously. Often, it resolves on its own with simple lifestyle changes. We can try a few things. First, try to eat and drink slowly. Avoid carbonated beverages and chewing gum. And when you're eating, focus on chewing your food thoroughly. I’d also recommend some strategies for managing stress. Have you considered relaxation techniques, like deep breathing exercises or meditation?
+PATIENT: Okay, that… sounds good. I do talk a lot when I eat, especially with my cousin! And I sometimes drink soda pretty fast. I’ll try to slow down. Relaxation… I don't really know how. Maybe my cousin can teach me? She does a lot of… things.
+DOCTOR: That's a great idea! Sometimes just being mindful of your breathing can help. We can also talk about some resources for stress management, if you'd like. For now, let's focus on the eating habits. I want you to try these changes for a couple of weeks. If the belching doesn’t improve, or if you develop any other symptoms – like abdominal pain, nausea, vomiting, or difficulty swallowing – please come back and see me. Do you have any questions for me right now?
+PATIENT: No, I don’t think so. That sounds good. Just… slow down when I eat, and try not to get so stressed. Okay. Thank you, Doctor.
+DOCTOR: You’re very welcome, Lucia. I’m glad I could help. I’ll document everything we discussed today. Remember, I'm here if you need anything. Do you need a note for work explaining your appointment?
+PATIENT: No, thank you. I don’t think so. I’ll just tell them I was at the doctor. Thank you again, Doctor Vodzak. Have a good day.
+DOCTOR: You’re very welcome, Lucia. You have a good day too, and please don’t hesitate to reach out if you have any concerns.

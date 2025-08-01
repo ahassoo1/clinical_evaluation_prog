@@ -1,0 +1,19 @@
+DOCTOR: Alright, Mr. Putney. So, you’re here today… for what exactly?
+PATIENT: Oh, right. The life insurance thing. They sent me. Needin’ a check-up, I guess, before they… you know, give me the insurance. It’s a bit of a hassle, honestly.
+DOCTOR: Yes, well, these companies… always needing something. Right. A life insurance physical. So, no specific complaints?
+PATIENT: No, not really. Just feelin’ my age, maybe? Little aches here and there, but what 49-year-old doesn't feel that way? I mostly just wanna get this over with, if that makes sense. Is this gonna take long?
+DOCTOR: We’ll try to be brief. Aches and pains… nonspecific. Do you have any trouble breathing?
+PATIENT: Nah, not really. Maybe a little winded if I'm walkin' up a big hill, but I don't do much hill climbin' these days. Mostly just… flat ground walkin'. And no chest pain or nothin' like that. Why, is that somethin' I should be worried about?
+DOCTOR: Just routine. Do you have a history of… let's say, heart problems in your family?
+PATIENT: Um… my grandpa, on my mom’s side, I think he had somethin' with his heart. But he lived a long life, you know? Smoked like a chimney his whole life too. My dad was pretty healthy, I think. Never heard of any heart trouble with him. Does that help? I’m not real good with rememberin’ family medical stuff.
+DOCTOR: Okay. And any allergies to medications?
+PATIENT: Not that I know of. Never had a bad reaction to nothin' the doctors have given me before. I don't take much, thankfully. Just… occasional stuff for a cold, maybe. I try to avoid the doctor when I can, honestly.
+DOCTOR: Alright. Let’s just do a quick physical, then. Blood pressure, pulse… and I’ll listen to your heart and lungs. Sit up, please.
+PATIENT: Okay, sounds good. Hurryin’ up’s fine by me. Just let me know if I need to do anything special. I’m not a fan of doctors, you see. Never have been.
+DOCTOR: Lung sounds are clear. Heart… a little fast, but nothing alarming. A bit of a murmur, but… probably benign. I’ll note that. BMI is… elevated, as expected. 34.1. Do you exercise at all?
+PATIENT: Elevated? Look, I told you I wasn’t real active. Mostly just walkin’ around town, doin’ errands. I used to play basketball when I was younger, but… not anymore. It's hot out, and this town ain’t exactly set up for walkin' everywhere. Plus, I got a job at the hotel. Keeps me pretty busy on my feet, though. Is that enough? I mean, I'm not sittin' around doin' nothin'.
+DOCTOR: Right. Well, we’ll need some blood work. Just standard cholesterol, glucose… and a complete blood count. Rule out anything obvious. The lab is just down the hall. I’ll have the nurse give you the requisition.
+PATIENT: Okay, fine. Blood work. More stickin' and proddin'. Just tell me what I gotta do, and I’ll do it. Hopefully, it won't take too long. Can I eat after this? I skipped breakfast, waitin’ on this whole thing.
+DOCTOR: Yes, you can eat afterward. Avoid anything excessively sugary. The nurse will give you instructions. I'll review the results when they come back, and we'll go from there. Try to drink plenty of water. Next!
+PATIENT: Okay. Water and no sweets. Got it. Thanks… I guess. .
+DOCTOR: .

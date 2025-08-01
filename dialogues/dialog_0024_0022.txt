@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Ms. McConnon. I am Dr. Mutnick. Now, please tell me, what brings you in to see me today?
+PATIENT: Oh, good morning, Doctor. It's… it’s my tummy. It feels… big. And I don’t want much food these days. Not like I used to, anyway. It just… doesn’t feel right. I don’t… I don’t remember exactly when it started, just that it’s been a while.
+DOCTOR: “Big,” you say?
+PATIENT: Yes, big. Like… fuller. It’s hard to explain. It’s not… painful, not really. Just… there. Bigger than usual. I used to be… smaller, you know? Not so round.
+DOCTOR: Right. And you’ve noticed a decreased appetite as well?
+PATIENT: Yes, that’s right. Not much hunger. Everything just… tastes funny, maybe? Or I’m just not… feeling it, you know? Like eating is a job. It’s not like I want to not eat, I just… don’t.
+DOCTOR: And how long would you say this decreased appetite has been occurring?
+PATIENT: Oh dear… that’s a hard one. A while now. Maybe… a few months? Or more? It all… blurs together, you know? Time goes so fast when you're old.
+DOCTOR: Approximately how many months, Ms. McConnon?
+PATIENT: Oh, goodness. Let me think… Maybe… six months? Or seven? It’s hard to be sure. Everything feels… the same lately. I don't really keep track of things anymore. Not like when I was working, always with dates and schedules.
+DOCTOR: Very well. And have you experienced any other changes, Ms. McConnon?
+PATIENT: Other changes…? Hmm. Let me see… I feel… tired, I suppose. More than usual. And sometimes my ankles get… puffy. But that happens sometimes, doesn't it? I don't know if that's… related.
+DOCTOR: Any nausea, vomiting, diarrhea, or constipation?
+PATIENT: Oh my… those are… big words! Let me see… I haven't… thrown up. No. And my… going to the bathroom is… normal, I think. Maybe a little… slow sometimes? But not… bad. No diarrhea, no. Just… slow.
+DOCTOR: Very well. I’m going to need to examine your abdomen, Ms. McConnon. Please lie back on the examination table. And I will need to listen to your heart and lungs as well.
+PATIENT: Oh, alright. It’s a bit high, isn't it? But I think I can manage. Just… slowly.
+DOCTOR: Take a deep breath for me, please. And exhale slowly. Bowel sounds are… present, though somewhat diminished. Any tenderness here, Ms. McConnon?
+PATIENT: No, not really. Just… feels a bit… full, like I said. But not… painful, exactly. It’s just… different. Is something wrong?
+DOCTOR: Your abdomen is slightly distended, as I observed. And there is some… fullness. Your ankles are indeed… puffy. I also note some edema. Now, do you have any history of heart problems, Ms. McConnon?
+PATIENT: Heart problems…? Oh dear… I… I don't think so. Not that I remember. I worked with… with people, you know? Sociologists. Not doctors. I wasn't sick much. A little cold now and then, but… nothing serious. I don’t think I have heart problems.
+DOCTOR: And what about any history of liver or kidney disease?
+PATIENT: Liver… and kidneys…? Oh my. That’s… I don’t even know what those do, really. I worked with people. I studied… how people live together. I didn’t… I didn't study bodies. No, I don't think so. I don't have those… those problems. I hope not.
+DOCTOR: Very well. And are you currently taking any medications?
+PATIENT: Oh… let me see… Sometimes a little… something for my arthritis. It hurts, you know? My hands… But… I don’t remember the name. It’s a little white pill. That’s all I know. Not every day, just when it bothers me.
+DOCTOR: And what about allergies to any medications or foods?
+PATIENT: Oh, allergies… I don't think so. Not that I remember. I eat… mostly anything. Bread, soup, sometimes a little meat. I don't think I'm allergic to anything. I haven't had any… reactions. I don’t think.
+DOCTOR: Given your age and symptoms, and the lack of a clear diagnosis based on this cursory examination, I recommend a complete blood count and a comprehensive metabolic panel. We need to assess your kidney and liver function, as well as rule out any underlying infection. I will also order a urinalysis. Do you have insurance, Ms. McConnon?
+PATIENT: Oh dear… insurance? No. I don’t have any of that. I didn't think I needed it when I was younger. It’s… expensive, you know? I just… never got around to it.
+DOCTOR: That complicates matters. Given the cost of these tests without insurance, it may be… difficult to proceed. However, we can discuss options at the front desk regarding potential assistance programs. I'm going to write you a referral to a gastroenterologist. It would be prudent to have a specialist evaluate your abdominal fullness and decreased appetite. Here. Take this to Dr. Volkov. He’s on Elm Street. We will need to schedule a follow-up appointment to discuss the results of the blood work, if you choose to pursue it. Now, do you have any other questions for me?
+PATIENT: Oh… that’s… a lot. Elm Street… Dr. Volkov… it’s a bit confusing. And the blood work… will it hurt? And how much will it cost? I… I don’t have much money.
+DOCTOR: The blood draw will be a minor discomfort, Ms. McConnon. As for the cost, I cannot provide an exact figure. You will need to inquire at the laboratory. I have given you the referral, and I have outlined the necessary tests. It is your decision whether or not to pursue them. I must attend to other patients now. The front desk staff can assist you with scheduling the blood work if you choose. Do you have any further questions before I leave?
+PATIENT: Oh… I… I don’t know what to do. It's all so… much. No, I don’t think so. Thank you, Doctor. Just… thank you.
+DOCTOR: .

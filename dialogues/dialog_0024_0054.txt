@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Tati. I am Dr. Mutnick. Please, have a seat. Now, let’s get straight to the point. What brings you in today?
+PATIENT: Uh, good morning, Doctor. I… cough a lot. Been coughing for a long time. And I feel very tired, always tired. Also, my nose… gets blocked up a lot. Like, sinus, I think they call it? Gets bad. I don't remember exactly when it started, just… a while.
+DOCTOR: "A while," you say. Right. And this cough… is it productive?
+PATIENT: Productive? You mean… do I cough stuff up? Yes, yes, I do. Sometimes it's clear, sometimes… yellow-ish. Not always, but often. It’s… messy. Sorry. I try to cover my mouth.
+DOCTOR: Messy is… noted. And when you cough up this… material, is it accompanied by any chest pain?
+PATIENT: Chest pain? Not really… pain. More like… a tight feeling. Sometimes. When I cough really hard. Not all the time, though. Mostly just tired and the cough, and the nose. It’s… annoying.
+DOCTOR: Annoying. Yes, well, chronic complaints rarely lead to anything of substance. Let’s move on. Do you smoke, Mr. Tati?
+PATIENT: Smoke? No, no, I don't smoke. Never have. My wife… she doesn't like smoking. I don't go near cigarettes. Bad for you, right? I try to stay healthy, even with all this… coughing.
+DOCTOR: Of course, it is. Now, have you had a fever at any point with this cough?
+PATIENT: Fever… hmm. Maybe? It’s hard to remember. I think… sometimes I feel warm. But I don’t… check my temperature or anything. I just… feel a little hot. Then I drink water and lie down. Does that count as a fever? I don’t know.
+DOCTOR: Vague recollections are… unhelpful. Let’s review your medical history. Have you been diagnosed with any conditions previously?
+PATIENT: Diagnosed? Uh… I don't think so. I go to the clinic sometimes when I hurt my back, fixing tires is hard work. They just… give me something for the pain. Nothing… serious. I don't remember anyone telling me I have anything.
+DOCTOR: Nothing documented, as expected. Any surgeries, Mr. Tati?
+PATIENT: Surgeries? No. Never had any surgeries. I'm… pretty sure. I think I would remember something like that. My wife would definitely remember too! We haven't had any big hospital trips. Just the clinic for my back when it hurts.
+DOCTOR: Very well. And your family?
+PATIENT: Family… my wife, she's healthy. My mother… she had some problems with her breathing when she was older, but I don't know what exactly. She lived in Malaysia. And my father… he was strong, always working. I don't remember him being sick much. Sorry, I'm not very good with details.
+DOCTOR: Irrelevant. Now, do you have any allergies to medications, food, anything at all?
+PATIENT: Allergies? Hmm. I think… maybe a little itchy sometimes after I eat shrimp? But it's not bad itchy. Just a little. My wife says I'm sensitive. Other than that… no, I don’t think so. I can eat most things.
+DOCTOR: Right. And are you currently taking any medications, even over-the-counter remedies?
+PATIENT: Uh… sometimes I take something for the pain in my back. Like, when it’s really bad. Ibuprofen, I think? The blue pills. And… sometimes I take something for the cough, from the pharmacy. Just when it's really keeping me up at night. I don't remember the name.
+DOCTOR: Very well. Let's proceed with a physical examination. Please lie down on the examination table. I need to listen to your lungs and check your sinuses. And try to be precise with your answers, Mr. Tati. We haven’t much time.
+PATIENT: Okay, Doctor. I'll try. My back's a little stiff today.
+DOCTOR: Lungs are slightly congested, but no significant wheezing. Sinuses are tender to palpation. Throat is mildly erythematous. Blood pressure is 130/85. Heart rate 72. Temperature 99.2 Fahrenheit. This suggests a possible upper respiratory infection, likely viral. Given your history, it’s probably a common cold, complicated by some degree of sinus congestion.
+PATIENT: A cold? But it's been going on for so long… a long time. And the tiredness… it’s really bad sometimes. I can barely work. Is there… something else it could be?
+DOCTOR: Fatigue is a common symptom of many ailments, Mr. Tati, and frequently accompanies even minor illnesses. Prolonged exposure to physical labor can also be a contributing factor. We can order a basic blood panel to rule out any underlying anemia, but I suspect it will be unremarkable. For now, I recommend rest, fluids, and over-the-counter decongestants. I’ll write you a prescription for pseudoephedrine. Use as directed. And avoid strenuous activity. Follow up with me in two weeks if there is no improvement. Do you have any further questions?
+PATIENT: Pseudo… what? Is that the decongestant? Okay. Two weeks… if it doesn't get better. And… what if it does get worse? What should I do then?
+DOCTOR: If you experience a high fever, severe chest pain, or difficulty breathing, Mr. Tati, proceed to the nearest emergency room immediately. Do not hesitate. Now, is there anything else, or shall we conclude this consultation?
+PATIENT: High fever… chest pain… okay, I’ll remember that. No, Doctor. I think that’s all. Thank you.
+DOCTOR: Very well. Here is a referral to a local laboratory for the blood work. The results will be sent to my office. Do not call to inquire about them; I will contact you if necessary. Next patient. Oh, and Mr. Tati?
+PATIENT: Yes, Doctor?
+DOCTOR: Try to be more precise with your recollections in the future. It wastes valuable time. Good day. .
+PATIENT: Okay… good day to you too, Doctor. .

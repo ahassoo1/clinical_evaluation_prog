@@ -1,0 +1,25 @@
+DOCTOR: Alright, Mr. Ruocco, good to see you… I guess. Let’s get right down to it. What brings you in today?
+PATIENT: Well, Doctor… Pehrson, is it? Yes. It’s my chest. Hurts when I… breathe deep. Not all the time, just when I try to take a good, full breath. It’s been… a little while now. Can’t rightly say how long. Things get fuzzy, you know?
+DOCTOR: Fuzzy, right. Eighty years old… things get fuzzy. Okay. So, chest pain with deep breaths. Not constant. How would you describe the pain, Mr. Ruocco?
+PATIENT: Describe…? Hmm. It’s not… sharp. Not like a cut. More… a dull ache, I suppose. Like someone’s sitting on my chest, maybe? But not heavy, exactly. Just… uncomfortable. Does that make sense? I'm not good with explaining these things.
+DOCTOR: Uncomfortable. Right. And where specifically is this uncomfortable feeling?
+PATIENT: Right here, Doctor. Mostly in the middle, but sometimes it feels like it spreads… a little bit. Hard to say exactly where it ends. It’s not… one spot, you see? It kind of… drifts.
+DOCTOR: Drifts. Okay. And does anything make it better?
+PATIENT: Well… sometimes resting helps. If I just… sit still, don’t move around too much. Doesn’t make it go away completely, but it’s… less bothersome. And… changing position, sometimes. Leaning forward a little. But honestly, it comes and goes on its own mostly. I haven't found anything that always works.
+DOCTOR: Alright. And what makes it worse?
+PATIENT: Hm. Being… active, definitely. Walking up the stairs… or even just bending over to pick something up. You know, using my body. And… sometimes if I get… agitated, it feels worse too. Stress, I suppose. But again, it's not a sure thing. It just… happens. Is this taking long, Doctor? I have… things to do.
+DOCTOR: We’re getting there. Just need to cover a few things. Any cough?
+PATIENT: Cough…? Not really. Maybe a little tickle in my throat sometimes, but not a proper cough. Nothing I've needed to take anything for, if that makes sense. Haven’t been sick… well, not seriously sick… in a long time. I don’t remember the last time I even had a cold, to be honest.
+DOCTOR: Alright. Any fever, chills, or night sweats?
+PATIENT: No, no fever. I feel warm sometimes, like anyone does, but not a real fever. And definitely no chills or… night sweats. I sleep alright, as alright as an old man can sleep. Still wake up a few times, but not because I’m hot and bothered. Is this all you need to know, Doctor? I really… I'm starting to feel a little anxious just sitting here.
+DOCTOR: Okay, okay. Let’s get a quick listen to your lungs, just to be safe. Then we can figure out what to do next. Sit back. And try to relax.
+PATIENT: Fine. But don't take too long. Just get it over with. I've got appointments.
+DOCTOR: Okay. Lungs are… clear, bilaterally. No wheezes, crackles, or rhonchi. You said you've been feeling this for a while… have you ever had anything like this before?
+PATIENT: Honestly, Doctor, I don’t remember. Things just… fade. I've lived a long time. Lots of aches and pains come and go. I’ve probably had something similar before, but… it doesn’t ring a bell. I'm not good with remembering old illnesses. Just trying to get through the day, you know? Is this… serious? You're making me nervous.
+DOCTOR: Well, it could be a number of things, Mr. Ruocco. Muscle strain, costochondritis… sometimes it's just… getting older. You’re not insured, correct?
+PATIENT: That's right. No insurance. Never really needed it… until now, maybe. Just… try not to order any expensive tests, if you can. I’m on a fixed income, you see? And… I don't want a lot of fuss. Just tell me what I need to do to feel better. Simple as possible, if you don't mind.
+DOCTOR: Alright. Well, given your age, and the fact that it seems to be… intermittent… I’m going to recommend some over-the-counter pain relievers. Ibuprofen or naproxen. Follow the directions on the bottle. And try to avoid strenuous activity. If it gets significantly worse, or you develop a fever… well, you’ll have to figure something out. Any questions?
+PATIENT: Questions…? Hmm. No, I don't think so. Pain relievers… avoid activity. That sounds… simple enough. Is there anything else I should be looking out for? Like, what would be considered “significantly worse”? I don't want to waste your time coming back if it’s just… old age. I really appreciate you seeing me, Doctor. Is that all?
+DOCTOR: Look, Mr. Ruocco, "significantly worse" means chest pain that doesn’t go away, trouble breathing, dizziness, or sweating for no reason. If you experience any of those, go to the emergency room. Understand?
+PATIENT: Right. Emergency room. Chest pain, trouble breathing, dizziness… sweating. Got it. I think that covers it. Thank you, Doctor. I appreciate you not keeping me all day. .
+DOCTOR: Finally.

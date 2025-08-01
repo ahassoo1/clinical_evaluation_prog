@@ -1,0 +1,19 @@
+DOCTOR: Alright, Ms. Sadhu, good to meet you. Though, honestly, seeing another patient at my age… time just flies. So, what brings you in today?
+PATIENT: Well, hello Doctor Pehrson. It does fly, doesn't it? I'm here about this cough. It just won’t go away, and my heart… well, it hasn’t been the best lately. Feels a little weaker, you know? It worries me.
+DOCTOR: A cough and some heart palpitations…right. How long have you had this cough?
+PATIENT: Oh, goodness. Let me think… it started, I’d say, about three weeks ago. Maybe a little longer. It wasn’t bad at first, just a tickle, really. But it’s gotten worse. Especially at night. Keeps me up.
+DOCTOR: Three weeks, worsening… and keeping you up at night. Any fever, chills, or shortness of breath with the cough?
+PATIENT: No fever, no. And no chills either, thankfully. Shortness of breath… hmm. Not really short of breath, but I do feel… winded easier. Like walking up the stairs. I used to be able to do those two at a time, now I have to stop halfway. Is that what you mean?
+DOCTOR: Winded…okay. And you said something about your heart feeling weaker?
+PATIENT: Yes, that’s right. It feels… fluttery sometimes. Not a pain, exactly, just like it’s skipping a beat or two. And I get tired so easily now. Even making my pupusas takes more effort than it used to. I’ve always been strong, you know? Strong hands for the masa.
+DOCTOR: Skipping beats…pupusas… Right. Any chest pain with this fluttering?
+PATIENT: No, no chest pain at all. Just that…feeling. Like it’s not pumping as hard as it should. And sometimes my ankles swell up a bit at the end of the day. Not always, but when they do, it feels awful. Like tight bands around them.
+DOCTOR: Okay. Swollen ankles, fatigue… Look, Ms. Sadhu, at your age, these things are…common. Let’s just listen to your heart and lungs, alright?
+PATIENT: Well, I understand things happen when you get old, Doctor. But it still worries me! It’s not like I want to just…slow down. Listening sounds good. I’m always happy to let you listen.
+DOCTOR: Alright… take a deep breath for me. And another… Okay. Sounds a little congested, but nothing… alarming. Let's check those ankles. Yes, a little swelling. And your blood pressure is… elevated, but not critically so. I'll order a basic blood panel and an EKG just to be safe, alright?
+PATIENT: That sounds sensible, Doctor. I appreciate you taking a look. An EKG… will that show if my heart is truly weak? And the blood… is it to check for anything in particular? I always worry about my kidneys, you know.
+DOCTOR: The EKG will show any irregularities with your heart rhythm. And the blood work...it's just a general check-up, to rule things out. We'll look at your kidney function, of course. Don't worry, Ms. Sadhu. It's likely just age. The nurse will draw blood after this, and we'll get the results back in a few days. In the meantime, try to rest, and limit your salt intake.
+PATIENT: Oh, alright. Limit the salt… that's hard, you know? Pupusas need a little salt. But I’ll try my best. A few days… that feels like a long time to worry. Will the nurse tell me when to expect a call? And… what if something is wrong?
+DOCTOR: The nurse will call with the results. And honestly, Ms. Sadhu, at your age, a little congestion and a fluttery heart are...normal. If something was seriously wrong, you'd know. But we're being cautious, alright?
+PATIENT: That’s… reassuring, I suppose. Though, I always feel like I should know what to look for. If something changes. What kind of changes should I be worried about? Should I go to the emergency room if… .
+DOCTOR: Look, Ms. Sadhu, don’t worry yourself sick over it. Chest pain, severe shortness of breath, dizziness...those are things to be concerned about. Anything else, just call the office. Now, if you’ll excuse me, I have other patients waiting. The nurse will be with you shortly. .

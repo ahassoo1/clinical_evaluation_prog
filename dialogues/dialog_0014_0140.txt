@@ -1,0 +1,17 @@
+DOCTOR: Alright, Mr. Schieber. So, what brings you in today?
+PATIENT: Honestly, Doctor, I haven’t much time for this. It’s… a bit embarrassing. Something going on in my mouth. White patches. My wife insisted I come. She worries over nothing, usually.
+DOCTOR: Right. Well, your wife's concern is… noted. “Something in your mouth,” you say. White patches. Okay. And how long have these patches been present?
+PATIENT: Oh, a week, maybe? It's not… debilitating. Just unsightly. I eat normally, though it feels a little… rough sometimes. Like a coating. Really, I doubt it’s anything serious. I’ve dealt with worse working as a faller.
+DOCTOR: A “faller,” you say?
+PATIENT: Yes. A faller. I cut trees. It's honest work. Though, admittedly, a bit rough on the body. But this… this is just a mouth thing. I assure you, Doctor, I’m not about to expire from a bit of white on my tongue.
+DOCTOR: Right. Well, “a bit of white” can be a lot of things, Mr. Schieber. It's my job to determine which thing. Have you noticed any pain associated with these patches?
+PATIENT: Pain? No, not really. A slight… irritation, perhaps, when I eat something acidic. Like orange juice. But nothing I’d call pain. Look, are we going to do something about this, or are we just going to discuss the nuances of my breakfast choices?
+DOCTOR: Mr. Schieber, I assure you, I take all patient concerns seriously. But I need information to make an informed assessment. Have you noticed any fever, difficulty swallowing, or changes in your taste?
+PATIENT: Fever? Absolutely not. Difficulty swallowing... no. I eat a hearty breakfast every morning, as I said. Taste… well, my wife makes bland food, so changes are unlikely to be noticed. Honestly, Doctor, I'm a perfectly healthy man. This is probably just a minor irritation.
+DOCTOR: Alright. Let's have a look. If you don't mind. Open wide, please. I need to examine your mouth. And please try to refrain from… commentary while I do so.
+PATIENT: Fine. But be quick about it. I have things to do. Honestly, this is quite unnecessary.
+DOCTOR: Hmm. Yes, I see the white patches. They appear to be… mostly on the tongue and inner cheeks. No obvious signs of trauma. The mucosa seems a little inflamed, but nothing dramatic. Have you ever had anything like this before?
+PATIENT: No. Never. I told you, Doctor, I’m a healthy man. I work outdoors. Fresh air, good food – when my wife doesn’t overcook it, that is. This is… new. And frankly, a waste of my time.
+DOCTOR: Mr. Schieber, based on what I’m seeing, it could be oral thrush – a fungal infection. It’s not uncommon, especially if your immune system is a little compromised. Though, it can also be other things. Given your… lifestyle, and the fact you are uninsured, I’m going to recommend a simple antifungal mouthwash. It’s available over the counter. Use it twice daily for a week. If it doesn’t improve after a week, or if it worsens, you'll need to come back, and then we'll consider further testing. I also suggest discussing this with your wife; it may be more than just what she cooks. Do you have any questions?
+PATIENT: Fungal infection? Unlikely. I haven’t been near a fungus in my life, except maybe on a damp log. Over the counter, you say? Fine. I suppose that’s… acceptable. No, I have no questions. This has been… a thoroughly unproductive experience. Thank you for your time, Doctor. I’ll be going now.
+DOCTOR: Right. Well, get well soon, Mr. Schieber. And please, do try to follow the instructions. Some people… Honestly. .

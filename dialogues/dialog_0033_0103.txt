@@ -1,0 +1,25 @@
+DOCTOR: Right. Mr. Vankampen, is it?
+PATIENT: Yes, that’s right. Albino Vankampen. But please, call me Al. Everyone does. It’s nice to meet you, Doctor… uh… Dechêne, is it? I think the lady at the front desk said that name.
+DOCTOR: Dechêne, yes. Dr. Dechêne. And please, just Al is… unconventional. Doctor Dechêne will suffice. Now, what brings you in today?
+PATIENT: Okay, Doctor Dechêne. Well, my back… it’s been botherin’ me. Lower back, mostly. It’s… achy. Been achy for a while now, but it’s gettin’ worse. Makes it hard to… well, just to move around, you know? Even sittin’ for too long is bad.
+DOCTOR: “Achy.” Right. And how long exactly is “a while”?
+PATIENT: Hmm… let me think. It started… oh, maybe six months ago? Started kinda slow, just a little stiffness after gardenin’. I do a little gardenin’, you see. Tomatoes, mostly. But it’s been gettin’ worse these past two months, for sure. It wakes me up at night sometimes now.
+DOCTOR: And what do you do to alleviate the pain, Mr. Vankampen?
+PATIENT: Well, not much, honestly. I try to… be careful. Don’t lift nothin’ too heavy. And I take some of them… you know, the pills for pain. Over-the-counter ones. The white ones. I can't remember the name right now. They help a little, but not enough, really. Not like they used to.
+DOCTOR: Acetaminophen or ibuprofen, I presume?
+PATIENT: I… uh… I don’t know those names, no. It’s a little bottle. White bottle. I get it at the drug store, down the street. The man there knows me, he always helps me find it. I just ask for the pain pills for my back. Maybe it is acetaminophen… it sounds familiar. But I don’t really pay attention to the names. I just take ‘em.
+DOCTOR: Right. And aside from the back pain, are you experiencing any other symptoms?
+PATIENT: No, not really. Maybe a little tired sometimes. But I’m 77, Doctor! I think bein’ a little tired comes with the territory. No fever, no numbness, no… anything else, really. Just the achy back. It’s mostly that. And it worries me, you know? Makes me think I’m gettin’ too old to do the things I like.
+DOCTOR: Do you have any pain radiating down your legs?
+PATIENT: No, no pain in my legs. It stays in my back, mostly right across the lower part. Sometimes it feels like it goes around to my sides, a little. But definitely not down my legs. I can walk okay, I just… don't want to walk too much. And I don’t want to bend over. That’s the worst.
+DOCTOR: Very well. Let's proceed with a physical examination. Please lie down on the examination table for me. I need to assess your range of motion and check for any tenderness.
+PATIENT: Okay, sure. That's fine. This old body ain't as nimble as it used to be, you know. Just let me know if I'm doin' somethin' wrong.
+DOCTOR: Please lie supine. I'll start with palpation. Now, tell me if anything feels particularly sore when I press here. Tenderness present at L4-L5. No guarding. Minimal muscle spasm.
+PATIENT: Ooh, yes, that spot… right there. That hurts a little. Not terrible, but… yeah, that's where it is. It feels kinda… deep. Like somethin's wrong inside. Not a sharp pain, just… achy. Like it’s been bruised, maybe? But I haven't fallen or nothin'.
+DOCTOR: Limited range of motion in flexion and extension. Straight leg raise negative bilaterally. Reflexes 2+ and equal bilaterally. No sensory deficits noted. It appears you have some muscular strain and limited flexibility. Given your age and the gradual onset, a serious pathology is less likely.
+PATIENT: That's… good to hear, I guess. But it still hurts, you know? What does that mean, exactly? Muscular strain… is that just from… bein’ old? And what can we do about it? I don't want to just… live with the pain. Is there somethin' to help me get back to my gardenin'?
+DOCTOR: It's likely a combination of age-related changes, inactivity, and potentially improper lifting technique, Mr. Vankampen. I recommend a course of physical therapy to strengthen your core and improve your flexibility. And avoid lifting anything heavy. I’ll write you a referral. I’m also going to suggest an over-the-counter anti-inflammatory, such as naproxen, if you are able to tolerate it.
+PATIENT: Naproxen… is that one of those pills? I take so many, I can't keep track. Okay, physical therapy… that sounds good. Will that help me bend over again? I miss bein' able to weed the garden without havin’ to ask my neighbor. And… is there anything else? Maybe a cream or somethin' I can rub on it? I just want to feel better, you know?
+DOCTOR: Topical analgesics may provide temporary relief, but they won't address the underlying issue. The physical therapy is your best option. Here’s the referral to a local physical therapy clinic. I suggest you schedule an appointment as soon as possible. Do you have any further questions?
+PATIENT: No, I think that's everything. Thank you, Doctor Dechêne. Physical therapy… okay. I’ll give ‘em a call tomorrow. I appreciate you takin’ the time to listen, and for not tellin’ me it was just… old age. .
+DOCTOR: Very well. Have a good day, Mr. Vankampen.

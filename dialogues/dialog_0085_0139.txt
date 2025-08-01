@@ -1,0 +1,40 @@
+DOCTOR: Good afternoon, Mr. Shanor. Welcome to the clinic. I'm Dr. Lahn. It’s nice to meet you. So, to start, can you tell me a little bit about what brings you in today?
+PATIENT: Uh, hello Doctor. Yes. I… need check for referee. For fitness. I want to… be sure I okay to do this. It is for… sports. I do games.
+DOCTOR: Okay, a sports physical. That's perfectly alright. So you’re wanting to make sure you're healthy enough to participate in games. Could you tell me what sport or sports you're involved in?
+PATIENT: Uh… many. Basketball, sometimes. Volleyball. Mostly… school games. I help the students. Coach, mostly. And… referee. I do a little of everything.
+DOCTOR: Okay, so you're quite active – coaching, refereeing, and playing basketball and volleyball. That’s great! To get a better idea of your overall health, and to make sure it's safe for you to continue doing all of these things, I'd like to ask you a few questions. First, have you been feeling generally healthy lately?
+PATIENT: Yes. Okay. Mostly okay. No big… problems. Little tired, sometimes. Work is hard. But… mostly okay.
+DOCTOR: Okay, that’s good to hear, overall. A little tired is understandable with a busy work schedule. Let's explore that a bit. When would you say this tiredness started?
+PATIENT: Hmm… maybe… few months now? Not every day. But… when I work long hours, or… run around a lot with the students. It is… harder to keep going.
+DOCTOR: Okay, a few months of fatigue that's worse with activity. That's helpful. Are you experiencing any other symptoms along with the tiredness?
+PATIENT: Uh… sometimes… little dizzy. When I stand up fast. And… my back… sometimes hurts. From work, I think. Lifting things. Heavy things.
+DOCTOR: Okay, dizziness when standing up quickly, and back pain from lifting at work. Let’s talk about the dizziness first. Does it happen every time you stand up, or only sometimes?
+PATIENT: Only sometimes. Not every time. If I get up… too fast. Or… if I been working a long time. Then… whoosh. Little bit spinny. It goes away quick.
+DOCTOR: Okay, dizziness with quick changes in position, especially after prolonged activity. That gives me some things to consider. And your back pain – is it a constant pain, or does it come and go?
+PATIENT: Come and go. Mostly when I lift. Heavy boxes. Or… help move things. It’s… not too bad. I take… medicine sometimes. For the pain.
+DOCTOR: Okay. And what kind of medicine do you take for the pain, Mr. Shanor?
+PATIENT: Uh… I don’t remember the name. White pill. Small. I get it from… store. Not doctor. Just… for the back. When it hurts too much.
+DOCTOR: Okay, I understand. It’s good you're trying to manage the pain, but it's always best to know exactly what you’re taking, especially if you're taking it regularly. We can talk about that more later. Now, let’s move on to your medical history. Have you ever been diagnosed with any medical conditions, like high blood pressure, diabetes, or heart problems?
+PATIENT: No. Never. Doctor never… say anything. I… healthy. Always work. Always busy. I don't… go to doctor much.
+DOCTOR: Okay, that's good to know. Have you ever had any surgeries or been hospitalized for anything?
+PATIENT: No. No surgeries. No… hospital. Little sick sometimes. Cold. Flu. But… nothing serious. Never stay in hospital.
+DOCTOR: Okay, no prior surgeries or hospitalizations. That's helpful. Now, thinking about your family – are there any medical conditions that run in your family, like heart disease, diabetes, or cancer?
+PATIENT: Hmm… my… father. He had… problems with his heart. Old age. He was very old. My mother… she had… I don't know. She died long time ago. I don’t… remember.
+DOCTOR: Okay, a history of heart problems in your father, and you don't recall any specific medical history for your mother. That's understandable. Now, a few questions about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No. No smoke. No drink. No… those things. Never. Work too hard for that.
+DOCTOR: Okay, that’s good. Finally, do you have any allergies to any medications, foods, or anything else?
+PATIENT: No allergies. I eat… everything. No problem. Sometimes… itchy from mosquito. But… not allergy. Just… mosquito.
+DOCTOR: Okay, Mr. Shanor, that gives me a good overview. Now, I’d like to do a brief physical exam to get a better sense of your overall health. Is that alright with you?
+PATIENT: Yes. Okay. Whatever you need. I… want to be sure I okay. For the games.
+DOCTOR: Great. We'll start with your height and weight, and then I’ll listen to your heart and lungs, check your blood pressure, and do a quick neurological exam. Then we can talk about what we find. If you could step over here and stand on the scale for me, please?
+PATIENT: Okay. I am… 174. I think.
+DOCTOR: Okay, so your height is 174 centimeters and your weight is 134 pounds. That puts your BMI in a healthy range. Your heart sounds regular, and your lungs are clear. Your blood pressure is 128/82, which is slightly elevated but not concerning at the moment. Your reflexes are normal, and your coordination seems good. Do you feel any pain anywhere right now?
+PATIENT: No pain. Maybe… little bit back. But… not too bad. Just… old. Work hard. That's all.
+DOCTOR: Okay. I do feel some tenderness in your lower back. It seems like you’ve been putting a lot of strain on it. Given your history of fatigue, dizziness with quick movements, and slightly elevated blood pressure, I’d like to order a few blood tests just to rule out any underlying issues. Would that be alright?
+PATIENT: Blood tests? Uh… okay. Whatever you think is best. I… want to be sure. It is… for the games.
+DOCTOR: Absolutely. It’s always best to be thorough. We'll check your complete blood count, electrolytes, kidney function, liver function, and thyroid levels. We’ll also do a basic metabolic panel. I’ll also order a urinalysis. This will give us a good baseline and help us determine if anything is causing your fatigue and dizziness. The lab technician will need a blood sample and a urine sample. Do you have any difficulty providing either of those?
+PATIENT: No. No problem. I can do that. Easy. I… drink a lot of water for games.
+DOCTOR: That’s good to hear. The lab is just down the hall, and they'll give you instructions on how to collect the urine sample. Once the results are back, we can schedule a follow-up appointment to discuss them and create a plan. In the meantime, I recommend continuing to stay hydrated, getting enough rest when you can, and avoiding strenuous activity that makes your fatigue or dizziness worse. And please, try to avoid taking any over-the-counter pain medication without talking to me first. Do you have any questions for me right now?
+PATIENT: No… I think that is all. Thank you, Doctor. I… want to be sure I can help the students. And… referee.
+DOCTOR: You're very welcome, Mr. Shanor. It’s clear you care a lot about your students, and that's admirable. We'll get to the bottom of this, and hopefully, we can get you feeling your best so you can continue to do what you love. The lab technician will call you when they're ready for your samples. Here's a printed copy of the lab orders for your records. Thank you for coming in today. If you have any questions or concerns before your follow-up appointment, please don't hesitate to call the clinic.
+PATIENT: Okay. Thank you, Doctor. Bye.

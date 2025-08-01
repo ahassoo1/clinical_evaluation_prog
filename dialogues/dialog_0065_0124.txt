@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Ms. Paes. I'm Dr. Duplichan. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, I’ve noticed my skin’s been getting darker, like… a bit of a tan even though I haven't been out in the sun much. And I’ve just been feeling really tired lately, too. It's been going on for a few weeks now, I think.
+DOCTOR: Hmm. Darkening of the skin and fatigue… a few weeks, you say?
+PATIENT: Yes, a few weeks. It’s hard to say exactly how long, but definitely not just a day or two. I thought maybe I was just run down, but it doesn’t seem to be getting better with rest. It's all over, not just one spot.
+DOCTOR: Okay. And is this darkening… uniform?
+PATIENT: Uniform? You mean… is it the same all over? I think so, yeah. It's not like patches or anything, just… everything seems a little bit… browner. Hard to explain. It’s not a sunburn look, more like… I don’t know, a regular tan, but I haven’t been tanning.
+DOCTOR: Alright. And have you noticed any other changes?
+PATIENT: Other changes… let me think. Not really. I haven't lost weight or anything. I guess I've been a little thirstier than usual, maybe? But honestly, it's been so hot lately, I figured that was just the weather. Nothing else comes to mind right away.
+DOCTOR: Okay. And are you currently taking any medications, vitamins, or supplements?
+PATIENT: Just my blood pressure medicine. Lisinopril, I think it's called. And I take a multivitamin sometimes, but I’ve been pretty bad about remembering it lately. It’s not a daily thing, definitely. I don’t really take anything else.
+DOCTOR: Alright. And do you have any allergies to medications, food, or anything else?
+PATIENT: No, not that I know of. I’ve never had a bad reaction to anything. My mom always said I had a strong stomach! I've eaten all sorts of things growing up.
+DOCTOR: Okay. Now, have you had any significant illnesses or surgeries in the past?
+PATIENT: Hmm… let me see. I had my appendix out when I was a kid, a long time ago. And I had a hysterectomy about fifteen years ago. Other than that, just the usual colds and flu. Nothing major.
+DOCTOR: And what about your family history?
+PATIENT: That’s a tough one. My mom passed away a few years back from… well, just old age, really. She was sick for a while. My dad… he was Cambodian, and he passed away a long time ago. I don’t really know much about his family history, to be honest. We didn’t talk about that kind of thing much. I think he had some problems with his liver, but I'm not sure. And I don't have any siblings, so I don’t have anyone to ask.
+DOCTOR: Alright. And could you tell me a little bit about your lifestyle?
+PATIENT: Sure. I work at the chemical plant, so it's mostly standing and checking gauges and stuff. It’s not too physical, thankfully. I live alone, pretty quiet life. I like to garden when I have the time, and I watch a little TV. I don’t drink or smoke, never have. I try to eat healthy, mostly. I love Khmer food, but sometimes it’s hard to make it healthy!
+DOCTOR: Okay. Now, I’m going to need to do a quick physical exam. Can you please step onto the scale for me?
+PATIENT: Sure, no problem. There you go. Is that alright?
+DOCTOR: Okay, your weight is 60 kilograms, which is… consistent with your chart. Your height is 159 centimeters. Now, I’m going to listen to your heart and lungs, and then I’ll take a look at your skin. Please just relax and breathe normally.
+PATIENT: Okay, sounds good. Let me know if I need to do anything.
+DOCTOR: Heart sounds are regular, no murmurs. Lungs are clear to auscultation bilaterally. Skin appears diffusely hyperpigmented, without obvious lesions or areas of inflammation. No jaundice noted. Capillary refill is normal. I'll also check your lymph nodes. Lymph nodes are not enlarged.
+PATIENT: Okay. That doesn’t sound too bad, does it? I was getting worried it was something serious. Is it possible it's just… stress? I've been a little lonely since my mom passed, and work can be stressful sometimes.
+DOCTOR: While stress can certainly cause various physical symptoms, your symptoms of fatigue and diffuse hyperpigmentation warrant further investigation. It's important to rule out other potential causes. I’m going to order some blood work. Specifically, I want to check your liver function, kidney function, complete blood count, and iron levels. Also, I would like to check your TSH.
+PATIENT: Okay, that sounds… thorough. Is TSH something to do with my thyroid? I think my friend mentioned something about that once. It’s good you’re checking everything. What do I need to do about the blood work? Do I need to fast or anything?
+DOCTOR: Yes, TSH is thyroid stimulating hormone. It checks your thyroid function. And yes, you do need to fast for at least 8-12 hours before the blood draw. No food or drinks, except water. I’ll give you a lab requisition form with detailed instructions. The lab is just down the street, at the medical center. We should have the results back within a few days. In the meantime, if you experience any new symptoms, like abdominal pain, nausea, or vomiting, please contact the clinic immediately.
+PATIENT: Okay, 8-12 hours, no food. Got it. I can definitely do that. And I will keep an eye out for those other symptoms. Thank you, Doctor. I appreciate you taking the time to look into this. It’s good to know what’s going on, even if we don’t have all the answers yet.
+DOCTOR: You’re welcome, Ms. Paes. We'll review the results as soon as they become available and discuss the next steps. We will call you with the results. Do you have any other questions for me at this time?
+PATIENT: No, I think that’s everything for now. Thank you again, Doctor Duplichan. I feel a little better just having a plan. I’ll go get the blood work done tomorrow morning.
+DOCTOR: Very good. Have a good day, Ms. Paes. And don’t hesitate to contact us if you have any concerns.
+PATIENT: Okay, you too, Doctor. Bye now.

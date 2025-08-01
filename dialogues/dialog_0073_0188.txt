@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Mr. Secondi. I’m Dr. Korrell. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Uh, well, my pee... it's orange. I noticed it a few days ago. It's not normal, right?
+DOCTOR: Orange urine, you say?
+PATIENT: Yes. Like... a dark orange. Not bright, but... you know, not clear either. It worried my wife, so she made me come. I don't usually go to the doctor.
+DOCTOR: Well, it's good your wife encouraged you to come in. It's always best to get these things checked out. Now, has anything changed in your diet recently?
+PATIENT: Hmm... not really. I eat mostly the same things. Rice, chicken, some vegetables. Maybe a little more carrots lately? My wife likes them. But nothing major. I don't drink much soda, just water and sometimes tea.
+DOCTOR: Okay. And are you experiencing any pain or burning when you urinate?
+PATIENT: No, no pain. Nothing like that. It just... looks funny. That's the only thing. I feel okay, otherwise. A little tired, maybe, but I always feel a little tired.
+DOCTOR: Alright. And any changes in your bowel movements?
+PATIENT: No, everything is... normal there, too. Sorry to be so... blunt. I don't usually talk about this stuff.
+DOCTOR: It's perfectly alright, Mr. Secondi. These things are all part of the job. Now, let's move on to your past medical history. Have you ever been diagnosed with any medical conditions?
+PATIENT: No, not really. I had the flu a few times, but that's it. Nothing serious. I don't take any medicine regularly. Just sometimes for a headache, you know? Over-the-counter stuff.
+DOCTOR: And any surgeries, hospitalizations?
+PATIENT: No, never had surgery. Never been in the hospital. Lucky, I guess. My wife worries too much, but I'm a strong guy. I work hard.
+DOCTOR: Alright. And how about your family?
+PATIENT: My family? My father, he had… problems with his heart, I think. A long time ago. My mother is okay, still living in Morocco. She's old, but healthy for her age. I don’t know much about any other health problems in the family, to be honest. We don’t talk about it much.
+DOCTOR: I see. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no smoking. I don’t like it. Maybe a little tea with dinner sometimes, but not much alcohol. Never done any drugs, never will. My wife would kill me. And it’s not good for you, right?
+DOCTOR: No, it is not. Now, let's do a quick physical exam. I'm going to listen to your heart and lungs, and then I'll need a urine sample. It’s just to rule out anything obvious. Can you follow me?
+PATIENT: Okay, that sounds… okay. I can do that. Following you is fine. I hope it’s not too bad. I don’t like doctors very much. But I want to know what’s wrong with my pee.
+DOCTOR: Come this way, Mr. Secondi. It's a standard procedure, nothing to be alarmed about. We'll take it one step at a time. I need you to sit on the examination table.
+PATIENT: Okay. This is… cold. I hope it doesn’t take long.
+DOCTOR: Heart sounds are regular, though a little fast. Lungs are clear. Blood pressure is 140/90, which is a bit elevated, but not alarming. Now, if you could provide a urine sample?
+PATIENT: Okay. Where… where do I do that? I didn’t see anything when I came in. I’m a little embarrassed, to be honest. Is there a… a room?
+DOCTOR: In there, Mr. Secondi. There's a collection cup. Just try to collect a mid-stream sample. And wash your hands afterwards. I'll be right outside.
+PATIENT: Okay. Mid-stream… right. I think I remember that from… somewhere.
+DOCTOR: ...
+PATIENT: Here you go. I think I got enough. It wasn't easy. I hope this helps.
+DOCTOR: Alright. Let's run a quick dipstick analysis. Hmm… Bilirubin present. And elevated urobilinogen. There's some protein in your urine as well. Your urine is slightly acidic. These results suggest a possible issue with your liver or gallbladder, or possibly a kidney problem. It’s not definitive, of course. We need further testing.
+PATIENT: Liver? Gallbladder? That sounds… bad. I don't understand. What kind of testing? And what does this mean? I feel fine, mostly. Just tired. Is this serious, Doctor?
+DOCTOR: It doesn’t necessarily mean anything serious at this stage, Mr. Secondi. But these are indicators we need to investigate. A complete blood count, a liver function panel, and an abdominal ultrasound would be the next step. The ultrasound will allow us to visualize your liver, gallbladder, and kidneys. As for what it means… well, it could be a minor infection, a blockage, or even something as simple as dehydration. But we need to rule out more serious possibilities. I'm going to order those tests now, and then we’ll schedule a follow-up appointment to discuss the results. Do you have any allergies to contrast dyes?
+PATIENT: Contrast dyes? Uh… I don't think so. Never had anything like that before. My wife might know. She remembers everything. I’m not good with… medical stuff. What do the tests feel like? And how long will it take to get the results? I have to work, you know.
+DOCTOR: The blood tests are straightforward, just a simple needle prick. The ultrasound is non-invasive, a technician will apply a gel to your abdomen and use a wand to create images on a screen. It shouldn't be painful, though some people find the gel cold. As for the results, it usually takes a few days for the lab to process everything. I will have my assistant contact you once they are available. We can schedule a follow-up appointment then to discuss them in detail. In the meantime, I recommend increasing your water intake and avoiding alcohol. Do you have any questions so far?
+PATIENT: No, I think… I think that’s everything. Increase water, no alcohol… okay. My wife will be happy about that. She always tells me to drink more water. And I will wait for the assistant to call. Thank you, Doctor. I appreciate it. I hope it’s nothing serious.
+DOCTOR: You're welcome, Mr. Secondi. We’ll get to the bottom of this. My assistant will be in touch shortly. Have a good day.

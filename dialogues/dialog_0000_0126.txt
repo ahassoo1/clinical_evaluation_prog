@@ -1,0 +1,29 @@
+DOCTOR: Right. Christen Erxleben, is it?
+PATIENT: Yes, that’s correct. And please, call me Christen. Is everything alright? I’ve got a rather tight schedule today.
+DOCTOR: “Alright” is a rather subjective term, wouldn’t you agree?
+PATIENT: Indeed. I suppose it is. Look, I'm here because I've been… exceptionally thirsty, and hungry, lately. More than usual. It’s just… disruptive, to be frank.
+DOCTOR: Disruptive. Hmm. And how long has this “disruption” been going on for, exactly?
+PATIENT: Oh, let me think… perhaps a month or so? It started gradually, but the last week or so it’s been quite noticeable. I find myself constantly reaching for water, and… well, I'm eating a lot more than I used to.
+DOCTOR: A month. And has anything changed in your diet?
+PATIENT: No, not really. I’ve been eating pretty much the same things as always. I haven’t made any significant changes to what I’m consuming, or how much of it. I generally have a sandwich for lunch, something simple for dinner… nothing out of the ordinary.
+DOCTOR: “Simple” is, again, quite vague. Can you be a little more specific?
+PATIENT: Right, yes. Sorry. Typically, I'll have… roast chicken and potatoes, or maybe fish with vegetables. Sometimes pasta. Portion sizes are… normal, I suppose. I haven't been deliberately eating more, just… constantly feeling the need to eat something. It’s a frustrating situation, to be honest.
+DOCTOR: Frustrating, yes. And what about… other symptoms?
+PATIENT: Other symptoms? Let me think… no, not really. I haven't felt unwell, per se. No fever, no aches… just this constant thirst and hunger. Perhaps a little more tired than usual, but I put that down to the… disruption. It’s hard to get a good night's sleep when you're constantly getting up for a drink or a snack.
+DOCTOR: Tiredness is a symptom, Mr. Erxleben. Are you experiencing any changes in your vision?
+PATIENT: Changes in my vision…? No, I don’t believe so. My eyesight’s always been… adequate. Perhaps a little blurry at times, but that’s just age, I suppose. Nothing sudden or dramatic. I haven’t noticed anything particularly different. Is that… relevant?
+DOCTOR: Everything is potentially relevant, Mr. Erxleben. Now, let’s talk about urination. Have you noticed any changes in how often you’re going to the bathroom?
+PATIENT: Oh. Well, yes, actually. Now that you mention it, I have been going to the bathroom a bit more frequently. Especially at night. It’s… inconvenient, to say the least. I assumed it was just the increased fluid intake, but… perhaps not?
+DOCTOR: “Assumed.” Of course. And are you experiencing any unusual weight loss?
+PATIENT: Weight loss… that's a good question. I hadn’t consciously noticed, but my trousers have felt a bit looser recently. I hadn’t attributed it to anything specific, I just thought… well, I haven’t been eating as healthily as I should, perhaps. It’s difficult to say definitively if I’ve lost weight, but it’s possible. A few pounds, maybe.
+DOCTOR: “Maybe”. Right. And what about your family history?
+PATIENT: Family history… Hmm. My mother had… some issues with her blood sugar, I believe. Type 2 diabetes, I think it was. She was diagnosed fairly late in life, though. My father was generally healthy, as far as I know. Nothing major on either side, if that's what you're asking. Why is all of this relevant? Are you suspecting something serious? I have a very busy day ahead.
+DOCTOR: Everything is relevant, Mr. Erxleben. And your mother’s history is quite relevant. Now, I'm going to need to perform a quick physical examination. It's rather standard procedure, given your symptoms and family history. Can you step onto the scale for me, please?
+PATIENT: Very well. Though I must reiterate, I’m rather pressed for time. Let’s get this over with.
+DOCTOR: 93 kilograms. And your height is 170 centimeters, correct?
+PATIENT: Yes, that’s correct. Is that… a problem? I’m not overly concerned with my weight, to be honest. As long as I’m healthy, that’s all that matters. Can we please expedite this process?
+DOCTOR: "Healthy" is a matter of definition, Mr. Erxleben. Your Body Mass Index is 32.3, which falls into the obese category. Now, if you'll permit me, I'd like to check your blood pressure and listen to your heart and lungs. Please sit back down.
+PATIENT: Obese… wonderful. Just what I needed to hear. Fine, proceed. The sooner this is over, the better. I’ve got a shipment to oversee this afternoon, and frankly, I’m losing valuable time.
+DOCTOR: Blood pressure is 145/90. Heart sounds are normal, but your breathing is slightly labored. I’m going to need a urine sample and a blood test to check your blood sugar levels. It’s standard procedure, Mr. Erxleben. We need to rule out several possibilities. The restroom is just down the hall. I'll send a nurse to collect the sample once you’ve provided it.
+PATIENT: Blood tests… urine samples… This is becoming quite an ordeal. Fine. Just… tell me when you're finished with me. I really must be going. Honestly, the inefficiency of it all…
+DOCTOR: Indeed. Efficiency is often compromised by necessity, Mr. Erxleben. Let's see what the records reveal.

@@ -1,0 +1,30 @@
+DOCTOR: Alright, Ms. Benites, have a seat. So, what brings you in today?
+PATIENT: Oh, hello Doctor Pehrson. Thank you. Well, it is… a check-up, mostly. My regular doctor, he… passed away last year. A good man. I have Medicare, and someone told me to come here for a new evaluation. I think it is time.
+DOCTOR: Right, right. New patient evaluation. Standard stuff. Look, I'm a busy man, so let’s try to keep this concise, okay?
+PATIENT: Oh, yes, of course. Sorry. I understand. Concise is good. What do you need to know? I will try my best to be… short.
+DOCTOR: Okay, good. Let's start with the basics. Any major medical problems?
+PATIENT: Hmm. Major… Well, my knees. They bother me sometimes, especially when it is cold. And my back, a little. From working on cars so long. Nothing… serious, I don't think. I have not been to a hospital for anything big in many years.
+DOCTOR: "Sometimes?
+PATIENT: Oh. Well, it is not every day. More when the weather changes, you know? And after I have been on my feet all day. I am a mechanic, Doctor. I fix cars. It is… physical work. It is hard to explain how much it bothers me without knowing exactly when you want to know.
+DOCTOR: Right, mechanic. So, pain in the knees and back. On a scale of one to ten, with ten being the worst pain imaginable, what would you say it is usually at?
+PATIENT: Oh, a scale. Hmm. When it is bad… maybe a six? But most days… I would say a two, or a three. It is more of an ache, really. Not a sharp pain. Unless I really overdo it. Then it can be more. But that does not happen often anymore. I try to be careful.
+DOCTOR: Six, when bad. Okay. Any other pain?
+PATIENT: No, not really. Sometimes my hands are a little stiff in the morning, but that is from the cold garage, I think. I work on cars all year, even in the winter. It is my job. I have been doing it for a long time. I don't think it is anything… important.
+DOCTOR: Alright. Any major surgeries?
+PATIENT: No. Never. I have not had any surgeries. Not even… tonsils. My mother, she always said I was too strong for surgery. A silly thing to say, I think. But no, never.
+DOCTOR: No surgeries. Good. Family history?
+PATIENT: Oh dear. Family… My brother, he had… something with his heart, I think. He passed away when he was young. And my mother, she had trouble with her… digestion, always. But I don't know much about it. We did not talk about these things much. It was… different times.
+DOCTOR: Right. Well, that's…helpful. And what about you?
+PATIENT: Me? Oh. I smoke, a little. Maybe five cigarettes a day. I know I should stop, but… it helps with the stress. And I drink… a glass of wine with dinner sometimes. Nothing much. I try to eat healthy, but it is hard when you work long hours. I do not have any… allergies that I know of. I have never had a bad reaction to anything.
+DOCTOR: Okay. Five cigarettes. Wine. Let’s get a quick physical exam done. Just to get a baseline.
+PATIENT: Oh, yes, of course. A physical… that is good. Whatever you think is best, Doctor. I will do whatever you need me to do.
+DOCTOR: Alright. Let's start with your blood pressure and heart rate. Then I'll listen to your lungs, and take a look at your knees. Please lie down on the table.
+PATIENT: Oh. Yes, of course. The table. Is this alright? I am not very flexible anymore. It is a little… difficult.
+DOCTOR: Blood pressure is… elevated. 145 over 90. Not ideal. Lungs are clear, but you’re breathing a bit heavily. Any pain here?
+PATIENT: Oh, the blood pressure… that is not good? I do not feel… different. And the breathing… well, I was walking up the stairs. It is a little steep. Ooh, yes. There. That is a little sore. Not all the time, but when you push there. It is… a dull ache. Like an old injury.
+DOCTOR: Some crepitus with range of motion. Likely osteoarthritis. Alright. I’m going to order some blood work, just to get a better picture of your overall health. And an X-ray of both knees.
+PATIENT: Oh, X-ray? Is it… serious? And blood work… I do not mind, but I always worry about needles. Is it much blood?
+DOCTOR: Look, Ms. Benites, it’s routine. The X-ray will show us what’s going on with your knees. The blood work is just to check your cholesterol, blood sugar, things like that. A small vial. You won’t even feel it. I need a sample to rule things out. The nurse will draw it for you. We’ll get the results back in a few days, and then we can discuss a plan. Any questions?
+PATIENT: Oh… I see. A small vial… that is… good. No, I do not think so. Not at the moment. Just… when will the nurse come? I do not like waiting.
+DOCTOR: She'll be in shortly. I’m going to go look over some other charts. Just try to relax. We’ll get this sorted out.
+PATIENT: Oh… alright. Relax… Yes, I will try. .

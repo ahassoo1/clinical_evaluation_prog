@@ -1,0 +1,26 @@
+DOCTOR: Right. Ms. Aslan, is it?
+PATIENT: Yeah, that’s me. Jailenne Aslan. But please, call me Jailenne.
+DOCTOR: Very well. Jailenne. So, what brings you in today?
+PATIENT: Well, I’ve just been getting the chills, on and off, for a couple of days now. It's kinda weird, not like a full-blown fever, just…cold.
+DOCTOR: Chills. Right. And how long exactly has this “on and off” been occurring?
+PATIENT: Hmm, let me think… probably since Monday? So, like, three days now. Maybe a little less, but definitely since the start of the week. It comes and goes, you know? Not constant.
+DOCTOR: And aside from the chills, have you noticed any other symptoms?
+PATIENT: Not really, no. I’ve been a little tired, but honestly, who isn't these days? No cough, no sore throat, no aches... just the cold shivers. It’s just… unsettling.
+DOCTOR: Unsettling, yes. Well, fatigue is…common. Have you taken your temperature at all?
+PATIENT: No, I haven't. I don't really bother with thermometers unless I feel really bad. I figured if it was anything serious, I'd have other symptoms, you know? Like a proper fever or something. I don’t own one actually.
+DOCTOR: Right. Well, we should probably take a look then. Let’s get your vitals checked. Please, have a seat on the examination table.
+PATIENT: Okay, sure. Sounds good.
+DOCTOR: Please, lie back. I’ll listen to your chest and take your temperature. And perhaps a quick look at your throat. It's standard procedure, you understand.
+PATIENT: Yeah, of course. Standard procedure. It's a little cold in here, isn't it?
+DOCTOR: Breathing seems…adequate. Throat is clear, no obvious inflammation. Temperature is 37.1 Celsius. Not particularly high. Any recent travel, or contact with anyone who's been unwell?
+PATIENT: No travel, definitely not. And I don’t think so… not that I know of. I mean, I see people at work, but no one's mentioned being sick. I'm a health education specialist, so everyone usually tells me if they're feeling off! Does that make sense?
+DOCTOR: Health education specialist, yes. Ironically. Hmm. And your work environment… any potential exposures there?
+PATIENT: Potential exposures? Like what? We mostly do workshops and one-on-one sessions. Occasionally we’ll visit a community center, but nothing…risky? I guess. We always try to follow safety guidelines, you know, hand hygiene and all that. It's a school district, mostly.
+DOCTOR: Right. Well, it’s likely…a minor viral illness. These things go around. We can run a basic blood test to rule out anything more concerning, but honestly, I suspect it’s nothing serious. Do you have any allergies I should be aware of?
+PATIENT: Oh, good. I was hoping it wasn't something major. No allergies, thankfully. Not to medications or anything. Just…dust sometimes, but that’s it. It’s usually just a little sneeze.
+DOCTOR: Very well. I'll order a basic CBC and a metabolic panel, just to be thorough. It’s unlikely to show anything, but… protocol. I’ll have the nurse draw the blood samples now. Do you have any other concerns?
+PATIENT: No, I think that’s everything. Just hoping I feel better soon. It’s just been…annoying, you know? Being chilly all the time. When will I get the results?
+DOCTOR: The results should be available within 24-48 hours. The nurse will contact you with the findings. Until then, rest, stay hydrated, and if your symptoms worsen significantly, seek immediate medical attention. Is there anything else?
+PATIENT: No, I think that’s it. Thank you, Dr. Dechene. I'll wait for the nurse then. Hopefully it’s just a bug, like you said.
+DOCTOR: Right. Good. Let’s not waste any more time. The nurse will be with you shortly. And try to maintain proper hygiene. It's…important.
+PATIENT: .

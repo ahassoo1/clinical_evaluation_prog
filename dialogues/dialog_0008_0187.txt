@@ -1,0 +1,19 @@
+DOCTOR: Good morning, Mr. Sobkowicz. I’m Dr. Cumper. So, what brings you in to see me today?
+PATIENT: Chest… hurts. And heart… beats fast sometimes. Blood… number high, nurse say. I no like. Waste my time, this.
+DOCTOR: Okay, I understand. Chest pain and a fast heartbeat, and the nurse mentioned your blood pressure was a little high. You're feeling it's a waste of your time to be here, and that's frustrating. I apologize for that feeling, Mr. Sobkowicz, and I'll do my best to be efficient. Let’s start with the chest pain. Can you tell me more about it?
+PATIENT: More? What more to say? It hurts. Here. <points to center of chest> Like… squeezed. Not all time. When I… walk fast. Or… upset. It go away when I sit. Old man problems. You know.
+DOCTOR: Right, squeezed. And it happens when you’re active or stressed, and goes away with rest. That’s helpful. How long has this been going on?
+PATIENT: Oh… a long time. Maybe… six months? Seven? I no keep track of silly things. It not… get worse fast. Just… there. Wife… she worry too much. She make me come here.
+DOCTOR: Okay, six or seven months. So it's been fairly stable, not getting rapidly worse. And your wife encouraged you to come in – that’s good of her. Now, you mentioned your heart beats fast sometimes. Does that happen at the same time as the chest pain, or is it separate?
+PATIENT: Separate. Sometimes heart go boom-boom even when I sit still. Especially… after coffee. Or when I think about… taxes. Stupid taxes. It scare me a little, but I… tough old man. Not big deal.
+DOCTOR: Okay, so the fast heartbeat happens independently, often after coffee or when stressed about things like taxes. It sounds like it's concerning to you, even if you feel you're "tough." Let’s talk about your other symptoms, if any. Have you been feeling short of breath, dizzy, or unusually tired lately?
+PATIENT: Tired? I always tired. Old man, remember? Dizzy… no. Short breath… sometimes when I climb stairs. But I no climb stairs much. Wife do all the climbing. I think it just… old age. Not important. You ask too many questions.
+DOCTOR: Okay, tiredness is constant, shortness of breath with stairs. We'll keep that in mind. Now, have you had any problems with swelling in your legs or feet?
+PATIENT: Swelling? No. Legs fine. Feet… I wear shoes. Always wear shoes. What kind of question is this? You think I walk around barefoot? I tell you, I no feel sick. Just… old.
+DOCTOR: Alright, Mr. Sobkowicz. I understand your frustration. Let’s quickly go through some medical history then. Do you have any medical conditions that I should be aware of, like diabetes, high cholesterol, or heart problems?
+PATIENT: Heart… doctor say something years ago. High… something. I forget. Pills. I take pills. Lots of pills. Wife handle all that. She tell me what to take. I no worry about names. Waste of brain space.
+DOCTOR: Okay, you take multiple medications for an unspecified heart condition and potentially high something. Do you know what the pills look like, so we can at least get a sense of what you're on?
+PATIENT: Small white one. Big blue one. Little red one. And… a capsule. Yellow. That all. I take them with breakfast. Don't ask me times, I no remember. My wife, she write it down. I just… swallow. This is ridiculous. Can we be done now?
+DOCTOR: Alright. Let’s quickly go over allergies, then. Are you allergic to any medications, foods, or anything else?
+PATIENT: No allergies. I eat everything. Spicy food, everything. Strong tea. No problem. I tough. Never been sick from food. You think a little spice can hurt me? I lived long life, ate everything. .
+DOCTOR: Okay, no known allergies. Now, before we finish, and to get a better picture, I’d like to do a quick physical exam. Just listen to your heart and lungs, check your blood pressure and pulse, and take a quick look at your legs. Would that be alright?

@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Mr. Stoegbauer. Welcome to the clinic. I’m Dr. Fazzina. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Thank you for seeing me. It's my foot, you see. It's been…troubling me. A sore, a bad one. On my foot.
+DOCTOR: Alright, a sore on your foot. Can you tell me a little more about it?
+PATIENT: It's on the bottom, I think. Hard to see myself, you know? Old age. It hurts when I walk, especially if I stand for too long. It started small, but now…well, it's bigger. And red. Not a good red.
+DOCTOR: Okay. Bigger and red…not a good red, you say. Hmm. And how long has it been bothering you, roughly?
+PATIENT: Oh, goodness. Let me think…maybe three, four months now? It started after I stepped on something sharp in the garden, I believe. But it didn't hurt much then. Just a little scratch. It got worse slowly, over time. I didn't think much of it at first.
+DOCTOR: Three or four months…after stepping on something sharp. Okay. And has anything helped with the pain at all?
+PATIENT: Well, I try to stay off it. That helps some. And I put a bandage on it, of course. But it doesn’t really fix it, you know? Just…covers it up. I tried some cream, too. One my friend gave me for her feet, but it didn’t seem to do much good either.
+DOCTOR: Okay, resting helps a bit, but it's not a full solution. And the cream didn't seem to make a difference. Alright. Now, do you have any other medical problems that I should be aware of?
+PATIENT: Well… the doctor told me a long time ago I have the sugar sickness. Diabetes, he called it. I try to watch what I eat, but it's hard sometimes. And I get tired easily, but that’s just old age, I figure.
+DOCTOR: Diabetes…okay. And you try to manage it with diet. Good. And fatigue… alright. Do you take any medications for your diabetes, or anything else at all?
+PATIENT: I… used to. A little pill. But the doctor changed it a while back, and… honestly, I can’t remember the name of the new one. I just… the nurse tells me which one to take each morning. I don't like to bother her with too many questions.
+DOCTOR: Okay. We’ll figure out what medication you’re on. Don’t worry about bothering anyone, that’s what we’re here for. Now, do you have any allergies to any medications or anything else?
+PATIENT: Not that I know of. I’ve never had a bad reaction to anything. I eat lots of different foods, and I’ve never had trouble. My wife used to give me everything. She knew all that stuff. It’s hard to keep track now, you know?
+DOCTOR: I understand. Alright. Now, before we take a look at your foot, have you had any surgeries or serious illnesses in the past?
+PATIENT: Hmm…let me think. I had my appendix out when I was young. A long time ago. And I had a bad flu a few years back, but that’s about it. Nothing major. Mostly just aches and pains from getting old, you know?
+DOCTOR: Okay, appendix removal a long time ago, and a bout of the flu. Alright. Now, I’m going to take a look at your foot. Could you please remove your shoe and sock?
+PATIENT: Oh. Yes, of course. It’s a bit hard bending down these days.
+DOCTOR: Alright, let’s take a look… Hmm. It does appear quite inflamed. And I see some…discharge. It's a bit hard to tell without further testing, but it could be infected. I’m going to feel around gently… Does this hurt anywhere specifically?
+PATIENT: Ow! Yes, right there. That's where it hurts the most. It's a sharp pain, not just a dull ache. And it feels… warm.
+DOCTOR: Okay. Sharp pain with palpation, and warm to the touch. That’s concerning. I’m going to check your pulses in your foot to make sure the circulation is good. Pulses feel good, but we still need to rule out infection. I’d like to get a quick blood test to check for signs of infection and your blood sugar levels. Also, I think a wound culture would be a good idea to see what, if anything, is growing in there. Do you have any problems with blood draws?
+PATIENT: No, no problems with the blood draw. My wife used to take me all the time. I just want it to feel better, Doctor. It’s hard to get around.
+DOCTOR: I understand completely. We’ll do everything we can to get you feeling better. Let's get those tests ordered right away. The nurse will come in shortly to draw your blood and take a swab of the wound. While we’re waiting for the results, I recommend keeping weight off your foot as much as possible and keeping it clean and dry. Do not try to bandage it tightly. Loose covering is best. We'll know more once we get the lab results back. Do you have any questions for me right now?
+PATIENT: No, I think… I think that covers it. Thank you, Doctor. I appreciate you looking at it. I just hope it isn't too serious.
+DOCTOR: You're very welcome, Mr. Stoegbauer. We'll take good care of you. The nurse will be in shortly. We’ll get those results back as quickly as possible and let you know what the next steps are. In the meantime, if you notice any increased pain, redness, swelling, or fever, please go to the emergency room immediately. Do you understand?
+PATIENT: Yes, Doctor. Emergency room if it gets worse. I understand. Thank you again.
+DOCTOR: .
+PATIENT: Alright, have a good day, Mr. Stoegbauer. We'll be in touch.

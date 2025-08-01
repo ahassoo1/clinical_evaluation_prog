@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Heindel. I am Dr. Jules. Now, please, tell me – and try to be concise – what brings you in today?
+PATIENT: Morning, Doctor. Just Demondre is fine. Um… well, to be honest, I ain’t really sick. I just… been hearin’ good things about this place, and wanted to check it out. See what it’s all about, you know? Never really had a regular doctor before.
+DOCTOR: “Good things,” you say?
+PATIENT: Yeah. Folks down at the docks been talkin’. Said you actually listen to people. And… well, I figured it couldn’t hurt to get a check-up while I was at it. It's been a long time.
+DOCTOR: Well, that’s… unusual. Most patients come with a specific ailment, not… testimonials. However. A preventative check-up is… acceptable. Let’s not waste time. Do you have any current complaints?
+PATIENT: Nope, nothin’ really. Maybe… I get tired kinda easy, but workin' on a ship all day kinda does that to ya. Ain’t nothin’ wrong wrong, if that makes sense. Just… normal tired. Been that way a while.
+DOCTOR: “Normal tired.” Right. And your work… does it involve… physical exertion?
+PATIENT: Yeah, a whole lot. Oilin’ machines, climbin’ ladders, haulin’ stuff… it's a workout. Sometimes long shifts too. Not complainin’, just… explainin’. It ain't an office job, that's for sure.
+DOCTOR: I see. And do you have any family history of… significant illnesses?
+PATIENT: Um… my mom, she had… problems with her heart, I think. She passed away when I was young, so I don’t remember too much. My dad was pretty healthy, worked on boats his whole life too. Never much talked about health stuff in my family, though.
+DOCTOR: Heart problems. Vague, but noted. Any allergies to medications?
+PATIENT: Nope, not that I know of. Never had to take much, thankfully. Tried some allergy pills once for hay fever, but they didn’t do much, so I just kinda deal with the sneezin'. Didn’t bother me too bad.
+DOCTOR: Very well. Are you currently taking any medications, even over-the-counter?
+PATIENT: Nah, nothin'. Just… sometimes I take a pain reliever for my back, after a long shift. But it's just ibuprofen, or somethin' like that. Not every day, just when I need it.
+DOCTOR: Ibuprofen. Adequate. Now, Mr. Heindel, I'm going to perform a basic examination. Please, lie down on the examination table. We need to establish a baseline, regardless of your… lack of symptoms.
+PATIENT: Okay, sounds good. No problem at all, Doctor. Whatever you need. Let me know if I need to do anything special.
+DOCTOR: Just lie flat. And try to relax. Respiratory rate appears normal. Heart sounds… unremarkable. Blood pressure: 130/85. Acceptable, but could be better.
+PATIENT: Okay. Just lettin’ you do your thing, Doctor. Always kinda nervous when people listen to my chest, if I'm bein' honest. Hope everything's alright.
+DOCTOR: Abdomen soft, non-tender. No noticeable masses. Now, let me check your reflexes. Patellar reflexes… within normal limits. Plantar reflex… normal.
+PATIENT: Okay. Yeah, that always feels kinda weird. But alright, I guess. Is… is everything okay so far, Doctor? You seem kinda serious.
+DOCTOR: "Okay" is a subjective term, Mr. Heindel. Everything appears… within acceptable parameters for someone who has not provided a legitimate medical complaint. However, your weight is slightly elevated. BMI is 29.2. We should address that.
+PATIENT: Oh. BMI? Elevated? I… I ain’t really worried about my weight. I eat okay, I guess. Work's hard enough to keep it off, usually. It's probably just muscle, you know?
+DOCTOR: “Muscle,” you say?
+PATIENT: Well… yeah. I mean, I do a lot of liftin' and haulin’ at work. It’s a physical job, like I said. It ain’t like I’m sittin' behind a desk all day. I guess I just… don’t think about stuff like BMI. It don’t really bother me none.
+DOCTOR: Mr. Heindel, I am attempting to conduct a medical examination. Your anecdotal evidence regarding “liftin’ and haulin’” is not a substitute for objective measurements. We will schedule a follow-up appointment for blood work. We need to assess your cholesterol and glucose levels. And I suggest you reconsider your dietary habits. I’ll have the nurse provide you with a list of recommended resources.
+PATIENT: Okay… blood work. I… I don't really like needles. Is it gonna be a lot? And… I guess I can try to eat better. But work’s kinda stressful, and sometimes… well, junk food’s just easier. I appreciate you lookin' at me, though, Doctor. Even if it’s just… numbers and stuff. .
+DOCTOR: The nurse will explain the procedure. It will be… unpleasant, but necessary. And I strongly advise you to prioritize your health. This is not a suggestion, Mr. Heindel, it is a medical recommendation. Very well. That will be all. .

@@ -1,0 +1,17 @@
+DOCTOR: Alright, Mr. Pipolo. So, you’re here today… tell me, in your own words, what brings you in?
+PATIENT: Dry eyes. They just… feel dry. Been that way a while now, I guess. Not fun. Want to get it fixed quick, if we can.
+DOCTOR: "A while now," right. Very helpful. And when you say "dry," can you be… more specific?
+PATIENT: Specific… hmm. Like sand. Feels like sand in 'em sometimes. Other times just… scratchy. Hard to explain. It’s not painful, exactly. Just… annoying. Like when you don't sleep good. Does that make sense?
+DOCTOR: Sand...annoying. Yes, I suppose. And has anything changed recently?
+PATIENT: Changed? Not really. Same work, same house. August is kinda dusty usually, maybe that? Lots of wind lately. I work outside, you know, cement. Dust flies. Not sure if that’s new though. Always dusty.
+DOCTOR: Cement work… alright. Do you wear any eye protection when you're working?
+PATIENT: Eye protection? Sometimes. I got some goggles, but they fog up. And they’re kinda hard to see out of when you’re mixing stuff. I usually just try to blink it away. Old habit, I guess.
+DOCTOR: Right. Well. Let's have a look at your eyes, then. Perhaps we can assess the damage, so to speak. Please, have a seat and look straight ahead. I’ll need to get quite close.
+PATIENT: Okay. Close is fine. Just… try to be quick, alright? I got things to do.
+DOCTOR: Alright… hmm. Conjunctiva appears slightly inflamed, and there's some mild corneal haze on both eyes. Blink rate seems a little slow, and your tear film… not optimal, to say the least. No foreign bodies visible at this time. It seems you have a case of dry eye, likely exacerbated by your work environment. It’s… not severe, but certainly irritating.
+PATIENT: Exacerbated? What does that mean? Just tell me if it's bad or not. And what do I do about it? Is it gonna hurt me? I just want something for it.
+DOCTOR: "Exacerbated" means your work is making it worse. And no, it won’t hurt you, not in the sense of permanent damage, but it can be very uncomfortable. It’s… irritating, as I said. We can try some artificial tears, over-the-counter. Use them frequently throughout the day. If that isn’t enough, we can discuss prescription drops. And… you really should consider better eye protection, even if it means finding a different pair of goggles. I’ll write you a prescription for some basic artificial tears. Try to use them every few hours, and see if that helps. If your symptoms don’t improve in a week, schedule a follow-up appointment, and we’ll consider other options.
+PATIENT: Okay. Artificial tears. Every few hours. Goggles… I’ll try. A week… alright. How much do these drops cost? I ain't got insurance, you know. Just wanna get this over with.
+DOCTOR: They're… relatively inexpensive. Ten to twenty dollars, usually, depending on the brand and where you purchase them. I can't provide specific pricing. Is there anything else?
+PATIENT: No. I think that’s it. Just the drops. Ten to twenty dollars. Okay. Thank you, Doctor. .
+DOCTOR: Yes, well. You’re welcome. Try to take care of yourself. .

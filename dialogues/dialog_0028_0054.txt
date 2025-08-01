@@ -1,0 +1,30 @@
+DOCTOR: Alright, Mr. Tati. So, what brings you in today?
+PATIENT: Eh… cough. I keep coughing. Long time already. And… tired. Very tired. Also, my nose… always block, then runny. Block, then runny. Many times happen like this.
+DOCTOR: Okay, a cough, fatigue, and nasal congestion. "Long time" is vague, Mr. Tati. Can you be more specific?
+PATIENT: Specific…? Hmm… maybe… six months? Or more? I dunno exactly. I fix tire, very busy. Don't really keep track of time when not working. It's… annoying cough, you know? Keeps me awake sometimes. My wife also complain.
+DOCTOR: Right. Six months, give or take. And it's interfering with your sleep and… your wife has noticed. Any fever, chills, or body aches with this cough?
+PATIENT: Fever… sometimes feel warm. Not very high, just… warm. Not always, though. Chills… not really. Body ache… a little bit sometimes, but mostly just tired. Like… no energy. Like battery low, you know?
+DOCTOR: “Battery low.” Okay. Have you noticed any shortness of breath, wheezing, or chest pain with the cough?
+PATIENT: Chest pain… no. Shortness of breath… sometimes, when I walk fast… uphill, maybe. Wheezing… what is wheezing? Like… whistling sound? No, I don’t think so. Just… hard to breathe sometimes. But not always.
+DOCTOR: A whistling sound when you breathe. Good to know. Any color to the mucus you're coughing up?
+PATIENT: Mucus…? Uh… usually… white? Sometimes… yellow. When I really sick, maybe a little bit green. But mostly white or yellow. I don’t… pay very close attention, sorry. Just… cough it out.
+DOCTOR: Okay. White or yellow mucus. Have you tried anything to treat this yourself?
+PATIENT: Uh… yeah. I drink a lot of water. My wife give me some cough syrup from the shop. The red one? It help a little bit, for a few hours, then stop. I also try… steam? Like, hot water with towel over head. But not much help also.
+DOCTOR: The red syrup. Right. Do you have any allergies to medications, foods, or anything else?
+PATIENT: Allergies…? Hmm… I don't think so. Never try anything before that make me feel bad. Maybe… a little bit itchy when bitten by mosquito. But that normal, right? Everyone itchy when mosquito bite.
+DOCTOR: Fine. Let's have a listen to your lungs, then. Please, sit up on the examination table.
+PATIENT: Okay. Like this? Okay.
+DOCTOR: Okay. Take a deep breath… and exhale. Again. And one more. Lungs are clear bilaterally, but there is some mild wheezing in the lower lobes. Heart sounds are normal. Now, let's check your throat and ears. Open wide, please.
+PATIENT: Okay. I try to open very wide. Is okay?
+DOCTOR: Throat is mildly red, no obvious exudate. Ears look normal. Now, I’m going to feel your lymph nodes. This might be a little uncomfortable.
+PATIENT: Okay. Ouch! A little bit sore there. Maybe because I always tired.
+DOCTOR: Some mild tenderness in the anterior cervical lymph nodes. Given your symptoms – the cough, fatigue, nasal congestion, and mild wheezing – it sounds like you likely have an upper respiratory infection, possibly bronchitis. However, the fatigue is prolonged. Do you smoke, or are you exposed to a lot of secondhand smoke?
+PATIENT: Smoke? No. I don't smoke. My wife also don’t smoke. I fix tire all day, lots of dust maybe. But not smoke.
+DOCTOR: Dust exposure. Okay. Look, Mr. Tati, I’m going to order a chest X-ray just to rule out anything more serious, like pneumonia. And I'm going to order a complete blood count to check for infection and rule out other causes of your fatigue. Do you have insurance?
+PATIENT: Insurance…? No. I don’t have insurance. Too expensive. My wife, she work in shop. We don’t have money for insurance.
+DOCTOR: Right. No insurance. Well, the X-ray will be… costly. It's difficult to say exactly without knowing the facility's rates. For now, I'll prescribe an expectorant to help loosen the mucus and a decongestant for your nose. Drink plenty of fluids, and get as much rest as possible. If your symptoms worsen – high fever, shortness of breath, chest pain – you must go to the emergency room immediately. Do you understand?
+PATIENT: Emergency room…? Okay. Understand. If bad… go emergency room. Drink water… rest… Okay. What if I can't pay for X-ray? Is very important?
+DOCTOR: The X-ray is recommended, Mr. Tati, not essential. Without it, I can’t definitively rule out other possibilities. But if you absolutely cannot afford it, we'll just monitor your symptoms closely. Here. This is a list of clinics that offer a sliding scale based on income. And the prescription. I suggest you follow up with a primary care physician as soon as possible. Do you have any other questions?
+PATIENT: No… I think that's all. Thank you, Doctor.
+DOCTOR: Good. Try to get some rest, Mr. Tati. .
+PATIENT: .

@@ -1,0 +1,28 @@
+DOCTOR: Alright, Nixon, is it?
+PATIENT: Yes, that’s right. Nixon Kreckel. It’s… good to meet you, Doctor Osga. I think. I was told to come in today about my leg.
+DOCTOR: Your leg. Right. And what about your leg?
+PATIENT: Well, it’s swollen. My left leg, mostly. It’s been getting bigger, I suppose, over the past few days. Not suddenly, just… slowly. And it feels a bit… tight, if that makes sense. Like a heavy band around it.
+DOCTOR: A heavy band, hmm. How long exactly has it been getting bigger?
+PATIENT: Oh, goodness. That’s a tricky one. Maybe… a week? Possibly a little longer. It’s hard to say for sure. I didn’t really notice it at first, just that my trousers felt a bit snugger. Then I looked, and it was… there. Bigger than usual, that is.
+DOCTOR: Right. And have you injured it in any way?
+PATIENT: No, not that I know of. I haven't fallen or anything. I've been walking about as normal, just… with a bit of a wobble, maybe. It doesn’t hurt to walk on it, just… feels a bit off. It's not like a break or a sprain, I don't think.
+DOCTOR: Hmm. Alright. Let’s have a look then, shall we?
+PATIENT: Yes, please. That sounds good. I was a bit worried just… explaining it. It's hard to describe, you see.
+DOCTOR: Up you get then. And try not to waste my time with vague descriptions, alright?
+PATIENT: Oh. Right. Sorry. I’ll… I’ll try. Is there a sheet I should… use?
+DOCTOR: There. Use that. Now, let’s see your leg. Just extend it straight out.
+PATIENT: Like this? It feels a bit… strange, being stretched out like this. Is this alright? It doesn’t hurt, exactly, but…
+DOCTOR: Hmm. Yes, it is swollen. And warm. Alright. Now, can you flex your foot against my hand?
+PATIENT: There. Is that… is that enough? It feels a bit tender, if I’m honest. Like a bruise, but… deeper. Is something badly wrong?
+DOCTOR: Tender. Of course it’s tender. Swelling, warmth, tenderness… could be a number of things. Have you noticed any skin changes?
+PATIENT: Skin changes? Oh… I… I hadn’t really noticed. It looks… a bit red, maybe? Just on the swollen part. And it feels… a little bit rough? Not smooth, like the rest of my leg. Is that what you mean? I’m not very good at noticing these things, I'm afraid.
+DOCTOR: Redness, roughness… Honestly. Alright, have you had any fever, chills, or any pain in your chest?
+PATIENT: Oh, goodness. No, no fever. Not that I’m aware of, anyway. No chills either. And no, no chest pain. I get a bit breathless sometimes, but that’s just… my usual. I have a funny heart, the doctor told me a while back. Something about it fluttering. Is that important?
+DOCTOR: A fluttering heart?
+PATIENT: Yes. That’s what they said. Atrial… something? I don't remember the full name. They gave me pills for it, but I… I haven't been taking them regularly, I'm ashamed to admit. Too many to remember, you see. Does that make it worse? Is that why my leg is swollen?
+DOCTOR: So you're not compliant with your medication... and then you wonder why things are going wrong?
+PATIENT: Oh dear. I… I didn’t mean to cause trouble. I just forget, you see. It's a bit much to keep track of, with everything. I’m sorry. Will this… leg… be alright? Is it serious?
+DOCTOR: Honestly, the stories I hear. Alright, Nixon, look. It could be a blood clot, given your history. We need to rule that out. I’m going to order a D-dimer test and an ultrasound. If it's a clot, you'll need immediate treatment. Do you understand?
+PATIENT: A… a clot? Oh goodness. That sounds… very bad. Immediate treatment? Yes, I… I think I understand. A test and an ultrasound. Will they hurt? And… what if it is a clot? What does "immediate treatment" even mean?
+DOCTOR: Look, it'll be fine. The tests won’t be pleasant, but they're necessary. If it's a clot, it means you'll likely need blood thinners, possibly a hospital stay, depending on the severity. Now, I'm going to get the nurse to draw your blood for the D-dimer. Don’t waste my time with further questions, alright?
+PATIENT: Oh. Blood thinners… and a hospital? No, I… I don’t think I have any more questions right now. I’ll just… wait for the nurse, then. Thank you, Doctor.

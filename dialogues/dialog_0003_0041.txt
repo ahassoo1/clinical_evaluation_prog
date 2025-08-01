@@ -1,0 +1,34 @@
+DOCTOR: Good morning, Mr. Astores. I am Dr. Yackey. So, let’s get straight to it. What brings you in today?
+PATIENT: Good morning, Doctor. It’s good to meet you too. Well, to be honest, I’ve been feeling… weaker. It’s been happening for a little while now, getting harder to do things. The doctor back home, he said it was… something with the nerves? Multiple… something. I forget the long word. It’s making life a bit difficult, you understand.
+DOCTOR: Yes, well, "something with the nerves" is… not particularly helpful, is it?
+PATIENT: No, I suppose not. I’m not a medical man, Doctor. He said it was… Multiple Sclerosis. That’s it. It’s just… I’m getting weaker, and it worries my wife. I used to be strong, you see. Athletic trainer, I was. Helped many football players. Now… well, now I need help.
+DOCTOR: Multiple Sclerosis. Right. And how long ago was this diagnosis made, Mr. Astores?
+PATIENT: Let me think… it was… about five years ago, I believe. Maybe six. Time gets away from you, you know? It started with just a little… numbness in my legs, and a bit of trouble walking sometimes. I didn’t think much of it at first, just old age creeping in. But it’s been getting worse each year, slowly but surely.
+DOCTOR: And has anything specific triggered these worsening episodes, Mr. Astores?
+PATIENT: Hmm… that’s a good question, Doctor. Not that I can recall, really. It doesn’t seem to be tied to anything specific. Hot weather bothers me a bit, I think. Makes me feel… more tired, more wobbly. But it happens even when the weather is nice. It just… comes and goes. It’s hard to pinpoint, you understand?
+DOCTOR: So, intermittent weakness, exacerbated perhaps by heat. And are you experiencing any other symptoms besides the weakness, Mr. Astores?
+PATIENT: Yes, Doctor. Sometimes my vision gets blurry, especially when I’m tired. And… well, my balance isn’t what it used to be. I have to be careful walking, or I might stumble. Also, I get very tired. More tired than I should, I think. Even after a good night’s sleep. It’s… frustrating, you see.
+DOCTOR: Blurry vision, balance issues, fatigue. Alright. And have you noticed any changes in your bowel or bladder function?
+PATIENT: Oh… well. Yes, Doctor. A little. It’s… difficult to explain. Sometimes, I have trouble… going to the bathroom. Both of them, really. It’s not all the time, but it’s… a problem. I don’t like talking about it, if you don’t mind. It’s a bit embarrassing.
+DOCTOR: It’s all part of the process, Mr. Astores. We need to have a complete picture. Any recent infections, fever, or any other new symptoms at all?
+PATIENT: No, Doctor, no fever or infections. Nothing like that. Just the weakness, the blurry vision, the trouble with my balance, and… well, the bathroom troubles. Everything else is pretty much the same. I eat okay, sleep okay… just tired, mostly. It’s been a slow decline, you understand? Not a sudden thing.
+DOCTOR: Alright. Let’s do a quick neurological exam, shall we?
+PATIENT: Yes, Doctor. That sounds… good. Whatever you think is best. I’m ready when you are. Just tell me what to do. I trust your judgement.
+DOCTOR: Please, if you’ll just sit here. I’m going to check your reflexes, coordination, and strength. Just relax. First, can you squeeze my hands as tightly as you can?
+PATIENT: Yes, Doctor. I’ll try. Is that alright? Not too hard, I hope. Old man’s hands, you know.
+DOCTOR: Adequate, but slightly diminished on the left. Now, can you push your hands down against mine?
+PATIENT: Like this? Is that too much? I don't want to strain myself.
+DOCTOR: Slightly diminished resistance on the left as well. Now, can you close your eyes?
+PATIENT: Yes, Doctor. Eyes are closed. What are you going to do now?
+DOCTOR: I’m going to test your reflexes. Just relax. We’ll start with the plantar reflex. …Interesting. Now, let’s check your coordination. Can you touch your nose with your index finger?
+PATIENT: Oh… that was clumsy. I used to be so precise. My hand is… shaky today.
+DOCTOR: Mild dysmetria noted. Now, let’s check your gait. Can you stand up and walk a few steps for me?
+PATIENT: It’s… difficult, Doctor. I have to be careful. I don't want to fall.
+DOCTOR: Alright, that’s enough. Please, sit back down. It appears your symptoms have progressed. It's consistent with a relapse of Multiple Sclerosis.
+PATIENT: A relapse…? Oh dear. That doesn’t sound good, Doctor. What does that mean? Will I… get worse? Is there anything you can do? My wife will be very worried.
+DOCTOR: A relapse means your symptoms have flared up. It doesn’t necessarily mean permanent worsening, but it does require treatment. We’ll need to get an MRI to assess the extent of the new lesions. I’m going to prescribe a short course of high-dose corticosteroids to reduce the inflammation. That should help with the symptoms, at least temporarily. I'm also referring you to a neurologist for ongoing management. They're the specialists in this area. Do you have any allergies to medications?
+PATIENT: Allergies…? Let me see… I don’t think so. Not that I’m aware of. I’ve never had a bad reaction to anything before. My wife usually handles the medications, so she might know better. But I don’t believe I have any allergies. Cortico… steroids, you say? Will that make me feel better? And a… neurologist? That sounds… serious.
+DOCTOR: The corticosteroids will help reduce the inflammation causing your symptoms, yes. They can have side effects, such as increased blood sugar and mood changes, but they are generally well-tolerated for a short course. As for the neurologist, it’s standard of care for managing Multiple Sclerosis. They will monitor your condition and adjust your treatment as needed. Here’s the prescription for the corticosteroids, and this is the referral to Dr. Chen, the neurologist. Schedule an appointment as soon as possible. Is your wife here today?
+PATIENT: Yes, Doctor, she’s right outside. She drove me here. I’m sure she’ll want to talk to you too. She’s very good at… keeping track of things. She’ll make sure I get the appointment scheduled. Thank you, Doctor. I appreciate you explaining everything. It’s… a lot to take in.
+DOCTOR: Very well. I’ll speak with her briefly. I have other patients waiting. You may call the office if you have any questions. And Mr. Astores, please, be careful. .
+PATIENT: .

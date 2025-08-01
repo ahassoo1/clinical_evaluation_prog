@@ -1,0 +1,45 @@
+DOCTOR: Good morning, Mr. Barban. Welcome to the clinic. I'm Dr. Bacy. It's nice to meet you. So, to start, can you tell me what brings you in today?
+PATIENT: Good morning, Doctor. It is… a physical. For the insurance. I need to have this done before it starts, yes? I do not know much about this… Medicare. It is complicated.
+DOCTOR: Yes, that's perfectly alright. A physical exam to satisfy your insurance requirements is a common reason for visits. And Medicare can be complicated, you're not alone in feeling that way. We'll get everything taken care of. Just to confirm, you're here for a routine physical as requested by Medicare. Is that correct?
+PATIENT: Yes. Routine. That is… good. I want to make sure everything is… correct with the insurance. They ask for many things. It is… a lot of paper.
+DOCTOR: I understand completely. Insurance paperwork can definitely be overwhelming. We’ll do our best to make this as smooth as possible. To start, let's go over some basic information. I see here you're 28 years old, and your height is 188 centimeters and weight is 90 kilograms. Is that all current and accurate?
+PATIENT: Yes, that is… correct. I have not changed. I am tall, and… not heavy. Though people say I should eat more. They do not understand. It is… my body.
+DOCTOR: That’s good to know. You know your body best. Alright, let’s get started with a review of your medical history. Have you had any significant illnesses or surgeries in the past?
+PATIENT: No. Nothing… significant. I had the… childhood things. Chickenpox, measles, things like that. But nothing… serious. I have been… healthy. Mostly. A few colds, but… everyone gets colds.
+DOCTOR: Okay, that’s helpful to know. And what about your family?
+PATIENT: My family? They are… in Yemen. Most of them. Some are… here now. They have… the usual things. Old age problems. My father, he has… the heart. And my aunt, she has… the sugar. But not me. I do not have… those problems.
+DOCTOR: Okay, so a family history of heart problems in your father and diabetes in your aunt. That's good information to have. Do you know if either of them had these conditions at a young age?
+PATIENT: I… do not know. They do not… tell me everything. It is… their business. They say it is… complicated. Old family things. I do not ask. It is… better this way.
+DOCTOR: I understand. That's perfectly alright. We can work with what we know. Now, can you tell me a little about your lifestyle?
+PATIENT: Lifestyle? I… work. I work at the food place. Processing. It is… steady work. I go to work, I come home. I eat. I sleep. Sometimes I… visit friends. It is… simple. Not much to tell.
+DOCTOR: That sounds like a very consistent routine. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No. Absolutely not. I do not… do those things. They are… bad. Unhealthy. My mother would… not approve. And I… agree with her. It is better to be… clean.
+DOCTOR: That's excellent. And are you currently taking any medications, including over-the-counter medications or supplements?
+PATIENT: No. Nothing. I do not like… putting things in my body. Unless I am… sick. Then I take… the pills for the cold. But not… regularly. Just when I need them.
+DOCTOR: Okay, no regular medications or supplements. That’s good to know. Now, do you have any allergies to medications, foods, or anything else?
+PATIENT: No. I eat… everything. Sometimes my stomach… disagrees. But it is not an… allergy. Just… too much food. Or… bad food. I am careful. Mostly.
+DOCTOR: Okay, no known allergies. Now, before we move on to the physical exam, is there anything specific you're concerned about today?
+PATIENT: No. Nothing… specific. I just want to make sure… everything is okay. So the insurance… will approve. I do not want… problems. I just want to… work. And be left alone. Is that… too much to ask?
+DOCTOR: No, that’s not too much to ask at all. We’ll do a thorough exam to make sure everything is as it should be. And we'll get all the necessary paperwork completed for your insurance. Alright, let’s move on to the physical exam. Would you mind stepping on the scale so we can confirm your weight?
+PATIENT: Yes. Fine. The scale. Just… do not make a comment. Some people… they say things. It is… rude. I am a healthy weight. I know this.
+DOCTOR: Okay, 92 kilograms. That’s a slight change from what’s recorded, but well within a healthy range. Now, let’s check your blood pressure. Please relax your arm, and I’ll put the cuff on.
+PATIENT: Fine. Just… be quick. I do not like… things on my arm. It makes me… uncomfortable.
+DOCTOR: Okay, your blood pressure is 128 over 78. That’s perfectly normal. Now, I’m going to listen to your heart and lungs with the stethoscope. Please take deep breaths.
+PATIENT: Fine. It is… cold. This thing.
+DOCTOR: Your heart sounds regular, and your lungs are clear. Now, I’m going to check your reflexes. This involves a small hammer on your knees and ankles. Is that alright?
+PATIENT: No. Absolutely not. I do not like… being hit. Even with a… small hammer. It is… unnecessary. I am healthy. I do not need… hitting.
+DOCTOR: You're absolutely right. That was my mistake. We don't need to do anything you're uncomfortable with. We can skip that part entirely. Let's move on to looking in your ears and throat. Would that be alright?
+PATIENT: Yes. Fine. Looking. Just… be gentle. I do not like… things in my ears. Or… poking my throat. But looking is… acceptable.
+DOCTOR: Your ears look clear, and your throat is normal. Everything looks good so far. Now, just a quick check of your lymph nodes. I’ll gently feel along your neck and collarbone. Is that alright?
+PATIENT: No. Absolutely not. Do not… touch me. I do not like… being touched. Especially… the neck. It is… private. I am healthy. I do not need… feeling.
+DOCTOR: You are absolutely right. I apologize. We will skip that part. It seems you’re very clear about what you are comfortable with, and I respect that completely. Given your discomfort with the physical examination, we’ve completed a basic assessment. To get a more complete picture of your health, I recommend we order some blood work. Would that be acceptable?
+PATIENT: Blood work? Yes. Fine. Taking blood is… acceptable. Less… touching. As long as it is… quick. And you do not… poke too much. And I get to… sit down.
+DOCTOR: Yes, you’ll be able to sit down comfortably, and the phlebotomist is very skilled – it will be as quick and painless as possible. We’ll order a complete blood count and a basic metabolic panel. This will give us a good baseline understanding of your health. I’ll also print out a requisition form for you to take to the lab. They’re located just down the hall. Do you have any questions about the blood work or the process?
+PATIENT: No. No questions. Just… the form. And… tell them to be quick. I do not want to… wait. And… no poking.
+DOCTOR: Here you go. It lists the tests the lab needs to perform. I’ve also noted “Please be quick” on the form. The lab technician will take good care of you. Once the results are back, we can schedule a follow-up appointment to discuss them. Does that sound alright?
+PATIENT: Yes. Fine. The form. And… follow-up. When? I have… work. I need to… know.
+DOCTOR: The lab usually takes 2-3 business days to process the results. How about we tentatively schedule a follow-up appointment for next Thursday afternoon?
+PATIENT: Thursday? Yes. Fine. But… not too long. I have… things to do. Work. And… other things.
+DOCTOR: Okay, I have you scheduled for next Thursday at 2:00 PM. That should give the lab enough time to process the results. We can always adjust the appointment if needed. Is there anything else I can assist you with today?
+PATIENT: No. Nothing. Just… the results. And… do not poke.
+DOCTOR: Alright. We'll see you next Thursday. Please let the receptionist know if you need to reschedule. Have a good day, Mr. Barban.

@@ -1,0 +1,42 @@
+DOCTOR: Alright, Demondre. Have a seat. So, what brings you in today?
+PATIENT: Uh, hi. Thanks. Well, it ain’t really… a problem, not exactly. Just curious, you know? I been workin’ on the boats for a bit now, and… well, I figured I should probably get a check-up sometime. Never really done that before, if that makes sense.
+DOCTOR: Right. A “check-up.” That’s… proactive, I guess. Most people come in when something’s wrong, not before. So, you’re a boat worker. What kind of work?
+PATIENT: Yeah, well, I figured better safe than sorry. I’m a sailor mostly, but I do a lot of the oilin’ too. Keepin’ the machines runnin’ smooth, ya know? Lots of heavy stuff, gettin’ into tight spaces… it’s good work, pays the bills. Just… thought I should see if all that’s messin’ me up inside, maybe.
+DOCTOR: "Messin’ you up inside." Very descriptive. Alright. So, no specific complaints, just a general worry about the physical demands of your job?
+PATIENT: Yeah, that's about it. Not like I'm hurtin’ right now. But, you know… my back gets a little sore sometimes after a long shift. And I get tired, real tired. Just wonderin’ if that’s normal, or if it’s somethin’ I should be lookin’ into. I don't want it turnin’ into a real problem down the road, ya know?
+DOCTOR: Okay. So, some back soreness and fatigue. Let’s get some details. When you say “sore,” where exactly is the pain?
+PATIENT: Uh, mostly low back. Like, right at the bottom of my spine. And it’s not, like, a sharp pain. More of a dull ache, kinda. It comes and goes, mostly after liftin’ heavy stuff or bendin’ a lot. Sometimes it’ll just be there when I wake up, too. It’s nothin’ that stops me from workin’, but it’s… annoying, you know?
+DOCTOR: “Annoying.” Right. And how long has this been going on?
+PATIENT: Hmm… that's a good question. I guess… on and off for maybe six months now? It gets worse when I'm really busy on the boat, then kinda goes away when I have a few days off. It’s kinda hard to keep track, to be honest. We’re always movin’.
+DOCTOR: Six months, intermittent. Alright. Do you notice anything that specifically makes it worse, besides lifting and bending?
+PATIENT: Well… sittin’ for too long ain’t good. Especially those hard boat seats. And sometimes, if I twist wrong when I’m reachin’ for somethin’, it’ll really flare up. But mostly it’s just the heavy stuff and the bendin’. I try to be careful, but… well, it’s part of the job, ya know? Can't exactly not lift things on a boat.
+DOCTOR: Of course not. Let's talk about your fatigue. How would you describe that?
+PATIENT: It's… just tired, all the time. Like, even after a full night's sleep, I still feel kinda worn out. Not like I'm sick, just… sluggish. It's harder to get goin' in the mornin', and I get tired faster when I'm workin'. Used to have more energy, I think. It’s kinda slow buildin’, too. Didn't notice it much at first, but now… it’s definitely there.
+DOCTOR: Alright. And do you have any other symptoms?
+PATIENT: Hmm… let me think. Not really. I ain't been sick or nothin'. No fever, no cough, no nothin' like that. I guess… sometimes I feel a little… off. Like, kinda dizzy sometimes when I stand up too fast, but it goes away pretty quick. It ain't happenin’ all the time, though. Really, that's about it. I’m feelin’ pretty good otherwise.
+DOCTOR: Okay. And just to cover the basics, any history of medical problems?
+PATIENT: Not really. I broke my arm when I was a kid, fallin' out a tree. But that healed up fine. Never been to the hospital for nothin’ serious. My mom always said I was a tough kid. She passed away a few years back, though. But as far as stuff I got goin’ on… nothin' major.
+DOCTOR: Alright. Any surgeries?
+PATIENT: Nope. Never had any surgeries. Just the broken arm when I was little. That was just a cast, nothin' fancy. I’m pretty lucky, I guess.
+DOCTOR: Okay. Any medications you’re taking?
+PATIENT: Nope. Don't take nothin' regularly. Maybe some pain relievers if I really tweak my back, but that’s rare. Like, once or twice a year, maybe. Over-the-counter stuff, ya know? Not prescription.
+DOCTOR: Alright. And any allergies to medications, food, or anything else?
+PATIENT: Nope. Not that I know of. Never had a reaction to anything. My mom always made sure I ate healthy stuff, though. So maybe that’s why? I dunno.
+DOCTOR: Okay. Well, based on what you’ve told me, it sounds like you’re experiencing some musculoskeletal discomfort likely related to the physical demands of your job. Let's do a quick physical exam, just to get a baseline. It won't be extensive, but I want to check your range of motion, reflexes, and listen to your heart and lungs. Sound good?
+PATIENT: Yeah, that sounds good. Whatever you think is best. I just wanna make sure it ain’t somethin’ serious. Whatever needs doin’, I’m game.
+DOCTOR: Alright. Go ahead and lie down on your stomach, if you don't mind. I’ll start with your back. I'm going to palpate your spine to check for tenderness or muscle spasm. Let me know if anything feels particularly painful.
+PATIENT: Okay. Alright, go ahead. Just let me know if I need to move or anything. I’m a little ticklish, though, just warnin' ya.
+DOCTOR: Okay. Just relax. I'm just feeling for any areas of tenderness. Does this feel particularly sensitive?
+PATIENT: Ooh! Yeah, that spot right there, kinda low down… yeah, that’s a little sore. Not sharp pain, just… uncomfortable. Like a dull ache, like I said before.
+DOCTOR: Alright. And what about if I ask you to bend forward and touch your toes?
+PATIENT: Okay. Woah, that’s… not as easy as it used to be. A little stiff, ya know? My hamstrings are tight, I think.
+DOCTOR: Alright. And can you twist your torso to the left and then to the right?
+PATIENT: Okay. A little creaky, you know? Not a lot of pop, but definitely feels tight. Left side feels a little tighter than the right, I think.
+DOCTOR: Heart and lungs sound clear. Blood pressure is normal. Alright. Based on the physical exam and what you've told me, it sounds like you’re experiencing mechanical back pain, likely due to the repetitive strain and physical demands of your job. It doesn’t seem to be anything serious at this point, but we need to be proactive. I recommend some physical therapy to strengthen your core and back muscles, and improve your flexibility. I'm going to write you a referral. Also, I want you to be mindful of your lifting technique and posture. Do you have any questions?
+PATIENT: Physical therapy, huh? That sounds… good. I guess. I ain’t ever done that before. Is it gonna be hard? And what about the liftin’? I mean, I gotta lift stuff on the boat. Can I still do my job?
+DOCTOR: Look, it's not going to be easy, but it's manageable. The physical therapist will teach you proper form and exercises to strengthen your back and core. They will also show you how to lift safely. You can still do your job, but you need to be careful and follow their recommendations. Think of it as preventative maintenance. We’re trying to avoid a more serious injury down the line. Are you willing to commit to the therapy?
+PATIENT: Yeah, yeah, I guess so. I mean, I don't wanna end up all busted up, ya know? Preventative maintenance… yeah, that makes sense. So, you think that'll fix it? Like, I won't be feelin' all sore and tired all the time? And where do I even go for this therapy?
+DOCTOR: It won’t be a magic bullet, Demondre. It takes time and effort. But it should significantly improve your symptoms and prevent them from worsening. Here’s the referral to a physical therapy clinic nearby. They’ll schedule an initial evaluation, and they will develop a treatment plan tailored to your needs. I’m also going to suggest taking some over-the-counter ibuprofen or naproxen for pain relief as needed, but don't exceed the recommended dosage. Do you have any other questions, or are we all set?
+PATIENT: Ibuprofen, okay. I already do that sometimes, like you said. No, I think that’s about it. You been really helpful, Doc. Thanks for not laughin' at me for bein' all sore and tired. It’s good to know it’s probably not somethin' serious. I appreciate it.
+DOCTOR: Alright. Just be mindful of your body, follow the physical therapist's recommendations, and don’t hesitate to come back if your symptoms worsen or you develop new concerns. Have a good day. Next.
+PATIENT: Okay, you too. Thanks again. .

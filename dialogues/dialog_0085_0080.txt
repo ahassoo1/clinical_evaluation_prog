@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Thyra. Welcome to the clinic. I'm Dr. Lahn. It’s nice to meet you. So, what brings you in today?
+PATIENT: Good morning, Dr. Lahn. It’s nice to meet you too. I'm just here to get some forms filled out, really. Nothing major. Just need to get it done.
+DOCTOR: Okay, I see. Forms can be a bit of a hassle, can’t they?
+PATIENT: They sure can. Especially when you don't know what they're asking sometimes! I’m Thyra Fabing, by the way, in case it didn’t come through on the system.
+DOCTOR: Yes, I see your name now, thank you for confirming. And no worries at all about the forms. That’s what I’m here for – to help clarify anything that’s unclear. Before we dive into those, just to get a general picture, is there anything specifically you're concerned about health-wise today?
+PATIENT: Not really, no. Like I said, just the forms. I'm married, and I have Medicare, if that's helpful. Everything's been pretty good, thankfully. I work with valves and stuff, so I stay pretty active.
+DOCTOR: Okay, good to hear you're generally feeling well and staying active. Valves… interesting work! That sounds physically demanding. And Medicare is helpful information, thank you. Just so I have a complete picture, could you tell me a little bit about your medical history?
+PATIENT: Hmm, medical history… let me think. I haven't had anything major happen, thankfully. I had the usual childhood stuff, you know, chickenpox, measles… nothing serious. I broke my arm once when I was a kid, climbing a tree. And I get regular check-ups with the tribal doctor back on the reservation. I can't really recall anything else significant off the top of my head. Is there anything specific you need to know?
+DOCTOR: That's helpful. No major issues is good. And it’s excellent that you're keeping up with regular check-ups with the tribal doctor – that's very important. Do you recall any surgeries you've had?
+PATIENT: No surgeries. Never had any. Just the broken arm, and that healed up fine with a cast. I was a little scared of doctors when I was little, so I avoided them when I could!
+DOCTOR: That’s understandable – a lot of kids feel that way. It's good you're here now. And no surgeries is good to know. Now, thinking about your family… are there any significant medical conditions that run in your family?
+PATIENT: That’s a good question… let me think. My grandma on my mother’s side had diabetes, I believe. And my uncle, he had some heart trouble a few years back. Other than that, not really. My mom was pretty healthy, and my dad… well, he passed away when I was young. It was a long time ago, so I don't remember much about his health.
+DOCTOR: Okay, diabetes and heart trouble. That's good to know. We'll keep those in mind. Now, are you currently taking any medications?
+PATIENT: No, I'm not. Nothing at all. I try to stay away from medication as much as possible, if I can help it. I believe in letting my body heal itself, you know?
+DOCTOR: That’s a good philosophy. And it's good you’re not currently on any medications. Finally, do you have any allergies to medications, food, or anything else?
+PATIENT: Nope, no allergies that I know of. I've eaten pretty much everything, and haven't had a reaction. I've never even had poison ivy! I feel pretty lucky, honestly.
+DOCTOR: That is lucky. Alright, Thyra, that gives me a good general picture. Now, just to be thorough, I’d like to do a quick physical exam – just listen to your heart and lungs, check your blood pressure, and take a quick look in your ears and throat. Is that okay with you?
+PATIENT: Yes, that's perfectly fine. Sounds good. I don’t mind at all. Go ahead.
+DOCTOR: Okay, your blood pressure is 122/78, which is excellent. Now, I’m going to listen to your heart and lungs. Please take a few deep breaths for me. Heart sounds are regular, no murmurs detected. Lungs are clear to auscultation bilaterally. Ears and throat appear normal, no signs of infection. Everything sounds and looks good, Thyra. No concerning findings on the physical exam. Do you have any questions about anything I've done so far?
+PATIENT: No, everything sounds good to me. You were very gentle, too, which I appreciate! So, does that mean I'm all set, then? Just the forms now?
+DOCTOR: Yes, that's right. Everything sounds and looks good. It seems like you’re in good health, which is wonderful. We can go ahead and finish up those forms now. Just let me know if you have any questions while you're filling them out. Here’s the paperwork. Take your time.
+PATIENT: Okay, great. Thank you, Dr. Lahn. I will.
+DOCTOR: Of course. I'll be right here if you need anything at all. Don't hesitate to ask.

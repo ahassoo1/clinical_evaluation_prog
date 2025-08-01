@@ -1,0 +1,17 @@
+DOCTOR: Good morning, Ms. Julie. I am Dr. Eaddy. It says here you're here today for a consultation. Perhaps you could tell me what brings you in?
+PATIENT: Yes, well, it’s… rather obvious, isn’t it? I seem to be losing my faculties. Vision, hearing… it all just came on so suddenly. Honestly, it's quite inconvenient. I have a very busy schedule, you know.
+DOCTOR: “Faculties,” you say. And when did you first notice these changes, Ms. Julie?
+PATIENT: Oh, goodness. It was… sometime last week, I suppose. It’s all a bit of a blur, to be perfectly honest. I don’t concern myself with dates. Things just… happened. It was after a rather stressful board meeting, if that’s relevant. Though I doubt it is.
+DOCTOR: Stress can certainly exacerbate things, Ms. Julie, though we must determine the root cause. Could you be more specific about the changes in your vision?
+PATIENT: Specific? Honestly, Doctor, it’s rather self-explanatory. I can’t see as well as I used to. Things are… hazy. Blurry. As if looking through a dirty window. Is that specific enough for you? I'm a surgeon, you know. I notice these things.
+DOCTOR: Yes, quite. “Hazy and blurry.” And is this change in both eyes, or one in particular?
+PATIENT: Oh dear. Now you’re asking me to… examine it? I suppose… both, yes. Though I couldn’t say which is worse. They both seem equally… deficient. Really, Doctor, I expect you to be the one determining these things, not quizzing me.
+DOCTOR: Of course, Ms. Julie. It simply helps me to build a comprehensive picture. Now, regarding your hearing… you mentioned it was also affected?
+PATIENT: Yes, well, it’s rather like the vision. Things are… muffled. Distant. People seem to be mumbling. My assistant has been repeating herself constantly. It’s terribly inefficient. Honestly, I just want to know when this will be fixed. I haven’t got time for this.
+DOCTOR: “Fixed,” you say. We will certainly investigate the cause of these changes, Ms. Julie, and determine the best course of action. Before we proceed with an examination, are you experiencing any dizziness, headaches, or ringing in your ears?
+PATIENT: Ringing? Doctor, really. Do I look like someone who hears ringing? No, I don’t hear ringing. As for dizziness… perhaps a little, now that I think of it. But that's probably just from the stress of dealing with… all of this. And a headache, yes, a dull ache. Honestly, these are hardly important details. I'm a busy woman, you know.
+DOCTOR: Very well. And are you currently taking any medications, Ms. Julie?
+PATIENT: Medications? Doctor, I assure you, I maintain a very healthy lifestyle. I do not require medication. Perhaps a small sleeping pill occasionally, if I have a particularly… taxing week. But that’s hardly relevant, is it? I’m a surgeon. I know my body.
+DOCTOR: I understand, Ms. Julie. And do you have any allergies to any medications, or anything else for that matter?
+PATIENT: Allergies? Honestly, Doctor, are we quite finished with the questioning? I’ve answered enough. I suppose… pollen, perhaps? A little sniffle in the springtime. But nothing serious. Really, I’d prefer to get this over with. I have patients waiting. .
+DOCTOR: Very well. Perhaps a brief physical examination would be prudent, then. I’d like to check your pupils, test your reflexes, and listen to your heart and lungs. It shouldn’t take long.

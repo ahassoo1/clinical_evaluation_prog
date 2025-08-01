@@ -1,0 +1,26 @@
+DOCTOR: Right, Mr. Schwer. Jim, is it?
+PATIENT: Yes, Jim. Good to meet you, Doctor... Osga, right? The paper says Osga.
+DOCTOR: Yes, yes. Osga is fine. Look, I have a very full schedule today, so let’s try and be brief. What brings you in?
+PATIENT: Well, um... it's my family. Lots of heart trouble on my mother’s side, and my brother… he had a bad one a few years back. I just want to make sure I’m okay, you know? No problems yet, but... I worry.
+DOCTOR: Family history, right. Of course. Everyone’s a hypochondriac these days. Okay, so you want me to check you over because of family history. No current symptoms?
+PATIENT: No, not really symptoms. Just… tired sometimes, maybe? But I work hard, selling things... it could be that. No chest pain or anything scary like that. I just want peace of mind, if you understand.
+DOCTOR: Tiredness. Right. Well, tiredness could be anything. Okay, let’s just run through the basics so I can… document this properly. Any known allergies?
+PATIENT: Um... I don’t think so. Never had a bad reaction to anything, not that I remember. Maybe a little itchy when I was a kid, from bugs, but not like… medicine or food. Does dust count? I sneeze sometimes.
+DOCTOR: Dust. Of course. Okay, no significant allergies then. Are you taking any medications currently?
+PATIENT: No, no pills or anything. Just… sometimes a little something for my knee, when it acts up. But it's just over-the-counter stuff. The white bottle... I don't remember the name. It's for the pain.
+DOCTOR: Over-the-counter. Wonderful. Alright. And past medical history?
+PATIENT: Um... let me think. I broke my arm when I was a boy, climbing a tree. And I had the chickenpox, like everyone else. Nothing serious. Maybe a bad flu once or twice. I don't really go to the doctor much. I usually just try to tough things out.
+DOCTOR: "Tough things out." Right. And past surgeries?
+PATIENT: No surgeries. Never had any. I'm pretty lucky, I guess. I always tried to be careful. Well, maybe not always careful. But no surgeries.
+DOCTOR: Alright. And family history – you mentioned your mother and brother. Can you give me a little more detail?
+PATIENT: Yes, sure. My mother... she had something with her heart, I think. She was always tired, and short of breath. She had it for a long time before she... before she passed. My brother, he had a heart attack, maybe five years ago? He's okay now, but he had to have a... a thing put in. A little metal thing. He says it helps. I don’t know the names of things. Does that make sense?
+DOCTOR: "A thing." Right. Okay. Look, let’s just get a quick physical, and we can go from there. Height and weight, the nurse already did that, I see. 185 and…53?
+PATIENT: Yes, that’s right. 185 and 53. I've always been thin. It runs in the family, I think. Not much for big meals. Is that bad?
+DOCTOR: 53 kilograms at that height… that is rather low. Alright, let's take a listen to your heart and lungs, and then I'll check your blood pressure. Sit back, please.
+PATIENT: Okay. Is everything alright? It feels a little cold.
+DOCTOR: Heart sounds are…regular. A little faint, perhaps. Lungs are clear. Blood pressure is…low-normal. 110/70. I'll order a basic blood panel – just to check cholesterol and things. And an EKG. Standard procedure.
+PATIENT: Okay, that sounds good. EKG... that checks the heart, right? Will that take long? I have a meeting this afternoon.
+DOCTOR: It won't take long. Just a few minutes. The nurse will get you set up. And then we'll get the results back, and then we can decide what, if anything, needs to be done. Now, is there anything else?
+PATIENT: No, I don’t think so. Just... I hope everything is okay. It’s just... my family. You know? It’s always something with them. Thank you, Doctor.
+DOCTOR: Alright. The nurse will be in shortly. Try not to worry. Though frankly, you should have come sooner if you were truly concerned. .
+PATIENT: .

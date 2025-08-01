@@ -1,0 +1,34 @@
+DOCTOR: Alright, Sherrell. So, you’re here today… what brings you in?
+PATIENT: Ah, yes. Good day to you, Doctor… Nooruddin, is it? It is… the words. They do not come so easily anymore. It is… frustrating, you understand? I try to speak, and it feels like… a fog. Not all the time, but often enough to be… concerning.
+DOCTOR: “Concerning,” yes. Well, lots of things can be concerning. Let’s try to be a little more specific, shall we?
+PATIENT: Specific… yes, of course. It is… like when I want to say “table”, but another word comes out. Or… no word at all. It happens more when I am… tired, I think. And… with names. The names of people… they slip away. I apologize, this is not very… clear, is it?
+DOCTOR: No, it's not particularly clear, no. And “tired” isn’t a diagnosis, Sherrell. We need to figure out what kind of words are difficult, and when it happens most. Is this a sudden change, or has it been gradual?
+PATIENT: Gradual, I believe. It… started maybe six months ago? It was small things, forgetting a word here or there. But… it has gotten worse. Not quickly, but… steadily. It is… difficult to explain. It is not that I do not know the word, it is… accessing it, you see? Like a… a locked box.
+DOCTOR: A “locked box,” right. And does this difficulty impact your ability to understand what others are saying?
+PATIENT: No, no. I understand perfectly well what others say. It is… my speaking. And… thinking, sometimes. If I try to form a sentence in my head, the right words… they are missing. It is… unsettling. I work with… numbers and… people's benefits. It requires… precision. And this… makes me worry.
+DOCTOR: Alright. And what about other cognitive functions?
+PATIENT: Cognitive… functions? I… apologize. Is that… a question about… remembering things? Like dates? Or… places? I believe those are… mostly fine. I can recall my address, the year I was married… though the details… they are a little blurry now, if I am honest. My wife… passed some years ago. It is… difficult to hold onto everything.
+DOCTOR: Blurry details are… expected, Sherrell. But we need to differentiate between normal age-related memory changes and something more. Let's do a quick cognitive screening, just to get a baseline. I'm going to ask you to repeat a few things back to me, and maybe do a simple calculation. It won't be unpleasant.
+PATIENT: A screening… yes, that sounds… sensible. I am happy to cooperate. Simple calculation… I used to be very good with numbers. Though… lately, it takes a little longer. Please, proceed. I will do my best.
+DOCTOR: Alright. First, can you tell me today’s date?
+PATIENT: Today’s date… It is… August. The second… of… 2025, is it not? Yes, August the second, 2025. I… believe so.
+DOCTOR: Good. Now, can you spell “world” for me?
+PATIENT: “World”… W… O… R… L… D. Yes, W-O-R-L-D. Is that… correct? It feels… strange, spelling it out like that.
+DOCTOR: Okay. Now I’d like you to subtract 7 from 100. And keep subtracting 7, five times.
+PATIENT: Subtract 7 from 100… 100… minus 7 is 93. 93 minus 7… is 86. 86 minus 7… is 79. 79 minus 7… is 72. And… 72 minus 7… is… 65. Yes, 65. Is that… correct? It took… some effort.
+DOCTOR: Alright. Now, I'm going to ask you to repeat three words after me. Try to remember them, because I'll ask you to recall them later. Are you ready?
+PATIENT: Yes, I am ready. Please proceed. I will… endeavor to remember them. My memory… is not what it once was, but I shall try my best.
+DOCTOR: Okay. The words are: apple, table, penny. Repeat them for me.
+PATIENT: Apple… table… penny. Yes. Apple, table, penny. Is that… correct? I have them… for now.
+DOCTOR: Okay. Now, can you name the current president of the United States?
+PATIENT: The current president… That is… a difficult question. Politics… are not my forte. I believe… it is Mr… Biden? Yes, Mr. Biden. Is that… correct? It feels… uncertain.
+DOCTOR: Alright. Now, I’m going to ask you some questions about your orientation. Do you know what day of the week it is today?
+PATIENT: Orientation… Today… It is… Thursday, is it not? Yes, Thursday. I believe it is Thursday. Though… I had to… think about it.
+DOCTOR: Okay, Sherrell. That's enough for now. Based on this brief screening, your cognitive function appears somewhat impaired. It’s not enough to make a definitive diagnosis, but it warrants further investigation. It could be a number of things – age-related changes, mild cognitive impairment, or something else entirely. I'd like to order some blood work to rule out any underlying medical conditions, and I’m going to refer you to a neurologist for a more comprehensive evaluation.
+PATIENT: A neurologist… Further investigation… That sounds… serious. I… I was hoping it was just… a little forgetfulness. Something to do with being tired, perhaps. Blood work… and a specialist… Very well. If that is what is necessary, then I shall cooperate. But… what are we looking for, exactly?
+DOCTOR: We're looking for vitamin deficiencies, thyroid problems, any signs of infection. Things that can affect brain function. The neurologist will do a more in-depth assessment – memory tests, possibly an MRI. It's standard procedure, Sherrell. Don’t jump to conclusions. It doesn't necessarily mean anything serious. I'll get the orders sent to the lab, and I’ll have my nurse give you the referral information for Dr. Klein. He’s a good neurologist, very thorough.
+PATIENT: Dr. Klein… very thorough… I see. Well, I trust your judgment, Doctor Nooruddin. If you believe this is the best course of action, then I shall follow your recommendations. It is just… unsettling, to think that something might be… wrong. I have always prided myself on my… clarity of mind.
+DOCTOR: Everyone experiences changes as they get older, Sherrell. It’s important to identify the cause and manage it appropriately. Don't dwell on it. We'll get to the bottom of it. Here are your lab orders and the neurologist's information. The nurse will schedule the appointment for you. Any questions before I finish up?
+PATIENT: No… I believe that is all. Thank you, Doctor Nooruddin. For your… thoroughness. And for explaining everything. I appreciate your… patience. I will… schedule the appointment as soon as possible.
+DOCTOR: Good. Just follow up with the nurse, and she'll take care of everything. Have a good day, Sherrell. .
+PATIENT: Very well. Thank you again, Doctor. And… good day to you as well. .

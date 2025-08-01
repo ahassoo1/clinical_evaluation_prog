@@ -1,0 +1,40 @@
+DOCTOR: Alright, Ms. Abdollahi, welcome. I'm Dr. Havird. So, tell me, what brings you in today?
+PATIENT: Oh, hello Doctor. Is… is Havird? Yes. My… my son, he want me to come. For the… the place. For old people. He say I need paper. To show I okay for live there. He worry too much, that boy. But is okay. I think.
+DOCTOR: Right, a physical for placement… a facility. Your son is being proactive, that’s good. Though, you sound pretty capable to me. Still, these places require documentation. So, let’s just go through some things, alright?
+PATIENT: Okay, yes. Good. I… I feel okay. Mostly. Sometimes my knees… they say things. And I forget… little things. Like where I put my… my glasses! But nothing bad. Just old.
+DOCTOR: “Little things” can be important, Ms. Abdollahi. We’ll get to all of it. Let's start with your knees. Can you describe what they say?
+PATIENT: Oh! They… they make noise. Like… little pops. And sometimes they hurt when I stand up. Not all the time. But after I sit for a long time. Or when it is cold. Like today. Is little cold, yes?
+DOCTOR: Alright, pops and pain with standing, worse in the cold. That sounds like… well, it sounds like fairly typical wear and tear, honestly. But we should check them out. Can you tell me if you've had any injuries to your knees in the past?
+PATIENT: Injuries? Hmm… No. Not… not big injuries. Maybe when I was little, playing. But nothing I remember. I work hard my life. Always standing. Bartenders, you know? Long time standing, making drinks. That maybe make them hurt now.
+DOCTOR: Alright, a lot of standing over the years. That’s helpful to know. Now, let's talk about the "forgetting." You said little things. Can you give me an example?
+PATIENT: Oh… hmm. Like… yesterday I make coffee, but I forget where I put the sugar. And sometimes… names. I see people I know, but the name… it is gone. Not always. But sometimes. Is… frustrating. But nothing… important. I remember my son, I remember my husband. I remember how to make a good drink!
+DOCTOR: Alright. And has this been getting worse recently, or is it pretty much the same as it's been for a while?
+PATIENT: Hmm… maybe a little worse. But… I am old! Everything is a little worse, yes? It scare my son, I think. He worry too much. But maybe… maybe is good he worry. Just in case. Is hard to say. Sometimes I good, sometimes I… not so good.
+DOCTOR: Okay. Well, let’s do a quick physical exam, just to get a baseline. I’ll check your blood pressure, listen to your heart and lungs, look at your knees, and do a few simple tests to check your reflexes and memory. Sound alright?
+PATIENT: Yes, yes. Okay. That good. I like you, Doctor. You ask good questions. But please, not too much jumping! My knees… they do not like jumping.
+DOCTOR: No jumping, I promise. Alright, let's start with your blood pressure. Just relax your arm for me, please.
+PATIENT: Okay. Relax. Is… cold here. Maybe a little warmer?
+DOCTOR: There, how’s that?
+PATIENT: Ah, much better. Thank you, Doctor. Is… is nice now. You are very kind. Go ahead. I am ready. My arm is ready.
+DOCTOR: Alright, lungs sound clear, heartbeat is regular… a little bit of a murmur, but that’s not uncommon at your age. Now let’s take a look at those knees. Can you point to where it hurts the most?
+PATIENT: Right here. And here too. Not always hurt, you know? Only when I… move them too much. Or when is cold. Like today.
+DOCTOR: Alright, a little bit of stiffness, some crepitus when you bend them, but your range of motion is pretty good. Now, I’m going to do a quick neurological exam. Just follow my finger with your eyes, okay?
+PATIENT: Okay. Follow… follow finger. Is… okay. I can see good, I think. I have glasses, but… I can see.
+DOCTOR: Okay, good reflexes. Now, I’m going to ask you a few simple memory questions, if you don't mind. Just to get a better idea of things. Can you tell me what year it is?
+PATIENT: Hmm… Is… 2025? Yes. 2025, I think. Is August, yes? August the… two? I remember my grandson’s birthday is soon. He is… ten years old.
+DOCTOR: Very good. Now, can you repeat three words for me?
+PATIENT: Three words? Okay. Tell me. I will repeat.
+DOCTOR: Alright. The words are… apple, table, and penny. Please repeat them for me after I say them. Apple, table, penny.
+PATIENT: Apple… table… penny. Apple… table… and… um… I… I forget the last one! Is it… orange? No… is something with… metal? Something small? Oh dear. I forget. I am sorry.
+DOCTOR: That’s alright, Ms. Abdollahi. It happens. We’ll come back to those words later. Let’s talk about your medications. Are you currently taking any prescription medications?
+PATIENT: Oh, yes. Let me see… I take this one for my… for my water. The doctor say my water is… not good. And this one, for my… for my heart. And… This one… I forget what this one is for! My son, he help me with them. Is so many!
+DOCTOR: Okay, so Lisinopril and Hydrochlorothiazide for blood pressure, and Vitamin D. And do you have any allergies to any medications?
+PATIENT: Allergies? Hmm… No, I don’t think so. I take so many, never had problem. Sometimes my stomach… but that maybe the water. Or the coffee. I like coffee too much.
+DOCTOR: Alright. Now, just a few quick social questions. Do you live alone or with someone?
+PATIENT: Oh, no. Not alone. I live with my husband. Old man, but good man. He cook, I clean. We… we quiet life. Not much go out. Is okay. He worry too much too, you know? Like my son. They both worry.
+DOCTOR: Okay, Ms. Abdollahi, I think that’s everything for now. Let me summarize… you're here for a physical to assess your suitability for placement in a care facility. You report occasional forgetfulness, knee pain, and a history of long-term standing. Your exam showed slightly elevated blood pressure, mild tenderness in both knees, and some difficulty with immediate recall. You're currently taking Lisinopril, Hydrochlorothiazide, and Vitamin D with no known allergies. Do you have any questions for me at this point?
+PATIENT: Hmm… Will I… will I be okay in the place? Is… is scary to go somewhere new. I like my home. Will they let me make my own coffee? And… will my husband be able to visit? Those are my questions. Is important questions!
+DOCTOR: Those are very important questions, Ms. Abdollahi. And perfectly reasonable concerns. Let me address them. As for being okay in the facility, the purpose of this assessment is to determine if you meet the criteria for the level of care they provide, and to identify any needs you might have. They are equipped to handle a range of medical conditions and provide assistance with daily living activities. Regarding coffee – most facilities allow residents to have their own coffee, within reason. They may have restrictions for medical reasons, but you'd certainly be able to discuss that with them. And absolutely, your husband will be able to visit. Visiting hours are typically very flexible, and they encourage family involvement. I'm going to write a report detailing my findings and recommendations, and forward it to the facility. They will then contact you to discuss the next steps, and answer any further questions you might have. Does that sound alright?
+PATIENT: Yes. That… that sounds good. Contact them… they will answer questions. That good. You are very kind, Doctor. Very patient. And… thank you for not making me jump! Is good to know they will let me have coffee. That very important.
+DOCTOR: You’re very welcome, Ms. Abdollahi. It’s my pleasure. Coffee is indeed very important. I'm also going to recommend a follow-up appointment with a geriatrician. They specialize in the care of older adults and can provide a more comprehensive assessment and help manage any ongoing medical needs. I can provide you with a referral, if you'd like. .
+PATIENT: .

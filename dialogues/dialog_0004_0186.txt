@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Kingan. I’m Dr. Deschane. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just need a check-up for… well, a sports team. Tryouts, you know? Gotta make sure I’m not too old to break anything.
+DOCTOR: A sports team?
+PATIENT: Yeah. It’s… uh… Mongolian wrestling. Not exactly the NFL, but it keeps a guy active. They want everyone checked out before we start practicing hard.
+DOCTOR: Mongolian wrestling. Interesting. And how long have you been involved in this sport, Mr. Kingan?
+PATIENT: Oh, a long time. Since I was a boy, really. Maybe… forty years? Something like that. It's in my blood, you could say. But I haven’t been training hard for the last few years, if that makes a difference.
+DOCTOR: Forty years is a significant amount of time. And you mentioned not training hard recently. Can you describe your current activity level?
+PATIENT: Right. Well, I do some walking. Just around the neighborhood, nothing serious. And I help my nephew with his farm sometimes – lifting hay bales, that sort of thing. But it's not…consistent. A few days a week, maybe. I’m not running marathons, if that's what you're asking.
+DOCTOR: Walking and occasional lifting. Alright. And are you experiencing any pain or discomfort currently?
+PATIENT: No, not really. My knees get a little creaky sometimes, getting up in the morning. But that's just old age, I figure. Nothing that stops me from doing things. At least, not yet.
+DOCTOR: “Creaky knees.” Very common at your age, Mr. Kingan. Let’s get a bit more thorough. Have you had any injuries – anything significant – in the past, related to wrestling or otherwise?
+PATIENT: Hmm. Let me think. Back when I was younger, I dislocated my shoulder once, during a competition. They popped it back in, no big deal. And I've had a few sprained ankles over the years, nothing that needed surgery or anything. Mostly just wrapped them and rested. Oh, and a broken wrist, a long time ago, falling off a horse. But that healed up fine too.
+DOCTOR: Shoulder dislocation, sprained ankles, fractured wrist… And do you have any chronic medical conditions – diabetes, high blood pressure, heart problems, anything like that?
+PATIENT: Nope. Nothing like that. I try to eat okay, mostly. My wife – well, ex-wife – she always worried about my cholesterol, but I haven't been to a doctor in… well, a long time. I haven’t needed to, really. Until this tryout.
+DOCTOR: "Haven't needed to." Right. Well, that’s not ideal. And are you currently taking any medications – prescription, over-the-counter, vitamins, supplements?
+PATIENT: Just a multivitamin, every now and then. And sometimes I take something for… indigestion. You know, after a big meal. Nothing regular. Honestly, I forget the names of most of them. My nephew keeps them in his medicine cabinet. I grab one when I need it.
+DOCTOR: A multivitamin and as-needed indigestion medication. Alright. Do you have any allergies to medications, food, or anything else?
+PATIENT: Nope, not that I know of. Never had a reaction to anything. Well… I get a little itchy around cats, but that's just a fur allergy, not a serious medical thing, right?
+DOCTOR: No known allergies beyond a mild reaction to cat fur. Alright, Mr. Kingan. Let’s do a brief physical exam. I'd like to check your blood pressure, pulse, listen to your heart and lungs, and take a look at your joints. If you could just sit up there for me.
+PATIENT: Sounds good. Let's get it over with. The sooner I know if I'm too old for this, the better.
+DOCTOR: Alright. Blood pressure is… 148 over 92. A bit elevated, but not unexpected. Heart sounds… regular, but a slight murmur. Noted. Lungs are clear. Now, let's take a look at your joints. Can you bend your knees for me?
+PATIENT: Okay, here goes. It's a little stiff, you know? Like I said, old age. There’s a little pop in the left one when I straighten it. Nothing painful, just…noticeable.
+DOCTOR: Slight crepitus and audible pop in the left knee upon extension. Range of motion… slightly limited. Now, can you stand up and rotate your shoulders for me?
+PATIENT: There we go. Feels a little tight on this side. Old dislocation, probably. Never bothered me much, though.
+DOCTOR: Tenderness to palpation of the right shoulder. Limited range of motion. Alright, Mr. Kingan. I'd like to order some X-rays of your knees and shoulders, just to get a better look at the joints. And a basic blood panel to check your cholesterol, blood sugar, and kidney function. Do you have any questions for me at this point?
+PATIENT: X-rays and blood work… okay. Sounds… thorough. Will this take long? I need to know if I’m wasting my time practicing. And... how much will all this cost? I don’t have insurance, you see.
+DOCTOR: The X-rays and blood work will take a few days to schedule and process. As for the cost… without insurance, the X-rays will be approximately $200, and the blood panel around $150. I can have someone from the billing department contact you with more precise figures and discuss potential payment options. Frankly, Mr. Kingan, given your age and the limited information you’ve provided, I strongly advise against participating in a physically demanding sport without a proper medical evaluation. It’s simply not worth risking a serious injury.
+PATIENT: I understand. It's just... it means a lot to me. It's in my blood, like I said. I'll get the tests done. Whatever it takes. Just... tell me honestly, Doctor. Is there any chance I'm still fit enough to wrestle? Even a little? .
+DOCTOR: I will review the results of your tests, Mr. Kingan, and then we can discuss your options. I won't offer speculation based on limited information. Until then, I strongly recommend you refrain from any strenuous physical activity. The receptionist will schedule your tests as you leave.

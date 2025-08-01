@@ -1,0 +1,29 @@
+DOCTOR: Right. Mr. Bulaong, is it?
+PATIENT: Yes, that’s me. Aron Bulaong.
+DOCTOR: Alright, Mr. Bulaong. And what brings you in today?
+PATIENT: It’s my chest. It… hurts a little. Not all the time, but it does hurt. It's like… a pain in here. <gestures vaguely to chest>
+DOCTOR: “A little” is rather unhelpful, Mr. Bulaong. Can you be more specific?
+PATIENT: Sorry. Um… it’s not a bad bad pain, but it’s… heavy, sometimes? Like something is pushing. And it’s mostly on this side. <points to left side of chest> Not always, like I said, but when I move around, doing work... it feels it more.
+DOCTOR: And how long has this been going on?
+PATIENT: Maybe… a month? Hard to say exactly. It comes and goes. I thought it was just… from the roof work, you know? Lifting things, being in the sun. But it hasn’t gone away.
+DOCTOR: Roof work… right. Any shortness of breath accompanying this “heaviness”?
+PATIENT: Shortness of… no. I can breathe okay. I get tired, of course. It’s hot work. But not… hard to breathe. No.
+DOCTOR: And any pain radiating anywhere?
+PATIENT: Radiating? You mean… going somewhere else? Not really. It stays… here. <points again to left side of chest> Sometimes my arm feels a little… achy, but I do a lot of lifting with my arms, so maybe that’s just from work too. I don’t know. Is that… normal?
+DOCTOR: Mr. Bulaong, “normal” is subjective. Let’s move on. Any history of cardiac issues in your family?
+PATIENT: Cardiac? Like… heart problems? Um… my Papa, he had… something with his chest. I was little. He went to the hospital. That’s all I remember. I don’t know what kind of problems. He passed when I was young. My Mama… she didn't really talk about it. Does that help?
+DOCTOR: Vaguely. Alright. Any allergies to medications?
+PATIENT: No, not that I know of. Never had to take much medicine. Just… sometimes for a cold. Nothing special. I don’t think I’m allergic to anything.
+DOCTOR: And are you currently taking any medications, even over-the-counter?
+PATIENT: No. Nothing. Just… water. Lots of water when I’m working. I try to drink a lot of water. Is that… bad? Should I be taking something?
+DOCTOR: No, drinking water is not bad, Mr. Bulaong. Let’s get a basic exam done. Please lie down on the examination table.
+PATIENT: Okay. <starts to get up slowly> Is this going to be… a long exam? I have to get back to work this afternoon.
+DOCTOR: It won’t be extensive. Just a quick listen to your heart and lungs. Please.
+PATIENT: Okay, okay. <walks over to the examination table and carefully lies down> Is it okay if I close my eyes? I get a little… nervous.
+DOCTOR: Deep breaths, Mr. Bulaong. In… and out. <pauses, listening again> Lungs are clear. Heart rate is… regular, though a little fast. Perhaps from exertion. Do you experience any palpitations?
+PATIENT: Pal… what? Like… my heart beating fast? Sometimes, yeah. When I climb up the roof, it beats fast. Is that… bad too? I just thought it was from running up the ladder.
+DOCTOR: Mr. Bulaong, you seem overly concerned with whether everything is “bad.” It’s… unhelpful. It’s likely muscle strain. Given your occupation, it’s… plausible. I’ll order some basic blood work, just to rule things out. But I suspect you’re fine.
+PATIENT: Oh. Okay. Good. That’s… good. Blood work? What kind of blood work? And… how long will that take? I have to… I need to finish a job this week. My wife… she’s counting on the money.
+DOCTOR: Routine panel. CBC, CMP. Should be results back within 48-72 hours. The lab is just down the hall. And please, try to rest. It really is quite simple. Is there anything else?
+PATIENT: Um… no, I think that’s it. Thank you, Doctor. Rest… I’ll try. It’s hard when you have things to do. Forty-eight to seventy-two hours… Okay. Thank you again.
+DOCTOR: .

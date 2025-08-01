@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Sobkowic. I’m Dr. Voytek. Please have a seat. So, what brings you in today?
+PATIENT: Morning. Just… chest. Hurts sometimes. And heart… goes fast, you know? Like… thump-thump-thump. Blood pressure… wife say it high. I no like hospitals. Let’s get this over with.
+DOCTOR: Okay, Mr. Sobkowic. I understand. We’ll try to be as quick as possible. “Chest hurts sometimes” – can you tell me a little more about that?
+PATIENT: Like… pressure. Here. Not always. When I… walk fast. Or… get angry. Wife always yelling. Makes it worse. Is okay when I sit.
+DOCTOR: Okay, pressure in the center of your chest, especially when you walk quickly or get upset. And it feels better when you rest. How long has this been going on?
+PATIENT: Long time. Maybe… six months? Not sure. Old man, you forget. It not… get worse fast. Just… there. Annoying. Wife say I need check. She worry too much.
+DOCTOR: Six months, okay. And it hasn't been getting significantly worse lately?
+PATIENT: No. Same, same. Little faster heart sometimes. But… I work hard. Always work. Emergency… things. Need to be ready. Not time to be sick.
+DOCTOR: Alright. And when you say your heart goes fast, is that happening all the time, or does it come and go?
+PATIENT: Come and go. Mostly when… stressed. Or… after I eat something heavy. Big meal. Wife make good food, but… too much sometimes. Then heart… boom-boom.
+DOCTOR: Okay, so it happens with stress and after large meals. Do you feel any other symptoms when your heart races – like shortness of breath, dizziness, or sweating?
+PATIENT: No. Just… fast. Maybe little tired after. But I always tired. Old age. No dizzy. No… sweating. Just… fast heart. And wife yelling. That make it fast too.
+DOCTOR: Okay. And just to get a full picture, do you have any history of high blood pressure, high cholesterol, or any heart problems in your family?
+PATIENT: Family? Not sure. Mother… gone long time. Father… I not remember. Not much talk about… health. Just work, work, work. Maybe? I no know. Wife say something… but I forget. She knows everything.
+DOCTOR: Alright. And are you currently taking any medications for anything?
+PATIENT: No. No pills. I no like pills. Make you weak. Only… sometimes eye drops. For dry eyes. But that all. Emergency… things need strong man. No time for sick pills.
+DOCTOR: Okay, no medications other than eye drops. Do you have any allergies to medications or anything else?
+PATIENT: No allergies. Never. I eat everything. Everything. Wife make good cooking. No allergies. Strong stomach. Like my father.
+DOCTOR: Okay, good. Well, Mr. Sobkowic, I’d like to check your blood pressure and listen to your heart and lungs, if that's alright with you. It will only take a few minutes. After that, we can talk about what might be going on and if we need to do any further testing. How does that sound?
+PATIENT: Fine. Quick, quick. Get it over with. I have things to do. Important things. Not sit here all day. Hurry.
+DOCTOR: Alright. If you could just sit back and relax as much as possible. Okay. Blood pressure is a little elevated today, 148/88. Heart sounds are regular, but a bit quiet. Breath sounds are a little diminished on both sides, but nothing too concerning right now. Do you smoke, or have you ever smoked?
+PATIENT: Smoke? No. Never. Bad for… emergency things. Need clear lungs. Wife always yelling about… clean air. She right, I think. No smoke. Never.
+DOCTOR: Good. And do you drink alcohol?
+PATIENT: Little. Sometimes. Beer. With dinner. Not much. Wife say it bad for blood pressure. So… not much. Maybe one beer. Two, sometimes. But not every day.
+DOCTOR: Okay. So, a little alcohol occasionally. Based on what you’ve told me and the quick exam, it sounds like you may be experiencing some symptoms of high blood pressure and possibly some mild heart palpitations. The chest pressure you're feeling could be related to that. It’s important to get this properly checked and managed. I want to order some blood tests to get a better understanding of your cholesterol levels and kidney function, and an EKG to check your heart rhythm. Would that be alright?
+PATIENT: Tests? More tests? Ugh. Fine. But quick. I have… emergency things. And wife yelling. Get it over with. But no needles! I hate needles.
+DOCTOR: Okay, we’ll try to make it as quick and comfortable as possible. The blood draw will be minimal. And the EKG is just some stickers we put on your chest to measure your heart's electrical activity, no needles involved. We'll get that done right away. I'll also write you a prescription for a medication to help lower your blood pressure. It's important to start managing this now to prevent any serious problems. It’s a small dose, and we’ll monitor how you’re doing. Does that sound okay?
+PATIENT: Pills? You want me to take… pills? No! I told you, no pills! Emergency… things need strong man. Pills make you weak! I no want pills! Forget it. I leave. I go home. Wife yelling is better than… sick pills.
+DOCTOR: Mr. Sobkowic, I understand your concerns about taking medication, but high blood pressure can be very dangerous if left untreated. It can lead to stroke, heart attack, and kidney problems. Even a small dose can make a big difference in protecting your health. I strongly recommend that you at least try the medication for a week, and then we can discuss how you're feeling. If you're still not comfortable, we can explore other options. But ignoring this could have serious consequences. Perhaps we can talk to your wife together?
+PATIENT: Wife? No! No talk to wife! She always right. She yell at me enough. No need more yelling. Just… forget pills. I go home. I take it slow. I no rush. I emergency… things. I strong man. I leave now. Thank you.
+DOCTOR: Alright, Mr. Sobkowic. I respect your decision. However, I strongly urge you to schedule a follow-up appointment within one week so we can at least monitor your blood pressure and discuss this further. I'm concerned about your health, and I want to make sure you're taking care of yourself. Here's a card with my contact information and the clinic’s address. If you experience any chest pain, shortness of breath, or dizziness, please go to the emergency room immediately. Please, take care of yourself. .
+PATIENT: Fine. I go home. I take it slow. Wife yelling. Bye.

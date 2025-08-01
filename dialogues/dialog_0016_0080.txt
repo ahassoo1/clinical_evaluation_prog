@@ -1,0 +1,36 @@
+DOCTOR: Hi Thyra, welcome to the clinic. It's nice to meet you. I'm Dr. Maskal. So, what brings you in today?
+PATIENT: Well, hi Dr. Maskal, it’s nice to meet you too. I’m just here to get some forms filled out. My husband and I just moved here and need to get established with a doctor. Medicare sent me a bunch of papers and I figured it’d be easier to do it with someone here, if that makes sense.
+DOCTOR: Absolutely, that makes perfect sense. Getting established is always easier with a little help. Why don't you have a seat, and we can go through those forms together. I can also ask a few questions to get a better picture of your overall health, if you're comfortable with that. It’ll help me make sure I have all the information I need in your chart. Is that alright?
+PATIENT: Sounds good to me. Yeah, ask away. I don’t mind at all. It’s probably good to get everything sorted out now.
+DOCTOR: Excellent. First, let's just confirm some basics. You said your name is Thyra Fabing, and your age is 35, correct?
+PATIENT: Yep, that's right. Thyra Fabing, 35 years old. And it’s pronounced “Fee-bing,” just so you know. People get that one wrong sometimes.
+DOCTOR: Thank you for that! "Fee-bing," got it. And I see here you identify as female. Is that accurate?
+PATIENT: Yes, that's correct. Female.
+DOCTOR: Great. And do you happen to know your height and weight?
+PATIENT: Um, let me think. I think I’m about 5’7”...and around 150 pounds? Maybe a little over. It fluctuates, you know.
+DOCTOR: No problem at all, those numbers can definitely change. Okay, and what about insurance?
+PATIENT: Oh, right! I’m on Medicare. I got it through the tribe. I think that’s all I know about it, honestly. My husband usually handles the paperwork.
+DOCTOR: Okay, Medicare through the tribe – perfect. We can always verify the details later. Now, let's talk a little bit about your medical history. Have you had any major illnesses or surgeries in the past?
+PATIENT: Hmm… not really. I broke my arm when I was a kid, climbing a tree. And I had my tonsils out, but that was ages ago. Other than that, I’ve been pretty lucky. I haven’t been sick much.
+DOCTOR: That’s wonderful to hear! And what about allergies?
+PATIENT: Not that I know of. I haven't ever had a bad reaction to anything, as far as I remember. No food allergies, no medication allergies... nothing.
+DOCTOR: Excellent. Are you currently taking any medications – prescription, over-the-counter, vitamins, supplements, anything like that?
+PATIENT: Just a multivitamin, pretty much. Nothing else. I try to eat healthy, so I don’t really need much.
+DOCTOR: Okay, a multivitamin. Now, let's talk about your family history. Do you know of any significant medical conditions that run in your family – things like heart disease, diabetes, cancer?
+PATIENT: Oh, that's a tough one. My grandma on my mom’s side had diabetes, I think. And my uncle had some heart problems, but he didn’t take care of himself very well. It wasn’t a huge surprise, you know? Other than that, I don't really know much about my family history. My mom wasn’t big on keeping track of things like that.
+DOCTOR: That’s completely understandable. Family history can be tricky to track down. Okay, and finally, just a few questions about your lifestyle. Do you smoke?
+PATIENT: No, never have. My husband smokes sometimes, but I make him go outside.
+DOCTOR: Okay, good to know. And how often do you drink alcohol?
+PATIENT: Not very often, honestly. Maybe a glass of wine with dinner once or twice a month, if that. Nothing regular.
+DOCTOR: Okay, that's good to know. And do you exercise regularly?
+PATIENT: I try to! I work as a control and valve installer, so I’m on my feet a lot during the day, which is good exercise, I guess. And I like to go for walks when I have the time. It's not super structured, but I try to stay active. Does that count?
+DOCTOR: Definitely! That absolutely counts. Being on your feet all day as a control and valve installer is great physical activity. Okay, that covers most of the basic history. Now, are you currently experiencing any health problems or symptoms that brought you in today, besides getting established with a new doctor?
+PATIENT: Nope, nothing really. Just wanted to get everything set up, like I said. No aches, no pains, no worries. I feel pretty good, actually.
+DOCTOR: That’s fantastic to hear! So, it sounds like you're in pretty good health overall. I’m going to do a quick physical exam, just to get a baseline and make sure everything looks good. Is that alright with you?
+PATIENT: Yes, that sounds perfect. Go right ahead.
+DOCTOR: Excellent. First, I’m just going to listen to your heart and lungs. Deep breath in… and out… Okay, that sounds good. Nice and clear. Blood pressure is 122/78, pulse is 72 and regular. Now, I’m going to take a look in your ears…and your throat… Ears look clear, throat looks healthy. No signs of infection. Alright, and finally, I’ll just palpate your abdomen… Soft, non-tender, no masses. Everything feels normal. Okay, everything sounds and feels good! A healthy exam overall. Do you have any questions for me at this point?
+PATIENT: Nope, I think that's all good. You said everything sounds good, and I feel good, so that's a relief! I don’t think I have any questions right now. Thank you for taking the time to do all that. Should I fill out any other forms?
+DOCTOR: You're very welcome! No, I think we've covered everything for today. I’ll just have the receptionist make a copy of your insurance card and driver's license. I'm going to make a note to schedule a wellness check for you in one year, just to keep an eye on things. Does that sound good?
+PATIENT: Yes, that sounds perfect. A year from now is good. Thank you again, Dr. Maskal. You've been very helpful. I appreciate you taking the time.
+DOCTOR: You're very welcome, Thyra! It was a pleasure meeting you. I'm glad I could help. Feel free to call the office if you have any questions or concerns before your next appointment. Have a wonderful day! .
+PATIENT: It was nice meeting you too, Dr. Maskal. I will. You have a good day too!

@@ -1,0 +1,31 @@
+DOCTOR: Right. Larin Meigs, 44 years old. So, what brings you in today?
+PATIENT: Oh, hello Doctor Ruocco. My back… it’s really bad. Been hurting for a while now, but lately… wow. It’s hard to even get out of bed. It’s like a sharp pain, mostly lower back. And it goes down my leg sometimes.
+DOCTOR: "A while now," you say. That's... helpful. Can you be a little more specific?
+PATIENT: Hmm… let me think. It started… maybe six months ago? Just a little ache, you know? I thought I just pulled something lifting things around the house. But it didn’t get better. It comes and goes, but lately it’s been almost constant for maybe… two weeks now? Really bad pain almost all the time. And like I said, it shoots down my leg now and then. Not always, but when it does… oof. That’s bad.
+DOCTOR: "Shoots down the leg," right. And where exactly does it shoot to?
+PATIENT: It goes down the back of my leg, Doctor. From my hip all the way down to my foot, sometimes. Not always my whole leg, you know? Sometimes just to my knee. And it feels… tingly, when it’s really bad. Like pins and needles. Does that make sense?
+DOCTOR: Tingling… pins and needles. Okay. And does anything make it better or worse?
+PATIENT: Oh, lots of things make it worse, I think. Bending over is terrible. Lifting anything, even just groceries. And sitting for too long is bad too. But… hmm. Better? Lying down flat helps a little. And when I take some of those… pain pills, the red ones… they take the edge off. But they don’t make it go away completely. They make me sleepy, too.
+DOCTOR: "Those red ones," you say. Right. Any other medical problems you have?
+PATIENT: Oh, yes. I… I had cancer a few years ago. Breast cancer. They did surgery and… radiation. It was good, they said it was all gone. But… I still go for checkups, you know? Every six months. I'm a little worried this back pain might be… connected?
+DOCTOR: Cancer… Okay. And when was this surgery?
+PATIENT: Let me think… It was… 2021. October of 2021. So, almost four years ago now. They took the lump, and then I had radiation for a while after that. Everything was good, they said, until… well, now this back pain. It just started getting really bad lately.
+DOCTOR: Alright. Any family history of back problems?
+PATIENT: Hmm… my mother had some back trouble when she got older. But she was… very old. And she didn’t go to the doctor much, you know? Just aches and pains, mostly. My father… he was always very healthy. I don't really know of anyone else with bad back pain, not really.
+DOCTOR: Okay. And any allergies to medications?
+PATIENT: No, not that I know of. I’ve taken lots of different things over the years, for colds and things, and never had a problem. I do get a little sleepy from some of them, like those pain pills I told you about, but no… no allergies.
+DOCTOR: Alright. Let's have a look at your back. Can you stand up for me?
+PATIENT: Yes, of course. Okay, here I am. It’s a little hard to move, Doctor. Be careful.
+DOCTOR: Hmm. And can you bend forward and touch your toes?
+PATIENT: Oh, wow. That’s… difficult. Ow. That really hurts, Doctor. I can’t get much further than this. It’s like something is… stuck.
+DOCTOR: Limited range of motion... Alright. And can you try and walk on your heels, then your toes, for me?
+PATIENT: Okay. This is hard! It makes my back hurt even more. I feel like I might fall.
+DOCTOR: Alright. I'm going to order some imaging – an X-ray and an MRI – just to see what’s going on. And I'll prescribe something stronger for the pain. And frankly, with the history of cancer, I'm going to refer you to an oncologist, just to be safe. Do you have any questions?
+PATIENT: Oh, wow. Okay. An MRI… that sounds… serious. The oncologist… is that because you think the cancer might have come back? That's a little scary. What kind of pain medicine are you thinking? And how long does the MRI take? I get a little nervous in those machines, you know?
+DOCTOR: Look, it’s standard procedure. We need to rule things out. And yes, the oncologist is a precaution. As for the pain medication, it's a muscle relaxant and a stronger painkiller. The MRI will take about 30 minutes, and they can give you something to help you relax if you’re anxious. Do you understand?
+PATIENT: Okay. Thirty minutes… and something to relax me… that sounds a little better. Yes, I understand. You just want to make sure it's not… the cancer. It’s just… I was hoping it was just a bad back. What do I do about getting the MRI scheduled? And when should I see the oncologist?
+DOCTOR: The radiology department will call you to schedule the MRI. And here's the oncologist’s contact information. Call them within the next week. I'll have the prescription sent to your pharmacy. Any further questions?
+PATIENT: Okay, thank you Doctor. A week… I will call them. And the prescription… okay. No, I think that’s all for now. I’m a little worried, but I appreciate you checking everything out. Thank you again.
+DOCTOR: Alright. Get the MRI done. And don’t hesitate to call if the pain gets worse. Next.
+PATIENT: Okay. I will. Thank you, Doctor. .
+DOCTOR: .

@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. Ferneding, so what brings you in today?
+PATIENT: Well, Doctor Ruocco, it’s this…itchiness. All over, really. It started maybe a week ago, just a little thing, but it’s gotten worse each day. It's driving me a bit mad, to be honest. Not painful, just…constant.
+DOCTOR: Itchiness… right. A week, you say?
+PATIENT: Yeah, about a week. Maybe a little longer, hard to say exactly. Time kind of…blurs these days, you know? Especially since…well, since my wife passed. But definitely within the last seven or eight days it really started to bother me. It's not like a rash, not really. Just…the skin feels like it needs scratching all the time.
+DOCTOR: Hmm. And is it…localized, or is it truly all over?
+PATIENT: Truly all over, Doctor. Back, chest, arms, legs… even my scalp is a bit itchy. I thought maybe it was the laundry detergent at first, but I switched brands and it didn’t help. I even tried a different soap in the shower. Nothing seems to take the edge off. It's frustrating.
+DOCTOR: Alright, alright. Any recent travel?
+PATIENT: No, no travel. Haven’t been anywhere for…oh, goodness, nearly two years now. Not since… well, never mind. Just nowhere. Stayed right here in the city the whole time. I mostly just…keep to myself, these days.
+DOCTOR: And any new medications?
+PATIENT: Let me think… No, nothing new. I'm on a small dose of something for my blood pressure, have been for years. And that’s it. Just the one. Nothing changed recently, I promise. I keep a pretty strict schedule with my pills, you know? Important to remember those.
+DOCTOR: Alright. Any…family history of skin conditions?
+PATIENT: That's a good question. Hmm... My mother, she had some eczema when she was a little girl, I think. Nothing serious, just a bit of a rash sometimes. My father… I don’t really recall anything about his skin, to be honest. We weren’t very close, and he wasn't one for talking about…well, anything, really. Does that help?
+DOCTOR: It could be a number of things. We should probably take a look. Let's have you lie down on the exam table. I'll need to examine your skin.
+PATIENT: Sounds good, Doctor. Whatever you think is best. I hope it's not anything too serious. It's just… a real bother, this itchiness.
+DOCTOR: Lie down, please. Shirt off, if you don’t mind. I need to see the affected areas. And try to relax.
+PATIENT: Right, of course. Relax. Easy for you to say, Doctor. Just let me know if you need me to move anything.
+DOCTOR: Hmm. No visible rash, no lesions. Skin appears…dry. Some mild excoriation on the back, consistent with scratching. Normal skin turgor. No edema. It's likely just dry skin. A common problem, especially with the changing weather.
+PATIENT: Oh, that’s… good to know it's probably nothing serious. The weather has been strange lately, you're right. Dry air, one day, humid the next. I do use lotion, but maybe not enough. Is there a particular kind you recommend, Doctor? Something stronger, perhaps?
+DOCTOR: Something with ceramides. Or urea. You can find them at any drugstore. Apply liberally after showering. And try to avoid hot water. Any other complaints?
+PATIENT: Oh, ceramides… right. I think I've seen those in commercials. No, I don't think so. Just the itchiness, really. And, well… It's been… a bit harder to sleep lately. Just restless. I don’t think it’s connected, probably just getting older.
+DOCTOR: Restless sleep. Well, that could be a number of things. Stress, anxiety… Age, as you said. I'm going to write you a prescription for a mild topical steroid, just in case the itch is particularly bothersome. Here. Use as directed. Any questions?
+PATIENT: A steroid, huh? Is that… safe? I mean, I've always been a bit careful with medications. But, if you think it's necessary… No, I don’t think so. Just… how long should I use it for, if it helps? I don't want to get… dependent on it. And thank you, Doctor Ruocco.
+DOCTOR: Only use it for a week, at most. And only on the areas that are particularly itchy. It’s not a long-term solution, understand?
+PATIENT: A week, right. Just a week, and only where I need it. I understand. Thank you for clarifying. I appreciate your time, Doctor. And the prescription. I hope it helps.
+DOCTOR: Very well. Next. If it doesn’t improve, see a dermatologist. Don’t bother coming back to me. .
+PATIENT: Oh. Alright then. Thank you again, Doctor. .

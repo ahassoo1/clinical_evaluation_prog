@@ -1,0 +1,19 @@
+DOCTOR: Hi Kahrin, good to meet you. I'm Dr. Amussen. So, what brings you in today?
+PATIENT: Right, hi Doctor. Just here for the results, you know? I got the email saying they were ready. I'm a bit busy, so if we can just get straight to it, that'd be great.
+DOCTOR: Okay, absolutely. I understand wanting to be quick. Let me pull those up... Alright, I see here you had some blood work done on July 26th. Is that correct?
+PATIENT: Yep, that's right. July 26th. I remember because it was right before my cousin's wedding and I was trying to get everything done before I left the island.
+DOCTOR: Okay, good to know. And just to confirm, you didn't have any specific concerns prompting the blood work, or was this part of a routine check-up?
+PATIENT: No concerns, just… a recommendation. The clinic back home suggested it, just to be safe. They said everything looked okay, but wanted a baseline, I think? Honestly, I don't really remember all the details. It was a while ago, and I was focused on the wedding.
+DOCTOR: Right, okay. Well, the results came back generally normal. Your complete blood count, metabolic panel, and thyroid function were all within the standard ranges. There’s nothing that immediately jumps out as concerning. Do you have any specific symptoms you’ve been experiencing that you wanted to discuss, even if they don’t seem related?
+PATIENT: Hmm. Not really. I've been a bit tired, I guess, but honestly, who isn’t? Work’s been hectic. And I’ve always been a bit of a night owl, so… I don’t know. Nothing I’d actually go to a doctor for, you know? Is that…bad?
+DOCTOR: No, not at all. Fatigue is very common. Just trying to get a complete picture. Any other changes?
+PATIENT: Let me think… Oh! My skin's been a little dry lately, but it's August. The air conditioning everywhere just sucks all the moisture out. I live in the city, so it's not like I'm getting a lot of humidity. Is that something to worry about?
+DOCTOR: Dry skin isn’t usually a medical concern unless it's accompanied by other symptoms like itching, redness, or a rash. It sounds like it could easily be from the air conditioning. Have you tried using a moisturizer?
+PATIENT: Yeah, I have a lotion. I try to remember to use it, but… honestly, I forget a lot. Like, all the time. It's just… a thing I do. Is there anything actually wrong with the results? You're making it sound like I'm wasting your time.
+DOCTOR: No, you’re not wasting my time at all, Kahrin. And the results are, as I said, generally normal. I'm just trying to be thorough. Sometimes, subtle changes can indicate something, so I'm asking about anything that might be relevant. It's good you mentioned the forgetfulness though. Is that new, or has that always been a tendency?
+PATIENT: Oh. Well, always. Like, I can tell you exactly what I had for breakfast three years ago, but I can’t remember if I locked the door five minutes ago. It's just… how my brain works, I guess. My family jokes about it all the time. It hasn't gotten worse recently, if that’s what you’re asking. Just… consistently forgetful.
+DOCTOR: Okay, that’s helpful to know. Since it’s a long-standing issue and hasn't worsened, it's less likely to be a new medical concern. Given the normal blood work and your description, I don't see any immediate need for further investigation. We can just monitor things as they are. Do you have any questions for me?
+PATIENT: No, I think that covers it. So…everything's okay? I can go? I really need to get back to work.
+DOCTOR: Yes, everything looks okay. Just continue to monitor for any new or worsening symptoms. I'll send the results to your email, and feel free to reach out if anything changes. I hope you have a good day and can get back to work.
+PATIENT: Great. Thank you, Doctor. .
+DOCTOR: .

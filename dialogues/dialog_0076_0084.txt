@@ -1,0 +1,26 @@
+DOCTOR: Right, yes. Well, let's get this over with. You're Mystery Kobler, 25?
+PATIENT: Yes, that is correct. Mystery Kobler. It… feels strange to say it aloud, honestly. I apologize if I seem… distracted. My memory isn’t what it used to be.
+DOCTOR: Look, we all have things. Just tell me why you’re here. What’s brought you in today?
+PATIENT: Well… it’s my breathing. It’s been getting harder, you see. And my mouth… it feels so dry, all the time. My eyes too, they don’t feel right. Like sand, almost. It’s been going on for a little while, but it’s… worse now, I think. I don't really… know why it's happening. It just is.
+DOCTOR: Breathing difficulty, dry mouth, irritated eyes… Right. Any fever?
+PATIENT: Fever? I… I don't believe so. I haven’t taken my temperature, if that makes a difference. I haven't been feeling particularly warm, but I haven’t been terribly cold either. Just… normal, I suppose. Is a fever something I should have noticed? I truly don’t recall.
+DOCTOR: It's helpful to know these things. Alright. How about chest pain?
+PATIENT: Chest pain… no. Not really. It’s not pain, exactly. More like… a tightness sometimes. Like a band around my chest when I try to take a deep breath. But not pain. Definitely not pain. It doesn’t last very long, either. Just… when I’m breathing harder.
+DOCTOR: Hmm. And how long has this been going on?
+PATIENT: Oh, goodness. That’s a difficult question. It feels like… weeks, maybe? Or months? Time… it gets away from me sometimes. I want to say a few months, but it could be shorter. It started slowly, just a little more tired than usual, then the dryness began, and then the breathing… I wish I could be more precise. It all blurs together.
+DOCTOR: Alright. Any cough?
+PATIENT: No, not a cough. No. Nothing like that. It’s just… hard to breathe. And everything feels so dry. Like the air itself is… stealing my moisture. I’ve been drinking a lot of water, but it doesn’t seem to help much.
+DOCTOR: Okay. Any allergies to medications?
+PATIENT: Medications… I… I don't think so. I haven’t taken many, if any, recently. I had some antibiotics as a child, I believe, but I don't recall any reaction. I honestly don’t know of any allergies. I’ve never really needed to worry about them before. Is that… a problem?
+DOCTOR: No, it’s not a problem. Just information. And finally, are you currently taking any medications?
+PATIENT: No, sir. Not currently. Just… water. Lots of water. Though, it doesn't seem to be doing the trick, does it? I apologize for being so vague. It’s… difficult to remember everything.
+DOCTOR: Alright. Let's have a listen to your lungs then. Sit back. And please, try to breathe normally.
+PATIENT: Yes, of course. I will try my best. Though “normal” breathing feels… a little foreign these days. Do you need me to do anything specific?
+DOCTOR: Okay. Deep breath in… and out… again… Hmm. Some slight wheezing. Not alarming, but present. And your heart rate is a little elevated. Now, open your mouth and say "Ahhh". Your throat is a little dry, as you said, but no significant redness or swelling. Temperature is 98.9. Not a fever.
+PATIENT: 98.9… that's… good, isn’t it? I’m glad it isn't a fever. The wheezing… is that bad? And my heart rate being high… does that mean something is wrong? I apologize for all the questions. I just… I don’t understand any of this.
+DOCTOR: It’s not necessarily bad. It could be a number of things. Dryness alone isn't much to worry about. But combined with the wheezing and elevated heart rate… it’s worth investigating. I'm going to order a chest x-ray and a basic blood panel. Just to rule things out. It could be something simple like an upper respiratory infection, or something slightly more… involved. Don't panic. We'll get this sorted.
+PATIENT: An x-ray and blood panel… that sounds… serious. Is there something wrong? I truly am sorry for being so unhelpful. I wish I could remember more details, or explain it better. Will it be painful? I don’t do well with… unpleasant things.
+DOCTOR: It’s standard procedure. The x-ray is painless. It’s just a picture. The blood draw might sting for a moment. It’s not pleasant, but it’s quick. Look, I'm ordering these tests to rule things out, not because I think you're in immediate danger. It's best to be thorough. The nurse will get you set up for the blood draw, and I'll have the x-ray ordered. Do you have any questions about the tests themselves?
+PATIENT: No… I don't think so. Just… what if it is something serious? Will it… will it be alright? And… is there anything I should be doing in the meantime? More water? Rest? I feel… a little lost, honestly.
+DOCTOR: Look, worrying won't help. Rest, yes. Stay hydrated. Avoid strenuous activity. We'll know more once the results are back. Honestly, you're likely just dehydrated and a little run down. It's probably nothing. The nurse will give you the instructions for the blood draw and the x-ray. I have other patients waiting. I'll review the results as soon as they're available. Try not to stress.
+PATIENT: Alright. Yes, sir. I understand. Thank you… I think. I will try not to stress. Though, it’s… difficult. Will the nurse come to get me? Or should I… find her?

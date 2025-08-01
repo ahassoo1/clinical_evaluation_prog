@@ -1,0 +1,38 @@
+DOCTOR: Good morning, Mr. Tati. I'm Dr. Sham. What brings you in today?
+PATIENT: Uh, good morning, Doctor. Cough, yeah. Been coughing... a long time now. And tired. Very tired, even after sleep. Also, my nose... always blocked, or runny. Happens a lot.
+DOCTOR: Okay. A cough, fatigue, and nasal congestion. And it's been going on for a while, you said?
+PATIENT: Yeah, a while... I dunno exactly how long. Months, I think? Maybe longer. It comes and goes, but it always comes back. Feels like something stuck in my chest sometimes, when I cough.
+DOCTOR: Alright. And is there anything that makes the cough worse?
+PATIENT: Hmm... worse? Not really sure. Maybe when it's cold? Or dusty? I work with tires all day... lots of dust. I dunno, really. It just... happens.
+DOCTOR: Okay. Dust could definitely be a factor. And the fatigue... is that constant, or does it come and go with the cough?
+PATIENT: Constant, I think. Even when the cough is not so bad, I still feel tired. Like... no energy. Hard to do things, even work. My wife says I sleep a lot too. I just feel... slow, you know?
+DOCTOR: Alright. And have you noticed any fever, chills, or night sweats with this?
+PATIENT: Fever... sometimes feel warm, but not like sick warm. Not like when I had the flu before. Chills... no, not really. Night sweats... uh... I don't think so. I sleep with the fan on, always hot. Hard to tell, maybe?
+DOCTOR: Okay. And have you tried anything to alleviate the symptoms?
+PATIENT: Uh... yeah, a little. Cough syrup, from the pharmacy. Doesn't really help much. And I try to drink water. My wife makes me ginger tea sometimes, that feels nice for a bit. But it doesn't last.
+DOCTOR: Alright. And do you have any allergies, to medications or anything else?
+PATIENT: Allergies... not that I know of. Never had any problems with medicine before. Maybe dust? Because of the work? But not like a bad reaction, just... cough more.
+DOCTOR: Okay. And are you currently taking any medications, even over-the-counter ones, regularly?
+PATIENT: Just the cough syrup, when I need it. Not every day. And sometimes, paracetamol for headache, if I'm really tired and head hurts. Not often though.
+DOCTOR: Alright. And could you tell me a bit about your past medical history?
+PATIENT: Past... uh... nothing much. I broke my arm when I was a kid, playing football. And I had the flu a few times. Nothing serious, I think. I don't go to the doctor much. Just for check-ups, years ago.
+DOCTOR: Okay. And what about your family?
+PATIENT: Family... my parents, they are okay, old now. They have... uh... high blood pressure, I think. My wife's mother had diabetes. Not sure about other things, we don't talk about it much.
+DOCTOR: Alright. And do you smoke, or are you exposed to secondhand smoke?
+PATIENT: No, no smoke. Never smoked. And my wife doesn’t either. We try to stay away from it.
+DOCTOR: Okay. And finally, could you tell me a little about what you do for work, beyond working with tires?
+PATIENT: Just tires, Doctor. I change them, repair them, balance them. I own a small shop, with a friend. Long hours, lots of physical work. Sometimes I help with deliveries, but mostly just the shop. It’s… tiring.
+DOCTOR: Alright. Thank you. Now, I’d like to perform a quick physical exam, if you don’t mind. I’ll listen to your lungs, check your throat, and take your temperature.
+PATIENT: Okay, sure. Sounds good. Whatever you need, Doctor.
+DOCTOR: Okay, Mr. Tati. I'm hearing some wheezing in your lungs, and the breath sounds are a little quieter than they should be in the lower parts of your lungs. Your throat looks a little irritated, but no significant swelling. Temperature is 37.8 degrees Celsius – slightly elevated.
+PATIENT: Okay… wheezing? Is that bad? What does that mean? The temperature... is that high?
+DOCTOR: Wheezing means there’s some narrowing of your airways, which makes it harder to breathe. The slight fever suggests your body is fighting something off. Given your symptoms – the prolonged cough, fatigue, nasal congestion, and what I'm hearing in your lungs – it could be bronchitis, or possibly asthma. However, we need to rule out other possibilities, like a possible infection. I’d like to order a chest X-ray and some blood work to get a clearer picture. Would that be alright?
+PATIENT: X-ray… blood work…? Is it… serious, Doctor? What if… what if it’s bad? I have a shop to run, you know? I need to know what's happening.
+DOCTOR: It’s good you're asking. It's hard to say definitively without the tests, Mr. Tati, and I don’t want to cause unnecessary alarm. The tests will help us determine the cause of your symptoms and ensure we get you the right treatment. We want to rule out anything serious, like pneumonia or something else, and even if it is something like bronchitis, we want to make sure there aren’t any complications. I'll explain everything clearly once we have the results. Do you have any concerns about the X-ray or blood work themselves?
+PATIENT: X-ray… I don't think so. Blood work… I don't like needles. But… if you need it, then okay. Just… tell me what to expect, Doctor. And how long it will take? I have customers waiting, you know?
+DOCTOR: Alright. The blood work will involve a quick prick of a vein in your arm. It's a little uncomfortable, but very quick – just a few seconds. We'll send it to the lab, and the results usually take 24 to 48 hours to come back. As for the X-ray, it’s completely painless – you just stand or sit while the machine takes a picture of your chest. The technician will explain the process. I’ll have my nurse schedule those for you now. In the meantime, I’m going to prescribe you an inhaler to help with your breathing. It’s a bronchodilator – it will open up your airways and make it easier to breathe while we wait for the results. Does that sound alright?
+PATIENT: Inhaler… okay. Anything to make it easier to breathe. Twenty-four to forty-eight hours… that’s a long time. But… okay. Yes, please, schedule the tests. And the inhaler, thank you, Doctor. Is it expensive?
+DOCTOR: Alright. I'll have the nurse arrange everything. As for the cost, the inhaler is relatively inexpensive, and depending on your insurance status—I understand you mentioned being uninsured—we can explore options for assistance programs to help cover the cost of the tests. My nurse can discuss that with you in detail. In the meantime, try to get some rest, stay hydrated, and avoid any strenuous activity. We’ll have a clearer picture soon, Mr. Tati. Do you have any other questions for me at this time?
+PATIENT: No… I think that’s all for now. Thank you, Doctor. I hope it’s not too bad.
+DOCTOR: Alright. We’ll do our best to figure it out quickly. My nurse will be in shortly to schedule the tests and discuss the inhaler prescription. If you experience any worsening of your symptoms – like increased shortness of breath, high fever, or chest pain – please go to the emergency room immediately. We’ll be in touch as soon as we have the results. Thank you for coming in today.
+PATIENT: Okay. Thank you, Doctor. I will.

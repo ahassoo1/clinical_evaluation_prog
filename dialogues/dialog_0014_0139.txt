@@ -1,0 +1,35 @@
+DOCTOR: Alright, Yamir Shanor, 31 years old. So, what brings you in today?
+PATIENT: Uh, yes. Fitness check. For… referee. I need paper say I’m okay. For work. Want to be quick, if possible.
+DOCTOR: A fitness check for refereeing, alright. So, it's a physical for employment purposes. I see. Well, “quick” depends on what your requirements are, and what I find, of course. But we can certainly try to be efficient. Let’s start with a basic history. Have you had any significant medical problems in the past?
+PATIENT: Problems… not really. I… wife, she sick. Two years ago. Now… gone. I’m okay. Just… tired sometimes. That all. No big problems I have.
+DOCTOR: I understand. That must have been… difficult. It's good you're taking care of yourself, though. "Tired sometimes" can mean a lot of things, of course. Is this fatigue constant, or does it come and go?
+PATIENT: Come and go. More… after work. Long days. Hot. Lots lifting. Heavy things. Not always, but… often. And sometimes… hard to sleep.
+DOCTOR: Right. So, fatigue, worse after work, and some trouble sleeping. Any other symptoms alongside the tiredness?
+PATIENT: Um… no. Not really. Maybe… little bit of pain. Back. But… work. It’s heavy work. I take… medicine. For pain. When bad.
+DOCTOR: Okay. And what medicine are you taking for the pain, Yamir?
+PATIENT: Just… over counter. White pills. Ibuprofen, I think? The box is… at home. My friend give me. He say good for back. I don’t remember the name exactly.
+DOCTOR: Alright. Ibuprofen, as needed. Do you know the dosage you're taking?
+PATIENT: Uh… two? Maybe three pills. When really bad. I don’t look at box. Just take. Stop pain.
+DOCTOR: Right. And how often would you say you're taking these pills – two or three at a time – per week?
+PATIENT: …Maybe… three times? Sometimes four. If busy week. Lots lifting. Sometimes more. I don’t count. Just when back hurt.
+DOCTOR: Okay, Yamir. It’s important to be accurate about medication use, especially with over-the-counter pain relievers. Frequent use like that can sometimes cause problems. Now, let's move on to other things. Do you have any allergies to medications, food, or anything else?
+PATIENT: No allergies. Never. I eat everything. No problem. I… want finish soon. If okay? Referee paper… important.
+DOCTOR: Alright. No known allergies. We are trying to be efficient, but I need to ask some basic questions to make sure you're fit for duty. Do you have any history of heart problems, high blood pressure, or diabetes?
+PATIENT: No. Never. I… work hard. Strong. No heart problem. My father, he… old, a little sick. But me, okay. No sugar problem.
+DOCTOR: Alright. And any history of problems with your lungs or breathing?
+PATIENT: No. I… run sometimes. Not much. But okay. No cough. No problem breathing. Dusty at work, but… I used to it.
+DOCTOR: Okay. Let's do a quick physical exam. I'll listen to your heart and lungs, check your blood pressure, and take a look at your back. Please have a seat on the examination table.
+PATIENT: Okay. Quick, right? Table… here?
+DOCTOR: Yes, that one. Just lie back, please. I'm going to listen to your heart and lungs now. Try to breathe normally.
+PATIENT: Okay… normal breathing. Hurry? Referee paper…
+DOCTOR: Okay. Heart sounds are regular, but I do hear some…wheezing in your lungs. Not severe, but present. Blood pressure is 130/85. A little elevated, but not terribly concerning. Now, let me check your back. Can you point to where you’re experiencing the pain?
+PATIENT: Here. Lower. Sometimes… shoot down leg. When lift heavy. Not all time.
+DOCTOR: Okay. There's some tenderness here, and muscle spasm. It's difficult to say exactly what's going on without imaging, but it could be a muscle strain, or something more. Do you have any numbness or tingling in your legs or feet?
+PATIENT: No numb. Sometimes… feel tired. Legs. After work. Long day. Heavy.
+DOCTOR: Okay. Fatigue in the legs after work. So, to summarize: some wheezing in your lungs, elevated blood pressure, lower back pain with muscle spasm, and fatigue. Given your history and examination findings, I recommend a chest X-ray to evaluate the wheezing and some blood work to rule out any underlying inflammation. I’m also going to recommend physical therapy for your back. And, honestly, I'm not comfortable clearing you for a fitness check right now. It's important to get these things checked out first. It’s not about speed, it’s about safety.
+PATIENT: No! I need paper. Referee job. Now. No time for… X-ray. No time. What I do? Tell them I… okay? I’m strong!
+DOCTOR: Mr. Shanor, I understand you need this paperwork, but I am a physician, and I have a responsibility to ensure your health and safety. Simply telling them you are okay isn’t sufficient, and could put you at risk. Look, I can write a note stating that you were seen today, and that further evaluation is recommended – chest X-ray and blood work – but I cannot, in good conscience, sign off on a fitness check without that information. We can schedule those tests for tomorrow morning. It’s quick. It’s responsible. I can even provide a referral to a physical therapist. If you insist on proceeding without further testing, I will document that you were advised to seek it, but declined, and I will not be able to provide the clearance you are requesting. That decision is yours, but I strongly advise against it.
+PATIENT: …Tomorrow. X-ray. Okay. But… paper? Can you write something… say I seen? And… no problem? Just to start job. Until X-ray?
+DOCTOR: Fine. I will write a note stating that you were seen today, August 2nd, 2025, and that further evaluation, including a chest X-ray and blood work, is recommended. This does not constitute a full medical clearance. It simply states that you were evaluated. Here. I will also provide a referral to a local physical therapy clinic. Please schedule the X-ray and blood work as soon as possible, and follow up with me once you have the results. Do you understand?
+PATIENT: Yes. Understand. X-ray. Tomorrow. Thank you. .
+DOCTOR: Very well. And please, Mr. Shanor, take care of yourself. .

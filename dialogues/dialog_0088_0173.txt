@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Jailenne. Welcome to the clinic. I’m Dr. Piet. So, tell me, what brings you in today?
+PATIENT: Morning, Dr. Piet! Thanks for having me. Um, well, I’ve just been getting the chills lately. It’s a bit weird, honestly. Not like a cold, just… chilly.
+DOCTOR: Okay, “just chilly.” Can you tell me a little more about that?
+PATIENT: Hmm, how to explain… It’s not a shiver, not really. More like… I just feel cold, even when I don’t think I should. Like, I’ll be perfectly comfortable, then suddenly I'm a bit cold and need a sweater. It comes and goes, you know? And it’s been happening for maybe a week now.
+DOCTOR: A week, okay. And has this been accompanied by anything else?
+PATIENT: Let me think… Not really, not that I've noticed. Maybe a little tired, but honestly, who isn’t tired these days? No fever, no sore throat, no cough… Just the chills. And the tiredness, but I don’t know if that’s related.
+DOCTOR: Alright. And have you had any changes in your weight recently?
+PATIENT: Changes in weight? Not that I'm aware of. I mean, I haven't been trying to lose or gain weight. I think I'm about the same. I'm usually around 70 kilos… give or take a little, you know?
+DOCTOR: Okay, 70 kilos, consistent weight. Let’s talk about your past medical history. Have you been diagnosed with any medical conditions before?
+PATIENT: Not really. I had a bad case of strep throat when I was a kid, but that was ages ago. And… honestly, that’s about it. Nothing major. Oh! And I had my tonsils out when I was little too, does that count? It was just a routine thing. Nothing chronic, I promise.
+DOCTOR: Okay, no chronic conditions. Tonsils out as a child, strep throat a long time ago. Any surgeries besides your tonsils?
+PATIENT: Nope, just the tonsils. I've never had anything else done, thankfully. I'm not a surgery person, haha! I try to stay healthy, you know? And I’ve got pretty good insurance, so preventative stuff is easy enough.
+DOCTOR: Good. And what about medications?
+PATIENT: Just the usual stuff. I take a multivitamin, and sometimes ibuprofen if I have a headache. Nothing regular, nothing prescribed. Oh! And birth control pills, but I’ve been on those for years, and nothing’s changed with those.
+DOCTOR: Okay, multivitamin, ibuprofen as needed, and consistent birth control. Do you have any allergies to medications, food, or anything else?
+PATIENT: Nope, no allergies that I know of. I've eaten everything, tried everything, haha! No reactions, no hives, nothing like that. I'm pretty lucky that way.
+DOCTOR: Alright, good. And could you tell me a bit about your family history?
+PATIENT: Hmm, family history… my mom has high blood pressure, and my dad had some heart trouble when he got older. Nothing too serious for anyone else, I think. My sister's healthy as a horse, and I haven't really asked my aunts and uncles about it. You know how families are, it's hard to get information sometimes!
+DOCTOR: Okay, mom with high blood pressure, dad with some heart trouble. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no, and no. Definitely not a smoker. I have a glass of wine maybe once a month, if that. And I don't do drugs. Never have, never will. I like my life just fine the way it is!
+DOCTOR: Okay, very good. Let’s do a quick physical exam, if that’s alright with you. I’ll just listen to your heart and lungs, check your temperature, and feel your lymph nodes. Just a routine check, nothing to worry about. Do you mind if I take your blood pressure as well?
+PATIENT: Yeah, that sounds good! No problem at all. Blood pressure is fine, go ahead. I'm happy to do whatever you think is best. I just want to figure out what's going on with these chills, you know?
+DOCTOR: Okay. Your blood pressure is 122 over 80, which is normal. Heart sounds are regular, lungs are clear. I’m palpating your lymph nodes now… Your lymph nodes feel normal. Your temperature is 37 degrees Celsius – also normal. I’m not detecting any obvious signs of infection. Do you feel any tenderness anywhere?
+PATIENT: No, nothing feels tender, not really. Maybe… a little bit stiff in my neck, but I think that’s just from sleeping funny. I work at a desk all day, so I get that sometimes. Nothing that feels linked to the chills, honestly. It's just… weird. I feel fine, other than being chilly.
+DOCTOR: Okay. And just to confirm, this “chilly” feeling is not associated with any sweating, night sweats, or weight loss?
+PATIENT: No, definitely not. No sweating, no night sweats, and like I said, my weight is pretty stable. It’s just… cold. Like I need a sweater when everyone else is comfortable. It’s not a fever-cold, it’s not a shivering-cold… it’s just… a cold cold. Does that make sense? I feel like I'm not explaining it very well.
+DOCTOR: It does make sense, Jailenne. It sounds frustrating when you can’t pinpoint what’s going on. Given your normal temperature and the lack of other symptoms, and based on your history, it could be a number of things, but it's likely nothing serious. We could run some basic blood work to rule out any underlying issues, like thyroid problems or vitamin deficiencies, just to be on the safe side. Would you be comfortable with that?
+PATIENT: Yeah, that sounds good actually. If it will give us some answers, definitely. I'd rather just know, you know? Get it checked out and move on. Blood work sounds fine. What kind of blood work are we talking about? Is it a lot?
+DOCTOR: We’ll do a Complete Blood Count to check your overall blood health, a Thyroid Stimulating Hormone level to check your thyroid function, and a Vitamin D level. It’s a standard panel, so it’s not a lot of blood. Just a few vials. I'll write the order now, and the lab is just down the hall. We should have the results back in a few days. While we wait for the results, try to stay hydrated and get enough rest. If the chills worsen or you develop any other symptoms, please call the office immediately.
+PATIENT: Okay, that sounds good. Hydrate and rest. I can do that. Thank you, Dr. Piet. I appreciate you taking the time to listen to me, even though it’s just… chills. I’ll head down to the lab now.
+DOCTOR: You’re very welcome, Jailenne. It's always best to investigate these things. And don't hesitate to reach out if you have any concerns. The lab will take good care of you. I'll be in touch as soon as the results come in. Have a good day.
+PATIENT: Okay, you too, Dr. Piet! Thanks again. .

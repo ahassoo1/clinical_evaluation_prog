@@ -1,0 +1,34 @@
+DOCTOR: Good morning, Ms. Fabing. I'm Dr. Cumper. Thanks for coming in today. So, what brings you in to see me?
+PATIENT: Morning, Doctor. Just need to get some forms filled out, really. Medicare sent me a notice saying I needed to update some things. Nothing’s wrong, thankfully.
+DOCTOR: Okay, that's good to hear. Medicare does send those out regularly. We can definitely take care of that for you. Just to confirm, is this a general update, or was there something specific the notice mentioned needing to be addressed?
+PATIENT: Hmm, let me think… I think it was just a general check-in, you know, making sure everything is still current. It didn’t say anything specific that I remember. Lots of paperwork, honestly.
+DOCTOR: Alright. I see here it is a general revalidation request, due this month. We'll go through a quick health history update just to be thorough, even if you’re not experiencing any issues currently. It's standard procedure with Medicare. Does that sound alright?
+PATIENT: Yeah, that sounds fine. Standard is good. I don’t mind going through it if it keeps things running smooth. Just let me know if anything is confusing, okay? I’m not always the best at understanding all the official stuff.
+DOCTOR: Absolutely. I'll do my best to keep it simple. Let's start with your current medications. Are you currently taking any prescription medications, over-the-counter drugs, vitamins, or supplements?
+PATIENT: Let's see… I take a blood pressure medicine, Lisinopril, I think it's called. And sometimes, when my joints are acting up, I’ll take ibuprofen. Just the regular kind you get at the store. Oh, and a daily multivitamin, nothing fancy.
+DOCTOR: Okay, Lisinopril for blood pressure, ibuprofen as needed for joint pain, and a daily multivitamin. Do you know the dosage of the Lisinopril?
+PATIENT: Umm… I think it’s 20 milligrams. But honestly, Doctor, I just take what the pharmacy gives me. My husband usually handles refilling things. I’m not great with numbers. Is that okay?
+DOCTOR: That's perfectly alright, Ms. Fabing. We can verify that dosage with your pharmacy. No problem at all. Now, do you have any allergies to medications, foods, or anything else?
+PATIENT: Nope, not that I know of. Never had a reaction to anything, thankfully. My mom always said I had an iron stomach. I can eat pretty much anything.
+DOCTOR: Good to know. No known allergies. And have you had any major surgeries or been hospitalized for anything in the past?
+PATIENT: Hmm… Let me see… I had my tonsils out when I was a kid, a long time ago. And I was in the hospital once when I broke my arm when I was younger, too. Other than that, nothing major comes to mind. Just the usual colds and flu.
+DOCTOR: Okay, tonsillectomy in childhood and a previous arm fracture. Any significant medical conditions – things like diabetes, heart disease, asthma – that you've been diagnosed with?
+PATIENT: Just my blood pressure, I guess. That’s what the Lisinopril is for. And, well… my joints have been bothering me more lately. The doctor a few years back said it was probably just getting older, some arthritis, but nothing serious enough to really treat, you know? Mostly just aches and pains.
+DOCTOR: Okay, hypertension managed with Lisinopril, and some joint pain suggestive of arthritis. We can discuss that further if it's bothering you significantly. Now, to get a better overall picture, can you tell me a little about your family history?
+PATIENT: Well, my mom lived to be 85, and she was pretty healthy for most of her life. My dad passed away when I was young. He had some heart trouble, I think. On my husband's side, his mom had diabetes, and his brother has high blood pressure too, so maybe that runs in the family. Is that the kind of thing you're looking for?
+DOCTOR: Yes, that's very helpful, thank you. History of heart trouble on your father's side, and diabetes and hypertension in your husband's family. Now, just a couple of lifestyle questions. Do you currently smoke, or have you smoked in the past?
+PATIENT: Nope, never touched a cigarette in my life. My mom didn't smoke, and my dad quit a long time before I was born. We keep a pretty clean house, smoke-free.
+DOCTOR: Excellent. And how about alcohol consumption?
+PATIENT: Just a glass of wine with dinner sometimes, maybe a couple of times a week. Nothing heavy, you know? And definitely not every day. Mostly on weekends.
+DOCTOR: Okay, occasional light alcohol consumption. And finally, do you work, or are you retired?
+PATIENT: I work. I'm a control and valve installer and repairer. It keeps me busy, mostly outdoors. Keeps my hands busy, that's for sure. Not glamorous work, but it pays the bills.
+DOCTOR: Alright, Ms. Fabing, that gives me a good overview. Now, just to be thorough, I'd like to quickly check your blood pressure, pulse, and listen to your heart and lungs. Would that be alright?
+PATIENT: Yeah, that’s fine. Sounds good. Whatever you need to do. Just let me know if anything feels weird.
+DOCTOR: Okay. Blood pressure is 138/82, pulse is 72 and regular. Lungs are clear. Heart sounds are normal, no murmurs. Do you have any pain or discomfort at the moment?
+PATIENT: Nope, nothing right now. Just the usual little aches and pains in my joints, but those come and go. Nothing major to complain about today, thankfully.
+DOCTOR: Alright. Based on what you've told me and the quick exam, everything seems stable. Your blood pressure is slightly elevated, but given your history and activity level, it’s not immediately concerning. We can discuss ways to manage that if it becomes an issue. As for the Medicare update, I’m just going to review and confirm the information we discussed. Does this all look correct to you?
+PATIENT: Let me see… Uh, yeah, that all looks right. Lisinopril, ibuprofen, multivitamin… family history… Yep, that's me. And the address is right too. Looks good, Doctor. Thanks for going through all that with me. It’s nice to have it all written down somewhere.
+DOCTOR: Great. I’ve submitted the update to Medicare. You should receive a confirmation notice in the mail within a few weeks. Is there anything else I can help you with today?
+PATIENT: Nope, I think that’s everything. Just wanted to get those forms done. Thanks a lot, Doctor Cumper. You made it a lot easier than I expected.
+DOCTOR: You're very welcome, Ms. Fabing. I’m glad I could help. It was a pleasure meeting you. If anything changes or you develop any new concerns, please don’t hesitate to call the clinic. Have a good day.
+PATIENT: You too, Doctor. Thanks again. Bye now.

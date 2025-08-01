@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Barban. I'm Dr. Vanochten. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It is… a check-up. For the insurance, you understand? Medicare wants this before they… allow things. A physical, yes? I have the papers.
+DOCTOR: Right, a Medicare annual wellness visit. Yes, I understand. Let's get this done efficiently then. I see here you're 28 years old. Have you been feeling generally healthy?
+PATIENT: Generally? Yes. I work. I eat. I sleep. It is… fine. No problems that require a doctor, if you understand. I do not come to doctors for… small things.
+DOCTOR: Okay. Just to be thorough, and to satisfy the requirements of the visit, let's go through a quick review of systems. Have you experienced any fever, chills, or night sweats recently?
+PATIENT: Fever? No. Chills… sometimes it is cold in the factory. Not a sickness chill, you understand? Just… cold. Night sweats… I sleep with blankets. Normal. Is this necessary, Doctor? It feels… a lot of questions for nothing.
+DOCTOR: I understand your concern, Mr. Barban. Medicare requires we cover certain areas during the wellness visit, even if you're feeling well. It's a standard procedure. Okay, how about any cough, shortness of breath, or chest pain?
+PATIENT: Cough? Sometimes dust at work. Shortness of breath… lifting heavy things makes it difficult, yes. But that is… work. Not a sickness. Chest pain… no. Never. Strong chest. I lift many things. It is fine.
+DOCTOR: Alright. And any changes in your bowel habits, any nausea or vomiting, abdominal pain?
+PATIENT: No. Everything is… regular. I eat food. It… goes through. No problems there. Doctor, with all respect, are we getting somewhere? This feels like… a very long list for a man who is perfectly healthy.
+DOCTOR: Okay, I hear you. Let's move along. Any problems with urination—frequency, urgency, pain?
+PATIENT: No. I urinate when I need to. No pain. No… extra. Normal, yes? Like everything else. Is this always how it is with doctors? So many questions about… private things?
+DOCTOR: I apologize if these questions feel intrusive, Mr. Barban. It’s simply part of a routine assessment. Alright, let's switch gears. Any joint pain, muscle weakness, or swelling?
+PATIENT: Sometimes my back is sore. From lifting. But… it goes away. I do not sit at a desk all day, you understand? I use my body. No swelling. No weakness. Just… normal work soreness. A strong man gets sore. It is expected.
+DOCTOR: Okay. And how about your vision, hearing, or any dizziness or headaches?
+PATIENT: Vision is… okay. I see things. Hearing… I hear things. Loud things at the factory sometimes, but that is not a problem. No dizziness. No headaches. Never. Are you writing all of this down? "Normal, normal, normal"? Because that is the answer to almost everything.
+DOCTOR: Yes, I am documenting everything, Mr. Barban. Alright, last few questions. Any skin changes—rashes, moles that have changed, or unusual bleeding?
+PATIENT: No rashes. No moles. I work with food, Doctor. My skin is… practical. Some scratches maybe, from boxes. No unusual bleeding. Doctor, I think I have answered enough questions about my body for one day. Is there anything else? Or can we… finish? I have things to do.
+DOCTOR: Okay. Well, given your report of generally good health, let's do a quick physical exam, just to confirm everything. Is that alright?
+PATIENT: I suppose. But quickly, yes? I do not have all day. What will you… do?
+DOCTOR: Alright. I’ll listen to your heart and lungs, check your blood pressure and pulse, take a look in your ears, nose, and throat, and briefly examine your abdomen. Then I’ll feel your lymph nodes and check your reflexes. Is that acceptable?
+PATIENT: Fine. But be gentle. I need my hands for work, you understand? And please… no poking.
+DOCTOR: Okay, I'll be as quick and gentle as possible. Let's start with your blood pressure. Please relax your arm. 130 over 80. A little elevated, but not concerning at this time. Now, let's listen to your heart. Heart sounds are regular, no murmurs detected. Okay, and your lungs… take a deep breath for me. Lungs are clear.
+PATIENT: Good. No problems. Are you finding anything? Is something wrong? Because I told you, I am perfectly healthy. Just… a little tired from work. That is all.
+DOCTOR: Okay. Your abdomen is soft, no tenderness or masses detected. Now, let me just check your reflexes… Reflexes are normal. Lymph nodes… Lymph nodes are normal. Overall, your physical exam is within normal limits. Your weight is 90 kilograms, and height is 188 centimeters. That puts your BMI at… 25.6, which is considered overweight. That’s something to be mindful of.
+PATIENT: Overweight? I work very hard! Lifting heavy things all day! I am strong! Not… overweight. That number is wrong. Are you sure you measured correctly? And what does it even mean? I am healthy. That is what matters.
+DOCTOR: Alright, Mr. Barban. The BMI is simply a calculation based on your height and weight. It’s a screening tool, not a definitive diagnosis. It suggests you might be at a slightly increased risk for certain health problems, but it doesn't mean you are unhealthy. We can discuss it further if you'd like, but based on your report and the physical exam, there are no immediate concerns. I recommend maintaining a balanced diet and regular exercise, if possible. Do you have any questions for me?
+PATIENT: Balanced diet? Regular exercise? I work in a food factory, Doctor. My diet is food. And I exercise all day, lifting boxes! No. I have no questions. I think you have wasted enough of my time. Is this visit finished? Or will you find more things wrong with me?
+DOCTOR: Okay, Mr. Barban. This completes the required annual wellness visit. I will submit the report to Medicare. I understand your frustration, and I appreciate you coming in. I've documented everything we discussed. I recommend following up with your primary care physician for any specific health concerns. Here is a summary of the visit. Do you have any further questions before you leave?
+PATIENT: No. No questions. I have said everything I need to say. Thank you for your time, Doctor.

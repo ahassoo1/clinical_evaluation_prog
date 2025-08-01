@@ -1,0 +1,13 @@
+DOCTOR: Good morning, Candice. I’m Dr. Vanochten. It’s nice to meet you. So, what brings you in to see me today?
+PATIENT: Honestly? I haven't the faintest idea why I'm here. My husband insisted. Something about… a social visit? Really, I’m perfectly capable, thank you very much. I just moved, doesn't mean I need a doctor poking around. Let’s just get this over with, shall we?
+DOCTOR: Okay. Well, your husband did express some concerns about you adjusting to the new home and a few… changes he’s noticed. Just routine, really. But let’s start with that move. How long have you been settled in now?
+PATIENT: Settled? A rather… generous term. We’ve been there… oh, it must be a month, perhaps? It’s dreadfully suburban, you know. Not at all what I'm accustomed to. And frankly, my husband worries too much. He always has. It's simply a change of scenery, not a medical crisis.
+DOCTOR: I understand. A big change can be disruptive. Has the move itself been physically difficult?
+PATIENT: Difficult? Good heavens, no. I am a remarkably… resilient woman. Though the boxes were terribly disorganized, if you must know. My husband insisted on handling the packing, naturally. A complete disaster, the whole affair. Really, I don't see what this has to do with… well, with anything. Are we quite finished?
+DOCTOR: Alright. Just trying to get a complete picture. Have you noticed any changes in your energy levels since the move?
+PATIENT: Energy? At my age, one doesn’t precisely have energy. It comes and goes, as it always has. I'm not a spring chicken, Doctor. What exactly are you hoping to discover? Honestly, this is quite tiresome. I haven't been feeling ill, if that's what you're getting at.
+DOCTOR: Okay, I understand. And have you had any trouble with your sleep recently?
+PATIENT: Sleep is… adequate. It's not as restful as it once was, naturally. One doesn’t sleep like a log when one is surrounded by… neighbors. Loud, boisterous people, the lot of them. But I assure you, it’s not a medical issue. Is this truly necessary? I have a luncheon to attend, you know.
+DOCTOR: Alright. Just a few more quick questions, if you don’t mind. Has your appetite been normal lately?
+PATIENT: Normal? Well, I haven't been ravenous, if that’s what you mean. I prefer a light meal, always have. Too much indulgence is simply… uncouth. My husband keeps offering me these… substantial portions, but I decline. Honestly, I find the whole conversation rather personal. Are you suggesting I’m not eating enough? Really! .
+DOCTOR: Okay. And has there been any unintentional weight loss recently?

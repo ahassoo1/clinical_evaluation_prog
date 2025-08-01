@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Reihner. I am Dr. Mutnick. Please, have a seat. Now, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. I appreciate you seeing me. It's… my back. It’s been quite painful, and I’d like to get it sorted if possible. I don’t have time for things to drag on, if you understand.
+DOCTOR: Yes, well, efficiency is… admirable. "Quite painful," you say. Can you be more specific?
+PATIENT: Specific… yes. It's a sharp ache, mostly in my lower back. It started a few weeks ago, I believe August 1st. It gets worse when I’m… well, when I’m working. Bending, lifting… anything to do with the fence work. Standing for too long isn't good either. Sitting helps a little, but not much.
+DOCTOR: "Fence work." Right. And how many hours of this “fence work” are we discussing, Ms. Reihner?
+PATIENT: Usually about eight to ten hours a day, Doctor. Sometimes more if a job is pressing. It’s… necessary work. I erect fences for people’s livestock, you understand. Can’t leave animals wandering. I’ve been doing it for twenty years, but this pain is… different than the usual aches.
+DOCTOR: Twenty years of manual labor. I see. And have you attempted any self-treatment?
+PATIENT: Yes, Doctor. I've tried heat packs, and… well, I took some over-the-counter pain relievers. The white ones… ibuprofen, I think it’s called. They don't seem to do much good anymore. And I try to stretch, but even that hurts. It’s why I’m here, you see. I need something… stronger. Something that will let me work.
+DOCTOR: Right. Well, stretching when in acute pain is often… inadvisable. Let's proceed with a physical examination, shall we?
+PATIENT: Yes, Doctor. That sounds… sensible. The sooner we determine what’s causing this, the better. Please, just… be quick, if possible. I have commitments.
+DOCTOR: Please, lie down on the table face down. I’ll begin with palpation. And I must ask you to please inform me immediately if anything causes significant discomfort. I need an accurate assessment.
+PATIENT: Very well, Doctor. Just… please be gentle. It’s quite sensitive.
+DOCTOR: Hmm. Tenderness upon palpation at L4-L5. No radiating pain down the legs, I presume?
+PATIENT: No, Doctor. It’s mostly localized to my lower back. No pain traveling down my legs, no tingling, nothing like that. Just… a sharp ache right here. It feels… almost like a knot. A very painful knot.
+DOCTOR: Now, Ms. Reihner, I am going to ask you to lift your right leg, keeping it straight. Just as high as you comfortably can. Let me know if you experience any pain or discomfort.
+PATIENT: There… that’s as high as I can go comfortably, Doctor. It’s… a pulling sensation, right in my lower back. Not a sharp pain, but… uncomfortable. Like stretching a tight muscle. It’s… worse than just standing.
+DOCTOR: And now the left leg, please. Same instructions. Hmm. Slightly limited range of motion on both sides, though more pronounced on the right. Do you have any numbness or weakness in your feet or toes, Ms. Reihner?
+PATIENT: No, Doctor. No numbness or weakness. My feet feel… normal. I can wiggle my toes, I can stand on my heels and toes… everything feels… functional, just very painful. It’s the pain that’s the problem, not a lack of ability.
+DOCTOR: Very well. Based on this preliminary examination, it appears you are experiencing lumbar strain, likely exacerbated by the physical demands of your… fence work. However, to rule out any underlying structural issues, I recommend an x-ray. I will send you to radiology.
+PATIENT: An x-ray… yes, that sounds… thorough. I suppose that’s sensible. Will that take long, Doctor? I have a job scheduled for tomorrow morning, and… I really need to know if I can work.
+DOCTOR: The radiology department is… frequently busy. It may be an hour or two wait, and then time for the imaging and the radiologist to interpret the results. I cannot guarantee a definitive answer today. I will write a prescription for a short course of naproxen. It is a stronger anti-inflammatory than ibuprofen. Also, I strongly advise against any heavy lifting until we have the x-ray results.
+PATIENT: Naproxen… alright. That sounds… better than nothing. And no lifting… yes, I understand. Though, it will be difficult. Very difficult. Will the x-ray show if there’s… something broken? Or something serious? I’ve never had an x-ray before.
+DOCTOR: It will assess for fractures, dislocations, and any significant degenerative changes. It is… a standard procedure. If the x-ray is clear, it is likely muscle strain. If not, we will discuss further options. The radiology department is located down the hall to your left. They will give you instructions. Do you have any other questions, Ms. Reihner?
+PATIENT: No, Doctor. I don’t think so. Just… the x-ray. And try not to lift anything. I understand. Thank you for your time. I’ll go to radiology now. .
+DOCTOR: Very well. Please let the radiology technician know you were referred by Dr. Mutnick. Next patient! .

@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Asthore. I am Dr. Eaddy. It’s a pleasure to meet you. Now, please tell me, what brings you in to see me today?
+PATIENT: Good morning to you too, Doctor. It’s nice to meet you as well. Well, it’s… this weakness. It’s getting worse, you see. Not all at once, but little by little. It makes things… difficult. I used to be very strong, working with the athletes, but now… not so much.
+DOCTOR: Weakness, you say. And you attribute this to a gradual decline, rather than a sudden onset?
+PATIENT: Yes, Doctor, that is right. Not a fall, or a sudden pain. Just… less strength over time. Months, maybe a year now. Hard to say exactly. I keep hoping it will stop, but it hasn’t. It’s mostly in my legs, I think, but sometimes my arms feel tired too.
+DOCTOR: Hmm. And this weakness… does it interfere with any specific activities?
+PATIENT: Oh, yes. It does, Doctor. I used to love to garden, you see. Big garden. Tomatoes, taro, everything. Now, I have to sit down a lot when I’m out there. And walking… even just around the house, I need to hold onto things sometimes. My wife, she helps a lot, bless her heart. But I don’t like to be a bother.
+DOCTOR: I see. And have you noticed any other symptoms accompanying this weakness?
+PATIENT: Other symptoms… let me think. Sometimes my vision gets blurry, Doctor. Not all the time, but enough to make me worry. And… oh, yes. Sometimes I feel very tired, even after a good night’s sleep. Like my bones are heavy. And… well, sometimes I stumble, even on a flat floor. Not falling, mind you, but a little… unsteady.
+DOCTOR: Blurry vision, fatigue, unsteadiness… alright. And has anything changed recently?
+PATIENT: Changed… not really, Doctor. Everything’s been pretty much the same. Same routine, same food. We haven’t traveled anywhere. Maybe the weather’s been hotter than usual? But that’s just how it is in August, isn’t it? No new medicines, no new aches or pains… just this weakness getting worse. I don’t know what’s causing it, and honestly, it worries me.
+DOCTOR: Very well. It would be prudent to perform a brief physical examination. Could you please follow me to the examination room?
+PATIENT: Yes, Doctor, that sounds… good. Whatever you think is best. I will follow you.
+DOCTOR: Please, have a seat. We’ll start with your reflexes and muscle strength. I’d like you to relax your legs for me.
+PATIENT: Alright, Doctor.
+DOCTOR: Now, I’m going to test your reflexes. Just let your legs be completely loose. This may be a little uncomfortable, but it shouldn’t be painful. Hmm. Diminished response bilaterally. And now, let's assess your strength. Could you please try to push your foot against my hand?
+PATIENT: Alright, Doctor. I’ll try.
+DOCTOR: Weakness noted in bilateral lower extremities, 4/5 strength. Similar findings on the left. Now, could you please squeeze my hands as tightly as you can?
+PATIENT: Alright, Doctor.
+DOCTOR: Grip strength is also diminished, approximately 3/5 bilaterally. Alright. Based on these preliminary findings, I suspect we need to investigate further. I'd like to order some blood work to assess your electrolytes, kidney function, and thyroid levels. We should also consider a vitamin D level. Additionally, an EKG is warranted to rule out any cardiac abnormalities.
+PATIENT: Blood work… and an EKG? Are those… serious tests, Doctor? Is something… really wrong? I just thought it was getting old, you see.
+DOCTOR: It's standard procedure, Mr. Asthore. These tests will help us determine the cause of your weakness. It doesn’t necessarily indicate anything serious, but it's important to rule out any underlying medical conditions. I wouldn't want to dismiss your concerns without a thorough investigation. We'll need to draw blood here in the clinic, and schedule an EKG at the imaging center across the street. Does that sound acceptable?
+PATIENT: Yes, Doctor. That sounds… acceptable. Whatever you think is best. If that’s what you need to do to find out what’s going on, then I’ll do it. Blood work and the EKG. I just hope it’s not anything… too bad.
+DOCTOR: Very well. I’ll have the lab technician draw your blood now. Then, the receptionist will schedule your EKG. Once the results are available, we'll review them and discuss the next steps. In the meantime, I recommend avoiding strenuous activity. And, if you experience any new or worsening symptoms, such as shortness of breath or chest pain, please seek immediate medical attention. Do you have any further questions at this time?
+PATIENT: No, Doctor. I think that’s… everything for now. Thank you for seeing me. And thank you for explaining everything.
+DOCTOR: Very well. The lab technician will be with you shortly.
+PATIENT: .

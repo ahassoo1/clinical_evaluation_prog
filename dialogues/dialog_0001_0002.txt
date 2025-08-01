@@ -1,0 +1,29 @@
+DOCTOR: Alright, Zoie, is it?
+PATIENT: Yes, that’s right. Zoie. Though, everyone just calls me Zoie. It's a good name, isn't it? My husband, he picked it out. A long time ago now…
+DOCTOR: Yes, well. Let's not get sidetracked. You're 87, if I'm reading this correctly. What brings you in today?
+PATIENT: Oh, right. The… the going to the bathroom. It’s… hard. Not painful, just… takes a long time. And sometimes… sometimes it doesn't come out all the way, you know? It’s been happening for a little while now. I forget how long, exactly. A few weeks, maybe? It’s just… annoying, mostly.
+DOCTOR: Annoying. Right. So, difficulty evacuating… and a sensation of incomplete emptying. A few weeks, you say?
+PATIENT: Evacuating? Oh… yes. That’s a good way to put it. It is difficult. And yes, a few weeks. Or maybe a month? Time… it gets away from me these days. My daughter, she keeps telling me I need to write things down. But I forget where I put the paper!
+DOCTOR: Alright. And is there any blood in your stool?
+PATIENT: Blood? Oh dear… I don’t… I don’t think so. I haven’t seen any. But… I don’t always look, if you know what I mean. It’s not something I pay much attention to, usually. Is that… bad?
+DOCTOR: Okay. And any change in your typical bowel habits?
+PATIENT: Bowel… habits? Oh, goodness. Well, I always… I always went after breakfast. Usually. Sometimes not, if I was feeling a bit off. But lately… it’s just unpredictable. Sometimes I go, sometimes I don’t. It’s not regular like it used to be. Is that what you mean?
+DOCTOR: Right, unpredictable. And any abdominal pain, cramping, or bloating?
+PATIENT: Oh, my tummy… Sometimes it feels a little… full. Like I ate too much. But not painful, no. Just… uncomfortable. And sometimes it gurgles, you know? Like a little ocean in there. But no cramping. Definitely no cramping. I don’t like cramping.
+DOCTOR: Alright. Any nausea or vomiting?
+PATIENT: Nausea? Oh, no. I haven’t been sick to my stomach. Not at all. I’m a pretty good eater, you know. My husband always said I could eat a horse. Though, that was a long time ago… I don’t think I could eat a horse these days.
+DOCTOR: Okay. Let’s move on. Any recent changes in your diet?
+PATIENT: Diet… Oh, goodness. Not really. I eat what my daughter brings me. She tries to make sure I get my vegetables. I like soup. And bread. Not much has changed, really. I used to bake more, but… my hands aren’t as steady as they used to be.
+DOCTOR: Alright. Well, I suppose we should have a quick look. Can you get on the exam table for me?
+PATIENT: Oh… the table? Oh dear. It’s a bit high, isn’t it? My legs… they aren’t what they used to be. I don’t know if I can get up there on my own. Could someone… help me?
+DOCTOR: We'll manage. Just take your time. I’ll assist you.
+PATIENT: Oh… alright. If you think so. It’s just… a bit wobbly. And my knees… they make noises. I used to be very good at climbing trees, you know. A long, long time ago.
+DOCTOR: Alright, alright. Let’s get you up here. Careful now. Now, just lie back. I’m going to listen to your abdomen.
+PATIENT: Oh, thank you, dear. That’s very kind. It’s a bit cold, isn’t it? My bones… they feel the cold these days. Just listen away. I don't think there's much to hear, but you're the doctor.
+DOCTOR: Normal bowel sounds, though slightly diminished. Now, I’m going to do a quick rectal exam.
+PATIENT: Oh… a rectal exam? Oh dear. I… I don’t know about that. Is it… necessary? It’s just… a bit embarrassing. And private. My daughter always told me to ask questions if I didn’t understand. What… what are you looking for?
+DOCTOR: Look, it’s standard procedure. I need to check for any blockages or abnormalities. It’s a quick exam. If you want me to figure out what’s going on, you need to cooperate. It's not about embarrassment, it's about your health. Now, if you’ll just… turn onto your side.
+PATIENT: Oh… alright. If you say so. It’s just… I haven’t had one of those in a very long time. And… I’m a bit worried. Please be gentle? My daughter… she would want me to do whatever the doctor says.
+DOCTOR: Hemorrhoids present, mild tone. No obvious masses. Alright. That’s all. You can get dressed now.
+PATIENT: Oh… alright. Hemorrhoids? Is that… bad? It didn’t feel very good, you know. Is it… is it something serious? My husband… he always knew what to do.
+DOCTOR: Look, it’s not uncommon. Probably just age-related. We'll try a stool softener and a fiber supplement. If things don’t improve in a week, we’ll consider a colonoscopy. Now, do you have any allergies to medications?

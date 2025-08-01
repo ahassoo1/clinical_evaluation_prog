@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Chellsea. I’m Dr. Deschane. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Well, it’s… it’s about the cancer. I was told to come see you about it. I don’t really know much beyond that, to be honest.
+DOCTOR: Cancer. Right. And who told you this, Chellsea?
+PATIENT: Um… the hospital. After all the tests. They said I needed to follow up with someone, and gave me your name. I don't remember which doctor at the hospital, though. It all happened so fast.
+DOCTOR: Hmm. Yes, I see your records from St. Joseph's. A preliminary pathology report came across my desk… indicating some concerning findings. Let's start with the basics. What specific symptoms, if any, have you been experiencing that prompted those tests in the first place?
+PATIENT: Well… I’ve been very tired. More tired than usual, I mean. And I've lost some weight, even though I’m eating okay. Mostly just not feeling like myself, I guess. It’s hard to explain.
+DOCTOR: Tiredness and weight loss. Those are concerning symptoms, certainly. And when did you first start noticing these changes, Chellsea?
+PATIENT: Oh… probably around… April? Maybe March? It was after my husband… passed. I thought it was just grief, at first. It’s been hard, you know? Everything just… felt off. But it hasn’t gotten better.
+DOCTOR: I understand loss can certainly impact one’s health. However, it's important we rule out other causes. You mentioned 'feeling off.' Can you elaborate on that?
+PATIENT: Well… sometimes my stomach hurts. Not all the time, but… a dull ache. And… I've been going to the bathroom a lot more. Like, a lot. I didn't want to say anything, but… it’s been happening. I wasn’t sure if it was something I should tell the doctor.
+DOCTOR: Stomach pain and increased frequency of bowel movements. Right. And have you noticed any blood in your stool, Chellsea?
+PATIENT: I… I don’t think so. I haven’t really… looked. I know, it’s silly. But no, I don't think I have. It’s just… been different. More… loose, I guess.
+DOCTOR: Alright. And are you experiencing any nausea or vomiting?
+PATIENT: No, thankfully. No vomiting or anything like that. Just… the tiredness, the stomach, and… well, you know. And I haven't had much of an appetite, even though I'm trying to eat. It just doesn't seem to help much.
+DOCTOR: Okay. Let’s move on to your past medical history. Have you been diagnosed with any other medical conditions, Chellsea?
+PATIENT: No, not really. I mean… I had the flu a couple of times, like everyone. But nothing… serious. My husband, he had high blood pressure, but not me. I was always pretty healthy, before… all this.
+DOCTOR: Any surgeries?
+PATIENT: No, never had surgery. Nothing like that. Just… regular check-ups, when I needed them. I always tried to take care of myself.
+DOCTOR: And what about your family?
+PATIENT: Um… my mom had diabetes. And… my grandmother, on my dad’s side, I think she had… something with her stomach. But I don’t know exactly what. It was a long time ago. They didn’t talk about it much.
+DOCTOR: Alright. And are you currently taking any medications, Chellsea?
+PATIENT: No, nothing at all. I haven’t needed to. Not even over-the-counter stuff, really. Just… tried to rest when I was feeling bad. Is this taking a long time? I have a little appointment later.
+DOCTOR: We're almost finished with the history, Chellsea. Now, do you have any allergies to medications or anything else?
+PATIENT: No, no allergies. Never had one. I can eat anything, thankfully. I’ve always been lucky like that. Not much bothers me. Except… well, you know.
+DOCTOR: Alright. Let’s proceed with a physical exam. I need to listen to your abdomen, and I will need to palpate it as well. Please lie back on the examination table. And tell me if anything feels painful.
+PATIENT: Okay. Is it going to hurt? I'm a little nervous.
+DOCTOR: It may be slightly uncomfortable, Chellsea, but I’ll be gentle. Please lie on your back, with your knees bent. Breathing normally. Hmm. Now, I’m going to palpate your abdomen. Tell me immediately if you feel any tenderness. Anything here?
+PATIENT: Ooh… that… that’s a little sore. Not terrible, but… yeah. It hurts a bit when you push there.
+DOCTOR: Tenderness in the right lower quadrant. Now, I'm going to listen to your lungs. Please take a deep breath… and exhale. Lungs are clear. Blood pressure is 110/70. Pulse is 72. Alright. Based on what you've told me, and the preliminary findings from St. Joseph’s, further investigation is required. I’m ordering a complete blood count, a metabolic panel, and a CT scan of your abdomen and pelvis. The CT scan will give us a better picture of what’s going on.
+PATIENT: Oh… a CT scan? Is that… serious? What are we looking for, exactly? I'm a little scared now.
+DOCTOR: It's a standard procedure, Chellsea, to get a clearer understanding of your condition. The CT scan will allow us to visualize your organs and identify any abnormalities. The preliminary report from the hospital raised concerns about a potential mass in your abdomen, which is what we need to investigate further. It could be a number of things—not necessarily cancer—but we need to rule things out. The lab work will give us information about your overall health and help us assess the situation. I'll have the lab order and scan requisition sent to radiology immediately. They’ll contact you to schedule the scan. It’s best to have it done as soon as possible. Do you have any questions?
+PATIENT: A mass… Oh dear. Will it hurt to have the scan? And… how long will it take to get the results? Will I… will I need to be admitted to the hospital? I don't want to be alone.
+DOCTOR: The CT scan itself is non-invasive. You will lie on a table that slides into a large machine. It doesn't hurt, though you need to remain very still. It will take approximately 30 minutes. As for the results, it depends on the radiologist’s workload, but usually within 24-48 hours. We'll schedule a follow-up appointment as soon as I have the reports to discuss them with you. Regarding admission… it’s too early to determine that. We need the scan results first. Let's not jump to conclusions. I am also referring you to Dr. Ramirez, an oncologist, for a consultation. It’s standard procedure to have a specialist involved at this stage, regardless of the final diagnosis. Do you have any further questions before I finish these orders?
+PATIENT: No… I think that's all. Just… a lot to take in. I don't suppose you could tell me… what kind of cancer it might be, if it is cancer? Just… so I can be prepared?
+DOCTOR: Chellsea, I understand your anxiety, but speculating without concrete evidence is irresponsible and frankly, unhelpful. There are numerous possibilities, and without the scan results, any attempt to guess would be purely conjecture. It could be a number of things—a benign tumor, an inflammatory condition, or, yes, potentially a malignancy. Jumping to worst-case scenarios will only increase your stress. We need to remain objective and let the tests guide our next steps. I am providing you with a list of reputable resources regarding cancer information, should you wish to educate yourself. I will have my nurse schedule a follow-up appointment for you next week. In the meantime, if you experience any worsening symptoms—severe abdominal pain, fever, or bleeding—please go to the emergency room immediately. Is there anything else I can assist you with today?
+PATIENT: No… I think that’s all. Thank you, Doctor.
+DOCTOR: .

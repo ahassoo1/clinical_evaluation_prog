@@ -1,0 +1,34 @@
+DOCTOR: Alright, good morning, Janie. I'm Dr. Gorga. So, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. It's…well, it's this tiredness. Just…always tired. It's been going on for a while now, honestly. I don’t even remember when it started, just…a long time. I just feel…drained, all the time.
+DOCTOR: Hmm, alright. Tiredness…a long time, you said. Okay. And is it…constant?
+PATIENT: Pretty much, yes. Some days are…a little worse than others, I guess. But it's never really gone. It's just…there. Like a weight. It makes everything hard, you know? Even…getting out of bed.
+DOCTOR: Right, constant, with some fluctuations. And it’s impacting your daily activities…difficulty getting out of bed. Anything else accompany the tiredness?
+PATIENT: Oh…let me think. Sometimes my muscles ache a bit. Not a bad ache, just…sore. And I’ve been…forgetful. Even more than usual, I think. Though, honestly, I forget what “usual” is these days.
+DOCTOR: Okay, muscle aches and increased forgetfulness… alright. Now, when you say forgetfulness, can you give me an example?
+PATIENT: Ugh, it's hard to explain… Just…little things. Like, I went to the store yesterday, and I completely forgot what I went for when I got there. And sometimes I…I struggle to remember people's names. Even people I've known for a long time. It's embarrassing, honestly.
+DOCTOR: Right, difficulty with recall…names, reasons for things. Okay. And have you noticed any changes in your appetite, or your weight lately?
+PATIENT: Oh…I think I’ve lost a bit of weight. Not much, but…my clothes feel a little looser. And I don’t really feel hungry, all the time. I eat…when I remember to. But it’s not like I’m craving anything.
+DOCTOR: Alright. Weight loss, decreased appetite…Okay. Do you have any trouble sleeping?
+PATIENT: Oh, yes! That’s…that's a big part of it. I wake up a lot during the night. And even when I do sleep, I don't feel rested. Like I haven’t slept at all. It’s…frustrating.
+DOCTOR: Alright, interrupted sleep, non-restorative sleep. Hmm. Now, let's talk about your past medical history. Have you been diagnosed with any medical conditions before?
+PATIENT: Oh…well, my husband…he always took care of all that. I had…something with my gallbladder, a long time ago. They took it out. And…I think I had high blood pressure, at one point? But honestly, Doctor, it's all a bit of a blur. I’m on Medicare now, if that helps?
+DOCTOR: Okay, gallbladder removal…and a history of hypertension. Medicare is helpful, thank you. I see here you were diagnosed with hypertension about ten years ago, and it was treated with…lisinopril, but it was discontinued. And no other major medical problems listed. Any surgeries other than the gallbladder?
+PATIENT: Oh, goodness. I…don’t think so. Maybe…a wisdom tooth, years and years ago? But nothing…big. My husband always remembered all this stuff. I feel awful, not being able to recall.
+DOCTOR: Don't worry about it, Janie. It's common to forget details. We'll figure it out. Alright, what about your family?
+PATIENT: Oh…my family… My husband passed away five years ago. He had…heart problems. And my sister…she lived in Romania her whole life. I haven’t seen her in many years. She was always healthier than me, though. I don’t…I don't think there was much…sickness in our family, honestly.
+DOCTOR: Okay, husband with heart problems, sister healthy. Alright. Now, let's talk about your current medications. Are you taking any prescription drugs right now?
+PATIENT: No, not really. Just…a little something for my arthritis, sometimes. Over the counter. Ibuprofen, if it’s really bothering me. That’s it.
+DOCTOR: Alright, just ibuprofen as needed for arthritis. And any allergies to medications, food, or anything else?
+PATIENT: No, not that I know of. I've never had a reaction to anything. Honestly, Doctor, I just…feel tired all the time. Is there a test you can do to find out what’s wrong?
+DOCTOR: Alright, Janie. It sounds like we need to run some tests to get a better understanding of what’s going on. We’ll start with a complete blood count – that checks for anemia and other issues. We’ll also do a thyroid panel, to check your thyroid function. And a basic metabolic panel to check your kidney and liver function, as well as electrolytes. I also want to check your Vitamin D levels. Would that be okay?
+PATIENT: Yes, please. Anything. Just…I want to feel normal again. It’s just…so exhausting. Vitamin D…okay, yes. Whatever you think is best, Doctor. Will it take long?
+DOCTOR: We can get the blood drawn right here in the office. It'll only take a few minutes. Then we send it to the lab. It usually takes a few days to get the results back. In the meantime, I want to do a quick physical exam, just to listen to your heart and lungs, check your reflexes, and take your blood pressure. Is that alright?
+PATIENT: Yes, of course. Whatever you need to do. The sooner we can figure this out, the better. I…I have to get home and…well, I just want to sit down.
+DOCTOR: Alright. Let’s get started then. If you could sit up on the table for me?
+PATIENT: Okay. There we go. It's a little…hard, isn’t it?
+DOCTOR: It is a bit firm. I'll try to be quick. First, let's listen to your heart and lungs. Take a deep breath for me…and exhale…Good. Heart sounds are regular, though a little faint. Lungs are clear, but breath sounds are slightly diminished bilaterally. Blood pressure is 135/85. Okay. And I’ll check your reflexes now. Reflexes are a little sluggish, but within normal limits. And your abdomen is soft, no tenderness to palpation. Any pain when I press here?
+PATIENT: No, not really. Just…a little uncomfortable. It's just…everything feels uncomfortable these days.
+DOCTOR: Okay. Alright. I think that's enough for now. I’ll send off the lab work, and we’ll review the results when they come back. In the meantime, try to get as much rest as you can, and stay hydrated. We will call you if the results are abnormal. Do you have any questions for me at this time?
+PATIENT: No, I don’t think so. Just…thank you, Doctor. I appreciate you listening. I just want to feel better, and…I hope it’s not anything too serious.
+DOCTOR: You're very welcome, Janie. We'll figure this out together. I'll have the nurse schedule a follow-up appointment for us to discuss the results in a few days. If anything changes, or you feel worse, please don't hesitate to call us. And just to reiterate, the tests are to rule out common causes of fatigue, such as anemia, thyroid issues, and vitamin deficiencies. We’ll take it from there. Here's a copy of the lab request for your records. Have a good day, Janie.
+PATIENT: Okay, thank you, Doctor. You too. .

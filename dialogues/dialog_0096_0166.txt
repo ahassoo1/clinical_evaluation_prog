@@ -1,0 +1,40 @@
+DOCTOR: Well, good morning, Tarin. I’m Dr. Burlingham. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. It’s my leg, actually. It’s been…numb, off and on. It’s a bit strange, to be honest.
+DOCTOR: Hmm. Numb, you say?
+PATIENT: Yes, numb. Not constantly, thankfully. More like…a tingling sensation that fades in and out. It’s mostly in my right leg, from the thigh down to my foot. I can still feel things, but it doesn’t feel quite…right. It’s hard to explain.
+DOCTOR: Right leg, thigh down to the foot… tingling, comes and goes. And how long has this been going on, Tarin?
+PATIENT: Let me think… it started, I believe, around the beginning of July. So, about a month now. It wasn’t constant at first, just a few times a week. Now, it seems to happen almost daily, though it’s not all day, thankfully.
+DOCTOR: Almost daily… alright. And is anything particular bringing it on?
+PATIENT: That’s a good question. I haven’t really noticed a consistent trigger, no. I’ve been doing a fair bit of walking lately – some hiking with friends – but it happens even when I’ve just been sitting around, working on my animation. I thought maybe it was posture at first, but adjusting my chair doesn’t seem to help much.
+DOCTOR: Hiking and sitting… no clear correlation. Animation, you say?
+PATIENT: Yes, Doctor. I’m a special effects artist and animator. So, a lot of time spent at a computer, drawing and… well, animating. It’s mostly digital work now, but I do some stop-motion as well, which requires a bit more physical movement. Perhaps that’s relevant? I truly don't know.
+DOCTOR: Stop-motion... potentially. Alright, let’s talk a bit more broadly. Are you experiencing any pain along with this numbness?
+PATIENT: No, not really pain. It’s not a sharp pain or anything like that. Sometimes there’s a bit of… achiness in my thigh, but it’s very mild and doesn’t really feel connected to the numbness, if that makes sense. It's more like general muscle fatigue after a long day, perhaps.
+DOCTOR: No sharp pain, mild achiness… Alright. And have you noticed any weakness in your leg?
+PATIENT: Weakness… hmm. That’s a good question. I haven't consciously noticed any, no. I’ve been able to do everything as usual – hiking, walking, even carrying heavier equipment for my animation projects. But now that you mention it, maybe I have felt a slight clumsiness occasionally. Like tripping over things a bit more than usual, but I just chalked that up to being a bit distracted.
+DOCTOR: Clumsiness, slight… alright. Let’s move on to other things then. Any changes in your bowel or bladder habits?
+PATIENT: Changes in… bowel or bladder habits? No, not that I've noticed. Everything seems normal on that front. I apologize, that’s a rather personal question, Doctor. Is that… related to the leg numbness? I'm just curious.
+DOCTOR: It’s just routine, Tarin. We have to rule things out. Alright, good. Now, have you had any recent injuries, even minor ones, to your back or legs?
+PATIENT: No, no recent injuries. I haven’t fallen or twisted anything recently. I did pull a muscle in my shoulder a few months ago while moving some equipment, but that healed up completely. I had physical therapy for it and it’s been perfectly fine for quite some time. Nothing affecting my legs, though.
+DOCTOR: Alright. And are you taking any medications currently?
+PATIENT: No, Doctor, I’m not on any medications. I generally try to stay healthy and avoid them if possible. I take a daily multivitamin, but that’s it. No prescriptions, no over-the-counter medications regularly, nothing at all.
+DOCTOR: No medications… Okay. Now, do you have any allergies to anything?
+PATIENT: No allergies that I’m aware of. I’ve never had a reaction to anything – food, medications, insect bites, nothing at all. I can eat pretty much anything without issue. Is that… unusual? I feel like everyone has some sort of allergy these days.
+DOCTOR: It’s fine. Alright, let’s do a quick physical exam. Can you stand up for me, please?
+PATIENT: Certainly, Doctor. I’m standing now. Please let me know what you’d like me to do.
+DOCTOR: Alright. Walk a few steps for me, please. Just back and forth a few times. And I'm going to check your reflexes. I'll be using the little hammer. It might be a little uncomfortable, but it shouldn't hurt.
+PATIENT: Certainly. Is this alright? I’m happy to adjust if you’d like me to walk faster or slower. And I understand about the hammer, Doctor. I'm ready when you are.
+DOCTOR: Hmm. Reflexes are… a little diminished on the right side, but not drastically so. Now, let’s check your strength. Can you push your foot against my hand, like you're trying to push me away?
+PATIENT: Certainly. Is this sufficient pressure, Doctor? I can push harder if you’d like. I try to be mindful of my strength, so as not to overwhelm.
+DOCTOR: Okay, strength is… adequate. Not significantly different between sides. Now, I'm going to check your sensation. Close your eyes, please. I’m going to touch different parts of your legs with this cotton swab, and you tell me when you feel it.
+PATIENT: Certainly. I have my eyes closed, Doctor. Please proceed when you’re ready. I'll do my best to indicate when I feel the swab.
+DOCTOR: Okay. Sensation is… slightly decreased on the outer side of your right leg. Not a huge difference, but noticeable. Alright. You can sit down. Hmm. This is… interesting.
+PATIENT: Interesting? Is that good or bad, Doctor? I apologize for asking directly, but I tend to overthink these things. I appreciate you taking the time to examine me so thoroughly.
+DOCTOR: It’s… inconclusive, Tarin. It could be a mild nerve compression. Perhaps something in your back, or even a bit of peripheral neuropathy. But your symptoms are… atypical for either of those. The diminished sensation and reflexes are subtle. It's not alarming, but it's also not something we can ignore.
+PATIENT: I see. Atypical, you say? So, it’s not a clear-cut case of anything? I appreciate your honesty, Doctor. What does that mean for next steps, then? Would imaging be helpful? Or perhaps some… blood tests? I'm happy to do whatever you recommend. I just want to understand what’s going on and ensure it doesn’t worsen.
+DOCTOR: Imaging is… unlikely to be helpful at this stage. A nerve compression wouldn’t necessarily show on an MRI. Blood tests could rule out some underlying conditions, like diabetes, but your age makes that less likely. I think, frankly, we need to see how this progresses. I’m going to recommend you keep a log of your symptoms—when they occur, what you were doing, how long they last. If they worsen, or you develop any weakness, or changes in bowel or bladder control—and I cannot stress this enough—see a neurologist immediately. We’ll follow up in six weeks. If there’s no improvement, we’ll reconsider imaging and a referral. Does that sound acceptable?
+PATIENT: That sounds… reasonable, Doctor. A log of symptoms, follow up in six weeks, and seek a neurologist if things worsen. I will certainly do that. I appreciate you explaining everything so thoroughly. I'm glad we have a plan in place. Is there anything else I should be doing in the meantime? Any specific exercises or stretches I should avoid?
+DOCTOR: Avoid anything that exacerbates the symptoms, obviously. Gentle stretching is fine, but don't push yourself. Honestly, I don't think this is anything serious, Tarin. It’s probably just a minor irritation. But it's best to be cautious. I'll send you home with a symptom diary and a handout on basic nerve care. Do you have any other questions for me?
+PATIENT: No, Doctor, I believe that covers everything. Thank you again for your time and expertise. I appreciate your cautious approach and the clear plan for follow-up. I will be sure to keep the symptom diary and follow your recommendations. I hope you have a pleasant rest of your day, Doctor.
+DOCTOR: Alright. You too. Next patient. .
+PATIENT: .

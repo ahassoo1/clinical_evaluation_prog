@@ -1,0 +1,19 @@
+DOCTOR: Good morning, Mr. Ruocco. I'm Dr. Murtic. So, tell me, what brings you in to see me today?
+PATIENT: Oh, good morning, Doctor. Just… pain. When I breathe deep, it hurts. It’s… hard to explain. Been happening a while now, I guess. Not sure exactly how long. Everything feels a bit fuzzy these days, you know?
+DOCTOR: "A while now," is… not terribly helpful, Mr. Ruocco. But I understand things can be difficult to pinpoint. Is the pain constant, or does it come and go?
+PATIENT: Comes and goes, I think. More when I… do something. Like, if I’m lifting things, or… walking up the hill. It’s not always there, no. Mostly when I push myself, I reckon. Sometimes it feels like a tight band around my chest. Does that make sense?
+DOCTOR: A tight band… yes, that’s… descriptive. And you've noticed it’s worse with exertion – lifting, walking uphill. Alright. Is the pain sharp, dull, aching… or something else?
+PATIENT: Hmm… not sharp, no. More… aching, I suppose. A heavy ache. And sometimes… a little bit like a pressure. Like someone's sitting on my chest. It's hard to say exactly. It just… hurts when I breathe in deep. I used to be able to do so much more, you know? Building things… now… everything feels harder.
+DOCTOR: Well, at your age, Mr. Ruocco, a certain amount of slowing down is… expected. But we’ll investigate this “ache” nonetheless. Does anything relieve the pain?
+PATIENT: Relieve it…? Not really, no. Maybe… sitting still. Not doing anything. But then everything starts to ache from sitting still, you know? It’s a bit of a catch-22. I mostly just try to ignore it. I'm not one for complaining, Doctor. Never have been.
+DOCTOR: Ignoring things rarely makes them go away, Mr. Ruocco. Alright, let’s move on. Have you had any cough?
+PATIENT: Cough? Sometimes. Not a bad one, though. Just a little tickle in my throat. Mostly in the mornings. Nothing to write home about, really. Happens with the dust, I suppose. Living out here in the country.
+DOCTOR: Dust, yes. And any fever, chills, or night sweats?
+PATIENT: Fever…? Not that I know of. I haven't taken my temperature in… well, I can’t remember the last time I took my temperature. I don't get sick often, Doctor. Maybe a little cold now and then, but nothing serious. No chills, no… night sweats. Definitely no night sweats. I’m a tough old bird, you know?
+DOCTOR: Alright. And what about your past medical history?
+PATIENT: Past medical…? Oh dear. That’s… a long time ago. I worked construction most of my life. Lots of bumps and bruises, broken bones here and there. Nothing major. My wife… she always took care of the doctor stuff. I just… built things. I don't remember the details, Doctor. It’s all a bit fuzzy.
+DOCTOR: Fuzzy is… unhelpful, Mr. Ruocco. Did you ever have any problems with your heart or lungs?
+PATIENT: Heart or lungs… Not that I recall. I used to smoke, years ago. A lot of us did, back then. Quit… oh, must be thirty years ago now. Doctor told me to, and I did. No problems that I know of. Just… tired now. Everything feels so tiring these days. Can we just… figure out what’s wrong with my chest? I don’t want to bother you with old history. It doesn't matter anymore.
+DOCTOR: "Doesn't matter anymore?
+PATIENT: It just… I'm an old man, Doctor. I've lived a long life. I built things, I worked hard. I don’t need a long list of what might be wrong with me. I just want to know why it hurts when I breathe. Is that too much to ask? I don't want to waste your time with stories from fifty years ago. It doesn’t help, and frankly, I can barely remember it myself.
+DOCTOR: Very well, Mr. Ruocco. Let's get a listen to your chest, then. Please take a deep breath… and hold it.

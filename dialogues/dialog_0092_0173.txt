@@ -1,0 +1,34 @@
+DOCTOR: Good morning, Jailenne. Welcome to the clinic. My name is Dr. Mohamed Giganti. It’s nice to meet you. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It's nice to meet you too. Um, well, I've just been getting the chills lately, and it's a bit annoying, honestly. It's not a fever, I don't feel sick, just…cold.
+DOCTOR: I see. Just the chills, and no other symptoms accompanying that?
+PATIENT: Not really. Maybe a little tired, but I usually am, to be honest. It’s hard to say if that’s connected. No cough, no sore throat, nothing like that. Just…brrr. I keep reaching for a sweater, even when it's not that cold in here.
+DOCTOR: Okay. And how long have you been experiencing these chills?
+PATIENT: Hmm…let me think. Probably about a week, maybe a little longer? It started slowly, just feeling a bit cooler than usual, and it’s gotten a little more noticeable each day. Not terrible, but enough to bother me.
+DOCTOR: Alright. And can you describe the chills a bit more specifically?
+PATIENT: Well, it’s not like shivering, not constantly anyway. It's more like a wave of cold washes over me, and it’ll last for a few minutes. Sometimes it’s just my arms and legs, other times it feels like it’s deeper, you know? Like…inside my bones, almost. Does that make sense?
+DOCTOR: Yes, that does make sense. It sounds quite uncomfortable. Have you noticed any other symptoms at all, even minor ones, that might be related?
+PATIENT: Oh, um…now that you mention it, I've been a little more thirsty than usual, maybe? I always drink a lot of water, but I feel like I’m going through it faster. And I think… maybe a little bit of muscle ache, but it could just be from work, I do a lot of walking. It’s hard to tell.
+DOCTOR: Okay. Let’s get a bit more information. Before we proceed, do you have any known allergies to medications, food, or anything else?
+PATIENT: No, not that I know of. I’ve never had a reaction to anything. My mom always said I had an iron stomach, haha. I’ve taken some over-the-counter stuff for headaches and colds before, and never had any problems.
+DOCTOR: Good to know. And are you currently taking any medications at all, prescription or over-the-counter, vitamins, supplements – anything like that?
+PATIENT: Just a multivitamin, honestly. I try to be good about it. Nothing else, really. I don’t like taking pills unless I really need to.
+DOCTOR: Alright. Now, regarding your medical history, have you ever been diagnosed with any chronic conditions like diabetes, thyroid problems, or autoimmune diseases?
+PATIENT: No, I haven't. I had the usual childhood stuff – chickenpox, things like that – but nothing serious. I’ve been pretty healthy, thankfully. I had a really bad bout of the flu a few years ago, but that’s about it. My doctor always said I was in good shape.
+DOCTOR: Okay. Have you had any surgeries in the past?
+PATIENT: Nope, no surgeries. Never needed any, thankfully. I try to avoid hospitals as much as possible.
+DOCTOR: Alright. And how about your family?
+PATIENT: Um…my mom is healthy, she’s about seventy. My dad passed away a few years ago, he had some heart trouble. And I have a brother, he’s fine, lives in Casablanca. No real history of… serious illnesses in the family, I don’t think. Nothing that anyone’s ever mentioned to me, anyway.
+DOCTOR: Okay. Now, let's talk a little bit about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, none of those. Never smoked a cigarette in my life. I'll have a glass of wine with dinner sometimes, but not very often. And definitely no drugs. I try to keep things pretty healthy, like I said.
+DOCTOR: Okay, good to know. Now, just to get a better picture, could you tell me a little bit about your typical day?
+PATIENT: Sure. I’m a Health Education Specialist, so I spend a lot of time walking around, visiting people in their homes, doing workshops, things like that. It can be pretty tiring, actually. I usually get up around seven, get ready, and then I’m out the door by eight. I work until about five, and then I usually just relax at home, cook dinner, maybe watch some TV. Pretty normal, I guess. It's a lot of being on my feet.
+DOCTOR: Alright. That’s helpful information. Now, I'd like to do a quick physical exam, if that's alright with you. I'll check your temperature, blood pressure, pulse, and listen to your heart and lungs. I’ll also take a look at your throat and feel your lymph nodes. Is that okay?
+PATIENT: Yes, that's perfectly fine. Go ahead.
+DOCTOR: Okay, your temperature is 98.6 Fahrenheit, which is normal. Your blood pressure is 120/80, also within the normal range. Your heart sounds are regular, and your lungs are clear. Now, let me just check your throat… Your throat looks clear, no signs of inflammation. And now, I'll palpate your lymph nodes… Your lymph nodes are not enlarged. Do you feel any tenderness when I press here?
+PATIENT: No, that doesn't hurt. It feels… normal, I guess. It doesn’t feel swollen or anything.
+DOCTOR: Okay. Given your symptoms – the chills, fatigue, increased thirst, and the muscle ache – and the normal findings from the physical exam, I’d like to order a few lab tests just to rule out some possibilities. Specifically, I'd like to check your complete blood count, thyroid function, and a basic metabolic panel. These tests will give us a more comprehensive picture of your overall health. Does that sound alright?
+PATIENT: Yes, that sounds good. Whatever you think is best, Doctor. I just want to figure out what’s going on. Is it going to be a lot of blood? I'm not great with needles.
+DOCTOR: No, it won’t be a lot of blood at all. Just a standard blood draw, a few vials. And the phlebotomist is very skilled, they'll make it as quick and painless as possible. It'll only take a few minutes. We should have the results back within a couple of days. In the meantime, I recommend staying well-hydrated and getting plenty of rest. If your symptoms worsen or you develop a fever, please contact the clinic immediately. Do you have any questions for me at this point?
+PATIENT: No, I think you’ve covered everything. Staying hydrated and resting sounds good. Hopefully it’s nothing serious. Thank you, Doctor.
+DOCTOR: You're very welcome, Jailenne. We'll get those tests ordered right away. The nurse will come in shortly to draw your blood and explain the process. I’ll review the results as soon as they're available and we’ll schedule a follow-up appointment to discuss them. Don't hesitate to call if you have any concerns before then. Have a good day, and please take care of yourself.
+PATIENT: Okay, thank you, Doctor. I will. Bye!

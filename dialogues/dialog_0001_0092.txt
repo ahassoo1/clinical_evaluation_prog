@@ -1,0 +1,32 @@
+DOCTOR: Alright, Mr. Guilds. So, what brings you in today?
+PATIENT: Huh? Oh. Well, I... I get outta breath, see? Just walkin' a little bit. And my mouth... feels like the desert. Eyes too. Real dry. Don't know why though. Never felt like this before, not really. It just... started.
+DOCTOR: Okay, shortness of breath and dry mouth… and eyes. “Just started,” you say?
+PATIENT: Yeah, just... recently. Maybe a month? Two? Time kinda... slips away, you know? I ain't been feelin' so good, generally. But the breathin'... that's new. And it's annoying. Real annoying. Used to be able to do things. Now... not so much.
+DOCTOR: Right. “Generally not feeling so good.” Can you be more specific?
+PATIENT: Specific? What do you mean specific? I just told ya! I get tired easy. Everything's a bit harder. Walkin', fixin' things… I am a traffic technician, you know. Gotta keep things runnin'. But now… I gotta stop more. And it's hot, of course. But this is… more than just the heat.
+DOCTOR: Traffic technician, okay. And you're saying this fatigue and difficulty with activity is new, alongside the breathlessness and dryness?
+PATIENT: Well, the traffic stuff... that's been hard for a while. Lots of new lights, new rules. They don't make 'em like they used to, ya know? But this... this breathin' and dryness... yeah, that’s new. Maybe a month, two. Like I said. It’s… bothersome. I don’t like feelin' like this.
+DOCTOR: Okay. And any chest pain with the breathlessness?
+PATIENT: Chest pain? Nah. Not really. It's just… tight. Like I can't get a good breath. Not pain, exactly. More like… squeezed. But it don’t hurt. Just… uncomfortable. Real uncomfortable.
+DOCTOR: Alright. Any cough?
+PATIENT: Cough? Not much. Sometimes, a little tickle in my throat. But no big coughin’ fits or anything. Just… a little somethin' now and then. Don’t keep me up at night or nothin’.
+DOCTOR: Okay. Let's talk about medications. Are you currently taking anything?
+PATIENT: Medications? Let me think... the doctor gave me somethin' for my… blood pressure, I think. A little white pill. Take it every mornin'. And somethin' for my… knees. They ache sometimes. That’s a blue one, I think. And… that’s about it. I get 'em from the drugstore, regular.
+DOCTOR: Alright. Do you remember the names of these medications?
+PATIENT: Names? No, not really. I just take 'em. The white one's for the pressure... and the blue one's for my knees. The pharmacist knows what I need, see? I don't bother with the names. Too much to remember. Old age, ya know? It slips away.
+DOCTOR: Okay. Any allergies to medications or anything else?
+PATIENT: Allergies? Hmm... Not that I know of. Never had a bad reaction to nothin'. Used to get stung by bees when I was a kid, but that didn't do much. Nothing serious, anyway. I think I'm alright. Just gettin' old, that's all.
+DOCTOR: Alright. Let's take a look. Could you stand up for me, please?
+PATIENT: Stand up? Oh. Alright, alright. Careful now… these knees ain’t what they used to be.
+DOCTOR: Alright. I’m going to listen to your heart and lungs. Take a deep breath in… and out. Findings: Breath sounds are slightly diminished bilaterally, with some scattered wheezes noted on auscultation. Heart sounds are regular, but rate is slightly elevated at 88 bpm. No murmurs detected.
+PATIENT: Breathin’? Like this? It feels… tight. Like somethin's blockin' it. What are ya listenin' for? Is somethin' wrong?
+DOCTOR: Your lungs sound a little… congested. Now, let's check your blood pressure and pulse. Findings: Blood pressure is 145/90 mmHg. Pulse is 88 bpm, regular. Your blood pressure is a little elevated.
+PATIENT: Elevated? Is that bad? I told ya I been feelin' tired. Everything's just... harder now. Is it my age? I’m gettin’ old, you know. Things just… wear out.
+DOCTOR: It could be age-related, yes. But we need to rule out other things. Let’s check your oxygen saturation. Findings: Oxygen saturation is 92%. Your oxygen levels are a little low.
+PATIENT: Low? What does that mean? Am I sick? I just want to be able to breathe normally again. Walkin' around without gettin' outta breath... Is that too much to ask?
+DOCTOR: It means we need to investigate further. It could be a number of things – pneumonia, bronchitis, even mild heart failure. Given your age and symptoms, I want to order a chest x-ray and some blood work. Will that be alright?
+PATIENT: X-ray? Blood work? Sounds… serious. Is it somethin' bad? I just feel tired and dry, that’s all. What if it’s just the heat? Maybe I need a vacation.
+DOCTOR: It's better to be safe than sorry. The tests will help us determine the cause of your symptoms. And no, I don't think it's just the heat. Let's get these tests ordered, and we can discuss the results and a plan. Do you have any questions?
+PATIENT: Questions… hmm. Who’s gonna pay for all this? Medicare cover it? I’m on Medicare, ya know. And… will it take long? I don’t like bein’ in hospitals. They smell funny.
+DOCTOR: Medicare should cover it, yes. We’ll submit the necessary paperwork. And the tests themselves shouldn’t take long. I’ll have the nurse draw the blood and schedule the x-ray for you. It’s a quick procedure. We’ll get this sorted out. I'll have the nurse come in to explain the next steps. Do you have any other questions before I go?
+PATIENT: Other questions… I guess not. Just… get me breathin' normal again, alright? That’s all I ask. And tell the nurse to be gentle with the needle. My veins ain't what they used to be.

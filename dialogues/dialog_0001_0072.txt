@@ -1,0 +1,30 @@
+DOCTOR: Alright, alright. So, you’re Ebony, right?
+PATIENT: Yeah, that’s me. Ebony Heidenthal. It’s nice to meet you, Dr. Pehrson, I think? It's a bit of a drive out here, to be honest.
+DOCTOR: Pehrson is fine. Look, I got a full waiting room, so let’s just cut to the chase. What brings you in today?
+PATIENT: Oh, right, sorry. It’s… my memory. It’s been a bit off lately, and it’s worrying me. I forget things… small things mostly, but it’s happening more and more. Like, where I put my keys, or what I was even talking about mid-sentence. It’s… frustrating.
+DOCTOR: Memory, huh?
+PATIENT: Yeah. It's not like, huge things… yet. But it's enough to make me stop and think, you know? I used to be so organized. Now… not so much. Is this normal, getting older? I’m 38.
+DOCTOR: Look, 38 isn’t old. But… things happen. Alright, let's try to get a better picture here. When did you first notice this becoming a problem?
+PATIENT: Hmm… that’s a good question. It's hard to pinpoint exactly. Probably… six months ago? Maybe a little longer. It started with just misplacing things, but now it's… harder to explain. Sometimes I have trouble remembering appointments, even if I write them down. It's just… fuzzy. Is that making sense?
+DOCTOR: Fuzzy. Okay. And is this… constant?
+PATIENT: No, not constant. It comes and goes. Some days I feel perfectly fine, sharp as a tack. Other days… it's like wading through fog. It's not every day, thankfully. And it doesn't seem to be getting worse rapidly, if that makes sense. It's just… concerning because it happens at all.
+DOCTOR: Right. So, intermittent… not a sharp decline. Have you had any… head injuries recently?
+PATIENT: No, nothing recent. I bumped my head pretty hard when I was a kid, climbing a tree, but that was… decades ago. Nothing in the last few years, definitely. No falls, no accidents, nothing like that. I do get migraines sometimes, though. They can be pretty bad.
+DOCTOR: Migraines... Okay. And are these migraines new, or have you had them for a while?
+PATIENT: Oh, I’ve had migraines since I was a teenager. They come and go, they haven't gotten worse recently, just… always there in the background, you know? Usually I can manage them with over-the-counter stuff, but sometimes they knock me out for a day. Is that relevant? Sorry if I’m rambling.
+DOCTOR: It could be relevant. Look, just try to be concise, alright?
+PATIENT: Oh, sorry! Right. Yes, I've had migraines for years. They haven’t changed much, still the same old story. So, not new, not worse. Is there anything specific you're looking for? I feel like I'm just listing off symptoms now, and I don't want to waste your time.
+DOCTOR: Waste my time?
+PATIENT: I didn’t mean… ugh. Sorry, that came out wrong. I just want to be helpful. I know you're busy, and I don't want to just sit here rambling about everything that's ever happened to me. I just… I’m worried, and I’m trying to give you the information you need. I just don’t know what information is important. Is there a questionnaire or something?
+DOCTOR: Look, I’m a Family Medicine doctor, not a… detective. Let’s get a basic physical, rule out anything obvious. Alright?
+PATIENT: Okay, yeah, that sounds good. A physical. That makes sense. What will that involve? And… will there be any blood work? I'm not a huge fan of needles, to be honest.
+DOCTOR: We'll check your reflexes, listen to your heart and lungs, basic stuff. And yeah, I'm going to order some blood work, just to check your vitamin levels, thyroid, things like that. Can't rule anything out without it. I'll try to make it quick. Roll up your sleeves.
+PATIENT: Okay, alright. Sounds good. Quick is good. I appreciate that. Where do you want me to sit?
+DOCTOR: Right there. Let’s start with your blood pressure.
+PATIENT: Okay. Here we go. Hopefully this isn't too bad.
+DOCTOR: Alright. 130 over 80. Not bad. Now, I'm going to listen to your heart and lungs. Take a deep breath. Sounds… clear. A little rapid, but nothing concerning. Now, reflexes. Extend your arms… good. Now your legs. Normal. Everything seems… within normal limits so far.
+PATIENT: Okay. That wasn't as bad as I was expecting. Is everything… okay then? Do you think it's just stress, maybe? Or… what are you thinking?
+DOCTOR: Look, I'm not going to tell you everything's "okay" based on a five-minute physical. That's not how this works. You said memory issues. We need to rule out things like vitamin deficiencies, thyroid problems… And frankly, at your age, we have to at least consider other possibilities, however unlikely. The blood work will help with that. We'll see what it says. I'm ordering a complete blood count, a thyroid panel, and vitamin B12 and D levels. They should be back in a few days. I'll call you with the results. And don't go self-diagnosing on the internet, alright?
+PATIENT: Okay. That… makes sense. I won’t. No internet diagnosing, I promise. Thank you, Dr. Pehrson. I appreciate you taking the time. A few days… okay. I’ll just… wait for the call. Is there anything else I need to do right now?
+DOCTOR: No. Just… try not to worry too much. And if anything significant changes, call the office. Don't just wait for my call. Here's the lab requisition. Go get that done as soon as you can. The quicker we have the results, the quicker we can figure things out. Alright, next patient. You're all set. Have a good day.
+PATIENT: Okay. Thank you again, Dr. Pehrson. I will. .

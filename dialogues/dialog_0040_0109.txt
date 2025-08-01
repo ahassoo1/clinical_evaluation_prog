@@ -1,0 +1,32 @@
+DOCTOR: Right, Mr. Brum. Mitchell, is it?
+PATIENT: Yes, Mitchell Brum. That is right. It’s nice to meet you, Doctor… Osga, yes? I remember your name. It is a good name.
+DOCTOR: Yes, Osga is fine. Look, I have a very full schedule today, so let's get straight to it. What brings you in?
+PATIENT: Oh, yes, of course. Sorry to take your time. It is… a headache. In the back of my head. It started maybe three days ago. Not so bad at first, just a little ache. But it gets worse when I… when I move my head too much. Like when I bend over.
+DOCTOR: Three days, you say?
+PATIENT: Yes. Three days, I think. Maybe four. Time… time gets away from me these days. But it started after I was… fixing something in the yard. Just a little thing, really. A fence post. But I had to bend over a lot to do it.
+DOCTOR: And how would you describe the pain?
+PATIENT: Hmm. It is… a dull ache. Not sharp. More like… a heavy feeling. Like someone is pressing on the back of my skull. Sometimes it feels like it’s going all the way around the back of my head. Not a bad pain, at first. But it makes me tired.
+DOCTOR: Tired, right. Any nausea or vomiting with this headache?
+PATIENT: No, no sickness. Not at all. Just… tired. And a little dizzy sometimes, when I stand up too fast. But that happens sometimes even when I don't have the headache. Old age, I suppose.
+DOCTOR: Right. And any changes in your vision?
+PATIENT: Vision? Let me think… No, not really. Everything looks… normal. Maybe a little blurry sometimes, but I always have needed glasses. I have them here, see? I wear them for reading and such. But the headache doesn’t make my vision worse, not that I notice.
+DOCTOR: Do you have any other medical problems?
+PATIENT: Other problems… Well, my knees bother me sometimes. Old work injury, from when I was working on the railroad. And my doctor – a long time ago, now – told me my blood pressure was a little high. But I don’t take any medicine for it. Never really bothered me much.
+DOCTOR: Railroad, huh?
+PATIENT: Yes, sir. A long time. Rail Yard Engineers, Dinkey Operators, and Hostlers, that was my job. Hard work, but good work. I liked it. Built things, you see? Always liked building things. Now, I mostly just… tend to the garden.
+DOCTOR: Right, right. Any family history of headaches or neurological problems?
+PATIENT: Neurological… problems? Hmm. That’s a big word. Let me think… My mother, she had… migraines, sometimes. Bad ones, she said. She used to lie down in a dark room for hours. But I don’t think anyone else… No, not that I remember. We didn’t talk much about sickness back then.
+DOCTOR: Alright. Let's have a quick look at you, then. Can you lie down on the examination table for me?
+PATIENT: Yes, of course. Whatever you need. Is this table… sturdy? I don't want to fall.
+DOCTOR: It's a table, Mr. Brum. Perfectly sturdy. Just lie flat. I’ll be listening to your heart and lungs, and I’ll check your reflexes.
+PATIENT: Okay, okay. It’s a bit cold, isn't it? And a little hard. But I'm fine. Just tell me what you need me to do.
+DOCTOR: Heart sounds regular. Lungs clear. Reflexes… diminished, but not alarming. Any weakness or numbness in your arms or legs?
+PATIENT: No, no weakness. And no numbness, not that I’ve noticed. My hands… they get a little stiff sometimes, especially in the morning. But that’s just old age, I think. Always been that way. They work alright, see?
+DOCTOR: Pupils equal and reactive. Well, Mr. Brum, it sounds like you’ve got a tension headache. Probably from straining your neck in the yard. Nothing to worry about, really.
+PATIENT: Tension headache? That’s what it is? Just from bending over? That’s… good to know. I was worried it was something worse. So, what should I do about it? Is there something I can take?
+DOCTOR: Over-the-counter pain reliever should do it. Ibuprofen or acetaminophen. Take as directed. And try to avoid strenuous activity for a few days. Here. This has some general information about headaches. Anything else?
+PATIENT: Oh, yes, thank you, Doctor. That’s very helpful. Just… one more thing. I don’t have insurance, you see. Will this… pain reliever… be expensive? I’m on a fixed income.
+DOCTOR: They're over-the-counter, Mr. Brum. They shouldn't be too expensive. Look for the generic brands. They're cheaper. Alright, well, I have other patients waiting. You take care now.
+PATIENT: Oh, yes, of course. Generic… I’ll remember that. Thank you, Doctor Osga. You’ve been very… helpful. And sorry to take your time. I appreciate your help.
+DOCTOR: Right. You're welcome. Next! .
+PATIENT: .

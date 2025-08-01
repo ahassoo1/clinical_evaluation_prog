@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Shanor. I'm Dr. Chora. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. I… need check for referee. For fitness. I want to make sure I’m okay to do it. It’s for… the games.
+DOCTOR: Okay, a fitness check for refereeing games. I understand. Just to clarify, are you starting a new refereeing position, or is this a routine check-up to maintain your certification?
+PATIENT: Routine. I do it every year. Need paper from doctor to show… the league. So they know I’m healthy.
+DOCTOR: Alright, a yearly physical for league requirements. No problem. Let's go through some questions, and I'll do a quick exam. Have you had any changes in your health since your last check-up?
+PATIENT: Hmm… not really. Maybe… a little tired sometimes. But work is hard. I fix… the insides of ovens. Big ovens. It’s heavy work. Is tired… bad?
+DOCTOR: Fixing ovens sounds physically demanding. Being tired can be a sign of something, but it’s very common with strenuous jobs like yours. Has the tiredness been getting worse, or is it pretty consistent?
+PATIENT: Consistent, I think. Same tired. Not more, not less. I sleep okay, usually. Just… wake up feeling it. Like I did a lot yesterday. Even when I didn’t.
+DOCTOR: Okay, consistent fatigue despite adequate sleep. We’ll definitely want to look into that a bit further. Any other symptoms alongside the fatigue?
+PATIENT: No… not really. Maybe… sometimes my back hurts. But that's from the work too. Lifting… heavy things. I take… pills for it sometimes. The over-the-counter kind. Ibuprofen.
+DOCTOR: Back pain with your work, managed with ibuprofen. Good to know. Are you experiencing any numbness, tingling, or weakness in your arms or legs?
+PATIENT: No. No numb. No… tingle. Legs okay. Arms okay. I can lift things. Still strong. I think.
+DOCTOR: Alright, that’s good. Let’s do a quick physical exam just to get a baseline. I'm going to listen to your heart and lungs, check your blood pressure, and do a quick neurological check. Is that alright with you?
+PATIENT: Okay. Sounds good. Fast is good. I don’t have much time today.
+DOCTOR: I’ll be as efficient as possible. First, let’s check your blood pressure. Could you please take a seat and extend your arm?
+PATIENT: Okay. Here. Quick, please.
+DOCTOR: Blood pressure is 130/85. A little elevated, but not drastically so. Heart sounds are regular, lungs are clear. Now, I’m going to check your reflexes. Could you please cross your legs and relax your arms?
+PATIENT: Okay. Relaxed. Like this?
+DOCTOR: Reflexes are normal and equal bilaterally. Now, just a quick range of motion check. Could you please try to touch your toes?
+PATIENT: Can't quite reach toes. Back a little stiff.
+DOCTOR: Okay, a little limited range of motion, likely from the back stiffness you mentioned. And finally, I'll quickly check your pulse and feel for any swelling in your extremities. Pulse is good, no swelling. Everything seems alright structurally, but we should run some bloodwork to get a better understanding of your overall health and rule out any underlying causes for your fatigue. Does that sound good?
+PATIENT: Yes. Bloodwork is good. Fast, right? I need the paper for the league. Soon.
+DOCTOR: Yes, we'll get this done as quickly as possible. I’m ordering a Complete Blood Count, a Basic Metabolic Panel, and a Vitamin D level. These will give us a good overview. The lab is just down the hall. They should be able to draw the blood right away. Once the results are back – usually within 24-48 hours – we can schedule a quick follow-up to discuss them. I'll also fill out the form for your league once we have the results. Does that sound like a plan?
+PATIENT: Yes. Good. 24-48 hours. Okay. Can I go now? I have… things to do.
+DOCTOR: Yes, you can go ahead and head to the lab. They'll take care of you. And once you’ve had the bloodwork done, feel free to give the lab a call to confirm they’ve received the order. Here’s my card with the clinic number in case you have any questions. We'll be in touch soon. Thank you for coming in, Mr. Shanor.
+PATIENT: Okay. Thank you, Doctor. I go now.

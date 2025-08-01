@@ -1,0 +1,32 @@
+DOCTOR: Right. Lacreasha Thut, age 40. So, what brings you in today?
+PATIENT: My nails. They... they just look funny. Not good funny. I don't even know why I'm here, really. Just... they changed. They always do, I think. It's probably nothing.
+DOCTOR: "Changed" how, exactly?
+PATIENT: Ugh. Hard to say. Like... the color. Not bright, not pretty. And kinda thick, maybe? I don't paint them or anything. Never have. It's just... they don't look like my nails. I dunno. Old lady nails, probably.
+DOCTOR: "Old lady nails"... Right. And how long have you noticed this change?
+PATIENT: Oh, goodness. A while. Months, I guess? Maybe longer. Time just... goes. I don't keep track of nail things. It's not like it's a problem problem. Just... annoying. I think it started after... after I went to visit family. But that was a long time ago.
+DOCTOR: Visiting family… where, if you don’t mind me asking?
+PATIENT: Afghanistan, I think? Somewhere over there. It was... dusty. Everything is dusty there. And hot. Really, really hot. I don't remember much else, honestly. It was a long trip.
+DOCTOR: Dusty and hot… Right. And have you noticed any other changes along with your nails?
+PATIENT: Other changes? Hmm... I've been a little tired, maybe? But everyone's tired these days, aren't they? And my skin feels kinda dry. But I live in the desert, so... that's normal, right? I put lotion on sometimes. I think.
+DOCTOR: Dry skin, fatigue… Okay. And any pain or discomfort in your hands or around your nails?
+PATIENT: No, no pain. Not at all. Just... they look wrong. Like something's not right under the surface, you know? But it doesn't hurt. I wouldn't be here if it hurt.
+DOCTOR: Alright. Let's take a look. If you'll just sit here, I'll examine your hands and nails. It will just be a quick look.
+PATIENT: Fine. As long as you don't poke too much. I don't like being poked.
+DOCTOR: Hmm. They are somewhat thickened, and the color is… slightly yellowish. Nail bed perfusion appears normal, though. No clubbing or pitting noted. Do you have any difficulty breathing or chest pain?
+PATIENT: Breathing? No. Why would I have trouble breathing? I walk around just fine. Chest pain... sometimes, when I lift heavy things. But who doesn't get chest pain? It's probably just old age.
+DOCTOR: Right. And do you have any known allergies?
+PATIENT: Allergies? Not that I know of. I eat everything. Well, not bugs. I don't eat bugs. But everything else. I've never had a reaction to anything. Unless you count dust. Dust makes me sneeze. But that's just dust.
+DOCTOR: No known allergies… Alright. And are you currently taking any medications, prescription or over-the-counter?
+PATIENT: Medications? No. I don't like taking pills. They make me feel funny. Just a little something for my... my tummy sometimes. But that's it. Nothing regular.
+DOCTOR: "Something for your tummy"... Could you be more specific?
+PATIENT: Ugh. It's just... a little something for the heartburn. You know, when I eat spicy food. It's not a big deal. It's just... antacids, I think? The pink ones. I buy them at the store. They help sometimes. I really don't keep track of these things.
+DOCTOR: Alright. Given your travel history, the nail changes, and your occasional heartburn, I suspect you may have a mild fungal infection of the nails, possibly exacerbated by some underlying digestive issues. The antacids suggest some acid reflux, which can sometimes contribute to nutrient deficiencies. However, we need to confirm this with a nail culture. I'm going to order one now.
+PATIENT: A culture? Like... growing things? You're going to grow something on my nails? That sounds... unpleasant. Is it going to hurt? I don't like things growing on me.
+DOCTOR: It's a very simple procedure, Ms. Thut. We take a small scraping from your nail and send it to the lab to identify if there's a fungus present. It won't hurt, just a little filing. We will also do some blood work to check for any deficiencies. And I'm going to recommend a consultation with a gastroenterologist to evaluate your digestive issues. Does that sound acceptable?
+PATIENT: A gastro-what now? Look, I just wanted to know why my nails look funny. This is getting complicated. And I don't want anyone poking around in my tummy. I'm starting to think this wasn't worth coming in for.
+DOCTOR: Ms. Thut, I understand your concerns. However, it's important to address all potential causes of your symptoms. The nail changes could be harmless, but we need to rule out anything serious. A gastroenterologist can help determine if your digestive issues are contributing to any nutrient deficiencies that may be affecting your nails. If you refuse these tests, I cannot provide a definitive diagnosis or treatment plan. So, are you willing to proceed with the nail culture and blood work?
+PATIENT: Fine. But no poking in my tummy. And make it quick. I have things to do.
+DOCTOR: Very well. The lab technician will come in shortly to collect a nail sample and draw some blood. I will have the results sent to you as soon as they are available. In the meantime, I recommend continuing with the over-the-counter antacids as needed. Do you have any other questions for me?
+PATIENT: No. Just... hurry up.
+DOCTOR: Very well. The technician will be with you shortly. .
+PATIENT: .

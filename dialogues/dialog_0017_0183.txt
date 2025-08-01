@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Mr. Grumman. I am Dr. Blim. Now, let's not waste any time. What brings you in today?
+PATIENT: Morning. Look, Doctor, it's this tiredness. Just…always tired. Been going on a while now. Doctor told me before, something with my liver. I forget what he said exactly, but it’s not good, I know that much. Makes it hard to do things, you understand?
+DOCTOR: “Something with your liver,” you say. Vague, Mr. Grumman, terribly vague. And you’ve been experiencing this… “tiredness” for how long, precisely?
+PATIENT: Precisely? Oh, don't ask me for precise. Months, I guess. Maybe longer. It comes and goes, you know? Some days worse than others. It’s just… draining. I used to be able to work all day, now… I need naps. It's embarrassing. You know how it is.
+DOCTOR: Embarrassing is not a medical term, Mr. Grumman. Let’s try to be systematic. Do you have any other symptoms accompanying this “tiredness”?
+PATIENT: Symptoms? Hmm. Let me think. My stomach…sometimes it feels off. Not pain, exactly. Just…heavy. And I don’t eat like I used to. Everything just…doesn’t taste good anymore. And my wife says I’m grumpy. Which, honestly, is probably true, but…it’s because I feel terrible.
+DOCTOR: “Feels off” and “doesn’t taste good”...again, not terribly helpful. Any nausea?
+PATIENT: Nausea? Like…throwing up? No, not throwing up. Just…a feeling. Like I don't want to eat. It's different, you see? It's not that my stomach hurts, it’s just…unappealing. Everything looks…grey.
+DOCTOR: Grey, you say?
+PATIENT: Yes, grey! Like…food looks faded. Like the color is gone. It's hard to explain. And it makes me not want to bother with it, you know? What's the point of eating if it tastes like nothing, and looks…well, grey.
+DOCTOR: Right. We’ll need to run some tests. I see here you’ve had some liver function tests previously. Let’s repeat those, and I’d also like a complete blood count, a metabolic panel, and a Vitamin D level. We’ll rule things out. Do you have any allergies to medications?
+PATIENT: Medications? Not that I know of. Never had much luck with them, honestly. Always felt worse after. No, no allergies. But…make sure it’s not something strong, alright? I don’t want to be laid up for a week just from taking a pill.
+DOCTOR: “Strong”?
+PATIENT: Well, you know. Some of those pills… they just knock you out. Or make you sick. I've heard stories. My neighbor, old man Henderson, took something for his blood pressure and couldn't get out of bed for days. I just… prefer to avoid things if possible.
+DOCTOR: I assure you, Mr. Grumman, I will prescribe appropriately. We need to establish a baseline. We’ll start with basic bloodwork. Now, family history – are there any instances of liver disease, anemia, or unusual fatigue in your family?
+PATIENT: Family history… hmm. My mother, she was always tired. But she was old. And my uncle, on my wife’s side, he had something with his stomach. Not liver, I don’t think. Just…sick. They didn’t have good doctors back then, though. Everything was just “stomach trouble” or “tired blood”. Not like now with all the fancy tests.
+DOCTOR: "Tired blood" is not a diagnosis, Mr. Grumman. Very well. Do you drink alcohol?
+PATIENT: Alcohol? No, not really. Never liked it. Makes me feel…off. Like everything spins. My wife sometimes has a glass of wine with dinner, but I stick to water. Always have. It’s probably why I’m so tired, actually. No fun, you see?
+DOCTOR: I see. And do you smoke, or have you ever smoked?
+PATIENT: Smoke? Goodness, no. Never touched a cigarette in my life. Bad for you, everyone knows that. My wife tried it once, back when she was young and foolish, but she stopped right away. Said it made her cough. Terrible habit.
+DOCTOR: Very well. The lab orders are sent. You can have your blood drawn downstairs. After we have the results, we’ll discuss the next steps. In the meantime, try to maintain a regular sleep schedule and eat something, anything, even if it doesn’t taste appealing. Do you have any questions for me before you go?
+PATIENT: Questions? Hmm. Well… how long will it take to get the results? I don’t want to be waiting around for weeks. And… will these tests tell me why I’m so tired? Because honestly, Doctor, this is getting old.
+DOCTOR: The results should be available within 48-72 hours, Mr. Grumman. As to why you are tired… that is precisely what these tests are for. I cannot provide a diagnosis until we have concrete evidence. Now, if you’ll excuse me, I have other patients waiting. The nurse will direct you to the lab. Have a good day.

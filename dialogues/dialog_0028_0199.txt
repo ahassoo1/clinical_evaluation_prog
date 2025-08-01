@@ -1,0 +1,24 @@
+DOCTOR: Right. Mr. Chayer, is it?
+PATIENT: Yeah, that's me. Marquie. Look, is this gonna take long? I got… stuff to do, you know? Just trying to figure out why I can't catch my breath lately.
+DOCTOR: “‘Lately’ is… vague. Let’s try to be a bit more specific, shall we?
+PATIENT: Ugh, okay, okay. Specific… hmm. Maybe a couple of weeks? It started… after I was doing some work at the plant. Lifting stuff, checking the pipes… regular stuff. I just felt more tired than usual, and then… harder to breathe, especially when I walk up the stairs. Honestly, it's all kind of blurry. I don't really remember it starting on a specific day. Sorry. It just… got worse.
+DOCTOR: A plant, you say?
+PATIENT: Yeah, the water treatment plant. I operate the systems, check the levels, make sure everything's running right. It's… a lot of walking, sometimes in kinda tight spaces. And like I said, some heavy lifting. Not crazy heavy, but enough to make you sweat. Is that… important? I’m not sure what you’re looking for here.
+DOCTOR: It could be. We need to rule things out, naturally. Do you smoke?
+PATIENT: Smoke? No, never. My wife… she wouldn’t let me. And honestly, I wouldn’t. Gives me a headache just thinking about it. Nope, not a smoker. Is it… is this about the plant? Like, is something in the water making me sick? I haven't thought about that.
+DOCTOR: Let’s not jump to conclusions. It’s… unlikely. Now, any chest pain?
+PATIENT: Chest pain… hmm. Not exactly pain, pain. More like… a tightness? Sometimes, when I try to take a deep breath. It’s not awful, it just feels… uncomfortable. Like someone’s sitting on my chest. Does that make sense? It comes and goes, though. Not constant. And it's worse when I'm, you know, trying to do something. Like climbing stairs. Or after work.
+DOCTOR: And how about any coughing?
+PATIENT: Yeah, a little. Not a bad cough, usually. Just… a tickle in my throat. Happens more at night, I think. Or when it's dusty. Like, when I'm checking the filters at the plant. It's… probably just allergies, honestly. I get those sometimes, too. It’s not a hacking cough or anything. Just a little… annoying. Sorry, I'm not good at explaining this stuff.
+DOCTOR: Alright. Let’s have a listen to your lungs. Please take a deep breath for me.
+PATIENT: Okay, sure. Deep breath… Like that? It feels a little… tight. Is something wrong? Sorry, I get anxious at doctors’ offices.
+DOCTOR: Your breathing is… slightly wheezy. Not alarming, but present. Do you have any history of asthma?
+PATIENT: Asthma? No, not that I know of. My mom never said anything about it. I was a pretty active kid, played soccer and everything. Never had any trouble breathing then. I don’t… I don't think I’ve ever been diagnosed with asthma. Is that what you think it is?
+DOCTOR: Alright. We’ll need to check your oxygen saturation. And, given your work environment, I’d also like to order a chest X-ray. Just to rule things out. It's standard procedure, Mr. Chayer.
+PATIENT: X-ray? Okay… I guess. That sounds… serious. Is it gonna cost a lot? I don't really have insurance, so… I'm trying to avoid big bills if I can. And how long will it take? I really need to get back to work. My wife… she's depending on me.
+DOCTOR: The cost… I can’t give you an exact number. It depends on the facility. As for time, it will take approximately twenty minutes for the X-ray itself, plus whatever time it takes to get the results. I’ll have the nurse prepare you for the X-ray. And we'll discuss the findings when they're available. Now, any allergies I should be aware of?
+PATIENT: Allergies? Hmm… not really. I get itchy eyes sometimes in the spring, but that’s it. And I can’t eat shellfish, makes me sick. But other than that, no. No drug allergies, no reactions to anything I know of. Shellfish… and pollen, I guess. Is this gonna be a long process? I'm just… worried about missing work.
+DOCTOR: Alright. The nurse will be in shortly to take your vital signs and prepare you for the X-ray. Try to remain calm. It's a simple procedure. I'll review the results as soon as they are available. Is there anything else you want to tell me before she arrives?
+PATIENT: Uh… well, I’ve been feeling really tired lately. Not just from the breathing, but just… exhausted all the time. Even when I sleep. And… I’ve lost a little weight, I think. Not a lot, but my clothes feel a bit looser. I don’t know if that’s important. I’m just… trying to remember everything. Sorry if I’m rambling. I think that’s it. I just want to feel normal again.
+DOCTOR: Alright. The nurse will be with you momentarily. Please try to relax. We will do our best to determine the cause of your symptoms. Now, if you'll excuse me, I have other patients waiting. .
+PATIENT: .

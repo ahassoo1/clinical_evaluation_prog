@@ -1,0 +1,25 @@
+DOCTOR: Right. Well, let’s get this over with. Tasmia, is it?
+PATIENT: Yeah, that's me. Look, I got things to do, so if you could just... quickly tell me what I need to do about this blood pressure thing, that’d be great.
+DOCTOR: Blood pressure, yes. Everyone's so busy these days. Okay, quickly... you were told you have high blood pressure, I presume?
+PATIENT: Yeah, someone at work did one of those quick checks and said it was a little high. Honestly, I didn't really listen, I just needed a form signed for…benefits or something. Is it bad? Should I be worried?
+DOCTOR: "A little high" can be… problematic. Look, it could be nothing, but it could be something. We need to actually measure it properly. Have you had it checked by a doctor before this workplace thing?
+PATIENT: No. Never. I don't usually go to doctors unless something's actively broken. Seems like a waste of time, honestly. Is this going to take long? Because I really don't have all day.
+DOCTOR: Well, that’s…unfortunate. Okay. We'll take your blood pressure now, then I’ll need to ask you some…routine questions. It’ll be quicker if you just answer directly, please. Let's start with height and weight, just to confirm what we have in the system. You said… 184 and 104, correct?
+PATIENT: Ugh, are you serious? You don’t believe me? Fine. Yes, 184 centimeters and 104 kilograms. I know my own measurements. It’s not like I don’t own a scale.
+DOCTOR: It's protocol, dear. Just confirming. Alright. Now, any allergies?
+PATIENT: No. None. I eat everything. Dust, maybe, if you count that. But not like, a real allergy. What kind of questions are these? It’s not like allergies have anything to do with blood pressure.
+DOCTOR: Everything is connected, dear. Now, any medications you take regularly?
+PATIENT: Just… the birth control pill. That's it. And don't look at me like that. It's… personal. I don’t need a lecture, alright?
+DOCTOR: Right. The pill. Okay. Any family history of…heart problems, stroke, kidney disease, anything like that?
+PATIENT: My grandma on my mom’s side had…something with her heart, I think. She was old. Everyone in her family died old, so it’s not like it’s a big deal. She lived a long life. I don't remember the details, and honestly, don’t care. Is this helping? Because it feels like we’re just going in circles.
+DOCTOR: Circles are sometimes necessary, dear. Now, let’s talk about you. Do you smoke?
+PATIENT: No! Are you kidding? That’s disgusting. I wouldn’t touch a cigarette. Next question. I have an appointment to get to.
+DOCTOR: Fine, fine. Do you drink alcohol?
+PATIENT: Sometimes. A glass of wine with dinner, maybe on the weekend. Nothing crazy. It helps me relax, okay? Look, I’m a normal person. This is ridiculous.
+DOCTOR: Right. "Normal." And what do you do for a living?
+PATIENT: I’m a Civil Engineering Technician. Mostly just… making sure things are built right, paperwork, stuff like that. It's boring, honestly. But it pays the bills. Can we please get this over with?
+DOCTOR: Right, boring. Okay. One last thing before we get to the actual measurement. Do you exercise regularly?
+PATIENT: Regularly? Like, every day? No. I walk around at work, does that count? Look, I'm busy. I don't have time for… gym things. I have a life. Let’s just take the test. I’m wasting a perfectly good afternoon.
+DOCTOR: Alright, alright. Let’s get this over with. Sit here. I'll take your blood pressure now. Don't move, and don't talk while I'm doing it. Honestly, people...
+PATIENT: Fine. Just get it over with. Hurry. I swear, if this takes another ten minutes…
+DOCTOR: Hmm. 160 over 95. Not ideal. And your pulse is a bit elevated too, 88. It is likely elevated due to recent activity. Now, I have to ask a couple of questions. Any chest pain, shortness of breath, or dizziness?

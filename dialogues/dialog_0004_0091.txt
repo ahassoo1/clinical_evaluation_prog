@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Ms. Zicarelli. I’m Dr. Deschane. So, tell me, what brings you in to see me today?
+PATIENT: Good morning to you too, Doctor. Well, is just... I been drinkin' plenty water, more than usual. And I still feel thirsty. And I feel hungry all the time, even after I eat a good plate of food. Is been goin' on for a little while now, maybe a month or so.
+DOCTOR: A month, you say?
+PATIENT: Yes, Doctor. Maybe a little longer, to be honest. I not good with rememberin' dates exactly. Is just... I notice it more and more. I used to not need to drink so much water, and I could eat a normal amount and feel satisfied. Now... not so much. Is worryin' me a little bit.
+DOCTOR: Alright. And has anything changed in your diet recently?
+PATIENT: No, Doctor, not really. I eat what I always eat. Rice and beans, some fish when my husband catch it, vegetables from the garden. Same thing for a long time now. I haven't tryin' nothin' new, I promise. I stick to what I know is good for me.
+DOCTOR: And any changes in your activity level?
+PATIENT: Well, I do the same things. I garden, I cook, I help my husband with the boat sometimes. Maybe I walk a little less when the heat is bad, but not much different than usual. I not a lazy woman, Doctor. I always keep busy. Is just… this thirst and hunger is new.
+DOCTOR: Alright. Let's move on to some other questions then. Do you experience any frequent urination?
+PATIENT: Frequent... you mean like, goin' to the bathroom more often than usual? Yes, Doctor, I do. I been havin' to get up in the night sometimes, which I never used to do. Is botherin' me a bit, truth be told. Is hard to get a good sleep when you havin' to run to the toilet all the time.
+DOCTOR: Okay. And do you notice any changes in your vision?
+PATIENT: Changes in my... vision? Hmm. Now that you mention it... yes, I think so. Things seem a little blurry sometimes, especially when I read. I thought it was just my glasses needin' cleanin', or maybe just old age catchin' up to me. I haven't been to the eye doctor in a while. Is just a little blurry, nothin' terrible.
+DOCTOR: Alright. And do you have any family history of diabetes?
+PATIENT: Diabetes? Hmm… my grandmother, on my mother’s side, she had something the doctor said was “the sugar.” She had to take medicine for it, and she wasn’t feelin’ well towards the end. That was a long time ago, though. I don't know if that's what you mean. My husband’s side, nothin' like that that I know of. Does that answer your question, Doctor?
+DOCTOR: It does. Now, let's talk about your medical history. Have you been diagnosed with any other conditions?
+PATIENT: No, Doctor, nothin' really. I had the flu a couple times, and a bad cold last winter. But nothin' serious. I try to stay healthy, eat good food, and get enough rest. I haven’t been inside a hospital in years, thank goodness. I don’t like takin’ pills if I can help it, either. I believe in lettin’ my body heal itself. Is that alright?
+DOCTOR: Alright. Do you take any medications currently, even over-the-counter ones?
+PATIENT: No, Doctor. Just sometimes I take a little paracetamol for a headache, if it gets really bad. But I don't take it often, maybe once or twice a year. And I take a vitamin sometimes, the one my daughter give me. But I don’t take it every day, I forget sometimes. Is not a regular thing. Nothing else, I promise.
+DOCTOR: Ms. Zicarelli, based on what you've told me – the increased thirst, frequent urination, unexplained hunger, blurry vision, and family history – I think we need to run some tests to rule out diabetes. It's quite possible that's what's going on. We'll need to do a blood sugar test, and possibly a urine test as well. Are you agreeable to that?
+PATIENT: Diabetes? Oh dear. Well, if you think it's necessary, Doctor, then yes, of course. I trust your judgment. I don’t want nothin' serious, and if this test can find out what's wrong, then I’m happy to do it. Is just... I don't like needles, you know. But I'll be brave. What do I have to do?
+DOCTOR: Of course. It will just be a small prick of the finger. The lab technician will draw a small amount of blood, and we’ll have the results back within a few days. In the meantime, I'd like to check your blood pressure and listen to your heart and lungs. Would that be alright?
+PATIENT: Yes, Doctor, that sounds fine. Blood pressure and listenin', is no problem. A little prick of the finger, you say? Alright, I can handle that. I just hope it don’t hurt too much. And I hope this diabetes isn’t somethin' terrible. Is just… I want to feel normal again. I like my gardenin', and I don't want to be sick. Alright, let's get it over with then. Where do I go?
+DOCTOR: The nurse, Maria, will take you to the lab. She's just down the hall, first door on the left. She'll explain everything to you. After the blood draw, she'll bring you back here, and we can discuss the next steps. Try not to worry too much, Ms. Zicarelli. We'll figure out what's going on and get you the proper care.
+PATIENT: Alright, Doctor. Thank you. I'll go find Maria then. Is just… a little scary, thinkin' about bein' sick. But I trust you, and I'll do what you say. Thank you for lookin' after me.
+DOCTOR: .
+PATIENT: .

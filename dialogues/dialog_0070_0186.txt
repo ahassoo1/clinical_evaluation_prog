@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Kingan. Welcome to the clinic. My name is Dr. Abady. It’s a pleasure to meet you. Could you tell me what brings you in to see me today?
+PATIENT: Morning, Doctor. Just Lamark is fine. Yeah, well, I'm trying out for a team… a sports team. Need to get a check-up, make sure I'm not about to drop dead on the field, you know? Pretty straightforward, I hope.
+DOCTOR: Certainly, Lamark. That's a very sensible approach. A pre-participation physical is always a good idea. To help me get a good understanding of your overall health, let’s start with a bit of your medical history. Have you been generally healthy, or have you had any significant medical problems in the past?
+PATIENT: Generally healthy, I think. No big problems. I mean, I've had the usual colds and flu, nothing that put me in the hospital or anything. Broken a few bones when I was younger… playing sports, naturally. But nothing recent.
+DOCTOR: I understand. And when were those bone fractures, roughly?
+PATIENT: Hmm… let me think. I broke my wrist when I was maybe ten, playing football. Then sprained an ankle, I think it was when I was fifteen, basketball. And… oh, cracked a rib, maybe twenty years ago. Just a small one, though. Nothing serious. Honestly, it was a long time ago. I don’t really remember the exact dates.
+DOCTOR: Okay, that's helpful. And have you had any surgeries at all, Lamark?
+PATIENT: No, never had surgery. Thankfully. Always tried to heal things the old-fashioned way, you know? Ice and wrapping things up.
+DOCTOR: Very good. Now, let’s talk about your family. Do you have any family members – parents, siblings, grandparents – with any significant medical conditions, such as heart disease, diabetes, cancer, or high blood pressure?
+PATIENT: Let’s see… my mother, she had high blood pressure when she got older. And my father… he had something with his heart, I think. Not sure exactly what. He passed away a long time ago, so I don’t remember the details. No one else that I can think of, really. My siblings are both healthy as far as I know. We don’t talk much.
+DOCTOR: Okay, that’s alright. High blood pressure in your mother and a cardiac condition in your father – we’ll keep those in mind. Do you happen to know if your father’s condition was related to his heart valves, or more of a blockage, or something else?
+PATIENT: Honestly, Doctor, no. Like I said, it was a long time ago and nobody really explained it to me properly. He just… wasn’t well. He had trouble breathing sometimes, I think. That's all I really remember. It wasn’t a nice thing. Look, is this stuff really important for a sports tryout? I just want to make sure I’m fit enough to play, not… a full medical history.
+DOCTOR: You're right to ask, Lamark. It’s good to know what’s important and what isn't. Knowing your family history helps me understand any potential risks you might have, and it’s always better to be thorough. It doesn't mean you will have those problems, but it allows me to be more attentive during the exam. It’s especially important when you’re considering a physically demanding activity like sports. Now, let’s switch gears a bit. Do you have any allergies to medications, foods, or anything else?
+PATIENT: No allergies that I know of. I eat pretty much everything. Never had a reaction to anything, as far as I remember.
+DOCTOR: Excellent. And are you currently taking any medications, including over-the-counter drugs, vitamins, or supplements?
+PATIENT: Nope. Nothing at all. Just… water. And sometimes coffee.
+DOCTOR: Good. Now, I'd like to ask a few questions about your lifestyle. Do you smoke, or have you smoked in the past?
+PATIENT: No. Never touched a cigarette in my life. Always thought it was a foolish habit.
+DOCTOR: That's good to hear. How about alcohol?
+PATIENT: I have a drink sometimes. Maybe a beer with dinner, or a glass of wine. Nothing excessive, though. Don’t drink every day, that's for sure.
+DOCTOR: Alright, that's good information. Now, before we move on to the physical exam, could you tell me a bit about your current activity level?
+PATIENT: Well, that’s why I’m here, right? I’ve been training for the tryouts. Running, practicing… trying to get back into shape. I haven’t played competitively in a few years, so it’s been… a process. But I feel pretty good, honestly.
+DOCTOR: That's excellent, and it's smart to get checked out beforehand. Now, just one final question before we move on to the physical. Are you experiencing any pain, discomfort, or other symptoms right now?
+PATIENT: Nope. Nothing at all. Feelin' good. A little nervous about the tryout, maybe. But no actual physical complaints. Let’s get this over with, shall we? I’m ready when you are.
+DOCTOR: Excellent. That’s good to hear. Alright then, let's proceed with the physical exam. I’ll need you to change into a gown, and we’ll start with your vital signs – blood pressure, pulse, temperature, and respiration. Then we'll listen to your heart and lungs, check your reflexes, and do a basic musculoskeletal assessment. Does that sound alright?
+PATIENT: Sounds good, Doctor. Just tell me where to change. Let’s get it done.
+DOCTOR: Certainly. The changing room is right over there. I'll be right outside when you're ready. There's a gown inside. Feel free to take your time. I’ll be just outside to let you know when I’m ready.
+PATIENT: Right. Thanks.
+DOCTOR: .

@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Claudene. I'm Dr. Osterholm. So, what brings you in today?
+PATIENT: Oh, good morning to you too, Doctor. Well, it’s… it's my waterworks, I suppose. They bother me. A lot. It’s been happening again, and I really don’t have the time for this, if you understand.
+DOCTOR: "Waterworks," alright. And when you say "again," how long has this been going on, generally?
+PATIENT: Oh dear. Honestly, I couldn’t rightly say. Years, I think? On and off. It flares up, then goes away, then comes back. It’s…difficult to remember specifics, you see. I just know it’s not pleasant, and it's happening now. Perhaps a long time. A very long time.
+DOCTOR: Years, on and off… Right. And when it’s "happening now," what exactly is bothering you?
+PATIENT: Well, I have to go to the… the little girls' room. Very often. And it…burns, when I go. A stinging sort of burn. And sometimes… sometimes it feels like I haven’t… emptied everything, if you understand. It's quite inconvenient, really.
+DOCTOR: Burning with urination, feeling of incomplete emptying… Okay. Have you noticed any blood in your urine?
+PATIENT: Blood? Oh, now, let me think. I… I don’t recall. Possibly? It’s hard to say. It’s been a while since I… really looked, if you understand. I just know it’s not right. Everything just feels… irritated.
+DOCTOR: Alright. And have you had any fever, or pain in your back or side?
+PATIENT: Fever…not that I’ve noticed. I don’t usually take my temperature, you see. Back pain… well, I’m an old woman, Doctor. Things ache. It's hard to say if it’s that kind of pain, or just…old age. Perhaps a little. But not a sharp pain, if that makes sense.
+DOCTOR: Alright. Let's move on to other things then. Do you have any known allergies to medications?
+PATIENT: No, I don't think so. I haven’t taken much medication in years, to be honest. Just… the occasional pain reliever for my joints, perhaps. But nothing regular. And I don’t recall any bad reactions, if that helps.
+DOCTOR: And are you currently taking any medications, even over-the-counter ones?
+PATIENT: Well… I sometimes take a little something for my… waterworks, when it flares up. Something I got at the drugstore. But I can't rightly recall the name. It’s… a little blue pill, perhaps? Or white? I’m not good with names, Doctor, you see.
+DOCTOR: A little blue or white pill…Right. Okay. Let’s try this. Have you had any surgeries in the past?
+PATIENT: Surgeries… Oh dear, let me think. I had my tonsils out when I was a girl, a very long time ago. And… I believe I had a… a lady’s problem fixed, years and years ago. But beyond that, no. Nothing I can recall, at least. It was a long time ago, you see, and my memory isn't what it used to be.
+DOCTOR: Tonsils, and a gynecological procedure… alright. Now, I’m going to ask about your family history. Is there anyone in your family who has had problems with their kidneys or bladder?
+PATIENT: Family history… Oh dear. Well, my mother… she had a lot of aches and pains, but I don’t recall anything specifically about her… waterworks. And my brother… he had a weak heart, I believe. But kidneys and bladders… no. Not that I can remember, anyway. It was a long time ago, you see.
+DOCTOR: Alright. And finally, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh, no, Doctor! Certainly not! I'm a respectable woman. I haven't touched a drop of alcohol in years, and I certainly don’t… partake in those activities. A little chamomile tea, perhaps, to help me sleep. But nothing more.
+DOCTOR: Very well. I think we have enough information for now. I’d like to do a quick physical exam, if that’s alright. It will involve listening to your abdomen, and a simple urine test. That will give us a better idea of what’s going on.
+PATIENT: Oh, very well, Doctor. If you think it’s necessary. But please, be quick. I have appointments, you see. And I really don’t have the time for a lot of fuss. The quicker the better, if you don't mind.
+DOCTOR: Alright. If you'll just lie down on the table. I'm going to listen to your abdomen first. Take a deep breath… and exhale… Normal bowel sounds. Now, I'll need a urine sample. There's a cup in the bathroom. Please try to collect a midstream sample, if possible.
+PATIENT: Oh… my joints aren’t what they used to be. Very well. A midstream… what was that again? I’m not sure I understand. Just… in the cup?
+DOCTOR: Yes, in the cup. But before you start, cleanse yourself first, with the wipes provided. And then, start urinating normally. After a few seconds, collect the sample midstream. It’s just… a more accurate sample. There are instructions in the bathroom, if you need them. I'll be right outside.
+PATIENT: Cleanse… midstream… Honestly, the fuss… I hope this doesn’t take too long. I have appointments, you know.
+DOCTOR: Alright. I'll send this to the lab. It will take a few days to get the results. While we wait, I’m going to suggest a simple course of antibiotics, just to rule out a urinary tract infection. Are you allergic to any antibiotics, as far as you know?
+PATIENT: Antibiotics, you say? Oh, dear. I don't recall ever taking them before. No. No allergies. But, I must say, I dislike taking pills. They never agree with me.
+DOCTOR: Alright. We'll start with a low dose of Nitrofurantoin, twice a day for five days. If your symptoms don't improve within three days, or if they worsen, you must call the office. It’s important. This is the prescription for the antibiotics. And here’s a pamphlet on urinary tract infections. Now, do you have any questions for me?
+PATIENT: Five days… very well. I suppose not. Just…will these pills make me tired? And is there anything I should avoid eating while I’m taking them? I really don't want this to interfere with my appointments.
+DOCTOR: They can cause some drowsiness, yes. And try to avoid alcohol, as a precaution. Other than that, no specific dietary restrictions. Just drink plenty of water. And if you experience any unusual side effects—nausea, vomiting, rash—stop taking the medication and call the office immediately. Now, is there anything else?
+PATIENT: No. I believe that’s all. I really must be going. Thank you, Doctor. I hope these pills work quickly. I have appointments, you see. .
+DOCTOR: Patient expressing concern about medication side effects and appointment schedule. Low adherence potential. .

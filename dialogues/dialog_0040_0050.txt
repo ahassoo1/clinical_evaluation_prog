@@ -1,0 +1,22 @@
+DOCTOR: Right, well, Mr. Pavlovic, let's get this over with. What brings you in today?
+PATIENT: Oh, well… it’s this cough. Been… a long time now. A dry cough. Not much… not much coming up, you see? Just… feels scratchy. It’s mostly at night, I think. Or maybe during the day… hard to say these days.
+DOCTOR: Ninety years old… a cough… right. And when did this “long time” start, exactly?
+PATIENT: Oh, goodness. That's a tricky one. Seems like… after my wife passed, maybe? Or before… I really can’t rightly say. A while, though. A good long while. Months, at least. Perhaps even longer. Everything kinda blurs together, you know?
+DOCTOR: Months…or longer. And is it…constant, this cough?
+PATIENT: No, not constant. It comes and goes. Worse when I… when I lie down, I think. And when the weather’s cold. It doesn't… it doesn’t hurt, exactly. Just… annoying. Keeps me up at night mostly. Used to be, I could sleep through anything.
+DOCTOR: Alright. Any fever?
+PATIENT: Fever… hmm. Not that I’ve noticed. I don’t usually check, to be honest. I just… feel tired, mostly. A general tired. Not from the cough, maybe? Or… maybe it is from the cough. I’m not sure. Everything feels a bit run down, you see.
+DOCTOR: Alright. And have you noticed any… shortness of breath?
+PATIENT: Shortness of breath… Well, I get a little winded walking up the stairs, but I always have. My house… it’s got a lot of stairs. I haven’t been doing much walking lately, though, so… it might be worse now? Hard to tell. I mostly sit, these days. Is that what you mean?
+DOCTOR: Do you smoke, Mr. Pavlovic?
+PATIENT: Smoke? Oh, no, no. Never smoked a day in my life. My wife, she didn’t like it. Said it was a nasty habit. And I always listened to my wife. Good woman, she was. No, no smoking.
+DOCTOR: Alright. Any other symptoms?
+PATIENT: Other symptoms… Well, my appetite isn’t what it used to be. I don’t eat much these days. And my legs… they get a little shaky sometimes. But that’s just old age, I figure. Nothing that seems… connected to the cough, you know? It’s just…everything feels a little bit off, all around.
+DOCTOR: Okay. Let’s just listen to your chest, alright?
+PATIENT: Alright. Whatever you think best, doctor. I’m not afraid of a little listening, I suppose. Just… hope it’s not anything too serious. Everything feels so… tiring these days.
+DOCTOR: Take a deep breath… and exhale. Another one. Okay. Sounds… diminished. A little crackly. And any history of heart problems?
+PATIENT: Heart problems…? Oh dear. That was my wife, actually. She had a bit of trouble with her heart towards the end. I took her to the doctor… many times. Me? I don't… I don't recall ever having trouble with my heart. No, I don't think so. A few aches and pains, like anyone my age, but nothing… serious. Is that what you’re asking?
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: Medications…? Oh, goodness. I don’t take much. Just a little something for my arthritis, now and then. It’s… a little white pill. Doctor Chen gave it to me… years ago. I don't think I'm allergic to it, but I can’t rightly recall the name. It's been a while. I don't usually have trouble with pills, though.
+DOCTOR: Okay. I’m going to write you a prescription for a cough suppressant. It should help you sleep. And try to stay hydrated. Anything else?
+PATIENT: A cough suppressant… alright. Will it… will it make me feel better? Staying hydrated… yes, I can try that. No… I don’t think so. That’s all. Thank you, doctor. Just… a cough suppressant.

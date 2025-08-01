@@ -1,0 +1,22 @@
+DOCTOR: Alright, Mr. Bulaong, good to meet you. So, what brings you in to see me today?
+PATIENT: Um, hello Doctor. It’s… my chest. It hurts. Not all the time, but… yeah, it hurts sometimes. Like a dull ache, you know?
+DOCTOR: Okay. “Sometimes.” Right. And how long has this “sometimes” been going on for?
+PATIENT: Hmm… let me think. Maybe… two weeks? I don't really keep track of dates good. My wife, she notices things more. But two weeks sounds about right. It didn't start after anything… like falling or anything. Just… started hurting.
+DOCTOR: Okay. So, no injury, just… started. And is this pain constant for those two weeks, or does it come and go?
+PATIENT: It comes and goes. Some days it’s nothing. Other days… like today, it’s a little more noticeable. It’s not bad bad, you know? But… enough to worry me. It’s… on this side.
+DOCTOR: Alright. And does anything make it worse?
+PATIENT: Hmm… I don’t think so. Not that I’ve noticed. Working on the roof… doesn’t make it worse. Sleeping doesn’t make it worse. Eating doesn't make it worse. Maybe… when my wife and I… cuddle, sometimes it feels a little more sore. But not always.
+DOCTOR: Okay. And… how often are you “cuddling,” Mr. Bulaong?
+PATIENT: Um… most nights? We… we like being close. It’s not… it's not a lot, but most nights. Why does that matter, Doctor? Is that… bad?
+DOCTOR: It matters because chest pain, even if it's “not bad bad,” can be a lot of things. And sometimes, things that seem… unrelated… are actually connected. Let’s just cover all our bases here. Now, aside from the cuddling, are you experiencing any other symptoms?
+PATIENT: Um… other symptoms? Let me think. I haven’t been sick or anything. No cough, no fever. Maybe… I’ve been a little more tired lately, but working on roofs is tiring work, so… I don't know if that's anything. My wife says I’ve been a little quieter than usual, but she worries a lot.
+DOCTOR: Alright. Let's do a quick examination. I’ll listen to your heart and lungs, just to be sure everything sounds normal. Then we'll talk about possible… strains. It could just be a muscle strain, especially with your work.
+PATIENT: Okay. Sounds good, Doctor. Whatever you think is best. I hope it is just a muscle strain. My wife will be happy to hear that. She worries a lot about me, being so thin and all. Ready when you are.
+DOCTOR: Alright. Heart sounds… regular. Lungs are clear. Any pain when I press here?
+PATIENT: No… not really. A little bit, maybe, but it's nothing like the ache I was talking about. It's… different. Ooh, maybe there… that feels a little sore. But like… a dull ache, not sharp or anything.
+DOCTOR: Alright. It could be costochondritis. That’s inflammation of the cartilage in your rib cage. It's common, especially in people who do a lot of physical labor. It usually resolves on its own. We can try some over-the-counter pain relievers. Ibuprofen, naproxen… something like that. And try to avoid strenuous activity for a few days. Do you have any allergies to medications?
+PATIENT: Um… no, I don't think so. My wife always gives me medicine when I'm sick, and I've never had a problem. I… I don’t really remember ever being allergic to anything. Is that okay? Should I be allergic to something?
+DOCTOR: No, Mr. Bulaong, you shouldn't necessarily be allergic to anything. It was just a standard question. Alright. I'm going to write you a prescription for ibuprofen. Take two tablets every six hours as needed for the pain. If it doesn’t improve within a week, or if it gets worse, you should come back and see me. Do you have any other questions for me?
+PATIENT: No… I think that’s it. Just… the ibuprofen? And avoid heavy lifting? Will… will this make me sleepy, Doctor? I need to be able to work. My wife… she depends on me.
+DOCTOR: Ibuprofen can cause drowsiness in some people, but it's not common. If you feel sleepy, don't operate heavy machinery or… you know, work on roofs. If it’s a major problem, switch to naproxen. But frankly, Mr. Bulaong, it sounds like a muscle strain. Try the ibuprofen and see how it goes. I have other patients waiting. If the pain doesn’t improve, come back. Don't just suffer. Have a good day.
+PATIENT: Okay. Okay, I will. Thank you, Doctor. Thank you for your time. .

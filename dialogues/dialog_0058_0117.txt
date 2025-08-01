@@ -1,0 +1,19 @@
+DOCTOR: Good afternoon, Mr. Reyno. I'm Dr. Todoroovich. So, what brings you in today?
+PATIENT: Uh, afternoon. Just... a cough. Been coughin' up some stuff. Red stuff. Not a lot, but... yeah. I smoke, if that matters. Been smokin’ a long time. Don’t remember exactly how long, though.
+DOCTOR: Right. A cough, with some red… expectorate. And you smoke. Okay. “A long time” isn’t terribly helpful, Mr. Reyno, but we can get to that. Is this a new cough, or have you had it on and off for a while?
+PATIENT: New… I think so. Or maybe it got worse lately. It's hard to say. Things… blur sometimes. Not like a cold cough, though. Different feel. More… deep? If that makes sense. It just started being… bloody a few days ago, I guess.
+DOCTOR: "Deep," alright. And the red… is it mixed in with the mucus, or is it separate?
+PATIENT: Mixed in. Yeah, mixed in. Not… bright red, either. More… dark. Like old… I dunno. Like old coffee. Sorry. It feels scratchy. And I get tired easy lately. Don't know if that’s related.
+DOCTOR: Okay. Dark, mixed-in expectorate, scratchy cough, fatigue... Right. Have you had any fever, chills, or night sweats?
+PATIENT: Fever… not that I noticed. Chills sometimes, but I live in a drafty place. Night sweats… maybe? I sleep pretty heavy. Hard to tell. I mostly just feel tired all the time. This is… a lot of questions. Is this gonna take long?
+DOCTOR: It takes as long as it needs to, Mr. Reyno. We need to gather information. Have you lost any weight recently?
+PATIENT: Weight…? Maybe? Clothes feel a little looser. But I haven't been… weighin’ myself. I eat, when I can. Don't really have much of an appetite lately, though. Everything’s kinda blurry, you know? Hard to remember details.
+DOCTOR: Alright. Let’s have a listen to your lungs. Please, take a deep breath in… and out.
+PATIENT: Like this? Feel like I'm gettin' outta breath just doin' that. Is somethin' wrong?
+DOCTOR: There’s decreased air movement on the left side. And some… wheezing. It’s not terribly surprising, given your smoking history. Any shortness of breath, even when resting?
+PATIENT: Short of breath… yeah, sometimes. Lately, when I walk even just to the store, I gotta stop and rest. Thought it was just gettin' old. Never thought it might be… somethin' else. What's "decreased air movement" mean? Is it bad?
+DOCTOR: It means there's likely some obstruction in your airways. We need to get a chest X-ray to take a look. And I'm going to order some blood work, just to rule things out. It could be a number of things, Mr. Reyno. We need to be thorough. Do you have any allergies to medications?
+PATIENT: Medications…? Not that I know of. Never taken much. Just… some pain pills once, a long time ago. For my back. Didn’t bother me none. No allergies, to my knowledge. This X-ray… is it gonna take long? And what if it is somethin’ bad?
+DOCTOR: The X-ray won't take long, perhaps fifteen minutes. As for "something bad," it’s premature to speculate. We need to see the results first. However, given your smoking history and these symptoms – the cough, the expectorate, the fatigue, the decreased air movement – it’s important to rule out more serious possibilities. We will discuss the results thoroughly once they are available. I’m going to have the nurse draw some blood, and then we’ll get you scheduled for the X-ray. Do you have any questions before we proceed?
+PATIENT: No… not really. Just… get it over with, I guess. Just wanna feel better. When can I expect the results? And… will the nurse tell me what they're lookin' for? .
+DOCTOR: The nurse will explain the basic blood work. The X-ray results should be available within 24-48 hours. My office will contact you with the findings. And, Mr. Reyno, please, please try to cut back on the smoking. It’s significantly impacting your health. Alright. I’ll have the nurse come in now. .

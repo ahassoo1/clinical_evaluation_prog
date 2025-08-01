@@ -1,0 +1,31 @@
+DOCTOR: Well, good morning. Sasha Queener, right?
+PATIENT: Yes, that is me. Good morning to you too, Doctor… Osterholm, is it? I hope this won't take too long, I have a few things I need to do today.
+DOCTOR: Osterholm: Yes, Osterholm. And please, call me Deepa. Now, what brings you in today?
+PATIENT: Oh, okay, Deepa. Thank you. Well, it’s my leg. It’s been swelling up, you see? After the… the cancer stuff. It’s not painful, exactly, just… big. And uncomfortable. I had treatment a while back, and it just started getting worse a few weeks ago.
+DOCTOR: Hmm. "Cancer stuff," you say?
+PATIENT: Yes. They said… lymphoma, I think? It was a long time ago, and honestly, I don't remember all the details. Lots of appointments and… things. They did chemo, and radiation. It was at the city hospital. Does that make sense? It’s just… hard to keep track of everything after so long.
+DOCTOR: Right. Lymphoma. And this swelling… is it in one leg, or both?
+PATIENT: Just the left one. It started small, like after a long day, you know? Now it’s… noticeable. I have to wear looser pants. It doesn’t hurt to walk on it, but it feels… heavy.
+DOCTOR: Okay, let's see… I do see a history of Hodgkin's Lymphoma, treated about seven years ago. Did they mention anything about lymphedema at the time?
+PATIENT: Lym… what-edema? No, I don’t think so. They just said I was all clear, and to come back if anything felt… wrong. I don’t even know what that word means. Is that a bad thing?
+DOCTOR: It’s a build-up of fluid, Sasha. It can happen after cancer treatment, especially with radiation. It’s not necessarily bad, but we need to figure out what’s causing it. Have you noticed any changes in your skin on the leg?
+PATIENT: Oh, a build-up of fluid… okay. Well, let me think… the skin feels a little thicker, maybe? And it’s warmer than my other leg, I think. Not hot, but… warmer. It’s hard to tell, honestly. I haven’t really been looking at my leg, if you know what I mean.
+DOCTOR: Alright. Well, we’ll need to take a look. Can you lie down on the exam table for me?
+PATIENT: Yes, of course. Is it going to be… uncomfortable? I don’t do well with things that… poke and prod.
+DOCTOR: No, it shouldn't be. Just a simple examination. I'll just need to feel around and measure the circumference of your legs. It will help me understand what's going on. And honestly, it's probably just fluid, but we need to rule out other things.
+PATIENT: Okay. Alright, go ahead. Just… be gentle, please. I get nervous easily.
+DOCTOR: Of course. Now, let's start with just feeling the leg. Tell me if anything feels particularly sensitive. Just relax for me, okay?
+PATIENT: Okay… It feels… a little tender here, on the inside of my knee. Not painful, just… sensitive. And maybe a bit warm. Is that normal?
+DOCTOR: Hmm. Yes, that's what I suspected. And the warmth confirms it. Now, I’m going to measure the circumference of both legs, just to get a baseline. Just hold still for a moment. It’s… significantly larger than the right leg. About three centimeters difference.
+PATIENT: Three centimeters? That sounds like a lot… Is that… bad? What does that mean? I’m getting a little worried now, to be honest.
+DOCTOR: It's not necessarily bad, Sasha. It simply indicates there’s a significant fluid build-up. It supports my initial suspicion of lymphedema. We’ll need to rule out a blood clot, just to be absolutely certain. I'm going to listen to your lungs now, just to be safe.
+PATIENT: Okay… a blood clot? Oh dear. That sounds… serious. I haven’t felt any pain in my chest, or anything. Just the swelling in my leg.
+DOCTOR: Your lungs sound clear, which is good. A blood clot is less likely, but we still need to be thorough. I'm going to order a D-dimer test, just to rule it out. It’s a simple blood test. It's also possible it’s just a straightforward case of lymphedema secondary to your previous treatment. But we need to be certain.
+PATIENT: Okay… a blood test. That’s… okay, I can do a blood test. So, if it's not a blood clot, it’s… this lymphedema thing? What does that mean for me? Will it get worse? Can you fix it?
+DOCTOR: Lymphedema is a chronic condition, Sasha. It means the fluid build-up may persist. However, it can be managed. We can try compression stockings, and manual lymphatic drainage massage. Physical therapy can also be very helpful. It requires ongoing maintenance, unfortunately. We’ll need to monitor it closely. I'm also going to refer you to a physical therapist who specializes in lymphedema. They can give you a more detailed plan. Does that make sense?
+PATIENT: Okay… compression stockings… massage… physical therapy… So, it won’t just go away? It’s something I have to… deal with forever? That’s… a bit overwhelming. I just wanted it to be… simple.
+DOCTOR: No, it won't simply disappear, I'm afraid. But it is manageable, Sasha. And many people live full and active lives with lymphedema. It requires commitment to the treatment plan, but it doesn't have to rule your life. Let’s focus on getting the D-dimer results first, just to rule out anything serious. Then we’ll get you set up with the physical therapist. Does that sound like a reasonable plan?
+PATIENT: Yes… yes, that sounds… okay. Getting the blood test first. And then… the therapist. Thank you, Doctor Osterholm. I… appreciate you explaining everything. Even if it’s not what I wanted to hear.
+DOCTOR: You're welcome, Sasha. I’ll have the lab order sent over to the front desk. And I’ll get the referral to the physical therapist processed. In the meantime, try to elevate your leg when you can, and avoid anything that might aggravate the swelling. Do you have any questions for me before we finish?
+PATIENT: No… I think that’s all, for now. Just… getting the blood test. And seeing the therapist. Thank you again, Doctor. I’ll go get the paper for the blood test.
+DOCTOR: Alright. The front desk will help you with that. And please, don’t hesitate to call if you have any concerns. .

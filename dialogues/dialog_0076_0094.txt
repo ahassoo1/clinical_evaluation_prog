@@ -1,0 +1,21 @@
+DOCTOR: Alright, alright. So, you're Airam, 33 years old. What brings you in today?
+PATIENT: Um... the lady on the phone said something about... learning? I work with metal. Lots of noise. Not much time for... other things. I don't really feel sick. Just... she said I should come.
+DOCTOR: "Learning," right. Occupational Health. Look, I've got a full waiting room, so let's try to be concise. You work with metal, noisy environment… and you were advised to come in. Is there a specific problem you're experiencing?
+PATIENT: Problem? Not... really. My husband says I yell at the TV a lot. And sometimes I don’t hear him when he talks. But that’s just… him mumbling. It’s not a problem problem. He just thinks everything is a problem. Honestly.
+DOCTOR: So, your husband is concerned about your hearing… and your television volume. And you disagree. Right. Let's just get a baseline, shall we?
+PATIENT: Baseline? What does that mean? Is that like... a test? I don’t have time for a long test. I have a shift tomorrow. It starts early.
+DOCTOR: It means a quick check, alright?
+PATIENT: Quick? How quick? Like... five minutes quick? Because five minutes is all I have, really. Anything longer and I'll have to reschedule. And I don't want to reschedule.
+DOCTOR: Fine. Five minutes. We’ll do a basic ear exam and a very quick hearing screening. Sit. And try to be still. This isn’t rocket science.
+PATIENT: Ear exam? Is that where you look in my ears? I don’t like things in my ears. Makes me feel funny. And what’s that other machine? Is it going to… hurt?
+DOCTOR: It’s a light in your ear, yes. And the other machine… you wear headphones, listen for beeps. It won’t hurt. It’s to see if you can hear them. Honestly, you’re making this far more difficult than it needs to be. Just… cooperate. It’ll take two minutes, tops. We'll start with the ears. Turn your head.
+PATIENT: Two minutes, you said? Okay, okay. But if it feels weird, I'm stopping it. Promise? Don’t want anything messing with my work. Just get it over with.
+DOCTOR: Alright. Ears look… clear enough. Some wax buildup, but nothing alarming. Now, the headphones. I need you to put these on. I’ll tell you when I start the tones. Press this button when you hear a beep, any beep. Understand?
+PATIENT: Headphones… fine. A beep? Like the one on the microwave? I understand. Button… okay. Start it when you’re ready. But don’t make it too loud! My ears are sensitive.
+DOCTOR: Hmm. Right. Well, that was… predictable. You've got significant hearing loss in both ears, primarily in the higher frequencies. It's likely noise-induced.
+PATIENT: Hearing loss? But I can hear! I heard everything you said. Maybe it’s just a bad day. Or… maybe you’re talking too quietly. It's not that bad. I work with metal, remember? Loud noises are part of the job! It's normal.
+DOCTOR: "Normal" is not losing the ability to hear high-frequency sounds. That's a clear indicator of damage. Look, I'm not going to argue semantics. You're exposed to dangerous levels of noise. It’s affecting your hearing, whether you want to admit it or not. We need to discuss preventative measures, and possibly hearing protection. It's not just about you hearing everything; it's about preventing further damage.
+PATIENT: Preventative… what? Like… earplugs? Those are uncomfortable. And they get dirty. And… I don't want to wear earplugs all day. How am I supposed to hear my coworkers? No. I don’t think so. I’ve been working with metal for years. I'm fine. It's wasting my time. I need to go.
+DOCTOR: Fine. Do what you want. But don't come crying to me when you can't hear anything at all. I've documented my findings. Here's a referral to an audiologist, should you decide you want a proper evaluation. Next!
+PATIENT: An audi… what? I don’t need another doctor. I’m perfectly fine. This was a waste of time. Honestly. .
+DOCTOR: Another one. .

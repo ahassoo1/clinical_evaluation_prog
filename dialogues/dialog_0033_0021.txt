@@ -1,0 +1,27 @@
+DOCTOR: Right. Mr. Parascandola, is it?
+PATIENT: Yeah, that's me. Ricky. Just Ricky is fine.
+DOCTOR: Very well, Ricky. So, what brings you in today?
+PATIENT: Well, my foot. It's been swellin' up. Not all of a sudden, mind you. It's been gettin' worse over, oh, I'd say the last couple weeks. Mostly just my right one. It kinda aches too, especially if I've been on it a lot.
+DOCTOR: A couple weeks, you say… and it’s your right foot specifically. And you mentioned aching with activity. Can you describe the ache?
+PATIENT: It's... hard to say exactly. Not a sharp pain, more like a deep throb. Like when you've been walkin' uphill for a long time. It gets better when I sit down and put my feet up. And it's not always there, just when I'm movin' around a bit. I do a lot of walkin', you see. Gotta get to the store and such.
+DOCTOR: Right. Walking exacerbates it, rest improves it… Have you noticed any redness, warmth to the touch, or changes in the skin on your foot or ankle?
+PATIENT: Hmm… let me think. Redness… not really. Maybe a little bit pink sometimes, but not bright red. Warmth… maybe a little warmer than the other foot, but I haven’t really paid close attention, to be honest. Skin… feels normal, I guess. No bumps or nothin'. It just feels puffy, if that makes sense.
+DOCTOR: Puffy, you say. Alright. And has this ever happened before, Ricky?
+PATIENT: No, never like this. I've twisted my ankle a few times workin' – I used to do some construction, years ago – but that was a different kind of pain. This ain’t a twist, it's more… a slow build-up, you know? Started with just a little bit of puffiness and now it’s… well, it’s noticeable.
+DOCTOR: Construction work… that’s potentially relevant. And you haven’t had any injuries to your foot recently other than those previous ankle twists?
+PATIENT: No, sir. Nothing recent. Been mostly sittin' at a desk doin' loan paperwork these last few years. Not much movin' around then. That's why I was surprised when this started. It’s been a while since I did any heavy lifting or anything. It’s just… there. And it’s gettin’ bothersome.
+DOCTOR: Alright. And are you experiencing any numbness, tingling, or changes in the color of your toes?
+PATIENT: No, no numbness or tingling. Toes are still… toes. Same color as always, I reckon. I can wiggle 'em fine. See? Still workin'. Just feelin' a bit… heavy, that's all.
+DOCTOR: Very well. Let’s have a look at it then. If you could sit on the examination table and take off your shoe and sock, please.
+PATIENT: Okay, sure thing. Give me just a sec. Old man's fingers ain’t what they used to be.
+DOCTOR: I’ll need to examine your foot and ankle, so please let me know if anything is particularly sensitive.
+PATIENT: Alright, there it is. You can see it's a bit puffy, especially around the… …here. And yeah, it's kinda tender when I press on it. Be careful, doc.
+DOCTOR: Hmm. Yes, I can see and feel the swelling, primarily around the medial malleolus – that’s the inner ankle bone. There’s tenderness to palpation here as well. Capillary refill is within normal limits, which is good. No significant discoloration. Let me check your range of motion. Can you point your toes up and down?
+PATIENT: Okay, sure thing. Like this? It’s a little… stiff. Hurts a bit when I push it down like that. Not terrible, but definitely noticeable. Feels like somethin’s pullin’ when I do it.
+DOCTOR: Yes, there's some limitation and discomfort with plantarflexion – that's pointing your toes down. Dorsiflexion – pointing your toes up – appears relatively normal, although a bit restricted. Achilles tendon feels intact. It’s likely a sprain, but we need to rule out anything more serious. I’m going to order an X-ray just to be sure.
+PATIENT: An X-ray, huh? Alright, sounds good. Better safe than sorry, I always say. Is that gonna take long? And will it… you know… hurt? I’ve never had one before.
+DOCTOR: No, it won’t hurt much, just a brief flash of radiation. It will take about fifteen minutes. The technician will position your foot, and you'll need to remain still for a few moments. While we’re waiting, do you have any allergies to medications?
+PATIENT: No allergies, no. I can take most things. Never had a problem with any medicine. And fifteen minutes… that ain’t too bad. Just gotta sit still, right? I can do that. Been doin’ plenty of that lately.
+DOCTOR: Very well. I’ll have the technician come get you shortly. We will review the results once they are available. In the meantime, I recommend you limit weight-bearing on that foot, apply ice, and elevate it as much as possible. Does that sound reasonable?
+PATIENT: Yeah, that makes sense. Ice and keep it off it. Got it. I got a bag of frozen peas in the freezer, that'll do, right? And thank you, doc. I appreciate you lookin’ at it. It’s good to know what we’re dealin’ with.
+DOCTOR: Peas will suffice. We will proceed based on the X-ray results. The technician is on their way. .

@@ -1,0 +1,28 @@
+DOCTOR: Right. Mr. McKinnon, is it?
+PATIENT: Yeah, that’s me. Edric McKinnon. Look, I appreciate you seeing me, Doc… Carrington, right? I got things to get back to, so if we could just… get through this, that’d be great. Just… really feeling weak lately, and it’s making work hard.
+DOCTOR: Weakness. Alright. And how long have you been experiencing this weakness, Mr. McKinnon?
+PATIENT: Hmm… let me think. It started… probably about three weeks ago, maybe a little longer. It wasn’t sudden, you know? Just… gradually getting harder to do things. Lifting stuff at work, even just walking up the stairs… it feels like more effort than it should.
+DOCTOR: Three weeks…gradual onset. And what kind of work do you do, Mr. McKinnon?
+PATIENT: I’m an insurance appraiser – auto damage, mostly. So, lots of walking around cars, looking at dents and things. Sometimes I gotta, uh, move parts around, take pictures… not heavy lifting, but it adds up, I guess. It’s just… everything feels heavier now.
+DOCTOR: Right. And is this weakness localized, or is it…generalized?
+PATIENT: Generalized, I think. It’s not like just my arm is weak, or my leg. It’s… all over, really. Like I’m just… tired all the time, and my muscles don't want to cooperate. Even holding my phone feels like work sometimes. It’s weird.
+DOCTOR: Okay. And have you noticed any other symptoms alongside this weakness?
+PATIENT: Hmm… let me think. No, not really. No fever, no dizziness… I’ve been sleeping okay, I guess. Maybe a little more tired than usual, but that could just be the weakness, right? No pain anywhere… nothing else springs to mind. I haven’t been eating much different than usual either.
+DOCTOR: Alright. And what about your medical history?
+PATIENT: Not much to tell, honestly. I’ve been pretty healthy my whole life. Had the usual childhood stuff, you know? Chickenpox, measles… but nothing serious. No ongoing conditions, no surgeries, no…anything. I haven't been to a doctor in… well, a long time, to be honest. I avoid it when I can. And I definitely don't have insurance.
+DOCTOR: Family history?
+PATIENT: My dad had… high blood pressure, I think. And my mom… she had some arthritis in her hands when she got older, but nothing major. That's about it, really. No heart disease, no diabetes, no cancer… We didn't really talk about health stuff much, to be honest. It wasn't a big thing in my family.
+DOCTOR: Alright. Do you have any allergies to medications?
+PATIENT: Nope. Nothing I know of. I haven't really taken much medication in my life, honestly. Maybe some ibuprofen for headaches every now and then, but nothing regular. No reactions, no hives, no… anything like that. I'm pretty sure I'm good there.
+DOCTOR: Very well. Let's do a quick physical exam, then. Could you stand for me, please?
+PATIENT: Yeah, okay. Fine by me. Let’s just get this over with.
+DOCTOR: Alright. Strength is… somewhat diminished in all extremities, as you stated. Reflexes are… normal. No obvious focal neurological deficits. Heart sounds are regular, lungs are clear to auscultation. Blood pressure is 130/80.
+PATIENT: Okay… and? What does that mean? Is it something serious? Look, I gotta get back to work, so if you could just… tell me what’s going on.
+DOCTOR: It's difficult to say definitively without further testing. The weakness could be due to a number of things – dehydration, nutritional deficiencies, perhaps even stress. Your lack of regular medical care makes it harder to pinpoint. I’m going to order a basic blood panel – complete blood count, electrolytes, thyroid function, and vitamin D levels. We'll need to rule out some of the more common causes first.
+PATIENT: Blood tests, huh? Okay. That’s…fine. How long will that take? And… how much is that gonna cost? I really don’t have a lot of money, Doc. And… where do I even go to get that done?
+DOCTOR: The lab is across the street. As for cost… I’m not able to provide specific pricing information. You’ll need to inquire with the lab directly. Regarding your insurance status, you may be eligible for financial assistance programs. I can have the receptionist provide you with some resources. It’s standard protocol. In the meantime, try to stay hydrated and get adequate rest. I don’t want you pushing yourself too hard, given your symptoms. We'll get the results back within a few days.
+PATIENT: Okay… right. Hydrate, rest… I can do that. Financial assistance… yeah, sure. Whatever. So… am I good to go back to work, or… should I stay home? I really need the money.
+DOCTOR: Given your current condition, I would advise against strenuous activity. Perhaps some light duty work, if possible. But if your job requires heavy lifting or prolonged physical exertion, you should stay home and rest. We need to rule out anything serious before you risk exacerbating your symptoms. Here’s a lab requisition form. Take this to the lab across the street. Is there anything else I can help you with today?
+PATIENT: No… I think that’s everything. Just… hopefully it’s nothing serious. Thanks, Doc. And… could you just remind me again where the lab is? I don't exactly come to doctors much.
+DOCTOR: Across the street. It’s a blue building, clearly labeled. You really shouldn't have any trouble finding it. Have a good day, Mr. McKinnon. .
+PATIENT: .

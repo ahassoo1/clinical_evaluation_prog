@@ -1,0 +1,30 @@
+DOCTOR: Alright, Mr. Barban. So, you’re here today… what brings you in?
+PATIENT: Yes. Doctor Sink, is it? I have… a check-up. For the insurance. They need this before they give me the… the papers. It is very important, you understand? A lot of trouble if I do not have it.
+DOCTOR: Yes, well, insurance paperwork is always… something. A routine check-up, you say?
+PATIENT: Routine. Yes. But I am healthy. Very healthy. I eat… good food. Mostly. And I work hard. Food processing. It keeps a man strong. Is this enough? Will this… check-up be quick? I do not have all day.
+DOCTOR: “Mostly” good food… right. And food processing, you say?
+PATIENT: Yes. The plant. Near the… the river. It is not… glamorous work. But it pays. And I do not complain. Much. We package… things. Frozen things. Do you need to know what things? It is probably not important for a check-up, no?
+DOCTOR: No, the specifics aren't necessary. Still, let's not get too off track. Now, have you been experiencing any symptoms at all?
+PATIENT: Symptoms? Like… being sick? No. I feel… fine. A little tired, maybe. But who is not tired? Work is tiring. That is all. No cough, no… fever. Nothing like that. Why would I be here if I was sick?
+DOCTOR: Right, well, sometimes things aren’t so obvious. Just going through the motions, Mr. Barban. Any changes in your appetite or weight recently?
+PATIENT: Weight? No. Same weight. Always the same. I look good, do I not? Tall and strong. Appetite… perhaps a little less. Not much. The food… it is not always very good. But I eat it. I need to eat. It is important.
+DOCTOR: "Perhaps a little less," you say. Alright. And have you noticed any issues with your bowel movements?
+PATIENT: Now that is a very personal question, Doctor. Do you need to know this? I do not understand why you ask. It is… private. And frankly, not something a man discusses with a doctor so easily. Is this necessary for the… papers?
+DOCTOR: It’s standard procedure, Mr. Barban. Helps to get a complete picture. Just tell me if there's been any change – constipation, diarrhea, anything unusual. It’s confidential. And, yes, it may be relevant for the insurance requirements.
+PATIENT: Very well. It is… slower, sometimes. Not every day, but… slower. I drink water. A lot of water. It helps a little. But it is… not always easy. I do not like to talk about this. Is this enough information? Can we move on now?
+DOCTOR: Alright, alright. We’ll move on. Have you had any trouble with your bladder – difficulty urinating, frequency, urgency?
+PATIENT: Are you questioning my… plumbing, Doctor? This is becoming quite ridiculous. I am a healthy man! I go to the toilet when I need to, like everyone else. No difficulty. No urgency. It is… functioning. Perfectly. I do not appreciate these questions. It feels like you are looking for problems where there are none.
+DOCTOR: Right. Well, let's just move on to your family history then. Any significant medical conditions that run in your family?
+PATIENT: Family? Yemen is… far away. I do not see my family. Not for many years. My father… he was strong. A farmer. He lived a long life. Mother… she was sick sometimes. But I do not know what sick. Old age, mostly. They did not have… doctors like you in their village. It was a long time ago. Is this helpful? Or are you just asking questions for the sake of asking questions? I have things to do, you know.
+DOCTOR: Alright. And how about your social history?
+PATIENT: Social… history? What is this, an interview? I work. I eat. I sleep. I… sometimes talk to people at the plant. What kind of history are you looking for? I do not drink. I do not smoke. I do not… do anything that would require a “history.” This is very strange. Is this all part of the insurance… process? It feels… invasive. I came here for a simple check-up, not an interrogation.
+DOCTOR: Alright, Mr. Barban. Let's just skip to allergies and medications. Are you allergic to anything?
+PATIENT: No. Nothing. I eat all kinds of food. Spices. Everything. Never had a problem. Medications… sometimes I take something for my head. When it hurts. But it is not… regular. Just when I need it. Over the counter. From the store. Nothing serious. A simple pain reliever. That is all. I do not like taking pills. They make me feel… strange.
+DOCTOR: Alright. Let's do a quick physical exam then. Just blood pressure, pulse, and listen to your heart and lungs. Roll up your sleeve.
+PATIENT: Fine. But do not take too long. I have things to do. And please, be gentle. I have strong arms, you know. I need them for work. Do not poke too much.
+DOCTOR: Blood pressure is slightly elevated, but within a reasonable range. Heart sounds are normal. Lungs are clear. No wheezing or crackles. Alright. Everything seems normal. Now, if you'll excuse me, I need to finish some paperwork. I’ll be right back with the results.
+PATIENT: Finally. Thank you, Doctor. I appreciate it. Please hurry with the papers. I really need to get back to work. And please, make sure everything is correct. I do not want any problems with the insurance.
+DOCTOR: Here you are. Routine check-up completed. Blood pressure slightly elevated, but otherwise normal findings. Sign here, here, and initial by the date. I’ll get this sent to your insurance. Should be straightforward. That will be $75. Co-pay.
+PATIENT: $75. Medicare should cover this, no? I have the card. This is… a lot of paperwork for a simple check-up. But hopefully this is all I need. I appreciate your help, Doctor. Even if it was… a little strange.
+DOCTOR: It’s covered, yes. Medicare will process it. Alright. You’re all set. Have a good day, Mr. Barban. And try to manage your stress levels – it can affect your blood pressure.
+PATIENT: Thank you, Doctor. I will try. But work is work, you understand? Good day to you too. So much trouble for a simple check-up… .

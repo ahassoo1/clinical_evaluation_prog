@@ -1,0 +1,33 @@
+DOCTOR: Good afternoon, Thyra. Welcome to the clinic. I'm Dr. Iuzzolino. Now, what brings you in to see me today?
+PATIENT: Afternoon, Doctor. Just need to get some forms filled out, that’s all. Medicare sent me a letter saying I needed to update some things.
+DOCTOR: Right, Medicare forms. Yes, they do like to keep things…current. I can certainly help with that. Though, while we’re at it, is there anything else you’ve been experiencing lately?
+PATIENT: Hmm. Not really, no. Everything’s been pretty good, actually. Just the forms, if that’s alright. I appreciate you asking, though. It’s nice to know you care about the whole picture.
+DOCTOR: Of course, Thyra. That’s perfectly alright. We always want to make sure everything is alright. Let's start with these forms then. It looks like they’re mostly about your contact information and insurance details. Do you have your Medicare card with you?
+PATIENT: Yep, I do. Here you go. And my driver's license is in there too, if you need it.
+DOCTOR: Thank you. Just verifying… everything looks in order here. Now, the form asks about any changes to your address or emergency contacts. Have there been any changes since your last visit?
+PATIENT: Nope, nothing’s changed. Still living at the same place, same phone number. My husband, Earl, is still my emergency contact. He’s the best.
+DOCTOR: That’s good to hear. It’s always reassuring to have a solid support system. And Earl sounds like a wonderful man. Now, this section asks about any medications you’re currently taking. Are you on any prescriptions, over-the-counter drugs, or supplements?
+PATIENT: Just a daily vitamin, Doctor. Nothing else. My grandma always said a good vitamin keeps you going. That’s it, really. I don’t like taking a lot of pills if I can help it.
+DOCTOR: That's perfectly alright, Thyra. A daily vitamin is a good habit. And it's always best to be mindful of what you're putting into your body. Now, this last part is just a quick review of your medical history. Do you mind if I take a look at your chart to refresh my memory?
+PATIENT: Oh, sure, go right ahead. I don't mind at all. I don’t remember everything off the top of my head, anyway.
+DOCTOR: Hmm… it seems my notes from your last visit are… rather sparse. It mentions a routine check-up in 2023, but there aren't many details. Do you recall anything specific from that visit?
+PATIENT: Oh, that was just a quick one. I think I mainly went to get a flu shot. And maybe a tetanus booster. Dr. Hansen was the one who gave them to me back then… he retired last year, I think. I don’t really remember anything being wrong with me then, so I guess that’s why there aren’t many notes.
+DOCTOR: Right, Dr. Hansen. Yes, he was a good doctor. It's not uncommon for notes to be brief for routine visits. Just to be thorough, let’s do a quick review of your systems. Have you experienced any recent changes in your weight, appetite, or sleep patterns?
+PATIENT: Nope, nothing much different there either. Weight’s been steady, eat about the same amount, and sleep pretty good. Earl snores a little, but I’m used to it. I usually sleep right through it.
+DOCTOR: That’s good to hear, Thyra. A good night's sleep is important. Any chest pain, shortness of breath, or palpitations?
+PATIENT: No, thankfully. Heart’s been doing just fine. Earl worries about it sometimes, he lost his grandpa to a heart problem, but I feel strong. Never had any trouble breathing, either.
+DOCTOR: That's good to know, Thyra. And it’s wise to be aware of your family history. Now, any recent headaches, vision changes, or dizziness?
+PATIENT: Nope, everything’s clear as a bell. Glasses are the only thing I need for seeing, and they work just fine. No headaches or dizziness, thankfully. I get enough of that when Earl tells one of his long stories!
+DOCTOR: That’s good to hear, Thyra. It sounds like you’re doing very well. Just one last quick thing… any changes in bowel habits, abdominal pain, or nausea?
+PATIENT: Nope, nothing like that either. Everything’s… regular. Sorry if that’s too much information! Just trying to be thorough, right?
+DOCTOR: No, not at all, Thyra. It’s important to be thorough, and those are important questions. Well, it sounds like you’re in good health overall. Now, to finish up, let's just do a quick physical exam – blood pressure, pulse, listen to your heart and lungs, just to be sure everything sounds normal. Would that be alright?
+PATIENT: Yes, that sounds good, Doctor. Go right ahead. It’s always good to be sure.
+DOCTOR: Okay, Thyra, just relax your arm… 122 over 78. That’s looking good. Pulse is 72 and regular. Heart sounds are normal, no murmurs or extra sounds. Lungs are clear to auscultation, no wheezes or crackles. Everything sounds good so far. Now, I’ll just take a quick look in your ears and throat. Open wide for me…
+PATIENT: Alright, go ahead. Let me know if you see anything weird! I haven’t been feeling sick or anything, but I always like to make sure.
+DOCTOR: Everything looks clear, Thyra. No redness or swelling in the throat, and your ears look healthy. Well, everything checks out. Blood pressure, pulse, heart, lungs, ears, throat – all normal. It sounds like you’re in very good health. Now, do you have any questions or concerns for me?
+PATIENT: No, I think that’s everything, Doctor. You were very thorough, and I appreciate you taking the time to check everything out. It’s good to know I’m still ticking along alright! Now, about these forms… are we done with them?
+DOCTOR: Yes, Thyra, we are! Just need your signature here and here. And that completes everything. I'll go ahead and make a note in your chart summarizing our visit. It sounds like you're doing very well, and we'll see you again next year for your routine check-up. Do you have any difficulty remembering appointments, or would you like me to send you a reminder?
+PATIENT: No, I’m pretty good with remembering, Doctor. My husband usually helps me keep track of things, too. But a reminder wouldn't hurt, just in case! That’s a nice service to offer. Thank you again for everything. You’ve been very kind and helpful.
+DOCTOR: You’re very welcome, Thyra. It was my pleasure. We always want to make sure our patients are well taken care of. I’ll go ahead and set up a reminder for your next check-up. Is there anything else I can assist you with today?
+PATIENT: No, Doctor, I think that’s all. I really appreciate your time and kindness. Have a good day!
+DOCTOR: You have a wonderful day as well, Thyra. And please, don't hesitate to call if you have any concerns in the future. .

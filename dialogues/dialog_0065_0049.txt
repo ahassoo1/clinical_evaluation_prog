@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Mr. Schneer. I’m Dr. Duplichan. So, tell me, what brings you in to see me today?
+PATIENT: Oh, good morning to you too, Doctor. Well, it’s me ears, mostly. They ain’t what they used to be, that’s for sure. Things are gettin’ a bit muffled, you know? I have a hard time hearin’ folks when they don’t speak up real good.
+DOCTOR: I see. Muffled hearing. And how long has this been going on, Mr. Schneer?
+PATIENT: Oh, goodness. That's a tricky one. Seems like… a while now. Not sudden-like, more like it just… faded. Maybe a year or so? Hard to say exactly. I don't pay much mind to dates these days. It's just gettin’ worse, I think.
+DOCTOR: A year, alright. And is it both ears, or just one?
+PATIENT: Both, I reckon. Though, maybe the left one's a little worse. It’s hard to tell, really. They both just… don’t pick things up like they used to. I used to be able to hear a pin drop! Now… well, not so much.
+DOCTOR: Both ears, with the left potentially worse. Have you noticed any ringing in your ears, Mr. Schneer?
+PATIENT: Ringing…? Hmm. Sometimes, yeah. A little bit. Not constant, mind you. Just a faint… whirr, maybe? Like an old refrigerator hummin’. It comes and goes. I mostly tune it out, if I can.
+DOCTOR: Intermittent tinnitus. Alright. And have you been exposed to any loud noises recently, or throughout your life – machinery, construction, music, anything like that?
+PATIENT: Oh, now that you mention it… yes. A lot of loud noises, I suppose. I worked in a shoe factory for… well, a long time. Lots of machines, clatterin’ and bangin’ all day long. Big presses, you know? Never thought much about wearin’ earplugs back then. Didn’t seem important.
+DOCTOR: Prolonged noise exposure. That’s… not surprising. Do you have any other medical problems, Mr. Schneer?
+PATIENT: Oh, a few aches and pains, here and there. What comes with gettin’ old, I suppose. My knees ain't what they used to be. And my doctor told me somethin’ about… high blood pressure, a while back. I take a little pill for that every day, I think. But that's about it, really. Nothin’ serious.
+DOCTOR: Alright. And what medications exactly are you taking for your blood pressure, Mr. Schneer?
+PATIENT: Oh dear… now you're askin' somethin' I ain't sure about. Let me see… it’s a little white pill. Small one. I get it filled at the pharmacy down the street. I can't recall the name, though. I just take what the nice lady gives me. It starts with a… maybe an ‘A’? Oh, goodness, I'm terrible with names and pills.
+DOCTOR: Alright. We’ll need to get a precise list of your medications, Mr. Schneer. It's important for your health. Do you have a pharmacy we can contact, or perhaps a list from a previous doctor visit?
+PATIENT: Oh, I think I got a card somewhere in my wallet… hold on a sec. Here it is! Yeah, O’Malley’s Pharmacy, down on Elm Street. They got my number on file, I reckon.
+DOCTOR: Excellent. I'm contacting O'Malley’s now to get a complete medication list. While I'm doing that, I'd like to do a quick examination of your ears. Just to get a better look. Is that alright?
+PATIENT: Oh, that sounds fine, Doctor. Whatever you need to do. Just let me know if it’ll tickle or somethin’. I don’t like surprises, you see.
+DOCTOR: Very well. I'll explain everything as I go. Please sit forward slightly. …Okay. There’s some cerumen – earwax – present. Not excessive, but it could be contributing to the muffled hearing. And the tympanic membrane – the eardrum – appears… slightly dull. Right ear is similar – some cerumen, slightly dull tympanic membrane. No signs of acute infection at this time. .
+PATIENT: .

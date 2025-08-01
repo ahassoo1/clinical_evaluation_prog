@@ -1,0 +1,23 @@
+DOCTOR: Right, Gerhard Radillo. Sixty years old. Okay. So, what brings you in today?
+PATIENT: Good day, Doctor. It is my ear. It... how you say... it is leaking. A little bit of fluid comes out. It started, maybe, three days ago. Not much, but it is there.
+DOCTOR: Leaking, you say?
+PATIENT: Yes, leaking. Like a… a small drop. When I move my head, or… when I press here. <points to ear> It does not hurt, not really. Just… wet. A little uncomfortable, maybe.
+DOCTOR: Alright. And has this happened before, to your knowledge?
+PATIENT: Hmm. That is a good question. I think… maybe, when I was younger. A long time ago. But I do not remember very well. Perhaps once? It was not a problem then, I think. It stopped quickly. This time… it has not stopped.
+DOCTOR: Right, well, let's have a look. I'm going to need to examine your ear, if you don't mind. Just lie down on the examination table over there.
+PATIENT: Yes, Doctor, that is fine. No problem. <starts to move toward the examination table> Is it… cold? The table? I do not like cold.
+DOCTOR: It’s fine. I'll make it quick. Now, just lie still. Let me have a look… Hmm… yes. There is some discharge. Appears to be… serous fluid. Tympanic membrane is slightly erythematous, but no perforation visible at first glance. Feels a little tender to the touch. Any recent fever, or pain radiating to your jaw?
+PATIENT: Fever? No, Doctor, no fever. And… radiating? You mean like… spreading? No, no pain anywhere else. Only in the ear, when I touch it. And sometimes, a little… stuffy. Like when you have a cold, but not so bad. The ear feels… blocked. Is that what you mean?
+DOCTOR: Blocked, yes, exactly. Any recent upper respiratory infection?
+PATIENT: Upper… res-pi-ra-tory? Like a cold? Yes! I had a little cold, maybe one week ago. Not a bad cold, just a little sniffles. It went away quickly. I thought nothing of it. Is that… important?
+DOCTOR: It can be. It sounds like this could be otitis media, possibly following your recent cold. Though, without a visible perforation, it's not entirely clear. Do you have any hearing loss?
+PATIENT: Hearing loss? No, not that I notice. Everything sounds… normal. Perhaps a little muffled when my ear feels blocked, but that goes away. My wife, she always says I do not listen, but that is just her. <chuckles softly> Is that what you mean, hearing loss? Because of my wife?
+DOCTOR: No, not because of your wife. I mean, do you find it harder to hear things?
+PATIENT: No, Doctor. I hear the television, I hear people when they speak. Sometimes, I ask them to repeat, but that is just because I am old. My ears are fine, I think. <pauses> Unless… this is making me not hear so well? Is that possible?
+DOCTOR: It is possible, yes. It could be a mild conductive hearing loss due to the fluid. Look, I'm going to prescribe you some antibiotic ear drops. Use them as directed. If it doesn't improve in a week, come back and we’ll reassess. And try to avoid getting water in your ear. Any allergies to medications?
+PATIENT: Allergies? Hmm. No, Doctor. I do not think so. My wife gives me medicine sometimes for my blood pressure, and I do not have any problems with that. And… I had a shot last year for the… the flu? No problems with that either. I think I am fine with medicines. <pauses> But thank you for asking.
+DOCTOR: Right. Good. Take these as directed. If there’s no improvement in a week, or if you develop a fever, or experience any dizziness, come back immediately. Do you have any other concerns?
+PATIENT: No, Doctor, I do not think so. You have answered all my questions. I will use the drops as you say. Thank you very much for your help. <takes the prescription> I hope it works quickly. My wife will be very happy if my ear feels better.
+DOCTOR: Good. That’s all then. Next!
+PATIENT: .
+DOCTOR: .

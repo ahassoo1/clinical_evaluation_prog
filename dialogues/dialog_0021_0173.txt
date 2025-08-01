@@ -1,0 +1,26 @@
+DOCTOR: Alright, Jailenne. So, tell me, what brings you in today?
+PATIENT: Oh, hi doctor. Well, I've just been getting the chills, on and off, for a few days now. It’s kinda weird, not like a full-on fever chill, just…cold. It's been happening mostly at night, I think.
+DOCTOR: Hmm. Chills, you say. Mostly at night. Right. And anything else along with that?
+PATIENT: Yeah, actually… I’ve been feeling a little tired, more than usual. And maybe a tiny bit achy? Like, not sick achy, just… like I worked out or something, even though I haven’t. Does that make sense?
+DOCTOR: Vague symptoms. Always the hardest. Tired and achy… Okay. And is this tiredness all day, or does it come and go?
+PATIENT: It comes and goes, I think. Some days I feel okay, a little run-down maybe, but fine. Other days, like yesterday, I just wanted to nap all afternoon. It's not constant, definitely not.
+DOCTOR: Alright. And have you been checking your temperature at all?
+PATIENT: No, I haven't. I don't really bother with thermometers unless I feel really bad. I figured if it was a fever, I'd know, right? I just thought it was… a little bug or something. I don't usually go to the doctor for chills.
+DOCTOR: Well, that’s… a reasonable approach, I suppose. Though sometimes these things aren’t as obvious as they seem. Now, are you experiencing any other symptoms?
+PATIENT: Let me think… No cough, no sore throat, no runny nose. My stomach’s been okay. I haven't lost my appetite or anything. Oh! Actually, now that you mention it, I have been a little thirsty lately. More thirsty than usual, maybe?
+DOCTOR: Thirsty… Alright. Now, let's talk about your medical history. Have you had any major illnesses or surgeries in the past?
+PATIENT: Not really. I had my tonsils out when I was a kid, that's about it. And I get the flu shot every year, religiously. Otherwise, pretty healthy. My mom always said I had a strong constitution. Nothing exciting, really.
+DOCTOR: And family history?
+PATIENT: Hmm. Okay, let me think. My dad has high blood pressure, and my grandma on my mom’s side had diabetes. That’s…pretty much it, I think. No cancer, no heart problems, nothing major that I know of. Is that enough? I'm not super close with my family so I don't always know everything.
+DOCTOR: Right. Alright. And are you currently taking any medications, or do you have any allergies?
+PATIENT: No medications. I take a multivitamin sometimes, but that’s it. And no allergies, thankfully. Not to anything food-related, or anything like pollen or dust. Nope, pretty clear on that front.
+DOCTOR: Okay. Let’s do a quick exam, then. Just to get a baseline. I’m going to listen to your lungs and heart, check your throat, and maybe feel your lymph nodes. Is that alright?
+PATIENT: Yeah, that's fine. Sounds good. Go ahead.
+DOCTOR: Okay. Take a deep breath in… and out… Again… Good. Lungs sound clear. Now, let me listen to your heart… Heart rate is normal. Rhythm is regular. Now, open your mouth and say "ah." Throat looks… a little unremarkable, honestly. No redness, no swelling. Lymph nodes…slightly palpable, but not significantly enlarged. Temperature is 98.9, which is normal. Blood pressure is 120 over 80. So, everything seems… within normal limits. But the chills…that’s still concerning. It could be a mild viral infection, but we need to rule out anything else.
+PATIENT: Okay…that's good to know, I guess. But if everything is normal, what could be causing the chills? I just don't want it to be something serious. It’s just… annoying, more than anything. I really don't want to be sick right now.
+DOCTOR: Well, “normal” doesn’t always mean “nothing is wrong.” Sometimes, these things are…subtle. We can run a basic blood test – a complete blood count, and a metabolic panel – just to rule out any underlying issues. Things like a slight electrolyte imbalance, or early signs of inflammation. It's standard procedure when someone presents with vague symptoms like yours. Would you be okay with that?
+PATIENT: Yeah, that sounds sensible. If it'll help figure it out, then yeah, let's do the blood test. I’d rather know one way or another. Do I need to fast or anything?
+DOCTOR: Yes, you will need to fast for eight hours beforehand. No food or drinks, except water. I’ll give you a lab order, and they’ll schedule you an appointment. We can call you with the results in a few days. In the meantime, get plenty of rest, stay hydrated, and if the chills worsen or you develop any other symptoms – fever, body aches, cough – contact the clinic immediately. Do you have any questions for me before we finish up?
+PATIENT: Okay, eight hours, got it. And yeah, I think that's everything. No, I don’t think I have any questions right now. Thank you, doctor. I appreciate you taking the time to look into it. Hopefully, it’s just something minor.
+DOCTOR: Alright. Well, get the blood test done as soon as you can. And don't hesitate to call if things change. It’s likely nothing serious, but it’s best to be thorough. Have a good day. .
+PATIENT: Okay, I will. Thank you again. You too. .

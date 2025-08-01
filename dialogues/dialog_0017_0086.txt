@@ -1,0 +1,11 @@
+DOCTOR: Good morning, Ms. Kovtun. I am Dr. Blim. I see here you are 29 years of age. Now, let's not waste time. What brings you in today?
+PATIENT: Right, Dr. Blim. Just the results, please. I’m really swamped with work, so if we can just get straight to it, that'd be great.
+DOCTOR: “Results,” you say?
+PATIENT: Yes. That’s why I scheduled the appointment. I understood this was just to go over them. What did the tests show? I’m happy to listen, but I really do need to get back to work soon.
+DOCTOR: Very well. I’ve reviewed your complete blood count, metabolic panel, and urinalysis – standard procedure, you understand. And frankly, Ms. Kovtun, I find your…dismissive attitude towards your health rather concerning. However, we shall proceed. Your results are…within normal limits. Entirely unremarkable. No immediate concerns detected. Are you quite satisfied?
+PATIENT: Okay, good. Unremarkable is…good, right? No problems? So I don't need to do anything? I just…needed to know that everything was okay so I could focus on work. Thanks, Dr. Blim.
+DOCTOR: “Okay” is a rather simplistic term, Ms. Kovtun. “Within normal limits” does not equate to optimal health. It simply means we haven’t identified a problem yet. But given your…priorities, I suppose that will suffice. No, I do not foresee a need for further action at this time. Though I strongly advise you reconsider your lifestyle choices. A reactive approach to healthcare is rarely a sound one. Do you have any questions, or may I conclude this consultation?
+PATIENT: No, I think I’m good. I appreciate you taking a look. Really, that’s all I needed to know. Thanks again, Dr. Blim.
+DOCTOR: Very well. I’ll have the receptionist provide you with a copy of your results. I trust you can interpret them should any…symptoms arise. Don’t hesitate to schedule another appointment…if you find yourself with the time. Good day, Ms. Kovtun.
+PATIENT: Right. Thanks.
+DOCTOR: .

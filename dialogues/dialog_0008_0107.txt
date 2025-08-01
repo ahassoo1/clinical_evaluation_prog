@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Mr. Puder. I'm Dr. Cumper. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. My heart... it feels funny sometimes. Like it's flapping. Not always, but when it does, it worries me. It's why I'm here.
+DOCTOR: Okay. “Flapping,” you say. Can you describe that feeling a little more?
+PATIENT: Hmm… like a bird, maybe? Not painful, exactly. Just… fast. Really fast beating. It stops after a bit, then comes back later. Sometimes when I'm just sitting. Sometimes when I walk. It's hard to say what makes it happen.
+DOCTOR: Alright. So it's a fast heartbeat, not necessarily painful, and it comes and goes, happening both at rest and with activity. How long would you say these episodes typically last?
+PATIENT: Usually... not long. Maybe a minute? Sometimes a few minutes. Never longer than ten, I think. It just… starts, and then it stops on its own. It's not like it builds up, it just is. Does that make sense?
+DOCTOR: Yes, that makes sense. And has this been happening recently, or has this been going on for a while?
+PATIENT: It started... maybe two months ago? At first, it was not so often. Now, maybe two or three times a week? It's getting more, I think. My wife, she noticed too. She told me I should come see someone.
+DOCTOR: Okay, so it's been increasing in frequency over the past two months. And your wife has noticed it as well. Good, that's helpful. Have you noticed anything before these episodes start?
+PATIENT: Hmm... not really. I eat normal. I sleep okay. Sometimes I drink coffee, but not too much. Maybe one cup in the morning? Nothing special happens before it, I don't think. I try to remember, but it just... starts. Like I said.
+DOCTOR: Alright. And are you experiencing any other symptoms along with this fast heartbeat?
+PATIENT: No. No chest pain. No… dizzy feeling. Just the fast beating. Sometimes I feel a little tired, but I work hard, so that’s normal. Nothing else. I feel… okay, mostly. Just worried about the heart.
+DOCTOR: Okay, no chest pain, no dizziness, just the palpitations and some normal fatigue. Let's go through some more general questions then, if you don't mind. Do you have any past medical conditions that I should be aware of?
+PATIENT: No. Nothing. I’ve never been to the hospital before this. I try to stay healthy. Eat good food, work hard, that's it. My family... we don't have heart problems, not that I know of.
+DOCTOR: Alright, that's good to know. And have you had any surgeries in the past?
+PATIENT: No, never. No surgeries. I broke my arm when I was a little boy, but that’s it. Just a cast, and it healed. Nothing serious.
+DOCTOR: Okay, no surgeries. Let's talk about medications. Are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: No. Nothing. I don't like taking pills if I don't need them. Sometimes I take something for a headache, but that’s it. Just… regular headache pills. Nothing special.
+DOCTOR: Alright. And do you have any allergies to any medications or anything else?
+PATIENT: No. No allergies. I eat everything. My wife, she’s got some allergies to nuts, but I don’t have any problems. I can eat anything, I think.
+DOCTOR: Okay, no allergies. And finally, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No smoking. I drink coffee, like I said, sometimes. And… sometimes I have a small glass of wine with dinner. Just small. Maybe one or two times a week. No other drugs. I don't like them.
+DOCTOR: Okay, good. So, no smoking, minimal alcohol, no recreational drugs. Alright, Mr. Puder, let's do a quick physical exam, if you don’t mind. I’d like to listen to your heart and lungs, check your blood pressure and pulse, and just take a general look. Is that okay with you?
+PATIENT: Yes, that’s fine. Whatever you need to do. I want to know what’s happening with my heart. So please, do whatever you think is best.
+DOCTOR: Okay, great. Take a deep breath for me, please… and exhale. Good. Now another deep breath… and exhale. Heart sounds are regular rate and rhythm, no murmurs, rubs, or gallops appreciated. Lung sounds are clear to auscultation bilaterally. Blood pressure is 130/80, pulse is 78 and regular. I'm going to feel your pulse again… good and strong. Your heart sounds normal at rest, and your pulse feels strong. Everything seems okay so far. Given your description of intermittent palpitations, and the normal exam findings, I think it’s reasonable to start with some basic tests to get a better idea of what might be going on. Would you be willing to do an EKG and a blood test?
+PATIENT: Yes. That sounds good. Whatever tests you think will help. EKG and blood test… okay. I want to know what is causing this flapping. So yes, please do the tests.
+DOCTOR: Excellent. Okay, I'm going to order an EKG and a complete blood count – that will check your electrolytes and rule out any anemia or other issues. The EKG will look at the electrical activity of your heart when you're experiencing the palpitations, if we can catch one during the test. The nurse will come in shortly to draw the blood and set you up for the EKG. In the meantime, I want you to try to keep a log of when these episodes happen – note the time, what you were doing, and how long they lasted. That information will be very helpful. Does that sound alright?
+PATIENT: Yes. A log… I can do that. Write down the time, what I’m doing… okay. The nurse will be here soon… good. I hope we can find out what is happening with my heart. I’ll try to remember everything and write it down. Thank you, Doctor.
+DOCTOR: You’re very welcome, Mr. Puder. The nurse will get you set up shortly. And we’ll discuss the results as soon as they are available. If you experience any chest pain, shortness of breath, or dizziness while you’re waiting, please let the nurse know immediately. Do you have any questions for me right now?
+PATIENT: No. I think I understand. Wait for the nurse, write down when it happens, and if I feel bad, tell someone. I don't think I have any questions right now. Just… hoping it’s not too serious. Thank you again, Doctor.
+DOCTOR: Okay, Mr. Puder. We’ll do everything we can to figure this out. I'll let the nurse know to come in shortly. .

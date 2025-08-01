@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Mr. Espinueva. I'm Dr. Press. So, what brings you in to see me today?
+PATIENT: Good morning to you too, Doctor. Well, it’s this pain in my side again. Keeps coming back, it does. And with it, trouble with… going to the toilet. It’s been happening on and off for a while now.
+DOCTOR: Right. "Pain in your side" – can you tell me a bit more about that?
+PATIENT: Yes, Doctor. It’s mostly on my right side, low down. It’s not a sharp pain, more of a dull ache, really. Sometimes it’s bad enough to keep me up at night. And like I said, it usually comes with a bit of burning when I… well, when I go to the toilet. It feels like a bit of an infection, if you know what I mean.
+DOCTOR: Hmm, yes. And how long has this been going on this time?
+PATIENT: Oh, let me think… this particular bout started maybe a week ago? But I’ve had this trouble on and off for… years now, Doctor. Years. It seems to flare up and then quiet down for a bit, and then come back again. It's hard to keep track, to be honest.
+DOCTOR: Right, years, on and off. And has anything specific seemed to trigger these flare-ups in the past?
+PATIENT: Not that I've noticed, Doctor. I try to drink plenty of water, like the other doctors have told me. I don't think it's anything I do, exactly. It just… happens. Sometimes it feels worse after I've been doing a bit of gardening, maybe, but that could just be coincidence. I don't push myself too hard.
+DOCTOR: Alright. And tell me, is there any blood in your urine or stool?
+PATIENT: No, Doctor. Not that I’ve seen. Everything looks normal, if you know what I mean. It’s just the pain and the burning feeling. And the feeling like I need to go all the time, even when there’s not much to go.
+DOCTOR: Okay. And what about fever, chills, nausea, or vomiting?
+PATIENT: No fever, no chills. I haven't been sick to my stomach, no. Just tired, sometimes. I suppose that could be anything, though. I’m an old man, Doctor. I get tired easily these days. It’s not a new feeling.
+DOCTOR: Alright. Do you have any difficulties with constipation or diarrhea?
+PATIENT: No, not really, Doctor. Everything's pretty regular, all things considered. Sometimes a little slow, but nothing major. I've never had any trouble with… the other end, if you know what I mean. It's mostly this trouble starting to go that's the problem.
+DOCTOR: Right. Now, let's talk about your medical history. Have you been diagnosed with any other conditions, like diabetes, high blood pressure, or kidney problems?
+PATIENT: Yes, Doctor. I was told years ago – maybe ten years now – that I have something wrong with my kidneys. Polycystic… something. The doctor said I have lots of little cysts on them. I don’t remember all the details, to be honest. And I’ve seen a few doctors over the years, so it all gets a bit muddled. They told me to drink lots of water and keep an eye on things. That’s about all I remember.
+DOCTOR: Polycystic kidney disease. And are you currently taking any medications for this, or for anything else?
+PATIENT: No, Doctor, I’m not taking anything regularly. Just the occasional painkiller if the side pain gets really bad. Paracetamol, usually. Nothing prescribed, I just buy it from the chemist. And I try not to take too much, you know? Don't want to overload my system.
+DOCTOR: Alright. Do you have any allergies to medications, food, or anything else?
+PATIENT: No, Doctor, not that I know of. I’ve eaten everything put in front of me over the years and never had a problem. I’m a simple man, really. Don’t have a fancy diet or anything. I can’t say I’ve ever had a bad reaction to anything.
+DOCTOR: Okay. Now, I'm going to need to do a quick physical exam. I'll listen to your abdomen, and I’ll gently press on your stomach to see if there’s any tenderness. Is that alright with you?
+PATIENT: Yes, Doctor. That’s fine. Go ahead. I trust your judgement. Just be gentle, if you don’t mind. Old bones, you know.
+DOCTOR: Alright. I'm listening now… and gently pressing here. Does this cause you any pain?
+PATIENT: Yes, that… that’s a bit tender, Doctor. Right there, on my right side. Not a sharp pain, but… uncomfortable. It feels a bit like a dull ache, like the pain I’ve been describing. It’s not too bad, but I can definitely feel it.
+DOCTOR: Alright. And what about here?
+PATIENT: No, not there. That's fine. It's mostly just on that right side, Doctor. Like you're pressing on something… swollen, maybe? I don't know if that makes sense. It's hard to describe.
+DOCTOR: Alright. I'm going to order a urine test to check for infection and blood, and a blood test to assess your kidney function. Given your history of polycystic kidney disease and the tenderness in your right flank, it would also be prudent to get an ultrasound of your kidneys. Does that sound reasonable?
+PATIENT: Yes, Doctor. That sounds very sensible. Whatever you think is best. An ultrasound sounds… thorough. I just want to get to the bottom of this, you know? It’s been bothering me for too long.
+DOCTOR: Alright. The nurse will come in shortly to draw your blood and collect a urine sample. Once the results are back – usually a few days – we’ll schedule a follow-up appointment to discuss them and determine the best course of action. In the meantime, continue drinking plenty of water, and if the pain becomes severe, you can take paracetamol as needed. However, if you develop a fever, chills, or notice any blood in your urine, please go to the emergency room immediately. Do you have any questions for me at this time?
+PATIENT: No, Doctor. That all sounds very clear. Thank you for listening and for taking the time to explain everything. I appreciate it. Hopefully, we can get this sorted out. I think that's all for now.
+DOCTOR: Alright. You’re very welcome, Mr. Espinueva. The nurse will be with you shortly. And don’t hesitate to contact the clinic if you have any concerns before your follow-up appointment. Have a good day. .

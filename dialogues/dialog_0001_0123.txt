@@ -1,0 +1,20 @@
+DOCTOR: Alright, Mrs. Cassimatis, have a seat. So, what brings you in today?
+PATIENT: Oh, thank you, Doctor. Well, it's my skin. It's been so itchy lately. Just driving me crazy, really. It started a few weeks ago, I think, and it hasn't let up.
+DOCTOR: Itchy, huh?
+PATIENT: Yes, very itchy. Everywhere, really, but mostly on my arms and back. It's not...rashy, exactly. Just really uncomfortable. Like I need to scratch all the time, but scratching doesn’t even really help, you know?
+DOCTOR: Okay, okay. And how long have you been... experiencing this "itchiness?
+PATIENT: Oh, let me think… maybe three, four weeks now? It came on pretty gradually, not all at once. At first, I thought it was just dry skin, you know, with the summer heat and all. I started using lotion, but that didn’t do much good. It just keeps…persisting. It’s worse at night, I think. Makes it hard to sleep sometimes.
+DOCTOR: Right. And you said everywhere?
+PATIENT: Pretty much, yes. Arms, back… a little on my legs, too. Not my face, thankfully. And it doesn’t really look like anything, Doctor. No bumps, no redness… just…itchy skin. It's just a constant irritation, you know? It's hard to describe. I’m just hoping you can figure out what’s causing it.
+DOCTOR: Hmm. Lotion didn't help. Well, you're seventy. Skin gets...thin. Itchy skin is just one of those things sometimes. Now, are you on any medications?
+PATIENT: Oh, well… no, not really. I haven’t been on anything regularly for years. Just the usual things when I get a cold, like cough syrup. I try to stay away from medications if I can. I had a bit of trouble with my blood pressure a while back, but it’s been pretty good lately. No pills for that, just watching my salt and trying to relax. Does that make sense?
+DOCTOR: Blood pressure... okay. Any allergies to anything?
+PATIENT: Oh, no, not that I know of. I used to think I was allergic to cats when I was little, but that was just a stuffy nose in the springtime, I think. Never had a bad reaction to anything. Food, medicine… nothing. I’m pretty lucky that way, I suppose. Although, I am getting older… maybe allergies can develop, right? I don’t really know.
+DOCTOR: Alright. Let’s just take a quick look. Roll up your sleeves. And your back, if you don’t mind. Just a visual inspection, nothing major. I need to see this itchiness.
+PATIENT: Oh, of course, Doctor. Here you go. It doesn’t look like much, I warn you. Just…normal skin, really. Maybe a little dry, but nothing dramatic. It’s more how it feels than how it looks, you know?
+DOCTOR: Hmm. Yes, skin does look a little dry. And... slightly thin, as expected. No rash, no obvious lesions. Okay. It's likely just age-related dryness, aggravated by the summer heat. I'm going to recommend a heavier moisturizer. Something fragrance-free. Try that for a week and see if it improves.
+PATIENT: Oh. Well, that's… good to know it’s probably not something serious. A heavier moisturizer, you say? Okay. Do you have a brand you’d recommend? And… is there anything else I should be doing? Maybe a different kind of soap? I've been using the same one for years, so… I don’t know.
+DOCTOR: Look, Mrs. Cassimatis, there are a million lotions out there. Something basic, like Cetaphil or Eucerin. Avoid anything with perfumes or dyes. And yes, a milder soap. Something for sensitive skin. Honestly, at your age, a little dryness is normal. Don't overthink it. Anything else?
+PATIENT: Oh, okay. Cetaphil or Eucerin… I think I’ve heard of those. No, I don’t think that’s all, Doctor. Well, I haven't had insurance in a while, and I'm a little worried about the cost. Can those lotions get expensive? And… I don't want to come back if it doesn't help and then have a big bill. I'm on a fixed income, you know?
+DOCTOR: Look, Mrs. Cassimatis, I’m a doctor, not a financial advisor. I can tell you what will help your skin. What you do with that information is up to you. There are generics, too. Go look at the drugstore. Next.
+PATIENT: Oh… Well, okay, Doctor. Thank you… I think. I’ll… go look at the drugstore. .

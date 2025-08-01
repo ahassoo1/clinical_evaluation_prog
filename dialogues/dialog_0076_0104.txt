@@ -1,0 +1,21 @@
+DOCTOR: Right. Tammie Ottaviani, 44 years old. So, what brings you in today?
+PATIENT: My throat. It hurts. Been hurting for… a little while now. Honestly, I don't have time for this. Work is very important.
+DOCTOR: "A little while." That's… not terribly specific. How long exactly?
+PATIENT: Oh, goodness. Days, I suppose. Maybe a week? It all feels the same, really. I don’t keep track of things like that. Is this going to take long? I have machines to set. Very precise work, you understand.
+DOCTOR: A week. Right. And is it… just a sore throat?
+PATIENT: Well, it feels like a sore throat. What else would it be? It’s scratchy. And… uncomfortable. I tried some lozenges, but they didn't do much good. Cheap things, probably. Everything is cheap these days.
+DOCTOR: Any fever?
+PATIENT: Fever? I… don’t know. I didn’t take my temperature. Do I need to take my temperature? I feel… warm sometimes, but that's probably just the weather. It’s August, you know. Very humid.
+DOCTOR: It's… helpful to know if you have a fever. Have you noticed any chills?
+PATIENT: No. No chills. Just… tired. But everyone is tired these days. Work, you know. Very demanding. And now this throat… Honestly, it’s a waste of time, coming here. I should be at work. Is there anything you can just give me to make it better? Quickly?
+DOCTOR: Alright. Any cough?
+PATIENT: A little. Just a tickle, really. Not a bad cough. It’s… dry. Doesn't bring anything up. Just an annoyance. Honestly, I haven't been sleeping well. This throat is keeping me up. But I doubt a doctor can help with that, can you?
+DOCTOR: And any body aches?
+PATIENT: Body aches? A little, perhaps. But I do heavy work, you know. My body always aches. It's normal. It's just… the usual. Honestly, I don't have time for a full inventory of my ailments. Just fix my throat, please? I have deadlines. Very important deadlines.
+DOCTOR: Right. Any difficulty swallowing?
+PATIENT: Hmm. It's… a bit uncomfortable. Not terrible, but it's not easy, exactly. Like… something is rough. But I still eat, you know. I have to. Work is very physical. I can't be weak. Is this getting anywhere? Honestly, I feel like I'm wasting my time.
+DOCTOR: Alright. Let's just take a quick look. Open wide. Say "ah."
+PATIENT: Ah… Honestly, I don't see what good this will do. It hurts, you know. And it's very undignified. Hurry, please.
+DOCTOR: Hmm. Mild redness in the posterior pharynx. Tonsils are… unremarkable. No exudate. Seems like a mild viral pharyngitis. Likely just a common cold. Probably just needs rest and fluids. Lozenges. Salt water gargles. Over-the-counter pain relievers.
+PATIENT: Rest? Fluids? Lozenges? I told you I tried lozenges. This is… underwhelming. Honestly, I could have figured that out myself. So, there’s nothing… stronger? I have important work to do. Very important. This has been a complete waste of time. .
+DOCTOR: Look, I’ve assessed you. It's a viral infection. Antibiotics won’t help a virus. If it worsens, or you develop a high fever, difficulty breathing, or severe pain, then go to urgent care. But right now, this is what you need. I’m documenting everything, so if you insist on missing work, you’ll have documentation. Is that understood?

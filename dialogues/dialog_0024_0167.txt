@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Mr. Stoegbauer. I am Dr. Mutnick. Now, let's not waste time. Please, tell me, in as concise a manner as possible, what brings you in today?
+PATIENT: Good morning, Doctor. My…foot. It hurts very much. A sore, you see. Been there a while now. Not getting better, and it’s…troublesome when I walk. Especially for my work with the little ones.
+DOCTOR: “A sore,” you say. While I appreciate brevity, Mr. Stoegbauer, “a sore” is… insufficient. Can you describe the pain?
+PATIENT: Oh, excuse me, Doctor. Yes, of course. It’s…a deep ache, mostly. Like a constant…pressure. And sometimes, it feels like little needles, poking. Especially if I…push on it. It’s on the bottom of my foot, near my toes.
+DOCTOR: Near the toes… constant pressure with intermittent “needles.” Is this pain present all the time, or does it come and go?
+PATIENT: It’s mostly there all the time, Doctor. But when I stand for too long…or walk a lot…that’s when it gets much, much worse. The needles feel sharper then. And…warm. It gets warm around the sore.
+DOCTOR: Warm, you say?
+PATIENT: Yes, Doctor. Warm to the touch. My wife…she used to check it for me. She said it was…not good when it got warm. She knew a lot about these things.
+DOCTOR: Very well. Let’s review your medical history. I see you have Medicare… and the records are…sparse. Any past foot problems, Mr. Stoegbauer?
+PATIENT: Hmm…not that I remember, Doctor. I’ve always been pretty careful with my feet. Walked barefoot a lot as a boy, of course…but never had any trouble. Until this. And I was told…a long time ago…something about the sugar in my blood. But I don’t…fully recall.
+DOCTOR: “Sugar in your blood”?
+PATIENT: Yes, Doctor. The doctor, years ago, said it was important to watch what I ate. Something about…diabetes, I think. But it wasn't…bad enough for needles, or anything. Just…watch the sweets, he said.
+DOCTOR: Hmm. The records are remarkably incomplete. Alright, Mr. Stoegbauer, we’ll need to do a quick exam. Please, remove your shoe and sock. And try not to take all day.
+PATIENT: Oh, yes, of course, Doctor. Sorry about that. Old habits, you know?
+DOCTOR: Alright. Let me see… Hmm. Yes, there’s a…lesion here. Redness, some swelling. And it is warm to the touch. Painful, I presume?
+PATIENT: Oh, yes, Doctor. Very painful when you press there. Like a burning…and the ache, of course. It just…goes right up my leg.
+DOCTOR: Mr. Stoegbauer, based on this brief examination, and your… somewhat vague history, I suspect we're dealing with a possible diabetic foot ulcer. It’s imperative that we address this immediately to prevent further complications. Do you have any known allergies to medications?
+PATIENT: Diabetic…ulcer? Oh dear. No, Doctor, no allergies that I know of. My wife…she always gave me the medicine. Never had a problem. I always trusted her.
+DOCTOR: Very well. We will need to run some blood tests to confirm the diabetes diagnosis, and likely get an X-ray of the foot to rule out any underlying bone infection. I'm also going to prescribe a topical antibiotic cream, and I strongly advise you to limit your activity until we have a clearer picture of what we’re dealing with. I'm going to write you a referral to a podiatrist. They specialize in foot care and will be better equipped to manage this. Do you understand?
+PATIENT: Oh…that’s a lot, Doctor. Blood tests…X-ray…podiatrist… I understand…mostly. But…a podiatrist? Is that…serious? And will the medicine…hurt?
+DOCTOR: Mr. Stoegbauer, with all due respect, this is serious. Untreated diabetic foot ulcers can lead to amputation. The podiatrist is essential. And the cream… it may cause mild irritation, but it is far preferable to losing your foot. I will have the nurse go over the instructions with you. Now, do you have any other questions, or shall we proceed?
+PATIENT: Oh…amputation? No…no, I don’t want that. No. The nurse…yes, please. Let the nurse explain it. I…I think I need to sit down.
+DOCTOR: Very well. I will inform the nurse. Please, remain seated. .
+PATIENT: .

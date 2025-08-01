@@ -1,0 +1,22 @@
+DOCTOR: Alright, Mr. Raghunathan. Have a seat. So, what brings you in to see me today?
+PATIENT: Thank you, Doctor. Well, I’ve noticed a lump… a mass, I suppose, in my lower abdomen. It’s been there for a little while now, and I thought it was best to get it checked out.
+DOCTOR: A lump, huh?
+PATIENT: Yes. It’s… not painful, exactly. More of a… firmness. I noticed it maybe a month or so ago, while I was stretching. Being a choreographer, I’m quite aware of what’s going on with my body, you see. It just didn’t feel right.
+DOCTOR: Right. A choreographer. So you're attuned to changes. Okay. And it hasn't grown noticeably in the past month?
+PATIENT: That’s a good question. It’s difficult to say for certain, Doctor. It hasn't felt bigger, but sometimes it seems… more prominent, depending on what I’m doing. It's hard to explain. I’ve been trying to keep track, but it’s not an exact science.
+DOCTOR: "Not exact science." Right. And where exactly in the lower abdomen are we talking about?
+PATIENT: If you don’t mind me being specific… it’s sort of just below my belly button, and a little to the left side. Maybe two or three inches down? It’s not right on my hip bone, but… close. I can point to it if that would be easier.
+DOCTOR: No, no. I’ll get a feel for it myself. Let me just grab my gloves. Have you had any other symptoms?
+PATIENT: No, not really. No pain, like I said. No fever, no weight loss, no… changes in my bathroom habits, thankfully. I’ve just been a bit preoccupied with it, you know? Always wondering what it is. It's a little unsettling.
+DOCTOR: Right. Unsettling. Well, let’s have a look. Please lie back on the exam table for me. And try to relax.
+PATIENT: Certainly, Doctor. I’ll do my best. It’s just… I don’t particularly enjoy these sorts of things. But I understand it’s necessary.
+DOCTOR: Alright. So, here… feels firm. Not particularly tender. Can you tell me, have you had any previous surgeries in this area?
+PATIENT: No, Doctor, I haven’t. Never had any surgeries at all, thankfully. I’ve always been quite healthy, all things considered. This is… new territory for me.
+DOCTOR: Hm. Well, it is firm. And not obviously inflamed. It's difficult to tell much without imaging. I'm going to order an ultrasound of your lower abdomen. That should give us a better picture of what we're dealing with.
+PATIENT: An ultrasound, yes. That sounds sensible, Doctor. Will that require any… preparation on my end? Anything I need to do before the appointment? I’d like to be properly prepared.
+DOCTOR: You'll get a call from the radiology department to schedule it. They'll tell you everything you need to know – typically it just involves drinking a certain amount of water beforehand, to get a clearer image. Don't worry too much about it. It's a fairly straightforward procedure. It's unlikely to be anything serious, but we need to rule things out.
+PATIENT: I understand, Doctor. Thank you for explaining. It’s good to hear you don’t suspect anything too concerning. I appreciate your reassurance. And I will await the call from radiology, then. Should I contact your office if I don’t hear anything within a few days?
+DOCTOR: If you haven't heard anything within a week, give the office a call. And try not to stress about it. A lot of things can cause a lump like this, and most of them are benign. Do you have any other concerns?
+PATIENT: No, Doctor, I believe that covers everything. I appreciate your time and the ultrasound order. I'll follow up with the radiology department and contact your office if needed. Thank you again.
+DOCTOR: Alright. Well, get it done as soon as possible. And if it turns out to be anything… unusual, we'll discuss it further. Have a good day.
+PATIENT: .

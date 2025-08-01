@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Gyamfi. I'm Dr. Paulino. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It is… a pleasure to meet you. I am Sherrell. Yes, well… the words. They do not come so easily now. It is… frustrating, you understand? I forget… what I wish to say. It is difficult to explain.
+DOCTOR: Frustrating, yes, I can imagine. It sounds… concerning. You're experiencing difficulty with word retrieval, is that correct?
+PATIENT: Yes. Retrieval… that is the word. Yes, exactly. Like… they are just… there, in my head, but I cannot… pull them out. It happens more often now. Not all the time, but enough to… make me pause. And sometimes, the right word… it feels like it is on the tip of my tongue. It is… unsettling.
+DOCTOR: Hmm. And has this been a gradual onset, or did it begin suddenly?
+PATIENT: Gradual, I think. Yes, gradual. It was… small things at first. Forgetting a name here, a word there. Nothing… serious. But over the past… months, perhaps six months, it has become more noticeable. My… wife, she noticed it before I did, I believe. She… passed away last year.
+DOCTOR: Right. Well, grief can certainly manifest in… various ways. But let's focus on the cognitive aspect. You mentioned six months. Can you recall any specific event or illness that coincided with the start of these difficulties?
+PATIENT: Illness… no, not that I recall. I had a small… cold, perhaps? But nothing serious. A cough, a sniffle. It resolved quickly. No… nothing that would explain this. It simply… began. Slowly. It is… a puzzle. A frustrating puzzle, indeed.
+DOCTOR: I see you've had a routine physical annually. No noted cognitive concerns in previous records. Let's do a quick assessment, if you don’t mind. I'd like you to repeat three words for me, and I’ll ask you to recall them later. Ready?
+PATIENT: Yes, Doctor. That sounds… sensible. Please, proceed. Three words, you say? I will do my best. I hope my memory… cooperates.
+DOCTOR: Alright. The words are: table, penny, and orange. Repeat those back to me, please.
+PATIENT: Table… penny… and orange. Yes. Those are the words, correct? I… I believe I have them.
+DOCTOR: Good. Now, I'm going to ask you a few simple questions. Just answer to the best of your ability. First, what is today’s date?
+PATIENT: Today's date… hmm. Let me see… it is… August. Yes, August. The second, I believe. August the second. Is that correct? 2025, of course.
+DOCTOR: Correct. And where are we right now?
+PATIENT: We are… in your office, Doctor. The doctor’s office. In the… rural area, I understand. Yes. A very… pleasant office, if I may say so.
+DOCTOR: Alright. Now, let's return to those three words. Can you recall them for me?
+PATIENT: Three words… hmm. Let me think… Table… and… Oh dear. The others… they are escaping me. I know there were three… Table… and… I feel… a little foolish now.
+DOCTOR: Hmm. That’s… not unexpected. Now, I’m going to perform a brief neurological exam. I’ll just check your reflexes, coordination, and balance. Please follow my instructions as best you can. Can you follow my finger with your eyes without moving your head?
+PATIENT: Yes, Doctor. I can follow your finger. I will try my best to keep my head still. Please, proceed.
+DOCTOR: Very good. Now, can you squeeze my hands as tightly as you can?
+PATIENT: Yes, of course. Is that… sufficient? I am trying to squeeze as tightly as I am able.
+DOCTOR: Adequate. Now, I'm going to test your reflexes. This may be a little startling. Please relax your arms.
+PATIENT: Very well, Doctor. I will relax my arms. I trust this will not be… unpleasant?
+DOCTOR: Hmm. Reflexes are… diminished, but present. Now, let’s try a simple naming task. I’ll show you some pictures, and I’d like you to tell me what they are. What is this?
+PATIENT: That… that is a… a… writing tool. A… pen, I believe. Yes, a pen.
+DOCTOR: Alright. Based on this brief assessment, it appears you're experiencing some mild cognitive impairment, specifically with recall and naming. However, this could be due to a variety of factors – stress, grief, even normal age-related changes. We'll need to rule out any underlying medical conditions. I’m going to order a complete blood count, a thyroid panel, and a Vitamin B12 level. I also recommend an MRI of the brain to assess for any structural abnormalities.
+PATIENT: An MRI… yes. That sounds… thorough. Blood tests, I understand. I am willing to do whatever is necessary to understand this. I… I simply wish to know what is happening. To have a name for it, perhaps.
+DOCTOR: Very well. I'll get the lab orders sent to the front desk. You can schedule the MRI with the radiology department. It’s best to do that as soon as possible. In the meantime, try to maintain a regular routine, get adequate sleep, and engage in mentally stimulating activities. It might… help. We’ll review the results in two weeks. Here is a referral for a neurologist if you would like a second opinion.
+PATIENT: A neurologist… yes, perhaps. I will consider that. Two weeks… Very well, Doctor. Thank you for your time and… your thoroughness. I appreciate you trying to understand what is happening. I will schedule the MRI and await the results.
+DOCTOR: You’re welcome, Mr. Gyamfi. The front desk will assist you with scheduling. If you have any urgent concerns before your follow-up appointment, contact the office. Here is the paperwork for the lab tests and the neurologist referral. Have a good day.
+PATIENT: Yes. Thank you again, Doctor. I… appreciate your help. Have a good day to you as well. .

@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Ms. Heidenthal. I’m Dr. Murtic. So, what brings you in today?
+PATIENT: Oh, good morning, Doctor. Well, it’s… a little embarrassing, to be honest. I’ve been having some trouble with my memory lately. It’s not… huge things, but enough to worry me, you know? Things just aren't sticking like they used to.
+DOCTOR: Memory problems, alright. “Not huge things” is… vague, unfortunately. Can you be a little more specific?
+PATIENT: Hmm. Okay, let me think… It's like… forgetting where I put things, even when I just had them. Or… starting a sentence and then completely losing my train of thought. Little things like that. And… I feel like I repeat myself sometimes, telling the same stories to people. It's probably nothing, but it’s been happening more and more often.
+DOCTOR: Alright. So, misplaced items, difficulty with thought process, and some repetition. How long has this been going on, Ms. Heidenthal?
+PATIENT: Oh, gosh… that's a good question. I guess… maybe six months or so? It started gradually, so it's hard to pinpoint exactly. At first, I just chalked it up to being busy and stressed, but it hasn’t gotten better, and if anything, it feels a bit worse now.
+DOCTOR: And has anything changed in your life in the last six months?
+PATIENT: Changed…? Hmm. Not really… I mean, work is the same. I'm still a dentist, you know, keeping busy with patients. I haven't… started any new hobbies or anything. I did have a little bit of a harder time with a flu earlier this year, but I recovered from that. It was just a bad flu, really. Nothing else major comes to mind.
+DOCTOR: A recent flu… alright. Do you have any other medical conditions?
+PATIENT: Oh, um… let me see. I had my appendix out when I was younger, but that was years ago. And I’ve always had slightly high blood pressure, but it's usually managed with medication. Nothing else, I think. Except… sometimes I get migraines, but not very often. Is that important?
+DOCTOR: Alright, past appendix removal, managed hypertension, and occasional migraines. And are you currently taking anything for your blood pressure?
+PATIENT: Yes, I am. I take Lisinopril, 20 milligrams, once a day. It’s… it’s usually pretty good at keeping things under control. My family doctor checks it regularly. I haven't changed the dose recently, or anything like that.
+DOCTOR: Okay, Lisinopril 20mg daily. Good. Any allergies to medications, food, or anything else?
+PATIENT: No, not that I know of. I've never had a reaction to anything, thankfully. My parents always said I was a pretty sturdy baby, and I guess that stuck. I haven’t had any issues with allergies, food or medicine or anything like that. Does that matter?
+DOCTOR: It’s good to rule things out, Ms. Heidenthal. Now, let’s talk about your family. Is there any history of memory problems, dementia, or anything neurological in your family?
+PATIENT: Oh, um… that's a tough one. My grandmother, on my mother's side… she got quite forgetful towards the end of her life, but we just thought it was old age, you know? She lived to be 95. I don't think anyone else… my mother was pretty sharp until the very end, and my father… well, he passed away pretty young, so I don't really know. No, I don't think so, not really. I don’t recall anyone specifically diagnosed with dementia or anything like that.
+DOCTOR: Alright. And finally, do you drink alcohol, smoke, or use any recreational drugs?
+PATIENT: Oh, no, not at all. I don't drink much alcohol, maybe a glass of wine with dinner occasionally. And I've never smoked a day in my life. I certainly don’t use any recreational drugs. I try to keep pretty healthy, really. A dentist trying to stay healthy, you know? It’s a good look.
+DOCTOR: Alright, Ms. Heidenthal. We’ve covered a lot. Now, I’d like to do a brief neurological exam. It’s just some simple tests to assess your memory, balance, and reflexes. Is that alright?
+PATIENT: Yes, that sounds… fine. Whatever you think is best, Doctor. I trust your judgment. Just… I hope it's nothing serious.
+DOCTOR: Alright. Let's start with a simple memory test. I'm going to say three words, and I want you to repeat them back to me. Then, I’ll ask you to remember them later. Are you ready?
+PATIENT: Yes, I’m ready. Go ahead.
+DOCTOR: Okay. The three words are: Apple, Table, Penny. Repeat them back to me.
+PATIENT: Apple, Table, Penny. I think I got them. Hopefully I didn’t mess that up!
+DOCTOR: Good. Now, let’s move on to something else. I want you to tell me today's date.
+PATIENT: Oh, um… today is… August 2nd… 2025, right? I think. Yes, August 2nd, 2025. Is that correct?
+DOCTOR: Correct. Now, can you tell me where we are right now?
+PATIENT: Oh. Um… this is Dr. Murtic’s office… I think. In the suburbs? It's a nice office, very clean. Is that what you wanted to know?
+DOCTOR: Alright. Let's see your reflexes now. Please sit back and relax.
+PATIENT: Okay, I’m sitting. Just… tell me what to do. I hope I don't mess this up too.
+DOCTOR: Alright. Good. Now, I'm going to ask you to perform a simple task. Can you draw a clock, showing the time as 10:10?
+PATIENT: Oh, a clock? Okay, um… let me see… Here, is this okay? It’s not very good, I haven’t drawn in ages…
+DOCTOR: Hmm. Alright. Ms. Heidenthal, based on this brief examination and what you've told me, I'm concerned about possible early cognitive decline. It's too early to make a definitive diagnosis, of course. We need to rule out other possibilities. I'm going to order some blood work to check for vitamin deficiencies, thyroid issues, and other underlying medical conditions that can affect cognitive function. I'd also like you to schedule an MRI of your brain to rule out any structural abnormalities. And finally, I'm referring you to a neurologist for a more comprehensive evaluation. Does that sound acceptable?
+PATIENT: Oh… oh dear. That… that sounds… a lot. MRI? Neurologist? Is it… is it bad? I mean, is it… Alzheimer’s? I just thought I was getting a little forgetful, you know? It’s… it’s quite a shock. What kind of blood work? And how long will it take to get the results?
+DOCTOR: .

@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Mr. Putney. My name is Dr. Reisig, and it’s a pleasure to meet you. Thank you for coming in today. Could you tell me what brings you in to see me?
+PATIENT: Morning, Doctor. Just need to get this life insurance thing done. They sent me here for an exam, that’s all. I’d like to get it over with if we could.
+DOCTOR: Certainly, Mr. Putney. A life insurance physical. We can absolutely get that done for you today. It will involve a review of your medical history and a standard physical exam. To start, let’s go over some questions about your health background. I see here you’re 49 years old. Is that correct?
+PATIENT: Yep, that’s right. Forty-nine. Turning fifty next year, if I’m still around.
+DOCTOR: That’s good to hear. And I see your height is listed as 174 centimeters and your weight as 97 kilograms. Is that also current?
+PATIENT: Uh, yeah, pretty close. Maybe a little bit more now, to be honest. Been enjoying my retirement a little too much, I guess.
+DOCTOR: That’s perfectly alright, Mr. Putney. It’s common to see some changes with lifestyle adjustments. We’ll get an accurate weight during the exam. Now, let’s talk about your medical history. Have you been diagnosed with any medical conditions – things like high blood pressure, diabetes, heart disease, or anything else?
+PATIENT: Not really. I had some trouble with my back a few years back, working on boats, but physical therapy helped. And my doctor said my cholesterol was a little high once, but he just told me to eat better. Nothing major, really.
+DOCTOR: Okay, so some back issues resolved with physical therapy, and a one-time elevated cholesterol reading that was addressed with dietary changes. That’s good information. Have you ever had any surgeries?
+PATIENT: Nope. Never been cut open. Lucky so far, I guess.
+DOCTOR: Excellent. And what about your family?
+PATIENT: Family… my mom, she had diabetes, later in life. And my dad… he had heart trouble, I think. Passed away when I was pretty young, so I don’t remember much about it. Lots of heart problems on his side of the family, I think.
+DOCTOR: Okay, so a history of diabetes in your mother and heart problems in your father and on his side of the family. That’s helpful to know. Now, thinking about your lifestyle, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Nah, never smoked a day in my life. A beer now and then, maybe on the weekend with friends, but that’s about it. And definitely no drugs.
+DOCTOR: Good to know. Finally, are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: Just a multivitamin, every now and then. That’s it. Nothing else.
+DOCTOR: Alright, Mr. Putney, thank you for that information. Now, let's move on to the physical exam. We’ll start with checking your vital signs – your blood pressure, heart rate, and temperature. Then I’ll listen to your heart and lungs, and take a look at your ears, nose, and throat. Is that alright with you?
+PATIENT: Sounds good, Doctor. Let’s get it done. The sooner I get this over with, the better.
+DOCTOR: Excellent. Let’s start with your blood pressure. Please relax your arm, and I’ll wrap the cuff around it. Just breathe normally. 138 over 82. A little elevated, but not significantly. We'll keep an eye on that. Now, let's listen to your heart. Breathe in and out deeply for me. Heart sounds are regular, no murmurs detected. Now, let’s listen to your lungs. Take some nice, deep breaths... in and out. Lungs are clear. Everything sounds good so far. Now I’m going to take a look in your ears and throat...
+PATIENT: Okay, sounds good.
+DOCTOR: Ears look clear, no signs of infection. Throat is clear as well. Alright, Mr. Putney, everything looks good so far. Now, I’m going to palpate your abdomen to check for any tenderness or abnormalities. Please let me know if anything feels uncomfortable. Any pain or discomfort here?
+PATIENT: Nope, that’s alright. Feels… normal, I guess.
+DOCTOR: Good. No tenderness or masses detected. Now, I’m going to check your reflexes. Just relax your legs. Reflexes are normal and equal bilaterally. Okay, Mr. Putney, that completes the physical exam. Everything appears to be within normal limits. However, to be thorough, I would like to order a basic metabolic panel and a lipid panel to check your kidney function, blood sugar, and cholesterol levels. Would that be alright with you?
+PATIENT: Yeah, sure. Whatever you think is best, Doctor. I just want to get this insurance sorted. A blood test is fine.
+DOCTOR: Excellent. I’ll write an order for those labs now. You can go to the lab just down the hall. They should be able to take care of you right away. Once the results are back, we’ll review them together. It usually takes a couple of days. Here's the requisition form. Do you have any questions about where to go or how the process works?
+PATIENT: Nope, I think I can find it. It's just down the hall, right? Alright, well, thanks, Doctor. I appreciate it. Hopefully, this is all I need for the insurance.
+DOCTOR: You’re very welcome, Mr. Putney. Yes, it’s just down the hall to the left. The lab technicians are very helpful if you have any questions. Once we have the results, we'll discuss them and I can complete the necessary paperwork for your life insurance application. In the meantime, if you experience any new symptoms or have any concerns, please don’t hesitate to call the clinic. Here’s my card. Have a good day, and I look forward to seeing you again when the results are back.
+PATIENT: Thanks again, Doctor. You too.

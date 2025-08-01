@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Sobkowicz. I am Dr. Yackey. Now, let's try to be efficient, shall we?
+PATIENT: Good morning. Yes, efficient is good. My chest… it feels funny. Like a bird flapping, sometimes. And my wife, she says my face is very red. She worries too much, but… it is true, I feel… strong beating.
+DOCTOR: “Funny,” is… not a particularly helpful descriptor, Mr. Sobkowicz. Can you elaborate?
+PATIENT: Elaborate? What does that mean? It feels like… thump-thump-thump, very fast. Not regular. Like it wants to jump out. And then… nothing. Then fast again. I don’t know… is this something serious? I have things to do, you know.
+DOCTOR: Alright. Let's try to establish a timeline. When did you first notice this “thump-thump-thump”?
+PATIENT: Timeline… hmm. Maybe… last week? No, before that. Maybe two weeks ago? After I fixed the fence. Yes, after the fence. It was hot that day. Very hot. I was sweating a lot. It started after.
+DOCTOR: And has this… erratic beating, as you describe it, been constant since then, or does it come and go?
+PATIENT: Come and go. Mostly when I… do something. Like climb the stairs. Or when I’m… upset. My grandson, he doesn’t listen. Makes my blood pressure go up, my wife says. It happens then, too. Not always when I'm upset, but… often.
+DOCTOR: Very well. And do you experience any other symptoms with this… palpitation?
+PATIENT: Symptoms? Like what? I… sometimes feel a little dizzy. And tired. But I am eighty-six years old! I am supposed to be tired. My wife says I get short of breath sometimes, but she always says things.
+DOCTOR: Alright. And have you ever been diagnosed with any heart conditions before?
+PATIENT: Heart conditions? No. Never. I have good Korean blood! My grandfather, he lived to be ninety! Strong man. No, doctor. Never. I just… feel old sometimes. Is this… dangerous? I need to go to the market later.
+DOCTOR: Let's just do a quick examination, Mr. Sobkowicz. We'll listen to your heart and lungs. Please lie back on the examination table. And please, try to relax.
+PATIENT: Relax? Easy for you to say. Fine. Just hurry, please. I have important things.
+DOCTOR: Your pulse is… somewhat rapid and irregular. I detect a mild murmur. Your lungs are clear, but breathing is a little shallow. Blood pressure is 150/90. Do you currently take any medications, Mr. Sobkowicz?
+PATIENT: Medications? Just… vitamins. My wife buys them. Fish oil, I think. And something for my knees. They ache. Not every day. She says it helps. That's all. I don’t like taking pills if I don't have to.
+DOCTOR: Alright. Given your age, symptoms, and the findings of this brief examination, I suspect atrial fibrillation. It’s a common arrhythmia. It could be nothing, but it requires further investigation to rule out more serious complications. I’m going to order an EKG and some bloodwork. The nurse will draw the blood now, and we’ll schedule the EKG for tomorrow. Do you understand?
+PATIENT: Arrhyth-what? Look, I just want to know if I can go to the market. Is this going to keep me from going to the market? And what does this bloodwork do? I don’t like needles. Can’t I just… take some rest? My wife always says rest is good.
+DOCTOR: Mr. Sobkowicz, the bloodwork will help us determine if there are any underlying issues contributing to this irregular heartbeat. As for the market, I cannot guarantee that you are fit for strenuous activity until we have the results of these tests. It would be… imprudent to risk it. The nurse will be in shortly. Please refrain from any heavy lifting or excessive exertion until further notice. Do you have any other questions… that are actually relevant?
+PATIENT: Relevant? I just want to go to the market! Fine. Fine. I’ll talk to my wife. She’ll worry. This is a waste of my time. And yours. Just… get it over with.
+DOCTOR: Very well. The nurse will be with you momentarily. I have documented everything. Please do not attempt to self-diagnose. .
+PATIENT: .

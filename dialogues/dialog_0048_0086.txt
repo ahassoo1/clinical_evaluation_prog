@@ -1,0 +1,18 @@
+DOCTOR: Right. Ms. Kovtun, is it?
+PATIENT: Yeah, that’s me. Look, I just need to know what the tests showed, if you don't mind getting straight to it? I’ve got a pretty tight schedule today.
+DOCTOR: Yes, well, efficiency is admirable, I suppose. Though a comprehensive understanding is usually… preferable. Regardless. You came in with complaints of fatigue and some… abdominal discomfort, if I recall correctly?
+PATIENT: Right. And dizziness sometimes. But honestly, it’s all just… tiring. Did anything show up on the tests? I remember they took a lot of blood.
+DOCTOR: Yes, a comprehensive metabolic panel, a complete blood count, and a… thyroid panel. Let’s see. Your CBC was… unremarkable, frankly. No significant anemia, white blood cell count within normal limits. The CMP… slightly elevated liver enzymes, but nothing alarming. And the thyroid… borderline low TSH.
+PATIENT: Borderline low… what was that again? TSH? Is that bad? I don’t really follow all this stuff. Is it why I’m feeling so wiped all the time?
+DOCTOR: TSH stands for thyroid-stimulating hormone. It’s… a measure of your thyroid function. “Borderline low” suggests your thyroid might be a little sluggish, producing insufficient hormone. It could be contributing to your fatigue, yes, but there are… many causes of fatigue. It’s rarely as simple as one thing. Have you had any recent stressors?
+PATIENT: Stressors? Uh… work’s been hectic, I guess. Logistics is always busy, especially with everything going on in the world. But who doesn't have stress, right? Is that enough to make your… thyroid… slow down? What does “slow down” even mean? Like, is it broken?
+DOCTOR: “Broken” is… not the appropriate terminology. The thyroid is an organ, not a machine. And yes, stress can sometimes disrupt hormonal balance. It's...complex. However, “sometimes” is the operative word. We need to rule out other possibilities. Do you have any family history of thyroid problems?
+PATIENT: Hmm. My grandmother, on my mom’s side… she had something. I think she was always cold, and gained a lot of weight. I don't remember exactly what it was, I was a kid. They gave her pills. Is that what you’re thinking? Could be thyroid?
+DOCTOR: Possibly. That could indicate Hashimoto’s thyroiditis, an autoimmune condition. It’s… fairly common. However, we cannot diagnose based on anecdotal family history alone. I’d like to run a few more specific tests to confirm. An anti-TPO antibody test, and perhaps a thyroglobulin antibody test. Also, let’s check your Vitamin D levels – deficiency can also cause fatigue.
+PATIENT: Okay, fine. More tests. Look, how long will these tests take? And will they make me feel even worse? I really need to get this sorted out. I’ve got shipments to manage.
+DOCTOR: The tests are relatively quick. A simple blood draw. As for making you feel worse... the blood draw itself might be a slight discomfort, but the tests themselves are non-invasive. The lab usually takes a couple of days to return the results. We can schedule a follow-up appointment to discuss them then. In the meantime, try to prioritize rest when you can, and maintain a balanced diet. It's… basic advice, but often overlooked. I'll have the nurse draw the blood now.
+PATIENT: Okay, yeah, sure. Whatever. Let’s just get it over with. Rest and balanced diet… I’ll try. But no promises. Just let me know when I can go. I’ve really got things to do.
+DOCTOR: Very well. The nurse will be with you shortly. I will review the results as soon as they are available, and we will schedule a follow-up. I don't want to keep you any longer than necessary.
+PATIENT: Alright. Thanks, I guess. I'll see you then. Hopefully, we'll have some answers.
+DOCTOR: Indeed. Let’s hope so. Have a… productive day, Ms. Kovtun.
+PATIENT: .

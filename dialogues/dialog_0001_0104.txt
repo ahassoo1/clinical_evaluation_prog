@@ -1,0 +1,15 @@
+DOCTOR: Alright, Ms. Ottaviani, have a seat. So, what brings you in today?
+PATIENT: Well, Doctor... Pehrson, is it? Honestly, I don't have a lot of time. My throat... it hurts. Has been for a bit now. Not sure why it hurts. Everything hurts these days, if I'm being truthful. But the throat... is bothersome.
+DOCTOR: Right, right. "Throat hurts." A bit vague, but alright. "A bit" is subjective, Ms. Ottaviani. Can you tell me when it started?
+PATIENT: When... oh dear. Honestly, Doctor, I do not keep track of such things. Sometime last week, I suppose? Or maybe the week before. It's all a blur, really. It wasn’t sudden, if that helps. Just… gradually worse. Is that… sufficient? I have things to do, you see.
+DOCTOR: "Gradually worse." Okay. And is it constantly sore, or does it come and go?
+PATIENT: Constantly. Mostly. When I swallow, definitely. And sometimes just… there. It’s not a pleasant sensation, I can assure you. I don’t understand why I have to explain this in so much detail. Is it not obvious I am in discomfort? Really.
+DOCTOR: Alright, alright. Any fever, cough, runny nose?
+PATIENT: Fever? No. I haven’t taken my temperature. Do I look like someone with a fever? And cough... a little, perhaps. Just a tickle. Old lady cough, you know. Everything’s always tickling these days. Runny nose… sometimes. Honestly, Doctor, I just want to know what I need to do to make it stop hurting. I don't have time for a list of every minor ailment.
+DOCTOR: Alright, Ms. Ottaviani. Let’s just get this over with. Open wide. Say “ah.”
+PATIENT: There. Happy? Honestly, sticking things in my mouth... it’s very uncouth. And I doubt that tells you anything useful. Can we be finished now? I have appointments.
+DOCTOR: Tongue’s a little… inflamed. No visible exudate. Lymph nodes… slightly enlarged. Alright, well, it looks like a mild case of pharyngitis. Probably viral.
+PATIENT: Phar-what-itis? Viral? Is that… serious? Look, Doctor, please speak plainly. I don’t have a medical degree. And “mild” doesn’t tell me anything. Does it require… injections? Antibiotics? I simply need to know what I have to do. Don’t bother with all the fancy terminology. Just… the solution.
+DOCTOR: It’s a sore throat, Ms. Ottaviani. Likely caused by a common virus. No, it doesn’t require injections. And antibiotics won't help a virus. Rest, fluids, gargle with warm salt water. Over-the-counter pain reliever if needed. It should clear up on its own in a few days. Is that…plain enough?
+PATIENT: Salt water? Really? I came to a doctor for salt water? Honestly, I could have asked my neighbor. This is a complete waste of my time. Fine. Salt water it is. But if it doesn't improve, I expect a full refund. And don’t expect me to return. Good day, Doctor. .
+DOCTOR: Whatever. Next patient. .

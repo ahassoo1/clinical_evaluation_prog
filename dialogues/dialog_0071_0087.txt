@@ -1,0 +1,21 @@
+DOCTOR: Good morning, Mr. Croonquist. Or… is it Early, if you prefer?
+PATIENT: Morning. Early is fine. Look, doc, if we could just get this lab work done, that’d be great. I haven't got all day, you understand? Things to do… things to do.
+DOCTOR: Yes, of course. I understand. We want to be efficient. Just to be sure, could you tell me what brings you in today?
+PATIENT: Like I said, lab work. The… the usual. I get it done every so often. Medicare sends me a notice, and then I come here. Honestly, I don't even remember what they're looking for. Something about… numbers? I just need the form filled out so I can get it over with.
+DOCTOR: Right, right. Numbers… Yes. Well, to make sure we’re on the same page, and to do things properly, could you tell me if anything specific prompted you to come in this time?
+PATIENT: Prompted…? Oh, goodness. You know, it's a blur. I think… I think the notice said it was time. Just a yearly thing, I reckon. They send it in August, usually. Look, I'm not a doctor, I just… show up. Is that alright? Can we just do the blood draw? It’s probably the same tests as always.
+DOCTOR: Of course, Mr. Croonquist. We can certainly do the blood draw. But just to be thorough, and because things can change, let me ask a few quick questions, alright?
+PATIENT: Alright, alright. Quick is good. I’ve got a… a thing I need to get to. Fire away. But don't expect detailed answers, I warn you. My memory’s… well, you’ve probably noticed.
+DOCTOR: Okay. First, have you been feeling generally well lately?
+PATIENT: Generally well…? Hmm. As well as can be expected, I suppose. I'm 73, you know. Things ache a little. I get tired easier. Nothing dramatic. No… collapses or anything. Just old. Is that good enough?
+DOCTOR: That's helpful, thank you. And have you noticed any changes in your appetite recently?
+PATIENT: Appetite…? Not really. I eat when I'm hungry, don't eat when I'm not. Sometimes I skip a meal. Sometimes I have two. I don’t keep a log, if that’s what you’re asking. It’s all pretty… normal. I like rice. Does that count?
+DOCTOR: Alright. And what about any trouble with… well, going to the bathroom?
+PATIENT: Oh. Now you’re asking personal questions. Look, doc… is this really necessary? I just want the lab work. I’m a private man. I haven’t got… problems. Not that I’m going to discuss with a stranger, anyway. Can we please move on?
+DOCTOR: Of course, Mr. Croonquist. I apologize. It’s standard procedure, and I didn’t mean to pry. We can absolutely move on. Just one more quick question, then we'll get you set up for the blood draw. Have you had any recent unintentional weight loss?
+PATIENT: Weight loss… hmm. I haven't been trying to lose weight. Maybe a pound or two? The clothes fit the same. I don’t weigh myself regularly, if that makes a difference. I just… haven’t noticed anything significant. Honestly, I’m more concerned about keeping weight on as I get older. Is that alright? Can we get this done now?
+DOCTOR: Yes, alright. We can get this done now. Just a standard blood draw, as you requested. I’ll order the panel Medicare usually requests. It includes a complete blood count, a metabolic panel, and a lipid panel. Does that sound correct?
+PATIENT: Sounds… fine. Whatever Medicare sends. I don’t understand those things anyway. Just… tell the person doing the drawing to be quick, alright? I don’t like needles. And try not to poke around too much. Just get it done. Please.
+DOCTOR: Of course, Mr. Croonquist. I’ll make a note of that. The phlebotomist is very skilled. I’ll let her know to be as quick and gentle as possible. Just head down the hall to room three, and she’ll get you right away. I’ll review the results as soon as they’re available.
+PATIENT: Good. Finally. Room three, you say? Alright. Thank you, doc. And please, don't bother me with the details. Just… let me know if something’s seriously wrong. Otherwise, I’ll see you… never, probably.
+DOCTOR: Alright. Have a good day, Mr. Croonquist. And we will contact you if anything concerning arises.

@@ -1,0 +1,27 @@
+DOCTOR: Right. Well, Mr. Bigger, let's get this over with. What brings you in today?
+PATIENT: Eh? What you say? Speak up, young lady. My ears ain’t what they used to be. Something about bringing me in? I came because they told me to come. Company insurance, you know. Make sure nobody gets sick from all that dust. I been working in those mines long enough.
+DOCTOR: Yes, yes, the insurance. Of course. So, you were told to come for a check-up… because of your work in the mines?
+PATIENT: That's right. Dust. Always dust. Years and years of it. They say it’s nothing now, but you never know, do you? Best to be sure. Though I feel fine, mind you. Strong as an ox, still! Used to carry twice my weight, I did.
+DOCTOR: Right. Well, “feeling fine” isn’t a diagnosis, Mr. Bigger. Let's go through some basics. Any coughing?
+PATIENT: Coughing? Sometimes. Who doesn’t cough? Old man cough, you know. Especially when the weather changes. Nothing to write home about. It’s not like I’m hacking up my lungs, if that’s what you mean.
+DOCTOR: And shortness of breath?
+PATIENT: Shortness of… what now? You talkin' funny, girl. Breath? Like, I run outta air? No. I can still climb stairs, still chop wood. Maybe a little puffin’ after, but who doesn’t?
+DOCTOR: Alright. And any chest pain?
+PATIENT: Chest pain? No! Why would I have chest pain? I ain’t weak! I work hard. Lifting, moving… all that. If I had chest pain, I wouldn’t be here talking to you, I’d be at the hospital!
+DOCTOR: Right. Any… wheezing?
+PATIENT: Wheez-ing? What kind of question is that? You think I sound like a kettle? No! I don’t wheeze! I talk normal, don’t I?
+DOCTOR: Okay, okay. Let's move on. Have you ever been diagnosed with anything?
+PATIENT: Diagnosed? Not that I remember. Old man doctor back home, he gave me some pills for my water once, but that was years ago. Just regular aches and pains, you know? Getting old. Nothing fancy.
+DOCTOR: And family history?
+PATIENT: Family history? Eh… my father, he lived to a good age. Farmer, strong man. Mother, she passed when I was young. Sickness, I think. Nothing special. Lots of us just… lived. Worked hard, then stopped. You want me to list every aunt and uncle?
+DOCTOR: No, that’s… fine. Do you smoke, or have you ever smoked?
+PATIENT: Smoke? Me? No! Never touched the stuff. Bad for you, you know. Ruined my brother-in-law, it did. No, sir. Clean living, mostly. Hard work and clean living.
+DOCTOR: Alright. Let's do a quick listen to your lungs, just to be thorough.
+PATIENT: Listen to my lungs? What for? I told you, I feel fine! But… alright. Go ahead. But don’t expect to hear anything.
+DOCTOR: Okay. Lungs are…clear. No wheezing, no crackles. A little diminished breath sounds at the bases, but that’s common for someone your age.
+PATIENT: Diminished…? What’s that mean? Sounding… less?
+DOCTOR: It means…normal for your age. Nothing to worry about. We’ll just document it. Given your report, and the examination, I think we’re good. Just keep an eye on things. If anything does change, you know, shortness of breath, persistent cough…come back.
+PATIENT: Hmph. See? Told you I was fine. Waste of my time, this whole thing. Company insurance… always gotta jump through hoops.
+DOCTOR: Right. Well, that’s all for today.
+PATIENT: Alright then. Thank you… I suppose. Though I don’t know what good it all was. And tell your company to stop wasting people’s time! .
+DOCTOR: .

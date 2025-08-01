@@ -1,0 +1,25 @@
+DOCTOR: Well, Mr. Pipolo, good morning. I’m Dr. Fourney. So, tell me, what brings you in to see me today?
+PATIENT: Dry eyes. That's why I'm here. Feels like sand... all the time. Makes it hard to see good when I'm workin'.
+DOCTOR: Dry eyes, alright. And you say it feels like sand… is that constant, or does it come and go?
+PATIENT: Most of the time. Worse when it's windy, you know? I work outside. Cement... dust everywhere. Not good.
+DOCTOR: Right, cement work. So, exposure to dust is a definite factor. Have you noticed any redness, discharge, or blurry vision along with the gritty feeling?
+PATIENT: Blurry...sometimes. Not all the time, but when I'm tired, for sure. Redness… I dunno. I don't look in the mirror much. Old man, don't need to fuss with that. Discharge? No, nothin' comin' out. Just… dry. Real dry.
+DOCTOR: Alright. And how long has this been going on, Mr. Pipolo?
+PATIENT: Oh... a long time. Years, I guess. It comes and goes. Gets worse in the summer, when the wind blows the dust around. I just thought it was the work. Didn't think I needed a doctor for dry eyes.
+DOCTOR: Well, it’s good you came in now. Chronic dry eyes can become more than just a nuisance, especially with your occupation. Do you wear any protective eyewear while working with cement?
+PATIENT: Eyewear? Sometimes. When I remember. It's hot, and they get foggy. Hard to see when they're all steamed up. Usually I just try to blink 'em clean. It's faster.
+DOCTOR: I see. And have you tried anything over-the-counter to help with the dryness?
+PATIENT: Nah. Never used nothin'. Never thought much 'bout it. Just figured I needed to blink more. Old-timers just deal with it, I guess. It's part of the job.
+DOCTOR: Alright, well, we’re going to take a closer look. I’m going to do a quick eye exam to assess how severe this dryness is. It won't take long. Just look straight ahead for me, please. I need to check your tear production.
+PATIENT: Tear production, huh? You ain't gonna poke my eyes, are ya? I don't like things near my eyes.
+DOCTOR: No, Mr. Pipolo, no poking. It's a very gentle test. I'm just going to place a small strip of paper near your lower eyelid to measure how much moisture your eyes are producing. It doesn't hurt. Trust me. Just relax and look straight ahead.
+PATIENT: Alright… alright. But be gentle now. My grandpa used to say a good pair of eyes was worth more than gold. Hurry up, if you can. I got things to do.
+DOCTOR: Okay, just relaxing… good. And now the other eye. Alright, that’s all. It appears your tear production is… quite low, Mr. Pipolo. Significantly lower than normal. It explains the dryness and irritation. I also see some mild inflammation when I examined your eyes with the light. It's not surprising, given the exposure to dust and the lack of protection. Do you have any allergies that you know of?
+PATIENT: Allergies? Not that I know of. Never been bothered by pollen or nothin'. I live way out in the country, not much pollen 'round here. Just dust and wind, mostly. And fish. I like fish. Does that count?
+DOCTOR: No, Mr. Pipolo, fish doesn’t count as an allergy. Alright. So, no known allergies. Given your occupation, the chronic dryness, and the low tear production, it's likely you have a case of chronic dry eye disease, exacerbated by environmental factors. It's not an emergency, but it is something we need to manage to prevent further irritation and potential damage to your corneas.
+PATIENT: Corneas? Is that bad? Look, doc, I just want somethin' to make my eyes stop feelin' like sandpaper. I ain't got time for fancy words or long treatments. I got cement to pour.
+DOCTOR: Corneal damage can lead to blurry vision and discomfort, Mr. Pipolo, which is why we're addressing this now. Look, I understand you need to get back to work. I’m going to prescribe you some artificial tears – a good quality, preservative-free brand. Use them frequently – several times a day, even when your eyes don’t feel dry. And I strongly recommend you start wearing protective eyewear when working with cement. Safety glasses, goggles… anything to shield your eyes from the dust. Are you following me?
+PATIENT: Yeah, yeah, I'm followin'. Drops and glasses. Got it. How much for the drops? And can I get 'em here? I ain't drivin' all over creation for somethin' for my eyes.
+DOCTOR: The drops are… about $25. We do have them at the clinic pharmacy. I’ll send the prescription over there now. And Mr. Pipolo, I also want you to understand that this is not a one-time fix. You need to be diligent about using the drops and protecting your eyes, or the problem will only get worse. Do you have any questions for me before I write up the prescription?
+PATIENT: Twenty-five dollars... Alright, alright. No questions. Just write it up. And tell 'em to hurry. I got work to do. Thank ya, doc. I guess. .
+DOCTOR: The pharmacy is just around the corner. They'll call you when it's ready. Mr. Pipolo, if your eyes worsen – increased pain, blurry vision that doesn’t improve, or any discharge – you need to seek immediate medical attention! Don't just ignore it. .

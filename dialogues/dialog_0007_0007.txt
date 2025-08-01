@@ -1,0 +1,31 @@
+DOCTOR: Hi Lakiya, good to meet you. I'm Dr. Hernandez. So, what brings you in today?
+PATIENT: Good day, Doctor Hernandez. My back…it is painful. I would like to be quick, if possible.
+DOCTOR: Okay, I understand. We’ll try to be as efficient as we can. “Painful” is pretty broad, though. Can you tell me a little more about it?
+PATIENT: Yes. It is…a dull ache, mostly. It started about a week ago, after I was working on a particularly difficult stretch of fence. Lots of lifting and bending. It hurts when I stand for too long, and when I try to lift anything heavy. It does not…shoot pain, just a constant ache.
+DOCTOR: Alright, a dull ache after fence work – that gives me a good starting point. And it's been about a week now. Does anything relieve the pain at all?
+PATIENT: Sitting helps some. And…when I take those white pills, the ones the pharmacy gives me, they take the edge off for a few hours. I do not know what they are, exactly. Just white pills. My Medicare pays for them.
+DOCTOR: Okay, sitting and those white pills are helping a bit. We should figure out what those pills are for documentation’s sake. Do you happen to have the bottle with you?
+PATIENT: No, Doctor. I left it at home. I did not think to bring it. It is a small, orange bottle…with a label, of course. I can bring it next time, if needed. I just…I hoped to find some relief today. The work…it is hard to do when my back feels this way.
+DOCTOR: No problem at all, we can certainly try to get you some relief today. Since you don't have the bottle with you, do you remember anything else about the pills?
+PATIENT: They are small, round. And white, like I said. I think…there might be numbers on them. A “5” perhaps? It is hard to recall exactly. I am not good with remembering things like that. Though I remember the fence very well. And the ache.
+DOCTOR: Okay, small, round, white pills, potentially with a "5" on them. That helps narrow it down. And fence work as the trigger. Let’s move on to a quick physical exam, if that’s alright with you?
+PATIENT: Yes, that is fine. Whatever is quickest to determine what is wrong. I have other work to get back to, as soon as possible.
+DOCTOR: Great. If you could just lie down for me, face up?
+PATIENT: Yes. This is…quite hard. My bones ache a little even lying still.
+DOCTOR: Okay. I'm going to gently palpate your spine and the muscles around it. Please let me know immediately if anything is particularly painful. How does this feel right here?
+PATIENT: Ow. Yes. There. That spot…it is tender. It feels…tight. And sore. Not a sharp pain, but…uncomfortable. A dull ache, like the rest of it, but more focused there.
+DOCTOR: Okay, tenderness and tightness in the lumbar region – that’s consistent with a muscle strain. And it seems to be the most sensitive point. Any pain or tenderness on this side?
+PATIENT: A little, yes. More…a tightness. Not as bad as the spot directly on the spine, but…uncomfortable. It feels like a knot, almost. A hard lump under the skin.
+DOCTOR: Alright, tenderness directly over the lumbar spine and tightness with a possible knot on the right side. Okay, can you slowly sit up for me?
+PATIENT: There. That was…not easy. It feels stiff. Like it will not bend. And…a little bit of pain when I move. Not terrible, but…present.
+DOCTOR: Okay, stiffness with movement. Could you slowly bend forward and try to touch your toes?
+PATIENT: No. I cannot reach my toes. It…it hurts too much to bend that far. My back protests. It feels like something is blocking me. A hard knot. And…a pulling sensation.
+DOCTOR: Okay, limited range of motion and the pulling sensation you're describing. Based on what you’ve told me and the quick exam, it sounds like you’ve likely strained the muscles in your lower back during the fence work. It’s not surprising, given the lifting and bending involved. Do you have any other symptoms?
+PATIENT: No, Doctor. Just the ache and the stiffness. No numbness, no tingling…nothing else. It is mostly just unpleasant and makes it hard to work. I need to work. The bills…they do not pay themselves.
+DOCTOR: Okay, no numbness or tingling – that's good. Given your description, and the lack of neurological symptoms, it seems to be a straightforward muscle strain. We can try some conservative management for now. I recommend over-the-counter pain relievers—ibuprofen or naproxen—and applying ice packs for 20 minutes at a time, several times a day. Gentle stretching can also help, but don’t push yourself too hard. Do you have any allergies to medications?
+PATIENT: No, Doctor. No allergies. Just…a dislike of being still. And a need to get back to work. Do I need a strong pill? Something to make it go away quickly?
+DOCTOR: I understand your need to get back to work and wanting quick relief. However, stronger pain medication isn't usually the first course of action for a muscle strain, as it can have side effects and doesn't address the underlying problem. We can start with the over-the-counter options and see how you respond. I can also write you a work note excusing you from heavy lifting for a few days. If the pain doesn't improve within a week or gets worse, we can consider further evaluation, possibly an X-ray, and potentially a referral to physical therapy. Would you like a work note?
+PATIENT: Yes, please. A work note would be most helpful. And…if the white pills do not help, I will come back. Thank you, Doctor. I appreciate your time.
+DOCTOR: Okay, absolutely. Here's the note excusing you from heavy lifting for five days. And please, don’t hesitate to come back if the pain doesn’t improve or worsens. We're here to help. Do you have any questions for me before you go?
+PATIENT: No, Doctor. I think that covers it. Thank you again for your time. I will try the white pills and rest. Hopefully, it will be enough. .
+DOCTOR: .

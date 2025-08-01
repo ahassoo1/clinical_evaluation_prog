@@ -1,0 +1,28 @@
+DOCTOR: Right, Mr. Pithan. So, what brings you in today?
+PATIENT: Well, Doc, it's this cough. Been hangin' on for… a long time now. And I'm just tired all the time. Seems like I get a sinus infection every other month, too. It’s gettin’ old, honestly.
+DOCTOR: A long time… could you be a bit more specific?
+PATIENT: Hmm. Let me think… maybe six months, at least? Started kinda mild, just a little tickle. Now it's… well, productive, like you said on the paperwork. Lots of… stuff comin' up. And the tiredness… it’s not just bein’ old, Doc. I used to be able to get a lot more done.
+DOCTOR: Six months… alright. And this “stuff” – what color is it, generally?
+PATIENT: Usually clear, or white. Sometimes it's a little yellowish, especially when the sinus infection is bad. It ain’t… green or anything, if that matters. Just feels awful, Doc. Really awful. I try to tough it out, but… it’s wearin’ me down.
+DOCTOR: No blood, then?
+PATIENT: No, no blood. Never seen any blood. Just… mucus. Lots and lots of it. Look, I don't mean to complain, but it’s just… constant. And like I said, the fatigue is really gettin’ to me. Hard to even get through a shift at work sometimes.
+DOCTOR: Alright. And what sort of work do you do, Mr. Pithan?
+PATIENT: I work at the food processing plant. Just… general stuff. Packin’, sortin’, cleanin’… you know. It's not glamorous, but it pays the bills. It’s kinda dusty in there, though. Always is. Been doin’ it for… oh, twenty years now, give or take.
+DOCTOR: Twenty years… I see. And have you noticed anything that makes the cough worse?
+PATIENT: Well, bein' in the plant definitely doesn't help. The dust, the cold air… that'll set it off for sure. Layin' down at night, too. Seems to get worse when I’m horizontal. And… honestly? Not much seems to make it better. Tried some over-the-counter stuff, but it just doesn't touch it.
+DOCTOR: Any fever, chills, or night sweats accompanying this cough?
+PATIENT: Not really. I might get a little warm sometimes, but I wouldn't call it a fever. No chills, and definitely no night sweats. Just tired. Really, really tired. And this cough, always this cough. It's gettin’ to the point where I don’t even bother tryin’ to sleep sometimes.
+DOCTOR: Alright. And do you smoke, or have you smoked in the past?
+PATIENT: No, never smoked. Never even tried it, to be honest. My mother… she had some problems with it, so I always stayed away. Always been a clean livin’ kinda guy, besides this cough. This is a new thing, Doc, I swear.
+DOCTOR: Alright, Mr. Pithan. I'm going to listen to your lungs and check your sinuses. Could you sit up for me?
+PATIENT: Sure, Doc. Whatever you need. Just let me know if it's gonna be uncomfortable.
+DOCTOR: Alright. Take a deep breath for me… and exhale slowly. Good. Again… deeper breath. Okay… and one more. Now, let me check your sinuses. Any tenderness here?
+PATIENT: Yeah, a little on my cheeks, actually. Right here, on both sides. It’s not sharp pain, just… pressure. Like they’re stuffed up. Which, you know, they are. Feels worse when I bend over, too.
+DOCTOR: Alright. Lungs are clear to auscultation bilaterally, though there’s some tenderness to palpation over the maxillary sinuses. It sounds like you’ve got a fair bit of congestion. This is likely a chronic sinus infection, complicated by some postnasal drip. It's irritating your lungs. We can try a course of antibiotics.
+PATIENT: Antibiotics, huh? Will that… will that take care of the cough too, Doc? Or is that somethin’ else I gotta deal with? I just wanna get back to feelin’ normal, you know? This tiredness is killin’ me.
+DOCTOR: The antibiotics should help with the underlying infection, which should reduce the cough. However, given the duration, we may also need to consider some allergy testing to rule out environmental triggers at work. I'll write you a prescription for amoxicillin. Take it as directed, and if it doesn't improve within a week, we’ll schedule you in for a pulmonary function test and allergy referral. Is that acceptable?
+PATIENT: Yeah, that sounds… okay, I guess. A week… alright. If it don't get better, we'll do the tests. I just hope it works, Doc. I'm tired of feelin' like this. So, you think the dust at work is the main culprit? Should I… try to get a different job? It’s not easy, you know?
+DOCTOR: It's a possibility. While I can't definitively say the dust is the sole cause, it's certainly a contributing factor. I recommend you discuss the situation with your employer to explore potential solutions, like improved ventilation or protective equipment. I can provide a note outlining your condition, if that would be helpful. However, let’s see how the antibiotics work first. Don't make any drastic changes just yet. I'll send the prescription to your pharmacy, and the nurse will give you discharge instructions. Any other concerns?
+PATIENT: No, I guess not. Just… try the pills and see what happens, right? I appreciate you takin’ the time, Doc. And the note for work would be good, if it ain’t too much trouble. Hopefully, this’ll finally get rid of this cough.
+DOCTOR: Alright. The nurse will have the note for you before you leave. She’ll also go over the potential side effects of the antibiotics. I expect you to complete the full course, even if you feel better before it’s finished. And try to minimize your exposure to dust at work if possible. That's all, Mr. Pithan. I have other patients waiting. You can head to the front desk now.
+PATIENT: Okay, Doc. I will. Thanks again.

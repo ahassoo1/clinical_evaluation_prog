@@ -1,0 +1,25 @@
+DOCTOR: Right, Mikeisha Boham. Have a seat. So, what brings you in today?
+PATIENT: Good day to you, Doctor. It is... my sinuses, I think. They feel... not good. Like a lot of pressure. It has been a few weeks, maybe? I am not so good with remembering dates, I apologize.
+DOCTOR: A few weeks, alright. Well, “not good” isn’t very helpful, is it?
+PATIENT: You are right, Doctor. My apologies again. It feels… full. And sometimes it hurts, like behind my eyes and in my forehead. Like a heavy weight. It is difficult to explain. Is that… okay?
+DOCTOR: Okay, okay. Pressure, fullness, headache behind the eyes and in the forehead. And for how long exactly?
+PATIENT: Hmm... maybe three weeks, Doctor? Or four? It started… after a very big rain, I believe. We had a lot of water, and the wind was strong. I was working, you see, with the drill... outside. It has been bothering me more and more since then. Does that… help?
+DOCTOR: Working outside with a drill… in the rain. Right. And any other symptoms?
+PATIENT: Sometimes… my nose feels blocked. And I think… maybe I cough a little. Not much, but a small cough. And… I am always tired. But I work very hard, so maybe that is just from that? I do not know. It is hard to say.
+DOCTOR: Alright. Blocked nose, a little cough, and fatigue. And are you running a fever, or have you noticed any chills?
+PATIENT: No, Doctor. No fever that I know of. And no chills. I feel warm sometimes, from the work, but not cold. I check myself often, you see. My husband, he worries. I try to be careful.
+DOCTOR: And any pain anywhere else?
+PATIENT: Sometimes… my teeth hurt. But I think that is from grinding them when I sleep. My husband says I do it. And my neck… feels stiff, sometimes. But that is also from the work, I think. It is very physical, you see, the drilling. A lot of bending and turning. I am not sure if that is what you are asking about.
+DOCTOR: Alright. Well, let’s have a quick look, shall we?
+PATIENT: Yes, Doctor. That is good. Whatever you think is best. I trust your judgement. Please, do what you need to do.
+DOCTOR: Alright. Open your mouth for me… ah. And look straight ahead. Throat looks a little red, but nothing dramatic. Ears seem clear. Lungs are… a bit congested, but not wheezing. Blood pressure is 110 over 70. Pulse is 72. So, it sounds like you've got a bit of a sinus infection, possibly with some mild bronchitis. Has anything like this happened before?
+PATIENT: Sinus… infection? Bron… something? I do not know, Doctor. I have been sick before, of course. But I do not remember ever being told those words. I get colds sometimes, and my head feels full, like this. But it always goes away on its own. My husband, he gives me tea and lets me rest. It is usually enough. Does that… make sense?
+DOCTOR: Right. Well, this seems to be lasting a bit longer than a simple cold. I'm going to prescribe you an antibiotic to clear up the infection. It's a 10-day course. Take it with food, twice a day. Also, I recommend a decongestant – you can get something over-the-counter. And plenty of fluids, of course. Does that sound alright?
+PATIENT: Antibiotic… a pill? For ten days? And… another medicine, from the store? Twice a day… with food. I think I can do that. But… what if it makes me feel sick? I need to work, Doctor. My husband, he needs me. Will it make me too tired to do my job? I am sorry, I just… I worry.
+DOCTOR: Look, it's a standard antibiotic. Some people experience mild nausea, but it's usually temporary. It's far more important to get rid of the infection. If you're truly concerned, you can take it with food, and if it makes you very sick, stop taking it and call the office. But honestly, I think you're worrying unnecessarily. You need to take care of yourself. Do you understand the instructions?
+PATIENT: I… think so. A pill, ten days, with food. If I feel very bad, I should stop it. And call. I… I will try my best, Doctor. It is just… everything feels so complicated. And I do not want to disappoint my husband, or my work. I am sorry to ask so many questions.
+DOCTOR: Alright. Here’s the prescription. Take it to the pharmacy. And try not to worry so much. A little rest and some medication should have you feeling better in no time. Now, do you have any other concerns?
+PATIENT: No, Doctor. I think that is all. Thank you for your time, and for your help. I will try to follow your instructions, and I will call if I have problems. May I… ask what the name of the medicine is? Just so I know what to look for. And… will it cost very much? My husband, he worries about money.
+DOCTOR: It’s amoxicillin. As for the cost… I honestly have no idea. Prices vary at different pharmacies. You'll have to ask at the counter. Look, I’m a doctor, not a financial advisor. Now, is there anything else?
+PATIENT: Amoxicillin… I will remember that. And… I understand, Doctor. You are a doctor. I apologize for asking about the money. I just… I wanted to be prepared. No, that is all. Thank you again for everything. I will go to the pharmacy now. Have a good day, Doctor.
+DOCTOR: Alright. You too. Get well soon. .

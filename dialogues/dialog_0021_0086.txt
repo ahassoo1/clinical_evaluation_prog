@@ -1,0 +1,13 @@
+DOCTOR: Alright, so… what brings you in today, Kahrin?
+PATIENT: Just the results, please. I was told they'd be ready today. I’ve got a pretty tight schedule.
+DOCTOR: Yes, alright. Well, the results are… back. Let’s see. You wanted these specifically, right?
+PATIENT: Yes, that's right. Just tell me what they say. No need to explain everything, just the main points.
+DOCTOR: Okay. Your complete blood count is… within normal limits. Your metabolic panel is also generally unremarkable, though your Vitamin D is a bit low. And the thyroid panel came back…fine. Honestly, everything looks pretty normal. It’s a bit… frustrating when things are normal, you know?
+PATIENT: Frustrating? Why? Is that…bad? I just wanted to know if something was wrong, not a whole explanation about why being healthy is annoying. What does “low Vitamin D” even mean?
+DOCTOR: Look, it's not bad, exactly. Just... sometimes people expect something dramatic. Low Vitamin D is…common. It means your body isn't absorbing enough of it. It can cause fatigue, muscle weakness, things like that. But it’s easily fixed. You spend too much time indoors, probably. Or don't get enough sun. It's really not a big deal.
+PATIENT: I work in logistics. I'm always running around, loading and unloading stuff. Indoors and outdoors. It’s not like I sit at a desk all day. So, what do I do about it? Do I need a prescription, or…what? I really don’t have time for a whole thing.
+DOCTOR: Well, of course you're running around. Everyone runs around. It doesn’t mean your body is absorbing the Vitamin D. Look, I can write you a prescription for a high-dose supplement, if you want. It’s the quickest way. Otherwise, you could try over-the-counter options, eat more…fish, I guess. It’s not a life-or-death situation, alright?
+PATIENT: A prescription is fine. Just…get it done. The less time I spend here, the better. And…is that everything? Is there anything else I need to worry about?
+DOCTOR: Yes, yes. That's it. Honestly, you’re perfectly healthy. A little low on Vitamin D, but we're fixing that. Take this prescription to your pharmacy, take the supplement as directed. Don’t overthink it. I've got other patients waiting, alright?
+PATIENT: Okay. Fine. Thanks. .
+DOCTOR: .

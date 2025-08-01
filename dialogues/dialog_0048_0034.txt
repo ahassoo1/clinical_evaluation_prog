@@ -1,0 +1,32 @@
+DOCTOR: Right. Emileigh Bonck, 21 years old. So, what brings you in today?
+PATIENT: Um... hi. It's... well, I just moved here. And I need to, like, get set up with a doctor, I guess? My husband said I should. He worries a lot. I think it's for… Medicare? He handled all the paperwork.
+DOCTOR: Medicare, yes. And you're establishing care. Very good. While I appreciate your husband’s… attentiveness, I do need you to tell me if there’s anything specific bothering you right now. A check-up is fine, but is there a reason you scheduled it today, or are we just doing a general wellness exam?
+PATIENT: Oh. Right. Sorry. Um... honestly? Not really anything bothering me. I feel okay, I think. I mean, I get tired sometimes, but... doesn’t everyone? I just... wanted to make sure everything was okay. Like, get a once-over, you know? It’s been a while since I saw a doctor, back home things were… different.
+DOCTOR: “Different” isn’t a diagnosis, Ms. Bonck. Alright. No specific complaints. Recent move. General check-up. Fine. Let's start with a basic history. Have you had any significant medical problems in the past?
+PATIENT: Um... significant? I don't… I don't really remember. I was a kid when… something happened with my ear, I think? Lots of infections? And… I broke my arm once, falling out of a tree. But nothing big. I don’t think so. It’s hard to remember… things.
+DOCTOR: Ear infections as a child, broken arm. Noted. Any surgeries?
+PATIENT: Surgeries…? I… don’t think so. No. I’m pretty sure I haven’t had any surgeries. My mom would have told me. She always told me everything. Unless… wait. Was that… when I was really little? I’m so bad with dates… maybe tonsils? I think I had my tonsils out. But I really don’t remember.
+DOCTOR: Possibly tonsillectomy. We can look into that. Family history – are your parents, siblings, or close relatives healthy?
+PATIENT: Um… my mom is okay, I think. She’s… older. She lives back home. And my brother… he’s healthy too, I think. He works on boats, so he's always busy. My dad… He passed away a long time ago. When I was little. I don’t really remember much about his health… it was a long time ago. Sorry. I’m not very good at this.
+DOCTOR: Alright. Deceased father, healthy mother and brother. Social history – do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No! No smoking. Never. And... I don't really drink. Maybe a little wine sometimes with dinner, but not much. And definitely no drugs. Never done those, never will. My husband wouldn't like that.
+DOCTOR: Good. Allergies?
+PATIENT: Um… I think… dust? Maybe? I sneeze sometimes. And… I get itchy when I’m around cats. Not bad itchy, just… annoying. I’m not really allergic, I think. I just prefer to stay away from them.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: No. Nothing at all. I don’t really like taking pills. I get… nervous. Just vitamins sometimes, but that’s it. My husband gets them for me. Multivitamins, I think? It’s a little orange chewable thing.
+DOCTOR: Okay. Let’s do a quick physical exam. Just standard check-up things – blood pressure, heart, lungs, abdomen. Nothing to worry about. Please have a seat on the examination table.
+PATIENT: Okay. Sounds good. Just… let me know if I need to do anything special? I don't want to mess it up.
+DOCTOR: Just relax. I’ll tell you what I’m doing as I go. First, blood pressure.
+PATIENT: Okay. It feels a little tight… is that normal?
+DOCTOR: Perfectly normal. 130 over 80. Slightly elevated, but not alarming. Now, let’s listen to your heart and lungs. Deep breaths, please. In and out.
+PATIENT: In… out… in… out… Is that okay? Am I doing it right? It feels a little weird…<
+DOCTOR: Normal heart sounds. Lungs are clear. Any pain or tenderness here?
+PATIENT: No… no pain. Just… feels a little funny sometimes, after I eat. Like… full. But not painful. Just… uncomfortable. Is that bad?
+DOCTOR: Not necessarily. Could be indigestion. Alright. I'll check your reflexes now. Just relax your leg.
+PATIENT: Okay. Is it going to hurt? I don't like surprises…<
+DOCTOR: Normal reflexes. Everything appears within normal limits. A bit of a check-up is always good. Your weight is a concern, but we can talk about that later. We'll run some routine blood work just to be on the safe side. Cholesterol, blood sugar, complete blood count. Standard stuff.
+PATIENT: Okay. Blood work… that’s okay. I don’t mind that. Is it going to hurt? And… about my weight… my husband says I need to eat less cake… But it’s so good…
+DOCTOR: The blood draw is a quick pinch. Minimal discomfort. And yes, your husband is… partially correct. We can discuss dietary changes with the nutritionist if you like. But first, let’s get these blood tests done. The lab is just down the hall. I’ll send the order over electronically. Then, we’ll schedule a follow-up appointment to discuss the results. Does that sound acceptable?
+PATIENT: Okay. Yes, that sounds good. Follow-up… and the nutritionist… Okay. Just… let me know if I need to do anything to prepare for the blood work? Like… not eat anything? Or drink water? I always forget these things…<
+DOCTOR: Fasting for eight hours. No food or sugary drinks. Water is fine. The lab will give you more detailed instructions. And please, Ms. Bonck, try to remember this. We have other patients waiting. Here's a requisition form for the lab. Now, if you'll excuse me... I have other appointments to attend to. Please go to the lab and schedule your follow-up when you're finished. .
+PATIENT: Okay. Thank you. I’ll… I’ll try to remember. Bye. .

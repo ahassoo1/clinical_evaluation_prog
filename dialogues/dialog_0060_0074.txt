@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Ms. Steines. Welcome to the clinic. I’m Dr. Noordin. So, what brings you in to see me today?
+PATIENT: Mornin’ to you, Doctor. Just…the pressure, I reckon. Been a little high lately, my daughter said I ought to get it checked. She worries.
+DOCTOR: Right, high blood pressure. It's good of your daughter to encourage you to come in. We want to get this sorted. Now, when you say "lately," about how long have you been noticing this pressure, or your daughter noticing it for you?
+PATIENT: Oh, goodness. A couple months now, I suppose. Maybe three? It’s hard to keep track when you get to be my age. I just feel…more tired than usual, and a little dizzy sometimes. Not all the time, just now and then.
+DOCTOR: Alright, a couple of months with increased fatigue and occasional dizziness. And is this dizziness constant, or does it happen with certain movements, like standing up quickly?
+PATIENT: Mostly when I stand up too fast, I think. Or if I bend over to pick somethin’ up. Not when I’m just sittin’ or lyin’ down. I bake a lot, you know? Lots of bendin’ and reachin’.
+DOCTOR: Bending and reaching… I see. And has this been interfering with your baking at all, or other activities?
+PATIENT: Well, it makes me slow down, that's for sure. Used to be I could whip up a dozen pies before noon. Now I gotta take more breaks. And sometimes my hands get a little shaky, which ain’t good for pie crusts!
+DOCTOR: Right. Shaky hands… Now, have you noticed any changes in your vision lately?
+PATIENT: Vision? Hmm…not really. Everything looks a little blurry sometimes, but I always figured that was just my eyes gettin’ old. I haven’t had ‘em checked in…oh, goodness, I don’t even remember. Probably ten years? More?
+DOCTOR: Okay. And do you have any chest pain, shortness of breath, or swelling in your ankles or feet?
+PATIENT: No chest pain, no. Breathin’s alright. My ankles…well, they swell a little at the end of the day, but I always thought that was just from standin’ so much. It’s hot out, too, y’know?
+DOCTOR: Alright. Let's get a better picture of your overall health. Have you been diagnosed with any medical conditions in the past – things like diabetes, heart problems, kidney disease, or anything else?
+PATIENT: Not that I know of. The doctor back home…passed away years ago. I haven’t really seen a doctor regularly since then. My daughter takes care of most of that now. She worries, like I said. Just the usual aches and pains of gettin’ old, mostly.
+DOCTOR: Okay. And have you ever had any surgeries or been hospitalized for anything?
+PATIENT: Let me think…Oh! When I was younger, I had my appendix taken out. That was…oh, sixty years ago, maybe more? And when I broke my wrist fallin’ off a horse, but that was a long time ago, too. No hospital stays besides that, not that I recall.
+DOCTOR: Alright. Now, are you currently taking any medications, including over-the-counter drugs, vitamins, or herbal supplements?
+PATIENT: Just a little somethin’ for my arthritis. It's… ibuprofen, I think? The white pills. My daughter gets it for me. And I take a multivitamin every day. That’s it.
+DOCTOR: Okay. Do you have any allergies to any medications, foods, or anything else?
+PATIENT: Nope. Never had allergies. Lucky that way.
+DOCTOR: Alright, Ms. Steines. Now I’d like to do a quick physical exam, just to get a better sense of what's going on. Is that alright with you?
+PATIENT: Yes, that’s fine. Get it over with, please.
+DOCTOR: Alright. If you’ll just sit up here. I’m going to listen to your heart and lungs, check your blood pressure, and do a quick neurological exam. Blood pressure is elevated, 160 over 95. Heart sounds are regular, but a bit faint. Lung sounds are clear bilaterally. Reflexes are slightly diminished. Balance is a little unsteady. I’m also going to feel your pulses in your feet. Pulses are weak but present. Some mild swelling in both ankles.
+PATIENT: Weak pulses…that doesn’t sound good, does it? I always get cold feet.
+DOCTOR: It’s something we need to investigate further. Based on your symptoms and the preliminary exam, it sounds like you may be dealing with a combination of issues. The elevated blood pressure is concerning, and the weak pulses, along with the dizziness and unsteady balance, could indicate issues with circulation. We need to run some tests to get a clearer picture. I’m going to order a complete blood count, a comprehensive metabolic panel, an EKG to check your heart function, and a lipid panel to assess your cholesterol levels. We'll also need to check your kidney function.
+PATIENT: Tests…lots of tests. Will this take long? I got pie dough to make.
+DOCTOR: The lab work should be relatively quick. I'll have the nurse draw blood after this consultation. It usually takes a few days to get the results back. We'll schedule a follow-up appointment once they're in to discuss them. In the meantime, I'm going to prescribe a low-dose blood pressure medication to help bring those numbers down. However, it’s essential you keep that follow-up appointment. Ignoring this won’t make the pie dough any easier to make, Ms. Steines. We need to rule out any serious underlying causes for these symptoms.
+PATIENT: Fine, fine. Whatever you say, Doctor. Just…get me back to my kitchen.
+DOCTOR: .

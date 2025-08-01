@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Mr. Putney. Welcome to the clinic. I'm Dr. Lahn. It’s nice to meet you. So, to start, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just… this life insurance thing. They need me to get checked out, that’s all. Want to get it over with quick if we can.
+DOCTOR: Okay, I understand. A life insurance physical. That’s perfectly reasonable. We can certainly work through this efficiently. To get started, could you tell me a little bit about your general health?
+PATIENT: General health… hmm. I’m okay, I guess. Work a lot. Lodging manager, you know? Keeps me on my feet. Not much time for… anything else, really. No big problems, haven’t been to the doctor in a while. Probably should, but… life gets in the way.
+DOCTOR: I hear you, Mr. Putney. Life does get in the way sometimes. It’s good you’re taking this step now. Just to be thorough, when was the last time you did see a doctor, even for a check-up?
+PATIENT: Uh… wow. Let me think. It’s been… a long time. Maybe… five years ago? For a bad cold. Before that… honestly, I don’t remember. It was before the divorce, definitely. So, longer than that. I really don’t keep track.
+DOCTOR: Okay, that’s helpful to know. And since it’s been a while, we’ll do a fairly comprehensive check-up today. Just to be safe. Now, have you been experiencing any specific symptoms lately?
+PATIENT: Symptoms? Not really. Tired, all the time. But that’s just the job, I think. Maybe a little… achy sometimes, in my back. But nothing I can’t work through. No coughing, no fever, no… anything serious.
+DOCTOR: Okay, fatigue and some back pain. And you said the back pain isn't severe enough to keep you from working?
+PATIENT: No, not at all. Just a little stiff after a long day. Ibuprofen helps. It's not… a worry. I just figured it was from lifting bags and stuff. You know, at the hotel.
+DOCTOR: Alright. And how about your diet?
+PATIENT: Diet… not great. I try, but it's hard. Lots of quick things. Sandwiches, takeout. Not enough fruits and vegetables, I guess. I drink a lot of coffee to stay awake, too. Sorry. I know it’s not ideal.
+DOCTOR: No need to apologize, Mr. Putney. It sounds like a typical busy schedule. Okay, and do you smoke, or use any tobacco products?
+PATIENT: No, never. Tried it once when I was a kid, didn’t like it. And no drinking, either. Not really into any of that.
+DOCTOR: Okay, good. That's helpful to know. Now, let's talk about your family history. Are there any significant medical conditions that run in your family?
+PATIENT: Hmm. My mom had… high blood pressure, I think. And her brother, my uncle, had something with his heart. But I don’t know much about it, honestly. We weren’t that close. And my dad… he was healthy as a horse until the end. So, not a lot to go on. Sorry again. I wish I knew more.
+DOCTOR: That’s perfectly alright, Mr. Putney. It’s common for families not to have detailed medical histories. We’ll work with what we have. Now, just to complete the picture, have you ever been diagnosed with any medical conditions yourself, like diabetes, asthma, or anything else?
+PATIENT: No, never. I've been pretty lucky, I guess. A few colds, like I said, but nothing serious. No asthma, no diabetes… never had any surgeries or anything like that. I just try to keep moving. I don’t like sitting still.
+DOCTOR: Okay, that's good to know. And are you currently taking any medications, including over-the-counter medications or supplements?
+PATIENT: Just the ibuprofen sometimes, for my back. And a multivitamin, every once in a while. But I forget a lot. It's not a regular thing. Nothing else. Really. I try to avoid taking pills if I can.
+DOCTOR: Alright, that gives me a good starting point. Now, I’d like to do a quick physical exam, just to check your vital signs and listen to your heart and lungs. Is that alright with you?
+PATIENT: Yeah, sure. Let’s get it over with. The sooner this is done, the better.
+DOCTOR: Absolutely. It won't take long. If you could just step onto the scale for me, please?
+PATIENT: Okay. There. Happy? Let’s just… get this done.
+DOCTOR: Alright, 97 kilograms. And your height is 174 centimeters, correct?
+PATIENT: Yeah, that sounds right. Always been a little on the bigger side. Now can we move on? I got things to do.
+DOCTOR: Absolutely. Just taking your blood pressure now. Relax your arm for me, if you can. 145 over 92. A little elevated. Now let's listen to your heart and lungs.
+PATIENT: Okay. Is that bad? Elevated? What does that mean? I don't like numbers.
+DOCTOR: Your heart sounds regular, but I do hear a slight murmur. It's not necessarily cause for alarm, but we’ll want to keep an eye on it. As for the blood pressure, 145/92 is a bit high. It could be due to stress or just a temporary elevation, but we'll need to monitor it over time. Your lungs are clear, which is good. Now, could you lie down on the examination table for me so I can listen to your abdomen and check your reflexes?
+PATIENT: Fine. Just… hurry, please? This is uncomfortable. And what does "monitor" mean? Do I have to come back here again?
+DOCTOR: Your abdomen is soft and non-tender. Reflexes are normal. "Monitor" means we might want to check your blood pressure again at a later date, maybe in a few weeks, just to see if it comes down on its own. And it doesn’t necessarily mean you’ll have to come back here, but it’s something we’ll discuss after we get some initial results. Now, one last quick thing, I'm going to listen to your carotid arteries in your neck. They sound clear. Alright, that completes the physical exam. Now, I’d like to order some blood work, including a complete blood count, a lipid panel to check your cholesterol, and a basic metabolic panel to check your kidney function. Does that sound alright?
+PATIENT: Yeah, okay. Whatever you need. Blood work is fine. Just… let me know when it’s done. I got a hotel to run. Can I go now?
+DOCTOR: Absolutely. I’m just printing out the lab order now. The lab is just down the hall, and they’ll be expecting you. They'll take a small blood sample from your arm. It should only take a few minutes. Here you go. They usually have pretty quick turnaround times, so we should have the results back in a few days. In the meantime, I'm going to make some notes and we can discuss the results and formulate a plan when they come back. Before you go, do you have any questions for me right now?
+PATIENT: No. No questions. Just… thank you. Let’s just hope it’s nothing. I gotta go. Really gotta go. .
+DOCTOR: Alright, Mr. Putney. You're very welcome. We'll be in touch as soon as the results are back. Don't hesitate to call the office if you have any concerns in the meantime. Have a good day. .

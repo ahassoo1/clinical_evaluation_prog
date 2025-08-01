@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Mr. Puder. I’m Dr. Yackey. So, to begin, what brings you in today?
+PATIENT: Good morning, Doctor. My heart... it feels funny sometimes. Like it's flapping, not beating normal. It started a few weeks ago, maybe a month. Not all the time, but enough to worry me.
+DOCTOR: “Flapping,” you say. Right. And how often would you estimate this… irregularity occurs?
+PATIENT: Hmm... maybe two, three times a week? Sometimes just for a few seconds, sometimes longer. Like… five minutes, maybe? Once it lasted longer, but I don’t remember exactly how long. It makes me feel tired, a little shaky. Not bad, just… not right.
+DOCTOR: Tired and shaky. And does anything specifically seem to bring it on?
+PATIENT: No, not really. I thought maybe when I drink coffee, but it happens even when I don’t. I work with… things for making stuff, you know? Chemicals. But it happens at home too. Just… comes and goes.
+DOCTOR: Chemicals, you say. And what sort of chemicals, Mr. Puder?
+PATIENT: Uh… lots of different ones. For cleaning things, and making… I don’t know the names. My boss tells me what to use. Big tanks, pipes… We make parts for cars, I think. It's hard work, but it's work. I wear gloves and a mask, always.
+DOCTOR: Right. And have you experienced any other symptoms alongside this… fluttering?
+PATIENT: Like what kind of symptoms? I… sometimes feel a little short of breath, but I smoke, so maybe that. And sometimes my chest feels tight, but again, could be the smoking. I don't know.
+DOCTOR: Smoking, yes. And you said short of breath and chest tightness. Are these symptoms occurring at the same time as the heart fluttering, or are they separate occurrences?
+PATIENT: Sometimes together, sometimes not. When the heart feels funny, then I feel the chest tight. But sometimes the chest is tight even when the heart is okay. It’s hard to explain. It all feels… mixed up.
+DOCTOR: "Mixed up," I see. And has anything like this ever happened before, Mr. Puder?
+PATIENT: No, never. This is… new. I’ve always been healthy, I think. A little tired from work, but nothing like this. My wife, she’s worried, that’s why I came. She said I need to see a doctor. She’s right, of course.
+DOCTOR: Very well. Let’s proceed with a quick physical examination. I’d like to listen to your heart and lungs, and check your blood pressure. Please lie back on the examination table.
+PATIENT: Okay, sure. No problem.
+DOCTOR: Heart rate is a bit elevated, 98 beats per minute, and somewhat irregular. Lungs are clear to auscultation bilaterally, although he does have a slightly diminished breath sound in the bases. Blood pressure is 135/85. We'll need to run some tests, Mr. Puder. An EKG, and a basic blood panel, to start.
+PATIENT: EKG? Is that… like, the stickers on my chest? And blood panel… they take blood from my arm? I don't like needles much, Doctor. But if you think it's important, I’ll do it. Is it something serious, you think?
+DOCTOR: Yes, an EKG uses stickers on your chest to monitor your heart’s electrical activity. And yes, a blood panel requires a small sample of blood. It’s standard procedure, Mr. Puder. As to whether it’s “serious,” it’s premature to speculate. We need the results to determine the cause of your symptoms. It could be related to your smoking, or the chemicals at work, or something entirely different. Let's not jump to conclusions. I'll have the nurse draw the blood and get you set up for the EKG.
+PATIENT: Okay. Okay, I understand. No jumping. Just tests. Is the nurse… nice? And how long will the tests take? I have to get back to work tomorrow.
+DOCTOR: The nurse is perfectly competent, Mr. Puder. The EKG will only take a few minutes. The blood panel… perhaps fifteen. We’ll have the results back within a few days. I'm sure your employer will understand the need for a medical evaluation. I'll have the nurse come in now.
+PATIENT: Okay. Thank you, Doctor. I hope it's nothing bad.
+DOCTOR: We'll determine the cause. Try to remain calm, Mr. Puder. .
+PATIENT: .

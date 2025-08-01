@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Mr. Vankampen. I am Dr. Jules. Now, please, try to be concise. What brings you in today?
+PATIENT: Morning, Doctor. It’s my back. Lower back, mostly. Been botherin’ me for… well, a while now. Not sudden, you understand? Just… got worse and worse. Feels kinda achy, mostly. And weak.
+DOCTOR: “A while now,” is not terribly helpful, Mr. Vankampen. Can you be more specific?
+PATIENT: Oh, sorry, Doctor. You're right. Let me think… maybe six months? Started slow, just a little stiffness after gardenin’. I like to putter around with the tomatoes, you see. But then it started hurtin’ even just sittin’ for too long. Now it’s… well, almost always somethin’.
+DOCTOR: Gardening, you say. And this ache… is it constant, or does it come and go?
+PATIENT: It’s mostly constant, but some days are much worse than others. Like yesterday, I bent over to pick up a newspaper, and oof… sharp pain. Not for long, but it really took my breath away. Other days it’s just a dull ache, makes me feel old, you know?
+DOCTOR: And does anything relieve the pain, Mr. Vankampen?
+PATIENT: Not much, really. Sittin’ still sometimes helps, but then I get stiff. Layin’ down with a pillow under my knees… that’s okay for a bit. But it always comes back. I tried one of those heating pads, but didn’t seem to do much good, to be honest.
+DOCTOR: Heating pads are rarely effective for… well, anything significant. Now, have you experienced any numbness or tingling in your legs or feet?
+PATIENT: No, Doctor, no numbness. Or… not that I’ve noticed. My feet get cold sometimes, but I always thought that was just circulation. I’m an old man, you know? Things get cold.
+DOCTOR: Of course. And have you had any difficulty with bladder or bowel control?
+PATIENT: Oh! Whoa there, Doctor. You askin’ if… if I have trouble goin’ to the bathroom? No! No trouble at all. Everything works just fine, thank you very much. That’s a… personal question, isn’t it?
+DOCTOR: It is a necessary question, Mr. Vankampen, given your age and complaint. We must rule out serious causes. Now, have you ever had any injuries to your back?
+PATIENT: Oh, yes, now that you mention it. Back when I was a young man, workin' construction, I lifted somethin’ too heavy. A big bag of cement, I think. Hurt my back pretty bad then. Went to the doctor, got some pills, and it mostly went away. That was… oh, goodness… fifty years ago?
+DOCTOR: Fifty years ago. Remarkable. And are you currently taking any medications?
+PATIENT: No, Doctor. Nothin’ regularly. Just some aspirin now and then for a headache. I try to avoid pills if I can. Never liked ‘em much. My wife used to say I was stubborn, but… well, she’s gone now.
+DOCTOR: Very well. Let’s have a look at your back, Mr. Vankampen. Please lie face down on the examination table. I’ll need you to point to where you feel the most discomfort. And please, try to be precise.
+PATIENT: Alright, Doctor. Face down, you say? Okay… here. Right about here. And it kinda radiates out to both sides, you know? Like a dull ache all over.
+DOCTOR: Hmm. Tenderness is present bilaterally, with some muscle spasm. Range of motion… limited, but not severely so. Do you experience pain when I do this?
+PATIENT: Oof! Yes, that’s it. That’s the spot. Not a sharp pain, more like a deep ache. And yeah, when I bend over like that… it makes it worse, definitely. It feels like somethin’ is… stuck.
+DOCTOR: Reflexes are… adequate. Strength is 5/5 in both legs. Based on my brief examination, it appears you have a muscle strain. It is likely exacerbated by your gardening activities and… the passage of time. Given your age and lack of any neurological deficits, I do not believe it is anything serious.
+PATIENT: So… it’s just old age and pullin’ muscles? That’s… good, I guess. Not somethin’ broken, or… worse? My daughter always worries. She’d have me seein’ specialists if she knew I was here.
+DOCTOR: No, Mr. Vankampen, it doesn't appear to be anything catastrophic. However, you should avoid strenuous activity, particularly lifting. I recommend over-the-counter pain relievers as needed—ibuprofen or naproxen. If the pain does not improve within two weeks, or if you develop any numbness, tingling, or weakness, then you should see a specialist. Do you have any questions?
+PATIENT: So… take some pills and don't lift things. Seems… simple enough. Actually… yes. You mentioned my age. Is there… somethin’ else I should be worryin’ about? Like… is my back gonna get worse and worse no matter what I do? My mother, God rest her soul, had terrible back pain when she got older…
+DOCTOR: Mr. Vankampen, your mother’s condition is irrelevant. Aging inevitably brings about changes in the musculoskeletal system. It is unrealistic to expect to remain completely pain-free at your age. However, maintaining a reasonable level of activity and avoiding excessive strain should help manage your symptoms. I can write you a prescription for a muscle relaxant if you wish, but I doubt it will be particularly effective. Do you want the prescription, or not?
+PATIENT: No… no, I don’t think so, Doctor. No pills. I’ll just try to take it easy. Avoid the tomatoes for a bit. I always thought my gardenin' was good exercise. Maybe I just pushed myself too hard. Thank you, Doctor. I think that’s all.
+DOCTOR: Very well. I'll have the nurse provide you with instructions for over-the-counter pain relief and activity modification. If your condition worsens, do not hesitate to seek medical attention. You are dismissed, Mr. Vankampen. .
+PATIENT: Thank you, Doctor. I appreciate your time. <stage>Exits the room.

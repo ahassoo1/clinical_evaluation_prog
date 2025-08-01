@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Ms. Queener. I’m Dr. Voytek. So, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. It’s… the swelling. After the cancer, you see. It’s in my leg, mostly. It’s been… bothering me. Not terrible, but… noticeable.
+DOCTOR: Okay, swelling in your leg after cancer treatment. I understand. And how long has this swelling been noticeable?
+PATIENT: Hmm… let me think. It started… maybe a month ago? A little more than a month, I think. It wasn’t bad at first, just… puffiness. Now it’s… bigger. It’s hard to say exactly. Time goes so fast, no?
+DOCTOR: It does. A month, okay. And is it one leg or both?
+PATIENT: Just the left one. The left leg is the problem. The right one is… normal. I check it every day, you know. Just to be sure.
+DOCTOR: Good, that’s very proactive of you. And would you describe the swelling as painful?
+PATIENT: Not really painful, no. More… heavy. And sometimes it feels… tight. Like a band around it, maybe? It’s not a sharp pain, just… uncomfortable.
+DOCTOR: Okay, heavy and tight, not sharp pain. Have you noticed any skin changes with the swelling?
+PATIENT: Skin changes? Let me see… It’s a little redder, maybe? Just on the leg that’s swollen. And… it feels a bit warm to the touch, sometimes. But not always.
+DOCTOR: Alright. Redness and warmth, along with the swelling, heaviness and tightness. Now, do you recall if this swelling came on suddenly, or was it more gradual?
+PATIENT: Gradual, I think. Very gradual. It didn’t just pop up one day. It was… a slow thing. I didn’t even really notice it at first. It just… got bigger and bigger over the weeks.
+DOCTOR: Okay, gradual onset. And to get a better picture, could you tell me a bit about the cancer treatment you received?
+PATIENT: Oh… well, it was… chemotherapy. A long time of it, really. And then… radiation. It was a few years ago now. I don’t remember all the details. It was… a difficult time.
+DOCTOR: I understand. It's perfectly alright if you don't recall the specifics. Knowing you had chemo and radiation is helpful. Now, do you have any other symptoms along with the swelling, like shortness of breath, chest pain, or fatigue?
+PATIENT: No, no chest pain or anything like that. I am a little tired sometimes, but… I’m 59! I think that’s just getting old, you know? Nothing… new with the tiredness. Just… regular old tired.
+DOCTOR: Fair enough. Now, let’s take a look at your leg. Could you please have a seat on the examination table and I’ll take a look?
+PATIENT: Yes, of course. Be careful, it’s a bit high!
+DOCTOR: Alright. Now, I’m going to gently examine your left leg. I'll be feeling for warmth, tenderness, and comparing it to your right leg. Just let me know if anything feels particularly uncomfortable. Okay, I'm noting some redness and swelling, as you mentioned. Your pulses feel good, and I don’t feel any major tenderness. There is some pitting edema present. I'm going to measure the circumference of both legs to get a baseline. Left leg is measuring 42 centimeters, and the right leg is 38 centimeters.
+PATIENT: Oh… centimeters. I don’t really understand those. Is that… bad? Bigger number is bad, right?
+DOCTOR: Yes, a bigger number does indicate more swelling. 4 centimeters difference is… noticeable, and warrants further investigation. It sounds like you may be experiencing lymphedema, which can sometimes happen after cancer treatment, especially with lymph nodes being removed or affected. To be sure, and to rule out other possibilities like a blood clot, I’d like to order a Doppler ultrasound of your left leg. Does that sound okay?
+PATIENT: A… Doppler ultrasound? What does that… do? Is it… painful? I don't like needles, you see.
+DOCTOR: No needles involved, thankfully! A Doppler ultrasound uses sound waves to create a picture of the blood flow in your leg. It’s completely non-invasive – we just apply a gel to your leg and move a handheld device over the area. It doesn't hurt at all, it might feel a little cool. It will help us see if there's a blood clot or if it's more likely lymphedema. It's a pretty quick test. Would you be comfortable with that?
+PATIENT: No needles… that’s good. And it doesn’t hurt? Okay… if it doesn’t hurt, yes. Yes, I think I can do that. When can we… do this test? I’d like to get it over with.
+DOCTOR: Excellent. I can order it for you right now, and the scheduling department will call you to set up an appointment. They usually have availability within the next couple of days. Okay, the order is placed. They’ll call you shortly. In the meantime, I'm going to recommend you elevate your left leg as much as possible, especially when you're sitting or lying down. And I’ll write you a prescription for compression stockings. They can help reduce the swelling. Do you have any allergies to medications?
+PATIENT: No allergies, no. Compression stockings… are those… tight? I don’t like things that are too tight. I get… anxious.
+DOCTOR: They are snug, but not painfully tight. They’re designed to gently support your leg and help with the swelling. There are different levels of compression, and we can start with a milder compression level if you’re concerned. We want something comfortable. Do you have a regular pharmacy you use?
+PATIENT: Yes, I go to… Miller’s Pharmacy. It’s just down the street. Old Mr. Miller is very nice. He always remembers my name.
+DOCTOR: That's good to know. I'll send the prescription electronically to Miller's Pharmacy. They should be able to have it ready for you within a few hours. Now, I’m going to give you a summary sheet with instructions for elevating your leg, wearing the compression stockings, and what to watch out for – like any sudden increase in pain, redness, or warmth. If you experience any of those symptoms, please call my office immediately or go to the emergency room. Do you have any questions for me before we finish up?
+PATIENT: No… I think that’s all. Just… thank you, Doctor. I appreciate you not making me feel silly about the swelling. It’s… nice to have someone listen. Can I… go now? I have a lot of things to do today.
+DOCTOR: You’re very welcome, Ms. Queener. I'm glad I could help. And you absolutely can go. Remember to call if you have any concerns. The scheduling department will be in touch about the ultrasound. Have a good day, and please take care.
+PATIENT: Thank you. You too. .

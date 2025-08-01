@@ -1,0 +1,29 @@
+DOCTOR: Alright, Ms. Fogelstrom. So, you’re here today… what brings you in?
+PATIENT: Oh, hello Doctor. It’s… the belching. I keep belching. A lot. It’s… embarrassing, you know? It just happens. I don't always know when it will happen.
+DOCTOR: Belching, huh?
+PATIENT: Yes. It started… maybe a week ago? I don’t remember exactly. Not a big deal, but… it’s often. And sometimes it smells bad.
+DOCTOR: Okay. And is it related to anything specific?
+PATIENT: Hmm… I don’t think so. I eat normal things, you know? Rice, beans… sometimes chicken. Not too spicy. I drink water. I don’t drink… soda, not much. I don’t think it’s what I eat. It just… happens.
+DOCTOR: Right. And has anything else changed recently?
+PATIENT: Changed? Like… what do you mean? I haven't been… traveling. I work the same job. Nothing really different… except the belching, of course. Is that… bad? I don't feel sick, just… gassy.
+DOCTOR: No, it’s not necessarily bad. Just… unusual. We need to figure out why it started. Do you have any heartburn or indigestion that comes with it?
+PATIENT: Heartburn? I don’t think so. Sometimes my stomach… feels a little full, but not burning. Just… heavy, maybe? And sometimes a little… bubbly, before I belch. But not always. Is that the indigestion you mean? I don't really know what that feels like.
+DOCTOR: Okay. Let’s go through some other things. Any nausea or vomiting?
+PATIENT: No, no vomiting. And no… nausea, I don’t think. I don't get sick to my stomach. Not really. I just… belch. It's annoying, but I don't feel bad otherwise. Sorry this is all so silly. <
+DOCTOR: It's not silly. We just need to rule things out. Any changes in your bowel habits?
+PATIENT: Bowel… what? You mean… going to the bathroom? Everything is… normal. Not different. Regular, you know? Nothing changed there. Is this… important?
+DOCTOR: It can be. Just trying to get a full picture. Do you take any medications at all?
+PATIENT: No, Doctor. I don’t take anything. Not even for headaches. I try to drink lots of water when my head hurts. Never been much of a medicine person. Just the belching, really. It’s… getting to be a little much.
+DOCTOR: Alright. Let’s do a quick physical exam, just to listen to your abdomen. Is that alright?
+PATIENT: Yes, that's okay. Whatever you think is best, Doctor. I hope it's not something… bad. But I guess that's why I'm here, right?
+DOCTOR: If you could lie down for me, please. I’m just going to listen to your stomach sounds. Deep breaths now… Okay. Sounds are… a little hyperactive, but nothing alarming. Any tenderness here?
+PATIENT: Hmm… a little bit here, maybe? Not pain, exactly. Just… uncomfortable when you press. It's a little… gurgly too. Like bubbles. Is that normal?
+DOCTOR: Alright. Hyperactive bowel sounds and some mild tenderness... It could be a bit of trapped gas, or possibly some mild indigestion causing discomfort. Now, I’m going to ask you a few questions about your diet. You said you eat rice and beans…how often do you eat those?
+PATIENT: Almost every day. It’s… Cuban food, you know? I like it. Rice and beans with chicken… sometimes pork. Maybe a little salad. My mother taught me how to cook. It’s good food. But… if that’s the problem, what do I eat instead?
+DOCTOR: Well, it's possible it could be contributing. Beans, while healthy, can produce a lot of gas in some people. We could try a temporary elimination diet to see if it helps. No beans for a week, see if the belching improves. But first, I want to rule out anything else. I’m going to order a simple blood test – just to check your overall health and make sure there aren't any underlying issues causing this. Would that be alright?
+PATIENT: A blood test sounds… okay. If it helps. I don't really like needles, but… if you think it’s important. And no beans for a week? That’s… a lot of days. But… okay, I will try. If that’s what you think is best, Doctor. When do I get the blood test?
+DOCTOR: We'll get you over to the lab right now, actually. It's a quick draw. And you don't have to completely eliminate beans for a week, just reduce your intake significantly, and see if it makes a difference. I’ll also give you some over-the-counter medication for gas – simethicone. It can help relieve some of the discomfort. And try to avoid carbonated beverages and chewing gum. If things don’t improve after a week, we’ll revisit this and consider other possibilities. Does that sound like a plan?
+PATIENT: Okay. Less beans, gas medicine, no soda… and blood test now. Yes, that sounds like a plan, Doctor. Thank you. I hope it’s just the beans. It would be nice to just… eat normally again. Where do I go for the blood test?
+DOCTOR: The lab is just down the hall, first door on the left. The technician will take care of you. They'll give you the results, and I'll review them when they come back. If you have any questions after the test, or if things worsen, don’t hesitate to call the office. Here’s a slip for the lab. And try not to worry too much. It’s likely something simple. Now, do you need a work note or anything like that?
+PATIENT: No, thank you. I don’t need a work note. I can still do my job. Just… uncomfortable sometimes. Thank you, Doctor. You’ve been very helpful. I will try the less beans and the medicine. I think… I think I can manage. I’ll see you later, then. Hopefully with better news!
+DOCTOR: Alright, Ms. Fogelstrom. You take care. And yes, hopefully we’ll see some improvement. Don't hesitate to call if you have any questions. Have a good day.

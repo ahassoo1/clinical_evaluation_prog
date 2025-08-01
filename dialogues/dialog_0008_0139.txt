@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Shanor. I’m Dr. Cumper. Welcome to the clinic. So, what brings you in today?
+PATIENT: Morning, Doctor. Just… need this check for refereeing. Need to show the league I’m still okay, you know? It’s… for fitness. Want to get it done quick if possible.
+DOCTOR: Right, a fitness-for-duty check for refereeing. Understandable. To get started, can you tell me a little bit about your overall health?
+PATIENT: Overall… okay, I think. No big problems. I… work hard, you know? Repairing things. Not easy work. Been… a while since I really got sick. Lost my wife… two years ago. That was hard. But… physically? I feel… alright. I guess. Do you need more than that?
+DOCTOR: I appreciate you sharing that, Mr. Shanor. Losing your wife must have been incredibly difficult. And thank you for the overview. Just to clarify, when you say "repairing things," what kind of work are we talking about?
+PATIENT: It's… refractory materials. For furnaces, big ovens, that kind of thing. Lots of lifting, hot work, sometimes crawling around. It's… physical. Like bricklaying, but not exactly. More… fixing what's broken inside the oven. Does that make sense? It's hard to explain.
+DOCTOR: Yes, that makes sense. So, fairly strenuous work with potential for heat exposure and awkward positions. Do you experience any pain with that work, currently?
+PATIENT: Sometimes my back… a little. Not all the time. Mostly after a long day. I just… take some pills. Over-the-counter, you know? Ibuprofen. Helps. And my knees… a little creaky when I first get up. Old age, I guess. But I can still run, still move okay. Mostly.
+DOCTOR: Okay, some back and knee discomfort. Running and general mobility are still good, despite the discomfort. And you manage it with ibuprofen, is that correct?
+PATIENT: Yes, ibuprofen. And… stretching. I try to stretch. Not always good at remembering, but I try. Look, is this… important for the check? I just need to pass, you know? League starts soon.
+DOCTOR: It’s helpful for me to have a full picture, Mr. Shanor. It helps me ensure you’re safe to return to work. We'll do a quick physical exam just to check everything out. Have you had any other injuries in the past?
+PATIENT: Injuries… hmm. Not really big ones. Sprained my ankle once, playing basketball years ago. Nothing broken, I don’t think. Just… bumps and bruises. Working with ovens… you get a few burns sometimes, small ones. Nothing serious. Like… a little red. Nothing that needed a doctor.
+DOCTOR: Okay, a sprained ankle in the past, and some minor burns related to your work. No broken bones or major injuries. Do you have any allergies to medications, food, or anything else?
+PATIENT: No. No allergies. I eat everything. Take pills when I need to, no problem. Nothing makes me sick or… itchy or anything. I don’t think so, anyway. I've never had a reaction to anything.
+DOCTOR: Good. And currently, are you taking any medications regularly besides the ibuprofen when needed?
+PATIENT: No, just the ibuprofen. When my back hurts. That’s it. I try to not take it too much. Makes me… sleepy sometimes. That’s why I don’t want to take it if I don’t need to. Is that… okay?
+DOCTOR: Yes, that's perfectly fine. So, just ibuprofen as needed for back pain. Let’s move on to a quick physical exam, if you don’t mind. Could you please step onto the scale for me?
+PATIENT: Okay, sure. Quick is good. I have things to do later.
+DOCTOR: 134 pounds, good. And your height is listed as 174 centimeters, correct?
+PATIENT: Yes, that's right. 174. Can we hurry a little? I really need to get this done.
+DOCTOR: Absolutely, Mr. Shanor. I'll be as quick as possible. Please lie down on the table. I’m just going to listen to your heart and lungs, and then check your reflexes.
+PATIENT: Okay. Just tell me if it's okay, okay? I don't like laying here for too long.
+DOCTOR: Okay, heart sounds are regular, normal rate. Lungs are clear. Now I'm going to check your reflexes. Just relax your legs. Reflexes are normal, symmetrical. Now, can you squeeze my hands as tightly as you can?
+PATIENT: Like this? Is this good enough? I try to be strong, you know? From the work. It's important.
+DOCTOR: Good grip strength. Now I’m just going to feel along your spine. Let me know if anything feels tender. A little tightness in the lower back, as you mentioned. No acute tenderness. Finally, can you stand up and bend forward, touch your toes if you can?
+PATIENT: I can’t… reach my toes. Not anymore. Tight. Like you said. It’s… okay, though. I can still move. Still work. Is that enough?
+DOCTOR: Okay. Limited range of motion, but no signs of acute injury. Alright, Mr. Shanor, everything appears within normal limits for a fitness-for-duty check. Based on my examination, you are cleared to return to your work as a referee. I would recommend continuing to stretch regularly to maintain flexibility, and if the back pain worsens, consider a visit to a physical therapist. Does that sound good to you?
+PATIENT: Yes, that’s… good. Very good. Stretching, okay. Physical therapist… maybe. If I need it. Thank you, Doctor. Can I go now? I really need to leave.
+DOCTOR: Absolutely. Here’s a brief summary of our visit, and a recommendation for stretching. I’ll also send the results to your league. Please don’t hesitate to reach out if you have any concerns. I wish you all the best this season, Mr. Shanor. .
+PATIENT: Okay. Thank you, Doctor. Bye bye.

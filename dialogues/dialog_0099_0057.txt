@@ -1,0 +1,33 @@
+DOCTOR: Alright, Chellsea. Twenty years old, Apache… right. So, what brings you in today?
+PATIENT: Yes, sir. That is correct. I… I have been feeling very unwell. The doctor back home said it might be… cancer. It’s a little scary, to be honest.
+DOCTOR: “Might be.” Right. Well, that’s… vague. Vague is never helpful. Let's not jump to conclusions, alright?
+PATIENT: Yes, sir. I understand. He just… he wasn't sure. He wanted me to get a second opinion, and that’s why I’m here. I mostly just feel very tired all the time, and I’ve lost some weight without trying. It’s been a few months now.
+DOCTOR: A few months of fatigue and weight loss… okay. And how much weight have you lost, approximately?
+PATIENT: Um… let me think. I used to be… around 125 pounds, and now I’m… maybe 112? It happened pretty slowly, so I didn't really notice right away. I just… my clothes started feeling loose.
+DOCTOR: So, roughly 13 pounds over a few months. Any other symptoms?
+PATIENT: Yes, sir. Sometimes I get… pains. Not all the time, but mostly in my stomach. And I’ve been… well, I’ve been feeling a little short of breath, even when I’m just walking around. It’s not bad, but it’s… there.
+DOCTOR: “A little short of breath.” And where exactly in your stomach are you experiencing these pains?
+PATIENT: Mostly on the lower right side, sir. It's not… a sharp pain, really. More like a dull ache. It comes and goes, but it’s been happening more often lately. It doesn’t really go away completely anymore.
+DOCTOR: Right side abdominal pain… alright. Any nausea, vomiting, changes in your bowel habits?
+PATIENT: No, sir. No vomiting. And… my bowel habits haven't really changed. Everything’s… normal there, I think. Just the tiredness and the pain, mostly. And the breathing, when I walk too much. It’s hard to explain.
+DOCTOR: Have you noticed any blood in your stool?
+PATIENT: No, sir. No blood. I… I check, but everything looks normal there. I always have, even before this started. I’m very careful about that.
+DOCTOR: Alright. And what about your family history?
+PATIENT: Um… my mother had… problems with her stomach. She didn't live very long, and they never really knew what was wrong. Something about always feeling sick. And my father… he had heart trouble, I think. I don’t know much about it, to be honest. He passed away a long time ago. It’s a little hard for me to remember.
+DOCTOR: “Problems with her stomach.” Vague again. And did either parent smoke or drink alcohol regularly?
+PATIENT: My mother didn't smoke, sir. She… she didn’t like it. But my father… he used to drink a lot. Every day, almost. And he smoked, too. Lots of cigarettes. I remember the smell all the time. It wasn’t very nice. I… I didn't like it, so I never started.
+DOCTOR: And do you currently smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, sir. Never. I don’t do any of those things. I try to stay healthy. That’s why I’m here, trying to figure out what’s wrong. I… I don't understand why I'm feeling so bad if I'm doing everything right.
+DOCTOR: Alright. Well, “doing everything right” doesn’t always guarantee good health, unfortunately. Let’s have a listen to your heart and lungs, and I’ll need to palpate your abdomen. Try to relax, and let me know if anything feels particularly tender.
+PATIENT: Yes, sir. Of course. I’ll… I’ll try to relax. Just tell me if you need me to do anything.
+DOCTOR: Heart sounds are regular, no murmurs noted. Lungs are clear to auscultation bilaterally, though your respiratory rate is slightly elevated. Now, the abdomen. Let me know immediately if anything is painful. I'm starting up here, on the right side… Any discomfort?
+PATIENT: No, sir. That’s… okay. Not painful, just… feels normal. It feels a little tight, maybe, but not… bad.
+DOCTOR: And here?
+PATIENT: Ooh… yes, that’s… a little tender. Not terribly painful, but… definitely something. It feels… different there. Sort of a dull ache, like I said.
+DOCTOR: Positive rebound tenderness noted in the right lower quadrant. Okay. We’ll need some bloodwork, and I’m going to order a CT scan of your abdomen and pelvis. We need to rule a few things out. It's likely nothing serious, but we need to be thorough.
+PATIENT: A CT scan? Bloodwork? What… what are you thinking it might be, sir? Is it… is it the cancer? I’m… I’m scared.
+DOCTOR: Now, now. Don’t jump to conclusions. It could be a number of things. Infection, inflammation… even something as simple as a bowel issue. The CT scan will give us a better look at everything, and the bloodwork will help rule out infection and assess your overall health. We need to gather information before we can determine the cause of your symptoms. The nurse will be in shortly to draw your blood, and we’ll get the CT scan scheduled. Don’t worry; we’re taking this seriously.
+PATIENT: Okay, sir. I… I understand. Thank you. I… I’ll just wait here, then? Until the nurse comes? I hope it doesn’t take too long. I… I don’t do well with waiting.
+DOCTOR: Yes, just wait here. The nurse is very efficient. I’ll review the results as soon as they’re available and we’ll discuss them then. Try to relax.
+PATIENT: Okay, sir. Thank you. .
+DOCTOR: .

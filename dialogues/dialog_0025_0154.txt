@@ -1,0 +1,18 @@
+DOCTOR: Alright, Ms. Wease. So, what brings you in today?
+PATIENT: Oh, hello Doctor... Fourney, is it? Yes. Well, it’s... this trouble I’ve been having. With my… waterworks, you see. It keeps happening again and again. It's very bothersome, if you don't mind me saying. I don’t recall exactly when it started, though. Just… recently, I think.
+DOCTOR: “Recently” isn't terribly helpful, Ms. Wease. We need some timeframe to work with. Was it days?
+PATIENT: Oh, dear. Days… hmm. Let me think. It feels like… more than a week, certainly. Maybe two? It's all a bit of a blur, I'm afraid. Everything feels the same lately. I apologize for being vague. I don’t have a good memory for dates, you see.
+DOCTOR: Two weeks. Alright. And can you describe what’s happening with your “waterworks,” as you put it?
+PATIENT: Well, it… burns, mostly. When I go to the… bathroom. And I feel like I need to go all the time, even when I just have. It’s… uncomfortable. Very uncomfortable. And sometimes… a little bit of ache, low down. Does that make sense? I’m not very good at explaining these things, I'm afraid.
+DOCTOR: Burning with urination, frequent urination, and some lower abdominal discomfort. Any blood in the urine?
+PATIENT: Blood? Oh… goodness. I… I don’t think so. I haven’t looked closely, if you don't mind me saying. I try not to. It's unpleasant to think about, you see. I just know it hurts. And I’m tired of it, frankly.
+DOCTOR: Alright. We'll need to rule some things out. Have you had a fever, chills, or any pain in your back or side?
+PATIENT: Fever… no, I don’t think so. I haven’t felt hot. And chills… not that I recall. My bones haven’t been aching, if that’s what you mean. Back pain… sometimes, a little. Old age, you know. But it’s not new, and it's not… related to this trouble, I wouldn’t think.
+DOCTOR: And just to confirm, no changes to your diet recently?
+PATIENT: Diet? Oh… no, not really. The same old things, mostly. Toast, usually. And tea. I haven’t been eating anything… different. I don’t think. Unless… did I have a peach yesterday? I can’t quite remember. It's all a bit of a muddle, you see.
+DOCTOR: Alright. Ms. Wease, I’m going to need to do a quick physical exam, and then we’ll likely need a urine sample to get a better idea of what's going on. Is that alright with you?
+PATIENT: Oh. An exam? Well… I suppose so. If you think it’s necessary, Doctor. I'm not fond of doctors, if you don't mind my saying, but I do want this… unpleasantness to stop. A urine sample… yes, I can do that. Where do I… go?
+DOCTOR: The bathroom is right through there. I'll give you a sterile cup. Try to collect a midstream sample – meaning, start urinating, then collect a sample about halfway through. And please wash your hands thoroughly afterward. I'll be right here when you're finished. Once you’ve done that, we'll proceed with the exam.
+PATIENT: Oh. A midstream… right. That sounds… complicated. But I’ll try. I'm not very coordinated these days, if you don't mind my saying. I'll do my best. Where is this… cup? And, if I may ask, how long will this exam take? I have an appointment to… well, never mind. Just, roughly?
+DOCTOR: It’s straightforward, Ms. Wease. And the exam itself will only take a few minutes. We'll just be checking your abdomen and a quick pelvic exam. Now, if you'll excuse me, I need to prepare. Please let me know when you've collected the sample.
+PATIENT: Oh. Right. A few minutes. Well, I’ll… try not to be too long. Pelvic exam… oh dear. This is all very… unsettling.

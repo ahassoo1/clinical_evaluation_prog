@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Withycombe. I am Dr. Blim. Now, let’s get straight to it. What brings you in today?
+PATIENT: Good morning, Doctor. It’s… the flushing. My face gets very red. It started, hmm… maybe three weeks ago now? Not every day, but often enough to be worrying.
+DOCTOR: Flushing, you say?
+PATIENT: Yes. Like… when you get warm, you know? But it’s not from being warm. Sometimes it happens when I’m just sitting, reading. Other times, after I eat. Not spicy food, always. Just… regular food. It goes away after a bit, but it’s… uncomfortable. Makes people look at me funny.
+DOCTOR: Hmm. And you say this began approximately three weeks ago?
+PATIENT: Yes, Doctor. About three weeks. Maybe a little longer. I try to remember dates, but… it’s hard. But definitely not more than a month. I was helping Mrs. Gable with her garden then, and I noticed it first after that. She has roses, very pretty ones.
+DOCTOR: Mrs. Gable… roses… Right. And does anything specifically trigger this flushing, besides eating and… gardening?
+PATIENT: Hmm… that’s a good question. I haven’t noticed anything specific. Sometimes it happens when I’m talking to people, maybe? But not always. And not if they are people I know well. It's… strange. I don’t feel nervous, you know? Just… my face gets red. It's a bit embarrassing.
+DOCTOR: So, it occurs intermittently, and seems correlated with social interaction—specifically, with unfamiliar individuals. Have you experienced any other symptoms alongside this flushing?
+PATIENT: Other symptoms? Let me think… No, not really. I mean, I get a little warm, of course, when my face is red. But no sweating, no… dizziness. Nothing like that. Just the redness. And sometimes a little bit of… well, a little bit of worry. Because it keeps happening, and I don’t know why.
+DOCTOR: Are you currently taking any medications, Mr. Withycombe?
+PATIENT: No, Doctor. I don’t take anything. Not even vitamins. I try to eat healthy, that’s all. My wife… she always said a good diet is the best medicine. She… she knew a lot about things like that.
+DOCTOR: And do you have any known allergies?
+PATIENT: No, Doctor. Not that I know of. Never had a bad reaction to anything. We used to have a dog, a little terrier, and I was the one who took him to the vet, and they never said anything about allergies. I helped him with his medicine, sometimes. He liked peanut butter.
+DOCTOR: Very well. I’d like to perform a brief physical examination. Please have a seat on the examination table. We’ll start with your blood pressure and pulse.
+PATIENT: Okay, Doctor. That sounds… good. Blood pressure, yes. My wife used to check mine all the time. She was very careful.
+DOCTOR: Please remove your shirt and shoes. I’ll listen to your heart and lungs as well, just to be thorough. And please try to remain still during the examination. It will assist in obtaining an accurate reading.
+PATIENT: Okay, Doctor. It’s… a bit cold in here, isn’t it? I don't mind, though. Just let me know if I should… do anything.
+DOCTOR: Blood pressure is 138 over 82. Pulse is 76 and regular. Heart sounds are normal, lungs are clear to auscultation bilaterally. No murmurs, rales, or wheezes detected. Skin is warm and dry, no visible rashes or lesions. Your physical exam is unremarkable, Mr. Withycombe. However, your blood pressure is slightly elevated.
+PATIENT: Slightly elevated? Is that… bad, Doctor? My wife always said I had good circulation. She used to massage my hands and feet. Will I need medicine for that?
+DOCTOR: It's not immediately concerning, Mr. Withycombe, but it warrants attention. Given your symptoms of unexplained flushing and slightly elevated blood pressure, I recommend a complete blood count and a comprehensive metabolic panel to rule out any underlying medical conditions. We should also assess thyroid function. I will order these tests now. They require a blood draw, which can be done at the lab downstairs.
+PATIENT: Blood tests? Oh. That… sounds expensive, Doctor. I don't have insurance, you see. My wife… she handled all that when she was alive. I’m not sure I can afford… a lot of tests. Is it… really necessary?
+DOCTOR: Mr. Withycombe, while I understand your financial concerns, these tests are essential to determine the cause of your flushing and ensure your overall health. A proper diagnosis requires a thorough investigation. We cannot simply ignore potential underlying issues. The lab offers a basic payment plan, and I can provide a list of resources for low-cost healthcare options in the area. However, delaying diagnosis could lead to more serious complications down the line. We will proceed with the blood work. Do you understand?
+PATIENT: Yes, Doctor. I understand. Blood work, then. And a payment plan… I will see what I can do. My wife… she would want me to take care of myself. When can I go to the lab?
+DOCTOR: Here is the requisition form. The lab is downstairs, room 203. They are open until 5 PM today. Please fast for at least eight hours before the blood draw, and bring a form of identification. Once the results are available, schedule a follow-up appointment with me, and we will discuss them. Do you have any further questions?
+PATIENT: No, Doctor. I think… I think that is all. Thank you. Fasting… eight hours. I can do that. Thank you for your help. I hope… I hope everything is alright.
+DOCTOR: We will see what the results indicate, Mr. Withycombe. That is why we are conducting these tests. Have a good day.

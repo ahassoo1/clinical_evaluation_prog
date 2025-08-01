@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Baide. I'm Dr. Cumper. It’s good to meet you. So, what brings you in to see me today?
+PATIENT: Morning. Look, I haven't got all day, you know. It's this…shaking. Hands mostly. Been happening a while, really. Don't remember exactly when it started, but it's annoying.
+DOCTOR: Okay, I understand. The shaking…primarily in your hands, you said?
+PATIENT: Yeah, hands. Sometimes arms a little, but mostly the hands. Makes it hard to…hold things. Eat, you know? Simple stuff.
+DOCTOR: Alright. And has this shaking been getting worse over time, or has it been pretty consistent?
+PATIENT: Worse, I think. Definitely worse. Though, honestly, my memory isn't what it used to be. Everything feels…fuzzy. I suppose it is worse. It's just… inconvenient.
+DOCTOR: Okay. And are you noticing it more at rest, or when you're trying to do something with your hands?
+PATIENT: Doing something, definitely. Trying to eat soup is a disaster, for example. Or…signing my name. It's a mess. When I’m just sitting…it’s there, but not as bad.
+DOCTOR: Alright. And have you noticed any other symptoms along with the shaking?
+PATIENT: Other symptoms? Hmm… well, I feel a bit stiff sometimes, but that's probably just old age. Can't expect to be spry forever, can you? Honestly, doc, I'm not sure what you're getting at.
+DOCTOR: Okay, fair enough. Just trying to get a full picture. Do you have any trouble walking, or with your balance?
+PATIENT: Balance? No, not really. I still get around alright. A little slower than I used to, maybe, but who doesn't? Look, is this going to take long? I have a luncheon.
+DOCTOR: Alright. And have you noticed any changes in your speech – any slurring, or difficulty finding the right words?
+PATIENT: Slurring? No! What do you take me for? I may be old, but I can still speak perfectly fine. Though, sometimes I… misplace a word. Happens to everyone, doesn’t it? Honestly, you're asking a lot of silly questions.
+DOCTOR: Okay. And are you currently taking any medications, or do you have any allergies I should be aware of?
+PATIENT: Medicare covers everything, you know. I take… something for my blood pressure, I think. Little white pill. And… something else. Honestly, the names all blur together. No allergies that I know of. I'd remember that, wouldn't I?
+DOCTOR: Alright. Let’s do a quick physical exam, if you don't mind. Just want to check your reflexes and coordination. It won't take long. Could you please hold out your arms in front of you?
+PATIENT: Oh, now you want me to do things? Fine, fine. But hurry up. Get on with it.
+DOCTOR: Okay. I'm checking your reflexes and looking at your muscle tone. I notice a slight tremor in both hands, even at rest. Your reflexes seem a little… diminished, but not significantly. Could you try touching your nose with your index finger, and then touching my finger with yours?
+PATIENT: There. See? Perfectly fine. Just a little… shaky. It's not that bad. Don't make a mountain out of a molehill, Doctor.
+DOCTOR: Alright. And finally, have you experienced any recent falls or noticed any stiffness in other parts of your body besides your hands?
+PATIENT: Falls? No! I haven’t fallen. Though, I stumbled once in the garden. But that was just a root, you know? And the stiffness… maybe a little in my neck sometimes. Old age, I tell you. It’s all old age.
+DOCTOR: Okay. Thank you, Mr. Baide. Based on what you’ve told me, and the exam, it sounds like you may be experiencing essential tremor. It’s a common neurological condition that causes shaking, often in the hands, and can worsen with age. However, we need to rule out other possibilities. I’d like to order some blood tests to check your thyroid function and rule out any other underlying medical conditions. And I'd like to also schedule an MRI of your brain just to get a clearer picture. Would that be alright?
+PATIENT: MRI? Blood tests? Look, I just want something to stop the shaking! All this poking and prodding and tests… it sounds like a lot of fuss for something that’s just… annoying. Is there a pill for this? Just give me a pill and be done with it.
+DOCTOR: There are medications that can help manage the symptoms of essential tremor, yes. But it’s important to get a proper diagnosis first, to make sure we’re treating the right condition and that the medication won't interact with anything else. We can start with a low dose of Propranolol, a beta-blocker sometimes used to reduce tremors. However, it's crucial we do the blood tests first to ensure it's safe for you. I'll also give you a referral to a neurologist for a more comprehensive evaluation. They can discuss other treatment options with you if needed. Does that sound acceptable?
+PATIENT: Fine. Whatever. Blood tests, then a pill. Just get it over with. But if this takes too long, I'm coming to a different doctor. I haven't got all day, you know. Just… hurry up.
+DOCTOR: Alright, Mr. Baide. Here's the requisition for your blood tests. You can take this to any lab. I’m also sending the referral to the neurologist electronically. They will be in touch to schedule an appointment. I’ll also write you a prescription for Propranolol, starting at a low dose. Please follow the instructions carefully, and let me know if you experience any side effects. Here's a sheet with information about essential tremor and the medication. Do you have any questions before you go?
+PATIENT: No. No questions. Just… get me out of here. I have a luncheon. And frankly, this whole thing has been a waste of my time.
+DOCTOR: Alright, Mr. Baide. I understand your frustration. Please don't hesitate to call the office if you have any concerns. Have a good day, and enjoy your luncheon.
+PATIENT: .

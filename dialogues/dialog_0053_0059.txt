@@ -1,0 +1,41 @@
+DOCTOR: Right. Well, Adyn, nice to meet you. So, what brings you in today?
+PATIENT: Good day to you as well. Um… it’s my speech, I think. It's been… not quite right, lately. Hard to explain, really. It feels a bit slurred, sometimes. I don't rightly remember when it started, to be honest. Just… noticed it a few weeks back, I suppose.
+DOCTOR: A few weeks, you say?
+PATIENT: Yes, a few weeks. It comes and goes, you see? Not constant. Some days I don't notice it at all, and other days… well, it’s more obvious. I haven't hit my head or anything, if that’s what you’re thinking. Just… started happening.
+DOCTOR: Right. And is it just the speech itself that feels off, or are you having any trouble understanding what people are saying?
+PATIENT: Hmm… that’s a good question. No, I don’t think so. I can hear everything fine, and I understand folks when they speak. It’s just… my words, when I try to say them. Sometimes they get… muddled, I guess is the word. I hope that makes sense. I'm not good at explaining these things.
+DOCTOR: Okay, muddled. And has anything else changed recently?
+PATIENT: Let me see… not that I recall. Everything's been pretty much the same, honestly. Work's the same, home life's the same… Oh! My husband did mention I seemed a bit more tired than usual last week, but I put that down to the heat. It's been awfully warm, hasn't it? I wouldn't say anything else… not that I can remember, anyway. My memory hasn’t been the best lately.
+DOCTOR: Tiredness. Right. Let’s move on. Do you have any medical conditions that you are aware of?
+PATIENT: Um… well, I have Medicare, so I must have something on record. Honestly, I don’t keep close track of these things. My husband handles most of the paperwork. I think I had high blood pressure once, a few years back, but they gave me some tablets, and it sorted itself out. That’s all I can recall, truly. I'm sorry I can't be more helpful.
+DOCTOR: Alright. And have you had any surgeries in the past?
+PATIENT: Surgeries… let me think. No, I don’t believe so. Nothing major, anyway. I had my tonsils out when I was a little girl, a long time ago. But that’s about it. No other operations. I’m quite certain.
+DOCTOR: Okay. And what about your family?
+PATIENT: My family… well, my mother’s side, they’ve had some issues with… diabetes, I think? And my father, he had a heart problem when he was older. But other than that, not much I can recall. They’re mostly healthy, as far as I know. They live back in Jamaica, so I don't see them often enough to know for sure.
+DOCTOR: Right. And are you currently taking any medications?
+PATIENT: No, sir. Nothing at all. I don’t really take anything. Just the occasional painkiller if I have a headache, but that’s it. Nothing regular. I try to stay away from medication if I can, you see? It always makes me feel… sluggish.
+DOCTOR: Alright. And do you have any allergies to medications, foods, or anything else?
+PATIENT: Hmm… allergies. Let me think. No, not that I'm aware of. I can eat anything, and I haven’t ever had a bad reaction to any tablets or anything. I haven’t got any sensitivities or anything like that, sir. I don't believe so. It’s getting quite warm in here, isn’t it?
+DOCTOR: Okay. Now, before we move on, could you tell me about your lifestyle?
+PATIENT: My lifestyle? Well, I work as a construction manager, so I'm on my feet most of the day, supervising things. It's a pretty active job, physically. I don’t drink or smoke, never have. I try to eat a healthy diet, but it can be difficult when I'm so busy. My husband and I like to go for walks on the weekends, if the weather’s nice. Nothing too strenuous. It’s a pretty simple life, really. I try to keep it that way.
+DOCTOR: Alright. Well, let’s have a quick look at you. If you don’t mind. Just a basic neurological exam. We'll check your reflexes, coordination, and a few other things. Just to rule out anything obvious. It's routine.
+PATIENT: Alright. That sounds… sensible. Whatever you think is best, sir. Just let me know if there's anything I need to do. I'm ready when you are.
+DOCTOR: If you could just sit here for me. First, I want to check your cranial nerves. Could you follow my finger with your eyes, without moving your head?
+PATIENT: Certainly. I can do that. Just tell me when you’re ready. And how far should I follow it? All the way to the side? Or…
+DOCTOR: Just follow it with your eyes, as far as you comfortably can. Don’t strain. Good… good. Now look at my finger, and I’ll lightly touch your forehead, cheeks, and chin. Tell me if you feel anything different on either side.
+PATIENT: Alright… I'm following it. Yes, I can see it… Good. Now the forehead… Yes, I feel that. And my cheek… Yes, that too. And my chin… Yes, all the same. Nothing different. I think… is something wrong? I'm feeling a little anxious now.
+DOCTOR: No, no, nothing's wrong. Perfectly normal. Just checking. Now, open your mouth and say “Ah.” And then stick out your tongue.
+PATIENT: Ah… Is that alright? And… here’s my tongue. It feels a little dry, if I’m honest. I haven’t had anything to drink this morning. I'm a little nervous, sir. Perhaps a glass of water would help?
+DOCTOR: Fine. Now, I'm going to test your strength. Squeeze my hands as hard as you can when I tell you.
+PATIENT: Alright. I can do that. Just tell me when you want me to squeeze. I’ll try my best to squeeze as hard as I can. Should I squeeze both hands at the same time?
+DOCTOR: One at a time. Good… good. Now, let me check your reflexes. I'm going to lightly tap your knees with this little hammer. This might feel a bit strange, but it won’t hurt.
+PATIENT: Alright… a hammer? Oh. I see. Very well. Just be gentle, please. My knees aren’t what they used to be. I’ve been on my feet so much at work lately. Whenever you’re ready… I suppose. It's alright…
+DOCTOR: Fine. Now, stand up and walk for me. Heel-to-toe, if you can. Just a few steps.
+PATIENT: Alright… heel-to-toe… Just a few steps? Very well. I'll try. This is a little difficult, if I'm honest. My balance isn't great today.
+DOCTOR: Alright. That’s enough. You can sit down. Now, based on this examination, it's difficult to say definitively what's causing your symptoms. It's quite subtle, and could be due to a number of things. I'd like to order some blood work to rule out anything obvious. And I think a referral to a neurologist would be a good idea, just to be on the safe side.
+PATIENT: Blood work… and a neurologist? Oh dear. Is it something serious, sir? I mean, is it something I should be worried about? I haven’t been feeling ill, exactly. Just… a little off. It's just the speech, you see. That's all I’m worried about.
+DOCTOR: Look, it's highly unlikely to be anything serious. But it's always best to be thorough, wouldn't you agree?
+PATIENT: Yes, of course. Thoroughness is important. I understand. But… what are we looking for, exactly? And how long will it take to get the results? Will I need to come back again? I have work, you see… and my husband… He'll worry, you know?
+DOCTOR: The blood work will check for things like vitamin deficiencies, thyroid problems… the usual suspects. We’ll also want to rule out any signs of infection. As for the neurologist, they’ll likely want to do an MRI of your brain, just to get a better look. It’s standard procedure. As for timing, the blood work should be back in a few days. The neurologist appointment… that could take a few weeks, depending on their availability. I'll have my nurse give you the paperwork and details. Don't worry, it's all very routine. Don't jump to conclusions. It’s likely just stress, to be frank. Now, do you have any other questions?
+PATIENT: MRI… Oh dear. A few weeks… Right. No, I don't think so. Not at the moment. Just… the stress, you say? Is it possible it's just that? I have been working long hours lately, and I do worry about things. Yes… Perhaps you’re right. Okay. Thank you, sir. Thank you very much for your time. I’ll just wait for my nurse then.
+DOCTOR: Right. The nurse will be with you shortly. Don't hesitate to call if you have any concerns. Have a good day. .

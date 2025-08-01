@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Paguio. I'm Dr. Alzoubi. Thanks for coming in today. So, what brings you in to see me?
+PATIENT: Good morning, Doctor. It's nice to meet you too. I'm here for a vaccination, I think? The one they told me to get… it's about staying up-to-date, you know? I got a notice in the mail.
+DOCTOR: Okay, I understand. Staying up-to-date with vaccinations is very important. Let me pull up your record… ah, yes, it looks like you’re due for the updated 2024-2025 COVID-19 vaccine and the influenza vaccine. Is that correct?
+PATIENT: Yes, that sounds right. Both of those. I remember something about a new COVID shot… and I always get the flu shot. It’s just… a lot to keep track of, isn't it?
+DOCTOR: It is, definitely! We’ll get you sorted out. Before we do the shots, could you tell me a little bit about your medical history?
+PATIENT: Oh, sure. What would you like to know? I don’t have any major problems, honestly. I had my appendix out when I was a kid, and… hmm. I get a little heartburn sometimes, if I eat something spicy. Otherwise, pretty good. No allergies to anything I know of. Does that help?
+DOCTOR: That’s a good start. Appendix removed… noted. And occasional heartburn. Do you take anything for that heartburn, or do you avoid certain foods?
+PATIENT: No, I don't take anything for it. I just… try not to eat too much chili! It’s usually not bad enough to bother with medicine. And I mostly just drink water with it, helps a little. I figured if I really needed something, I’d talk to the doctor, so… that's you, I guess!
+DOCTOR: Okay, good. Avoiding triggers is a good strategy. And just to be thorough, have you had any recent illnesses – a cold, the flu, anything like that?
+PATIENT: Hmm… let me think. No, not really. I had a little sniffle maybe a month or so ago, but it went away really quickly. Nothing serious, just felt a bit tired for a day or two. Definitely wasn’t the flu, I’ve had the flu before, and that is no fun!
+DOCTOR: Alright, that sounds like a common cold. Any major medical problems in your family?
+PATIENT: Oh, good question. My mother had… high blood pressure, I think. And my father had something with his heart when he was older. Nothing too early in life, thankfully. My sister is perfectly healthy, as far as I know. Does that help? I'm not sure about anything further back than my parents, honestly.
+DOCTOR: Okay, good to know. History of hypertension and cardiac issues in the family. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, none of that. Never smoked a day in my life. I might have a glass of wine with dinner sometimes, but very rarely. And definitely no drugs. Just… water, mostly. And the occasional cup of coffee.
+DOCTOR: Okay, very good. Alright, Mr. Paguio, it sounds like you’re generally in good health. Now, before we proceed with the vaccinations, let’s quickly check your vital signs. Blood pressure, pulse, temperature…just the usual. Is that alright with you?
+PATIENT: Yes, of course! That sounds perfectly fine. Whatever you need to do, Doctor. I trust your judgment.
+DOCTOR: Okay, blood pressure is 130/80, pulse is 72 and regular, and temperature is 98.6. All within normal limits. We’ll start with the influenza vaccine, a quick injection in your upper arm. It may feel a little pinch, but it shouldn’t be too bad. Afterwards, we’ll do the updated COVID-19 vaccine. Do you have any questions before we start?
+PATIENT: No, not really. Just… how long do I have to stay afterwards to make sure I don't have a reaction? I'm not a big fan of needles, but I know they're important.
+DOCTOR: That’s a good question. We usually ask patients to stay for 15-30 minutes after vaccination, just to monitor for any immediate reactions – things like allergic reaction or dizziness. We have a comfortable waiting area, and a nurse will check on you periodically. It's just a precaution. Are you ready to proceed?
+PATIENT: Okay, that sounds good. 15-30 minutes is fine. Yes, let’s get it over with. I trust you, Doctor. Go ahead.
+DOCTOR: Alright, that’s the flu shot done. Just a little pinch, right?
+PATIENT: Yes, it was… quick. Not as bad as I remembered. Okay, what's next? The COVID shot, you said?
+DOCTOR: There we go, the COVID vaccine. That completes both vaccinations. It’s all done! We’ll have you stay here in the waiting area for the next 15-30 minutes. A nurse will be by to check on you shortly. In the meantime, if you experience any unusual symptoms – difficulty breathing, dizziness, or a severe rash – please let us know immediately. Do you have any questions or concerns before I leave you to rest?
+PATIENT: No, I think I'm good. Thank you, Doctor Alzoubi. You made it very easy. I appreciate you explaining everything so clearly. I'll just sit here and wait, then. Thank you again.
+DOCTOR: You’re very welcome, Mr. Paguio. I’m glad I could help. A nurse will be with you shortly. Have a good rest of your day.

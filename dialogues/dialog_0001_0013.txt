@@ -1,0 +1,24 @@
+DOCTOR: Alright, Mr. Hilber, good to see…well, I guess it is good to see you’re here. Let’s not waste any time. What brings you in today?
+PATIENT: Well, thank you, Doctor. It’s… it’s my water. I have trouble… getting it all out. Like it just… stops. It’s been happenin’ for a little while now. Not every time, but enough to worry me.
+DOCTOR: Okay, “trouble getting it all out.” Right. And how long is “a little while now”?
+PATIENT: Hmm. Let me think… maybe three, four months? It started slow, just feelin’ like I didn’t empty completely. Now… now it’s more often. Sometimes I have to… push, or wait a long time. It’s not comfortable, Doctor.
+DOCTOR: Push, you say?
+PATIENT: Yes, sir. I have to… strain a little to get the rest out. Not hard, exactly, but… I shouldn’t have to, should I? It feels like somethin’s blockin’ it, but I don’t know what.
+DOCTOR: Well, most folks don't want to have to push, Mr. Hilber. Alright. Any pain associated with this?
+PATIENT: Not really pain, Doctor. More… discomfort. A feelin’ of fullness, even after I think I’m done. And sometimes, a little ache afterwards. It’s not sharp, not like a hurtin’ kind of ache, just… there.
+DOCTOR: Fullness and a little ache… Okay. And you said this happens "sometimes"?
+PATIENT: Yes. Not every time I go to the bathroom. Sometimes it flows normal, like it always did. But other times… this happens. It’s hard to say what makes it happen, I haven't noticed anything that sets it off.
+DOCTOR: Right. And no fever, no blood in your urine, no lower back pain?
+PATIENT: No sir, none of that. No fever, no blood, and my back feels alright. Just this trouble with my water. It’s… worryin’ me, Doctor. I don’t like feelin’ like somethin’s not right.
+DOCTOR: Okay, alright. Let’s get a quick physical exam done, then we can talk about what might be goin’ on. I’m gonna listen to your abdomen, and I'll need to do a quick digital rectal exam. It won't be pleasant, but it's necessary. Is that alright with you?
+PATIENT: A rectal exam? Oh… well. I suppose so. If it’s necessary, Doctor, then alright. I’ve never had one before, but… if you say it’s important.
+DOCTOR: Good. Let's get you lying down on your left side. I'll need you to bend your knees. I'll explain as I go.
+PATIENT: Alright. Just tell me what to do, Doctor. I'm ready when you are.
+DOCTOR: Alright. I’m going to insert a gloved, lubricated finger into your rectum to feel for any abnormalities. It may be uncomfortable, but try to relax. Hmm. Prostate feels… slightly enlarged, not drastically so. No obvious masses. Bowel tone is normal. Alright. We'll need to run a urine test to rule out infection. And I'm going to order a PSA test – that's a blood test to check for prostate issues. This isn't necessarily anything serious, Mr. Hilber, but we need to get some baseline data to see what's goin’ on.
+PATIENT: A PSA test? What does that test for, exactly, Doctor? You said my prostate felt… enlarged? Is that bad? I’m a little scared, to be honest.
+DOCTOR: The PSA test checks the level of prostate-specific antigen in your blood. It can be elevated if there's inflammation, infection, or… other issues with the prostate. Enlargement isn’t always bad, Mr. Hilber. It's common as men get older. But it can sometimes cause urinary problems, which is what you’re experiencing. We're just being thorough, alright?
+PATIENT: Thorough… yes, that’s good. I just… my wife, she passed last year, and she always took care of these things. I don’t know much about… tests and things. So, what happens next? Do I need to do anything special for these tests?
+DOCTOR: You'll need to give a urine sample in the cup the nurse will provide. The blood test will be done right here. It'll just be a standard draw. The nurse will explain everything. Once we have the results, we'll schedule a follow-up to discuss them. Don’t Google your symptoms, Mr. Hilber. That will only cause unnecessary anxiety. Is there anything else I can help you with today?
+PATIENT: No, sir. I think that’s all. I appreciate you takin’ the time to listen. And… thank you for explainin’ things. I’ll try not to Google, like you said. Just… I’ll wait for the results.
+DOCTOR: Alright. The nurse will be in shortly. Have a good day, Mr. Hilber. .
+PATIENT: Thank you, Doctor.

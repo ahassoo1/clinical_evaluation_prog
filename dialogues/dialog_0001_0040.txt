@@ -1,0 +1,22 @@
+DOCTOR: Alright, Mr. Espinueva, so what brings you in today?
+PATIENT: Oh, good day, Doctor. Well, it's this pain in my side again, you see. It comes and goes, mostly on my right side. And… I seem to be getting these water infections quite often now, too. It's been bothering me for a little while.
+DOCTOR: Right, right. Side pain and frequent UTIs. Okay. How long have you been having this side pain, specifically?
+PATIENT: Hmm… let me think. It’s hard to say exactly. It’s been… on and off for maybe six months, I’d say? But it feels worse lately, and more often. It used to be just a dull ache, but now it’s… sharper sometimes.
+DOCTOR: Sharper, okay. And where exactly is the pain on your right side?
+PATIENT: Well, it's… high up, on my back, towards my side. Not so much in my tummy, more around where my ribs are, if that makes sense. It’s hard to describe properly. Around here, you see?
+DOCTOR: Alright. And these UTIs… how often are we talking?
+PATIENT: Oh, goodness. Let me think… I’d say… maybe three or four times in the last six months? It feels like just when I get over one, another one starts. It’s quite bothersome, you know. I have to keep going to the pharmacy. It’s a bit of a worry.
+DOCTOR: Okay, so recurrent UTIs and right flank pain. Any fever, chills, nausea, vomiting with either of these?
+PATIENT: No, thankfully not. No fever, no chills, and my stomach’s been alright. I haven’t been sick, exactly. Just uncomfortable, and a bit worried about what’s causing it all.
+DOCTOR: Alright. And are you noticing any changes in your urine?
+PATIENT: Oh, yes. That’s a good question. Sometimes it’s a bit cloudy, and… well, sometimes there's a bit of blood, you see? Not a lot, but enough to notice. It worries me, that does.
+DOCTOR: Cloudy urine and blood... Okay. Let’s do a quick exam. Can you step onto the scale for me, please?
+PATIENT: Yes, certainly. I hope I haven't put too much weight on lately!
+DOCTOR: 116 pounds. Alright. Blood pressure is 140/90. Pulse is 72. Let me listen to your abdomen. Lie back on the exam table, please.
+PATIENT: Yes, Doctor. Is this alright? I hope I'm not making too much fuss.
+DOCTOR: Alright. Abdomen is…soft, but a bit tender on the right flank. No guarding or rebound tenderness. And I’m not hearing anything alarming.
+PATIENT: Oh, that's good to hear, Doctor. Tender, you say? Is that…serious? I worry about my kidneys, you see. My mother had trouble with them when she was older.
+DOCTOR: Look, Mr. Espinueva, you're an older gentleman with some recurring issues. It could be a kidney issue, but it could also be a lot of other things. I'm going to order a urine analysis and a basic metabolic panel. We need to check your kidney function and rule out infection. I’ll also order a complete blood count just to be thorough.
+PATIENT: Oh, alright, Doctor. That sounds sensible. A urine analysis and blood tests… yes. Will the blood tests tell us about my kidneys? I’m a bit worried about… well, about needing anything serious done, you know. My mother…
+DOCTOR: Look, let's not jump to conclusions. We’ll get the results back, and then we'll talk about what, if anything, needs to be done. I'll have the lab draw the blood now. And you can give a urine sample on your way out. The nurse will give you a cup. Don't make a mess. I'll have someone call you with the results in a few days. Next!
+PATIENT: Oh, alright. A few days… yes. Thank you, Doctor. I’ll try not to worry too much. And I’ll be careful with the sample. .

@@ -1,0 +1,22 @@
+DOCTOR: Alright, Ms. Bilstein, welcome. So, what brings you in today?
+PATIENT: Oh, hello Doctor. It’s… well, my legs. They bother me at night. Cramp up, they do. It's been… a while now. Not a new thing, just… persistent. I don’t rightly remember when it started, to be honest. Old age, I suppose.
+DOCTOR: Persistent, you say. And just at night?
+PATIENT: Yes, mostly at night. Sometimes a little during the day if I’ve been… walking a lot, perhaps. Though I don't walk that much these days. It's hard to say what sets it off, really. It just… happens. A sharp pain, then everything feels tight. It doesn't last long, thankfully. But it wakes me up.
+DOCTOR: Hmm. And how would you describe the pain, exactly?
+PATIENT: Oh dear. That's a hard one. It's… a pulling sort of pain. Like someone's tying a knot in my calf, maybe? And it’s sharp, yes, very sharp for a moment. Then just… tight. Not a dull ache, definitely not. It’s a quick, hard feeling. It’s hard to explain, I don’t have a good way with words for things like that.
+DOCTOR: Alright. Any other symptoms along with these leg cramps?
+PATIENT: Other symptoms… Let me think. Not that I recall, no. My legs feel a bit… restless sometimes, even when they’re not cramping. But I always thought that was just getting old. And maybe a little coldness in my feet, but I always have cold feet. Does that count as a symptom? I'm not sure.
+DOCTOR: Restless legs…and cold feet. Right. And are you on any medications currently, Ms. Bilstein?
+PATIENT: Oh, no, Doctor. Not any medications. I try to avoid them if I can. Always did. A little tea for sleeping sometimes, that's all. Just chamomile, nothing strong. And I take a little something for my… joints, but that’s just an herbal remedy my daughter gets me. I don't even know what's in it. I believe in letting things heal on their own, mostly.
+DOCTOR: Alright. And any family history of… anything like this?
+PATIENT: Family history… Oh my. That's… a tricky one. My mother had… trouble with her circulation, I think. Swollen ankles, mostly. And my brother, he had… something with his legs, but I don’t recall exactly what. It was a long time ago. We didn’t talk about these things much, you see. It's hard to say if it’s related, or just… old age again.
+DOCTOR: Right. Well, let’s have a quick look at your legs then. If you wouldn't mind.
+PATIENT: Oh, yes, of course. Be careful now, I’m a bit unsteady. Old bones, you know. It's been a while since anyone’s looked at my legs, honestly. I mostly just try to ignore them.
+DOCTOR: Please, have a seat. I'll need to check your pulses and do a brief neurological exam. Just relax.
+PATIENT: Alright. Neurological… is that important? I’m not good with all the fancy words. Just tell me if anything’s terribly wrong, Doctor. I’m trusting you to sort it out.
+DOCTOR: Pulses are…present, albeit weak. Reflexes diminished, but not absent. Some mild swelling in the ankles. Skin appears…normal. Everything seems…relatively normal, Ms. Bilstein. It could just be age-related changes, poor circulation.
+PATIENT: Oh. Well, that's… good, I suppose. Age-related… Is there anything I can do about it? Any stretches, or something? I don't want to just… accept it if there's something I can help. I always try to be useful, even when I'm old. Perhaps something for the restless feeling? It’s more bothersome than the cramps sometimes.
+DOCTOR: Stretching might help a little with the restlessness. And keeping hydrated is always… good. I can give you a handout with some basic exercises. It's unlikely to be a serious issue, but if it worsens, or you develop any other symptoms, you should… see a specialist. Do you have any other concerns today?
+PATIENT: Oh, alright. Stretching. Yes, I can manage that. Thank you, Doctor. A specialist… Is that expensive? I don't have much money, you see. My husband… he left me very little. No, I don’t think so. Just these legs, mostly. And the restless feeling, when it comes. I suppose I can try the stretching and see if that helps. Thank you for your time, Doctor.
+DOCTOR: It's…likely to be expensive, yes. Unfortunately, that’s beyond my control. We've covered the basics, Ms. Bilstein. Try the handout, stay hydrated, and see a specialist if it worsens. Have a good day.
+PATIENT: Oh. Very well. Thank you again, Doctor. I appreciate you seeing me. I suppose… I’ll try my best. Stretching…yes. And stay hydrated. Old age… it’s a tricky thing. .

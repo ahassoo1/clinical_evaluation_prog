@@ -1,0 +1,38 @@
+DOCTOR: Good afternoon, Mr. Kingan. I’m Dr. Renzi. It’s nice to meet you. Now, why don't you tell me what brings you in today?
+PATIENT: Right, hello Doctor. Um, it’s for a tryout. For a sports team. Physical, they called it. Gotta get checked out before I can even try out, you know? Don’t want to collapse on the field or something.
+DOCTOR: Ah, a pre-participation physical! Smart move, absolutely. Safety first. So, this is for… what sport are you hoping to join, if you don't mind me asking?
+PATIENT: Mongolian wrestling, mostly. Bökh they call it. Though, I do some… other things too. Just trying to keep active, really. I’m not getting any younger, you know?
+DOCTOR: Mongolian wrestling! That’s… quite a sport. Very impressive. Keeping active is excellent. And you’re right, we all need to be mindful of that as we get older. So, to get started, have you had any recent illnesses or been feeling unwell at all?
+PATIENT: No, not really. Bit of a cold a few months back, but nothing serious. Just a sniffle. Been feeling alright, all things considered. Strong enough, I think.
+DOCTOR: Good to hear. Just checking. Now, do you have any medical conditions that you’re aware of – things like high blood pressure, diabetes, heart problems, arthritis… anything like that?
+PATIENT: Nope. Nothing that I know of, anyway. My… family history isn’t the greatest, but I haven’t been officially diagnosed with anything.
+DOCTOR: Okay. And could you tell me a little more about that family history?
+PATIENT: Um… my father had some heart trouble, I think. Not sure exactly what. He didn't go to doctors much. And my mother... she had some joint pain, but she always said it was just getting old. That's about all I know, honestly. They weren’t big on talking about health issues.
+DOCTOR: I understand. That's not uncommon. Okay. Have you ever had any surgeries or been hospitalized for anything?
+PATIENT: No, never been in a hospital. Knock on wood. Broke a wrist when I was a kid, climbing a tree. But that’s it. Just a cast and a few weeks of being clumsy.
+DOCTOR: Alright, good to know. And are you currently taking any medications – prescription, over-the-counter, vitamins, supplements, anything like that?
+PATIENT: Nah. Nothing at all. I try to get everything I need from food. And… well, from just being active, you know?
+DOCTOR: That's good! Now, do you have any allergies to any medications, foods, or anything else?
+PATIENT: No allergies that I'm aware of. Never had a reaction to anything. I eat pretty much anything. Though, I don’t particularly like tomatoes, but that’s not an allergy!
+DOCTOR: That doesn’t count! Alright, good. Now, let's do a quick physical exam, if that’s alright with you?
+PATIENT: Yeah, sure, let's get it over with. The sooner it's done, the sooner I can get back to training.
+DOCTOR: Excellent. I’m going to listen to your heart and lungs, and then take a look in your ears, and check your reflexes. I'll also feel your abdomen, and take your blood pressure and pulse. Is that okay?
+PATIENT: Sounds… thorough. Yeah, go ahead. Whatever you need to do. Just… try to be quick, alright? I got things to do.
+DOCTOR: Of course. I'll be as efficient as possible. Blood pressure is… 140 over 90. A little elevated, but we'll keep an eye on that. Heart sounds are regular, no murmurs detected. Lungs are clear to auscultation bilaterally. Abdomen is soft, non-tender. No masses palpated. Now, let's check your reflexes.
+PATIENT: Okay. Reflexes... always been a bit… slow, if I'm honest. Never been quick with my hands, more about strength. Do what you gotta do.
+DOCTOR: Alright. Reflexes are slightly diminished, as you mentioned. Not alarming, but worth noting. Now, I’m going to ask you a few questions about how you've been feeling. Have you experienced any chest pain, shortness of breath, dizziness, or fainting spells?
+PATIENT: Nope. None of that. I get tired sometimes, but that’s just from training, you know? Nothing serious. Never had any trouble breathing, even during wrestling.
+DOCTOR: Okay, good to know. And have you noticed any changes in your weight, appetite, or sleep patterns recently?
+PATIENT: Weight’s pretty stable, always been a bit on the thin side. Appetite’s good, eat plenty. Sleep… sometimes a little rough. But that's just getting older, right? I don't sleep as soundly as I used to. Nothing major.
+DOCTOR: That’s common as well. Now, any pain anywhere – in your joints, back, or muscles?
+PATIENT: A little stiffness in my knees sometimes, after training. But nothing that a good stretch doesn't fix. It's just wear and tear, I figure. Wrestling isn't exactly easy on the body.
+DOCTOR: Right, I imagine not. And finally, any problems with your vision or hearing?
+PATIENT: Nope. See alright, hear alright. Maybe a little trouble hearing quieter sounds sometimes, but that’s probably just age too. Nothing that gets in the way of… well, anything.
+DOCTOR: Alright. Well, everything seems… relatively normal so far. Your blood pressure is a little elevated, and your reflexes are a bit slow, but given your age and activity level, those aren’t necessarily cause for immediate concern. But, I'd like to get some blood work done just to rule out anything else. And perhaps an EKG to get a better look at your heart function. Would that be alright?
+PATIENT: Ugh. More tests. Look, I need to know if I'm good to go for this tryout. That’s what I came here for. Can’t I just… train and see how it goes? I don’t have time for all this.
+DOCTOR: I understand your frustration, Mr. Kingan. And I want to be clear, I’m not trying to delay you. But we want to make sure you're as safe as possible. A little bit of extra precaution now can prevent a bigger problem down the line. The blood work and EKG will give us a baseline, and help us understand any potential risks. It’s really just a precaution. It's a relatively quick process, and it will give you peace of mind, wouldn't it?
+PATIENT: Look, fine. Blood work, EKG, whatever. Just… tell me how long it’s going to take and when I can expect results. I got things to do. And no lectures about taking it easy, alright? I know my own body.
+DOCTOR: Alright, fair enough. We can get the blood work done right here in the clinic. It'll take about 15-20 minutes. The EKG will be another 10 minutes after that. The results usually come back within a couple of days – I’d say by Wednesday, at the latest. We'll call you as soon as they're available. And I’ll give you a printout of the results when you come back to discuss them. I'm not trying to tell you what to do, just ensuring your safety, Mr. Kingan. Now, let's get these tests ordered.
+PATIENT: Okay, fine. Let's just get it over with. And please, no unnecessary small talk. I'm not here to make friends.
+DOCTOR: Absolutely. I respect that. The phlebotomist is right down the hall, room 3. And the EKG technician is in room 7. Let me know if you have any trouble finding either one. I'll be here if you need anything.
+PATIENT: Right. Thanks.

@@ -1,0 +1,31 @@
+DOCTOR: Alright, Mr. Kingan, have a seat. So, what brings you in today?
+PATIENT: Yeah, uh, hi. Just here for a physical. Team tryouts, you know? Gotta get cleared. Don't have a lot of time, so… the quicker the better, if that's alright.
+DOCTOR: A physical for sports tryouts. Right. Well, even a quick physical needs to be thorough. We need to make sure you’re not going to…overexert yourself. Have you had a physical recently?
+PATIENT: Not…really. It’s been a while, to be honest. Years, probably. I usually just…feel around and see if anything hurts too bad before I play. Not the smartest, I know. This team is kinda serious though, so they made me come get checked out.
+DOCTOR: “Right. Well, that’s…not ideal. Alright, let’s start with some basics. Do you have any current medical problems – anything diagnosed by a doctor?
+PATIENT: Nah, nothing diagnosed. I get aches and pains, you know, getting older. But nothing a little rub-down can’t fix. No heart trouble, no…diabetes or anything like that. Just…old man stuff.
+DOCTOR: “Old man stuff.” Okay. And have you ever been diagnosed with anything?
+PATIENT: Hmm...let me think. When I was a kid, I had really bad asthma. But I grew out of it, years ago. Haven't had any trouble with it since I was, like, ten. Other than that…nope. Pretty healthy, all things considered. I think.
+DOCTOR: “Right. Asthma as a child. And any surgeries?
+PATIENT: Nope. Never had any surgeries. Broke my arm once when I was a teenager, climbing a tree – stupid, I know – but they just put it in a cast. No cutting or anything. That's it. Seriously. I'm not a complicated case.
+DOCTOR: Okay. Family history then. Are your parents or siblings still living?
+PATIENT: My mom…she passed away a few years back. Cancer. My dad’s still around, but he lives back in Mongolia. Haven’t seen him in a while. And I don’t have any siblings. Just me. It was…always just me.
+DOCTOR: Alright. And do you know if your mother’s cancer ran in the family?
+PATIENT: Uh...she had lung cancer. I think her dad – my grandfather – had something with his lungs too. But I don’t know much about it, honestly. We didn’t talk about it much. It was…a sad topic. I didn't really ask a lot of questions.
+DOCTOR: Okay. And what about your social history?
+PATIENT: Social...history? What does that mean? Do you want to know if I like parties? Look, I just need this signed off on so I can try out for the team. I don't really have time for a life story.
+DOCTOR: It means do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh. Right. Okay. No smoking. Never touched a cigarette. I drink…sometimes. A beer or two with dinner, maybe on the weekends. Nothing serious. And definitely no drugs. Never been my thing. I need a clear head for…things.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: Nope. Don’t think so. Never had a reaction to anything the doctor’s given me before. I haven’t been to the doctor much, remember? So, it’s hard to have allergies if you don’t take stuff. Is that all? Can we get this over with? I'm starting to get impatient.
+DOCTOR: Alright. Let's do a quick physical exam. I need to listen to your heart and lungs, check your reflexes, and take your blood pressure. Please take off your shirt and shoes. And try to relax. It’ll go faster if you cooperate.
+PATIENT: Fine, fine. Just hurry it up, alright? I really don’t have all day. This whole thing is a waste of time, if you ask me. But the team…they’re being very strict.
+DOCTOR: Take a deep breath…and exhale. Again. Okay. Lungs sound…clear. Though a little diminished breath sounds bilaterally. Blood pressure is 140/90. That’s a little elevated. Patellar reflexes are 2+ bilaterally. Good. Now, I’m going to palpate your abdomen. Let me know if anything feels tender. Anything here?
+PATIENT: Ooh, yeah. That spot, right there. A little tender. It's nothing, probably just…old sports injury. Pulled something years ago. Doesn’t bother me much usually. See? Not too bad. I told you, I'm not a complicated case.
+DOCTOR: Okay. And how about your height and weight?
+PATIENT: Uh, well, I'm…around six foot. Maybe a little less now that I'm older. And weight? I haven't weighed myself in ages. Probably around 180. Give or take a few pounds. I try to stay in shape, you know? Gotta be quick for this team.
+DOCTOR: Your height is 183 centimeters, which is approximately six feet. And your weight is 129 pounds. That’s…significantly less than you estimated. Are you sure these numbers are accurate?
+PATIENT: What? 129 pounds?! That's...impossible. I'm a big guy! I eat plenty! Look at me! Wait...maybe...maybe I haven't been eating as much lately. Things have been stressful. But still! 129? That can’t be right. This machine must be broken. This is a disaster. The team's gonna laugh me out of tryouts.
+DOCTOR: Mr. Kingan, given your weight and blood pressure, I recommend further evaluation. We need to rule out any underlying medical conditions causing this weight loss and hypertension. I would like to order a complete blood count, a metabolic panel, and an EKG. I also strongly advise you to schedule a follow-up appointment with a specialist to discuss your weight loss. It’s not something to take lightly. And frankly, participating in strenuous physical activity in your current condition is not advisable. Here are the lab orders. Please schedule these as soon as possible. And I am going to have to advise you to hold off on the team tryouts until we have a better understanding of your health status. Do you have any questions?
+PATIENT: Questions? Seriously? This is a nightmare. I came here for a quick sign-off, and now I need blood tests and…what was it? A whatchamacallit? An EKG? And I can’t even try out for the team? Look, I appreciate…I guess…your thoroughness. But I really don't have time for all this. I'm a busy man. Is there anything you can do to just…clear me? Maybe a waiver? I'm willing to sign anything. But no…more tests… Fine. Fine. I’ll…I’ll get the tests done. But I’m not promising anything. This whole thing is…a mess. .
+DOCTOR: Alright. Please schedule a follow-up appointment with me once you have the lab results. And I strongly encourage you to prioritize your health, Mr. Kingan. Have a good day. .

@@ -1,0 +1,30 @@
+DOCTOR: Right. Jim Schwer, 73. So, what brings you in today?
+PATIENT: Uh, hi Doctor... Memmolo, right? Yes. Well, it's... family. My mother, she had... problems with her heart. And my brother, he... he didn't live long. Things with his... well, just not good. I just want to make sure I'm okay. You know? Peace of mind. I don't want any surprises.
+DOCTOR: Peace of mind. Yes, well, that’s… reasonable. Though, frankly, worrying about things that might happen isn’t usually the most productive use of medical resources. Still. Your mother had heart problems, and your brother… passed prematurely. Can you elaborate on the heart problems?
+PATIENT: Um... she had... like a weak heart. The doctor, a long time ago, said something about... it not pumping right. She got tired easy. And she had... swelling in her legs. She was always... short of breath, especially when she walked. It happened when she was... older, maybe in her 80s. I don't remember exactly. It was a long time ago.
+DOCTOR: Shortness of breath, leg swelling… typical congestive heart failure presentation. Though, as you say, vague recollection. And your brother?
+PATIENT: He... he was young. Early 40s, I think. He... didn't feel good. A lot of chest pain. The doctors... they said it was his heart too, but... it was fast. Everything happened really fast. Not like my mother, slow and... fading. He went to the hospital and... didn't come home. It was... a shock.
+DOCTOR: Chest pain, early 40s… that’s… concerning. Was any specific diagnosis given?
+PATIENT: Uh... no, not really. They said... something about a blockage, I think? But it was a long time ago. I was... pretty upset, you know? I don’t really remember all the details. They just said... heart attack, I think. A bad one. It all happened so quickly. I just... want to be sure I don’t have the same problem.
+DOCTOR: Right. A blockage. Vague again. Okay. Do you experience any chest pain?
+PATIENT: No, not really. Sometimes… a little tightness, maybe. But it doesn’t last long. And it doesn’t happen often. I just thought it was… gas, maybe? Or… old age. I get tired easy too, but everyone my age does, right?
+DOCTOR: "Everyone your age?
+PATIENT: Well, I mean... most people I know. They get tired. They get a little… achy. I figured it was just… getting old. Not something to worry about. But with my mother and my brother… I just wanted to get checked, you know? To be safe.
+DOCTOR: Alright. And are you experiencing any shortness of breath?
+PATIENT: Not really, no. Like I said, sometimes I get a little tired, but it's not like... struggling to breathe. Maybe when I walk up hills, but I don’t walk up hills much anymore. I mostly just sit, watch TV, read the paper.
+DOCTOR: Do you have any swelling in your legs or ankles?
+PATIENT: No, not that I’ve noticed. My shoes feel normal. I check sometimes… just in case. But they feel alright. I haven't needed to... loosen them or anything.
+DOCTOR: Alright. And, just to cover the basics… any known allergies to medications?
+PATIENT: Um... I don't think so. I haven't taken much medicine in my life. Maybe some aspirin, for headaches. But nothing... serious. I don't think I'm allergic to anything.
+DOCTOR: And are you currently taking any medications at all?
+PATIENT: No, nothing. Just vitamins. A multivitamin, every morning. And sometimes, I take something for my joints… when they’re really bothering me. But that’s just... over-the-counter stuff. Nothing a doctor gave me.
+DOCTOR: Vitamins don’t count. Alright. Let's do a quick physical exam. I need to listen to your heart and lungs, and check your blood pressure. Sit back, please.
+PATIENT: Okay. That sounds… good. I guess.
+DOCTOR: Blood pressure is… elevated. 150/90. Not ideal. Heart sounds… regular, but a bit distant. Lungs are clear, no wheezing or crackles. I’ll need to order an EKG and some blood work. Basic metabolic panel, lipid panel, and a complete blood count. We’ll see what those show.
+PATIENT: Okay. That sounds… like a lot of tests. Is it… bad? The blood pressure, I mean. And the... distant heart sounds. Is that something to worry about?
+DOCTOR: It's not necessarily bad. Elevated blood pressure increases your risk for heart disease and stroke, which, given your family history, is… concerning. The distant heart sounds could indicate several things—anything from fluid around the heart to simply being a little overweight. That’s why we need the tests. Don’t jump to conclusions. We're gathering information. The lab order is sent. They'll call when you can come in for the blood draw.
+PATIENT: Okay. I understand. Information. That's good. I just... I don’t like surprises. So, the blood work will tell us more? About my heart? And… what if it is something bad?
+DOCTOR: It may indicate something that requires attention. And yes, the blood work will give us a baseline. Don't catastrophize. We're simply being proactive, given your concerns. I’ll review the results as soon as they come in and let the clinic call you with the plan. Do you have any other questions… before I have to see my next patient?
+PATIENT: No… I think that's all. Just… thank you, Doctor. For… checking me out. And not… yelling at me for worrying. I’ll wait for the clinic to call.
+DOCTOR: Very well. Try not to dwell on it. .
+PATIENT: .

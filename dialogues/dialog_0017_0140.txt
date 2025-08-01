@@ -1,0 +1,17 @@
+DOCTOR: Good morning, Mr. Schieber. I am Dr. Blim. Now, let's get straight to the point. What brings you in today?
+PATIENT: Good morning, Doctor. Honestly, it’s… rather embarrassing. It’s a bit of a sore throat, but it's not just a sore throat. There’s… a white coating on the back of my tongue. It's quite unpleasant, really. I’d rather not discuss it at length, if you don’t mind.
+DOCTOR: A sore throat and a white coating on the tongue. Understandable you find it unpleasant, though avoiding details isn't particularly helpful for a diagnosis, Mr. Schieber. When did this begin?
+PATIENT: Well, I suppose… about three days ago? It started as just a little irritation, and then this… appeared. I don't recall doing anything differently. I eat a perfectly normal diet, Doctor. I assure you. Not like some people.
+DOCTOR: "Perfectly normal," is subjective, Mr. Schieber. Still, three days. Any fever, chills, difficulty swallowing, or changes in your voice?
+PATIENT: No fever, thankfully. No chills either. Swallowing is… a little uncomfortable, yes, but I wouldn't say difficult. And my voice is fine. Perfectly normal, as I said. Really, it’s just… unsightly. Is it something serious? I have commitments, you know.
+DOCTOR: “Unsightly” is not a medical term, Mr. Schieber. I need specifics to determine if this warrants serious concern. Have you noticed any pain, specifically when swallowing?
+PATIENT: Pain… hmm. Not a sharp pain, exactly. More of a… burning sensation. A mild discomfort, I suppose. Honestly, Doctor, I’m not one to complain about a little discomfort. Is there anything you can prescribe to just… make it go away? Quickly?
+DOCTOR: A “burning sensation” and a desire for a rapid solution. Very well. Let’s examine your throat. Please open wide, and say “ah.” I need a clear view, Mr. Schieber.
+PATIENT: There. Is that sufficient? I trust you’ve seen far worse in your… line of work. It's really quite bothersome, if you must know. And rather… distracting.
+DOCTOR: Hmm. Significant erythema of the pharynx and tonsils. And yes, a notable white, membranous exudate on the posterior tongue and soft palate. Any swollen lymph nodes?
+PATIENT: Swollen…? I… think so. Yes, a little bit of tenderness here. On both sides. Is that… bad? I really must be getting back to things soon. I have a very important meeting this afternoon.
+DOCTOR: Tenderness in the lymph nodes along with the throat presentation is… concerning. I suspect a possible streptococcal infection, though a visual examination isn't conclusive. We'll need a rapid strep test. If you'll follow me. It's a simple swab.
+PATIENT: A swab? Honestly, Doctor, is that absolutely necessary? I assure you, I am a busy man. I can’t be spending the afternoon in a waiting room. Perhaps a strong antibiotic would suffice? I have a reputation to maintain.
+DOCTOR: Mr. Schieber, practicing medicine is not about accommodating your schedule or your "reputation." It's about proper diagnosis and treatment. A rapid strep test is essential to determine the appropriate course of action. Prescribing antibiotics without confirmation is irresponsible and contributes to antibiotic resistance. Do you want the test, or should I refer you to a colleague?
+PATIENT: Fine. Fine. Do the test. But I expect it to be quick. And I expect a prescription ready immediately if it's positive. I have a great deal of faith in your… efficiency, Doctor. Let’s just get this over with. .
+DOCTOR: .

@@ -1,0 +1,22 @@
+DOCTOR: Right. Mr. Radillo, yes. Sixty years old… Good. Well, let’s not waste time. What brings you in today?
+PATIENT: Yes, Doctor. Thank you for seeing me. I have… a liquid coming from my ear. It started, hmm… maybe one week ago? It is not painful, but… uncomfortable. Like something is in there.
+DOCTOR: A discharge, you say?
+PATIENT: Yes, discharge. Like… water, but not clear. A little… yellow-ish. And sometimes… a small smell. Not bad smell, but… a smell. Is that… normal?
+DOCTOR: “Normal” is a… subjective term. How often would you say this is happening?
+PATIENT: Hmm. Every day, I think. Every time I wake up, I wipe something from my ear. And after I shower, also. Not much each time, but… always something. I use a small cloth. I do not put anything in my ear, if that is what you ask.
+DOCTOR: You haven't been attempting to clean it yourself, with cotton swabs or anything like that?
+PATIENT: No, Doctor. I do not use… those sticks. My wife, before… she would try. But I told her no. It just makes things worse, I think. I only wipe the outside of my ear. With a clean cloth, like I said. Very gently.
+DOCTOR: Alright. Let's have a look then. Please sit forward slightly… and try to remain still. This won’t take long.
+PATIENT: Okay, Doctor. I will try my best. Is this… will it be uncomfortable? I do not like things in my ear.
+DOCTOR: Hmm. There is some… discharge present. The canal appears somewhat inflamed. And there's a slight odor, as you mentioned. Erythema and mild edema of the external auditory canal noted. Cerumen impacted as well. Do you have a fever, or any pain radiating from your ear?
+PATIENT: No, Doctor. No fever. And no pain. Not really. Just… full feeling, sometimes. Like water inside. Like when you swim, you know? But… I have not been swimming. Everything is… quiet. No sharp pain. Just… not normal feeling. It makes it hard to hear clearly, maybe. A little muffled.
+DOCTOR: Right. Well, it’s likely otitis externa, a simple infection of the ear canal. It's not uncommon. We'll need to clean it out first. It will be… uncomfortable, but brief. Then I'll prescribe some eardrops. Do you have any allergies to medications that you are aware of?
+PATIENT: Allergies? Hmm. Let me think… My wife, she always asked me this. I… I do not think so. No rash, no trouble breathing, nothing. I take a pill for my… pressure. But that is all. The doctor gives me this pill every month. No trouble with that one. I do not know what it is called, sorry. It is a small, white pill.
+DOCTOR: I’ll just need to document 'no known allergies'. Now, hold still. This might be a little…sensitive.
+PATIENT: Yes, Doctor. I am trying my best. It… it feels strange. Like water pushing. A little cold, maybe. Is… is it finished soon? I do not like feeling like this. Not comfortable at all.
+DOCTOR: There. That's the bulk of it removed. It was quite impacted. Cerumen impacted bilaterally, left greater than right. Irrigation performed. Now, I’m going to prescribe you some antibiotic eardrops. Use three drops in the affected ear twice daily for seven days. Do you understand?
+PATIENT: Yes, Doctor. Three drops… two times a day… for seven days. In this ear. The ear with the… water. And… no, I understand. And what if it… does not get better? Or… if it gets worse? Is there something I should be watching for? Sorry to ask so many questions. I just… I worry.
+DOCTOR: If it worsens – you develop a fever, severe pain, dizziness, or notice any drainage from the ear that isn't clearing up within a few days, you need to return immediately. Here’s your prescription. And try to avoid getting water in your ear for the next few days. Any other questions?
+PATIENT: No, Doctor. I think that is all. Thank you very much for your help. Three drops, two times a day, seven days… and keep it dry. And… come back if it gets bad. I will remember. Thank you again.
+DOCTOR: Very well. Next patient. .
+PATIENT: Yes, Doctor. Goodbye. .

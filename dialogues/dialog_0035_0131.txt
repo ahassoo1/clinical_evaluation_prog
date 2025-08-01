@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Mykeisha. I’m Dr. Alzoubi. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, it’s my blood pressure. It’s been a little high lately, and my friend told me I should really get it checked out.
+DOCTOR: Okay, good idea to get it checked. And when you say "lately," how long has it been high, roughly?
+PATIENT: Hmm… let me think. Probably for about, oh, three or four months now, I’d say. It’s not constant, but it feels higher than it used to when I check it at the pharmacy.
+DOCTOR: Okay, three or four months. And do you happen to know what the numbers were when you checked it at the pharmacy?
+PATIENT: Oh, I do, actually! Last time, it was 142 over 90, I think. And the time before that was around 138 over 88. Something like that. I wrote it down, but I don’t remember exactly.
+DOCTOR: Alright, those numbers are elevated. We’ll want to take a look at it here to confirm. Do you have any symptoms along with the higher blood pressure?
+PATIENT: Not really, no. I mean, sometimes I get a little headache, but I get those anyway. Nothing that feels different because of the blood pressure, if that makes sense. No dizziness or anything like that.
+DOCTOR: Okay, no dizziness or different headaches, that's good. And just to get a full picture, have you been under any extra stress lately?
+PATIENT: Stress… not more than usual, I guess. Work's always a bit hectic, you know? It’s a personal care job, so lots of different people and schedules. But nothing major happening outside of that. My sister’s been a little sick, but I’m helping her out, so it’s manageable.
+DOCTOR: Alright. Let’s get some numbers and we’ll go from there. Relax your arm for me… okay. 148 over 92. A little high, as we suspected. I’m going to listen to your heart and lungs quickly, just to get a baseline.
+PATIENT: Okay, sounds good. I’ll just… breathe normally, right? I always get a little nervous when someone listens to my chest.
+DOCTOR: Yes, just breathe normally. Heart sounds are regular, lungs are clear. No murmurs or wheezing. Now, do you have any allergies to medications?
+PATIENT: Not that I know of. I haven’t really had to take many. Just the occasional pain reliever for a headache, like ibuprofen, and I haven’t had any problems with those. I’m usually pretty good, though.
+DOCTOR: Okay, no known medication allergies. And are you currently taking any medications at all, even over-the-counter things regularly?
+PATIENT: No, nothing regular. Like I said, just ibuprofen if I need it for a headache. And sometimes a multivitamin, but I haven’t even taken one in a while, to be honest.
+DOCTOR: Okay. Have you been diagnosed with any medical conditions in the past?
+PATIENT: Hmm… let me think. No, not really. I had a little trouble with my back a few years ago, but that cleared up with some physical therapy. Nothing major, though. Never been told I had anything serious, like diabetes or anything.
+DOCTOR: Okay, and what about family history?
+PATIENT: Well, my mother had high blood pressure too, when she got older. And my grandfather, on my dad’s side, he had heart problems. But that’s about it, I think. Nobody else that I can remember.
+DOCTOR: Alright. And just to round things out, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh, no. I don’t smoke, never have. And I very rarely drink alcohol – maybe a glass of wine once or twice a year. And definitely no recreational drugs.
+DOCTOR: Okay, that's good to know. One last quick question - how often do you exercise, roughly?
+PATIENT: Well, to be honest… not as much as I should. I'm on my feet a lot at work, but that's not really exercise, is it? I try to walk sometimes, but it's usually just around the neighborhood, and not very often. Maybe once a week, if I’m lucky.
+DOCTOR: Alright. Okay, so we've got elevated blood pressure, a family history of hypertension and heart disease, and a less active lifestyle. It sounds like we're dealing with likely essential hypertension. We need to confirm this with some more monitoring, and then we can discuss a plan. I’d like to start with a 24-hour blood pressure monitor to get a better picture of what your numbers are doing throughout the day. That’ll give us a more accurate reading than just a few checks in the office. Does that sound alright?
+PATIENT: A 24-hour monitor? Hmm… that sounds a bit involved, but if it helps, then okay. So I have to wear it for a whole day? What does it… involve, exactly?
+DOCTOR: Yes, you wear it for a whole day – usually, we put it on in the morning and you take it off the next morning. It’s a small device connected to a blood pressure cuff that automatically takes your blood pressure at regular intervals. It’s not painful or uncomfortable, and you can go about your normal daily activities. You'll also keep a log of what you're doing when it takes a reading – like if you’re resting, eating, or exercising. Does that sound manageable?
+PATIENT: Okay, that sounds… doable, I think. So just normal life, but with a little cuff on my arm and a notebook? And you said it’s not painful? I just don’t like things that… bother me, you know?
+DOCTOR: That’s right – normal life, with the cuff and a small notebook. And no, it shouldn’t bother you at all. The cuff inflates automatically, like when we take your blood pressure here, but it’s not any more uncomfortable. It's just a little bit more frequent. We’ll go over everything before we send you home with it. Okay, let’s schedule you for a 24-hour ambulatory blood pressure monitoring. Do you have any commitments in the next few days?
+PATIENT: Okay, that makes me feel a bit better. No, I’m pretty free this week. Work is a little slow right now, thankfully. Anytime is fine, really.
+DOCTOR: Excellent. Let's get you scheduled for Wednesday morning at 9:00 AM. We'll have the technician fit you with the monitor and explain everything. In the meantime, try to keep a log of any symptoms you experience, like headaches or dizziness. Do you have any questions for me before we wrap up?
+PATIENT: Wednesday at 9 sounds perfect. And okay, I'll try to write down any headaches. Actually… is there anything I should be doing now? Like, change my diet or anything? Before Wednesday?
+DOCTOR: That’s a good question. While we wait for the results of the 24-hour monitor, it wouldn’t hurt to start making some small lifestyle changes. Reducing your sodium intake – that means less salt – can help lower your blood pressure. Also, increasing your potassium intake – things like bananas, sweet potatoes, and spinach – can be beneficial. And focusing on a heart-healthy diet, with lots of fruits, vegetables, and whole grains, is always a good idea. But let's get the monitor results first, and then we can create a more tailored plan. Does that sound reasonable?
+PATIENT: Okay, less salt and more… bananas. I can definitely try that. My sister makes a really good spinach salad, actually. So, just watch the salt and eat more fruits and veggies. Got it. I think that’s everything. Thank you, Doctor.
+DOCTOR: You’re very welcome, Mykeisha. We'll see you on Wednesday at 9:00 AM. Don't hesitate to call if you have any questions before then. Have a good day.
+PATIENT: Nice to meet you, Doctor. I will. You too!

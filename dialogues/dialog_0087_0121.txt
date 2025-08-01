@@ -1,0 +1,37 @@
+DOCTOR: Good afternoon, Mr. Pipolo. My name is Dr. Soodeen. It’s nice to meet you. So, to start, can you tell me what brings you in to see me today?
+PATIENT: Dry eyes. Been real bad lately. Feels like sand in 'em, ya know? Makes it hard to see good when I'm workin'.
+DOCTOR: I understand. “Sand in your eyes” is a good way to describe it. And it's affecting your work, you said?
+PATIENT: Yep. Cement dust and all… makes it worse. Can't blink enough to get it clear. Gotta finish the job, though. Got bills to pay.
+DOCTOR: Okay. It sounds like the dust is certainly aggravating the dryness. And you've been dealing with this recently?
+PATIENT: Just this summer, really. Last year wasn't so bad. Maybe a little scratchy sometimes, but nothin' like this. Seems to be gettin' worse every week. I don't know what to do about it.
+DOCTOR: Alright. And have you noticed any other symptoms along with the dryness and gritty feeling?
+PATIENT: Hmm… well, my eyes get kinda tired, I guess. Especially at the end of the day. And sometimes blurry. Not all the time, just when I'm real tired.
+DOCTOR: Okay, fatigue and some blurring with tiredness. Have you had any pain with your eyes, or any discharge – any redness, or crusting around your eyes when you wake up in the morning?
+PATIENT: No pain. Not really. Just… uncomfortable. And no, no redness or crusty stuff. Just dry. Real dry.
+DOCTOR: Okay. Let's talk about your medical history. Do you have any other health conditions that you're aware of, like diabetes, or anything with your immune system?
+PATIENT: Nah. Doc always said I was a tough old bird. Never been much sick. Had the flu a couple times, but that's it. Work keeps me goin'.
+DOCTOR: Okay, good. And have you ever had any surgeries?
+PATIENT: Nope. Never had nothin' cut open. Always stayed healthy enough to avoid all that.
+DOCTOR: Alright. Do you have any allergies that you know of - to medications, foods, anything like that?
+PATIENT: Nope. Don't think so. Never had a problem with anythin'. Just the dust, I reckon.
+DOCTOR: Okay. Are you currently taking any medications, including over-the-counter medications, vitamins, or supplements?
+PATIENT: Nope. Nothin'. Don't like takin' pills if I can help it.
+DOCTOR: Alright. And finally, do you have any family history of eye problems, like glaucoma or macular degeneration?
+PATIENT: Hmm… not that I know of. My mom and dad, they both had trouble hearin' when they got old, but nothin' wrong with their eyes.
+DOCTOR: Okay. I'm going to do a quick eye exam now, if that’s alright with you. I'll check your vision, look at the surface of your eyes, and just do a few basic tests. It shouldn't take long. Does that sound okay?
+PATIENT: Yeah, sure. Let's get it over with. I got things to do, ya know?
+DOCTOR: Okay. Could you please look straight ahead at that chart on the wall?
+PATIENT: Alright. Is that the big 'E' thing? I always had trouble seein' those small letters.
+DOCTOR: Yes, it is. Just read the letters as clearly as you can, starting with the top line. Start with the top row. What do you see there?
+PATIENT: Uhhh... looks like... F? No, wait… P? It's kinda blurry.
+DOCTOR: Okay. Let's try covering one eye at a time. Could you cover your left eye with your hand for me?
+PATIENT: Okay. Now what? Still blurry... That P looks like an R. I’m not good at this.
+DOCTOR: Alright. Okay. I'm noting that your visual acuity is reduced in both eyes, but appears slightly worse in your left eye. Now I’m going to take a look at your eyes themselves, just to check the surface and make sure everything looks healthy. I’m going to shine a light in each eye, and I just need you to look straight ahead. Don't worry, it won't hurt.
+PATIENT: Okay, sure. Hurry it up, though.
+DOCTOR: Okay, looking at your eyes, I notice some dryness and mild irritation. I also see some punctate erosions on the surface of both corneas. That means there are tiny scratches on the clear front part of your eye, which is likely contributing to the gritty feeling. Your tear ducts also seem a bit… constricted. These findings are consistent with dry eye syndrome, likely exacerbated by the dust at your workplace.
+PATIENT: Dry eye syndrome? That sounds fancy. So, it’s from the dust then? Is there anythin’ I can do about it, besides quit my job?
+DOCTOR: Yes, the dust is definitely a major contributing factor. We can try a few things before considering more drastic measures. I recommend starting with artificial tears—using them frequently throughout the day, even when your eyes don't feel dry. I’m also going to prescribe a mild anti-inflammatory eye drop to help reduce irritation and promote healing. We can also discuss punctal plugs—tiny devices we insert into your tear ducts to help block drainage and keep your eyes moist. It may also be helpful to wear safety glasses at work to protect your eyes from the dust. Do you have any questions about that?
+PATIENT: Artificial tears, drops... and plugs? Sounds like a lotta trouble. Safety glasses, yeah, I got those. But plugs… I don't know. How much is all this gonna cost?
+DOCTOR: That’s a very valid question. The artificial tears are relatively inexpensive, usually under \$15 a bottle. The eye drops will be covered, most likely, with your current prescription benefit, and the co-pay will likely be minimal. The punctal plugs are a bit more expensive - around \$100-200 for both eyes, and insurance coverage can vary. We can check with your insurance to get an accurate estimate. I understand you're concerned about the cost. We can start with the artificial tears and eye drops and see if that provides some relief. If those aren't sufficient, then we can discuss the punctal plugs further. What do you think?
+PATIENT: Alright. Okay. The drops and the tears… let's try that first. No plugs, not yet. I gotta get back to work. Thanks, Doc. .
+DOCTOR: Okay. Here is the prescription and information about the artificial tears. I will also send a work excuse to your employer, just for a few days, to allow your eyes time to recover. If your symptoms worsen or don't improve within a week, please schedule a follow-up appointment, and we’ll consider other options. Take care, Mr. Pipolo. .

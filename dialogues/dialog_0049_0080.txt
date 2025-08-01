@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Ms. Fabing. I'm Dr. Nestingen. So, tell me, what brings you in today?
+PATIENT: Morning, Doctor. Just need to get some forms filled out, really. Medicare sent 'em, said I needed to update some things. Nothing’s wrong, thankfully.
+DOCTOR: Forms, yes. Well, it’s always best to be thorough with these things. Though, truthfully, I prefer to actually see patients, not just process paperwork. But alright. Let’s get this over with then. Do you happen to know which forms specifically?
+PATIENT: Not really, Doctor. Just a big packet came in the mail. They all looked… official. Had a lot of boxes to check, that’s all I know. I figured I’d just come in and someone could help me make sure I’m doin’ ‘em right. I’m not the best at understandin’ all that fine print.
+DOCTOR: Of course. Well, Medicare does enjoy their…verbosity. Let me pull up your file on the computer here. Ah, yes. It appears they’ve sent the standard re-enrollment and beneficiary information update forms. Mostly questions about your current medications, any changes in your healthcare providers, and a basic health status check. It's all rather routine. Though, to be accurate, I should confirm some of those details myself. Do you mind if I ask a few questions, just to ensure everything is correct before you fill them out?
+PATIENT: No, not at all, Doctor. That sounds good. Better safe than sorry, I always say. Go ahead and ask whatever you need to. I'll do my best to answer.
+DOCTOR: Very well. Let’s start with medications. The form lists… nothing. Are you currently taking any prescription medications, Ms. Fabing?
+PATIENT: Nope, not right now. Haven't needed anything regular for a while, thankfully. Just over-the-counter stuff when I get a cold, that’s about it. Mostly just rest and tea, honestly.
+DOCTOR: No current medications. Good. And have you had any changes to your primary care physician or any specialists you see recently?
+PATIENT: Nope, still see Dr. Reynolds, same as always. He’s good people, been takin’ care of my family for years. And I haven’t really needed a specialist in a long time, thankfully. Just him.
+DOCTOR: Very well. The form also asks about any hospitalizations or significant illnesses in the past year. Have you been admitted to the hospital or experienced any major health issues recently?
+PATIENT: Nope, thankfully. Nothing like that. I had a bit of a bad cold back in January, but it wasn't nothin' serious. Just stayed home, drank a lot of fluids, and it went away. Everything's been pretty quiet health-wise, knock on wood.
+DOCTOR: No recent hospitalizations or significant illnesses. Good. Now, this next section concerns allergies. Do you have any known allergies to medications, foods, or environmental factors?
+PATIENT: Nope, not that I know of. I eat pretty much everything. Mom always said I had an iron stomach. Never had a bad reaction to anything, so I guess I’m pretty lucky there, too.
+DOCTOR: That is…convenient. Now, the last section I’ll review before you tackle the paperwork is family history. Are there any significant health conditions that run in your family – things like heart disease, diabetes, cancer, or mental illness?
+PATIENT: Hmm… well, my grandpa on my dad’s side had diabetes. He didn't take care of himself real well, though. And my aunt on my mom’s side had high blood pressure. Other than that… not really that I know of. We didn’t talk a lot about health stuff when I was growin’ up. More about stories and traditions, you know?
+DOCTOR: Diabetes and hypertension… noted. Alright, Ms. Fabing. That should be sufficient for the time being. I'll make a note to check your EHR for more detailed information. You can go ahead and fill out these forms at your leisure. The front desk can assist you if you have any questions. It's mostly just a formality, but we are required to ensure the information is accurate.
+PATIENT: Okay, sounds good, Doctor. Thanks for checkin' with me first, I appreciate that. I’ll get started on these then. And I will ask the front desk if I get stuck, for sure. Have a good day!
+DOCTOR: You as well, Ms. Fabing. .
+PATIENT: .

@@ -1,0 +1,34 @@
+DOCTOR: Good morning, Ms. Voner. I'm Dr. Kur. So, what brings you in to see me today?
+PATIENT: Oh, good morning to you too, Doctor. Hmm… let me think. It’s my joints, mostly. They get really stiff in the mornings, you know? It’s just… harder to get going. Not painful, exactly, just… stuck. I don’t remember exactly when it started, but it’s been a while, I guess.
+DOCTOR: “Stuck,” alright. And is this stiffness… is it all over, or are certain joints bothering you more than others?
+PATIENT: Oh, goodness. All over, I think? My hands are the worst, definitely. Makes it hard to… well, to do things. I used to do a lot of knitting, but it's not so easy anymore. And my knees, sometimes. They just feel… tight. It’s hard to explain. It’s just… old age, probably.
+DOCTOR: "Old age," you say. Well, we'll see about that. And is this stiffness worse at any other times of the day, besides the morning?
+PATIENT: Hmm… not really, I don’t think so. It’s best in the afternoon, usually. After I’ve been moving around a bit. Mornings are just… the worst. It feels like I haven't moved all night. Do I… need to tell you what I do? I work with children, at the daycare. Lots of bending and lifting. Does that matter?
+DOCTOR: It can matter, yes. The type of work you do, how often you’re bending, lifting… it all gives me a better picture. So, daycare… how long have you been doing that?
+PATIENT: Oh, goodness. A long time now. Maybe… fifteen years? Longer, even. I lost my husband, George, a long time ago and… needed something to do. The children are lovely, mostly. Keeps me busy, that’s for sure. It’s just… getting harder these days, with the joints and all. I don't mean to complain.
+DOCTOR: Fifteen years… alright. And before we get further into this, Ms. Voner, have you had any injuries to your joints?
+PATIENT: Injuries? Hmm… let me think. Oh, goodness, I don't think so. Not that I remember. I tripped once, years ago, when I was gardening, but I don’t think I hurt anything. Just a bit of a scrape. Nothing serious. I'm pretty clumsy, to be honest. I'm always bumping into things. Does that count?
+DOCTOR: No, bumping into things doesn’t count. Let’s see…Have you ever been diagnosed with any sort of arthritis, or any other condition affecting your joints?
+PATIENT: Oh, goodness. Arthritis… I don’t think so. No one ever told me. Doctors… well, I don’t see them often. George always took care of that. I just assumed it was… getting old. He used to say I worried too much. Do you think it could be serious? I don’t want to be a bother.
+DOCTOR: Well, Ms. Voner, it’s always best to check things. Now, are you experiencing any swelling or redness in your joints?
+PATIENT: Swelling… sometimes, I think. My hands get a little puffy, especially after I’ve been using them a lot. And… redness, not usually. But they do feel warm, sometimes. A little bit. Is that… bad? I’m probably just making this all up. I do have a good imagination.
+DOCTOR: Alright. And what about other parts of your body?
+PATIENT: Other parts…? Oh, goodness. What do you mean? Do you mean, am I sick anywhere else? I haven’t felt… particularly ill, if that’s what you mean. A little tired, maybe. But who isn’t, at my age? Are we talking about my joints still? I'm getting a bit lost now.
+DOCTOR: Yes, we are still talking about your joints, Ms. Voner, but arthritis can sometimes affect other parts of the body. Have you noticed any rashes, dry eyes, or mouth, or any pain anywhere besides your joints?
+PATIENT: Oh, goodness. Rashes… no, I don’t think so. My skin gets a little dry in the winter, but that’s all. And dry eyes… maybe? I do sometimes need to use eye drops. But I’ve always done that. And… pain? Well, just the joints, mostly. My back aches a little sometimes, but… I think that's from bending over all day with the children. I really don't think I'm very good at this. I forget everything!
+DOCTOR: Alright. Let’s move on. Do you take any medications, Ms. Voner?
+PATIENT: Oh, goodness. Just the eye drops, like I said. And… sometimes I take something for a headache. But not very often. Just… whatever I can find in the cupboard, really. George used to keep everything organized, but… I don't pay much attention to names. Is it important? I didn't know I was supposed to remember all of this.
+DOCTOR: It is important, Ms. Voner. And do you have any allergies to medications, or anything else?
+PATIENT: Oh, goodness. Allergies… I don't think so. Not that I remember. I get a little sniffly sometimes when the flowers bloom in the spring, but that's just hay fever, I think. George always said I was a bit sensitive. Do you think all these questions are necessary? It’s making me feel rather flustered. I'm just an old woman with stiff joints!
+DOCTOR: Alright, Ms. Voner. Let's do a quick examination of your joints, and then we can discuss this further. Please, have a seat here. I need to see the range of motion in your hands and knees.
+PATIENT: Oh… alright. I suppose that’s alright. My knees creak a lot, you know. And my hands… well, they just don’t move like they used to. Be gentle, please, Doctor. They're very sensitive.
+DOCTOR: Please lie down on your back. I’m going to start with your hands. Now, can you squeeze my fingers tightly?
+PATIENT: Oh, alright. There… is that alright? It’s a little… difficult. They feel very stiff today. I don’t know if I can squeeze much tighter.
+DOCTOR: Weak grip, reduced range of motion in all fingers, mild discomfort with flexion and extension. Now, I'm going to check your wrists. Can you turn your wrists both ways for me?
+PATIENT: Oh… there. Like this? It's a bit… painful. And creaky. They make a lot of noise. I'm afraid I'm not very flexible, Doctor. I hope this isn't too bad? I never used to have so much trouble.
+DOCTOR: Mild crepitus with wrist rotation, reduced range of motion. Now, let's check your knees. Please bend your knees one at a time. I'll gently support them.
+PATIENT: Oh… that’s a bit… ow. Yes. It’s very stiff. And creaky. Like an old door, I think. Can you hear it? It’s awful, really. Please, be careful. It doesn't bend very easily.
+DOCTOR: I do hear some crepitus, and the range of motion is limited. Now, let’s try the other knee.
+PATIENT: Oh… it’s much the same as the other one, I’m afraid. Very stiff. And creaky. It feels… tight. And a bit sore. I used to be able to kneel down in the garden without any trouble, you know. But not anymore. It’s all getting so difficult.
+DOCTOR: Limited range of motion in both knees, crepitus with flexion, mild tenderness. Alright. Now, based on what you've told me and what I've observed, it sounds like you have symptoms consistent with osteoarthritis, Ms. Voner.
+PATIENT: Oh… osteoarthritis? Is that… bad? I don’t understand. What does that mean? Will I… be in a wheelchair? Oh dear…

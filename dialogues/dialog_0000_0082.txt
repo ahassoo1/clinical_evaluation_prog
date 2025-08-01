@@ -1,0 +1,36 @@
+DOCTOR: Well, Mr. Tayar. 22 years old, is it?
+PATIENT: Yeah. Something like that. I... I don't really remember dates good. But, yeah, Tayar. Odell Tayar.
+DOCTOR: Right. Well, never mind the dates. What brings you in today?
+PATIENT: Travel... travel medicine, you said? I gotta go... somewhere. My wife... she wanted me to go. But I don’t… I don’t really know where exactly. She planned it all. It’s… important, I think.
+DOCTOR: "Important," yet you don’t even know where you're traveling?
+PATIENT: Look, it was a long time ago, okay? And… and things happened. She was very organized. She handled everything. Tickets and… and shots, I guess. I just… followed her. It was easier that way.
+DOCTOR: So, let me get this straight. Your wife arranged a trip for you, you have no idea where you're going, and you’re only here because she told you to come for travel medicine?
+PATIENT: Yeah, pretty much. She… she liked to be in control. And she wanted me to see… something. She kept talking about a mountain. A really big mountain. But she… she’s not here anymore. So I found the papers. They said… travel clinic.
+DOCTOR: Alright. And when did this... wife pass away?
+PATIENT: Uh… a while ago. Last year, I think. Maybe. It was… cold. A lot of snow. It was a bad accident. I don't really like talking about it.
+DOCTOR: Okay. The records do show your wife, Anjali Tayar, passed away in a skiing accident last winter. And there is documentation of a trip planned to Nepal, specifically the Everest region, scheduled for… next month. Is that accurate?
+PATIENT: Everest… Nepal… yeah, that sounds right. She always talked about Everest. She really wanted to go. I guess… I guess I’m going now. I didn’t even… I just saw the papers and came here.
+DOCTOR: Well, that's... certainly a way to handle things. Nepal is a high-risk destination. We'll need to review your vaccination history – or lack thereof, based on what you've told me – and discuss altitude sickness prevention. Do you have any known allergies?
+PATIENT: Allergies? Uh… not that I know of. I never really paid attention. My wife did all that. I just... get sick sometimes. Like a cold. Or… a stomach thing. Is altitude sickness… bad?
+DOCTOR: "Sometimes?
+PATIENT: Like… when I eat something bad. Or if it's cold. Or… or just when I'm tired, I get sick. My wife always had medicine for it. I don't know what kind. She just… gave it to me.
+DOCTOR: No allergies noted… limited medical history… practically a walking blank slate. Alright, Mr. Tayar. Let's start with the basics. Have you ever had a fever that lasted more than a few days?
+PATIENT: Uh… maybe? I get fevers sometimes. When I'm sick. But a few days… I don't know. I usually just… sleep it off. My wife… she would give me something for it. It's hard to remember things.
+DOCTOR: Mr. Tayar, with all due respect, this is proving… difficult. You are planning a trip to a high-altitude region of Nepal, and you have absolutely no recollection of your medical history. Do you understand the seriousness of this?
+PATIENT: Seriousness? Yeah, I guess. My wife said Everest was serious. She was… careful. She wouldn't let me go if it wasn't safe. But… she's not here to tell me anymore. And I don't… I don't want to disappoint her.
+DOCTOR: Alright. Let's put it this way. Nepal is a developing country. You could be exposed to diseases you’ve never encountered before. We need to ensure you’re adequately protected. Do you have any idea what vaccinations you may have received?
+PATIENT: Vaccinations… She took me to the doctor a lot when we were first married. When we moved here. Shots, she called them. In my arm. But… I don’t remember what they were for. She had a little card, maybe? But I didn’t find it with the other papers.
+DOCTOR: Right. Let’s see. Since you're unable to provide any records, we'll need to proceed as if you have no prior vaccinations. This means a series of boosters and preventative medications. We’ll need to start with a Hepatitis A and B series, Typhoid vaccination, and possibly Japanese Encephalitis, depending on the specific regions you’ll be visiting. And we absolutely need to discuss altitude sickness medication. Do you have any pre-existing conditions – anything at all – like heart problems, lung issues, diabetes?
+PATIENT: Heart… no. Lung… I get a little out of breath when I climb stairs. But everyone does, right? Diabetes… my wife always made sure I didn’t eat too much sugar. I don’t think I have anything. But… I haven't really been to a doctor since… since she passed.
+DOCTOR: Alright. Before we proceed, I am going to need to do a basic physical examination. This will include listening to your heart and lungs, checking your blood pressure, and looking at your overall health. It's crucial to establish a baseline before we administer any vaccinations or medications. Please sit up and let me listen to your breathing. Take a deep breath in… and out…
+PATIENT: Okay… like this? It's a little hard. I haven't been feeling very good lately. Just… tired.
+DOCTOR: Your breathing sounds slightly wheezy, Mr. Tayar. And your pulse is a little elevated. Blood pressure is 130/85… not ideal. Alright. I’m going to listen to your heart now. Any chest pain or palpitations?
+PATIENT: Chest pain… no. But sometimes… sometimes my heart feels like it’s… beating fast. Especially when I get excited. Or scared. But it doesn’t hurt. It just… feels funny.
+DOCTOR: I'm detecting a slight murmur. It's subtle, but it warrants further investigation. Given your history – or lack thereof – and these findings, I recommend a full cardiac workup before you travel. This will include an EKG and possibly an echocardiogram. We need to rule out any underlying heart condition before you subject yourself to the stress of high altitude. We are postponing your travel vaccinations until we have these results. Do you understand?
+PATIENT: A… a what? Heart… problem? I thought… I thought I was just tired. My wife would have known. She always knew. Postponing? But… the trip… I promised her.
+DOCTOR: Mr. Tayar, your wife is not here. And I am telling you, based on my medical assessment, proceeding with this trip without addressing these potential cardiac issues would be irresponsible – and potentially dangerous. I am going to refer you to a cardiologist, Dr. Anya Sharma. She’s excellent. Her office is located downtown. I have the referral form here, and my staff will schedule an appointment for you. Do not travel until you have been evaluated by Dr. Sharma and given the all-clear. Understand?
+PATIENT: …Okay. Dr. Sharma… downtown… But… what if she says I can’t go? What if… what if I can’t keep my promise? My wife… she wanted me to see the mountains so badly.
+DOCTOR: Mr. Tayar, you cannot prioritize a promise over your health. If Dr. Sharma determines you are not fit to travel, then you will need to postpone the trip. It is not worth risking your life. Once you have the results from Dr. Sharma, schedule a follow-up appointment with me. We can then reassess your vaccination needs and discuss preventative measures. Do you have any questions?
+PATIENT: No… no questions. Just… disappointed. I guess… I’ll call Dr. Sharma. Thank you… I think.
+DOCTOR: Very well. My staff will assist you with scheduling the appointment. Have a good day, Mr. Tayar.
+PATIENT: .

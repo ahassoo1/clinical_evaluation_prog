@@ -1,0 +1,36 @@
+DOCTOR: Good morning, Ms. Licano. I am Dr. Jules. Now, let’s not waste time. What brings you in today?
+PATIENT: Oh, good morning, Doctor. Honestly… it’s just… being tired. Really tired. All the time. It’s been… a while, I guess. I don’t even remember exactly when it started. It just… is.
+DOCTOR: “A while,” is not particularly helpful, Ms. Licano. We need some specifics. Has this tiredness been…constant?
+PATIENT: Constant… yes, I think so. Unless… maybe a little better on some days? It’s hard to say, really. I mostly just feel… drained. Like there's no energy left, you know? Everything feels like too much effort. I don’t… I don’t really do much these days anyway.
+DOCTOR: “Too much effort.” Right. And is this tiredness interfering with your daily activities?
+PATIENT: Oh, definitely. I used to… I used to do things. Little things, mostly. Gardening, cleaning… even just going to the store was easier. Now… I mostly stay home. It’s just… easier. Everything feels like a big deal. I don’t even have the energy to visit with friends anymore.
+DOCTOR: I see. And have you noticed any other symptoms accompanying this fatigue?
+PATIENT: Hmm… other symptoms? Let me think. Oh! Sometimes my muscles ache. Not all the time, but… yeah. And… I get headaches. Dull ones, mostly. Nothing terrible, but they're there. Oh, and I’ve been… forgetful. Even more than usual, I mean.
+DOCTOR: “More than usual,” you say?
+PATIENT: Yes. I… well, my memory has never been the best, to be honest. But lately… it's like things just… slip away. I forget why I walked into a room, or what I was saying mid-sentence. It’s… frustrating. And a little scary, if I’m being honest.
+DOCTOR: Alright. And are you experiencing any difficulties with your sleep?
+PATIENT: Sleep… sometimes I have trouble falling asleep. Other times, I wake up in the middle of the night and can't get back to sleep. It’s… uneven. And even when I do sleep, I don't feel rested. Like I haven't slept at all.
+DOCTOR: Very well. Let's move on to your medical history. Have you been diagnosed with any conditions previously?
+PATIENT: Oh, goodness. Let me think… The doctor… my husband’s doctor… he said something about my blood pressure once, a long time ago. But I don't really remember. And… I had a bad fall a few years back, broke my wrist. But that’s about it, I think. Honestly, I don’t keep track of these things very well.
+DOCTOR: A broken wrist… and potentially elevated blood pressure. And any surgeries, Ms. Licano?
+PATIENT: Just the wrist. To fix it, after the fall. It was… unpleasant. They put me under, I remember that. I don't recall much else about it. Honestly, it was all a blur. I… I don’t like hospitals.
+DOCTOR: Very good. Now, family history. Are there any significant medical conditions that run in your family?
+PATIENT: Oh, family… my mother had… something with her heart, I think. She was sick for a long time before she passed. And my brother… he had diabetes, I believe. But… it was a long time ago, and I don’t really remember the details. We weren’t very close, to be honest.
+DOCTOR: Heart condition and diabetes. And do you smoke, Ms. Licano?
+PATIENT: Oh, no, never. Never smoked a day in my life. My husband… he used to, but he stopped years ago. It's a terrible habit.
+DOCTOR: And alcohol consumption?
+PATIENT: Oh, just a glass of wine with dinner sometimes. Very rarely, though. It's been… less and less lately, to be honest. I just haven’t been feeling up to it.
+DOCTOR: Alright. Now, allergies – any known allergies to medications, foods, or anything else?
+PATIENT: Hmm… I don’t think so. Nothing that I know of. I haven’t had any problems with anything, really. Not that I can remember. I'm usually okay with everything.
+DOCTOR: And are you currently taking any medications, Ms. Licano?
+PATIENT: Oh, yes. Just… something for my blood pressure, I think. A small white pill. The doctor prescribed it after… well, after they told me my blood pressure was high. But I can't remember the name of it. I just take it every morning.
+DOCTOR: A “small white pill.” Right. I suppose that will have to do for now. Let's proceed with a quick physical examination, shall we?
+PATIENT: Yes, alright. Whatever you think is best, Doctor. Just… please be quick, if you don’t mind. I don’t handle these things very well.
+DOCTOR: Very well. Please have a seat on the examination table. I'll listen to your heart and lungs, check your reflexes, and take your blood pressure again. Heart sounds are regular, rate approximately 78. Lungs are clear to auscultation bilaterally. Reflexes are 2+ bilaterally. Blood pressure is 140/90. As expected.
+PATIENT: Is that… bad? It always feels like a lot of poking and prodding. It makes me nervous.
+DOCTOR: It is… elevated. That's why you're here, isn't it?
+PATIENT: Oh. Yes, I suppose so. That's why I'm taking the pill, right? To keep it down? I just… everything feels so confusing sometimes.
+DOCTOR: We'll need to run some blood tests to rule out other possible causes for your fatigue and to assess your kidney function. Also, I'd like an EKG to evaluate your heart rhythm. I’ll have the nurse draw the blood and schedule the EKG. Is that acceptable?
+PATIENT: Yes, alright. Whatever you think is best, Doctor. Blood tests and… an EKG. Just… try to make it quick, if you can. I get a little lightheaded easily.
+DOCTOR: Very well. The nurse will be in shortly. We'll review the results once they're available. In the meantime, continue taking your medication as prescribed. And try to get some rest. Though I suspect that’s easier said than done.
+PATIENT: Alright. Thank you, Doctor. I appreciate… well, I appreciate you seeing me. I’ll… I'll see what the nurse says.

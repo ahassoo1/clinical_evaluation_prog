@@ -1,0 +1,15 @@
+DOCTOR: Hi Mr. Murph, good to meet you. I'm Dr. Condray. So, what brings you in to see me today?
+PATIENT: Uh, hello Doctor. Good to meet you too. Well, my… my son, he says I gotta get checked out. Something about… a team? I forget what he called it. A tryout. For… sports. I used to be pretty good, you know. Not now though. Old man now.
+DOCTOR: Okay, so your son encouraged you to come in for a check-up. It sounds like maybe he's concerned about your overall health, perhaps to see if you're up for some activity?
+PATIENT: Activity… yeah, maybe. He’s always worried. Says I gotta “stay active.” I dunno. What kinda activity we talkin’ about? Is it… heavy lifting? My back ain’t what it used to be.
+DOCTOR: We can definitely figure that out. Before we jump to specifics, let’s talk about why your son is suggesting this. Has he noticed anything in particular that's concerned him?
+PATIENT: Not that I recall. He just… well, he worries. Always has. Maybe I get a little winded walkin’ up the stairs? And sometimes my knees… they kinda ache. But that's just old age, right? I ain’t lookin’ for a miracle, Doc. Just want to make sure I ain’t fallin’ apart too fast.
+DOCTOR: Okay, so some shortness of breath with exertion and some knee pain. That’s good information to start with. Just to get a clearer picture, can you tell me a little more about this shortness of breath?
+PATIENT: Well, it ain't like I can’t breathe or nothin’. Just… gotta stop and catch my breath sometimes. If I walk too fast, or go up a hill. It happens more now than it used to, that’s for sure. Used to be, I could walk all day. Now, a little stroll and I’m feelin’ it. My wife gets mad 'cause I go so slow.
+DOCTOR: Okay, so it's a gradual onset, happening more recently with activities you used to be able to do without issue. And it's impacting your daily life a bit, with your wife noticing. Now, let’s talk about your knees. Where exactly do you feel the pain, and what makes it worse or better?
+PATIENT: Right here, mostly. Just kinda… achey. Worse when I walk a lot, or go up and down stairs. Sitting helps, mostly. And… uh… my wife rubs ‘em sometimes. That feels good. It just ain’t like it used to be. I used to play a lot of baseball… a long, long time ago.
+DOCTOR: Baseball, excellent. Any history of injuries to either of your knees from baseball, or anything else?
+PATIENT: Hmm… let me think. There was… one time, I think. Sliding into second base. Twisted my knee a little. Didn’t seem too bad at the time. Just a little sore. I played through it. Back in those days, you didn’t complain much. Now… everything hurts.
+DOCTOR: Okay, a past injury to the left knee, sliding into second base. Good to know. Now, thinking more broadly, have you been experiencing any other symptoms?
+PATIENT: Other symptoms… uh… Not really. I sleep alright, I guess. Eat pretty good, mostly. My wife does most of the cookin’. I get a little tired sometimes, but who doesn’t, at my age? I ain't fallin' apart completely yet. .
+DOCTOR: That’s good to hear. Just to be thorough, let me ask about a few things. Have you noticed any swelling in your ankles or feet?

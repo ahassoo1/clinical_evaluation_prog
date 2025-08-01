@@ -1,0 +1,45 @@
+DOCTOR: Good morning, Ms. Benites. I'm Dr. Chora. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It is… a telehealth visit, yes? My back… it is not so good lately. A little pain, you know? Not all the time, but enough to bother me.
+DOCTOR: Okay, telehealth, right. And it's your back that's been bothering you. "A little pain"… can you tell me a bit more about that?
+PATIENT: Yes. It is… hard to explain. It is not a sharp pain, more like… a dull ache. Mostly when I am standing for a long time. Or… after I have been working on a car. I am a mechanic, you see. I fix cars. It is my job.
+DOCTOR: Alright, a dull ache that’s worse with standing and after working on cars. That gives me a little more to go on. And you are a mechanic, so physical work is involved. Has this pain been gradual, or did it start suddenly?
+PATIENT: Gradual, I think. Not… bang, suddenly. It started… maybe a few months ago? Just a little bit, and then it got a little more. Not every day, but more often. It is… difficult to remember exactly when.
+DOCTOR: Okay, a few months of gradually increasing pain. Do you notice it radiating anywhere – like down your legs, or into your hips?
+PATIENT: No, no. Not down my legs. It stays… mostly in my lower back. Sometimes I feel it a little bit in my… hips, yes. But not always. It is not a pain that goes anywhere, just… stays there.
+DOCTOR: Alright, localized to the lower back, sometimes a little in the hips. Have you tried anything to alleviate the pain so far?
+PATIENT: Yes. I take… what you call them? Pain pills. Over the counter. The white ones. They help a little, but not much. And… I try to stretch. Not every day, I must admit. It is hard when you are busy.
+DOCTOR: Okay, over-the-counter pain pills and some stretching. We'll need to get a better idea of what’s going on. Now, are you having any numbness or weakness in your legs or feet?
+PATIENT: No, Doctor. No numbness. And no weakness. I can walk okay. I can stand okay. It is just… uncomfortable. It is… a bothersome pain, you know? Not terrible, but… not good.
+DOCTOR: Alright, no numbness or weakness. That's good. Now, let's talk a bit about your medical history. Do you have any significant medical problems – things like diabetes, arthritis, high blood pressure, anything like that?
+PATIENT: Hmm. Let me think. My blood pressure… the doctor told me it was a little high a few years ago. I take a pill for that, yes. And… I had some trouble with my knee a long time ago, but that is fixed now. I do not have diabetes, I think. Not that I know of.
+DOCTOR: Okay, so high blood pressure, managed with medication, and a past knee issue. Any surgeries in the past?
+PATIENT: Yes. My knee, the one I mentioned. I had surgery… maybe ten years ago? It helped a lot. And… oh, I had my gallbladder out, a long time ago. Maybe twenty years ago? That is all I can remember, I think.
+DOCTOR: Alright, knee surgery and gallbladder removal. And you're currently taking medication for your blood pressure, correct?
+PATIENT: Yes, Doctor. For the blood pressure. A small white pill, every morning. And the pain pills when my back bothers me, but not every day, you understand?
+DOCTOR: Okay. Do you have any allergies to medications?
+PATIENT: No, no allergies. I can take most things, I think. Never had a problem. I don't remember ever being allergic to anything.
+DOCTOR: Alright, good. Now, a few questions about your lifestyle. Do you smoke?
+PATIENT: No, Doctor. I do not smoke. Never have. It is bad for you, you know. My husband… he smoked. He… passed away. So, no, I do not smoke.
+DOCTOR: I see. I'm sorry to hear about your husband. Do you drink alcohol?
+PATIENT: Thank you, Doctor. Sometimes… a little wine with dinner. Maybe one glass. Not every day, but sometimes. Not much, you understand?
+DOCTOR: Okay, occasional wine. And finally, do you do any regular exercise besides your work as a mechanic?
+PATIENT: No, Doctor. Not really. My work… it is exercise, yes? Lifting, bending, walking… it is hard work. I do not go to the gym or anything like that. Just work. It keeps me busy.
+DOCTOR: Alright. Let's do a quick physical exam, if you don't mind. I'd like to check your range of motion and see if I can pinpoint where the pain is coming from. Can you stand up for me, please?
+PATIENT: Yes, of course. It is a little hard, but I can stand.
+DOCTOR: Okay. Now, can you bend forward and touch your toes?
+PATIENT: Oh… that is… difficult. I can’t reach my toes, Doctor. It hurts a little.
+DOCTOR: Okay, I see. And when you bend backward, is that painful?
+PATIENT: Yes, a little. Not so bad as bending forward, but… uncomfortable. It is… a tight feeling. I don’t like to do that.
+DOCTOR: Alright. And can you side bend – lean to the left and then to the right?
+PATIENT: Yes. Left side… a little pain. Right side… not so much. But both sides… it is not comfortable, Doctor. It is hard to explain. It is just… tight and sore.
+DOCTOR: Okay. Now, let's see if pressing on certain areas causes pain. Does this hurt?
+PATIENT: Yes… that spot, yes. A little tender. Not terrible, but… I feel it. A little ache when you push there.
+DOCTOR: Okay. And here?
+PATIENT: Yes… also a little tender there, but not as much as the left side. It is… hard to sit still for a long time. That is the worst part, I think.
+DOCTOR: Alright. It sounds like you have some muscle strain and tenderness in your lower back, likely aggravated by your work. Based on what you’ve told me, and the physical exam, I suspect this is a musculoskeletal issue. However, to rule out anything more serious – like a disc problem or arthritis – I’d like to order some X-rays of your lower back. Would that be alright?
+PATIENT: Yes, that is… alright, Doctor. If you think it is best. I want to know what is wrong, you understand? X-rays… yes, that is fine. Will they be painful?
+DOCTOR: No, Ms. Benites, X-rays aren't painful at all. You'll just need to stand still for a few moments while the technician takes the pictures. I’ll also give you a prescription for a muscle relaxant and some stronger pain medication to help manage your symptoms while we wait for the results. And I want you to try to avoid heavy lifting and prolonged standing as much as possible. Do you have any questions about that?
+PATIENT: No, I think I understand, Doctor. Muscle relaxant… and pain pills. No heavy lifting. Yes. Thank you. And… how long will the X-rays take to come back?
+DOCTOR: Usually, it takes about 24-48 hours for the results to come back. My office will call you as soon as they have them, and we can schedule a follow-up appointment to discuss them and create a more comprehensive treatment plan. In the meantime, if your pain gets significantly worse, or if you experience any numbness or weakness in your legs or feet, please go to the emergency room immediately. Do you understand?
+PATIENT: Yes, Doctor. 24-48 hours. Call my office. And… if the pain is worse, or numbness… go to the emergency room. Yes, I understand. Thank you very much for your help. I appreciate it. I think that is all.
+DOCTOR: Alright, Ms. Benites. I'm glad I could help. I'll have my nurse print out the X-ray order and the prescriptions for you. And please, don’t hesitate to call the office if you have any concerns. Take care and try to rest. .

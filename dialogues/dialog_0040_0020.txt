@@ -1,0 +1,27 @@
+DOCTOR: Right, yes. Mrs. Benites, is it?
+PATIENT: Yes, that is correct. Avril Benites. It is nice to meet you, Doctor… Osga, yes? I am sorry, my memory is not what it used to be.
+DOCTOR: Oh, don't worry about it, happens to the best of us. Look, I’m quite busy today, so if we could just get straight to why you’re here, that would be… efficient. What brings you in?
+PATIENT: Well, I received a notice… a letter, about a check-up. A telehealth evaluation, it said. I am not very good with these new things… the computers and such. I mostly just wanted to make sure everything is still… working, you know? I am 57, and I still work on cars all day. It is a physical job.
+DOCTOR: A routine check-up, alright. And you work on cars… full-time?
+PATIENT: Yes, full-time. At the garage on Elm Street. I have been a mechanic for… oh, a long time now. Since I was very young, really. It keeps me busy, but sometimes… my body feels it. Mostly just aches, you know? Nothing bad, I just want to be sure it is nothing serious.
+DOCTOR: Right. And these “aches”… where, exactly?
+PATIENT: Mostly in my back, I think. And my hands… they get stiff sometimes. Especially in the mornings. It is hard to grip things, you know? Small things, like… nuts and bolts. It is not every day, but it happens more and more. I take some… pills, for the pain. But they do not always help.
+DOCTOR: Pills, you say. What pills are those, exactly?
+PATIENT: Oh… um. Let me think. I get them from the… the pharmacy. A small bottle. They are… white, I believe. I do not remember the name… my husband always took care of that. He passed away last year, you see. I just… ask for more when I run out. Is that bad? I do not mean to be difficult.
+DOCTOR: It’s… less than ideal, Mrs. Benites. Do you have any idea why you were prescribed them?
+PATIENT: No, not really. The doctor… a different doctor… gave them to me after I hurt my back lifting a car engine. It was a few years ago now. He said it was for the pain. I just keep taking them when it hurts. Is there a problem with that? I am not sure I understand.
+DOCTOR: Well, taking medication without knowing what it is, or why you’re taking it… isn’t best practice, shall we say. Alright. Let’s do a quick physical exam, just to get a baseline. Can you stand for me?
+PATIENT: Yes, I can stand. Though, forgive me, my balance isn't what it used to be either. There. Is that alright? Do you need me to do anything special?
+DOCTOR: Yes, alright. Let’s see… Any pain here?
+PATIENT: Ouch! Yes, that spot… a little bit. Right… there. It is not terrible, but I feel it. It is a dull ache, mostly. Like a… constant pressure. Does that make sense?
+DOCTOR: Dull ache, lower back. Alright. And your hands… show me how you grip something. Like… this pen, for instance.
+PATIENT: Like this. It is… difficult. See? I used to be able to hold things much tighter. It feels… clumsy now. And sometimes, they tingle, you know? A little bit numb.
+DOCTOR: Weak grip, tingling. Alright. Let’s check your reflexes. Just relax your arm. I'm going to tap this little area here.
+PATIENT: Oh… a hammer? Is that going to hurt? I do not like being tapped. My husband… he never liked these things either. But alright, I will try. Just be gentle, please?
+DOCTOR: Hmmm. Response is… diminished. And the other side… Also diminished. Alright. We may need to get some imaging done. Perhaps an X-ray, just to rule things out. And I think a referral to a neurologist might be prudent. Diminished reflexes are concerning.
+PATIENT: Oh dear. Imaging? A neurologist? What… what is wrong? Is it something serious? I just wanted to make sure I could keep working. I do not understand… what does a neurologist do? And what will the imaging show? I am starting to feel quite anxious now.
+DOCTOR: Mrs. Benites, I'm not saying it is something serious, but we need to investigate. A neurologist specializes in nerve and muscle problems. The imaging will help us see if there's any damage to your spine or any other underlying issues. Frankly, based on what you've told me – the aches, the weak grip, the diminished reflexes – it's best to be cautious. I’ll write you a referral. It is just a precaution. I will also order the X-ray. The clinic will contact you to schedule it. Do you have any allergies I should be aware of?
+PATIENT: No, no allergies that I know of. Just… anxious, now. Will this mean I cannot work? I have bills to pay… and I like my job. It keeps me busy. Can you at least tell me… is it something like arthritis? My mother had that, and it made her hands very stiff. Is it like that?
+DOCTOR: Mrs. Benites, I cannot make a definitive diagnosis without proper testing. It could be arthritis, it could be something else entirely. That's why we're doing these tests. As for working, I'm not going to tell you to stop working outright, but I would advise you to take it easy until we have a clearer picture of what's going on. No heavy lifting. I’m finishing the referral now. Here. Dr. Chen. Good neurologist. He’ll get you sorted. Now, is there anything else, or can we be done here?
+PATIENT: Dr. Chen… alright. No heavy lifting… I understand. No, I think that is all. Thank you, Doctor… for trying. I just… I wish I knew what was happening. I suppose I will wait for the clinic to call. .
+DOCTOR: .

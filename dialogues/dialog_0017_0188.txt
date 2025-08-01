@@ -1,0 +1,24 @@
+DOCTOR: Good afternoon, Mr. Secondi. I am Dr. Blim. Now, let's get straight to the point. What brings you in to see me today?
+PATIENT: Uh, good afternoon, Doctor. It's... my pee. It's orange. I noticed it a few days ago. It’s… not normal, yeah?
+DOCTOR: Orange urine, you say. A rather… unsubtle symptom. And how long precisely have you noticed this discoloration?
+PATIENT: Hmm… maybe three, four days now? It started… I think after I did a lot of work in the sun. Building a fence for my garden. I drink water, but… maybe not enough water, I guess?
+DOCTOR: Sun exposure and fence-building. Interesting. And what, specifically, were you doing to hydrate yourself during this… construction?
+PATIENT: Well, mostly water. And some juice… orange juice, actually. And… sometimes a soda when it’s really hot. I try to drink lots, but it’s hard when you’re sweating a lot, you know? It’s… not like drinking water when you’re not working.
+DOCTOR: Orange urine after consuming orange juice… remarkable. Are you experiencing any pain or burning during urination?
+PATIENT: No, no pain. Not burning. Just… the color. It worried my wife. She said I should come see a doctor. She gets scared easy, you know? But… yeah, no pain or anything else. Just orange pee. It looks… strange. Like carrot juice, almost.
+DOCTOR: Your wife’s concern is… prudent, I suppose. Have you noticed any changes in the frequency of your urination?
+PATIENT: No, not really. I go… the same amount as usual, I think. Maybe a little less, because I’m drinking less when I work hard. But… I don’t have to get up at night or anything like that. It’s just… the color is different. It’s what bothered me.
+DOCTOR: And what is your typical fluid intake on a non-work day?
+PATIENT: Hmm… let me think. Usually, I have coffee with breakfast. Maybe two cups. And then water with lunch and dinner. And sometimes tea in the evening. I don't really measure it, you know? I drink when I'm thirsty. But… maybe six, eight glasses a day? I don't know for sure. It’s… hard to say.
+DOCTOR: Right. Let's conduct a quick physical examination. I’ll need to check your hydration status and rule out any other… contributing factors. Please, lie down on the examination table. We'll start with your abdomen.
+PATIENT: Okay, Doctor. Whatever you need. Is it going to… hurt? I don't like doctors much. Too many pokings and proddings, you know?
+DOCTOR: Nonsense. A simple examination. I assure you, it will be… minimally invasive. I'll palpate your abdomen, listen to your bowel sounds. Standard procedure. Now, if you’ll just lie flat on your back, arms at your sides.
+PATIENT: Okay, okay. Arms at my sides… like this? Just tell me if it's going to be uncomfortable, Doctor. I have a sensitive stomach.
+DOCTOR: Breathe normally, Mr. Secondi. Now, do you feel any tenderness here?
+PATIENT: No… not yet. It’s… just pressure. Like when you push on my stomach. It doesn't hurt hurt. Just feels… strange. Is something wrong?
+DOCTOR: No cause for immediate alarm. I'm assessing for any… irregularities. Your abdomen is soft, non-distended. No palpable masses. Bowel sounds are present, though somewhat… diminished. Now, let’s check your skin turgor. Extend your arm.
+PATIENT: Okay… It feels… funny. Like when I stay in the sun too long. Does that mean… I'm dehydrated? Is it bad? My wife is going to worry…
+DOCTOR: Mildly diminished skin turgor, as expected. Given your recent outdoor activity, this is not entirely surprising. However, it does suggest a degree of dehydration. We'll need to perform a urinalysis to confirm this and rule out other potential causes for the discoloration. Could you please provide a urine sample?
+PATIENT: Okay, yes, of course. Where… where do I do that? Is there a bathroom? I hope it’s clean…
+DOCTOR: Just through that door, to your left. There are instructions posted inside. Try to collect a midstream sample if possible. And please, be quick about it.
+PATIENT: Okay, okay. Midstream… right. I’ll try to remember.

@@ -1,0 +1,19 @@
+DOCTOR: Alright, Mr. Sobkowicz. Welcome. I'm Dr. Havird. So, what brings you in to see me today?
+PATIENT: Chest… hurts. And… fast beat. Like bird. Old man heart no good for fast beat. And… number high. Nurse tell me. Blood… pressure, she say. I want fix. Quick.
+DOCTOR: Okay, okay. “Chest hurts and fast beat… number high.” Right. Well, let's get this sorted out. Just to clarify, how long has your chest been hurting?
+PATIENT: Long time. Maybe… week? Not always. Sometimes okay. Sometimes… like someone sit on chest. Not good feeling. I work hard, you know. Emergency… things. Always busy. No time for… feel bad.
+DOCTOR: “Like someone sitting on chest… intermittent, about a week.” Emergency things, you say?
+PATIENT: Yes. Emergency… Director. City. Everything happen, I fix. Fire, flood, everything. Very stressful. Maybe that why heart… you know. Not good. I not young man anymore. You fix quick? I have meeting. Important.
+DOCTOR: Right, Director… stressful work. Well, we’ll do our best to be efficient. Let’s start with a few more details about this chest pain. When you say 'sometimes', can you tell me what makes it worse?
+PATIENT: Walking. Especially up… hill. And… when I worry. Lots of people… problems. I think. I think too much. Maybe that bad. And… eating. Big meal, then… oof. Heart heavy. Not good. You understand?
+DOCTOR: Okay, so it's worse with exertion – walking, especially uphill – when you’re worried, and after big meals. That’s helpful. Any pain radiating anywhere – your arm, jaw, back, maybe?
+PATIENT: Hmm… Sometimes… left arm. Not always. Tingling. Like… pins and needles. Not bad. But… there. And… sometimes jaw. But I old man! Old man things happen. Maybe teeth. Not important. Quick, doctor. I busy.
+DOCTOR: Alright. Tingling in the left arm and sometimes jaw pain. It’s good you’re telling me everything, even if you think it's 'old man things'. Let’s do a quick physical exam, just to listen to your heart and lungs, and check your blood pressure again. Okay?
+PATIENT: Okay. Fine. Just… fast. Please. I have important things. You listen quick. And… I don’t like cold stethoscope. Make me shiver.
+DOCTOR: I will be as quick as possible, and I've warmed it up a bit. Just breathe normally for me. Okay, heart rate is… elevated, as you mentioned. Rhythm is somewhat irregular. Lungs are clear. Blood pressure is 160/95. That is elevated. I'm going to listen again, just to be sure. Okay. And I’m feeling a slight irregularity in the rhythm. Pulse is also a bit weak. I'm going to order an EKG right away. That will give us a better picture of what’s happening with your heart.
+PATIENT: EKG? What is EKG? Is that… painful? I don’t like needles. And I have meeting! Important meeting! Can’t be in… hospital long. This EKG… quick? Please. Very quick. I need to know if I can go to meeting.
+DOCTOR: No, an EKG is not painful. It's a simple test where we put some sticky patches on your chest, arms, and legs. It doesn't involve needles. It just measures the electrical activity of your heart. It will take maybe five minutes, ten at most. And it's important to see what's causing this irregular rhythm and elevated blood pressure before you go to your meeting. We need to rule out anything serious. The nurse will take you to the EKG room. I'll review the results as soon as they're available.
+PATIENT: Fine. Sticky patches… not needles. Good. But… important meeting. City business. Very important. Can’t be long. Tell nurse… quick. I want know right away when finish. City depend on me! And… is this serious? You think I… dying? Just tell me. Quick. I need to prepare.
+DOCTOR: Let's not jump to conclusions. It's too early to say anything about that. That’s why we’re doing the EKG. The nurse will take you to the EKG room now, and I will review the results as soon as they are ready. We will discuss them then. I’ll be as quick as possible. Please, just try to relax while the nurse gets you set up.
+PATIENT: .
+DOCTOR: .

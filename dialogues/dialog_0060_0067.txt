@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Ruocco. I’m Dr. Nooruddin. So, tell me, what brings you in to see me today?
+PATIENT: Oh, good morning, Doctor. It’s… something with my breathing, I think. Hurts when I take a deep breath. Not all the time, you know? Just… when I try to. It's been happening for a little while now, but I didn't want to bother anyone.
+DOCTOR: Hmm. “A little while now…” and you’re just getting around to mentioning it now?
+PATIENT: Well, like I said, it wasn’t too bad. Old man things, you know? I figured it would just go away. I don’t like making a fuss. Besides, I have things to do. Work doesn't wait for a sore chest.
+DOCTOR: Right. “Old man things.” And what exactly does that entail, Mr. Ruocco?
+PATIENT: Oh, aches and pains mostly. Been doing construction all my life, you see. Hard work. Lifting, bending… it takes a toll. This breathing thing just felt… different, but not so different, you understand? Hard to explain. It’s just… a discomfort.
+DOCTOR: Okay. So, this discomfort… where exactly do you feel it?
+PATIENT: Right… here. More in the middle, I guess. Sometimes it goes to my back a little. It's not a sharp pain, just… a tightness. Like something's squeezing.
+DOCTOR: And does anything make it worse?
+PATIENT: Hmm. Lifting things, definitely. And… cold air, maybe? When it’s chilly out, it feels worse when I take a deep breath. Hard to say for sure, honestly. My memory isn’t what it used to be.
+DOCTOR: Right. Well, let's try to be a little more precise, shall we?
+PATIENT: Precise? Oh. I’m trying, Doctor. It's just… things blend together after a while. A lot of days, a lot of aches. What would you like to know exactly?
+DOCTOR: Alright. Have you had a cough?
+PATIENT: A cough? Not really. Maybe a little one now and then, but nothing that would bother me. Just the usual… old man cough. Mostly when I get dust in my lungs.
+DOCTOR: And any fever, chills, or night sweats?
+PATIENT: Fever… not that I know of. I don't check my temperature, Doctor. And chills… well, it gets cold in the winter, doesn’t it? Can't say I've been sweating a lot at night. I sleep pretty soundly, if that makes any sense.
+DOCTOR: Alright. Let’s do a quick listen to your lungs, alright?
+PATIENT: Okay, Doctor. Whatever you think is best. I trust your judgment. Just… try to be quick, if you don’t mind. I have a crew waiting for me back at the site.
+DOCTOR: Okay. Take a deep breath in… and out… again… Your breathing sounds a little… diminished on both sides. Some mild wheezing. It could be a number of things, but given your history, and frankly, your… vague descriptions, I'm going to suspect some mild bronchitis, perhaps some early pneumonia. We need to rule that out.
+PATIENT: Pneumonia? Oh dear. Is that… serious, Doctor? I don't want to be stuck in a hospital.
+DOCTOR: It can be. That’s why we need to get a chest x-ray. We need to see what’s going on in there, alright?
+PATIENT: An x-ray… alright. I guess… if you think it’s necessary. Will it take long? And… will I have to miss a whole day of work for this?
+DOCTOR: It won't take long, maybe an hour or so. The x-ray place is just down the road. I’ll have the results sent over. But frankly, Mr. Ruocco, at your age, and with your… lifestyle, it's best to be cautious. We need to rule out anything serious. I’m writing you a referral now. And I'm also going to prescribe you an inhaler, just in case it's some mild asthma flare-up. Don't push yourself too hard, alright?
+PATIENT: An inhaler… alright. Thank you, Doctor. I appreciate you looking after me. I really do. Just… I have a job to do, you know? A crew depending on me.
+DOCTOR: Yes, well. Try to prioritize your health, Mr. Ruocco. It won’t do anyone any good if you’re completely laid up. The referral is for the x-ray. Go there as soon as you can. And try not to strain yourself while you wait for the results. Is there anything else?
+PATIENT: No, Doctor. I think that’s all. Just… the x-ray. And the inhaler. Thank you again. I appreciate your time. .
+DOCTOR: Alright. Get well soon, Mr. Ruocco.

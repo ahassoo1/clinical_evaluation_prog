@@ -1,0 +1,27 @@
+DOCTOR: Good afternoon, Mr. Ruocco. Welcome to the clinic. I'm Dr. Pirl. Now, tell me, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. Just… this pain. When I breathe deep, it hurts. It’s been… a little while now. Not sure exactly how long, to be honest. Old age, I guess.
+DOCTOR: I understand. Pain with deep breathing… alright. And you said “a little while now”?
+PATIENT: Yeah, a little while. Maybe… a month? Two? Everything kinda blends together, you know? It's not bad all the time, just when I take a good, deep breath. Like when I’m trying to lift something heavy.
+DOCTOR: A month or two… alright. And is the pain anywhere specific, Mr. Ruocco?
+PATIENT: Hmm… let me think. It feels… in my chest, mostly. But also, kinda… around my ribs? It's hard to say exactly. It's not a sharp pain, more like a dull ache.
+DOCTOR: A dull ache in the chest and around the ribs… Do you notice anything that makes it better?
+PATIENT: Better? Not really, not that I've noticed. Maybe… sitting still? If I don't move much, it doesn't bother me as much. But I gotta live, you know? Can’t just sit all day.
+DOCTOR: Of course, you’re right. Sitting still isn’t a solution. And you mentioned a cough just now… has that been recent?
+PATIENT: Oh, the cough. Yes. It's been… a few days, maybe? Not a bad cough, just… tickly. Doesn't bring anything up, if you know what I mean. Just annoying. Probably just a little cold.
+DOCTOR: Alright. And have you had any fever, chills, or night sweats recently, Mr. Ruocco?
+PATIENT: Fever… hmm. Not that I've checked. I don't usually bother with thermometers. Chills… no, I don't think so. Nightsweats… well, I always sleep warm. It gets hot, you know? But that's just me.
+DOCTOR: Alright. And do you have any history of breathing problems, like asthma or COPD?
+PATIENT: Breathing problems… not that I know of. Never been told I had anything like that. I used to do a lot of work, construction, you know? Lots of dust, lots of lifting. But I always felt alright. Never had trouble catching my breath… until lately.
+DOCTOR: Alright. And do you smoke, or have you smoked in the past?
+PATIENT: No, never smoked. My wife… she didn’t like it. And I figured it wasn’t good for you.
+DOCTOR: Alright. Now, I’d like to listen to your lungs and heart, and perhaps do a quick examination of your chest wall. Is that alright with you, Mr. Ruocco?
+PATIENT: Yes, yes, that's fine. Whatever you think is best, Doctor. I just want to figure out what's going on.
+DOCTOR: Wonderful. If you’ll just have a seat here, and I’ll be right with you. Please take a deep breath for me… and another one. Breathing sounds are slightly diminished in the lower lobes bilaterally. I’m also palpating your chest wall now… There’s mild tenderness to palpation over the lower rib cage, left side. Alright, Mr. Ruocco. It sounds like we need to consider a few possibilities. Given your history and the findings on the exam, I'd like to order a chest X-ray to rule out any lung issues. Would that be alright?
+PATIENT: X-ray… yes, alright. If that's what you think is best, Doctor. I trust your judgment. I just want to know what's going on. Hopefully it’s nothing too serious.
+DOCTOR: I understand your concern, Mr. Ruocco. We'll get that ordered right away. In the meantime, I'm going to prescribe you a mild cough suppressant to help with the tickly cough. It shouldn’t interfere with any testing we do. I also recommend you avoid any strenuous activity until we have the results of the X-ray. I’ll have the radiology department schedule the X-ray for you. Do you have any allergies to medications I should be aware of?
+PATIENT: Allergies… hmm. Not that I know of. Never had a reaction to anything, as far as I can remember. But… my wife used to say I was allergic to getting in trouble.
+DOCTOR: Alright, good to know. No known allergies. I’ll write the prescription for the cough suppressant now, and we’ll get the X-ray scheduled for you. Once the results are in, we can discuss them and create a plan. Do you have any questions for me at this time?
+PATIENT: No, I don't think so. You've been very thorough, Doctor. Just… when will I get the results? I'd like to know soon, if that's possible.
+DOCTOR: Certainly. We usually get the X-ray results back within 24 to 48 hours. The radiology department will send them directly to me, and my staff will contact you as soon as I've had a chance to review them. We'll call you with the results and discuss the next steps. In the meantime, if your pain worsens significantly, or if you develop a fever, shortness of breath, or any other concerning symptoms, please don't hesitate to go to the nearest emergency room. Here’s the prescription for the cough suppressant. And again, thank you for coming in today, Mr. Ruocco. Is there anything else I can assist you with before you leave?
+PATIENT: No, I think that's everything. Thank you, Doctor Pirl. You’ve been very kind. I appreciate your help. I guess I'll be going now. .
+DOCTOR: You’re very welcome, Mr. Ruocco. It was my pleasure. Please take care, and don’t hesitate to reach out if you have any questions or concerns. We'll be in touch soon. Have a good day. .

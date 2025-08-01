@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Nixon. I'm Dr. Vanochten. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, my left leg is quite swollen. It’s been botherin’ me for a few days now. I also… I have a heart problem, the doctors told me. Something about it beatin’ too fast, sometimes.
+DOCTOR: Okay, a swollen left leg and a history of a fast heartbeat. Let's start with the leg. Can you tell me when you first noticed the swelling?
+PATIENT: Hmm… let me think. It started, I believe, on… maybe Tuesday? Yes, Tuesday of this week. It wasn’t much at first, but it’s gotten worse each day, I think. It’s a bit uncomfortable to walk on, to be honest.
+DOCTOR: Alright, Tuesday. And is it just the leg that's swollen, or is there any swelling in your foot or ankle as well?
+PATIENT: It's mostly the leg, Doctor. My ankle is a wee bit puffy, but not nearly as bad as the leg itself. It's mostly from the knee down, I’d say.
+DOCTOR: Okay, knee down. And has anything specific made it worse – like standing for long periods, or any injury to the leg recently?
+PATIENT: No, nothin' I can think of. I’ve been teachin’, mostly. That involves a fair bit of standin’, yes, but I do that every day and it’s not normally a problem. No injuries, no nothin’. It just… started swellin’. I don’t know why.
+DOCTOR: Alright, no injury, and it's progressively worsening despite your usual activity. Let's talk about this fast heartbeat you mentioned. Do you feel it happening often?
+PATIENT: It… comes and goes. Some days I don’t notice it at all, and other days it feels like my chest is racin’. It doesn’t last long, usually. Just a few minutes, maybe. I’m not sure how often, exactly. It’s hard to keep track.
+DOCTOR: Okay, intermittent palpitations. And do these episodes happen with any specific activity, like exercise, or stress, or even just at rest?
+PATIENT: Hmm. I think… maybe when I’m a bit worried, it happens more. Like, if I have a lot of paperwork to grade, or a difficult student. It’s hard to say for sure, though. It seems to happen randomly sometimes, even when I’m relaxin’.
+DOCTOR: Alright, potentially linked to stress. Do you have any pain in your chest with these episodes, or shortness of breath?
+PATIENT: No pain, Doctor. Not usually. Sometimes I feel a bit… lightheaded, maybe, when it’s happenin’. And a bit breathless, yes. But not severely. It’s never lasted long enough to really worry me… until this leg started swellin’.
+DOCTOR: Okay, lightheadedness and mild breathlessness with the palpitations. Now, let’s get a quick look at the leg. Could you please sit on the examination table?
+PATIENT: Yes, of course. It’s a bit chilly, isn’t it?
+DOCTOR: It is a little cool in here. I'm just going to gently feel around your leg and check for tenderness and warmth. Then I’ll take a look at your ankle and foot. Okay, the leg is warmer than the other one, and there's some tenderness when I press here. Any pain with this?
+PATIENT: Yes, that’s a bit sore, actually. Not awful, but I can definitely feel it when you press there. It’s like a dull ache, mostly.
+DOCTOR: Okay. And is there any redness or broken skin on your leg or foot?
+PATIENT: No, Doctor. I’ve been lookin’ at it, and there’s no redness, and my skin is fine. No cuts or anything like that. Just swollen and sore.
+DOCTOR: Alright. I'm going to measure the circumference of both your legs, just to get a better idea of the swelling. Okay, your left leg is about 2 centimeters larger in circumference than your right leg. Given your history and the exam findings, it sounds like we need to rule out a blood clot in your leg, called a deep vein thrombosis, or DVT. We’ll also need to investigate this fast heartbeat. Do you have any allergies to medication?
+PATIENT: Oh dear. A blood clot sounds… serious. No, Doctor, I don’t have any allergies. None at all. I’ve never had a bad reaction to anything.
+DOCTOR: Okay, good to know. And are you currently taking any medications at all, including over-the-counter medications or supplements?
+PATIENT: No, I’m not takin’ anything regularly. Just the occasional paracetamol for a headache, if I need it. That’s all.
+DOCTOR: Alright. Given your symptoms and the exam, I'm going to order a D-dimer blood test and an ECG to check your heart rhythm. The D-dimer will help us rule out a blood clot. If the D-dimer is elevated, we’ll need to do an ultrasound of your leg to confirm or rule out a DVT. Does that sound alright to you?
+PATIENT: Yes, that sounds… sensible, Doctor. Whatever you think is best. A blood test and a heart thing… Yes, alright. Will the blood test be painful?
+DOCTOR: No, the blood test is just a quick prick of a needle. It shouldn’t be too painful. We'll get the results back within a few hours. While we wait for the results, I recommend elevating your leg as much as possible, and avoiding prolonged standing. I’ll also have the nurse schedule a follow-up appointment for us to discuss the results and plan further management. Do you have any questions for me at this point?
+PATIENT: No, I think… I think I understand. Elevate my leg, and no standin’ too long. I’m a bit worried about this blood clot thing, but if you think it's best to check, then I trust you, Doctor. I don’t think I have any questions right now. Thank you.
+DOCTOR: Okay. The nurse will be in shortly to draw your blood. We'll get everything sorted out. Please don’t hesitate to call if you experience any new or worsening symptoms, like increased pain, redness, or shortness of breath. And we will see you soon.

@@ -1,0 +1,27 @@
+DOCTOR: Alright, Mrs. Sucich, have a seat. So, what brings you in today?
+PATIENT: Oh, thank you, Doctor. It’s these hiccups, you see. Been going on for… well, a good few days now. Not constantly, mind you, but they just come and go. Annoying little things, really.
+DOCTOR: Hiccups, huh?
+PATIENT: Yes! And I’ve tried… well, everything my granddaughter told me to. Holding my breath, drinking water upside down… you know, all those things. Didn’t do a lick of good. She’s a lovely girl, but she gets her information from the internet, that one.
+DOCTOR: Right. And how long exactly is “a good few days”?
+PATIENT: Oh, let me think… started, I reckon, last Thursday. So, four days now? Maybe five. Time gets away from me, you know. But definitely since Thursday. They’re not hurting me or anything, just… persistent. And a bit embarrassing when I'm out.
+DOCTOR: Okay. And are you having any other symptoms along with the hiccups?
+PATIENT: Hmm… no, not really. Just the hiccups. I’m eating normally, sleeping alright… no pain anywhere. Nothing else feels off, thankfully. Though, I did spill my tea a bit yesterday because of one! But that’s not a symptom, is it? Just my clumsiness.
+DOCTOR: No, clumsiness isn’t a symptom. Have you noticed anything that seems to trigger them?
+PATIENT: Oh, goodness. That's a good question. Let me think… not really. I was gardening on Friday, maybe that? But I garden all the time, and they didn’t start then. I was having a lovely chat with Mrs. Abernathy yesterday afternoon… no, that didn’t seem to do it. Honestly, they just happen. It's very strange.
+DOCTOR: Alright. Let’s just do a quick listen to your lungs, just to be sure everything sounds okay. Then we can figure something out.
+PATIENT: Oh, yes, of course, Doctor. Whatever you think is best. I trust your judgement. I always said a good doctor is worth their weight in gold.
+DOCTOR: Okay. Deep breath in… and out… again… Good. Lungs sound clear. Heart sounds regular. Everything seems normal physically. Now, are you on any medications?
+PATIENT: Oh, yes. Let me see… just my blood pressure pills. Lisinopril, I think it’s called. And a little something for my arthritis, Celebrex. Been taking those for years now. Nothing new, though. Same as always. I’ve got the names written down at home, if you need the exact dosage.
+DOCTOR: Alright. And any allergies to medications?
+PATIENT: No, none that I know of, Doctor. Never had a reaction to anything. My mother always said I was a tough little cookie. Though, I do get a bit itchy when I eat shellfish, but that’s just a preference, not an allergy, I reckon. I avoid the prawns anyway.
+DOCTOR: Okay. Well, sometimes hiccups can just… happen. It's usually nothing serious. We can try a few things, but honestly, they often resolve on their own. Have you tried any over-the-counter remedies?
+PATIENT: Oh, just what my granddaughter told me! The sugar, the vinegar… I even tried breathing into a paper bag, silly as that sounds. Didn’t do a thing, not one little bit. She said it worked for her cousin, but everyone’s different, I suppose. I really just want them to stop, you know? It's very distracting.
+DOCTOR: Alright. Well, I’m not going to prescribe anything drastic for hiccups. It's unlikely to be anything serious, and medication has side effects. Let’s just monitor them for another week. If they’re still bothering you, then we can think about further testing. Do you have any other concerns while I've got you?
+PATIENT: Oh, well… now that you mention it, my knees have been a bit creakier than usual lately. Not painful, just… stiff. It's probably just the weather, though. It’s been awfully damp. I don’t want to bother you with old age aches and pains, Doctor. The hiccups are the main thing. But if you have a moment… a little advice maybe?
+DOCTOR: Alright. The knees… yes. Look, you're 86. Some stiffness is to be expected. Keep moving, do gentle exercises, and if it gets significantly worse, then consider a referral to orthopedics. We don't need to run a scan for a little knee stiffness. Now, any questions for me about the hiccups?
+PATIENT: Oh. Yes, I understand, Doctor. Just… is there anything I should avoid? Certain foods, or… activities? Just in case they're triggered by something. I don’t want to change my whole life over a few hiccups, but I thought I'd ask.
+DOCTOR: Honestly, Mrs. Sucich, there's no real evidence to suggest avoiding anything specific. Try not to overthink it. Stress can make things worse, so just relax. We’ll monitor them for a week. If they persist, call the office, and we can discuss further options. Does that sound good?
+PATIENT: Yes, Doctor, that sounds perfectly sensible. Relax, you say? Easier said than done sometimes! But I'll try my best. Thank you for seeing me, Doctor. I appreciate your time. I suppose I should be getting along then?
+DOCTOR: Yes, you can go ahead. And try not to worry about it. Some patients… Have a good day, Mrs. Sucich.
+PATIENT: Oh. Very well, Doctor. You have a good day too. .
+DOCTOR: .

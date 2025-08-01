@@ -1,0 +1,19 @@
+DOCTOR: Good afternoon, Mr. Seconndi. I'm Dr. Annesley. Welcome to the clinic. So, what brings you in today?
+PATIENT: Hello Doctor. Thank you. I... my pee. It's orange. Not all the time, but... yeah, orange. I don't know why. It worry me a little.
+DOCTOR: Okay, orange urine. I understand that's concerning you. Let's try to figure out what might be causing that. First, can you tell me, how long has this been happening?
+PATIENT: Hmm... maybe two, three days now? I noticed it... when I went to the bathroom after work. Yesterday too, same thing. Before that, everything normal. I think. I don't really look at my pee usually.
+DOCTOR: That's alright, most people don't. Two or three days is relatively recent. And it's good you noticed it. Now, besides the color, are you experiencing any other symptoms?
+PATIENT: No, nothing else. I feel okay. No pain, no... I don't know... like needing to go more often. Just the color. It's a bright orange, Doctor. Not a little bit. A lot orange.
+DOCTOR: Okay, a bright orange color. And no pain, no increased frequency, no other changes. Have you been taking any new medications, vitamins, or supplements recently?
+PATIENT: No, no new medicine. I take... just something for my blood pressure, the same one for many years. And... sometimes a multivitamin, but I ran out last week. So no vitamins for maybe a week or so. Nothing else.
+DOCTOR: Alright. And what about your fluid intake?
+PATIENT: I drink water, yes. Maybe two, three glasses a day? I work outside, so I sweat a lot. But I try to drink when I'm thirsty. Is that... enough? I don't drink soda, no juice. Just water and... sometimes tea with my wife.
+DOCTOR: Okay, so mostly water, a couple of glasses a day, and some tea. Working outside and sweating does mean you lose more fluids. Let's talk about your diet. Have you eaten anything unusual lately?
+PATIENT: Unusual...? Hmm. Not really. We had couscous yesterday, my wife makes a good couscous. And some chicken. Normal things. Maybe... I ate a lot of carrots last week. My wife bought a big bag. She likes me to eat vegetables. Is carrots do that? Make pee orange?
+DOCTOR: That's a very good question, Mr. Seconndi. Yes, actually, eating a large amount of carrots—or anything high in beta-carotene—can cause your urine to be orange. It’s harmless. Let's do a quick check to rule out other possibilities, though. I'm going to take a look at your EHR, and then I'd like to do a quick urine dipstick test. Would that be alright?
+PATIENT: Okay, yes, that sounds good. A test is good. I want to know what is wrong, or if wrong at all. Beta-carotene... that is from carrots, yes? So it is not something bad?
+DOCTOR: Yes, beta-carotene is found in carrots, sweet potatoes, and other orange and dark green vegetables. It’s a vitamin, and usually isn’t harmful. But we always want to rule things out. Alright, everything looks good in your chart. Now, if you'll excuse me for just a moment, I’m going to have you provide a urine sample. The bathroom is just down the hall to the left. I'll give you a cup and instructions. It will just be a quick dipstick test to check for things like blood, infection, and other potential causes.
+PATIENT: Okay, yes, no problem. Bathroom to the left. A quick test. I can do that. Thank you, Doctor.
+DOCTOR: Thank you, Mr. Seconndi. Take your time. I'll be right here when you're finished. Just knock when you're ready, and I’ll come get it.
+PATIENT: Okay. I go now. .
+DOCTOR: .

@@ -1,0 +1,34 @@
+DOCTOR: Hello Sasha, good to meet you. I'm Dr. Roseburrogh. So, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. It’s nice to meet you too. Well, it’s my… my legs. They are swelling. It started after the… the treatments for the cancer. It’s been a few weeks now, and it doesn’t seem to be going down.
+DOCTOR: Okay, swelling in your legs after cancer treatment… that’s something we definitely need to look into. A few weeks, you said?
+PATIENT: Yes, maybe… six weeks? Something like that. It’s hard to keep track, honestly. It’s not painful painful, just… puffy. And uncomfortable, you know? Especially at the end of the day.
+DOCTOR: I understand. Six weeks is helpful. And you're right, uncomfortable is a good way to describe it. Is it both legs, or just one?
+PATIENT: Both legs. It’s… it’s worse on my right leg, maybe? But yes, both. It feels… heavy, too. Like I’m walking through water sometimes.
+DOCTOR: Okay, both legs, heavier on the right, and a feeling of heaviness… good details. Have you noticed any changes in the color of your skin, or any pain or cramping in your calves?
+PATIENT: No, no pain. And the color… hmm. I haven’t really looked, to be honest. I just noticed they were bigger. I… I don’t know what to look for, really. Is it supposed to be a different color?
+DOCTOR: That's perfectly alright. It's not something everyone thinks to check. Sometimes swelling can cause skin changes – redness, discoloration, things like that. We'll take a look. Before we do that, can you tell me a little about the cancer treatments you had?
+PATIENT: Oh, um… it was… chemotherapy. A lot of it. And then some radiation. It was at the hospital in… in the city. It was a long time ago, now. I… I remember being very tired. And sick.
+DOCTOR: Okay, chemotherapy and radiation. And you said it was some time ago?
+PATIENT: Yes. It ended… last year, I think? Maybe early this year. It’s all a bit of a blur, to be honest. So many appointments.
+DOCTOR: I understand completely; it sounds like a lot. Early this year is helpful. Do you happen to remember what type of cancer you were treated for?
+PATIENT: Um… the doctor said… it was in my… lymph nodes? Something like that. I’m not very good with the names of things. They took some out, and then did the… the chemo and radiation.
+DOCTOR: Lymph nodes, okay. That gives me a bit more to work with. And you said they removed some lymph nodes surgically?
+PATIENT: Yes, that's right. They took them out of my… my groin. It was… a big surgery. I was in the hospital for a week, I think.
+DOCTOR: Alright, surgery in the groin, followed by chemo and radiation. And now the swelling in both legs. Before we move on, let’s talk a little bit about your medical history. Do you have any other medical conditions, like high blood pressure, diabetes, or heart problems?
+PATIENT: No, not that I know of. I used to be a little… overweight, but I lost a lot of weight with the cancer. The doctor checked me for everything, I think. I have Medicare, so they check everything very carefully.
+DOCTOR: That's good to hear. Losing weight can sometimes contribute to things, but it sounds like they did a thorough workup. Do you take any medications currently?
+PATIENT: No, not really. Just… a vitamin. A multivitamin. And sometimes something for my… my digestion. It’s not every day. Just when I… you know.
+DOCTOR: Okay, just a multivitamin and something as needed for digestion. Do you have any allergies to medications or anything else?
+PATIENT: No, no allergies. I eat everything. Never had a problem.
+DOCTOR: Alright, no allergies. Now, let's do a quick exam. Could you please sit on the edge of the examination table and I'll take a look at your legs?
+PATIENT: Okay. Go ahead.
+DOCTOR: Okay. I’m just going to feel your legs and check for any tenderness. I see some swelling, as you mentioned, primarily in your lower legs and ankles. It is more pronounced on your right leg. The skin feels warm, and I don't see any redness or open sores. There's no significant difference in temperature between your legs, and I’m not feeling any pain when I press on them. Your pulses feel normal in both feet. Okay. That's what I'm seeing. We'll need to do a little more to figure out what's causing this. I’m going to order some blood work to check your kidney function, liver function, and protein levels. I also want to get an ultrasound of both of your legs to look for any blood clots. Does that sound alright?
+PATIENT: Okay. That… that sounds like a lot of tests. But if you think it’s necessary… yes, alright. Blood work and… ultrasound. I just want this to go away. It’s very uncomfortable.
+DOCTOR: I understand completely, and we will get to the bottom of this. The tests will help us rule out some of the more serious causes and give us a clearer picture of what's going on. Okay, I’m ordering those tests now. The lab is just down the hall, and they’ll be expecting you. The ultrasound can be scheduled at the imaging center – they’ll give you a call to set up an appointment. In the meantime, I recommend elevating your legs whenever possible – prop them up on pillows when you're sitting or lying down. And try to avoid standing for long periods. Do you have any questions for me right now?
+PATIENT: No… I think that’s all. Just… when will I get the results?
+DOCTOR: Good question. The blood work usually takes 24-48 hours to come back. The ultrasound results may take a little longer, maybe a couple of days. The imaging center will send the results directly to me, and I’ll give you a call as soon as I have them. We can then discuss the results and decide on the best course of action. Does that sound good?
+PATIENT: Okay. Yes, that sounds good. Call me when you have the results. Thank you, Doctor.
+DOCTOR: You're very welcome, Sasha. I’ll be in touch as soon as I have the results. In the meantime, if you experience any sudden pain, redness, or warmth in your legs, or if the swelling gets significantly worse, please go to the nearest emergency room immediately. Do you need a work note for any time off?
+PATIENT: No, thank you. I don’t need a note. I just want to get better. I think that’s all.
+DOCTOR: Okay, that's perfectly alright. Well, you have a good day, Sasha. And please don’t hesitate to call the office if you have any questions or concerns before I call with the results. It was nice meeting you.
+PATIENT: .

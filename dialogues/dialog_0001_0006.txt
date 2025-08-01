@@ -1,0 +1,23 @@
+DOCTOR: Alright, Ms. Weichers. So, what brings you in today?
+PATIENT: Good morning, Doctor Pehrson. It is… concerning. I coughed up some blood this morning. Not a lot, but… enough to worry me. It was with my… regular cough, but the blood… it was bright red.
+DOCTOR: Blood, huh?
+PATIENT: Yes. I… I don’t usually cough up anything like that. I have had a small cough for maybe a week now, but nothing serious, I thought. Just a little tickle in my throat. This blood… it frightened me. I hope it is not… bad.
+DOCTOR: A week, you say?
+PATIENT: Yes. About a week, maybe a little longer. It started very mild, just when I wake up. I didn’t think much of it. I tried some throat lozenges, and it seemed okay for a few days. Then, this morning… the blood. It was… with the first cough of the day. I am sorry, I am getting upset just talking about it.
+DOCTOR: Alright, alright. Don’t get worked up. People cough up things. What color was the mucus before the blood?
+PATIENT: Before the blood… it was clear, mostly. Sometimes a little bit white. Not thick, very watery. I did not pay much attention, honestly. Just a normal cough. I am so sorry, I am not very good at describing these things. Should I have noticed something?
+DOCTOR: Look, you're here now. We'll figure it out. Do you have any… other symptoms?
+PATIENT: Other symptoms… let me think. I have been a little tired, maybe? But I am a widow, Doctor. I do not have much energy these days. It is hard to say if that is normal, or… something else. No fever, no chills. My chest doesn’t hurt, not really. Just… worried. Is coughing up blood always something bad?
+DOCTOR: "Always" is a strong word. Let’s just say it warrants a look. Any shortness of breath?
+PATIENT: No, Doctor. I breathe normally. I walk every day, even. It’s a long walk, but I manage. I do not get winded easily. I did not notice any change in my breathing, even with the cough. Should I be walking less? I worry about my health, you see. It has been… difficult, since my husband… but I try to stay active.
+DOCTOR: Alright. Let's just listen to your lungs, okay?
+PATIENT: Yes, of course, Doctor. Whatever you think is best. I trust your judgement. Please, go ahead. I will try to be very still.
+DOCTOR: Alright. Lungs are…clear. No wheezing, no crackles. A bit of… diminished breath sounds on the left, but that could be a number of things. Have you had any recent illnesses?
+PATIENT: Recent illnesses… let me see. No. I had a cold maybe six months ago, but that was all. Nothing serious. Just a little sniffle, a sore throat. I took some over-the-counter medicine and it went away. I don’t really get sick often. I try to eat healthy, and I get enough rest.
+DOCTOR: Okay. And any family history of… lung problems?
+PATIENT: Hmm. My father… he smoked for many years. He had… something with his lungs, but I do not remember the details. My mother was very healthy, though. She lived to be ninety. I do not know if that is helpful information. I was very young when my father passed, so I don’t remember much about his illness. Is smoking a cause for concern? I never smoked myself.
+DOCTOR: It can be. Alright. Look, this is probably nothing, but we're going to do a chest x-ray just to be safe. It's standard procedure. You'll go down the hall, and the technician will take a couple of pictures.
+PATIENT: An x-ray? Is it… dangerous? I do not want to be exposed to too much… radiation, if that is a concern. But, if you think it is necessary, Doctor, then I will do it. Whatever you advise. I just… I worry about these things.
+DOCTOR: The amount of radiation is minimal. It’s less than you get on a cross-country flight. The technician will explain everything. Go down the hall, first door on the left. They'll call me when they're done. Don’t worry about it.
+PATIENT: Alright. Thank you, Doctor Pehrson. I will go now. I hope it is nothing… serious. .
+DOCTOR: Yeah, yeah. Don't worry about it.

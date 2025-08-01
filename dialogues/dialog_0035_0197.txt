@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Ms. Sciarotta. I’m Dr. Alzoubi. It’s nice to meet you. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Just Sciarotta is fine. I need that card… the one for driving, you know, the ride-share thing. I want to keep doing that, but I need to get it renewed. It’s a bit of a hassle, honestly, but better safe than sorry.
+DOCTOR: Okay, Ms. Sciarotta. So, you're here for a medical evaluation to renew your driver’s license for ride-sharing?
+PATIENT: Yes, that’s right. Is there a form I need to fill out? I always forget things, so hopefully it’s not too complicated.
+DOCTOR: There is a form, yes, but we can go through it together. It covers a basic medical history and a quick physical assessment. Don't worry, we'll take it slow. First, let’s just confirm some information. You’re 70 years old, is that correct?
+PATIENT: Yes, that’s right. Seventy. Though some days I feel older, and some days… well, never mind. It’s seventy. And I’ll be seventy-one in November.
+DOCTOR: Good to know. And you said you’re here specifically for the ride-share driver’s license renewal, is there anything else bringing you in today?
+PATIENT: No, no, just the card. I’m… fairly healthy, all things considered. I work outside, you know, with the logging equipment. Keeps me moving. I don’t really go to the doctor unless I absolutely have to.
+DOCTOR: Okay. I see here your height is listed as 155 centimeters and your weight as 139 pounds. Is that accurate?
+PATIENT: Yes, that sounds about right. I haven’t weighed myself in a while, to be honest. But yes, that’s… approximately correct. I’m not very tall, you know.
+DOCTOR: Okay, good. Now, let’s talk about your medical history. Have you been diagnosed with any medical conditions – things like diabetes, heart problems, arthritis, or anything else?
+PATIENT: Let me think… I had a bit of trouble with my back a few years ago, from lifting things at work. Physical therapy helped a lot, though. And I have a touch of arthritis in my hands, mostly just a little stiffness in the mornings. Nothing major. Oh! And I had my gallbladder out about… fifteen years ago, maybe? Other than that… no, not really.
+DOCTOR: Okay, so back problems treated with physical therapy, some arthritis in your hands, and gallbladder removal about fifteen years ago. Do you take any medications regularly?
+PATIENT: Just a little something for the arthritis. It’s called… Meloxicam, I think? A small dose, just when it flares up. And sometimes I take Tylenol for headaches, but not very often. Honestly, I try to avoid pills as much as possible.
+DOCTOR: Okay. And do you have any allergies to medications, food, or anything else?
+PATIENT: No, not that I know of. I eat everything, thankfully. And I’ve never had a reaction to any medicine. My mother was very careful about what I ate when I was little, so I think I’m pretty safe.
+DOCTOR: Alright, good. Now, before we move on to the physical part of the exam, let’s quickly talk about your family history. Are there any significant medical conditions that run in your family – things like heart disease, stroke, cancer, or dementia?
+PATIENT: Hmm… my father had heart trouble when he got older, needed a stent, I think. And my aunt on my mother’s side had diabetes. My mother, she was healthy as a horse until the very end, though. No dementia in the family, thankfully. That scares me more than anything.
+DOCTOR: Okay, so a history of heart disease in your father and diabetes in your aunt. That’s helpful to know. Now, I’d like to do a quick physical exam, just to check your vital signs and a few basic things. Is that alright with you?
+PATIENT: Yes, that’s fine. Let’s get it over with, shall we? I have things to do this afternoon. I hope it doesn’t take too long.
+DOCTOR: It won’t. Let’s start with your blood pressure. 138 over 76. Okay, good. Now, let's listen to your heart and lungs. Heart sounds are regular, no murmurs. Lungs are clear, good breath sounds bilaterally. Now, let me check your reflexes. Reflexes are 2+ bilaterally. And finally, let’s take a quick look at your vision and hearing. Vision is 20/30 in both eyes, hearing is within normal limits. Everything seems to be within normal limits.
+PATIENT: Well, that wasn’t so bad. So… am I approved for the card? I really need to get back to work.
+DOCTOR: Based on this quick exam, and the information you've provided, I don’t see any immediate medical reasons why you wouldn’t be approved for the driver’s license renewal. However, given your family history of heart disease, I would recommend a basic EKG to screen for any underlying cardiac issues. It’s just a precautionary measure. Would you be comfortable with that?
+PATIENT: An EKG? Oh dear. Is that… expensive? I suppose a quick one wouldn’t hurt, if it means I can keep driving. But I really don’t have a lot of extra money right now. How much are we talking?
+DOCTOR: Let me check… A basic EKG here at the clinic is $120. Medicare typically covers 80% of that, so your out-of-pocket cost would be around $24. It’s a quick and painless test – just some stickers on your chest. It will give us a good baseline assessment of your heart health. If it’s completely normal, you’d be cleared immediately. Otherwise, we can discuss further options with a cardiologist. What do you think?
+PATIENT: $24… that’s not so bad. Okay, go ahead and do it. Get it over with. The sooner I can get back to work, the better. I just hope it doesn’t take too long.
+DOCTOR: Great. Let's get you set up. The technician will be in shortly to perform the EKG. It will only take about five minutes. While we wait, I’ll complete the medical form for your driver’s license renewal. After the EKG, I’ll review the results with you and we can finalize everything.
+PATIENT: Fine. Just let me know when I need to go see the technician. I’m going to sit here and try to relax, if I can. This whole thing is rather stressful, you know.
+DOCTOR: I understand. I'll let you know as soon as the technician is ready. In the meantime, try to take a few deep breaths. It won't be long.
+PATIENT: .

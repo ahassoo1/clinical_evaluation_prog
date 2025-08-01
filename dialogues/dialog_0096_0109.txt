@@ -1,0 +1,42 @@
+DOCTOR: Good morning, Mr. Brum. I’m Dr. Burlingham. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It’s… my head. Back of my head hurts. Been hurting for… maybe three days now? Not all the time, but it comes and goes. Feels like… a pressure, almost.
+DOCTOR: Pressure, you say. Alright. And is this pressure constant, or does it come and go as you mentioned?
+PATIENT: It comes and goes. Like… sometimes I don’t feel nothing. Then, bam, there it is. Like someone is squeezing the back of my skull. Not a bad bad pain, you understand. Just… annoying. And makes it hard to think sometimes.
+DOCTOR: Annoying, yes. I understand. And you said it started about three days ago?
+PATIENT: Yes, Doctor. About three days. Maybe four? Time… it gets away from me sometimes. I was working… fixing a rail car, out by the yard. Hot day it was. Very hot.
+DOCTOR: Fixing a rail car… strenuous work, especially in this heat. Have you had any other symptoms with this headache, Mr. Brum?
+PATIENT: Other symptoms? Hmm… let me think. No… no fever, I don’t think. I haven’t felt sick to my stomach. Oh! Wait. Maybe a little dizzy sometimes. Not falling down dizzy, just… the room spins a little if I stand up too fast.
+DOCTOR: Dizziness when standing… alright. And have you noticed any changes in your vision?
+PATIENT: Vision? No, no changes to my vision. I see… well, as good as I ever have, I guess, for an old man. A little blurry sometimes, but that's just my eyes getting old. I haven't seen any spots or anything like that.
+DOCTOR: Alright. And have you ever had headaches like this before, Mr. Brum?
+PATIENT: No, Doctor. Not like this. I get little headaches sometimes, from stress, maybe. But they go away with some water and a rest. This one… this one is different. It stays with me. Even if I sit down and try to relax.
+DOCTOR: Different, you say. Now, let's talk about your past medical history. Do you have any medical conditions I should be aware of?
+PATIENT: Medical conditions… hmm. Not really, Doctor. I’ve been lucky, I think. Old age is the worst condition I have! I had… a bad fall maybe ten years ago, broke my arm. But that healed good. And… I had some trouble with my heart, a long time ago. But the doctor said it was okay. He said it was just… nerves.
+DOCTOR: "Just nerves," he said. Alright. Do you remember the name of that doctor, or where you were treated for that heart trouble?
+PATIENT: No, Doctor. So long ago… I don’t remember his name. It was… back in Guatemala, before I came here. Different hospital… different life. I was younger, of course. Everything is a blur. It wasn't serious, I don't think. He gave me some pills, and I felt better.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: No, Doctor. Not any pills at all. I don’t like taking medicine if I don't have to. Makes me feel… funny. I just drink my coffee and try to stay busy.
+DOCTOR: Alright. Now, do you have any allergies to any medications or anything else, Mr. Brum?
+PATIENT: No, Doctor. No allergies. I eat everything. I’ve never had a problem with… well, with anything, really. Maybe a little tired after too much sun, but that's not an allergy. Just… being old, I guess.
+DOCTOR: Alright. And finally, do you drink alcohol, smoke, or use any recreational drugs?
+PATIENT: No, Doctor. Never. Not a drop of alcohol. Never smoked a cigarette in my life. And… those other things? No, no. Not for me. I work hard. I need my head clear.
+DOCTOR: Very well. Now, I'm going to perform a quick neurological exam, just to get a better understanding of what’s going on. I’ll check your reflexes, your strength, and your coordination. Please just follow my instructions as best you can. Can you look straight ahead for me?
+PATIENT: Yes, Doctor. Of course. Whatever you need. I’ll try my best. Just tell me what to do. I’m looking straight ahead. Like this?
+DOCTOR: Yes, like that. Good. Now, I'm going to check your eye movements. Please follow my finger with your eyes, but don't move your head. Left, right, up, down… Good. Now, I’m going to test your strength. Can you squeeze my hands as tightly as you can?
+PATIENT: Yes, Doctor. Like this? Is that strong enough? I used to work with the rails, you know. Takes strong hands.
+DOCTOR: Yes, very strong. Though the dynamometer reading is a little lower on this side… And now your reflexes… Good, good… A little diminished, but within normal limits for your age. Finally, I’m going to check your coordination. Can you touch your finger to your nose with your eyes closed?
+PATIENT: Yes, Doctor. I can do that. Oh… almost got it. My hand… it’s a little shaky, you see?
+DOCTOR: Yes, a little unsteady. Alright. Now, I want you to stand up and walk for me, heel-to-toe, for about ten steps.
+PATIENT: Okay, Doctor. Like this? It’s… hard to keep my balance. My legs aren't what they used to be.
+DOCTOR: Yes, I see. Please, have a seat. Alright, Mr. Brum. Based on your history and the brief examination, it sounds like you’re likely experiencing some age-related changes that are contributing to these headaches and balance issues. The diminished reflexes, unsteady gait, and slight tremor are consistent with that. However, it's important to rule out other potential causes.
+PATIENT: Other causes? What other causes, Doctor? Is it something bad? I’ve been feeling a little worried, you know. Old age is one thing, but… something else?
+DOCTOR: Well, Mr. Brum, we need to rule out things like a possible stroke, a tumor, or even a simple vitamin deficiency. The dizziness and headaches could be related to something more serious. I'm going to order a CT scan of your brain to get a clearer picture, and some blood work to check your vitamin levels and other important markers. We also need to get a more detailed account of your medical history, if possible. Do you have any family who might know more about past illnesses?
+PATIENT: A CT scan? That sounds… serious, Doctor. Is it very expensive? I don’t have much money, you know. And… I don’t have any family, not really. I came here a long time ago, left everyone behind. Just me, mostly.
+DOCTOR: The CT scan is necessary to ensure we’re not missing anything serious, Mr. Brum. I understand your concerns about the cost. I’ll have the billing department look into options for financial assistance. They have programs available for patients without insurance. As for your medical history, it makes things more difficult, I admit. But we’ll do the best we can with what we have. For now, let's focus on getting these tests done. I'll write you a referral to the imaging center and the lab. And I want you to avoid any strenuous activity until we have the results. No heavy lifting, no working on the rails. Understand?
+PATIENT: No rails… I understand, Doctor. No rails. It’s… hard, you know. That's all I know. But if you think it’s best… I'll stay away from the yard. And I’ll try to get those tests done. Can I at least go fishing? It's not hard work, just… sitting and waiting.
+DOCTOR: Fishing… Well, sitting quietly is fine, as long as you’re careful. No bending, no straining, and absolutely no falling. And if you feel dizzy or experience any worsening of your headache while you're out there, you come straight home. Understand?
+PATIENT: Yes, Doctor. Understand. No bending, no straining, no falling. And straight home if I feel bad. Thank you, Doctor. You’re very kind. And… thank you for looking into the money. I worry about that, you know.
+DOCTOR: Alright, Mr. Brum. Here are your referrals. The imaging center is just a few blocks down, and the lab is on Main Street. The results should be available in a couple of days. I'll have my assistant call you to schedule a follow-up appointment once we have them. Now, do you have any other questions for me before you leave?
+PATIENT: No, Doctor. I think that's all. Just… thank you again. And… I hope it’s not anything too bad. I'll be careful, I promise. And I'll stay away from the rails.
+DOCTOR: Alright. Just remember what I said. And if anything changes, call the office immediately. Have a good day, Mr. Brum.
+PATIENT: .

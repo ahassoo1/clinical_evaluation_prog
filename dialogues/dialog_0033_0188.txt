@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Secondi. I’m Dr. Dechene. So, what brings you in today?
+PATIENT: Good morning, Doctor. Uh, it's my pee. It's… orange. I noticed it yesterday. It scared me a little.
+DOCTOR: Orange, you say?
+PATIENT: Yes. Not dark orange, but… like, the color of some juice. Orange juice, maybe? I don't know. I drink a lot of water usually, so it's not normal for me.
+DOCTOR: Alright. And has anything changed recently?
+PATIENT: Hmm… not really. Work is the same. My wife and I, we ate chicken last night, but nothing different than usual. I did take some… pills, for a headache, a few days ago. But I don't think that's it, is it? I forget what they were called.
+DOCTOR: Let's see… headache pills. Do you recall what kind of headache?
+PATIENT: Uh… just a normal headache. You know, like when you’re tired? Not a bad one, just… annoying. I got them from the store, a little box. They were… maybe white? I don’t remember the name, sorry. My wife usually gets the medicine.
+DOCTOR: Right. Well, some medications can cause changes in urine color. Let’s try to rule out other possibilities first. Have you noticed any pain or burning when you urinate?
+PATIENT: No, no pain. Nothing like that. Just the color. It's… worrying me. I don't want something bad to be happening.
+DOCTOR: Any fever, chills, nausea, or vomiting?
+PATIENT: No, nothing like that either. I feel okay, besides being a little worried. I ate breakfast this morning, no problems. Everything feels normal. Except the pee.
+DOCTOR: Alright. And how is your bowel movement?
+PATIENT: Uh… good? Normal. I went this morning, no problems. Sorry, is that… important? I just don't understand why my pee is orange. It's never been like this before.
+DOCTOR: It can be indicative of several things. Let’s do a quick exam, just to be thorough. Could you step onto the scale for me, please?
+PATIENT: Okay, yes, sure. Is this okay? I'm a tall guy, so the scale might need to be strong.
+DOCTOR: 196 centimeters, 106 kilograms. Alright. Now, if you wouldn't mind providing a urine sample?
+PATIENT: Yes, okay. Where do I… Where should I go? I need a cup, right? And… do I just… go? Sorry, I've never done this before.
+DOCTOR: Through there, on the left. There’s a collection cup and instructions. Just try to get a mid-stream sample, if you could. We'll analyze it here.
+PATIENT: Okay, yes. Mid-stream… I think I understand. Thank you, Doctor.
+DOCTOR: Patient reports orange urine, no associated pain, fever, nausea, or vomiting. Normal bowel movement. Obtaining sample now. Will review.
+PATIENT: .

@@ -1,0 +1,28 @@
+DOCTOR: Good afternoon, Criston. I'm Dr. Fazzina. So, tell me, what brings you in to see me today?
+PATIENT: Hello Doctor. It's... my pee. It's orange. I don't know why. It started maybe two days ago. It worries my wife.
+DOCTOR: Okay, orange urine. That can be concerning, though often it's something simple. Two days ago you said?
+PATIENT: Yes, two days. Maybe a little more. I drink a lot of water, usually. But it's still orange. Not dark orange, but… you know, orange. Like… juice, a little. It's hard to explain.
+DOCTOR: I understand. Juice-colored, okay. And you said you generally drink a good amount of water. Have you noticed any pain or burning when you urinate?
+PATIENT: No, no pain. Nothing like that. It feels normal, when I go to the bathroom. Just… the color is different. My wife, she says maybe I need to see a doctor. She worries a lot.
+DOCTOR: It's good she's looking out for you. No pain is good. Have you noticed any changes in how often you're going to the bathroom, or the amount of urine you're producing?
+PATIENT: No, I think it's the same. Same times, same... everything. I didn't really pay attention, before the color. My wife is always telling me to pay attention to these things. She’s a nurse, so… she knows more than me.
+DOCTOR: That’s helpful to know. A nurse’s intuition is often spot on. Okay. And have you been taking any new medications, vitamins, or supplements recently?
+PATIENT: Hmm… let me think. No, not really. I take a little something for my back, sometimes. Just when it hurts. But I didn’t take it yesterday or today. It's… a muscle relaxer, I think. The doctor gave it to me a long time ago.
+DOCTOR: Okay, a muscle relaxer. Do you remember the name of it?
+PATIENT: No, sorry. I don't remember the name. It's a small white pill. I only take it when my back is really bad. It’s been a while since I used it. Maybe weeks, maybe months.
+DOCTOR: Alright. And, just to be thorough, have you experienced any fever, chills, nausea, or vomiting lately?
+PATIENT: No, nothing like that. I feel okay, except for the pee. I was working a lot last week, maybe a little tired, but no fever or… anything. Just the orange color. It's really worrying my wife.
+DOCTOR: Okay. Well, orange urine can be caused by a number of things, some more serious than others. Dehydration, certain medications, even some foods can cause it. Let’s do a quick exam, and I’d like to order a urine sample to check for infection or other issues, just to be safe. Does that sound alright?
+PATIENT: Yes, okay. That sounds good. I want to know what's wrong. My wife will be happy you want to check. A urine sample is fine. Where do I go?
+DOCTOR: The nurse will escort you to the restroom to collect the sample. She’ll give you a sterile cup and instructions. Then we can do a brief physical exam right here. Is that okay with you?
+PATIENT: Yes, okay. That sounds good. I hope it's nothing serious. I have to go back to work tomorrow.
+DOCTOR: We'll get to the bottom of it. I understand you need to get back to work, and we’ll try to be as quick as possible. Let me call the nurse, and she’ll be right in.
+PATIENT: Okay, thank you, Doctor. I appreciate it. My wife will be very glad.
+DOCTOR: She’s on her way. While we wait, can you tell me a little about your general health?
+PATIENT: I'm okay, I think. I work hard, construction mostly. A little back pain, like I said. No other problems, really. I try to eat good, but it's hard when you're working all day. I don't smoke, I drink a little beer sometimes. That's it, I think.
+DOCTOR: Alright. Construction work can be hard on the body. Any history of kidney stones or urinary tract infections in the past?
+PATIENT: No, I don't think so. I've been sick before, you know, colds and flu. But nothing with my kidneys or... urine. I don't think so. My wife would know, I think. She remembers everything.
+DOCTOR: Right, and she’s a nurse. That's good. Just one more question, and then the nurse should be here shortly. Any family history of kidney problems?
+PATIENT: Hmm… I don’t know. My father… he had high blood pressure. And my mother, she had… something with her heart, I think. I don’t really know much about it. We didn't talk about it much. It was a long time ago.
+DOCTOR: Ah, here’s the nurse now. She’ll get you set up for the urine sample. I’ll be right here when you’re finished.
+PATIENT: Okay, good. Thank you, Doctor. I hope it doesn't take too long. I need to go back to work.

@@ -1,0 +1,25 @@
+DOCTOR: Alright, Mr. Tati. Good morning. So, tell me, what brings you in to see me today?
+PATIENT: Eh, good morning, Doctor. Um... I been coughing, a lot. For... a long time now, I think. And I get very tired. Also, my nose… always feels blocked, then runny. Happens again and again. It’s annoying.
+DOCTOR: "A long time now"... could you be a little more specific?
+PATIENT: Specific? Hmm... Maybe... six months? Or maybe more. It's hard to remember exactly. It comes and goes, you know? Worse in the cold, I think. And when I’m very busy at work.
+DOCTOR: Alright. And this tiredness… is it just feeling generally run-down, or is it something more?
+PATIENT: Just tired, I think. Like… after a very long day. But it happens even when I have had a good sleep. Sometimes I just want to sit down, even in the middle of doing things. My wife says I look very pale too.
+DOCTOR: Okay. And any fever, chills, or night sweats with this?
+PATIENT: Fever… sometimes, I think. Not very high, not like really sick fever. Just a bit warm. Maybe? It’s hard to tell. I don't check my temperature. And night sweats… no, I don’t think so. I sleep okay, usually.
+DOCTOR: Alright. And do you have any allergies to medications, or any other medical conditions that you’re aware of?
+PATIENT: Allergies… no, not that I know of. Never had a problem with any medicine before. And medical… hmm. Nothing special, Doctor. I just get this cough all the time. I think I'm usually okay, just tired.
+DOCTOR: Okay. And what about your family?
+PATIENT: Family? My wife is healthy. My mother… she had problems with her chest when she was old, I think. Lots of coughing. My father… he was okay. Healthy man. I don’t know much about their medical stuff, sorry.
+DOCTOR: Alright. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no smoking. Never liked it. And very little alcohol, only sometimes with dinner. Maybe a small beer. No drugs, Doctor, never. I need to work, I can't be like that.
+DOCTOR: Okay. Now, let’s have a quick listen to your chest and take a look at your nose and throat, shall we?
+PATIENT: Okay, Doctor. That sounds good. Whatever you need.
+DOCTOR: Alright. If you could just sit back, take a few deep breaths. Your breathing sounds a little wheezy, especially on the right side. And your chest is quite clear, but a little diminished breath sounds on the right too. Your nasal passages are a bit congested, and your throat is slightly red. No obvious signs of anything major, but it is inflamed. Okay. Let’s get a quick blood test just to rule things out, and I’ll want a chest X-ray. Just to be safe.
+PATIENT: Blood test and X-ray? Is it… something bad, Doctor? I just thought it was a bad cough. I have to go to work, you know? And pay the bills.
+DOCTOR: Don’t worry yourself too much, Mr. Tati. It’s just routine. We have to rule things out. Could be a simple chest infection, could be allergies, could be… well, lots of things. The X-ray will give us a clearer picture, and the blood test will check for infection. It’s best to be thorough. It's unlikely to be anything serious, but we need to be sure. I'll write you a referral for the lab and the radiology department. They’re just down the hall.
+PATIENT: Okay… if you say so, Doctor. But I don't have much money, you know? Will it cost a lot? And will I be able to work after the test? My wife will worry.
+DOCTOR: Look, Mr. Tati, I understand your concerns. These tests do cost money, I won't lie to you. And truthfully, I can’t control the billing. As for work… you shouldn’t do anything strenuous until we have the results. A simple cough is one thing, but we need to rule out anything more serious before you go back to pushing yourself. We'll know more once the results are back. Here are the forms. Go to the lab first, then the radiology department. They'll schedule the X-ray. Come back and see me once you have the results, and we'll discuss them. Do you understand?
+PATIENT: Okay… lab first, then X-ray. And then come back. Will the results be long? My wife is already worried about the bills. And I really need to work. I don't want to cause trouble.
+DOCTOR: The results usually take a day or two, Mr. Tati. Don’t anticipate any difficulties. It's probably nothing more than a stubborn cold. Now, if you’ll excuse me, I have other patients waiting. Please schedule a follow-up appointment with the receptionist on your way out. Next!
+PATIENT: Okay… okay. Thank you, Doctor.
+DOCTOR: .

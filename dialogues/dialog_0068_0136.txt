@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I'm Dr. Sham. So, what brings you in today?
+PATIENT: Good morning, Doctor. Um, it's my… belching. It's been happening a lot. It's kinda embarrassing, to be honest.
+DOCTOR: Belching, alright. And how long has this been going on for?
+PATIENT: Hmm… maybe two weeks now? It started not so bad, just a little after I eat. But now… it’s almost all the time. Not always, but a lot. Especially if I drink something fizzy.
+DOCTOR: Okay, two weeks. Worse with fizzy drinks, you said?
+PATIENT: Yes, Doctor. Soda, sparkling water… even sometimes just regular water feels… bubbly. And it makes the belching worse. It doesn't start with the water, but then it happens more.
+DOCTOR: Alright. And aside from the belching, are you having any other symptoms?
+PATIENT: Um… not really? Maybe a little… tummy feels full sometimes, even if I didn’t eat much. But not pain, you know? Just… uncomfortable. And I feel a little tired, but I always feel a little tired. I don’t know if that's the same thing.
+DOCTOR: Okay, fullness… tiredness. Let's see… Have you noticed any changes in your appetite?
+PATIENT: No, I think my appetite is okay. I eat about the same as always. I like to cook, so I usually eat pretty good food. Not a lot of fast food.
+DOCTOR: Alright. And are you experiencing any nausea, vomiting, heartburn, or changes in your bowel habits?
+PATIENT: No, no nausea. Not throwing up. No heartburn, either. And… everything is normal with… you know… going to the bathroom. Sorry if that’s too much information.
+DOCTOR: No, no, that's perfectly alright. It's important information. Now, any family history of… digestive issues?
+PATIENT: Hmm… my grandmother, on my mom's side, she had a lot of… stomach problems. But I don't know exactly what. She didn’t really talk about it much, and I was little. Just… always complaining about her tummy. Is that helpful? I don’t really know.
+DOCTOR: Alright. And are you currently taking any medications, or do you have any allergies I should be aware of?
+PATIENT: No, Doctor, I don't take any medicine. And no allergies, not that I know of. I've never had a bad reaction to anything. I try to stay healthy, mostly.
+DOCTOR: Okay. And, just to get a better picture, could you tell me a little bit about your diet?
+PATIENT: Well, like I said, I like to cook. I eat a lot of rice and beans, chicken, fish… vegetables. I try to use fresh ingredients. I drink a lot of juice. And sometimes, I have a little bit of dessert, but not every day. It's mostly Cuban food, I guess. I like to make ropa vieja and arroz con pollo.
+DOCTOR: Alright. Okay. Let's do a quick physical exam, if you don't mind. Just listening to your abdomen, and feeling it gently. Nothing to worry about.
+PATIENT: Okay, that’s fine. I’m okay with that. Just tell me if it’s going to be… cold? I don’t like cold things on my tummy.
+DOCTOR: No, it won't be cold. Just the stethoscope. Please lie back on the exam table. I'm going to listen to your belly, and then I’ll gently press on it to check for any tenderness. Just breathe normally. I'm hearing normal bowel sounds… a little gurgling, but that's not unusual. Now, I'm going to palpate your abdomen. Let me know if anything feels particularly uncomfortable. Any pain here?
+PATIENT: No, that doesn't hurt. Just… feels normal. A little pressure, maybe. But not pain.
+DOCTOR: No tenderness to palpation. Abdomen is soft, non-distended. No masses palpated. Alright. Everything feels normal on physical exam, thankfully. Based on what you've told me, and the exam, it sounds like you may be experiencing some functional dyspepsia, possibly exacerbated by the carbonated beverages. It means your digestive system is a little sensitive.
+PATIENT: Functional… what-ia? I'm sorry, I don't understand. Is that… bad? And what do you mean by “ex-as-er-bat-ed”?
+DOCTOR: No, no, it’s not bad. “Dyspepsia” just means indigestion – that uncomfortable feeling after eating. “Exacerbated” means made worse. So, the fizzy drinks are likely making your indigestion symptoms more noticeable. It's very common. We can try some simple things. First, try cutting back on the carbonated drinks and see if that helps. Also, eating smaller, more frequent meals can sometimes be helpful. And avoiding lying down immediately after eating.
+PATIENT: Okay, I can try that. No more soda… that’s hard, but I can try. Smaller meals… that makes sense. I sometimes eat too much when I’m cooking, if I make something really good. Is there anything else? Do I need… tests? Or medicine? I don’t want anything strong.
+DOCTOR: We don't need to do any tests right now, unless your symptoms worsen or don't improve after a couple of weeks. We can start with these dietary changes and see how you do. I can prescribe you a medication called an H2 blocker - it reduces stomach acid. It's a fairly mild medication, often used for heartburn, but can sometimes help with indigestion. Would you like me to write you a prescription?
+PATIENT: Um… I guess so. If it's not strong, and it might help, then okay. I don’t want to get used to taking pills, but if it makes me feel better… Does it have side effects?
+DOCTOR: It can cause some mild side effects in some people, like headache or diarrhea, but they’re usually not serious. If you experience any bothersome side effects, stop taking the medication and let me know. I'll write you a prescription for Famotidine, 20mg, to be taken once daily before a meal. Try these changes and the medication for two weeks. If you're still having significant symptoms after that, schedule a follow-up appointment, and we can explore other options. Any questions?
+PATIENT: No, I think I understand. No more soda, smaller meals, and take the pills before I eat. And if it doesn’t get better, come back. Thank you, Doctor. That makes me feel a lot better.
+DOCTOR: You're very welcome, Ms. Fogelstrom. I’ll have the nurse print out a summary of our discussion and the prescription for you. And remember, if anything changes or gets worse, don’t hesitate to call. Have a good day.

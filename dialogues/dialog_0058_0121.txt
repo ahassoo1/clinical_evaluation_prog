@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Mr. Pipolo. I'm Dr. Todorovich. So, what brings you in to see me today?
+PATIENT: Morning. Just… my eyes. They feel real dry. Been that way a bit, I guess. Don't like it.
+DOCTOR: Okay, dry eyes. And how long has this been going on, "a bit?
+PATIENT: Oh… hard to say exactly. Maybe a month? Two? Time gets away from me. Not as sharp as I used to be, you know? Just… scratchy. Especially when it’s windy. We get a lot of wind here.
+DOCTOR: Right, I understand. And is it just scratchiness, or is there any pain?
+PATIENT: No real pain. Just… uncomfortable. Like there's sand in 'em, almost. Not sharp pain, just… annoying. Makes it hard to see clear sometimes too, I think.
+DOCTOR: Okay, so scratchiness, a sandy feeling, and some blurry vision. Do you notice it more at certain times of the day?
+PATIENT: Yeah… mornings are the worst. When I wake up, they feel like they glued shut. And after I've been outside working, too. I do cement work, you know. Lots of dust.
+DOCTOR: Cement work, okay. That dust is definitely a factor. Have you tried anything to help with the dryness?
+PATIENT: Just… blink a lot. Doesn't seem to do much good, though. Used to work, I think. Now… not so much. Don't know what else to do, really.
+DOCTOR: Alright. Well, let’s take a look at your eyes. I’m going to use a light and a magnifying instrument, and I'll probably put a couple of drops in to help me see better. Is that alright with you?
+PATIENT: Drops… yeah, that’s fine. As long as they don't sting too bad. I don't like things stinging. Go ahead.
+DOCTOR: Okay, Mr. Pipolo, this might feel a little cool when I put the drops in. Just look straight ahead. Okay, now let’s take a look. Hmm… your eyes are a little red, and I see some dryness on the surface of both corneas. Not terribly severe, but enough to cause discomfort. Your pupils are reactive to light, which is good. I don't see any obvious signs of infection or injury. It seems like you have a pretty classic case of dry eye, likely exacerbated by the cement dust and the wind.
+PATIENT: Dry eye… that's what it is? Just from the dust and wind? Always figured it was just getting old, I guess. Is there something I can do about it? Don’t want to keep blinkin’ all day.
+DOCTOR: Well, getting older can certainly contribute, but the dust and wind are major players here, I suspect. There are several things we can try. The simplest is using artificial tears more frequently throughout the day – several times a day, even when your eyes don’t feel dry. Think of it as lubrication. We also have some thicker lubricating ointments you can use at night to help keep your eyes moist while you sleep. Would you be willing to try those?
+PATIENT: Yeah, I guess I can try that. Drops and… ointment? Sounds kinda messy, but if it helps… alright. What kinda drops? And the ointment… do I just smear it on before bed?
+DOCTOR: Okay, good. I have some preservative-free artificial tears here, which are generally gentler on the eyes, especially if you’re using them frequently. And the ointment is a bit thicker, so a small amount is all you need – just a thin layer along your lower eyelid before you go to sleep. It might blur your vision a little at first, so it’s best to apply it right before you get into bed. Do you wear glasses?
+PATIENT: No glasses. Never needed 'em. Vision ain't what it used to be, but good enough. So… drops when they feel dry, smear the stuff on at night. That's it?
+DOCTOR: That's the basic idea. We can also talk about environmental factors. Do you use a fan or heater near your face when you're working?
+PATIENT: Heater sometimes, in the winter. Gets cold out there. Fan… not usually, no. Mostly just the wind.
+DOCTOR: Okay, the heater can dry things out too. If you're using one, try to direct the airflow away from your face. And it's a good idea to wear some kind of eye protection when you're working with cement—even just safety glasses or goggles can help shield your eyes from the dust. We’ll start with the drops and ointment, and see how you’re doing in a couple of weeks. If things don’t improve, we can consider other options. Do you have any allergies?
+PATIENT: Allergies? Not that I know of. Never had any trouble with… flowers or anything. Just the dust, I guess.
+DOCTOR: Alright. And are you currently taking any medications, including over-the-counter medications or supplements?
+PATIENT: Nope. Don't take nothin'. Try to stay away from pills as much as possible.
+DOCTOR: Okay, good to know. So, no medications, no allergies. Let's go over this one more time. You're going to use these preservative-free artificial tears several times a day, whenever your eyes feel dry. And you'll apply a small amount of this lubricating ointment to your lower eyelids before bed. Wear eye protection when working with cement, and avoid directing heaters near your face. We'll follow up in two weeks to see how you're doing. Does that all sound good?
+PATIENT: Yeah… drops, ointment, glasses, no heater. Two weeks. I think I got it. Hope it works. Tired of blinkin' all day.
+DOCTOR: Alright. I'm glad we could come up with a plan. Here’s a little handout with all of this information written down, just in case you forget anything. Don't hesitate to call the office if you have any questions or if your symptoms worsen. And if you experience any sudden changes in vision, pain, or redness, please come in immediately. Do you have any other concerns today?
+PATIENT: No, I think that's it. Thanks, Doctor. I appreciate you takin' the time. Just want to get back to workin' without feelin' like there’s sand in my eyes.
+DOCTOR: You’re very welcome, Mr. Pipolo. I hope the drops and ointment bring you some relief. Have a good day, and try to stay out of the wind when you can. Stop by in two weeks and let me know how it's going.
+PATIENT: Alright. You too. .
+DOCTOR: .

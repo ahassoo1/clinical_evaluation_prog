@@ -1,0 +1,23 @@
+DOCTOR: Right. Mr. Secondi, yes?
+PATIENT: Yes, that is me. Criston Secondi.
+DOCTOR: Alright. Well, Mr. Secondi, let’s get down to it. What brings you in today?
+PATIENT: It’s my… pee. It’s orange. I noticed it a couple days ago. Not every time, but… orange. Is that bad?
+DOCTOR: Orange urine. Right. Well, it could be bad, it could be nothing. People notice all sorts of things. Have you been drinking enough water, Mr. Secondi?
+PATIENT: I think so. Maybe not enough enough. I work outside, it’s hot. I drink when I’m thirsty. I have a bottle with me, always. But… maybe I need more? I don't know. It’s been very hot, you know?
+DOCTOR: It’s August. Yes, I’m aware it’s hot. Dehydration is a common cause of color changes, certainly. But we need to rule other things out. Tell me, are you experiencing any pain or burning when you urinate?
+PATIENT: No, no pain. Not burning. Just… the color. It's just strange, you know? I’ve never seen it like this before. Everything else feels normal.
+DOCTOR: “Normal” is subjective, Mr. Secondi. Let's be a bit more specific. Have you noticed any changes in frequency?
+PATIENT: Frequency? You mean… how often I go? No, I don't think so. Same as always. Maybe a little less because it's hot and I'm drinking more water now, but… not much different. It's hard to say exactly. I don't really count, you know?
+DOCTOR: Right. Well, let’s move on. Any blood in your urine at all?
+PATIENT: No! No blood. Definitely no blood. That would be… scary. It's just orange. Like… a light orange. Not dark. Not like juice, more… pale. Does that make sense?
+DOCTOR: Yes, pale orange. We’re getting somewhere. Now, do you have any history of liver problems, Mr. Secondi?
+PATIENT: Liver problems? No, not that I know of. I’ve never been told I have liver problems. My father… he had some things, but not liver. I think it was his heart. But me? No. I’m pretty healthy. I work hard. I eat… okay.
+DOCTOR: “Pretty healthy” isn’t a diagnosis, Mr. Secondi. And “okay” isn’t particularly helpful. We need facts. Any family history of kidney disease?
+PATIENT: Kidney disease… hmm. My mother’s brother, maybe? He was always sick. I don’t know what was wrong with him, exactly. It was a long time ago. He lived far away. I don't think it was his kidneys, but... I'm not sure. It was never talked about much. It’s a little bit sad to think about. I was just a kid.
+DOCTOR: Alright. Let’s do a quick exam. I'm going to listen to your abdomen, check your reflexes, and, of course, I’ll need a urine sample. We need to rule out a simple UTI. Don't make a mess, please.
+PATIENT: Okay, okay. A urine sample. Yes, I can do that. Where should I… go? Is there a bathroom? I think I need to drink more water first, just in case.
+DOCTOR: Down the hall, second door on the left. There's a cup in there. And yes, drink more water. But please be quick, Mr. Secondi. I have other patients waiting.
+PATIENT: Okay, thank you. I’ll be right back.
+DOCTOR: Pale orange urine… honestly. Some people.
+PATIENT: .
+DOCTOR: .

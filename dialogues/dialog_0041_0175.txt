@@ -1,0 +1,52 @@
+DOCTOR: Hi Michae, good to meet you. I'm Dr. Polczynski. So, what brings you in to see me today?
+PATIENT: Hi Doctor. Good to meet you too. Well, it’s this pain I’ve been having. It’s been bothering me for a little while now.
+DOCTOR: Okay, pain… can you tell me a little more about it?
+PATIENT: Sure. It’s mostly in my back, lower back. Feels like a dull ache, most of the time. Sometimes it gets sharper if I bend over, or if I’ve been standing for too long. It just… bothers me, you know? Makes it hard to do things sometimes.
+DOCTOR: Yeah, I understand. A dull ache that sharpens with movement... Hmm. And how long has this been going on for, roughly?
+PATIENT: Oh, let me think… it started, I guess, maybe… three or four months ago? It wasn’t bad at first, just a little stiffness after gardening. But it’s gotten worse slowly over time. I didn’t really pay it much mind at the start, thought it would just go away.
+DOCTOR: Okay, so three or four months, starting with stiffness after gardening, and gradually worsening. Have you noticed it radiating anywhere else – like down your legs, or into your hips?
+PATIENT: Sometimes, yeah. It doesn’t happen all the time, but sometimes I feel it down my right leg, kinda like a shooting pain. Not all the way to my foot, but down the back of my thigh. And my hip on that same side feels a little…tight, I guess is the word. Not always, but when the back pain is really bad.
+DOCTOR: Alright. So pain in your lower back, radiating down your right leg to the thigh, and some tightness in the right hip when the back pain is worse. Has anything specific made it worse recently?
+PATIENT: Hmm… not really anything specific, I don’t think. We did a little bit of cleaning in the garage last weekend, lots of bending and lifting boxes, and it was definitely worse afterwards. But it was already getting bad before that, just… slower. I guess just regular stuff, you know? Everyday things.
+DOCTOR: Okay, cleaning in the garage made it worse, but it was a gradual onset before that. Have you tried anything to relieve the pain – like heat, ice, over-the-counter medications?
+PATIENT: Yeah, a little bit. My wife, she gets aches and pains too, so we have some of those heat packs. They help a little, for a little while. I’ve taken some ibuprofen a few times, but it doesn’t really do much, to be honest. It takes the edge off maybe, but it doesn’t really fix it.
+DOCTOR: Alright, heat packs offer some temporary relief, and ibuprofen doesn't do much. Do you have any numbness or tingling in your legs or feet?
+PATIENT: No, thankfully not. No numbness or tingling. Just the pain, really. And the tightness in my hip sometimes. I was worried about something serious, so it’s good to hear I don’t have that going on.
+DOCTOR: Okay, that's good to know. No numbness or tingling is reassuring. Now, just to get a better picture, could you tell me a little about your overall health?
+PATIENT: Sure. I’m generally pretty healthy, I think. I try to walk a little bit every day, nothing too strenuous. I eat alright, mostly Filipino food, you know, rice and fish and vegetables. I don’t smoke, and I only drink a little bit, maybe a glass of wine with dinner sometimes. I haven't been to the doctor in a while though, to be honest. Just haven’t really needed to.
+DOCTOR: Okay, generally healthy, active with walking, good diet, no smoking, light drinking, and haven't seen a doctor recently. Do you have any medical conditions that you are aware of - like diabetes, high blood pressure, or heart problems?
+PATIENT: No, nothing like that. My wife always tells me to get my blood pressure checked, but I always put it off. Never really had any problems, so… I just haven’t. I don’t think I have anything, but I haven’t been checked.
+DOCTOR: Alright. And are you currently taking any medications at all, even over-the-counter things regularly?
+PATIENT: Just the ibuprofen sometimes, when the pain is really bad. And I take a multivitamin every morning, my wife makes sure of that. Otherwise, no, not really. I try to avoid taking pills if I can.
+DOCTOR: Okay, ibuprofen as needed, and a daily multivitamin. Do you have any allergies to any medications, food, or anything else?
+PATIENT: No, no allergies that I know of. My wife always asks too, before she cooks anything new, but I haven't ever had a reaction to anything. I think I’d remember if I did!
+DOCTOR: Okay, good. No known allergies. Now, I'd like to do a quick physical exam, if that's alright with you. Just to check your range of motion and see if we can pinpoint where the pain is coming from. Is that okay?
+PATIENT: Yes, that’s fine. Sounds good. Whatever you think is best. I’m ready when you are.
+DOCTOR: Okay, great. If you could lie down on your back for me, please?
+PATIENT: Okay. This table is a little cold!
+DOCTOR: Sorry about that. Better?
+PATIENT: Yes, that’s much better, thank you. A little chilly in here, I guess.
+DOCTOR: Alright, so I’m just going to feel around to see where it’s most tender. Can you tell me if anything feels particularly painful when I press here?
+PATIENT: Ooh, yes. Right there… That’s where it really hurts. Not all the time, but when you press there, yeah.
+DOCTOR: Okay, I see. And how about when I bend your leg up towards your chest like this?
+PATIENT: Hmm… that makes it a little uncomfortable. Not terrible, but I can feel it in my back, kinda shooting down my leg a little bit. The same leg that hurts.
+DOCTOR: Alright, and how does that feel on this side?
+PATIENT: That’s not bad at all, actually. Hardly feel anything. It’s definitely worse on the right side. That’s where all the pain is, you know?
+DOCTOR: Okay, can you try bending forward and touching your toes for me?
+PATIENT: Ooh… that’s tough. I can’t really get all the way down. It hurts in my back to bend that far. I get about… here.
+DOCTOR: Okay, alright. And how about bending backwards?
+PATIENT: That’s not so bad, actually. I can go further back than forward. Still a little uncomfortable, but not as bad as bending forward.
+DOCTOR: Okay. Alright, now I’m just going to check your reflexes. Can you relax your legs for me?
+PATIENT: Okay, relaxing… I’m not very good at relaxing, my wife will tell you. Always fidgeting!
+DOCTOR: That's alright, it's perfectly normal. Just let your legs be loose. Okay, and I’m just going to have you push against my hand with your legs, like you’re trying to lift them up. First, push against this one…
+PATIENT: Okay, pushing… I’m not very strong, you know. Mostly just walking.
+DOCTOR: Alright, thank you. That was helpful. Based on what you’ve told me, and the exam, it sounds like you likely have a muscle strain or sprain in your lower back, possibly with some irritation of the nerve that runs down your leg – what we call sciatica. It's not uncommon, especially with activities like gardening and cleaning. The limited range of motion and pain when bending forward support that. The reflexes and strength are normal, which is reassuring. It doesn’t seem to be anything more serious. Do you have any questions so far?
+PATIENT: Okay, that sounds… good, I guess. Not serious is always good! Sciatica… that sounds scary. Is that something I need to worry about long term? And what can I do about it? I don't want to just sit around and do nothing, you know? I like to keep busy.
+DOCTOR: That's a fair question. Sciatica just refers to the pain radiating down the leg, caused by the nerve being irritated. It doesn’t necessarily mean it’s something long-term or severe. Most cases improve with conservative treatment – that means things like rest, ice and heat, and over-the-counter pain relievers. Staying active is good, but we need to modify what you’re doing. Avoid heavy lifting, bending, and twisting for now. We can also talk about some simple stretches and exercises to help strengthen your back muscles and improve your flexibility. I'm going to recommend ibuprofen 600mg three times a day as needed for pain, and I can write you a prescription for a muscle relaxant if the pain is severe. Does that sound okay?
+PATIENT: Okay, that sounds… reasonable. So, no heavy lifting, take some pills, and do some stretches. I can definitely do that. What kind of stretches? And how long should I avoid lifting things? I don’t want to make it worse, you know? I get worried about doing the wrong thing.
+DOCTOR: I understand. It's good to be cautious. For stretches, a gentle knee-to-chest stretch can help. Lie on your back and pull one knee up towards your chest, holding it for 20-30 seconds. Repeat with the other leg. Another helpful one is a pelvic tilt – lie on your back with your knees bent and gently tilt your pelvis up and down. I can print you out a handout with some pictures and instructions. As for lifting, I'd recommend avoiding anything heavier than 5-10 pounds for the next two weeks. After that, you can gradually increase the weight, but always use proper lifting technique – bend your knees, keep your back straight, and hold the object close to your body. If you experience any pain while stretching or lifting, stop immediately and rest. We can also schedule a follow-up appointment in a couple of weeks to see how you're progressing. Does that sound like a good plan?
+PATIENT: Yes, that sounds perfect. A handout would be great, and two weeks sounds good. And a follow-up appointment. Okay. I appreciate you explaining everything so clearly, Doctor. It makes me feel a lot better knowing what’s going on and what I can do about it.
+DOCTOR: You’re very welcome. I’m glad I could help ease your concerns. Here you go. This has everything we discussed. And I’ll have the nurse schedule you for a follow-up appointment in two weeks. In the meantime, if your pain worsens significantly, or if you experience any numbness or weakness in your legs, please don’t hesitate to call the office. Do you have any other questions for me before we finish up?
+PATIENT: No, I think that’s everything. Thank you again, Doctor. You’ve been very helpful. I guess I’ll just take it easy for a while and see how it goes. Have a good day!
+DOCTOR: You're very welcome, Michae. You take care of yourself and listen to your body. I hope you feel better soon. You have a good day too. And don't hesitate to reach out if you need anything. .
+PATIENT: .

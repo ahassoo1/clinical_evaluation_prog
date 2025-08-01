@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Ms. Wease. I am Dr. GonzalezPerez. It says here you’re 66 years of age. Please, have a seat. Now, what brings you in to see me today?
+PATIENT: Oh, good morning, Doctor. Yes, Claudene Wease, that's right. Sixty-six... feels older some days. Well, to be frank, it's… my water. It hurts when I go, you know? Been happening a bit too much, I think. It's… uncomfortable.
+DOCTOR: “A bit too much,” is rather vague, Ms. Wease. Could you be more specific?
+PATIENT: Oh, dear. Specific… Well, I suppose… a few times a month. Maybe more when it’s hot. I… honestly, I don’t keep a calendar of it. It just… happens. It burns when I pee, and I have to go often, even when I don't feel like I need to. Does that make sense?
+DOCTOR: Frequent urination and a burning sensation… alright. And how long has this been going on, Ms. Wease?
+PATIENT: Oh, goodness. A while now… I think it started… last year, maybe? Or the year before. It comes and goes, you see? It’s not constant. Just… reappears. I had it treated once, I believe, but it came back. I don't recall who the doctor was though.
+DOCTOR: You mentioned being treated previously. Do you recall what treatment you received, Ms. Wease?
+PATIENT: Oh, no, dear, not a bit. Pills, I think. Little white pills. Or maybe they were yellow. Honestly, my memory isn’t what it used to be. It was… some sort of medicine. I just remember being told to take them when it hurt, and… well, it helped for a bit. Then it came back again. It’s all a bit of a blur, I’m afraid.
+DOCTOR: Right. Well, let's move on. Do you experience any pain in your lower abdomen, or your back?
+PATIENT: Lower… abdomen? Sometimes. Not a sharp pain, more of a… ache. A dull ache, mostly. And yes, a little bit in my back too, lower back. But it comes and goes, just like everything else. It’s hard to tell if that’s from this, or just… getting old.
+DOCTOR: Alright. Now, have you noticed any blood in your urine, or any unusual discharge?
+PATIENT: Oh, dear. Blood… I don’t think so. Sometimes it looks a little… cloudy, maybe. But not blood. No. And discharge… no, nothing like that. Definitely not. I would have noticed, wouldn't I? It just hurts, that's the main thing.
+DOCTOR: Alright. Now, Ms. Wease, I'm going to need to conduct a brief physical examination, if you don’t mind. That will involve listening to your abdomen and, if you're comfortable, a quick examination of your pelvic area. We'll need to rule out any other potential causes for your symptoms. Would that be acceptable?
+PATIENT: Oh… a physical examination? Well… I suppose so. If you think it’s necessary. I’m not particularly comfortable with… that area being examined, if I'm honest. But if it will help… yes, alright. Just please be quick, dear. And gentle, if you wouldn't mind.
+DOCTOR: Of course, Ms. Wease. I will be as quick and gentle as possible. First, let's listen to your abdomen. Please lie back on the examination table. Just relax and breathe normally.
+PATIENT: Alright… here I am. Just… let me know when you’re finished, dear.
+DOCTOR: Abdomen is soft to palpation, with no rebound tenderness or guarding. Bowel sounds are normoactive. Now, I am going to need to perform a quick external examination. Could you please bend your knees and keep your feet flat on the table?
+PATIENT: Oh… Bend my knees… right. Is this going to take long, Doctor?
+DOCTOR: Examination is within normal limits, no obvious signs of inflammation or masses. However, without a more thorough internal examination, it’s difficult to rule out a urinary tract infection or other pelvic pathology. Ms. Wease, I recommend a urine analysis and culture to confirm a diagnosis. It’s possible you have a urinary tract infection. Would you be amenable to providing a urine sample?
+PATIENT: A urine sample… yes, alright. If that’s what you think is best, Doctor. It’s just… a bit of a bother, all this, you know? But if it will tell us what’s wrong… yes. Where do I… go?
+DOCTOR: There’s a private room just down the hall. I’ll provide you with a sterile container. You’ll need to collect a midstream sample. There are instructions posted in the room. Once you’ve collected the sample, simply bring it back to me, and we’ll send it off to the lab. It should only take a few minutes. While we await the results, I advise you to increase your fluid intake and avoid caffeinated beverages, as they can irritate the bladder.
+PATIENT: Alright… increase fluids, no caffeine. I can manage that. A midstream sample… right. Well, here goes nothing. Thank you, Doctor.
+DOCTOR: Patient presents with dysuria and frequency. Pending urine analysis and culture. Differential diagnosis includes UTI, cystitis, and interstitial cystitis. Further evaluation may be required if initial results are inconclusive.
+PATIENT: .

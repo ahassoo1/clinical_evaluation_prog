@@ -1,0 +1,28 @@
+DOCTOR: Right. Mr. Mombrun, is it?
+PATIENT: Yes, that is correct. Alroy Mombrun. And please, call me Alroy, if you wouldn’t mind. It feels a bit… formal otherwise, and I assure you, I’m quite approachable.
+DOCTOR: Very well, Alroy. Though I do find a degree of formality helps maintain…focus. Now, what brings you in today?
+PATIENT: Ah, yes, I understand completely. Focus is important. I requested a general wellness check, a lab panel, if you will. Just wanted to see how things are holding up, you know? At my age, one likes to be… proactive. Everything feels alright, but it’s good to have a professional look, isn’t it?
+DOCTOR: A wellness check. Right. And are you experiencing any specific symptoms that prompted this, or is it purely preventative?
+PATIENT: No, no symptoms at all, thankfully. Truly. Just… preventative. My wife, Elena, she’s very good about these things. She says it’s better to know than to wonder, and she is usually right. I like to keep up with things, make sure everything is in order. A little peace of mind, that’s all.
+DOCTOR: Very well. Let’s review your medical history then. I see you’ve been with this practice for… some time. Do you recall any significant past illnesses or surgeries?
+PATIENT: Indeed, quite some time. Elena and I both switched over when we first moved to the city, nearly fifteen years ago now. Let me think… significant illnesses… nothing major, thankfully. I had my appendix removed when I was quite young, perhaps eight or nine years old. And a rather nasty bout of the flu a few years back, but nothing that required a hospital stay. Other than that, just the usual bumps and bruises one gets from a life of… well, physical work.
+DOCTOR: Physical work?
+PATIENT: Yes. I’ve been a construction laborer for… oh, goodness, nearly fifty years now. Mostly framing and roofing, though I’ve done a bit of everything over the years. It keeps me active, and I enjoy it, truly. Though the knees aren’t what they used to be, of course.
+DOCTOR: And do these knees cause you any… discomfort?
+PATIENT: Yes, they do, on occasion. Mostly when the weather changes, or after a particularly strenuous day. A bit of aching, some stiffness. Nothing debilitating, mind you. I manage it with over-the-counter pain relievers and try to take it easy when I need to. It’s just… part of the job, you know?
+DOCTOR: I see. And what about family history?
+PATIENT: Ah, family history. A bit of a mixed bag, I’m afraid. My mother lived to be ninety-two, very healthy woman, but my father… he had some heart trouble later in life. Elena’s side… her grandfather had diabetes, I believe. And her aunt had high blood pressure. Nothing too alarming, as far as I know, but we try to be mindful of it. We both eat reasonably well, try to stay active, and try not to stress too much.
+DOCTOR: And are you currently taking any medications?
+PATIENT: Just the occasional ibuprofen for those knees, as I mentioned. And a multivitamin, Elena insists on that one. Otherwise, no. I prefer to avoid medication if I can, if you don’t mind. I believe in letting the body do its work, as much as possible.
+DOCTOR: Allergies?
+PATIENT: No allergies that I’m aware of. Never had any trouble with food, plants, or… anything, really. I’ve always been quite fortunate in that regard. Elena is a bit sensitive to certain pollens, but I seem to be immune to all of that.
+DOCTOR: Very well. I suppose we can proceed with a brief physical exam, then. Let’s start with your blood pressure.
+PATIENT: Sounds perfectly reasonable. I am happy to cooperate. Lead the way, Doctor. I trust your expertise.
+DOCTOR: 145 over 88. A little elevated, but not alarming. Pulse is 72, regular. Lungs are clear. Throat appears normal. Now, let's check your reflexes. Patellar reflexes are 2+ bilaterally. All within normal limits for your age.
+PATIENT: That is… reassuring to hear. I appreciate your thoroughness, Doctor. It's good to know everything is functioning as it should, even if it’s not perfect. What does the blood pressure reading mean, exactly? Is it something I should be worried about?
+DOCTOR: It's mildly elevated, as I said. It's not an immediate cause for alarm, but it warrants attention. It could be a number of things - stress, diet, lack of exercise… or simply the natural effects of aging. We'll need to monitor it. We'll draw some blood for a full panel – cholesterol, glucose, kidney function, liver function, complete blood count. And a urine sample, please. Just routine. The nurse will direct you to the lab.
+PATIENT: Very good. Routine is perfectly acceptable. I understand. Elena always says it's best to be proactive. If you wouldn’t mind, Doctor, could you perhaps explain what each of those tests checks for, in… layman’s terms? Just so I have a better understanding of what we’re looking at.
+DOCTOR: Very well. Cholesterol checks for fats in the blood, which can contribute to heart disease. Glucose checks your blood sugar levels, to screen for diabetes. Kidney and liver function tests assess how well those organs are working. And the complete blood count checks for various types of blood cells, to detect anemia or infection. Is that… satisfactory?
+PATIENT: Yes, that is perfectly satisfactory, thank you. You explained it very clearly. It’s good to know what to expect. So, if I understand correctly, we’re simply getting a broad overview of how everything is functioning internally? Just a ‘check-up’ to see if anything is out of the ordinary?
+DOCTOR: Precisely. A broad overview. Now, please, go to the lab. The nurse will explain the process. I’ll review the results when they are available. We can discuss them then.
+PATIENT: Very well. Thank you, Doctor. I appreciate your time and expertise. I will see the nurse now.

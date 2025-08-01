@@ -1,0 +1,21 @@
+DOCTOR: Alright, Mr. McKinnon. So, what brings you in today?
+PATIENT: Well, doctor, it’s my muscles. They feel… weak. It’s been going on for a little while now, and it’s starting to bother me more and more. It’s hard to explain, just… tired, I guess. Like I’ve been doing heavy lifting all day, even when I haven’t.
+DOCTOR: “Tired muscles,” huh?
+PATIENT: Yeah, that’s the best way I can put it. It's not painful, exactly. Just… giving out easier than they used to. Even simple things, like getting up from a chair, or carrying groceries. It’s worrying me, to be honest. I don't know what's causing it.
+DOCTOR: Okay, okay. And how long has this “giving out” been happening?
+PATIENT: Hmm… let me think. It started… maybe six, seven weeks ago? It was just a little thing at first, I didn't really pay it much attention. But it’s gotten steadily worse each week, I’d say. Definitely noticeable now. I remember it starting around the end of June, probably. I was helping my cousin move some furniture and felt it a bit then, but like I said, I just figured it was from the moving. Now it’s… constant, pretty much.
+DOCTOR: Right. And you said it’s all over, or are certain muscles worse than others?
+PATIENT: It’s… mostly in my legs, I think. My arms are okay, mostly. Though sometimes when I’m reaching for something high up, they feel a bit shaky. But the legs are where I really notice it. Especially when I’ve been on my feet for a while. It feels like they just… don’t want to hold me up anymore. And it’s both legs, pretty much the same. Not one worse than the other, if that makes sense.
+DOCTOR: Alright. Any fever, rash, or any trouble breathing?
+PATIENT: No, no fever. Definitely no rash. And my breathing's been fine, thank you. No trouble with that at all. I haven’t been sick or anything, just… weak. It's just this muscle weakness, that’s all. I haven’t noticed anything else out of the ordinary, no.
+DOCTOR: Okay. And any changes in your diet recently?
+PATIENT: Not really. I eat pretty much the same things as always, I suppose. I try to eat healthy, you know? Lots of rice and vegetables. I haven't been skipping meals or anything like that. No big changes, no. I drink a lot of water, too. Trying to stay hydrated, especially with the weather being so hot.
+DOCTOR: Alright. Let’s take a look at your reflexes and strength. Can you stand up for me?
+PATIENT: Sure, doctor. Just give me a second… getting up is… well, you see what I mean.
+DOCTOR: Okay. Strength is… diminished in both legs, as you described. Reflexes are a little sluggish. I'm going to need to get some blood work done. Standard stuff – check your electrolytes, vitamin levels, rule out anything obvious. I'll also order a basic metabolic panel. We need to see what’s going on.
+PATIENT: Okay, that sounds… sensible. Whatever you think is best, doctor. Blood work, right? Do I need to fast beforehand, or…? And where do I go to get that done? Is it here, or somewhere else? I just want to know what to expect.
+DOCTOR: Yes, you’ll need to fast for 12 hours beforehand. Nothing to eat or drink except water. It's over at the lab across the street. Take this form with you. They'll take care of everything. Come back with the results, and we’ll talk. Don't expect any miracles, alright?
+PATIENT: Alright, 12-hour fast, lab across the street. Got it. No miracles, okay. I understand. Thank you, doctor. Hopefully, it’s nothing too serious. Is there anything else I should be doing in the meantime? Any exercises to avoid, or…?
+DOCTOR: Avoid anything strenuous. Don’t push yourself. If you feel any new symptoms – shortness of breath, dizziness, anything like that – go to the emergency room. Otherwise, just try to rest. I’ll see you when you have the results. Next.
+PATIENT: Okay. Rest, avoid strenuous activity, and go to the emergency room for new symptoms. Got it. Thank you, doctor. .
+DOCTOR: .

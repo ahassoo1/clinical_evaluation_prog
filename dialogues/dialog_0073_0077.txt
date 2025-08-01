@@ -1,0 +1,34 @@
+DOCTOR: Good morning, Mr. Bigger. I’m Dr. Korrell. So, tell me, what brings you in to see me today?
+PATIENT: Eh? Morning to you too, doctor. They tellin' me I gotta come get checked 'cause of the work. Underground, you know. Dust and things. Ain't feelin' nothin' wrong, though. Waste of time, if you ask me. But the company... they insist.
+DOCTOR: Underground work, you say?
+PATIENT: Yes, ma'am. Mining. Been doin' it… a long time. Before you were born, I reckon. Loadin' and movin' things with the machines. Heavy work. Not easy, you know. Used to be harder, though. Everything’s got machines now.
+DOCTOR: Right. Well, even with the machines, it can still take a toll. So, you say you aren’t feeling anything wrong currently?
+PATIENT: No. That's what I'm tellin' ya! Ain't got no cough, no trouble breathin', no aches. Everything's workin' like it should. They makin' a fuss over nothin'. Back in my day, we didn’t have time for these check-ups. Just got on with it.
+DOCTOR: While I appreciate your… resilience, Mr. Bigger, certain exposures can have delayed effects. Just to be thorough, let’s go through a few questions. Have you noticed any changes at all, however small, in your energy levels recently?
+PATIENT: Energy levels? Hmm… Well, I am eighty-six years old, doctor. I'm gonna be a little tired, aren't I? Compared to when I was a young man, yes, less energy. But that’s just age. Not the mine. Not nothin’ to do with dust.
+DOCTOR: Alright. And have you experienced any shortness of breath, even when resting or doing light activity?
+PATIENT: No! Like I said, I breathe just fine. Walk around the house, do my little chores... no problem. They worry too much, these young people. Always lookin' for somethin' wrong. Back in my day...
+DOCTOR: Very well. Now, let's talk about your medical history. Have you ever been diagnosed with any significant medical conditions?
+PATIENT: Significant... well, I had a touch of the flu, once. Many years ago. And my knee gets a little stiff in the cold weather. Apart from that, I’ve been pretty lucky. Strong Nigerian blood, you see.
+DOCTOR: Alright. And have you ever had any surgeries?
+PATIENT: Surgeries? Let me think… No, no surgeries. Never needed 'em. Always too busy workin' to get sick enough for that! A little pain, you rub some ointment on it. That’s all.
+DOCTOR: Alright. Now, are there any medical conditions that run in your family?
+PATIENT: Family... well, my mama lived a long life. She was strong, like me. My papa… he had a bad back, from farmin', I think. And my brother… he had troubles with his stomach, but that was from eatin’ bad food. Not nothin’ fancy. Not like these things they talk about now.
+DOCTOR: And what about medications?
+PATIENT: Medications? Just a little somethin’ for my knee sometimes, when it’s really botherin’ me. Over-the-counter stuff, you know. Rub-on ointment, that's all. I don’t like takin’ pills. Never did.
+DOCTOR: Alright. Now, I'd like to do a quick physical exam, just to get a baseline. It won't take long. Is that alright?
+PATIENT: Exam? Hmph. What’s the point? You won’t find nothin’ wrong. But… alright. Get it over with, then. Just don’t poke around too much, eh? I’m an old man.
+DOCTOR: Very well. First, I’m going to listen to your heart and lungs. Please take a deep breath in… and out. Heart rate is regular. Breath sounds are… somewhat diminished bilaterally, but not alarming for age. Now, I'm going to check your blood pressure. 145 over 90. Slightly elevated. Let's check your oxygen saturation. 94%. Acceptable, but on the lower end.
+PATIENT: Lower end? See? I told ya! It's just the air in this city. Back home, the air was clean. Not like this place. And my blood pressure... I get a little worked up talkin’ to doctors. Always makin’ a fuss about nothin’.
+DOCTOR: Alright. Now I’m going to listen to your abdomen. Soft, non-tender. And I’ll just quickly check your reflexes. Present, but slightly diminished. Finally, I'm going to take a look at your throat. Normal appearance.
+PATIENT: Throat... everything's always "normal" with these doctors. Waste of time, if you ask me. You findin' somethin' wrong yet? Or are we just gonna keep pokin' and proddin'? I got things to do, you know.
+DOCTOR: Well, Mr. Bigger, everything is within normal limits for your age, but given your history of underground mining work, I am concerned about potential lung damage from dust exposure. Your diminished breath sounds and slightly low oxygen saturation are concerning, even if they aren’t immediately alarming. I’m going to order a chest X-ray and a pulmonary function test to get a better picture of your lung health.
+PATIENT: X-ray? Pulmonary… what? Now you’re talkin’ nonsense, doctor. All that fancy equipment... I just want to go home. I ain't got nothin’ wrong. It’s the city air, I tell ya!
+DOCTOR: Mr. Bigger, these tests are standard procedure for someone with your work history. They aren't meant to alarm you, but to rule out any potential issues. It's better to be safe than sorry. The X-ray will show us if there’s any scarring or inflammation in your lungs, and the pulmonary function test will measure how well you're breathing. I will give you a referral to a specialist for these tests. Do you understand?
+PATIENT: Scarring... inflammation...? I don't understand none of that fancy talk. Specialist...? Look, I appreciate you lookin’ at me, but this is all too much. I'm an old man, I been workin’ hard all my life. I ain't lookin’ for trouble. Can't I just... go home? I don’t need no tests, no specialists.
+DOCTOR: Mr. Bigger, I understand your reluctance, but given your history, I strongly recommend these tests. The specialist will be able to interpret the results and provide you with the best course of action. I will provide you with the referral information, and a detailed explanation of what the tests involve. If you're still hesitant, I recommend discussing this with your family. However, I feel it is my professional obligation to recommend further evaluation.
+PATIENT: Hmph. Fine. Give me the paper. But don't expect me to be happy about it. And don't go makin' a fuss if nothin's wrong. Waste of time, the whole lot of it. But... alright. Just... get it over with.
+DOCTOR: Here is the referral to Dr. Anya Sharma, a pulmonologist. The form includes her contact information and instructions on scheduling an appointment. I’ll also print out a brief summary of our conversation and the rationale for the testing. It is important that you follow up with Dr. Sharma within the next two weeks. Do you have any questions before you leave?
+PATIENT: Anya Sharma… Two weeks… Hmph. No. No questions. Just… get me outta here. I got things to do. Thank you… I guess.
+DOCTOR: Very well, Mr. Bigger. Please take care. And do schedule that appointment. The nurse will escort you out. .
+PATIENT: .

@@ -1,0 +1,24 @@
+DOCTOR: Right, yes. Mr. Paguioto, is it?
+PATIENT: Yes, that’s right. Nathaiel Paguioto. But please, call me Nathaiel. It’s nice to meet you, Doctor… Osga, wasn’t it?
+DOCTOR: Osga will do. Look, I’m quite busy today, so let's get straight to it. What brings you in?
+PATIENT: Oh, yes, of course. Sorry to take up your time. I’m here for a vaccination… or immunization, I think it’s called? I need to get one done, and my… well, someone told me I should come here. It's about staying healthy, you know? I don’t really know which one I need, to be honest.
+DOCTOR: Vaccination… right. And how old are you, exactly?
+PATIENT: Forty-seven. August 2nd is my birthday, actually! But right now, it’s just forty-seven. Does that make a difference which one I need? I always forget which ones are for what age.
+DOCTOR: Of course it makes a difference. Honestly. Forty-seven… hmm. And are you generally healthy?
+PATIENT: Yes, I think so. I mean, I get a little tired sometimes, like anyone, and my back aches if I stand for too long, but nothing major. I haven’t been to the hospital in… oh, goodness, years! I try to eat well and I walk when I can. Do you need to know about any… illnesses I've had before? I can try to remember.
+DOCTOR: Look, we’ll get to all of that if it's relevant. Just tell me, have you had a tetanus shot in the last ten years?
+PATIENT: Tetanus… hmm. That’s the one you get from rusty metal, right? I think… maybe? It was a long time ago. I honestly can’t recall. I worked in a garden centre for a while, so I suppose it's possible, but I don’t remember specifically getting a shot. Would I have a card or something? I tend to lose things.
+DOCTOR: Honestly. No card, no memory… Right. Well, we’ll need to give you a booster then. It's standard procedure. Do you have any allergies to… anything?
+PATIENT: Oh, okay, a booster sounds good. I'm happy to get whatever I need! Allergies… let me think. No, I don’t think so. Nothing I’m aware of, anyway. I eat all sorts of things – peanuts, shellfish, chocolate… no problems there. I used to react a little to some strong perfumes, but that’s not really an allergy, is it? Just a bit of a sniffle.
+DOCTOR: Perfumes aren’t relevant. Let's just get this over with. Roll up your sleeve. And try to stay still.
+PATIENT: Right, yes, of course. Sleeve up… There we go. I’ll try my best to stay still. Is it… a big needle? I don't mind needles too much, but big ones always make me a little nervous.
+DOCTOR: It’s standard size. Done. Try not to make a fuss. There. All finished. Now, if you’ll excuse me…
+PATIENT: Oh! That wasn’t bad at all, actually. A little pinch, but nothing terrible. Thank you. Is there anything else I need to do? Like, avoid strenuous activity, or watch for a reaction? I always worry about side effects.
+DOCTOR: Just monitor for excessive redness, swelling, or fever. Unlikely, but… you know. And try to get some rest. Honestly, people make such a fuss over these things. Here’s a printout of your vaccination record. Now, is there anything else?
+PATIENT: Oh, okay, redness, swelling, fever. Got it. And rest, yes, that sounds sensible. Thank you very much, Doctor Osga. I appreciate you fitting me in. Actually, while I’m here… I've been feeling a bit… forgetful lately. Not about important things, but small things. Is that something I should worry about?
+DOCTOR: Forgetful?
+PATIENT: Yes, just little things. Like, where I put my keys, or the name of a song I heard on the radio. It's probably nothing, but it's been happening more often recently. I just thought, while I was here and you were a doctor… maybe you'd have some advice? I don't want to be a bother.
+DOCTOR: At your age, some memory lapse is perfectly normal. It's called getting older. Honestly, people come in here with the most ridiculous complaints. Unless you're experiencing significant cognitive decline, there's nothing to worry about. Are you sleeping properly?
+PATIENT: Oh, right, getting older, yes. I suppose you’re right. It just… worries me a little, that’s all. Sleeping? Yes, mostly. I wake up a couple of times during the night sometimes, but nothing major. Maybe I’m just a bit stressed. I’ve been trying to eat healthier and walk more, like I said. So, you don’t think it’s anything to be concerned about?
+DOCTOR: Look, if you start forgetting major events, or can’t recognize family members, then come back and see me. Otherwise, get some rest, try to relax, and stop worrying so much. Now, if you’ll excuse me, I have other patients to see. Have a good day. .
+PATIENT: Oh. Right. Okay. Yes, of course. Get some rest, stop worrying… I understand. Thank you for your time, Doctor Osga. Major events… can't recognize family… Right. Have a good day to you too.

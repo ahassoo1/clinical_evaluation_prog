@@ -1,0 +1,43 @@
+DOCTOR: Good morning, Ms. Reihner. Welcome to the clinic. I'm Dr. Piet. So, what brings you in today?
+PATIENT: Good morning, Doctor. It’s…painful. In my back. I want to get this over with quickly, if that’s alright.
+DOCTOR: Yes, of course. We’ll get through this as efficiently as possible. Back pain… okay. Can you tell me a little more about it?
+PATIENT: It started…about three weeks ago, I think. It’s mostly lower back. Feels like…a dull ache, most of the time. But sometimes, when I bend over – like when I’m working on a fence – it gets very sharp. It shoots down my leg a little, on the right side.
+DOCTOR: Three weeks, lower back, dull ache with sharp pains when bending… and it radiates down the right leg. Does anything relieve the pain, Ms. Reihner?
+PATIENT: Not really. Sitting helps a little, but I have to sit very still. And…heat. A warm bath. But it doesn’t last long. Mostly, it’s just…there. I take Tylenol sometimes, but it doesn’t do much good.
+DOCTOR: Okay, sitting still and heat provide some temporary relief. Tylenol isn't very effective. Have you noticed anything that makes the pain worse, besides bending?
+PATIENT: Yes. Standing for too long. And…twisting. Like when I’m stretching the wire for the fence. That’s bad. Really bad. It feels like something is going to snap.
+DOCTOR: Standing and twisting aggravate it. And you mentioned working on a fence a lot. Is that your primary occupation?
+PATIENT: Yes, Doctor. I…erect fences. It’s what I do. Well, what I did with my husband. Now, I do it myself. It’s… hard work. That’s an understatement. But I have to keep up with it.
+DOCTOR: Okay, so physically demanding work. And you’re doing this independently now. Have you had any injuries to your back before, Ms. Reihner?
+PATIENT: No. Not that I recall. A few strains, maybe, over the years. But nothing serious. Nothing that needed a doctor. Just…soreness. This is different. Much worse.
+DOCTOR: No prior serious back injuries, just occasional soreness. Alright. Let’s move on to some other questions, if you don't mind. Do you have any other medical conditions I should be aware of?
+PATIENT: No, Doctor. Just…getting older. Medicare covers me, if that’s what you mean. I don’t…go to the doctor much. My husband always took care of things. And…I’m a widow. Now. Stopped about a year ago.
+DOCTOR: I see. I'm very sorry for your loss, Ms. Reihner. No other medical conditions?
+PATIENT: No, Doctor. Nothing. I… try to stay healthy. Eat alright. Get enough sleep when I can. It's just…this back. It’s making everything hard. I don’t know what to do.
+DOCTOR: Okay. And are you currently taking any medications, besides the Tylenol?
+PATIENT: No, Doctor. Just the Tylenol, when it doesn’t help. That’s it. I don’t like taking pills if I don’t have to. Makes me feel…sluggish.
+DOCTOR: No regular medications. Alright. And do you have any allergies to medications or anything else?
+PATIENT: No. Not that I know of. I've never had a bad reaction to anything. I’m Lakota. We…don’t have many allergies. Not like some folks. But thank you for asking. I’d like to finish this quickly, if possible.
+DOCTOR: Absolutely. We’ll keep it as brief as we can. Now, before we do a quick physical exam, let me ask about your family history. Does anyone in your family have a history of back problems or arthritis?
+PATIENT: My mother had…aches, when she got older. In her hips, mostly. But not her back. My father…he was strong. Worked on the reservation. Never complained about much of anything. I don’t really know about the rest of my family. I didn’t…keep in touch.
+DOCTOR: Okay, mother had hip aches, father was healthy. Alright. Now, Ms. Reihner, I'd like to do a brief physical examination of your back, if you're comfortable with that. I'll check your range of motion, look for any tenderness, and do a few simple neurological tests to see if the pain is affecting your nerves. Is that alright?
+PATIENT: Yes. Alright. Just…please be quick. I have fences to fix.
+DOCTOR: I understand. Let's begin. Could you please lie face down on the examination table for me?
+PATIENT: Yes, Doctor.
+DOCTOR: Okay, Ms. Reihner, I’m just going to gently feel along your spine and the muscles on either side. Can you tell me if you feel any pain when I press here?
+PATIENT: Yes. Right there. And…a little bit to the left. It’s…a dull ache, but it’s definitely there.
+DOCTOR: Okay, and what about here?
+PATIENT: Yes! That’s…sharp. A shooting pain. Down my leg. Just a little. But it’s there. Please don’t press too hard.
+DOCTOR: Okay, I’ll be gentle. Now, I’m going to ask you to lift each leg up, one at a time, while lying flat. This helps me check your nerve function. Can you try that for me?
+PATIENT: Yes. That…hurts. Not terrible, but…it’s not good. It feels…tight. And the pain…it’s shooting down the back of my leg more now.
+DOCTOR: Okay. And now the left leg?
+PATIENT: Yes. That’s alright. No pain. Feels…normal. It’s just the right leg. That’s the one that hurts. It’s always the right leg.
+DOCTOR: Okay, Ms. Reihner. That’s all for the physical exam. I’ve noted some tenderness in your lower back, especially on the right side, and some discomfort when lifting your right leg. It sounds like you may have a lumbar radiculopathy, which means a nerve in your lower back is being irritated or compressed. It’s common with physical activity like fence work. We will need to get an X-ray to rule out other issues.
+PATIENT: X-ray? What does that mean? How long is this going to take? I have fences to fix, Doctor. Is it serious?
+DOCTOR: An X-ray will help us see if there's any structural problem with your spine, like a fracture or arthritis. It's a standard precaution. It's not necessarily serious, Ms. Reihner, but we need to rule things out. It will take about 15 minutes to get the images. Then, the radiologist will review them, which may take a few hours. I'll call you with the results as soon as I have them. In the meantime, I'm going to prescribe you some muscle relaxants and anti-inflammatory medication to help with the pain and inflammation. We will also need to discuss physical therapy. Would you like to schedule a physical therapy appointment?
+PATIENT: Yes, Doctor. Muscle relaxants…and anti-inflammatory. Alright. And physical therapy. Just…please hurry. I need to get back to work. Can I drive after taking the muscle relaxants? Will they make me…sleepy? I don’t have anyone to help me.
+DOCTOR: I understand your concern about getting back to work. The muscle relaxants can cause drowsiness, so I strongly advise against driving or operating heavy machinery for at least 24 hours after taking them. And please, do not combine them with alcohol. We’ll start with a low dose to see how you react. I'll write you a prescription, and the nurse will explain the dosage and side effects before you leave. As for the physical therapy, let's schedule an appointment for next week. It will teach you exercises to strengthen your back and prevent future injuries. The nurse can help with that. Are you comfortable with that plan?
+PATIENT: Yes, Doctor. That…sounds alright. No driving. I understand. Just…hurry. I have fences to fix. And please, call me as soon as you have the results. Don’t make me wait long.
+DOCTOR: Absolutely, Ms. Reihner. I will call you as soon as I have the results. The nurse will be in shortly with your prescription and some instructions. Thank you for your patience. Is there anything else I can help you with today?
+PATIENT: No, Doctor. That's all. Thank you.
+DOCTOR: .

@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Ms. Aslan. I’m Dr. Yackey. Now, let’s get straight to it. What brings you in today?
+PATIENT: Hi Dr. Yackey, nice to meet you. Well, I've been getting chills, and it's a little weird. Not like a cold coming on, just… chills. It started a couple of days ago, I think.
+DOCTOR: A couple of days, you say. Vague recollections are… common. Can you be more specific?
+PATIENT: Hmm, okay, you're right. Sorry. It was Tuesday, I think. Definitely after Monday. I had a busy week at work, so the days are kinda blending together. But yeah, Tuesday morning I started feeling a bit off, and then the chills started later that day. They come and go.
+DOCTOR: Right. And these chills… are they accompanied by anything else?
+PATIENT: Well, not really a fever, I don't think. I haven't taken my temperature, to be honest. But I've been really tired, more than usual. And a little achy, like I did a workout or something, but I haven’t. Just generally…blah. Is that helpful?
+DOCTOR: “Blah” is… not a clinical term, Ms. Aslan. We need specifics. Let's try this. Any nausea, vomiting, diarrhea?
+PATIENT: No, none of that. Definitely not. My stomach's been fine, actually. No changes there at all. It’s just the tiredness and these…shivers, I guess. Like when you’re cold, but I’m not actually cold. Does that make sense?
+DOCTOR: Somewhat. Have you experienced any recent travel?
+PATIENT: No, not recently. I haven't left town in… oh gosh, maybe six months? Work's been pretty demanding, so no vacations or anything. Just back and forth to work, really. Is that important?
+DOCTOR: It’s always important, Ms. Aslan. Now, any changes in your appetite?
+PATIENT: Not really, no. I’ve been eating pretty normally, I think. Maybe a little less hungry than usual, but I put that down to just feeling tired. I haven't lost my appetite completely, if that makes sense. Still wanting my couscous, haha.
+DOCTOR: Right. Couscous. Let’s move on. Any muscle aches, beyond what you’ve described?
+PATIENT: Not really… well, my shoulders are a bit stiff, but I work at a computer all day, so that's probably just from being hunched over. It’s not like a bad ache, more like… tightness? I don’t know if that counts. Does that help? I feel like I'm not being very helpful here. Sorry.
+DOCTOR: It’s…difficult to obtain a proper history. Now, let’s briefly review your systems. Any headaches, dizziness, blurred vision?
+PATIENT: No headaches. And no dizziness or blurred vision, thankfully. My eyesight's been okay, as far as I know. I had an eye exam last year, and everything was fine then. I wear glasses, but my prescription hasn't changed. Sorry if I'm rambling. I just…I don’t know what’s wrong.
+DOCTOR: Very well. Let’s have a listen to your lungs and heart, and I’ll take a quick look at your throat. Perhaps a physical examination will yield more information than this…ambiguous description. Please lie down.
+PATIENT: Okay, sounds good. Hopefully you can figure out what’s going on. I really just want to feel normal again.
+DOCTOR: Lungs are clear. No swelling. Now, open your mouth. Throat appears normal, no obvious signs of infection. Temperature is 98.6 Fahrenheit. Within normal limits. So, everything appears… unremarkable. Do you have any known allergies?
+PATIENT: No allergies that I know of. Never had a reaction to anything, thankfully. Food, medications, pollen… nothing. I get a bit of hay fever in the spring, but that's just sneezing, nothing serious. Does that count?
+DOCTOR: No. That is not significant. Are you currently taking any medications?
+PATIENT: No, not at the moment. I haven't needed anything regularly for years. Just the occasional pain reliever for a headache, but that’s it. I try to stay healthy, you know?
+DOCTOR: Right. Well, Ms. Aslan, based on this… limited information, and the unremarkable physical examination, it’s likely a mild viral illness. Rest, fluids, and over-the-counter pain reliever if needed. If symptoms worsen, or persist beyond a week, return for further evaluation. Do you have any questions?
+PATIENT: Okay, that sounds… reasonable, I guess. A week? Even if I'm still really tired? And what if the chills come and go, but don't completely go away? I’m just a little worried, because I don’t usually get sick.
+DOCTOR: Ms. Aslan, I understand your concern. However, it is difficult to diagnose something with such vague symptoms. If the fatigue is debilitating or the chills persist beyond a week despite rest and fluids, then we will consider further testing. A complete blood count, perhaps. But frankly, it’s likely nothing serious. Is there anything else?
+PATIENT: No, I think that’s it. Thank you, Dr. Yackey. I appreciate you taking the time, even if you don’t think it’s anything serious. I'll try to rest and see how I feel.
+DOCTOR: Very well. Avoid strenuous activity, and ensure adequate hydration. Have a good day, Ms. Aslan. .

@@ -1,0 +1,24 @@
+DOCTOR: Good afternoon, Mr. Shanor. I’m Dr. Fazzina. Welcome to the clinic. So, tell me, what brings you in today?
+PATIENT: Uh, hello Doctor. I… need checkup for… referee thing. For sports. Need to be fit. I think you get paper from league? About checkup. Want finish quick if possible, please.
+DOCTOR: Yes, I see the sports physical request here. League physical… right. Absolutely, we can get this done as efficiently as possible. To start, can you tell me a little bit about which sport you referee?
+PATIENT: Basketball. High school. Sometimes college, small games. Not big college. Just… local. Mostly high school. Is okay? I not understand… what you need to know exactly?
+DOCTOR: Yes, that's perfectly fine. It’s just important to know the level of activity. And no worries about knowing exactly what I need to know – that's my job. We just need to go through some questions to make sure you're healthy enough for refereeing. Let’s start with a little bit about your general health. Have you had any major illnesses or surgeries in the past?
+PATIENT: Hmm… major? I… had sick. Flu, many times. Nothing… cut open. No surgery. Wife… she had surgery. Long time ago. But me? No. Just… regular sick. Sometimes cough. You know. Nothing serious. Is that… enough?
+DOCTOR: Okay, no surgeries, just the flu. That's good to know. And how about any ongoing medical problems, like high blood pressure, diabetes, or heart trouble?
+PATIENT: No. Doctor say… everything okay last time. Maybe five years ago? Regular checkup. No problems. I… feel okay. Little tired sometimes, but… work is hard. Lifting heavy things, you know? For… the furnace. The refractory. Is that… what you mean?
+DOCTOR: Right, I understand. You feel generally healthy, a bit tired from work, but no diagnosed medical conditions. Okay. Now, are you currently taking any medications – prescription or over-the-counter – or any vitamins or supplements?
+PATIENT: No medicine. Sometimes… painkiller. For back. When lift very heavy. Not every day. Just… when need. And no vitamins. Wife… she take vitamins. I… forget. I bad at remember things like that.
+DOCTOR: Okay, occasional pain reliever for your back when lifting. I understand. We’ll make a note of that. Now, do you have any allergies to medications, food, or anything else?
+PATIENT: No allergies. Never have. I eat everything. Wife… she allergy to… nuts. But me, no. No problem. No rash, no… breathing hard. Everything okay.
+DOCTOR: Alright, good. No known allergies. Just to finish up this part, have there been any major medical problems in your family – like heart disease, cancer, or diabetes?
+PATIENT: Hmm… wife’s mother… she had… sugar problem. Diabetes? Yes. And her father… heart. Very old. But my parents… I think okay. Nothing serious. They… pass away long time ago. Old age. Is that enough? I don’t… know much about family history. We not close. Sorry.
+DOCTOR: That’s perfectly alright, Mr. Shanor. You’ve given me some good information. Okay, let’s move on to a brief physical exam. I’m just going to check your height, weight, blood pressure, pulse, and listen to your heart and lungs. Does that sound okay?
+PATIENT: Yes. Okay. Fast is good. I have… work later. Thank you. I… ready when you ready.
+DOCTOR: Excellent. Let's start with your height and weight. Just step onto the scale when you’re ready. Alright, 174 centimeters and 134 pounds… good. Now, I’m going to take your blood pressure. Could you please extend your arm?
+PATIENT: Okay. Is… tight? Hurts a little.
+DOCTOR: Sorry about that, Mr. Shanor. Sometimes it can be a bit tight. Let me adjust it. Okay, your blood pressure is 130/80. Pulse is 72 and regular. Now, if you don't mind, I'm just going to listen to your heart and lungs. Please take a deep breath for me… and another one… good. Heart sounds are normal. Lungs are clear. Everything sounds good so far.
+PATIENT: Okay. Good. Everything good? I can… go now? Is finish? I really need… fix the furnace. People need heat.
+DOCTOR: Yes, Mr. Shanor, everything sounds good. Your heart and lungs sound healthy, and your blood pressure and pulse are within a normal range. Based on this brief exam and your history, I don’t see any reason why you shouldn’t be able to continue refereeing. I’ll complete the sports physical form for the league. It will take me just a few minutes. In the meantime, do you have any questions for me?
+PATIENT: No questions. Thank you, Doctor. Very fast. I… appreciate it. Is good. You have… pen? I need… sign something, maybe? For form? I forget. Sorry again. I… bad memory.
+DOCTOR: Here you go. Just sign at the bottom where it says “Patient Signature”. And don’t worry about forgetting things – it happens. You’re all set, Mr. Shanor. Please let me know if you experience any new symptoms or have any concerns in the future. And thank you for your hard work keeping people warm! Have a good day.
+PATIENT: Thank you, Doctor. You too. Bye.

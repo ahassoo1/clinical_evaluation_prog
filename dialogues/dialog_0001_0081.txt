@@ -1,0 +1,31 @@
+DOCTOR: Alright, alright. So, you’re Jailia, right?
+PATIENT: Yes, that is correct. Jailia Chakka. And please, do try to keep up. My time is rather valuable.
+DOCTOR: Look, I’ve got a waiting room full of people actually needing help, so let’s just get this over with. What are you here for?
+PATIENT: I am here regarding a…diminishment of my physical vitality, coupled with rather disruptive nocturnal perspiration. I suppose you could say I’m experiencing weight loss alongside increasing fatigue and night sweats. It's quite inconvenient, really.
+DOCTOR: Right. “Diminishment of physical vitality.” Okay. And how long has this… “diminishment” been going on?
+PATIENT: Approximately three months, give or take a few days. I maintain a very precise calendar, you understand, but other obligations have…distracted me from meticulously documenting every single instance. It has been progressively worsening, however. I’ve noticed it, certainly.
+DOCTOR: Three months. And are we talking… significant weight loss?
+PATIENT: Significant is…relative, isn't it? Perhaps five kilograms. It is noticeable in my attire, of course. I have had to have several pieces altered. It’s…unsettling, given my generally disciplined lifestyle. I assure you, I do not overindulge.
+DOCTOR: Five kilograms… alright. And anything else?
+PATIENT: Well, my husband has commented on the…frequency with which I awaken during the night. I’ve had to change the bedding several times due to the aforementioned perspiration. It’s…disruptive to his sleep as well. And I find myself rather…uncomfortable, generally. A sort of pervasive malaise. Do you require a more detailed accounting?
+DOCTOR: Husband commenting, night sweats… Alright. Any fever?
+PATIENT: No, I have not measured an elevated temperature. I do not typically engage in self-diagnosis, relying on professional assessment for such matters. Though, I feel rather warm at times, particularly at night. Is that the same thing? It seems a rather…simplistic question.
+DOCTOR: It’s…not the same thing. But alright, no fever. Any cough?
+PATIENT: No cough. I do not have any respiratory issues. I maintain a very clean living environment, you understand, and avoid exposure to…germs whenever possible. It's simply not conducive to a refined lifestyle. Are we nearing a conclusion? I have a rather important appointment following this.
+DOCTOR: Okay, no cough. Any…changes in appetite?
+PATIENT: Changes? Not precisely. I maintain my usual, disciplined dietary regimen. However, I find myself with less…enthusiasm for meals. The enjoyment is…diminished. It's difficult to articulate, really. The food simply doesn’t hold the same appeal. And, frankly, I find the entire process rather tiresome at this point.
+DOCTOR: Alright, alright. I’m going to need to do a quick physical exam. Just standard stuff. Blood pressure, pulse, listen to your lungs… You know. Don’t make it a whole thing.
+PATIENT: A physical exam. Very well. I suppose that is…necessary. Though, I must warn you, I have a rather low tolerance for unnecessary probing. Please be efficient. And do ensure your instruments are properly sterilized. I trust you adhere to the highest standards of hygiene?
+DOCTOR: Yes, everything is sterilized. Just…relax. Let’s start with your blood pressure. 110 over 70. Pulse is 72. Now, let me listen to your lungs. Take a deep breath… and exhale. Again. Anything hurt when I press here?
+PATIENT: No, that is…tolerable. Though, a slight discomfort is present, naturally. It's been there for some time, a minor ache. I assumed it was simply…postural. You needn't concern yourself with it unless it becomes… debilitating. Proceed. I trust you are being thorough?
+DOCTOR: No major tenderness. Alright. Now, are you on any medications?
+PATIENT: No, I do not require medications. I maintain my health through a disciplined lifestyle and a carefully curated diet, as previously stated. I find the idea of introducing foreign substances into my system…unsettling, frankly. Though, my husband's mother does take something for her…arthritis, I believe. It's a rather unpleasant topic.
+DOCTOR: No medications. Any allergies?
+PATIENT: No allergies. I have been fortunate to avoid any adverse reactions to…environmental stimuli. Though, I do find the scent of certain flowers…overpowering. It's hardly an allergy, of course, merely a…sensory aversion. Proceed. I am beginning to lose patience.
+DOCTOR: No allergies. Alright. Has anything like this happened before?
+PATIENT: No. This is… entirely novel. I pride myself on maintaining a consistent state of well-being, so such a disruption is… concerning. It is not something I anticipated, and frankly, it's rather inconvenient. It is also a source of… embarrassment, if I am being honest.
+DOCTOR: Alright…Based on what you’ve told me, and the quick exam… it could be a lot of things. But the weight loss, night sweats, fatigue… could be something as simple as stress, or a minor infection. But we need to rule things out. I’m going to order some blood work. Complete blood count, metabolic panel, thyroid function tests. And maybe a chest x-ray, just to be safe. Does that sound acceptable?
+PATIENT: Blood work and a…chest x-ray? Is that absolutely necessary? I find the entire prospect… disruptive, frankly. However, if it is required to ascertain the cause of this…unpleasantness, I suppose I can acquiesce. But I expect a prompt and thorough analysis of the results. And I trust the facility adheres to the highest standards of…discretion. I do not wish this matter to be…gossiped about.
+DOCTOR: Alright. The lab is right across the hall. They'll take care of you. And yes, everything is confidential. Now, I’ll have the results sent to me, and we’ll go from there. I’ll call you when they come back. Any questions?
+PATIENT: Questions? No. Simply ensure the analysis is… expeditious. And please, do not hesitate to contact me with any… significant findings. I have a rather demanding schedule, so brevity is appreciated. Now, if you will excuse me, I believe I shall proceed to the laboratory. .
+DOCTOR: .

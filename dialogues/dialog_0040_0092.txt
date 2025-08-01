@@ -1,0 +1,25 @@
+DOCTOR: Right. Oreste Guilds, is it?
+PATIENT: Yeah, that's me. Oreste. Guilds. What’s this about anyway? Feels like a waste of a good afternoon, if you ask me.
+DOCTOR: Well, I didn’t schedule the appointment, did I?
+PATIENT: Hmph. Don't get sassy with me, young lady. My niece, she worries too much. Says I been… what was it? Short of breath? And my mouth feels like the Sahara desert. Dry as anything. Don't see what the big fuss is. I been through worse.
+DOCTOR: Right. “Short of breath” and a “dry mouth.” Vague. Very vague. And how long have these… symptoms been going on?
+PATIENT: Long? Oh, jeez. A while. Weeks, maybe? Months? Time all blurs together when you get to be my age. It comes and goes, you know? Not like it's stopping me from anything... mostly. I still drive, still watch the baseball. Though, gotta admit, yelling for the home team is a little harder lately. Feels like I'm just... whispering.
+DOCTOR: Whispering, you say. And is this… breathlessness, constant?
+PATIENT: Nah, not constant. It comes in waves, like the ocean. You're walking along, feeling fine, then whoosh... gotta slow down a bit. Then it's gone again. Mostly when I'm doing something, though. Like... climbing the stairs. Or if it's a really hot day. Not just sitting here, you know? Perfectly fine just sitting. Though… even that's getting harder, now that I think about it.
+DOCTOR: Alright. Let’s just listen to your chest, shall we?
+PATIENT: Fine, fine. Whatever you gotta do. But don't go poking around too much. I don't like being fiddled with. And make it quick, will ya? I got a game to watch later.
+DOCTOR: Pulse is a little… elevated. And I do hear some… wheezing. Not alarming, but… present. Have you had a cough?
+PATIENT: A cough? Hmm… now that you mention it… yeah, maybe a little. Not a big one. Just a tickle in my throat sometimes. Doesn't bother me much. Used to smoke, you know. Years and years ago. Quit, thankfully. Before it really got bad. But maybe that's it? Old lungs, you know. What can ya do?
+DOCTOR: Right. History of smoking. Good to know. Any allergies?
+PATIENT: Allergies? Not that I recall. I mean, I get a little sniffly sometimes in the spring, but who doesn't? Dust, maybe? Pollen? Something like that. Nothing serious. Never had to carry one of those EpiPen things around.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: Medications? Let me think… Hmph. Just the little blue pill, you know. For my… waterworks. Gets old, bein’ my age. And sometimes, if my knee's botherin' me, I take one of those… what's it called? Ibuprofen? Yeah, that's it. But that's it. Nothing fancy.
+DOCTOR: Alright. Let's just take your blood pressure, just to be thorough.
+PATIENT: Blood pressure, huh? Always somethin’ with the blood pressure. Feels like I spend half my life gettin’ my blood pressure taken. Fine, go ahead. But don’t squeeze too tight, alright?
+DOCTOR: Hmm. Blood pressure is a little high, but not… drastically so. Okay. I’m going to need to ask about your family history now. Any heart problems, lung issues, anything like that?
+PATIENT: Family history… jeez. That goes back a ways. My father, he smoked too. Lived to be 85, though, so I guess it didn't kill him. My mother… she had the sugars, I think. Diabetes. Not sure about lungs or hearts. Nobody really talked about that stuff back then. It was just... assumed you got old and things wore out. What can ya do?
+DOCTOR: Alright. And do you drink alcohol?
+PATIENT: Alcohol? Well, now and then. A little glass of wine with dinner, sometimes. Cuban rum, if I can get it. Used to drink more, back in the day, but I cut back. Doctor's orders. Not much of a drinker these days. Keeps me steady, you know? Though sometimes a little somethin' makes the baseball game better.
+DOCTOR: Right. Well, based on what you've told me… it could be a number of things. Your age, smoking history, family history… it all points to some degree of reduced lung capacity. The breathlessness, the cough… it’s consistent with that. I'm going to order a chest x-ray just to rule out anything serious. And I want you to start using an inhaler, twice a day. It'll help open up your airways. We’ll see what the x-ray shows and go from there. Come back in a week with the results.
+PATIENT: An x-ray, huh? Now you’re talkin’. I always wanted to see one of those. See all my insides. Fancy. And an inhaler? Twice a day, you say? Sounds like a lot. But alright, alright. If it’ll get me back to watchin’ the game without wheezin’ like an old man, I’ll give it a try. Just don't expect me to remember all the details. My niece will probably have to handle it. Where do I go for this x-ray? .
+DOCTOR: The radiology department at the hospital. They'll call to schedule an appointment. And try to remember to bring a list of your medications. Anything else?

@@ -1,0 +1,25 @@
+DOCTOR: Alright, Tammie Ottaviani, is it?
+PATIENT: Yes. That is correct. And please, let’s not make this take all day. I have things to do.
+DOCTOR: Yes, well, my time is valuable as well. But we do need to get some information. So, tell me, what brings you in today?
+PATIENT: My throat. It hurts. Just… hurts. Been hurting for a bit now, I suppose. Not sure how long, exactly. Everything feels a bit blurry these days, if I’m being honest. Is that all you need to know?
+DOCTOR: "A bit blurry"...Right. Well, "a bit blurry" doesn't tell me much, does it?
+PATIENT: It’s… a feeling. Like things aren’t quite sharp. Never mind. Just the throat, really. It’s a pain when I swallow. A scratchy pain. Is that… sufficient? I truly don't have time for a long list of questions.
+DOCTOR: Okay, scratchy pain when you swallow. Has this been accompanied by a fever, chills, cough, or any difficulty breathing?
+PATIENT: Fever? I… I don’t think so. I haven't felt warm, if that’s what you mean. No cough. Breathing is… normal, I believe. I haven't noticed anything different. Really, it's just the throat. It's a nuisance, truly. Are we nearly done?
+DOCTOR: And any nasal congestion?
+PATIENT: Congestion? Like… a stuffy nose? No, not really. My nose feels… fine. Look, Doctor, I work with machines all day. Separating, filtering… it's not glamorous work. I don’t have time for sniffles and… congestion. Is this going somewhere?
+DOCTOR: Right. Well, let's have a look. Open wide, please. Say "Ah". And try to relax; this won’t take long.
+PATIENT: Aah. Honestly. I do wish you’d hurry this along. It’s rather… invasive. And not particularly pleasant. Are you seeing anything?
+DOCTOR: Hmm. Your throat is…red. Mildly. And your tonsils appear a bit swollen. No exudate that I can see. Do you have any history of strep throat?
+PATIENT: Strep… throat? No. Not that I recall. I haven't spent much time thinking about my throat, if that answers your question. I just want it to stop hurting. My husband, may he rest in peace, he always said I worried too much. Is it serious? Will I need… injections? Because I really don’t like needles.
+DOCTOR: Well, it's unlikely to be serious. It sounds like a viral pharyngitis, likely. We’re not going to jump to injections immediately. But we’ll need to rule out strep, just to be safe. I'll order a rapid strep test. It's just a quick swab. Can you bear that?
+PATIENT: A swab? Honestly. It seems rather… excessive for a little throat pain. But fine. If it gets you to stop asking questions, then yes, a swab. Just get it over with quickly. And please, be gentle. My husband… he always said I was a bit sensitive.
+DOCTOR: Alright. This will be uncomfortable for approximately three seconds. Open wide, and say "Ah". And try to relax. There. Done. Now, we wait for the results. It should be a few minutes.
+PATIENT: Uncomfortable is an understatement. Honestly. I suppose a few minutes is acceptable. Though I do have things to do, you know. Important things. Can I at least sit down? This standing is rather… tiring.
+DOCTOR: Sit. And try to remain calm. The results will be in shortly. I need to document your current medications and allergies, if you have any. Do you take any prescription or over-the-counter medications?
+PATIENT: Medications? No. Not usually. I take a multivitamin sometimes, but that's all. Allergies… not that I know of. My husband used to say I was as tough as nails. He always took care of the medications when we were married. It’s been… a while. Is this taking much longer? I truly don't understand why this is so complicated. It's just a sore throat!
+DOCTOR: Alright. No medications, no allergies. Good. Negative for strep. As I suspected. It appears to be a simple viral pharyngitis. This means rest, fluids, and over-the-counter pain relievers. There’s no need for antibiotics. Do you understand?
+PATIENT: Rest… and fluids. And… pills? Honestly. It seems rather… underwhelming for all this fuss. Will it go away on its own? And how long? I can’t afford to be ill for long. I have responsibilities. Is that all? Can I go now?
+DOCTOR: Yes, it will likely resolve on its own within a week to ten days. Over-the-counter pain relievers like ibuprofen or acetaminophen will help with the discomfort. And yes, you can go now. Try to get some rest, and if it worsens, or you develop a high fever, see a doctor. Next!
+PATIENT: Fine. Very well. Thank you… I suppose. Though I must say, this has been a rather… unsatisfactory experience. Good day. .
+DOCTOR: .

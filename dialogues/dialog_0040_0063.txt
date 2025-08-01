@@ -1,0 +1,34 @@
+DOCTOR: Right, Larin Meigs. 44 years old. So, what brings you in today?
+PATIENT: Oh, hi Doctor Osga. It's my back. It's… really bad. Worse than usual, anyway. It started a couple days ago, but it’s getting harder to even stand up straight now. It hurts all the time, but especially when I try to move.
+DOCTOR: Hmm. “Worse than usual,” you say. Okay. And how long exactly has it been “worse”?
+PATIENT: Let me think… it was Tuesday when it started to feel a little off. Not terrible, just a little ache. Then yesterday, Wednesday, it got much worse. I woke up this morning and… well, that’s why I’m here. It’s really hard to bend over at all. Like, even putting on my shoes is a problem.
+DOCTOR: Right. So, a couple of days now, progressively getting worse. And you say bending over is difficult. Is it painful all the way through the movement, or is it just at the start, or… somewhere in between?
+PATIENT: It’s… hard to explain. It hurts before I bend, like I know it's gonna hurt if I try. And then it hurts while I bend, a really sharp pain. And then it kinda stays sore even after I stop. Not like a shooting pain, more like a dull ache that just… doesn’t go away.
+DOCTOR: Okay, so pain before, during, and after movement. Sharp during, dull afterward. Any numbness, tingling, or weakness in your legs or feet?
+PATIENT: No, no numbness or tingling. My legs feel… okay. A little shaky when I try to stand for a long time, but that’s probably just from trying not to move too much 'cause of the pain. No weakness, I don't think. I can still walk, just… slow.
+DOCTOR: Alright. And have you tried anything to manage the pain – over-the-counter medications, heat, ice, anything at all?
+PATIENT: Yes, I have some… pills. Pain pills, from the last time my back hurt. I took two yesterday, but they didn’t really help much. I tried a warm towel on it, but that only felt good for a little while. It didn’t last.
+DOCTOR: Okay. And what were those pain pills?
+PATIENT: Um… let me see… the bottle… Oh! Ibuprofen. Yeah, the regular kind. 200 milligrams. I think. It’s… it’s the white ones. I usually take them for headaches, but they didn’t do much for my back this time.
+DOCTOR: Right, ibuprofen. Okay. And do you have any other medical problems?
+PATIENT: Yes. I… I have cancer. It's in my… well, they said it started in my lung. It's been a couple years now, and I've been getting treatments. That's why I come here, to Doctor Osga. I’m sorry, I should have said something earlier.
+DOCTOR: Right. Lung cancer. And you're currently undergoing treatment?
+PATIENT: Yes, I am. I get… the medicine, through the vein. Every couple weeks. It makes me tired, but it’s… okay. The doctors said it's helping, keeping it from growing too fast. But… sometimes I worry it’s not enough. And now this back pain… is it from the cancer? Is it getting worse?
+DOCTOR: Well, back pain can be a symptom of cancer… but it’s also incredibly common, especially given your age and activity level. We need to rule out other causes first. Have you had any recent falls or injuries?
+PATIENT: No, no falls or injuries. I haven't done anything different. I work at the factory, packing boxes. It's not a heavy job, but I'm on my feet all day. That’s about it. Just… normal work. I didn't lift anything heavy, or twist my back, or anything like that. It just… started hurting.
+DOCTOR: Alright. Let’s have a look at your back then. If you could just lie down on the examination table for me?
+PATIENT: Okay. Just let me… careful now… here we go. Is this okay? It hurts a little just to move.
+DOCTOR: Alright. Okay. Tenderness here… and here. No swelling. Can you point to where it hurts the most?
+PATIENT: Right here. It's… a deep ache, but it gets really sharp if you push on it. And sometimes the pain goes down my leg a little, but not all the way to my foot. Just kind of… in the back of my thigh.
+DOCTOR: Okay. And can you try to bend forward a little bit for me?
+PATIENT: Ooh… that's… that's about as far as I can go. It hurts too much to go any further. It feels like something is… stuck.
+DOCTOR: Right. Okay. Limited range of motion, pain with flexion. Alright. And now, can you try to lie on your side, with your knees bent?
+PATIENT: Okay… this is… a little better. But still hurts. My knee hurts a little now too, from rolling over. Is this okay?
+DOCTOR: Alright. No obvious deformity. No muscle spasms. Okay. It’s likely a muscle strain, given your history. But, considering your cancer diagnosis, we need to be thorough. I'm going to order an X-ray just to rule out any bone involvement. And I'm going to prescribe a stronger pain medication, a muscle relaxant, and a referral to physical therapy.
+PATIENT: Okay. That sounds… good. X-ray and stronger pills. Will the physical therapy help? And… what if the X-ray shows something bad? What then? I don't want it to be… worse.
+DOCTOR: Physical therapy can help strengthen the muscles in your back and improve your range of motion. It won’t cure the pain, but it can make it more manageable. As for the X-ray… we’ll cross that bridge when we come to it. If it does show something concerning, we'll discuss your options. It could mean adjusting your treatment plan, or further investigation. But let’s not worry about that right now. We’ll get the X-ray done, and then we’ll go from there. I’m prescribing you… Oxycodone, 5 milligrams, take one every six hours as needed for pain. And Cyclobenzaprine, 10 milligrams, three times a day for the muscle spasm. And I'll get the X-ray order sent over to radiology.
+PATIENT: Okay. Oxycodone and… Cyclobenzaprine. And the X-ray. Will someone call me when it's ready? I don’t want to wait too long. And… how long should I take the pills? I don't want to get… used to them.
+DOCTOR: Yes, someone from radiology will call you to schedule the appointment. As for the pills… take them only as directed, and only when you need them. We’ll reassess your pain levels at your follow-up appointment in two weeks. We’ll see how you’re doing and adjust the medication if necessary. Do not exceed the prescribed dosage. And if your pain gets worse, or you experience any side effects, contact the office immediately. Do you have any other questions?
+PATIENT: No… I think that’s all. Just… thank you, Doctor Osga. I’m scared, but I appreciate you checking everything. I hope the pills help.
+DOCTOR: Alright. You're welcome. Just try to rest and take it easy. And don’t hesitate to call if you have any concerns. Have a good day. .
+PATIENT: Okay. You too, Doctor. .

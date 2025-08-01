@@ -1,0 +1,36 @@
+DOCTOR: Alright, Mr. Hilber, have a seat. So, what brings you in today?
+PATIENT: Thank you, Doctor. It’s… well, it’s my water. I’m havin’ trouble gettin’ it all out when I go to the bathroom. It just… stops, sometimes. It’s been goin’ on for a few weeks now.
+DOCTOR: A few weeks, you say. Okay. And is it difficult to start going, or does it stop mid-stream?
+PATIENT: It’s mostly after I start. Feels like… like there’s still some in there, but it won’t come out. I gotta… strain a little to get the rest, but it’s not always successful. It’s uncomfortable, mostly. Not painful, just… stuck.
+DOCTOR: Right. "Stuck," you say. And this happens with every urination, or just some?
+PATIENT: Not every time, no. Some times it goes perfectly normal. But… maybe half the times, or more, it’s like that. It’s hard to keep track, honestly. I don’t really… measure it, if you know what I mean. Just feelin’ it happen.
+DOCTOR: I understand. Well, we'll work with what you've told me. Have you noticed any changes in color of your urine, or any blood?
+PATIENT: No, no blood. Color looks… normal, I think. Maybe a little darker sometimes, but I figured that was just 'cause I wasn't drinkin’ enough. Out here, it gets hot, you know. Gotta remember to keep the water comin’.
+DOCTOR: Alright. And are you experiencing any pain in your lower abdomen, or back?
+PATIENT: No pain, Doctor. Like I said before, just uncomfortable. It feels… full, even after I’ve been to the bathroom. That's the worst part, really. Like I didn't empty it all out. It doesn’t hurt, just… bothersome.
+DOCTOR: Okay. Have you had any fever, chills, or any nausea or vomiting recently?
+PATIENT: No, Doctor. No sickness at all. Just… this water problem. Been feelin’ pretty good otherwise. A little tired sometimes, but that’s just bein’ my age, I reckon.
+DOCTOR: Alright. And what about your bowel movements?
+PATIENT: My… what now? You mean… poopin’?
+DOCTOR: Yes, Mr. Hilber, your bowel movements. Any changes in your usual pattern?
+PATIENT: Oh. Well… they're regular, I suppose. Not much different than usual. Maybe a little harder sometimes, but that happens, especially when it's hot and I’m not drinkin’ enough. Same as with the water, I guess. Sorry, I ain’t used to talkin’ about these things with doctors.
+DOCTOR: It's alright. We need to cover all the bases. Now, any history of prostate problems in your family?
+PATIENT: Prostate? Hmm… My father… he had somethin’ with his water when he got older. I don’t remember the details, it was a long time ago. I just remember him havin’ trouble goin’ to the bathroom too. That’s all I know, really.
+DOCTOR: Okay. And are you currently taking any medications?
+PATIENT: Just what the doctor gives me for my blood pressure. A little white pill. Been takin' it for years now. And sometimes I take somethin’ for my joints, when they’re achin’ bad. That’s it, mostly.
+DOCTOR: Alright. Let's do a quick physical exam, just to get a better idea of what’s going on. I'll need you to lie down on the examination table. We'll start with your abdomen and then I'll do a quick digital rectal exam. It's standard procedure in these cases. Do you have any objections?
+PATIENT: A… a what now? A digital… exam? You mean… I… I don't know, Doctor. Is it… necessary? It sounds… invasive.
+DOCTOR: Mr. Hilber, it's a quick exam, and it’s the best way to assess your prostate. It will help me determine the cause of your urinary issues. It’s standard practice, and I assure you, I’ve performed this exam many times. If we don't do it, we’re just guessing. It’s not comfortable, but it's necessary for a proper diagnosis. Do you want me to explain the procedure in more detail?
+PATIENT: Well… if it's necessary… I suppose. But please, be quick. And… gentle. I ain’t used to this sort of thing. I always just told my old doctor what was botherin’ me, and he’d just give me a pill.
+DOCTOR: Alright. Please lie on your back with your knees bent. I’ll explain everything as I go. It won’t take long.
+PATIENT: 
+DOCTOR: Alright. Prostate feels… enlarged. Not acutely tender, but definitely larger than it should be. Abdomen is soft, no masses. This is consistent with Benign Prostatic Hyperplasia, or BPH. It's common as men age. We’ll need a urine sample to rule out infection, and I'm going to order a PSA test – that’s a blood test to screen for prostate cancer. Do you have any questions so far?
+PATIENT: BPH… you say? Is that… serious? And… a cancer test? That sounds… scary. Is it likely to be cancer?
+DOCTOR: Mr. Hilber, BPH itself isn't cancer, it's just an enlarged prostate which can cause urinary symptoms. It's very common. The PSA test is a screening test. A high PSA doesn't automatically mean you have cancer. Many things can elevate the PSA. We need to get the results, and then we can decide if further testing is necessary. Let's not jump to conclusions. I'm ordering the tests now. In the meantime, I'll prescribe you a medication to help relax the muscles in your prostate and improve your urine flow. It's a common medication called Tamsulosin. Does that sound alright?
+PATIENT: Tamsulosin… okay. If it’ll help… yes. I just… I don't want to mess with cancer. My wife… she passed a few years back. It was a long fight. So, this medicine will help with the water, and we’ll see about the tests. Is that right?
+DOCTOR: Yes, that's right. The Tamsulosin should help with your urinary symptoms. It's a relatively safe medication, but it can sometimes cause dizziness, so be careful when standing up. We'll review the results of the PSA test when they come back, and we’ll discuss the next steps. I'm also going to give you a handout explaining BPH and the medication. It's important to stay hydrated, even if you’re going to the bathroom frequently. And if you experience any blood in your urine, fever, or severe pain, contact me immediately. Do you understand?
+PATIENT: Yes, Doctor. Stay hydrated… no blood… fever… and call if somethin’ bad happens. Thank you. I appreciate you explainin’ things. It’s… a lot to take in, but I feel a little better now.
+DOCTOR: Alright. The nurse will schedule a follow-up appointment for you to discuss the test results in two weeks. Any other concerns before you go?
+PATIENT: No, Doctor. I think that’s all. Thank you again for your time.
+DOCTOR: Alright. Have a good day, Mr. Hilber.
+PATIENT: .

@@ -1,0 +1,28 @@
+DOCTOR: Good afternoon, Ms. Nahrwold. I’m Dr. Yackey. So, tell me – what brings you in to see me today?
+PATIENT: Um, hi Doctor. It’s… well, it’s my stomach. I’ve been having a lot of trouble with diarrhea. It’s been going on for a bit now, and it’s just… not stopping. I think it's been a few weeks, maybe? It's hard to remember exactly.
+DOCTOR: A few weeks, you say. Diarrhea. Right. And is it… constant?
+PATIENT: No, not constant constant. It comes and goes, but… it's pretty frequent. Like, several times a day most days. And it’s… really messing with things, you know? I’ve been trying to just… deal with it, but it’s not really working. I don’t really remember what started it, honestly. Everything just feels…off.
+DOCTOR: “Off” is rather vague, Ms. Nahrwold. Can you be more specific?
+PATIENT: Yeah, sorry. It's just… hard to explain. Like, I’m tired all the time, even when I’ve slept. And my stomach cramps a lot, even when I don’t have to go. And sometimes I feel… bloated, really full, but then nothing happens. It’s just… uncomfortable, all around. I also think I've lost a little weight, but I haven't really been keeping track. Honestly, I'm just… foggy. It’s hard to think straight.
+DOCTOR: Tiredness, cramping, bloating… weight loss. And you've been experiencing this for several weeks. Do you have a fever?
+PATIENT: No, I don’t think so. I haven’t checked, actually. I haven’t felt particularly hot, or anything. Just… weak, mostly. I haven't really been paying attention to my temperature, if that makes sense. I just feel… generally unwell. It’s hard to explain.
+DOCTOR: Right. And are you experiencing any blood in your stool?
+PATIENT: Um… I don't think so? It's… hard to tell, honestly. I haven’t really… looked closely, if you know what I mean. It's just… unpleasant. I try not to focus on it too much. I'm sorry. I don't know if that’s helpful.
+DOCTOR: Very well. Let's move on. Any nausea or vomiting?
+PATIENT: No, not really. No vomiting. I get a little queasy sometimes, especially in the mornings, but it doesn’t usually last long. It’s… more like a general feeling of being unwell, not specifically wanting to throw up. Does that make sense?
+DOCTOR: Yes, yes. Let’s talk about your medical history. Have you been diagnosed with any chronic conditions?
+PATIENT: Um… I think… I think the doctor said something about my gut a few years ago. Something about… inflammation? And something about celiac? Or IBD? It was a long time ago, and I don't really remember all the details. They told me to watch what I eat, I think. I’m married, if that matters, and I have Medicare, but… I haven’t really been to the doctor much since then. It's all a bit… fuzzy.
+DOCTOR: "Something about" is not a diagnosis, Ms. Nahrwold. Do you have any records of this?
+PATIENT: No, I don’t think so. We moved a few times after that appointment, and everything got… misplaced. I’m really sorry. I know it’s not very helpful. My husband might know more, he sometimes handles things like that, but he’s at work right now. I wish I could be more specific, I really do. It feels like a lifetime ago.
+DOCTOR: Right. And what medications are you currently taking?
+PATIENT: Just… vitamins, mostly. A multivitamin, and sometimes vitamin D in the winter. Nothing for my stomach, or anything like that. I try to eat healthy, but… sometimes it doesn’t seem to be enough. I don’t really like taking a lot of medication, if I can avoid it.
+DOCTOR: Alright. Any allergies to medications, food, or anything else?
+PATIENT: Um… no, not that I know of. I've never really had a bad reaction to anything. I get itchy sometimes if I’m around cats, but that's just a mild allergy, not anything serious. Nothing that requires medication or anything.
+DOCTOR: Let me see… we’ll proceed with a physical exam. Please lie down on the examination table. And please refrain from elaborating unless I specifically request it. I need to assess your abdomen.
+PATIENT: Okay. I can do that.
+DOCTOR: Tenderness in the lower left quadrant. Mild distension. Bowel sounds are… hyperactive. No bruits detected. Have you experienced any recent changes in your diet?
+PATIENT: Um… Not really. I’ve been trying to stick to the same things, mostly. I avoid gluten, like the doctor said. And I try not to eat anything too spicy or greasy. But… I did have a salad a few days ago, from that new place downtown. Maybe that was it? It didn’t taste bad, but… I don't know. It's hard to say. Everything just feels… off, like I said.
+DOCTOR: Salad. Possible source of contamination. Let’s run some tests. I’m ordering a complete blood count, a comprehensive metabolic panel, a stool culture, and a C. difficile toxin assay. We will need a sample for the stool culture, naturally. I'll have the nurse provide you with the necessary supplies. Stop in the lab on your way out.
+PATIENT: Okay. That's… a lot of tests. But… alright. I can do that. Where do I go for the lab? And… how long will it take to get the results?
+DOCTOR: The lab is just down the hall, to the left. And the results typically take 2-3 business days. We'll contact you with the findings. In the meantime, I recommend a bland diet – rice, toast, bananas – and plenty of fluids. I believe that’s all for now. Do you have any further questions?
+PATIENT: Um… no, I don’t think so. Just… thank you, Doctor. For everything. I’ll go to the lab now. .

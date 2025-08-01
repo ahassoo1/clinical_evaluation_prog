@@ -1,0 +1,25 @@
+DOCTOR: Alright, alright. Name and what brings you in today?
+PATIENT: Oh… hello. My name is Lilliana Voner. Um… my joints. They’re… stiff in the morning. It’s just… harder to get going, you know? It's been… a while now. I don't really remember when it started, exactly. Just… mornings are tough.
+DOCTOR: “A while now,” right. Vague. How long is “a while”?
+PATIENT: Oh dear… That’s a good question. Hmm… maybe… a year? Or two? It’s hard to say. Things… blur together, you know? My husband… he used to help me remember dates. But that was… a long time ago.
+DOCTOR: Okay. A year or two of… stiffness. And just in the mornings?
+PATIENT: Yes… mostly mornings. It feels… tight. Like I haven’t moved in ages. It loosens up a little after I get going, but… it takes a while. Not all day, thankfully. Just… that first part of the day is the worst. It’s not… painful, exactly. Just… unpleasant.
+DOCTOR: Alright. Any other joints affected?
+PATIENT: Oh… let me think. My hands, definitely. And… my knees, I think? Yes, my knees bother me getting up from a chair. And… sometimes my shoulders feel a bit… stuck. It’s all kind of… together, you know? Not one specific place.
+DOCTOR: “All kind of together.” Right. Any swelling, redness, or warmth in any of those joints?
+PATIENT: Swelling… hmm. I don’t think so. Maybe a little puffy sometimes, but I thought that was just… from the heat? It's been so warm lately. No redness, though. And… no, not warm either. Just… stiff. Are those… important things to look for?
+DOCTOR: They can be. Alright. Any family history of… arthritis, or anything like that?
+PATIENT: Arthritis… Oh, my mother… I think she had something in her hands? She couldn’t knit anymore towards the end. But I don’t really remember what the doctor said. It was… a long time ago, and I was busy with… things. My sister… she was always very healthy, though.
+DOCTOR: Okay. And what do you do with your days?
+PATIENT: Oh… well, I used to work in a daycare. But I retired a few years back. Now… I mostly keep busy with little things. I like to garden a little, when the weather is nice. And I… visit with friends sometimes. Nothing too exciting. I mostly just try to take it easy.
+DOCTOR: Alright. Any medications you're currently taking?
+PATIENT: Medications… Oh dear… let me see. No, not really. I used to take something for my blood pressure, but the doctor took me off of it a while back. Said it was under control. Just… a little something for my allergies sometimes, when the pollen is bad. That’s it, I think. I don't like taking too many pills, if I can help it.
+DOCTOR: Alright. Let's have a quick look at your joints. Can you show me where it’s the worst?
+PATIENT: Oh, yes, of course. It’s mostly here, in my fingers. They feel… tight, especially in the mornings. And… Here, in my knees. It's not a sharp pain, just… a stiffness. And… A little bit in my shoulders too. It’s hard to explain.
+DOCTOR: Hmm. Some crepitus… but no significant swelling or redness. Knees feel stable, range of motion is… limited. Shoulders… a little tight. Alright. I'm going to order some blood work. Rule out other things. It could be osteoarthritis, but we need to be sure.
+PATIENT: Oh… blood work? Is it… something serious? I don’t like needles very much. And… what is “osteoarthritis”? Is that… bad?
+DOCTOR: It's not necessarily serious. It’s just… to get a clearer picture. Osteoarthritis is wear and tear on the joints. Very common, especially as you get older. We'll see what the tests say. I'll give you a lab slip. Go to the lab down the street. Fasting blood work, so don't eat anything after midnight. And… try some over-the-counter ibuprofen in the meantime. 200mg every six to eight hours. Do that and we’ll talk when the results come back. Next.
+PATIENT: Oh… okay. Fasting… after midnight. And ibuprofen… alright. Is that… safe? I always worry about side effects. So, you don't think it's anything too serious?
+DOCTOR: Ibuprofen has side effects, everything does. If you have stomach problems, don’t take it. Otherwise, it's fine. Look, I've got other patients waiting. I've ordered the tests, follow up with the lab, and we'll go from there. Is that understood?
+PATIENT: Oh… yes, of course. I understand. Thank you, doctor. I’ll… I’ll go do the blood work. And… try the ibuprofen. Have a good day.
+DOCTOR: Mmhmm. Next. .

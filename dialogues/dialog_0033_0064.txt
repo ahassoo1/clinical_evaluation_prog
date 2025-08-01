@@ -1,0 +1,27 @@
+DOCTOR: Right. Sherion Chelberg, 62. So, what brings you in today?
+PATIENT: Oh, hello Doctor… um, Dech-ene, right? Yes. It's my chest. It’s been… not good. A little pain, you know? Not all the time, but enough to worry me. It feels… tight, sometimes. Like someone is squeezing.
+DOCTOR: Yes, Chelberg. And “tightness”... alright. Can you describe where exactly in your chest you’re feeling this pain?
+PATIENT: Hmm… let me see. Right here, mostly. Not on the sides, but right in the middle. And sometimes… it goes up a little, into my throat, almost. Not a bad pain, not like a fall or anything, but… uncomfortable.
+DOCTOR: Uncomfortable. And how long has this been going on?
+PATIENT: Oh, goodness. Maybe… a month now? A month and a little bit. At first it was just now and then, when I walked up the hill to the store. But now… it happens even when I’m just sitting, watching TV. It’s getting worse, I think.
+DOCTOR: A month, and progressively worsening… Do you notice anything that specifically triggers it, besides exertion?
+PATIENT: Hmm… not really. I haven't noticed anything special. Eating doesn’t make it worse, and neither does laying down. It just… happens. Sometimes when I’m nervous, maybe? But I don’t get that nervous often, you know? Just… sometimes.
+DOCTOR: Alright. And are you experiencing any other symptoms alongside this chest tightness?
+PATIENT: Other symptoms? Let me see… Well, I have been a little more tired lately, maybe? But I’m an older lady, Doctor! I get tired easily. And… I think I’ve been coughing a little more, but that could be the dust, you know? We live on a dirt road.
+DOCTOR: Right. Tiredness, and a cough… likely related to environmental factors. Now, do you have any shortness of breath, or any swelling in your ankles or feet?
+PATIENT: Shortness of breath… not really. I can still walk around, climb the stairs… nothing feels harder than usual. And my ankles? No, they don't feel swollen. They’re a little… wide, maybe? But that’s just how my feet are!
+DOCTOR: Alright. And do you have a history of… anything significant?
+PATIENT: Significant? Hmm… Well, I had the flu really bad when I was young, but that was a long time ago. And my blood pressure gets a little high sometimes, but the doctor at home gives me pills for it. I take them every day. Oh! And I had a little operation on my knee a few years back, but that healed fine. Nothing else, I think.
+DOCTOR: Blood pressure medication… what medication specifically, and how much do you take?
+PATIENT: Oh, um… let me see. Here! It says… Lisinopril. Yes, Lisinopril. And… 20 milligrams. I take one every morning with my breakfast. My husband helps me remember, thank goodness!
+DOCTOR: Any allergies to medications?
+PATIENT: Allergies? No, no allergies. Never had one in my life! Not to pills, not to food, not to anything. My mama always said I was a strong girl.
+DOCTOR: Alright. Let's do a quick physical exam, just to get a better sense of things. I’ll listen to your heart and lungs, and check your blood pressure and oxygen levels. Please sit back.
+PATIENT: Okay, Doctor. That sounds good. Whatever you need. Just let me know if it will be cold! I get chilly easily.
+DOCTOR: Alright. Take a deep breath for me… and let it out slowly. Another one… good. Blood pressure is 148 over 82. A little elevated, but not alarming. Deep breath… and out. Lungs sound clear bilaterally, though there's some mild diminished breath sounds in the bases. Pulse is 78 and regular. And finally, oxygen saturation is 95%. That all checks out… within reasonable parameters. Now, given your age and symptoms, it could be musculoskeletal pain, but the fact that it's progressing… we should run some tests to rule out anything more serious. I'm ordering an EKG and a chest X-ray. We'll also do some blood work to check your cardiac enzymes. The lab will call you when they’re ready. Do you have any questions?
+PATIENT: Oh, my! That's a lot of tests! EKG… that's the one with the sticky things, right? And a chest X-ray… will that show if something is wrong with my heart? I’m a little worried, Doctor. What if it is something bad? And… cardiac enzymes… what are those, exactly?
+DOCTOR: Yes, the EKG uses stickers to monitor your heart's electrical activity. The X-ray helps us visualize your lungs and heart. And cardiac enzymes… they are proteins released into the bloodstream when there’s damage to the heart muscle. We check them to see if you’ve had a heart attack or experienced any heart strain. It's standard procedure, Mrs. Chelberg. We're not assuming anything is wrong, we’re simply being thorough. While we wait for the results, I want you to avoid strenuous activity. If you experience any worsening chest pain, shortness of breath, or dizziness, go to the nearest emergency room immediately. Do you understand?
+PATIENT: Okay… avoid hard work, and go to the hospital if it gets worse. That makes sense. It’s just… everything feels so scary when you don’t know what’s going on. Will the tests take long? And… will you call me when you have the results? Or do I have to call you?
+DOCTOR: The lab typically takes a few hours, possibly longer depending on their workload. My office will call you with the results. Don’t call us; we’ll contact you. Is there anything else I can assist you with today?
+PATIENT: No, I don’t think so. Thank you, Doctor. I appreciate you taking the time. I’ll try not to worry too much… but it’s hard.
+DOCTOR: Very well. Have a good day, Mrs. Chelberg. And please, remember my instructions. .

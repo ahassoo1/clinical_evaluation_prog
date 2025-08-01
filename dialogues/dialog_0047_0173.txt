@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Ms. Aslan. I'm Dr. Press. So, what brings you in to see me today?
+PATIENT: Hi Dr. Press, good morning! Well, I’ve been getting chills, just… random chills. It’s a bit weird, honestly. Not a fever, just cold.
+DOCTOR: Hmm. Random chills, you say?
+PATIENT: Yeah, like, not shivering cold, more like… a wave of cold washes over me. It comes and goes. It started a couple of days ago, I think? Maybe three? It’s hard to say exactly.
+DOCTOR: Right. And has anything else been going on at the same time?
+PATIENT: Not really, no. I’ve been a little tired, but honestly, who isn’t these days? I’ve been eating okay, drinking water… nothing majorly different in my routine, as far as I can tell. No cough, no sore throat, no aches… just the chills.
+DOCTOR: And you said this started about three days ago?
+PATIENT: Yeah, around then. Maybe Wednesday? It’s hard to keep track, things have been a bit… hectic lately, you know? It wasn't a sudden thing, just sort of… gradually started happening. I didn’t think much of it at first, figured it was just the air conditioning or something.
+DOCTOR: Alright. And are these chills happening at a specific time of day, or are they completely random as you mentioned?
+PATIENT: Completely random, I think. I've had them in the morning, in the afternoon, even in the evening while I was watching TV. It doesn't seem to be tied to anything I’m doing, or where I am, or… anything. That’s what’s confusing me!
+DOCTOR: Hmm. And have you travelled anywhere recently, Ms. Aslan?
+PATIENT: No, not at all. I haven't been on a trip since… well, before the divorce, actually. So, no, definitely not. Just been going to work and… home. And occasionally the grocery store!
+DOCTOR: Right. And what do you do for work, if you don’t mind me asking?
+PATIENT: I'm a Health Education Specialist. I work with a community center, mostly doing workshops and stuff about healthy living. So, ironically, I teach people about staying well, and here I am, feeling a bit off! It's a little embarrassing, to be honest.
+DOCTOR: Interesting. And do you have any known allergies?
+PATIENT: Nope, no allergies that I know of. I’ve never had a reaction to anything, thankfully. Food, medications, pollen… nothing. My mum always said I had a strong stomach, haha!
+DOCTOR: Alright. And are you currently taking any medications, even over-the-counter ones, or herbal supplements?
+PATIENT: Just a multivitamin, sometimes. And I took some ibuprofen a couple of weeks ago for a headache, but that was it. Nothing regular, nothing for any specific condition or anything. Honestly, I try to avoid taking pills if I can.
+DOCTOR: Okay. Let’s do a quick physical exam, shall we?
+PATIENT: Sure, that sounds good. Whatever you think is best.
+DOCTOR: Your temperature is normal, 98.6 Fahrenheit. Lungs sound clear. Pulse is regular at 72. Lymph nodes are not swollen. Throat looks clear, no redness. Ears are clear as well. Everything seems normal so far, Ms. Aslan. However, these chills are still concerning.
+PATIENT: Okay, that’s good to hear, I guess? But… if everything is normal, what could be causing the chills? It’s just… unsettling to feel cold randomly, you know? It’s not like I’m sick with a cold or anything.
+DOCTOR: It's difficult to say definitively without further investigation. Sometimes, these can be caused by minor viral infections that don't present with other symptoms. Occasionally, they can be related to stress or anxiety, although you don’t strike me as particularly anxious, Ms. Aslan. There are also rarer possibilities, but I don’t want to alarm you unnecessarily. To be on the safe side, I'd like to order a complete blood count and a basic metabolic panel. It will help rule out any underlying issues.
+PATIENT: Okay, that sounds sensible. Blood tests, right? I’m not a huge fan of needles, but if it’ll help figure out what’s going on, then yeah, absolutely. What does it involve? And will I need to come back again?
+DOCTOR: Yes, it involves a simple blood draw. The phlebotomist will just take a small sample of blood from your arm. You will need to come back for results, but it is usually a quick visit. I’ll give you a requisition form to take to the lab, and they’ll contact you when the results are ready. It usually takes a couple of days. We will then discuss the results and decide on a course of action, if needed. Does that sound alright?
+PATIENT: Yeah, that sounds fine. A couple of days… okay. I can definitely do that. So, I just take this to the lab and they’ll let me know when it’s ready? Is there anything I need to do beforehand? Like, should I fast or anything?
+DOCTOR: No fasting is required for this particular panel. Just drink plenty of water beforehand, as always. And try not to worry too much. It is most likely something minor. I'll also send a copy of the results to your insurance company, automatically. Do you have any further questions for me at this time, Ms. Aslan?
+PATIENT: No, I think that covers everything. Thank you, Dr. Press. I appreciate you taking the time to listen and running the tests. It puts my mind at ease, even if I don’t know what’s causing it yet. I'll head to the lab tomorrow, then.
+DOCTOR: Very well, Ms. Aslan. If you experience any worsening symptoms – a fever, severe fatigue, body aches, or difficulty breathing – please contact the office immediately. Otherwise, I’ll see you in a couple of days to discuss the results. Have a good day.
+PATIENT: You too, Dr. Press. Thank you again.

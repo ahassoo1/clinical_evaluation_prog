@@ -1,0 +1,20 @@
+DOCTOR: Right. Jahaad Tomassoni, 25. So, what brings you in today?
+PATIENT: Good morning, Doctor Ruocco. It's...well, it's a bit difficult to explain precisely. I’ve noticed some swelling, primarily in my face, and it’s been…unsettling. Truthfully, my memory isn't the best, so recalling when it started is a little hazy, but I'd say within the last few weeks, perhaps? It seems to come and go.
+DOCTOR: Weeks, you say. Vague, but alright. So, just the face?
+PATIENT: Yes, primarily. Though…now that you mention it, I think I've felt a little puffiness around my eyes as well. It’s hard to be certain, as I often don't notice these things immediately. It's not painful, thankfully, just…noticeable. And a bit worrying.
+DOCTOR: Right. And do you have any…allergies?
+PATIENT: That's a good question. I…I don’t believe so, not that I’m aware of. I haven’t ever been formally tested, and I don’t recall any specific reactions to anything. Is there something in particular I should be thinking about? Perhaps seasonal things? I apologize, I truly am not very helpful with details.
+DOCTOR: Seasonal, food, medication…doesn’t matter. Just trying to rule things out. Any medications you’re taking currently?
+PATIENT: No, none at all. I don’t take any regular medication. Just the occasional pain reliever for a headache, perhaps, but nothing consistent. I generally try to avoid taking anything unless absolutely necessary.
+DOCTOR: Alright. And family history?
+PATIENT: Family history…that’s a bit tricky. I didn’t grow up with…a lot of close family, if that makes sense. My mother was the primary caregiver, and she…didn't often speak about relatives. I don't recall her mentioning any swelling issues, or anything similar, but I wouldn't want to confidently say one way or the other. It’s possible someone had something, I simply don’t know. I apologize for the lack of clarity.
+DOCTOR: Right. So, no useful information there. Let's move on. Do you drink?
+PATIENT: Occasionally. I might have a glass of wine with dinner now and then, but nothing excessive. I don’t drink regularly, and certainly not to excess. I wouldn’t consider myself a drinker, if that clarifies things. Again, I hope I’m providing some useful information, Doctor. It feels like I’m drawing a blank with most of this.
+DOCTOR: Alright. Well, let's take a look at this swelling then. If you don't mind. Please sit up straight.
+PATIENT: Certainly, Doctor. Please, take your time. I’m happy to cooperate in any way I can. I trust your judgment.
+DOCTOR: Hmm. Some mild edema bilaterally around the cheeks and periorbital region. Not significant, but present. Skin temperature normal. No visible lesions or discoloration. Lymph nodes…palpable, but not enlarged. Alright. Everything seems normal, aside from the swelling. Let's just say it’s likely a minor fluid retention issue. Probably stress, or too much salt. Try to cut back on sodium and get more rest. See if it improves.
+PATIENT: That…that sounds reassuring, Doctor. Stress, you say? I suppose that’s certainly possible. I’ve been feeling rather overwhelmed lately. Cutting back on salt and getting more rest seems…manageable. So, no further testing is needed at this time? And if it doesn’t improve, then what would be the next step? I only ask so I have a clear idea of what to expect.
+DOCTOR: No, no testing. Don’t bother. If it doesn't improve within a week, then…we’ll consider a referral to dermatology. Possibly. But let's not jump to conclusions. It’s probably nothing. Any other concerns?
+PATIENT: No, I believe that covers everything. I truly appreciate your time, Doctor, and your…patient explanation. It’s a relief to have a potential cause, even if it’s something as simple as stress. Thank you for not dismissing my concerns, and for offering a clear course of action. I will certainly try to reduce my sodium intake and prioritize rest. If the swelling persists, I will schedule a follow-up visit. Thank you again, Doctor Ruocco. Have a good day.
+DOCTOR: .
+PATIENT: .

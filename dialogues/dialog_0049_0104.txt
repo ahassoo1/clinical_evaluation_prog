@@ -1,0 +1,21 @@
+DOCTOR: Good morning, Ms. Ottaviani. I’m Dr. Nestingen. So, what brings you in today?
+PATIENT: Oh, Doctor, really. It's my throat. It hurts. Been hurting for... a little while now. Not a good hurt, if you know what I mean. I just need something for it, quickly, please. I don't have all day.
+DOCTOR: A “not good hurt,” right. And how long exactly is “a little while”?
+PATIENT: Oh, goodness. Days, I suppose. Maybe a week? It all blurs together, you know. Since… well, since everything. It's just a sore throat. It's not like it's important.
+DOCTOR: A week. And is it constant pain, or does it come and go?
+PATIENT: Comes and goes. Mostly when I swallow. And sometimes just… there. It’s annoying, that’s what it is. Look, Doctor, is it something serious? Because if it isn’t, I'd really like to get this over with. I have things to do.
+DOCTOR: Alright. And have you noticed any other symptoms along with the sore throat?
+PATIENT: Symptoms? Like… what kind of symptoms? I just have the throat pain. Maybe a little tired, but everyone is tired these days. Honestly, Doctor, I don't go looking for problems. It just hurts. Is that enough?
+DOCTOR: Okay. And have you had any fever, cough, runny nose, or body aches?
+PATIENT: No, no fever. No cough. Maybe a little sniffly sometimes, but that's just the dust, living out here you know? Body aches... well, I'm a woman of a certain age. Things ache. It's just the throat, Doctor. Just the throat. Please. Can we just get to the medicine?
+DOCTOR: Alright. Let’s have a quick look at your throat, then. Open wide, please.
+PATIENT: Honestly, I don't know what good looking will do. It hurts to open my mouth, you know. Just be quick about it.
+DOCTOR: Hmm. There’s some mild redness, but no visible white spots or swelling. Your tonsils don't appear enlarged. And I don't see any obvious signs of anything concerning. Now, have you been around anyone who’s been sick recently?
+PATIENT: Sick? Oh, goodness, who hasn’t been sick lately? Old Man Hemmings down the road had a bad cold last month, but that's not my concern. I keep to myself, mostly. It's better that way. Look, Doctor, I just need something for the pain. Is that too much to ask? I haven't got time to investigate everyone's illnesses.
+DOCTOR: Alright. Given your symptoms, and the lack of other concerning signs, it sounds like a mild viral pharyngitis – a sore throat caused by a virus. Most of these resolve on their own with supportive care. We won't be doing antibiotics, as they won't help with a virus. I can recommend some throat lozenges and suggest over-the-counter pain relievers like ibuprofen or acetaminophen. Do you have any allergies to medications?
+PATIENT: Allergies? Oh, goodness, I don't keep track of those things. I take what the nice lady at the general store recommends. Usually something with a lot of sugar, if I'm being honest. I don't recall any… reactions. No, none that I remember, anyway. Look, Doctor, are you going to write me a prescription or not? I really must get going. This is taking far too long.
+DOCTOR: Very well. Since you don't have any known allergies, and given the mild nature of your symptoms, I will write you a prescription for a mild anesthetic throat spray to help with the discomfort. It won’t cure it, but should provide some temporary relief. I’ll also print out a sheet with recommendations for supportive care - fluids, rest, and over-the-counter pain relievers. However, if your symptoms worsen, you develop a fever, difficulty breathing, or difficulty swallowing, you need to seek immediate medical attention. Do you understand?
+PATIENT: Yes, yes, I understand. Don't breathe, don't swallow, seek attention. Got it. As long as I can get this spray and get going. Honestly, Doctor, I'm not a complicated case. Just a sore throat. Thank you. Now, where is this prescription?
+DOCTOR: Here you are. The prescription can be filled at the general store. And please, read the information sheet carefully. I strongly advise you to follow those recommendations. And if anything changes, please don’t hesitate to seek further medical attention. Do you have any further questions for me?
+PATIENT: No. No questions. Just a sore throat. Thank you, Doctor. Really, I have things to do. Goodbye. .
+DOCTOR: .

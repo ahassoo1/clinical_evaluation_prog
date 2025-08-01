@@ -1,0 +1,42 @@
+DOCTOR: Good morning, Ms. Heidenthal. I’m Dr. Nooruddin. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, it’s a bit embarrassing, to be honest. I’ve been… forgetting things. Little things, mostly, but it’s starting to worry me.
+DOCTOR: Mm-hm. Forgetting things. Right. Well, “forgetting things” can mean a lot of different things. How long has this been going on?
+PATIENT: Oh, goodness. That’s a good question… I want to say maybe six months? It started with just misplacing my keys, or forgetting why I walked into a room. Now… now it feels like more. Like I’m struggling to remember appointments sometimes, or what I had for breakfast. It’s not every day, but it’s enough to make me nervous.
+DOCTOR: Six months… Okay. And are these memory lapses… consistent?
+PATIENT: Consistent… hmm. Not really, no. Some days I feel perfectly fine, sharp as a tack. Other days… it’s like my brain is foggy. It’s hard to explain. It doesn't seem to be tied to anything specific, either. Not stress, or lack of sleep… at least, not that I’ve noticed.
+DOCTOR: Right. Well, it’s good you’re noticing these patterns, or lack thereof. It's unusual to have fluctuations like that, honestly. Let's go through some other things, just to get a more complete picture. Have you noticed any changes in your mood?
+PATIENT: Changes in my mood… not really. I mean, everyone has their ups and downs, right? But nothing major. I wouldn’t say I’ve been feeling particularly sad or anxious or anything like that. Maybe a little more easily frustrated than usual, but… honestly, who isn’t these days? Is that relevant?
+DOCTOR: It could be. Frustration can sometimes be a symptom of… underlying issues. Now, any problems with sleep?
+PATIENT: No, actually. I sleep pretty well, all things considered. I usually get about seven or eight hours a night. I don’t have trouble falling asleep, or staying asleep. I might wake up once in a while, but nothing disruptive. I do sometimes dream… vividly. But I’ve always been a vivid dreamer.
+DOCTOR: Alright. And what about your medical history?
+PATIENT: Oh, um… let me think. I had the usual childhood illnesses, nothing serious. I broke my arm when I was ten, but that healed fine. I don’t have any chronic conditions, like diabetes or heart problems. I had my gallbladder removed about five years ago, but that’s been… fine. Other than that, not much. I try to stay healthy. I eat reasonably well, I exercise when I can. I take a multivitamin, if that matters.
+DOCTOR: No major medical history. Okay. Any family history of memory problems?
+PATIENT: That’s a tough one… My grandmother, on my mother’s side, she… she had dementia, I think. But it was a long time ago, and I don’t remember a lot of details. It was… sad. My mother always said she just “lost her marbles” as she got older. I don’t know if that’s relevant. And my father… he just had the usual old age stuff, you know? He was fine mentally, as far as I could tell.
+DOCTOR: Mm-hm. Okay. And… what about your lifestyle?
+PATIENT: Lifestyle? Well, I live alone. I’m a dentist, as you know, so I’m pretty busy with work. I don’t drink or smoke. I don’t really have a lot of hobbies, to be honest. I used to enjoy gardening, but I haven’t had much time for it lately. I try to see friends when I can, but… it’s hard. It's just me, mostly. Is that what you meant?
+DOCTOR: Right. And any medications you're currently taking, besides the multivitamin?
+PATIENT: No, not really. Just the occasional ibuprofen for a headache. I try to avoid taking anything if I can. I'm not a big fan of pills, to be honest. I prefer to tough things out, if possible.
+DOCTOR: Alright. Well, given your age and the nature of your symptoms, it’s unlikely to be anything…serious. However, it’s always best to rule things out. I'd like to do a quick cognitive assessment, just to get a baseline. And then, just to be thorough, I’ll order some blood work to check for things like vitamin deficiencies and thyroid problems. It’s probably nothing, but it's better to be safe than sorry. Does that sound alright?
+PATIENT: Yes, that sounds… sensible. A baseline and blood work, okay. I appreciate you taking this seriously. I just want to know what’s going on, you know? It’s unsettling, feeling like your brain isn’t working properly. When can we do the assessment?
+DOCTOR: Excellent. We can do it right now. It won’t take long. Just a few simple questions and exercises. It’s not a test, just a way to see how your memory and thinking skills are functioning. Then, the lab can draw the blood. It will take about ten minutes, if you're not squeamish. Afterwards, we'll schedule a follow up appointment to discuss the results.
+PATIENT: Okay. Ten minutes, right? I think I can manage that. Let’s get it over with, then. What do I need to do?
+DOCTOR: Wonderful. Just sit comfortably. I’m going to ask you a series of questions, and occasionally ask you to do simple tasks, like repeating a list of words or drawing a clock. Don’t worry if you don’t get everything right – it's not a graded test. Just do your best. First, can you tell me today’s date?
+PATIENT: Oh. Um… today is… August 2nd. 2025. Is that right?
+DOCTOR: Yes, that is correct. Now, can you tell me what city we are in?
+PATIENT: Oh, goodness. That’s… easy, right? We’re in… Willow Creek. It’s a small town. I’ve lived here for years.
+DOCTOR: Alright. Now, I’m going to say three words. I want you to try to remember them. Are you ready?
+PATIENT: Yes, I’m ready. Go ahead.
+DOCTOR: The words are: apple, table, penny. Try to remember those. I’ll ask you to recall them later. Now, can you tell me the name of the current president?
+PATIENT: Oh, dear. That’s… that’s tricky. Let me think… Is it… Harris? No, wait… I think it's Biden. Yes, Joe Biden. Is that right?
+DOCTOR: Correct. Now, I want you to repeat these numbers back to me: 3-7-1-9-5. Try to say them in order.
+PATIENT: 3-7-1-9-5. Is that correct? It feels… easy enough, but I’m trying so hard not to mess it up.
+DOCTOR: Good. Now, I’m going to ask you to draw a clock. I want you to draw it with all the numbers on it, and set the hands to show ten past eleven. Use this paper and this pen.
+PATIENT: Oh. A clock. This is… harder than I thought.
+DOCTOR: Take your time. Just do the best you can. We’re almost finished with this part.
+PATIENT: There. I think that’s as good as I can do. It’s probably terrible.
+DOCTOR: Alright. That’s everything for the cognitive assessment. It will give me a good baseline to work with. Now, we just need to draw some blood. I’ll have the nurse come in and do that for you. It should be quick.
+PATIENT: Okay. Quick, you say? That’s… good. As long as it’s quick. Where will it be done?
+DOCTOR: Right over there. The nurse will just need a small sample from your arm. She’s very good. Here’s Sarah, our nurse. She’ll take good care of you. Sarah, this is Ms. Heidenthal.
+PATIENT: Hello. I… I’m not very good with needles. Just so you know.
+DOCTOR: .
+PATIENT: .

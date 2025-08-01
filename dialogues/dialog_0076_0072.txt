@@ -1,0 +1,24 @@
+DOCTOR: Right, yes. Ebony Heidenthal, 38. Well?
+PATIENT: Um, hi Doctor Ruocco. It’s… it’s a bit embarrassing, honestly. I've been forgetting things. Little things, mostly, but it's happening more and more. Like, where I put my keys, or why I walked into a room... stuff like that.
+DOCTOR: Forgetting things. Right. Happens to everyone as they get… well, never mind. And how long has this been going on, exactly?
+PATIENT: Oh, gosh. That’s hard to say exactly… maybe six months? It started slowly, just feeling a little more scattered than usual, you know? But the last couple of months, it feels… noticeable. It's not every day, but often enough that it’s worrying me. I’m a dentist, so I need to remember things! It’s… not great for the job.
+DOCTOR: A dentist, you say?
+PATIENT: Yes. General dentistry. I have my own practice, actually. It’s… a lot of responsibility. Which is probably why I'm so stressed about this memory thing. It's not like I'm forgetting patients... yet. But I've misplaced instruments, appointments... little things that could become big things.
+DOCTOR: Right, responsibility. Of course. And are you experiencing any… other symptoms?
+PATIENT: Other symptoms? Hmm… not really, I don’t think so. I’ve been a little tired lately, but honestly, who isn't tired these days? And maybe a bit more irritable than usual, but I thought that was just the stress of work... and this memory stuff, actually. I haven’t noticed anything else, no. Does that make sense?
+DOCTOR: "A bit more irritable." Vague. Let's see… any headaches?
+PATIENT: Headaches? Not really. I get the occasional tension headache, like if I’ve been bending over someone’s mouth all day, but nothing major. Nothing different than usual, I suppose. I definitely wouldn’t say I’m suffering from headaches, no. Does that help? I’m just trying to think…
+DOCTOR: Alright. Any changes in your diet or sleep schedule recently?
+PATIENT: Oh, sleep… that’s been a bit off. I’ve been waking up a few times a night, tossing and turning. Probably thinking about work, or, well, forgetting things. And diet… not really. I try to eat healthy, but with the long hours, it's sometimes just grabbing something quick. So, maybe not as balanced as it should be, but no huge changes.
+DOCTOR: And family history?
+PATIENT: Family history… hmm. My grandmother, on my mother’s side, she had… well, she got very confused towards the end of her life. The doctors said it was… dementia, I think. But she was very old, you know? And my mother has always been a little forgetful, but just normal old-age stuff, I think. Nothing like this.
+DOCTOR: Alright. Let's do a quick physical exam. Nothing extensive. I want to check your reflexes and basic neurological function. Just standard procedure. If you could just step over here…
+PATIENT: Okay, sure. That sounds… good. I mean, I’m a little nervous, but I guess that’s to be expected. I just hope it’s nothing serious.
+DOCTOR: Reflexes… slightly diminished, but within acceptable range for your age. Pupils react normally to light. Can you follow my finger with your eyes without moving your head?
+PATIENT: Yes, I can. Like this? It’s a little hard to concentrate, honestly. Is this going to take long?
+DOCTOR: Alright. Normal cranial nerves. Balance… passable. Look, you're relatively young. It's probably just stress. High-pressure job. Sleep deprivation. You need to manage your stress, get more rest. I’m going to recommend a multivitamin and suggest you see a therapist. That’s the most likely cause of all this. Is there anything else?
+PATIENT: A therapist? Really? I mean, I’m stressed, yes, but… I didn't think it was that bad. Is there… no other way to find out what’s going on? Like, a scan, or… something? I just want to make sure it's not something serious, like what happened to my grandmother. I’m a dentist, Doctor, I have patients who depend on me!
+DOCTOR: Look, a scan isn't going to magically tell you what's wrong. You're asking for unnecessary tests. Frankly, it sounds like anxiety. We can run some bloodwork to rule out deficiencies, but I doubt we’ll find anything. I'll order a basic metabolic panel and a vitamin D level. But I still think you should focus on stress management. Here's a referral to a therapist. Don't waste my time with more vague complaints, understand?
+PATIENT: Okay… yes, I understand. Bloodwork and a therapist. But if it is something else… can I come back and see you again? If I don't feel better? I really appreciate your time, Doctor.
+DOCTOR: Fine. If the bloodwork comes back abnormal, we can revisit. Now, if you’ll excuse me, I have other patients. Next. .
+PATIENT: .

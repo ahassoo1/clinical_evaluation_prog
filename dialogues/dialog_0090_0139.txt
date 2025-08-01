@@ -1,0 +1,26 @@
+DOCTOR: Good afternoon, Mr. Shanor. I'm Dr. Kur. So, tell me, what brings you in to see me today?
+PATIENT: Afternoon, Doctor. Just… need check-up. For… referee. They want me fit. Is quick, I hope?
+DOCTOR: A referee physical, alright. Yes, we can certainly do that. It's not a comprehensive check-up, of course, but we'll make sure you're cleared. Though, "quick" depends on what we find, naturally. Now, tell me a bit about your general health. Any major medical problems I should be aware of?
+PATIENT: No, no big problems. Just… tired sometimes. Work is hard. Lifting… heavy things. And… my wife… she passed away last year. That is… hard too. But no doctor visits usually. Not much. Just… this for referee.
+DOCTOR: I see. Well, I’m sorry to hear about your wife, Mr. Shanor. Grief can certainly take a toll on one’s health. And hard work, of course, can contribute to fatigue. Just trying to get a complete picture. When you say tired, is it constant tiredness, or does it come and go?
+PATIENT: Comes and goes. After work, mostly. Like… heavy feeling. Not sick feeling, just… done. And sometimes… hard to sleep. Thinking too much. Is that… bad?
+DOCTOR: It’s not uncommon to have trouble sleeping when you’re stressed or grieving, Mr. Shanor. Thinking too much can certainly disrupt your rest. Does anything specific seem to trigger the sleeplessness?
+PATIENT: Not… specific. Just… everything. Work, the house… remembering. Sometimes I wake up… and just… sit. For long time. Then I go back to sleep. Is okay, mostly. Just… not good sleep.
+DOCTOR: Alright. And do you have any pain anywhere?
+PATIENT: No big pain. Back sometimes… after lifting. Like… ache. Not sharp. Rub it, is better. And… knees a little. Old work injury. Not bad, not bad. Just… feels it.
+DOCTOR: Okay. Now, let's do a quick physical exam. Nothing extensive, just to get a baseline. I'll listen to your heart and lungs, check your reflexes, and take a look at your knees and back. Would that be alright?
+PATIENT: Yes. Okay. Quick is good. Let’s do it.
+DOCTOR: Alright. If you could just sit up there for me. I’m going to listen to your heart and lungs first. Heart sounds are regular, no murmurs. Lungs are clear to auscultation bilaterally. Now, I’m going to check your reflexes.
+PATIENT: Okay… reflexes. Is like… tapping on knee? I remember that from school.
+DOCTOR: That’s right. We’ll check those, and a few others. Alright, everything seems normal there. Now, let’s take a look at your knees. Could you bend them for me?
+PATIENT: Like this? A little creaky. Old injury. Worked construction, long time ago. Not bad, just… feels it. You push it? I don’t want to… break it.
+DOCTOR: No, I won’t push it, Mr. Shanor. Just feeling for any tenderness or instability. I don't feel any significant swelling or instability. It seems like you’ve just got some wear and tear in your knees, as you mentioned. Now, let's have a look at your back. Could you bend forward for me and touch your toes, if you're able?
+PATIENT: Like this? Back a little tight. Old work. Always lifting. Not… sharp pain. Just… pull. I can’t… go very far. Is okay?
+DOCTOR: Yes, that’s alright. Don’t push yourself. Some muscle tightness, as expected. No signs of any acute injury. Alright, Mr. Shanor, that completes the physical exam. Everything seems within normal limits, given your history of physical labor.
+PATIENT: Okay… good. So… I can referee? That is all I need? Is quick, like you say. I have game next week.
+DOCTOR: Well, “within normal limits” doesn’t necessarily mean perfect health, Mr. Shanor. You've described some fatigue and difficulty sleeping, and we've found some expected wear and tear from your work. For the purposes of a referee physical, you are cleared to participate. However, I do recommend you consider addressing your fatigue and sleep issues. It’s important to take care of yourself, especially given your history. We can discuss some options for improving your sleep hygiene. And if the fatigue persists, we should investigate further. But for now, you're physically able to referee. Do you have any allergies I should be aware of?
+PATIENT: No allergies. Never had. Just… tired. But I work. Is normal. I think. No medicine. Just… work. Referee is important. I need to be able to run.
+DOCTOR: Alright. Well, I’m glad to hear you're able to run. Still, ignoring fatigue can lead to other issues. It's not simply "normal" to be constantly tired. I recommend you get adequate rest when you can, and consider some low-impact exercise to help manage stress. If the fatigue worsens, or you develop any other symptoms, please schedule another appointment. Do you have any questions for me, Mr. Shanor?
+PATIENT: No… I think that is all. Just… need to be able to run. Thank you, Doctor. Is quick, like you say. Can I go now? I have things to do.
+DOCTOR: Yes, you are free to go. Here's a copy of the physical exam form for your records. Remember my recommendations, Mr. Shanor. Take care of yourself. .
+PATIENT: .

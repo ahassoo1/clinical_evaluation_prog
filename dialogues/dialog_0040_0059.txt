@@ -1,0 +1,25 @@
+DOCTOR: Right. Well, Adyn, let’s get this over with. What brings you in today?
+PATIENT: Oh, um... well, it's my speech. It's been... a bit off, lately. Like, I'm not speaking as clearly as I usually do, I think. It's hard to explain. It just feels... slurred, sometimes. I don't really know when it started, to be honest. Just... gradually, I suppose.
+DOCTOR: Gradually. Right. Well, “gradually” isn’t very helpful, is it?
+PATIENT: Oh, you’re right, I’m sorry. It is a bit vague, isn't it? Hmm... maybe a couple of weeks? Or a month? It's hard to say, truly. Things have been… busy, and I don’t always notice these things right away. It just started bothering my husband, he said it was harder to understand me on the phone.
+DOCTOR: Your husband noticed. Okay. And is this slurring constant, or does it come and go?
+PATIENT: It comes and goes, I think. Definitely not all the time. Some days I don't even notice it. Other days… well, like this morning, I was trying to tell him about the job site and I felt like I was really struggling to get the words out. It's worse when I'm tired, I think. Or… stressed, maybe? It's hard to pinpoint exactly.
+DOCTOR: Worse when you’re tired or stressed. Fascinating. And what kind of job site?
+PATIENT: Oh, um... construction. I'm a construction manager, actually. We're building... well, a new apartment complex, just outside of town. It's a pretty big project, lots of moving parts. Keeps me on my toes, definitely. Does that… matter? I wasn't sure what details were important.
+DOCTOR: Construction. Right. Physical job. Okay. Have you had any… head injuries recently?
+PATIENT: Head injuries? Um… no, not that I recall. Nothing major, anyway. I mean, I bump my head sometimes, like anyone does. On pipes, low ceilings… things like that. But nothing serious enough to, you know, notice, really. Should I have? Is that what you’re asking?
+DOCTOR: Any dizziness?
+PATIENT: Dizziness… hmm. Sometimes, yes. But it's not… constant, either. Just a little bit, off and on. Like when I stand up too quickly, maybe? Or if I’ve been working in the sun all day. Nothing too bad, I don't think. It’s just… a little unsteady sometimes. It's hard to explain. I’m probably not being very helpful, am I?
+DOCTOR: Let’s move on. Any trouble swallowing?
+PATIENT: Trouble swallowing…? No, not really. I haven't noticed anything like that. I can eat and drink normally, as far as I can tell. Though, now that you mention it… sometimes food feels like it gets… stuck, just for a moment. But it always goes down eventually. Is that… trouble swallowing? I don’t know if that counts.
+DOCTOR: Alright. I'm going to do a quick neurological exam. Just follow my instructions. Sit up straight.
+PATIENT: Oh, okay. Yes, of course. A neurological exam? Is that… serious? I mean, what are we looking for? I’m just a little… nervous, I suppose. But I’ll do my best to follow your instructions.
+DOCTOR: Just routine. Now, look straight ahead. Follow my penlight. Don't move your eyes, just track it with your gaze.
+PATIENT: Okay, I can do that. Is this… alright? I'm trying to keep my eyes focused, but it's a little difficult. It’s a bit… blurry, actually. Not terribly, but noticeable. Is that normal?
+DOCTOR: Blurry vision noted. Now, I want you to smile. Show me your teeth.
+PATIENT: Okay. Is that… alright? It feels a little strange, actually. Like one side of my face is… tighter than the other. I don't usually notice, but… now that you're looking, it feels different. Is something wrong?
+DOCTOR: Asymmetry noted. Now, stick your tongue out as far as you can.
+PATIENT: Okay. Is that… correct? It feels a little difficult to move it straight. It kind of… pulls to the side. Oh dear. Is that bad? It's never felt like that before. It feels… weak, I think. Is something seriously wrong, Doctor?
+DOCTOR: Alright. I'm ordering an MRI. Just to rule things out. It's probably nothing, but better safe than sorry. We’ll get the results in a few days. Come back then. Don't worry about it. Likely just stress.
+PATIENT: An MRI… Oh. Stress? But… what are we ruling out? And what if it's not stress? Could you… maybe tell me a little bit more about what you’re thinking? I’m just a little… anxious, Doctor. It's a lot to take in. It’s just… my speech, and now this. I'm a construction manager, I need to be sharp. .
+DOCTOR: .

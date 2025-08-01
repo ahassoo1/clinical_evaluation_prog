@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Ms. Sciarotta. Welcome to the clinic. My name is Dr. Glowka. It's nice to meet you. To start, could you tell me what brings you in today?
+PATIENT: Good morning, Doctor. It’s nice to meet you too. I need to get a card... a medical card for driving, I think? For ride-sharing. It's getting a bit complicated, all these rules. I drive sometimes for a little extra money, you see.
+DOCTOR: I see. So, you need a medical examination to fulfill the requirements for driving with a ride-sharing service. That's perfectly alright. It sounds like you're referring to a commercial driver's license, or a medical certificate to operate a vehicle for commercial purposes. To ensure I can complete the necessary documentation, I’ll need to gather some information about your overall health. Is that okay with you?
+PATIENT: Yes, that’s fine. Ask away. I don’t have any big problems, if that helps. Just… getting older, I suppose. Though my memory is still good! I remember everything, really. Everything.
+DOCTOR: That’s good to hear, Ms. Sciarotta. It’s helpful to know you feel well overall. And a sharp memory is wonderful! Let’s start with a brief overview of your medical history. Have you been diagnosed with any medical conditions – things like diabetes, high blood pressure, heart disease, or anything else?
+PATIENT: Hmm... let me think. High blood pressure, yes, a long time ago. Maybe twenty years? The doctor put me on some pills, but I stopped taking them after a while. It seemed to be okay without them. Nothing else, really. I had a bad fall a few years back, broke my wrist, but it healed up fine. No diabetes, no heart problems… I think.
+DOCTOR: Okay, so a history of hypertension managed previously with medication, and a wrist fracture. Thank you. And just to confirm, you haven’t been taking any medication for your blood pressure recently?
+PATIENT: No, not recently. Not for years. I haven’t even seen a doctor regularly for a long time, to be honest. Just when something really hurts.
+DOCTOR: Alright. And do you have any allergies to medications, food, or anything else?
+PATIENT: No, none that I know of. I eat everything. I’ve never had a reaction to anything. Not a single thing.
+DOCTOR: Good. Now, could you tell me a little bit about your family history?
+PATIENT: Family history… My mother lived to be 95, very healthy until the very end. My father… he had some heart trouble, I think. He died when I was fairly young. And my brother… he had cancer, unfortunately. But I don’t know much about the details. We weren’t very close.
+DOCTOR: Thank you for sharing that, Ms. Sciarotta. That gives me some helpful information. Now, let's talk a bit about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Oh no, none of that. Never smoked a day in my life. Alcohol… maybe a small glass of wine with dinner sometimes. Very rarely. And definitely no drugs. Never had any interest.
+DOCTOR: Excellent. And finally, before we move on to a physical exam, could you tell me about any recent changes in your health – anything that's been bothering you, even if it seems minor?
+PATIENT: Well... my knees are a bit stiff in the mornings. It takes a while to get going, you know? And sometimes my back aches after I’ve been driving for a long time. But nothing major. Just old age again, I expect.
+DOCTOR: Okay, so some morning stiffness in the knees and back pain with prolonged driving. That's quite common. Alright, Ms. Sciarotta, if you're comfortable, I'd like to perform a brief physical exam to assess your overall health and ensure you meet the requirements for the medical certification. Is that alright?
+PATIENT: Yes, that’s fine. Let’s get it over with. I have things to do, you know.
+DOCTOR: Certainly. It won't take long. First, I’ll check your vital signs – blood pressure, pulse, and temperature. Your blood pressure is 148/85. Your pulse is 72 and regular, and your temperature is 98.6. That blood pressure is a little elevated. We’ll want to keep an eye on that. Next, I'll listen to your heart and lungs. Please take deep breaths for me. Your heart sounds are regular, no murmurs. Lungs are clear. Now, I'll check your reflexes. Reflexes are normal and symmetric. And finally, I'll just do a quick neurological exam. Can you follow my finger with your eyes?
+PATIENT: Yes, I can. No problem at all. My eyes are still good, you know. I can see everything.
+DOCTOR: Excellent. And can you squeeze my hands?
+PATIENT: Yes. Is that strong enough? I used to do a lot of gardening, you see. Builds up your strength.
+DOCTOR: Yes, that’s good strength. And can you tell me your name and today's date?
+PATIENT: San Sciarotta. And today is… August 2nd, 2025. Yes, August 2nd. I remember dates very well.
+DOCTOR: Excellent. Everything appears to be within normal limits, Ms. Sciarotta, with the exception of your blood pressure being slightly elevated. Given your history of hypertension, it’s important to monitor that closely. To fulfill the requirements for the medical certification, I recommend we do a urine sample just to rule out any underlying issues. Would that be alright?
+PATIENT: Oh, alright. A urine sample. Fine. Where do I go? I suppose I should go to the restroom then. Is there somewhere specific I need to go?
+DOCTOR: Yes, just down the hall to the right. There’s a restroom there with a sample cup. Just collect a small sample in the cup and bring it back to me, and I can send it to the lab. I will review the results once they come back. While you are doing that, I will document my findings. It should only take a few minutes.
+PATIENT: Alright, fine. A few minutes, you say? I hope it doesn’t take too long. I have things to do, you know.
+DOCTOR: 
+PATIENT: .

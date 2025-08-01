@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Mr. Raghunathan. I am Dr. Jules. Now, let’s not waste time. What brings you in today?
+PATIENT: Good morning, Doctor. Well, I’ve noticed a… lump, I suppose you’d call it, in my lower abdomen. It’s been there for a little while now, and I thought it was best to get it checked out.
+DOCTOR: A lump, you say. “A little while” is rather vague, isn’t it?
+PATIENT: Yes, you’re right. Sorry. Perhaps… three months, give or take? It didn’t bother me at first, just felt like… something was there. It hasn’t gotten dramatically bigger, but it’s definitely not gone away, you know?
+DOCTOR: Three months. And has it been painful at all?
+PATIENT: No, thankfully not. No pain. It’s not tender to the touch either. That’s why I waited a bit to come in – because it wasn’t causing any trouble. But it’s still… concerning, being there.
+DOCTOR: Concerning, is it?
+PATIENT: Well, yes. I mean, anything new like that is, isn’t it? I try not to worry unnecessarily, but… it’s better to be safe. My wife encouraged me to come get it looked at, actually. She always says it's best to know what we're dealing with.
+DOCTOR: Very well. Let's proceed with a physical examination, then. Please lie down on the examination table. I need to palpate the area you're referring to. And try to relax. Tension makes things more difficult.
+PATIENT: Certainly, Doctor. I’ll do my best to relax. Just let me know if you need me to adjust my position at all.
+DOCTOR: Hmm. Yes, I feel it. It’s… firm. Not particularly large. No guarding, no rebound tenderness. That's… something, I suppose. Now, do you have any history of similar lumps or masses elsewhere?
+PATIENT: No, Doctor, I don't. Never had anything like this before, anywhere. I’ve always been pretty healthy, thankfully. I haven't had any major illnesses or surgeries or anything like that. Just the usual colds and flu now and then. Is… is it anything serious, do you think? I know you haven't had a proper look yet, but…
+DOCTOR: “Serious” is a rather broad term, Mr. Raghunathan. It could be any number of things. Most likely, it’s a benign lipoma or… something equally insignificant. But we can’t simply assume anything. Now, do you have any family history of… abdominal issues?
+PATIENT: That’s a good question. Let me think… My mother had some stomach problems when she was older, but I don’t know exactly what. Just… discomfort, I think. She didn’t go to the doctor much. And my father… he was healthy as a horse, really. Never a day of illness in his life. I don’t recall anyone specifically having lumps or masses like this, no.
+DOCTOR: Hmm. Your EHR indicates you are insured by Medicare, and reside in a rural area. Adequate follow-up may be… problematic. Do you have any allergies to medications?
+PATIENT: Yes, I do. I'm allergic to penicillin. Gives me a pretty bad rash. Otherwise, no known allergies. And you’re right, living out here isn’t always the easiest when it comes to getting to specialists quickly. It’s a bit of a drive to get anywhere, really. Is that going to be an issue?
+DOCTOR: It complicates matters, naturally. Now, are you currently taking any medications, even over-the-counter ones?
+PATIENT: No, Doctor, I'm not. I try to avoid medications if I can. Just the occasional pain reliever for a headache, but that's it. I usually try to rest and drink plenty of water. I'm fairly careful about what I put in my body.
+DOCTOR: Very well. Given the… limited information and your location, I recommend a simple ultrasound. It will give us a better idea of what we are dealing with. I will write a referral to the imaging center in the nearest town. Don’t delay in scheduling the appointment. And if you experience any sudden pain, fever, or changes in bowel habits, you are to seek immediate medical attention. Do you understand?
+PATIENT: Yes, Doctor, I understand completely. An ultrasound, and schedule it quickly. And to watch for pain, fever, or changes in bowel habits. Thank you. How long should I expect it to take to get an appointment, do you think? And… is there anything else I should be doing in the meantime?
+DOCTOR: The imaging center is… efficient, usually. A week, perhaps. No need to worry excessively. And no, there is nothing else you need to do. Simply schedule the ultrasound and… try to relax. Now, is there anything else I can assist you with today?
+PATIENT: No, Doctor, I think that’s all. Thank you for your time. I appreciate you fitting me in. I’ll schedule the ultrasound right away.
+DOCTOR: Very well. Goodbye. .

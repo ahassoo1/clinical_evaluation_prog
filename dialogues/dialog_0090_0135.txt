@@ -1,0 +1,19 @@
+DOCTOR: Good morning, Mr. Radillo. I'm Dr. Kur. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor Kur. Thank you for seeing me. I have… a problem with my ear. It is leaking something. A discharge, yes? It started maybe three days ago.
+DOCTOR: Three days, alright. A discharge from your ear. Can you describe the discharge for me?
+PATIENT: It is… not much. A little bit of liquid. It is… yellowish. Not red, not white, yellowish. And it does not smell, if that is important. I clean it with a cloth, but it comes back.
+DOCTOR: Yellowish discharge… and no odor. Okay. Have you noticed any pain with this, Mr. Radillo?
+PATIENT: No, Doctor. No pain. That is… good, yes? Just the liquid coming out. It is a little… worrying. I have not had this before. And it makes a small sound sometimes, a very quiet… bubbling.
+DOCTOR: A quiet bubbling sound… Alright. And have you noticed any hearing loss, dizziness, or ringing in your ears associated with this?
+PATIENT: No dizziness, no. My hearing… it feels a little muffled, maybe. But I am old. Perhaps my hearing is just… going. I do not know if it is the ear, or just… time. No ringing, though. Definitely no ringing.
+DOCTOR: Muffled hearing… well, that could be a number of things. Let's have a look at your ear, shall we?
+PATIENT: Yes, Doctor. That sounds… good. Please. I trust your judgement.
+DOCTOR: Hmm. Yes, I see some cerumen impacted in both ears, and some… inflammation around the ear canal. The tympanic membrane – that's your eardrum – appears slightly dull on the left side. It doesn't look like a ruptured eardrum, thankfully, but it is definitely irritated. I suspect you have otitis externa – an outer ear infection. It's fairly common, especially with the humidity we've been having.
+PATIENT: Otitis… externa? Is that… bad, Doctor? Will I need… surgery? I do not understand much of what you say. Just the ear… being infected. Is it serious?
+DOCTOR: No, Mr. Radillo, it is not serious. It's quite common, as I said. We won't be doing surgery. It's an infection of the outer ear canal – think of it like a skin irritation, but inside your ear. It's caused by bacteria or sometimes a fungus. We treat it with ear drops. I'm going to prescribe you some antibiotic ear drops. You'll need to clean your ear gently with a soft cloth – don't stick anything in your ear, understand?
+PATIENT: Yes, Doctor. No stick… anything. Just cloth. Antibiotic… drops. Okay. How long will I need to use these drops? And what if… if it does not get better?
+DOCTOR: You’ll need to use the drops twice a day for seven days, Mr. Radillo. Now, listen carefully. If the pain worsens, if you develop a fever, or if you notice any drainage of pus – meaning a thick, white or greenish discharge – then you need to come back immediately. Or if your hearing gets significantly worse, of course. Do you understand?
+PATIENT: Yes, Doctor. Seven days, twice a day. No worsening pain, no fever. No… pus. Green or white liquid. And worse hearing. I understand. No stick anything in ear. Seven days. Thank you, Doctor Kur. That is… very helpful. Will I need another appointment?
+DOCTOR: We'll schedule a follow-up in one week to check your progress, Mr. Radillo. It’s standard procedure. I'll have the nurse print out the prescription and some instructions on how to properly use the ear drops. And please, try to keep your ear dry. No swimming, and be careful when showering. Do you have any other questions for me before you go?
+PATIENT: No, Doctor. I think… that is all. Thank you very much for your help. Keeping the ear… dry. I will remember. Seven days. And no stick anything. Thank you again. .
+DOCTOR: Very well, Mr. Radillo. The nurse will see you now. And please follow the instructions carefully. .

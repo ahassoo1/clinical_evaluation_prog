@@ -1,0 +1,26 @@
+DOCTOR: Alright, Ms. Fabing. So, what brings you in today?
+PATIENT: Oh, hi. Just need to get some forms filled out, really. Medicare sent me a bunch and I’m not always the best at keepin’ track of things, you know? Plus, some of the questions… well, they’re a little confusing.
+DOCTOR: Right. Forms. Yes. Well, we can certainly sort that out. It’s… efficient to get everything done at once. Before we dive into paperwork, though, is there anything else at all you wanted to discuss with me while you're here?
+PATIENT: No, not really. Just these forms. I appreciate you helpin’ with them, though. It’s nice to have someone explain things if I get stuck. Don't wanna mess anything up with the insurance, you know?
+DOCTOR: Of course. Let’s start with this one – the basic medical history. It asks about any previous illnesses, surgeries, things like that. Have you had any significant medical problems in the past?
+PATIENT: Hmm… let me think. Not really anything major. I broke my arm when I was little, climbin’ a tree. And I had my tonsils out when I was a kid, too. Other than that… I’ve been pretty lucky, I guess. I get the usual colds and flu, but nothin’ serious. Does that count?
+DOCTOR: Broken arm, tonsillectomy… alright. The “usual colds and flu” doesn’t usually require documentation unless they’re… complicated. Do you have any ongoing health problems currently?
+PATIENT: No, nothin’ ongoing. I do get a little ache in my back sometimes, from work. Bendin’ and twistin’ all day… it just gets a little stiff, you know? But it goes away after a bit of rest. It’s just part of the job, I suppose. I’m a control and valve installer. Lots of physical work.
+DOCTOR: A control and valve installer… right. So, occasional back pain. Is it radiating anywhere?
+PATIENT: No, it doesn’t radiate. It just kinda… hurts right there, in my lower back. Doesn't go down my legs or anything. Just a dull ache, mostly when I’ve been on my feet all day. It's manageable, really. I can usually pop some ibuprofen and it helps.
+DOCTOR: Ibuprofen… alright. And how often are you taking it?
+PATIENT: Oh, not very often, honestly. Maybe once or twice a month if I’ve had a really long day. Sometimes not at all for months, if I’m lucky. It’s not somethin’ I rely on, you know? I try to rest when I can and stretch. Don't wanna get hooked on pills.
+DOCTOR: Good. Sensible. Now, let’s move on to family history. Are there any significant medical problems that run in your family?
+PATIENT: Hmm… that’s a tough one. My grandma, on my mom’s side, she had diabetes. And my uncle, he had heart problems. But other than that… I don’t really know much about my family’s medical history. We weren't really the talkin’ type, you know? Kept things to ourselves mostly. Is that okay?
+DOCTOR: It’s… less than ideal. But common. Diabetes and heart problems… noted. Now, do you have any allergies to medications, foods, or anything else?
+PATIENT: No, not that I know of. I eat pretty much anything. Never had a reaction to a bee sting or anything like that. I've tried a few different kinds of medicine over the years for colds and such, and never had any trouble. I'm pretty lucky that way, too.
+DOCTOR: Alright. And are you currently taking any medications – prescription or over-the-counter – on a regular basis?
+PATIENT: Just the ibuprofen sometimes, like I said. And I take a multivitamin every now and then, when I remember. But that’s about it, really. I try to stay pretty healthy. Don't really like takin' a bunch of pills if I don't need 'em.
+DOCTOR: Right. Now, let’s get to social history. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, none of that. Never smoked a day in my life. I might have a glass of wine with dinner sometimes, but that's about it. And definitely no drugs. Never been interested. I work hard and try to take care of myself, you know? That's enough for me.
+DOCTOR: Alright. Good. Now, do you have any questions for me at this point?
+PATIENT: No, I think I'm good for now. Just wanna get these forms filled out so I can be on my way. Appreciate you helpin' me with them. It’s a lot easier than tryin’ to figure it all out myself.
+DOCTOR: Alright. Well, that should cover everything for now. It seems you are in generally good health, which is… positive. I’ll file these with your chart. I suggest you continue monitoring your back pain. If it worsens or becomes debilitating, schedule an appointment and we’ll discuss imaging. Do you understand?
+PATIENT: Yeah, I understand. Monitor my back, and come back if it gets worse. Got it. Thank you for your time. I appreciate you explainin’ everything.
+DOCTOR: Very well. You’re welcome. Next. Have a good day, Ms. Fabing.
+PATIENT: Okay, you too. Have a good one. .

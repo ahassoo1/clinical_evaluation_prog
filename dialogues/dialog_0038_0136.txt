@@ -1,0 +1,38 @@
+DOCTOR: Good morning, Lucia. Welcome to the clinic. I’m Dr. Auelua. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Thank you for seeing me. Um… it’s my… belching. It’s been happening a lot lately. It’s… embarrassing, really.
+DOCTOR: Okay, belching, right. And you said it's been happening more recently. Can you tell me a bit more about it?
+PATIENT: Yes. Maybe… a month now? Before that, not so much. It’s… after I eat, mostly. But sometimes even when I’m not eating. Just… happens. It doesn't hurt, just… loud.
+DOCTOR: Alright, so about a month now, mostly after eating, but occasionally even when you’re not. And it’s not painful, just… noticeable. That's good to know it's not causing you pain. Can you describe what it feels like before a belch?
+PATIENT: Hmm… before? Like… a bubble. A little bubble in my chest, like… air moving around. And then… poof. It’s not a bad feeling, really. Just… you know… there. Sometimes my stomach feels a little full, but not always.
+DOCTOR: Okay, a bubbling sensation in your chest, like air moving around, and sometimes a feeling of fullness, but not always. And what about what have you been eating when this happens?
+PATIENT: Oh… everything, almost. I don't think it's one food. Beans, sometimes. But I ate salad last night, and it happened then too. I drink a lot of soda. Maybe that?
+DOCTOR: Okay, so it doesn’t seem to be consistently linked to a specific food, although beans sometimes trigger it. And you mentioned you drink a lot of soda. How much soda would you say you drink in a typical day?
+PATIENT: Um… maybe… two or three big bottles? The 2-liter ones. I know it’s not good for me.
+DOCTOR: Okay, two or three 2-liter bottles of soda a day. Alright. And besides the soda, are there any other drinks you consume regularly?
+PATIENT: Just water, mostly. And sometimes coffee in the morning. Not a lot. One cup.
+DOCTOR: Okay, so water and one cup of coffee in the morning. Good to know. Now, let's talk about other things. Do you have any heartburn or indigestion?
+PATIENT: Heartburn? Sometimes, yes. Not often, but… after I eat, sometimes a little burning in my chest. It doesn’t last long.
+DOCTOR: Okay, occasional heartburn after eating. Does anything seem to make the heartburn worse – certain foods, lying down, bending over?
+PATIENT: Lying down, yes. Definitely when I lie down. And… bending over, sometimes. It feels like everything goes up.
+DOCTOR: Alright, heartburn worsens with lying down and bending over. Do you have any other symptoms, like nausea, vomiting, bloating, or any abdominal pain?
+PATIENT: No, no vomiting. Sometimes… a little bloating, but not much. No pain. Just the belching and the little heartburn. It’s not… serious, is it?
+DOCTOR: No, it doesn't sound serious at this point, but it's good we're talking about it. Okay. Just to get a full picture, do you have any medical conditions that I should be aware of?
+PATIENT: No, not really. I haven't been to the doctor in a while. No… nothing that I know of.
+DOCTOR: Alright. And are you currently taking any medications, including over-the-counter medications or supplements?
+PATIENT: No, nothing. I don’t really take pills. Maybe… sometimes pain reliever for a headache, but not often.
+DOCTOR: Okay, no regular medications. And do you have any allergies to any medications, foods, or anything else?
+PATIENT: No, I don't think so. Never had a reaction to anything.
+DOCTOR: Okay, good. Now, before we move on to a quick physical exam, let me just ask about your family history. Are there any significant medical conditions that run in your family, like heart problems, digestive issues, or anything else that you are aware of?
+PATIENT: Hmm… my grandmother, she had… problems with her stomach. Always complaining. But I don’t know what kind of problems. And my father, he had high blood pressure. But that’s all I remember, really.
+DOCTOR: Okay, grandmother with unspecified stomach problems and father with high blood pressure. That’s helpful to know. Now, I’d like to listen to your stomach and do a quick check of your abdomen, if that’s alright with you?
+PATIENT: Yes, that’s okay. Whatever you think is best.
+DOCTOR: Great. Alright, if you could lie down on the examination table, that would be wonderful. I’m going to listen to your abdomen with the stethoscope. This will help me assess the sounds in your stomach. Just breathe normally. Okay, the sounds are… normal. A little bit active, but nothing concerning. Now, I'm going to gently press on your abdomen to check for any tenderness. Just let me know if anything feels painful. Any pain when I press here?
+PATIENT: No, not really. A little… uncomfortable, maybe, but not pain.
+DOCTOR: Okay, a little discomfort, but no sharp pain. That’s good. Alright, everything feels…soft, no masses, no significant tenderness. Okay, based on what you’ve told me and the brief physical exam, it sounds like you’re likely experiencing excessive gas, possibly related to your soda intake and diet. The heartburn you’re experiencing could also be linked to that. It doesn’t sound like anything serious at this point, but we should try some things to see if we can manage it. Does that sound reasonable?
+PATIENT: Yes, that sounds good. I figured it was the soda. I just needed someone to tell me. What things should I try?
+DOCTOR: Alright. First, I’d recommend cutting back on the soda as much as possible. Try switching to water, herbal tea, or sparkling water. Secondly, try eating smaller, more frequent meals instead of large meals. This can help reduce gas production. And chewing your food slowly can also help. Lastly, over-the-counter simethicone can help break up gas bubbles and relieve bloating. You can find it at most pharmacies. Would you be comfortable trying those things?
+PATIENT: Yes, I can try that. Less soda… that will be hard, but I will try. Smaller meals… that’s easy. And I can get something for the gas. How long should I try these things before seeing if they help?
+DOCTOR: Okay, great. Let's try those changes for two weeks. If you're not seeing any improvement after two weeks, or if your symptoms get worse, please schedule a follow-up appointment and we can explore other options. In rare cases, excessive belching can indicate other underlying issues, so it's always best to follow up if things don't resolve. Do you have any questions for me about any of this?
+PATIENT: No, I think I understand. Less soda, smaller meals, and something for the gas. Two weeks. Thank you, Doctor. You’ve been very helpful.
+DOCTOR: You're very welcome, Lucia. I'm glad I could help. Here's a handout with some additional information about managing gas and bloating, as well as the over-the-counter medications you can try. If you have any questions or concerns, please don't hesitate to call the office. And remember, if things don't improve after two weeks, schedule a follow-up appointment. Have a good day, and good luck cutting back on the soda!
+PATIENT: Thank you again, Doctor. I will. You too.

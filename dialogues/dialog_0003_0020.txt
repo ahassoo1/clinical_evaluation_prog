@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Ms. Benites. I'm Dr. Yackey. So, to begin, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Is okay if I call you Doctor Yackey? I am here... for this talk on the phone, yes? Medicare said to come. I feel... alright, mostly. Just checking, they said.
+DOCTOR: Doctor Yackey is perfectly acceptable. And yes, it appears Medicare has scheduled a preventative check-up for you. A bit… unusual to be so insistent, frankly, but we will accommodate. “Mostly alright” is not a particularly useful description, Ms. Benites. Can you be more specific?
+PATIENT: Specific? Hmm. It is hard. I work with cars all day. Fix them, you know? Sometimes my back… it aches a little. Not bad bad, just… old. And sometimes, when I bend down, my knees feel… stiff. Like they need oil, maybe? Is that… okay to say?
+DOCTOR: While I appreciate the… analogy, Ms. Benites, knees do not require oil. Aches and stiffness are… common complaints, particularly given your profession. We’ll address them. Let's start with your back. When did you first notice this aching?
+PATIENT: Hmm... when? It is hard to say exactly. Many years now, I think. When I was younger, it was just after a long day. But now… even after I rest, it is sometimes there. Not all the time, though. Mostly when I lift something heavy at the shop.
+DOCTOR: Very well. And how would you rate this pain, Ms. Benites?
+PATIENT: Rate? Like… good, bad? Is that what you mean? When it is really bad… maybe a six? On a… scale? I do not know scales very well. But when it is just… there, maybe a two? Does that make sense?
+DOCTOR: Yes, a two to a six is… acceptable. We use a scale of one to ten, Ms. Benites, where ten is the worst pain imaginable. And you said it's worse with lifting?
+PATIENT: Yes. Lifting… and sometimes when I bend over to look under a car. The shop, you know? Is not very… fancy. I must get low to see the problems. And sometimes I am there a long time. It is… my job.
+DOCTOR: And has this pain been radiating anywhere?
+PATIENT: Radiating? Like… spreading? Sometimes. Down my leg, a little. Not always, and not very far. Just to my… knee, sometimes. The same knee that is stiff.
+DOCTOR: So, discomfort in the lower back radiating down to the left leg and knee, exacerbated by lifting and bending. And you mentioned stiffness in the knees. Is this stiffness present in both knees, or just the left?
+PATIENT: Both knees, Doctor. But the left… is worse. It is hard to explain. When I wake up in the morning, they are both… tight. But the left one stays tighter longer. And makes a… cracking sound, sometimes. Not all the time, but when I move it.
+DOCTOR: Cracking sounds are… rarely indicative of anything serious, Ms. Benites. However, we will need to assess your range of motion. Please lie down on the examination table. I'll need to examine your back and knees.
+PATIENT: Okay, Doctor. Is okay if I keep my clothes on, yes? I am… comfortable this way.
+DOCTOR: Certainly, Ms. Benites. Please lie supine. I'll begin with your back. Any tenderness here?
+PATIENT: Ooh… yes. Right there. And a little to the left, too. It feels… tight, not just sore.
+DOCTOR: Tightness noted. Now, can you bend forward, and touch your toes, if you are able?
+PATIENT: Oh… that is difficult. I can’t quite reach. And it… hurts a little.
+DOCTOR: Limited range of motion observed. Now, let's examine your knees. Please bend both knees, as comfortably as possible. Any pain with flexion or extension?
+PATIENT: The left one… clicks a little, and feels… tight. Not sharp pain, but… uncomfortable. The right one is better, just… stiff.
+DOCTOR: Crepitus noted in the left knee with flexion. Tenderness minimal. Overall, Ms. Benites, it appears you have some age-related degenerative changes in your spine and knees, likely exacerbated by the physical demands of your profession. It is… not uncommon.
+PATIENT: Degenerative? Like… getting old? I am getting old, Doctor. Is there… something I can do? Some medicine maybe? Or… I don’t want to stop working.
+DOCTOR: "Degenerative" simply means changes that occur with age, Ms. Benites. We can manage the symptoms. I'll prescribe a nonsteroidal anti-inflammatory medication—Naproxen—for pain relief. And I recommend physical therapy to strengthen your core and improve your range of motion. Do you have any allergies to medications?
+PATIENT: No allergies, Doctor. I do not think so. Naproxen… is okay. Is physical therapy… expensive? I do not have much money. And… will it help my knees? The cracking… bothers me.
+DOCTOR: Naproxen prescription sent to your pharmacy. As for physical therapy, cost varies. Medicare should cover a significant portion. We can provide you with a list of providers in the area. It may help with the cracking, but I cannot guarantee a complete resolution. It’s a… chronic condition. Any other questions?
+PATIENT: Chronic? So… it will not go away? Is there… anything else I can do? Besides the medicine and… the therapy? Maybe some exercise at home? I walk a lot at work, but… is that enough?
+DOCTOR: Walking is… beneficial, Ms. Benites, but not sufficient. I can provide you with a handout outlining some simple exercises to strengthen your back and leg muscles. However, consistency is key. And frankly, given your age and the nature of your profession, you may need to consider modifying your work habits to reduce strain. I believe that is all the time we have for today. Do you have any further questions for me?
+PATIENT: Modify… my work? That will be… difficult, Doctor. I fix cars. It is… physical work. But… I will try. Thank you, Doctor Yackey. Maybe the exercises will help. I think… that is all.
+DOCTOR: Very well, Ms. Benites. Follow up with your primary care physician if your symptoms worsen. Have a… good day. .
+PATIENT: Okay, Doctor. You too. .

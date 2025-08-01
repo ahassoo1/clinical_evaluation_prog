@@ -1,0 +1,32 @@
+DOCTOR: Alright then, Gedalya, is it?
+PATIENT: Yes, that’s correct. Gedalya Schaust. It’s… nice to meet you, Doctor. Though I wish the circumstances were better.
+DOCTOR: Yes, well, don’t we all. Look, I haven't got all day, so let’s get straight to it. What brings a young man like you into my office?
+PATIENT: Well, it’s… it’s hard to explain. For the last few months, I’ve just been getting weaker, slowly. And my eyelids… they feel heavy, and they droop. It’s gotten to the point where people have commented on it. It’s a bit embarrassing, to be honest.
+DOCTOR: Weakness, you say?
+PATIENT: Yes. It started in my legs, I think. Just feeling tired after walking, needing to sit down more often. Now it’s… it’s in my arms too. Simple things, like lifting groceries, are becoming difficult. It’s not a sudden thing, it’s just… gradually getting worse. I don't know if that makes sense?
+DOCTOR: Gradual… Everything is always gradual with you young people. Alright, let’s try to be a little more specific. When you say 'weakness', can you describe the type of weakness?
+PATIENT: That’s a good question. It’s… it’s not like a painful weakness. It’s more like… my muscles just don’t want to work as hard. It’s like there’s no power behind them, if that makes sense? It’s hard to explain. It’s not cramping, not soreness, just… fatigue, even after resting. I hope that’s clearer?
+DOCTOR: Fatigue... Right. And this eyelid drooping – is it worse at certain times of the day?
+PATIENT: Yes, actually. It’s definitely worse in the evening. By the end of the day, it feels like I can barely keep my eyes open. And in the mornings, it’s… not great, but it’s noticeably better than how it is at night. It’s gotten to the point where I worry about driving when it’s dark.
+DOCTOR: Hmm. And have you noticed anything else?
+PATIENT: Let me think… Oh! Sometimes my vision gets a bit blurry, but it comes and goes. And… well, this might sound silly, but I’ve been having a harder time swallowing lately. Not like choking, just… it takes more effort than it used to. I thought it was just me being tired, but now I’m not so sure. Does that… does that sound concerning?
+DOCTOR: Concerning?
+PATIENT: Well, I just mean… is it something I should have been telling you sooner? I didn't want to bother you with small things, but now that I think about it, all of it together… it doesn’t seem so small anymore. I’m probably just worrying too much.
+DOCTOR: Look, young man. I see patients all day, and frankly, some of them have real problems. This is all a bit vague, isn’t it?
+PATIENT: I understand. I… I’m not very good at explaining medical things, I suppose. I just know I’m getting weaker and it’s worrying me. I was hoping you could… maybe tell me what’s going on? Or what tests we could do to find out? I'm a bit lost, to be honest.
+DOCTOR: Alright. Let's take a look at your medical record. You've had a tetanus shot... that's something. Nothing else of note. Do you have any allergies?
+PATIENT: No, not that I know of. I’ve never had a reaction to anything. I can eat pretty much anything, thankfully. Though, I did have a bad stomach ache once after eating some… well, it doesn’t matter. It wasn't an allergy, just bad food, I think. Is that important?
+DOCTOR: No, don't bother me with digestive upsets. What about medications?
+PATIENT: No, I don't take any regular medications. Never have, really. Just… the occasional painkiller for a headache, if it’s bad. But nothing prescribed, nothing ongoing. I generally try to avoid taking anything if I can.
+DOCTOR: Alright. We'll need to do a quick physical exam. Sit up straight. Open your mouth. Say "ahhh." Let's have a look at your throat.
+PATIENT: Ahhh… Is something wrong? It feels a bit… dry, maybe? I’ve been trying to drink more water lately, but… I don’t know.
+DOCTOR: Hmm. A bit pale. Your uvula looks normal enough. Now, let me check your reflexes. Please relax your arms.
+PATIENT: Ow! That’s… a little surprising. They didn’t feel very strong, did they? I always thought my reflexes were okay. I used to be quite athletic, you know. Not anymore, though… everything feels slower now.
+DOCTOR: Hm. Weak reflexes. Now, let’s check your eye movements. Follow my finger.
+PATIENT: I’m trying… it feels a bit… blurry still, even when I focus. And… is my vision worse when I look to the side? I think it is, but it's hard to tell. It feels… strained, if that makes sense?
+DOCTOR: Blurry and strained, you say. Alright. I'm thinking we should run some blood tests, just to rule a few things out. And I'm going to order an MRI of your brain, just to be on the safe side. It could be nothing, but we need to investigate. Now, before you get any ideas, let's not jump to conclusions. Are you insured?
+PATIENT: Oh… that sounds… serious. An MRI? I hadn’t expected… No, I'm not insured, unfortunately. I was… divorced recently, and I lost coverage then. I’ve been meaning to sort it out, but… it’s been difficult. Will that be a problem? The cost, I mean. I don't have a lot of savings.
+DOCTOR: Uninsured, of course. This complicates things. Look, the MRI isn’t cheap, but it's necessary to rule out some serious neurological issues. We'll have to discuss payment options. But first, let’s get the blood tests done. And I'm referring you to a neurologist. They will be able to give you a more definitive answer. They’re quite good. Very good indeed. Now, I’ll have the nurse draw the blood. Don’t eat anything for eight hours before the MRI. Do you understand?
+PATIENT: Yes, I understand. Eight hours, no food. And the neurologist… I’ll schedule an appointment as soon as possible. This all feels… a bit overwhelming, to be honest. But thank you, Doctor. For… for not dismissing me, and for taking this seriously. Even if it’s complicated. I appreciate it. I’ll go and speak with the nurse now?
+DOCTOR: See the nurse. And try not to panic. It’s probably nothing… serious. But it’s always best to be thorough. Don't wait too long to schedule with the neurologist. I want those results as soon as possible. .
+PATIENT: .

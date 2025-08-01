@@ -1,0 +1,22 @@
+DOCTOR: Right. Teretha Uzarski, 63. So, what brings you in today?
+PATIENT: Oh, hello Doctor Sink. It’s this… tingling. In my hands, mostly. It’s been going on for a little while now, and it’s starting to bother me. It feels like… pins and needles, you know?
+DOCTOR: Pins and needles. Yes, alright. And how long exactly is "a little while"?
+PATIENT: Oh, goodness. Let me think… maybe three, four weeks now? It comes and goes, it’s not constant. Some days I barely notice it, other days it’s… well, distracting. I do a lot with my hands, being a mail carrier and all. Makes it hard to sort things sometimes.
+DOCTOR: A mail carrier. Right. And is it just your hands, or does it radiate anywhere else?
+PATIENT: Just my hands, mostly. Though… now that you mention it, sometimes I feel a little bit of it creeping up my arms. Not bad, just… a faint tingle. Like when your foot falls asleep, but not as strong. It doesn't go any further than my elbows, though.
+DOCTOR: Alright. And are you experiencing any weakness in your hands?
+PATIENT: Weakness? Not really… not that I’ve noticed. I can still carry the mail, still sort it, still write. Everything feels…normal, just with the tingling. I dropped a package last week, but I think I just fumbled it, you know? Old hands, sometimes they don’t listen like they used to.
+DOCTOR: Right. And any other symptoms?
+PATIENT: Hmm… not that I can think of. No pain, no numbness, just the tingling. I sleep alright, eat alright… maybe I’m getting a little forgetful, but haven't we all at my age? I don't know… is this something serious, Doctor?
+DOCTOR: Well, forgetfulness is common. It could be a number of things. Let's just do a quick physical exam, alright?
+PATIENT: Alright, yes, that sounds good. Whatever you think is best, Doctor. I just want to get this sorted out, if possible. I don’t want to have to slow down… the route gets longer every year, you know?
+DOCTOR: Alright. Please have a seat. I'm going to check your reflexes, strength, and sensation in your hands and arms. Just relax, and let me know if anything feels painful.
+PATIENT: Okay, yes. Sounds good. I’ll try to relax, but I always feel a bit silly when someone pokes at my arms.
+DOCTOR: Reflexes are… a little diminished, but within normal limits for your age. Strength is 5/5 bilaterally. Sensation… slightly decreased in the fingertips, both hands. No visible changes in skin color or temperature. Alright. Everything seems normal, but that decreased sensation is… noteworthy.
+PATIENT: Noteworthy, huh? That doesn’t sound good. What could be causing that, Doctor? Is it my age? Or… is it something else? I don’t want anything that’s going to make me stop working.
+DOCTOR: It could be age-related changes, nerve compression… or a number of other things. We need to rule things out. I’m going to order some blood work – just routine things, to check for vitamin deficiencies, thyroid issues, that sort of thing. I'll also order a nerve conduction study. That'll tell us more about what's going on with the nerves in your hands. Here you go. Take this to the lab down the hall. They're open until five.
+PATIENT: Oh, a nerve conduction study… that sounds complicated. And blood work… alright. I suppose that’s… necessary. Five o'clock, you say? I think I can manage that. Will the results be back quickly, Doctor? I have a route to finish, you know.
+DOCTOR: It will take a few days to get the results back. We'll schedule a follow-up appointment once they are in. In the meantime, try not to overexert your hands. And if the tingling gets significantly worse, or if you develop any weakness, come back immediately. Do you have any questions?
+PATIENT: No, I don't think so. A few days… alright. I'll try not to overdo it, but it’s hard, you know? It’s the busy season. And if it gets worse, come back. Yes, I understand. Thank you, Doctor Sink. I appreciate you looking into this.
+DOCTOR: Alright. Just try to take it easy. And don’t hesitate to call the office if anything changes. Next patient.
+PATIENT: Alright. Yes, I will. Thank you again. I’ll see you in a few days, Doctor. .

@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Guerrerolo Lopez. Welcome to the clinic. I’m Dr. Bombara. So, tell me, what brings you in to see me today?
+PATIENT: Uh, good morning. Yes, well, it’s my ear, you see. Feels…full. Like something’s blocked. It’s been…a while now. Honestly, I can’t quite put my finger on when it started, exactly. It just…is.
+DOCTOR: Okay, a feeling of fullness in the ear. And you said it's been going on for a while… hmm. It’s difficult to pinpoint when it began, you mentioned. Do you recall if anything specific happened around the time you first noticed it?
+PATIENT: Specific…? Not really, no. I…work outside a lot. Agricultural inspections, you know? Lots of wind, dust… maybe something got in there? I honestly don't remember. I've had…a lot on my mind lately. It's just been…a bit of everything, I suppose.
+DOCTOR: I understand. It's common for things to get lost in the shuffle. Agricultural inspections... that certainly could be a factor. Any pain associated with the fullness?
+PATIENT: Pain? No, not really pain. More…discomfort. Like pressure, maybe? It doesn’t hurt, it’s just…annoying. Especially when I'm trying to sleep. I keep having to turn my head. It’s a bit of a nuisance, really.
+DOCTOR: Okay, discomfort and pressure, worse when you’re trying to sleep. No actual pain, just a nuisance. Have you noticed any other symptoms alongside the fullness?
+PATIENT: Other symptoms…? Let me think… No, not that I can recall. Maybe a little…dizziness sometimes? But I get dizzy easily, to be honest. I’m not a young man anymore. Could just be that. I don’t know. Everything feels a bit…fuzzy these days.
+DOCTOR: Alright. Dizziness, which you experience generally anyway. Let’s see… Have you noticed any ringing in your ear, any discharge, or any changes in your hearing?
+PATIENT: Ringing…? No, not ringing. Discharge… definitely not. And my hearing…well, I suppose it’s not what it used to be. But that’s just getting older, right? I haven’t noticed anything different with it, if that makes sense. It’s just…gradual.
+DOCTOR: Okay, gradual hearing loss is common with age, yes. Just want to take a quick look in your ear to see if there’s anything obvious causing the fullness. It won’t take long. Just lean back for me, please.
+PATIENT: Alright, yes, go ahead. Lean back…right. I’m not fond of things going in my ears, to be honest, but if you think it'll help…get it over with quickly, if you would?
+DOCTOR: Just a quick look… hmm. There’s some cerumen – earwax – buildup in the canal, and the ear drum looks a little…dull. Not drastically, but it's not perfectly translucent. It could be contributing to the fullness and pressure you’re feeling. I also see some minor redness of the ear canal itself.
+PATIENT: Redness? Oh dear. Is that…bad? I haven't been doing anything different, I assure you. Just the work, you know? Wind, dust… Everything. Is it…an infection, perhaps? I don't want to be ill, I have a lot to do.
+DOCTOR: The redness is mild, and it could just be irritation from the environmental factors you mentioned – wind and dust can certainly cause that. It could be a mild outer ear infection, but it’s hard to say definitively without a closer look. Given the cerumen buildup and the redness, my initial thought is that it’s likely a combination of impacted wax and perhaps a bit of inflammation. To be safe, I’d like to run a quick hearing test, just to get a baseline. And I may need to gently remove some of the earwax to get a better look at the eardrum and rule out anything more serious. Does that sound alright?
+PATIENT: A hearing test… and remove the wax… Yes, alright. Whatever you think is best. Just…please be gentle. And make it quick, if possible. I have…things to oversee, you see. Inspections don't run themselves.
+DOCTOR: Certainly. I'll be as gentle as possible. The hearing test is quite quick – just headphones and some simple tones. We’ll go from there. Let me just get you set up in the next room. The audiologist, Sarah, will take care of the hearing test. I’ll be with you shortly after. Follow me.
+PATIENT: Alright. Lead the way. I hope this doesn't take too long.
+DOCTOR: It shouldn’t. Sarah is very efficient. We'll get this sorted out for you as quickly as possible. And thank you for your patience, Mr. Guerrerolo Lopez.
+PATIENT: Yes, thank you. I appreciate it. Let's just…get it done, shall we?
+DOCTOR: Absolutely. Right this way.
+PATIENT: .

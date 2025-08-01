@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Mr. Shanor. I’m Dr. Trestrail. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just… need this checkup. For… refereeing. They want it. Fast, if possible.
+DOCTOR: A refereeing checkup. Alright. And what specifically do they require for this checkup?
+PATIENT: Uh… running. Some… push-ups. Maybe… flexibility? I don’t really know the details. They just gave me the paper and said come here. It’s for… sports. I do basketball, mostly.
+DOCTOR: Right. Well, we can certainly do those things. It's rather…unconventional to have such vague requirements for a medical evaluation, but we’ll work with it. Let's start with a bit more detail about why they’re requesting this. Are you a new referee?
+PATIENT: No, no. Been doing it… six years. High school games. This is… new rule, I think. They want everyone checked. Before the season. Just… to be safe. I think. It feels like a waste of time, but… okay.
+DOCTOR: I see. A blanket requirement. Very well. To ensure we cover everything appropriately, let's go through a standard history. Have you had any recent illnesses – cold, flu, anything like that?
+PATIENT: No. Nothing. Last time I sick… maybe last year? Just a small cold. Nothing bad. I work… outside. Keeps me healthy. Mostly.
+DOCTOR: Alright. And are you currently taking any medications – prescription, over-the-counter, or even supplements?
+PATIENT: No. Nothing. I… don't like taking pills. Just… water. And sometimes… tea. For… throat. If I cough. But not now.
+DOCTOR: Okay. Any allergies to medications, food, or anything else?
+PATIENT: No. Nothing I know of. My wife… she had allergies. Bees. But I… no. I eat everything. I don’t remember… ever being allergic to anything.
+DOCTOR: Very well. Now, let’s discuss your past medical history. Have you ever been diagnosed with any medical conditions – things like high blood pressure, diabetes, asthma, heart problems?
+PATIENT: No. Nothing like that. I’m strong. I work hard. Refractory… it’s hard work. Always lifting, always moving. I don’t have time to be sick. My wife… she had some problems. But I… no. Never.
+DOCTOR: And has there ever been any surgery?
+PATIENT: No. Never. Just… small cut on finger. When I was young. Working with… the bricks. Not surgery. Just… bandage. And then okay. No problems.
+DOCTOR: Alright. And finally, what about your family history?
+PATIENT: My… wife’s family… she had some heart problems. Her mother… died young. But my family… strong. Farmers, mostly. Everyone healthy. Worked hard, lived long. No… sickness. Not really. Just… old age. That’s all.
+DOCTOR: Alright. Well, that gives us a starting point. Now, let's move on to the physical examination. I'll need you to step onto the scale for me, please. And then we'll check your blood pressure and heart rate.
+PATIENT: Okay. Scale. Fine. Fast? I need to get back to work… soon.
+DOCTOR: 134 pounds. That's within a normal range for your height. Now, I need to take your blood pressure. Please extend your arm. 128 over 76. Acceptable. Now, let's listen to your heart and lungs. Take a deep breath in… and out. Heart sounds are regular. Lungs are clear. Now, I'd like to check your range of motion. Can you touch your toes for me?
+PATIENT: Okay. Not so easy. Old job… makes back stiff.
+DOCTOR: Yes, I can see that. Some limited flexibility. Now, let's check your upper body. Can you reach behind your back and try to touch your fingers together?
+PATIENT: No. Almost. It’s… hard. Not as good as before. Refractory… always lifting.
+DOCTOR: Alright. And finally, let’s quickly assess your strength. Can you squeeze my hands as firmly as you can?
+PATIENT: Like this? Is okay? Not… very strong today. Long day.
+DOCTOR: Alright. That’s sufficient for a preliminary assessment. Given your history and the findings of this examination, it appears you have some limitations in range of motion and moderate strength. It’s not alarming, but concerning for someone in a physically demanding role like refereeing. Now, are you experiencing any pain currently?
+PATIENT: No. No pain. Just… stiff. Always stiff. Especially in the mornings. And after work. No… sharp pain. Just… old.
+DOCTOR: Alright. Given your age and occupation, the stiffness is likely due to chronic muscle strain. However, to rule out any underlying issues, I recommend an X-ray of your lower back. It's a simple procedure and will give us a clearer picture of what's going on. Would you be agreeable to that?
+PATIENT: X-ray? That… costs money, right? And takes time. I need to get back to work. Is it… necessary? I feel fine. Mostly. Just stiff.
+DOCTOR: Mr. Shanor, while you may feel fine, preventative care is important. An X-ray will allow me to rule out any structural problems that could become more serious down the line. It’s a relatively inexpensive procedure, and the peace of mind it provides is worthwhile. However, if you absolutely refuse, I can write you a referral to a physical therapist. They can work on your flexibility and strength, but it won’t address any potential underlying issues. It's your decision, but I strongly recommend the X-ray. What will it be?
+PATIENT: Physical therapist… okay. No X-ray. Less time. Less money. Is good physical therapist around here? Can you… recommend someone? Refractory is hard work. Need strong back.
+DOCTOR: Very well. I can refer you to Dr. Evelyn Reed. She specializes in sports-related injuries and has excellent reviews. I’ll write you a referral now. I also recommend you take some over-the-counter ibuprofen as needed for the stiffness, and be mindful of proper lifting techniques at work. Don't push yourself too hard. Do you have any questions for me before we conclude this consultation?
+PATIENT: No. No questions. Just… paper. Referral paper. And… how much is visit today?
+DOCTOR: The cost of today’s visit is $125. You’ll receive a bill in the mail. And please, be sure to schedule an appointment with Dr. Reed as soon as possible. Is there anything else I can assist you with today?
+PATIENT: No. That’s all. $125. Okay. Thank you, Doctor. I need to go back to work.
+DOCTOR: Very well. Have a safe day, Mr. Shanor. And please, take care of your back. .

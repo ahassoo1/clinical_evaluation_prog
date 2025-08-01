@@ -1,0 +1,22 @@
+DOCTOR: Right. Ms. Fornes, yes. So, what brings you in today?
+PATIENT: Oh, hi Doctor Sink. Just for my shots, really. Routine stuff, you know? My husband reminded me it was time. I always forget which ones I need!
+DOCTOR: Routine… yes. And you said your husband reminded you?
+PATIENT: Yep, he keeps a little calendar. I’m terrible with dates, honestly. He’s good at that sort of thing. We try to stay on top of things, but life gets busy.
+DOCTOR: Alright. Let’s just confirm what you’ve had previously. Do you recall any specific vaccinations you’ve received in the last five years?
+PATIENT: Hmm… five years… that's a good question. I think I had a flu shot last fall, definitely. And… maybe a tetanus booster a couple of years ago? I honestly don’t remember exactly when. I’ve never been good at keeping track of those things. Is there a record here?
+DOCTOR: Let me see… the system isn’t… comprehensively updated, unfortunately. It shows a flu shot in October of last year, and a tetanus booster in… 2021. That’s… less recent than ideal. Do you have any allergies to vaccines, or have you had a reaction to one before?
+PATIENT: No, no allergies that I know of. Never had a problem with a shot before. A little sore arm sometimes, but that’s all. I'm pretty healthy, usually. Just the regular aches and pains of getting older, you know?
+DOCTOR: Right. No known allergies. And you say you’re generally healthy. Do you have any chronic medical conditions – diabetes, high blood pressure, heart problems, anything like that?
+PATIENT: Nope, nothing like that. Blood pressure's usually pretty good, I check it at the pharmacy sometimes. I do have a little bit of arthritis in my hands, but it’s not too bad. Mostly just stiff in the mornings. Other than that, I’m okay. I try to stay active, walk when I can.
+DOCTOR: Arthritis… alright. And are you currently taking any medications for that, or anything else at all?
+PATIENT: No, I don’t take anything regularly. Sometimes I’ll take ibuprofen for the arthritis when it’s really bothering me, but that’s about it. I try to avoid medication if I can, honestly. My grandmother always said natural remedies are best!
+DOCTOR: Ibuprofen occasionally… fine. Now, let's do a quick physical exam, just to be thorough. I'll listen to your heart and lungs, and check your blood pressure and pulse. Then we can decide what vaccinations you might need. Please sit back and relax.
+PATIENT: Sounds good, Doctor. Whatever you think is best. I’m alright with that. Just let me know if anything feels… weird.
+DOCTOR: Heart sounds are regular, within normal limits. Lungs are clear. Blood pressure is 128/76, pulse is 72. Slightly elevated blood pressure, but not concerning given your age and activity level. Any recent illnesses – cold, flu, anything like that?
+PATIENT: No, thankfully. I managed to avoid getting sick last winter, which was a miracle! Everyone at the fish plant was going down with something, but I think I just stayed lucky. Or maybe it was all the vitamin C I was drinking.
+DOCTOR: No recent illness. Alright. Given your age, and that you haven’t had a recent tetanus booster, I recommend a Tdap booster – that protects against tetanus, diphtheria, and pertussis. And, since it’s flu season coming up, we should go ahead and get you a flu shot as well. Does that sound acceptable?
+PATIENT: Yep, that sounds good to me. Tdap and flu, right? Whatever keeps me healthy. I trust your judgment, Doctor. Just let me know if it’s going to pinch. I'm not too bad with needles, but I don't love them!
+DOCTOR: It will be a quick pinch. Just try to relax your arm. There you go. Both done. Try not to use that arm too vigorously for the rest of the day. Any discomfort, take some ibuprofen. We're finished here. Do you have any other questions for me?
+PATIENT: Okay, thanks. That wasn’t so bad, actually. Just a little sting. Ibuprofen, got it. Hmm… no, I think that’s everything. Just… thanks for taking good care of me, Doctor Sink. I appreciate it.
+DOCTOR: Alright. A follow-up isn’t necessary unless you develop a significant reaction – high fever, severe swelling, anything like that. Here’s a printout with vaccination information, and some general advice. I have other patients waiting, so I’ll need to wrap things up. Please sign this form confirming you received the vaccinations. .
+PATIENT: Oh, okay. Sure thing. There you go. Thank you again, Doctor. Have a good day! .

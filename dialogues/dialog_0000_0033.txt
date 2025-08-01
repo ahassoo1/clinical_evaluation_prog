@@ -1,0 +1,17 @@
+DOCTOR: Well, good morning, Burdette. I’m Dr. Batara. So, tell me, what brings you in to see me today?
+PATIENT: Honestly, it’s rather simple. I seem to be… losing my senses. The vision, it’s gone blurry, and the hearing… well, it's fading. It’s quite inconvenient, really. I have a very busy schedule, you know. I’m a surgeon. Important work.
+DOCTOR: A surgeon, you say?
+PATIENT: Yes. Pediatric, actually. Though, it’s becoming increasingly difficult to do anything with this… predicament. Honestly, I don’t have time for this. When can we fix it? I have patients waiting.
+DOCTOR: Well, “fixing it” isn’t always so straightforward, Burdette. We need to determine what is causing these changes before we jump to conclusions. Now, let's start with the vision. When did you first notice the blurriness?
+PATIENT: Oh, goodness. It was… sometime ago. I truly can’t recall the precise date. Perhaps a week? Two? It’s all rather muddled. I was operating, of course, and it just… wasn't as clear as it should have been. It’s probably nothing serious. Old age, perhaps? I wouldn't know. I just want it gone.
+DOCTOR: A week or two… and it interferes with your surgery?
+PATIENT: Naturally. It's quite difficult to perform delicate procedures when one can scarcely see what one is doing. Honestly, I find this line of questioning rather tedious. Are you going to do something or simply ask me about dates I can’t possibly remember? I have a reputation to uphold, you know.
+DOCTOR: Alright, alright. Let's try this another way. Is the blurriness constant, or does it come and go?
+PATIENT: Hmm. Constant, I believe. Though, sometimes it’s… less noticeable. It’s difficult to say. It’s just… always there, a sort of… film over everything. I really can't provide a detailed account. It’s all so… bothersome. Are you quite finished with the vision questions? I’d like to move on to the hearing, if you don’t mind.
+DOCTOR: Constant, with some variation. Alright. And with the hearing?
+PATIENT: The hearing is… fading. Sounds are muffled. It’s like speaking underwater, only less pleasant. It started… around the same time, I suppose. Honestly, it’s probably nothing a good hearing aid couldn't fix. But I refuse to walk around looking like that. It's simply unacceptable.
+DOCTOR: “Around the same time” as the vision changes… so, roughly a week or two?
+PATIENT: Honestly, must you harp on the dates? It was… recently. A short while ago. I wasn’t keeping a calendar of my declining senses, doctor. It’s all a blur! Look, can we simply get to the solution? I have a very important case tomorrow, and I need to be at my best. This entire conversation is a waste of my valuable time.
+DOCTOR: Burdette, I understand you're busy, but a proper assessment requires details. “Recently” isn’t a diagnosis. Has anything specific made either of these issues worse?
+PATIENT: Specific? No. Not that I recall. Perhaps… stress? I’ve been under a great deal of it lately, with the hospital administration. Honestly, it's a dreadful place. But I doubt that's the cause. It’s probably just… age. Everything goes eventually, doesn't it? Honestly, I’m losing patience. Is there anything you can do, or are we simply going to continue this pointless interrogation? .
+DOCTOR: Alright. Let’s move on to your medical history. Have you been diagnosed with any conditions – diabetes, high blood pressure, anything at all?

@@ -1,0 +1,26 @@
+DOCTOR: Good afternoon, Mr. Puder. I’m Dr. Sham. So, tell me, what brings you in today?
+PATIENT: Hello Doctor. My heart… it feels funny sometimes. Like it's racing, but not… right. It’s hard to explain. It started a few weeks ago, maybe a month.
+DOCTOR: Hmm. "Funny"… can you elaborate on that, please?
+PATIENT: Like… fast, but not strong. Like it's flapping. Not a good flap, you know? Like a bird with a broken wing. And it comes and goes. Sometimes all okay, sometimes… this. It makes me feel tired. Not like sick tired, just… worn out. Does that make sense?
+DOCTOR: It does, thank you. So, it’s intermittent – comes and goes. And you describe it as a fluttering, not a strong, regular beat. How long does each episode last when it happens?
+PATIENT: Um… sometimes just a few seconds. Like, blink and it's gone. Other times… maybe a few minutes. Once, it went on for almost an hour, I think. That was scary. I just sat down and waited. My wife, she was worried.
+DOCTOR: An hour is…significant. Okay. And does anything seem to trigger these episodes?
+PATIENT: Not that I know. I've been trying to think. Maybe… when I’m walking uphill? But not always. And I drink a lot of tea… maybe that? I don't know. It doesn’t feel like anything makes it happen, just… happens.
+DOCTOR: Tea… alright. How much tea would you say you drink per day?
+PATIENT: Oh, a lot. Maybe… six cups? Sometimes more. Black tea. With sugar. My wife, she says I drink too much. Maybe she's right.
+DOCTOR: Six cups… Alright. And aside from the racing feeling and the fatigue, have you noticed any other symptoms?
+PATIENT: No… not really. Maybe a little… short of breath sometimes. But I work with machines all day, it could be that. Heavy work. I don't know if it's related. No chest pain, no dizziness, nothing like that. Just… this heart thing and tired.
+DOCTOR: Right… okay. Have you ever been diagnosed with any medical conditions before?
+PATIENT: No. Nothing. I've been healthy, I think. Never been to the doctor much. Just a cold sometimes, you know? I don’t like hospitals. My wife, she gets check-ups all the time. I always say, “If it ain’t broke…” But now… this.
+DOCTOR: Alright. And what about your family?
+PATIENT: My family? Um… my father, he had problems with his pressure, high blood pressure. But I don't think anything with the heart. He’s old now, lives in Yemen. And my mother… she's fine, I think. Old too. We don't talk much. No one else… not that I know of.
+DOCTOR: Okay. And are you currently taking any medications, vitamins, or supplements?
+PATIENT: No, Doctor. Nothing. Just the tea. Like I said. My wife tries to get me to take vitamins, but I forget. Or I don’t like the taste. She gets mad.
+DOCTOR: Alright. Let's do a quick physical exam. I'd like to listen to your heart and lungs, check your pulse and blood pressure. Is that alright with you?
+PATIENT: Yes, that’s okay. Whatever you think is best, Doctor. I want to know what’s going on. It scares my wife.
+DOCTOR: If you’ll just have a seat there, please. Heart rate is a bit elevated, irregular rhythm… Lungs are clear. Blood pressure is slightly elevated, 140/90. Pulse is also somewhat irregular. Okay, Mr. Puder. I'm going to order an EKG, just to get a better look at your heart's electrical activity, and some blood work to rule out any underlying issues. It’s routine. We'll also need to get your cholesterol levels checked. Would that be acceptable?
+PATIENT: Yes, that sounds… good. Whatever you need to do. An EKG? Is that… scary? Will it hurt? I don't like needles. For the blood work.
+DOCTOR: No, Mr. Puder, the EKG is not scary. It’s completely painless. Small stickers are placed on your chest to measure the electrical activity of your heart. The blood work… well, there will be a small prick, but it’s very quick. A phlebotomist will draw the blood. We'll get everything done here in the clinic. And…it's important to determine what's going on. We need to rule things out. I want to be thorough. I'll have the nurse draw the blood and get you set up with the EKG technician. Then, we’ll review the results and discuss a plan. Does that sound okay?
+PATIENT: Yes, okay. A plan sounds good. I want to feel better. My wife worries too much. And… I need to work. Do I need to do anything special before the tests? Like… not drink tea?
+DOCTOR: Yes, actually, good question. It would be best if you avoided caffeine for at least six hours before the tests – no tea, coffee, or soda. And try to relax a little before we get started. It can affect the results. The nurse will give you specific instructions, but that's the general idea. I'll be back to review everything once the tests are completed. Let me just note that down… Alright, let's get you started with the nurse. She's right outside.
+PATIENT: Okay, Doctor. No tea. I can do that, I guess. For my wife. And for me. Thank you. I hope it’s nothing bad. .

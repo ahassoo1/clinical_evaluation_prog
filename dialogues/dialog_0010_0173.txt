@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Jailenne. I'm Dr. Annesley. Welcome to the clinic. So, tell me, what brings you in today?
+PATIENT: Good morning, Dr. Annesley. Thanks for having me. Um, well, I've just been getting these chills lately. It’s a bit strange, honestly. Not a fever, just… cold. It started a couple of days ago, maybe three?
+DOCTOR: Okay, chills for about three days now. And no fever accompanying them?
+PATIENT: No, no fever at all. That’s what’s weirding me out. I checked my temperature a couple of times just to be sure, and it's normal. It’s just… I feel cold, even when it's warm. Like, I’ll be wrapped in a blanket and still shivering a little.
+DOCTOR: Alright. And are you experiencing anything else along with the chills?
+PATIENT: Hmm… let me think. Not really, no. I’ve been a little tired, maybe? But honestly, who isn't tired these days? No aches, no cough, no sore throat… just the chills and feeling a bit worn down. I guess my appetite’s been a little off too, but nothing major.
+DOCTOR: Okay, so chills, some fatigue, and a slightly decreased appetite. Have you noticed any recent changes in your life – travel, diet, stress levels?
+PATIENT: That’s a good question. Um… no travel, definitely not. Diet’s been pretty normal, I think. Maybe a little more takeout than usual, just because it's been hot. And stress… well, being divorced is stressful, if that counts? It’s been about six months now, so it’s not new stress, but it's definitely… there.
+DOCTOR: Alright, recent divorce, six months ago. We'll keep that in mind. Now, let's go through a quick review of your systems. Have you noticed any changes in your bowel habits – diarrhea, constipation, or anything like that?
+PATIENT: No, everything’s pretty regular down there, if you don't mind me saying so. No changes at all, thankfully!
+DOCTOR: Okay, good. And what about your urinary system?
+PATIENT: No problems there either. Normal frequency, normal color… nothing unusual to report. Sorry to be so… blunt!
+DOCTOR: No need to apologize at all, Jailenne, that's exactly what I need to know. Let’s move on. Have you experienced any muscle aches or joint pain?
+PATIENT: No, thankfully not. No aches or pain in my muscles or joints. I do a little yoga sometimes, so I get some muscle soreness, but that's from stretching, not from being sick. Nothing new there.
+DOCTOR: Okay, good. And have you noticed any headaches, dizziness, or vision changes?
+PATIENT: No headaches, no dizziness. My vision's been fine, as far as I can tell. I wear glasses, but my prescription hasn't changed recently. Everything looks normal.
+DOCTOR: Alright. And finally, have you noticed any skin rashes, changes in moles, or any unexplained weight loss?
+PATIENT: No rashes, no changes to any moles. I check those regularly, actually. And no weight loss, thankfully. If anything, I've been eating more comfort food, so maybe a little weight gain… but definitely no loss!
+DOCTOR: Okay, good. Now, can you tell me about any medical conditions you have or have had in the past?
+PATIENT: Hmm… let me think. Nothing major, honestly. I had the usual childhood illnesses – chickenpox, measles, that sort of thing. I’ve never been diagnosed with anything serious. No asthma, no diabetes, no heart problems… Just the typical stuff. And I’m up to date on my vaccinations. I had a really bad bout of the flu a couple of years ago, but that was it.
+DOCTOR: Alright, no significant past medical history. Have you ever had any surgeries?
+PATIENT: No, never had any surgeries. I’m pretty lucky, I guess! I’ve always been healthy, knock on wood.
+DOCTOR: Okay, good. And what about your family history?
+PATIENT: That’s a bit… complicated. My dad’s side, there’s some heart disease, I think. And my mom’s side, there’s a history of diabetes. But nothing super close – like, it’s not my parents or siblings, it’s more like aunts and uncles. It's hard to keep track, honestly. We don’t see them much.
+DOCTOR: Alright, some family history of heart disease and diabetes. Do you know if anyone in your family has any autoimmune conditions?
+PATIENT: That’s a good question. I honestly… don't know. No one’s ever talked about it, if they do. My family isn’t big on sharing health stuff, if that makes sense? I’m not sure I’d even know where to begin looking.
+DOCTOR: Okay, that’s understandable. Now, regarding your social history, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, I don’t smoke. I'll have a glass of wine with dinner sometimes, maybe a couple of times a week, but I don’t drink heavily. And no, definitely no recreational drugs. I’m pretty healthy that way.
+DOCTOR: Okay, good. And finally, do you have any allergies to medications, food, or anything else?
+PATIENT: Nope, no allergies that I know of. I've never had a reaction to anything, thankfully. I can eat pretty much anything. It's one of the few good things about my health, I think!
+DOCTOR: Alright, Jailenne, that gives me a good starting point. Now, I'm going to do a quick physical exam, just to check things out. Is that okay with you?
+PATIENT: Yes, absolutely. That sounds good. Whatever you think is best.
+DOCTOR: Okay. First, I’m going to listen to your heart and lungs. Heart sounds are regular, no murmurs. Lungs are clear, normal breath sounds bilaterally. Lymph nodes are normal, no swelling. Temperature is 98.6 Fahrenheit. Abdomen is soft, non-tender, normal bowel sounds. Finally, I check her skin for any rashes or lesions. Skin is warm, dry, and intact, no rashes or lesions noted. Everything seems normal so far, but I would like to order a complete blood count and a thyroid panel, just to rule out any underlying issues. Does that sound alright?
+PATIENT: Yes, that sounds perfectly reasonable. Whatever you think is best, honestly. A complete blood count and a thyroid panel… okay. I trust your judgement. How long will it take to get the results?
+DOCTOR: Generally, the results should be back within 24-48 hours. The lab will send them directly to the clinic, and we’ll contact you as soon as we have them. In the meantime, if your chills worsen, or you develop any other symptoms – fever, body aches, sore throat – please don’t hesitate to call. Is there anything else I can do for you today?
+PATIENT: No, I think that’s everything. Thank you so much, Dr. Annesley. I really appreciate you taking the time to listen and run those tests. It makes me feel a lot better just knowing what we're looking at.
+DOCTOR: You're very welcome, Jailenne. It was my pleasure. We'll be in touch as soon as we have the results. Have a good day, and don't hesitate to call if anything changes.

@@ -1,0 +1,34 @@
+DOCTOR: Good morning, Criston. Welcome. I'm Dr. Smetak. It's nice to meet you. Now, can you tell me what brings you in to see me today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um, well, my pee is… orange. It started a few days ago, and it’s a little… scary looking. I don't know why it's happening.
+DOCTOR: Orange urine, you say. Okay. And it started a few days ago… roughly how many days ago?
+PATIENT: Maybe three days? I think… yes, three days. It wasn't dark at first, just… a little different. Now it’s pretty orange, like… juice, almost. Not bright orange, but… you know. Orange. I drink a lot of water, so I noticed.
+DOCTOR: Alright, three days. And you mentioned you drink a good amount of water, which is good. Have you noticed any pain or burning when you urinate?
+PATIENT: No, no pain. Nothing like that. It feels normal when I go to the bathroom. Just… the color is strange. I don’t feel sick, either. No fever, no… nothing. Just the orange pee. Is it something bad?
+DOCTOR: Okay, no pain or other symptoms, that’s helpful to know. It could be something simple, but we need to figure out what’s causing it. Sometimes certain foods or medications can cause a change in urine color. Are you taking any vitamins or new medications currently?
+PATIENT: Um… let me think. My wife gives me a multivitamin every day. It’s the normal kind, I think. Nothing new though, I take it every day. And… no other medicines. I had a cold last month, but I just used some cough drops and rest. Nothing the doctor gave me.
+DOCTOR: Okay, a daily multivitamin. And nothing else recently. Alright. Well, to get a better idea of what’s going on, I'd like to do a quick physical exam, just to rule out anything obvious. And then I’ll order a urine test - a urinalysis - to check for infection or other abnormalities. Would that be alright with you?
+PATIENT: Yes, that sounds good. I want to know what's wrong. A test is fine. I hope it’s nothing serious. I have work tomorrow, you know. I don’t want to miss that.
+DOCTOR: I understand. We'll try to be as quick as possible. Let's start with the exam. If you could follow me this way… I'll just listen to your abdomen and do a quick visual check. Nothing to worry about, just routine.
+PATIENT: Okay, Doctor. Just tell me if anything is wrong, okay? I don’t like being sick.
+DOCTOR: Alright. Just relax and breathe normally. Everything seems normal so far… no tenderness, no masses. Your abdomen is soft. Blood pressure is good, I checked it earlier. I don’t detect anything concerning immediately, but the urine test will give us a much clearer picture. Now, I'll just need a sample of your urine. I'll leave you a cup and instructions. Just try to collect a mid-stream sample – that means start urinating, then collect a bit in the cup, and finish. Do you have any questions about that?
+PATIENT: No, I think I understand. Start, then collect… okay. Where is the bathroom? Is it okay if I just go now?
+DOCTOR: Yes, absolutely. Go ahead when you’re ready. The bathroom is just down the hall to your left. Take your time, and I'll be right here when you're finished. We’ll take a look at that sample and get some answers.
+PATIENT: Okay. Thank you, Doctor. I’ll be right back.
+DOCTOR: Take your time. I'll be here.
+PATIENT: Here you go. It wasn't easy, but I got it. Hopefully, you can find out what's wrong. I'm a little worried now. It just seems… strange.
+DOCTOR: Thank you. We'll get this sent to the lab right away. It shouldn't take too long to get the results. While we wait, do you have any allergies I should be aware of?
+PATIENT: No, no allergies. My wife always asks me that. Nothing. I can eat anything, take any medicine… as long as it’s not too bitter! But really, no allergies.
+DOCTOR: Okay, good. And what about your past medical history?
+PATIENT: Um… let me think. I had chickenpox when I was a kid, like everyone else. And… I broke my arm once, when I was playing football. Nothing serious. No hospitals, no… big illnesses. I'm usually very healthy. I work hard, but I try to eat good food. Is that important?
+DOCTOR: That's helpful to know. It’s always good to have a picture of your overall health. And what about your family?
+PATIENT: My family? Um… my father had high blood pressure when he got older, but he lived a long life. My mother was healthy too, until she got very old. My brother is okay, works as a teacher. No… big illnesses in my family either. We are pretty lucky, I think.
+DOCTOR: Alright. Just a few more questions. Do you smoke or drink alcohol?
+PATIENT: No smoking, never. And very little alcohol. Maybe a glass of wine with dinner sometimes, but not every day. My wife doesn't like it when I drink too much. So, not really a drinker.
+DOCTOR: Okay. That’s good. And finally, what kind of work do you do?
+PATIENT: I’m an engineering technician. I work with… machines, mostly. Making sure they work okay. It’s good work, but it can be stressful sometimes. I stand a lot. It’s hard to explain. But it keeps me busy.
+DOCTOR: Alright, that's all the information I need for now. We'll wait for the lab results, which should be back within the hour. While we're waiting, I'll just explain the potential causes of orange urine. Sometimes it's dehydration, but you said you drink a lot of water. It can also be certain medications or food dyes, but you haven't mentioned taking anything new. More rarely, it can be a sign of a liver or gallbladder problem, but given your otherwise healthy history, that's less likely. The urine test will help us rule out those possibilities. Do you have any questions for me before we wait for the results?
+PATIENT: No… I think you explained everything very well. I just hope it's nothing serious. Liver… that sounds bad. Is it very common to have liver problems? And… how long does it take for the results to come back exactly? I have to go back to work, you know.
+DOCTOR: I understand your concern. Liver problems are not necessarily common, and as I said, given your history, it's less likely to be the cause. But it's always best to rule things out. The lab technician said the results should be available within the hour, but sometimes there's a slight delay. I'll check frequently and let you know as soon as I have them. In the meantime, is there anything I can do to make you more comfortable while we wait?
+PATIENT: No, I'm okay, thank you. Just… waiting is hard. I’ll just sit here, I guess. I hope it’s not something bad. Really.
+DOCTOR: I understand. I'll be right back as soon as I have the results. Please, feel free to let me know if you have any questions or concerns in the meantime. I'll be quick.
+PATIENT: Okay. Thank you, Doctor.

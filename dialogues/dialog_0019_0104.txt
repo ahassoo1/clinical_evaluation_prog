@@ -1,0 +1,21 @@
+DOCTOR: Well hello there, Tammie. It’s nice to meet you. I’m Dr. Renzi. So, what brings you in to see me today?
+PATIENT: Throat. It hurts. Just… hurts. I need to get this over with, if you don’t mind. I have things to do.
+DOCTOR: Alright, alright. No problem at all. We'll get this sorted out as efficiently as we can. Just a sore throat, huh?
+PATIENT: Yes. It’s… bothersome. It feels like something is stuck. And I don’t have time for… things. It just is bothering me. Is that enough?
+DOCTOR: Yes, that's plenty to start with. "Bothersome" is a good way to put it. Now, can you tell me a little more about it?
+PATIENT: Honestly? I barely remember when it started. A few days, maybe? It’s just… there. I work with… machines. Big ones. It could be dust. Or… something. I don’t know. I really don't keep track of these things. It's a waste of time.
+DOCTOR: Okay, a few days. And you work with machines, so dust is a possibility. Does it hurt constantly, or does it come and go?
+PATIENT: It… fluctuates. Sometimes it’s worse when I… swallow. And when I talk. Which is… inconvenient. Look, is this going to take long? I don’t usually get sick. I need to get back to work. People are counting on me.
+DOCTOR: Alright, fluctuating with swallowing and talking. I understand you’re busy, Tammie, and I’ll do my best to be quick. Just a few more questions to get a better picture, okay?
+PATIENT: Fine. But make it fast. Is this about… insurance? Because I don’t have insurance. Never did. Waste of money.
+DOCTOR: No, no, we’re not talking about insurance right now. Just trying to understand what’s going on with your throat. Have you had a fever, or any chills?
+PATIENT: Fever… chills… I… don’t recall. Maybe? I didn’t take my temperature. I just… took some pills. Whatever was in the cabinet. They didn't really help. Honestly, I barely even feel sick, just… annoyed. I don't waste time with thermometers.
+DOCTOR: Okay, so no fever that you recall, and the pills didn't seem to help much. Do you have any other symptoms?
+PATIENT: Other… symptoms? Let me think. No… not really. I’m tired, I suppose. But I’m always tired. Work is… demanding. Is that a symptom? Being… overworked? I doubt it. It’s just… life. Really, I just want this throat to stop hurting. That’s it.
+DOCTOR: Alright. Fatigue, understandable given your work. Now, would you mind if I just take a quick look at your throat?
+PATIENT: Fine. Whatever. Just be quick about it. Don't poke around too much. I have things to do. And please, don't tell me it's "stress." I know my own body. It's just...a sore throat. Get it over with.
+DOCTOR: Alright, Tammie. Just open wide and say "ah." I’ll be quick, I promise. Hmm. Well, there is some redness back there, and a little bit of swelling. I don't see any white patches or anything immediately concerning, but it is definitely inflamed. Can you swallow for me?
+PATIENT: There. Happy? It hurts when I do that. It feels… scratchy. Look, is this going to require… expensive tests? Because I am telling you, I do not have money for tests. Just tell me what pills I should take. And can I get a note for work? They don't like it when I'm not there.
+DOCTOR: Alright. No, I don't think expensive tests are necessary at this point. It looks like a fairly typical case of pharyngitis – inflammation of the throat. It could be viral or bacterial, but given your lack of fever and generally feeling okay, it's likely viral. I'm going to prescribe you some lozenges and a mild pain reliever to help with the discomfort. Over-the-counter is fine, though. And I can definitely write you a note for work explaining you're under my care for a sore throat. The lozenges will help soothe the throat, and the pain reliever should take the edge off. Plenty of rest and fluids are important, too. If it gets worse – say, you develop a high fever, trouble breathing, or difficulty swallowing – then you need to come back immediately, or go to the emergency room. Does that make sense?
+PATIENT: Fine. Just… get it over with. I have things to do. And don't bother calling me. I'll just… deal with it. Thank you. .
+DOCTOR: Alright. You take care now, Tammie. And don’t hesitate to come back if things don’t improve. .

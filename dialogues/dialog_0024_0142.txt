@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Lawther. I am Dr. Mutnick. Now, let's not waste time, shall we?
+PATIENT: Morning, Doctor. Yeah, good morning. Sorry if I seem a bit… out of it. These headaches, they kinda mess with things, you know?
+DOCTOR: Headaches, yes. A rather vague complaint, wouldn't you agree?
+PATIENT: Vague? Hmm… I guess so. It’s hard to explain. They just… hit. Really bad. And then they go away. I don’t really remember much about them when they're happening, to be honest. It’s like my brain just… blanks.
+DOCTOR: “Blanks,” you say. How… frequent are these “blanks,” Mr. Lawther?
+PATIENT: Well, the headaches aren’t every day. Maybe a couple times a month? And the… blank part, that happens during the headache, always. I wouldn't say they're long, but… long enough to be worrying, I suppose. It's just… gone. Like a skipped record. I don’t know how else to put it.
+DOCTOR: And during these episodes, are you experiencing any other symptoms?
+PATIENT: Oh, yeah, definitely. Sweating, mostly. Like, really cold sweats. And my heart… it races. Feels like it's gonna jump outta my chest. That's why I bothered coming in, I think. It's kinda scary, to be honest. I just… feel awful.
+DOCTOR: Racing heart, cold sweats… and headaches. Do you have a family history of… migraines, perhaps?
+PATIENT: Migraines… huh. I don’t really know, to be honest. My… ex-wife’s side of the family was always kinda… private. And my folks… well, they passed away a long time ago. I don’t remember them mentioning anything about headaches, but… I was pretty young. I wouldn't be surprised either way. Sorry, I'm not much help on that front.
+DOCTOR: Very well. And do you take any medications currently, Mr. Lawther?
+PATIENT: No, sir. Not a thing. Never really been one for pills. I try to just… tough it out, you know? But these headaches are getting harder to ignore. That’s why I’m here, I guess. I haven't really needed to see a doctor in… well, a long time.
+DOCTOR: No medications. And no known allergies?
+PATIENT: Nope. As far as I know, nothing. I’ve… stepped on a bee once when I was a kid, but I didn't even swell up. I'm pretty sure I’m good there. Is that… important? It just feels like you're asking a lot of questions I don’t really have answers to. Not trying to be difficult, just… my life's pretty simple, I suppose.
+DOCTOR: It is always important, Mr. Lawther. Now, let's proceed with a basic neurological examination. Please follow my finger with your eyes. Do not move your head.
+PATIENT: Okay, sure. Sounds good. Is this… is this gonna hurt? I'm not great with things near my head, if you don't mind my saying so.
+DOCTOR: It will not "hurt," Mr. Lawther. Simply follow the movement. Now, look to the left... and now to the right. Good. Any tenderness here?
+PATIENT: Ooh, a little bit. Yeah, that’s… a bit tender. Not painful, exactly, just… sensitive. Is that normal? It feels weird. Like a dull ache, now that you mention it.
+DOCTOR: Temporal tenderness noted. Blood pressure is… unremarkable. Pulse is slightly elevated, consistent with your report. Respirations are normal. Now, I’m going to check your reflexes. Please relax your arms.
+PATIENT: Okay, relaxing… trying to relax. I always feel a bit silly doing this. Is everything… alright so far? I just… get nervous, I guess. It's been a while since I’ve been poked and prodded like this.
+DOCTOR: Reflexes are… within normal limits. Now, I'd like to rule out any underlying causes. I’m going to order a basic blood panel and a CT scan of your head. The CT scan is simply to ensure there's nothing structural causing these headaches. Do you understand?
+PATIENT: A CT scan… uh, yeah, I think so. It's… a picture of my brain, right? Is it… is it dangerous? I've heard things. And a blood panel… that just means taking some blood, I suppose? I’m not really good with medical stuff, so if you could explain it like I'm five, that’d be great. Honestly, I'm getting a bit worried now.
+DOCTOR: The CT scan uses X-rays, yes. Minimal radiation, perfectly safe. The blood panel will tell us about your electrolytes and rule out infection. It's a standard procedure, Mr. Lawther. Frankly, you’re overreacting. Here. This is for the blood work. Go to the lab downstairs. And schedule the CT scan with the radiology department. I will review the results when they are available. Do not delay.
+PATIENT: Oh. Okay. Downstairs… and the radiology department… Right. So, just… get these done. And then you’ll look at the results. Is there anything I should… avoid doing? Like, should I not drive? I just… don’t want to make things worse. And… thanks, I guess.
+DOCTOR: Until we have the results, avoid strenuous activity. And refrain from driving if you feel dizzy or experience a headache. Otherwise, there is no need to alter your routine. I will be in touch. Now, if that is all, I have other patients waiting.
+PATIENT: Okay. Right. No strenuous activity… and don’t drive if I feel bad. I… I think that’s everything. Thank you, Doctor. I’ll… I’ll go get these done. .
+DOCTOR: .

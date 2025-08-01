@@ -1,0 +1,22 @@
+DOCTOR: Alright, Mr. Murph, good to see you. Though, frankly, these appointments always run behind. So, let’s get straight to it. What brings you in today?
+PATIENT: Uh, hello Doctor. Well, my son, he… he signed me up. For a team. A sports team. I forget what it is now, exactly. Something with… running? He said I need to be checked out first. For the team. I’m a little old for this, I think!
+DOCTOR: A sports team. Right. Well, your son seems… motivated. And you’re right, seventy is getting up there for competitive athletics. Let's just cover the basics then. So, you’re feeling generally okay, and he just wants a check-up before you start?
+PATIENT: Generally okay, yes. No big pains, you know? Just… gets tired quicker these days. Old age, I guess! And my knees… they sometimes make noise. But it’s okay. I can still walk. Mostly. He's a good boy, my son. Very enthusiastic.
+DOCTOR: “Gets tired quicker,” and “noise” in the knees. Vague, but alright. We’ll get something documented. Any recent falls?
+PATIENT: Falls? Hmm… let me think. Not recently, no. Maybe… a little stumble last winter on the ice? But nothing serious. Just a bit shaken up. My wife helped me up right away. She always does.
+DOCTOR: Alright, “minor stumble” winter 2024. Anything else?
+PATIENT: Anything else… Oh! I sometimes get a little… dizzy when I stand up too fast. Happens maybe once a month? Nothing to worry about, usually. Just gotta hold onto somethin’ for a sec. My wife says I should slow down. She's always right, too.
+DOCTOR: “Dizziness with quick changes in position” – once a month. You have a remarkably tolerant wife, Mr. Murph. Okay, let’s try and get a little more detail. When you get dizzy, does it feel like the room is spinning?
+PATIENT: Spinning? Uh… not exactly spinning. It’s more like… everything gets a little… blurry. And light. Like I’m gonna… faint, maybe? But I never do faint. It just… passes. After a minute or two. I don’t know if that makes sense.
+DOCTOR: “Blurry vision, lightheadedness”...Alright. Do you take any medications for anything?
+PATIENT: Medications… hmm. Let me think. For my blood pressure, yes. A little pill, every morning. And sometimes, if my knees are really bothering me, I take somethin’ for the pain. But that’s only when I need it. I forget what they're called now. My wife handles most of that.
+DOCTOR: "Hypertension medication – details unknown". And a “pain reliever, PRN”. Fine. Do you have any allergies to medications or anything else?
+PATIENT: Allergies… No, not that I know of. Never had a bad reaction to anythin’. My wife would remember, she’s very careful about that. I think. I've never had any trouble with… bees or somethin' like that. Not that I recall.
+DOCTOR: Right. So, no known allergies. Okay. Let’s do a quick physical exam, just to get a baseline. Can you stand up for me?
+PATIENT: Sure, Doctor. A little wobbly, maybe, but I'm alright. Just takes a moment to get my bearings.
+DOCTOR: Okay. Blood pressure is… 148/92. Pulse is 78. A little elevated. Let me listen to your heart and lungs. Breathing sounds are clear, but there's a slight murmur. Not concerning at this stage. Now, let’s check your reflexes. Reflexes are a little diminished, but within normal limits for your age.
+PATIENT: Diminished reflexes… that doesn't sound good, does it? Is that bad, Doctor? I just want to make sure I don’t… fall and break somethin’. My son is really excited about this team, you see.
+DOCTOR: It’s… not necessarily “bad,” Mr. Murph. It's common with age. We just want to establish a baseline. Look, I’m going to order some basic blood work – just to check your electrolytes, kidney function, and a complete blood count. And I want you to get an EKG – just to check your heart rhythm. Your son’s enthusiasm is… admirable, but we need to make sure you’re physically capable of participating in strenuous activity. Here are the orders. Take these to the lab downstairs. And I’ll need you to schedule an EKG appointment.
+PATIENT: Oh. A lot of tests. That sounds… serious, doesn't it? I just wanted a check-up! My son… he’s going to be disappointed if I can’t do this. Alright. I’ll… I’ll take these to the lab. And I’ll ask my wife to schedule the… EKG. Thank you, Doctor. I hope it's not too bad. Old age…
+DOCTOR: “Patient hesitant, worried about disappointing son. Recommends close monitoring of condition.” .
+PATIENT: .

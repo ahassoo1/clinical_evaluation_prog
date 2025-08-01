@@ -1,0 +1,39 @@
+DOCTOR: Good morning, Ms. Heidenthal. I’m Dr. Alzoubi. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, it’s a bit embarrassing, honestly. I’ve been… forgetting things. Little things, mostly, but it's starting to worry me.
+DOCTOR: Okay. I understand. It’s good you’re bringing this to my attention. It's definitely worth looking into. When you say “little things,” can you give me some examples?
+PATIENT: Hmm… let me think. Like, I’ll go into a room and forget why I went in there. Or I’ll be talking to someone and lose my train of thought mid-sentence. Yesterday, I couldn’t remember where I parked my car at the grocery store for a good ten minutes! It’s not all the time, but it’s happening more and more often.
+DOCTOR: Okay, that gives me a better idea. And how long has this been going on, roughly?
+PATIENT: Oh, gosh. That’s a good question. I’d say… maybe six months or so? It started really slowly, just a few instances here and there, and I just chalked it up to being busy and stressed. But it’s definitely gotten worse in the last couple of months.
+DOCTOR: Alright. And has anything particularly stressful been happening in your life during those six months?
+PATIENT: Not… really? Work’s been the same, which is pretty demanding, but that’s normal. I haven’t had any big life changes, or anything terribly upsetting happen. That’s what’s so confusing about it, actually. It’s not like I can pinpoint a reason for it.
+DOCTOR: Okay. And are you experiencing any other symptoms along with the memory issues?
+PATIENT: Let me think… Not that I’ve noticed, no. I mean, I get tired, but I work long hours. Nothing else really stands out. No headaches, no dizziness, no trouble with my vision… Just the forgetting.
+DOCTOR: Alright. Let’s go through a quick review of your medical history. Do you have any known medical conditions?
+PATIENT: Not really. I had my tonsils out when I was a kid, and I broke my arm once, but nothing major. I’m generally pretty healthy. I have Medicare, as you can see on the paperwork. I see a dentist regularly, obviously!
+DOCTOR: Okay, good. No major medical history is helpful to know. Any surgeries besides the tonsils and broken arm?
+PATIENT: No, nothing else. And no allergies, either. I can eat pretty much anything. I don’t take any medications regularly, either. Just the occasional ibuprofen for a headache, but that’s it.
+DOCTOR: Okay, good. Now, can you tell me about your family history?
+PATIENT: Hmm. My mother… she had some trouble with her memory towards the end of her life, but she was very old when it started. I think it was just… old age, you know? My father was healthy as a horse, though. No real history of anything like this on either side of the family, as far as I know.
+DOCTOR: Okay. And just to get a full picture, could you tell me a little bit about your lifestyle?
+PATIENT: Sure. I live alone, work a lot. I try to eat reasonably well, but it's hard when you're busy. I don't really have time for much exercise, unfortunately. I don't smoke, and I only have a glass of wine with dinner sometimes. Pretty boring, really.
+DOCTOR: Okay, that’s helpful. Now, I’d like to do a quick physical exam, just to get a baseline and rule out anything obvious. Is that alright with you?
+PATIENT: Yes, that sounds fine. Whatever you think is best, Doctor.
+DOCTOR: Okay. First, I’m going to check your blood pressure and pulse. Blood pressure is 130/80, pulse is 72. Normal. Now, I’m going to listen to your heart and lungs. Sounds clear. Now, I'll check your reflexes… Reflexes are normal. Finally, I'm going to do a brief cognitive assessment, just a few simple questions to see how your memory and thinking are functioning. Is that okay?
+PATIENT: Yes, that’s fine. Sounds good. I’m ready when you are.
+DOCTOR: Okay. First, can you tell me today’s date?
+PATIENT: Um… today is… August… the 2nd? 2025? Yes, I think so. August 2nd, 2025.
+DOCTOR: Okay, good. And can you tell me what city we are in?
+PATIENT: Oh, goodness. Let me think… It’s… a small town. I… I feel like I should know this, but it’s slipping my mind. Is it… Millwood? No, wait… it’s… I’m so sorry, I just can’t recall the name right now!
+DOCTOR: Okay. That’s alright, don’t worry about it. Sometimes these things happen. Let’s try something else. Can you repeat these three words for me?
+PATIENT: Okay. Yes, go ahead. Tell me the words.
+DOCTOR: Okay. The words are: Apple, Table, Penny. Remember those. Now, I’m going to ask you a few other questions, and then I'll come back to those three words.
+PATIENT: Okay, I’m trying… Apple, Table, Penny. Got it.
+DOCTOR: Okay. Now, can you count backwards from 100 by sevens?
+PATIENT: Oh, boy. Okay… um… 100, 93… 86… 79… That’s… getting tricky already. 72… 65… Oh, dear. I’m losing track. I think… I think that’s all I can do for now. I’m so sorry.
+DOCTOR: Okay, that’s alright. We’ve gotten enough information for now. Based on what you've told me and the brief cognitive assessment, you're experiencing some memory difficulties that warrant further investigation. I want to order some blood work to rule out any underlying medical conditions like vitamin deficiencies or thyroid problems. I also want to schedule an MRI of your brain to get a clearer picture of what’s going on. Does that sound okay?
+PATIENT: Yes, that sounds… sensible. Whatever you think is best, Doctor. An MRI sounds a bit scary, but if it’ll help figure out what’s going on, then yes, let’s do it. Blood work is fine too.
+DOCTOR: Okay. I’ll get the orders sent to the lab and the imaging center. The lab can draw blood today, and the imaging center will call you to schedule the MRI. I’m also going to give you a referral to a neurologist, Dr. Chen, who specializes in memory disorders. She can provide a more comprehensive evaluation and help us develop a treatment plan. Does that sound good?
+PATIENT: Yes, that sounds… thorough. Dr. Chen, okay. Thank you, Doctor. I appreciate you taking this seriously. I was worried I was just… losing it, you know?
+DOCTOR: You’re very welcome. It’s good you came in. And it’s important to remember that memory issues can have many causes, and we need to rule things out before jumping to any conclusions. In the meantime, try to keep a journal of your memory lapses – when they happen, what you were doing, and any potential triggers. It can be helpful for Dr. Chen. I'll also write a note for your primary care physician. Do you have any questions for me right now?
+PATIENT: A journal, okay. That makes sense. I can do that. And no, I don't think so. Not at the moment. You've explained everything so clearly. Thank you again, Doctor Alzoubi. I really appreciate your help.
+DOCTOR: Okay. You’re very welcome, Ms. Heidenthal. The nurse will be in shortly to go over the paperwork with you. Please don’t hesitate to call the office if you have any questions or concerns. And remember, we’re here to help. .

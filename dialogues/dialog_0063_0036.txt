@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Barban. I am Dr. Jules. So, let’s get straight to it. What brings you in today?
+PATIENT: Good morning, Doctor. I am here... for the check-up. Before the insurance starts, you understand? They require this, yes? It is... necessary.
+DOCTOR: Yes, yes, the insurance companies. Always with the paperwork. A “check-up,” you say?
+PATIENT: Yes. A physical. To make sure… everything is working. Before they give me the card. Is this correct? I do not want any problems with the… with the benefits later.
+DOCTOR: Quite right to be proactive, Mr. Barban. Very sensible. Well, a general physical it is. Do you have any specific concerns you’d like to address today, or shall we simply proceed with a standard examination?
+PATIENT: Concerns? No. I feel… fine. I work hard, eat simple food. I do not have time for… for worrying about things that are not broken. Just do the check, please. The faster, the better. I have things to do.
+DOCTOR: Very well. We shall be efficient. Have you had a physical examination recently, Mr. Barban?
+PATIENT: Recently? No. Not… recently. Years, I think. When I first came to this country, maybe? It was… a long time ago. They did… some things. But I do not remember what things. It was not important.
+DOCTOR: I see. Alright. And are you currently taking any medications, Mr. Barban?
+PATIENT: Medications? No. I do not take… pills. I do not need pills. Some tea, sometimes, for the stomach. But not… proper medication. I am a healthy man. I told you.
+DOCTOR: Very good. Any allergies to speak of?
+PATIENT: Allergies? No. Nothing. I eat everything. I am Yemeni, you understand? We eat… strong things. Spices. Nothing bothers me. My body is… strong.
+DOCTOR: Alright then. Let’s move on to a brief examination. Could you please step onto the scale for me, Mr. Barban?
+PATIENT: Yes, of course. The scale. To see how much… strong man I am, yes? Do not be surprised if it is… a large number.
+DOCTOR: Ninety kilograms. And your height is recorded as one meter eighty-eight centimeters. Now, if you’ll follow me, we'll check your blood pressure and listen to your heart and lungs. Please, have a seat on the examination table.
+PATIENT: Ninety? That sounds… correct. Yes. I am a large man, as you see. Let us get this done. Quickly, please.
+DOCTOR: Blood pressure is… elevated. One hundred forty over ninety-five millimeters of mercury. Now, if you would please remove your shirt, I will listen to your heart and lungs.
+PATIENT: Elevated? Is that… bad? I do not understand these numbers. It is… cold in here.
+DOCTOR: Heart sounds are regular, though slightly forceful. Lungs are clear bilaterally, but breathing is somewhat shallow. Now, could you open your mouth and say “Ah”?
+PATIENT: “Ah.” Is that… sufficient? My throat is fine. I told you, I am a healthy man.
+DOCTOR: Throat appears normal. No signs of inflammation or infection. Now, I'm going to palpate your abdomen. Please lie flat on your back, and let me know if you feel any tenderness.
+PATIENT: Palpate? You mean… press on my stomach? Be gentle, Doctor. I have eaten recently. It is not a comfortable feeling.
+DOCTOR: Abdomen is soft, but slightly distended. No significant tenderness to palpation. I detect no masses. Now, could you please bend forward at the waist, and touch your toes if you can?
+PATIENT: It is… difficult. My back is not so flexible anymore. Old work injury. It is fine, usually. I do not need to bend like a young boy.
+DOCTOR: Limited range of motion in the lumbar spine, likely due to previous injury. Alright, Mr. Barban. That will suffice for the physical examination. Based on my preliminary findings, your blood pressure is elevated, and you appear to be slightly overweight. We'll need to run some blood tests to get a clearer picture. I'll have the nurse draw some samples now. Do you have any questions before we proceed?
+PATIENT: Elevated blood pressure? Is that… serious? I do not like this. What do I need to do? Blood tests… more poking and prodding? Is it going to take long? I have important things to do, you know. A man cannot spend all day in a doctor's office.
+DOCTOR: Elevated blood pressure, if left untreated, can lead to serious complications – heart disease, stroke… It requires monitoring and potentially medication. As for the blood tests, they are quite routine, and shouldn't take more than an hour. I understand you are busy, Mr. Barban, but this is a necessary precaution. The nurse will explain the procedure. I’ll also need a family history if you can recall any significant medical conditions among your relatives. Did either of your parents have high blood pressure, heart problems or diabetes?
+PATIENT: Diabetes? No. My parents… they lived a simple life. In Yemen. They did not go to doctors. They ate what they grew, worked hard. Heart problems… maybe my father. He had chest pains sometimes, but he never complained. He was a strong man. I do not remember much else. It was a long time ago. This is difficult.
+DOCTOR: Very well. I’ll note ‘possible family history of cardiovascular issues.’ The nurse will be in shortly to draw your blood. I recommend we schedule a follow-up appointment to discuss the results and develop a plan. Perhaps in two weeks?
+PATIENT: Two weeks? That is… a long time. But… alright. Two weeks, I suppose. Just… make it quick. I do not want to be stuck here all day. And tell the nurse to be gentle, please. I do not like needles.
+DOCTOR: I will inform the nurse. In the meantime, try to reduce your stress and focus on maintaining a healthy diet. Now, if you’ll excuse me, I have other patients waiting. The nurse will be with you shortly.
+PATIENT: Very well, Doctor. Thank you. I suppose. Finally.

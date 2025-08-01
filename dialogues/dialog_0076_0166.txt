@@ -1,0 +1,24 @@
+DOCTOR: Right, Tarin Kinjerski, 20 years old. So, what brings you in today?
+PATIENT: Good afternoon, Doctor Ruocco. It’s this numbness in my leg. It’s been… well, persistent for a little while now, and I figured it was best to get it checked out. It’s not painful, exactly, more like… absent. Like it's not quite there sometimes.
+DOCTOR: Absent, you say?
+PATIENT: Yes, that’s the best way I can describe it. It’s hard to explain. Not tingling, not burning, just… a lack of sensation. It started, I believe, in my foot, and it’s gradually moved up my calf a bit. It doesn’t happen constantly, but it’s frequent enough to be noticeable, and honestly, a little worrying. I do a fair bit of work standing, so I initially thought it might just be from that.
+DOCTOR: Standing, you say. What kind of work?
+PATIENT: I’m a special effects artist and animator, Doctor. A lot of it involves being on my feet for long stretches, setting up equipment, motion capture work… things like that. It’s not heavy lifting, mostly just precise positioning and adjustments, but it does require being mobile and standing for extended periods. I also spend a good deal of time at a computer, naturally.
+DOCTOR: Computer work… yes, that's always the culprit these days. Alright. And how long has this been going on, precisely?
+PATIENT: Let me think… it began, I’d estimate, around mid-June. So, roughly six weeks now, maybe a little more. At first, it was very intermittent, just a fleeting sensation a couple of times a week. But over the past two weeks, it’s become considerably more consistent, and it’s started to affect my balance a little. I wouldn't say it’s severe, but it's enough that I'm consciously thinking about it when I walk.
+DOCTOR: Balance… hmm. Any weakness associated with it?
+PATIENT: Weakness… that’s a good question. Not a complete loss of strength, no. It's more… a feeling of instability, like my leg isn’t quite as responsive as it should be. It’s subtle, and it doesn't happen every time I stand, but I have stumbled a couple of times. It’s difficult to articulate – like it’s taking a fraction of a second longer for my brain to connect to my leg. Does that make sense?
+DOCTOR: Vague descriptions aren't terribly helpful, you know. Alright. Let's just get on with it. I'll need to do a quick exam. Please, have a seat on the examination table.
+PATIENT: Certainly, Doctor. Apologies if I’m being unclear. I’m trying my best to explain it as accurately as possible. I’ll sit right down.
+DOCTOR: Alright. Just… extend your leg straight out. Like this. And now the other one. I'm checking your reflexes. Don't overthink it.
+PATIENT: Certainly, Doctor. Is there anything specific you’re looking for? I want to make sure I’m cooperating fully. I'm not particularly used to medical examinations, if you don't mind my saying.
+DOCTOR: Reflexes… adequate. Now, can you stand up for me?
+PATIENT: Certainly. Standing now, Doctor. Is there anything in particular I should be doing while standing? Should I try walking, perhaps? I want to ensure I’m providing you with the best possible information.
+DOCTOR: Walk for me. Heel-to-toe. And try not to fall.
+PATIENT: Alright, walking now. Heel-to-toe. I… believe I am walking reasonably normally, Doctor, though perhaps not perfectly steady. Is there anything you notice in particular?
+DOCTOR: Gait…slightly off. Now, lean forward… and touch your toes. If you can. Don’t strain yourself. I need to see your range of motion.
+PATIENT: Alright, leaning forward now. I can touch my shins, Doctor. My lower back feels a little tight, but no significant pain. I can continue if you'd like me to try further, though I'm not particularly flexible.
+DOCTOR: Adequate. Alright. Now sit back down. I've seen enough. It’s probably just… a minor nerve irritation. Likely from all the standing. Take some ibuprofen. Come back if it gets worse. Next!
+PATIENT: I see. So, no further investigation is required at this time? Just ibuprofen and monitor the situation? I was… hoping for a little more clarity, if I’m honest, but I trust your judgment, Doctor. Thank you for your time. I’ll follow your advice and return if the numbness worsens.
+DOCTOR: Exactly. Don't waste my time with vague symptoms. Next! .
+PATIENT: .

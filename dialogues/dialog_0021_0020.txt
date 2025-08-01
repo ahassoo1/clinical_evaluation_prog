@@ -1,0 +1,35 @@
+DOCTOR: Alright, Avril Benites, is it?
+PATIENT: Yes, that is correct. Benites. It is nice to meet you, Doctor… Havird, yes?
+DOCTOR: Yes, Havird is fine. Don’t bother with the formalities. So, what brings you in today?
+PATIENT: Well, the nurse told me this is a… a check-up, over the telephone? I have some… aches. Old aches, mostly. Nothing new, but they bother me more now.
+DOCTOR: Aches, right. Vague. Everyone gets aches. How long have these “old aches” been bothering you more?
+PATIENT: Oh, goodness. Let me think… maybe… three months now? It started slowly, just a little bit worse after I work on a car. I am a mechanic, you see. Always working with my hands.
+DOCTOR: A mechanic. Figures. So it's related to your work. Is it in your hands, or somewhere else?
+PATIENT: Mostly my hands and my back. My back gets very stiff. And my fingers… they are not as strong as they used to be. It makes it hard to hold the tools sometimes.
+DOCTOR: Stiffness and weakness. Alright. Any swelling or redness in your hands?
+PATIENT: No, no swelling. Not that I have noticed. And no redness. Just… sore. And stiff, like I said. They feel old, you know? Like they have worked too hard.
+DOCTOR: “Feel old.” Right. And you’ve had this for… three months, worsening slowly. Any pain shooting down your arms or legs?
+PATIENT: No, no shooting pain. It is just… a dull ache. Mostly after I have been working. It goes away when I rest, but it comes back quickly.
+DOCTOR: Alright. Let's have a look. Can you come over here and let me examine your hands and back?
+PATIENT: Yes, of course. Just tell me what you would like me to do.
+DOCTOR: Just lie down on your stomach, please. I’ll start with your back. And try to relax.
+PATIENT: Okay. It is a little difficult for me to move quickly these days.
+DOCTOR: Hmm. Tender along the lumbar spine. And some muscle spasm. Can you tell me where it hurts the most when I press here?
+PATIENT: Ooh, yes, right there. That is very tender. It feels… tight, like a knot.
+DOCTOR: Alright. And your hands... Can you make a fist for me?
+PATIENT: Like this? It is a little bit difficult. It does not bend as easily as it used to.
+DOCTOR: Hmm. Limited flexion and some discomfort. Now, open and close your hand for me, like you're grabbing something. How does that feel?
+PATIENT: It feels… stiff. And a little bit achy. It is not a sharp pain, but it is… unpleasant.
+DOCTOR: Any pain here?
+PATIENT: Yes, a little bit. That is… sensitive. Not terrible, but I feel it.
+DOCTOR: Alright. Sounds like you may have some early signs of osteoarthritis, possibly with some carpal tunnel component. It's common, especially with repetitive use like your job. We'll need some X-rays to confirm the osteoarthritis. And I'd like to do a nerve conduction study to check for carpal tunnel syndrome. Do you have any allergies to medication?
+PATIENT: Oh dear. Arthritis? I was hoping it was just old age. Allergies… let me see. No, I do not think so. Not that I know of. I take a little something for my blood pressure, but that is all. No reactions to that.
+DOCTOR: Alright. Blood pressure medication, good to know. And no known allergies. What medication are you taking for your blood pressure?
+PATIENT: Let me think… it is… Lisinopril. Yes, Lisinopril. A small, white pill. I take one every morning.
+DOCTOR: Lisinopril, 10mg, okay. Now, I’m going to write you a referral for the X-rays and the nerve conduction study. Once we have those results, we can discuss a plan. In the meantime, I suggest over-the-counter ibuprofen to help with the pain, but don’t take it every day for long periods of time. And try to avoid strenuous activity with your hands as much as possible. Does that sound alright?
+PATIENT: Yes, that sounds sensible. Ibuprofen is fine. I have some at home. And I will try to take it easier with the cars… although it is difficult, you know? It is my livelihood.
+DOCTOR: I understand. We’ll try to manage it so you can continue working. I'll also print out some information about hand exercises you can do to help strengthen your muscles, but nothing strenuous. Here's the referral for the imaging and study. The receptionist will schedule those for you. Do you have any other questions for me today?
+PATIENT: No, I do not think so. That was very helpful, Doctor Havird. Thank you for listening. I appreciate you taking the time.
+DOCTOR: Alright. Don’t hesitate to call if anything changes. The results will be sent to me, and we'll go from there. Have a good day.
+PATIENT: Thank you, you too. .
+DOCTOR: .

@@ -1,0 +1,34 @@
+DOCTOR: Alright, Mr. Redfern. Have a seat. So, what brings you in to see me today?
+PATIENT: Uh, yeah, sure. Thanks. It’s… well, it’s about not sleeping, really. And, I guess, just… feeling a bit off. Not exactly unhealthy, but not… peak, you know? My wife… she used to always say I needed to get more exercise. It's just… things haven't been the same since.
+DOCTOR: “Not peak,” alright. And how long has this been going on?
+PATIENT: Oh, gosh. That's a tough one. A while. Since… well, since she passed. It’s been… a couple of years now, I think? Time gets… blurry. It’s not like I’m counting the days or anything. It’s just… I wake up tired. And I don’t… bounce back like I used to.
+DOCTOR: A couple of years. Alright. And has this lack of sleep… is it difficulty falling asleep, staying asleep, or both?
+PATIENT: Both, I think. Definitely both. I can usually… drift off okay enough. But then I’m waking up, you know? A lot. And it's hard to get back to sleep. I toss and turn, thinking… things. Doesn't help that the house is… quiet now. Too quiet.
+DOCTOR: And when you are asleep, do you have any… vivid dreams?
+PATIENT: Dreams? Not… really? Not that I remember, anyway. Maybe I do, but I don’t wake up feeling like I've been anywhere. It's just… blank, mostly. Or… just… fragmented. Like little pieces of things, not a whole story. Honestly, I’m usually just glad to be unconscious for a few hours.
+DOCTOR: Right. Okay. And are you experiencing any other symptoms?
+PATIENT: Symptoms? Like… what kind of symptoms? I feel a bit… sluggish, I guess. And my appetite's not what it used to be. I eat when I remember to, but I don’t really crave anything. And… sometimes, I just feel… down. I mean, obviously. But it’s more than just… sadness, if that makes sense. Just… empty.
+DOCTOR: Empty. Alright. Have you noticed any weight loss recently?
+PATIENT: Probably. I haven't really weighed myself, to be honest. My wife… she always kept track of that sort of thing. I just wear the same clothes. If they feel a bit looser, I guess that means I've lost some weight. It doesn't bother me, really. Less to carry around, I suppose.
+DOCTOR: And do you have any medical conditions?
+PATIENT: Not that I know of. I used to go to the doctor for checkups when my wife was… well, when she was still around. He said I was perfectly healthy. Bit high blood pressure, maybe, but nothing to worry about. I haven't been back since. Just haven't felt the need, I guess.
+DOCTOR: Any medications you're currently taking?
+PATIENT: Nope. Nothing at all. I don't really believe in all that stuff, to be honest. Always thought it was best to let your body heal itself. My wife… she took something for her arthritis, but I never bothered with any pills.
+DOCTOR: Alright. And what about family history?
+PATIENT: Oh, family history… That’s… complicated. My dad had some heart trouble, I think. But he also smoked like a chimney and drank too much coffee. My mom… she was fine, mostly. Just… lived a long life. Nothing particularly noteworthy. Honestly, we weren’t a very… medical family. We just… dealt with things.
+DOCTOR: And what do you do for work, Mr. Redfern?
+PATIENT: Oh, right. Work. I repair musical instruments. Tuners, mostly. Pianos, guitars, violins… that sort of thing. It’s a quiet job. A bit solitary, but I like it. Always have. Keeps me busy, anyway.
+DOCTOR: Do you drink alcohol, Mr. Redfern?
+PATIENT: Sometimes. Not… regularly. Usually just a glass of wine with dinner, if I’m feeling up to it. But it’s been less and less lately. Doesn't seem to… help much, you know? Just makes me feel… more empty, if that makes any sense.
+DOCTOR: Alright. Now, let's do a quick physical exam. I'm going to listen to your heart and lungs, and take your blood pressure. And I’d like to take a look in your ears and throat. Sound good?
+PATIENT: Yeah, sure. Sounds… fine. Whatever you need to do. Just… try not to poke too much, alright?
+DOCTOR: Blood pressure's a little elevated, 140 over 90. Not alarming, but something we'll keep an eye on. Heart sounds are… regular, but a little faint. Lungs are clear. Now, open your mouth, please. Throat looks normal, no signs of infection. Ears appear clear as well. Alright. Based on what you've told me and the brief exam, it sounds like you're dealing with a combination of grief, possibly some mild depression, and some disrupted sleep. We should order some blood work to rule out any underlying medical conditions. I also recommend a complete metabolic panel and a thyroid check. Would you like that?
+PATIENT: Blood work… sounds… thorough. Look, doc, I'm not a big fan of all these tests. My wife… she was always getting tests done. And it never really solved anything. But… if you think it's necessary… alright. Go ahead and do the blood work. Just… try to keep it to a minimum, alright? I don't want to be poked and prodded all day.
+DOCTOR: Alright. We'll start with a basic panel. It's standard procedure, Mr. Redfern. And I'm also going to write you a prescription for a low-dose sleep aid. Just to help you get through the nights. It's not a long-term solution, but it might give you some relief. We can also discuss some cognitive behavioral therapy techniques for insomnia. Have you ever considered that?
+PATIENT: Therapy? No. Definitely not. I don't really… talk about my feelings, if you know what I mean. Never have. And I'm not about to start now. As for the pills… I guess that’s alright. Just as long as they don’t have a lot of side effects. I don’t need any more problems.
+DOCTOR: Alright. The sleep aid is a mild one, non-habit forming. But it's important to follow the dosage instructions carefully. And if it doesn't help after a week, we'll discuss other options. We will schedule a follow-up appointment in two weeks to review the blood work results and see how you're doing. Do you have any questions for me before we finish?
+PATIENT: Not really. I guess… how long will the blood work take? And will it cost a lot? My wife… she always handled the bills. I'm not very good with that sort of thing.
+DOCTOR: The blood work should take about an hour to process. As for the cost, it looks like Medicare covers most of it. You'll likely have a small co-pay. I'll have the receptionist give you an estimate before you leave. Does that sound alright?
+PATIENT: Yeah, that sounds… fine. A small co-pay I can probably handle. Well, alright then. I guess I'll go get poked and prodded. Thanks, doc.
+DOCTOR: Alright. The receptionist will direct you to the lab. Have a good day, Mr. Redfern. And try to get some rest. Perhaps consider exploring some support groups for grief. It might be more helpful than you think.
+PATIENT: Yeah, sure. Maybe. Support groups… honestly.

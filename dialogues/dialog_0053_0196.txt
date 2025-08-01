@@ -1,0 +1,33 @@
+DOCTOR: Alright, Mrs. Licano, have a seat. So, what brings you in to see me today?
+PATIENT: Oh, um… right. It’s this… tiredness. Just always tired. It’s been… a while now, I guess. Honestly, I don't really keep track of dates much anymore. It just… is.
+DOCTOR: “A while.” Right. Well, that’s… helpful. Let’s try to be a little more specific, shall we?
+PATIENT: Specific… Oh, dear. Well, it started… after George… passed. But it hasn't gone away, you know? I just… don't have the energy for much anymore. Even getting out of bed some days is… a lot. Is that… helpful? I’m sorry, I’m not good at explaining things.
+DOCTOR: Okay, okay. Loss can certainly disrupt things. But "tiredness" is… broad. Is this tiredness constant, or does it come and go?
+PATIENT: Constant, I think. Well, some days are… less than others. But it’s always there. Like a weight, you know? Even when I sleep… I don't feel rested. It’s just… always a bit… dull. Does that make sense?
+DOCTOR: Alright. And are you experiencing any other symptoms along with this tiredness?
+PATIENT: Other… symptoms? Oh… goodness. Let me think. Sometimes my muscles ache, a little. And… I’ve been forgetting things more and more. Small things, mostly. Like… what I had for breakfast. Or why I walked into a room. Is that… bad?
+DOCTOR: Forgetting things is… noteworthy. And the muscle aches—where specifically are you feeling those aches?
+PATIENT: Everywhere, really. My legs, mostly. And my back. It's not… sharp pain, just… heavy. Like I’ve been doing too much, even when I haven’t. Oh, and sometimes my head hurts, a dull ache, like a tight band around it. It's all just… a lot to keep track of.
+DOCTOR: Hmm. Alright. And are you experiencing any changes in your appetite or weight?
+PATIENT: Oh. Well… I haven't been eating much, to be honest. Not because I don't want to, just… don’t feel hungry. And I think I’ve lost a little weight, but… I don't weigh myself anymore. It’s just… easier that way.
+DOCTOR: Alright. Do you have any trouble sleeping besides just not feeling rested?
+PATIENT: Sometimes. I… wake up a lot during the night. Not necessarily because I'm in pain, just… restless. And then I can't get back to sleep. It’s frustrating. I used to be a sound sleeper.
+DOCTOR: Okay. Let's talk about your medical history. Have you been diagnosed with any other conditions?
+PATIENT: Oh… goodness. Well, George, my husband, he always handled all that. I… I know I have the usual things, you know? High blood pressure, maybe? The doctor put me on something for it. And… I think arthritis in my hands. But… I really don't keep track of it all. I’m on Medicare, so they handle most of it.
+DOCTOR: Alright, let me see what we have here. It says you are being treated for hypertension, and there is a note of osteoarthritis. Any surgeries in the past?
+PATIENT: Oh… dear. Um… I had my appendix out when I was young. And… George said something about a small thing on my knee, years ago, but… I don't remember much about it. It wasn't serious, he said. Mostly, I just try not to think about it.
+DOCTOR: And what about family history?
+PATIENT: Oh… goodness. Well, my mother… she had… something with her heart, I think. And my father… he just… got old, mostly. He wasn't a strong man. And George’s mother… she had diabetes, I believe. But… it was a long time ago. I don’t remember the details, I’m sorry.
+DOCTOR: Alright. Any medications you're currently taking?
+PATIENT: Oh… um… let me see. There’s… this one for my blood pressure. And… this one, the doctor said it was for my arthritis. And… oh, and this little white pill, I think it’s for my… water retention? I take them every day, but… I honestly don’t always remember why.
+DOCTOR: You're on quite a few medications, and you don’t know what they’re for?
+PATIENT: I know, I know. It's silly, isn't it? George always handled it. He kept track of everything, made sure I took the right pills at the right time. Since he’s… gone, it’s just… a lot to keep up with. I try, but… my memory isn’t what it used to be.
+DOCTOR: Alright. Well, it’s… concerning. Now, do you have any allergies to any medications or anything else?
+PATIENT: No… not that I know of. I’ve never had a reaction to anything. I used to be able to eat anything, do anything. It's all just… changed since George.
+DOCTOR: Alright. I’m going to need to do a quick physical exam. Just a basic check-up to get a better understanding of what’s going on. We’ll listen to your heart and lungs, check your reflexes, and I'll take a look at your throat and ears. Is that alright?
+PATIENT: Yes… yes, that's fine. Whatever you need to do. I just… want to feel better.
+DOCTOR: Heart sounds are… regular, but slightly diminished. Lungs are clear to auscultation, no wheezes or crackles. Throat is clear, no obvious signs of infection. Ears are also clear. Reflexes are… slightly diminished in the lower extremities. Abdomen is soft, non-tender, but… there's some mild guarding. Alright. Based on what you’ve told me and this brief exam, it sounds like we need to run some blood work to rule out some common causes of fatigue. We'll check your complete blood count, thyroid function, vitamin D levels, and a basic metabolic panel. I also want to order a urinalysis.
+PATIENT: Blood work… yes, okay. Whatever you think is best. I just… when will I know something? I have an appointment with my hairdresser next week, and I’d like to be feeling a little better by then.
+DOCTOR: The lab results usually take a couple of days. I'll have the nurse call you with the results as soon as they're available. In the meantime, try to get as much rest as possible, and stay hydrated. I'm not going to make any promises about how you’ll feel by your hairdresser appointment, but we'll get to the bottom of this. Do you have any other questions for me?
+PATIENT: Um… no, I don't think so. Not really. Just… thank you, Doctor. For listening. It’s just… nice to talk to someone about it. I think that’s all.
+DOCTOR: Alright. Well, you’re welcome. The nurse will schedule a follow-up appointment once we have the lab results. Have a good day. .

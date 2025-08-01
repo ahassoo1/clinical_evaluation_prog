@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Mr. Way. I'm Dr. Murtic. So, what brings you in today?
+PATIENT: Morning, Doctor. Well, it's my back, mostly. Been acting up something awful lately. Just… painful, you know? It’s hard to explain exactly where it hurts, it kinda comes and goes all over.
+DOCTOR: “Kinda comes and goes all over,” right. That’s… helpful. Okay. And how long has this been going on?
+PATIENT: Oh, geez… let me think. It’s been… a few weeks, I guess? Maybe a month? It started kinda slow, just a little ache after I’d been sitting for a while. Now it’s… well, like I said, painful. Hard to sleep sometimes. I don't really keep track of dates, you see.
+DOCTOR: A month, alright. And you said it’s worse after sitting?
+PATIENT: Yeah, definitely. I do a lot of… well, I used to do a lot of work at my desk. Now it's mostly just… around the house, but sitting still for any length of time just makes it worse. Standing isn't great either, to be honest, but sitting is the worst. It feels like something's pinched.
+DOCTOR: Right. And is anything specific making it worse?
+PATIENT: Hmm… specific? Not that I can think of. Lifting things, maybe? But I try not to lift heavy stuff anymore. I used to help my wife with groceries, but now she handles most of that. I don't recall doing anything different lately that would have caused it. Just… old age, I suppose.
+DOCTOR: “Old age.” Well, we all get older. Let's rule out anything more… concrete. Any numbness or tingling in your legs or feet?
+PATIENT: No, no numbness or tingling. Just the pain. It’s mostly in my lower back, but it sometimes shoots down my… well, my backside, a little. Not all the way down my legs, thankfully. It’s just… uncomfortable. Really uncomfortable.
+DOCTOR: And have you tried anything to alleviate the pain?
+PATIENT: Oh, yeah. My wife, she’s always telling me what to do. She gets me those heating pads, you know? And I take some… some pills. Over-the-counter stuff. Ibuprofen, I think? Doesn’t really do much, to be honest. Maybe takes the edge off for a little bit, but it comes back pretty quick.
+DOCTOR: Ibuprofen. Right. And how much are you taking, and how often?
+PATIENT: Oh, geez, now you’re asking me specifics… I don’t really pay attention to those things. She gives it to me, and I take it. Maybe two pills at a time? When it gets really bad. Probably… two or three times a week? Something like that. I really don’t keep track.
+DOCTOR: Okay. Well, taking ibuprofen like that can… cause problems. We'll need to address that. Let’s do a quick physical exam, alright?
+PATIENT: Alright, sounds good. Whatever you think is best, Doctor. I just want this pain to go away, you know? It’s making it hard to… well, to do anything.
+DOCTOR: Alright. If you could lie down on your stomach for me, please. I’m going to palpate your spine and assess your range of motion. Just let me know if anything causes sharp pain.
+PATIENT: Okay, sure. Here we go… just tell me if something hurts, right?
+DOCTOR: Alright. Just relax as much as you can. Okay… and how about here?
+PATIENT: Ooh, yeah, that one… that’s a little tender. Not sharp, but… definitely uncomfortable. It feels kinda… tight there, too. Like a knot.
+DOCTOR: And what about here?
+PATIENT: Oof! Yeah, that one… that's a bit more than tender. That's… definitely a sore spot. Not shooting pain, but a really dull ache. Like someone's been pressing on it for a while.
+DOCTOR: Alright. And how about if I ask you to lift your leg straight up in the air while lying flat?
+PATIENT: Okay… There… that's about as high as I can go without it hurting too much. Feels kinda tight in my hip, too. Not a sharp pain, but… definitely noticeable.
+DOCTOR: Alright. And the other leg?
+PATIENT: Okay… That one’s a little easier. Still feels a bit tight, but not nearly as bad as the other one. Maybe it’s just old age, you know?
+DOCTOR: Right. Well, I suspect it's more than "old age." It sounds like you have some muscle strain, potentially with some nerve involvement. Your range of motion is limited, and there's tenderness upon palpation. I’m going to order some X-rays to rule out anything more serious, like a fracture.
+PATIENT: X-rays, huh? Okay… that sounds… thorough. Is that gonna be expensive? I don't have insurance, you see. I just hope it’s not something too bad. I just want to be able to sleep again, you know?
+DOCTOR: We'll discuss the cost with the receptionist. For now, let’s focus on getting you some answers. We'll get the X-rays done, and then we can talk about a plan. I'm also going to prescribe a muscle relaxant to help with the pain and spasm.
+PATIENT: Muscle relaxant… okay. Is that… safe? I don't like taking a lot of pills. And will that make me… sleepy? I need to be able to help my wife around the house, you know. This is a lot to take in.
+DOCTOR: It’s a low dose. Muscle relaxants can cause some drowsiness, yes, but it shouldn’t be debilitating. We'll start with a low dose and see how you tolerate it. If it makes you too sleepy, we can adjust it. It's a temporary measure to help alleviate your pain while the muscle heals. Here's the prescription. Take it as directed. And the X-ray order. Go to the imaging center down the street. Follow-up with me in a week, and we'll review the results. Do you have any other questions?
+PATIENT: No… I think that’s it. Just… a week, huh? Okay. Thank you, Doctor. I hope it’s nothing too serious. I guess I’ll go get those X-rays done.
+DOCTOR: Alright. Get it done as soon as you can. And remember, take the medication as prescribed. Next. .

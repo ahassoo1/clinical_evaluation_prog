@@ -1,0 +1,26 @@
+DOCTOR: Right. Mrs. Paes, is it?
+PATIENT: Yes, that’s right. Nykisha Paes. It’s nice to meet you, Doctor…Dechêne, is it?
+DOCTOR: Yes, Dechêne. Look, I have a rather full schedule today, so if we could just get straight to the point, that would be appreciated. What brings you in today?
+PATIENT: Oh, okay, sure. Well, my skin… it’s been getting darker. Not like a sunburn, it’s just… overall darker than usual. And I’ve been really tired lately, even when I get enough sleep. It's just been going on for a few weeks now.
+DOCTOR: Darker skin… and fatigue. Alright. And has this darkness appeared all over, or is it localized to certain areas?
+PATIENT: It’s… pretty much everywhere, I think. Maybe a little more noticeable on my arms and face. It's hard to say for sure, but it doesn’t seem to be getting better, that’s for certain.
+DOCTOR: And any other symptoms accompanying this… darkening?
+PATIENT: Hmm… let me think. Not really. I mean, I’ve been a little more thirsty than usual, but I figured that was just from the heat. And maybe a few headaches, but nothing too bad. I haven't noticed anything else, no.
+DOCTOR: Alright. Let's take a look at your EHR. Height and weight are noted as 159cm and 60kg… Okay. Have you noticed any changes in your appetite or weight recently?
+PATIENT: Oh, no, my weight hasn’t changed, not that I’ve noticed. And my appetite is pretty normal, I guess. I eat about the same as always. I like to cook, so I usually have a good meal.
+DOCTOR: Do you have any known allergies?
+PATIENT: No, not that I know of. I've never had a bad reaction to anything, as far as I remember. I eat a lot of different kinds of food, Cambodian food especially, and I’ve never had a problem.
+DOCTOR: And are you currently taking any medications?
+PATIENT: Nope, nothing at all. I try to stay healthy, so I don’t really take any pills or anything like that. Just vitamins sometimes, but not regularly. I have Medicare, but I haven't needed to use it much.
+DOCTOR: Alright. Let's do a quick physical exam. I'm going to listen to your heart and lungs, and then I'll take a look at your skin more closely. Please sit back.
+PATIENT: Okay, that sounds good. Whatever you need. I'm ready.
+DOCTOR: Heart sounds are regular. Lungs are clear. Skin… appears slightly hyperpigmented overall, no obvious lesions or rashes. I'm noting generalized hyperpigmentation, no palpable abnormalities. Blood pressure is 130/80, pulse 72. Have you had any recent travel?
+PATIENT: Recent travel? No, not really. I haven't left the state in… oh, goodness, maybe five years? I mostly just stay around here, work at the plant, and spend time with friends. I haven't been anywhere exciting lately. Is that important?
+DOCTOR: It's… relevant. And do you have a family history of any skin conditions or… unusual pigmentation changes?
+PATIENT: Hmm… that’s a good question. My mom had some age spots, I think, but nothing like this. And my grandmother… she had pretty dark skin naturally, but I don't think she had anything changing like this. No one ever talked about anything unusual, as far as I know. It's not something we really discussed much in my family.
+DOCTOR: Okay. Based on your symptoms, and the limited information available, it’s difficult to say definitively. The fatigue and hyperpigmentation could be indicative of several things. We’ll need to run some blood tests to rule out any underlying medical conditions. I’m ordering a complete blood count, a comprehensive metabolic panel, and a thyroid stimulating hormone test. Also, I'm going to order a Vitamin D level. We'll need to schedule a follow-up appointment to discuss the results. Does that sound acceptable?
+PATIENT: That sounds… good, I guess. Whatever you think is best, Doctor. Blood tests are fine. When would I be able to schedule that follow-up? And will I need to fast for any of these tests? I hope it's nothing too serious.
+DOCTOR: The lab can get you in tomorrow morning, 8 AM. You will need to fast for 12 hours prior to the blood draw. No food or drinks, except water. We’ll call you with the results as soon as they are available, usually within a week. I’m not going to speculate on the cause at this point; it’s too early. Here’s a requisition form for the lab. Do you have any other questions before we finish?
+PATIENT: Okay, 8 AM tomorrow, fasting. Got it. No, I don’t think so. Thank you, Doctor Dechêne. I appreciate you looking into this for me. Hopefully, it's just a vitamin deficiency or something simple. I guess I’ll see you when the results come back.
+DOCTOR: Alright. Thank you. The results will be sent to my office, and we will contact you. Have a good day. .
+PATIENT: Alright, you too, Doctor. Thank you again. .

@@ -1,0 +1,19 @@
+DOCTOR: Good morning, Mr. Ruocco. I’m Dr. Vanochten. It's nice to meet you. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Uh... pain. Yeah, pain when I breathe deep. It’s... hard to explain. It just hurts when I take a big breath. I don't remember exactly when it started, to be honest. A while now, I think.
+DOCTOR: Okay, pain when you breathe deep. I understand. And you said it’s been going on for a while… can you try to be a little more specific?
+PATIENT: Specific… You know, like... not yesterday, not last week. Maybe a month? Longer? It comes and goes. Not every breath, just… sometimes. Is that helpful? I get old, things get fuzzy.
+DOCTOR: That is helpful, thank you. Comes and goes over about a month or so. Alright. Is the pain sharp, dull, aching… anything else you can tell me about how it feels?
+PATIENT: Feels… It's more like… a tightness, I guess. Not a real sharp pain, more like a squeezing. And it's in the middle of my chest, right here. Does that make sense? It's not… horrible, but it makes me not want to do too much. Like lifting things.
+DOCTOR: Okay, a squeezing tightness in the middle of your chest that comes and goes. And it limits what you're able to do. Have you noticed anything that makes it worse?
+PATIENT: Worse… Lifting things, yeah, like I said. And… sometimes when I walk up the stairs. It gets harder to breathe, and the tightness comes back. Not always, but usually. Is that what you’re asking? I don’t know… things just feel harder lately.
+DOCTOR: Alright, so lifting and climbing stairs seem to trigger it. Any other symptoms?
+PATIENT: Symptoms… Let me think... I get a little… short of breath sometimes, even without the pain. Just when I’m walking, you know? Not a bad cough, just… winded easier. And… sometimes my feet swell up a little at the end of the day. Is that… a symptom? I don’t know medical stuff.
+DOCTOR: Okay, shortness of breath even without the pain and some swelling in your feet. Good to know. Now, let's go over some general health questions. Do you have any past medical conditions – anything you’ve been diagnosed with before?
+PATIENT: Past… Oh dear. I… I think I had high blood pressure, a long time ago. The doctor put me on pills for it, but I stopped taking them after a while. It felt like too many pills, you know? And… maybe some arthritis in my knees. It’s hard to remember. Things were a long time ago. I don't really go to the doctor much.
+DOCTOR: Okay, high blood pressure in the past, and some arthritis in your knees. And you stopped taking the blood pressure medication. Do you remember what the name of that medication was?
+PATIENT: No, no I don't. I really don't remember. It was a little white pill, I think. Lots of pills look alike, you know? I just…stopped taking it. Felt okay for a while after that. Don't worry about the name. It was a long time ago. Is that okay?
+DOCTOR: Alright, no worries about the name. We can look that up later if it becomes important. Now, have you ever had any surgeries?
+PATIENT: Surgeries… Let me see... I think I had my appendix out when I was a young man. A long, long time ago. And… maybe something on my knee? But it was so long ago, I barely remember. Just a little surgery, nothing big. I don’t think so. Mostly just the appendix.
+DOCTOR: Okay, appendix removed. Anything else?
+PATIENT: No, I don't think so. Nope. I’ve lived a long life, thankfully, haven’t had to have too many things done. I’m just tired of this pain, you know? It’s just… annoying. .
+DOCTOR: Alright. Now, are there any medical conditions that run in your family?

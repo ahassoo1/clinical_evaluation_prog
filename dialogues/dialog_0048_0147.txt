@@ -1,0 +1,25 @@
+DOCTOR: Alright, Mr. Raghunathan, good to see you… or, well, to have you here. I’m Dr. Sink. So, what brings you in today?
+PATIENT: Good afternoon, Dr. Sink. It's a pleasure to meet you as well. I’ve been… well, I’ve noticed a lump in my lower abdomen, and it’s been bothering me a bit. That's why I scheduled the appointment.
+DOCTOR: A lump, you say. Right. And how long have you been aware of this lump?
+PATIENT: Hmm, let me think… it’s been maybe three or four weeks now? It wasn’t very noticeable at first, just felt a little… different. But it's definitely grown over the last week or so.
+DOCTOR: Three to four weeks. Okay. And is it… painful?
+PATIENT: Not constantly, no. It’s more of a dull ache, really. And sometimes it feels… heavy? It’s hard to describe. It doesn’t hurt badly, just… uncomfortable. Mostly when I move around a lot, I think.
+DOCTOR: Heavy, you say. Alright. And has anything changed recently?
+PATIENT: Changed… well, not really. My wife and I have been keeping to our usual routine. I've been doing my choreography, same as always. No new foods, no travel… nothing immediately springs to mind, no. Is there something specific I should be thinking about?
+DOCTOR: Choreography… right. Any recent injuries?
+PATIENT: No, thankfully not. I try to be careful, but it's… well, it's physical work, you know? Small strains sometimes, but nothing that would explain something like this, I wouldn't think. I always stretch properly and listen to my body.
+DOCTOR: Alright. Let's have a look then, shall we?
+PATIENT: Yes, of course. Whatever you think is best, Doctor. I'm ready when you are.
+DOCTOR: If you could just lie down on the table, please. I'll need to palpate your abdomen. Shirt up, if you would.
+PATIENT: Certainly. Here we go. Is there anything specific I should be doing? Relaxing my muscles, perhaps?
+DOCTOR: Just try to relax. Deep breaths. I’m going to feel around, so let me know if anything feels particularly tender. Now, tell me if this is uncomfortable… or if this is worse.
+PATIENT: Ooh, yes… that’s a bit tender, actually. Right there, on the left side, a little below my belly button. Not terribly painful, but… definitely noticeable. Does that tell you anything?
+DOCTOR: Hmm. It’s… somewhat firm. And does it feel… fixed, or does it move around when you press on it?
+PATIENT: That's a good question. It feels… fairly fixed, yes. It doesn’t really seem to shift much when I press. It’s definitely not soft and squishy, if that makes sense. It feels… solid.
+DOCTOR: Solid, fixed… Right. We'll need to rule a few things out. I'm going to order a complete blood count and a CT scan of your abdomen and pelvis. Just to be thorough, you understand. The lab results should be back in a couple of days, and we can schedule the CT scan for early next week.
+PATIENT: Yes, that makes perfect sense, Doctor. Thank you for being so thorough. A blood test and a scan sound… sensible. Early next week is fine for the scan. Should I schedule that directly with the radiology department, or through your office? And… is there anything I should be doing or avoiding in the meantime?
+DOCTOR: My office will handle the scan scheduling. I’ll have the nurse send over the paperwork. As for now… don’t strain yourself. Avoid any heavy lifting. And… if you notice any fever, nausea, or significant pain, go to the emergency room immediately. Do you understand?
+PATIENT: Yes, I understand perfectly. No heavy lifting, and watch for fever, nausea, or worsening pain. I’ll head to the ER if that happens. Thank you, Dr. Sink. Is there anything else I should be aware of before I leave? Paperwork from the nurse sounds good.
+DOCTOR: The nurse will be in shortly with the lab requisition and scan orders. Try not to worry unnecessarily. It’s likely nothing serious, but we need to rule things out. Next patient is waiting. Have a good day.
+PATIENT: Thank you, Doctor. I appreciate your time and attention. I will wait for the nurse. Have a good day as well.
+DOCTOR: .

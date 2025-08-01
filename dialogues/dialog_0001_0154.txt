@@ -1,0 +1,22 @@
+DOCTOR: Alright, Ms. Wease, have a seat. So, what brings you in today?
+PATIENT: Oh, hello Doctor... Pehrson, is it? Yes. Well, it’s… it’s my waterworks, I suppose. They’ve been bothering me again. It feels… uncomfortable. I don't really know what else to tell you. It happens now and then, you see.
+DOCTOR: "Waterworks," right. And how long has this been going on again?
+PATIENT: Oh dear… a long time, I think. Years, probably. On and off. It’s hard to say exactly. I had it bad a while back, and then it would go away. Now it’s back. I… I don’t keep good track of these things, you understand. It just… happens. Does that make sense?
+DOCTOR: Years, on and off. Okay. And when you say "uncomfortable," can you be a little more specific?
+PATIENT: Specific… oh, goodness. Well, it… burns, sometimes. When I go to the bathroom. And I feel like I have to go all the time, even when I just have. It’s… irritating, really. And a little painful. Not terrible pain, but… noticeable. I hope that is specific enough, Doctor.
+DOCTOR: Burning with urination, frequent urge… Alright. Any fever, chills, or pain in your back or side?
+PATIENT: Fever… I don’t think so. No chills that I recall. My back… sometimes it aches, but I’m an older woman, Doctor. Everything aches! I can't really say if it’s different aching, or not. I just... try to ignore it.
+DOCTOR: Okay. And have you noticed any blood in your urine?
+PATIENT: Blood…? Oh. Oh dear. I… I don’t think so. Not that I’ve seen. It’s sometimes a little… cloudy, perhaps? But not blood, no. I would remember blood, wouldn’t I?
+DOCTOR: Cloudy urine… Right. Do you have any medical conditions, like diabetes or high blood pressure?
+PATIENT: Oh, goodness. Let me think… My… my late husband, he had the pressure problem. I don’t think I do. The doctor… years ago, he told me my sugars were a little high once, but he didn’t say anything about needing medicine or anything. I don’t really… go to the doctor much anymore.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: Medications… No, not that I know of. I don't take many. Just a little something for my joints, sometimes. Ibuprofen, I think it is. But I haven't had any trouble with it.
+DOCTOR: Okay. Let’s just do a quick exam, just to be sure. Can you step onto the scale for me?
+PATIENT: Oh, yes, of course. I haven't weighed myself in ages, you know. I try not to pay it much mind.
+DOCTOR: 119 pounds. Alright. Now, I’m going to listen to your abdomen and do a brief pelvic exam. It won’t be comfortable, but it’ll be quick. Let me know if anything is particularly painful. You’ll need to change into this gown, please.
+PATIENT: Oh… a pelvic exam? Oh dear. I… I haven’t had one of those in a very long time. Is it really necessary, Doctor? I just… I don’t like those very much. But… if you think it’s best. Very well.
+DOCTOR: It's standard procedure, Ms. Wease. Just to rule things out. The room is right down the hall. I'll be in to examine you in a few minutes.
+PATIENT: Oh. Very well, then. I suppose I should change. It’s just… I don’t care for all this poking and prodding, you understand.
+DOCTOR: .
+PATIENT: .

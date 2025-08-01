@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Pipolo. Welcome. I'm Dr. Renzi. It’s nice to meet you. So, tell me, what brings you in to see me today?
+PATIENT: Morning. Just…my eyes. They feel real dry. Been that way a bit now. Don’t like it.
+DOCTOR: Okay, dry eyes. I understand. That is uncomfortable. Hmm… and how long has this been going on, roughly?
+PATIENT: Oh, geez. A while. Maybe… six months? Hard to say exactly. Time kinda slips away when you get old, ya know?
+DOCTOR: Yes, I certainly understand that. Six months… alright. And would you describe it as a constant dryness, or does it come and go?
+PATIENT: Comes and goes. Worse when it’s windy. We get a lot of wind here, you know? Living by the water and all. Makes 'em burn somethin' awful.
+DOCTOR: Right, the wind… that makes sense. Okay, burning sensation. Do you notice any other symptoms with the dryness?
+PATIENT: Well… sometimes they feel gritty. Like there’s somethin' in 'em. And blurry sometimes. Not all the time, but when they're real dry.
+DOCTOR: Gritty and blurry, okay. That helps. Have you tried anything at all to help with the dryness?
+PATIENT: Just… blinkin’ a lot. Doesn’t do much good, though. I used to work with cement, you know? Maybe that did somethin’ to ‘em over the years.
+DOCTOR: Cement work… yes, that could be a factor. Alright. Let's do a quick exam, if you don't mind. I'll just take a look at your eyes and check a few things. Is that alright with you?
+PATIENT: Sure. Whatever you need to do. Just wanna get it fixed, if that’s possible.
+DOCTOR: Wonderful. If you could just sit here and look straight ahead, that’d be great. Alright… pupils are equal and reactive to light. There’s a little redness in both eyes, but nothing too concerning. Your eyelids seem normal. Hmm… do you feel like there's anything on your eyes, like a foreign object?
+PATIENT: No, not really. Just…dry. Like the desert in 'em sometimes. I don't see anything, but it feels like somethin’ is there.
+DOCTOR: Okay, a sensation of dryness, like a foreign body… alright. Now, can you read the letters on this chart for me?
+PATIENT: Uh… let’s see. The top one…E… and… F… P… blurry though. Real blurry. Gotta squint to see ‘em.
+DOCTOR: Okay, blurry vision, especially at a distance. That gives us some more information. It sounds like you have some dry eye, and it’s likely contributing to the blurry vision. Given your history of working with cement, it’s possible there’s some irritation or mild damage to the surface of your eyes as well. Now, I want to be thorough. Do you have any other medical conditions?
+PATIENT: Not really. Just gettin’ old, I guess! No diabetes or nothin’. Never been a sick man.
+DOCTOR: Well, that's good to hear! Getting older is a condition we all share eventually. Alright. It sounds like a classic case of dry eye, possibly exacerbated by your past work. We can try a few things to manage it. Have you ever tried artificial tears?
+PATIENT: Artificial… what now? Never heard of ‘em. We just blinked a lot when we worked. That’s what my pa did.
+DOCTOR: Artificial tears are just eye drops that help lubricate your eyes. They’re over-the-counter, so you can get them at any pharmacy. They’re like… giving your eyes a little extra moisture. We can start with those, and see if they help. I'd recommend using them several times a day, even when your eyes don't feel dry, to keep them lubricated. Do you think you'd be willing to try that?
+PATIENT: Eye drops… yeah, I guess I can try that. Sounds easy enough. Where do I get 'em?
+DOCTOR: Wonderful. Any pharmacy should have them - Walgreens, CVS, even the grocery store usually carries them. Look for ones that are preservative-free, if possible; they tend to be gentler on the eyes. I’m going to write you a little note explaining what to look for, and how often to use them. If the drops don't provide enough relief after a week or so, we can discuss other options, like a prescription eye ointment or a referral to an ophthalmologist. How does that sound?
+PATIENT: Sounds alright. A week… okay. I can try it for a week. Thanks, Doc. I appreciate it.
+DOCTOR: You're very welcome, Mr. Pipolo. Here's that note. Just remember to use them regularly, and if things don’t improve, or if you experience any new symptoms like pain or vision changes, please don't hesitate to call the office. Do you have any other questions for me today?
+PATIENT: No, I think that’s all. Just wanna be able to see again. Thanks again, Doc. I’ll give the drops a try.
+DOCTOR: You're very welcome, Mr. Pipolo. I hope they help! It was a pleasure meeting you. Have a good day, and take care. .

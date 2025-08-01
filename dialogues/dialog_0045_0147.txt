@@ -1,0 +1,28 @@
+DOCTOR: Alright, Amy, good to see you. So, what brings you in today?
+PATIENT: Good morning, Doctor Billman. Well, for the past few weeks, I’ve been noticing a lump… a mass, I guess you’d call it, in my lower abdomen. It’s a bit concerning, and my wife suggested I come get it checked out.
+DOCTOR: Okay, a lump in your lower abdomen… and it's been there for a few weeks now, you said?
+PATIENT: Yes, that’s right. Maybe around three, four weeks now. It hasn't gotten dramatically bigger, but it definitely hasn’t gone away on its own, either. It’s just… there. It doesn't really hurt, unless I press on it pretty hard.
+DOCTOR: Hm. Not painful unless you apply pressure, okay. And you haven't noticed any other changes – no fever, no weight loss, no changes in your bowel habits, nothing like that?
+PATIENT: No, thankfully. No fever, no weight loss... and my bowel habits have been regular, if you know what I mean. No blood or anything like that either. Just the lump. It's… unsettling, to be honest, not knowing what it is.
+DOCTOR: Right, unsettling is a good word for it. Well, we’ll try to figure it out. Have you ever had anything like this happen before, or any other medical problems in that area?
+PATIENT: No, sir. Nothing like this before. I've always been pretty healthy, actually. Just the usual colds and flus. No surgeries or anything… my wife keeps telling me I’m too stubborn to go to the doctor unless something’s really wrong. She was right this time, I suppose.
+DOCTOR: Well, it’s good you finally came in. Most people wait too long. Alright, let’s get a quick rundown of your family history. Any cancers, particularly colon or abdominal cancers, on either side of the family?
+PATIENT: That’s a good question… let me think. On my mother’s side, my grandmother had stomach cancer, but that was a long time ago, when I was a child. I don’t recall anyone else with colon or abdominal cancer, specifically. My father’s side… hmm. He had a sister, my aunt, who had breast cancer, but again, that was years ago. I’m not sure if that's relevant though, is it? I don’t know much about my family’s medical history, to be honest.
+DOCTOR: Not knowing your family history… that's typical. It makes things more difficult, naturally. Alright, and what about allergies?
+PATIENT: No known allergies, Doctor. I can eat anything – I enjoy a good meal, actually! No reactions to medications that I’m aware of. I’ve never had a bad reaction to anything, thankfully. Is that helpful?
+DOCTOR: Useful enough. Now, are you currently taking any medications, even over-the-counter stuff?
+PATIENT: No, sir. Nothing at all. I try to stay away from medication if I can help it. Just… occasional pain relievers for a headache, but that’s it. And those are very infrequent. Does that include vitamins? I take a multivitamin sometimes, but not regularly.
+DOCTOR: Alright. Let's have a look at this lump then. If you don’t mind, could you lie down on the examination table?
+PATIENT: Certainly, Doctor. Here we go… just let me know if you need me to adjust anything.
+DOCTOR: Alright, lie flat and try to relax. I'm going to palpate your abdomen. Tell me if anything feels particularly tender or painful.
+PATIENT: Okay, here I am. Just let me know if you need me to do anything… and I will try my best to relax. Go ahead, Doctor.
+DOCTOR: Alright… a little firm, located about… here. Not a great deal of tenderness on light pressure… but it's definitely present. It doesn't seem to be freely movable, which is... noteworthy. Size, I'd estimate around 3 centimeters. Any pain with this?
+PATIENT: Um… yes, a little bit now, with the pressure. Not sharp, just… uncomfortable. It’s a dull ache, really. Like a bruise, almost. Is that normal? I’m probably just being sensitive.
+DOCTOR: Dull ache with pressure, okay. And no rebound tenderness, thankfully. Bowel sounds are present, normal. Alright. It's too early to say what this is, of course. We’ll need some imaging – a CT scan, most likely – to get a better look. And possibly some blood work. Does that sound alright?
+PATIENT: Yes, that sounds… sensible, Doctor. A CT scan and blood work. Whatever you think is best. I trust your judgment. I just… I just want to know what we’re dealing with, you know? Is it… is it anything serious? I'm sure it's nothing, but my wife is quite worried.
+DOCTOR: Look, I understand your anxiety, but speculating before we have results isn’t helpful. It could be benign – a lipoma, perhaps. It could be something more. We need to rule things out. The CT scan will give us a much clearer picture. I'll order those now, and the lab tech will draw some blood. Then we'll schedule a follow-up appointment to discuss the results. Does that sound acceptable?
+PATIENT: Yes, that sounds… perfectly acceptable, Doctor. Rule things out, get the results, discuss them. I appreciate your straightforwardness, even if it’s not what I want to hear. I just want to get this sorted out. And yes, please let me know if you need any further information from me. Thank you.
+DOCTOR: Alright. I'll have the nurse come in and get your blood drawn. And I’ll get the CT scan order sent to the radiology department. They'll contact you to schedule it. Come back in a week, and we'll go over everything. Is there anything else?
+PATIENT: No, Doctor. I think that’s everything, thank you. A week, I understand. Thank you for your time, and for being… direct. I’ll see you then.
+DOCTOR: Alright. See you then. .
+PATIENT: .

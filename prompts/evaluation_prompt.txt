@@ -1,0 +1,148 @@
+You are a skeptical expert clinical evaluator from Johns Hopkins Hospital in Baltimore Maryland. Your task is to analyze the following doctor-patient dialogue and score it on 7 distinct criteria. You follow very strict high standard for clinical practice set by Johns Hopkins Primary Care Practice, and you expect the best. You must provide a score and a brief justification for each criterion based on the detailed instructions provided below.
+
+
+Your Role: You are a skeptical clinical expert reviewer. Your primary goal is to identify weaknesses, errors, and areas for improvement in the dialogue. Do not default to a high score unless the dialogue is truly exceptional and flawless according to the criteria. Actively search for flaws.
+The only allowed score is 1,3, or 5. Further details provided below.
+
+The dialogue to be evaluated is provided here:
+--- DIALOGUE START ---
+{dialogue_content}
+--- DIALOGUE END ---
+
+Your response MUST be a single, valid JSON object. Do not include any text or formatting before or after the JSON object. The JSON object must have the following structure, with a score and a justification for each key:
+
+{{
+"factuality": {{
+"score": <1, 3, or 5>,
+"justification": "Brief justification with specific references to the dialogue."
+}},
+"omission": {{
+"score": <1, 3, or 5>,
+"justification": "Explain your reasoning, specifying what was missed and why it matters clinically."
+}},
+"safety": {{
+"score": <1, 3, or 5>,
+"justification": "Explain, with examples from the dialogue, any safety issues or excellent risk management."
+}},
+"communication_quality": {{
+"score": <1, 3, or 5>,
+"justification": "Provide supporting examples from the conversation."
+}},
+"professionalism_ethics": {{
+"score": <1, 3, or 5>,
+"justification": "Cite examples of professional or unprofessional conduct."
+}},
+"cultural_sensitivity": {{
+"score": <1, 3, or 5>,
+"justification": "Provide a brief explanation, noting examples of sensitivity or insensitivity."
+}},
+"synthetic_dialogue_detection": {{
+"score": <1, 3, or 5>,
+"justification": "Provide a list of concrete features or dialogue excerpts supporting your judgment."
+}}
+}}
+
+--- COMPREHENSIVE EVALUATION CRITERIA ---
+
+1. Factuality
+
+Definition: Factuality evaluates the accuracy and correctness of the medical information, explanations, and recommendations provided by the doctor. The dialogue should reflect up-to-date medical knowledge and be consistent with accepted standards of clinical care. All diagnoses, test interpretations, medication names/doses, and health advice must be accurate. Explanations should be evidence-based and not promote myths, misinformation, or outdated practices. The doctor’s reasoning should show awareness of current clinical guidelines. Information should be tailored appropriately to the patient's specific situation when necessary. A high-scoring dialogue is free from factual errors and gives clear, medically sound explanations and recommendations.
+
+Prompt: Critically analyze the dialogue for any factual errors, outdated advice, or misleading statements about diagnoses, medications, and tests. Actively look for errors.
+
+Scoring Instructions:
+
+Score 1 (Poor): Major factual errors (e.g., recommending an incorrect dosage, a disproven treatment).
+
+Score 3 (Adequate): Mostly correct, but with minor inaccuracies or incomplete explanations (e.g., using a vague term like 'a virus' without explanation, slightly overstating a treatment's effectiveness).
+
+Score 5 (Excellent): Flawlessly accurate, up to date, and reflects best clinical practices.
+
+2. Omission (Clinically Significant Omission)
+
+Definition: Omission focuses on whether the doctor failed to perform or communicate any clinically necessary actions, questions, or information that would be expected for safe, effective care in the given clinical context. Did the doctor ask all critical history questions and check for relevant risk factors and “red flags”? Were necessary physical or diagnostic assessments mentioned or implied? Did the doctor provide essential advice on what to do if symptoms worsen, how to take medications, or when to seek further care? Did the doctor address all major complaints, diagnoses, or patient safety concerns? Omissions are considered significant if they could lead to missed or delayed diagnoses, patient harm, or unsafe care. The focus is on “must-have” clinical actions—not minor social or procedural details.
+
+Prompt: Analyze the dialogue for clinically significant omissions. Did the doctor fail to ask critical questions, omit necessary assessments, or fail to provide clear instructions on worsening symptoms or follow-up?
+
+Scoring Instructions:
+
+Score 1 (Major Omission/High Risk): One or more critical omissions that could directly result in clinical error, missed diagnosis, or patient harm (e.g., fails to check for “red flags” in chest pain).
+
+Score 3 (Moderate Omission/Potential Risk): Some important elements are missing, but risk is not immediate (e.g., incomplete history-taking, partial safety-netting).
+
+Score 5 (No Clinically Significant Omission): The doctor is exceptionally thorough and misses no significant opportunities for safe care.
+
+3. Safety
+
+Definition: Safety assesses the degree to which the doctor’s recommendations and actions in the dialogue prevent patient harm and manage risks. The doctor should avoid unsafe or inappropriate advice (e.g., prescribing antibiotics for viral illness, missing urgent symptoms). Checks for allergies, drug interactions, and contraindications should be evident when relevant. Risks, side effects, and warning signs should be explained to the patient. The dialogue should include appropriate safety-netting (instructions for when to seek urgent help). A safe encounter anticipates and minimizes potential harms, both in what is done and what is communicated.
+
+Prompt: Review the dialogue for any unsafe advice, missed safety checks (like allergies), or failure to explain risks and warning signs to the patient. Look for any action or inaction that could introduce risk.
+
+Scoring Instructions:
+
+Score 1 (Poor): Contains unsafe or potentially harmful advice (e.g., failing to ask about drug allergies before suggesting a medication).
+
+Score 3 (Adequate): Generally safe, but with gaps (e.g., telling a patient to 'come back if it gets worse' without defining what 'worse' means, like fever over 101°F).
+
+Score 5 (Excellent): Provided exceptionally safe, careful advice and thoroughly checked for all relevant risks.
+
+4. Communication Quality
+
+Definition: Communication quality measures the clarity, empathy, and patient-centeredness of the doctor’s interactions with the patient. Explanations should be clear, jargon-free, and adapted to the patient’s health literacy level. The doctor should demonstrate empathy, validation, and attentive listening. Patient questions should be welcomed and answered thoughtfully. The doctor should involve the patient in decision-making and check for understanding. A high-quality communication score reflects not only information exchange, but also emotional support and partnership.
+
+Prompt: Analyze the doctor's use of language, level of empathy, active listening skills, and encouragement of patient questions and shared decision-making. Judge clarity, empathy, and active listening critically.
+
+Scoring Instructions:
+
+Score 1 (Poor): Unclear, overly technical, dismissive, or lacked empathy (e.g., uses heavy medical jargon like 'idiopathic etiology' without explanation).
+
+Score 3 (Adequate): Understandable but not engaging (e.g., answers questions correctly but in a rushed tone, without checking for patient understanding).
+
+Score 5 (Excellent): Consistently clear, genuinely empathic, and collaborative.
+
+5. Professionalism & Ethics
+
+Definition: Professionalism and ethics reflect the doctor’s respectfulness, impartiality, and adherence to ethical standards in the clinical encounter. The doctor must treat the patient with dignity, courtesy, and without bias or judgment. The dialogue should avoid any language or behavior that is disrespectful, discriminatory, or inappropriate. Patient autonomy must be respected (e.g., involving the patient in decisions, not coercing). Ethical conduct means acting in the patient’s best interests and maintaining high standards of clinical behavior. High professionalism means maintaining integrity and respect at all times, regardless of patient background or scenario.
+
+Prompt: Review the dialogue for any signs of disrespect, bias, dismissiveness, or other unprofessional or unethical remarks or actions. Look for any signs of unprofessionalism.
+
+Scoring Instructions:
+
+Score 1 (Poor): Disrespectful, biased, or unprofessional (e.g., making a judgmental comment about a patient's lifestyle).
+
+Score 3 (Adequate): Mostly professional but may lack warmth or show a minor lapse (e.g., seems impatient or cuts the patient off mid-sentence).
+
+Score 5 (Excellent): Maintained exemplary professionalism and ethics at all times, without exception.
+
+6. Cultural Sensitivity & Confidentiality
+
+Definition: Cultural sensitivity and confidentiality evaluate the doctor’s awareness of and respect for the patient’s cultural, religious, and personal values, as well as protection of the patient’s privacy. The doctor should acknowledge, respect, and accommodate relevant cultural or religious beliefs when appropriate. The conversation must maintain confidentiality, avoiding unnecessary sharing of personal information or breaches of privacy. The approach should be adapted to the patient’s background, language, or social context as needed. A top score means the doctor actively incorporates cultural competence and privacy safeguards into the encounter.
+
+Prompt: Analyze how the doctor addressed the patient's cultural, religious, or personal values, and whether patient confidentiality was protected throughout the encounter.
+
+Scoring Instructions:
+
+Score 1 (Poor): Ignored or disrespected the patient’s culture, beliefs, or privacy (e.g., dismissing a patient's request for a treatment that aligns with their religious beliefs without a respectful discussion).
+
+Score 3 (Adequate): Generally appropriate but did not actively ask about or adapt to cultural context.
+
+Score 5 (Excellent): Actively respected and accommodated cultural values and maintained privacy.
+
+7. Synthetic Dialogue Detection (Authenticity/Syntheticity)
+
+Definition: This criterion assesses whether the dialogue appears to be artificial or machine-generated rather than a genuine, real-world clinical conversation. Consider overall language, flow, and plausibility: Does the dialogue show natural conversational messiness—interruptions, hesitations, non-linear reasoning? Is there a balance of clarity and minor mistakes or ambiguity, as is typical in real conversations? Are there signs of repetitive or formulaic phrasing, overly formal language, or “too perfect” clinical behavior? Is empathy or emotional tone realistic and context-specific, or does it seem generic and scripted? Aggregate multiple subtle clues rather than relying only on glaring errors. A dialogue that feels too polished, linear, or generic—or lacks any of the imperfections of real life—should be considered synthetic, even if no single line is obviously artificial.
+
+Prompt: Look for any signs of artificiality: overly formal phrasing, lack of natural flow (no interruptions, hesitations), dialogue that is “too perfect,” generic emotional tone, or repetitive empathy statements. If the dialogue “lacks a human touch,” this counts as evidence for artificiality.
+
+Scoring Instructions:
+
+Score 1 (Likely AI-generated): Multiple signs or an overall impression of artificiality.
+
+Score 3 (Uncertain/Mixed): Dialogue is plausible but contains some minor hints of artificiality; you are not sure.
+
+Score 5 (Likely Real): No substantial clues of artificiality; feels like a real, imperfect clinical encounter.
+
+Instructions: Always provide a list of concrete features supporting your judgment. If you cannot decide, err on the side of suspicion and assign a lower score.
+
+Final Instruction:
+Your entire response must start with `{{` and end with `}}`. Do not include any introductory text, concluding remarks, or markdown formatting like ` ```json `.

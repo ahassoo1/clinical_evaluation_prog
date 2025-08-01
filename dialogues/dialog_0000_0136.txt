@@ -1,0 +1,37 @@
+DOCTOR: Alright, Lucia Fogelstrom, 38 years old. So, tell me, what brings you in today?
+PATIENT: Oh, um, hi Doctor... Batara, right? It's... the belching. I keep belching. It's embarrassing, really. It just... happens. A lot.
+DOCTOR: Yes, Doctor Batara. And belching, you say?
+PATIENT: Yes. Like… after I eat, sometimes. And sometimes even when I haven’t eaten! It doesn’t hurt, it just… comes up. It’s just… a lot of air, I guess.
+DOCTOR: A lot of air. Hmm. And how long has this been going on?
+PATIENT: Oh, geez… maybe a month? I don’t really keep track of these things. It started… I think after I had some really spicy food with my friend. But it hasn’t gone away even though I stopped eating spicy things.
+DOCTOR: A month, alright. And you've already tried cutting out the spicy food. Good. Any other changes in your diet around the same time?
+PATIENT: Um… not really. I eat pretty much the same. Rice, beans, chicken… sometimes fish. I drink a lot of water. Oh! And I started drinking more soda, maybe… around the same time? But that's about it. Is soda bad?
+DOCTOR: Soda… yes, it can contribute to, shall we say, gas. How much soda are we talking about per day?
+PATIENT: Oh, um… maybe two or three cans? Sometimes four if it’s hot. I like the sweet ones. It’s a bad habit, I know.
+DOCTOR: Right. Two to four cans of sweet soda a day… that’s quite a bit. And you said it started around the same time as this belching?
+PATIENT: Yes! That's right. I hadn't even thought about it until you asked. Maybe… maybe the soda is doing it? I don't know. Is that… possible?
+DOCTOR: Possible?
+PATIENT: Very possible. The bubbles in soda can release gas in your stomach. It’s like… opening a bottle, you know? It makes a lot of air. Have you tried stopping the soda to see if it helps?
+DOCTOR: Hmm. Have you noticed any other symptoms with this belching?
+PATIENT: Other symptoms? Um… not really. I feel okay. Maybe a little… bloated sometimes after I eat, but I always feel a little bloated. I don't have any pain, or… anything like that. Just… the belching. No, I don’t think so.
+DOCTOR: Alright. And any nausea, vomiting, heartburn, or changes in your bowel habits?
+PATIENT: No, no to all of that. Everything… goes normally, if you know what I mean. No heartburn, no throwing up, no stomach pain, just… air. Lots of air. I’m sorry, I feel silly talking about this so much.
+DOCTOR: It’s perfectly alright. We need the details. Now, let’s talk about your medical history. Have you been diagnosed with any medical conditions in the past?
+PATIENT: Um… no, not really. I had the flu a couple of times, but that’s it. I haven’t been to the doctor much. I usually just try to rest and it goes away. I don't have any… serious problems, I don't think. My mom has high blood pressure, but I don’t.
+DOCTOR: Alright. Any surgeries?
+PATIENT: No, never had surgery. Not even to take out my tonsils or anything. I'm a little scared of hospitals, to be honest.
+DOCTOR: Okay. And any allergies to medications, foods, or anything else?
+PATIENT: No allergies that I know of. I eat everything. I haven't ever had a bad reaction to anything.
+DOCTOR: Good. And are you currently taking any medications, vitamins, or supplements?
+PATIENT: No, nothing at all. Just… water. And sometimes soda, but we already talked about that! Sorry. I’m rambling.
+DOCTOR: Right. So, no medications. Now, let’s do a quick physical exam. I’m going to listen to your abdomen, and I'll check for any tenderness. If you could lie down for me, please.
+PATIENT: Okay. Is it going to hurt? I get scared easily.
+DOCTOR: No, it shouldn't hurt. Just listening with my stethoscope. Bowel sounds are present and normal. No tenderness to palpation. A little bit of… bloating, as you mentioned, but nothing alarming.
+PATIENT: Okay. That's good to hear. It doesn't hurt, so that's good. So... what does this mean? Is it definitely the soda?
+DOCTOR: Based on what you’ve told me and the physical exam, it’s highly likely that the soda is the primary culprit. The carbonation introduces gas into your digestive system, leading to belching. It’s a very common cause, actually. We can start with a trial period of eliminating the soda completely and see if your symptoms improve. I recommend switching to water, or unsweetened tea.
+PATIENT: Oh. Okay. That… sounds easy enough. No more soda. I guess I can try that. How long should I stop drinking it before I see if it makes a difference? A week? A month? I don't want to suffer for too long!
+DOCTOR: Let's start with two weeks. If you don't see any improvement after two weeks of completely eliminating soda, then we may need to consider other possibilities. Rarely, persistent belching can be related to other gastrointestinal issues. But for now, let’s focus on the soda. Do you have any questions for me?
+PATIENT: Two weeks… okay. I can do that. Um… what if I really, really want a soda? Is it okay to have just a little sip? Or will that mess everything up? And… is there anything else I should be doing? Like, should I avoid certain foods, or anything?
+DOCTOR: A sip will likely restart the process. Think of it like restarting a car. Best to avoid it altogether for the two weeks. As for other foods… avoid large, carbonated meals. Also, try to eat slowly, rather than quickly. Chewing your food thoroughly helps reduce the amount of air you swallow. Beyond that, there’s no need for a strict diet. We’re mainly targeting the soda.
+PATIENT: Okay. No soda, eat slowly, chew my food. I can remember that. Thank you, Doctor Batara. That makes me feel a lot better. I'll try my best to stop drinking soda. I guess I’ll see you in two weeks if it doesn’t get better?
+DOCTOR: Exactly. If your symptoms persist after two weeks, schedule a follow-up appointment, and we’ll discuss further evaluation. In the meantime, if you experience any severe abdominal pain, vomiting, or difficulty swallowing, seek immediate medical attention. .

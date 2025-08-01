@@ -1,0 +1,29 @@
+DOCTOR: Bula vinaka, Lucia. It's lovely to meet you. I'm Dr. Kimm. So, what brings you in to see me today?
+PATIENT: Hi Doctor. Nice to meet you too. Um… well, it’s a little embarrassing, but I keep… belching. A lot. It’s been happening for a few weeks now.
+DOCTOR: Okay, belching… a lot, for a few weeks. That doesn't sound fun. No need to be embarrassed, it's good you're getting it checked out. Can you tell me a little more about it?
+PATIENT: Okay, good. It’s… it happens after I eat, mostly. Not right after, like, maybe an hour or so later. And sometimes even when I’m just… sitting. It doesn’t hurt, it just… comes out. It’s just annoying, you know? And people look.
+DOCTOR: I understand, it can be quite disruptive and uncomfortable. So, it’s happening about an hour after eating, and occasionally even when you're resting. Is it related to what you've been eating, do you think?
+PATIENT: Hmm… I don’t know. I eat… regular food. Rice, beans, chicken… Sometimes a little bit of soda, but not a lot. I haven’t noticed a pattern, really. Maybe it’s worse when I eat quickly? I do eat fast sometimes, when I’m busy.
+DOCTOR: Okay, so rice, beans, chicken, a little soda, and possibly worse when you eat quickly. Do you notice any other symptoms along with the belching?
+PATIENT: No… not really. My stomach doesn’t hurt. No… feeling sick. I’m still hungry normally. And… everything else is okay. I just… belch. It’s just… a lot of air, I guess.
+DOCTOR: Alright, no pain, no nausea, normal appetite. Let's talk a little about your medical history, Lucia. Have you been diagnosed with any medical conditions before?
+PATIENT: No. Nothing. I haven’t really been to the doctor much. Just… checkups when I was little. Nothing serious. I'm pretty healthy, I think.
+DOCTOR: Okay, no prior medical diagnoses. And have you ever had any surgeries?
+PATIENT: No. Never. I haven't had any surgeries, no.
+DOCTOR: Okay, good to know. What about your family?
+PATIENT: My… my family? Um… my mother, she had… problems with her stomach sometimes. Like, upset. But not… this. Just… sometimes she didn’t feel good after eating. And my father… he was okay. Really strong.
+DOCTOR: Okay, so your mother had some occasional stomach upset, but nothing specific like this. And your father was generally healthy. Now, a few quick questions about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No. No smoking. I don't drink much alcohol, maybe a little wine sometimes with dinner. And… no, definitely no drugs.
+DOCTOR: Okay, good to know. And finally, are you currently taking any medications, including over-the-counter medicines or supplements?
+PATIENT: No, nothing. I don't take any pills. Just… sometimes a little bit of something for a headache, but not often. Nothing regular.
+DOCTOR: Okay, Lucia. Thanks for sharing all of that with me. It sounds like you’re generally quite healthy, and there isn’t much in your history that immediately jumps out. To get a better idea of what might be going on, I'd like to do a quick physical exam, if that's okay with you. I'll listen to your belly and check for any tenderness. It will just take a few minutes.
+PATIENT: Okay, that sounds… okay. Yeah, that’s fine. I hope it’s not too bad.
+DOCTOR: Okay, I’m just listening to your belly now. It doesn't seem particularly tender to the touch, and I'm not hearing anything unusual. Your bowel sounds are present, which is good. I don't feel any masses or anything concerning. Everything feels fairly normal on initial exam. Based on what you've told me and this quick exam, it sounds like you might be swallowing a bit of extra air. It’s surprisingly common. It can be caused by eating quickly, drinking carbonated beverages, or even just talking while you eat. It's usually not serious, but it can be uncomfortable.
+PATIENT: Oh… okay. Swallowing air? I do eat fast sometimes. And I talk a lot! So… what can I do about it? Is there… medicine?
+DOCTOR: It’s good you recognize those habits! Often, the best approach is to try and slow down when you eat, and consciously try not to talk while you're chewing. Smaller bites can help too. As for medicine, there aren't any specific medications for swallowing air. Some people find over-the-counter remedies for gas helpful, like simethicone, but those just help with the symptoms. I would recommend trying to change those habits for a week or two and see if it makes a difference. If it's still bothering you after that, we can consider other possibilities. Do you have any questions about that?
+PATIENT: Okay. Slow down… smaller bites… no talking. I can try that. It will be hard, but… I can try. What kind of… gas medicine are you talking about? Just in case. And… thank you, Doctor.
+DOCTOR: Simethicone is the main ingredient to look for. Brand names include Gas-X or Mylanta Gas. They're available at most pharmacies without a prescription. They help break up the gas bubbles, which can relieve bloating and discomfort. You’re very welcome, Lucia. It was good to meet you and I’m glad you came in. I want to reassure you that this is usually not something to worry about, and we can always investigate further if things don't improve. Do you have any other concerns I can address today?
+PATIENT: No… I think that’s all. You explained everything really well. I feel… a lot better just knowing what it might be. I will try the slowing down and the… simethicone. Thank you again, Doctor Kimm.
+DOCTOR: That's wonderful to hear, Lucia! I'm glad I could help. If you don’t see any improvement after a couple of weeks, or if you develop any new symptoms like abdominal pain, nausea, or vomiting, please don’t hesitate to schedule another appointment. Here's a little handout with information on managing excessive belching and some over-the-counter options. Have a lovely day, and please take care.
+PATIENT: Thank you so much, Doctor. I will. You have a good day too.
+DOCTOR: .

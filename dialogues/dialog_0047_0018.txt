@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Mr. Verbos. I'm Dr. Press. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It’s… well, it’s rather embarrassing, to be frank. I seem to be… going to the restroom quite a lot. More than usual, certainly. It's been happening for… some time now, I believe. Though pinning down exactly when it started is proving difficult.
+DOCTOR: “Quite a lot” is rather vague, Mr. Verbos. Can you be a bit more specific?
+PATIENT: Yes, of course. Specific… hmm. Let me see. I would say… at least every couple of hours, during the day. And… sometimes once or twice during the night. It’s… disruptive, naturally. I don't recall ever having to get up so frequently. I suppose I’ve just… adjusted to it, but it isn't comfortable.
+DOCTOR: And is it a strong urge each time, or more of a… just needing to go?
+PATIENT: That’s a good question. It is usually quite strong, yes. A rather insistent feeling, I would say. Not just a little trickle, but a definite need to empty my bladder. It’s… forceful. I haven’t experienced any pain, thankfully, just… the volume and the frequency.
+DOCTOR: Alright. And have you noticed any changes in your urine itself?
+PATIENT: Changes in… the urine? Let me think. I haven't been… actively observing it, if you don't mind me saying so. It appears… normal, I suppose. The usual colour. I can't say I've noticed anything unusual about it. Though, to be honest, I rarely pay attention to such things. Is there something specific I should be looking for?
+DOCTOR: Well, things like blood, cloudiness, a strong odour… anything out of the ordinary. But don't worry about that for now. Let's move on. Have you been drinking more fluids than usual?
+PATIENT: Ah, I see. No, I don’t believe so. My habits haven’t changed much, I don’t think. I have my usual tea in the mornings, perhaps a glass of water during the day… I don't go out of my way to drink more. It's… rather perplexing, really. I haven't altered my routine in any significant way, and yet… this continues.
+DOCTOR: Alright. And are you experiencing any other symptoms?
+PATIENT: Other symptoms… hmm. Let me consider. I have felt… a little more tired lately, perhaps. But I attribute that to my age, if you understand. And… a slight thirst, now that you mention it. Not overwhelming, just… a dryness in my mouth occasionally. But I wouldn't say it's anything alarming. Nothing that I’ve considered particularly noteworthy, until now.
+DOCTOR: And do you have any history of diabetes in your family, Mr. Verbos?
+PATIENT: Diabetes… in the family? That’s… a good question. My mother… I believe her sister had something… a complaint involving sugar, perhaps? It was a long time ago, and I wasn't particularly close to her. My father… no, I don’t recall any such issues on his side. It’s… difficult to say for certain. My memory isn’t what it once was, you see.
+DOCTOR: Alright. We're going to need to do a quick urine sample, just to rule a few things out. Then I think a blood test would be wise, just to get a better picture. It's standard procedure when someone presents with changes in urinary frequency. Would you be able to provide a sample now?
+PATIENT: Yes, of course. A urine sample. Perfectly reasonable. A blood test as well, you say? Yes, I understand. Standard procedure. I’m happy to cooperate in any way I can. Lead the way, Doctor. I'll do my best.
+DOCTOR: Very good. The restroom is just down the hall to your left. There's a specimen cup and instructions inside. Just bring it back to me when you're finished, and we'll get started. I'll have the nurse draw some blood while we're at it. It will just take a few minutes.
+PATIENT: Excellent. Thank you, Doctor. I’ll be right back.
+DOCTOR: Alright. Let's see what we're dealing with. Hopefully, it's nothing too serious. But best to be thorough.
+PATIENT: .

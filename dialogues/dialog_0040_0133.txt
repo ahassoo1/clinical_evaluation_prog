@@ -1,0 +1,29 @@
+DOCTOR: Right, yes. Melvenia Tippens… 76, is it?
+PATIENT: Yes, that’s right. Seventy-six. Look, I appreciate you seeing me, Doctor… Osga, wasn’t it? I just need these forms signed quickly, if you don't mind. It's for a… a thing I need to get sorted.
+DOCTOR: Forms?
+PATIENT: Yes, these health forms. I was told I needed them notarized or… verified by a doctor, to be precise. They’re for… well, it doesn’t really matter what they’re for, does it? Just need your signature saying I’m… capable enough to handle it, I suppose. They’re right here.
+DOCTOR: Look, I’m a doctor, not a notary. I assess and treat medical conditions. This…this feels like a waste of my time, frankly. But alright, let's get this over with. Tell me something medical. What brings you in today?
+PATIENT: Oh, goodness. Well, I… I don’t really have anything wrong, not exactly. That’s why I said it felt like a waste of time. I just need the forms signed so I can… participate in this program. Is there a specific question you need to ask? I’m not good at explaining things. And I don’t want to take up too much of your day.
+DOCTOR: "No medical conditions"... right. And yet you’re seeking a doctor’s verification. Wonderful. Fine. Just tell me, do you have any major illnesses?
+PATIENT: Oh, dear. Major… Well, I had a bit of a scare with my heart a few years back, but the doctor said it was just…fluttering. It's been alright since. And my arthritis flares up sometimes, especially when it’s cold, but… that's just getting old, isn’t it? Nothing major, if that makes sense. I don’t take a lot of medication, if that helps.
+DOCTOR: "Fluttering," you say. And arthritis. Alright. Any surgeries?
+PATIENT: Let me think… Oh! Yes. I had my gallbladder out, ages ago. Must be… thirty years now? And a hysterectomy, even longer than that. Nothing recent, though. Really, I'm fairly… durable for my age, I think. I try to stay active, you know? Walking, mostly.
+DOCTOR: Alright. Any family history of…anything concerning?
+PATIENT: Oh, goodness. Family history… that’s a long story. My mother lived to be ninety-two, but she had… well, she had a bit of everything in her later years, honestly. Heart trouble, I think, and some memory issues. My father… he passed away young, from something with his lungs, I believe. Smoking, you know? It’s hard to remember all the details now. It was a long time ago.
+DOCTOR: Yes, well, everyone has something. Allergies?
+PATIENT: Oh! Just dust, I think. And maybe some pollen in the spring. Nothing serious, really. I don’t carry an EpiPen or anything. Just a bit of sneezing and a runny nose. Is this all you need to know? I'm starting to feel a bit… flustered.
+DOCTOR: Flustered?
+PATIENT: Well, yes. It's… a lot of questions about things that don't really matter. I just need these forms signed. And I feel like I'm taking up your valuable time, Doctor. Are you able to just… verify I'm of sound mind and capable of handling my own affairs? That's all the program requires, I think.
+DOCTOR: Look, I'm not going to simply rubber-stamp a form. I'm a physician. I need some actual information to determine your…competency. Honestly, this is ridiculous. But fine. One quick thing. Any recent changes in your memory?
+PATIENT: Oh, dear. Well… now that’s a difficult question. I do sometimes… misplace things. My keys, mostly. And I forget names, occasionally. But who doesn't at my age? It's not like I'm wandering off or anything. It's just… normal aging, I think. Surely. Is that enough?
+DOCTOR: Alright. Let's do a quick… cognitive assessment. Just to be thorough. I'm going to ask you a few simple questions. Do you understand?
+PATIENT: Yes, yes, I understand. Just… simple questions, you said? I hope I can remember them. It’s just… all this talking is making my head spin a bit. But yes, go ahead.
+DOCTOR: Okay. First question. What is today’s date?
+PATIENT: Oh, goodness. Today’s date… Let me think… It's… August. Definitely August. And… the second, isn’t it? August second. 2025. Is that right? I think.
+DOCTOR: Alright. Good. Now, can you tell me what city we are in?
+PATIENT: Oh! That’s easy. That’s… well, it’s a big city. It's… uh… It starts with a… a ‘U’ I think? Urbanville? No… That’s not right. I’m terrible with names.
+DOCTOR: Urbanville?
+PATIENT: Oh dear, no! That sounds ridiculous. I… I just… my mind is blank. It’s a big city, lots of buildings. I always get so confused. It's… where my daughter lives. Isn't that helpful? But I can't seem to remember the name of the city. I'm so sorry. This is awful.
+DOCTOR: Look, I’m going to be frank. I’m not comfortable signing this form. Your responses are…concerning. I would strongly recommend a full neurological work-up before proceeding with whatever this program is. I will not simply endorse something I haven’t properly assessed. I suggest you see a neurologist. Immediately.
+PATIENT: Oh… oh dear. No… you… you won't sign it? But… this program… it's… important. It’s a support group… for seniors… and I really need this. I… I don’t have the money for a “work-up.” I’m not insured, you see. I just… I need this form signed. Please. I'm not… I'm not sick. I just… forget things sometimes. Is there anything I can do? Anything at all?
+DOCTOR: .

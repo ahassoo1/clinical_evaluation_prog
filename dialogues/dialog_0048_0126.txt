@@ -1,0 +1,21 @@
+DOCTOR: Right. Christen Erxleben, 32. So, what brings you in today?
+PATIENT: Well, Doctor Sink, if you don’t mind me saying, I haven’t been feeling quite myself lately. I've been… excessively thirsty, and hungry, if that makes any sense. It's been going on for a few weeks now, and it's starting to worry me.
+DOCTOR: Weeks, you say?
+PATIENT: Yes, roughly three or four weeks now. It’s not constant, mind you, but it’s… frequent. I find myself drinking a lot more water than usual, and I'm still thirsty. And I feel peckish all the time, even after a proper meal. It's rather disruptive, to be honest.
+DOCTOR: Disruptive. Right. And have you noticed any…changes in your weight?
+PATIENT: That’s a fair question. I… I haven’t been actively trying to lose or gain weight, if that's what you mean. I suppose I’ve lost a little bit, but I figured it was just the summer heat. It's hard to say for certain, to be perfectly honest. I haven’t stepped on the scales in a while.
+DOCTOR: A while. And what about… urination?
+PATIENT: Urination? Well, yes. I’ve been… going to the toilet more often, if you must know. Particularly at night. It’s a bit of a nuisance, waking up several times, I’ll admit. I thought it was just something I had to get used to.
+DOCTOR: Increased thirst, hunger, weight loss, frequent urination… and night-time urination. Any family history of… well, anything like this?
+PATIENT: That’s a good question. My mother… she had some issues with her blood sugar, I believe. Not diabetes, as far as I know, but something along those lines. She managed it with her diet, mostly. My father was perfectly healthy, as far as I recall. I don't know much beyond that, truthfully. We weren't particularly close.
+DOCTOR: Right. And any medications you’re currently taking?
+PATIENT: No, Doctor. Nothing at all. I don’t take any medications, regularly or otherwise. I try to keep myself healthy, if you don’t mind me saying. I haven't had a proper illness in… well, quite some time. Just the occasional cold, and I handle those with rest and plenty of fluids.
+DOCTOR: Alright. Let's just do a quick physical exam, just to rule things out. Blood pressure, pulse… and I'll listen to your lungs and heart. Standard procedure.
+PATIENT: Very well, Doctor. That sounds sensible enough. I’m happy to cooperate. Just… if you don’t mind, could we try to be quick? I have a rather busy afternoon ahead of me, and I'd like to get this sorted as efficiently as possible.
+DOCTOR: Blood pressure is… 130 over 85. Pulse is 78. Lungs are clear. Heart sounds… normal. It’s all rather unremarkable, truthfully. I’m going to order a basic blood glucose test and a complete metabolic panel. Just to be certain. We'll need a urine sample as well.
+PATIENT: Right. That sounds… thorough. A blood glucose test, a metabolic panel, and a urine sample. Is there anything I need to do to prepare for these tests, Doctor? And… how long will it take to get the results? I'm hoping it's nothing serious, if you don't mind me saying.
+DOCTOR: Fasting for eight hours before the blood test. And try not to drink too much fluid before the urine sample. As for the results… the lab usually gets back to us within 24 to 48 hours. Don’t anticipate anything dramatic. It’s likely just a minor imbalance. The nurse will schedule a follow-up appointment once the results are available. Now, if you'll excuse me, I have other patients waiting.
+PATIENT: Right. Eight hours fasting, moderate fluids. I understand. Thank you, Doctor. I appreciate your time. I shall see the nurse, then. And I do hope it is minor, as you say. If you’ll excuse me.
+DOCTOR: Yes, yes. The nurse is over there. Have a good day.
+PATIENT: .
+DOCTOR: .

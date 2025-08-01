@@ -1,0 +1,22 @@
+DOCTOR: Right. Mr. Ruocco, is it?
+PATIENT: Yeah, that’s me. Murry Ruocco. Look, doc, I don’t usually… well, I don’t usually come to doctors. Is this gonna take long? My back’s been botherin’ me, that's why I'm here.
+DOCTOR: Back pain. Yes. Well, "long" is relative, Mr. Ruocco. I need to understand what kind of back pain we're dealing with. Can you describe it?
+PATIENT: Describe it… hmm. It’s… it hurts when I take a deep breath. Not all the time, just when I really try to fill my lungs. Feels like somethin’s pullin’ tight. It’s hard to explain… it’s not like a sharp pain, more like a… ache, deep inside. I used to be able to lift heavy things, you know, construction work... but that was a long time ago.
+DOCTOR: Construction work. And how long ago was that, Mr. Ruocco?
+PATIENT: Oh, goodness… a long time. Maybe… twenty, thirty years ago? It's all blurry, to be honest. I did a lot of buildin', a lot of heavy liftin'. Now… I mostly just sit around. It feels like somethin’ got stretched, or pulled when I breathe in. Does that make any sense?
+DOCTOR: Vaguely. And has this pain been… constant, or does it come and go?
+PATIENT: Comes and goes, mostly. It’s worse when I try to do somethin’. Like if I bend over to pick somethin’ up, or… like I said, a deep breath. Sometimes it just… is there. A dull ache. It ain’t keepin’ me up at night, but it’s… annoyin’.
+DOCTOR: Alright. Any numbness or weakness in your legs or feet?
+PATIENT: Numbness… no, not really. My feet get a little cold sometimes, but that’s just old age, I figure. Weakness… no, I can walk just fine. A little slow, maybe, but that's just getting old too, I reckon. I just want to know what’s causin’ this pain when I breathe.
+DOCTOR: Let’s have you lie down on the exam table. We’ll listen to your lungs and feel around a bit. It’s probably just a pulled muscle, but we need to rule some things out.
+PATIENT: Okay, alright. Sounds good. Pulled muscle sounds likely. I probably just overdid it tryin' to fix somethin' around the house.
+DOCTOR: Gently now, Mr. Ruocco. And please, tell me if anything feels particularly uncomfortable.
+PATIENT: Alright, alright. It’s just… movin’ is the hard part. I’ll tell ya if somethin’ hurts, doc. Just gotta… get situated here. This table's cold.
+DOCTOR: Take a deep breath for me, Mr. Ruocco. And again. Any pain with this?
+PATIENT: Yeah, a little. Right there... ... when you push. It’s not a sharp pain, just… a dull ache. Like a bruise, almost. And…... yeah, that's a bit tender.
+DOCTOR: Tenderness to palpation midline… unremarkable breath sounds. It sounds like musculoskeletal pain, likely a strain. I’m going to prescribe you a mild muscle relaxant and suggest you rest and use ice packs.
+PATIENT: Muscle relaxant… alright. Sounds… good. I guess. Will that help it heal faster? Look, doc, I don’t really like takin’ pills if I can avoid it, but if it'll get me back to… not hurtin' when I breathe, I’m willing to try. How long should I rest?
+DOCTOR: A week or two. Avoid strenuous activity. If it doesn’t improve, or gets worse, then you should come back. Any other questions?
+PATIENT: A week or two… alright. No, I don’t think so. Just… thank you, doc. I appreciate it. I just didn't want to ignore it and have it get worse. I’m gonna head home and take it easy.
+DOCTOR: Very well. Just… try not to overdo it. And if you experience any shortness of breath, chest pain, or fever, go to the emergency room immediately. That’ll be all.
+PATIENT: Alright, alright. Shortness of breath… I’ll remember that. Thanks again, doc. You have a good day now. .

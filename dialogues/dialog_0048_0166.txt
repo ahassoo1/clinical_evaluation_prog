@@ -1,0 +1,32 @@
+DOCTOR: Right. Tarin KINJERSKI. Twenty years old. So, what brings you in today?
+PATIENT: Good afternoon, Doctor Sink. It’s…well, it’s my leg. It’s been feeling numb for a little while now. Not constantly, but often enough that it’s becoming a bit of a worry.
+DOCTOR: Numbness. Right. And how long is "a little while," exactly?
+PATIENT: Hmm. Let me think…it started, I believe, sometime in late June. Perhaps the twentieth? I recall working on a particularly detailed animation of a raven’s wing – lots of fine movements – and noticing it then. But it comes and goes, so it’s hard to pinpoint exactly. It’s not always there, you understand.
+DOCTOR: Animation… a raven’s wing. So, it's related to… repetitive motions, you think?
+PATIENT: That’s what I initially suspected, yes. It feels like it could be. I spend a lot of hours seated, working with my hands. Though, it's not just when I'm animating, not exclusively. Sometimes it happens when I'm just…walking around, or even resting. Which is why I wanted to get it checked out. I don’t want to assume it's just my work, if it could be something else.
+DOCTOR: Right. So, intermittent numbness, not solely linked to your… artistic endeavors. And where exactly is the numbness?
+PATIENT: It’s primarily in my left leg. Starting in my…thigh, I suppose. It radiates down towards my knee, and sometimes into my calf. It’s not a pins-and-needles feeling, exactly. More like…a dull absence of sensation. Like it’s wrapped in cotton, perhaps? It’s difficult to describe precisely.
+DOCTOR: Left leg, thigh radiating to the calf… “cotton-like.” Anything else?
+PATIENT: Yes, actually. When it is numb, sometimes my left foot feels…cold. Not necessarily to the touch—it looks normal, I believe—but the sensation is of coldness. And occasionally, a very slight tingling accompanies it, though that’s infrequent. It’s the numbness and coldness that are most prominent.
+DOCTOR: Coldness…along with the numbness. Do you have any other symptoms?
+PATIENT: Not that I’ve noticed, no. No pain, no weakness, no changes in color…nothing like that. Just the numbness and the feeling of coldness. My balance seems normal, and I haven’t had any difficulty walking. I’ve been trying to pay attention, just in case, but everything else feels…ordinary.
+DOCTOR: Alright. Let’s review some medical history then. Have you had any prior surgeries or hospitalizations?
+PATIENT: No, Doctor. I haven’t. I’ve been quite fortunate, health-wise, up until now. A few childhood illnesses – the usual things – but nothing that required a hospital visit or surgery. I've kept up with my vaccinations, as well. I have private insurance, if that’s helpful.
+DOCTOR: Insurance is noted. And any family history of… neurological conditions?
+PATIENT: Hmm. That’s a good question. My mother’s side…my grandmother, on my mother’s side, she had some trouble with her legs in her later years. It was…arthritis, I believe? And a bit of general weakness. Nothing specifically neurological, as far as I know. My father's side…mostly healthy, to the best of my knowledge. We didn't discuss medical history much. Is that helpful?
+DOCTOR: Arthritis… potentially relevant, but not conclusive. Any allergies to medications?
+PATIENT: No, Doctor. No known allergies. I’ve taken over-the-counter pain relievers occasionally for headaches, and some antibiotics a few times when I’ve been unwell, but never had any adverse reactions. I've never needed to take any prescription medications, thankfully.
+DOCTOR: Alright. Let’s do a quick physical examination. Please lie down on the examination table.
+PATIENT: Certainly, Doctor. Just let me know if you need me to adjust in any way.
+DOCTOR: Reflexes seem…normal. Let's check sensation. Can you tell me when you feel this?
+PATIENT: Yes, I can feel that. It’s…a light pressure, on the outer part of my thigh. And a slight coolness from the cotton. It's quite subtle. Is that what you were expecting?
+DOCTOR: And here?
+PATIENT: I can feel that too, Doctor. Though…it’s fainter here, at the knee. It’s harder to pinpoint exactly. Not absent, but…less distinct. Perhaps a little slower to register? I'm not sure if that makes sense. It's definitely weaker than on my right leg.
+DOCTOR: Reduced sensation at the knee…decreased reflexes. Okay. Please turn over, face down. We'll check your back now. Any pain when I press here?
+PATIENT: No, Doctor. No pain there. It feels…normal. A little pressure, of course, but not uncomfortable. And not particularly tender to the touch. I’ve never had any back problems, if that’s helpful.
+DOCTOR: Alright. Based on this brief examination, it's possible you have some mild nerve compression. But, given your age and the intermittent nature of the symptoms, we need to rule out other possibilities. I’m going to order an MRI of your lumbar spine, and some nerve conduction studies.
+PATIENT: That sounds…thorough, Doctor. An MRI and nerve conduction studies. I appreciate you taking the time to investigate everything carefully. Will those tests tell us definitively what’s causing the numbness? And how long will it take to get the results?
+DOCTOR: They should give us a clearer picture. However, "definitively" is rarely possible in medicine. As for the results, it usually takes a week or so for the imaging, and the nerve studies may take longer to schedule. I’ll have the receptionist contact you with the details. In the meantime, try to avoid any activities that exacerbate the symptoms, and if the numbness worsens, or you develop weakness, you need to seek immediate medical attention. Do you have any further questions?
+PATIENT: No, Doctor. I believe that covers everything. A week or so for the imaging…I will certainly keep an eye on the symptoms and contact you if anything changes. I appreciate your thoroughness and your time. Thank you again.
+DOCTOR: Alright. You’ll receive instructions from the receptionist regarding scheduling. I have other patients waiting. Have a good day. .
+PATIENT: Thank you, Doctor. You as well. .

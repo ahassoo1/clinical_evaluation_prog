@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Lucia. I'm Dr. Murtic. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Um... it’s my... belching. It’s been happening a lot. It's... embarrassing, really.
+DOCTOR: Belching, alright. And how long has this been going on?
+PATIENT: Hmm… maybe a month? A month and a half, I think. It comes and goes, but lately it’s been… more. It’s not painful, just… a lot.
+DOCTOR: A month, okay. And is it related to anything specific?
+PATIENT: Specific…? Like… food? Sometimes, maybe. If I eat too fast, I think. Or… bubbly drinks. But not always. Sometimes it just… happens. I don’t know.
+DOCTOR: Hmm. And what kind of foods are we talking about?
+PATIENT: Oh… anything, really. Rice, beans… yesterday I had some chicken and it happened then too. It's hard to say. Not like, one thing always makes it happen. It’s just… random.
+DOCTOR: Random, you say. Do you experience any other symptoms along with the belching?
+PATIENT: Other symptoms…? Let me think. No… not really. Maybe a little… feeling full, sometimes, even if I don’t eat much? But I don’t know if that’s from the belching or… something else. It’s hard to say.
+DOCTOR: And what about heartburn?
+PATIENT: Heartburn…? Oh! Yes! Sometimes, yes. A little burn in my chest. Not bad bad, just… uncomfortable. Does that… count?
+DOCTOR: It counts. Now, are you taking anything for it?
+PATIENT: No, Doctor. Nothing. I haven't taken anything. I didn’t know I should. I just thought it would go away on its own.
+DOCTOR: Alright. Let's take a look at your chart… I see you’re 38, height 150cm, weight 66kg… and uninsured. Okay. I'm going to need to ask you a few more questions, and then I'll listen to your abdomen. Do you have any allergies I should be aware of?
+PATIENT: No allergies, Doctor. None that I know of. I eat lots of things, and I haven't had a problem.
+DOCTOR: And any current medications, or have you had any surgeries in the past?
+PATIENT: No surgeries, Doctor. And no medications… except sometimes I take something for a headache, but that’s it. Just… regular headache pills, when I need them.
+DOCTOR: Okay. And finally, a quick family history. Any significant medical problems run in your family?
+PATIENT: Um… my grandmother, on my mother's side, she had… stomach problems, I think. But I don't know what kind. Just… stomach problems. And my father, he had high blood pressure. But that's it, I think.
+DOCTOR: Alright. Well, given your symptoms – the belching, occasional heartburn, and a family history of stomach issues – it sounds like you may be experiencing some degree of dyspepsia, or indigestion. Let’s have a listen to your abdomen, just to rule out anything more serious. Please lie down for me.
+PATIENT: Okay. Dyspepsia… is that… bad? And… listen to my stomach? Okay, I can do that.
+DOCTOR: Yes, yes, please. And no, dyspepsia isn't necessarily bad, but it's certainly uncomfortable. We just want to make sure it's not something else. Lie on your back, and I’ll listen in a few different spots. Just breathe normally.
+PATIENT: Okay. Breathing normally… like this?
+DOCTOR: Alright. I'm not hearing anything overtly concerning, but there is some… increased bowel sound activity. It’s likely contributing to your symptoms. Do you experience any bloating, or changes in your bowel habits?
+PATIENT: Bloating… sometimes, yes. Especially after I eat. And… changes in bowel habits? I don’t know. Sometimes I go more often, sometimes less. It’s not… regular, if that makes sense.
+DOCTOR: Alright. It does make sense. Given your symptoms, and what I’m hearing… and your lack of insurance, I’m going to suggest we start with some lifestyle modifications. Try eating smaller, more frequent meals. Avoid carbonated beverages. And chew your food thoroughly. We'll see if that helps.
+PATIENT: Smaller meals… and no bubbly drinks. Chewing better… okay, I can try that. How long should I try this for? Before… coming back?
+DOCTOR: Two weeks. Two weeks of diligent attention to these changes. If your symptoms haven't improved significantly after two weeks, then we can discuss further options, perhaps some over-the-counter antacids. But frankly, I suspect this will be enough. And avoid lying down immediately after eating. It helps with digestion. Do you have any questions for me?
+PATIENT: No lying down… okay. No bubbly drinks, small meals, chew well, don’t lie down… two weeks. No, I don't think so. That… sounds like a lot to remember, but I can try. Thank you, Doctor.
+DOCTOR: Very well. I’ll document everything. If your symptoms worsen before two weeks, or if you develop any fever, severe abdominal pain, or vomiting, you need to seek immediate medical attention. Otherwise, see you in two weeks.

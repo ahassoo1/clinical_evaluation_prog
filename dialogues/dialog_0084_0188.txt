@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Mr. Secondi. Welcome to the clinic. I'm Dr. Voytek. So, what brings you in today?
+PATIENT: Good morning, Doctor. Thank you. Um... my pee. It's orange.
+DOCTOR: Okay. Orange urine. That’s…unusual. How long has it been orange?
+PATIENT: Maybe... three days now? I think so. It started after… a hot day. We were working outside, very hot.
+DOCTOR: Alright, three days, and it started after a particularly hot day of work. Do you recall how much water you were drinking that day, Mr. Secondi?
+PATIENT: Not much, I think. Maybe one bottle? It was busy. I forgot to drink more.
+DOCTOR: Okay, so potentially some dehydration then. Have you noticed any pain or burning when you urinate?
+PATIENT: No, no pain. Nothing like that. Just… the color is strange. It worries my wife.
+DOCTOR: I understand your wife is concerned, and it’s good she is. Any other symptoms at all?
+PATIENT: No. I feel okay. Maybe a little tired from work, but… always tired from work, you know?
+DOCTOR: Right, I understand. Let’s do a quick exam, just to rule things out. And I'll order a urine sample for testing. Is that alright with you?
+PATIENT: Yes, that is okay. Testing is good. I want to know what is wrong.
+DOCTOR: Great. If you'll just have a seat here, I’ll be right back with a cup for your sample. We’ll start with your blood pressure and then move on from there.
+PATIENT: Okay. Blood pressure is good. I hope it is good!
+DOCTOR: It is good, 120/80. Perfect. Now, have you had any changes in your bowel movements recently?
+PATIENT: No, no changes. Everything normal, like always.
+DOCTOR: Okay, good. And any fevers, chills, or body aches?
+PATIENT: No, Doctor. Nothing like that. I haven't felt sick, only the orange pee.
+DOCTOR: Alright. And just to cover all bases, do you have any pain in your back or side?
+PATIENT: No pain. I do heavy work, sometimes back is sore, but… this is different. This is just… pee color.
+DOCTOR: Okay, that’s helpful. Now, I’m going to listen to your abdomen, just to make sure everything sounds normal. Everything sounds clear. Now, can you tell me about any medications you’re currently taking?
+PATIENT: No medications. I don't take anything. Only vitamins, sometimes. Multi-vitamin, but not every day.
+DOCTOR: Okay, just a multi-vitamin occasionally. And any allergies to medications or anything else?
+PATIENT: No allergies. My wife asks every time, and I say no.
+DOCTOR: Good. Now, do you have any family history of kidney problems or liver issues?
+PATIENT: Um… my grandfather, maybe. He was sick, a long time ago. Something with his stomach, I think. But I don’t know much. It was a long time ago, and we don’t talk about it much.
+DOCTOR: Okay, some possible stomach issues in the family. And finally, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no. I don’t smoke. Sometimes a little wine with dinner, but not much. And no… other things. My wife would be very angry.
+DOCTOR: Alright, Mr. Secondi, thank you for that information. Let’s get that urine sample, and then we'll discuss what might be going on and what our next steps are. I'll leave you alone for a few minutes to collect the sample. Just knock when you're finished.
+PATIENT: Okay, thank you, Doctor. I will get it now.
+DOCTOR: Alright, let's see what the lab can tell us. Thank you. I'll send this off right away. It's likely just dehydration, given your work and how little water you were drinking, but we want to rule out anything else. I’ll call you with the results as soon as they’re back. In the meantime, I want you to increase your fluid intake significantly – aim for at least eight glasses of water a day, even more if you’re working hard. Is that something you can do?
+PATIENT: Yes, eight glasses. I can do that. More water. Okay. Thank you, Doctor. I worry a lot.
+DOCTOR: You're welcome, Mr. Secondi. It's good you're proactive about your health. I understand your worry, and we’re just taking precautions. I'll call you as soon as I have the results, likely tomorrow. If you experience any pain, fever, or if the urine color doesn't improve within a couple of days despite increasing your fluid intake, please call the office right away. Do you have any questions for me before you go?
+PATIENT: No, I think that is everything. Eight glasses of water. And call if it gets worse. Okay. Thank you again, Doctor Voytek. You are very kind.
+DOCTOR: You're very welcome, Mr. Secondi. Take care of yourself and stay hydrated. Have a good day.

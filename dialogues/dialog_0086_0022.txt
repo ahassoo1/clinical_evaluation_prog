@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Ms. McConnon. I'm Dr. Murtic. So, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. It’s… something with my tummy. It feels… big. And I don’t want much food these days, you know? Not like before. It just doesn't seem… right.
+DOCTOR: "Big," you say. Can you elaborate on that a little bit?
+PATIENT: Elaborate? Oh dear… Hmm. Well, it’s… puffy. Like a balloon, maybe? Not painful, just… there. I notice it when I button my… my dress. It’s harder to do now. I don’t… I don’t remember when it started, exactly. A little while ago, I think.
+DOCTOR: Okay, "puffy," and harder to button your dress. And you've noticed this gradually over… some time. When you say you don’t have much appetite, has your weight changed recently?
+PATIENT: Oh, weight… I don’t really keep track of that, you know? I used to, a long time ago. But these days… I just eat when I feel hungry, and sometimes I don’t feel hungry much. I think… maybe I’m a little thinner? But I don’t know for sure. It’s hard to say, isn't it?
+DOCTOR: It is hard to say without knowing. Let's try to get a better idea. Besides the feeling of fullness and lack of appetite, are you experiencing any other symptoms?
+PATIENT: Symptoms… Oh, let me think. Sometimes I feel a little tired, yes. More tired than usual. And… oh! My ankles. They swell up sometimes, at the end of the day. Just a little bit. But they do puff up. Is that… is that a symptom?
+DOCTOR: Yes, that can be a symptom. Tiredness and swelling in the ankles… Alright. Have you noticed any changes in your bowel habits?
+PATIENT: Bowel… habits? Oh dear. That’s… a personal question, isn’t it? Well… I go to the bathroom, yes. Everything feels… normal, I suppose. Not… different. Maybe a little less often than before, but I don’t really pay attention to those things.
+DOCTOR: Right. Well, let’s move on. Any nausea or vomiting?
+PATIENT: Nausea… Oh, no, I haven’t been sick. Not at all. No throwing up, no… feeling like I will. I haven’t felt sick to my stomach, not once. Just tired, and my tummy feels… big. And the ankles, you know?
+DOCTOR: Alright. Let's have a listen to your abdomen, and then I'll take a look at your ankles. Please lie back on the exam table. Okay. Not particularly tender to the touch. Some… mild distension. And yes, your ankles do have some swelling. Now, can you tell me about any medical conditions you've been diagnosed with in the past?
+PATIENT: Oh, goodness. That’s… a long time ago. I used to go to a doctor, years and years ago. He said… I think he said my blood pressure was a little high? And something about my cholesterol, but I don’t remember exactly. I’m an old woman, Doctor. I’ve had lots of things, I’m sure. But I don’t remember all of it! It was so long ago, and I don’t really… worry about it.
+DOCTOR: Right. High blood pressure and cholesterol. Do you currently take any medications for those conditions, or for anything else?
+PATIENT: Oh, no. No pills. I stopped taking them… a long time ago. They didn’t seem to do much good, and I don’t like taking pills. I prefer… just to let things be, you know? I tried them for a while, but… I don’t remember which ones they were. The doctor… he changed them a few times.
+DOCTOR: Alright. And do you have any allergies to medications, food, or anything else?
+PATIENT: Allergies… Hmm. Not that I know of. I eat everything. I used to love fish, but… I haven’t had it in a while. I don’t think I’m allergic to anything, but… I’m not really sure. I never really paid much attention to those things.
+DOCTOR: Okay. Now, to get a better understanding of what's going on, I'm going to order some blood tests. We'll check your complete blood count, electrolytes, kidney and liver function, and a thyroid panel. I also want to rule out any heart issues, so we'll order an EKG.
+PATIENT: Oh dear. Tests? That sounds… complicated. What will they do? And… will it hurt? I don’t like needles, you know.

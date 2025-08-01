@@ -1,0 +1,24 @@
+DOCTOR: Alright, Mr. Puder, let’s get this over with. What brings you in today?
+PATIENT: Uh, hi Doctor... Osga, right? Yes. My heart… it feels funny. Like, sometimes it beats too fast, then… not so fast. It’s been happening for, uh… maybe a month now? Not every day, but… often enough to worry me.
+DOCTOR: Hmm. "Funny" isn’t very specific, is it?
+PATIENT: Sorry. Yes. It's hard to say. Like… a flapping? Like a bird in my chest? And sometimes… I feel weak when it happens. Not fall-down weak, but… tired. Really tired. Is that… okay to say?
+DOCTOR: Look, lots of people feel tired. And palpitations… people describe them all sorts of ways. A month, you say?
+PATIENT: Yes. One month, maybe a little more. It started… after a big job. Lots of stress. We had to move a lot of… things. Chemicals, mostly. Big tanks. I work with the tanks, you see? I make sure they are… okay. Not broken. Is stress… bad for this?
+DOCTOR: Chemicals, you say?
+PATIENT: Yes. Big tanks of chemicals. For… cleaning water. I check them, and… fill them. And move them with a… a machine. A big machine with wheels. Is… is the chemicals have something to do with it? I don't know much about… medicine, Doctor.
+DOCTOR: Well, obviously chemicals can be a factor. It's not rocket science. But let’s not jump to conclusions. Do you smoke?
+PATIENT: No, Doctor. No smoke. Never. My wife… she doesn't like it. And… it's bad for you, right? I drink… sometimes. Just a little beer with dinner. Not every night, maybe two or three times a week. Not much, really.
+DOCTOR: Okay. Any family history of… heart problems?
+PATIENT: My… grandfather, maybe? On my mother’s side. He was… old. Very old. He had trouble breathing, but I don’t know… if it was his heart. Everyone in my family is old! They all live a long time. I don’t… remember anyone dying young from heart trouble. Does that make sense?
+DOCTOR: Look, family history is… helpful when it's specific. "Trouble breathing" could be anything. Allergies?
+PATIENT: No, no allergies. I eat everything. Everything! My wife cooks very good food. Spicy food. Very spicy. I don't get… itchy or… nothing. I never been to the hospital before, Doctor. I just… this heart thing worries me. It feels strange.
+DOCTOR: Alright, let’s just listen to your heart and lungs. Sit back. And try to relax, alright?
+PATIENT: Yes, Doctor. Okay. Relax… I will try. It is… hard to relax when I think about my heart. Is this… will it hurt?
+DOCTOR: No, it won’t hurt. Just breathe normally. Hmm. Rate is a little elevated, but nothing alarming. Lungs are clear. Blood pressure is… acceptable. You're a thin man. Have you lost weight recently?
+PATIENT: A little, maybe? Not much. Work is… hard. A lot of walking. And… it's been hot. I don't eat as much when it's hot. But I don't… feel sick. Just tired, like I said. And the heart… flapping.
+DOCTOR: Look, I’m going to order a basic EKG and some blood work – just to rule things out. Probably just stress, honestly. But we need to be sure. Don’t get yourself worked up about it. Fill this out. And go to the lab down the hall. They'll take care of you.
+PATIENT: Okay, Doctor. Yes. An EKG… and blood work. I will… I will fill this out. Is… is there anything I should not do? Like, should I drink water? Or… not work?
+DOCTOR: Just fill out the form, Mr. Puder. And try to relax. Don't overexert yourself until we get the results. No strenuous activity. Is that clear?
+PATIENT: Yes, Doctor. Clear. No… hard work. I understand. No hard work until… you know. Thank you, Doctor Osga. I will go to the lab now. Is it far?
+DOCTOR: Just down the hall, can't miss it. Now, if you’ll excuse me, I have other patients waiting. .
+PATIENT: .

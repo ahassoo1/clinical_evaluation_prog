@@ -1,0 +1,28 @@
+DOCTOR: Alright, Mrs. Kilton, welcome. I’m Dr. Havird. So, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. It’s… the breathing. It’s been making a whistling sound, you see. Especially when I try to do my exercises. It worries me a little.
+DOCTOR: A whistling sound with your breathing, alright. And it’s noticeable when you exercise?
+PATIENT: Yes, Doctor. I walk every morning, keeps me strong. But lately, after just a short walk, I start to… wheeze, I think that’s the word. It’s not a good feeling. My chest feels tight, too.
+DOCTOR: Tightness and wheezing… Hmm. And how long has this been going on?
+PATIENT: Oh, let me think… maybe two weeks now? It started slowly, just a little out of breath. But the last few days it’s gotten worse, definitely. It used to be just at the end of my walk, now it starts sooner. I don’t know what I did to cause this.
+DOCTOR: Two weeks… alright. And have you had a fever, cough, or any chest pain along with this?
+PATIENT: No, Doctor, no fever. No cough, not really. Just the tightness and the whistling. And no pain, just… uncomfortable. It’s a bit scary when I can’t get a good breath. Do you think it’s serious?
+DOCTOR: Well, we need to figure out what it is before we can say how serious. Have you ever had anything like this happen before?
+PATIENT: No, never. I've always been very healthy, even now. I eat good food, I walk every day… this is new for me. I’m a little worried, Doctor. My daughter said I should come see someone right away. She worries too much, but maybe she was right this time.
+DOCTOR: Alright. And do you have any allergies that you know of?
+PATIENT: Allergies? Hmm. Not that I know of, no. I like flowers, I garden a lot. Never had a problem with them. I do sometimes feel a bit stuffy when the pollen is bad, but just a little. Not like this breathing problem. Is that important?
+DOCTOR: It can be. And what about medications?
+PATIENT: Oh, just a little something for my blood pressure. A small white pill, once a day. And sometimes, if my arthritis is acting up, I take a little something for that, too. But that’s it. Nothing else. I try to avoid pills if I can, Doctor.
+DOCTOR: Alright, let’s see… blood pressure medication, occasional arthritis medication… Okay. I’m going to listen to your lungs now, if that's alright. Could you please sit back and take some deep breaths for me?
+PATIENT: Yes, Doctor, that is fine. Deep breaths, you say? I can do that.
+DOCTOR: Alright. I do hear some wheezing, as you described. And a little bit of… diminished air movement on both sides. It’s subtle, but it's there. Your heart sounds regular, and I don't hear any extra noises. I’m going to check your oxygen saturation now.
+PATIENT: Oxygen… saturation? What is that, Doctor? Is it something bad?
+DOCTOR: It just measures how much oxygen is in your blood. It’s a quick check to see if you’re getting enough. Yours is… 92%. That’s a little on the lower side, but not critically low. It could be the breathing issue, or it could be something else. Given your age and the fact that this is new, I think we should get a chest X-ray just to rule out anything serious. I’m also going to order a simple blood test to check for infection. Does that sound alright?
+PATIENT: An X-ray and blood test… Oh dear. Is it something bad, Doctor? I’m a little scared now. I don't like hospitals very much. Is there anything else we can do?
+DOCTOR: Mrs. Kilton, we're being proactive. It’s better to rule things out than to ignore something that could be serious. An X-ray and a blood test are very simple procedures. And frankly, at your age, it’s just good sense. It doesn’t mean anything is wrong, it just means we're being thorough. We'll get the results quickly, and then we can discuss the next steps. I’m going to prescribe you a short course of an inhaler to help open up your airways in the meantime. It won't fix the problem, but it should make it a little easier to breathe. Does that sound acceptable?
+PATIENT: An inhaler… okay. I suppose that sounds alright. A little help with the breathing would be good. But the X-ray… do I have to go to the hospital? My daughter always said I should have moved closer to her, then I wouldn’t have to worry about things like this. Is it a very big hospital, Doctor?
+DOCTOR: It’s a very simple X-ray, Mrs. Kilton. You go to the imaging center down the hall. It takes five minutes, tops. No need to involve your daughter. We are being cautious, not alarming. The inhaler will help in the short term, and the tests will give us a clearer picture. Now, do you have any questions about how to use the inhaler?
+PATIENT: No, I don't think so. Just… puff it in? My daughter always said I should have listened to her more. But I always liked my garden. I suppose I will try the inhaler, and the… imaging center. When will I get the results, Doctor? And can you write down the instructions for the inhaler, just in case? My memory isn’t what it used to be.
+DOCTOR: Alright. The results should be back tomorrow. I'll have the nurse call you with the findings. And here’s the prescription for the inhaler, along with basic instructions. Frankly, it’s quite straightforward. Now, is there anything else I can assist you with today?
+PATIENT: No, Doctor, I don’t think so. Just… thank you. I hope it’s nothing serious. I suppose I should go then?
+DOCTOR: Yes, you can go. The nurse will show you the way out. And please, try to relax. We're doing everything we can. .
+PATIENT: Thank you, Doctor.

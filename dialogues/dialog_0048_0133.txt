@@ -1,0 +1,22 @@
+DOCTOR: Right. Melvenia Tippens, 76. So, what brings you in today?
+PATIENT: Oh, hello Doctor Sink. Well, I need some papers signed, actually. It's for some health forms… I think they need to be notarized, or verified somehow? It’s all a bit confusing, to be honest. I just want to get it done quickly, if that's alright.
+DOCTOR: Forms… Right. Well, I’m a physician, not a notary. I can review medical forms, verify that the information is… generally accurate, but I can’t officially “notarize” anything. What kind of forms are we talking about?
+PATIENT: Oh, goodness. See, I knew I was getting mixed up with the terms. It’s for a program… a senior assistance program. They need proof of my health, you know, to make sure I qualify. It’s mostly just listing my conditions and things. I brought the forms with me, here. Just a minute… they’re in here somewhere.
+DOCTOR: Alright. Let's just get this over with. Hand them over when you're ready. I have several other patients waiting, you understand. It’s just… a busy day.
+PATIENT: Oh, yes, of course, I understand completely. Here you are. I think this one is the main one… and these are just supporting documents, maybe? I don’t really know. They gave me a whole stack at the center. I’m sorry for the trouble. I just want to make sure I have everything right so I can get the help I need.
+DOCTOR: Hmm. Alright. Let's see… "Medical History Questionnaire." Typical. You have… high blood pressure listed here. And arthritis. Anything else?
+PATIENT: Yes, um… I had a bit of a problem with my heart a few years back, but it’s been stable since. And… oh, my eyesight isn’t what it used to be, of course. That’s why I’m having trouble reading all these papers! It’s a vicious cycle, isn't it?
+DOCTOR: Heart trouble… Alright. Was that… hospitalized?
+PATIENT: Yes, I was in the hospital for about a week. It was… scary. But the doctors fixed me up, and I haven’t had any problems since, thankfully. It was a few years ago now, maybe five or six? I don't always remember dates very well. Is this enough information, Doctor?
+DOCTOR: Fine, fine. Anything else current?
+PATIENT: Well… I’ve been having some trouble sleeping lately. Just… waking up in the middle of the night and not being able to get back to sleep. And my knees are really bothering me, especially when the weather is bad. It’s just aches and pains, really. Old age, I suppose. It's nothing serious, if that’s what you’re asking.
+DOCTOR: Sleep disturbance, knee pain… Alright. Any medications you're currently taking?
+PATIENT: Oh, yes. Let me see… I take something for my blood pressure, Lisinopril, I think it’s called. And I take a multivitamin, and sometimes ibuprofen for my knees when they’re really bad. That’s it, I think. Unless… oh! I sometimes take something for the sleep, but only when I really can’t sleep at all. It's… a small dose. I don't remember the name. It was prescribed a while ago.
+DOCTOR: Ibuprofen… and a sleep aid… What dose of the sleep aid?
+PATIENT: Oh dear. That’s where my memory fails me, I’m afraid. It was… a small, white pill. The doctor at the time said to take half if one wasn’t enough. I really don’t remember the name, or how much I take. It was a couple of years ago, you see. I just want to be sure these forms are correct so I can get the assistance I need. Is it alright if I call my old doctor’s office to find out? It might take a while.
+DOCTOR: Look, I’m not going to spend the next hour tracking down medication dosages. Half a pill?
+PATIENT: Oh, I understand. I apologize for the trouble. You’re very busy. Um… I guess… just put “as needed” for the sleep aid then? I rarely take it, honestly. It’s just… nice to have. I really don't want to hold you up.
+DOCTOR: Fine. "Sleep aid, PRN." Alright, I've reviewed your history. It seems… adequate. I'm signing these forms. There. Don’t expect miracles. This is just a brief review, and I'm not providing a full medical evaluation.
+PATIENT: Oh, thank you, Doctor. Thank you so much. I appreciate your time. I won't, I promise. I just needed a signature to get things started. I understand it's just a quick review. Have a good day, Doctor. And thank you again.
+DOCTOR: Right. Next. .
+PATIENT: .

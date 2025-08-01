@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Bulaong. I’m Dr. Sham. So, what brings you in today?
+PATIENT: Good morning, Doctor. Um, my chest… it hurts. Not all the time, but… yeah, it hurts sometimes. It’s in my chest, like… where a woman’s… you know… breasts would be. It’s strange.
+DOCTOR: Okay. Chest pain. Can you describe the pain for me?
+PATIENT: Hmm… it’s not a sharp pain. More like… a dull ache? Sometimes it feels… heavy. And it’s not always in the same spot. It’s… hard to explain. It doesn’t hurt to touch it, though. Just… feels uncomfortable. Like a bruise, maybe, but inside.
+DOCTOR: Dull ache, sometimes heavy, not localized, and no pain with palpation. How long has this been going on, Mr. Bulaong?
+PATIENT: Oh… maybe a month? I don't really keep track of dates so well. But, maybe a month. It started… slow. Just a little bit. I thought it was from working on the roof, you know, all the lifting and stuff. But it hasn't gone away. It’s… stayed about the same, I think.
+DOCTOR: A month, stable… Any other symptoms accompanying the pain?
+PATIENT: Um… no, not really. I feel tired sometimes, but I always feel tired after work. Nothing new there. No fever, no… lumps, I don’t think. I haven’t really… looked, if that makes sense. It just… hurts.
+DOCTOR: Alright. No fever, no palpable lumps. Do you have any shortness of breath, or pain radiating to your arm, neck, or jaw?
+PATIENT: No, Doctor. No trouble breathing. And no pain in my arm or neck or… jaw. Nothing like that. Just the chest. It’s… weird, for a man to have chest pain like this, right?
+DOCTOR: It can be unusual, yes. We need to rule out a few things. Have you had any recent cough, recent illness, or any weight loss?
+PATIENT: No cough. I haven’t been sick. And… no, I haven’t lost any weight. Maybe a little, from the heat, but not on purpose. I eat the same. My wife makes sure of it! She worries if I don’t eat enough.
+DOCTOR: Okay. And any family history of heart problems, or… anything like this?
+PATIENT: Hmm… my father… he had high blood pressure, I think. And… my grandmother, on my mother’s side, she had something with her heart when she was old. But… that’s all I really remember. They lived far away, so we didn’t see them much. I don’t know much about what they had, exactly.
+DOCTOR: High blood pressure in your father, cardiac issues in your grandmother. Alright. Now, let’s talk about your current medications, if any, and any allergies you have.
+PATIENT: I don't take any medicine, Doctor. Never have. And… I don't have any allergies that I know of. My wife always asks, and I tell her no. I can eat anything. She likes to try new foods.
+DOCTOR: No medications, no allergies. Okay. Let’s do a quick physical exam, if you don’t mind. I’ll listen to your heart and lungs, and just feel around a bit. Is that alright?
+PATIENT: Yeah, that's okay. Whatever you need to do, Doctor. I trust you.
+DOCTOR: Okay. Your heart sounds… regular, no murmurs that I can detect. Lungs are clear. Palpation reveals no obvious tenderness, no masses. I do notice some mild muscular tension in your chest wall. Blood pressure is 130/80. It's a little elevated, but not drastically so.
+PATIENT: Okay… muscular tension? That makes sense. I do lift a lot of heavy stuff at work. Maybe that’s all it is? Is that what you think?
+DOCTOR: It's possible. However, given the location and your description, we should rule out other possibilities. I'm going to order a chest X-ray and an EKG, just to be thorough. The X-ray will help us visualize your lungs and heart, and the EKG will check your heart's electrical activity. Would that be alright?
+PATIENT: Yeah, that sounds… good. If you think it’s best, Doctor, then yeah, let’s do it. I just want to know what’s wrong. Chest X-ray and… what was the other one? EKG? Okay. Where do I go to get those done?
+DOCTOR: EKG and chest X-ray. There's a radiology center just down the street, at 123 Main Street. The slip has all the information you’ll need. They should be able to get you in today. Once they have the results, they’ll send them to me. I’ll give you a call as soon as I review them. In the meantime, if you experience any significant worsening of your pain, shortness of breath, or dizziness, please go to the nearest emergency room immediately. Do you have any questions for me at this point?
+PATIENT: Okay, 123 Main Street. I can remember that. And… yeah, no getting worse. Okay. No, I don’t think so. That makes sense. Thank you, Doctor. I appreciate it. I just… I didn’t want to ignore it. It’s been bothering me.
+DOCTOR: You're very welcome, Mr. Bulaong. It's always best to get things checked out. We'll get these results and go from there. We’ll be in touch. Have a good day.
+PATIENT: Okay. You too, Doctor. Thank you again. .

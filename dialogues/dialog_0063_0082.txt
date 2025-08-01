@@ -1,0 +1,28 @@
+DOCTOR: Good morning. Dr. Jules. Please, have a seat. Now, Mr. Tayar, you're 22, yes?
+PATIENT: Yeah. Twenty-two. It's… a bad time, you know? For this. Traveling, I mean. Not good.
+DOCTOR: Traveling?
+PATIENT: Yeah. Gotta go. Work thing. Airplane work. I put things… on the airplane. Important things. But I need… the shots? For where I'm going. It's… hot there. Very hot. And lots of… bugs, maybe? My wife… she would have known. She always took care of this.
+DOCTOR: Right. “Shots.” Well, we need to determine which shots, Mr. Tayar. “Hot” and “bugs” isn’t a medical assessment. Do you know where, specifically, you are traveling to?
+PATIENT: Ugh. Specifics… Look, it’s… Nepal. Back to Nepal. My… the company sends me. It's… near the mountains. Not the really high mountains, but… mountains. Does that help? I don’t remember the name of the place. She booked everything. Always did.
+DOCTOR: Nepal. Mountains. Very well. And you require vaccinations for travel. I see. Have you had any vaccinations previously?
+PATIENT: Vaccinations… before? Hmm. Maybe. When I was little, I think. But I don’t… remember. Lots of needles, I think. My mother… she took me. But that was a long time ago. Not useful now, I guess. It's all fuzzy. Is this important?
+DOCTOR: “Fuzzy” isn’t helpful, Mr. Tayar. It is important. We need a baseline. Do you have any medical records available?
+PATIENT: Records? No. She had them. Everything was… organized. She kept all the papers. After… well, after she passed, I just… didn't look. Too many papers. It made me sad. Sorry. I don’t have records. Not here, not anywhere. Is that bad?
+DOCTOR: It's… sub-optimal, Mr. Tayar. Very well. We’ll have to proceed as if you have no prior vaccinations. Let’s start with a quick physical exam, then we can discuss which preventative measures are necessary. Please lie down on the examination table.
+PATIENT: Ugh. Fine. But I don't like needles. She always said I was brave, but… I don't feel brave now. Is it going to hurt a lot?
+DOCTOR: Your heart rate is… regular. Lungs are clear. Blood pressure is slightly elevated, likely due to anxiety. Now, let's check your temperature. 98.6 Fahrenheit. Normal. Any recent illnesses?
+PATIENT: Illnesses? Not really. Just… tired, I think. From work. And… everything. A little cough, maybe, last month. Nothing serious. Just a… normal cough. Like you get in the winter. She always made me drink tea when I coughed. Very strong tea. But that was… a while ago. Does that matter?
+DOCTOR: Abdomen is soft. No tenderness. Now, have you experienced any nausea, vomiting, diarrhea, or fever recently?
+PATIENT: No. No sickness. Just… sad. I eat… okay. Sometimes I don’t feel hungry. But no… throwing up or anything. Just… a little tired. And… worried. Going back to Nepal… it's… hard. Everything reminds me of her.
+DOCTOR: Very well. And are you currently taking any medications?
+PATIENT: No. No pills. She… she took some. For her… headaches. But I don’t take anything. Just… the tea. Sometimes. When I can't sleep. But that’s not a medicine, right? Just… tea. She got it special. From… a mountain shop.
+DOCTOR: “Special tea” is irrelevant, Mr. Tayar. We are discussing pharmaceutical medications. Now, are you allergic to anything?
+PATIENT: Allergies? Hmm. I don’t think so. Maybe… dust? Sometimes I sneeze. But everyone sneezes when there’s dust. She always said I had sensitive sinuses. But I don’t take anything for it. Just… try to avoid the dust. Nothing serious, I promise. She knew everything about my allergies. Or… if I even had any.
+DOCTOR: Right. Well, given your… incomplete medical history, and the fact that you are traveling to Nepal, I recommend a course of vaccinations: Typhoid, Hepatitis A, and a Tetanus booster. We will also need to discuss malaria prophylaxis. It’s crucial, given the region you are visiting. Are you willing to proceed?
+PATIENT: Malaria… prophylaxis? That sounds… bad. Like a long word. And lots of shots? She always said I was a wimp. But… I have to go. For work. If I don't go, I… lose my job. So, yes. I guess. But can we… do them slowly? One at a time? And… tell me what they’re for? In… simple words?
+DOCTOR: Very well. We'll start with the Typhoid vaccination. It protects against a bacterial infection you can contract from contaminated food and water. As for the malaria prophylaxis, we have several options. They are medications you take before, during, and after your trip to prevent infection. I recommend… …atovaquone-proguanil. It's generally well-tolerated. Now, let's get this over with. The nurse will be in shortly to administer the injection. Try to relax, Mr. Tayar. It will be… a minor discomfort.
+PATIENT: Minor discomfort? She always said that before every shot. It never was minor. Okay. But… what if I feel sick from the shot? Or the medicine? Who will help me? I don’t want to get sick before I even get to Nepal.
+DOCTOR: Side effects are uncommon, Mr. Tayar, and generally mild. Nausea, headache, perhaps some fatigue. If you experience a severe reaction, you are to seek immediate medical attention, of course. I'll provide you with a list of potential side effects and emergency contact information. The nurse will explain everything in detail. Now, if you'll excuse me, I have other patients waiting. I trust we've covered everything?
+PATIENT: Covered everything…? I don’t know. I’m still scared. But… okay. I guess. I’ll talk to the nurse. Thank you… I think. But… she would have asked more questions. She always knew what to ask.
+DOCTOR: Right. The nurse will be with you momentarily. Do try to remain calm, Mr. Tayar. It will be… less stressful for everyone.
+PATIENT: .

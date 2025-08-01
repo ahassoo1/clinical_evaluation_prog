@@ -1,0 +1,15 @@
+DOCTOR: Alright, Mr. Reyno, yes… 54. Right. So, what brings you in today?
+PATIENT: Uh, yeah. The cough. It's… bad. Been coughin' up stuff. Not just regular stuff, you know? There's... red in it. Blood. I smoke, so… I figured it was probably that. But it's been happenin' more lately. I just wanna know what's goin' on, if it's somethin' serious.
+DOCTOR: Blood, you say?
+PATIENT: Yeah. Not a lot, but… enough to worry me. It's kinda… mixed in with the mucus. Darker red, sometimes. I… honestly don't remember exactly when it started, just that it’s been gettin’ worse the last few weeks maybe? I don’t keep track of things like that. It's just...a cough. I thought it was the smokes.
+DOCTOR: Right. “Vague recollection.” Wonderful. Weeks, you say. And how often are you coughing this… up?
+PATIENT: Ugh, don't ask me numbers. It's… a lot in the mornin'. When I first wake up. And then… a couple times during the day. When I'm workin', mostly. I drive a lot, dispatchin' power. So I’m sittin' a lot. Maybe that makes it worse? I dunno. Just... often enough to be annoying, and worryin’ now, with the blood.
+DOCTOR: Dispatching… sitting a lot. Alright. Any fever, chills, night sweats?
+PATIENT: Fever… not that I know of. I haven't taken my temperature. Chills… sometimes I feel cold, but that's just the AC at work, it's always freezin'. Night sweats… maybe? I sleep pretty warm, always have. Hard to tell, you know? I just… wake up kinda sweaty sometimes. I don’t usually think much of it.
+DOCTOR: Alright. And any shortness of breath, chest pain?
+PATIENT: Shortness of breath… not really. I mean, I get tired sometimes, but that's from the job, all the sittin'. Chest pain… sometimes a little ache, but I figured it was just… old age. And from coughin’ so much. Not sharp pain, just… dull. Like a muscle ache.
+DOCTOR: Let's see… Medicare, 54… Hmm. Any past medical problems I should be aware of?
+PATIENT: Not that I remember. I… haven't been to the doctor in a while. Just regular check-ups, I guess, years ago. Maybe I had somethin’ when I was a kid, but I don’t remember what. I mostly just try to ignore things until they go away. Or get really bad.
+DOCTOR: Alright. No allergies?
+PATIENT: Uh… not that I know of. Never been stung by a bee or nothin'. No reactions to any medicines, as far as I can remember. My mom always said I was a tough kid, never got sick much. .
+DOCTOR: Alright. Let's have a listen to your lungs. Please sit up straight and take a few deep breaths. And no, I don’t need a life story with each inhale.

@@ -1,0 +1,34 @@
+DOCTOR: Right. Mrs. Kilton, is it?
+PATIENT: Yes, that is right. Margret Kilton. It is nice to meet you, Doctor… Memmolo, is it?
+DOCTOR: Memmolo will do. Let's not bother with formalities. So, what brings you in today?
+PATIENT: Oh, well. It is… the breathing. I have been… wheezing. It happens when I… when I move around too much, I think. Like when I am helping the young people stretch after practice. It is not good, you know?
+DOCTOR: Wheezing… right. And how long has this been going on?
+PATIENT: Oh, goodness. Let me think… It started… maybe two months ago? It was just a little bit at first. But it is getting worse, I think. Not much, but… noticeable.
+DOCTOR: And you said it happens with exertion?
+PATIENT: Yes, Doctor. When I am… working. I help the students with their stretching, and sometimes after we run, when they are cooling down. It is when I am doing things. When I am sitting, it is okay. Mostly. Sometimes a little, even then.
+DOCTOR: Any chest pain?
+PATIENT: Chest pain? No, not really. Not pain, exactly. Sometimes it feels… tight. Like a squeezing. But it doesn’t hurt. It is hard to explain. Just… uncomfortable. More like a… pressure, maybe?
+DOCTOR: Right. And have you had a cough?
+PATIENT: Yes, a little. Not a bad cough. Just… here and there. Mostly in the mornings. It is not much. It doesn't keep me up at night, if that makes sense. Mostly just… a tickle in my throat.
+DOCTOR: Any fever?
+PATIENT: No, no fever. I check myself. I always do. My temperature is normal. I haven't felt sick, really. Just… this breathing. It worries me because I like to stay active. I help the young people, and I don't want to… slow them down.
+DOCTOR: Alright. And do you smoke, or have you ever smoked?
+PATIENT: Oh, no, Doctor. Never. My husband… he used to smoke, a long time ago. But I never have. It is bad for you, you know? Very bad. I always told him so. And I try to make sure the students know that too. It is important to be healthy.
+DOCTOR: Any known allergies?
+PATIENT: Hmm… allergies. Let me think. Not that I know of. I eat all sorts of things. Sometimes my skin gets a little itchy, but I think that is just the weather. Dry air, mostly. Nothing… serious. I’ve never been told I have allergies, if that helps.
+DOCTOR: Alright. Let’s have a listen to your chest. Please sit up straight.
+PATIENT: Oh, yes, of course. Whatever you think is best, Doctor. I hope it is not too bad. It just… feels tiring sometimes.
+DOCTOR: Hmm. There’s some wheezing, as you said. Reduced air entry in both lung bases. Nothing alarming, but definitely something we need to look at. Have you ever had a chest X-ray?
+PATIENT: Oh, goodness. A chest X-ray? I don't think so. Not that I remember, anyway. A long time ago, maybe? When I was younger, perhaps. But I can’t say for sure. I have had many doctors over the years… I move around a lot. It is hard to keep track. Is it… is it something bad, Doctor?
+DOCTOR: It's likely nothing serious, but we need to rule things out. I'm going to order a chest X-ray and some basic blood work to check your oxygen levels and look for any inflammation. It's standard procedure. Do you have any other medical conditions I should be aware of?
+PATIENT: Oh, goodness. Blood work… alright. That sounds… thorough. Let me think… I used to have high blood pressure, a long time ago. But it is under control now. I take a little pill every morning. And my arthritis… it bothers me sometimes, in my knees. But that's all, really. Nothing else that I can think of. I try to stay healthy, Doctor. Really, I do.
+DOCTOR: What medication do you take for your blood pressure?
+PATIENT: Oh, let me see… It is… lisinopril. Yes, that is it. Lisinopril, 10 milligrams, every morning. I have been taking it for… oh, goodness. Maybe ten years now? It keeps things nice and steady, I think. My old doctor prescribed it. He was very good.
+DOCTOR: Alright. And do you have any family history of lung problems?
+PATIENT: Oh, family history… Hmm. That is a good question. My mother… she had a bad cough sometimes, when she was old. But I don't think it was anything serious. Just… an old woman’s cough, I suppose. My father… he was very strong. Never sick a day in his life. I don't think so, Doctor. Not that I know of. We didn't talk much about… those things. It was different back then.
+DOCTOR: Okay. I’m going to order those tests. The lab is just down the hall. Once you’ve had them done, you can schedule a follow-up appointment with me to discuss the results. We will see what the X-ray shows, and go from there. Do you have any questions for me?
+PATIENT: Oh. Alright. Tests… and then a follow-up. Very good. Hmm… Well, I suppose I am a little worried about what it could be. But I trust your judgment, Doctor. Is there anything I should avoid doing while I wait for the results? Should I take it easy? I don't want to make things worse. I like to help the students, you see. It would be awful to have to stop.
+DOCTOR: Avoid strenuous activity. Listen to your body. If you feel short of breath, stop. Honestly, you’re probably just getting older. It happens. I'll have the nurse give you the lab requisition and instructions for scheduling the follow-up. Is there anything else?
+PATIENT: Oh. Just… getting older. Well, that is… reassuring, in a way. But I do like to stay active. Alright. I will try to take it easy, and listen to my body. Yes. Thank you, Doctor. I think… that is all. I appreciate your help.
+DOCTOR: Good. You can go. The nurse will see you out.
+PATIENT: Oh. Very good. Thank you again, Doctor. .

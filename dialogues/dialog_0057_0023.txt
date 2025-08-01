@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Mr. Bulaong. I'm Dr. Sieh. It’s nice to meet you. So, to start, can you tell me what brings you in to see me today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um... it’s my chest. It hurts a little. Not all the time, but… yeah, it hurts.
+DOCTOR: Okay. And when you say it hurts, can you describe the pain for me?
+PATIENT: Hmm... it’s not a sharp pain. More like… a dull ache. Sometimes it feels like…fullness? Like it’s heavy. And it’s… both sides, not just one spot. Does that make sense?
+DOCTOR: Yes, that does make sense. Both sides, a dull ache and sometimes a feeling of fullness or heaviness. And when did you first start noticing this chest pain, Mr. Bulaong?
+PATIENT: Um... maybe a month ago? It started slow, just a little uncomfortable after work. I do roofing, so… I thought it was just from using my arms a lot. But it hasn’t gone away, even on my days off.
+DOCTOR: Okay, a month ago, and it initially seemed related to work, but is now present even on your days off. Does anything specific make the pain worse?
+PATIENT: Hmm… I think… when I lay down flat. And… when I move my arms too much. Like… reaching for things. It's not a bad pain, but I notice it more then. Does that help?
+DOCTOR: Yes, that’s helpful. Laying flat and reaching with your arms make it worse. And does anything relieve the pain at all?
+PATIENT: Not really. Maybe… sitting up? And… not moving my arms. I try to take it easy, but… you know, roofing. It’s hard to not move my arms.
+DOCTOR: Okay, so sitting up and resting your arms seems to help a little. We should also talk about other things that might be going on. Have you had any cough, fever, or shortness of breath along with this chest pain?
+PATIENT: No, Doctor. No cough, no fever. I can breathe okay. Not harder than usual. Just… the pain. It’s just the pain, really. I haven’t felt sick or anything.
+DOCTOR: Alright, good to know. Now, let's go through some other health questions. Do you have any history of heart problems, high blood pressure, high cholesterol, or diabetes?
+PATIENT: No. No heart problems. My blood pressure is… I think okay? I haven’t been to the doctor in a while. And no, no diabetes. My wife checks my sugar sometimes, and it's always fine. I think.
+DOCTOR: Okay, that’s good information. Have you ever had any surgeries or been hospitalized for anything?
+PATIENT: No, Doctor. Never had surgery. Never been in the hospital. I've been pretty lucky, I think. Just… bumps and bruises from work, that’s all. Nothing serious.
+DOCTOR: Alright, good. And what about your family?
+PATIENT: Um... my mom had… arthritis, I think? In her hands. My dad… he had a bad back. But… nothing with his chest, I don’t think. I don’t know about my grandparents. They passed away a long time ago.
+DOCTOR: Okay. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, Doctor. I don’t smoke. I drink sometimes, maybe a beer with dinner on the weekend. But not much. And no, no drugs. Never done any of that.
+DOCTOR: Okay, good to know. And finally, do you have any allergies to any medications or anything else?
+PATIENT: No allergies, Doctor. Not that I know of. I can take most medicine fine. My wife gives me allergy pills sometimes when the pollen is bad, and those work okay.
+DOCTOR: Alright, thank you for that information, Mr. Bulaong. Now, I'd like to do a quick physical exam. I'm going to listen to your heart and lungs, and I’ll also feel around your chest to see if I can pinpoint the source of the pain. Is that alright with you?
+PATIENT: Yes, that’s okay, Doctor. Whatever you need to do. I hope you can find out what's wrong.
+DOCTOR: Okay, Mr. Bulaong. I'm hearing a slightly elevated heart rate, but your lungs sound clear. It does seem tender to the touch along the cartilage of your ribs on both sides. This could be costochondritis – inflammation of the cartilage in your rib cage. It’s a common cause of chest pain, often brought on by physical activity or strain. However, because you're experiencing chest pain, and to rule out other potential causes, I'd like to get an EKG and a chest X-ray. Does that sound good to you?
+PATIENT: An EKG and… a chest X-ray? Okay… yeah, sure. If that’s what you think is best, Doctor. What will those show? Will it hurt?
+DOCTOR: The EKG will check the electrical activity of your heart to make sure everything is working properly. It’s completely painless – we just put some sticky pads on your chest, arms, and legs. The chest X-ray will give us a picture of your lungs and heart to look for any other problems. It doesn't hurt either, but you'll need to stand still for a few seconds while the picture is taken. Do you have any questions about either of those tests?
+PATIENT: No… not really. Sticky pads and a picture… okay. Sounds… easy enough. Will I get the results today? And… how much will all of this cost? I don't have insurance.
+DOCTOR: Okay, good. We should have the results back within the hour. As for the cost, without insurance, the EKG will be around $150, and the chest X-ray around $200. I understand not having insurance can be difficult, and we do have a payment plan option available if needed. Let's get those tests done first and then we can discuss the payment options. I'll have the nurse come in to get you set up for the EKG and X-ray. She will explain the process in more detail. Is that alright?
+PATIENT: Yes, that’s okay. Payment plan… that would be good, if we need it. Thank you, Doctor. I appreciate it.
+DOCTOR: Excellent. I'll let the nurse know to come in shortly. While we’re waiting, is there anything else you’d like to ask me right now?
+PATIENT: No, Doctor. I think that’s all for now. Just… thank you. I’m a little worried, but I feel better knowing you're looking into it.
+DOCTOR: .

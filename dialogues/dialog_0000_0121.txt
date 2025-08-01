@@ -1,0 +1,32 @@
+DOCTOR: Alright, Mr. Pipolo, good to meet you. So, tell me, what brings you in today?
+PATIENT: Dry eyes. Been happenin’ a bit. Makes things… blurry sometimes. Not all the time, thankfully. Just… dry.
+DOCTOR: Hmm. Dry eyes, you say?
+PATIENT: Yeah. Like sand. Not real sand, but… you know. Feels like somethin’ is scratchin’. Especially when the wind blows. I work outside, see. Cement work. Lots of dust.
+DOCTOR: Cement work, right. Plenty of dust. And how long has this been going on?
+PATIENT: Oh, geez. A while now. Maybe… six months? Hard to say exactly. Gets worse some days than others. When it's windy, for sure. And when I don't… drink enough, maybe? I forget things these days, so hard to keep track.
+DOCTOR: Six months… and it’s worse with wind and possibly dehydration. Do you find it's worse at any specific time of day?
+PATIENT: Not really. Seems pretty much the same all day. Mornin', noon, night… doesn’t make much difference. Just… dry. It’s annoying, is all.
+DOCTOR: Alright. Any other symptoms along with the dryness?
+PATIENT: Other symptoms? Hmm… not that I noticed. Maybe a little… tired eyes? But I'm eighty-three, Doc. Everything’s tired.
+DOCTOR: I understand. Alright, let’s move on to a quick review of your overall health. Do you have any other medical conditions I should be aware of?
+PATIENT: Not really. Just… old. And I got a bad knee, but that's just from workin’ too hard all these years. Don't take no medicine for it, just try to ignore it.
+DOCTOR: Okay, no other medical conditions… and you manage your knee pain without medication. Have you had any surgeries in the past?
+PATIENT: Nope. Never had surgery. Too scared, I think. And never needed it, 'til maybe now. This knee… but I can still get around, so… haven't bothered with it.
+DOCTOR: Alright, good to know. Now, what about family history?
+PATIENT: Family history… geez. My mom and dad, they’re gone now. Lots of fishin' in their family. Not much sickness, as I recall. They were tough folks. Lived a long time. I don’t remember anyone with… eye trouble.
+DOCTOR: Okay, no family history of eye trouble. And how about your lifestyle?
+PATIENT: Lifestyle? I work. I eat. I sleep. Not much else. Mostly just cement work, like I said. I live alone. Never married. It's… simple.
+DOCTOR: Right. Simple. Any allergies I should be aware of?
+PATIENT: Allergies? Not that I know of. I eat most things. Never had a reaction to nothin’. Maybe dust? But that’s just from the job.
+DOCTOR: Okay. And you aren't currently taking any medications?
+PATIENT: Nope. Don't take nothin’. I prefer it that way. Too many side effects, I heard.
+DOCTOR: Alright, Mr. Pipolo. Let’s take a look at those eyes. If you don’t mind.
+PATIENT: Go ahead. Whatever you need to do, Doc. Just… hurry it up, if you can. I got things to do.
+DOCTOR: Alright. Looking at the surface of your eyes, I see some dryness and mild irritation. Your tear ducts appear normal, but they aren’t producing sufficient lubrication. Your conjunctiva is slightly inflamed. Hmm. It’s consistent with dry eye syndrome. It’s very common, especially with exposure to dust and wind.
+PATIENT: Dry eye syndrome? Sounds awful. Can you fix it? I need to see good for my work.
+DOCTOR: It's not "awful", Mr. Pipolo. It’s manageable. We can certainly try to improve it. It's unlikely to be completely cured, but we can reduce the discomfort. I recommend starting with over-the-counter lubricating eye drops – the kind without preservatives, use them four times a day. If that doesn’t help, we can discuss prescription options. I also recommend a warm compress on your eyes for five to ten minutes each day to stimulate tear production. And, of course, wear eye protection when you're working with cement. Do you understand?
+PATIENT: Eye drops… and a warm… what’cha call it… compress. And glasses. I do wear glasses when I’m workin’. Okay. Four times a day. I think I can remember that. What if it doesn’t get better?
+DOCTOR: If it doesn't improve, we can consider prescription eye drops or, in rare cases, a procedure to block your tear ducts to help conserve moisture. But let's start with the basics. Try the eye drops and compress for two weeks, and then we can re-evaluate. Now, I’m going to write you a note explaining this and recommending the eye drops. Do you have any other questions?
+PATIENT: No. Just… get it over with, Doc. I gotta get back to work.
+DOCTOR: Alright. Here you go. Follow these instructions, and if you’re still having trouble in two weeks, give the office a call. Have a good day, Mr. Pipolo. And please, try to protect those eyes. .
+PATIENT: Alright. Thanks.

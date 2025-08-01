@@ -1,0 +1,31 @@
+DOCTOR: Alright, Mr. Bulaong. So, what brings you in today?
+PATIENT: Uh, hi. It’s my chest. It… hurts sometimes. Not all the time, but it does hurt. It’s… here. <points to chest> It’s not like, a bad pain, but… it’s there.
+DOCTOR: "Sometimes," you say. Okay. And how long has this “sometimes” been going on?
+PATIENT: Hmm… maybe, like, two weeks? I dunno exactly. I didn't think much of it at first. Just figured I slept wrong or something. But it keeps happening. Not after work every time, but… when I move my arms a lot, sometimes.
+DOCTOR: Right. So, two weeks, triggered by arm movement occasionally. And you say it's not a bad pain… can you describe it a little more?
+PATIENT: It’s… like a dull ache? Not sharp. More… heavy feeling? Like, something is… pressing. And sometimes it feels like it’s inside, not just on the skin. It's hard to say, really. I'm not good with explaining this stuff. <shrugs>
+DOCTOR: Okay, "heavy" and "dull", sometimes internal. And does anything make it better?
+PATIENT: Uh… resting. When I stop moving around, it gets better. And… my wife rubs it sometimes. That helps a little. Just… rubbing it. Not a hard rub, just… gentle. Does that make sense?
+DOCTOR: Rest and gentle massage. Alright. Now, have you had any trouble breathing?
+PATIENT: No, no trouble breathing. I can breathe fine. Everything feels normal with that. I lift stuff all day, you know? Roofing… gotta breathe. <chuckles softly> So, yeah, breathing is okay.
+DOCTOR: Good. Any fever, chills, cough?
+PATIENT: No, no fever. Not cold or anything. No cough. Everything else feels normal. Like I said, it's just… my chest. It’s just a weird pain. I’m not sick, I don't feel sick. <fidgets with his hands>
+DOCTOR: Alright. Now, let’s talk about your past medical history. Have you ever been diagnosed with anything?
+PATIENT: Uh… not really. I broke my arm when I was a kid, climbing a tree. But that healed. And… my wife says I snore really loud. <laughs nervously> But that’s not a… diagnosis, right? Nothing serious. I haven’t been to a doctor in… a long time, honestly.
+DOCTOR: A broken arm as a child and snoring. And no other medical problems?
+PATIENT: No, sir. Nothing else. I’m a roofer. I'm pretty tough. I get bumps and bruises, but I just… work through it. Never needed to see a doctor for anything serious. That's why I was surprised when my chest started hurting. It just… felt weird. <shrugs helplessly>
+DOCTOR: Alright. Family history. Any heart problems, lung issues, or anything like that run in your family?
+PATIENT: Hmm… my… my mom had high blood pressure, I think? She was always tired, but I don’t know what was wrong with her. And my grandpa… he smoked a lot. I don't know if he got sick from it, but he coughed a lot. That's all I really remember. <pauses, thinking> Nothing else, I don't think. We don’t really talk about that stuff.
+DOCTOR: Alright. And, just to be thorough, any medications you’re currently taking?
+PATIENT: No, sir. Nothing. I don’t take anything. I try to stay away from pills if I can. Just… water. And sometimes coffee, to stay awake. But that’s it. No prescriptions, no vitamins, nothing. <shakes his head> I’m a pretty simple guy.
+DOCTOR: Alright. Well, let's have a listen to your chest, then. I'd like to do a quick physical exam, just to get a better idea of what's going on. Can you please take a deep breath in for me?
+PATIENT: Okay, sure. Deep breath… like this? <takes a noticeably deep breath, puffing out his chest> Is that okay? It’s kinda hard, it feels weird to breathe deep when I'm thinking about it. <looks at Doyle anxiously>
+DOCTOR: Lungs clear to auscultation bilaterally. Now, I'm going to palpate your chest wall. Just tell me if anything feels particularly tender. <Presses gently on Aron's chest> Is this painful?
+PATIENT: Uh… yeah. Right there. <points to the same spot as before, wincing slightly> That’s where it hurts. Not a bad pain, but… yeah, that’s tender. It feels… like a bruise, almost. But I didn't hit myself or anything. <frowns in confusion>
+DOCTOR: Tenderness is localized to the anterior chest wall. Now, I want you to raise both your arms above your head, then push against my hands. <Demonstrates, then waits for Aron to comply> And... slowly. Don't strain yourself.
+PATIENT: <Raises arms slowly, looking strained> Okay… like this? It’s kinda hard, I don’t do this much. Roofing… it’s more like bending and lifting. <pushes against Doyle’s hands weakly, grimacing> Yeah, that… makes it hurt a little more. It’s kinda like a stretching pain. Not a sharp pain, but… uncomfortable. It feels… heavy. <lowers arms slowly> Is that what you wanted to see?
+DOCTOR: Alright. Given your age, the localized tenderness, and the fact that it's exacerbated by movement, it sounds like musculoskeletal pain. Most likely a strain of the intercostal muscles. It's not alarming. I'm going to recommend rest, avoid strenuous activity for a week or so, and over-the-counter pain relief – ibuprofen or naproxen should do the trick. If it doesn't improve after a week, or if it gets significantly worse, then you should come back and we can consider further evaluation. Do you have any questions?
+PATIENT: Uh… okay. Rest… and pills. I guess that makes sense. Ibuprofen… yeah, I think my wife has some. <pauses, thinking> So, it’s not… serious? Like, my heart isn't bad? I just pulled a muscle? <looks at Doyle anxiously> That's… good. <relaxes slightly> No, I don't think I have any questions. Just… try not to move around too much, right? Thank you, sir. <stands up slowly>
+DOCTOR: Yes. That's correct. Rest, over-the-counter pain relief, and avoid strenuous activity. And yes, it's unlikely to be anything cardiac, given your description and exam. But if you experience any shortness of breath, chest tightness, or dizziness, go to the emergency room immediately. Understand?
+PATIENT: Yes, sir. Shortness of breath… chest tightness… emergency room. Got it. I will. Thank you for seeing me. <starts to walk towards the door, looking relieved> I appreciate it. <pauses at the door> And… thank you again. <exits the room>
+DOCTOR: .

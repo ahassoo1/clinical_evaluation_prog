@@ -1,0 +1,27 @@
+DOCTOR: Right. Nykisha Paes, age 47. So, what brings you in today?
+PATIENT: Well, hi Doctor Sink. It’s… it’s my skin, mostly. It’s been getting darker, you know? And I’ve just been feeling really tired lately, even when I get enough sleep. It’s been going on for a couple of months now, I think.
+DOCTOR: Darker skin… and fatigue. Months, you say?
+PATIENT: Yeah, a couple of months. Maybe three? It’s hard to say exactly. It’s not like a sudden thing, it just… gradually got more noticeable. It’s all over, really – my arms, my face… even my legs a little bit. It's not itchy or anything, just… different colored.
+DOCTOR: Different colored… alright. And you said fatigue?
+PATIENT: Yeah, tired. Like, really tired even after a full night’s sleep. I work at the chemical plant, so I need to be on my feet and alert, and it’s been harder and harder to stay focused. It’s not just feeling a bit sleepy, it’s like… drained, you know? Like all my energy is gone.
+DOCTOR: Chemical plant, hm. And you're… Cambodian, correct?
+PATIENT: Yes, that’s right. Khmer, from Cambodia. I’ve lived here a long time, though. And, um… is that… is that important? Is it something to do with my skin? I'm not sure I understand.
+DOCTOR: It's… relevant. Some skin conditions are more prevalent in certain ethnicities. Now, have you noticed any other changes?
+PATIENT: Oh, okay. I see. No, not really. I mean, no rashes or anything like that. My weight hasn’t changed, I don't think so. And… let me think… Oh! Actually, now that you mention it, my appetite has been a little smaller lately. Not a lot, just… not as hungry as usual. Does that matter?
+DOCTOR: Smaller appetite… alright. And any family history of skin issues or… fatigue?
+PATIENT: Hmm… that’s a good question. My mom, she had… well, she had a lot of problems, but I don’t remember anything specifically about skin. She was always sick, but it was more… stomach problems, I think. And my dad, he was pretty healthy, as far as I know. No real issues that I can recall. I don’t really know much about his family, to be honest. We didn't talk about it much.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: No, not that I know of. I haven’t really taken much medication in my life, to be honest. Just… over-the-counter stuff for headaches sometimes. Nothing serious. I’m usually pretty healthy, or was pretty healthy, anyway. Is it possible it’s just stress? Work has been a little busy lately.
+DOCTOR: Stress… possibly. Though fatigue and skin discoloration over months is… unusual for simple stress. Let's do a quick exam, shall we?
+PATIENT: Okay, that sounds good. Whatever you think is best, Doctor. I just want to figure out what's going on. I'm starting to get a little worried, to be honest. Where do you want me to start?
+DOCTOR: Please, have a seat. I'll need to listen to your heart and lungs, and then I'll take a look at your skin. Please remove your sleeves, and we'll start with your arms.
+PATIENT: Okay. Is it okay if I keep my shirt on? I… I get cold easily.
+DOCTOR: Fine, keep your shirt on. Let's just start with your arms then. Heart sounds are regular, lungs are clear. Now, let me see your arms. Hmm. There's some mild hyperpigmentation, as you mentioned. Not particularly alarming, but we'll need to investigate further.
+PATIENT: Okay. Is it… bad? What does "investigate further" mean? Do I need tests? I don’t really like needles, Doctor.
+DOCTOR: "Investigate further" means we'll need some blood work, yes. A complete blood count, a metabolic panel, and… possibly a thyroid test. It's standard procedure to rule out various possibilities. And no, it won't be too bad. A small prick. We have to be thorough, don't we?
+PATIENT: Okay… blood work. I guess that’s okay. As long as it doesn’t take too long. And you said it’s just a little prick? Not a lot? I get a little lightheaded sometimes, so… I just want to make sure it's nothing serious.
+DOCTOR: It's a very small amount of blood. And yes, we'll have you lie down during the draw, just in case. The lab is just down the hall. I’ve ordered the tests, and they should be able to see you right away. Bring this form with you. Once the results are back, we'll schedule a follow-up appointment to discuss them. It's likely nothing serious, but we need to rule things out.
+PATIENT: Okay. Thank you, Doctor. Lie down, you said? Just in case. Alright. I’ll… I’ll go to the lab now. Is there anything else I need to know? Or do? Or…
+DOCTOR: No, that’s all for now. Try to relax. And drink plenty of water. Don’t eat anything heavy before the blood draw, just in case. Do you have any questions before you go?
+PATIENT: No, I think that's everything. Thank you for seeing me, Doctor Sink. I appreciate it. I’ll go find the lab now. Hopefully, everything will be okay. .
+DOCTOR: Yes, yes. Hopefully. Now, if you'll excuse me, I have other patients.

@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Kingan. I am Dr. EADDY. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just need a check-up for… a team tryout. Yeah, a sports team. Gotta make sure I'm good to go, you know? Don't want any surprises.
+DOCTOR: A team tryout, you say. At your age?
+PATIENT: Hey, age is just a number, Doctor. I stay active. Been keeping in shape. Don't see why that should be a problem. Just need the paperwork signed off on, if everything’s alright.
+DOCTOR: Very well. We shall proceed with a basic examination, then. It’s standard procedure, regardless. Before we begin, could you tell me a bit about what kind of team tryout this is?
+PATIENT: Uh, it’s… Mongolian wrestling. It's a local thing, nothing fancy. Mostly just want to make sure my back’s okay, I tweaked it a bit last month training. Nothing serious, really.
+DOCTOR: Mongolian wrestling. A rather… vigorous activity, I presume. You mentioned a tweaked back. Can you describe that further?
+PATIENT: Yeah, it was just a pull, you know? Lifting someone a bit too hard. Felt a sharp pain, but it went away pretty quick. Been doing stretches, feels better now. Mostly just a little stiff in the mornings, that’s all. It hasn’t stopped me from training, though. I just… I don’t want it to become something.
+DOCTOR: I see. And when you say "a bit too hard," can you quantify that, Mr. Kingan?
+PATIENT: Quantify? You mean… how much? Uh… he's a pretty big guy. Maybe… 220 pounds? Something like that. Look, I just lifted him, it felt a little wrong, and I stopped. I’m not a doctor, I don’t know weight and measurements exactly! It wasn’t that bad. Honestly.
+DOCTOR: Right. Well, we'll need to assess your range of motion. Please lie down on the examination table. We’ll start with a basic neurological exam and then move onto palpation of your spine. Do you have any history of back problems, prior injuries, or surgeries?
+PATIENT: Nope, never had any surgeries. Just the little back thing I told you about. No other injuries, nothing broken or anything. A little sore sometimes after training, but that's just getting old, I guess.
+DOCTOR: Very well. Please lie flat, arms at your sides. I’m going to check your reflexes now. This may be slightly uncomfortable.
+PATIENT: Okay, okay. Just… try not to hit me too hard, alright?
+DOCTOR: Alright, Mr. Kingan. Now, can you point your toes and flex your feet?
+PATIENT: Yeah, sure. A little stiff, like I said. It's better when I've warmed up.
+DOCTOR: Hm. There’s some tenderness at L4-L5. And your range of motion is slightly limited in flexion. Do you experience any radiating pain down your legs when you bend forward?
+PATIENT: No, no pain down the legs. Just feels… tight. Like a knot. More of a muscle thing, I think. Is that bad? I told you I just tweaked it.
+DOCTOR: It's… not ideal. And the limited range of motion is concerning, regardless of your self-diagnosis. Now, I’m going to need you to perform a few simple exercises. Can you stand and try to touch your toes without bending your knees?
+PATIENT: Ugh… There! See? Not terrible. It's just… not as flexible as it used to be.
+DOCTOR: Mm-hm. And what about rotating your torso?
+PATIENT: Okay… Oof. That's… not great. Feels like something’s catching. Look, I think I just need a good massage, honestly. Everything’s tight from training. Can we just sign off on this form? I really need to get going.
+DOCTOR: Mr. Kingan, I understand your desire to continue with your activities, but I cannot simply sign off on a form without a proper assessment. Given your limited range of motion, tenderness, and history of pain, I recommend an MRI to rule out any underlying structural issues. It's possible you have a mild disc herniation or a muscle strain, but we need imaging to confirm. I'm also going to recommend physical therapy, regardless of the MRI results. Continuing to participate in strenuous activity without addressing these issues could lead to further injury.
+PATIENT: MRI? Physical therapy? Look, Doctor, I just want to wrestle! It's a local thing, it's not the Olympics. I don't need all this… fuss. I’ll just be careful, okay? I always am. Can’t you just write something saying I’m generally healthy and I’m cleared for light activity? I don’t have insurance, you know? MRI’s are expensive. I just... can we please just finish this? .
+DOCTOR: Mr. Kingan, I understand your financial concerns, but I cannot compromise my professional ethics. Signing off on a form stating you are cleared for activity when there are clear indicators of a potential issue would be irresponsible and could lead to serious harm. I strongly advise you to reconsider the MRI. We can discuss potential financial assistance programs, but I will not knowingly permit you to participate in a physically demanding activity without a proper diagnosis. Perhaps a less strenuous activity for the time being?

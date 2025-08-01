@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I'm Dr. Burlingham. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Um, it's… the belching. It’s been happening a lot lately. It's... embarrassing, really.
+DOCTOR: Belching, you say. Hmm. And how long exactly has “a lot lately” been?
+PATIENT: Maybe… two weeks? It started slow, just after dinner sometimes. But now… almost anytime. Even if I don’t eat much. It’s… a lot.
+DOCTOR: Two weeks. Right. And is there anything… particular you’ve been eating that seems to trigger it?
+PATIENT: That’s a good question. I don’t think so. I eat… normal things. Rice and beans, chicken… sometimes fish. I tried not eating spicy food, just in case, but it didn’t help. It still happens.
+DOCTOR: “Normal things.” Well, that’s not very helpful, is it?
+PATIENT: Oh! Sorry, Doctor. I just… I don’t know what to tell you. I eat what my mother makes, what’s in the store. Not… fancy food. Maybe… more soda than usual? Because it’s hot. But I don’t drink that much.
+DOCTOR: Soda, alright. And how much would you say “more” is?
+PATIENT: Um… usually I have maybe one small bottle a day. But these last two weeks… maybe two? Sometimes three, if it’s really hot. They’re not big bottles, though. Like, twelve ounces? Is that a lot? I don’t really keep track.
+DOCTOR: Twelve ounces… three times a day is excessive, Ms. Fogelstrom. It’s carbonation, you see. It builds up gas. Now, aside from the soda, are you experiencing any other symptoms?
+PATIENT: Other symptoms? Hmm… Not really. Maybe… sometimes my stomach feels a little bloated, but I thought that was just from eating too much. And… a little heartburn, but I take something for that. It's not bad. Is the belching because of something serious?
+DOCTOR: Serious?
+PATIENT: No, no, not serious, I hope! It’s just… annoying. And embarrassing. My friend said it could be something bad, so I thought I should come see you.
+DOCTOR: Your friend. Well, people always think the worst, don't they?
+PATIENT: Yes, they do! My mother always says the same thing. So, what do you think is happening, Doctor? Is it just the soda?
+DOCTOR: It’s almost certainly the soda, Ms. Fogelstrom. And likely your diet in general. It’s causing excessive gas. Now, let’s do a quick exam, just to be thorough. Lie back on the examination table, please.
+PATIENT: Okay. So... just stop drinking soda? I can do that. It’s hard though, it’s so hot!
+DOCTOR: Alright. Breathe normally. And tell me, any pain when I press here?
+PATIENT: No, that doesn’t hurt. Just a little… pressure. But no pain.
+DOCTOR: And here?
+PATIENT: No, that doesn’t hurt either. Everything feels… normal. Except the belching, of course! It’s just… a lot of air. Is that it?
+DOCTOR: Mm-hm. Your abdomen is… unremarkable. As I suspected, it’s likely just excessive gas. Now, I'm going to have you try eliminating carbonated beverages and see if that helps. And try to eat smaller portions. If it continues after two weeks of dietary changes, then we’ll consider other possibilities, but I doubt it’ll come to that. I'll give you something for the bloating, just in case. It's a mild anti-gas medication. Here you are. Take as directed. Any questions?
+PATIENT: No, I think I understand. Stop the soda, smaller meals, take this medicine. Thank you, Doctor. I can do that. And… if it doesn’t get better, I’ll come back.
+DOCTOR: Yes, come back. And try to be more mindful of what you're putting into your body, Ms. Fogelstrom. It’s common sense, really. That will be all for today. The nurse will schedule a follow-up appointment if necessary. Now, if you'll excuse me, I have other patients to see.
+PATIENT: Okay. Thank you again, Doctor. Have a good day. .
+DOCTOR: .

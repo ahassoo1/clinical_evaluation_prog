@@ -1,0 +1,32 @@
+DOCTOR: Well, Mr. Tati, good morning. I’m Dr. Fourney. So, what brings you in to see me today?
+PATIENT: Uh, good morning, Doctor. It's... the cough. Been coughing a lot. And I feel tired all the time. Also, my nose… gets blocked up a lot. Like, sinus thing, I think? It happens often.
+DOCTOR: A cough, fatigue, and nasal congestion. "Often," you say?
+PATIENT: Yeah, often. Maybe… every month? Or few weeks, something like that. It's hard to remember exactly. It just… keeps coming back. My wife keeps telling me to come see someone, she worries.
+DOCTOR: Every month, or few weeks… right. And is this cough productive?
+PATIENT: Productive? Uh… does that mean… do I cough stuff up? Yes. Yeah, I cough up… phlegm. Sometimes it's yellow, sometimes clear. I don't really pay attention. Sorry.
+DOCTOR: Yellow or clear phlegm. Alright. And have you noticed anything that makes it worse?
+PATIENT: Hmm… worse? Let me think… cold air, maybe? When it's really cold outside, it gets bad. And… sometimes when I bend down, it feels tighter in my chest. I work with tires all day, so… lots of bending.
+DOCTOR: Cold air and bending… interesting. Now, are you experiencing any fever, chills, or shortness of breath with this cough?
+PATIENT: Fever… not really. I haven’t checked my temperature. Chills… sometimes, yeah, when I’m really tired. And… not really short of breath. Just… tired after coughing a lot. Like, can’t do much.
+DOCTOR: Alright. And do you smoke, or have you ever smoked?
+PATIENT: No, no smoke. Never. My wife doesn’t like smoke, so I don’t.
+DOCTOR: Good. Let's talk about allergies. Do you have any known allergies to medications, food, or environmental factors?
+PATIENT: Allergies… uh… I don't think so. Nothing I know of. Maybe dust a little? When I’m cleaning the tires… sometimes I sneeze. But everyone sneezes when cleaning, right?
+DOCTOR: Yes, dust is a common irritant. Alright. Now, let’s move on. What medications are you currently taking, if any?
+PATIENT: Uh… nothing regularly. Sometimes I take… painkiller for my back. When it hurts from lifting tires. Just when it hurts. The yellow box… Panadol, I think?
+DOCTOR: Panadol, as needed for back pain. Do you have any medical conditions – high blood pressure, diabetes, anything like that?
+PATIENT: Uh… no. Doctor told me years ago, my blood pressure was okay. Nothing else, I think. I don’t really go to the doctor unless something really hurts.
+DOCTOR: Alright. And what about your family?
+PATIENT: Family? Uh… my dad, he had… something with his lungs, I think. When he got old. Lots of coughing. My mom was healthy. I don't really know much detail. Sorry.
+DOCTOR: History of lung issues in father… vague, but noted. Now, let’s get a quick listen to your lungs and check your vitals. Please sit up straight on the examination table.
+PATIENT: Okay. Okay, here.
+DOCTOR: Take a deep breath for me… and again… Okay. Hmm. I’m hearing some wheezing in your lower lobes, and slightly diminished breath sounds overall. Your heart sounds are regular, though. Blood pressure is a little elevated – 140 over 90. Pulse is 88. Not ideal, but not drastically concerning at this moment. It's likely your fatigue is a result of the constant coughing and possibly a mild chest congestion.
+PATIENT: Okay… that sounds… bad? Is that bad? The coughing… it's just annoying, mostly. I just want to feel less tired. My wife worries when I’m tired.
+DOCTOR: “Bad” is a subjective term, Mr. Tati. It’s concerning, certainly. The wheezing suggests some inflammation in your airways. Given your history of recurring symptoms, the occasional yellow phlegm, and the elevated blood pressure, I suspect you may be dealing with a chronic condition – possibly mild asthma exacerbated by environmental irritants at work. However, we need to rule out other possibilities. I’m going to order a chest X-ray and some basic blood work to get a clearer picture.
+PATIENT: X-ray? Blood work? Oh. Okay… That sounds… complicated. Will it cost much? I don’t have insurance, Doctor. My wife… she’s the one who handles all that.
+DOCTOR: Yes, it does involve some testing. The X-ray and blood work will give us a much better understanding of what’s going on. As for the cost… I’m aware you don't have insurance. Let me see… the X-ray will likely be around $200 to $300, and the blood work perhaps $100 to $200. I can write you a referral to the local clinic that offers a sliding scale based on income. That may help with the cost. In the meantime, I recommend avoiding dust and other irritants as much as possible at work. Consider wearing a mask. And I'm going to prescribe you a bronchodilator inhaler to help open up your airways and relieve some of the wheezing. It won’t cure anything, but it should provide some symptomatic relief.
+PATIENT: Okay… $200 to $300… My wife… she will not be happy. But… okay. A mask… I can try a mask. The inhaler… is it safe? I don’t want anything that will make me feel worse. And thank you, Doctor. For trying to help.
+DOCTOR: The inhaler is quite safe, Mr. Tati. It's a standard medication, commonly used for respiratory issues. Side effects are minimal, usually just a slight tremor or increased heart rate – nothing to be overly concerned about. We’ll start with a low dose and monitor your response. Here is the prescription. And here is the referral information for the clinic. I want you to schedule an appointment for the X-ray and blood work as soon as possible. Once you have the results, bring them back to me, and we can discuss the next steps. In the meantime, try to rest and stay hydrated. And if you experience any severe shortness of breath or chest pain, go to the emergency room immediately. Do you have any other questions for me?
+PATIENT: No… I think that’s everything. Thank you, Doctor. Really. I will… tell my wife about the costs and the mask. And… I will try to rest.
+DOCTOR: Very well. I expect to see you back here with those results, Mr. Tati. Don’t delay. .
+PATIENT: .

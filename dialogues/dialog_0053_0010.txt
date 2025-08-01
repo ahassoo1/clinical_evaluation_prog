@@ -1,0 +1,32 @@
+DOCTOR: Alright, Jahaad, good to meet you. So, what brings you in today?
+PATIENT: Good day to you as well, Doctor Pitmon. It’s… well, it’s a bit difficult to explain precisely. I’ve noticed some swelling, yes. It’s… somewhere on my body, I believe. To be honest, my memory isn’t quite what it used to be, so pinpointing where exactly has been tricky.
+DOCTOR: Right. “Somewhere on your body.” That’s… helpful. Let’s try to narrow it down then. Is it on your arms, legs, perhaps your torso?
+PATIENT: I do apologize, Doctor. It’s… frustrating for me as well. I think it’s… not my legs, no. And I don’t believe it’s my arms either. Perhaps… my torso? Yes, that feels right. It’s on my… middle. But it’s not in my stomach, if that makes sense. More… around it.
+DOCTOR: Okay. Around your torso. And how long have you noticed this swelling?
+PATIENT: That’s… a difficult question. It feels like it’s been a while, but… not long long. Perhaps… a week? Maybe a little longer? It’s hard to say definitively. It wasn’t sudden, it just… appeared gradually, as far as I can recall. I haven’t been keeping track, I'm afraid.
+DOCTOR: Alright. Gradual onset, around a week or so. Has the swelling been changing at all?
+PATIENT: Yes, I believe so. It… it seems to be a little bigger today than it was a few days ago. Not dramatically, but… noticeable, to me at least. And… sometimes it feels a bit tender, if I press on it. But not always. It’s rather inconsistent, really. I hope that isn’t too confusing, Doctor.
+DOCTOR: Inconsistent is… not ideal for diagnosis, naturally. But we’ll work with it. Has anything happened recently that might have caused this?
+PATIENT: Hmm… that’s a good question. I… I haven't been doing anything particularly strenuous, no. I've mostly been at home, working. I did help a friend move some boxes last weekend, but it wasn’t anything too heavy, I don’t think. Honestly, I can’t recall any specific injury or event that would explain this. I wish I could be more helpful, Doctor.
+DOCTOR: Right. So, no trauma, no recent strenuous activity… Any pain elsewhere?
+PATIENT: No, Doctor. No pain anywhere else. I haven’t experienced any discomfort beyond the tenderness I mentioned in my torso. No headaches, no joint pain… nothing like that. I feel generally well, otherwise. It’s just this… swelling. It’s a bit unsettling, naturally.
+DOCTOR: Alright. Let's have a look then. If you don't mind, I'll need to examine your abdomen. Please lie down on the examination table.
+PATIENT: Certainly, Doctor. That sounds… sensible. Please let me know if anything feels uncomfortable during the examination. I’ll do my best to remain still.
+DOCTOR: Okay. Deep breath in… and out. Now, does this feel tender anywhere?
+PATIENT: Yes… there. Just there feels… sensitive. Not excruciating, but definitely noticeable. And… a little bit here too. It’s difficult to describe. It’s not a sharp pain, more of a dull ache.
+DOCTOR: Alright. And what about here?
+PATIENT: Ooh… yes. That’s… more sensitive. A bit sharper, I think. It’s… uncomfortable, Doctor. Perhaps you could be a little gentler?
+DOCTOR: Alright, alright. I'm just trying to assess the extent of the discomfort. It seems there's some tenderness in your right lower quadrant. And is there any rebound tenderness?
+PATIENT: Rebound… tenderness? I’m afraid I don’t understand, Doctor. Could you explain that, please? Is that something you do to me? I apologize for my ignorance, but medical terminology isn’t something I’m familiar with.
+DOCTOR: It’s alright. Rebound tenderness is when it hurts more when I release pressure than when I’m pressing down. Just let me know if it feels sharper when I suddenly take my hand away. I'll press here… and then quickly lift. Just tell me if that causes a significant increase in pain.
+PATIENT: Alright… I understand. Press… and lift quickly. Yes, I’ll try to be as clear as possible. Please be careful, Doctor. I’m a bit anxious about this.
+DOCTOR: Hmm. And…?
+PATIENT: Ooh! Yes, that did hurt more when you lifted your hand! Quite a bit more, actually. It’s… it’s a sharp, stabbing pain now. Not constant, but very noticeable. It feels… concerning, Doctor. I’m a little worried. Is something seriously wrong?
+DOCTOR: Alright. Okay. Given the localized tenderness, the rebound tenderness, and the sharp pain… it could be appendicitis. We need to rule that out immediately. I’m going to order some blood work and a CT scan of your abdomen.
+PATIENT: Appendicitis? Is that… serious, Doctor? A CT scan… that sounds… invasive. What does this mean? Will I need surgery? I’m becoming quite frightened now.
+DOCTOR: Look, it could be something else, but we need to be thorough. Appendicitis is serious if left untreated, but it’s also very treatable. A CT scan is the best way to get a clear picture of what’s going on. It’s not invasive; it just involves lying on a table while a machine takes images. If it is appendicitis, you’ll likely need surgery to remove the appendix. But let’s not jump to conclusions. We’ll get the tests done and then we can discuss your options. I'll have a nurse draw your blood and get you scheduled for the scan immediately. Does that sound alright?
+PATIENT: Alright… Yes, that sounds… alright. Tests… scan… I suppose there’s no other option. But… will the scan be painful? And how long will it take to get the results? I’m really quite worried, Doctor. This has been very unsettling. If it is surgery… what is the recovery like?
+DOCTOR: The scan itself shouldn’t be painful, just a bit uncomfortable lying still. The results usually take a couple of hours to come back. As for recovery… if it's surgery, it's typically a few days in the hospital, followed by a couple of weeks of recovery at home. But again, let’s not get ahead of ourselves. We need the scan results first. I'll have the nurse come in and explain the process. I’ll also be back to discuss the results as soon as they’re available. Do you have any questions for me before I leave?
+PATIENT: No… I think… I think that’s all for now. I’m just… very anxious. Thank you, Doctor. I’ll just… wait for the nurse then.
+DOCTOR: Alright. I’ll be back shortly. .
+PATIENT: .

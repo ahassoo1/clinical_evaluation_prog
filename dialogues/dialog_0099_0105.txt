@@ -1,0 +1,25 @@
+DOCTOR: Alright, Mr. Kochubey. Thirty-eight, yes?
+PATIENT: Yeah, that's right. Thirty-eight. It... feels like a while ago I was thirty-eight, honestly.
+DOCTOR: Well, time marches on, doesn’t it?
+PATIENT: It does, it does. Everything feels kinda fast these days, to be honest. I'm here about... the surgery, right? My wife helped me set up the appointment. I don't always... remember things perfectly.
+DOCTOR: The surgery. Right. And what specifically about the surgery brings you in today, Mr. Kochubey?
+PATIENT: Um... well, I want to get it done. It’s... about my weight, I guess. It’s been… hard. And my wife thinks this is a good idea. She said I need to get checked out before anything happens, to make sure I’m… healthy enough? I don’t really know the details, sorry.
+DOCTOR: So, you’re considering bariatric surgery. That's... a significant decision. Before we proceed, we need to establish a baseline. Let's start with your medical history. Have you been diagnosed with any medical conditions – diabetes, high blood pressure, heart problems, anything like that?
+PATIENT: Hmm... that’s a good question. I… I think I had high blood pressure once? A few years back, maybe? The doctor put me on something, but I don't remember what it was. I stopped taking it after a while, I think my wife said it was okay. Honestly, I don’t go to the doctor much.
+DOCTOR: Stopped taking medication for hypertension without consulting a physician?
+PATIENT: Yeah, I... I guess so. It was a long time ago, and I felt okay. My wife… she probably knew more about it than I did. She handles a lot of that stuff. I just… didn’t feel right taking pills all the time if I didn’t need them, you know?
+DOCTOR: Mr. Kochubey, discontinuing prescribed medication, particularly for something as crucial as blood pressure, can have serious consequences. It's… frankly, irresponsible. We’ll need to get that addressed immediately. Do you know when you stopped taking the medication?
+PATIENT: Whoa, hold on… irresponsible? I didn’t… I just thought I was feeling better. And my wife… she said it was alright. It was… maybe two or three years ago? I really don't remember the exact date. Everything’s kinda blurry.
+DOCTOR: Blurry, yes. Look, I'm not here to judge your life choices, but we need facts. Two or three years without monitoring your blood pressure... that's unacceptable if you're considering a major surgical procedure. Has anyone else in your family had issues with hypertension, heart disease, stroke?
+PATIENT: Um… my mom, I think? She had… something with her heart. She was always tired, and she took pills, but I don't know what kind. It was a long time ago, when I was a kid. And… my grandfather, on my dad’s side, I think he had a stroke. But I wasn’t very close to him, so I don’t remember a lot of details.
+DOCTOR: So, a family history of cardiovascular disease. Wonderful. Have you ever been diagnosed with diabetes?
+PATIENT: No, not diabetes. I don’t think so. I mean, I like sweets, but my wife tries to keep me from eating too much. She’s good about that. I don’t… I don’t go to the doctor for check-ups, so I wouldn’t know if I had it.
+DOCTOR: Right. No regular medical care. We need to run some tests, Mr. Kochubey. A complete blood workup, an EKG, and a thorough cardiovascular evaluation. And frankly, a psychological assessment wouldn’t be remiss given your… casual approach to your health.
+PATIENT: Psychological assessment? What for? I just want to lose weight. Is that really necessary? I feel fine, mostly. I just… eat too much sometimes.
+DOCTOR: Mr. Kochubey, bariatric surgery is a life-altering procedure. It's not simply about removing excess weight; it requires a significant commitment to lifestyle changes, meticulous follow-up, and a stable mental state. We need to ensure you understand the risks, the responsibilities, and that you are capable of adhering to the post-operative regimen. It's irresponsible to proceed otherwise. Now, let's get started with the blood work. I’ll have the nurse draw some samples.
+PATIENT: Okay… okay, I understand. It’s just… a lot. My wife didn’t mention all this. She just said I needed a check-up. Fine. Blood work. Whatever you think is best. Just… try not to make it too complicated, okay?
+DOCTOR: Very well. The nurse will be in shortly. And Mr. Kochubey, I strongly suggest you discuss this entire process with your wife – thoroughly. It’s crucial that you both understand the implications. Let’s begin.
+PATIENT: Okay. I… I’ll talk to her. I really will. Just… how long will the blood work take?
+DOCTOR: The blood draw itself will be brief, perhaps ten minutes. The results, however, will take a few days to process. The nurse will explain the necessary fasting requirements and schedule a follow-up appointment to discuss the findings. Now, if there is nothing else, I will let the nurse prepare.
+PATIENT: No, I don't think so. Just… tell the nurse to be gentle, okay? I don’t like needles. Thank you… I think. .
+DOCTOR: Very well. The nurse will be informed.

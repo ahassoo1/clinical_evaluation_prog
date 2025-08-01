@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Thyra. I’m Dr. Nooruddin. So, what brings you in today?
+PATIENT: Morning, Doctor. Just need to get some forms filled out, that’s all. Medicare sent ‘em and I figured I’d do it while I was here, rather than mess around with the mail.
+DOCTOR: Right. Forms. Well, I am a physician, not a…form facilitator. But, alright. Let's get this over with then. Do you need any help understanding the forms, or do you just want a quiet space to complete them?
+PATIENT: Oh, no, I can read just fine, Doctor. I just…sometimes these things ask for a whole lot of information, you know? And I wanna make sure I get it right. It’s just easier to ask if I get stuck. Is that okay?
+DOCTOR: I suppose. It's just…my time is valuable, Thyra. But alright. Which form are you working on first?
+PATIENT: It's this one here…the one that says “Patient Health History.” It’s asking about family doctors…and I haven’t really had one, not a regular one. We usually just go to whoever’s available at the reservation clinic when something’s wrong. Does that make sense?
+DOCTOR: It’s…suboptimal, frankly. Having a consistent primary care physician is important for preventative care and managing your overall health. But I understand access can be an issue. Just put “N/A” for family doctor, then. Next question?
+PATIENT: Okay, N/A it is. Um…it’s asking about medications. I don’t take anything regularly, except…sometimes ibuprofen for my back. Does that count?
+DOCTOR: Ibuprofen is a medication, yes. How often do you take it?
+PATIENT: Not that often, Doctor. Maybe once or twice a month when it’s really bothering me. Sometimes not even that. It depends on the weather, mostly. My back just gets stiff, you know? Especially when it’s cold or damp. I usually just try to rest and put a warm pack on it.
+DOCTOR: "PRN ibuprofen for back pain." That's what we'll put. Just be precise about the dosage you take when you do use it, alright?
+PATIENT: Okay, will do. Now this one’s kinda confusing. It asks about “hospitalizations or surgeries.” I had my tonsils out when I was little, a long time ago. Does that count? And…I was in the hospital once when I broke my wrist falling off a horse. That was…oh, maybe 20 years ago now. Is that what they want to know?
+DOCTOR: Yes, both of those need to be listed. Tonsillectomy and fractured wrist requiring hospitalization. Dates if you remember them, otherwise, approximate year. It's important to have a complete medical history, even things that happened a long time ago. It all contributes to the overall picture.
+PATIENT: Okay, okay. The tonsils…that was…probably around 1988, maybe? I was in second grade. And the wrist…definitely the early 2000s. 2003, maybe 2004. It was right after my son was born, actually. I was trying to get back on the horse too quickly. Stupid, looking back on it. Does that sound right, Doctor?
+DOCTOR: Alright. 1988 for tonsillectomy, early 2000s for fractured wrist. Now, are there any chronic conditions we need to list?
+PATIENT: Chronic conditions… Well, my back’s always been a little trouble, like I said. But it’s not like…a proper condition, is it? I don't have arthritis or anything. And…I get migraines sometimes. Not super often, maybe once or twice a year, but they’re pretty bad when I get them. Does that count as chronic?
+DOCTOR: Migraines, yes. We'll list "intermittent migraines." And "chronic back pain, as reported." Honestly, Thyra, you should be seeing someone regularly for that back pain. It's not something to just…ignore. But we can discuss that later, if you like. Any allergies to medications?
+PATIENT: No, not that I know of. Never had a reaction to anything. Nope, I’m pretty good with medications, actually. Can usually take anything they give me. Although, I prefer not to, if I can help it. Just get through it, you know? Stop pushing myself so hard maybe.
+DOCTOR: Right. And you've completed the rest of the form?
+PATIENT: I think so. Name, address, insurance…everything seems to be filled out. Just gotta sign it, I guess. This is a long form, Doctor. You got a lot of questions here.
+DOCTOR: It's comprehensive. We need a complete picture of your health history to provide the best possible care. Now, if you’ll excuse me, I have other patients waiting. If you have any questions after you've signed, you can ask the nurse before you leave.
+PATIENT: Okay. Well, thank you for your help, Doctor. I appreciate you taking the time. I guess that’s all for today.
+DOCTOR: Very well. Have a good day, Thyra. And please, consider seeking regular care for that back pain.

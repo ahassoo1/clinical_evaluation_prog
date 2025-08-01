@@ -1,0 +1,19 @@
+DOCTOR: Right. Mr. Brege, is it?
+PATIENT: Yeah, that's me. Clide Brege. Look, doc, I gotta be honest, I got a lotta things goin' on today. Can we kinda get right to it? This fever's been botherin' me again.
+DOCTOR: Yes, well, brevity is appreciated. A fever, you say. And when did this… recurrence begin?
+PATIENT: About three days ago, I think. Maybe four? It comes and goes, see? Not constant. Yesterday I felt alright in the mornin', then by afternoon, bam, felt like I was comin' down with the flu. Then it broke overnight, and here I am today feelin' kinda crummy again. It's… weird.
+DOCTOR: “Weird” isn't a medical term, Mr. Brege. Have you taken your temperature?
+PATIENT: Yeah, I did. Wife made me. It was 101.2, I think. She wrote it down somewhere… on the kitchen counter, probably. I don't really keep track of that stuff. It just felt hot, you know? Like a normal fever. No chills or nothin', just… warm and tired.
+DOCTOR: And have you been experiencing any other symptoms?
+PATIENT: Nah, not really. No cough, no sniffles, no aches… just tired. And a little… off. Hard to explain. Appetite’s okay, I guess. Still eatin' my arroz con gandules, thankfully. Wife gets worried if I don’t eat. She's a good woman. But seriously, doc, it's just this fever comin' and goin'. It’s been happenin' for, like, a month now, on and off.
+DOCTOR: A month, you say?
+PATIENT: Yeah, a month, give or take. It started small, like just feelin’ a little warm in the evenin'. Didn't bother me much, so I didn't think nothin' of it. Then it went away for a week or so, and now it's back. This time it feels a little worse, that’s why I came. I just want to know what's causin' it, you know? It's messin' with my golf game.
+DOCTOR: And you’ve seen no other physicians for this?
+PATIENT: Nope. Never needed to. I'm a chiropractor, doc, I fix people. Not need to be fixed. Usually just a little rest takes care of things. But this keeps comin' back, and I figured it was best to get it checked out. Besides, my wife… she worries. She's relentless.
+DOCTOR: Right. And what medications are you currently taking, Mr. Brege?
+PATIENT: Not much, thankfully. Just a little ibuprofen now and then for my back, when it flares up. And a multivitamin, keeps the wife happy. That’s about it. I try to stay away from pills if I can. I believe in keepin' things natural.
+DOCTOR: Any allergies I should be aware of?
+PATIENT: Nope. Never had any allergies, as far as I know. Can eat anything, thankfully. My wife makes a mean pastelón, and I wouldn’t want to miss out on that. Seriously, doc, I'm a pretty healthy guy. This fever just doesn't make sense.
+DOCTOR: Very well. Let’s proceed with a physical examination. Please lie down on the examination table.
+PATIENT: Alright, alright. Let's get this over with. Hopefully it’s nothin' serious. I got a tee time tomorrow, you know. .
+DOCTOR: Lungs are clear. Resonance normal. Soft, non-tender. No guarding. Pulse is 88, regular. 100.8 Fahrenheit. Not particularly remarkable.

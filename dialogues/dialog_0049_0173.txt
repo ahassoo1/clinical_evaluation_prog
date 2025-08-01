@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Ms. Aslan. I'm Dr. Nestingen. So, what brings you in to see me today?
+PATIENT: Oh, hi Dr. Nestingen. It's nice to meet you. Well, I've just been feeling…chilly. Like, I keep getting the shivers, even when it's warm out. It's been going on for a couple of days now.
+DOCTOR: Chilly, you say. A couple of days. Hmm. And is it constant, this chill?
+PATIENT: No, not constant. It comes and goes. Like, I'll be perfectly fine, then suddenly I'm freezing, then warm again. It’s just…weird. It doesn't seem to be connected to anything, you know? I haven't been out in the cold or anything.
+DOCTOR: Not connected to anything…right. And are you experiencing anything else with these chills?
+PATIENT: Let me think… Um, not really. I mean, I've been a little tired, but honestly, who isn't tired? No fever, no cough, no sore throat… Just the shivers. And maybe a tiny bit achy, but that could just be from working in the garden yesterday. Is that helpful?
+DOCTOR: Achiness…garden work. Alright. And you said a little tired…is this fatigue new, or is this something you experience regularly?
+PATIENT: It’s…more new, I think. I usually have energy for days, honestly. I like to stay busy. But the last few days, even getting up in the morning feels harder than usual. Not like I can't do things, just…less enthusiastic about them, if that makes sense?
+DOCTOR: Less enthusiastic…right. Do you have any other symptoms at all?
+PATIENT: Hmm… Now that you mention it, maybe my stomach's been a little off? Not like bad diarrhea or anything, just… a bit unsettled. A little gurgly, you know? And I haven't really been hungry, which is very unlike me. I usually love eating!
+DOCTOR: Unsettled stomach, loss of appetite… Alright. Have you noticed any changes in your bowel movements?
+PATIENT: Oh, um… well, yeah, now that you ask. They’re… looser than usual. Not watery, exactly, but definitely not how they normally are. Sorry if that’s too much information! I’m just trying to think of everything. I didn’t really connect it to the chills before.
+DOCTOR: Loose stools… alright. And are you experiencing any nausea or vomiting?
+PATIENT: No, thankfully not. No vomiting at all, and just a little bit of feeling queasy sometimes, but nothing serious. It comes and goes really quickly, like the chills. It's all just… random, you know? It's frustrating because I don't know what's going on.
+DOCTOR: Alright. Let's get a quick physical exam done. I’m going to listen to your heart and lungs, and then I’ll take your temperature and check your abdomen. Is that alright?
+PATIENT: Yeah, that sounds good. Whatever you think is best. I trust your judgement.
+DOCTOR: Take a deep breath for me… and again… Lungs sound clear. Heart rate is regular. Now, let's check your temperature. 99.8 Fahrenheit. A little elevated, but not significant. Now I'm going to palpate your abdomen. Any tenderness here?
+PATIENT: Ouch, a little. Right there… Not super painful, but yeah, that feels a bit… sensitive. It's not constant, like when I push on it, it's a little tender, but it doesn't hurt on its own. Is that…bad? I'm probably just being paranoid.
+DOCTOR: Tenderness in the lower right quadrant… Alright. Do you have any history of abdominal issues?
+PATIENT: Not really. I mean, everyone gets a stomach ache sometimes, but nothing serious. No surgeries, no chronic pain or anything like that. My mom had her gallbladder removed when she was older, but that’s the only thing I can think of. Does that sound important?
+DOCTOR: Gallbladder issues…right. And what about your bowel habits generally?
+PATIENT: Normally, pretty regular! Like, usually once a day, no problems. I eat a lot of fruit and vegetables, so… usually pretty good. But these last few days have been… off. Like I said, looser, and just… not the same. I'm just worried it's something bad.
+DOCTOR: Alright. Given your symptoms – the chills, fatigue, loss of appetite, unsettled stomach, loose stools, and tenderness in the lower right quadrant – I think we need to run some tests to rule out a few possibilities. I'm going to order a complete blood count, a comprehensive metabolic panel, and a stool sample. We will also perform a urine analysis. Does that sound acceptable?
+PATIENT: Yeah, that sounds…good. I guess. Whatever you think is necessary. It's just… a lot, isn't it? I was hoping it would be something simple. But okay, yeah, let’s do the tests. Where do I go to…do them?
+DOCTOR: The lab is just down the hall, first door on your left. The technician will draw your blood and collect the samples. They'll give you instructions on how to collect the stool sample at home. Once the results are back, which should be in a few days, we’ll schedule a follow-up appointment to discuss them. In the meantime, stay hydrated, and try to rest. Do you have any questions for me right now?
+PATIENT: Okay, good. That's...manageable. Rest and hydrate, got it. Um… Will I be able to drive after the blood work? I came alone today. And… is there anything I should avoid eating or drinking while I wait for the results? Anything that might make things worse?
+DOCTOR: You should be fine to drive after the blood work, but if you feel dizzy or lightheaded, please ask someone for a ride. As for your diet, avoid anything that might irritate your stomach – spicy foods, caffeine, dairy, and alcohol. Stick to bland, easy-to-digest foods for now. We'll have more specific recommendations once we have the lab results. Is there anything else?
+PATIENT: Okay, no spicy, caffeine, dairy or alcohol. Got it. I think that’s everything for now. I guess I’ll just head to the lab then. Thank you, Dr. Nestingen. I really appreciate you taking the time to listen to me. Hopefully it's nothing too serious.
+DOCTOR: Alright. The lab will send the results directly to my office. We'll be in touch. Good day. .

@@ -1,0 +1,29 @@
+DOCTOR: Alright, Lucia. Have a seat. So, what brings you in today?
+PATIENT: Oh, hello. Um... it’s my... belching. It’s been happening a lot. A lot, you know? Like, after I eat, mostly. It’s... embarrassing.
+DOCTOR: Belching, alright. “A lot,” you say?
+PATIENT: Yes. Maybe… five, six times after dinner? Sometimes more if I eat something… bubbly. Like soda. Or even… beans. It doesn’t hurt, exactly. Just… loud. And it feels… like I need to let it out.
+DOCTOR: So, it’s related to eating, specifically after meals. And worse with carbonated beverages… and beans. Anything else seem to trigger it?
+PATIENT: Hmm… not really, I don’t think so. Maybe… if I eat too fast? But I’m not always eating fast. Sometimes I eat slow. It's just… random, kinda. It's been happening for maybe… a month now? I didn't think it was a big deal, but it's getting… annoying.
+DOCTOR: A month, alright. And it doesn’t come with any other symptoms?
+PATIENT: No… not that I’ve noticed. My stomach… sometimes feels a little full, after I eat, but that’s normal, right? I don’t have… pain, or… heartburn. No sickness, or… anything like that. Just the belching. It just feels… rude, you know?
+DOCTOR: "Rude," alright. Well, it's not exactly a medical emergency. Let's just cover a few basics. Any family history of… digestive issues?
+PATIENT: Digestive issues… um… my abuela, my grandmother, she always had… problems, I think. But she was very old. She always complained about her stomach. But I don’t know what problems, exactly. Just… old people problems, I guess. My mom… she's okay. No, she doesn’t have any problems. I don't really talk about stomachs with my family. It’s… not polite.
+DOCTOR: Right. And you’re currently taking any medications, or have any allergies I should be aware of?
+PATIENT: No, I don't take any medicine. And no allergies, not that I know of. I eat everything. Well… almost everything. I don’t like olives. But that’s a taste thing, not an allergy. Does not liking olives count?
+DOCTOR: No, olives are irrelevant. Let's move on. What does a typical day of eating look like for you?
+PATIENT: Um… well, breakfast is usually… coffee, with a little milk. And maybe toast. Lunch… sometimes I have a sandwich, with ham and cheese. Or leftovers from dinner. Dinner… depends. Sometimes I cook rice and chicken. Sometimes beans. I like beans! But maybe that’s the problem? It’s not very exciting food, I know.
+DOCTOR: Alright. And are you experiencing any weight loss recently?
+PATIENT: No, I don't think so. Maybe a little, but I haven’t weighed myself in a long time. I feel okay, weight-wise. My clothes still fit. I haven't been sick, like, with a fever or anything, so I wouldn't think it's that.
+DOCTOR: Alright. Let’s just have a quick listen to your abdomen, if you don't mind. Just lie back on the examination table, please.
+PATIENT: Okay. Sure. Is… is something wrong?
+DOCTOR: It's just standard procedure, Lucia. Nothing to worry about. Now, just lie flat and try to relax. I need to listen for any unusual sounds.
+PATIENT: Okay… I’ll try. It’s cold, a little.
+DOCTOR: Okay. Sounds… normal. No immediate concerns. Slightly distended, but that could be anything. Let's try taking a deep breath for me, and exhale slowly. And again.
+PATIENT: Like this? Is that okay? I’m not very good at… breathing on command.
+DOCTOR: Yes, that’s fine. Everything seems… unremarkable. It’s likely just a bit of gas, possibly related to your diet. Try avoiding carbonated drinks and… beans, for a while. See if that helps.
+PATIENT: Oh. So… that’s it? Just… avoid beans? But I like beans. And soda sometimes. But I will try. How long should I try? And… what if it doesn’t help?
+DOCTOR: Try it for a week. If it doesn’t improve, come back and we’ll… consider other possibilities. But honestly, it's probably just a bit of indigestion. Try an over-the-counter antacid if you’re feeling uncomfortable. Something with simethicone. And try to eat a bit slower. Don't rush your meals.
+PATIENT: Okay. Simethicone… I’ll try to remember that. And I will try to eat slower. Thank you, Doctor. How much does it cost?
+DOCTOR: The examination is… $75. The antacid will be whatever the pharmacy charges. If it doesn’t improve, a follow-up will be $75 again. Next patient.
+PATIENT: Okay. Seventy-five dollars. Thank you. .
+DOCTOR: .

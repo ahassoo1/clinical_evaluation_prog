@@ -1,0 +1,39 @@
+DOCTOR: Good morning, Mr. Kingan. Welcome to the clinic. I'm Dr. Lahn. It's nice to meet you. So, to start, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just Lamark is fine. I'm here for a tryout physical. For the… uh… the wrestling team. Gotta get cleared, you know? Want to get this over with quick, if that’s alright.
+DOCTOR: Alright, Lamark, a wrestling team physical. Absolutely. We’ll do our best to be efficient. Just so I have a complete picture, can you tell me a little more about the team?
+PATIENT: It's… a local thing. Just a group of us trying to get back into it, you know? Not professional or anything. Mostly just for fitness and… well, the competition. We practice at the community center. I haven't wrestled seriously in… oh, maybe ten years? Longer.
+DOCTOR: Okay, so recreational wrestling, getting back into it after about ten years. That’s good to know. To make sure we cover everything, I'll ask a few questions about your general health and then we’ll do a physical exam. Does that sound alright?
+PATIENT: Yeah, sounds fine. Just… let's keep it moving, if you don't mind. I have things to do this afternoon.
+DOCTOR: Certainly, Lamark. I understand. Let’s start with your medical history. Have you had any significant illnesses or surgeries in the past?
+PATIENT: Hmm… not really. I broke my arm when I was a kid, climbing a tree, but that healed fine. Nothing major since then. I get the usual colds sometimes, but nothing that kept me down for long. I don’t think… no, can’t think of anything else.
+DOCTOR: Okay, good to know. And how about any ongoing medical conditions – things like high blood pressure, diabetes, or heart problems?
+PATIENT: Nope. Nothing like that. I try to eat alright, mostly. Not a lot of junk food. I… well, I don’t really go to the doctor much, so I wouldn’t know if I had anything.
+DOCTOR: That’s alright, Lamark. We’ll take a look today. Do you have any allergies to medications, foods, or anything else?
+PATIENT: Not that I know of. Never had a reaction to anything. My wife… well, ex-wife used to give me herbal remedies, but I don’t know what was in those. Never bothered me none.
+DOCTOR: Okay. And are you currently taking any medications – prescription or over-the-counter?
+PATIENT: Nope. Nothing. Just… vitamins sometimes, if I remember. Nothing regular.
+DOCTOR: Alright. Now, let's talk a little bit about your family history. Do you have any family members – parents, siblings, grandparents – with any serious medical conditions like heart disease, cancer, diabetes, or high blood pressure?
+PATIENT: Hmm... my dad, he had some trouble with his heart when he got older. Had to watch his diet, that's for sure. And my grandmother, on my mother's side, she had… well, I think it was cancer. Lung cancer, maybe? It was a long time ago. That's about all I can think of.
+DOCTOR: Okay, so a history of heart trouble in your father and lung cancer in your grandmother. Thank you. Now, regarding your lifestyle… do you smoke or use tobacco products?
+PATIENT: No, never. Tried it once when I was a teenager, didn't like it.
+DOCTOR: Good. And how about alcohol?
+PATIENT: I… have a drink now and then. Beer, mostly. Nothing heavy. A couple on the weekend, sometimes. Doesn’t bother me none.
+DOCTOR: Okay. And finally, do you do any other regular exercise besides wrestling?
+PATIENT: Not really. Used to go hiking a bit, but haven't had the time lately. Mostly just… working. I’m a… well, I do some stuff with media. Not important. Mostly just sit at a desk. That's why I'm trying to get back into wrestling, to get moving again.
+DOCTOR: Alright, Lamark, thank you for that information. Now, if you don’t mind, I’d like to do a quick physical exam. We’ll check your blood pressure, pulse, lungs, and do a basic musculoskeletal assessment, just to make sure everything is okay for you to participate. Is that alright?
+PATIENT: Yeah, fine. Let's just get it over with.
+DOCTOR: Okay. First, let's check your blood pressure and pulse. Could you please sit here on the exam table and extend your arm?
+PATIENT: Alright. Hurry it up, would ya? I haven't got all day.
+DOCTOR: Okay, just relax for a moment. Blood pressure is 148 over 92. Pulse is 78 and regular. Lungs are clear to auscultation bilaterally. Abdomen is soft, non-tender, no masses. Okay, can you bend forward and touch your toes?
+PATIENT: Oof. Getting old ain’t for the faint of heart.
+DOCTOR: Alright. And can you twist your torso to the left and then to the right?
+PATIENT: There we go... a little stiff. Haven't done this in a while, obviously.
+DOCTOR: Okay, and can you raise your arms above your head?
+PATIENT: There ya go. Still works, I guess. Everything's just a little… tight.
+DOCTOR: Alright, Lamark, thank you. Based on the information you've provided and the physical exam, your blood pressure is elevated. It's 148 over 92. Everything else seems within normal limits, but the elevated blood pressure is a concern. Given your history and the fact that you haven't seen a doctor in a while, I recommend getting that checked out further. Do you have any idea why your blood pressure might be elevated?
+PATIENT: No. I don't. Never had it checked before, so… I dunno. I work a lot. Stress, maybe? It's just… I don’t get why that matters for wrestling. I just wanna know if I’m cleared to go.
+DOCTOR: I understand you're eager to get back to wrestling, Lamark, but uncontrolled high blood pressure can be dangerous, especially with the physical exertion involved in wrestling. It can put a strain on your heart and increase the risk of serious complications. I'm not going to clear you to participate at this time. However, I can recommend a few things. First, I'd like you to schedule an appointment with your primary care physician to get your blood pressure evaluated and managed. They may recommend some lifestyle changes or medication. Second, I suggest avoiding strenuous exercise until your blood pressure is under control. Would you like me to provide you with a list of local physicians?
+PATIENT: Ugh. Fine. Okay. A list of doctors would be… helpful, I guess. This is just… a pain.
+DOCTOR: Here you are. These are a few doctors in the area who are accepting new patients. I also have some informational pamphlets on managing high blood pressure, which you can take with you. In the meantime, if you experience any chest pain, shortness of breath, or dizziness, please seek immediate medical attention. Do you have any questions for me before we finish?
+PATIENT: No, I think that’s… that’s all. Just a list of doctors and… try not to worry too much. Thanks.
+DOCTOR: Alright, Lamark. Please take care of yourself, and don't hesitate to reach out if you have any concerns. I hope you get everything sorted out soon. Have a good day.

@@ -1,0 +1,26 @@
+DOCTOR: Right. Mr. Astore, is it?
+PATIENT: Yes, that is right. Dorman Astore. Good to meet you, Doctor… Dechêne, you said?
+DOCTOR: Yes, Dechêne is fine. Look, I have a rather full schedule today, so if we could just get straight to it… What brings you in today?
+PATIENT: Oh, yes, of course. No problem, Doctor. Well, it's… my legs, mostly. They just don't feel as strong as they used to. It’s been getting worse slowly, over… well, a while now. It makes walking tiring, you see.
+DOCTOR: “Slowly worsening”…right. And how long is “a while now,” exactly?
+PATIENT: Hmm… let me think. Maybe… six months, I’d say? It started with just feeling a little clumsy, maybe stumbling a bit. Now… well, now I need to really think about putting one foot in front of the other, sometimes. It doesn’t hurt, not really, just… weak.
+DOCTOR: “Clumsy.” Okay. And is this weakness in both legs, or just one?
+PATIENT: Both legs, Doctor. It’s… about the same in both, I think. Though, sometimes my left feels a little… heavier, maybe? It’s hard to say for sure. It changes, you see. Not every day is the same.
+DOCTOR: “Changes.” Alright. Any other symptoms accompanying this weakness?
+PATIENT: Well… sometimes my vision gets a little blurry, but I thought that was just my age, you know? And I get tired easier, but… I'm eighty-three, Doctor. I expect to get tired. It’s hard to say what’s just old age and what’s something else.
+DOCTOR: Blurry vision…right. And have you noticed any numbness or tingling in your legs or feet?
+PATIENT: Now that you mention it… yes. Sometimes my feet feel… sort of cold, even when they’re not. And like… pins and needles, a little bit. Not all the time, but it happens. Especially at night, I think.
+DOCTOR: Pins and needles… at night. And do you have any difficulty with balance?
+PATIENT: Yes, a little bit. I don’t fall often, but I… I feel unsteady sometimes. Like I need to hold onto something. My wife worries about me, you know? She says I wobble. I don't like wobbling.
+DOCTOR: Alright. Let’s do a quick examination. If you could just stand up for me, please. We’ll start with a neurological assessment. I need to check your reflexes and strength. Don't anticipate what I'm doing, just relax.
+PATIENT: Okay, Doctor. I can do that. Slowly, though, if you don’t mind. My knees aren't what they used to be.
+DOCTOR: Right. Patellar and Achilles reflexes… slightly diminished bilaterally. Now, squeeze my hands. As hard as you can. And then resist this… …Strength is…weak, but not zero. 4/5 in both upper and lower extremities. Now, walk for me, if you would. Heel-to-toe, if possible. Let's see how stable you are.
+PATIENT: Okay… It's… harder than it looks, Doctor. My legs don't want to listen to me today.
+DOCTOR: Unsteady gait, wide base of support… yes, I can see that. Given your age and these findings, it’s likely we’re dealing with age-related decline, possibly exacerbated by some peripheral neuropathy. I'd like to order a Vitamin B12 level and a comprehensive metabolic panel to rule out any deficiencies. And just to be thorough, a referral to physical therapy for strengthening exercises wouldn’t hurt. Does that sound agreeable?
+PATIENT: Oh… that sounds… complicated, Doctor. B12 and… panels and therapy… Is it something serious? Is it something I should be worried about? I just want to be able to walk around the house without falling, you see. My wife gets very upset when I fall.
+DOCTOR: "Serious" is a relative term, Mr. Astore. It's not an immediate emergency, no. It’s a gradual process. The tests will simply give us a clearer picture. Physical therapy can significantly improve your strength and balance, and minimize your risk of falls. We need to rule out other causes, and manage expectations. It’s not a quick fix. I will order the bloodwork, and send the referral to a PT. I also recommend you obtain a walking aid, just for safety. Is there anything else?
+PATIENT: A walking aid… like a cane? Oh… I don't want a cane. That makes me feel… old. But… if it would help my wife worry less… Yes, I suppose. And thank you, Doctor. For explaining things. It's just a lot to take in, you know?
+DOCTOR: Right. I’ll have the lab requisition and PT referral sent to the front desk. They'll schedule everything for you. The nurse will go over the instructions for the bloodwork. I’ll schedule a follow-up appointment in six weeks to review the results. Any questions before I move on to the next patient?
+PATIENT: No, Doctor. I think that covers it. Six weeks… alright. Thank you again for your time. And thank you for not… making me feel too old.
+DOCTOR: Very well. Just remember to follow the recommendations, and hopefully we can improve your situation. Have a good day, Mr. Astore.
+PATIENT: Yes, Doctor. I will. You too. .

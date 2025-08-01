@@ -1,0 +1,23 @@
+DOCTOR: Alright, Mr. Puder. Let’s get this over with. You’re here today because…?
+PATIENT: My heart… it goes fast sometimes. Not all the time. Like, fluttering, you know? Like a bird inside. My wife, she say I need to come see doctor. It scared her.
+DOCTOR: “Fluttering,” right. And how long has this “fluttering” been going on?
+PATIENT: Hmm… maybe… two months now? I think. It not every day. Some days, nothing. Other days… maybe five, six times it happen. Each time, maybe a minute, two minutes. Then stop. It not pain, just… fast. Like running too much, but I not run.
+DOCTOR: Okay. And do anything specific seem to bring it on?
+PATIENT: Not really. I work… I work with the chemicals, make the stuff for the cleaning. Sometimes when I hot, maybe. Or… when I drink coffee, maybe faster. But not always. It hard to say. It just… happen. I don't know what make it start.
+DOCTOR: Right. Chemicals…coffee. And are you experiencing any other symptoms at all when this happens?
+PATIENT: Other… hmm. Sometimes I feel a little… tired after. Just a little. Not like sick tired, just… like I used a lot of energy. And… sometimes my chest feel a little… tight. But not pain, you know? Just… full. Like I breathe deep, but not enough air. It goes away when the fast heart stop.
+DOCTOR: And have you ever had anything like this happen before?
+PATIENT: No. Never. I always healthy. I work hard, eat good… well, sometimes too much rice! But never this fast heart thing before. My wife, she worry because her father, he had heart problem. That is why she so scared.
+DOCTOR: Alright. Let's get a basic exam done. I want to listen to your heart and lungs, check your blood pressure. Just routine. Then we'll see what we find. Please lie back on the exam table.
+PATIENT: Okay. That sound good. No problem. Is… is it bad? The fast heart thing? My wife, she keep asking me if it bad.
+DOCTOR: Look, Mr. Puder, I haven’t even examined you yet. It could be nothing, it could be something. We need to gather information before jumping to conclusions. Now, if you could just lie down, please. It'll be quicker that way.
+PATIENT: Okay, okay. Just tell me if it look bad, doctor. That is all I ask. My wife, she worry too much, you know? But I want to know.
+DOCTOR: Blood pressure is a little elevated, 140/90. Heart rate is currently 78 and regular. I hear no murmurs or unusual sounds. Lungs are clear to auscultation bilaterally. Have you ever been diagnosed with high blood pressure before?
+PATIENT: No. Never. I never go to doctor much. Only when I hurt myself at work. My wife, she always check me, but she not doctor. She say my blood pressure always normal. Is… is that bad, the 140/90? Is that why my heart go fast?
+DOCTOR: Elevated blood pressure can contribute to various issues, yes. It doesn’t automatically mean it's the cause of your palpitations, but it’s something we need to address. We'll need to run some blood work – a complete blood count, electrolytes, and a thyroid panel. And I want you to get an EKG, just to be safe. That checks your heart's electrical activity. Do you have any allergies to medications?
+PATIENT: No allergies. Never. I can eat anything. I can take anything. My wife always try new food, I always eat. The EKG… that is the thing with the stickers? She say her father had that. Is it… painful? Will it show if my heart is… broken? My wife worry about broken heart.
+DOCTOR: It’s not a “broken heart,” Mr. Puder. It's a perfectly painless test, just stickers on your chest to monitor your heart rhythm. It will help us rule out any arrhythmias. I’m ordering it now, and the nurse will schedule it for you. Let’s see… are you currently taking any medications at all?
+PATIENT: No. Nothing. Only sometimes I take the… the pain medicine when I hurt my back at work. Ibuprofen, I think. But not every day. Just when I really need. Is… is it expensive, doctor? The test and the blood work? I not have insurance, you know.
+DOCTOR: Look, Mr. Puder, I can’t discuss billing with you directly. You’ll need to speak with the billing department regarding costs. Now, let’s focus on getting these tests done so we can figure out what's going on. The nurse will be in shortly to draw your blood and explain the EKG process. Is there anything else you want to tell me before I leave?
+PATIENT: No… I think that is all. Just… I hope it is not bad. I need to work. My wife, she worry too much, but I need to work. Thank you, doctor. For trying to help. .
+DOCTOR: Right. The nurse will be with you shortly. .

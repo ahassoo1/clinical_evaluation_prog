@@ -1,0 +1,29 @@
+DOCTOR: Right. Well, good morning. Claudene Wease, is it?
+PATIENT: Yes, that is right. Good morning to you. I... I hope this won't take long. I have things to do, you see.
+DOCTOR: Of course. We'll be as efficient as possible. Now, tell me, what brings you in today?
+PATIENT: Oh, dear. It's… it’s my waterworks. I keep getting… a bad feeling. A burning, you know? And I have to go so often. It's been happening on and off for… well, a while now. I don’t recall exactly when it started. It’s just… bothersome. Very bothersome indeed.
+DOCTOR: “Waterworks,” right. So, urinary complaints. How long is “a while now,” exactly?
+PATIENT: Oh, goodness. That’s a tricky one. Months, I suppose. Maybe six? Or was it eight? I truly can't be certain. It comes and goes, you see, so it's hard to keep track. It's not constant, thankfully. But when it does happen… it's quite unpleasant.
+DOCTOR: “Quite unpleasant.” Right. And is there any pain associated with it?
+PATIENT: Well… yes, a little. Not a sharp pain, mind you. More of a… ache. And a burning when I… when I go to the toilet. It’s… uncomfortable, shall we say. I don't make a fuss easily, but this is… distracting.
+DOCTOR: Distracting. And is there any blood in your urine?
+PATIENT: Blood? Oh, dear. I… I don’t recall. I haven't looked, if that makes sense. I just… feel unwell. I don't usually inspect… well, you know. Is that important? Should I be looking?
+DOCTOR: It is important, Mrs. Wease. It helps us determine the cause. Alright, let’s move on. Any fever, chills, or back pain accompanying this?
+PATIENT: No, no fever. Not that I've noticed. And no chills, either. My back… sometimes aches, but I have arthritis, you see. So, that's just my usual discomfort. It's not related to this, I don't think. Just my old bones, getting the better of me. It's just this… burning sensation, really. That’s the worst of it.
+DOCTOR: Alright. And any changes in your bowel habits?
+PATIENT: Changes in my… what now? Oh! You mean… going to the toilet? Well, sometimes I have a bit of trouble… being regular, you could say. But I thought that was just… getting older. Is that important too? Honestly, I feel like I'm being asked a hundred questions!
+DOCTOR: Mrs. Wease, we need to gather information. It all contributes to the picture. “Trouble being regular” – how often do you typically have a bowel movement?
+PATIENT: Oh, dear. Now you're asking about that? Honestly. Well… every other day, perhaps? Sometimes longer. It varies. I don't keep a strict tally, you know. It’s just… not something one discusses. I drink plenty of water, though. I always have. That's what my mother always told me to do. Is that relevant? Perhaps it’s the water?
+DOCTOR: Right. Water intake. And do you have any medical conditions that we should be aware of?
+PATIENT: Well… arthritis, as I mentioned. And I had my gallbladder removed, years ago. A very unpleasant experience, I assure you. Other than that… no, not that I recall. I'm generally quite healthy, for my age. I used to be very active, but… well, the arthritis has slowed me down a bit. Is that all? Because, frankly, I’m starting to feel quite flustered.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: No, no allergies. Not that I know of. I've taken all sorts of things over the years. Painkillers for the arthritis, mostly. And some antibiotics, when I’ve had a cold. Never any problems. Truly. I'm a very… resilient person, you see. I don't react to things easily. Is there anything else? Because, honestly, I'd really like to get this over with.
+DOCTOR: Right. And are you currently taking any medications, even over-the-counter ones?
+PATIENT: Oh… well, I take ibuprofen for my arthritis, when it flares up. And sometimes I take… a little something for my sleep. Just when I can't get to sleep, you see. It’s… a herbal remedy. My neighbor recommended it. I don’t recall the name. It's in a little brown bottle. Honestly, I’m terrible with names. Is that important? Because I’ve been taking it for… oh, I couldn't say how long. Months, perhaps? Is this really necessary? All these questions…
+DOCTOR: Alright. Let's move on to a quick physical exam. We'll start with your abdomen. Please lie back on the examination table.
+PATIENT: Oh, very well. But please be gentle, Doctor. My arthritis, you know. It makes everything… sensitive. And hurry, if you would be so kind. I really do have things to do.
+DOCTOR: Alright. Just tell me if anything feels particularly tender. And breathe normally. Hmm. Tenderness in the lower quadrants. No guarding or rebound. Bowel sounds present, though a bit diminished. No bruits. Now, I’ll need a urine sample. There's a cup in the restroom. Please try to collect a mid-stream sample.
+PATIENT: Oh, that is a bit tender, yes. Especially… there. It's always a little uncomfortable, but… it's worse today. And what did you say about… a stream? Oh. The waterworks again. Very well. I suppose I must. It's just… so inconvenient. I’ll go now. Please be quick, Doctor. I really do have things to do.
+DOCTOR: Right. Tenderness, diminished bowel sounds… Elderly female, vague history…This is going to take all day.
+PATIENT: .
+DOCTOR: .

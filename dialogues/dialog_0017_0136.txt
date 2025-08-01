@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I am Dr. Blim. Now, let’s not waste any time. What brings you in to see me today?
+PATIENT: Good morning, Doctor. Um… it’s my… belching. It’s been happening a lot lately. It’s… embarrassing, really.
+DOCTOR: Belching. Right. And how long exactly has this been… “happening a lot”?
+PATIENT: Hmm… maybe… two weeks? I think so. It started after I ate a big plate of… beans and rice. But it doesn’t always happen after beans and rice now. Sometimes it just… happens.
+DOCTOR: Two weeks. And it's not consistently related to dietary intake, you say?
+PATIENT: No, not really. Like, I ate some chicken yesterday, and it happened then too. It’s not just one thing I’m eating. It just… comes up. Sometimes it’s loud. It’s very impolite, I know.
+DOCTOR: Impolite is hardly a medical concern, Ms. Fogelstrom. Is there any associated pain?
+PATIENT: Pain? No, no pain. Just… the belch. Sometimes my stomach feels a little… full, like I ate too much, even if I didn’t. But no pain. Nothing like a hurt feeling, you know? Just… uncomfortable.
+DOCTOR: And are you experiencing any other symptoms?
+PATIENT: Other symptoms… hmm. Let me think. I… I guess I’ve been a little tired lately? But I work long hours, so maybe that’s just… work. I don’t know if that counts. And… no, I can’t think of anything else.
+DOCTOR: Tiredness is quite vague, Ms. Fogelstrom. Do you have any nausea, vomiting, heartburn, or changes in your bowel habits?
+PATIENT: Oh! No, no vomiting. And… heartburn? Sometimes my chest feels a little… warm, but not burning. Like after I eat something spicy. And… no changes in… how I go to the bathroom. Sorry, that’s personal, I know. But no, everything is… normal there.
+DOCTOR: Alright. And what about your diet generally?
+PATIENT: Well, I try to eat okay. I work in a factory, so sometimes it’s hard to get good food. I eat a lot of rice and beans, like I said. Chicken when I can. And… some bread and coffee for breakfast. Not a lot of vegetables, I’m afraid. I know I should eat more.
+DOCTOR: Ms. Fogelstrom, are you currently taking any medications?
+PATIENT: No, Doctor. I don't take any pills or anything. I try to stay away from medicine if I can. I prefer to just… deal with things.
+DOCTOR: Very well. Do you have any allergies to any foods or medications?
+PATIENT: No allergies that I know of! I eat a lot of different things, and I’ve never had a reaction. My mother always said I had a strong stomach. Maybe it’s finally getting a little weak.
+DOCTOR: Alright. Now, let’s move on to your medical history. Have you ever been diagnosed with any chronic conditions?
+PATIENT: No, Doctor. Never. I’ve been pretty healthy, all my life. Just… this belching. I’ve never had to go to the doctor much before, to be honest.
+DOCTOR: Any surgeries?
+PATIENT: No, never any surgeries. Not even when I was a little girl. I’ve been lucky, I think. Just… this. This is new.
+DOCTOR: And what about your family?
+PATIENT: My family? Hmm. My mother… she had some problems with her stomach, sometimes. But I don’t know what kind. She just… complained a lot. And my father… he was healthy as a horse! He lived a long time. I don’t think anyone else had… belching problems.
+DOCTOR: Alright. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, Doctor. None of that. I don’t smoke. I don’t drink much, maybe a little wine with dinner sometimes. And definitely no… other things. I'm a good person.
+DOCTOR: Very well. Now, let’s proceed with a brief physical examination. I’ll listen to your abdomen. Please lie down on the examination table.
+PATIENT: Okay, Doctor. That sounds good. I hope it doesn't take too long. I have to get back to work soon.
+DOCTOR: Please lie flat, Ms. Fogelstrom. Breathe normally. Alright... No significant findings. Normal bowel sounds present, but slightly hyperactive. Abdomen is soft, non-tender, non-distended. No guarding or rebound tenderness. Now, I'll palpate your abdomen. Let me know if you feel any discomfort.
+PATIENT: Okay, Doctor. No discomfort yet. Just… a little nervous, I guess. It’s okay, it's just… poking.
+DOCTOR: No tenderness to palpation. No masses palpated. Alright. Based on your history and physical exam, it appears you are experiencing excessive gas, likely related to dietary factors. This is not uncommon. It is highly probable that your symptoms are benign and self-limiting.
+PATIENT: Oh… okay. Benign? That’s good, right? So… it’s not something serious? Just… too much gas? What can I do about it? I don’t want it to happen when I’m at work. It’s embarrassing.
+DOCTOR: Yes, Ms. Fogelstrom, “benign” is good. It is unlikely to be a serious condition. I recommend avoiding gas-producing foods – beans, carbonated beverages, cruciferous vegetables. Eat slowly and chew your food thoroughly. Over-the-counter simethicone may provide some relief. This is a recommendation for a mild anti-gas medication. If symptoms persist or worsen, schedule a follow-up appointment, or consider a referral to a gastroenterologist. Do you have any questions?
+PATIENT: Okay… beans, soda, vegetables… I can try that. Simethicone… I think I’ve heard of that. And what if I forget? I work long hours, and my brain gets… fuzzy sometimes. And what if it does get worse? I don't want to bother you if it’s just gas.
+DOCTOR: Ms. Fogelstrom, I’ve already explained the likely cause and recommended a course of action. If you are consistently unable to manage these mild dietary adjustments, then schedule a follow-up. I do not have time to hold your hand through every minor discomfort. This is a simple issue, and I suspect you are overthinking it. Do you have any other questions, or can we conclude this consultation?
+PATIENT: Oh… okay. No, Doctor. I think that’s all. I’ll… try my best. Thank you, Doctor. .
+DOCTOR: Very well. Have a good day, Ms. Fogelstrom.

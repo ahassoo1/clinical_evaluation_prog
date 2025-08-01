@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Fornes. I'm Dr. Billman. So, what brings you in today?
+PATIENT: Morning, Doctor. Just here for my shots, like the nurse said. Routine stuff, I guess. You know, keepin’ up with things.
+DOCTOR: Right. "Routine stuff." Well, let's not just assume. Even routine things need a quick check-in. Have you had any changes in your health since your last visit?
+PATIENT: Hmm… let me think. Not really, no. Everything’s been pretty normal. A little achy sometimes, you know, gettin’ older. But nothing I haven’t dealt with before. My husband says I just need to slow down, ha! Is there somethin’ specific you’re askin’ about?
+DOCTOR: "A little achy…" Okay. And where are you achy, exactly?
+PATIENT: Mostly in my shoulders and back, really. From work, I think. I'm a building inspector, so lots of clambering around sites, lookin’ at things. It’s nothin’ a good night’s sleep doesn’t usually fix. But, like I said, I’m not a spring chicken anymore!
+DOCTOR: Right. So, musculoskeletal. And how long have you been experiencing this, the shoulder and back aches?
+PATIENT: Oh, goodness. On and off for… years, probably. It comes and goes with the projects. It's been worse this last month, I reckon. We had a big job, checkin’ out a new apartment complex. Lots of stairs, not much elevator. You know how it is.
+DOCTOR: And has this pain been interfering with your ability to… do your job?
+PATIENT: Well, not interferin’ exactly. It just makes things a bit harder, slower, you know? I take breaks when I need to. And my partner, Earl, he helps out a lot when I’m feelin’ it. I can still get the job done, it just takes a little longer sometimes. I'm pretty stubborn, though, so I don’t usually complain.
+DOCTOR: Stubbornness isn't a medical solution, Ms. Fornes. Alright. Any numbness or tingling in your arms or hands?
+PATIENT: No, no numbness or tingling. Just achy. Sometimes a little stiff in the mornings, but that goes away pretty quick when I get movin’. Everything feels… normal, just old. Is that a bad thing?
+DOCTOR: "Old" is a state of being, Ms. Fornes, not a diagnosis. Let's talk about other things. Any fever, chills, or unexplained weight loss recently?
+PATIENT: No fever or chills, thankfully. And I haven't lost any weight, if anything I’ve probably gained a little bit, ha! Earl’s been bakin’ a lot of bread. He says it's good for the soul. Seriously though, no, everything's been pretty steady on that front.
+DOCTOR: Okay. And any changes in your bowel habits?
+PATIENT: Oh, goodness. Doctor! Is this part of the routine check-up? Earl always told me to never talk about that with anyone but him! Everything's… regular. Yeah, regular. Nothing out of the ordinary. Can we go back to the shots now?
+DOCTOR: It is part of the routine check-up, Ms. Fornes. We need a complete picture. But fine. Regular. Any shortness of breath, or chest pain?
+PATIENT: No shortness of breath, and no chest pain. I walk up a hill to get to the market sometimes, it's pretty steep. No trouble there. I'm a pretty healthy woman, Doctor. I just came in for my shots, like I said. Is something wrong? Are you worried about something?
+DOCTOR: I'm simply gathering information, Ms. Fornes. It's what doctors do. Now, let's talk about your family history. Any significant illnesses in your family – heart disease, cancer, diabetes?
+PATIENT: Oh, family history… Earl's side has a bit of diabetes, his mom had it. And my grandmother, on my side, she had… well, she had a heart problem, I think. She passed away when I was young, so I don’t remember much. Nothing else that I know of, really. We weren’t a big family for talkin’ about these things. Mostly just stories about fishin’ trips and clan gatherings. Is that enough?
+DOCTOR: Adequate, I suppose. Do you currently take any medications, or have any allergies to medications?
+PATIENT: No medications, thankfully. And no allergies, as far as I know. I haven’t had any bad reactions to anything ever, that I remember. Earl always makes me drink ginger ale if I get a cold, says it settles the stomach. He's a good man, that Earl. Is this almost done? I'm startin’ to get a little fidgety.
+DOCTOR: Alright. Well, Ms. Fornes, based on what you've told me—and frankly, not a lot—it sounds like you're dealing with some typical age-related musculoskeletal discomfort. We can go ahead with your routine vaccinations. But I want to be clear, if this pain worsens, or if you develop any numbness, weakness, or other concerning symptoms, you need to come back in immediately. Do you understand?
+PATIENT: Yes, Doctor, I understand. If it gets worse, I'll come back. That sounds fair. And… what shots are we gettin’ today? I always forget.
+DOCTOR: We’ll do your tetanus booster, and a flu shot – it's a little early, but it's better to be proactive. And I’ll check your pneumonia vaccination status, just to be sure you’re up to date. Roll up your sleeve. It’ll sting for a moment. Don’t be a baby.

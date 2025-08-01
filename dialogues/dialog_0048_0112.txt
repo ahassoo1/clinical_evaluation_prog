@@ -1,0 +1,23 @@
+DOCTOR: Right. Keoni MacVittie. 31 years old. So, what brings you in today?
+PATIENT: Oh, hello Doctor Sink. It’s… well, it’s a bit embarrassing, actually. I’ve been needing to go to the bathroom very often lately. More than usual, definitely. It’s been going on for a little while now, and I thought it might be best to get it checked out. I don’t… I don’t really know what could be causing it.
+DOCTOR: "Very often" is… vague. Can you be more specific?
+PATIENT: Oh, goodness, you’re right. Vague is… not helpful, is it? Let me see… normally, I’d say maybe four or five times a day? But lately, it’s… easily double that. Perhaps more. It's hard to keep track, honestly. And sometimes, it feels like I just went, and then I have to go again shortly after. It's a bit disruptive, if I'm being honest.
+DOCTOR: Disruptive. Right. And is it… all liquids, or solids as well?
+PATIENT: Oh. Both, actually. It doesn’t seem to matter what I’ve eaten or drank. It's just… frequent, regardless. I haven't noticed any pain or… anything like that, thankfully. Just the constant need to go. I don’t know if that makes a difference?
+DOCTOR: No blood?
+PATIENT: No, no blood. Definitely not. Just… a lot of trips to the restroom. I really haven’t been able to pinpoint anything that makes it worse, or better, which is what’s so frustrating. I tried cutting back on caffeine, just in case, but it didn't seem to help much. I don’t… I don’t have any family history of anything like this, if that’s relevant.
+DOCTOR: Alright. Any other symptoms?
+PATIENT: Hmm. Let me think… I’ve been feeling a little more tired lately, but honestly, who isn’t tired? I haven't been sleeping particularly well, which could be related, I suppose. And maybe a little bit of…thirst? But I just assumed that was because of the warmer weather. It’s hard to say. I don’t think anything major, if that makes sense. I’m not sick, not as far as I can tell.
+DOCTOR: Do you have any known allergies?
+PATIENT: Oh, allergies. Not that I’m aware of. I’ve never had a serious reaction to anything, not that I recall. I can eat shellfish, I’ve had penicillin before with no problems… I suppose I haven’t really had much opportunity to develop any allergies, if that makes sense. I live a pretty simple life. I definitely don’t have any medication allergies, as I don't take anything regularly.
+DOCTOR: And your weight has been stable?
+PATIENT: Oh. Yes, I believe so. I haven't gained or lost any weight recently. I try to eat a healthy diet, and I… I do a bit of walking when I can, though work keeps me rather busy. I think I'm roughly the same as I’ve always been, around 59 kilograms. It fluctuates a little, naturally, but nothing dramatic. I don’t think that’s the issue, if I’m being honest.
+DOCTOR: Alright. Let’s do a quick physical exam.
+PATIENT: Oh. Of course, Doctor. Whatever you think is best. Is there anything specific I should do? Should I change? I didn’t really prepare for… this. I’m sorry.
+DOCTOR: No, no need to change. Just lie on the table. I’ll listen to your abdomen, check your reflexes… standard procedure.
+PATIENT: Okay. Standard procedure. Right. Just let me know if you need me to do anything. I’m a bit anxious about medical things, if you don’t mind my saying so. I tend to overthink everything.
+DOCTOR: Normal bowel sounds. Reflexes are… adequate. Blood pressure 120/80. Heart rate 72. Nothing alarming, physically. Let's run a urinalysis, just to rule things out.
+PATIENT: A urinalysis. That sounds… sensible. Yes, a urinalysis would be good. Is there a restroom nearby? I imagine I'll need to… provide a sample? I haven’t done that in quite some time, if I'm being honest. I hope I remember how. It's silly, I know.
+DOCTOR: Down the hall, first door on the left. There’s a cup in there. Just… follow the instructions. I'll be back in a few minutes.
+PATIENT: Oh, thank you, Doctor. Down the hall, first door on the left. Right. I'll be as quick as I can. Hopefully I remember how to do this properly… It’s been a long time.
+DOCTOR: .

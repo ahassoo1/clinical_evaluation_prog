@@ -1,0 +1,25 @@
+DOCTOR: Right, Mr. Astores, is it?
+PATIENT: Yes, that is right. Dorman Astores. It’s good to meet you, Doctor… Osga, isn’t it? I was told you were the one to see about this trouble I’ve been having.
+DOCTOR: Yes, yes, Osga is fine. Look, I have quite a backlog today, so let’s not waste time. What “trouble” are we talking about?
+PATIENT: Well, it’s… hard to explain exactly. It’s like my legs… they just don’t want to do what I tell them anymore. Not all the time, but more and more often. It’s been getting worse slowly, over… oh, maybe the last year or so. Makes walking a bit difficult, you see. And sometimes my hands feel… weak too. It’s just… not right.
+DOCTOR: A year, you say?
+PATIENT: Yes, about a year. Maybe a little longer, now that I think about it. It started small, just a little stumble here and there. I didn’t think much of it at first, you know? Old age catching up, I figured. But it hasn’t stopped, and now… well, now I need a little help getting around sometimes. My wife, she’s been very good about it.
+DOCTOR: Hmm. And what sort of work do you do, Mr. Astores?
+PATIENT: Oh, I used to be an athletic trainer. Worked with the high school teams for… oh, goodness, nearly forty years. Football, basketball, track… all of it. Now I mostly just… watch. Can't do much running around anymore, sadly. It was good work, though. Kept me busy, kept me young… for a while, anyway.
+DOCTOR: Athletic trainer… interesting. Any injuries during that time?
+PATIENT: Oh, plenty of bumps and bruises, Doctor. Nothing too serious, thankfully. A few twisted ankles, a broken wrist once when I was younger, trying to catch a falling player. But nothing I ever thought would cause trouble like this. It was always the players getting hurt, not me. This… this feels different, you see? It’s not a sudden pain, it’s just… fading away.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: Just what the doctor tells me to, you know? For my blood pressure, mostly. And a little something for my knees, when they act up. Nothing fancy. I try not to take too much, if I can help it. My wife keeps track of it all, mostly. I forget things easily, these days. What is that pill for again? I always ask her before I take it.
+DOCTOR: We'll get to all of that. Do you have any allergies to medications, or anything else, for that matter?
+PATIENT: No, not that I know of. Never had a reaction to anything. My wife asked me that question before we came, just in case. She’s very thorough, bless her heart. She says it’s important to tell the doctor everything, so I try to remember what she tells me to say. It’s just… sometimes my mind doesn't work so well anymore. Everything feels a little fuzzy.
+DOCTOR: Right. Well, let’s have a look at you then. Could you stand up for me, please?
+PATIENT: Yes, of course. There we go… a little slow, but I can manage. It’s better now than it was earlier, usually. Mornings are the worst. Feels like my legs are filled with cement.
+DOCTOR: Hmm. Gait appears somewhat… unsteady. Some mild shuffling. Observe upper extremities... limited range of motion, slight tremor present. Okay. We'll need to rule out a few things. Let’s do a quick strength test. Can you squeeze my hands as tightly as you can?
+PATIENT: Yes, I can do that. Is that alright? Not much strength these days, I'm afraid. It feels like my hands just… don’t want to cooperate. Not as strong as they used to be when I was taping ankles for the football team!
+DOCTOR: Grip strength is diminished bilaterally. Weakness more pronounced on the left. Any numbness or tingling in your hands or feet?
+PATIENT: Sometimes, yes. Mostly in my feet. It’s like… pins and needles. Not all the time, but when I’ve been walking for a bit, or sometimes at night. It's not a bad pain, just… uncomfortable. It makes it hard to sleep sometimes, you know? I try to move them around, wiggle my toes, but it doesn't always help. My wife rubs them for me, that helps a lot.
+DOCTOR: Alright. We'll get some blood work done, just to rule things out. And I'm going to recommend a referral to a neurologist. It's likely just age-related decline, but we need to be certain. Don't worry too much about it. I'll have the nurse get the paperwork started for you.
+PATIENT: A neurologist, you say? That sounds… serious. Is it something bad, Doctor? My wife, she worries a lot, you see. I don’t want to upset her. What does it mean, exactly? I’m not very good with these medical words. Is there anything I should be… preparing for?
+DOCTOR: Look, Mr. Astores, I’ve got patients waiting. It’s likely nothing major. We're just covering all the bases. The neurologist will do some tests, and then we’ll know more. It could be… a lot of things. Don't jump to conclusions. The important thing is we’re looking into it. I'll have the nurse explain the paperwork. And honestly, worrying won’t help.
+PATIENT: Oh. I see. Well, if you think it’s best. My wife… she always says I worry too much. She'll be glad to hear we're doing something, at least. Alright then. Thank you, Doctor. I'll just… wait for the nurse, I suppose. .
+DOCTOR: .

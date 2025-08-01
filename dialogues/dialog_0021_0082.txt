@@ -1,0 +1,37 @@
+DOCTOR: Alright, Odell, good to meet you. So, tell me, what brings you in today?
+PATIENT: Uh, travel. I need... medicine for travel. My wife... she liked to go places. Now I go. For her. It’s… important. But I don’t know what I need.
+DOCTOR: Right. Travel medicine. Well, that's... considerate of you. A lot of people don't think ahead like that. Where exactly are you planning on going?
+PATIENT: Going? Uh… somewhere warm. Like… beaches. She liked beaches. Not… not America. Somewhere… far. I think. She booked it. I just… go. I don’t really pay attention to things like that. She did all the plans.
+DOCTOR: Right. Somewhere warm… not America. Well, that doesn’t narrow it down much, does it?
+PATIENT: No. It does not. She just… liked the sun. And… the water. Lots of water. It was… a long flight. I remember that. Very long. And… people. Lots of people.
+DOCTOR: Okay. Long flight, lots of people… This is going to be difficult. Do you have any idea what continent we’re talking about?
+PATIENT: Continent? Is that… important? I don’t… I just know it’s not cold. Like… not like where we used to live. Lots of… trees. And… monkeys, maybe? She liked monkeys.
+DOCTOR: Monkeys... Alright. That's… something. That narrows it down a little. Are you saying South America, perhaps?
+PATIENT: South… America? Maybe. Sounds… familiar. She showed me pictures. Lots of green. And… water. Were there big birds? She liked big birds. Colorful ones.
+DOCTOR: Colorful birds… Look, Odell, it's hard to recommend anything without knowing where you’re going. Are you able to check her travel documents?
+PATIENT: Documents? I… I don’t have them. She kept those. Everything. Plane ticket, passport… she said I just needed to go. I’m not good with… papers. Makes my head hurt.
+DOCTOR: Odell, with all due respect, you need to know where you’ve been, and what exposures you may have had. Otherwise, I can't prescribe anything safely. Do you have any recollection of the country?
+PATIENT: Country…? I… I think it started with a ‘B’? Or maybe a ‘P’? I remember the hotel. It had… a lot of flowers. Red flowers. And… someone tried to sell me something. A… a little statue. She said no. It was very hot. And crowded.
+DOCTOR: Okay. A country starting with ‘B’ or ‘P’, hot, crowded, red flowers... This is… incredibly unhelpful. Do you know if she received any vaccinations before the trip?
+PATIENT: Vaccinations…? She always got… everything. All the shots. She said I didn’t need to worry about that. She… she took care of it. I just… followed her.
+DOCTOR: Alright. Well, given the… lack of information, and the fact that you've been traveling internationally, I’m going to have to err on the side of caution. It sounds like you may have been exposed to… several potential risks. Have you noticed any fever, rash, diarrhea, or any other unusual symptoms since you’ve been back?
+PATIENT: Symptoms…? I… I feel tired. Very tired. And… my stomach sometimes hurts. Not bad. Just… uncomfortable. And I… I keep forgetting things. Like… what I had for breakfast. Or… what we talked about just now. Is that… bad?
+DOCTOR: Okay. Tiredness, stomach discomfort, and forgetfulness. Given your travel history, and the vague details, I’m concerned about the possibility of several things, including malaria, dengue fever, or other tropical infections. We need to run some tests to rule things out. I’m going to order a complete blood count, a metabolic panel, and a stool sample to check for parasites. Would that be alright with you?
+PATIENT: Tests…? Shots? Like… needles? I don’t… I don’t like needles. She always did those too. What if… what if it’s something bad?
+DOCTOR: Odell, I understand your anxiety. We need to find out what's causing your symptoms, and tests are the best way to do that. The blood draw will be quick, and the stool sample is… well, it’s a stool sample. I assure you, it's not as bad as it sounds. And we're not even talking about definitive diagnosis yet - just gathering information. I want to rule out anything serious. We can also discuss options to manage your anxiety if you're particularly worried about the blood draw. It's best to be thorough, alright?
+PATIENT: Thorough…? Okay. If… if it's important. But… can we do it quickly? I don’t like being in… places like this. And… can she be here? My wife? To… to hold my hand?
+DOCTOR: Alright. We’ll do it as quickly as possible. And yes, I understand. If your wife is available, she's more than welcome to be here with you. We’ll need to get some basic information while we wait for the lab results, including when exactly you returned from your trip, if you used any insect repellent, and if you had any unusual exposures during your travels – like mosquito bites or contact with standing water. And I need to stress, Odell, this is not a judgment. We just need to gather as much information as possible. While she's here, would you like me to go through the travel documentation again with her?
+PATIENT: Documentation…? She… she doesn't have it. She lost it… a long time ago. She… always forgot things too. She’s not… she’s not here anymore. That’s… that’s why I’m here.
+DOCTOR: Oh, Odell… I am so sorry to hear that. I didn't realize… That changes things. Well, given the circumstances, and the lack of travel records, we need to proceed with extra caution. It sounds like you’ve been through a lot. Let’s focus on getting these tests done first, alright?
+PATIENT: Okay. Tests. Just… just get it over with. And… can I sit down? My legs feel… weak.
+DOCTOR: Absolutely. Please, sit down. And I’ll have a nurse come in to draw your blood shortly. She’s very good, and we can make sure you’re comfortable. While we wait, can you tell me a little bit about when you returned from your trip?
+PATIENT: Returned…? August… I think. A few days ago. Or… maybe a week? Time… gets lost. I just… I just got back. From… the warm place. It was… a long flight.
+DOCTOR: Alright. A few days to a week ago. Okay. And do you remember anything specific about your symptoms when you first got back?
+PATIENT: Symptoms…? Tired. Very tired. And… a little bit sick to my stomach. And… I couldn’t remember where I was. I… I kept asking for her.
+DOCTOR: Okay. That sounds… difficult. And have you taken anything for these symptoms?
+PATIENT: Anything…? She had… pills. Lots of pills. For everything. I think… I took some. For the stomach. But… they didn’t help much. I don’t remember what they were called. Or… how many to take.
+DOCTOR: Alright. So you took some of your wife’s pills for your stomach, but you don't recall what they were or the dosage. That’s… not ideal. We need to be very careful here. I’m going to have a nurse come in to check your vital signs and get a more detailed medical history. We’ll also need to run some basic blood tests to see if there’s any sign of medication toxicity. Are you feeling any dizziness, nausea, or any other unusual symptoms right now?
+PATIENT: Dizziness…? Maybe… a little bit. My head feels… fuzzy. And… everything smells funny. Like… flowers. And… something else. Something… bad. I… I don’t feel very good.
+DOCTOR: Okay, Odell. You're not feeling well, and that's okay. I’m going to call a nurse right away. It sounds like you may be experiencing some side effects. Stay right here, and try to relax. I need a nurse in here now, stat. Patient is reporting dizziness and altered sense of smell. Possible medication toxicity. We'll get you taken care of. Just breathe, alright?
+PATIENT: Flowers… She always liked flowers. I just want her back…
+DOCTOR: .

@@ -1,0 +1,30 @@
+DOCTOR: Alright, Mr. Shanor. Thirty-one, huh?
+PATIENT: Yes. Thirty-one. Is… is okay to start? I have things to do later.
+DOCTOR: Look, I've got a full waiting room, so let’s just get to it. What brings you in today?
+PATIENT: Referee… evaluation. For fitness. I need to do this for… work. You know, the games. I fix the… the brick things at the stadium, but I also… help with the games sometimes.
+DOCTOR: Right. A fitness evaluation. And this is...required by your employer?
+PATIENT: Yes. They want… proof. Something official. To show I am… strong enough. And… healthy enough. It is for the… the whistle, not the bricks. Mostly.
+DOCTOR: Okay, okay. So, no complaints about being healthy, just need a form filled out. Any specific things they want me to check?
+PATIENT: I… not sure. They just said “fitness evaluation.” Running? Maybe? And… lifting? I lift… things at work. Heavy things. Is that enough? I don’t… I don’t know what they need exactly.
+DOCTOR: Alright, well, we'll do a basic check. Running, some strength tests, blood pressure, the usual. Don't expect a detailed sports physical. I'm a family doctor, not a trainer. Have you had any problems with… anything lately?
+PATIENT: No. Nothing. I… sometimes my back hurts, from lifting. But it is okay. I take… medicine. The red pills. It helps. Other than that… no. I feel… fine.
+DOCTOR: “Red pills,” huh?
+PATIENT: Yes. Little red pills. My wife… she used to get them for me. She… knew what was good. I think it is for… pain. But it helps my back.
+DOCTOR: Look, Mr. Shanor, I need to know what those pills are. Do you have the bottle with you?
+PATIENT: Oh. Uh… no. I… left it at home. I just… take them when my back hurts. I don't… remember the name. She always got them. After she… you know. I just keep taking them.
+DOCTOR: Okay. Right. Look, taking unknown medication isn’t exactly ideal. We need to figure out what that is, for your own safety. But, we can put a pin in that for now. Let's focus on this evaluation. Do you have any allergies to medications or anything else?
+PATIENT: No allergies. I think. I eat… everything. My wife… she always cooked a lot of things. I never had… problem. No. No allergies.
+DOCTOR: Alright, well let’s start with a basic physical. Blood pressure, pulse, listen to your heart and lungs. Then we'll do some strength and flexibility tests. Just step up on the scale for me, please.
+PATIENT: Okay. The scale… yes. Is… this all? It won't take long, right? I really need to get back…
+DOCTOR: Look, I’m trying to be efficient here. Weight is 134, which is…fine. Now, if you could just get up on the examination table, we'll get this over with.
+PATIENT: Okay, okay. This is cold.
+DOCTOR: Heart sounds are regular. Lungs are clear. Blood pressure is 128 over 76. Pulse is 72. Now, can you try to touch your toes?
+PATIENT: Oof. My back… it is not so good today. Is this enough?
+DOCTOR: Flexibility is...limited. Now, can you squeeze my hands as hard as you can?
+PATIENT: Like this? Is it… strong enough? My hands are a little tired.
+DOCTOR: Grip strength is… adequate. Now, let's just do a quick check of your reflexes. Relax your legs.
+PATIENT: Okay. Did… did I do it right? It tickles.
+DOCTOR: Reflexes are present. Alright. Look, Mr. Shanor, based on this quick examination, you seem generally healthy enough to…perform whatever tasks your employer requires. But, I strongly recommend you get that medication identified. And honestly, you should probably see a physical therapist for your back pain. Do you understand?
+PATIENT: Yes. Understand. I… get the pills checked. And… the back. Okay. Can I go now? I really… need to go.
+DOCTOR: Here’s a form. It summarizes what I’ve done today. It doesn’t say much, because this was a very basic evaluation. I'll print out a referral for a physical therapist. And please, please find out what you're taking. Now, if you'll excuse me, I have other patients.
+PATIENT: Okay. Thank you.

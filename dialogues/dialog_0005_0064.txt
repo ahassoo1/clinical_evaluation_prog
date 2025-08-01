@@ -1,0 +1,32 @@
+DOCTOR: Alright, Sherion, have a seat. So, what brings you in to see me today?
+PATIENT: Oh, hello Doctor. It's this… pain in my chest. It started a few days ago, maybe four? It’s not… a bad bad pain, but it worries me. Like a heavy feeling, you know?
+DOCTOR: Four days, okay. A heavy feeling… Can you pinpoint exactly where in your chest you’re feeling this?
+PATIENT: Hmm… let me see. Right here, mostly. Sometimes it feels like it goes a little bit to the left side, but not always. It’s not like… a sharp pain. More like… someone is sitting on me, a little bit. It's hard to explain, sorry.
+DOCTOR: No, that’s alright, you're explaining it perfectly fine. “Heavy feeling,” center of the chest, sometimes radiating to the left… Does anything specifically make it worse?
+PATIENT: Well… Walking up the stairs, definitely. Even just a few steps. And… when I get excited, maybe? Like, talking fast with my daughter on the phone. It feels… tighter then. Not always, but often.
+DOCTOR: Okay, exertion and emotional excitement… And does anything make it better?
+PATIENT: Resting, mostly. If I just sit down and take a few deep breaths, it calms down. Not right away, but… after a little while. And… warm tea. That seems to help a little bit, too.
+DOCTOR: Rest and warm tea… Alright. Now, have you been having any other symptoms along with this chest pain?
+PATIENT: Let me think… No, not really. I’ve been a little bit tired, maybe? But I’m old! So, I always a little bit tired. No shortness of breath, no sweating, no… arm pain, or anything like that. Just the pain, and the tiredness.
+DOCTOR: Alright. And just to be thorough, Sherion, do you have any history of high blood pressure, high cholesterol, or diabetes?
+PATIENT: Oh, yes! My mother had the blood pressure. I have it, too. The doctor put me on pills for it, years ago. I take them every day. Cholesterol… I don’t think so. And no diabetes, never.
+DOCTOR: Okay, I see your blood pressure medication here. Good. And any surgeries or hospitalizations in the past?
+PATIENT: Let me see... I had my gallbladder out, a long time ago. Maybe twenty years? And... when I broke my wrist, a few years back. But that was just a quick thing. No big surgeries, not really.
+DOCTOR: Gallbladder removal, wrist fracture… Alright. Now, what about your family?
+PATIENT: My mother, like I said, had the blood pressure. And her father… he had problems with his heart. I don’t know exactly what, my Spanish is not so good, and it was a long time ago. But it was something with his heart, I think. My sister is healthy, thank goodness.
+DOCTOR: Okay. And do you smoke, or drink alcohol, Sherion?
+PATIENT: Oh no, Doctor. Not anymore. I used to smoke, when I was younger, but I stopped a long time ago. Maybe… thirty years? And I don’t drink. Never really liked it.
+DOCTOR: Alright, good. Now, let’s talk about allergies. Are you allergic to any medications, foods, or anything else?
+PATIENT: Hmm… Not that I know of. I take the blood pressure pill, and sometimes something for my arthritis, but never had a reaction. No food allergies, no bee stings… I think I’m okay. I’ve always been lucky that way.
+DOCTOR: Alright. Well, Sherion, given your symptoms and your history, it’s good you came in. This chest pain, with the exertion and emotional component… it’s concerning. I want to listen to your heart and lungs, and check your blood pressure. Then we'll talk about some further testing to get a better idea of what's going on. Does that sound alright?
+PATIENT: Yes, Doctor, that sounds very good. I just want to know what’s happening. I trust you.
+DOCTOR: Alright. Let’s get started then. If you could just lie back on the examination table, please. I’m going to listen to your heart and lungs with the stethoscope. It might be a little cold, just a warning.
+PATIENT: Okay. Cold is okay. I’m used to cold!
+DOCTOR: Okay… Your heart sounds… regular, but I do hear a slight murmur. It’s not dramatically concerning at this point, but it’s something we need to investigate. Your lungs are clear, I don’t hear any wheezing or crackles. Now, let’s check your blood pressure. 140 over 90. A little elevated, but not critically high. Now, I want to get an EKG done, just to see what your heart is doing electrically. And I'm going to order some blood work, including a check of your cholesterol and a cardiac enzyme level to rule out any heart damage. Does that sound okay?
+PATIENT: Yes, Doctor, that all sounds… right. I trust you. The EKG and the blood work… okay. I hope it’s not too serious.
+DOCTOR: It's good you're taking this seriously, Sherion. We're being thorough, that's all. The EKG is quick and painless, and the blood work is just a routine procedure. While we wait for those results, I want you to avoid any strenuous activity, and if you experience any worsening chest pain, shortness of breath, or dizziness, go to the nearest emergency room immediately, understand?
+PATIENT: Yes, Doctor, I understand. No stairs, no getting excited… and if it gets worse, go to the hospital. I will remember. Thank you.
+DOCTOR: Good. Now, while we wait for the results, I’m going to give you a prescription for a low-dose aspirin, 81 milligrams daily. It can help prevent blood clots. Also, let's schedule a follow-up appointment in one week to discuss the results. In the meantime, if you have any questions or concerns, don’t hesitate to call the office. Does that sound alright?
+PATIENT: Aspirin, okay. And a check-up next week. That sounds good, Doctor. I don’t think I have any questions right now, but I will call if I do. You’ve explained everything very clearly. Thank you again.
+DOCTOR: Alright. The nurse will be in shortly to draw your blood and do the EKG. I'll see you next week. Try not to worry too much, Sherion. We’re doing everything we can to figure this out.
+PATIENT: Okay, Doctor. Thank you. I will try not to worry.

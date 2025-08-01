@@ -1,0 +1,19 @@
+DOCTOR: Good afternoon, Ms. Ottaviani. I am Dr. Blim. Now, please tell me, in your own words, what brings you in to see me today?
+PATIENT: Well, Doctor, honestly? My throat. It hurts. Been hurting for… a little bit now. Not a good hurt, if you understand. I just want it fixed, quickly. I don’t have all day to sit here talking about it.
+DOCTOR: “A little bit” is rather vague, Ms. Ottaviani. Precise medical history is crucial. Can you quantify that?
+PATIENT: Quantify? Doctor, are you testing me? I don't... do numbers. Maybe a week? Or more? It all feels the same. It's just… sore. Like swallowing sand. Is that good enough? I really don’t remember details well, you see. It’s just… a pain.
+DOCTOR: A week or more of a sore throat. Very well. Is the pain constant, or does it come and go?
+PATIENT: Comes and goes, I suppose. More comes than goes, if that makes sense. It's worse when I… talk, mostly. Or try to. It feels scratchy then. Like I’ve been yelling. Which I haven’t, not for a long time. It’s just… unpleasant. I need to know what to do about it, not explain when it happens.
+DOCTOR: Alright, Ms. Ottaviani. We’ll get to a solution, but I need information. Have you had a fever?
+PATIENT: A fever? Doctor, I haven't been checking my temperature. What kind of question is that? I feel… warm, sometimes. But that’s the weather! It’s August, you know. Hot. I don’t go around taking temperatures just because my throat feels bad. Honestly.
+DOCTOR: And have you noticed any other symptoms alongside the sore throat?
+PATIENT: Symptoms? What kind of symptoms? Like… being tired? Yes, I’m tired. I’m always tired. Is that what you mean? I work very hard, you know. It’s a difficult job. I don't have time to list every little ache and pain. This throat is the problem!
+DOCTOR: Ms. Ottaviani, I assure you, I’m trying to ascertain the cause of this throat pain. Fatigue is non-specific. Any cough?
+PATIENT: A little. A tiny cough. Just a little tickle, really. Doesn’t mean anything. Everyone coughs. Dust at the factory, mostly. It's a dirty place. I don’t make a fuss over every little thing. It’s a throat pain, Doctor. Can we please just focus on the throat?
+DOCTOR: Very well. Please open wide. Say "ah." And try to be cooperative, Ms. Ottaviani; this is not a social call.
+PATIENT: Ah… Don't poke too much, Doctor. It hurts, you know. Really hurts. Are you sure you need to do this?
+DOCTOR: Slight redness and swelling. No exudate noted. Lymph nodes are… palpable, but not significantly enlarged. Have you taken anything for the pain, Ms. Ottaviani?
+PATIENT: Just… some lozenges. The cherry ones. They don’t really do much. I tried some tea, but that made it worse. Hot liquids, you know? Hurts more. I don’t like taking pills. Never have. They make me feel… strange. Is that all you're going to ask? I’m wasting my time here.
+DOCTOR: Alright. Given the lack of fever, no significant lymphadenopathy, and the patient’s history… it is likely a viral pharyngitis. However, since you are refusing any substantial medication, the treatment is purely supportive. Rest, fluids, and over-the-counter lozenges. I’ll document this and send you on your way. It should resolve on its own within a week. If it worsens—actual difficulty breathing, high fever—seek immediate medical attention. Understand?
+PATIENT: Supportive? Meaning… do nothing? I knew it. Waste of a copay. Fine. I’ll rest. And drink fluids. And take… those useless lozenges. Just… please, hurry up. I have things to do. And don’t bother calling me if it doesn’t get better. I’ll manage. I always do. .
+DOCTOR: Here is a summary of our encounter. I trust you’ll adhere to the recommendations. Good day, Ms. Ottaviani. And please, prioritize rest. .

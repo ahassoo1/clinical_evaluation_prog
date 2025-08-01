@@ -1,0 +1,20 @@
+DOCTOR: Alright, Mrs. Steines, good to see you... or, well, to have you here. Ninety years old, eh?
+PATIENT: Yes, ma'am. Ninety come October. Feels older some days, I won't lie. Just want to get this blood pressure thing sorted, if we can. Don't want it slowin' me down. I still got pies to bake!
+DOCTOR: Pies, right. Well, slowing down isn’t an option, I suppose. Blood pressure… yes. Now, have you been officially diagnosed with high blood pressure before, or is this just something the pharmacy mentioned when you picked up your refills?
+PATIENT: Oh, the pharmacy mostly. They said it was a bit high when I got my water pills refilled. Never really had a doctor tell me nothin' 'bout it before. Just been feelin' a bit tired lately, thought maybe it was my age. Mostly just try to ignore things, to be honest.
+DOCTOR: Ignore things… yes, well, that rarely works, does it?
+PATIENT: No, ma'am, it don't. Especially not when you're ninety years old and everything starts creakin'. But I ain't one for fussin' over every little ache and pain. Always been that way.
+DOCTOR: Alright, let's just get a quick reading, shall we?
+PATIENT: Sounds good to me. The quicker the better, I reckon. I got a blueberry pie that needs checkin' on at home.
+DOCTOR: Just try to relax. Honestly, people make such a fuss over these things. It's just a number.
+PATIENT: Easy for you to say, dear. You ain't the one feelin' like a squeezed lemon. There, done. What'd it say?
+DOCTOR: 160 over 90. Not ideal. Definitely higher than it should be. You've been takin' those water pills regularly, haven’t you?
+PATIENT: Yes, ma'am, every mornin' with my coffee. Been takin' 'em for... oh, goodness, must be ten years now. They help with my ankles swellin', but maybe they ain't doin' enough for the pressure. Don't rightly know.
+DOCTOR: Well, ankles swelling is a sign of fluid retention… It's complicated, you see. Just taking a pill doesn't always solve everything. Have you had any other symptoms?
+PATIENT: Symptoms? Besides bein' old? Let me think... Sometimes I get a little dizzy when I stand up too fast. And my eyesight ain't what it used to be, but that’s just age, I figure. Nothin' real bad, though. Mostly just tired. And a bit forgetful, but… well, you know.
+DOCTOR: Forgetful… yes. Right. And any chest pain?
+PATIENT: Chest pain? No, ma'am, nothin' like that. Just a little achin' in my joints sometimes, but that's the arthritis talkin'. I been lucky so far, I reckon. Mostly just try to keep busy. Worryin' just makes things worse.
+DOCTOR: Alright. Well, the dizziness could be related to the blood pressure, or it could be something else entirely. It's hard to say without… well, without a lot more testing. We'll need to run some blood work, just to be safe. And an EKG, to check your heart.
+PATIENT: Oh, goodness. Tests and things… Is it gonna be a long process? I got pies to bake, you know. And the Cherokee Nation get-together is comin' up in a couple weeks. I promised to bring my pecan pie.
+DOCTOR: Look, Mrs. Steines, I understand about the pies, but your health is more important. It'll be a simple blood draw and a quick EKG. Honestly, it's routine. We need to rule things out. I’m not going to let you bake pies if your heart can't handle it. Let’s just get it done. Nurse will be in shortly to get started.
+PATIENT: Oh. Alright, ma'am. If you think it's best. Just… try to be quick, please? And tell the nurse I don’t like needles much. Pecan pie’s gonna have to wait, I guess. .

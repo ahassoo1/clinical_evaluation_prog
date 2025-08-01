@@ -1,0 +1,32 @@
+DOCTOR: Right. Well, Genette, hello. So, what brings you in today?
+PATIENT: Oh, hello Doctor… Havird, is it? Yes. Well, it’s my leg. It…cramps. At night, mostly. It’s been going on for… a while now. I can’t rightly say how long. Time… slips away, you know? It just… hurts. A sharp pain, then it’s tight. Then it goes away, but comes back later.
+DOCTOR: Mmm. A while now, you say. Right. And just the one leg?
+PATIENT: Oh, yes. Just the left one, dear. Not the right. Though… sometimes I think it might be both, but I could be mistaken. Like I said, time… isn't always clear. It's a bothersome thing, this cramping. Keeps me awake, mostly.
+DOCTOR: Alright. And when you say sharp pain... can you describe it a little more?
+PATIENT: Oh, goodness. How to describe it… It’s not a… dull ache. It's… like someone is tightening a rope around my calf. Very sudden. And it feels…deep in the muscle, I suppose. Not on the skin, but in the leg itself. And then it just…locks up. I have to…stretch it out.
+DOCTOR: Tightening rope… deep muscle pain. And stretching helps, you said?
+PATIENT: Yes, stretching helps. Or… rubbing it. Just gently, mind you. Not hard. My husband… he used to rub it for me. He had strong hands. It doesn't always take the pain away completely, but it eases it a bit. It’s…better than nothing.
+DOCTOR: Right. And are you experiencing any other symptoms along with the cramping?
+PATIENT: Other symptoms… Let me think. Well… no. Not really. Sometimes my leg feels a bit…cold. But that’s just the weather, I expect. Or maybe the circulation. Old age, you know. I don’t think there’s anything else. Just the cramping. It’s the main trouble.
+DOCTOR: Okay. And what about your past medical history, Genette?
+PATIENT: Oh dear. That’s… a difficult question. It was a long time ago, Doctor. I… don’t recall much. I’ve had the usual things, I suppose. A cold here and there. A bit of the flu. Nothing serious. I went to a doctor when I was younger, but… I can’t remember his name or what he treated me for. It just wasn't important enough to keep in my memory. I’ve always been a healthy woman, though. Until this leg.
+DOCTOR: Right. Okay. Any surgeries?
+PATIENT: Surgeries… Oh, let me see. I had my tonsils out when I was a child. That's all I can recall. A very long time ago. And… maybe a stitch or two when I fell off my bicycle as a young girl, but that hardly counts, does it? Nothing major. Truly.
+DOCTOR: Alright. And your family… any history of leg cramps or similar problems?
+PATIENT: Oh, my family… Well, my mother had…arthritis, I think. In her hands and knees. But I don't recall anyone complaining about their legs specifically. My brother, he was always very active, a fisherman, strong as an ox. Never heard him mention any cramping. It could be… just me.
+DOCTOR: Right. And do you take any medications currently?
+PATIENT: No, dear. I don’t take anything. I try to stay away from pills if I can. Never been much of a believer in them. A bit of tea, maybe, for a sore throat. But no regular medications. I prefer to let nature take its course, if you understand.
+DOCTOR: Okay. Alright, let’s have a look at your leg. If you could just lie down on the examination table for me.
+PATIENT: Oh, alright. Yes. The examination table… hmph. There we go. A bit high, isn't it? But I suppose it will do. Just let me know if you need me to move it.
+DOCTOR: Alright. So, tell me when this hurts. Just point to where it’s bothering you. Any pain here?
+PATIENT: Ooh, yes. There. Right… there. It’s… not terribly painful now, but… when you press like that, it feels…tight. And a little…tender. Not a sharp pain, but…uncomfortable. It’s where it usually cramps, you see? Right in the middle of the calf.
+DOCTOR: Okay. Pulses feel… normal. No swelling that I can see. Muscle tone… seems a little tight, as you said. Any pain with that?
+PATIENT: No, no pain when you bend it like that. A little stiff, perhaps. Like I haven't been walking enough. But not painful. It's mostly the tenderness when you press on the muscle itself. That's the troubling part.
+DOCTOR: Okay. Well, it sounds like you likely have a muscle strain. It’s common, especially with age. We can try some simple things.
+PATIENT: Oh. A muscle strain. Well, that doesn’t sound too…serious, does it? What sort of things? Stretching, I suppose? I’ve been trying that, as I mentioned. And rubbing it. Is there anything else? I do hope it doesn't require too much…fuss.
+DOCTOR: Stretching is good. Continue that. Warm compresses can help, too. And stay hydrated. Really, it's just about managing the symptoms. I'm not overly concerned. If it doesn’t improve in a couple of weeks, or if it gets worse, then come back and we can discuss… other options. But for now, I wouldn’t worry about it.
+PATIENT: Oh. Warm compresses. Yes, I can manage that. And I’ll try to drink more water. Though sometimes I forget. It’s good to know it’s not…serious, dear. Just managing the symptoms. That sounds…reasonable. Thank you, Doctor. Should I make an appointment for a follow-up, or just come back if it doesn’t improve?
+DOCTOR: Just come back if it doesn’t improve. No need to make an appointment unless it gets worse. Here’s a little something for your records. Warm compresses, hydration, stretching. And come back if you have any concerns. Is there anything else I can help you with today?
+PATIENT: Oh. Alright. Warm compresses, hydration, stretching. Yes, I believe that covers it. No, dear, I don’t think there’s anything else. Just the leg. Thank you for your time. It was… nice meeting you, Doctor Havird.
+DOCTOR: Alright. You’re welcome. Take care.
+PATIENT: .

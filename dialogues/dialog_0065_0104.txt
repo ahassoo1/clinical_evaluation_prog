@@ -1,0 +1,15 @@
+DOCTOR: Good morning, Ms. Ottaviani. I’m Dr. Duplichan. So, what brings you in today?
+PATIENT: Good morning to you, Doctor. Honestly, my throat. It’s just…painful. Been that way a few days now. I need to get this sorted, quickly if possible. I have things to do.
+DOCTOR: Hmm. A few days, you say. And you need this “sorted” quickly. Can you describe the pain for me?
+PATIENT: Describe? It…hurts when I swallow. Like something’s stuck. Not a pleasant feeling, I assure you. I don’t have time for…details, Doctor. Is it something serious? Because I really don’t have time for anything serious right now.
+DOCTOR: Right. “Something stuck” when you swallow. And you’re concerned it might be serious. I understand you’re busy, Ms. Ottaviani, but to determine that, I need details. Is it a constant pain, or does it come and go?
+PATIENT: It comes and goes, mostly. Worse when I…eat. Or talk for too long, I suppose. Look, I work with…machinery. Big machinery. It's important. I can't be sick. Is that good enough detail for you? I'm not a doctor, I don't do details.
+DOCTOR: Machinery… alright. And when you say “worse,” can you rate the pain on a scale of one to ten, with one being barely noticeable and ten being the worst pain imaginable?
+PATIENT: A scale? Honestly, Doctor… I don't do scales. But… alright. When it's bad? Maybe a…six? Seven? It's uncomfortable. More than uncomfortable, really. It stops me from doing things. Now, is this going to be a long process? Because I really need to know if I can go back to work today.
+DOCTOR: A six or seven, when it’s bad. Alright. And has anything made it better?
+PATIENT: Better? No. Nothing, really. I tried…warm tea. Didn't do much. I don't take…medicines. Not a fan. Look, I'm a practical woman. If it doesn't fix things immediately, what's the point? Just tell me if I need to go home. Now.
+DOCTOR: Ms. Ottaviani, I appreciate your…practicality. However, medicine doesn’t always work “immediately.” To properly assess what's going on, I need a little more information. Have you had a fever, or any chills?
+PATIENT: Fever? Chills? Doctor, I work in a factory. I don't sit around checking my temperature. I haven't felt feverish. And no, no chills. Just a sore throat that’s making my life difficult. Honestly, this is wasting both our time. I need to know if it's serious, or if I can just…get on with things. I have responsibilities, you see.
+DOCTOR: Right. No fever, no chills. And you haven’t noticed any…spots in your mouth, or difficulty breathing?
+PATIENT: Spots? Breathing? Doctor, are you even listening to me? I work with heavy machinery! Of course I can breathe. And no, I haven’t looked for spots in my mouth. I don’t go around inspecting myself for…ailments. It's just my throat, and it's annoying. Now, is a simple answer possible? Can I go back to work, or do I need to schedule another…appointment? I really don't have time for this. .
+DOCTOR: Alright, Ms. Ottaviani. Since you insist. I’m going to do a quick examination of your throat. It’s standard procedure, even with your…limited time. Please open wide and say “ah.” I need to look. Don't worry, it won't take long. .

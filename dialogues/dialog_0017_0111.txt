@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Mr. Drahota. I am Dr. Blim. Now, let's get straight to it. What brings you in today?
+PATIENT: Good morning, Doctor. Honestly, I haven’t the faintest idea why I’m here. My wife insisted. Something about my… complexion, and feeling tired, she said. It's all rather bothersome, wasting time like this. I have work to do, you see. Reinforcing iron doesn’t build itself.
+DOCTOR: “Reinforcing iron,” you say?
+PATIENT: Indeed. A vital trade, Doctor. Keeps buildings standing, bridges from collapsing. Not like… desk jobs. Though I suppose all work has its merits. Regardless, I’m a strong man, always have been. This… skin darkening, it must be the sun. I work outdoors, you understand.
+DOCTOR: Well, “skin darkening” can be attributed to sun exposure, certainly. However, it's prudent to rule out other possibilities. And feeling “tired” is remarkably vague, Mr. Drahota. Can you elaborate?
+PATIENT: Elaborate? I… get tired after a long day of work, Doctor. Lifting steel beams, bending rebar… it’s strenuous. It’s not some ailment, it's simply… exertion. I sleep, I eat. Though, admittedly, my appetite hasn’t been quite what it used to be. But who has time to dwell on such trivialities?
+DOCTOR: Reduced appetite. Right. And has this reduced appetite been a sudden change, or a gradual one?
+PATIENT: Gradual, I suppose. Difficult to say precisely. Time blurs, you see. I’ve been doing this work for… well, a long time. Decades. One day blends into the next. It’s not as if I meticulously track my meals. My wife handles most of that.
+DOCTOR: And what does your wife say about this fatigue and change in complexion?
+PATIENT: She worries, naturally. Women tend to do that. She says I look… unwell. Pale, she mentioned. Though I assure you, I am quite robust. She's probably just being overly cautious. She always has been a bit… dramatic.
+DOCTOR: “Dramatic” aside, Mr. Drahota, it’s my professional obligation to investigate. Let’s proceed with a brief physical exam, shall we?
+PATIENT: A physical exam? Really, Doctor? Is that truly necessary? I haven’t been ill a day in my life, and I assure you, I know my own body perfectly well. But, very well. Get it over with. I have a schedule to maintain, you see.
+DOCTOR: Very well. Please, have a seat on the examination table. I’ll begin by listening to your heart and lungs. Then we'll take a look at your skin. Just breathe normally.
+PATIENT: Honestly, the indignity of it all. I’ve weathered far worse than a stethoscope, I assure you. Buildings collapsing around me, steel beams falling… Now that is stressful. This is merely… uncomfortable.
+DOCTOR: Pulse is… regular, but somewhat weak. I’m noting that. Skin is indeed exhibiting some hyperpigmentation, particularly on the extremities and around the sun-exposed areas. There’s also a noticeable pallor in the mucous membranes. Have you noticed any bruising, Mr. Drahota?
+PATIENT: Bruising? No, I… don’t believe so. I get the occasional scrape, naturally, working with iron and steel. But nothing of note. I’m a reasonably careful man. Though, I suppose my wife might notice something I haven’t. She has a keen eye for detail. A bit too keen, sometimes.
+DOCTOR: Alright. Let’s check your hands. Any joint pain?
+PATIENT: Joint pain? A little stiffness, perhaps. It's to be expected, after years of gripping steel. It comes and goes. I don't make a fuss over it.
+DOCTOR: Stiffness is one thing, Mr. Drahota, but are there any areas of tenderness?
+PATIENT: Well… now that you mention it, that one does feel a bit sensitive. But it’s nothing. Probably just an old injury. I’ve had many. Decades of hard labor, you understand.
+DOCTOR: Tenderness noted in the metacarpophalangeal joints. Mr. Drahota, with all due respect, I believe we need to run some blood tests. Specifically, a complete blood count, iron studies, and a liver panel. Your fatigue, loss of appetite, hyperpigmentation, and now joint tenderness are concerning. It could be a number of things, and we need to rule out serious possibilities.
+PATIENT: Blood tests? Doctor, really? This is becoming quite the ordeal. My wife will be insufferable if she finds out how much time I’ve wasted here. But… very well. If it will appease her, and allow me to return to work… proceed with your tests. Just… make it quick, please. I haven't the patience for drawn-out procedures.
+DOCTOR: I will have the nurse draw the blood now. It will take approximately 15 minutes. In the meantime, let's discuss your past medical history. Have you ever been diagnosed with any chronic conditions?
+PATIENT: Chronic conditions? No. Never. I've always been a strong, healthy man. Never even a cold, if you can believe it. I eat well, work hard, and avoid frivolous activities. That’s my secret, Doctor. Perhaps you should recommend it to others. Now, if you’ll excuse me, I’ll try to occupy my mind until these… tests are complete.
+DOCTOR: Very well. Have you ever had any surgeries?
+PATIENT: Surgeries… hmm. Let me see. Years ago, when I was a younger man, I had a minor procedure on my…appendix, I believe. A rather unpleasant affair. But aside from that, no. Nothing of significance. Certainly nothing recently.
+DOCTOR: And what about your family history?
+PATIENT: Family history? Doctor, my family were… laborers, for the most part. Farmers, builders. Not exactly known for their detailed medical records. A few died of old age, a few from accidents on the job. Nothing glamorous. I doubt any of them had the time, or inclination, to consult a physician regularly.
+DOCTOR: Alright. And what about medications?
+PATIENT: Medications? Doctor, I haven’t taken a single medication in my life. Never needed to. I believe in hard work and a strong constitution. And a little bit of… ginseng, occasionally. My wife insists. But that’s hardly a medication.
+DOCTOR: Alright. And finally, do you have any allergies?
+PATIENT: Allergies? No. Absolutely not. I’ve handled all sorts of materials in my trade – steel, concrete, dust… Never a reaction. I’m a remarkably resilient man. Though my wife claims I sneeze a bit when the plum blossoms bloom. But that's hardly an allergy, she just worries too much.
+DOCTOR: Alright, Mr. Drahota. The nurse will be with you shortly to draw your blood. We'll review the results as soon as they're available. In the meantime, I'll have her take your vital signs. If you need anything, just let the nurse know. And please, try to relax.
+PATIENT: Relax? The very idea. This whole ordeal has been a complete waste of my time. And all because of my wife’s… anxieties. Just let this be over quickly.
+DOCTOR: .

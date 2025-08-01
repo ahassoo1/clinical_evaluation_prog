@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Mr. Pipolo. I’m Dr. Havird. So, what brings you in today?
+PATIENT: Morning, Doctor. Just... my eyes. They feel real dry. Been that way a bit now. Not fun.
+DOCTOR: Hmm. Dry eyes, you say?
+PATIENT: Yeah. Like sand in 'em, sometimes. Especially when it's windy. I work outside, you see. Cement work. Lots of dust.
+DOCTOR: Right, cement work. Dusty, I imagine. And how long has this been going on, roughly?
+PATIENT: Oh, geez. Hard to say exactly. Maybe… a couple months now? It comes and goes, but lately it's been more often. I just hoped it'd go away on its own.
+DOCTOR: Alright. And are you experiencing any pain with the dryness, or is it just… uncomfortable?
+PATIENT: No, not really pain. Just… scratchy. And blurry sometimes. Makes it hard to see good when I'm workin'. I gotta squint a lot. It's mostly just annoying, I guess.
+DOCTOR: Alright. Any discharge from your eyes?
+PATIENT: Discharge? Like… stuff comin' out of 'em? No, not really. Just dry. Sometimes a little watery when they get really bothered, but not… gunk or anything. I don't know what you mean by discharge.
+DOCTOR: Okay, okay. No pus or anything coming from your eyes. Good. Have you tried anything to help with the dryness?
+PATIENT: Nah. Never really bothered with nothin'. I figured it was just the dust. Thought maybe it'd get better if I just didn't work so hard in the sun. Didn't really think to go to a doctor 'til it kept botherin' me. What do you do for dry eyes, anyway?
+DOCTOR: Well, there are a few things. We can try artificial tears, which are basically eye drops to lubricate them. Sometimes, that's all it takes. Do you wear glasses or contacts?
+PATIENT: Glasses, yeah. For readin' mostly. Not all the time. I don’t need ‘em for seein’ far away. Just when I'm lookin’ at small print. Like… instructions on a can, or somethin’.
+DOCTOR: Okay. And are you currently taking any medications?
+PATIENT: Nope. Not a one. Never been much for pills, if I can help it. Just try to stay healthy, you know? Eat okay, don't smoke... That's about it.
+DOCTOR: Alright. Any allergies that you know of?
+PATIENT: Allergies? Hmm. Not that I know of. Never had a bad reaction to nothin'. Dust bothers my eyes, but that's just… dust. Not like I break out in hives or nothin'. I don't think so.
+DOCTOR: Okay. And have you had any recent eye injuries or surgeries?
+PATIENT: No, never. Nothin' like that. Just… normal work stuff. Maybe a little dust in 'em now and then, but never anything serious. I've been doin' cement work for a long time, you know? You get used to a little dirt.
+DOCTOR: Alright. Let’s take a quick look at your eyes, if you don’t mind. I'll just shine a light in them and check for any irritation. Then we can see what we're dealing with.
+PATIENT: Okay, sure. Sounds good. Let's get it over with. I got things to do, ya know? But I appreciate you lookin' at 'em.
+DOCTOR: Alright, please sit and look straight ahead. I'm just going to shine this light into your eyes, and I'll ask you to follow my finger. Hmm. Some mild injection, but nothing terribly concerning. Your corneas look clear. Your tear production seems a little low, which isn't surprising given your line of work. It does seem like simple dry eye, likely exacerbated by the dust.
+PATIENT: So, what does that mean? Do I need… eye drops or somethin'? Will they help? I just want to be able to see when I'm workin', ya know? This squintin' is gettin' old.
+DOCTOR: Yes, eye drops are a good first step. We'll start with artificial tears, preservative-free if possible – they're gentler. Use them as often as you need to, especially when you’re working. Four to six times a day is a good starting point. I’ll write you a prescription. If that doesn’t help, or if it gets worse, we can consider a slightly stronger option. Do you have any questions about that?
+PATIENT: Preservative-free... okay. Sounds fancy. Will they burn? I don’t like things burnin’ in my eyes. And how long 'til they start workin'? I gotta get back to work tomorrow, ya know?
+DOCTOR: No, they shouldn’t burn. Preservative-free drops are designed to be very gentle. They should provide some immediate relief, but it may take a few days to see the full effect. If you experience any burning, stinging, or significant discomfort after using them, stop using them immediately and let me know. I’ll print out instructions on how to use them. Now, given your job, I strongly recommend wearing safety glasses with side shields to protect your eyes from the dust. It’ll make a big difference, trust me.
+PATIENT: Okay, safety glasses. I got some, I think. Old ones. I'll dig 'em out. And I'll try these drops. Just... don't wanna be blind, ya know? Thanks, Doctor. I guess that's all I needed to know. Can I go now?
+DOCTOR: You’re very welcome. You shouldn’t be going blind, Mr. Pipolo. And if your symptoms worsen, or if you experience any new symptoms, please don’t hesitate to come back. Here are the instructions for the drops and a note for your work, explaining that you may need to take breaks to lubricate your eyes. Get back to work safely, and don’t forget those safety glasses. .
+PATIENT: Alright. Thank you, Doctor. I appreciate it. I'll try to remember all that.

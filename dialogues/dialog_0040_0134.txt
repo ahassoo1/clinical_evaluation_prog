@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mrs. Kelder, good to see you… sort of. Now, you're 76, yes?
+PATIENT: Yes, that’s right. Seventy-six. Seems like yesterday I was a little girl, but… well, time does fly, doesn’t it?
+DOCTOR: It does. Look, let’s not dwell on yesterday. What brings you in today?
+PATIENT: Oh, goodness. It’s… my stomach. It’s been botherin’ me somethin’ awful lately. I don’t seem to be able to eat much before I feel full, and then… well, then I feel sick. Just a queasy feelin’ most of the time. It’s been goin’ on for a few weeks now, I reckon. It’s hard to keep track, you know?
+DOCTOR: Weeks, alright. And this queasiness… is it constant, or does it come and go?
+PATIENT: It comes and goes, I think. It’s usually worse after I try to eat, but even when I haven’t eaten, it’s just… there. A low-level kinda sick, if that makes sense. Not like throwin’ up sick, just… unsettled.
+DOCTOR: Unsettled. Right. And what have you been eating these past few weeks?
+PATIENT: Oh, Lord. Well, I try to eat regular, you know? Soup mostly. It's easy on the stomach. And toast. Sometimes a little bit of chicken if I’m feelin’ up to it. But even that… doesn’t stay down sometimes. It's just… not like it used to be, eatin’ is. I used to love a good pot roast… but now…
+DOCTOR: Soup and toast. Okay. Any changes in your… bowel habits?
+PATIENT: Oh dear. Now that’s a question. Let me see… I reckon they’re a bit… slower than usual, if you don’t mind me sayin’. Not terrible, just… not as regular as they used to be. Everything feels a bit… off, to be honest. It's hard to explain.
+DOCTOR: Any fever?
+PATIENT: Fever? Hmm… I don't think so. I haven’t taken my temperature, to be honest. I just feel… tired. More tired than usual. And a little weak. Is that the same as a fever? I don’t really get sick very often, so I don’t know all the signs.
+DOCTOR: Tired and weak. Right. And any pain anywhere?
+PATIENT: Well, sometimes my stomach… kinda aches. Not a sharp pain, just a dull ache, like somethin's heavy in there. And my back has been botherin' me a bit too, but I’ve always had trouble with my back. It’s hard to tell what’s new and what’s just… old age.
+DOCTOR: Alright. Let's have a listen to your stomach. And I'm going to feel around a little bit. Just to see. Lie back on the table, please.
+PATIENT: Oh, alright. Just let me know if it's gonna be uncomfortable, you hear? My bones aren’t what they used to be.
+DOCTOR: Alright. Breathe normally. Hmm. Nothing remarkable. A little tenderness, but that's not unusual. Now, does this hurt at all?
+PATIENT: Ooh, that’s a little tender there. Not a bad pain, just… uncomfortable. It feels kinda… swollen, maybe? Not big and hard, just… full. Like somethin’s pushin’ out. Is that normal?
+DOCTOR: Hmm. Alright. And you said this has been going on for weeks?
+PATIENT: Yes, a few weeks now. Maybe a little longer. It comes and goes, but it seems to be… stickin’ around more lately. And like I said, I haven’t been eatin’ much. I’m worryin’ I’m losin’ weight, but I haven’t weighed myself. I just… don’t feel right.
+DOCTOR: Alright. Well, it could be a number of things. Indigestion, a bit of a stomach bug… but given your age, and the tenderness… we need to rule out somethin’ more serious. I’m gonna order some blood work, and a scan of your abdomen. Just to be safe.
+PATIENT: Oh dear. A scan? Is somethin’ really wrong? I… I don’t like the sound of that. Is it… is it cancer? My sister… she had cancer. It wasn’t a good time.
+DOCTOR: Now, now, Mrs. Kelder, don’t jump to conclusions. It doesn't necessarily mean anything. A scan is just a precaution. We need to see what’s going on inside. I'm not saying it is cancer, I'm just saying we need to rule it out. I’ll write you a referral for the blood work and the scan. The lab is just down the hall, and they'll schedule the scan for you. Try to eat something light, if you can, and drink plenty of fluids. We’ll get these results back as quickly as possible.
+PATIENT: Oh… alright. Light somethin’… I suppose. Thank you, Doctor. When… when will I get the results? And… what if it is somethin’ bad? It's just… hard to think about.
+DOCTOR: The lab should have them back within a few days. We’ll call you as soon as we have them. And frankly, dwelling on “what ifs” isn't productive. Let's just get the results first, and then we’ll discuss them. Any other questions?
+PATIENT: No… no, I don’t think so. Just… thank you, Doctor. I… I hope it’s nothin’ serious. .

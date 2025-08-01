@@ -1,0 +1,29 @@
+DOCTOR: Hi Criston, good to meet you. I'm Dr. Amussen. So, what brings you in today?
+PATIENT: Hello Doctor. Nice to meet you too. I… my pee is orange. It started a few days ago. Not sure why. It worries me a little.
+DOCTOR: Okay, orange urine… that's definitely worth checking out. A few days ago, you said?
+PATIENT: Yes. Maybe… four days? It wasn’t dark orange at first, more… a light color. But now it’s getting darker. I drink water, you know? Not too much, but I try.
+DOCTOR: Okay, so it’s progressively getting darker, despite you drinking water. And you said four days ago it started, a lighter orange?
+PATIENT: Yes, that’s right. I… I don’t know if anything changed. I eat normal food. My wife makes good tagine, usually. I haven’t been sick, I don’t feel sick. Just… the pee color is strange.
+DOCTOR: Alright. No fever, no other symptoms, and you’re eating a normal diet…tagine sounds delicious, by the way. Let me just pull up your record here... Okay, Criston Secondi, 36 years old… no significant past medical history noted. Any allergies I should be aware of?
+PATIENT: No, Doctor. No allergies. Nothing. My wife always asks when I take new medicine, but I haven’t taken anything new. Just… the usual vitamins, sometimes. Nothing special.
+DOCTOR: Okay, no allergies, just occasional vitamins. And what vitamins are those, if you recall?
+PATIENT: Uh… I think… just a multivitamin? The kind you get at the store. Nothing fancy. I don't remember the name, sorry. It’s the colorful ones, you know? With the little letters on them. My wife buys them. She knows about these things better than me.
+DOCTOR: Okay, a general multivitamin. Alright. Now, let’s talk about your bowel movements. Have you noticed any changes in those recently?
+PATIENT: Changes? Uh… no, not really. Same as usual. Normal. Not… hard, not… soft. Just normal. Sorry, I don’t know if that’s helpful. It’s just… pee is the problem, right?
+DOCTOR: Right, the pee is the main concern. Normal bowel movements are helpful to know though, thank you. And just to be thorough, have you noticed any pain or burning when you urinate?
+PATIENT: No, Doctor. No pain. No burning. Nothing like that. It just… looks wrong. It doesn’t feel wrong, if that makes sense. Just the color. I don’t know if I’m explaining this well.
+DOCTOR: You're explaining perfectly fine, Criston. It’s good that you’re not experiencing any pain or burning. Okay, let's do a quick physical exam. I’ll listen to your abdomen and check your vitals. Then we'll do a urine sample to get a better look at what's going on. Does that sound alright?
+PATIENT: Yes, that sounds good, Doctor. Whatever you think is best. I want to know what’s wrong, you know? The urine sample… is that easy? I just need to… go in a cup?
+DOCTOR: Yes, that's all it is - a simple sample in a cup. We have a private bathroom right down the hall. I’ll give you a cup and instructions, and I'll be right here when you’re finished. Don’t hesitate to let me know if you have any trouble.
+PATIENT: Okay, thank you, Doctor. I think I can manage. I will go now.
+DOCTOR: Alright, take your time. I’ll be right here.
+PATIENT: Okay.
+DOCTOR: 
+PATIENT: Here you go, Doctor. I tried to get a good sample. It was… not easy talking about this, you know? But I did it.
+DOCTOR: Thank you, Criston. I appreciate you taking the time to collect that. And you're right, it's not always easy discussing these things. Now, let me quickly take your blood pressure and listen to your abdomen. Just relax, take a few deep breaths. Blood pressure is 128/76, which is normal. Abdomen is soft, non-tender, no masses… everything sounds within normal limits.
+PATIENT: Okay, good. I’m glad it’s normal. So, what do you think it is, Doctor? Is it something serious? My wife will worry if it’s serious.
+DOCTOR: Okay, Criston. Based on what you’ve told me and the quick exam, it's unlikely to be anything serious, but we need to rule out a few things. Orange urine can be caused by a number of things – dehydration is one possibility, even though you said you drink water, it could be you need more. Certain medications can cause it too, and less commonly, it can be a sign of a liver or bile duct problem. Since we haven't established the cause yet, let’s start with a basic urine analysis. That will check for things like blood, infection, and bilirubin levels. We might also want to check a bilirubin level in your blood, just to be safe. Does that sound reasonable?
+PATIENT: Yes, that sounds… good. Whatever you need to do, Doctor. Check everything. I just want to know what’s wrong. And… how long will it take to get the results? My wife and I have plans this weekend.
+DOCTOR: Okay, good. The urine analysis should be fairly quick – usually within an hour or so. The blood test will take a little longer, maybe a few hours. I’ll have the results sent to me as soon as they’re available, and I’ll call you with the findings. If anything is concerning, I'll let you know immediately. In the meantime, let’s focus on staying well-hydrated. Try to drink a little more water than usual. Do you have any questions for me right now?
+PATIENT: No, I think… that’s all, Doctor. Thank you. I appreciate you checking everything. I will try to drink more water. I hope it’s nothing serious. But thank you.
+DOCTOR: Alright, Criston. You're welcome. We'll get to the bottom of this. I'll be in touch as soon as I have the results. Don’t hesitate to call if you experience any new symptoms or if you become more concerned. Have a good day, and enjoy your weekend—hopefully, we can clear up this concern quickly.

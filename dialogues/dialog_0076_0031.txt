@@ -1,0 +1,28 @@
+DOCTOR: Right, Nixon Kreckel. Eighteen years old. So, what brings you in today?
+PATIENT: Oh, hello Doctor. Well, my left leg is… quite swollen. It’s been like this for a few days now. And, um, I know I have a funny heartbeat sometimes, the doctor told me about it before. Is that… connected, do you think?
+DOCTOR: Swollen leg, and a history of…irregular heartbeat. Yes, could be connected. Though, usually these things aren't as simple as they seem. A few days, you say?
+PATIENT: Yes, about three days now. It started feeling a bit tight, and then it just… got bigger. It's not painful, exactly, just… heavy, and a bit uncomfortable. I’ve been trying to keep it up when I sit, but it doesn’t seem to help much. Is that… bad? I don’t really understand all this, sorry.
+DOCTOR: "Sorry"?
+PATIENT: Oh, I just… I don’t know much about medicine, Doctor. I just worry a bit. The other doctor, back home, he said something about my heart, but I didn’t quite catch everything. He said it was “atrial fibrillation,” I think? And that I might need… something. But I’ve not been back since. Is that the thing that makes my leg swell?
+DOCTOR: Atrial fibrillation…yes, well, that can contribute to fluid retention. Though, there are… many other possibilities. We can't jump to conclusions. Have you noticed any shortness of breath, chest pain, or dizziness alongside this swelling?
+PATIENT: No, not really. I’ve been a bit tired, maybe, but I put that down to studying. Computer science is… demanding. No chest pain, and I haven’t felt dizzy. My breathing’s been normal, as far as I know. I haven't been doing much walking, to be honest, because of the leg. I didn’t want to make it worse. Is that… a sensible thing to do? Stopping the walking, I mean.
+DOCTOR: Sensible?
+PATIENT: Well… I thought so. If it hurts, you stop, don’t you? I mean, that’s what my mum always says. But maybe that’s not right for this… I just don’t want to make it worse. I have important things to do, with my studies. Would sitting with it elevated help, do you think? I’ve been trying, but it’s not very comfortable.
+DOCTOR: Elevation is…standard advice, yes. Though, often doesn’t solve the underlying problem. Let’s have a look at this leg, shall we?
+PATIENT: Oh, right. Yes, please. That sounds… good. I’m a bit nervous, if I’m honest. Is it going to hurt? I’m not very good with… needles, or anything.
+DOCTOR: Needles?
+PATIENT: Well… sometimes you need them, don’t you? When they check things. I just… I prefer not to, if possible. Is there anything else you need to know before you look at it? Like, have I been travelling? No, not recently. Just been at home, studying. And eating… normal things, I think. Nothing unusual.
+DOCTOR: "Normal things." Right. Well, let’s get this over with. Please, lie down on the examination table. And try to relax. Though, frankly, I doubt that will be possible.
+PATIENT: Oh… right. Okay. Here we go. I hope it’s not too bad. Is there anything I need to do? Like, should I take my shoes off?
+DOCTOR: Shoes off. And pull your shorts up a little, if you would. We need to get a proper look at the leg. And try not to anticipate discomfort. It rarely helps.
+PATIENT: Right. Is this… okay? It feels a bit silly, lying here. But I’ll do whatever you need me to. It's just... a bit embarrassing, I suppose. Is it very swollen? I can't really tell.
+DOCTOR: Hmm. Yes, there's some edema present. Not alarming, but certainly not normal. And the skin is…cool to the touch. Do you have any history of blood clots?
+PATIENT: Blood clots? No, not that I know of. I’ve never been told anything about them. My mum hasn’t mentioned anything, and she usually tells me if there’s something wrong. Is that… a bad thing? Do they make your leg swell? I'm getting a bit worried now.
+DOCTOR: “Getting a bit worried”?
+PATIENT: Well, yes! You're poking my leg, and talking about clots, and it's swollen… it’s natural to worry, isn’t it? I don’t understand what’s happening, and you’re asking me questions I don’t know the answer to! I just want to know what’s wrong, and if it’s going to stop me from doing my studies. Is it serious?
+DOCTOR: Look, I’m perfectly aware you're anxious. But frankly, your histrionics aren’t helping. We need to rule things out. Let's check your pulses. Extend your leg.
+PATIENT: Oh… that’s a bit uncomfortable. Is it okay if I just… keep it a bit bent? It’s not hurting, exactly, just… stiff. I don’t like feeling like I’m being… examined. It makes me feel… vulnerable. Is there any chance it’s just… muscle strain? I was doing a lot of coding recently. I sit for hours, and maybe I just pulled something.
+DOCTOR: Muscle strain is… unlikely, given the location and the edema. But we'll humor you. Can you point to where it hurts most?
+PATIENT: Here. It’s not really painful, more like… a dull ache. And it feels… tight. Like a rubber band stretched too far. It started a few days ago, after I was working on a particularly difficult piece of code. I was really concentrating, and I didn’t move for hours. Do you think that could have done it? Is that what’s causing it?
+DOCTOR: Hours of coding?
+PATIENT: Well… yes. I’m studying computer science. It requires a lot of… dedication. I was trying to fix a bug in my program, and I just… lost track of time. I didn't even realize I was sitting for so long until my back started to ache. Is it really that unusual?

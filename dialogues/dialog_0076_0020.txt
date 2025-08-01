@@ -1,0 +1,32 @@
+DOCTOR: Alright, Mrs. Benites, let's get this over with. You're 57, correct?
+PATIENT: Yes, that is right. Fifty-seven years old. August second, yes? Is good day for talk, I think.
+DOCTOR: Yes, August 2nd. Look, I have a lot of patients today, so if you could just tell me why you're here, that would be great. Don’t need a life story, just the main problem.
+PATIENT: Oh, excuse me. Yes, of course. It is… my back. It hurts. Not all the time, but when I bend, or… lift things. It is a trouble. I work with cars, you see. Heavy work sometimes.
+DOCTOR: Back pain. Okay. And how long has this been going on?
+PATIENT: Hmm… a while now. Maybe… six months? It comes and goes. Hard to say exactly. Sometimes it is just a little ache, other times… more. It is not a good feeling, I can tell you that.
+DOCTOR: “A while” isn’t very helpful, Mrs. Benites. Is it constant, intermittent… sharp, dull?
+PATIENT: Oh! Sorry, doctor. I do not know those words. Constant… always? No, not always. It comes and goes, like you said. And… dull, I think? Not a sharp pain. More like… heavy. Like someone is sitting on my back, maybe.
+DOCTOR: Heavy, alright. And does it radiate anywhere?
+PATIENT: Radiate? I am sorry, doctor. Do you mean… does it go somewhere else? Yes, sometimes. Down my leg, a little. Not all the way, just… the top part.
+DOCTOR: Down the leg... Okay. Is it worse with any particular activity besides bending and lifting?
+PATIENT: Yes. When I stand for a long time. In the garage, when I am working on car… it hurts more then. And… when I sit for too long too. Not good for sitting.
+DOCTOR: Any numbness or tingling in the leg?
+PATIENT: Numbness? Tingling? Sometimes, yes. In my foot. Not all the time, but when the pain is bad, I feel… like pins and needles. Very small needles.
+DOCTOR: Okay, Mrs. Benites. Let’s have you lie down on the exam table. We’ll do a quick physical exam. I need to see how your range of motion is, and I’ll check your reflexes. Just… try to relax.
+PATIENT: Okay, doctor. That is good. I will lie down. Relax… I try. It is hard when it hurts, but I will try. Where is table?
+DOCTOR: Over there. Go ahead and get situated. I’ll be right over. And please, try to tell me exactly where it hurts when I press on your back. Don't just say 'here,' alright?
+PATIENT: Yes, doctor. I understand. I will tell you exactly. This way. It is a little high, maybe? But I manage.
+DOCTOR: Okay. So, tell me when this hurts. How about there?
+PATIENT: Ooh! Yes. Right there. A little… sharp now. Not so good. A little to the left of… the middle bone? Is that how you say? It hurts when you push.
+DOCTOR: And what about here?
+PATIENT: Yes, that is bad too. More bad. Feels… like a muscle is pulled, maybe? It is hard to explain. But that spot… hurts when I move my leg. Like a shooting pain.
+DOCTOR: Okay, and how about when I lift your leg like this?
+PATIENT: Ooh! Doctor, stop! Yes, very bad! Down my leg, that shooting pain! Like… electricity. Please, put my leg down. That is not good.
+DOCTOR: Alright, alright. Don’t worry. Okay. It seems like you likely have a pinched nerve in your lower back. Probably some muscle strain as well. Nothing immediately alarming, but it needs attention. I'm going to order some X-rays to rule out anything serious, and I’ll prescribe you some muscle relaxants and anti-inflammatory medication. And you absolutely need to rest, Mrs. Benites. No heavy lifting. Do you understand?
+PATIENT: X-rays… okay. And medicine? Muscle… relaxants? I understand. No heavy lifting. That will be hard, but I will try. Rest… yes. Is good to rest. When do I get medicine?
+DOCTOR: I'll send the prescription to your pharmacy electronically. It should be ready within a few hours. The X-rays… we’ll schedule those for tomorrow morning. 8 AM?
+PATIENT: Tomorrow… 8 AM is good. Yes. To pharmacy… I will go pick up medicine. Is okay. Thank you, doctor. Is good to know what is wrong.
+DOCTOR: Alright. Here’s a handout on proper lifting techniques, just in case. And try to follow up with a physical therapist after the X-rays, if the pain doesn't improve. Any other questions?
+PATIENT: Lifting… yes, good. I will try. No, I do not think so. Thank you, doctor. You are very helpful. Is all? I can go now?
+DOCTOR: Yes, Mrs. Benites, you’re all set. The nurse will escort you to schedule the X-rays. Have a good day. And please take it easy. .
+PATIENT: Okay, doctor. Yes. I will. Thank you again. Good day to you too. .

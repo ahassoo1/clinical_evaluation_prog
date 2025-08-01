@@ -1,0 +1,24 @@
+DOCTOR: Right, well, let’s get this over with. Adyn, is it?
+PATIENT: Yes, that’s right. Adyn Swaby. It’s… nice to meet you, Doctor. Though, I wish the circumstances were a bit better, you know?
+DOCTOR: Yes, yes. Everyone says that. Look, I’m Dr. Ruocco. Just tell me what’s bothering you. Briefly, if you could. I have patients waiting. What brought you in today?
+PATIENT: Oh, um… right. It’s my speech, I think. It’s been… off. Slurred, sometimes. It’s hard to explain, really. It just… doesn’t come out right. I noticed it a few days ago, I believe. Though, truthfully, dates are a bit fuzzy for me. It’s worrying my husband, mostly.
+DOCTOR: Husband?
+PATIENT: Yes, married. Been married a few years now. Honestly, I don’t recall exactly how many. It all… blurs together sometimes. Is that… normal? He’s the one who made the appointment, actually. Said I needed to get it checked out. He worries a lot.
+DOCTOR: Right. Well, husband, blurry dates… okay. Let’s focus on this “slurred speech.” When did you first notice it?
+PATIENT: Hmm… that's a difficult question. A few days ago, like I said, but… not more than a week, definitely. It wasn't sudden, not like one morning I just couldn't speak properly. It came on gradually, I think. It’s mostly when I’m tired, or… trying to say long words. Though, sometimes it happens even when I’m not. It’s very… inconsistent.
+DOCTOR: Inconsistent. Wonderful. Any other symptoms?
+PATIENT: Other symptoms? Let me think… No, not really. No headaches, no dizziness. My arms and legs feel… fine. I haven’t noticed any weakness, or anything like that. Actually, now that I think about it… I have been a little more tired than usual. But I work construction management, so that could just be the job. Is that helpful?
+DOCTOR: Construction management, you say. Strenuous work. Any family history of… neurological issues?
+PATIENT: Neurological… issues? I… honestly, I don’t know. My family isn’t really the type to talk about those sorts of things. My mother… she passed away when I was young. And I didn’t really know my father. So, no, I don't believe so. Unless something my husband knows, but he'd tell me, wouldn't he? He’s very good with remembering things.
+DOCTOR: Alright. And are you on any medications?
+PATIENT: Medications… Just the standard things, I think. For… you know. Regular check-ups. Nothing major, definitely. I have Medicare, so they keep track of all that, don't they? I couldn’t possibly list them off the top of my head. My husband handles most of that, too. He’s very organized.
+DOCTOR: Right. According to the record… Vitamin D, and a potassium supplement. Is that correct?
+PATIENT: Oh! Yes, that’s right. Vitamin D… the doctor said I wasn’t getting enough sunshine. And potassium… something about my blood pressure, I think. Yes, those are the ones. See? He does tell me things, sometimes! It's just… a lot to keep track of, you know?
+DOCTOR: Right, right. Let’s get a quick physical exam, then. Open wide.
+PATIENT: Oh, okay. Is everything alright, Doctor? Is it something serious? My husband will be very worried if…
+DOCTOR: Hmm. Throat looks… normal. Palate is clear. Now say "Ah". Breathing is clear. Tongue… protrude, please. No obvious tremors. Reflexes seem… adequate. All perfectly normal, so far. Now, try to follow my finger with your eyes. Don’t move your head.
+PATIENT: Like this? Is that okay? It’s a little… difficult, actually. My eyes feel a bit tired, now that you mention it. They get strained at work, sometimes. Lots of blueprints to look at. I’m trying, Doctor, honestly. It’s just… a bit hard to concentrate.
+DOCTOR: Right. Okay. Seems… unremarkable. Look, I suspect it’s just fatigue. Construction work is demanding. Get some rest. Plenty of it. And maybe reduce your workload if possible. I'll put in a referral for an eye exam, just to be safe. Anything else?
+PATIENT: Just… fatigue? That’s all? My husband was really worried about it… He said my speech sounded… slurred. I suppose… an eye exam sounds good. I do get headaches sometimes. It just… doesn’t feel right, Doctor. But if you think it’s just fatigue… No, I don't suppose there's anything else. Thank you, Doctor. I appreciate your time.
+DOCTOR: Very well. The referral information will be sent to your husband’s email. If symptoms worsen, come back. But honestly, I suspect it’s nothing serious. Next patient. .
+PATIENT: .

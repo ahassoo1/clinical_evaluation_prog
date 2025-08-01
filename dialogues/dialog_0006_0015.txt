@@ -1,0 +1,27 @@
+DOCTOR: Alright, Ms. Boham, good to see you. So, what brings you in today?
+PATIENT: Oh, hello Doctor. It is… my sinuses, I think. They are… not good. It’s been… a little while now. I feel… pressure, mostly. Behind my face. It is hard to explain.
+DOCTOR: Okay, sinuses. Pressure, you say?
+PATIENT: Yes, pressure. And… sometimes it feels full. Like water is in there. It is not… painful, exactly. More… uncomfortable. I do not know if that makes sense. I forget… how to say it right.
+DOCTOR: No, that makes sense. Uncomfortable pressure, fullness… How long has this been going on?
+PATIENT: Oh… that is a good question. A long time. Maybe… a few months? It comes and goes. Sometimes better, sometimes worse. I really… I do not remember exactly when it started. Sorry. It feels like… always.
+DOCTOR: Hmm. A few months, on and off… Alright. Any fever, cough, or sore throat with this?
+PATIENT: No, no fever. And no cough. My throat… sometimes a little scratchy, but not… a bad sore throat. Mostly just… the pressure. It is worse when I… bend over, I think. Or when it is cold. Do you… understand?
+DOCTOR: Okay, no fever, occasional scratchy throat, worse with bending or cold weather. Have you noticed any drainage from your nose?
+PATIENT: Drainage… hmm. Sometimes… a little. Not much. Clear, mostly. Sometimes… a little yellow, I think. But not… a lot. I usually just… blow my nose. It is normal, yes? I am not sure if that is… important.
+DOCTOR: Alright, some clear, occasionally yellow nasal drainage. Any facial pain along with the pressure?
+PATIENT: Pain… not really pain, Doctor. More… a heaviness. My face feels… heavy. Especially here… And sometimes… around my teeth, a little bit. But not like a toothache. It is hard to explain. I am sorry I cannot… say it better.
+DOCTOR: Okay, heaviness in your forehead and around your eyes, sometimes around your teeth. Have you tried anything to help it – over-the-counter medications, saline rinses, anything like that?
+PATIENT: Oh… I think my husband, he gave me… some pills? A little while ago. They did not… do much. I forget what they were for. And… I try to drink a lot of water. That helps a little, maybe? I do not… I do not know much about… rinses. I am sorry. I have not tried… many things.
+DOCTOR: Alright. Let's see...heavy feeling, not much relief with medication, and you drink water. Do you have any allergies, like to pollen or dust?
+PATIENT: I don't think so, Doctor. I have never… been told I have allergies. I work outside, with the drill… lots of dust, yes. But I don’t… sneeze or anything. My face just… feels tired, sometimes. From the work, maybe? I am not sure. I do not know… if that makes sense.
+DOCTOR: Okay, no known allergies. Hmm… Alright. I’m going to take a quick look at your ears, nose and throat, just to get a better idea of what's going on. Is that alright?
+PATIENT: Yes, Doctor. That is… fine. Whatever you think is best. Thank you.
+DOCTOR: Okay… ears look clear. Some mild redness inside your nose, but nothing major. Throat looks a little irritated, but no obvious signs of infection. Now, let’s listen to your lungs, just to be safe. Deep breath for me, please.
+PATIENT: Okay. Is that… good? I try to breathe… deeply when I work, yes. It is good to be careful.
+DOCTOR: Alright, lungs sound clear. Everything seems… relatively normal so far. It sounds like you might have some chronic sinusitis. The inflammation could be causing the pressure and fullness you’re feeling. Given your history, and the fact that over-the-counter medications haven’t helped much, I think we should try a nasal steroid spray. It’ll help reduce the inflammation in your sinuses. Have you ever used one of those before?
+PATIENT: No, Doctor. I have not. A… steroid spray? What… what does it do? Is it… safe? I am sorry, I do not… I do not know much about… sprays. I worry sometimes… about taking things.
+DOCTOR: That’s perfectly understandable. A nasal steroid spray helps to reduce swelling in your nasal passages and sinuses. It's applied directly to your nose, so very little of it is absorbed into your body. It’s generally very safe, with minimal side effects – sometimes just a little dryness or irritation in your nose. We’ll start with a low dose, and see how you do. I’m going to write you a prescription for fluticasone propionate. You spray twice in each nostril once a day. Do you think you can manage that?
+PATIENT: Twice… in each nose? Once a day. Yes, I think… I think I can do that. My husband… he can help me, if I forget. Is it… difficult? I worry about… getting it right. I want to… to feel better.
+DOCTOR: It’s not difficult at all! I’ll have the nurse go over the proper technique with you before you leave. Just aim away from the center of your nose, toward the outer walls. We’ll also want to make sure you’re drinking plenty of fluids. If you don't see any improvement after a couple of weeks, or if your symptoms get worse, give the office a call. Is there anything else I can help you with today?
+PATIENT: Okay, the nurse will show me. That is… good. And I will drink water. Thank you, Doctor. No… I think that is all. I appreciate… your help. I just want… to feel better. So I can work.
+DOCTOR: Alright. Well, let’s get you set up with that prescription and the nurse will go over everything with you. Hopefully, this will get you feeling back to normal soon. Stop by if you have any troubles. And remember, call if things get worse. Have a good day, Ms. Boham.

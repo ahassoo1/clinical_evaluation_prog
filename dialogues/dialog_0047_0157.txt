@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Ms. Dudeney. I'm Dr. Press. So, what brings you in to see me today?
+PATIENT: High blood pressure, like the lady on the phone said. Honestly, I don’t have time for this. Is there a quick fix or what?
+DOCTOR: Right. High blood pressure. And you’re…disinclined to spend a great deal of time on this, is that correct?
+PATIENT: Look, I got things to do. My husband, he needs help with the sheep. And the kids... well, they need things. It’s just…a pressure thing, right? Can’t you just give me something for it? Something small?
+DOCTOR: Ms. Dudeney, “just a pressure thing” isn’t really how hypertension works, unfortunately. It’s not something we can simply treat with a quick fix. It's a condition that needs to be understood and managed, or it can lead to very serious problems. But let’s start with some basics. When were you told your blood pressure was high?
+PATIENT: The lady on the phone called yesterday. Said the machine at the store showed it was too high. I don’t even know what the numbers were. I just… go in for the yearly check-up and they tell me stuff. Honestly, I barely listen. It’s always something.
+DOCTOR: Right. So, the reading was taken at a…store?
+PATIENT: Yeah, the pharmacy. They have one of those machines. I was picking up medicine for my youngest and figured I’d check it while I was there. It beeped and everything. Seemed important enough to call me. Honestly, those things are probably wrong half the time.
+DOCTOR: While convenient, those machines can be inaccurate. But we still need to investigate. Have you ever been formally diagnosed with high blood pressure before, Ms. Dudeney?
+PATIENT: No. Like I said, they tell me stuff at the yearly check-up. I nod and smile and then I go home. I don't remember anything specific about… pressure. It's never bothered me. I feel fine.
+DOCTOR: Alright. Well, "feeling fine" isn't necessarily indicative of anything. We’re going to need to get an accurate reading here in the office. And then, if it's still elevated, we’ll need to do some further testing to understand why. I’m going to take your blood pressure now. Please relax your arm, and try not to talk while I do it.
+PATIENT: Fine. Just hurry it up, okay? My husband is expecting me back soon. And don't tell me about what could happen, alright? I don't want a lecture.
+DOCTOR: I assure you, Ms. Dudeney, I will simply be taking your blood pressure. ...148 over 92. Hmm. That is elevated. And your pulse is 88. Do you have any current medical conditions, Ms. Dudeney?
+PATIENT: No. Nothing I’m aware of. Like I said, yearly check-ups. They ask, I say no, they poke me a few times, and I leave. My insurance is good, so I go. Honestly, it feels like a waste of time. Is that high? Like, really high?
+DOCTOR: It’s… higher than optimal, yes. That’s why we need to investigate further. Do you take any medications at all?
+PATIENT: Just the allergy pills. Seasonal stuff. And sometimes ibuprofen for my back. That’s it. My husband gets me everything I need from the trading post. He knows best about that kind of stuff. Honestly, I don’t bother remembering all those names.
+DOCTOR: Alright. And are you allergic to anything?
+PATIENT: Dust. And… bees, I think. Mostly just annoyed by them. My husband says I get a little dramatic when one gets close. Is that what you need to know? Because honestly, this is taking a long time.
+DOCTOR: Ms. Dudeney, it’s important that I gather all relevant information. Have you experienced any dizziness, headaches, or vision changes recently?
+PATIENT: No. Nothing like that. I get tired, sure. But that’s just… life. Sheep are heavy, the sun is hot, and the kids… well. Honestly, I'm always tired. Does that count? Is it related to the… pressure thing? Just tell me if I need a pill.
+DOCTOR: Ms. Dudeney, with all due respect, we don't simply hand out pills without understanding the underlying cause of a problem. It’s irresponsible. Have you noticed any swelling in your ankles or feet?
+PATIENT: No. My boots are always a little tight. It's the leather, I think. Honestly, I don't pay attention to swelling. I just… wear the boots. It's what you do. Is this going to be a long appointment? My husband is probably wondering where I am.
+DOCTOR: We need to rule out any secondary causes of your hypertension. Do you have any family history of high blood pressure, heart disease, or kidney problems?
+PATIENT: Honestly, I don't know. My grandmother, she… well, she was old. Everyone on that side of the family is old. My mother, she never talked much about it. They just… lived. I don't really keep up with all that. Is it important? Just tell me if I need a pill, and let me go.
+DOCTOR: Alright. We're going to do a basic physical exam, Ms. Dudeney, and then I’ll order some blood work and a urine analysis. We need to check your kidney function, electrolyte levels, and rule out any other potential issues. It's standard procedure. If you’ll just lie down, please. We’ll start with listening to your heart and lungs.
+PATIENT: Fine. Just… don’t poke me too much. And hurry it up. Honestly, I have things to do. .
+DOCTOR: Heart sounds are regular, S1 and S2 normal, no murmurs auscultated. Lungs are clear to auscultation bilaterally. Abdomen is soft, non-tender, no masses palpated. Now, let’s check your reflexes… Reflexes 2+ and equal bilaterally. No edema noted in the extremities. Alright. We will need to get those blood work and urine samples done. I'll have the nurse come in to explain the process.

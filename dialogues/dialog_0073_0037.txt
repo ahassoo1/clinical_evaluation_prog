@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Ms. Kilton. I’m Dr. Korrell. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It is good to meet you. My breathing… it makes a whistling sound now. Like a small teapot, maybe? Especially when I walk fast. It worries me a little.
+DOCTOR: A whistling sound, you say?
+PATIENT: Yes. It comes and goes. More when I am trying to do things, you know? Walking… or even just reaching for something on a high shelf. It is not always there, but it is happening more often now, I think. I don’t know if that makes sense.
+DOCTOR: It sounds like you're describing some sort of airway obstruction, though it’s difficult to say much without a proper examination. Can you tell me, Ms. Kilton, how long has this been going on?
+PATIENT: Oh… airway… is that bad, Doctor? I’m not sure how long. Maybe a month? Two months, perhaps? It started slowly, and I thought it was just from being out of practice with walking. I used to be very active, you see. A trainer, for many years. But it hasn't gone away, and it feels… different now. More worrying.
+DOCTOR: Decreased activity… alright. And aside from the whistling sound, have you noticed any other symptoms?
+PATIENT: Other symptoms… hmm. Let me think. I get tired easier, yes. Not just from the walking, but… all the time, really. And sometimes, my chest feels… tight. Like a band around it. But it goes away quickly, usually. I haven’t coughed much, if that matters. Just the whistling, mostly.
+DOCTOR: Tightness in the chest… and fatigue. Alright. Have you had any fever, chills, or night sweats?
+PATIENT: No, Doctor. No fever, chills, or… what was the other one? Sweats? No. I sleep quite well, actually. A little less soundly than before, maybe, but no night sweats. I feel warm sometimes, just normal warm. Not a feverish warm, if you understand.
+DOCTOR: Alright. And just to be thorough, Ms. Kilton, do you have any known allergies to medications?
+PATIENT: Oh, yes. That is a good question, Doctor. I think… penicillin. I had a bad rash many years ago after taking it. And… I think I am sensitive to codeine? It makes me very sleepy and dizzy. But I have not taken either of those in a long time, so I am not sure if it still happens. It was many years ago, you see.
+DOCTOR: Alright. And are you currently taking any medications, prescribed or over-the-counter?
+PATIENT: Just a little something for my arthritis. It's called… meloxicam, I think. A small white pill. Only when it gets very bad, you see. And sometimes, a vitamin D supplement. The doctor told me I was a little low. But that is all. I do not like taking many pills, if I can avoid it.
+DOCTOR: Alright. And before we proceed with an examination, Ms. Kilton, could you tell me about your past medical history?
+PATIENT: Oh… past medical history. Well, I broke my wrist many years ago, playing volleyball. That needed a cast. And… I had a very bad flu when I was a child, but everyone got the flu back then, you see. I've always been quite healthy otherwise. Just the arthritis now, getting older, I suppose. It’s in my hands mostly, makes it hard to grip sometimes. Nothing too serious, really.
+DOCTOR: And any surgical history, Ms. Kilton?
+PATIENT: No, Doctor. No surgeries. Never needed one, thank goodness. I’ve always been careful, you see. Tried to stay active and avoid accidents. I used to tell my students that prevention is the best medicine! A little clumsy now, sometimes, but no surgeries. Just the broken wrist, a long time ago. That's it.
+DOCTOR: Alright. And lastly, Ms. Kilton, is there any family history of lung problems, heart disease, or breathing difficulties?
+PATIENT: Hmm… that is a good question, Doctor. My mother… she had some trouble breathing when she was very old. I don’t know exactly what it was, but she needed a special machine to help her sleep. And my brother… he smoked for many years, and I think he had some heart trouble later in life. But that’s all I can think of. It was a long time ago, and we didn’t talk about it much.
+DOCTOR: <stage>I write “Mother - ?
+PATIENT: .

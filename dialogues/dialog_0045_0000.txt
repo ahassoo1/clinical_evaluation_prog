@@ -1,0 +1,25 @@
+DOCTOR: Alright, Sharifa, have a seat. So, you're here today… tell me what brought you in. Don’t leave anything out, and try to be concise. I have other patients waiting, you know.
+PATIENT: Well, it's my legs. They just… gave out, practically. It was after a really bad cold, just a regular cold, nothing special. I haven’t felt this weak in… well, a long time. I usually bounce back quickly, but this just lingered, and then poof, wobbly as a newborn calf. It's both legs, which is what’s so odd.
+DOCTOR: "Poof," huh?
+PATIENT: Yes, poof. I mean, I was standing in the kitchen making coffee – a perfectly normal activity, I assure you – and suddenly felt like my knees were filled with jelly. Had to practically grab onto the counter to keep from falling. It wasn't a gradual thing, it was… abrupt. Honestly, it's rather inconvenient.
+DOCTOR: Right. So, this happened after the cold. How long ago was the cold, exactly?
+PATIENT: Oh, let me think. The cold itself… it was about ten days ago, maybe a little more. I’d say it fully resolved about seven days ago. No fever, just the usual congestion, a bit of a cough, you know. Nothing a good cup of ginger tea couldn't handle, usually. But then, a couple of days after I felt better, that's when this leg weakness started creeping in.
+DOCTOR: And you said both legs?
+PATIENT: Yes, both. Equally. That’s what’s so strange about it. It's not like one is worse than the other. It feels… symmetrical. I’ve always been quite coordinated, I might add. Used to be a very good dancer, you know. This is… unsettling. I don’t usually have trouble walking at all.
+DOCTOR: Right. Symmetrical weakness after a viral illness. Okay. Have you noticed any other symptoms?
+PATIENT: Other symptoms… let me think. No, not really. No numbness, no tingling. No pain, thankfully. My hands are fine, everything else is fine. I’ve been a little tired, perhaps, but who isn’t these days? Honestly, that’s all. It’s just… the legs. It feels like they aren’t mine when I try to stand.
+DOCTOR: Alright. Any family history of… neurological issues?
+PATIENT: Neurological issues? Oh dear. Let me see… my mother had arthritis, quite badly, in her hips. That's about all I can think of. She wasn’t one for discussing ailments, though. A very stoic woman. My father was perfectly healthy, a strong man, worked with his hands his whole life. Nothing… remarkable, as far as I know. Definitely no paralysis or anything like that.
+DOCTOR: Okay. And are you currently taking any medications?
+PATIENT: Just a low-dose aspirin, every other day. Doctor suggested it years ago, for preventative reasons. And occasionally some ibuprofen for headaches, but that's it. I generally try to avoid medications if I can. Prefer natural remedies, you know. Ginger, chamomile, that sort of thing.
+DOCTOR: Alright. Well, let’s take a look at those legs. Can you stand up for me, please?
+PATIENT: Certainly. Though, I warn you, it’s not a pretty sight.
+DOCTOR: Okay, reflexes are… present, but diminished. Strength is… reduced in both legs, as you said. Not a complete paralysis, thankfully. Can you walk for me, a few steps?
+PATIENT: See? It’s not normal. I usually have a much more… assured gait. It feels… precarious. Like I might fall at any moment. It's just not me, doctor. Not at all.
+DOCTOR: Hmm. Yes, I see what you mean. Somewhat unsteady. Alright. We’ll need to rule a few things out. I'm going to order a basic metabolic panel and a complete blood count. And, just to be thorough, a Vitamin D level. It could be something simple, like a deficiency. But we need the tests to confirm.
+PATIENT: A deficiency? That’s… plausible, I suppose. I haven’t been spending as much time in the sun lately. Although, I do eat a fairly balanced diet. Still, I trust your judgment, doctor. When can I expect the results?
+DOCTOR: The lab usually takes a couple of days. We’ll have them faxed over here. I'll have my nurse call you with the results. Don't jump to conclusions, though. It’s likely nothing serious. In the meantime, just take it easy. And avoid strenuous activity. Honestly, sometimes these things just resolve on their own. Your body is quite resilient.
+PATIENT: Resilient, yes, usually. Very well, doctor. I’ll try to rest. Though, it's rather frustrating to be sidelined like this. I suppose I'll await your nurse's call. Thank you for your time.
+DOCTOR: Alright. Don't hesitate to call if anything worsens. But truly, I suspect it's just a viral aftereffect. Next!
+PATIENT: Very well. I shall.
+DOCTOR: .

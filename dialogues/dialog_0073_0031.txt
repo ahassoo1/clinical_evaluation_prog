@@ -1,0 +1,23 @@
+DOCTOR: Good afternoon. I’m Dr. Korrell. So, tell me… what brings you in today?
+PATIENT: Good afternoon to you as well, Doctor. Well, my left leg is quite swollen. It’s been getting worse over the last few days, and… I have a heart thing, you see. Atrial fibrillation, the doctor at home called it. It’s the reason I’m here, I believe.
+DOCTOR: Atrial fibrillation…yes, I see that noted here, though the details are…sparse. Swollen leg, you say?
+PATIENT: Yes, Doctor. Mostly in my calf, I think. It’s tender to the touch, and it feels… heavy. Like it’s full of water, if that makes sense? I haven’t done anything to it, no injury. It just… started puffing up.
+DOCTOR: "Heavy," and gradually worsening…right. And you haven’t experienced any chest pain, shortness of breath, or dizziness alongside this swelling?
+PATIENT: No, Doctor. No chest pain at all. A little breathless when I walk up the stairs, maybe, but that’s just… being out of shape, I expect. And no dizziness, thankfully. Just the leg. It’s quite bothersome, to be honest. It makes wearing my shoes rather difficult.
+DOCTOR: "Bothersome," yes. Well, we'll need to have a look. Do you have any known allergies to medications or…anything, for that matter?
+PATIENT: No, Doctor, not that I’m aware of. I've never had a bad reaction to anything, thankfully. I… I don't take any medicines regularly, either. Just the occasional painkiller for a headache, but nothing serious.
+DOCTOR: Alright. Well, let’s start with a physical exam. If you’ll just change into a gown, I’d like to take a look at your leg and listen to your heart and lungs.
+PATIENT: Very well, Doctor. If you’ll excuse me…
+DOCTOR: Alright. Please lie down on the table. We’ll start with your legs.
+PATIENT: Certainly, Doctor. Just let me adjust this… Is there anything specific I should be doing?
+DOCTOR: Just relax. I'm checking for any abnormalities in the swelling and tenderness. Now, let's listen to your heart. Please take a deep breath for me.
+PATIENT: Alright. Is everything alright? It feels rather cold. I’m not used to this… the metal bit.
+DOCTOR: Irregular rhythm, as expected. And your lungs sound…clear enough. Now, can you flex your foot towards your shin, and then point your toes?
+PATIENT: Like this, Doctor? Is it causing you any discomfort? It’s a little stiff, if I’m honest. Not painful, just…not as flexible as it used to be.
+DOCTOR: Stiffness... alright. Given your history of atrial fibrillation and the unilateral swelling, my initial thought is a possible deep vein thrombosis, or DVT. However, it's too early to say definitively. We’ll need to rule out other possibilities. I'm going to order a D-dimer test and a Doppler ultrasound of your leg.
+PATIENT: A… a D-dimer test? And an ultrasound? Is that serious, Doctor? I’ve never had either of those before. What does that mean exactly? Is it…is it bad? I feel a little flustered now.
+DOCTOR: It could be serious. A DVT is a blood clot in a deep vein. It can be dangerous if it travels to your lungs. The D-dimer test is a blood test that helps us see if there's evidence of a clot. The ultrasound uses sound waves to visualize the veins in your leg and check for blockages. It’s a standard procedure. Don’t get overly concerned, but it’s best to be thorough. The nurse will draw your blood for the D-dimer, and we'll schedule the ultrasound for later today. Until we have the results, I recommend elevating your leg and avoiding strenuous activity.
+PATIENT: I see…Elevate my leg, you say? And no… strenuous activity. Right. That sounds…reasonable, I suppose. Is there anything else I should be doing? Or… avoiding? And how long until we get the results of these tests? I’m rather worried now, Doctor. I hadn't expected this.
+DOCTOR: Avoid prolonged standing or sitting. And if you experience any sudden chest pain, shortness of breath, or increased swelling, go to the nearest emergency room immediately. As for the results, the D-dimer usually comes back within a few hours, and the ultrasound…they should be able to get you in today, and I'll have the report tomorrow morning. Try not to dwell on it. We’re simply being cautious. The nurse will explain the process and schedule the ultrasound for you. Do you have any further questions right now?
+PATIENT: No… I suppose not. Just… the emergency room? That sounds… alarming. Alright. No, I don’t think so. I’ll let the nurse take care of the tests. Thank you, Doctor. I believe that will be all for now.
+DOCTOR: Very well. The nurse will be in shortly. And remember… if you experience any chest pain or shortness of breath, do not hesitate to seek immediate medical attention. .

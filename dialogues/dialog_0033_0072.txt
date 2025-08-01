@@ -1,0 +1,28 @@
+DOCTOR: Good morning. Dr. Dechene. You're Ms. Heidenthal, correct?
+PATIENT: Yes, that's me. Good morning to you too. It's nice to meet you, Doctor.
+DOCTOR: Yes, well. Let's not dwell on pleasantries. What brings you in today?
+PATIENT: Well, it’s a bit… embarrassing, honestly. I've been having trouble remembering things. Little things, mostly, but it’s starting to worry me.
+DOCTOR: "Trouble remembering things..." Right. How long has this been going on?
+PATIENT: Hmm... that's a good question. I think maybe six months or so? It started gradually, just forgetting where I put my keys, or a name here and there. But it feels like it's gotten worse lately. It's hard to say exactly when it started started, you know?
+DOCTOR: Yes, “feels like.” Vague recollections aren’t terribly helpful, Ms. Heidenthal. Can you give me specific examples?
+PATIENT: Oh, I'm sorry. You're right. Specific… Okay. Last week, I made a dental appointment for a patient – Mrs. Gable – and I completely forgot what time it was scheduled for. I had to check the system three times. And yesterday, I went to the grocery store and… I forgot why I went. Just walked around for ages, blank. It's things like that. Not big things, but… unsettling.
+DOCTOR: Hmm. And are you experiencing any other symptoms?
+PATIENT: Other symptoms? Let me think… Not really, not that I've noticed. I sleep okay, I guess. Maybe a little more tired than usual, but that could just be the stress of… well, this. No headaches, no dizziness… Nothing like that.
+DOCTOR: Stress. Of course. Do you have a family history of… cognitive decline?
+PATIENT: Oh, that’s… a tricky one. My grandmother, on my mother’s side, she had… I don’t know the exact name, but she got very confused in her later years. They said it was just “old age,” but she did forget a lot. My mother always said it ran in the family, something about the mind… but I don’t know details. I wasn't very close to my grandmother.
+DOCTOR: Vague again. Right. And are you currently taking any medications?
+PATIENT: No, I’m not. I try to stay away from medication if I can help it. Just a multivitamin now and then, that’s it. I'm pretty healthy, actually, aside from… this. It’s just frustrating.
+DOCTOR: Alright. Let’s do a quick physical exam, just to rule out anything obvious. Nothing extensive, mind you. I need to check your reflexes and basic neurological function. Can you follow simple instructions?
+PATIENT: Yes, of course. That sounds fine. Simple instructions? Absolutely, I can do that. Should I… sit up straight? Whatever you need me to do, just tell me.
+DOCTOR: Sit comfortably, please. I'm going to check your vital signs first. Blood pressure, pulse… and then we’ll proceed to some basic cognitive tests. It's standard procedure. Please remain still.
+PATIENT: Okay. Sounds good. Just let me know when you're ready.
+DOCTOR: Blood pressure is… elevated. Not drastically, but worth noting. Pulse is normal. Now, I’m going to shine a light in your eyes. Follow my pen with your eyes, don’t move your head. … And now, I want you to repeat three words after me: apple, table, pencil. Remember those three words. I’ll ask you to recall them later.
+PATIENT: Okay. Apple, table, pencil. Got it. Apple, table, pencil. I’m trying to keep them in my head… It’s a little tricky, but I think I’ve got them.
+DOCTOR: Very well. Now, can you tell me what year it is?
+PATIENT: Oh! That's easy. It's 2025. I know my years, Doctor.
+DOCTOR: Good. Now, can you spell “world” backwards?
+PATIENT: Hmm. Let me think... d-l-r-o-w. Is that right? D-l-r-o-w. It feels… awkward to say backwards. I hope I got that right.
+DOCTOR: Adequate. Now, what were the three words I asked you to remember?
+PATIENT: Oh dear. That’s… that’s embarrassing. Let me see… um… table? And… apple? No, that doesn't sound right. I… I’m struggling to remember the third one. I know there were three… I’m so sorry, Doctor. This is awful. I should remember that.
+DOCTOR: As I suspected. Your short-term recall is significantly impaired. This, coupled with the elevated blood pressure and your family history... Well, it's not a good sign. It could be early-stage dementia, or a number of other things. I recommend a full neurological work-up. MRI, blood tests... the whole battery. I’ll write you a referral to a specialist immediately. .
+PATIENT: Oh… oh dear. A specialist? That sounds… serious. Is it… is it definitely something bad? I just thought it was… stress. I didn't realize it could be anything this… significant. What kind of specialist? And what does a "battery" of tests involve? I’m suddenly very scared, Doctor.

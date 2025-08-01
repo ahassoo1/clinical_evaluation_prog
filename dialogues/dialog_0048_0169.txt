@@ -1,0 +1,22 @@
+DOCTOR: Right. Mr. Miner, is it?
+PATIENT: Yeah, that’s me. Derick Miner. Though, everyone just calls me Derick. Don't bother with the “Mr.” fuss, honestly.
+DOCTOR: Very well, Derick. Let’s not waste time. You’re here today because…?
+PATIENT: Well, it’s my face and legs, see? They're… puffy. Been puffier lately. Can’t quite put my finger on why, though. It's not like I've been eatin' anything different. And I certainly haven't been layin' around doin’ nothin’. A man’s gotta work, you know? Even at my age.
+DOCTOR: Puffiness. Right. And when did you first notice this… puffiness?
+PATIENT: Oh, goodness. Dates… always with the dates. Let me think… It’s been… a few weeks, I reckon? Maybe a month? Hard to say. Things kinda blend together when you get to be my age, you know? It wasn’t sudden, just… gradually got bigger. Noticed it more in the evenings, usually. Feels kinda tight, too.
+DOCTOR: Tightness. And where exactly are we talking about, Derick?
+PATIENT: Well, mostly around my eyes, see? And my ankles. Definitely my ankles. Makes it a bit harder to get my boots on, which is… not ideal. I need good boots for work. Can’t be slippin’ and slidin’ around, now can I? Though, it’s not like I cause any trouble. Other folks… that's a different story. But me? Never.
+DOCTOR: Ankles and periorbital… right. Any other symptoms accompanying this… swelling?
+PATIENT: Hmm… not that I’ve noticed, no. I sleep alright, I guess. Though my back's been a bit achy lately, but that's just old age. Always been achy, really. And I’m not short of breath, if that’s what you’re gettin' at. Though, it's August, and it’s hot. Makes anyone feel a bit winded. Don’t see what that's got to do with my face, though.
+DOCTOR: Alright. And do you have any known allergies?
+PATIENT: Allergies? Not really. I mean, I don't go around sniffin' flowers or nothin'. Dust gets to me sometimes, like everyone else, but I ain’t ever needed an EpiPen or anythin'. Used to work around a lot of metal fumes, but you get used to it after a while. Builds a tolerance, see? Though, folks these days are too soft for that sort of thing, I reckon. Always complainin’.
+DOCTOR: Any medications you're currently taking, Derick?
+PATIENT: Medications? Not a one. Never been one for pills. Tried somethin' for my back a few years back, but it didn't agree with me. Made me feel… foggy. Just tough it out, that's what I always say. Besides, I don't trust half the stuff they push these days. All chemicals, you know? Gives me the willies.
+DOCTOR: Very well. Let's have a quick look. Could you sit up on the exam table for me?
+PATIENT: Alright, alright. Don't mind if I do. This thing's a bit cold, though. And I ain't exactly as nimble as I used to be, you know. Gotta watch my back.
+DOCTOR: Hmm. Periorbital edema is present, mild pitting edema bilaterally in the lower extremities. No visible skin lesions. Blood pressure is… acceptable. I'm not seeing anything overtly concerning, Derick. It could be a number of things. Fluid retention, perhaps. Nothing to be overly alarmed about, but we should rule out anything serious.
+PATIENT: Fluid retention? See, that's what I figured! It's just… stuff. Gettin' old. Still, good to hear it ain't nothin’ serious. Though, what kinda stuff? Is it somethin' I'm eatin'? Should I cut back on the coffee? I drink a good amount of coffee, you see. Keeps me goin'.
+DOCTOR: It could be dietary, yes. Though, at your age, Derick, some degree of fluid retention is… normal. We’ll need some bloodwork to rule out kidney issues, heart failure, and liver problems. Standard procedure. I’m ordering a CBC, CMP, and a lipid panel. Come back next week, and we’ll review the results. And try to limit the coffee. Just in case.
+PATIENT: Bloodwork, huh? Always somethin’, innit? Alright, alright. I'll… try. No promises, mind you. Can't be expectin' miracles. And what's a lipid panel? Sounds… fancy. Is that gonna hurt? I don't like needles, not one bit.
+DOCTOR: A lipid panel checks your cholesterol. It's a standard blood test. And no, it won't hurt. It's a small prick. Honestly, Derick, you're making a mountain out of a molehill. The lab is just down the hall. Take this, and they'll draw the blood. Come back next week with the results. Next!
+PATIENT: Alright, alright. A small prick, you say? Easy for you to say. Fancy tests and small pricks… Back in my day, you just toughed it out. Fine. I'll get it done. Though, I still think it’s just the coffee.

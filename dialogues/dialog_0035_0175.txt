@@ -1,0 +1,44 @@
+DOCTOR: Good morning, Mr. Way. I’m Dr. Alzoubi. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Well, it’s this pain I’ve been having. It’s been bothering me for a little while now.
+DOCTOR: Okay. And when you say “a little while,” can you tell me roughly how long?
+PATIENT: Hmm... let me think. Maybe… three or four weeks now? It started off pretty mild, just a little ache, but it's gotten worse over time. It's not constant, you know? Comes and goes.
+DOCTOR: Okay, three or four weeks. And can you describe the pain for me?
+PATIENT: It's… hard to explain exactly. It’s not a sharp pain, more of a dull ache. And it feels deep, like it's inside… not on the surface. Sometimes it feels like it radiates, kind of spreads out. Mostly in my… lower back, I guess.
+DOCTOR: Okay, a dull ache, deep inside, radiates mostly in your lower back. Does anything specifically make the pain worse?
+PATIENT: Yeah, actually. Bending over is really bad. And if I try to lift anything, even something not too heavy, it flares up right away. Sitting for long periods isn't great either, makes it stiff. Standing’s alright, though.
+DOCTOR: Alright. Bending, lifting, and prolonged sitting aggravate it. And does anything relieve the pain, even a little bit?
+PATIENT: Well… lying down usually helps. And if my wife rubs my back, that feels good for a bit. Doesn’t last long, though. Just a temporary fix, really. Warm showers help some too.
+DOCTOR: Okay. Lying down, back rubs, and warm showers offer some relief. Now, on a scale of zero to ten, with zero being no pain and ten being the worst pain you can imagine, what would you rate your pain right now?
+PATIENT: Hmm... right now, it's probably a… a four? It's not terrible, but it’s definitely there, you know? Like a constant reminder. It gets up to maybe a seven or eight when I really move it wrong, or try to lift something.
+DOCTOR: Okay, a four right now, can go up to seven or eight with activity. Have you noticed any other symptoms along with the pain?
+PATIENT: You know, now that you mention it… yeah, a little bit of numbness. Not constant, but sometimes I feel a tingling in my left leg. Down around my calf. It comes and goes, like the pain. And sometimes it feels a little… weak, that leg. But I’m not sure if that’s just my imagination.
+DOCTOR: Okay. Numbness and tingling in your left calf, and some perceived weakness. Do you have any trouble with bowel or bladder control?
+PATIENT: Oh, no, nothing like that. Everything's normal there. Definitely no trouble with that.
+DOCTOR: Okay, good. Let's talk a little about your medical history. Have you ever been diagnosed with any other medical conditions?
+PATIENT: Not really. I had high blood pressure for a while, but I’ve been managing it with medication for years now. Other than that… just the usual aches and pains that come with getting older, I guess. Nothing major. I've never had any surgery or anything like that.
+DOCTOR: Okay. High blood pressure, managed with medication. No surgeries. And are you currently taking any other medications besides what you take for your blood pressure?
+PATIENT: Just some vitamins. Multivitamin, and sometimes a little fish oil. Nothing prescribed by a doctor, just over the counter stuff. My wife keeps telling me I should take more, but I try not to overdo it.
+DOCTOR: Okay, vitamins and fish oil. Do you have any allergies to medications, food, or anything else?
+PATIENT: Nope, not that I know of. Never had a reaction to anything. My wife always asks me that too, but I always say no. I think I'd remember if I was allergic to something, wouldn't I?
+DOCTOR: Right. And finally, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no smoking for me. Never really got into that. I used to have a beer with dinner sometimes, but I cut back a long time ago. My doctor told me it was probably a good idea. And definitely no recreational drugs, never touched those.
+DOCTOR: Okay, good. Thank you for that information, Mr. Way. Now, I'd like to do a quick physical exam if you don't mind. Just going to check your range of motion, reflexes, and strength. Is that alright?
+PATIENT: Yeah, that sounds good, Doctor. Go ahead. Whatever you need to do.
+DOCTOR: Okay. Alright, Mr. Way, can you point to exactly where it hurts the most?
+PATIENT: Right about here. And it kinda radiates down my left side, like along here. If you press right here, that's the worst.
+DOCTOR: Okay. Does that reproduce your pain?
+PATIENT: Yeah, that's it. That's the spot. Not terrible, but definitely feels… familiar, you know? Like a deep ache. It’s not a sharp, sudden pain.
+DOCTOR: Okay. Alright, now I’m just going to check your reflexes… Can you bend your knees up and keep your feet flat on the table?
+PATIENT: Yeah, no problem. Is that alright? Feels a little strained.
+DOCTOR: Okay, just relax as much as you can. Okay, reflexes are… two plus bilaterally. Normal. Now I'm going to check your strength. Can you push your foot against my hand like this?
+PATIENT: Yeah, sure. Is that enough pressure? I don't want to push too hard.
+DOCTOR: Okay. Strength is… five plus bilaterally. Good. And now, I want you to stand up, and I want to watch you walk a few steps, then try to stand on your toes and heels.
+PATIENT: Okay. Here we go. That’s a little wobbly, isn’t it? Feels… off. More difficult on this side.
+DOCTOR: Okay, I see. Alright. Based on the examination and your history, it sounds like you likely have a lumbar strain with some possible radiculopathy affecting your left leg. The radiculopathy explains the numbness and tingling you've been experiencing. However, to rule out anything more serious, like a compressed nerve or other underlying condition, I'd like to order an X-ray of your lower back.
+PATIENT: An X-ray, huh? Okay, that sounds… sensible. I mean, I trust your judgment, Doctor. Will that take long? And will it be expensive? I… well, we aren't really insured right now, and it’s a little tight.
+DOCTOR: Okay, the X-ray itself won't take long, maybe fifteen minutes. We can discuss the cost with the billing department and see if there are any options for financial assistance or a payment plan. I’ll have the nurse set that up for you. In the meantime, I recommend continuing with the warm showers, and over-the-counter pain relievers like ibuprofen or naproxen, following the dosage instructions on the label, of course. Also, try to avoid any heavy lifting or strenuous activity until we get the results of the X-ray. Are you taking any other medications currently, besides the vitamins?
+PATIENT: No, just the vitamins, like I said before. Nothing else. But I do take my blood pressure medication, religiously. I’ve been on that for years. Would that interfere with anything?
+DOCTOR: No, your blood pressure medication shouldn’t interfere with anything. That’s good. Alright, so to summarize: we’re going to get an X-ray of your lower back to rule out anything serious, and you’ll continue with the warm showers and over-the-counter pain relievers as needed. I want you to follow up with me as soon as you have the X-ray results, and we’ll discuss the next steps. Do you have any questions for me at this time?
+PATIENT: No, I think you’ve covered everything, Doctor. X-ray, pain relievers, follow up… Got it. Thank you for taking the time to explain everything. I appreciate it. And thank you for checking on the cost, that really means a lot.
+DOCTOR: You’re very welcome, Mr. Way. The nurse will be in shortly to go over the paperwork for the X-ray and schedule you an appointment for when the results are available. If you have any worsening symptoms – like significant weakness, loss of bowel or bladder control, or severe pain – please go to the emergency room immediately, do not wait for the follow-up appointment. Have a good day, Mr. Way.
+PATIENT: .

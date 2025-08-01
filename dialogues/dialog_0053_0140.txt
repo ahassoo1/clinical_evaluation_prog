@@ -1,0 +1,23 @@
+DOCTOR: Right. Antoine Schieber, 41. So, what brings you in today?
+PATIENT: Well, Doctor Pitmon, frankly, it's quite bothersome. It’s… something in my mouth. A white coating, you see. It's unpleasant. I haven't a clue what it is, and I certainly don’t have time for… complications.
+DOCTOR: A white coating, you say. And how long has this been going on?
+PATIENT: Oh, goodness. Perhaps a week? It's difficult to say precisely. I don't spend my days examining my oral cavity, Doctor. I have responsibilities. It just… appeared. And it hasn't gone away on its own, which is why I'm here, wasting my time.
+DOCTOR: Alright, a week. And is it… painful?
+PATIENT: Painful? No, not painful. It's… irritating. And unsightly. It makes it difficult to… present myself professionally, you understand? I work with people. First impressions are crucial. It’s a mild discomfort, really, but inconvenient. Very inconvenient.
+DOCTOR: Right. Inconvenient. And has anything changed in your diet recently?
+PATIENT: Changed in my diet? Doctor, I eat a sensible diet. I am a practical man. No, nothing has changed. I haven't suddenly taken to consuming… strange things. I assure you. This is likely some… common ailment. Something easily remedied. I hope.
+DOCTOR: Alright. And do you smoke?
+PATIENT: Smoke? Absolutely not. Do you think I look like someone who would engage in such a vulgar habit? I maintain a healthy lifestyle. It's essential for my work. Besides, my wife would never allow it.
+DOCTOR: Very well. And any recent illnesses?
+PATIENT: No. Nothing significant. A common cold, perhaps, last winter. But I recovered quickly. I am a robust man, Doctor. I don't succumb to every passing ailment. Honestly, I’m starting to question why I’m even here discussing this. It feels like a complete waste of my valuable time.
+DOCTOR: Alright. Let's have a look, shall we?
+PATIENT: Finally. Let’s get this over with. But please, be quick. I have a schedule to maintain.
+DOCTOR: Hmm. Yes. I see what you mean. It appears to be… oral thrush. A fungal infection. Not terribly serious, but… rather unsightly, as you pointed out. Now, have you ever had this before?
+PATIENT: Fungal infection? Good heavens. No, I have never had this before. And frankly, I find the idea quite… distasteful. Is it contagious? My wife… she wouldn’t appreciate this. And what causes it? I haven’t been neglecting my hygiene, I assure you.
+DOCTOR: It’s not necessarily a hygiene issue. It can be caused by a number of things, including a weakened immune system or even recent antibiotic use. Given your age and general health, it’s likely just a minor imbalance. Not easily contagious, though avoiding sharing utensils for a time wouldn’t be amiss. Now, have you been taking any medications recently?
+PATIENT: Medications? No, nothing at all. I pride myself on maintaining a healthy constitution without resorting to… pharmaceuticals. I believe in natural remedies and a sensible lifestyle. Perhaps this is a result of the stress at work? It's been rather demanding lately. But medication is certainly out of the question.
+DOCTOR: Alright. Well, given your… aversion to medication, we can try a mouthwash containing nystatin. It’s a topical antifungal. You’ll swish it around for a few minutes after each meal. It may take a few days to see improvement. If it doesn’t clear up within a week, we may need to consider other options, though I suspect this will suffice. Now, do you have any allergies I should be aware of?
+PATIENT: A mouthwash? Very well. As long as it doesn’t have a… peculiar taste. And allergies? No. I have no allergies. I am a perfectly healthy specimen. Just get this over with, Doctor. I have a meeting this afternoon, and I simply haven’t the time for drawn-out procedures.
+DOCTOR: Alright. Here you go. Follow the instructions carefully. And if it doesn’t improve within a week, then we'll discuss further options. Try to reduce stress where possible, though I understand that’s often easier said than done. Now, is there anything else I can assist you with today?
+PATIENT: No. That will be all, Doctor. I appreciate your… assistance, though I maintain this entire experience has been rather inconvenient. I trust this mouthwash will resolve the issue quickly and efficiently. Good day.
+DOCTOR: Very well. Good day to you as well. .

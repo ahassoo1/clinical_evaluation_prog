@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Kingan. I'm Dr. Hembrey. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just need a check-up for... a sports team thing. Tryouts, you know? Gotta make sure I'm not falling apart before I even start. I'm Lamark, by the way.
+DOCTOR: Yes, well, a preventative approach is… sensible. Though at your age, “falling apart” is a rather dramatic term, don’t you think?
+PATIENT: Maybe. Old habits, I guess. Look, can we just get this done? I don't want to waste anyone's time. What do you need to know?
+DOCTOR: Efficiency is admirable, Mr. Kingan. However, a thorough assessment requires a certain level of detail. Let’s begin with your medical history. Have you been diagnosed with any chronic conditions – diabetes, hypertension, heart disease, anything of that nature?
+PATIENT: Uh... not that I know of. Never been told, anyway. I’ve had the usual colds, flu, pulled a muscle here and there, but nothing… serious. I’m pretty healthy, for my age. Should I be listing every sniffle I’ve had since kindergarten?
+DOCTOR: No, Mr. Kingan, not every sniffle. Just any significant illnesses or conditions you’ve been treated for. Have you ever been hospitalized, or had any surgeries?
+PATIENT: Nope. Never been in the hospital. No surgeries either. I broke my arm when I was a kid, climbing a tree, but they just put it in a cast. That’s it. This is taking a while…
+DOCTOR: And your family history?
+PATIENT: Family history… hmm. My dad lived to be… late 70s, I think. Had some trouble with his knees when he got older. Mom was… pretty healthy, I guess. Died when I was young. Nothing major, as far as I know. My brother's still kicking, but we don't talk much. He's probably fine. Is that good enough? I never really paid attention to all that stuff.
+DOCTOR: “Probably fine” is not a particularly helpful medical detail, Mr. Kingan. Do you know if anyone in your family has a history of heart disease, cancer, diabetes… anything significant?
+PATIENT: Look, I'm telling you, nobody died of anything dramatic! My aunt Mildred had a bad back, but that's it. This is really… I don't understand why you need to know all this if it doesn’t matter. It's a sports team, not a life-or-death situation! Are you sure you need this much info?
+DOCTOR: Mr. Kingan, even for a “sports team” physical, a comprehensive history is essential. It allows me to assess your risk factors and perform an appropriate examination. Furthermore, it’s my professional obligation to gather this information. Now, let’s move on to your current medications and allergies. Are you currently taking any prescription or over-the-counter medications?
+PATIENT: No medications. Nothing. And allergies… dust, maybe? A little bit. Nothing serious, I don’t carry an EpiPen or anything. I just kinda sneeze a bit. Can we just check my heart rate and stuff now? This is getting ridiculous.
+DOCTOR: Very well. Let’s proceed with the physical examination. Please step onto the scale. I need to get a baseline weight and height. Afterwards, we will assess your vital signs and listen to your heart and lungs. Please remove your shoes and any bulky clothing.
+PATIENT: Fine, fine. Just hurry it up, okay? I've got things to do.
+DOCTOR: Hmm. And your height, please?
+PATIENT: 183 centimeters. Or six feet, if you prefer.
+DOCTOR: Alright. Now, please have a seat on the examination table. I'm going to listen to your heart and lungs. Please take deep breaths.
+PATIENT: Like this? Hurry up, I'm getting cold.
+DOCTOR: Your heart rate is… somewhat rapid. And I detect a slight… wheezing in your lungs. Do you experience any shortness of breath, particularly with exertion?
+PATIENT: Shortness of breath? No. I mean, sometimes when I run, yeah. But I'm not a spring chicken, right? I get tired. That's just getting old. What's the big deal? It's a tryout, not a marathon.
+DOCTOR: And do you have any abdominal pain, tenderness, or changes in your bowel habits?
+PATIENT: No! Everything's fine down there. Look, is there anything wrong or are you just fishing for problems? This is starting to feel like a waste of time. I can feel perfectly fine, thanks.
+DOCTOR: "Perfectly fine" is not a diagnosis, Mr. Kingan. Your weight is significantly below average for your height, and the wheezing in your lungs is a concerning finding. I would like to order a chest X-ray and a complete blood count to investigate further. And I strongly recommend a referral to a cardiologist, given your reported rapid heart rate and family history – or lack thereof. It is imperative to rule out any underlying cardiac issues before engaging in strenuous physical activity.
+PATIENT: Wait, hold on! X-rays? Cardiologist? For a sports team tryout? Are you kidding me? This is completely ridiculous! I'm perfectly healthy, I've told you! No X-rays, no cardiologists. This is a waste of my time and your time. Forget it. I'm leaving. .
+DOCTOR: Very well, Mr. Kingan. However, please be aware that proceeding with strenuous physical activity without a proper medical evaluation could be detrimental to your health. I strongly advise you to reconsider. Good day. .

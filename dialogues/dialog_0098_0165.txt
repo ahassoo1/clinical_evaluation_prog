@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Brege. Welcome to the clinic. I’m Dr. Bombara. So, tell me, what brings you in today?
+PATIENT: Morning, Doctor. Just…fevers. Keep comin’ back. It’s been a bother, honestly. Not sure what’s causin’ ‘em.
+DOCTOR: Okay, fevers… recurring fevers. I understand. Can you tell me a little more about these fevers?
+PATIENT: Well, they don’t last long, thankfully. Usually just a couple of hours, maybe three. But they pop up every few weeks, it seems. Feels like a regular clock, almost. I take some over-the-counter stuff—you know, the usual—and it goes down, but then it’s back again.
+DOCTOR: Right, a couple of hours, then they subside, and they return every few weeks… and the over-the-counter medication helps temporarily. That’s useful information. When did you first notice these fevers starting?
+PATIENT: Hmm… let me think. It was… around March, I guess? Early March. Maybe the beginning of April. It was after that cold snap we had, but I figured it was just a lingering bug at first. Didn't think much of it 'til it kept happenin’.
+DOCTOR: Okay, starting around March or early April. And you said it began after a cold snap. Do you recall any other symptoms accompanying these fevers—anything at all, like chills, sweats, cough, body aches, headache, or anything else?
+PATIENT: Yeah, actually. I get pretty tired when they hit. Real wiped out. And sometimes, my joints ache a little. Not terrible, but enough to notice. No cough or anything like that, though. Just… tired and achy. And a little thirsty.
+DOCTOR: Alright, tiredness and joint aches accompanying the fevers… and thirst. That gives us a bit more to work with. Now, have you traveled anywhere recently, say in the last six months?
+PATIENT: No, ma'am. Haven't left Puerto Rico in years. I stick close to home. My wife and I, we don't do much travelin' anymore.
+DOCTOR: Okay, no recent travel. And are you currently taking any medications regularly, besides the over-the-counter fever reducers?
+PATIENT: No, nothin’ regular. Just the stuff for the fever when it flares up. I try to avoid takin’ pills if I can.
+DOCTOR: Okay, no regular medications. Do you have any allergies to medications, foods, or anything else?
+PATIENT: Nope. Not that I know of. Never had a reaction to anything. My wife always says I can eat anything.
+DOCTOR: Alright, no known allergies. Now, let's talk a little about your medical history. Have you been diagnosed with any medical conditions in the past?
+PATIENT: Hmm… let me see. I had my appendix out when I was a kid, way back. And the doctor told me a few years ago my blood pressure was a little high, but it usually goes down when I watch what I eat. That's about it, really.
+DOCTOR: Okay, appendectomy as a child and a history of slightly elevated blood pressure. Do you recall when the doctor told you about the blood pressure?
+PATIENT: It was… maybe two years ago? Around the summer of '23, I think. He put me on a diet, told me to cut back on the salt. I did, and it went down pretty good. Haven’t really been back to check it since.
+DOCTOR: Okay, blood pressure checked in the summer of 2023, improved with diet. And just to be thorough, is there anyone in your family with a history of medical conditions—anything like autoimmune diseases, recurring infections, or cancers?
+PATIENT: Well, my mother had arthritis, real bad. She was in pain most of her life. And my uncle, on my wife’s side, had some kinda cancer, lung cancer I think. But that was years ago. Aside from that, nothin’ major that I can recall.
+DOCTOR: Alright, a history of arthritis in your mother and lung cancer in your wife's uncle. Now, before we move on to a physical exam, can you tell me a little about your lifestyle?
+PATIENT: Sure. I’m retired now, used to be a chiropractor, so I’m pretty active around the house. I like to garden, fix things…keep busy. I don’t smoke, never have. And I maybe have a couple of beers with dinner sometimes. Nothing crazy.
+DOCTOR: Okay, retired chiropractor, active lifestyle, no smoking, occasional beer. That's good to know. Now, I'd like to do a quick physical exam, if that's alright with you. Just checking your temperature, listening to your heart and lungs, and feeling your abdomen. It shouldn't take long. Would that be okay?
+PATIENT: Yeah, sure. Go ahead. Let’s get it over with. I got things to do.
+DOCTOR: Alright. Let's start with your temperature. Your temperature is slightly elevated at 100.2 Fahrenheit. Now, let me listen to your heart and lungs. Your heart sounds regular, but I do hear some slight crackles in the lower lobes of both lungs. I’m going to palpate your abdomen now. Your abdomen is soft, but slightly tender in the upper right quadrant. It doesn't seem to be anything major, but we'll want to keep an eye on it.
+PATIENT: So… what does that mean? Crackles and tender… is it somethin’ bad? I don’t like hearin’ words like “tender.”
+DOCTOR: Alright, Mr. Brege, I understand your concern. The crackles in your lungs could indicate a bit of fluid buildup, possibly from a mild infection like pneumonia or bronchitis. The tenderness in your upper right abdomen could be related to a number of things, and doesn't necessarily mean anything serious. However, given your recurring fevers, the lung sounds, and the abdominal tenderness, I’d like to order some blood work and a chest X-ray to get a clearer picture of what's going on. Would that be alright with you?

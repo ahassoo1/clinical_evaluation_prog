@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Mr. Hilber. I’m Dr. Nestingen. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, it's been...troublesome, going to the bathroom. It just doesn’t...come easy, you know? Like it’s stuck. It's been going on for a little while now.
+DOCTOR: Hmm, alright. “Troublesome going to the bathroom,” you say. And how long is “a little while now,” exactly?
+PATIENT: Oh, let me think... maybe three, four weeks now? It started slow, just taking a bit longer. But it's gotten worse. I have to... push a lot more. It’s not comfortable, Doctor.
+DOCTOR: Three to four weeks. And it’s requiring more effort… more pushing. Are you experiencing any pain with that pushing, Mr. Hilber?
+PATIENT: Not really pain, exactly. More... a straining feeling. Like I’m working too hard. And sometimes, after I finally go, it feels like I didn’t get everything out. Does that make sense?
+DOCTOR: A straining feeling, and a sense of incomplete evacuation. Okay. And what about your stool itself?
+PATIENT: Well, it's…normal, mostly. It’s not diarrhea or anything. But it’s…thin sometimes. Not always, but often enough to notice. It’s not like pebbles, just… not as thick as it used to be.
+DOCTOR: Thin stools… alright. Have you noticed any blood, either on the stool itself or in the toilet bowl?
+PATIENT: No, Doctor, thankfully not. No blood. It's just...the thinness. And the having to push. I try to drink plenty of water, you know? Like my mother always said.
+DOCTOR: That's good, staying hydrated is important. Now, let's move on. Have you experienced any abdominal pain, bloating, or nausea recently?
+PATIENT: No nausea, no. And the bloating... maybe a little, sometimes after I eat. Not bad, though. Just... feels a little full. The pain, though... sometimes a dull ache low in my belly. Not sharp, just…there. It comes and goes.
+DOCTOR: Dull, intermittent abdominal pain… Alright. And do you have any changes in your appetite, Mr. Hilber?
+PATIENT: No, I eat about the same as always. Maybe a little less, now that I feel…full easier. But not a big change. I like my fish, you know? Still eat plenty of fish.
+DOCTOR: Good. We'll note your normal appetite. Now, have you had any recent weight loss?
+PATIENT: Weight loss… hmm. That's a good question. I haven't been trying to lose weight. But...maybe a few pounds? I haven't weighed myself in a while, though. I don't really pay attention to that.
+DOCTOR: Alright. So, potential slight weight loss. Now, let's talk about your medical history. Do you have any pre-existing conditions I should be aware of?
+PATIENT: Well, I had my prostate checked a few years back, the doctor said it was okay then. Other than that…not really. I get a little arthritis in my hands, but that's it. Nothing serious. I’m on Medicare, if that matters.
+DOCTOR: Prostate check a few years ago... noted. Arthritis. And on Medicare, yes, that's relevant. Any surgeries in the past?
+PATIENT: No surgeries, Doctor. Never had any. My mother always said I was too tough to get sick, even. She was a strong woman.
+DOCTOR: No surgeries. Alright. Any family history of colon cancer, irritable bowel syndrome, or other digestive problems?
+PATIENT: Hmm… that’s a tough one. My father… he didn't talk much about his health. And my mother’s family… I don’t really know. We didn't see them much. I don’t think so, but I couldn't say for sure.
+DOCTOR: Very well. Now, do you smoke or drink alcohol?
+PATIENT: No, Doctor. Never smoked. And I maybe have a beer once or twice a year with a friend. Nothing regular. Not at all.
+DOCTOR: Alright. Okay, well. I think it’s time for a quick physical exam, if you don’t mind. Just to get a better sense of things. We'll start with your abdomen. Is that alright?
+PATIENT: Yes, Doctor, that's fine. Whatever you think is best. I trust your judgement.
+DOCTOR: Alright, I'm just going to press here and here… Does that cause you any discomfort?
+PATIENT: A little bit, Doctor. Just…a little. Right there, on the lower left. Not sharp pain, just… tender.
+DOCTOR: Hmm. And what about here?
+PATIENT: A little bit there too, but not as bad as on the left side. It feels...full, maybe? Like something’s there.
+DOCTOR: Bowel sounds are present, although somewhat… diminished. And no obvious masses palpated. I’m also going to check your rectal tone… Please bear with me. Tone is normal, but I do detect some stool present. No obvious bleeding or masses felt.
+PATIENT: Okay, Doctor. That wasn’t so bad. It's...good to know. I appreciate you checking everything so thoroughly. I just want to feel normal again.
+DOCTOR: Alright, Mr. Hilber. Based on your symptoms and the physical exam, it could be a number of things. Diverticulitis is a possibility, although your symptoms aren’t entirely typical. Constipation is another, especially given the stool present. We need to rule out anything more serious, though. I'm going to order a complete blood count and a stool test to check for inflammation and infection. We'll also need to consider a colonoscopy to get a better look at your colon. I’m referring you to Dr. Anya Sharma, a gastroenterologist, for the colonoscopy. She's excellent. Does that sound alright?
+PATIENT: A colonoscopy… that sounds a little scary, Doctor. But if you think it's best, then I trust you. A specialist… that’s good. I just… I hope it's nothing too serious. What about the blood test? Will that tell you a lot?
+DOCTOR: The blood test will give us some initial information. We’re looking for signs of inflammation or infection. It’s not definitive, but it’s a starting point. The colonoscopy is the most thorough way to assess what’s going on. Dr. Sharma’s office will call you to schedule it. In the meantime, I recommend increasing your fiber intake and staying well-hydrated. And try an over-the-counter stool softener, like docusate sodium. We'll follow up once we have the results of the blood test and Dr. Sharma has performed the colonoscopy. Do you have any other questions for me at this time?
+PATIENT: No, Doctor, I think that covers it. Increase fiber, drink more water, and… stool softener. I’ll remember that. Thank you for explaining everything so clearly. I appreciate your time and patience. I hope it's nothing too bad.
+DOCTOR: Alright. We’ll get the ball rolling. If you experience any severe abdominal pain, fever, or rectal bleeding, go to the emergency room immediately. Otherwise, we’ll see you for a follow-up appointment once we have the results. Have a good day, Mr. Hilber.

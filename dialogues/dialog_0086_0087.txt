@@ -1,0 +1,15 @@
+DOCTOR: Alright, Mr. Croonquist, yes?
+PATIENT: Uh, yeah, that's me. Just… just need some lab work done, if that’s alright. Don’t really have time for much else, to be honest.
+DOCTOR: Right. “Just lab work.” Well, we don’t typically just do lab work without a reason, you know. What exactly are we looking for?
+PATIENT: Honestly? I… I don't really recall. The… the other doctor, Dr. something… he said something about checking things. Routine, I think? It was a while ago. Medicare said I needed it done, so… that's why I'm here. Does that make any sense? I'm not good with remembering these things.
+DOCTOR: Medicare sending you in for “something?
+PATIENT: Yeah, that sounds silly when I say it out loud. Look, I just… I get these letters, and they say to get tests done, and I try to do what they say. I used to work at the power plant, you know. Lots of… things there. Maybe it’s something from that? I don’t know. I really just want to get the paperwork done and go. Is that possible?
+DOCTOR: Let's see… Croonquist, Early… Ah. Yes. Routine annual labs, ordered by Dr. Alistair Finch three months ago. Standard panel: CBC, CMP, lipid panel, and a TSH. The power plant… yes, I see some notes here about exposure to… various things. Still, we need to do these tests to get a baseline. It's hardly complicated. Do you have any allergies to anything?
+PATIENT: Allergies… hmm. Not that I know of. Maybe a little sniffly with cats, but that's about it. I don’t take any medications, either. Never really needed to. I mostly just drink tea, to be honest. Is there a form I need to fill out or something? The sooner we get this done…
+DOCTOR: Tea. Right. No, no forms necessary. We’ll just draw some blood. Let's get you back there, and we'll be done shortly. Do you know where the phlebotomy lab is?
+PATIENT: Phleboto… what now? Look, I'm not very good with directions. Is it down the hall? Maybe someone can point me to it? I really don’t want to wander around. It's a bit much for me today.
+DOCTOR: It’s the first door on the left down that hall. It's clearly labeled. Just tell them Dr. Murtic sent you. Honestly, it’s not rocket science. Go ahead, it will be faster if you just go. I have other patients waiting.
+PATIENT: Right, right. First door on the left… okay. Thanks, I guess. I appreciate it. Hopefully, it won’t take too long.
+DOCTOR: Just go.
+PATIENT: .
+DOCTOR: .

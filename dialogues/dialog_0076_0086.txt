@@ -1,0 +1,13 @@
+DOCTOR: Right, Kahrin, is it?
+PATIENT: Yep, that's me. Look, I appreciate you fitting me in, but I'm kinda on a tight schedule today. Just need to hear the results, if that’s alright?
+DOCTOR: Results… yes. Well, let’s just say I’ve seen… more straightforward cases. What exactly were you hoping to get results for?
+PATIENT: Um… the blood work? And the thing with the… dizziness? I had those tests done last week. Honestly, I just need to know if everything’s seriously wrong or if it’s just… one of those things.
+DOCTOR: Last week… right. Vague recollections, you see. Tell me about this dizziness. When does it happen?
+PATIENT: Okay, so, it’s not constant. It usually happens when I stand up too fast. Like, if I’ve been sitting for a while, then get up, everything spins for a sec. It’s been happening for… maybe a month now? And the blood work… was it to check for… I don’t know, anemia or something? I remember the nurse mentioning iron.
+DOCTOR: Iron… yes, sometimes people are deficient. The dizziness… postural hypotension, most likely. Common enough. Standing up quickly… not a good idea. As for the blood work… levels were… within acceptable parameters, though not optimal. You probably just need to eat more greens. Do you eat your greens?
+PATIENT: "Acceptable parameters" isn't exactly reassuring. And yeah, I eat some greens. Salad sometimes. I work as a logistician, which means a lot of… airport food, honestly. Is it something I need to worry about? Like, will I collapse or something? Because that would be really bad for my job.
+DOCTOR: Collapse?
+PATIENT: No, no, probably not collapse. Look, I’m not a magician. But your iron’s a little low, your blood pressure dips when you stand, you eat too much processed food… It's not a death sentence. Try to eat more leafy greens, drink more water. And when you stand up, do it slowly. Is that… acceptable? Because I really do need to get going.
+DOCTOR: Alright, alright. If you insist on rushing things. No further testing is required at this time. Just… monitor it. If the dizziness becomes severe, then perhaps you should… consult a neurologist. But frankly, it sounds like you just need a better diet and more patience. Next patient.
+PATIENT: Okay. So, no serious problems? Just… diet and patience. Got it. Thank you, Doctor. I, uh, appreciate it. .
+DOCTOR: Yes, yes. Get on with it. And do try to stand up slower. .

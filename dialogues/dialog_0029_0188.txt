@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Secondi. I'm Dr. Chora. Welcome to the clinic. So, what brings you in today?
+PATIENT: Good morning, Doctor. It's... my pee. It's orange. I noticed it a few days ago. It worries me a little.
+DOCTOR: Okay, orange urine. I understand your concern. A few days ago, you said?
+PATIENT: Yes. Maybe four days now? It started... not very strong, the color. Now it's pretty noticeable. Like, really orange. Not dark, just... orange. I drink a lot of water, usually.
+DOCTOR: Alright. And besides the color, are you experiencing any other symptoms?
+PATIENT: No, not really. I feel okay. No pain, no... anything. Just the orange pee. I haven't felt sick, or tired, or anything like that. Is it… bad?
+DOCTOR: Okay, good. No pain or other symptoms is reassuring. Let's go through a bit of your medical history, just to be thorough. Have you had any medical problems in the past?
+PATIENT: Not much, Doctor. I broke my arm when I was a kid, playing football. And… I had the flu a couple of times, like everyone. Nothing serious. My wife, she handles most of the doctor stuff usually. I don't go very often.
+DOCTOR: Alright. No significant past medical history. Any surgeries?
+PATIENT: No, never had surgery. Just the arm, it healed with a cast. Nothing cut open, nothing like that. I don’t think so, anyway.
+DOCTOR: Okay, good. And what about your family?
+PATIENT: My family… my father, he had some problems with his heart when he was old. And my mother, she had… I don't know the name, something with her pressure. High pressure, I think. But they are both okay now. Old, but okay.
+DOCTOR: Alright. And do you have any allergies to medications, foods, or anything else?
+PATIENT: No allergies that I know of. I eat everything. My wife always asks, and I always say no. No problems with any medicine. I’m pretty sure.
+DOCTOR: Okay, good. And are you currently taking any medications?
+PATIENT: No, Doctor. Nothing. Just… sometimes I take something for my back, when it hurts. But not often. Just when I lift something heavy at work. It’s over the counter, I buy it at the store. I don’t take it every day.
+DOCTOR: Okay. And what do you do for work?
+PATIENT: I work with… machines. Engineering stuff. I check them, make sure they work okay. It’s in a factory, not too far from here. It’s hard work, but it’s good work.
+DOCTOR: Alright. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, Doctor. I don’t smoke. I drink a little wine sometimes, with dinner. Maybe one glass, two glasses, on the weekend. And no, nothing else. I don’t do any of that.
+DOCTOR: Okay, good. Now, let's talk a little more about this orange urine. Have you changed anything recently?
+PATIENT: Hmm… not really. I eat the same food. I drink the same water. Work is the same. Maybe… the vitamin? I started taking a multivitamin a week ago, maybe? My wife said I should. She said I look tired.
+DOCTOR: Okay, a multivitamin. That's helpful to know. Some vitamins can cause urine discoloration. Let's do a quick physical exam, just to rule out anything else. Could you step onto the scale for me, please?
+PATIENT: Okay, sure. Is this okay? It feels… new.
+DOCTOR: Yes, perfectly fine. 196 centimeters and 106 kilograms. And let’s check your blood pressure. Okay, blood pressure is 130 over 80. That’s within a normal range. Now, I’m just going to listen to your heart and lungs. Heart sounds normal, lungs are clear. Do you have any pain when I press on your abdomen?
+PATIENT: No, Doctor. No pain. That feels… okay. Just a little pressure. Nothing hurts.
+DOCTOR: Okay. And finally, let’s take a quick look at a urine sample. I'll give you a cup, and I need you to collect about two ounces. Can you do that for me?
+PATIENT: Yes, I can do that. Where is the… the place to do it? Is there a bathroom?
+DOCTOR: Yes, right through that door. I'll be right here when you're finished. Take your time.
+PATIENT: Yes, okay.
+DOCTOR: .
+PATIENT: .

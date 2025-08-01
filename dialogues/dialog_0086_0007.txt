@@ -1,0 +1,30 @@
+DOCTOR: Alright, Ms. Reihner. Good to meet you. So, what brings you in today?
+PATIENT: Good day, Doctor. My back... it is painful. Has been for some time now. I wish to be quick with this visit, if that is possible.
+DOCTOR: "Quick" isn't always possible when it comes to health, unfortunately. But we'll certainly try to be efficient. "Some time now"... can you be a bit more specific?
+PATIENT: About three months, Doctor. Started small, a little ache after work. I do fence work, you see. Heavy lifting, bending... it has gotten worse steadily since then. Now it hurts even when I am sitting.
+DOCTOR: Right, fence work. And you’re experiencing pain that’s progressively worsened over three months, now affecting you even at rest. Is it a constant pain, or does it come and go?
+PATIENT: It is mostly constant, Doctor. But some days are worse than others. After a long day at work, it is...sharp. Other times it is just a dull ache. It never truly goes away, though. Even when I am resting.
+DOCTOR: Alright. And where exactly is the pain located?
+PATIENT: Lower back, Doctor. Right across here… Sometimes it feels like it goes down my leg a little, but mostly in my back.
+DOCTOR: Okay, radiating down the leg. Does it go all the way down to your foot, Ms. Reihner?
+PATIENT: No, Doctor. Not to my foot. Just…down the back of my leg, to about my knee. And when it goes down my leg, it feels…tingly. Not numb, but…tingly. It is difficult to explain.
+DOCTOR: Tingling, radiating to the knee. That’s helpful. And on a scale of zero to ten, with zero being no pain and ten being the worst pain imaginable, what would you rate your pain right now?
+PATIENT: Right now… about a six, Doctor. It is not the worst it gets, but it is certainly present. A six. It makes it hard to…well, to sit for long. And bending is…difficult.
+DOCTOR: Alright. I'm going to need to do a quick physical exam, Ms. Reihner. Just so I can get a better idea of what's going on. Would you mind if we start with that?
+PATIENT: No, Doctor. That is… acceptable. Let us get it done. The sooner, the better.
+DOCTOR: Okay. If you could lie down on your stomach for me, please. I'll start with palpation, just feeling around to see where it's most tender. Please let me know immediately if anything is particularly painful. Tell me if this is tender… or this… okay?
+PATIENT: Ouch. There. That spot. Yes, that is quite tender. And…a little to the right of that one, too. Not as bad, but…yes. That is where it hurts most. It feels… tight there.
+DOCTOR: Alright. And does this increase your pain when I press?
+PATIENT: Yes, Doctor. It does. Just…a sharp pain when you press. Not unbearable, but… noticeable. And I can feel it… shooting down my leg a little when you push there. The tingling.
+DOCTOR: Okay. Now, can you try to lift your right leg straight up while keeping it straight?
+PATIENT: It hurts, Doctor. I can lift it… a little. But it is very painful to do so. It feels like it is pulling on my back. Not much further. I cannot go much higher.
+DOCTOR: Alright. And how about bending forward, trying to touch your toes?
+PATIENT: I cannot reach my toes, Doctor. Not anymore. It hurts too much. Just… here. It stops hurting more if I stop here.
+DOCTOR: Okay. Based on the physical exam and what you've told me, it sounds like you're experiencing a lumbar strain, possibly with some nerve irritation. I want to order some imaging to rule out anything more serious, like a herniated disc. I’m thinking an X-ray and possibly an MRI. Do you have any allergies to contrast dye?
+PATIENT: Contrast dye…? No, Doctor. I do not believe so. I have not had many…tests before. I have always been healthy, until now. I do not know of any allergies. I am…Lakota, you see. We did not have doctors often. Medicare will cover this, yes?
+DOCTOR: Medicare should cover it, yes. We’ll verify everything before proceeding, of course. No known allergies is good. I’m also going to order some bloodwork, just to rule out any inflammatory conditions. While we're waiting for the results, I'm going to recommend some conservative treatment: over-the-counter pain relievers like ibuprofen or naproxen, and I’d like you to try some gentle stretching and light exercise, if it doesn't exacerbate the pain. I'll give you a handout with some basic exercises. I also want you to avoid heavy lifting and bending for now. Does that sound acceptable?
+PATIENT: Yes, Doctor. That sounds…reasonable. No heavy lifting, I can do that. I will avoid it. Ibuprofen… I have used that before, for headaches. Stretching… gentle stretching, yes. I will try. The sooner I can get back to work…the better. I appreciate you taking the time. Is there anything else? I do wish to get going soon.
+DOCTOR: Alright. We’ll get the orders sent to the lab and radiology department immediately. The lab results should be back within a couple of days, and the radiology department will schedule the imaging. They will call you directly to schedule the appointment. I’m also going to give you a prescription for a muscle relaxant to help with the pain and spasms. Be careful when taking that – it can cause drowsiness. If your pain worsens significantly, or if you experience any numbness or weakness in your legs or feet, please go to the emergency room immediately. Do you have any questions for me before we finish?
+PATIENT: Emergency room… alright. I will remember that. Muscle relaxant… drowsiness. Yes. No, Doctor. I do not believe so. You have explained everything very clearly. I appreciate your…efficiency. Thank you for your time. I believe that is all. I should go now.
+DOCTOR: Alright, Ms. Reihner. Here are the handouts and your prescription. The nurse will be in shortly to go over discharge instructions with you. Take it easy, and let me know if you have any concerns.
+PATIENT: Thank you, Doctor. .

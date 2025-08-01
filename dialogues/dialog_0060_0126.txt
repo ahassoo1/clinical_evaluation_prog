@@ -1,0 +1,19 @@
+DOCTOR: Right. Well, Christen, good to meet you. So, tell me, what brings you in today?
+PATIENT: Good day, Doctor Nooruddin. To be frank, I’ve been… unusually thirsty, and hungry, lately. More so than I should be, I think. It’s been going on for a couple of weeks now, and it’s… bothersome.
+DOCTOR: Mm-hm. Thirsty and hungry. A couple of weeks, you say. Alright. And is this… significantly different than usual?
+PATIENT: Yes, quite. I always have a good appetite, mind you, and I drink a fair amount of water with my work. But this is… constant. I find myself reaching for another glass almost immediately after finishing one, and I’m still feeling peckish. It’s… unsettling, to be honest. I’m never full.
+DOCTOR: Unsettling, yes. Well, a lot of things can cause that, of course. It could be stress, changes in your diet… are you under any particular stress at the moment?
+PATIENT: Stress… well, the divorce has been finalized recently. So, there’s… some emotional upheaval, I suppose. Though I thought I was handling it alright. Work’s been steady enough, thankfully. No changes to my diet, no. Same as always, really. Oatmeal for breakfast, sandwich for lunch, something simple for dinner. Nothing fancy.
+DOCTOR: Right. Divorce finalized… very recent?
+PATIENT: Just last month, Doctor. June the 15th, to be precise. It’s… a relief, in some ways, but also… a bit lonely, if I’m being honest. I’m not one for dwelling, though. I try to keep busy. It’s just… this thirst and hunger is new, and it’s interfering with my work, to a degree. I find myself needing breaks more often.
+DOCTOR: Alright. Well, frequent thirst and hunger can be linked to emotional stress, certainly. But we need to rule out anything else. Have you noticed any changes in your… well, how often you’re urinating?
+PATIENT: Now that you mention it… yes, I suppose I have. A bit more frequent, perhaps. I’d not paid it much mind, to be frank. I just assumed it was the increased fluid intake. Is that… unusual? I apologize, I’m not terribly knowledgeable on these matters.
+DOCTOR: No, no apology necessary. Increased urination with increased thirst and hunger… that's something we need to investigate a bit further. It could be a sign of a number of things, including diabetes. Now, I'm not saying you have diabetes, mind you. We just need to do a few tests to rule it out. Do you have any family history of diabetes?
+PATIENT: Diabetes… my mother’s side, yes. My grandmother had it, I believe. She needed injections, as I recall. I wasn’t terribly close to her, so I don’t know the specifics. Is it… serious? I apologize for all the questions, Doctor. I just… prefer to be prepared.
+DOCTOR: It can be serious, yes, if left untreated. But it's also very manageable with proper care. That's why we're doing this. Now, I'm going to need to do a quick blood test. It'll check your blood sugar levels. And I'd like to do a urine sample as well. Just standard procedure, alright?
+PATIENT: Yes, of course. Whatever you deem necessary, Doctor. A blood test and a urine sample… quite alright. Where shall I… proceed? I’d like to get this sorted as quickly as possible, if you don’t mind. I have a shipment arriving this afternoon.
+DOCTOR: Alright. The restroom is just through there. There's a collection cup in there, and instructions on the counter. Just bring the sample back to me, and we'll get the blood test done right here. I'll have you sit up on the exam table. Don't worry, it'll only take a few minutes. And honestly, it's likely nothing. People worry too much these days. But we always best check, alright?
+PATIENT: Yes, of course. Checking is wise. Thank you, Doctor. I’ll be as swift as possible.
+DOCTOR: Honestly, some people… always jumping to conclusions. But better safe than sorry, I suppose.
+PATIENT: .
+DOCTOR: .

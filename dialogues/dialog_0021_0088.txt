@@ -1,0 +1,21 @@
+DOCTOR: Right, well, hello. Jaylyne, is it?
+PATIENT: Yeah, that’s right. Jaylyne Dhanoa. Good to meet you too. Look, I don’t really have a lot of time today, if that’s alright? Just want to get this sorted if possible.
+DOCTOR: Alright. Well, we’ll try to be efficient. But rushing things isn’t always the best approach, you know. Still, let’s get straight to it. What brings you in today?
+PATIENT: It’s this ringing in my ears. It started a few weeks back, and it just… hasn’t gone away. It’s really annoying, especially when I’m trying to sleep. I’m a waiter, so I need to be able to hear customers, you know? It makes things difficult.
+DOCTOR: Ringing in the ears… tinnitus, as we call it. It’s common enough. A few weeks, you say?
+PATIENT: Yeah, a few weeks. It’s not constant, but it comes and goes. Sometimes it's a high-pitched whine, other times it’s more like a buzzing. Does that make sense? I’m not really good at describing sounds. It’s just… there. And it’s driving me crazy.
+DOCTOR: High-pitched, buzzing… alright. And is it in one ear, or both?
+PATIENT: Mostly in my right ear, I think. It’s hard to tell sometimes, it kind of… travels. But definitely more noticeable on that side. I haven’t really had any pain or anything, just the ringing.
+DOCTOR: Right ear, intermittent… no pain. Have you been exposed to any loud noises recently?
+PATIENT: Hmm… well, I work in a restaurant, so it’s pretty noisy in there all the time. Clattering plates, people talking… the usual. Nothing extra loud that I can think of, though. Maybe a bit louder than usual with the tourists being in town, but nothing I haven’t experienced before. I used to go to clubs a lot when I was married, but that was before the divorce, a while ago now.
+DOCTOR: Clubs… right. And this divorce… how long ago was that?
+PATIENT: About six months now. It was… messy. Not relevant to my ear, though, is it? I just thought you were making conversation. Look, I really need to get back to work, I’m already behind schedule. Is there anything you can do about the ringing, or not?
+DOCTOR: Everything is potentially relevant, Mr. Dhanoa. Stress can certainly exacerbate things. But fine, we’ll focus on the ear. Have you noticed any dizziness, hearing loss, or fullness in your ear?
+PATIENT: No dizziness, no. My hearing seems okay, but maybe a little muffled sometimes, especially when the ringing is bad. And no fullness, not really. It just… sounds like there’s something there, even when there isn’t. It’s hard to explain. I just want it to stop.
+DOCTOR: Alright. Let’s have a quick look in your ears, just to rule out anything obvious. Open wide.
+PATIENT: Okay, sure. Just… be gentle, alright? I don’t like things poking around in my ears.
+DOCTOR: Hmm… Ear canals look clear. No sign of wax buildup or infection. Tympanic membranes appear normal… a little bit of redness on the right side, but nothing alarming. It doesn’t appear to be anything structurally wrong.
+PATIENT: So… what does that mean? Is it something serious? Will I need… surgery or something? Look, I have insurance, private, but I really don’t want a long thing going on, you know? I need to work.
+DOCTOR: It’s unlikely to be anything serious, Mr. Dhanoa. The most probable explanation, given your history, is tinnitus, possibly triggered by noise exposure and exacerbated by stress. Surgery is almost certainly not required. However, tinnitus can be persistent, and there's no quick fix. We can explore some management options.
+PATIENT: Management options? What does that even mean? Like… earplugs? Because I already try to avoid really loud noises when I can. And I’m trying to relax more since the divorce, honestly. It’s not easy, but… is there medication? Something to stop the ringing? I really just want it gone. .
+DOCTOR: There’s no medication to stop the ringing, Mr. Dhanoa. Some medications can mask it, but they come with their own side effects, and are not a long-term solution. We can discuss some strategies for managing your symptoms: noise therapy, relaxation techniques… referral to an audiologist for hearing tests and potential counseling. It's about learning to cope, not eliminating it completely. I’ll write you a referral to Dr. Evelyn Reed, a good audiologist downtown. And try to reduce your stress levels. Honestly. Do you have any other questions?

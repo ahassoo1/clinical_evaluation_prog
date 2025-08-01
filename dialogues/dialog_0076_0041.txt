@@ -1,0 +1,29 @@
+DOCTOR: Alright, Mr. Astore, let’s get this over with. You’re 83, right?
+PATIENT: Yes, sir. Eighty-three years old this May. It feels… long, sometimes. But I try to keep moving.
+DOCTOR: Right, right. Moving. So, what brings you in here today?
+PATIENT: Well, Doctor… it’s my legs, mostly. They just… don’t work like they used to. It’s been getting worse, little by little. Harder to walk, harder to stand for long. Feels… weak, like they might give out. My wife, she worries, says I’m shuffling when I walk now. I don't know what that means, exactly, but she's usually right about things.
+DOCTOR: Weak legs, shuffling… alright. And how long has this been going on?
+PATIENT: Oh, goodness… that’s a good question. It's not something that happened all at once. Maybe… a year? More? It started with just feeling a little tired after a long walk, but now… it's harder even going to the mailbox. It's hard to say exactly when it started being this bad. My memory isn't what it used to be, you see.
+DOCTOR: A year… vaguely remembering things… typical. Do you have any pain in your legs?
+PATIENT: Not really pain, Doctor. It's more… heavy. Like I’m carrying weights. And sometimes… a tingling, like pins and needles. Not all the time, but it happens. It’s mostly in my feet, I think. It's hard to explain, it's not a bad feeling, just… strange.
+DOCTOR: Alright. Tingling, heaviness… Anything else?
+PATIENT: Well… sometimes my vision gets blurry. Not all the time, and it usually goes away quick. It's like… looking through a fog, for a little bit. And I get tired easier, even when I haven't done much. Not just my legs, but… all over, you know? Hard to keep up sometimes. My wife does most of the work around the house now.
+DOCTOR: Blurry vision, fatigue… Alright. Any history of diabetes, high blood pressure, anything like that?
+PATIENT: Let me think… My wife handles most of that doctor. But I believe I had some trouble with high blood pressure a while back. The doctor put me on some pills for it, I think. I’ve been taking them for… a long time now. I don’t remember the name of them, and I don’t know if I still need them, to be honest. It's all a bit of a blur.
+DOCTOR: High blood pressure… vaguely remembering medications… Wonderful. Any allergies to medications?
+PATIENT: Not that I know of, sir. Never had a bad reaction to anything, as far as I recall. My wife would know for sure, she keeps a list. I’ve taken all sorts of things over the years, mostly for aches and pains. Old age, you know. Things wear out.
+DOCTOR: Alright. Let's just do a quick exam, if you don't mind. Can you stand up for me?
+PATIENT: Yes, sir, I can. Just a little slow getting going sometimes. It’s… it’s this weakness, I suppose. Hope I don’t fall.
+DOCTOR: Alright. Now, walk for me. Just a few steps. And try to walk normally, if you can. I want to see how you move.
+PATIENT: It’s… harder than it looks, Doctor. Feels like I’m dragging my feet a little. My wife says I don’t lift my feet high enough anymore. It's a bit scary, to be honest.
+DOCTOR: Yes, I can see that. Shuffling gait, reduced stride length… alright. Now, sit back down. I’m going to check your reflexes.
+PATIENT: Reflexes, alright. I don’t think those are what they used to be either, to be honest. Everything feels a little… slow these days. Getting old isn't for the faint of heart, you know.
+DOCTOR: Hmm. Diminished reflexes bilaterally… Okay. Now, I’m going to listen to your heart and lungs. Heart sounds normal, lungs clear.
+PATIENT: Alright. Sounds… good, I suppose. Is something wrong, Doctor? You seem… very focused on the computer. I appreciate you checking me over, but I was hoping to maybe get an idea of what’s going on. My wife is getting worried, and honestly, so am I.
+DOCTOR: Look, Mr. Astore, you’re 83. You’re experiencing normal age-related decline. Weakness, shuffling gait, diminished reflexes… it all fits. I suspect it’s just general weakness and possibly some peripheral neuropathy, likely due to age and… well, being 83. It’s not something I’m overly concerned about at this point.
+PATIENT: …Normal age-related decline? So… there’s nothing wrong wrong? Just… old age? But it's getting worse, Doctor. It's making it hard to do things, to get around. And what about the blurry vision and the tiredness? Is that just… old age too? My wife… she’s worried about me falling. And… and frankly, so am I. Is there nothing you can do to help? Even just to figure out what's causing it?
+DOCTOR: Look, Mr. Astore, I can order some blood work to rule out anything serious - vitamin deficiencies, things like that. But frankly, I don’t expect to find anything. It sounds like you just need to take it easy, maybe use a cane for support. I can write you a prescription for a cane. And honestly?
+PATIENT: A cane… I suppose that's something. But… is that all, Doctor? Just… a cane? I was hoping for… I don’t know. Some answers, maybe? Some way to slow it down, to keep being… me, for as long as possible? My wife and I… we still like to go for walks, when I can. And I want to be able to help around the house. Is there anything else you can do?
+DOCTOR: Look, I can refer you to physical therapy. They can teach you some exercises to improve your strength and balance. But realistically, Mr. Astore, this is likely a progressive condition. It’s not going to go away. We can manage the symptoms, but you need to accept that this is part of getting older. Here's the referral. Schedule an appointment. And honestly, try not to worry so much. It’s just old age.
+PATIENT: …Progressive… So… it’s going to keep getting worse. Even with the exercises. And the cane… it’s just… delaying the inevitable. I see. Thank you, Doctor. I appreciate you… explaining things. I suppose… I suppose I’ll schedule the physical therapy. Thank you again. .
+DOCTOR: Right. Have a good day, Mr. Astore. Next! .

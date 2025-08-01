@@ -1,0 +1,23 @@
+DOCTOR: Right. Mr. Schieber, yes?
+PATIENT: Yes, that is correct. Look, if we could just get this over with quickly, I have… matters to attend to. It’s rather bothersome, this whole thing.
+DOCTOR: Of course. Efficiency is… appreciated. So, what brings you in today?
+PATIENT: It’s… a problem in my mouth. Honestly, it’s quite embarrassing to even discuss. A white coating, you see? And it's… uncomfortable. Not painful, precisely, but… irritating. I assumed it would simply go away. It hasn’t. Frankly, I haven't got time for this.
+DOCTOR: A white coating… irritating. Hmm. How long has this “coating” been present?
+PATIENT: Oh, goodness. Let me think… a week? Perhaps a little longer. It's difficult to say precisely. I don’t spend a great deal of time examining my mouth, if you understand. It just… appeared one day. It's not as if I've been neglecting my hygiene, you know. I assure you.
+DOCTOR: Right. And has anything changed recently?
+PATIENT: Changed? What do you mean, “changed”? My routine is quite… established. No, nothing of particular note. The weather has been dreadful, certainly. And my wife has been experimenting with new recipes, some of which are… questionable. But I fail to see how that would be relevant.
+DOCTOR: Hmm. And do you smoke?
+PATIENT: Absolutely not. Disgusting habit. My father smoked, and… well, let's just say it didn't end well. I maintain a very healthy lifestyle, all things considered. I exercise regularly, eat a balanced diet… though my wife’s cooking is a recent challenge, as I mentioned.
+DOCTOR: Alright. Let's have a brief look, shall we?
+PATIENT: Very well. Just… try to be quick about it. It’s rather undignified, this whole process.
+DOCTOR: Hmm. Yes… there is a white coating on the tongue, as you say. It appears to be… patchy. No obvious lesions. Have you noticed any fever, difficulty swallowing, or changes in your taste?
+PATIENT: Fever? No. Difficulty swallowing… not really. It’s a little… odd, perhaps, when eating very spicy foods, but that’s hardly a medical emergency. And my taste… well, my wife’s cooking has already altered my taste considerably, so it's difficult to say. Honestly, doctor, I suspect it’s just a minor inconvenience. I’d prefer to avoid any… unnecessary procedures.
+DOCTOR: Alright. It could be a simple case of oral thrush, or possibly geographic tongue. Given your… lifestyle, we'll assume it's not anything more serious. Are you taking any medications currently?
+PATIENT: Medications? No. I pride myself on maintaining my health without resorting to pharmaceuticals. A strong constitution, you see. I find a good night’s sleep and a balanced diet are usually sufficient. My wife occasionally suggests something for a minor headache, but I always decline. It all sounds terribly… artificial.
+DOCTOR: Very well. And any allergies?
+PATIENT: Allergies? No, none that I’m aware of. I’ve always been rather robust, as I said. Though, I did experience a slight rash after attempting to eat a particularly exotic fruit my wife purchased… but I suspect that was simply a matter of poor quality produce, not an allergy. Honestly, I don’t see the point in dwelling on such trivial matters.
+DOCTOR: Alright. Given your history – or lack thereof – and the absence of any serious symptoms, I'll prescribe a simple anti-fungal mouthwash. Use it twice daily for one week. If the coating persists, then we'll consider further investigation. Do you understand?
+PATIENT: Yes, yes, mouthwash. Twice daily. For a week. Frankly, I find this whole exercise rather… underwhelming. Is that all? I have other commitments, you understand. I’d like to be on my way shortly. Is a written prescription necessary, or can I simply rely on your… verbal assurance?
+DOCTOR: Here. A prescription. For your… peace of mind. If it doesn’t improve, then schedule a follow-up appointment. But frankly, I doubt it will be necessary. Next time, try to avoid exotic fruits. Do you have any further questions?
+PATIENT: No. No further questions. I believe that concludes this… unfortunate episode. Good day, doctor. .
+DOCTOR: .

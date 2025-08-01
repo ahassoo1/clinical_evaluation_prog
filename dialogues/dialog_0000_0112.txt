@@ -1,0 +1,36 @@
+DOCTOR: Right. Well, Keoni, please have a seat. So, what brings you in today?
+PATIENT: Thank you, Doctor Batara. It’s… well, it's a bit embarrassing, to be honest. I’ve been going to the restroom very frequently lately. It’s just… more often than usual, and it’s rather disruptive. I’m not sure when it started exactly, just… gradually, I suppose.
+DOCTOR: “Gradually.” Right. Well, “gradually” doesn't really tell me much, does it?
+PATIENT: You are quite right, Doctor. I apologize. It wasn’t very specific, was it? Let me see… perhaps a couple of months ago? It started maybe once or twice a day more than I was used to, and it’s… increased from there. I find myself needing to go even when I don't feel a particularly strong urge. It's… difficult to explain, I suppose. I don’t recall anything specific that triggered it.
+DOCTOR: A couple of months. And no specific event?
+PATIENT: No, not that I can recall, Doctor. I’ve been thinking about it, trying to pinpoint something, but… nothing comes to mind. My life hasn’t been particularly eventful lately, if that makes sense. Just… work, and trying to keep things tidy. I was divorced about two years ago, if that’s relevant? It was… amicable, but still a change. I truly don’t think it’s related, but I feel I should mention it.
+DOCTOR: Divorce. Well, stress can manifest in many ways, but let’s focus on the physical symptoms. Are you experiencing any pain or burning sensation when you urinate?
+PATIENT: Pain… no, not exactly pain. There’s… a slight discomfort sometimes, a sort of stinging, but it’s very mild. It doesn’t happen every time, only occasionally, and it’s not severe. More of an irritation, I suppose. And it fades quickly. No burning, though, not that I’ve noticed. It’s just… frequent. And a little inconvenient, to be frank.
+DOCTOR: "Inconvenient." Right. Any blood in your urine?
+PATIENT: Oh! Goodness, no. No blood, Doctor. I… I would certainly notice that, wouldn’t I? No, definitely no blood. It’s just… the frequency, and that little bit of discomfort sometimes. I’m rather embarrassed to even be discussing this, if I’m honest. It feels so… personal.
+DOCTOR: Everything is “personal” when you’re dealing with bodily functions, Keoni. It’s my job to ask. Now, let’s move on. Are you experiencing any fever, chills, nausea, or vomiting?
+PATIENT: No, Doctor. None of those things. I feel perfectly well otherwise. No fever, chills, nausea, or vomiting. I’ve been eating normally, sleeping well… just constantly needing to go to the restroom. It’s… quite disruptive at work, honestly. I’m a concierge, and it’s rather difficult to step away frequently. I worry about appearing unprofessional.
+DOCTOR: A concierge. So, you're on your feet a lot, then?
+PATIENT: Yes, quite a lot, Doctor. It's a fairly active job, yes. Lots of walking, standing, assisting guests… it keeps me moving. I enjoy it, normally, but… this makes it rather difficult. I have to politely excuse myself frequently, and I worry they’ll think I’m not attentive. It’s… a bit stressful, to be honest. Though, as I said, I’m unsure if that’s related.
+DOCTOR: Alright. Let's have a look at your history, then. Do you have any known allergies?
+PATIENT: No, Doctor, not that I'm aware of. I've never had a reaction to anything, not food, medications, or anything like that. I’ve always been quite fortunate in that regard. I don’t take any regular medications either, if that’s relevant. Just… the occasional pain reliever for a headache, perhaps. Nothing consistent.
+DOCTOR: And your past medical history?
+PATIENT: Let me see… I had the usual childhood illnesses, measles, mumps, chickenpox, but nothing serious. I had my appendix removed when I was twelve, that was… unpleasant, but I recovered well. And… I was diagnosed with mild asthma as a child, but I haven’t had an attack in years. It was always very mild, and easily managed. I don’t require any inhalers or medication for it now. Truly, I’ve been quite healthy, Doctor. That’s why this is so puzzling.
+DOCTOR: Asthma. Right. And family history?
+PATIENT: Let me see… My mother had high blood pressure, and my father had… diabetes, I believe. Type 2, I think. And… my grandmother on my mother's side had arthritis, quite severely. Other than that, I don't recall anything significant. I wasn’t particularly close to my extended family, so I don’t have a lot of information. I apologize for the vagueness. I wish I were more helpful.
+DOCTOR: Alright. Let’s do a quick physical exam, then. Perhaps that will shed some light on things. Can you step onto the scale for me?
+PATIENT: Certainly, Doctor. That sounds perfectly reasonable.
+DOCTOR: 59 kilograms. And your height is 1.77 meters, correct?
+PATIENT: Yes, that is correct, Doctor. 1.77 meters. I haven't grown in years, thankfully.
+DOCTOR: Any tenderness here?
+PATIENT: Ooh, yes, just there, a little bit. Not a sharp pain, more of a… discomfort. It's not usually painful, but when you press… yes, there's a little bit of discomfort.
+DOCTOR: And here?
+PATIENT: Ooh! Yes, that’s… more noticeable. A little bit of pain now, yes. It’s not excruciating, but it’s definitely uncomfortable. Perhaps it's just my muscles? I do a lot of walking, as I mentioned.
+DOCTOR: Alright. Your bowel sounds are normal. Let’s check your reflexes now.
+PATIENT: Yes, alright. Everything feels… normal, I think? My reflexes are… okay? I haven’t had any issues with those before. It’s been a long time since anyone checked, if that makes a difference.
+DOCTOR: Alright. Well, based on this brief examination, I suspect it's likely a mild urinary tract infection. It’s common, particularly in women. But to be certain, we'll need to run a urine analysis. It's a simple test, we can do it right here.
+PATIENT: A urinary tract infection… yes, that would certainly explain the frequency. I… I suppose that makes sense. A urine analysis? Yes, of course. That sounds perfectly reasonable, Doctor. I can do that right now?
+DOCTOR: Yes, right now. I'll leave you to it. There are instructions inside, and a cup. Please bring the sample back to me when you’re finished. It’s best to collect a mid-stream sample, if possible. Don’t worry, it's routine.
+PATIENT: Right. A mid-stream sample. Yes, of course. Thank you, Doctor. I’ll be right back.
+DOCTOR: .
+PATIENT: .

@@ -1,0 +1,30 @@
+DOCTOR: Right. Ms. Fabing, I see here you’re 35 years old. So, what brings you in today?
+PATIENT: Oh, hi Dr. Sink. Just need to get some forms filled out, really. Medicare sent me a bunch, and I figured it’s easiest to do it here with someone who can answer questions if I get stuck.
+DOCTOR: Forms. Yes. Well, that's... efficient, I suppose. Though usually these things are straightforward. Are they all related to the same thing, or is it a variety of paperwork?
+PATIENT: Mostly just updates, I think. Like, confirming my address is still right, and… stuff like that. There’s one about who to contact in an emergency, and another that asks about my… well, my family history, I guess. It’s just a lot, you know? And some of the wording is kinda confusing.
+DOCTOR: Confusing wording. Right. People do like to use jargon, don’t they?
+PATIENT: Yeah, they really do! It’s like they want to make it hard. I'm married, by the way, if that helps with any of the forms. My husband's name is Ben.
+DOCTOR: Married to Ben. Good. Emergency contact taken care of then, presumably. Let's just get through this. Do you have the forms with you?
+PATIENT: Yep, I do. Here they are. They sent a lot. I tried to start a couple, but… that’s where I got confused. Mostly the one asking about family health stuff.
+DOCTOR: Right. Family history. Always a tedious one. Okay. Let’s start with that one. Do you know your parents’ medical history?
+PATIENT: Um… kinda. My mom passed away a few years back. She had… well, she had some heart trouble. And my dad, he's still around, but he's got diabetes. That's what I remember off the top of my head, anyway. It was a while ago when they talked about it much. Is it important to know exactly what kind of heart trouble?
+DOCTOR: "Kind of" isn’t particularly useful, is it?
+PATIENT: No, I guess not. She had… they said it was something with her valves. Like, they weren't working right. And she was always tired. Really tired. She ended up needing surgery, but… it didn't help much, I don’t think. I was pretty young then, so I don't remember all the details. Does that make sense?
+DOCTOR: Valves... and fatigue. Alright. Anything else regarding your mother?
+PATIENT: Hmm… she had high blood pressure, I think. They always checked that at the doctor. And… she smoked for a long time, but she quit before I was born. That's about all I can remember, honestly. It was a long time ago, and my dad doesn’t talk about it much. He gets sad. Is it okay to just write "unknown" for some of the stuff?
+DOCTOR: "Unknown" is… acceptable, I suppose. Though it doesn't provide much information. We're trying to get a comprehensive picture here. Now, your father. You mentioned diabetes. Type 1 or Type 2?
+PATIENT: Oh, goodness. I have no idea. I really don't know medical stuff. He just… takes pills for it. And he watches his sugar. Is there a way to find out? Like, could you look it up or something? He goes to the clinic here, too, I think. His name is Robert Fabing.
+DOCTOR: Robert Fabing... yes. Type 2 diabetes, diagnosed approximately ten years ago. And… hypertension as well. Alright. Now, any history of heart disease, cancer, stroke, or other serious illnesses in your grandparents or siblings?
+PATIENT: Oh boy. That’s… a lot to remember. Okay, let me think… My mom had a sister, Aunt Carol. She had… I think it was breast cancer, a long time ago. She’s okay now, I think. She's pretty old. And my dad’s mom… she had something with her lungs, but I don’t know what. I never met her, so I don’t have much info. I don’t have any siblings, if that helps.
+DOCTOR: Aunt Carol, breast cancer… noted. And grandmother with… pulmonary issues. Vague, but we'll make a note. Any allergies to medications, food, or anything else?
+PATIENT: Nope, not that I know of. I've never had a bad reaction to anything. Ben's allergic to bee stings, but that’s him, not me. He carries an EpiPen, just in case. Does it matter if he has allergies on these forms? Because I can write that down if it does.
+DOCTOR: No, your husband’s allergies are irrelevant. We're concerned with your medical history. Now, are you currently taking any medications?
+PATIENT: Nope, nothing at all. I try to stay healthy. Ben always jokes that I’m the healthiest person he knows. I drink a lot of water and try to eat right. No pills, no creams, nothing. Is that… good? Or should I be taking something?
+DOCTOR: No medications. Right. Alright. We’re almost done. Any history of surgeries or hospitalizations?
+PATIENT: Um… I had my tonsils out when I was a kid. That's the only surgery I've ever had. And… I broke my arm once, when I was little, but I didn't need to stay in the hospital overnight. Just a cast. Does a broken arm count?
+DOCTOR: Tonsillectomy. Right. Broken arm... no, that’s not relevant. And finally, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Nope, none of the above. Never have. Ben drinks a beer sometimes, but that’s it. I really don't care for any of that stuff. I’m a pretty boring person, I guess. Is that all?
+DOCTOR: Alright. I believe that covers it. I've documented your responses. It's... a surprisingly sparse medical history. We may need to run some baseline tests, just to be thorough. But for now, that's all. Do you have any questions for me?
+PATIENT: No, I don't think so. You answered everything I was confused about. Thank you for your patience! It’s just… forms are always so overwhelming. So, I guess I'm all set then?
+DOCTOR: Yes. You’re set. The nurse will schedule your routine bloodwork. Don't hesitate to contact the clinic if anything changes.
+PATIENT: Okay, great. Thank you again, Dr. Sink. Have a good day.

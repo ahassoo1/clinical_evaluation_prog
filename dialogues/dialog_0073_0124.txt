@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Ms. Paes. I’m Dr. Korrell. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, I've noticed my skin's been getting darker, and I've just been really tired lately. It's not like, a sunburn dark, more... all over? And the tiredness is just dragging me down.
+DOCTOR: Hmm, darker skin, all over… and fatigue. Alright. Can you tell me a little more about when you first started noticing this skin change?
+PATIENT: Let me think… it started maybe… three, four months ago? It was gradual, so it’s hard to pinpoint exactly. I didn’t really pay much attention at first, honestly. Just thought maybe I was spending more time in the sun, but I haven’t been doing that much more.
+DOCTOR: And has this been accompanied by any other changes?
+PATIENT: Other changes… hmm. Not really that I can think of. Maybe a little more thirsty than usual? And… I don’t know if this means anything, but I feel colder more easily. Like, I’m always reaching for a sweater now, even when it’s not that cold.
+DOCTOR: Increased thirst and feeling colder… Alright. Now, I’m going to ask a few more general questions. Have you experienced any unintentional weight loss recently?
+PATIENT: Unintentional weight loss… no, I don’t think so. If anything, maybe I’ve gained a little? It’s hard to say for sure, I haven’t really been keeping track. My appetite’s been normal, I guess.
+DOCTOR: Normal appetite… and no changes in your bowel habits or urination?
+PATIENT: No, nothing like that. Everything’s… regular, I suppose. Sorry, I'm not very good at describing things. Just… normal.
+DOCTOR: It’s alright, Ms. Paes. We’ll get to the bottom of this. Now, let's talk about your past medical history. Do you have any known medical conditions?
+PATIENT: Not really. I had my gallbladder out years ago, maybe ten years? And… high blood pressure, but it’s been controlled with medication for a while now. Otherwise, nothing major. I usually stay pretty healthy, to be honest.
+DOCTOR: Gallbladder removal, hypertension… Okay. And what medications are you currently taking for your blood pressure?
+PATIENT: Um… let me see… it’s Lisinopril, I think. 20 milligrams, once a day. And… that’s it. Just the Lisinopril. I get it filled at the pharmacy down the street, so I usually know the name.
+DOCTOR: Lisinopril 20mg… Any allergies to medications or anything else?
+PATIENT: No allergies that I know of. I can eat anything, take any medicine... nothing bothers me. My mom always said I had a strong stomach!
+DOCTOR: Good. Now, I’d like to do a quick physical exam, if that’s alright. We'll start with your blood pressure and listen to your heart and lungs. Then, I'll take a look at your skin more closely. Is that okay?
+PATIENT: Yes, that sounds fine. Whatever you need to do, Doctor. I'm ready when you are.
+DOCTOR: Alright. Let’s start with your blood pressure. Please extend your arm. 140/90… slightly elevated, but not unexpected with your history. Now, let me listen to your heart and lungs. Heart sounds are regular. Lungs are clear. Your skin does appear a bit darker than usual, and there's some general hyperpigmentation. I don't see any obvious rashes or lesions. Lymph nodes feel normal. No swelling.
+PATIENT: Okay. Is that… bad? The darkening, I mean. It just feels like something's not right. I'm not usually this tired either. It makes it hard to get things done.
+DOCTOR: It’s not necessarily “bad,” Ms. Paes, but it is something we need to investigate further. The combination of the fatigue and the skin darkening, along with the slightly elevated blood pressure, warrants some testing. I’d like to order a complete blood count, a comprehensive metabolic panel, and a thyroid panel. We should also check your iron levels and Vitamin D. I’m also going to order a urinalysis, just to be thorough. Does that sound alright?
+PATIENT: Yes, that sounds… good. Whatever you think is best, Doctor. I just want to know what’s going on. It’s just… unsettling, you know? Being tired all the time and looking… different. So yes, please. Let’s do the tests.
+DOCTOR: Alright. I'll have the lab draw the blood now. You’ll need to provide a urine sample as well, there’s a collection cup in the bathroom. Once the results are back, we'll schedule a follow-up appointment to discuss them. It usually takes about three to five business days. In the meantime, try to get some rest and stay hydrated. Is there anything else I can address for you today?
+PATIENT: No, I think that’s everything for now. Thank you, Doctor. I appreciate you taking the time to listen and running the tests. I feel a little better just knowing we’re trying to figure it out.
+DOCTOR: You’re welcome, Ms. Paes. We’ll get to the bottom of this. The lab technician will be in shortly to collect your samples. They will let me know once they are complete. Please schedule a follow-up appointment with the front desk when you leave. Do not hesitate to call if anything changes or if you feel significantly worse. Have a good day.
+PATIENT: .
+DOCTOR: You as well. .

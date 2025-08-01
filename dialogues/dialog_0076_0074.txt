@@ -1,0 +1,22 @@
+DOCTOR: Right. Mrs. Steines, is it?
+PATIENT: Yes, that's right. Venna Steines. Just Venna is fine, though. I reckon I'm here 'bout my blood pressure. Been a little high lately, the nurse said.
+DOCTOR: Blood pressure, right. Everyone's got something these days. High blood pressure... well, it's not surprising at your age, frankly. But let's get some details. How long has it been "a little high," exactly?
+PATIENT: Oh, goodness. It's been... a few months now, I suppose. Maybe since spring? Hard to keep track when you get to be my age. It hasn't been botherin' me none, really. Just the nurse kept sayin' it was a bit too high at my checkups.
+DOCTOR: A few months. And no symptoms at all?
+PATIENT: No, sir. Not a one. I feel… well, I feel like an old woman, but that’s just 'cause I am an old woman! No headaches, no dizzy spells, no nothin'. Just tired, sometimes. But that's just life, I figure.
+DOCTOR: Tiredness could be a lot of things, you know. Let’s not assume it’s just “life.” Do you take anything for it?
+PATIENT: For what, dear? The tiredness? No, I don’t take nothin’ for it. Never have. Oh… wait. I take a little water pill sometimes, the one the doctor gave me last year for… swelling. Is that what you mean? I forget things so easily now.
+DOCTOR: A water pill. Hmm. What was the reason for that swelling, do you recall?
+PATIENT: Oh, goodness… my ankles, I think. They just puffed up something awful one summer. The doctor said somethin' 'bout fluid. It helped, though! That's all I really remember. I ain't one for rememberin' medical words and such.
+DOCTOR: Right. Ankle swelling. And you said no other symptoms associated with the high blood pressure?
+PATIENT: No, sir. Not a one. I really haven't felt nothin'. Like I said, I just keep gettin' told it's high when I go to the nurse. Is it somethin' serious? I'd like to get this sorted out if I can, but I ain’t one for a lot of fuss, if you know what I mean.
+DOCTOR: Well, “serious” is a relative term. Untreated hypertension can lead to complications, of course. But we'll take a look. Let's do a quick exam, just to get a baseline. Blood pressure, pulse, listen to your heart and lungs... standard stuff. Then we'll see. Roll up your sleeve.
+PATIENT: Alright, that sounds sensible. Just let me know if you need me to do anything special. My arms ain't as strong as they used to be, you see.
+DOCTOR: Blood pressure is… elevated, as expected. 160 over 95. Pulse is a little fast too, 88. Heart sounds… regular, but a bit weak. Lungs are clear. Not much to say, frankly. It’s what I expected.
+PATIENT: Oh. Is that… bad? I don’t reckon I understand what all them numbers mean, but 160 sounds awful high. Is that somethin' I need to worry 'bout right away?
+DOCTOR: "Worry" is a strong word. It requires attention. We’ll start with lifestyle modifications. Diet. Exercise. Reduce salt intake. The usual. And I'll prescribe a low dose of lisinopril. We'll see how that goes. Don't expect miracles overnight. It takes time.
+PATIENT: Oh. A pill, huh? I suppose that's to be expected. Salt… well, I do like a bit o' salt on my frybread, but I can cut back. Exercise… at my age? I mostly just sit and bake these days. Lisinopril… is that a hard one to take? And will it mess with my other medicine? I take somethin' for my arthritis, you see.
+DOCTOR: Arthritis medication... let me see. You take naproxen, occasional use. Lisinopril shouldn’t interact, but it can cause a slight cough in some patients. If you develop a cough, let me know. Here's the prescription. Take one 10mg tablet daily. Don't skip doses. Now, are there any other questions?
+PATIENT: A cough… well, I do get a little tickle in my throat sometimes. I'll be sure to mention it if it gets worse. No, I don't reckon I have any more questions right now. Just… thank you, doctor. I appreciate you takin' the time to see me. Can I go now?
+DOCTOR: Yes, Mrs. Steines, you can go. And try to follow the instructions. Don’t wait until you’re in a crisis to come back. Good day.
+PATIENT: .

@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Ms. Sladen. Or is it Slaven?
+PATIENT: Morning, Doctor Yackey. It’s Slaven, S-L-A-V-E-N. Nice to meet you.
+DOCTOR: Yes, Slaven. Right. Well, let’s not waste time. What brings you in today?
+PATIENT: Well, the nurse told me to come in 'cause my blood pressure was a little high at my check-up last week. I haven’t been feeling bad, bad, but I figured I should get it looked at, you know?
+DOCTOR: “A little high” is rather vague, Ms. Slaven. Do you happen to recall the actual reading, or were you informed of any specific concerns beyond that generalized statement?
+PATIENT: Hmm... not really. I just remember the nurse looking a little worried and saying something about needing to see the doctor. I don't really pay attention to the numbers, to be honest. I just let them take it and tell me if it's okay. Is it something I should be writing down?
+DOCTOR: It is advisable, Ms. Slaven, to be aware of your own health metrics. However, we can proceed without that information, I suppose. Have you experienced any symptoms at all – headaches, dizziness, blurred vision, chest pain, shortness of breath – anything unusual?
+PATIENT: No, nothing like that. Honestly, I feel pretty normal. Maybe a little more tired than usual, but I figured that was just 'cause of the heat. It’s been scorching lately! I work outside sometimes, helping with gardens, so… yeah, just tired. Nothing scary.
+DOCTOR: Fatigue is hardly a diagnostic indicator, Ms. Slaven. Do you have any known medical conditions?
+PATIENT: Not really. I had asthma when I was a kid, but I grew out of it years ago. And my knees bother me sometimes, but that’s just old age creeping up, I guess! I have Medicare, if that matters.
+DOCTOR: Medicare is noted. Any surgeries?
+PATIENT: Nope. Never had any surgeries. Just the usual check-ups and stuff. I try to stay healthy, you know? Eat good, try to get some exercise… though it’s hard when it's this hot.
+DOCTOR: Family history?
+PATIENT: Hmm... my mom had high blood pressure too, I think. And my grandfather... he had something with his heart, but I don't remember exactly what. It was a long time ago. They both lived to be pretty old, though, so maybe it wasn’t too bad. Does that matter?
+DOCTOR: It can matter. Vague recollections are… less than helpful, Ms. Slaven. Social history?
+PATIENT: Oh, um… I live alone. I work part-time, like I said, doing gardens. I don’t smoke, and I only drink a little wine sometimes, with dinner. Nothing crazy. I try to keep busy, mostly. I like to read and visit with friends when I can. Is that what you needed to know?
+DOCTOR: Allergies?
+PATIENT: Just hay fever sometimes, in the spring. Nothing serious. A little sneezing and itchy eyes, that's it. Over-the-counter stuff takes care of it.
+DOCTOR: You're not currently taking any medications, correct?
+PATIENT: Nope, nothing at all. Just the allergy stuff when I need it. I really try to avoid taking pills if I can help it.
+DOCTOR: Very well. Let's proceed with a physical examination, then. Please step onto the scale. And please remove your shoes.
+PATIENT: Okay, sounds good. I just hope it's not too hot in here... it feels stuffy.
+DOCTOR: Hmm. Weight is within normal limits for your height. Blood pressure reading from last week was 142/90. That is elevated. Let me listen to your heart and lungs. Please take a deep breath... and exhale.
+PATIENT: Okay, deep breath… Is that okay? I always feel a little silly doing this.
+DOCTOR: Heart sounds are regular, no murmurs detected. Lungs are clear to auscultation bilaterally. No wheezes or crackles. Now, let me check your reflexes…
+PATIENT: Okay, whatever you need. I'm just trusting you to figure out what's going on, Doctor.
+DOCTOR: Reflexes are 2+ bilaterally, within normal limits. No edema. Now, I'm going to palpate your abdomen. Let me know if anything feels tender.
+PATIENT: Okay... No, that doesn’t hurt… feels normal. A little gassy maybe, but that’s just me. I had a big lunch.
+DOCTOR: Alright. Based on this preliminary examination, your blood pressure is mildly elevated, but there are no immediately concerning findings. It is likely early hypertension. We will need to monitor it closely. I recommend a low-sodium diet and regular, moderate exercise. Avoid stress as much as possible. And return for a follow-up appointment in one month to recheck your blood pressure. If you experience headaches, dizziness, or chest pain, seek immediate medical attention. Do you have any questions?
+PATIENT: Okay, that doesn’t sound too bad. Low sodium… I can probably do that. And I’ll try to walk more. One month, huh? Um… will this mean I have to take pills eventually? I really don't like taking medication.
+DOCTOR: It's premature to discuss medication, Ms. Slaven. We will assess your blood pressure at the follow-up appointment. Lifestyle modifications are the first line of defense. If those are insufficient, then we will consider other options. Do not self-treat with over-the-counter remedies. Is that understood?
+PATIENT: Okay, okay, I got it. No pills right now. Lifestyle changes. I won’t take anything without talking to you first. You’re right, I just worry about side effects and stuff. I’m just trying to be prepared. So, one month from today? Should I schedule it with the nurse on my way out?
+DOCTOR: Yes, schedule a follow-up appointment with the nurse. And please, try to relax. Your blood pressure will likely improve with a few simple changes. Now, if you'll excuse me, I have other patients waiting. Is there anything else I can assist you with before you leave?
+PATIENT: No, I think that's everything. Thank you, Doctor Yackey. I appreciate you taking the time to explain things. I’ll go find the nurse now.
+DOCTOR: Very well. Have a good day, Ms. Slaven.

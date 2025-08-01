@@ -1,0 +1,31 @@
+DOCTOR: Good morning, Mr. Pipolo. I'm Dr. Annesley. It’s nice to meet you. So, to start, what brings you in to see me today?
+PATIENT: Morning. Just… my eyes. They feel real dry. Been that way a bit now. Don't know what to do about it.
+DOCTOR: Okay, dry eyes. And how long has this been going on for, roughly?
+PATIENT: Oh, geez. A while. Maybe… a couple months? Hard to say exactly. Time kinda slips when you get old, you know? Not gettin' any younger.
+DOCTOR: I understand completely, Mr. Pipolo. A couple of months is helpful. Has it been gradually getting worse, or has it been pretty consistent since it started?
+PATIENT: Pretty consistent, I think. Not like a sudden thing. Just… always a little scratchy. Especially when it’s windy. We get a lot of wind where I live. Near the water. Makes everything worse.
+DOCTOR: Alright, consistently scratchy, worse with the wind… and you mentioned living near the water. Do you find it's worse at any other times of the day, or with any particular activities – like reading, using a computer, or being in air conditioning?
+PATIENT: Air conditioning, yeah. That dries 'em right out. And… when I'm workin'. Cement dust. That gets everywhere, even with goggles. Makes it worse for sure. Don't spend much time readin' these days, so not really with that.
+DOCTOR: Okay, so air conditioning and cement dust seem to be aggravating factors. Do you wear safety goggles when you’re working with the cement?
+PATIENT: Yeah, I do. Always. But dust still gets in. It's just… part of the job, I guess. Not the best job for eyes, that's for sure.
+DOCTOR: Alright. And have you tried anything already to help with the dryness?
+PATIENT: Just… blinkin' a lot. Is that somethin' people do? I dunno. Not much else. Never really bothered with drops or nothin'. Never thought it was that bad. Figured it'd go away.
+DOCTOR: Okay, just blinking. We can definitely explore some other options. Now, let's talk a little bit about your overall health. Do you have any other medical conditions – like diabetes, arthritis, or anything else?
+PATIENT: Nope. Nothin' really. Just old. Joints ache a bit, but that's just age, you know? Never been sick much. Never been to the doctor much, either.
+DOCTOR: Alright, good to know. And are you currently taking any medications, including over-the-counter medications or supplements?
+PATIENT: No. Not a one. Don't like takin' pills if I can avoid it.
+DOCTOR: Okay. Do you have any allergies to any medications or anything else, like pollen or foods?
+PATIENT: Nah. Not that I know of. I eat just about anything. Never had a problem. Don't think so.
+DOCTOR: Okay, good. Now, I'm going to take a quick look at your eyes. Is that alright with you?
+PATIENT: Yeah, sure. Go ahead. Just… try to be quick, okay? Got things to do.
+DOCTOR: Certainly. Okay, I’m just going to check your eyelids and the surface of your eyes. I see some mild dryness and redness on both eyes. Your conjunctiva – that's the clear membrane over the white part of your eyes – looks a little irritated. Your tear ducts seem clear, but your tear film appears a little thin. Now, I'm going to check your visual acuity. Can you read this chart for me?
+PATIENT: Oh, jeez. Charts. Always bad with those. Uh… let's see… is that an E? A big E? Not as good as I used to be, doc. Not as good.
+DOCTOR: Yes, that was an E. And that’s alright, it’s common for vision to change as we age. We'll get a good idea of where things stand. Alright, now let’s try with this eye… can you read the first line for me?
+PATIENT: Ugh... blurry. Can't make 'em out. Just a bunch of shapes. I really don't see good, doc. Sorry.
+DOCTOR: Okay, that’s perfectly alright. We're just assessing things. It sounds like you have some vision impairment. Now, back to your dry eyes. Based on what you've told me and my examination, it seems you have dry eye disease, likely aggravated by your work environment and air conditioning. We can try some things to manage it. I recommend starting with artificial tears – over-the-counter eye drops – four times a day. And when you're working with cement, make sure your goggles are a good fit and sealed tightly. I’d also like you to try a warm compress on your eyes for 5-10 minutes each night. That can help stimulate tear production. Does that sound manageable?
+PATIENT: Drops and a warm… whatchamacallit. Compress. Yeah, I guess. Sounds easy enough. How much do the drops cost? Don't wanna spend a fortune on eye water.
+DOCTOR: They vary in price, but a basic bottle of artificial tears usually costs around $8 to $12. There are preservative-free options, which are a bit more expensive but can be gentler on the eyes if you need to use them frequently. You can try a basic bottle first and see if it helps. If it doesn't, we can discuss other options. Do you have any questions about using the drops or the warm compress?
+PATIENT: Nah, I think I got it. Just put 'em in my eyes. And warm water on a towel. Right? Sounds simple enough. Can I go now? I really gotta get back.
+DOCTOR: Yes, you can. Just put a couple of drops in each eye as needed, and apply the warm compress for 5-10 minutes each night. I’d like to see you back in a month to see how you’re doing. If your symptoms don't improve, or if they worsen, please schedule an appointment sooner. Here’s a summary of our visit, and a prescription for a basic artificial tear. Is there anything else I can help you with today?
+PATIENT: Nope. Think that's it. Thanks, doc. Gotta go. .
+DOCTOR: Alright, Mr. Pipolo. You have a good day, and please don’t hesitate to call if you have any questions or concerns.

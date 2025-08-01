@@ -1,0 +1,27 @@
+DOCTOR: Right, Nykisha Paes. 47 years old. So, what brings you in today?
+PATIENT: Well, hi Doctor Ruocco. It's… my skin, mostly. It’s gotten really dark, you know? And I’ve just been so tired lately. It’s not like a normal tired, it’s… hard to explain. Like, really dragging.
+DOCTOR: Dark skin… and fatigue. Right. And when did you first notice this darkness?
+PATIENT: Hmm… let me think. It started maybe… three, four months ago? Slowly, at first. I thought it was just the sun, honestly. I do a little gardening when I can. But it hasn’t gotten better with staying out of the sun. And the tiredness… that’s been building for longer, I guess. Maybe six months? It’s hard to pinpoint exactly.
+DOCTOR: Gardening. Okay. And this darkness... is it all over, or just certain areas?
+PATIENT: It's… mostly on my face and hands, I think. And my arms a little. My legs seem okay, thankfully. Not like, patchy or anything, just… everything looks a bit… muddy, if that makes sense? And it doesn't wash off easily. I’ve been using lotion, hoping it was just dryness, but no luck.
+DOCTOR: Muddy… Alright. Have you noticed any changes in your appetite?
+PATIENT: That’s a good question. Not really, I don’t think. I eat about the same as always. Maybe a little less, now that I’m so tired I don't feel like cooking as much, but nothing major. I still feel hungry when I do eat, just… less motivated to make a good meal, you know?
+DOCTOR: Alright. Any weight loss recently?
+PATIENT: I haven't weighed myself in a while, to be honest. I should probably get a scale. But I don’t feel like I’ve lost weight. My clothes fit the same, if that helps. I haven't been feeling well enough to really pay attention to stuff like that, I guess.
+DOCTOR: Okay. And do you have any other symptoms?
+PATIENT: Let me think… Oh! Sometimes I feel a little dizzy when I stand up too fast. It doesn’t last long, just a quick whoosh. And I’ve been… warmer than usual, even when it’s not hot outside. Not a fever, I don’t think, but just… flushed. Is that important? I don’t know if that’s related.
+DOCTOR: Dizziness and flushing… yes, that’s potentially relevant. Are you experiencing any pain anywhere?
+PATIENT: No, no pain. That’s good, right? No aches or anything. It’s mostly just the tiredness and feeling… off. And this skin thing, of course. It doesn’t hurt, just looks… strange. I just want to feel normal again.
+DOCTOR: Alright. Let’s have a look at your skin then. And I’ll check your blood pressure while I’m at it. Could you roll up your sleeves, please?
+PATIENT: Sure, no problem. I’m not sure what you’re looking for, but… hopefully you can figure it out. I really appreciate you taking the time to listen.
+DOCTOR: Hmm. Yes, I see what you mean. There is some hyperpigmentation here… and the skin does appear a bit warm to the touch. 110/70. Blood pressure’s within normal limits. Now, have you noticed any changes in your bowel movements?
+PATIENT: Oh, um… bowel movements. Let me think. Not really, I guess? Everything seems pretty normal there. Maybe a little… looser than usual sometimes, but I haven’t really thought much of it. I have been drinking more water, trying to help with the tiredness. Does that affect things? I don't know much about… bodies, honestly.
+DOCTOR: Loose stools... Alright. And do you have any known allergies to any medications or foods?
+PATIENT: Not that I know of. I can eat pretty much anything. I haven't had any reactions to anything in the past. My family doesn’t have a lot of allergies, either, if that matters. I mostly just eat Cambodian food, and I've been eating that my whole life. I’m starting to get a little worried now, to be honest. What could be causing all this?
+DOCTOR: Look, you've had a few vague symptoms for a few months. Fatigue, some skin darkening, loose stools. It could be a number of things. We’ll run some basic blood work to rule out anything serious. But honestly, sometimes it's just… life. Stress, diet, not enough sleep. I'll order a complete blood count, a comprehensive metabolic panel, and a thyroid panel. We'll go from there.
+PATIENT: Okay… that sounds… good. I guess. I just… I’m really tired, and I want to know what’s going on. And I don't really do stress. I mean, I have a pretty quiet life. I mostly garden and… watch TV. I hope it’s not anything bad. When will I get the results?
+DOCTOR: The lab usually takes about three to five business days. The results will be sent to me, and then I'll contact you to discuss them. In the meantime, try to get as much rest as possible, stay hydrated, and… don’t worry too much. Sometimes, waiting is the hardest part. Is there anything else you'd like to mention before I finish up here?
+PATIENT: Um… no, I think that’s everything. Just… thank you. For listening, even if you don't know what it is yet. I appreciate it. And… if I think of anything else, is it okay if I call the office?
+DOCTOR: Yes, you can call the office. My nurse will schedule a follow-up appointment once the results are in. Now, I have other patients waiting, so I'll need to wrap things up. We'll see what the lab says, and then we can decide on a course of action. Here’s a copy of the lab order and discharge instructions. Take care.
+PATIENT: Okay. Thank you, Doctor Ruocco. I will. .
+DOCTOR: .

@@ -1,0 +1,22 @@
+DOCTOR: Right, Mr. Benic?
+PATIENT: Aye, that's me. Aurthur Benic. Good morning to you, Doctor... Osga, is it? I hope you had a good night.
+DOCTOR: Yes, yes. Look, I’m quite busy today, so let’s not waste time with pleasantries. What brings you in?
+PATIENT: Right, well… it's this nausea, see? Been happening most mornings now, for… oh, maybe a couple of weeks. It’s not a violent sort of sick, more of a queasy feeling, right in the pit of my stomach. And it usually hangs around for an hour or so after I get up. It’s just… worrying, with my heart, you know?
+DOCTOR: Heart, right. And you say mornings…anything specific trigger it?
+PATIENT: Hmm… not that I've noticed, no. I take my pills regular as clockwork, same time every day. It doesn’t seem to matter what I ate the night before either – had a simple supper last night, just fish and tatties, and it was the same as if I’d had a bigger meal. It just… happens when I wake up. I do feel a wee bit breathless sometimes when it’s bad, but that's not always the case.
+DOCTOR: Breathlessness… and you’re on medication for your heart, you said?
+PATIENT: Aye, that's right. Lisinopril, I think it is. And… oh, a water tablet too, Furosemide. Been on them both for… goodness, must be five years now, maybe more. The doctor back home, Dr. MacIntyre, he put me on them when I started getting a bit puffed up around the ankles. He was a good man, Dr. MacIntyre.
+DOCTOR: Right, Lisinopril and Furosemide. Any allergies I should be aware of?
+PATIENT: Not that I know of, no. Never had a reaction to anything, not even as a bairn. I get a bit of a sniffle with pollen, but that's just normal springtime stuff. Nothing serious. I can eat anything, take most medications… I’m pretty straightforward, really.
+DOCTOR: Straightforward, you say. Alright. Let's get a quick listen to your chest, shall we?
+PATIENT: Aye, go right ahead, Doctor. Whatever you think best. I’m happy to cooperate. Though, if you don't mind me asking... is it likely to be something to do with the heart? I just… I worry, you know? This nausea… it feels different than anything I've had before.
+DOCTOR: Lungs clear, heart rhythm regular, though a little…distant. Blood pressure is acceptable. And you've lost a bit of weight, haven't you?
+PATIENT: Aye, I have, actually. Not intentionally, mind you. Just… haven't been as hungry lately. My daughter, she keeps telling me I need to eat more, but it’s just… hard to force it down sometimes. I'm eating smaller portions, but not much more than that. It’s maybe a stone lost, over the last couple of months. Nothing drastic, but noticeable, I suppose.
+DOCTOR: A stone… and the nausea persists despite consistent medication?
+PATIENT: Aye, that’s it exactly. Pills every morning, same time, and the queasiness is still there, waiting for me. It's not like it comes and goes, either. It’s just… there. And it’s… unsettling, with my heart condition, you know? I just want to get to the bottom of it, and get back to feeling myself again. I miss a good hearty breakfast, I tell you!
+DOCTOR: Look, Mr. Benic, with your history, and this unexplained weight loss…it could be a number of things. I'm going to order some blood work. Complete blood count, electrolytes, kidney function, and a thyroid panel. Also, I want you to get a stool sample tested. Just to rule things out. Don’t panic, alright?
+PATIENT: Right… a lot of tests, then. Aye, alright. Whatever you think best, Doctor. Kidney function… stool sample… I suppose it's better to be sure. I’ll try not to panic, but it’s hard not to, you know? It's just... all these things sound… serious. When will I get the results? And will I need to come back again?
+DOCTOR: The lab usually takes a few days. The nurse will schedule a follow-up appointment once they have the results. Try to eat something bland for now. And if you experience any severe abdominal pain, chest pain, or dizziness, go to the emergency room immediately. Understood?
+PATIENT: Aye, understood. Bland food… no severe pain… emergency room if needed. Right. Thank you, Doctor. I appreciate you taking the time to look into it. Hopefully, it’s nothing too serious. I'll get that stool sample sorted as soon as I can. Is there anything else I should be doing? Or anything I should avoid?
+DOCTOR: No, just follow up with the nurse and get those tests done promptly. And try not to worry excessively. We'll see what the results say. Next!
+PATIENT: Right. Thank you again, Doctor. I'll get it done. .

@@ -1,0 +1,22 @@
+DOCTOR: Alright, Mr. Barban, have a seat. So, what brings you in today?
+PATIENT: Yes, hello. The… the paper said I need this check-up before the insurance starts. Medicare, it is. I do not know why they need to look at me before they pay, but… here I am. It seems… unnecessary.
+DOCTOR: Right, right. The paperwork. Honestly, I don't make the rules. It's just… standard procedure now. Look, I've got a full waiting room, so let's just try and get through this quickly, okay?
+PATIENT: Quickly is… good. I have things to do, you understand. It is not… a good use of my time to be here if it is not needed. What exactly will you be doing? Just… poking and prodding? I hope not too much poking.
+DOCTOR: Look, it's a basic check-up. I'll ask some questions, listen to your heart and lungs, maybe take your blood pressure. Standard stuff. We'll check your reflexes, look in your ears… you know, the usual. Don't worry, it won’t be… extensive. Now, let’s start with why you think you're healthy enough to not need a check-up. Any complaints?
+PATIENT: Complaints? No. I do not have complaints. I work. I eat. I sleep. It is… sufficient. I do not feel sick. Why would I be here if I felt sick? It is… a waste of both our times, honestly. I do not understand why you ask if I have complaints when I told you I do not. Are you even listening?
+DOCTOR: Okay, okay. Just trying to cover all the bases. Look, Medicare wants a history, alright?
+PATIENT: History? What kind of history? Family history? I… I do not know much about my family. They are… far away. And I do not ask about their sicknesses. It is… impolite, you understand? I have my own health to worry about. Do you need to know where I was born? Because that is… not important. I am here, I am healthy, let us finish.
+DOCTOR: Fine. We'll skip the detailed family history. But I do need to know about your medical history. Have you ever been hospitalized?
+PATIENT: Hospitalized? No. Never. Why would I be? I take care of myself. I do not… go around getting sick. I have had… a cold, maybe, once or twice a year. A small one. Nothing serious. I do not need a hospital. They are… unpleasant places. And expensive. Is that what you are asking? If I have been in a hospital? No.
+DOCTOR: Any surgeries?
+PATIENT: Surgeries? No. Absolutely not. I have not needed anything cut open. I am… intact. Why would anyone willingly let someone cut them? It sounds… barbaric. Is this all you ask? Cut, sick, family? It is… very strange.
+DOCTOR: Alright. Allergies?
+PATIENT: Allergies? No. I eat everything. Spices, meats, vegetables… everything. I am Yemeni, you understand? We have… strong stomachs. I do not have… sensitivities. Are you implying I am… weak? Because that is… rude.
+DOCTOR: Okay, fine. Medications?
+PATIENT: Medications? No. I do not take pills. Why would I? I eat well, I sleep, I work. I do not need… artificial things inside my body. It is… unnatural. Are you trying to… suggest I am sick? I told you, I am healthy. This is… a waste of my time.
+DOCTOR: Right. No medications. Okay. Let’s just do a quick physical exam, then. Just to… satisfy the paperwork. Please lie down on the exam table.
+PATIENT: Exam table? Very well. But make it quick. I do not wish to be here longer than necessary. And do not… poke too much.
+DOCTOR: Alright. I’m going to listen to your heart and lungs. Try to breathe deeply. Deep breaths now. Heart rate is… normal. Lungs are clear. Blood pressure is 130/80. A little elevated, but not concerning. Ears are clear. Reflexes… Reflexes are… present. A little brisk, but acceptable. Abdomen is soft, non-tender. Okay. All within normal limits.
+PATIENT: Within normal limits? That is what I said. I do not need you to tell me. So, can I go now? I have things to do. And please, do not send me a bill. I do not understand why this was necessary.
+DOCTOR: Alright, alright. Everything appears normal. I'll submit the paperwork to Medicare. Don't worry about a bill. Just… try to get some rest. And maybe watch your salt intake. Here’s a copy of the report for your records. You can go now. Next!
+PATIENT: Rest? Salt? I do not understand. Very well. Goodbye. And do not expect me to return.

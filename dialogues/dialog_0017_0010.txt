@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Tomassoni. I am Dr. Blim. Now, let's not waste any time. What brings you in today?
+PATIENT: Good morning, Doctor. It's… swelling, I believe. Though, truthfully, my memory isn’t what it used to be. It's somewhere on my body, but pinpointing exactly where has been a little difficult. I apologize for the vagueness.
+DOCTOR: “Somewhere on your body”?
+PATIENT: Yes, terribly sorry. It's… lower down. My legs, I think? Perhaps my ankles? It’s hard to say precisely. It came on gradually, I believe, over the past few weeks. I haven’t paid terribly close attention, to be honest. Is that… helpful?
+DOCTOR: “Not particularly, no. Gradual onset could mean… a great many things. Let's try to be more specific. Is the swelling present in both legs, or just one?
+PATIENT: Ah, good point. I believe… both, yes. Both legs are affected. Though, if I had to guess, my right ankle feels a bit more… prominent, perhaps? It’s a little warmer than the other one, I think. Does that make any sense? I’m truly sorry for being so unclear, Doctor.
+DOCTOR: “It's… adequate. Do you experience any pain associated with this swelling?
+PATIENT: Pain… not really, no. Not a sharp pain, at least. It's more of a… heaviness? A dull ache, if I'm standing for too long. It's not debilitating, by any means, but it’s… noticeable. I haven’t taken anything for it, as it hasn't been severe enough to warrant medication, I suppose.
+DOCTOR: "And what is your occupation, Mr. Tomassoni?
+PATIENT: Oh, certainly. I’m a Speech-Language Pathologist. I work with patients who have… communication difficulties, mostly. It's a very rewarding profession, though it does require a fair amount of standing, which I suppose could be relevant. I apologize if I should have mentioned that sooner.
+DOCTOR: "Right. Any recent travel?
+PATIENT: Recent travel… let me think. No, nothing significant, Doctor. Just a weekend trip to visit family a few months ago, but that was within the country. Nothing abroad. I haven’t been overseas in… a very long time, I believe. Does that answer your question?
+DOCTOR: “Adequate. Now, let’s have a look. Please, have a seat on the examination table. I’ll need to examine your lower extremities.”
+PATIENT: Certainly, Doctor. Please, do let me know if there's anything specific you’d like me to do. I'm happy to assist in any way I can.
+DOCTOR: “Alright. Let’s start with your right leg. Any tenderness here?
+PATIENT: No, that doesn’t… hurt, specifically. Perhaps a little sensitive, but not painful. It feels… firm, I suppose. Is that what you’re feeling? I’m not entirely sure what it should feel like.
+DOCTOR: "And the left?
+PATIENT: Similar to the right, Doctor. Firm, perhaps a bit sensitive to the touch, but no sharp pain. They feel… somewhat equal, I think, though it’s hard for me to be certain. Is there anything specific you are looking for?
+DOCTOR: “Pitting edema, bilaterally. Two plus pitting edema in both lower extremities. Capillary refill is within normal limits. Pulses are palpable, though somewhat diminished. No signs of cellulitis. Do you have any history of heart problems, Mr. Tomassoni?
+PATIENT: Heart problems? No, not that I’m aware of. I haven’t been diagnosed with anything, and I don't recall any specific concerns raised by doctors in the past. I’ve always considered myself to be reasonably healthy, though… my memory isn’t what it used to be, as I mentioned. Perhaps it would be helpful if you could speak with my primary care physician? I’m afraid I’m not very good at remembering details.
+DOCTOR: "We'll proceed under the assumption of no known cardiac issues. Given your occupation and the bilateral edema, the most likely explanation is venous insufficiency, possibly exacerbated by prolonged standing. However, to rule out other potential causes, I’m going to order a D-dimer and a CBC. We will also need to check your kidney function. I will send you to the lab now, and we can discuss next steps once we have the results."
+PATIENT: That sounds… thorough, Doctor. Thank you. A D-dimer, CBC, and kidney function… understood. I will go to the lab as instructed. Just to clarify, is there anything I should be doing in the meantime? Any specific precautions I should be taking? Or is simply waiting for the results the best course of action?
+DOCTOR: "Elevate your legs when possible, and avoid prolonged standing. Otherwise, simply refrain from any strenuous activity until we have the results of the tests. The lab technician will provide you with the necessary instructions. Now, if you'll excuse me, I have other patients waiting." "Room 3, after you finish here."
+PATIENT: Certainly, Doctor. Elevate legs, avoid prolonged standing… understood. Thank you for your time. I will head to the lab now. Have a good day, Doctor.
+DOCTOR: “Good day.”

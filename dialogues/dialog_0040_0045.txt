@@ -1,0 +1,27 @@
+DOCTOR: Right, well, let’s get this over with. Mr. Withycombe, is it?
+PATIENT: Yes, that’s right. Enrique Withycombe. And you are… Doctor Osga, yes? I remember the name from the paper.
+DOCTOR: Yes, yes, Doctor Osga. Look, I've got a full waiting room, so if you could just tell me why you're here today, that’d be great. Try to be concise, please. What's bothering you?
+PATIENT: Oh, okay. Sorry. I… well, I’ve been getting these flushes. You know, really red face, hot… happens sometimes when I’m just sitting, sometimes when I eat. It’s been going on a few weeks now, I think. Maybe a month? It's… embarrassing, really.
+DOCTOR: Flushes, right. A month. And it happens… when?
+PATIENT: Like I said, sometimes just when I'm sitting. Or after I eat. Doesn't seem to be what I eat, just… after. And sometimes, it just happens, no reason at all. It's not painful, just… warm, and red. My face gets really red.
+DOCTOR: So, random redness. No pain, no itching, just… heat. Any other symptoms?
+PATIENT: No, not really. No itching, no… bumps, nothing like that. Just the heat, and the red face. I… I have been a little tired lately, but that’s just… being old, I guess. It's nothing major. My wife… she used to say I always needed a nap.
+DOCTOR: Tired, okay. And how is your appetite?
+PATIENT: My appetite is… normal, I think. I eat when I’m hungry. Not much of a big eater, never have been. Mostly just rice and vegetables. A little fish sometimes. Nothing special. I cook for myself, you see.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: Oh, good question. Let me think… No, I don’t think so. I haven’t taken much medicine in years, to be honest. Maybe a little something for a cold now and then. Never had a bad reaction, as far as I remember. My wife handled most of that. She always knew what I could and couldn’t take.
+DOCTOR: And are you currently taking any medications, even over-the-counter?
+PATIENT: No, sir. Nothing at all. Not even vitamins. Like I said, I don’t really take anything. I try to eat healthy, that’s all. Just the rice and vegetables, mostly. And sometimes, a little fish. It’s what my wife would have wanted.
+DOCTOR: Right. Okay. Well, let’s have a quick look. Blood pressure first. Sit.
+PATIENT: Okay, yes. Blood pressure, right. I hope it's not too bad. I do get a little nervous at the doctor's.
+DOCTOR: 140 over 85. Not terrible, but not ideal. Pulse is 78, regular. Okay. Now, let me just listen to your heart and lungs. Please breathe deeply.
+PATIENT: Okay, yes. Deep breaths. Like this? Is that alright?
+DOCTOR: Lungs are clear. Heart sounds… normal. No murmurs. Hmm. You said this started about a month ago?
+PATIENT: Yes, about a month, I think. Maybe a little longer. It’s hard to keep track, you see. It started gradually, just a little redness, then it got… more noticeable. Especially after I eat. Do you… do you have any idea what it could be?
+DOCTOR: It's likely just rosacea. Common enough, especially in people your age. It flares up with certain triggers - heat, stress, even food. We can try some topical creams, see if they help. Don't expect miracles, though. It's usually manageable, not curable.
+PATIENT: Rosacea? I’ve never heard of that. Is it… serious? And what are these… creams? Will they help the redness? I just don’t want it to keep happening, you see. It’s… embarrassing.
+DOCTOR: Not serious, no. It's a skin condition. The cream is just to reduce the inflammation, the redness. It's called metronidazole. Apply it twice a day. If it doesn't improve in a month, come back, and we can discuss other options. Now, is there anything else you're here for?
+PATIENT: Metronidazole… twice a day. Okay. Will it… sting? My skin is quite sensitive. And… are there any side effects I should be aware of? No, I don’t think there’s anything else. Just the flushing, really. I just want to feel normal again.
+DOCTOR: It might cause a little irritation, but usually mild. If it gets too bad, stop using it and come back. I've documented potential side effects on the prescription slip. Frankly, it's probably just stress. Try to relax more. Next patient. Have a good day.
+PATIENT: .
+DOCTOR: .

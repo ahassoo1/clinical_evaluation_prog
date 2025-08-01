@@ -1,0 +1,28 @@
+DOCTOR: Right. Mr. Kingan, is it?
+PATIENT: Yeah, that's me. Lamark. Look, doc, I gotta be quick today if that's alright. Got a tryout later.
+DOCTOR: A tryout. Yes, well, we all have commitments. But a proper medical assessment requires… a degree of thoroughness. Still. What brings you in today, Mr. Kingan?
+PATIENT: It's for the tryout, like I said. They need a physical first. Just wanna make sure I'm cleared, you know? Nothing fancy, hopefully. I feel pretty good, honestly. Just… getting older, I guess. That's all.
+DOCTOR: “Pretty good” is… subjective. And “getting older” is inevitable. Let’s start with the basics then. Any specific complaints?
+PATIENT: Complaints? Nah, not really. A little stiff in the mornings, sometimes. And my knees… they make noises. But that's been happening for years. I don't feel hurt, if that makes sense. Just…old man stuff. Is that helpful?
+DOCTOR: “Old man stuff” isn’t a diagnosis, Mr. Kingan. Let’s try this: any pain, anywhere?
+PATIENT: No, not really pain. More like…a reminder that I used to do a lot more running. Like a creak, you know? Not enough to stop anything. Honestly, doc, is this gonna take long? The tryout's at three.
+DOCTOR: We’re trying to be efficient, Mr. Kingan. But I need to establish a baseline. Have you had any recent illnesses?
+PATIENT: Recent? Uh… not really. Maybe a cold last winter? Nothing serious. No hospital visits, no broken bones… I try to stay healthy. Mostly. Look, I eat okay, I sleep alright… is there a form I can just fill out? Would that speed things up?
+DOCTOR: A form will provide information, Mr. Kingan, but it won’t replace a proper assessment. Do you have any known allergies?
+PATIENT: Allergies? Not that I know of. I eat pretty much everything. Never had a reaction to anything. Bees, maybe? But who hasn't been stung by a bee? Is that what you mean? Honestly, I'm starting to get a little worried about missing this tryout...
+DOCTOR: Let’s move on then. Are you currently taking any medications, prescription or over-the-counter?
+PATIENT: Nope. Nothing. I try to avoid pills if I can. Just… a multivitamin sometimes. That's it. Look, I'm really not trying to be difficult, it's just… time is kinda tight.
+DOCTOR: Very well. We’ll do a brief physical then. Please lie down on the examination table. We'll start with your blood pressure and heart rate. And please, try to relax. It will expedite the process.
+PATIENT: Alright, fine. Examination table it is. Just try to be quick, okay? Thanks.
+DOCTOR: Blood pressure is… 148 over 92. Slightly elevated, but not alarming. Heart rate is regular, a bit fast, perhaps due to your… anxiety. Let’s listen to your lungs. Take a deep breath for me, Mr. Kingan.
+PATIENT: Okay, deep breath… Is that alright? I haven’t had any trouble breathing, doc. Used to run miles, remember? My lungs should be okay.
+DOCTOR: Lungs are clear. Now, let’s check your reflexes. Reflexes are… diminished, but within acceptable range for your age. Abdomen is soft. Any history of surgery?
+PATIENT: Nope. Never had surgery. All original parts, as far as I know. Honestly, I'm starting to feel like I'm back in school getting a checkup. Is this all you need? Can I go now? I really gotta run... literally.
+DOCTOR: We are not finished, Mr. Kingan. While you insist on brevity, a thorough assessment requires more than simply confirming you are still functioning. Let’s check your range of motion. Can you bend forward and touch your toes?
+PATIENT: Ugh... Nope. Can't quite reach 'em. Getting old, remember? Is that what you wanted to see? I told you, I'm not as flexible as I used to be. Can we please hurry this up?
+DOCTOR: Knees exhibit some crepitus, as you noted. Range of motion is limited, but stable. Mr. Kingan, I understand your time constraints, but I must document my findings. It appears you have age-related wear and tear, likely osteoarthritis. It’s not an emergency, but it's something to be aware of.
+PATIENT: Osteo... what now? Look, doc, I just need a piece of paper saying I'm good to go. This tryout's important. I don’t need a lecture on getting old. Can you just… sign something? Please? I'll be careful, I promise.
+DOCTOR: I will not simply “sign something” without documenting my assessment. I’m a physician, not a notary. I recommend physical therapy and over-the-counter pain relief as needed. I can provide a referral, but it will take time to schedule an appointment. I can, however, clear you for a tryout with the caveat that you listen to your body and stop if you experience any pain. Is that acceptable?
+PATIENT: Yeah, okay. That's… acceptable. Listen to my body. Got it. So you'll sign the form? That's all I need. Thanks, doc. Really. You're a lifesaver. Just… hurry.
+DOCTOR: Here. This is a basic clearance form. It is not a comprehensive medical evaluation. Please, Mr. Kingan, take care of yourself. And don't push yourself beyond your limits. And consider the physical therapy referral. You may go now. .
+PATIENT: .

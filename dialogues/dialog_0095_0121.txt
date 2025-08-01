@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Pipolo. I'm Dr. Vanochten. So, what brings you in to see me today?
+PATIENT: Morning. Just… my eyes feel dry. Real dry. Been that way a while now, I guess. Don't feel good.
+DOCTOR: Okay, dry eyes. And how long is "a while now," roughly?
+PATIENT: Hmm… maybe six months? Hard to say exactly. Time goes fast when you're older, you know? It just… started bothering me more and more. Feels like sand in 'em sometimes.
+DOCTOR: Right, six months. And is it both eyes, or just one?
+PATIENT: Both. Yeah, both eyes feel the same. Not worse on one side or nothin'. Just… both dry and scratchy. It's annoying, that's for sure.
+DOCTOR: Alright. And do you notice anything else along with the dryness?
+PATIENT: Blurry vision sometimes. Not all the time, but when I'm lookin' at things far away, it gets a little… fuzzy. And I blink a lot, I think. More than I used to. Does that make sense?
+DOCTOR: Okay, blurry vision and increased blinking. Have you noticed any redness, discharge, or pain in either eye?
+PATIENT: No pain. Not really. And no… stuff comin' out of 'em. Just dry. Maybe a little red sometimes, when it's really bad, but not usually. It’s mostly just the dryness and blurriness. I just want it to stop.
+DOCTOR: Okay. And are you currently using any eye drops, or any other medications for your eyes?
+PATIENT: Nope. Never used nothin'. Just… deal with it, mostly. Tried blinkin' more, that's about it. Didn't really help much. I don’t like puttin' things in my eyes. Feels weird.
+DOCTOR: Alright. Do you have any allergies that you know of?
+PATIENT: Allergies? Hmm… not that I know of. Never been told I was allergic to anything. I work with cement all day, though. Maybe somethin' from that? I don’t know.
+DOCTOR: Okay, working with cement. And what about your overall health?
+PATIENT: I'm… okay, I guess. Old. Knees bother me sometimes. And I get tired easy. But I can still work. Still do my job. I don’t go to the doctor much. Don't really see the point, usually. Everything just kinda… happens when you get old.
+DOCTOR: Alright. And do you have any family history of eye problems, like glaucoma or macular degeneration?
+PATIENT: Family… hmm. My mother, she wore glasses. Real thick ones. That's about all I remember. Didn’t really talk much about health stuff. She's gone now. And my father… I don’t know. Didn’t see him much. So, probably not. I don’t think so.
+DOCTOR: Okay. Let's do a quick exam of your eyes. I'll just take a look and check a few things. It shouldn't take long. If you could just sit there for me?
+PATIENT: Fine. Let's get it over with. I got things to do. Hurry it up, will ya?
+DOCTOR: Alright. Okay, Mr. Pipolo, I'm looking at your eyes now. Your conjunctiva – that's the clear tissue over your eye – is a little dry and there's some mild redness. Your corneas look clear, thankfully. I’m going to test your visual acuity now. Can you read this chart for me?
+PATIENT: What chart? Where is it? I ain’t got my glasses. Told you I can’t see so good. Is it far away? Just tell me what it says, I can't make nothin' out.
+DOCTOR: Okay, you’re right to point that out. My apologies. I should have asked about glasses first. We'll need to get your vision checked with your glasses on to get an accurate reading. For now, I'm going to assume your vision is significantly reduced. Given your symptoms and the exam findings, it sounds like you likely have dry eye disease. It’s very common, especially as we age. The cement work could be contributing to it as well. I want to start you on some artificial tears, over-the-counter. Four times a day. We can also discuss a lubricating ointment for nighttime use if the dryness bothers you while you sleep. Does that sound alright?
+PATIENT: Eye drops, huh? I still don’t like puttin' things in my eyes… But… if it’ll help, I guess. Four times a day… alright. Nighttime stuff too? Is it gonna sting? I don’t want nothin’ stingin’. Just get rid of the dryness, that’s all I want. How long do I gotta do this for? It ain't gonna last forever, is it?
+DOCTOR: No, it shouldn't sting. These are preservative-free drops, which are gentler. And you don't have to use the ointment if you don't want to. We’ll try the drops first and see if that helps. As for how long… dry eye is often a chronic condition, meaning it can come and go. The drops are to manage the symptoms, and you may need to continue using them long-term. We’ll re-evaluate in a month to see how you’re doing. If things aren't improving, we can consider a referral to an ophthalmologist for further testing. Does that sound reasonable?
+PATIENT: Alright. A month. I’ll try the drops. Where do I get 'em? And… how much do they cost? I’m on a fixed income, you know. Don't want to spend a fortune just to see. And… is there anything else I gotta do? Anything I gotta stop doin'?
+DOCTOR: Okay. You can get the artificial tears at any pharmacy – Walgreens, CVS, even Walmart. They’re usually pretty inexpensive, around $10-$15 a bottle. Generic brands are just as good as name brands. As for anything else, try to avoid dry environments – fans blowing directly in your face, smoky places. And stay hydrated – drink plenty of water. As for stopping anything, no, not at this time. Just try to be mindful of your symptoms and let me know if they worsen. I’ll write you a prescription request for the drops, just to make it easier. Do you have any other questions for me today?
+PATIENT: No. I think that's it. Just… get rid of the dryness. That's all I want. Thanks, Doc. Now if you'll excuse me, I gotta get goin'.
+DOCTOR: Okay, Mr. Pipolo. I'll have the nurse print out the prescription request and some information on dry eye management. If the drops don’t help or your symptoms get worse, please call the office to schedule a follow-up. Have a good day. .

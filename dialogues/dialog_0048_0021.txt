@@ -1,0 +1,25 @@
+DOCTOR: Alright, Mr. Parascandola, good to see you... or, well, to meet you. Let’s get right down to it. What brings you in today?
+PATIENT: Oh, hello Doctor Sink. It’s my foot, see? My left one. It’s been swelling up for, oh, maybe a week now? Not sure exactly. It just kinda… got bigger and bigger. It hurts a bit to walk on, but not terrible, you know? Like a dull ache.
+DOCTOR: A week, you say?
+PATIENT: Yeah, a week, give or take. I don't really keep track of days like that. It started after I was, uh… well, I was helping my neighbor move some boxes. Heavy ones! Didn’t think much of it at first, just thought it was tired. But it didn’t go away.
+DOCTOR: Boxes. Right. And this dull ache… is it constant, or does it come and go?
+PATIENT: It’s mostly constant, I’d say. But it gets worse when I’m on it, walking around. If I sit with it up, it feels a little better. Not much, though. It’s always something there. You know how it is, getting older. Things just ache.
+DOCTOR: Yes, well… age is a factor. Do you have any other symptoms?
+PATIENT: Hmm… let me think. No fever, no chills. Skin feels… normal, I guess. Not hot or anything. Maybe a little red, but that could just be from my socks, you know? They’re kinda tight. Oh! And my ankle feels a little stiff sometimes, especially in the morning. Does that count?
+DOCTOR: Stiffness… okay. And have you noticed any numbness or tingling in your foot or toes?
+PATIENT: No, no numbness or tingling. Everything feels… well, feels normal, besides the swelling and the ache. I can wiggle my toes just fine. See? Everything moves. It’s just… big. And unhappy.
+DOCTOR: Alright. Let's have a look at it then. Please, have a seat on the examination table and take your shoe and sock off.
+PATIENT: Okay, sure. Always a bit of a struggle these days, getting these things off. There it is. Not pretty, is it?
+DOCTOR: Hmm. Yes, significant edema. And some discoloration, as you pointed out. Palpating… tenderness is present here, on the lateral malleolus. Does that hurt?
+PATIENT: Ooh, yeah, that does. Not a sharp pain, but definitely… uncomfortable. Like a bruise, almost. It’s been getting worse when I walk. I try not to put too much weight on it, but… well, gotta get around somehow, right?
+DOCTOR: Alright. Do you have any history of previous injuries to this foot or ankle?
+PATIENT: No, not that I remember. I’ve twisted it a few times, maybe, just walking on uneven ground, but nothing serious. Never broken anything, never had surgery. I’m pretty lucky that way, actually. Except for my wisdom teeth. But that was a long time ago. Doesn't feel related to this foot, though.
+DOCTOR: Alright. And do you have any medical conditions – diabetes, heart problems, anything like that?
+PATIENT: No, nothing like that. Doctor said I was a bit high blood pressure once, but he just told me to watch my salt intake. I try to, but… it's hard! Everything has salt. And no heart problems, no diabetes, no nothing. Just an old man with a swollen foot, I guess.
+DOCTOR: Alright. Well, it appears to be a sprain, possibly with some minor inflammation. We’ll need to rule out anything more serious. I’m going to order an X-ray to get a better look at the bone structure. And I'll need to know your complete medication list. Do you take anything regularly, even over-the-counter medications or supplements?
+PATIENT: Oh, an X-ray? Okay, sure. Never had one for my foot before. Medication… let me think. I take a little something for my blood pressure, losartan, I think it's called. Small dose. And sometimes I take ibuprofen for my knees, if they’re really bothering me. Not every day, though. Maybe once or twice a week? And sometimes… a multivitamin. Old lady at the store said I should. That's about it, I think. Definitely not a lot.
+DOCTOR: Alright. I'm sending the order for the X-ray now. The technician will call you when it's your turn. In the meantime, RICE – rest, ice, compression, elevation. Keep weight off of it as much as possible, apply ice for 20 minutes at a time several times a day, use a compression bandage, and elevate it above your heart. Come back in a week for a follow-up. If the pain worsens significantly before then, or you experience numbness or tingling, go to the emergency room immediately. Do you understand?
+PATIENT: RICE… right. Rest, Ice, Compression, Elevation. Got it. Sounds… sensible. And come back in a week. Okay. And if it gets worse… emergency room. Yes. I understand, Doctor. Sounds good. Thank you. Do you think it will heal up okay? I really need to be able to walk.
+DOCTOR: Most sprains heal with conservative treatment. But we’ll know more after the X-ray. Don’t push it, and follow the RICE protocol. Next patient.
+PATIENT: Oh. Right. Okay. Thank you, Doctor Sink. Have a good day.
+DOCTOR: .

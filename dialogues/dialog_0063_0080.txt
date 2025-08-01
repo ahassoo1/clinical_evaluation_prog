@@ -1,0 +1,20 @@
+DOCTOR: Good morning, Ms. Fabing. I am Dr. Jules. Now, please, tell me what brings you in today. And try to be concise; my schedule is quite full.
+PATIENT: Morning, Dr. Jules. It’s nice to meet you. Well, it's not really bringing me in, more like… filling out some forms. Medicare sent a letter saying I need a doctor’s signature for something, and I figured I’d just get it done while I was close. I don't really have anything wrong, if that makes sense.
+DOCTOR: A signature, you say?
+PATIENT: Yep. Something about… confirming I’m still, you know, me? It had a lot of official-sounding words, honestly. I didn't quite follow it all. It mentioned needing it for my benefits to keep going. I brought the forms with me, here.
+DOCTOR: Right. Well, this is… quite a bit of paperwork for a simple confirmation. Do you have any chronic conditions I should be aware of?
+PATIENT: Not really, no. I mean, I’m getting older, so my knees ache sometimes, but that’s just… getting older, I guess. And I wear glasses, as you can see. Nothing a doctor needs to treat, if that makes sense. I’ve always been pretty healthy, knock on wood.
+DOCTOR: And family history?
+PATIENT: Hmm. Let's see... My grandma, on my mother’s side, had some trouble with her heart when she was older, but she lived to be 92, so I guess it didn't get her too bad. My dad was healthy as a horse, worked on the reservation his whole life. No real big health problems on either side, that I know of. We didn't really talk about that stuff much growing up.
+DOCTOR: Do you smoke?
+PATIENT: Oh, no, never. My grandpa tried it once, and my grandma nearly beat him silly with a rolling pin. It wasn't worth it! I’ve always thought it was a silly habit. I do drink a little tea sometimes, though. Herbal tea, mostly. Nothing strong.
+DOCTOR: And any allergies to medications?
+PATIENT: Not that I know of. I haven’t had to take much medicine over the years, thankfully. I had a reaction to penicillin as a kid, a rash, but that was a long time ago. Other than that, nothing comes to mind. I usually just try to rest when I’m sick, and it goes away.
+DOCTOR: Very well. Let’s just do a quick physical examination, to be thorough. Blood pressure, pulse, listen to your heart and lungs… standard procedure. Do you mind?
+PATIENT: Oh, not at all. Sounds good to me. I understand needing to check things. Go ahead. I'm ready when you are.
+DOCTOR: Alright. Please sit back and relax. Everything appears… within normal limits. Though, I must say, these examinations are much more efficient when there's an actual ailment to investigate.
+PATIENT: That’s good to hear, right? "Within normal limits" sounds pretty good. I told you I was mostly just here for the forms. I appreciate you checking anyway. So, can you just sign them for me now? I’d like to get this done and get home, if that's alright.
+DOCTOR: Here you are. Do try to maintain a more proactive approach to your health in the future, Ms. Fabing. Preventative care is crucial, even when you feel perfectly fine. Now, is there anything else I can assist you with today?
+PATIENT: Oh, thank you so much, Dr. Jules! I really appreciate it. No, I think that’s everything. Just needed that signature. And you're right, I probably should be better about check-ups. I'll try. Have a good day!
+DOCTOR: Very well. You have a good day as well, Ms. Fabing. .
+PATIENT: Okay, you too. .

@@ -1,0 +1,23 @@
+DOCTOR: Hi Criston, good to meet you. I'm Dr. Yoshino. So, what brings you in to see me today?
+PATIENT: Hello Doctor. Good to meet you too. Um… my pee. It's… orange. It started a couple days ago. I don't know why. It worries me a little.
+DOCTOR: Okay, orange urine. That’s definitely something to check out. It can be harmless – things like certain foods or dehydration can cause it – but it’s good you brought it to my attention. To get a better idea of what might be going on, can you tell me a little more about it?
+PATIENT: Okay. I drink… normal water. Maybe two liters a day? I try to. And I eat… normal food. Not much different than usual. I had some carrots yesterday, is that… could that do it? I don't really eat anything… strange.
+DOCTOR: Carrots can cause a temporary orange tint, yes, because of the beta-carotene. But two days is a bit long for just carrots. Let's try to narrow things down. Besides the color, are you experiencing any other symptoms at all?
+PATIENT: No… not really. No pain. No… feeling sick. Just the color. It’s… brighter than apple juice, if that makes sense? And I’m… thirsty, maybe a little more than usual. But I drink water.
+DOCTOR: Okay, brighter than apple juice and a little more thirsty than usual… good to know. No pain or other symptoms is reassuring. Let's go through a quick review of your medical history, just to get a complete picture. Have you ever been diagnosed with any medical conditions, like diabetes, liver problems, or kidney issues?
+PATIENT: No. Nothing like that. I'm… pretty healthy, I think. I work outside sometimes, fixing things. My wife, she worries about me getting too much sun, but… I’m okay. Never been to the hospital for anything serious.
+DOCTOR: That’s good to hear! Working outside can definitely have its risks, though, so it’s good your wife looks out for you. Have you ever had any surgeries or been hospitalized for anything, even if it wasn't serious?
+PATIENT: No, never. Just… regular check-ups with the doctor back home, when I had to. Nothing… special. I broke my arm when I was a little boy, but that was… a long time ago. And they fixed it. It's okay now.
+DOCTOR: Okay, no surgeries or major medical issues. That’s helpful. Do you have any family history of kidney problems, liver disease, or diabetes?
+PATIENT: Um… my father, he… he had problems with his sugar. But I don’t… I don’t know exactly what. He went to the doctor a lot. And my mother, she… she always said I should drink more water. But that’s all I remember. It was a long time ago.
+DOCTOR: Okay, a family history of diabetes is good to know. We'll definitely keep that in mind. Now, just a few quick questions about your lifestyle. Do you smoke or use any tobacco products?
+PATIENT: No. Never. I don’t like smoking. My wife doesn't like it either.
+DOCTOR: Good. And how about alcohol?
+PATIENT: Sometimes. Maybe a beer on the weekend. Not much. One or two, maybe. Never anything… strong.
+DOCTOR: Okay, occasional beer. And finally, are you currently taking any medications, vitamins, or supplements?
+PATIENT: No. Nothing. Just… water. And sometimes coffee, in the morning. But that's it.
+DOCTOR: Okay, that’s helpful. Now, I’d like to do a quick physical exam. Just a basic check – I’ll listen to your heart and lungs, check your abdomen, and take a look at your skin. Then, I’d like to do a urine sample to get a better look at what’s going on. Does that sound okay?
+PATIENT: Yes, that sounds… good. Whatever you think is best. A urine sample? Okay. Where do I do that?
+DOCTOR: Great. Okay, I’m going to have you step into the restroom. There’s a collection cup in there. I’ll give you some instructions. Just try to collect a midstream sample – meaning, start urinating, then collect a sample about halfway through. And try to collect at least a few ounces – about this much. I’ll leave you some privacy, and I'll be right outside when you're done. Do you have any questions about that?
+PATIENT: No, I think I understand. Start, then… collect in the middle. Okay. I will try. Thank you, Doctor.
+DOCTOR: Okay, take your time. Let me know if you have any trouble.

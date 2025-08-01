@@ -1,0 +1,46 @@
+DOCTOR: Good morning, Lindra. Welcome. I'm Dr. IUzzolino. It’s nice to meet you. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Nice to meet you too. My husband and I… we are looking at a nice place for me to live. A place with… help. For old people. He wants me to get a paper from you, to say I am okay to go there.
+DOCTOR: Yes, I understand. A medical clearance, essentially, to ensure you’re suitable for assisted living?
+PATIENT: Yes, that is right. A… a paper that says I can go. He is very worried. He says they need it before I can move in. Do you… understand what I mean?
+DOCTOR: Yes, absolutely. A form confirming your general health status and ability to benefit from the care they provide. Perfectly reasonable. Let's gather some information, shall we?
+PATIENT: Okay. What kind of… information do you need? I bring my glasses up onto the bridge of my nose.
+DOCTOR: Well, let's start with a quick review of your medical history. I see here you’ve been a patient at this clinic for some time… excellent. Now, just to refresh my memory – and yours – can you tell me about any significant health problems you’ve had in the past?
+PATIENT: Hmm… let me think. I had a little problem with my… the water, when I was younger. The doctor gave me some pills. And… oh! My knee. It hurts sometimes, especially when it rains. But it’s okay now. Mostly.
+DOCTOR: Okay, a urinary issue in the past, treated with medication, and some knee pain that’s worse with the weather. Good. And are you currently taking any medications for anything at all?
+PATIENT: Just the pills for my… blood. The red doctor, he gave them to me. I take one every morning. And sometimes, if my knee is really bad, I take something for the pain. A little white pill.
+DOCTOR: Alright. So, medication for blood… presumably to manage blood pressure or cholesterol?
+PATIENT: I don't know, Doctor. The red doctor, he just gave it to me. He said my blood was not good. My husband, he brings me the pills. I just take them.
+DOCTOR: Okay. Well, we’ll try to get a precise list of your medications sorted out in a moment. Do you have any allergies to any medications or anything else, like foods or latex?
+PATIENT: No, Doctor. I don't think so. I eat everything. My husband, he makes good soup. And I have never had a problem with… anything. I don’t think so.
+DOCTOR: Alright, Lindra. That's helpful. Now, I’d like to do a quick physical exam, just to get a general sense of how you’re doing. Is that alright with you?
+PATIENT: Yes, that is okay. Whatever you need, Doctor. I trust you.
+DOCTOR: Excellent. If you could just hop up on the table for me. We’ll start with your blood pressure and pulse, and then listen to your heart and lungs.
+PATIENT: Okay. This is… cold.
+DOCTOR: Apologies about that, Lindra. It’s a bit chilly, isn't it?
+PATIENT: Yes, it is. Thank you, Doctor.
+DOCTOR: Alright, your blood pressure is 140 over 85, and your pulse is 72. A little elevated, but not terribly concerning. Now, I'm just going to listen to your heart and lungs. Heart sounds are regular, but a bit faint… and breathing is a little wheezy on both sides.
+PATIENT: Wheezy? What does that mean, Doctor? Is that bad? My mother used to cough a lot.
+DOCTOR: "Wheezy" means there’s a slight whistling sound when you breathe, Lindra. It can be caused by a number of things, often just a little narrowing of the airways. It doesn’t necessarily mean anything serious, but it’s something we should investigate further. Do you have any shortness of breath, or cough up any phlegm when you cough?
+PATIENT: Sometimes I cough, especially in the morning. But no… no phlegm. Just a little cough. It doesn’t bother me much. My husband says I snore, but that is a different thing, yes?
+DOCTOR: Yes, snoring is different. Let’s focus on the cough for now. Now, can you tell me if you have any problems with your joints, like your knees, hips, or hands?
+PATIENT: My knees, like I said. They hurt when it rains. And… my fingers. They are a little stiff in the morning. I have trouble opening jars sometimes. My husband helps me with that.
+DOCTOR: Alright. It sounds like you may have some arthritis in your hands and knees. It's very common. Now, I'm just going to check your reflexes. They are a little diminished, but within normal limits.
+PATIENT: Diminished? Is that bad, Doctor? My memory is not so good, you know. I forget things.
+DOCTOR: "Diminished" simply means they're a little slower than usual, Lindra. It's not necessarily a cause for concern, especially at your age. It can just be a normal part of aging. It’s something we’ll keep in mind. Now, do you have any concerns about your balance, or have you fallen recently?
+PATIENT: No, Doctor. I have not fallen. But sometimes… sometimes I feel a little dizzy when I stand up too fast. My husband says I need to be careful.
+DOCTOR: Alright. That's good to know. So, to summarise, you’ve had some past urinary issues, currently take medication for blood… management, have some arthritis in your hands and knees, occasional dizziness when standing up, and some wheezing. And you report some memory issues. Do you have any other health problems that we haven’t discussed?
+PATIENT: Hmm… Oh! My feet. They get cold at night. Very cold. I wear thick socks. And sometimes… sometimes I feel a little sad. My husband… he is getting older too.
+DOCTOR: Thank you for sharing that with me, Lindra. Cold feet can be a common problem, and it's perfectly normal to feel sad from time to time, especially with changes in life. Now, before I proceed, I think it would be helpful to review your medication list to confirm exactly what you are taking. Do you have a list with you, or would you like me to call your pharmacy?
+PATIENT: I don’t have a list, Doctor. My husband… he always brings the pills. Maybe you call the pharmacy? He goes to… the one on Elm Street. The little one.
+DOCTOR: Alright, I see a pharmacy called "Elm Street Drugs" a few blocks from here. Let me give them a call. "Hello, this is Dr. Iuzzolino at the clinic. I have a patient, Lindra Abdollahi, and I was hoping to confirm her medication list…"
+PATIENT: 
+DOCTOR: Okay, Lindra. That was helpful. It appears you are taking Lisinopril 20mg daily for high blood pressure, and Ibuprofen 200mg as needed for pain. The pharmacist also noted you recently filled a prescription for Tylenol. Is that correct?
+PATIENT: Yes, that sounds right. The red pills, the white pills, and… yes, the little blue pills sometimes. My husband, he keeps them all organized.
+DOCTOR: Alright, Lindra. Based on what you've told me, and the quick exam I've performed, I can write a note confirming your general health status. However, I do have a few concerns that I’d like to address before I give you the go-ahead for assisted living. Your blood pressure is a little elevated, and the wheezing suggests some underlying respiratory issue. I recommend a follow-up appointment with your primary care physician to further investigate these issues. I can also refer you to a cardiologist, just to be on the safe side. Would that be alright?
+PATIENT: Cardiologist? Oh dear. That sounds… serious. Is it bad, Doctor? I just want to be able to live in the nice place. My husband worries so much.
+DOCTOR: It’s not necessarily serious, Lindra. A cardiologist specializes in heart health, and it’s always best to get a thorough evaluation, especially with elevated blood pressure and some faint heart sounds. It doesn’t mean there’s anything wrong, but it’s better to be safe than sorry. We want to ensure you’re healthy and strong before transitioning to assisted living, and that you have the best possible care. Would you be open to a referral?
+PATIENT: Okay… okay, yes. If you think it is best, Doctor. But please… please don't tell my husband if it is nothing. He gets very upset. He worries too much.
+DOCTOR: Certainly, Lindra. I completely understand. I can arrange the referral without directly involving your husband, and we can discuss the results with you first. I will also provide you with a note for assisted living, outlining your general health status and recommending follow-up care. Now, let me get that referral arranged for you. I will also print a copy of your medical summary and the note for assisted living. Do you have any questions for me before I finish?
+PATIENT: No, Doctor. I think that is everything. Thank you. You have been very kind. And… thank you for not telling my husband yet. He gets very anxious.
+DOCTOR: You're very welcome, Lindra. It was my pleasure. I’m happy to help in any way I can. Remember, if you experience any new or worsening symptoms, please don't hesitate to contact the clinic. Here is your medical summary and the note for assisted living, along with the referral information for the cardiologist. Take care now, and please, don't hesitate to reach out if you have any concerns.
+PATIENT: Thank you, Doctor. You too. Goodbye.

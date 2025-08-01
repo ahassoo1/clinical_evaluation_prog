@@ -1,0 +1,27 @@
+DOCTOR: Alright, Mr. Shanor, have a seat. So, what brings you in today?
+PATIENT: Uh, yes. I am here for… the check-up. For referee. For sports. You know? They said I need this to keep doing it. Just want to be quick, if okay.
+DOCTOR: A referee physical, right. Yes, I see the note. Well, “quick” isn’t exactly how I operate, but we can be efficient. It's important to make sure you're in good health to be running around. So, tell me a bit more. What sport are you refereeing, and how often do you typically do it?
+PATIENT: Basketball. Mostly. And… two, three times a week. Sometimes more if there's tournaments. It’s a lot of running. Not as much as… when I was younger, but still.
+DOCTOR: Alright, basketball a few times a week. That is a good bit of activity. Okay. Now, have you been experiencing any pain or discomfort lately?
+PATIENT: No. No pain. Maybe… tired sometimes. But that’s… life, right? Being busy. And… things.
+DOCTOR: Yes, “life” does tend to be tiring. But we need to rule out anything medical contributing to that fatigue. Any other symptoms at all?
+PATIENT: Hmm… No. Nothing I can think of. Everything… okay. Just want to make sure I can still do the games.
+DOCTOR: Right. Well, even “nothing” is good information. Let’s just run through a quick review of your medical history to be thorough. Do you have any past medical conditions I should be aware of?
+PATIENT: No. Nothing… big. Just… small things. When I was kid, I break arm. And… flu sometimes. Nothing serious. Wife… she had things, but… that was her.
+DOCTOR: Alright. And have you had any surgeries?
+PATIENT: No surgery. Never need. Just… the arm, when little boy. They fix it. That’s all.
+DOCTOR: Okay. And how about family history?
+PATIENT: Family… my father… he had heart problems. When he old. My mother… she okay, mostly. But she… always tired. I don’t know… just old, I think.
+DOCTOR: Heart problems in your father. And your mother always tired… Alright. And do you have any allergies to medications?
+PATIENT: No allergies. I eat everything. Take some pills when I sick, but no problem.
+DOCTOR: And are you currently taking any medications, even over-the-counter ones?
+PATIENT: No. Nothing. I don't like pills if I don’t need.
+DOCTOR: Okay. Well, that's helpful. Let's do a quick physical exam, just to get a baseline. I'll listen to your heart and lungs, check your blood pressure, and do a basic neurological assessment. Is that alright?
+PATIENT: Yes. Okay. If you need to be quick… that’s okay. Just… let's do it.
+DOCTOR: Alright. First, I’m going to listen to your heart and lungs. Take a deep breath in… and out. Heart sounds are regular, rate is around 72. Lungs are clear bilaterally. Blood pressure is 130/80. Not bad, but we’ll keep an eye on it. Now, let’s check your reflexes. Please extend your arms. Reflexes are 2+ bilaterally. Good. Now, can you squeeze my hands as tightly as you can?
+PATIENT: Okay. It’s… strong enough. I used to be stronger.
+DOCTOR: Alright, grip strength is within normal limits. Now, just a quick look in your ears and throat. Open wide and say "ah." Throat looks clear. Ears look normal as well. Everything seems alright so far. Given your age and activity level, and the family history of heart problems, I think it would be prudent to order a basic blood panel, including a complete blood count, a lipid panel, and a glucose level. Just to be on the safe side. Does that sound acceptable?
+PATIENT: Blood test? Okay… if you think so. It’s okay. Just… when will I get results? I need to know if I can keep refereeing the games.
+DOCTOR: The results typically take 3-5 business days, depending on the lab. I'll have the nurse contact you as soon as they're available. In the meantime, you can continue refereeing, but please be mindful of any new or worsening symptoms like chest pain, shortness of breath, or dizziness. If you experience any of those, stop immediately and seek medical attention. I'm also going to recommend you maintain a healthy diet and get regular exercise. It's good practice anyway. Do you have any questions for me?
+PATIENT: No. No questions. Just… get the results quick, okay? Thank you, doctor. I need to go now.
+DOCTOR: The nurse will be in touch. Have a good day, Mr. Shanor. .

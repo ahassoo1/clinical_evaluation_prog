@@ -1,0 +1,21 @@
+DOCTOR: Good morning, Mr. Paguioto. I’m Dr. Korrell. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It's PaguiO, actually. And I'm here for a vaccination, if that's right? I think it's time for a booster or something. I got a notice in the mail, but I can't quite remember which one it was for.
+DOCTOR: PaguiO, yes, alright. A booster… well, those notices can be terribly confusing, can’t they?
+PATIENT: They really can! I try to keep track of things, but it all gets a bit mixed up. Is it the flu shot, or maybe something else? I'm not sure what I've had recently.
+DOCTOR: Let’s see… accessing your records now. Hmm. It says here you received a flu vaccine last October, and a tetanus booster two years ago. And… a COVID booster in March of this year. You're quite current, actually. Are you experiencing any symptoms that made you think you needed a booster?
+PATIENT: Oh, that's good to know! I am? That explains why I was so unsure. No, no symptoms at all. I just… I get a bit anxious about these things, you know? I like to be sure I’m protected, and the notice made me worry I’d forgotten something. It's probably silly.
+DOCTOR: Anxious, are we?
+PATIENT: Well, a little bit, yes. It’s not a huge worry, but I prefer to be on the safe side. My mother always said it was best to be prepared. Is it possible I am due for something else? Or could the notice just be a general reminder?
+DOCTOR: General reminders are… exceedingly common. And frankly, often unhelpful. Let’s see… given your age, and assuming you’ve had the standard childhood vaccinations… you should be current on everything. Perhaps it was a marketing communication?
+PATIENT: Marketing, you think? That makes a lot of sense, actually. I get so many flyers in the mail. I wouldn’t put it past them. Still, it’s good to have it checked out, isn’t it? Just to be certain. I appreciate you looking into it for me, Doctor.
+DOCTOR: Well, it’s my job. Deep breath… and again. Normal sinus rhythm. Lungs are clear. Everything sounds perfectly adequate. Are you experiencing any shortness of breath, chest pain, or persistent cough?
+PATIENT: No, nothing like that at all. Everything feels perfectly normal, to be honest. No chest pain, no cough, breathing is fine. I walk a bit every day, and I haven’t had any trouble keeping up. I do get a little tired sometimes, but I think that's just getting older.
+DOCTOR: Getting older is… inevitable, isn’t it?
+PATIENT: It certainly is. Oh, that's a bit tender there, Doctor. Just a little. I sometimes get indigestion. Nothing serious, I think. Just a bit of discomfort after I eat.
+DOCTOR: Indigestion. And what do you typically eat, Mr. PaguiO?
+PATIENT: Well, I try to eat fairly healthy. Lots of fish, vegetables, some chicken. I enjoy a good Portuguese stew every now and then, though. It’s a bit rich, perhaps. And I do have a sweet tooth, I confess. I like a little pastry with my coffee. My mother's recipes are very good.
+DOCTOR: A fondness for rich foods and sweets... hardly a surprise. Look, Mr. PaguiO, everything seems… within normal limits. You're current on your vaccinations, your heart and lungs are fine. The tenderness is likely just indigestion, as you said. I suggest avoiding rich foods and overeating. Perhaps a consultation with a dietician if it persists?
+PATIENT: That sounds sensible, Doctor. No, I think I can manage on my own for now. Just a bit more careful with the pastries, perhaps. Thank you for checking me over so thoroughly. It’s a relief to know everything is alright. I think that notice was just a marketing ploy after all. Do I need to fill out any paperwork?
+DOCTOR: No paperwork is necessary. You are perfectly fine. Do try to avoid unnecessary anxiety, Mr. PaguiO. It’s detrimental to your health. And really, try to cut back on the sweets.
+PATIENT: Oh, I will, Doctor, I promise! You’re right, anxiety isn’t helpful. I appreciate you setting my mind at ease. Thank you again for your time and your advice. Have a good day. .
+DOCTOR: .

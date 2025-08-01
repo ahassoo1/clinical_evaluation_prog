@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Ms. Luft. I’m Dr. Paulino. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Well, it’s… about the cancer. It’s been a little while since I last saw someone about it, and I wanted to get another check-up. I’m Chellsea, by the way, but the chart has my name, I think.
+DOCTOR: Yes, I see your name. Chellsea. "A little while" is rather vague, Ms. Luft. It’s important to be precise with these things. When was your last oncology appointment, specifically?
+PATIENT: Oh, goodness. You’re right, I am sorry. It was… let me think. It was back in November, I believe. November of last year. With Doctor Ramirez. He… he retired after that, I think. That’s why I haven’t been back until now.
+DOCTOR: November. Right. And what type of cancer were you diagnosed with, Ms. Luft?
+PATIENT: It was… breast cancer. Stage two, I think Doctor Ramirez said. It was in my left breast. They did surgery, and I had… some treatments after that. I don’t remember exactly what they were called. It was a lot at the time.
+DOCTOR: Stage two… and you’ve had surgery and treatments. Did you complete the full course of those treatments, Ms. Luft?
+PATIENT: Yes, I did. As far as I know, I finished everything Doctor Ramirez wanted me to do. It was… hard. But I went to every appointment. He said it was a good outcome, but that I needed to keep checking things. And now… well, now I’m here.
+DOCTOR: Good. Compliance is… essential. And what specifically prompted you to schedule this appointment today?
+PATIENT: Well, a couple of weeks ago, I felt a lump. In the same breast. It’s… smaller than the last one was, but it’s still there. And it’s a little… tender. It worried me, so I thought I should get it checked out.
+DOCTOR: A lump. In the left breast, you said?
+PATIENT: Yes, in the left breast. It’s… higher up, I think, than the first one was. It’s hard to tell, really. I’ve been trying to check it myself, but it’s… difficult. Is that… bad? Is it coming back?
+DOCTOR: It may be nothing, Ms. Luft. Anxiety does tend to… exaggerate things. However, we will, of course, investigate. Let’s begin with a physical exam. Please lie back on the examination table. We need to assess the area thoroughly.
+PATIENT: Okay. I… I'm ready when you are, Doctor. It’s just… a little scary, if you don’t mind me saying.
+DOCTOR: It’s understandable to be apprehensive, Ms. Luft. Now, I’m going to palpate your left breast and the surrounding areas. Please let me know if anything feels particularly uncomfortable. Can you tell me if you’ve noticed any changes to the skin in that area?
+PATIENT: No, not really. The skin feels… normal, I think. Maybe a little… warm? But I don’t know if that means anything. It’s hard to tell. It doesn’t hurt much, just… a little sensitive when you press there.
+DOCTOR: Hmm. I do feel a small nodule here. Approximately one centimeter in diameter. It’s firm, and slightly mobile. No palpable lymphadenopathy at this time. This warrants further investigation. We’ll need to schedule a mammogram and ultrasound. And likely a biopsy to determine the nature of this… finding.
+PATIENT: A biopsy? Oh. That sounds… serious. Is it… is it cancer again? I… I don't know if I can go through all that again.
+DOCTOR: Ms. Luft, it is premature to jump to conclusions. A biopsy is a diagnostic procedure, not a death sentence. It will allow us to determine if this nodule is benign or malignant. We need to be proactive, not… hysterical. I’ll have my assistant schedule those tests for you immediately. And we’ll discuss the results once they are available. Do you have any allergies to contrast dye?
+PATIENT: No, I don’t think so. I’ve had tests before, and I don’t remember any problems with… with the dye or anything. Will the tests… will they be painful? And how long will it take to get the results? I… I have a friend I’d like to tell, but I don’t want to worry her unnecessarily until we know something for sure.
+DOCTOR: The mammogram may cause some mild discomfort, but it is generally well-tolerated. The ultrasound is painless. As for the biopsy… there will be some brief discomfort during the procedure, but it is manageable. The results will likely take three to five business days. It’s best to refrain from discussing potential diagnoses with your friend until we have definitive information. Speculation is rarely helpful. Do you have any questions for me now?
+PATIENT: No… not right now, I think. Just… three to five days. Thank you, Doctor. I… I'll wait for the results. .
+DOCTOR: Very well. My assistant will be with you shortly to schedule the tests and provide you with further instructions. .

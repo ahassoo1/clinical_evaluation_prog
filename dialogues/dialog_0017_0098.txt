@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Heindel. I am Dr. Blim. Now, let’s not waste any time. What brings you in today?
+PATIENT: Morning, Doc. Just… curiosity, really. Thought I’d come check things out. Been feelin’ alright, no problems or nothin’. Just wanted to see what this was all about, you know?
+DOCTOR: Curiosity?
+PATIENT: Yeah. Like, I work on boats all the time, seein’ different folks and hearin’ their stories. Always good to know what's goin' on with your health, even if nothin’ is wrong. Never had a real check-up before, if you get me. Thought now was a good time. Does that make sense?
+DOCTOR: Well, it's…unconventional, certainly. But alright. A preventative visit is…acceptable, I suppose. Let's get some baseline information then. Do you have any current complaints – anything at all, however minor?
+PATIENT: Hmm…minor… not really. My back gets a little stiff sometimes after a long shift on the engine, but that's just from bendin' and stuff. Happens with the job, you know? Nothin’ I can’t work through. No pain or nothin', just…tight. Is that somethin’ I should worry ‘bout?
+DOCTOR: "Tightness" is remarkably vague, Mr. Heindel. When did this begin?
+PATIENT: Uh… I dunno exactly. Probably… a few years now? It comes and goes. Worse when I’m really busy on a job, but it always gets better when I rest. Like I said, it’s just part of the work, I always figured. Never felt like it was somethin’ serious enough to mention, to be honest.
+DOCTOR: "Always figured" is not a medical diagnosis, Mr. Heindel. And dismissing physical discomfort is… unwise. Now, let’s move on. Any other medical issues?
+PATIENT: No, sir. Not that I know of. Never been sick real bad, never broke any bones. Just the usual colds every now and then. Used to get seasick pretty easy when I first started workin’ on boats, but I got my sea legs now. I had…divorce papers a few years back, if that counts? Don’t know if that’s a medical thing, though.
+DOCTOR: Emotional distress is… irrelevant to this examination, Mr. Heindel. We're focusing on the physical. Do you have any allergies?
+PATIENT: No allergies, Doc. I eat just about anything. Shellfish, peanuts, everything. Never had a reaction to nothin'. My ex-wife was real careful about what she cooked, so I guess I woulda known if I was allergic to somethin’, right? Sorry, just thinkin' out loud.
+DOCTOR: Your marital history remains… extraneous. Are you currently taking any medications?
+PATIENT: Nope. Not a single pill. Always been pretty healthy, like I said. I drink water, try to eat alright when I can, get enough sleep when the sea ain’t rockin’ too much. That’s about it. No vitamins, no prescriptions, nothin'.
+DOCTOR: Very well. Let's proceed with a brief physical assessment, then. Please step onto the scale.
+PATIENT: Okay, no problem. Just let me know if you need me to do somethin' special. Never really done this before, so I'm kinda just followin' your lead.
+DOCTOR: 91 kilograms. And your height is listed as 183 centimeters. That puts your BMI at… acceptable, but bordering on overweight. Please step onto the examining table. I'll listen to your heart and lungs. Please try to remain still.
+PATIENT: Alright, 183 centimeters sounds right. Used to be taller, maybe, but I've bent over engines so much, I think I shrunk a bit. Yep, still as still as I can be. Just let me know if you need anything. Doc?
+DOCTOR: Deep breath, Mr. Heindel. Any tenderness here?
+PATIENT: Nope, not really. Feels…normal, I guess. A little…full, maybe, after lunch. But nothin' hurts or nothin'. Just a regular belly, Doc. I been eatin' pretty good on this last job. Lots of fish.
+DOCTOR: Now, let's test your reflexes. Relax your arm, please. And the other side… Acceptable. I’d like to order a comprehensive metabolic panel and a complete blood count. It’s standard procedure, even with a… preventative visit. Also, a urinalysis. Just to be thorough.
+PATIENT: Okay, yeah, sure. Sounds good, Doc. Whatever you think is best. I trust your judgment. So… they'll take some blood and, uh, a pee sample, right? Is there a bathroom around here?
+DOCTOR: Bathroom is down the hall, first door on the left. A nurse will be with you shortly to collect the samples. And please refrain from mentioning your ex-wife to the nursing staff. It’s… irrelevant.
+PATIENT: Okay, will do, Doc. No talkin’ about my ex-wife. Got it. I’ll head to the bathroom then. Thanks for… lookin’ me over, Doc. Hope the results come back good, right?
+DOCTOR: We shall see, Mr. Heindel. Please proceed. And try to avoid unnecessary conversation with the lab technicians as well. It simply… complicates matters. .
+PATIENT: .

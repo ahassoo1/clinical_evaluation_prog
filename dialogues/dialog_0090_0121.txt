@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Mr. Pipolo. I’m Dr. Kur. So, what brings you in to see me today?
+PATIENT: Morning. Just… my eyes. They feel real dry. Been that way a bit now. Don't like it.
+DOCTOR: Hmm, dry eyes. Alright. And how long exactly has "a bit now" been?
+PATIENT: Oh… geez. Maybe… a month? Two? Hard to say, really. Time goes fast when you're old. It ain't been forever, but it ain't just yesterday either.
+DOCTOR: Right. Well, a month or two. And is it just dryness, Mr. Pipolo, or is there any pain, redness, or blurry vision associated with it?
+PATIENT: No real pain. Just… scratchy. Like sand. And… no, can see okay. Maybe a little blurry sometimes, but I got old eyes anyway, you know? Always needed glasses.
+DOCTOR: Alright. And have you noticed it's worse at certain times of the day, or in particular environments?
+PATIENT: Yeah. Definitely worse when it’s windy. I do a lot of work outside, cement work. Wind just… gets in 'em, you know? Makes 'em feel awful. And… when I'm tired, it's bad too.
+DOCTOR: Cement work, outdoors... Right. Do you wear any eye protection when you’re working?
+PATIENT: Eye protection? Not always. I got some glasses, but they fog up. And they're kinda… uncomfortable. I mostly just try to blink a lot. Old habits, I guess.
+DOCTOR: Blinking is good, but not always enough. Alright, Mr. Pipolo. Let’s take a quick look at your eyes. If you don’t mind. I want to check the surface, and see if there’s any irritation. I'll need you to look straight ahead.
+PATIENT: Okay, Doc. Whatever you need. Just… try to be quick, alright? Got things to do.
+DOCTOR: Alright. Your conjunctiva is a little dry, as expected, and there's minimal debris. Your tear film doesn't seem particularly robust. It's not a major issue yet, but we need to address this. Do you have any allergies, Mr. Pipolo?
+PATIENT: Allergies? Not that I know of. Never been bothered much by them. Maybe a little sniffly sometimes in the spring, but everyone gets that, right? Nothing serious.
+DOCTOR: Alright. And what about any medications you're currently taking?
+PATIENT: Nope. Don't take nothing. Try to stay away from those things if I can. Makes me feel worse, usually.
+DOCTOR: Alright. Well, given your line of work and lack of medication, it’s likely just environmental irritation and age-related tear film insufficiency. We can try a few things. I'm going to recommend a preservative-free artificial tear to use several times a day, especially when you're working outdoors. And I strongly suggest investing in a pair of well-fitting, safety glasses that don’t fog up. There are some with anti-fog coatings available.
+PATIENT: Artificial… tears? Like, eye drops? Okay. And… fog-proof glasses. Sounds expensive. Where would I even get those?
+DOCTOR: You can get the eye drops at most pharmacies, Mr. Pipolo. Any drugstore. As for the glasses… a hardware store, a safety supply store, or even online. They aren’t excessively expensive, but you do need to get a pair that fits properly. Do you understand?
+PATIENT: Yeah, I understand. Pharmacy, hardware store. Got it. Can I just… try the drops first? Don’t wanna spend a bunch of money on glasses if the drops work.
+DOCTOR: You can certainly try the drops first, Mr. Pipolo. But I strongly advise protecting your eyes from the wind and debris. It will only exacerbate the problem. Alright. I’ll write you a prescription for the artificial tears. Use them four times a day, or as needed. If you don’t see any improvement in a week or two, then we need to discuss the glasses. Do you have any other questions for me?
+PATIENT: No. No, I think that’s it. Just… gotta get some drops. Thanks, Doc.
+DOCTOR: Alright. Here's your prescription. And please, Mr. Pipolo, consider the safety glasses. It's a preventative measure. Have a good day. .
+PATIENT: Okay, thank you. I will. Maybe. .

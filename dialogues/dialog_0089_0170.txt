@@ -1,0 +1,23 @@
+DOCTOR: Hi Waleed, good to meet you. I’m Dr. Roseburroough. So, tell me – what brings you in to see me today?
+PATIENT: Oh, hi Doctor. Good to meet you too. I'm here for… a life insurance thing. They need me to get checked out before they’ll give me a policy, you know? It's a medical exam for the insurance. I just wanna get it over with, if that’s okay.
+DOCTOR: Okay, that's perfectly alright, Waleed. A pre-insurance physical. We can definitely get that done for you. Just so I have a full picture, is there anything specifically they mentioned needing me to look at, or are we just doing a general check-up to satisfy the requirements?
+PATIENT: Um… I don’t think so? They just gave me a list of things, like blood pressure and… cholesterol, I think? Nothing special. I mostly just wanna make sure I'm healthy enough, honestly. And get the insurance.
+DOCTOR: Okay, good to know. So a pretty standard assessment then. Let's start with some basics. Do you have any current medical conditions that you're aware of – anything at all that a doctor has diagnosed you with?
+PATIENT: Hmm… let me think. Not really. I had high blood pressure a while back, but I’ve been watching my salt, and it’s been okay for a long time now. The doctor at the clinic back home said it was fine when I last saw him, but that was… a couple years ago, maybe? I don’t really go often unless I need to.
+DOCTOR: Okay, that’s helpful. So previously diagnosed hypertension, currently managed with dietary changes, and hasn’t been formally checked in a couple of years. We'll definitely want to check that today. Any past surgeries or hospitalizations I should be aware of?
+PATIENT: No, nothing like that. Never had any surgeries. No big hospital stays, either. Just the usual colds and flus, you know? Nothing serious.
+DOCTOR: Alright, good. And what about your family?
+PATIENT: Family… my mom, she had… something with her heart. I think. She passed away a few years ago. And my dad, he had diabetes. He's… not with us anymore either. And I have a sister, she's healthy as a horse, lives back on the islands.
+DOCTOR: Okay, so a family history of cardiac issues in your mother, and diabetes in your father. That’s important information, thank you. Now, just to get a better idea of your overall health – do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no smoking. Never liked it. I used to have a beer now and then, but I stopped a long time ago. And definitely no drugs. Never been into that.
+DOCTOR: Okay, excellent. And are you currently taking any medications, vitamins, or supplements?
+PATIENT: Just a multivitamin, every morning. And sometimes, when my joints are bothering me, I take some ibuprofen. That's it, really. Nothing else.
+DOCTOR: Okay, a multivitamin daily and ibuprofen as needed for joint pain. Now, just one last quick thing before we get to the physical exam – do you have any allergies to any medications, foods, or anything else?
+PATIENT: Nope, no allergies that I know of. Never had a bad reaction to anything. I eat pretty much everything. I think. Let me think... no, nothing comes to mind.
+DOCTOR: Alright, that's good to hear. Okay, Waleed, let’s do a quick physical exam then. I'm just going to listen to your heart and lungs, check your blood pressure, and take a look in your ears, nose, and throat. Then we'll do a quick weight and height check. Does that sound alright?
+PATIENT: Yeah, that sounds fine. Just… let’s try and be quick, if you don’t mind? I got a few things I gotta get done later today.
+DOCTOR: Absolutely, I understand. I'll be as efficient as possible. If you don’t mind changing into this gown, that would be helpful. I'll step out and give you a moment of privacy. Let me know when you're ready.
+PATIENT: Okay, yeah, sure. Where's the… changing area? Is it back there?
+DOCTOR: Yes, it's right over there. You can change privately, and I’ll be right back when you're ready. Don't hesitate to call out if you need anything.
+PATIENT: Okay, thanks. I’ll be… a few minutes.
+DOCTOR: Alright. Take your time.

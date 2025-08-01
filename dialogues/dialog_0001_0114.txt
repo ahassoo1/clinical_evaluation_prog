@@ -1,0 +1,22 @@
+DOCTOR: Alright, Mrs. Vanderwiele, have a seat. Look, I’m pretty booked today, so let’s get right to it. What brings you in?
+PATIENT: Well, Doctor Pehrson, thank you. It’s this… breathing. It gets harder when I try to lie down. It’s been happening for… oh, maybe a month now? It's just… uncomfortable, you understand. It feels like something is pressing on me.
+DOCTOR: Okay, uncomfortable. Right. And it only happens when you lie down?
+PATIENT: Yes, only when I'm lying flat. If I prop myself up with a couple of pillows, it's… better. Not good, mind you, just… less bad. I can sleep with the pillows. It’s just not very… dignified, you know?
+DOCTOR: Dignified?
+PATIENT: Oh, don't misunderstand, Doctor. I just mean… a woman my age shouldn't need pillows to breathe comfortably. It feels… weak. And my daughter keeps fussing about it. She worries.
+DOCTOR: Daughters. Always fussing. Okay, look, let’s try and be practical here. Any chest pain?
+PATIENT: No, no chest pain. Just… shortness of breath. And a bit of a… fluttering feeling sometimes. Like a little bird in my chest, but not painful. It's hard to describe. I don’t have any cough, or fever, or anything like that.
+DOCTOR: Alright, no fever, no cough... fluttering. Okay. And have you been… retaining any fluid?
+PATIENT: Fluid? Oh, you mean… swelling? Not really. My ankles maybe get a little puffy at the end of the day, but I always thought that was just from being on my feet too long. I work at the library, you know. Lots of shelving.
+DOCTOR: Library, right. Shelving. Okay. Any history of… heart problems in your family?
+PATIENT: Well, my mother… she had high blood pressure. And my uncle, on my father's side, he had a… a weak heart, I think. He didn’t live to be very old. But other than that… no. Not that I know of. We didn’t talk much about such things.
+DOCTOR: Okay. Alright. Let’s just listen to your lungs and heart, then. If you could just lie down on your left side, please. And try to relax. I know it's uncomfortable, but we need to get this over with.
+PATIENT: Very well, Doctor. It's just… everything feels so much harder these days. I do wish this didn’t take so long.
+DOCTOR: Okay… take a deep breath in… and out… again… Hmm. Sounds a bit congested, but nothing alarming. A little swelling, as you said. Okay, Mrs. Vanderwiele. It could be a number of things. Probably just some age-related congestion. We'll need to get a chest x-ray just to be safe. But I wouldn’t worry too much.
+PATIENT: An x-ray? Oh dear. Is it expensive? I’m on Medicare, you know. And… what does “age-related congestion” mean, exactly? Is it serious?
+DOCTOR: Medicare will cover it. Don’t worry about the money. And “age-related congestion” just means… things settle. Your lungs aren't as… springy as they used to be. It’s normal. Look, it’s probably nothing. But we have to rule things out. I'll order the x-ray and we can talk about it again when the results come back. In the meantime, try sleeping with an extra pillow and… don’t stress about it. The nurse will get you the order for the x-ray. Next patient.
+PATIENT: Well. I suppose that’s alright. But… if you don't mind, could you just write down what you said? About the pillow, and not stressing… my memory isn’t what it used to be. Just so I don’t forget.
+DOCTOR: Here. “Sleep with extra pillows, avoid stress.” Is that sufficient?
+PATIENT: Yes, Doctor. That will do nicely. Thank you. I… I appreciate your time. Even if it was… brief. I think I’ll just go and sit in the waiting room for a bit.
+DOCTOR: .
+PATIENT: .

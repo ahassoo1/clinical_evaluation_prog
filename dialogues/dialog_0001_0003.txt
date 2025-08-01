@@ -1,0 +1,23 @@
+DOCTOR: Alright, Mr. Baide, good to see you… or, well, to meet you. I’m Dr. Pehrson. So, let's get straight to it. What brings you in today?
+PATIENT: Ugh, finally. Look, Doc, it's this… shaking. It's in my hands. Been happening for a while now, and it’s getting worse. Honestly, it’s just… inconvenient. Makes things difficult. Don't have time for this, you know?
+DOCTOR: Inconvenient, right. Okay. And how long exactly is “a while now”?
+PATIENT: Oh, geez… a while. Months, I guess. Maybe longer? It comes and goes, see? Sometimes it's barely noticeable, other times… well, like this. Can't really pinpoint it. Old age, probably. What do you think?
+DOCTOR: “Probably” isn’t a diagnosis, Mr. Baide. We need to be a little more specific than that. Does anything seem to trigger it?
+PATIENT: Trigger it? Hmm. Not really. Not that I've noticed. Maybe when I'm… thinking hard? Or, I don't know, if I'm stressed. But who isn’t stressed these days? It just happens. It’s not like it's ruining my life or anything.
+DOCTOR: Right. Okay. And are you experiencing any other symptoms along with the shaking?
+PATIENT: Other symptoms? Look, I'm eighty years old, Doc. What don’t I have symptoms of? A little ache here, a little pain there… it’s called getting old! You want a list? I got a list. But I came here about the shaking, not my creaky joints.
+DOCTOR: Mr. Baide, I'm trying to get a complete picture here. Let's start with something simple. Any weakness in your arms or legs?
+PATIENT: Weakness? Not particularly. Still got some muscle, see? I used to be a director, always had to be on my feet. Though, carrying things is… harder. Not weak, just… less enthusiastic, maybe?
+DOCTOR: Enthusiastic. Right. Okay. Have you noticed any stiffness?
+PATIENT: Stiffness? Well, yeah, in the mornings. Like any old fool, I guess. Takes a bit to get going. But it loosens up. What is this, a survey of everything that ails old people?
+DOCTOR: Alright. Let’s do a quick exam, just to get a baseline. If you could just extend your arms, please. I'm going to check your reflexes and strength. Don’t fuss if it feels a little odd.
+PATIENT: Fine, fine. But don't go poking around too much. I haven’t got all day, you know. And honestly, I doubt this'll tell you anything I haven't already told you.
+DOCTOR: Reflexes are… diminished, but symmetrical. Strength is 4/5 bilaterally in upper and lower extremities. Some mild tremor noted in both hands at rest, as you described. Now, any family history of… well, of anything like this?
+PATIENT: Family history… Ugh. My mother… she got… something. A sickness, maybe? A long time ago. I was barely a boy. She ended up… not being very well. That's all I really remember. A lot of fuss, a lot of doctors. Didn’t do her much good, if you ask me. Honestly, the whole thing was a blur.
+DOCTOR: Right. Okay. Any medications you're currently taking, Mr. Baide?
+PATIENT: Medicare gives me what I need. A little pill for the blood pressure, something for the cholesterol… the usual, Doc. Honestly, I can't even remember what they are, or why I'm taking them. The pharmacist sorts it all out. I just swallow the pills.
+DOCTOR: Alright. Well, based on what you’ve told me… and the quick exam, it could be essential tremor. It's common, especially as people age. But to be sure, I'm going to order some blood work. Just to rule out other possibilities. And I’m going to recommend a neurology consult. They can do a more thorough evaluation.
+PATIENT: Neurology consult? Blood work? Look, Doc, I came here about a little shaking. Now you want to put me through a whole battery of tests? Honestly. This is ridiculous. It’s probably just old age, and I’m wasting my time here. Forget the tests. I’m done.
+DOCTOR: Mr. Baide, I understand your frustration, but I have a professional obligation to rule out serious conditions. Ignoring something doesn’t make it go away. The blood work is minimal, and a neurologist is the specialist best equipped to evaluate this. I strongly recommend you reconsider. I can at least get the blood work ordered for you. It’s a simple draw. Then we can talk about the consult.
+PATIENT: Fine. Fine! Get your blood work. But don't expect me to run off and see every specialist under the sun. I'm eighty years old, Doc, not a science project. And make it quick. I have things to do. .
+DOCTOR: Alright. I’ve ordered the blood work. The lab is just down the hall. They'll call you when they're ready. And I'll have my nurse print out a referral for a neurologist. I suggest you schedule the appointment as soon as possible. Is there anything else I can assist you with today?

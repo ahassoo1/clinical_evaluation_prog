@@ -1,0 +1,21 @@
+DOCTOR: Alright, Mr. Grumman, have a seat. So, what brings you in today?
+PATIENT: Tired. Just… very tired. All the time. Not like… normal tired after work. This is… deep tired. Been going on for a few months now, maybe longer. Hard to say, really.
+DOCTOR: "Deep tired," you say. Months, potentially longer. Right. And has this tiredness been interfering with your daily activities?
+PATIENT: Interfering? Yes. I used to… I used to do things. Fix things around the house. Help my wife with the garden. Now… now I mostly sit. Even getting up to make tea is… a job. My wife, she does most everything now. Not that I want her to, you understand. But… what can I do? It’s not like I’m lazy.
+DOCTOR: Okay. So, a significant decrease in your activity level. And you're certain this isn't simply due to a lack of motivation or a change in lifestyle?
+PATIENT: Lifestyle? What kind of question is that? I have a lifestyle! I work hard. Always have. Been working with fabrics since I was a boy in Ethiopia. This isn’t about wanting to do less… this is about not being able to do what I used to. It’s different.
+DOCTOR: Right. Well, let’s try to get a clearer picture. Besides the fatigue, are you experiencing any other symptoms?
+PATIENT: Symptoms? Let me think… My stomach… it feels funny sometimes. Not always pain, more like… heavy. And I’ve lost some weight, I think. My wife says so, anyway. I don’t pay much attention to those things. Everything just feels… off. Like something is wrong, deep inside.
+DOCTOR: "Funny" stomach, weight loss… vague symptoms, really. Have you noticed any changes in your bowel habits?
+PATIENT: Bowel… habits? What does that even mean? Look, I’m not a doctor. I just know I don’t feel good. My stomach… it doesn’t work like it used to, if that’s what you’re asking. Sometimes loose, sometimes… not. Is this important? You keep asking strange questions.
+DOCTOR: It is important, Mr. Grumman. These details help me understand what might be going on. And frankly, “funny” isn’t a clinical description. Now, concerning this change in bowel habits, has there been any blood in your stool?
+PATIENT: Blood? No! No blood. Absolutely not. Why would I be here if there was blood? You think I’m stupid? I know when something is seriously wrong, and I would go to the hospital if there was blood. This is just… tiredness and a bad stomach. And weight loss, my wife tells me.
+DOCTOR: Alright, alright. No blood. Let’s move on. Have you experienced any fever, chills, or night sweats?
+PATIENT: Fever? No. Not that I’ve noticed. It gets warm here in the summer, you know? Hard to tell the difference between being hot from the weather and… whatever you’re asking about. Chills… maybe a little when I’m very tired. Like a shiver. But nothing… serious.
+DOCTOR: And what about your appetite?
+PATIENT: Appetite… not good. I don’t want to eat. Food… it just doesn’t taste right anymore. My wife makes lovely meals, she always has, but… I force myself to take a few bites. It doesn’t sit well, and then I just feel worse. I used to enjoy a good meal. Now… it's just something I have to do.
+DOCTOR: Alright. We’ll need to do some blood work, Mr. Grumman. Standard tests to rule out some basic things. And I'm going to order a stool analysis, just to be thorough. Does that sound acceptable?
+PATIENT: Blood work… fine. Stool… analysis? You want me to… collect a sample? That sounds… unpleasant. But, alright. If that’s what you need. Just tell me what I have to do, and I’ll do it. But I hope this won’t take too long.
+DOCTOR: The lab is just down the hall. They’ll give you instructions for the stool sample. As for the blood work, I'll send the order electronically to the lab. Come back in a week with the results and we can discuss them further. Now, do you have any other questions for me before you leave?
+PATIENT: A week? A whole week? Just to find out why I'm tired? Alright. I guess I have no choice. No, I don’t have any questions. Just… get me some answers. And I hope it's not anything serious. My wife is… worried enough as it is. Thank you.
+DOCTOR: Very well. The lab will schedule you. We'll do our best to get a diagnosis. Next patient.

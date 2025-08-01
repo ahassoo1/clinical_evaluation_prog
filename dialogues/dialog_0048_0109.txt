@@ -1,0 +1,32 @@
+DOCTOR: Right. Mr. Brum, is it?
+PATIENT: Yes, Mitchell Brum. That is me. Good to meet you, Doctor... Sink, yes? It is nice clinic you have here. Very clean.
+DOCTOR: Yes, well, cleanliness is… expected. Let’s not dwell on the aesthetics. You’re here today because…?
+PATIENT: Head... back of my head hurts. Been hurting for... oh, maybe three days now. Not all the time, but it comes and goes. Like a… a dull ache, you know? Not a sharp pain.
+DOCTOR: Three days. Dull ache. Right. And is this a new thing, or have you experienced headaches like this before?
+PATIENT: No, not like this before. I get little headaches sometimes, if I don't drink enough water when I'm working. But this… this is different. It's in the back, and it feels… deeper, maybe? Hard to explain. I used to work on the trains, you know. Lots of sun. Maybe that has something to do with it?
+DOCTOR: Trains… right. And what exactly were you doing on these trains?
+PATIENT: I worked with the… the rail yard. Engineers, mostly. And we drove the little trains, the dinkeys, to move the cars around. And I was a hostler, too. That means I helped connect the cars, make sure everything was safe. Lots of lifting, lots of sun. Been doing that work for… almost sixty years. Then I retired. But, you know, the body remembers things.
+DOCTOR: Sixty years… impressive. And you said lifting?
+PATIENT: Yes. Lots of it. Heavy things. And sometimes… sometimes things wouldn’t go quite right, you know? A car would jump the tracks a little, and we’d have to push it back on. It wasn’t always easy work. My back… it's not what it used to be. But I never thought it would give me a headache!
+DOCTOR: Right. And apart from the back, any other symptoms?
+PATIENT: No, not really. I sleep okay. Eat okay. A little tired sometimes, but I am ninety years old! I forget things… but not important things. I remember the trains, I remember my wife… But small things, like where I put my glasses… that’s trouble. But the headache… that’s new. And it worries me. It’s just a… nagging thing.
+DOCTOR: Alright. Let’s have a look. Please lie down on the examination table. We’ll start with a basic neurological exam, just to rule things out.
+PATIENT: Okay, Doctor. Neurological… that sounds serious. But alright, I’ll lie down. Just tell me what to do. Is it going to hurt?
+DOCTOR: It shouldn't. I'll need you to follow my instructions. Close your eyes, and tell me if you feel any pain or discomfort when I touch your head and neck. I'm going to start at the base of your skull.
+PATIENT: Okay, eyes closed. At the base of my skull… alright. Go ahead, Doctor. I’ll tell you if anything hurts. It's just… this is strange. I never get headaches. My wife, she always knew what to do…
+DOCTOR: Any tenderness here?
+PATIENT: Hmm… a little bit. Not sharp, but… yeah, a little sore. Like someone’s been pressing on it for a while. But it could just be from… old age, you know? It’s hard to say, really.
+DOCTOR: And here?
+PATIENT: A little bit more here, yes. It feels… tight. Like a knot. Not painful, exactly, but… uncomfortable. Like there’s something pressing down. It’s on the left side, I think. Left side of the back of my head. Is that what you’re feeling?
+DOCTOR: Alright. Now, I'm going to check your reflexes. I'm going to tap on your knees and ankles with this little hammer. Just relax, and let your legs fall naturally.
+PATIENT: Okay. Reflexes… I haven’t had my reflexes checked in a long time. I hope I pass! Just tell me what to do, Doctor. I'll try to relax. But my legs… they don't always listen to me anymore.
+DOCTOR: Hmm. And the right?
+PATIENT: There. That was a little jumpy. My left leg… it always does that. Always been a bit… quick. Now the right? Go ahead, Doctor. But be gentle, alright? Old bones, you know.
+DOCTOR: Right leg is… diminished. That’s what I expected. Now, I’m going to test your strength. Can you squeeze my hands as tightly as you can?
+PATIENT: Okay. Strength… Alright. Like this? Is that tight enough? I used to be very strong, you know. Lots of work with the trains. But now… it’s not the same. Now the other hand? Is that okay?
+DOCTOR: Alright. Based on this brief examination… it could be muscle tension, possibly related to your previous work. The diminished reflexes on the right are… not unexpected for your age. I'm going to order some blood work, just to rule out anything else. And a CT scan of your head. Just to be safe.
+PATIENT: A CT scan? A scan… Is that serious, Doctor? Is something wrong? I just thought it was a headache. My wife… she always knew what to do with my headaches. A little rest, a little water… But a scan sounds… frightening. What are we looking for?
+DOCTOR: It's a precaution, Mr. Brum. We need to rule out anything serious. The scan will give us a clearer picture of what's going on inside your head. It’s standard procedure given your symptoms and age. We'll be looking for anything unusual, like… tumors or bleeding. But don't jump to conclusions. It’s likely just muscle tension. The lab is just down the hall. And I’m referring you to radiology for the scan. They’ll schedule it for you.
+PATIENT: Radiology… Tumors… bleeding… That doesn’t sound good. I don’t like this, Doctor. I just want the headache to go away. Is there anything… anything I can do now? Just to feel a little better? Maybe some medicine? My wife always had some special oil for my head…
+DOCTOR: I’m prescribing you a mild muscle relaxant. It won’t solve the problem, but it may ease some of the tension. Take it as directed. And I recommend rest, hydration, and avoiding any strenuous activity. The results from the lab and radiology will give us a clearer picture. It’s best to get this checked out thoroughly. Don't worry too much. It’s likely nothing serious. Now, are there any other concerns I should address?
+PATIENT: Okay, muscle relaxant… I’ll take it. And rest… I can do that. No, I don’t think so. Just… thank you, Doctor. I appreciate you taking the time. It’s just… this is all a little overwhelming. And I miss my wife, you know? She always knew what to do. She would have known what to do with this headache. But thank you. I'll go get the blood work, and then the scan. .

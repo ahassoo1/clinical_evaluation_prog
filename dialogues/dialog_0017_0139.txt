@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Shanor. I am Dr. Blim. Now, let’s not waste any time. What brings you in today?
+PATIENT: Good morning, Doctor. I… need check for referee. For fitness. I want to be sure I am okay to do it. It’s for… work.
+DOCTOR: A “referee check”?
+PATIENT: Yes. Referee… or umpire. Or coach. They want me to get checked. For… you know… running and… not being too old. I do the sports. They need to know I’m still strong.
+DOCTOR: Right. So, a physical for… employment purposes, involving athletic activity. Let's be precise, Mr. Shanor. What specific sport are you officiating, and what are the physical demands involved?
+PATIENT: Basketball. Mostly basketball. Running… a lot of running. Whistle… and… sometimes have to… stop people. It’s… fast. I try to keep up. They want to know if my heart is okay. And… legs. Maybe. I don’t know. They just said “fitness check”.
+DOCTOR: “Fitness check.” Vague. Very vague. Alright. Let’s start with a basic history. Have you experienced any chest pain, shortness of breath, or palpitations, even with exertion?
+PATIENT: No. No pain. Sometimes… tired. But… I’m getting older. That’s normal, right? I don't… feel my heart beat funny. Not usually. Just… tired after running. Is that bad?
+DOCTOR: Fatigue is subjective, Mr. Shanor. And yes, it is normal to experience some decline with age. However, we need to rule out anything concerning. Do you have a history of high blood pressure, high cholesterol, or diabetes?
+PATIENT: No. Doctor said… a few years ago… cholesterol was a little high. But… I stopped eating so much… fried food. It’s okay now, I think. No… sugar problem. Blood… okay. I think. I don't remember exactly. It was a long time ago.
+DOCTOR: Alright. And are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: No. Nothing. Just… sometimes painkiller for… old injury. Knee. But… not often. Only when it’s… really bad. Not now. No pills every day. Just… when needed.
+DOCTOR: What specific injury to your knee, Mr. Shanor?
+PATIENT: Uh… basketball. A long time ago. Someone… ran into me. Hurt it bad. Doctor said… something about… cartilage. I don’t remember. They fixed it. Surgery. A long time ago. It’s okay now… usually. Just… sometimes stiff. But I can still run. Mostly.
+DOCTOR: Very well. Let’s proceed with a physical examination. Please step onto the table. We'll start with your vital signs, and then I’ll need to auscultate your heart and lungs, and examine your knee. Try to relax.
+PATIENT: Okay. I will try. It’s… been a long day already.
+DOCTOR: Blood pressure is 138/82. A little elevated, but not alarming. Heart rate is 72, regular. Respiratory rate is 16, normal. Lungs are clear to auscultation bilaterally. Heart sounds are regular, no murmurs, rubs, or gallops appreciated. Now, your knee. Any pain with this pressure?
+PATIENT: Yes. A little. On the inside. That’s where it hurts. Not bad… but… I can feel it. Especially when you… push there.
+DOCTOR: There is mild tenderness to palpation along the medial joint line. Range of motion is… slightly limited, particularly with flexion. No effusion is noted. And do you feel any instability or clicking with this movement?
+PATIENT: No clicking. A little… shaky. Like it might… give way. But… not always. Only when I… twist it. And… run fast. Like basketball. It’s… old. I told you. But… I need to know if I can still do it.
+DOCTOR: Mr. Shanor, it appears you have some chronic degenerative changes in your knee, likely related to your previous injury. While your heart sounds within normal limits, your knee requires further evaluation. I am going to order an X-ray of your knee to assess the extent of the arthritis. I also recommend a consultation with an orthopedist for a more comprehensive evaluation and possible physical therapy. In the meantime, I advise you to limit activities that exacerbate your knee pain. Do you understand?
+PATIENT: Yes. X-ray… and… doctor for knee. Okay. I… understand. So… I can’t… referee right now? That’s… bad. I need to… work. Is there… anything else I can do? Maybe… some pills? Or… something?
+DOCTOR: Mr. Shanor, I am not going to prescribe medication without a proper diagnosis from the orthopedist. Taking pills without knowing the underlying cause could be detrimental. I will write you a referral to Dr. Ramirez, a highly-regarded orthopedist in the area. He will be able to assess your knee and recommend the appropriate course of action. For now, rest, ice, and avoid strenuous activity. Do not attempt to referee until you have been cleared by Dr. Ramirez. Do you have any further questions?
+PATIENT: No. I… think that’s all. Thank you, Doctor. I hope… I can still do it. I really need this job. .
+DOCTOR: Very well. The receptionist will schedule an appointment for you. Please follow up with Dr. Ramirez promptly. Next. .

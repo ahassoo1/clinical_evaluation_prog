@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I'm Dr. Kur. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It’s… the belching. I keep belching. It’s a lot, you know? Like, all the time. It's been happening for… a little while now. I don’t know how long, exactly.
+DOCTOR: "A little while now," is helpful, but could you be a bit more specific?
+PATIENT: Hmm… okay. Maybe… two, three weeks? It started after I ate… a big plate of beans. But I haven’t just been eating beans! It still happens when I eat other things. It's just… more with the beans, I think. Does that make sense?
+DOCTOR: Beans, alright. And is it immediately after you eat, or does it happen throughout the day?
+PATIENT: It happens… both, actually. Right after I eat, for sure. But even when I haven't eaten for a long time, it still happens. Like, this morning, before breakfast. Not as much, but still. It’s just… annoying, you know?
+DOCTOR: Annoying is…understandable. Have you noticed anything else accompanying the belching?
+PATIENT: Like… what do you mean? Anything else? Hmm… Sometimes my stomach feels… a little full. Even if I haven’t eaten much. And… sometimes it’s a little painful, but not bad pain. Just… uncomfortable. Like a little bubble. Is that making sense?
+DOCTOR: A "little bubble"... alright. And is this pain constant, or does it come and go?
+PATIENT: It comes and goes. Not all the time. Mostly after I eat, like the belching. Sometimes I don't feel anything at all. It's not a sharp pain, more like… pressure. Like too much air, maybe? I don't know. I'm not a doctor, you see.
+DOCTOR: No, you're not a doctor. That’s what I’m here for. Now, have you noticed any changes in your bowel habits?
+PATIENT: Bowel… habits? Oh. Um… well, I go to the bathroom. Everything seems… normal, I think. Maybe a little… softer than usual, sometimes? But I don't know if that's because of the beans. I eat a lot of fiber. Is that what you mean?
+DOCTOR: Fiber is good, generally. Any nausea, vomiting, heartburn, or trouble swallowing?
+PATIENT: No, no vomiting. Not sick to my stomach. No heartburn either. And no… trouble swallowing. Everything goes down okay. Just… the belching. It's really the belching that bothers me. It’s embarrassing, you know?
+DOCTOR: Alright. And are you taking any medications currently, including over-the-counter medications or supplements?
+PATIENT: No, Doctor. I don’t take anything. I try to stay away from pills if I can. Just vitamins sometimes, but not regularly. Nothing for my stomach.
+DOCTOR: Any allergies to foods or medications?
+PATIENT: No allergies that I know of. I eat lots of different things. Never had a problem. My mom always said I had a strong stomach. But maybe it's too strong now?
+DOCTOR: Alright. I’m going to need to examine your abdomen. Please lie down on the examination table for me. We’ll start with listening to your bowel sounds.
+PATIENT: Okay. That’s alright. Listening? Is something wrong?
+DOCTOR: It's just part of the exam, Ms. Fogelstrom. Nothing to be alarmed about. It helps me get a better understanding of what's going on. Just lie flat on your back, please.
+PATIENT: Okay. Flat, you said? Like this? It’s a little cold.
+DOCTOR: Normal bowel sounds… although perhaps a little hyperactive. Now, I’m going to gently palpate your abdomen. Please let me know if anything feels particularly tender or painful. Does this feel tender?
+PATIENT: No… not really. A little… pressure, maybe? Like when I push on my stomach after eating too much. But not painful. It feels… normal.
+DOCTOR: Anything here?
+PATIENT: No, Doctor. Not much. Maybe a little… gassy? But that could be the belching. Everything feels… pretty much the same.
+DOCTOR: Alright. Nothing significantly tender to palpation. I don’t think there’s anything immediately concerning happening here. It sounds like you’re likely experiencing some excessive gas, possibly related to your diet. We'll rule out anything serious first, but my initial assessment points towards that.
+PATIENT: Okay. That's… good, I guess? So it’s not… something bad? I was a little worried. What should I do about the gas? Less beans?
+DOCTOR: Less beans could be a start. However, beans are a good source of fiber. I recommend keeping a food diary for a week, noting everything you eat and drink, and when you experience the belching. That will help us identify potential trigger foods beyond just beans. Also, I want to order a basic metabolic panel to rule out any underlying medical conditions. It's just a simple blood test. Do you have any questions about that?
+PATIENT: A food diary… okay. I can do that. And a blood test? Will it hurt? I don't really like needles. And… how long will it take to get the results?
+DOCTOR: The blood test is a standard draw. A quick pinch, honestly. Most people don’t even notice it much. We’ll send the sample to the lab, and results usually come back within 24-48 hours. Once we have those results, we can discuss further steps, if needed. In the meantime, try to avoid carbonated beverages and large meals, and see if that helps. Do you have any other questions for me right now?
+PATIENT: No… I think that's all. A food diary, no soda, small meals… and a pinch. Okay. Thank you, Doctor. That makes me feel a little better. Where do I go for the blood test?
+DOCTOR: You’ll need to go to the lab across the street, at 123 Main Street. Here's the requisition form. They’ll need this. I’ll have the nurse schedule a follow-up appointment for you in one week, after the lab results are back, to discuss the findings. Does that sound alright?
+PATIENT: Yes, that sounds good. One week. Thank you so much, Doctor Kur. I appreciate your help. I’ll try the food diary and… avoid the soda. And I’ll go to the lab tomorrow.
+DOCTOR: You’re very welcome, Ms. Fogelstrom. Try not to worry too much. We’ll get to the bottom of this. The nurse will be in shortly to assist you. Have a good day. .

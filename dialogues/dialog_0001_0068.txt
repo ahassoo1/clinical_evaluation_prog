@@ -1,0 +1,24 @@
+DOCTOR: Alright, Ms. Queener, have a seat. So, what brings you in today?
+PATIENT: Oh, hello Doctor. It’s… the swelling, really. After the cancer stuff. It’s in my… leg, mostly. It’s been getting bigger, and it’s not very comfortable. I just want to know what’s going on, if you can help?
+DOCTOR: Cancer stuff…right. Okay. So, swelling in the leg. How long has this been going on?
+PATIENT: Hmm… let me think. It started… maybe a month ago? A month and a half? It was small at first, I didn’t even really notice it. But now… now it’s hard to ignore. It feels tight, you know? Like my pants are too small, but they’re not! It's here, on my calf.
+DOCTOR: A month, okay. And is it just your calf, or is there swelling anywhere else?
+PATIENT: Just the calf, I think. Maybe a little bit in my foot sometimes, but not always. It’s mostly the calf that bothers me. It feels… heavy, too. Not painful, just… heavy and tight.
+DOCTOR: Alright. Any history of blood clots?
+PATIENT: Blood clots? Oh dear… I don’t think so. The doctors never said anything about that. I had… treatments, you know, for the cancer. Lots of appointments. But no one ever mentioned clots. I’m not sure, really. Is that… bad?
+DOCTOR: Look, ma'am, I need a straight answer. Have you ever been told you had a blood clot?
+PATIENT: Oh! No, no, I haven’t! Not ever! I promise. They just did… the radiation, and the… the medicine. Lots of poking and prodding, but no one said anything about blood clots. I would remember that, wouldn’t I? It sounds scary.
+DOCTOR: Right. Okay. And are you on any medications currently?
+PATIENT: Just… something for my blood pressure. A little white pill. I take one every morning. And… that’s it, I think. Oh! And sometimes I take something for aches, but only when I really need to. Nothing regular.
+DOCTOR: Alright. Let’s take a look at this leg. If you don’t mind. Just need to get a feel, check for… things. Please lie down on the examination table.
+PATIENT: Oh, alright. Yes, of course. It's… a bit high, isn’t it? I hope I don't fall.
+DOCTOR: Just lie down, ma'am. I'll be quick. So, where exactly does it feel the tightest?
+PATIENT: Right… here. Kind of all around, but mostly here. And it feels… warm, sometimes. Not hot, just… warmer than the other leg. It’s hard to explain. Oh, that’s… a little sensitive.
+DOCTOR: Hmm. Right calf is… 38 centimeters. Left is 36. Okay. And I don't hear any… unusual sounds. Feels a little congested, but nothing alarming. Honestly, it’s probably just lymphedema from the cancer treatment.
+PATIENT: Lymp… what-edema? Is that… bad? Like the clots? Is it something I need medicine for? Or… more poking and prodding?
+DOCTOR: Lymphedema is just… swelling. Happens sometimes after cancer treatment when the lymph nodes get damaged. It’s not urgent like a blood clot, but it can be… annoying. We can try compression stockings. And I'll write you a referral to physical therapy. They can teach you some exercises. Don't worry too much about it. It's manageable.
+PATIENT: Oh. Okay. Compression… stockings? Like… tight socks? Exercises… Well, that doesn’t sound too bad. Better than clots, I suppose. Will the exercises help it go away?
+DOCTOR: Look, ma'am, I can't promise it'll go away completely. But exercises and compression can help reduce the swelling and make you more comfortable. Here's the referral for physical therapy. Make an appointment as soon as you can. And I’m writing a prescription for compression stockings. You can pick those up at the pharmacy. Anything else?
+PATIENT: Oh… um… no, I think that’s everything. Thank you, Doctor. I appreciate you looking at it. Compression… I’ll have to ask my daughter to help me put those on, I think.
+DOCTOR: Alright. Get that referral scheduled quickly. And, ma'am, try to elevate your leg when you can. Have a good day. .
+PATIENT: Okay, yes. I will. Thank you, Doctor!

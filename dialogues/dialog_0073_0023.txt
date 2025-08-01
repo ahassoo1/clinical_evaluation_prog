@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Mr. Bulaong. I’m Dr. Korrell. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. It’s my chest… it hurts. Not always, but… yeah, my chest. It’s kinda… sore. Like a bad ache.
+DOCTOR: Chest pain, alright. And you say it’s not constant?
+PATIENT: No, not always. Sometimes I don’t feel nothing. Then other times… when I move, or… I don’t know… just when I do stuff. It hurts. It’s… hard to say when. It’s not like a sharp pain, more like… a heavy ache. Like when you use your muscles too much? But in my chest.
+DOCTOR: Hmm. And how long has this been going on?
+PATIENT: Uh… maybe a few weeks now? I didn’t think much of it at first. I do hard work, you know? Roofing… it makes you sore. But it hasn’t gone away. It's… stayed the same, I think. Not worse, but not better either.
+DOCTOR: Roofing, right. Physically demanding. And has anything specific brought it on, or made it worse?
+PATIENT: Um… I think maybe when I lift heavy stuff? Like… the shingles. Or when I reach up high. But sometimes it hurts even when I’m just… sitting. It’s kinda weird. My wife, she said I should come see someone.
+DOCTOR: Sitting, you say. Alright. And are you experiencing any other symptoms along with the chest pain?
+PATIENT: No, not really. No cough, no fever. Just the pain. Maybe… a little tired sometimes, but I always am, with the work. Nothing else feels… different. I don't think so.
+DOCTOR: Okay. And do you have any history of heart problems, or has anyone in your family?
+PATIENT: Uh… not that I know of. My mom and dad, they were okay. Worked hard too, but no heart trouble. I don't think so. Never been to a heart doctor myself.
+DOCTOR: Alright. And what about any allergies to medications?
+PATIENT: No, no allergies that I know of. I don't take much medicine. Just… stuff for headaches sometimes. Over-the-counter stuff. Nothing special.
+DOCTOR: Okay. Let's do a quick physical exam, if you don’t mind. I’d like to listen to your heart and lungs, and feel around your chest a bit. Is that alright?
+PATIENT: Yeah, that's okay. Whatever you think is best, Doctor. I trust you.
+DOCTOR: Alright. Please have a seat here and I’ll be right back with my stethoscope. Now, I'm going to listen to your heart and lungs, and then I’ll palpate your chest wall. Please let me know if anything feels particularly tender. Heart sounds are regular. No murmurs, rubs, or gallops appreciated. Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi. Any tenderness here?
+PATIENT: Yeah, right… here. When you push… kinda hurts. Not bad, but… yeah. And… maybe a little here too. But not as much.
+DOCTOR: Tenderness is present on palpation of the anterior chest wall, midline, slightly left of the sternum. No crepitus or masses appreciated. Tenderness also noted on palpation of the left lateral chest wall, under the axilla, but less pronounced. It does seem like there's some musculoskeletal tenderness present. It's difficult to say definitively what's causing it without further investigation, but it could be costochondritis, or a muscle strain. Do you have any recent history of trauma to the chest?
+PATIENT: Trauma? Not that I remember. I fall sometimes when I’m on the roof, but… that happens. Just bumps and bruises. Nothing serious. I work with my hands, I bump into things.
+DOCTOR: Right. So, minor falls, typical with the job. Okay. Given your history and the examination findings, I suspect this is likely a musculoskeletal issue, possibly costochondritis or a muscle strain. However, chest pain should always be taken seriously. To rule out anything more serious, I'd like to order a chest X-ray. It’s a simple procedure, just a quick scan of your chest. It’ll give us a better idea of what’s going on. Would you be willing to get that done?
+PATIENT: Yeah, okay. X-ray sounds good. If it helps find out what’s wrong, then yeah, I’ll do it. Where do I go?
+DOCTOR: Excellent. There’s an imaging center just down the street, at 123 Main Street. I’ll have the order sent over electronically. They should be expecting you. Here's a copy for your records. After they’ve taken the X-ray, the results will be sent back to me, and we can discuss them. In the meantime, you can try over-the-counter pain relievers, like ibuprofen or naproxen, and avoid strenuous activity. If the pain worsens, or you develop any shortness of breath, dizziness, or fever, please seek immediate medical attention. Do you have any questions?
+PATIENT: Okay, ibuprofen, yeah. I think I have some at home. And no, I don't think so. That's all pretty clear. Thank you, Doctor.
+DOCTOR: Alright. We'll review the X-ray results as soon as they come in. And please don't hesitate to call if you have any concerns. I’m scheduling a follow-up appointment for you in one week, just to check on your progress. Does that work for you?
+PATIENT: Yeah, one week sounds good. I can make that work. Thank you again, Doctor Korrell.
+DOCTOR: Perfect. We'll see you then. In the meantime, take it easy. Have a good day, Mr. Bulaong.
+PATIENT: You too, Doctor. Bye.

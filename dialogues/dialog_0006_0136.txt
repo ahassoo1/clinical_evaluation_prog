@@ -1,0 +1,27 @@
+DOCTOR: Right, Lucia Fogelstrom… 38 years old. Good morning. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Um… it’s my… burping. I keep burping. It’s… a lot.
+DOCTOR: Okay. A lot of burping. And how long has this been going on?
+PATIENT: Oh… maybe two weeks? I don't really know the exact date. It started after… a party. A friend’s party. Lots of food, I think. And soda. Maybe too much soda.
+DOCTOR: Alright. Two weeks, started after a party with a lot of food and soda. Are you having any other symptoms along with the burping?
+PATIENT: Um… not really. Just… the burping. Sometimes my stomach feels a little… full. But not painful, you know? Just… uncomfortable. Like when you eat too much at Thanksgiving. Does that make sense?
+DOCTOR: It does, it does. Okay, so no nausea, no vomiting, no diarrhea, no abdominal pain… just the fullness and the burping. Are you experiencing any heartburn or indigestion with this?
+PATIENT: Heartburn…? I don't think so. Sometimes my chest feels… warm, but it's not a bad feeling. It doesn't burn. I don't really know what heartburn feels like, to be honest. Is that… bad?
+DOCTOR: No, it's not bad that you don't know what heartburn feels like. It just helps me narrow things down. That warmth you're feeling… does it happen after you eat, or is it random?
+PATIENT: Um… mostly after I eat. But sometimes even when I haven't eaten for a long time. It’s not… a lot. Just a little warm feeling. And the burping… the burping is more of a problem, really. It’s embarrassing.
+DOCTOR: Right, the burping is the bigger concern. Okay. And what have you tried so far to help with it?
+PATIENT: Not much. I tried… drinking some tea. Ginger tea. My grandma always said ginger is good for your stomach. But it didn't really help. And I tried not to eat so much before bed. But… I still burp. I don’t know what to do.
+DOCTOR: Alright. Ginger tea, trying to avoid eating a lot before bed… good steps. Do you have any allergies to any foods or medications?
+PATIENT: Um… I don’t think so. I’ve never had a bad reaction to anything. But I don’t really eat a lot of different things. Mostly… Cuban food. You know, rice and beans, pork… things like that. Nothing fancy. I haven’t taken any medicine in a long time, so I wouldn’t know.
+DOCTOR: Okay, no known allergies. And what about any current medications you're taking?
+PATIENT: No, Doctor. I don't take any medicine. Just… vitamins sometimes. But I haven't taken them in a while either. I forgot, honestly. Is that… bad to forget?
+DOCTOR: It's not ideal, but we can work with it. Okay. Let's do a quick physical exam, just to listen to your stomach and see if anything sounds unusual. Is that alright?
+PATIENT: Yes, that's okay. That sounds good. I want this burping to stop, so… whatever helps.
+DOCTOR: Alright. If you could lie down on the table for me, please. We’ll start with listening to your abdomen. Just relax. I’m going to listen in a few different spots. Let me know if anything feels uncomfortable. …Okay. Sounds are… normal. A little bit of gurgling, which is expected, but nothing concerning. And no tenderness to the touch. Everything feels soft.
+PATIENT: Okay. That… doesn't sound good, does it? If everything is normal, why am I still burping so much? It’s really annoying. I just want it to stop.
+DOCTOR: No, it doesn’t mean it's not something we can figure out. Normal exam findings actually narrows down the possibilities. It's likely related to… well, sometimes excessive air swallowing or a temporary issue with how your stomach is processing food. Especially with the party and the soda. It could just be a little bit of digestive upset. I'm going to recommend a few things. First, try avoiding carbonated beverages for a week. Really cut them out. And try eating smaller, more frequent meals instead of large ones. Also, try to eat slowly and avoid talking while you eat, that can help reduce air swallowing. We can also try an over-the-counter medication like simethicone, that can help reduce gas. Do you know what that is?
+PATIENT: Simethicone…? No, I don't think so. Is that… a pill? And is it… safe? I don’t want to take something that will make things worse.
+DOCTOR: It is a pill, yes, but it’s very safe. It’s used to relieve gas and bloating. It doesn't get absorbed into your system, it just helps break up the gas bubbles in your stomach. It's over-the-counter, so you can find it at any pharmacy. And it shouldn't interact with anything, since you’re not taking any other medications. I'll write down the dosage for you. If it doesn't improve after a week, or if you start experiencing other symptoms like abdominal pain, nausea, or vomiting, then we should schedule a follow-up appointment. Does that sound alright?
+PATIENT: Okay. That… sounds better. Not safe to make things worse. So, no soda for a week, and the pill. And come back if it hurts? Yes, that sounds alright. Thank you, Doctor. I hope it works. I’m tired of burping.
+DOCTOR: You’re very welcome. It sounds like a simple fix, and hopefully it will be. Here’s the information on the simethicone dosage and some dietary recommendations. And please don’t hesitate to call if you have any questions or if things worsen. Do you have any other concerns today?
+PATIENT: No, Doctor. I think that's everything. Thank you very much for your help. I’ll try the soda and the pill. Maybe I can finally have a normal party without all the burping. .
+DOCTOR: .

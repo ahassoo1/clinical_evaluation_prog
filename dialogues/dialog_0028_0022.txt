@@ -1,0 +1,28 @@
+DOCTOR: Good morning. Soila McConnon, yes?
+PATIENT: Oh, good morning to you too, dear. Yes, that’s me. Soila. It's… it's nice to meet you. Or maybe I've met you before? My memory isn't what it used to be, you see.
+DOCTOR: It's alright, these things happen. I'm Doctor Memmolo. We may have crossed paths, but don’t worry about it. Now, what brings you in today?
+PATIENT: Oh, Doctor… Memmolo, right? Lovely name. Well, my tummy… it feels… full. But not in a good way. And I don't really want to eat. Everything just… doesn't taste good anymore. It's been like this for… a little while now, I think. Hard to say exactly how long. Everything feels a bit fuzzy, you know?
+DOCTOR: "Fuzzy" is… not terribly helpful, unfortunately. A little while… a week?
+PATIENT: Oh, dear. A week… no, longer than that. Maybe… two weeks? More? It all just blends together, you see. I'm sorry. I wish I could be more precise. It just feels… uncomfortable. Like a balloon is getting bigger and bigger inside me. But not painful, exactly. Just… full. And heavy. Do you understand?
+DOCTOR: Heavy… and no pain?
+PATIENT: No pain, no. Not really. It's… a dull feeling. Like I ate too much, but I haven't. I promise. My daughter, she keeps saying I should eat more, but… it doesn't want to go down. And it feels… strange. Like something is… different. Is that… does that make sense? It’s hard to explain what it feels like when you don't know what it is.
+DOCTOR: Alright. And have you noticed any changes in your bowel habits?
+PATIENT: Oh… bowel… habits? Changes… hmm. Now you're asking me something tricky! I… well, I go to the bathroom, yes. But… has it been different? I… I don't really pay attention to those things anymore, if you know what I mean. Old lady problems, I suppose! Everything's slower these days. Is that what you were asking about?
+DOCTOR: Right. Any nausea, vomiting?
+PATIENT: No, no vomiting. Thank goodness. And… nausea? That’s when you feel like you might…? Oh, no, I haven’t felt that. Just… not hungry. And tired. Very, very tired. I sleep a lot now. More than I used to. It’s just… everything feels like too much effort, you see. Even talking, sometimes.
+DOCTOR: And are you on any medications currently?
+PATIENT: Medications… hmm. Let me think. No, not really. The doctor… a long time ago… gave me something for my blood pressure, but I stopped taking it. It made me feel… dizzy. And my daughter said it wasn't necessary, so… I don't take anything regularly. Just a little tea, sometimes, for my nerves. Do you know a good brand? It doesn’t help much, but it’s nice and warm.
+DOCTOR: Alright. We should probably do a quick examination. Just to get a better idea of what's going on. Can you lie down on the examination table for me?
+PATIENT: Oh, alright. An examination… yes, of course. Just let me… Is it over there? A little help would be lovely, dear. My knees aren’t what they used to be.
+DOCTOR: Yes, right over here. Careful now… Just lie back. I'll listen to your tummy first.
+PATIENT: Oh, thank you, dear. Very kind of you. It feels a little cold… Just tell me what you’re doing, alright? I like to know what's happening. It makes me feel less… anxious.
+DOCTOR: Alright. Deep breaths… Hmm… sounds a bit… full, as you said. Not much else remarkable. Palpating now… Any tenderness here?
+PATIENT: No, not really. It feels… firm. Like a balloon, maybe? But not painful. Just… hard. You're pressing… here? Yes, that's… that's where it feels the biggest. But it doesn't hurt, doctor. Really. It’s just… uncomfortable. Like something is… stuck. Is that normal?
+DOCTOR: “Stuck” is…not helpful. Abdomen is distended, firm to palpation. No acute tenderness. Sounds like a bit of… gas, possibly. But given your age and history, we should probably get a blood test just to rule things out. I’ll order a complete blood count and a metabolic panel. Do you have any allergies to contrast dye or iodine?
+PATIENT: Contrast dye… iodine…? Oh dear, you're losing me again, doctor. I… I don’t think so. I haven’t had… whatever that is… ever. I used to get little… injections when I was a girl, but that was a long time ago. Is it something bad? My daughter always worries about me getting injections… She says I don't bounce back like I used to. Will it hurt?
+DOCTOR: No, it won't be an injection. Just a blood draw. Routine. It helps us see if there's anything else going on. And no, you haven't had contrast dye before. It's not something we'd use unless we needed to do an imaging scan. We aren’t doing that right now. The lab is just down the hall. I'll have a nurse draw the blood. Do you have any dietary restrictions?
+PATIENT: Oh, a blood draw… that sounds… less scary than an injection, yes. No dietary restrictions, no. I try to eat… healthy things. But my appetite isn’t very good, you see. Mostly soup these days. And toast. Is that alright? My daughter makes me eat fruit, but it doesn't really taste like anything anymore. Is it alright to just have soup and toast? Will that affect the blood test?
+DOCTOR: Soup and toast is fine. It shouldn’t affect the results significantly. I'll send the nurse in to draw the blood. After that, we can discuss the results and figure out a plan. Do you need assistance getting off the table?
+PATIENT: Oh, thank you, dear. That’s very kind of you. I think… I think I can manage. My knees are just a little… stiff. But I'll call out if I need help. Just let me… It's just a bit awkward, you see. Old age, I suppose. Just give me a moment. The nurse… she’s nice, is she? I do like a gentle nurse.
+DOCTOR: Yes, she is. I’ll let her know you’re ready.
+PATIENT: .

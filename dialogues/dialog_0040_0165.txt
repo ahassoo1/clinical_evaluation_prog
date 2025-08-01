@@ -1,0 +1,20 @@
+DOCTOR: Right, Mr. Brege, is it?
+PATIENT: Yeah, that's me. Clide Brege. Look, doc, I don't wanna take up too much of your time, alright? Just wanna figure out this fever thing. It keeps comin' back.
+DOCTOR: A fever, you say. “Keeps comin’ back.” Right. Well, we need to understand how it keeps coming back, don’t we?
+PATIENT: Yeah, you're tellin' me. It'll go away for a day or two, feelin' fine, then BAM, back again. Usually in the afternoons, I think. No idea what sets it off. It's just...annoying, mostly. And makes me tired.
+DOCTOR: Afternoon fevers...Alright. And how high has this fever been?
+PATIENT: Hmm... I haven't actually taken my temperature, to be honest. I just feel warm, you know? Sweaty. Maybe a little shaky sometimes. My wife, Elena, she checked once, said it was around 100, maybe 101. But that was a week ago, I think. It goes up and down, I don't keep track of it real close. I mostly just try to rest.
+DOCTOR: Rest, yes. Well, that’s…something. Have you noticed anything else with these fevers?
+PATIENT: Like what? I mean, just tired, like I said. No cough, no sniffles. No aches, really. Sometimes my stomach feels a little off, but I eat pretty much anything, so that's probably normal. Elena says I talk in my sleep when I'm feverish, but she also says I snore, so…who knows. It's just...a feeling of being run down. Nothing specific I can point to.
+DOCTOR: Right. So, vague… general malaise. And no other symptoms to speak of. Have you been traveling recently, Mr. Brege?
+PATIENT: Nope. Haven't left the island in…oh, goodness, must be ten years. Last time was to visit my sister in Florida, but that was ages ago. Mostly just go to the market, maybe the bakery sometimes. Nothing exciting. It's not like I picked somethin' up on a trip, doc. I assure you.
+DOCTOR: Alright. And any changes in your diet lately?
+PATIENT: Nah, Elena does most of the cookin'. She makes good Puerto Rican food, always has. Rice and beans, pernil, tostones…you know. Not much changes around here. Maybe I had a little more mangoes than usual, 'cause they were on sale, but that's about it. Definitely not anything weird.
+DOCTOR: Mangoes…Right. Let’s see. Any new medications or supplements?
+PATIENT: Nope. I try to stay away from all that stuff if I can. Doc told me years ago to just take it easy and eat right. I don’t like messin’ with pills if I don’t have to. Elena takes somethin’ for her arthritis, but I don’t touch her stuff. I don’t need any extra problems.
+DOCTOR: Alright. Let's get a quick physical exam, then. Just to be thorough. Can you roll up your sleeves, please?
+PATIENT: Sure, no problem. Just try to be quick, alright? I got some errands to run after this. Elena's expectin' me to pick up some plantains.
+DOCTOR: Hmm. No obvious swelling. Blood pressure’s a little low, 110/70. Lungs are clear. Soft, no tenderness. 99.7. Mildly elevated, but not significant. Well, everything seems normal. It's probably just a virus. You’ll have to ride it out.
+PATIENT: A virus? That's it? After all this? I've been feelin' sick on and off for weeks! Look, doc, with all due respect, a virus doesn't just keep comin' back. I'm not a doctor, but I got a little common sense. Is there anything else you can do? Maybe some bloodwork or somethin'? I don’t wanna just sit here and wait for it to go away on its own. Elena will kill me if I come home still sick.
+DOCTOR: Mr. Brege, honestly, you seem perfectly fine. Bloodwork is expensive and unnecessary for a mild fever. And frankly, I have other patients waiting. It’s likely a low-grade infection, possibly related to your age. I'll write you a prescription for Tylenol. Take as directed. If it gets significantly worse, then come back. But I doubt it will. Next!
+PATIENT: .

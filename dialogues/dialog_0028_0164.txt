@@ -1,0 +1,25 @@
+DOCTOR: Right. Mrs. Haggar, is it?
+PATIENT: Yes, that’s right. Mande Haggar. It’s nice to meet you, Doctor… Memmolo, is it?
+DOCTOR: Yes, Memmolo. And you can call me Doctor Memmolo, if you must. Now, let’s not waste time. What brings you in today?
+PATIENT: Well, it’s a bit… strange, honestly. I’ve been feeling really tired lately, and I’ve been looking quite yellow, my friend noticed it first. And it seems to happen after I eat fava beans. It's very odd.
+DOCTOR: Tired and…yellow?
+PATIENT: Yes, tired like… really weak, and just no energy. And my skin and the whites of my eyes are yellowing. It’s not a subtle yellow, you know? It’s definitely noticeable. And like I said, it always seems to be after I eat fava beans. I didn’t think it was the beans at first, but it’s happened three times now.
+DOCTOR: Fava beans, you say?
+PATIENT: Yes. I love them, honestly. We have a little garden and I grew some this year. But each time I eat them, a few days later, I start feeling awful and get… well, yellow. It's quite concerning. I don't know what's going on.
+DOCTOR: Hmm. And you've never experienced this before?
+PATIENT: No, never. I’ve been eating fava beans on and off for years, and nothing like this has ever happened. It only started this summer. It’s really thrown me for a loop. Do you… do you have any idea what it could be? I’m starting to worry it’s something serious.
+DOCTOR: Look, I'm not going to speculate without some proper examination. It could be a number of things. We need to rule things out systematically. Let’s start with some basics. Any family history of…liver problems?
+PATIENT: Liver problems? Hmm… not that I’m aware of. My parents were both healthy, as far as I know. My mother had high blood pressure later in life, but nothing about the liver. And I don’t think any of my grandparents had anything like that either. It's a pretty healthy family, actually. I'm the odd one out, clearly.
+DOCTOR: Alright. And what about medications?
+PATIENT: Just a daily multivitamin, honestly. Nothing else. And I haven’t started any new supplements or anything recently. It’s just the regular one I’ve been taking for years. I really try to eat a healthy diet, that's why I started the garden, you see. I don't usually take a lot of pills.
+DOCTOR: Very well. Let's do a quick physical exam, shall we?
+PATIENT: Yes, of course. Whatever you think is best, Doctor. I’m ready when you are. Should I… should I get changed into one of those gowns?
+DOCTOR: No, no. Not necessary. Just lie back on the examination table. I'll need to listen to your heart and lungs, and then I'll take a look at your abdomen and… yes, your skin.
+PATIENT: Okay, sounds good. Here we go. Just let me know if there’s anything I need to do. I’m a bit nervous, to be honest. I really don’t like being sick.
+DOCTOR: Heart sounds are regular, lungs are clear. Abdomen is soft, no tenderness to palpation. Skin… yes, there is definite jaundice. Marked scleral icterus as well. Alright, Mrs. Haggar. It appears you do have jaundice. We need to run some blood tests to determine the cause. Specifically, I want a complete blood count, a liver function panel, and a bilirubin level.
+PATIENT: Okay, that sounds… thorough. Blood tests, right. I guess that's what needs to be done. Will they tell us what’s causing it? Is it something serious, Doctor? I’m a little scared, to be honest.
+DOCTOR: The tests will give us a clearer picture. It could be a number of things, ranging from relatively minor to…more concerning. The fact that it seems linked to fava beans is…interesting. It suggests a possible enzymatic deficiency, but we need to confirm that. We'll take the blood now, and I'll have the results sent to me as soon as they're available. Don't jump to conclusions. We will figure this out. The nurse will be in shortly to draw your blood.
+PATIENT: Okay. “Enzymatic deficiency”? Right. I'll try not to worry too much. Thank you, Doctor. I appreciate you taking the time to listen. I'll just… wait for the nurse then.
+DOCTOR: Yes, well. Just try to relax. The nurse will be with you shortly. And please, try to avoid eating fava beans until we have a diagnosis. That is all for now.
+PATIENT: Okay, definitely no more fava beans. I can do that. Thank you again, Doctor. I’ll wait here for the nurse. I think I'll just… sit quietly for a bit. .
+DOCTOR: Very good. .

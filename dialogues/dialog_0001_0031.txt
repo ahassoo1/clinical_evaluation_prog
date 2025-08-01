@@ -1,0 +1,24 @@
+DOCTOR: Alright, Nixon, right?
+PATIENT: Yes, that is correct. Nixon Kreckel. It’s nice to meet you, Doctor… Pehrson, was it?
+DOCTOR: Pehrson’s fine. Look, I got a full waiting room, so let’s just get straight to it. What brings you in today?
+PATIENT: Well, my left leg… it’s quite swollen. And I’ve been told I have… a funny heartbeat sometimes. It’s not a new thing, but the leg is worse lately. It feels… tight, and a bit painful if I stand for too long.
+DOCTOR: Swollen leg and a funny heartbeat… right. How long has the leg been swelling?
+PATIENT: Oh, um… let me think. It’s been getting noticeably worse for maybe a week or so? But I think I first noticed a little bit of swelling… maybe two weeks ago, when it was warmer? It’s hard to say exactly. I don’t really keep track of things like that.
+DOCTOR: Two weeks, give or take. And this “funny heartbeat,” can you describe it?
+PATIENT: It’s… fluttery. Like a bird flapping its wings, maybe? Not a strong beat, just… quick and uneven. It doesn’t happen all the time, just sometimes when I’m resting. It doesn’t usually bother me, but I was told it’s important to mention. I'm not entirely sure why it's important, though.
+DOCTOR: Okay. And any pain in your chest with this fluttering?
+PATIENT: No, no chest pain. Not at all. Just the leg feeling… full. And a bit tender if I press on it. It’s mostly just uncomfortable, really. I can still walk, but I do prefer to sit down after a little while.
+DOCTOR: Alright. Let's have a look at the leg. Can you sit on the exam table?
+PATIENT: Yes, of course. Is there anything special I need to do?
+DOCTOR: Hmm. Definitely some edema here. And it's tender to the touch... and warmer than the other side. Pulses are present, but a bit weak. I'm going to listen to your heart and lungs now. Take a deep breath.
+PATIENT: Okay. Is everything alright? It feels… a bit strange having that thing on my chest.
+DOCTOR: Heart sounds are… irregular, as expected. Lungs are clear. Alright, Nixon. Given your age and the swelling in your leg, we need to rule out a few things. I’m ordering a D-dimer and an EKG. We’ll also check your basic blood work. Don’t get worried, it could be nothing, but we need to be thorough.
+PATIENT: A… D-dimer? And an E… K… G? What exactly are those? And what are we ruling out, if you don’t mind me asking? I just… I don’t want it to be anything serious. I haven’t been feeling well generally, but I didn’t think it was anything major.
+DOCTOR: Look, a D-dimer is a blood test, okay?
+PATIENT: Oh. A blood test. And the EKG? Is that also a blood test? I’m sorry, I’m not very good with… medical things. It all sounds a bit frightening. What if it is something serious? What kind of things are we looking for?
+DOCTOR: An EKG… electrocardiogram. It checks your heart’s electrical activity. It's a quick scan with stickers on your chest. It doesn’t hurt. We’re checking for things like blood clots, which can cause swelling in the leg and irregular heartbeat. Now, I’m not saying you have a blood clot, okay?
+PATIENT: Oh… a blood clot? That sounds… bad. Is it common? And if I do have one, can it… travel? I’m sorry to ask so many questions, it’s just… a bit overwhelming. I'm not used to being in the doctor's office.
+DOCTOR: It’s not common, particularly at your age. But it's something we need to rule out. And yes, they can travel, which is why we’re doing these tests. Look, I’ve got other patients waiting. The nurse will draw your blood and do the EKG. We’ll get the results back as soon as possible. In the meantime, elevate your leg and try not to worry. Next!
+PATIENT: Oh… right. Okay, elevate my leg. Thank you, Doctor. I… I will try not to worry. And where will the nurse be? Should I just wait here?
+DOCTOR: She’ll be in shortly. Just… sit tight. And try to relax.
+PATIENT: .

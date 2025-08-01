@@ -1,0 +1,39 @@
+DOCTOR: Good morning, Ms. Heidenthal. I'm Dr. Galena. It's… lovely to meet you. Now, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It's nice to meet you too. Well, to be honest, I’ve been a little worried about my memory lately. It's just… things aren’t sticking like they used to.
+DOCTOR: Memory concerns, alright. That’s… perfectly reasonable to come in for. It happens. Hmm. Can you tell me a little more about what you mean by “not sticking”?
+PATIENT: Well, it's hard to explain. Like, I'll meet someone new, we'll chat, and then… their name is just gone. Or I'll go into a room and forget why I went there. Small things, mostly, but it's happening more and more. It's a bit frightening, to be honest.
+DOCTOR: I understand that’s unsettling. Small things can be the most worrying, because they hint at something more. Alright. And how long has this been going on for?
+PATIENT: Oh, goodness… that's a good question. It's gradual, you know? I think maybe… six months? It started slowly, just little lapses. But the last couple of months, it feels like it's gotten a bit worse. I used to be so good with names! Now… it’s a struggle.
+DOCTOR: Six months… Okay. And are these memory lapses interfering with your daily life at all?
+PATIENT: Yes, a little. It's mostly at work, honestly. I'm a dentist, so I need to remember patient histories and things. I’ve started writing everything down, which is a pain, but I'm afraid of forgetting something important. It takes longer to do things, and I worry I’ll miss something.
+DOCTOR: A dentist, right. That does require a good memory. Alright. And have you noticed any other changes alongside the memory issues?
+PATIENT: Hmm… let me think. Not really, not that I’ve noticed. I sleep okay, I think. I haven’t felt particularly down or anxious. No trouble with balance or anything like that. Just… the memory. It's the main thing. Sometimes I feel a bit… foggy, but I thought that was just being tired.
+DOCTOR: Alright. Let’s see… I’m just pulling up your EHR information here. Do you have any allergies I should be aware of?
+PATIENT: No, not that I know of. Never had a reaction to anything. I take a multivitamin, that’s it. And I have Medicare, if that's important.
+DOCTOR: Medicare is good to know. And no medications other than a multivitamin. Okay. Now, just to get a broader picture, have there been any major life stressors recently?
+PATIENT: Not really. My parents passed away a few years ago, which was hard, obviously, but I’ve adjusted. I’m single, never married, so no relationship issues. Work is… work. Nothing particularly stressful lately, just busy. I guess I've been a bit lonely, if I'm honest, but not overwhelmingly so. It's just… me, mostly.
+DOCTOR: Alright. That gives me a little bit of a picture. Now, I’d like to do a quick physical exam, just to rule out any underlying physical causes for the memory issues. It's a standard procedure. Is that alright with you?
+PATIENT: Yes, that sounds fine. Whatever you think is best. I trust your judgment. What will it involve? I’m not good with… needles, if that matters.
+DOCTOR: No needles today, I promise. Just a basic neurological exam – checking your reflexes, balance, coordination, and a few other things. It’ll be quick. Let's start with just following my finger with your eyes. Don't move your head, just your eyes. Ready?
+PATIENT: Yes, ready. Go ahead. I hope I’m not too shaky. It’s just… the thought of something being wrong, you know?
+DOCTOR: Good, good. Very steady. And now, can you tell me today’s date?
+PATIENT: Oh… um… let me think. It’s… August? Definitely August. And the… second? Yes, the second. August 2nd. Is that right?
+DOCTOR: August 2nd, correct. And now, can you repeat these three words for me?
+PATIENT: Okay, go ahead. I’ll try my best. I'm a bit worried I’ll forget them already!
+DOCTOR: Apple… Table… Penny. Now, try to remember those. I’m going to ask you a few other questions, and then I’ll come back to those three words. Fair enough?
+PATIENT: Yes, fair enough. Apple, table, penny… Got it. I'm repeating them to myself. Apple, table, penny.
+DOCTOR: Now, just a quick check of your reflexes… This might feel a little… tap.
+PATIENT: Okay. That was… surprising! Everything feels a bit… off today, to be honest. I'm not sure if it's the worry or what.
+DOCTOR: Perfectly understandable. It's a bit unsettling being examined. Everything seems normal so far, reflexes are good. Now, can you tell me what year it is?
+PATIENT: Oh… um… 20… 25? Is it 2025? I think it’s 2025. It feels like time is just… slipping away.
+DOCTOR: Alright. And finally, can you tell me who is the current president?
+PATIENT: Oh dear. Um… That’s… I know this! I really do! It’s… it’s on the tip of my tongue. I feel so silly. I should know this. Is it… Biden? Is that right? Joe Biden? I hope so. It feels right, but… I’m just not sure.
+DOCTOR: That's perfectly alright, Ms. Heidenthal. These are just quick checks. Now, let's go back to those three words: Apple, Table, Penny. Can you repeat those for me?
+PATIENT: Apple… Table… Oh… oh dear. I… I can't remember the third one. Apple and Table… but the third one is gone. I’m so sorry. I really was trying. It’s just… blank. This is awful.
+DOCTOR: It’s alright. Don't apologize. This gives me a good starting point. Based on what you've told me, and the quick exam, it sounds like you're experiencing some cognitive difficulties, specifically with short-term memory. It’s too early to say what’s causing it, but it’s important to investigate further. I’m going to recommend an MRI of the brain to rule out any structural issues. And I’d also like you to complete a more comprehensive neuropsychological evaluation. Would that be acceptable to you?
+PATIENT: Yes, that sounds… sensible. Anything to figure out what’s going on. An MRI and an evaluation… okay. It’s a bit frightening, but I’d rather know. Who would I see for the evaluation? And do you have any idea how long it will take to get an appointment for the MRI? I… I just hope it’s not anything too serious.
+DOCTOR: I’ll write down the name and number of a highly recommended neuropsychologist, Dr. Anya Sharma. She specializes in memory disorders. As for the MRI, it can take a few days to get an appointment, maybe a week or so. I’ll have my staff schedule it for you. They’ll call you with the details. In the meantime, I recommend you avoid any mentally strenuous activities as much as possible. And it's important to let loved ones know about this, in case you need support. Do you have anyone who can help you with things while you’re waiting for the results?
+PATIENT: I… I don’t really. I’ve always been independent. I’ve got a neighbor, Mrs. Peterson, who’s very kind, but I don’t want to bother her. I suppose I can manage. But… thank you for suggesting it. It’s just… a bit overwhelming, to be honest. I really appreciate you taking the time to listen.
+DOCTOR: It is overwhelming, Ms. Heidenthal. And it's perfectly alright to feel that way. Please don't hesitate to ask my staff for help with anything, even just finding resources. We’re here to support you. I’ll write down a few resources for memory support groups as well. Now, do you have any questions for me before we finish up?
+PATIENT: No, I… I don’t think so. Not right now. I just need to… process everything. Thank you, Doctor Galena. Really, thank you. I appreciate your kindness. I’ll let your staff know if I think of anything. I guess I’ll just… go home and try not to worry too much. It's easier said than done.
+DOCTOR: Of course. That’s perfectly understandable. Take things one day at a time, Ms. Heidenthal. And remember, we’re here to help. My staff will be in touch soon to schedule the MRI and provide you with Dr. Sharma’s contact information. Don't hesitate to call if you have any concerns. Have a good day, and take care. .

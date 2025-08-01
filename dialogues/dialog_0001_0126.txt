@@ -1,0 +1,21 @@
+DOCTOR: Alright, Christen. Thirty-two, right?
+PATIENT: Yes, that's correct. Thirty-two. Though, if you don't mind me saying, I’d rather not spend too long here today if possible. I have a rather full schedule.
+DOCTOR: Look, everyone’s busy. Just tell me what's bringing you in. Keep it concise, alright?
+PATIENT: Right. Of course. Well, I've been… unusually thirsty, I suppose you could say. And hungry. Very hungry. It feels like I’m constantly needing to eat and drink, and it’s not… normal. I don't know what's causing it, and it’s becoming quite bothersome.
+DOCTOR: Thirsty and hungry. Okay. And how long has this “unusual” thirst and hunger been going on?
+PATIENT: Hmm… let me think. It's been… a few weeks now, I'd say. Maybe a month? It started gradually, but it’s definitely gotten worse over the last week or so. I haven't been sleeping particularly well either, now that I think about it.
+DOCTOR: A month. Right. Any changes in your weight?
+PATIENT: That's… a good question. I haven't been actively weighing myself, but my clothes feel a bit looser, if that means anything. I wouldn’t say I’ve lost a significant amount, but… noticeably looser, yes. It’s not something I pay a great deal of attention to, usually.
+DOCTOR: Looser clothing. Okay. And any… frequent urination?
+PATIENT: Frequent urination? Yes, actually. Now that you mention it, I have been going to the bathroom quite a bit more often than usual. Both during the day and… well, throughout the night as well. It's been disruptive, to say the least. Is that… normal with this? I don't understand what's going on.
+DOCTOR: Look, a lot of things can cause thirst and urination. We need to rule some things out. Have you noticed any changes in your vision?
+PATIENT: Changes in my vision? Hmm… I hadn't really thought about it. Let me see… not that I’ve noticed, no. My eyesight’s never been particularly good, so it's hard to say if it's gotten worse. I wear glasses, and I haven’t needed a new prescription recently. Is that helpful? I’m not sure what you're looking for, exactly.
+DOCTOR: Right. Okay. Any family history of… diabetes?
+PATIENT: Diabetes… Now, that's a name I've heard. My… my grandmother, on my mother’s side, I believe she had something like that. But it was a long time ago, and I don't recall the details. I'm not very close with that side of the family, unfortunately. Would that be… relevant? I don’t know much about the family medical history, to be honest.
+DOCTOR: Okay. Well, we’ll need to do a quick blood sugar check. Just standard procedure. Let’s get that done, and we'll see what we’re dealing with. Sit tight.
+PATIENT: Right. Yes, of course. Blood sugar check. As long as it doesn’t take too long. Thank you, Doctor.
+DOCTOR: Alright. 215. A little high. We’ll need a fasting glucose and A1C to confirm. And probably a urine sample. Nurse will be in to get that.
+PATIENT: 215… is that bad? A fasting glucose and… what did you say? A1C? I'm not familiar with these terms, Doctor. And a urine sample… I suppose that's standard. I really would appreciate it if you could explain what this all means, briefly. Is this something serious? I have commitments this afternoon.
+DOCTOR: Look, 215 is elevated. Fasting glucose checks your blood sugar after you haven’t eaten for a while. A1C gives us your average blood sugar over the last few months. Elevated levels could indicate diabetes. It's not an emergency, but it needs to be investigated. Nurse will explain the sample collection. We'll get the results back in a couple days. Don't panic.
+PATIENT: Right. I understand. Diabetes… I see. A couple of days. Well, alright then. Thank you, Doctor. I’ll wait to hear from you. I suppose I'll just wait for the nurse. .
+DOCTOR: .

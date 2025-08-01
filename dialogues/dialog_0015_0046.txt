@@ -1,0 +1,42 @@
+DOCTOR: Good morning, Ms. Creagh. I'm Dr. Trestrail. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It’s a pleasure to meet you. I’ve been experiencing some… pressure in my bladder, and it’s become quite bothersome lately. It’s the main reason for my visit.
+DOCTOR: Bothersome, you say. Alright. Can you describe this pressure to me?
+PATIENT: Certainly. It feels…full, even shortly after I’ve gone to the restroom. And there's this sort of… urgency, a constant need to go, even when there isn’t much to go, if that makes sense. It’s a little uncomfortable, and it's starting to disrupt my day.
+DOCTOR: I see. And how long has this been going on?
+PATIENT: Oh, let me think… it started gradually, maybe a month or so ago? At first, it was just now and then, easily dismissed. But over the last two weeks, it’s become much more frequent and noticeable. I’d say it’s been consistently bothering me for about fourteen days now.
+DOCTOR: Alright. And aside from the feeling of fullness and urgency, have you noticed any other symptoms?
+PATIENT: That's a good question. Let me consider… No, not really. No pain, no burning, no fever. My urine seems normal in color and… well, I haven't noticed any blood. Just the constant pressure and the feeling of needing to go. I suppose I've been drinking my usual amount of water, maybe a little more because of the feeling.
+DOCTOR: Hm. And how much is your usual amount of water?
+PATIENT: Generally, I try to drink about eight glasses a day. Perhaps nine or ten on a warmer day, or if I’ve been particularly active. I haven't consciously increased it significantly, but I may be sipping more often just in anticipation of needing to use the restroom. It's hard to say for sure.
+DOCTOR: Right. And do you have any difficulty starting your stream when you go to urinate?
+PATIENT: No, thankfully, not at all. The stream starts normally, and it flows at a regular pace. It’s just… the feeling that precedes it is the issue. The pressure, the urgency… it’s there even when my bladder isn’t actually full, as far as I can tell.
+DOCTOR: Alright. And are you experiencing any pain in your back or sides?
+PATIENT: No, Doctor. No pain in my back or sides. I haven't noticed any discomfort there at all. Everything feels normal in that regard. It really is just focused on the lower abdominal area, this pressure.
+DOCTOR: Okay. Now, let's talk about your medical history. Have you ever been diagnosed with any medical conditions?
+PATIENT: Certainly. I’ve been generally healthy, thankfully. I was diagnosed with mild hypertension a few years back, but it’s well-controlled with medication. Otherwise, no major illnesses or surgeries. I do have seasonal allergies, but those are managed with over-the-counter antihistamines. And I am up-to-date on all my vaccinations.
+DOCTOR: And what medications are you currently taking for your hypertension?
+PATIENT: I'm taking Lisinopril, 20 milligrams, once daily. I’ve been on it for about three years now, and my blood pressure has been consistently within the normal range since I started. I take it every morning with breakfast. I haven't had any side effects, thankfully.
+DOCTOR: Okay, good. And do you have any allergies to medications?
+PATIENT: No, Doctor. I don’t have any known allergies to medications. I’ve taken a variety of antibiotics and other prescriptions over the years, and I haven’t experienced any allergic reactions. I do sometimes get a mild itch with certain lotions, but that’s not a medication allergy. Just a sensitivity.
+DOCTOR: Alright. Now, let's briefly discuss your family history. Are there any instances of bladder problems or kidney disease in your family?
+PATIENT: That's a good question. Let me think… My mother had frequent urinary tract infections when she was younger, but she didn't have any chronic bladder issues. My grandmother, on my father’s side, had diabetes, but I don’t believe she had any kidney problems specifically. I don’t recall any other instances of bladder or kidney disease in the family, but I'm not entirely certain. I would have to ask my parents for a more detailed history.
+DOCTOR: Hmm. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, Doctor, I do not smoke. I rarely drink alcohol – perhaps a glass of wine with dinner on special occasions, but it's infrequent. And I do not use any recreational drugs whatsoever. I maintain a very healthy lifestyle overall.
+DOCTOR: Okay. Well, I'd like to perform a quick physical exam to get a better understanding of what's going on. Is that alright with you?
+PATIENT: Yes, absolutely. That sounds perfectly reasonable. Please, proceed whenever you are ready. I want to understand what’s causing this, and I trust your expertise.
+DOCTOR: Very good. Let’s start with your abdomen. Please lie back on the examination table. I’m going to palpate your abdomen to check for any tenderness or abnormalities. Please let me know if anything feels uncomfortable. Do you feel any pain or discomfort when I press here?
+PATIENT: No, Doctor. That doesn’t hurt. It feels…normal, really. Just the usual gentle pressure. Nothing sharp or unexpected. I can feel you pressing, of course, but it isn’t causing any pain or discomfort. It feels like a standard examination.
+DOCTOR: Alright. And what about here?
+PATIENT: Still nothing, Doctor. No pain or discomfort. I do feel a bit of… fullness, naturally, but that doesn’t surprise me, given the pressure I’ve been experiencing. But it’s not a painful fullness, if that makes sense. Just a general sensation of pressure.
+DOCTOR: Alright. Now I’m going to listen to your abdomen with my stethoscope. Just breathe normally. Sounds normal so far. Now, I’d like to perform a quick neurological exam, just to rule out any issues that might be contributing to bladder control. I’m going to check your reflexes.
+PATIENT: Yes, of course. That sounds sensible. Please proceed. I’ll do my best to cooperate. Just let me know if there’s anything specific I need to do.
+DOCTOR: Okay. Please close your eyes. I'm going to check your reflexes now. This may be a little startling, but it shouldn't be painful. Okay, good reflexes on both sides. Now, I’m going to assess your sensation. Can you tell me when you feel this?
+PATIENT: Yes, I felt that. It was a light touch, but I can definitely feel it. It was on my left leg, correct? It felt…normal. No tingling, no numbness, just a standard sensation.
+DOCTOR: Yes, that’s correct, your left leg. And now your right leg. Do you feel this?
+PATIENT: Yes, I felt that as well. Same sensation, on my right leg. No differences between the two legs, as far as I can tell. It felt just like the test on my left leg – a light touch, easily noticeable.
+DOCTOR: Okay, good. Everything seems neurologically intact. I’d like to order a urinalysis and a urine culture, just to rule out any infection. I also want to check your post-void residual volume – that’s how much urine is left in your bladder after you urinate. We'll need you to urinate into a container after the exam, and then we'll use a bladder scanner to measure the amount remaining. Does that sound alright?
+PATIENT: Yes, that sounds perfectly reasonable, Doctor. I am happy to comply with those tests. A urinalysis and urine culture, and the post-void residual volume test… I understand. I’m glad we’re being thorough. It will give me peace of mind, and hopefully provide some answers.
+DOCTOR: Very good. Now, if you could please step into the restroom and collect a urine sample. I will meet you in a few moments to perform the post-void residual volume test. Let me know when you’re finished.
+PATIENT: Certainly. I'll go collect the sample now. I’ll call out when I’m done.
+DOCTOR: .
+PATIENT: .

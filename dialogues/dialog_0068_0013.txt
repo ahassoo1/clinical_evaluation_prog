@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Mr. Hilber. I'm Dr. Sham. So, what brings you in today?
+PATIENT: Good morning, Doctor. Thank you for seeing me. Well, it’s… it’s my water. I have trouble… getting it all out, you see. Like it won’t empty completely. It’s been going on for a little while now, maybe a month or so.
+DOCTOR: Okay. A month, you said. And you feel like you’re not emptying your bladder completely?
+PATIENT: Yes, that’s right. Not completely. And sometimes… it takes a long time to start, even when I do need to go. It’s… uncomfortable. Not painful, exactly, just… stuck. Does that make sense?
+DOCTOR: It does, yes. "Stuck" is a good way to describe it. Have you noticed any changes in your urine itself?
+PATIENT: Changes? Hmm… I haven’t really been looking, Doctor. I just… go. I don’t pay much attention to the color or anything. Sorry. Is that bad? Should I be?
+DOCTOR: No, no, it’s alright. It’s not necessarily bad, just… helpful information. We often ask. Okay. And have you had any fever, chills, or pain in your back or side?
+PATIENT: No fever, no chills. My back… sometimes it aches a little, but I get aches in my back anyway, from working. I bend over a lot at the shoe factory. I don’t think it’s that kind of ache, if you understand. More like… old age aches.
+DOCTOR: Okay, factory work. I see. And any burning or discomfort while you urinate, or immediately afterwards?
+PATIENT: No, no burning. Not right after, either. It just… doesn’t feel like it all comes out, that’s all. Like there’s still some left in there, even when I’m done. It's a strange feeling. I have to go back to the restroom not long after sometimes.
+DOCTOR: Alright. And are you experiencing any increased frequency – needing to go more often than usual?
+PATIENT: Yes, actually. That's right. I am going more often. Especially at night. I wake up a couple of times to go. It wasn’t like that before. It’s… tiring, to be honest. Waking up in the middle of the night.
+DOCTOR: Okay. Frequent urination, particularly at night. Let's talk about your past medical history for a moment. Do you have any known medical conditions, like diabetes or prostate problems?
+PATIENT: Well, I was married for a long time, but my wife… she took care of all that paperwork. I’m sorry. I don't really remember what conditions I have. The doctor always just gave her the information. I have Medicare now, so they know something, I suppose. And I had a bad flu a few years back, but I got over that. Nothing else, not that I recall.
+DOCTOR: Alright. That's… understandable. We can look up your records here. Do you have any allergies to medications?
+PATIENT: No, I don’t think so. Never had a reaction to anything, as far as I know. Again, my wife… she kept track of all that. I’m really sorry I can’t be more help. I just… worked and she took care of things.
+DOCTOR: Okay. No known allergies. And are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: No, sir. Nothing at all. I don’t like taking pills if I can avoid it. Just… water. And a little bit of coffee in the morning, but not too much.
+DOCTOR: Okay. No medications. Alright, Mr. Hilber, I’d like to do a quick physical exam now, if that’s alright with you. Just to check a few things. It’ll be a simple abdominal exam, and I’ll listen to your abdomen. Then I’ll check a quick neurological exam. Does that sound okay?
+PATIENT: Yes, Doctor, that sounds fine. Whatever you need to do. I trust your judgement. I just want to get this figured out, you know? It’s… bothering me more and more.
+DOCTOR: Alright. If you could lie back on the exam table, please. I'm going to start by listening to your abdomen with the stethoscope. Just breathe normally. Hmm… abdomen is soft, no tenderness to palpation. Bowel sounds are normal. Now, let's check your reflexes quickly. Could you cross your legs and I'll tap a few spots on your knees and ankles?
+PATIENT: Yes, of course. Go ahead, Doctor. Just let me know if you need me to do anything.
+DOCTOR: Okay. Reflexes are… diminished, but not significantly. Some weakness in the lower extremities. Alright, Mr. Hilber, I'm going to order a urinalysis to check for infection and other abnormalities. We also need to check your post-void residual volume – that will tell us how much urine is left in your bladder after you urinate. We can do that right here in the clinic with a bladder scanner. That'll give us a better idea of what's going on. Do you have any questions so far?
+PATIENT: No, Doctor. That… sounds good. Checking the water left in there, that makes sense. A scanner? It doesn’t hurt? I don’t like needles, if that matters.
+DOCTOR: No, no needles at all. It's a non-invasive ultrasound device – we just move it over your lower abdomen. It doesn’t hurt at all. It’s just like getting a picture of your bladder. We just want to see how much urine is left after you empty it. Okay?
+PATIENT: Oh. A picture. That’s… good. No needles. That’s a relief. Yes, okay. A picture sounds fine. Let’s do the picture. When do we do it?
+DOCTOR: Alright. Excellent. We’ll have you empty your bladder as completely as you can, then we’ll do the scan right away. It takes just a few minutes. Let me just step out to get the scanner and I’ll be right back. Okay, Mr. Hilber. When you’re ready, please go to the restroom and empty your bladder as completely as you can. Take your time. I'll be right outside when you're finished.
+PATIENT: Okay, Doctor. I'll go now.

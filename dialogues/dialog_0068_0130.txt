@@ -1,0 +1,42 @@
+DOCTOR: Good morning, Mr. Schwer. I’m Dr. Sham. What brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, it’s… family. My mother, she… she had a bad sickness. Heart, I think. And my sister, she has… troubles with remembering things. Not old age, but… you know. I just want to make sure I’m okay. Don’t want the same thing to happen to me.
+DOCTOR: I understand. It's wise to be proactive, especially with a family history of medical issues. Let’s talk about you, then. Could you tell me a little more about what specifically is concerning you?
+PATIENT: Hmm. Not much, really. I feel… okay. A little tired sometimes, but who isn't? I work a lot, traveling around selling things. Not easy work, you know. But no pain, no… what do you call it… dizziness? No falling down or anything. Just… worried. That’s all.
+DOCTOR: Alright. So, generally feeling well, but concern due to family history. Just to be thorough, let’s go through a quick review of your systems. Have you noticed any changes in your appetite or weight recently?
+PATIENT: Changes? Not really. I eat when I can, you know? Sometimes not much time. Weight… maybe a little less, traveling so much. Hard to say, really. I don’t weigh myself. It's been… a while.
+DOCTOR: Okay, appetite variable, possible slight weight loss. Any trouble sleeping?
+PATIENT: Sleeping… sometimes. I wake up a lot. Thinking about work, mostly. Or… things. Just… not a solid sleep, you know? Not every night. Some nights okay.
+DOCTOR: Alright, intermittent sleep disturbance. Any chest pain, shortness of breath, or palpitations – a racing heart – at any point?
+PATIENT: No, Doctor. None of that. Heart feels okay. I get a little… puffed, walking uphill sometimes, but that’s just from being… not young anymore, I guess. Not pain, though. And not trouble breathing when I’m resting.
+DOCTOR: Good. And what about your bowels?
+PATIENT: My…bowels? You mean… going to the bathroom? Everything seems… normal. Not stopped up, not… runny. You know. Regular.
+DOCTOR: Alright. Any recent changes in your urination?
+PATIENT: Changes? Not that I noticed. I go when I need to. Maybe a little more often at night, but I drink a lot of water when I’m on the road, you know? Gotta stay hydrated. Is that bad?
+DOCTOR: No, not necessarily. Just trying to get a complete picture. Now, a little about your past medical history… Have you ever been diagnosed with any medical conditions – diabetes, high blood pressure, high cholesterol, anything like that?
+PATIENT: Let me think… the doctor, a long time ago, said my blood pressure was a little high, maybe? He gave me some pills for a while, but… I stopped taking them. Didn’t feel right, you know? Everything else… I don’t think so. Never had diabetes. Never been in the hospital for anything serious.
+DOCTOR: Alright. So, a history of slightly elevated blood pressure in the past, and you discontinued medication. Do you recall what the medication was for?
+PATIENT: No, I don't remember the name. It was a little white pill, I think. Little white pill for my… pressure. That was years ago, Doctor. I really don’t remember much about it. He said to take it, I took it for a while, then… I just stopped.
+DOCTOR: Okay. And any surgeries or hospitalizations?
+PATIENT: No, nothing like that. I broke my arm when I was a kid, climbing a tree, but that’s it. Just a broken arm. Nothing serious, healed up good. Never been in the hospital overnight for anything.
+DOCTOR: Alright. And what about your family?
+PATIENT: Well, like I said, my mother… bad heart. She passed away a few years back. My sister, she… forgets things. Sometimes she forgets where she is, or who people are. It’s scary. My father… he was okay, I think. Lived a long life. Just… old age, mostly.
+DOCTOR: Okay. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no smoking. Never liked it. I have a beer sometimes, with dinner. Just one, maybe two. And no… nothing else. Just a little beer now and then.
+DOCTOR: Alright. And finally, any allergies to medications, food, or anything else?
+PATIENT: No allergies, Doctor. Never had any trouble with anything like that. I can eat anything, take most pills. Never had a rash, never had trouble breathing. No allergies at all.
+DOCTOR: Alright, Mr. Schwer. Thank you for that information. Given your family history and your description of occasional fatigue and some sleep disturbance, I’d like to do a quick physical exam and order some blood work. Would that be alright?
+PATIENT: Yes, Doctor. That sounds… good. I just want to make sure everything is okay. I don’t want to end up like my mother, you know? A physical… and blood work. Okay. What do I need to do?
+DOCTOR: First, let’s just listen to your heart and lungs, check your blood pressure, and feel your abdomen. Then, we’ll get a little blood sample – just a routine check of your cholesterol, blood sugar, kidney function, and a complete blood count. It will give us a better picture of what's going on. It shouldn't take long. Please, have a seat on the table. If you could put on a gown, that would be helpful.
+PATIENT: Okay. A gown, huh? Alright. Just to check things… make sure I’m okay?
+DOCTOR: Yes, exactly. Just a routine check. If you could lie back, please. We'll start with your heart and lungs. Take a deep breath in... and out… Good. I’m hearing a regular rhythm, no murmurs that concern me at this point. Now, let’s listen to your lungs… deep breath in… and out… Everything sounds clear.
+PATIENT: Okay. It’s… a little cold. But alright. Is everything okay so far? My chest doesn’t feel… tight, does it?
+DOCTOR: Everything sounds good so far, Mr. Schwer. Your chest sounds clear, and I don’t hear anything concerning. Now I’m just going to gently feel your abdomen. Any tenderness here?
+PATIENT: No, no tenderness. A little… empty, maybe? I haven’t eaten much today, you know? Traveling, hard to find good food. But no pain, no… anything. Just a little empty. That’s a little… firm, there. But not painful.
+DOCTOR: Alright. That's good to know. It’s slightly firm, possibly related to recent diet. Now, let’s take your blood pressure. Relax your arm for me, please. 140 over 85. A little elevated, but not drastically so. We'll keep an eye on it. Now, I'm going to order some blood work. The nurse will be in shortly to draw a few samples. Does that sound alright?
+PATIENT: Okay. A little high, you say? Is that… bad? I used to take pills for it, but… like I said, I stopped. A little nervous about the needles, but… alright. Blood work… and the nurse will be in. Yes. Just want to know if I’m okay.
+DOCTOR: It's slightly elevated, Mr. Schwer, but not immediately concerning. We'll need the blood work to get a better understanding. And I understand your nervousness about the needles – it's perfectly normal. The nurse is very good, and it will be quick. I’m ordering a complete blood count, a comprehensive metabolic panel, and a lipid panel. We’ll also check your thyroid function, just to be thorough. I expect the results back in a few days. We'll schedule a follow-up appointment to discuss them then. Do you have any questions for me at this point?
+PATIENT: Thyroid… what was that? Is that… important? And how long will it take to get the results? A few days… I hope it’s not too bad. I just want to know… what's going on.
+DOCTOR: The thyroid is a gland in your neck that controls your metabolism. It's a routine check, just to rule things out. It's usually nothing to worry about. The results usually take 2-3 business days to come back. The nurse will call you with the results, or you can schedule another appointment to go over them with me. In the meantime, try to focus on eating a healthy diet and getting enough rest. Are there any other concerns I can address before I leave?
+PATIENT: No… I think that’s it. Just… thank you, Doctor. I appreciate you listening to me. And… I hope everything’s okay. I’m just a little worried, you know? Like my mother… and my sister.
+DOCTOR: You're very welcome, Mr. Schwer. It's understandable to be worried, given your family history. We'll get to the bottom of this. I’m here to help. The nurse will be in shortly to draw your blood. Please don't hesitate to call the office if you have any concerns before your follow-up appointment. Have a good day, Mr. Schwer.
+PATIENT: .

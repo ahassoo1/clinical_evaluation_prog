@@ -1,0 +1,11 @@
+DOCTOR: Good morning, Melvenia. I’m Dr. Cumper. What brings you in to see me today?
+PATIENT: Oh, good morning, Doctor. It’s Melvenia Tippens. I just need some forms notarized, actually. Some health forms… for, well, things. I hope that’s alright. I’m trying to get these sorted out quickly, if we could.
+DOCTOR: Ah, I see. Notarizing forms isn't typically something we do here at the clinic, Melvenia. We are a medical practice, focused on providing healthcare services. I apologize for the misunderstanding. Perhaps a local notary public or a legal services office would be a better resource for you?
+PATIENT: Oh… well, that’s… not what I was told. The lady on the phone said you could do it. I don’t really know where to go, honestly. I just needed someone official to sign them… they’re for a program, and they need it done properly. Do you… maybe know of a place nearby?
+DOCTOR: I apologize again for the misinformation you received. It sounds like there was a miscommunication. Let me see… there's a notary public at the library branch on Elm Street, about a ten-minute drive from here. They're usually quite busy, so you might want to call ahead. I can print you out their number and address. Would that be helpful?
+PATIENT: Oh, yes, that would be very helpful, Doctor. Thank you. I appreciate you looking that up for me. It’s just… I’m not good with computers, and I don’t drive much anymore.
+DOCTOR: Here you are. Their number is 555-1234. And the address is 123 Elm Street. They're open until 5pm today. Is there anything else I can assist you with while you’re here?
+PATIENT: Oh, perfect. Thank you so much. No, I think that’s all. Just getting these forms done is a bit of a headache, but you've been very kind. I really appreciate you taking the time. I should probably get going then, if you don't mind.
+DOCTOR: You're very welcome, Melvenia. I'm glad I could help, even if it wasn't what you initially expected. Drive safely, and don’t hesitate to call if you have any other questions or concerns – even if it's just about finding resources. Have a good day.
+PATIENT: Thank you, Doctor. You too. I appreciate your patience. Goodbye now.
+DOCTOR: You’re very welcome. Goodbye, Melvenia.

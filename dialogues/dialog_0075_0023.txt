@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Mr. Bulaong. I'm Dr. Panjoj. It’s nice to meet you. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Nice to meet you too. Um… my chest hurts. Not all the time, but… yeah, it hurts sometimes. It’s… in my breast.
+DOCTOR: Okay, chest pain. I understand. And you said it's in your breast?
+PATIENT: Yeah. Sorry… it feels weird to say it. I don’t… I don’t usually talk about this. It’s not like a bad pain, more like… sore? And heavy sometimes. I noticed it maybe a week ago.
+DOCTOR: I understand it can be difficult to discuss. There’s no need to apologize. Soreness and heaviness are good descriptions. Can you tell me a little more about when you notice it?
+PATIENT: Hmm… it’s hard to say exactly. Not after working, I think. Sometimes just… when I’m sitting. Or lying down. It doesn’t really seem to have a time. Maybe… worse before my wife and I go to sleep? But I’m not sure. It’s just… there sometimes.
+DOCTOR: Alright, so it seems somewhat intermittent, and perhaps a little more noticeable before bed. Does anything make it better?
+PATIENT: I think… changing my position helps a little? Like, if I sit different, or lie on my other side. Not a lot, but… a little. And… nothing really makes it worse, I don't think. Just… happens.
+DOCTOR: Okay. And is this pain accompanied by any other symptoms?
+PATIENT: Uh… no, not really. No fever, no… bumps, nothing like that. Just the soreness. Maybe… I feel tired a lot lately, but I work hard, so… I don't know if that’s connected.
+DOCTOR: I see. Fatigue can definitely be a symptom worth noting. Now, let’s talk a bit about your medical history. Have you ever been diagnosed with any medical conditions?
+PATIENT: Not really. I had the flu once, maybe ten years ago? And I broke my arm when I was a kid. But nothing… serious. I don’t go to the doctor much. Just when something really hurts.
+DOCTOR: Alright, no major medical history. And have you ever had any surgeries?
+PATIENT: Nope. Never had surgery. I try to stay away from hospitals if I can.
+DOCTOR: Okay. And what about your family?
+PATIENT: Uh… my mom and dad are both okay, I think. They’re getting old. My mom had… I don’t know what she had, something with her stomach, a long time ago. But I don't think it was anything like this. And my wife's family… I don't know their medical stuff so well. We haven't talked about it much. Sorry.
+DOCTOR: That’s perfectly alright, Mr. Bulaong. It’s not always easy to have all that information. Now, a few questions about your lifestyle. Do you smoke?
+PATIENT: No, never. I don’t like cigarettes. My wife doesn’t either. We both like being outside, working. Fresh air is good.
+DOCTOR: Excellent. And how much alcohol do you drink?
+PATIENT: Not much. Maybe a beer with dinner sometimes. A couple, on the weekend. Nothing crazy. It helps me relax after work.
+DOCTOR: Okay. And are you currently taking any medications?
+PATIENT: Nope. Nothing. I try to stay away from pills if I can. I’d rather just… tough it out.
+DOCTOR: Alright. Now, I'd like to ask about any allergies you might have. Any reactions to food, medications, or anything else?
+PATIENT: I don’t think so. No allergies. I eat everything. My wife says I eat too much, sometimes.
+DOCTOR: Okay, good. Now, I’d like to do a quick physical exam. I’ll need you to lie down on the examination table. I’ll listen to your heart and lungs, and then I'll examine the area where you're experiencing the chest pain. Is that alright with you?
+PATIENT: Yeah, that’s okay. Sounds good. I hope it doesn’t take too long. I got some work to finish later.
+DOCTOR: Excellent. Please lie on your back, with your arms at your sides. Okay, Mr. Bulaong, I’m not finding anything drastically concerning at this point. Your heart and lungs sound clear, and there are no obvious abnormalities on palpation. However, there is some tenderness in the area you described. Do you feel that's where the pain is most pronounced?
+PATIENT: Yes, that’s where it hurts. Not a bad hurt, just… sore. Feels better when you’re not touching it, I guess. So… what does that mean? Is it something serious?
+DOCTOR: Alright. Given your age, your description of the pain, and the findings of the physical exam, the most likely possibility at this point is musculoskeletal pain – meaning it’s related to the muscles, bones, or tissues in your chest wall. It could be a strain or inflammation. However, because you're male, and the pain is in the breast area, we need to rule out other possibilities. While rare in men, breast pain can sometimes be a symptom of more serious conditions. To be thorough, I'd like to order a few tests. A complete blood count to check for any signs of infection, and a chest X-ray to rule out any lung or heart issues, and just to get a baseline image. Would you be agreeable to that?
+PATIENT: Tests… okay. Yeah, I guess so. If it makes sure it’s nothing bad. X-ray sounds… scary. But if you think it’s best… then yeah. What do I have to do?
+DOCTOR: Okay, good. The X-ray is quite safe, it just gives us a picture of your chest. It doesn't involve any radiation. The blood test is just a simple draw, and will only take a few minutes. I'm going to write you an order for the CBC and the chest X-ray. The lab and radiology departments are located just down the hall. Once you have those results, you can either schedule a follow-up appointment with me, or I can review them remotely with a phone call, whichever you prefer. Do you have insurance that will cover these tests?
+PATIENT: Uh… no, I don’t have insurance. We can’t afford it right now. Is that going to be a problem? How much will it cost?
+DOCTOR: Okay, I understand. Not having insurance can be challenging. Let me check the current rates for these tests for self-pay patients. The CBC is approximately $75, and the chest X-ray is around $150. There may be a slight discount if you pay in cash. I can also see if the clinic has any financial assistance programs available for patients without insurance. I can also write you a referral to a specialist, if you prefer. A radiologist or oncologist could provide a more detailed evaluation. However, given your initial presentation, I believe these tests are a reasonable first step. Would you like me to proceed with the orders, and we can discuss payment options after?
+PATIENT: Um… yeah. Let’s just do the tests first. See what they say. And then… then we can talk about the money. I don’t want to worry about that right now. I just want to know if I’m okay. Thank you, Doctor.
+DOCTOR: Okay, Mr. Bulaong. I completely understand. Here are the orders for the CBC and the chest X-ray. The lab is to your right, and the radiology department is straight ahead. They’ll let you know when they’re ready for you. Once you have the results, please bring them back to me, and we'll discuss the next steps. In the meantime, if you experience any worsening of the pain, difficulty breathing, fever, or any other concerning symptoms, please go to the nearest emergency room immediately. Do you have any questions for me before you go?
+PATIENT: No, I think that’s everything. Thank you, Doctor Panjoj. You’ve been very helpful. I appreciate your help.
+DOCTOR: You're very welcome, Mr. Bulaong. I'm glad I could help. Please don’t hesitate to reach out if you have any concerns. I wish you all the best, and I'll be looking forward to reviewing your results.

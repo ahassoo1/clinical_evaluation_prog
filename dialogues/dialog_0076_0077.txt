@@ -1,0 +1,24 @@
+DOCTOR: Right, Mr. Bigger, is it?
+PATIENT: Yes, yes, that’s me. Delmon Bigger. Though, everyone just calls me Delmon. You got my papers alright? Don't like wasting time.
+DOCTOR: Yes, yes, I have your information. Delmon. Fine. So, what brings you in today?
+PATIENT: The company sent me. Said I gotta get checked. Something 'bout the dust down in the mine. Been working there a long time, never had a problem. Don't feel sick, you understand? They just want to be safe, I guess. Waste of a good afternoon, if you ask me.
+DOCTOR: The mine, right. Occupational health check. I see. Still, it's good to be thorough. So, you say you feel fine... but are there any changes you've noticed recently?
+PATIENT: Changes? What kind of changes? I eat, I sleep... I go to church on Sundays. What do you mean changes? I ain't a young man anymore, things change a little, naturally. But I’m still strong. Stronger than most folks my age, I tell you what. Is this gonna take long?
+DOCTOR: Naturally. Look, Mr. Bigger, I’m not questioning your strength. Just trying to get a clear picture. Have you noticed any coughing?
+PATIENT: Coughing? Sometimes. Who doesn’t cough? Especially when the dust is bad. It's a mine, doctor! You expect me to breathe fresh air? It's just a little tickle in my throat, nothing to worry about. It goes away. I drink plenty of water. That helps.
+DOCTOR: A "tickle," you say. And how long has this "tickle" been going on?
+PATIENT: Oh, I don’t know… a long time. Maybe… a year? More? I ain't keepin' track of every little cough. Like I said, dust. It comes with the job. You think they pay me enough to not breathe dust? It's a mine!
+DOCTOR: Right. And has this cough… changed at all?
+PATIENT: Changed? How can a cough change? It's a cough! Sometimes it's dry, sometimes… not so dry. Depends on the dust, depends on the day. Look, I’m tellin’ ya, I feel fine. This is… a lot of questions for nothin’. Are you gonna listen to my chest or what? Just get it over with.
+DOCTOR: Very well. Let’s have a listen, then. Please, take a deep breath for me.
+PATIENT: There. Happy now? Don't tickle me with that thing. Feels cold. Never liked doctors. Always poking and prodding. And asking silly questions.
+DOCTOR: I’m hearing some…wheezing. And some diminished breath sounds, particularly at the bases. Now, have you ever been short of breath?
+PATIENT: Short of breath? What do you mean? When I climb hills, maybe. I ain't a spring chicken, you know. But just walkin’ around? No. I can still carry a heavy load, if I need to. Don't go makin’ somethin’ out of nothin’. This place is too cold.
+DOCTOR: Right. And do you smoke, or have you ever smoked?
+PATIENT: Smoke? No! Never touched the stuff. My wife, bless her soul, she didn't allow it. Said it was a terrible habit. And she was always right. Never smoked a day in my life. What kind of question is that? You think I got these lungs from smokin’? It’s the dust, I tell ya. Always the dust.
+DOCTOR: Okay. We should get a chest X-ray, just to be safe. And perhaps some basic lung function tests. It's standard procedure when someone works in a dusty environment for so long.
+PATIENT: X-ray? Tests? Now you're talkin’! Waste of money, if you ask me. But if the company’s payin’, I suppose… Just get it over with quickly. I got things to do, you know. Church picnic on Sunday. Can’t be spendin’ all day in a doctor’s office. Make sure they have a warm blanket for the X-ray, alright? I get cold easily.
+DOCTOR: Yes, yes. I'll have the nurse arrange that for you. She'll direct you to the radiology department. And a blanket. We'll review the results when they are available. Now, is there anything else you wanted to discuss?
+PATIENT: No. That’s it. Just get this done. Waste of a good afternoon, but… alright. Blanket, you said? Make sure it’s a good one. I’m a bit of an old man, remember? And tell the nurse to hurry things along. I haven't got all day.
+DOCTOR: The nurse will be with you shortly. Please, just sit and wait. Some people…
+PATIENT: .

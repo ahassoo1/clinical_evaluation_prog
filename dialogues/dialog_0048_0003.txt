@@ -1,0 +1,24 @@
+DOCTOR: Right. Mr. Baide, yes. So, what brings you in today?
+PATIENT: Ugh, well, don't expect a long story. It's this…shaking. My hands, see? It's getting worse, and frankly, it's embarrassing. Makes it hard to hold a coffee cup, you know? Not that I need coffee, but still. It's a nuisance.
+DOCTOR: Shaking, alright. And you say it’s worsening…when did you first notice it, approximately?
+PATIENT: Approximately? Goodness, I don't keep calendars for my tremors. A while ago. Months, maybe? It started small, I figured it was just old age catching up. Everything's falling apart at my age, what do you expect? Honestly, I just hoped it would go away on its own.
+DOCTOR: Right. And has it been affecting anything else besides holding a cup?
+PATIENT: Affecting…? Look, I used to be a director, a producer. Needed steady hands for…well, everything! Now? I mostly just watch TV. It's hard to explain. It just feels…off. Sometimes my handwriting's a mess, I drop things… small things. It’s not like I’m building a rocket ship, if that’s what you’re asking.
+DOCTOR: So, difficulty with fine motor skills, primarily. And it's impacting your handwriting, you said. Any other symptoms?
+PATIENT: Symptoms? What kind of symptoms? I get tired, of course. Eighty years old, you think I’m running marathons? And my memory isn't what it used to be. But that’s just…age! Don't go looking for things that aren’t there, doctor. Honestly, all this poking and prodding…
+DOCTOR: I'm not "poking and prodding" yet, Mr. Baide. I'm simply gathering information. Fatigue and memory issues…are those new, or have they been present for a while?
+PATIENT: Oh, for goodness sake. Everything's been present for a while! I'm eighty! What did you expect, a spring in my step and a steel-trap mind? Look, I just want something for the shaking, if that’s possible. I haven’t got all day to sit here reliving my declining years.
+DOCTOR: Alright. Let’s do a quick neurological exam. I just need to check your reflexes and coordination. It won't take long. Could you extend your arms in front of you, palms up?
+PATIENT: Neurological…exam? See, this is what I mean. Just give me a pill! What does poking at my arms have to do with a little shake? Honestly. Fine, fine. But don’t expect miracles. And be quick about it.
+DOCTOR: Okay. I see some tremor at rest, as you’ve described. And some rigidity. Could you follow my finger with your eyes – don't move your head – just track my finger.
+PATIENT: I’m following it. What is this proving? It’s just my eyes, doctor. They're not as sharp as they used to be. It's not exactly rocket science.
+DOCTOR: Alright. And can you tap your finger to your thumb, as quickly as you can, on both hands?
+PATIENT: There. Happy now? It’s…slower than it used to be. Everything’s slower than it used to be! Are we getting somewhere with this pill yet? I'm starting to feel a draft in here.
+DOCTOR: Okay. Based on what I’m seeing, and your history… it could be essential tremor, or potentially early Parkinson's disease. It’s difficult to say definitively without further testing. We'll need some blood work to rule out other causes, and possibly an MRI.
+PATIENT: MRI? Blood work? Now you're just trying to run up the bill. Look, I just want something for the shaking. I've lived a long life, doctor. I don't need a fancy diagnosis. Just a simple pill. Are you going to give me a pill, or am I wasting my time?
+DOCTOR: Mr. Baide, I understand your frustration. However, I can’t prescribe medication without a proper assessment. We need to rule out other conditions that can cause tremors. I can order the blood work today. As for the MRI, we can discuss that after we get the results. It helps us get a clearer picture. In the meantime, I can try a low-dose beta-blocker, often used for essential tremor. But please understand, this is a trial. And it won’t address the underlying cause. Sound acceptable?
+PATIENT: Beta-blocker…trial… Honestly, it's always something. Fine. Whatever. Just get it over with. I suppose a little pill is better than nothing. But if it doesn't work, I'm not coming back.
+DOCTOR: Alright. I’m ordering the blood work now. And I'll write a prescription for Propranolol, a low dose. You'll need to take it three times a day. I'll also give you a referral to a neurologist for further evaluation. It's important to get a specialist's opinion. Here’s the lab requisition and the prescription. Do you have any questions before you leave?
+PATIENT: Neurologist… Great. More doctors. Fine. No questions. Just want to get out of here. Is that it? Can I go now?
+DOCTOR: Yes, Mr. Baide. You can go. Follow up with your primary care physician to review the blood work results, and schedule an appointment with the neurologist as soon as possible. Have a good day. .
+PATIENT: .

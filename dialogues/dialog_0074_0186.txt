@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Mr. Kingan. Welcome to the clinic. My name is Dr. Reisig. It’s nice to meet you. So, to start, could you tell me what brings you in to see me today?
+PATIENT: Morning, Doctor. Just Lamark is fine. Uh, yeah, I’m here for a tryout. A sports team tryout. Need to get checked out first, I guess. Want to get this over with quick if that’s alright.
+DOCTOR: Certainly, Lamark. We'll do our best to be efficient. A pre-participation physical exam, then. Just to ensure you're cleared for activity. Could you tell me a bit more about the sport you're trying out for?
+PATIENT: It’s… archery. Yeah, archery. Never really done anything like this before, honestly. Mostly just been… keeping busy.
+DOCTOR: Archery – excellent! It requires quite a bit of strength and focus. And you’re right, keeping busy is important. To get a good sense of your overall health, let's start with a little bit of your medical history. Have you had any significant illnesses or injuries in the past?
+PATIENT: Hmm… not really that I remember. Maybe a bad cold here and there, like everyone gets. I broke my wrist when I was a kid, climbing a tree, but it healed up fine. That was a long time ago. I don’t… I don’t go to the doctor much.
+DOCTOR: Okay, a childhood wrist fracture, and generally healthy otherwise. That’s good to know. And have you ever had any surgeries?
+PATIENT: No, never had surgery. Nope.
+DOCTOR: Alright. And what about your family?
+PATIENT: Family… my parents, they're both… passed away now. A long time ago. Didn’t have any siblings. I… I don’t really know much about their medical history, to be honest. They didn’t really talk about that kind of stuff.
+DOCTOR: I understand. That’s perfectly alright. It’s not uncommon for that information to be unavailable. Let’s talk about your current medications, if any. Are you currently taking any prescription or over-the-counter medications, vitamins, or supplements?
+PATIENT: Nope. Nothing. Just… water, mostly. Maybe coffee sometimes. I try not to drink too much of that, though.
+DOCTOR: Good. And do you have any allergies to medications, food, or anything else?
+PATIENT: Nah, not that I know of. I eat everything. Never had a reaction to anything.
+DOCTOR: Excellent. Now, before we move on to a physical examination, could you briefly tell me about your lifestyle?
+PATIENT: Lifestyle? Uh… I keep busy. I work… with media, mostly. Editing, that kind of stuff. I don’t… I don’t really have hobbies. Just work. I try to eat okay. Sometimes.
+DOCTOR: Okay, so primarily a desk job with media editing. And you mentioned trying to eat okay. Do you smoke, or use any recreational drugs?
+PATIENT: No, no smoking. Never have. And no… nothing like that. Never been interested.
+DOCTOR: Alright, that’s all very helpful, thank you. Now, let’s do a quick physical exam. I'll need you to change into a gown, and we'll start with your height and weight. Then I’ll listen to your heart and lungs, check your reflexes, and do a basic musculoskeletal assessment. Does that sound alright?
+PATIENT: Yeah, alright. Sounds… fine. Just want to get this over with, you know? Where’s the changing room?
+DOCTOR: Right through there, Lamark. There’s a gown in the room. Take your time, and just call out when you’re ready. I’ll be just outside.
+PATIENT: Okay. Thanks.
+DOCTOR: Alright, let's start with your height and weight. Step onto the scale for me, please. Okay, 183 centimeters and 129 pounds. Now, I'm just going to listen to your heart and lungs. Please breathe deeply through your mouth.
+PATIENT: Just get it over with.
+DOCTOR: Heart sounds are regular, rate is approximately 72 beats per minute. Lung sounds are clear bilaterally. Reflexes are 2+ bilaterally. That's normal. Now, could you please extend your arms and legs?
+PATIENT: Is something wrong?
+DOCTOR: No, not at all. Just checking your range of motion and looking for any stiffness or pain. Everything seems good so far. No pain with movement, normal range of motion in all extremities. Now, I’m just going to gently press on your abdomen. Let me know if you feel any tenderness.
+PATIENT: Nope. Not really. Feels… normal.
+DOCTOR: Good. Pulse is regular and strong in all extremities. Everything seems to be within normal limits based on this basic examination, Lamark. However, given your weight, I do recommend a blood test to rule out any underlying nutritional deficiencies. It’s a simple precaution, and it’s important to ensure you're in optimal health for your tryout. Would you be willing to proceed with blood work?
+PATIENT: Blood work… ugh. Fine, whatever. Just get it done. I want to finish this. But, will it take long?
+DOCTOR: It won’t take long at all. Just a small sample of blood. The lab is right down the hall. It should only take about 10-15 minutes, and then we can discuss the results. I’m going to have the lab technician come in and draw the sample. In the meantime, do you have any questions for me?
+PATIENT: No, I don't think so. Just... when can I go?
+DOCTOR: Once the lab technician is finished, and I’ve quickly reviewed the initial results—which usually only takes a few minutes—you’ll be free to go. If everything looks good, you should be cleared for your tryout. I will also provide a brief summary of our findings for your records, and a recommendation to follow up with your primary care physician for a more comprehensive assessment. Does that sound alright?
+PATIENT: Yeah, alright. Just… hurry up.
+DOCTOR: I understand. I’ll make sure everything is as quick as possible. I’ll let the lab technician know you're ready. They’ll be right in. Thank you for your patience, Lamark.

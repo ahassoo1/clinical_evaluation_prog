@@ -1,0 +1,23 @@
+DOCTOR: Hello, Jahaad. I'm Dr. Osterholm. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It’s… well, it’s a bit difficult to explain precisely. I’ve noticed some swelling, and I thought it best to get it checked out. Honestly, the details are a little fuzzy for me, if you don’t mind. I don’t recall exactly when it started, or what might have caused it.
+DOCTOR: Fuzzy, alright. Well, that’s… not ideal, but we can work with it. Let's start with where exactly is this swelling?
+PATIENT: It's… here, on my neck. Mostly on this side, I think. It's not terribly painful, just… noticeable. And a bit uncomfortable sometimes when I swallow. I'm sorry I can't be more specific. It just… came on gradually, as far as I can tell.
+DOCTOR: Alright. On this side of your neck… and you said it's been gradually getting bigger, as far as you recall. Has it changed in size recently?
+PATIENT: Recently… hmm. I suppose it feels a little larger in the last week, perhaps? It's hard to say definitively. I haven’t been actively measuring it, if that makes sense. It’s more of a feeling, a sense of… fullness. I really wish I could remember more details for you, Doctor. I apologize.
+DOCTOR: Details are always helpful, but we’ll manage. Okay. And has anything specific triggered it?
+PATIENT: Triggered it… that’s a good question. Not that I’m aware of, no. I haven’t had any injuries, or… I don’t think I’ve been sick recently. I haven’t been travelling, or trying any new foods. Honestly, I’m drawing a blank. It just… appeared. I do sometimes have trouble remembering things, so perhaps that’s why I can’t pinpoint a cause.
+DOCTOR: Right. Well, let's get a feel for things. Could you open your mouth for me, please?
+PATIENT: Certainly, Doctor. Is there anything specific you’re looking for? I hope it’s not too uncomfortable. I’m a bit anxious about all of this, if I’m honest.
+DOCTOR: Hmm. Tongue looks normal. Okay, now swallow for me, please. There's a small, soft lump here on the left side. Not particularly concerning in size, but we'll need to investigate further. It doesn’t seem to be attached to anything deep down. Do you have any pain when I press here?
+PATIENT: A little, yes. Not sharp, just… a mild discomfort. It feels… sensitive, more than painful. It’s probably just me being overly cautious, but it’s… unsettling to feel something there. What does this mean, Doctor? Is it something serious? I apologize for my anxiety; I just prefer to be prepared.
+DOCTOR: Alright, well, a mild discomfort is… not nothing. It's unlikely to be serious right off the bat, but we're going to rule things out. Do you have any history of swollen glands?
+PATIENT: Swollen glands… hmm. That’s a difficult question. I remember being sick as a child, like most people, but I don’t specifically recall my glands being swollen. My family… well, we didn’t really talk much about medical history, if that makes sense. I don’t have a strong recollection of any previous instances, no. Would my medical records show something like that, perhaps? I'm sorry I can't be more helpful.
+DOCTOR: Possibly. Now, any allergies to medications?
+PATIENT: No, Doctor. As far as I know, I don’t have any allergies to medications. I haven’t had much reason to take them, thankfully. I generally try to stay healthy, but… clearly that hasn’t been entirely successful. Is this lump… common? What are the usual causes? I apologize for all the questions, but I find it reassuring to have some understanding.
+DOCTOR: Common?
+PATIENT: I suppose that’s a silly question. I just… I’ve always been a bit anxious about my health. Knowing what we’re dealing with, even generally, would be helpful. And is there anything I should be doing in the meantime? Avoiding certain foods, resting more… anything? I'm trying to be proactive, Doctor.
+DOCTOR: Alright. It could be a number of things. Most commonly, a benign cyst or enlarged lymph node. Occasionally, something more serious, but let's not jump to conclusions. In the meantime… try not to stress. And don't poke at it. We'll order a blood test and an ultrasound to get a clearer picture. I'll send you to the lab downstairs first, then schedule you for an ultrasound next week. Does that sound alright?
+PATIENT: That sounds… very sensible, Doctor. Yes, that’s perfectly alright. A blood test and an ultrasound, I can certainly do that. And I will absolutely refrain from poking at it. Thank you for your patience with my anxiety, and for explaining everything so clearly. I appreciate your help. Shall I head to the lab now?
+DOCTOR: Yes, head downstairs. Tell them Dr. Osterholm sent you. The order's all on there. And try to get some rest. Next.
+PATIENT: Thank you again, Doctor. I will. Have a good day. .
+DOCTOR: .

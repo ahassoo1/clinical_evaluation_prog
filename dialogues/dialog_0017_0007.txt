@@ -1,0 +1,41 @@
+DOCTOR: Good morning, Ms. Reihner. I am Dr. Blim. Now, let’s get straight to it. What brings you in today?
+PATIENT: Good morning, Doctor. I am here because I am having… painful feelings. It’s in my back, mostly. I want to be quick, if that’s alright.
+DOCTOR: “Painful feelings,” alright. Vague, but we can work with that. Now, Ms. Reihner, when did these “painful feelings” begin?
+PATIENT: About… three weeks ago, I think. It started slow, just a little ache after work. Now it’s… harder to ignore. I do a lot of lifting, you see. Fence work.
+DOCTOR: Fence work. And your occupation is…?
+PATIENT: Fence Erectors. I put up fences. It’s… physical. I’m strong, usually. But this pain… it’s different. I don’t remember hurting my back doing anything to cause it, if that makes sense.
+DOCTOR: No specific injury… Alright. And where exactly is this pain located?
+PATIENT: It’s… low in my back. On both sides, mostly. Sometimes it feels like it goes down into my hips a little. Not my legs, though. Just… low back and hips. It’s… hard to describe.
+DOCTOR: “Hard to describe.” Most patients find precision difficult. Is it a constant pain, Ms. Reihner, or does it come and go?
+PATIENT: It comes and goes. Worse after I’ve been working, of course. And when I sit for too long. But even when I’m resting, it’s… there. Just not as bad. It's… a dull ache, mostly. Sometimes it feels like a sharp pinch. I suppose that's a good way to put it.
+DOCTOR: A “sharp pinch,” alright. And on a scale of one to ten, with ten being the worst pain imaginable, what would you rate it when it's at its worst?
+PATIENT: Hmm. At its worst… probably a seven. Maybe an eight if I really move wrong. It makes me… careful. I don’t want to make it worse. I have to be careful, you see. This work is all I have.
+DOCTOR: Alright. Now, have you tried anything to alleviate this pain?
+PATIENT: Yes. I took some… over-the-counter pain relievers. The red ones. But they didn’t do much. And I tried… sitting with a warm cloth on my back. It helped a little for a few minutes, but then it went away. Not much works, really. Medicare won’t cover much, I suspect.
+DOCTOR: Over-the-counter analgesics… predictably ineffective. Now, Ms. Reihner, let’s move on to some other pertinent questions. Any numbness or tingling in your legs or feet?
+PATIENT: No, Doctor. No numbness or tingling. Just the pain. And… a little stiffness in the mornings. But that’s… normal for me, I think. Old age, maybe. I'm 42, but I feel older after all this work.
+DOCTOR: Stiffness… Alright. Any issues with your bowel or bladder function?
+PATIENT: No. Everything… functions normally. I apologize if that is… too much information. I just want to be thorough. I don’t want to waste your time.
+DOCTOR: It is necessary information, Ms. Reihner. Now, have you had any previous back problems, surgeries, or injuries?
+PATIENT: No, Doctor. No previous problems. No surgeries. No injuries, not that I remember. Just… aches and pains from the work. Nothing serious enough to see a doctor about before. This is… different.
+DOCTOR: Alright. And what about your family history?
+PATIENT: My mother… she had arthritis in her hands. Badly. And my father… he had a bad back when he was older, but I don’t know what was wrong with it. He didn’t see a doctor much either. We didn’t have much money. Is that helpful? I'm not sure what you're looking for.
+DOCTOR: Arthritis, unspecified back pain… Predictable. Now, Ms. Reihner, do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, Doctor. None of those. Never have. I need to be clear-headed for work. And… it’s not a good life, those things. I take care of myself as best I can, you see. Besides, I have to be responsible. It's just me now.
+DOCTOR: Alright. Now, are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: Just the red pain relievers, when they don’t work. And sometimes a vitamin. Nothing else. I try to avoid pills if I can. They never seem to fix anything, really. And they cost too much. I am trying to be quick, Doctor. I have work tomorrow.
+DOCTOR: Very well. Now, I’m going to perform a brief physical examination. Please lie down on the examination table. I need to assess your range of motion and check for any tenderness. Please let me know if anything causes significant discomfort.
+PATIENT: Alright. If you don't mind, could you tell me how long this will take? I really do need to get back to work.
+DOCTOR: It will be brief, Ms. Reihner. Now, please lie prone on the table. Now, I’m going to palpate your spine. Tell me if you feel any pain when I press here. Anything here?
+PATIENT: Yes. Right there. That hurts. Not a sharp pain, just… a deep ache. And… when you press a little harder, it feels… tight. It's hard to explain. It’s not a new pain, just… worse when you touch it.
+DOCTOR: And here?
+PATIENT: Yes. That’s… tender. A little more than the other side. It feels… like a knot. A tight knot. And… it makes me want to pull away. Is that… bad?
+DOCTOR: Alright. Now, can you bend forward and touch your toes?
+PATIENT: I… can't reach my toes. Not anymore. It hurts too much. It’s… tight. It feels like something is blocking me. I used to be able to bend over easily. This is… new.
+DOCTOR: And when you bend sideways?
+PATIENT: Not much further. It's… very uncomfortable. It feels like a pulling sensation. And… it makes my back… click. I don’t like that sound. Is something… broken? I really need to get back to work.
+DOCTOR: Alright. Based on my examination, you exhibit tenderness in the lumbar region, limited range of motion, and a palpable muscle spasm. It appears you’re experiencing lumbar strain, likely exacerbated by your occupation. It is unlikely there is a fracture, but to rule out other potential causes, I recommend obtaining a lumbar X-ray. I’ll write an order for that now.
+PATIENT: An X-ray? How long will that take? And… will it keep me from working? I have bills to pay, Doctor. I can’t just… stop. What if it’s nothing? Is there anything else I can do besides wait for an X-ray? A cream, maybe? Or something to take? Please.
+DOCTOR: The X-ray itself is quick, Ms. Reihner. However, there will be a wait for the radiologist to interpret the results. I am prescribing you a non-steroidal anti-inflammatory medication – naproxen – to help manage the pain and inflammation. As for a cream, topical analgesics provide minimal relief for muscle strain. And frankly, you need to determine the underlying cause to prevent recurrence. Continue your current activities at your own risk. Ignoring the issue will only worsen your condition. Here is your prescription. Schedule a follow-up appointment once you have the X-ray results. Do you have any other questions?
+PATIENT: No. I suppose not. Thank you, Doctor. I… I just hope it’s not too serious. And… I hope I can still work. .
+DOCTOR: Very well. Now, if you’ll excuse me, I have other patients waiting. .

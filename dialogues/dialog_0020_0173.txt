@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Jailenne. Welcome to the clinic. I'm Dr. Beinborn. It’s nice to meet you. So, to start, can you tell me what brings you in today?
+PATIENT: Hi Dr. Beinborn, nice to meet you too! Well, I’ve just been feeling really chilly lately. Not like, a feverish cold, just… cold. Like I need a sweater even when it’s warm out. It's been going on for a few days now.
+DOCTOR: Okay, I understand. Feeling chilly even when you shouldn’t be… a few days now, you said?
+PATIENT: Yeah, about three or four days, I think. It comes and goes, but it’s definitely more often than usual. It's kind of annoying, honestly. I just want to feel normal.
+DOCTOR: Right, that sounds frustrating. And is it just the chills, or have you noticed any other symptoms along with it?
+PATIENT: Hmm… not really, not that I’ve noticed. No cough, no sore throat, no aches… just the cold feeling. Maybe a little tired, but I usually am a bit tired, to be honest. It's hard to say if that’s related.
+DOCTOR: Okay. A little extra fatigue, but that could be something else. Let's try to narrow things down. Have you had any changes in your appetite or weight recently?
+PATIENT: No, nothing like that. I'm eating pretty normally, and my weight hasn't changed. I think I even had a tagine last night, so definitely eating!
+DOCTOR: Good, that's good. Tagine sounds lovely. Now, thinking a bit broader… have you noticed any changes in your skin – like dryness, paleness, or anything like that?
+PATIENT: No, I don’t think so. I haven’t really paid attention, to be honest. I mean, I’m Moroccan, so my skin is naturally a bit olive toned. I haven't noticed it getting paler or anything, but I don't usually check! Is that something I should be looking for?
+DOCTOR: It's good you haven't noticed significant changes. Paleness can sometimes be a sign of certain things, but it’s not always present. Let’s move on to your medical history, if you don’t mind. Have you been diagnosed with any medical conditions in the past?
+PATIENT: Not really. I had a pretty bad bout of the flu a few years back, but that's about it. And I had my tonsils out when I was a kid, but that was ages ago. Otherwise, I'm usually pretty healthy.
+DOCTOR: Okay, so no chronic medical conditions. And just to be thorough, any surgeries besides your tonsils?
+PATIENT: Nope, just the tonsils. Nothing else. I’m not really a surgery person, if I can avoid it!
+DOCTOR: Fair enough. How about your family?
+PATIENT: Hmm… that’s a good question. My mum has high blood pressure, and my dad had some heart issues when he was older. Nothing major, but they both see a doctor regularly. My brother’s pretty healthy, as far as I know. Is that helpful?
+DOCTOR: Yes, that’s helpful to know. So, high blood pressure in your mother and some heart issues in your father. And do you know if anyone in your family has thyroid problems, or any autoimmune diseases?
+PATIENT: Oh, wow, that’s a specific question! Let me think… I don’t think so. My grandmother on my mum’s side had something… arthritis, maybe? But I don’t think it was autoimmune. And no one else that I know of. I’m not super close with everyone on my dad’s side, so I wouldn't know for sure.
+DOCTOR: Okay, that’s alright. We can't know everything. Now, just a few quick questions about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no, and no. I don't smoke, I maybe have a glass of wine with dinner occasionally, and definitely no drugs. I try to be pretty healthy, honestly.
+DOCTOR: That’s good to hear. And are you currently taking any medications, including over-the-counter medications or supplements?
+PATIENT: Nope, nothing at all. I try to avoid taking anything if I can help it. I usually just drink tea if I’m feeling unwell.
+DOCTOR: Okay, great. No medications or supplements. Just tea. Now, are you allergic to anything?
+PATIENT: No, not that I know of. I mean, I’ve eaten lots of different things, and I’ve never had a reaction. I'm pretty lucky, I think!
+DOCTOR: Okay, excellent. That’s good to hear. Now, I'd like to do a quick physical exam, if that's alright with you. I'll just listen to your heart and lungs, check your thyroid, and feel your lymph nodes. It shouldn't take long. Would that be okay?
+PATIENT: Yeah, that sounds fine. Go ahead. Just let me know if you need me to do anything.
+DOCTOR: Alright. First, I'm going to listen to your heart and lungs. Please take a few deep breaths for me. Okay, heart sounds are regular, no murmurs. Lungs are clear, no wheezing or crackles. Your thyroid feels normal size, no nodules. Lymph nodes are not enlarged. Everything feels normal so far. However, given your symptoms and to be thorough, I think it's best to order some blood tests. We can check your thyroid function, complete blood count, and vitamin levels. That will help us rule out any underlying causes for your chills. Does that sound alright?
+PATIENT: Yeah, that sounds sensible. Blood tests seem like a good idea. It’s good to rule things out. I don’t mind getting poked if it means finding out what’s going on. How long will it take to get the results?
+DOCTOR: That’s a good attitude. It usually takes about 24-48 hours for the results to come back. I'll have my nurse contact you as soon as they're available. In the meantime, if your chills worsen, or you develop any other symptoms like fever, fatigue, or weight loss, please don’t hesitate to contact the clinic immediately. Do you have any questions for me at this point?
+PATIENT: No, I think you’ve covered everything really well. 24-48 hours sounds good. I appreciate you taking the time to listen and figuring out a plan. Hopefully it’s nothing serious!
+DOCTOR: You're very welcome, Jailenne. I'm glad I could help. We'll get those results back as quickly as possible and go from there. In the meantime, try to get plenty of rest and stay hydrated. And don't hesitate to call if anything changes. Here's a lab order for your blood tests. My nurse will escort you to the lab. Have a good day, and please let us know if you have any concerns.
+PATIENT: Okay, perfect. Thank you so much, Dr. Beinborn. I appreciate it. Have a good day too!

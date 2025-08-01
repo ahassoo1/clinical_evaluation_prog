@@ -1,0 +1,19 @@
+DOCTOR: Right, okay. Tammie, is it?
+PATIENT: Yes. Tammie Ottaviani. Look, I don't have a lot of time. Just… my throat hurts. It’s been hurting for a few days now, and I need to know what’s causing it. Is that alright?
+DOCTOR: Alright, alright. A sore throat… a few days, you said?
+PATIENT: Yes. A few days. It’s… scratchy, mostly. And it feels…swollen, I think. It makes it hard to swallow. Honestly, I’m not good with remembering details. I just want something for it, if that’s possible. Is this going to take long?
+DOCTOR: No, no, we'll be quick. Swollen… okay. Any fever?
+PATIENT: Fever? I… I don’t know. I haven’t checked. I don't usually bother with that sort of thing. Do I need to have a fever? Honestly, I just work. Separating and filtering, mostly. It’s important work, you know. But it’s hard to do when your throat feels like sandpaper.
+DOCTOR: Right, sandpaper… Okay. No fever needed, just trying to get a picture. Any cough?
+PATIENT: A cough? Sometimes. Not a bad one. Just… when I lie down, mostly. A little tickle. It's probably nothing. Look, is this throat thing serious? Because if it’s not, I really need to get back to work. My shift starts soon.
+DOCTOR: Okay, cough when lying down… Alright. Let's just take a quick look, see what we’re dealing with. Open wide… say “ah.”
+PATIENT: Ah… Honestly, I don’t like doctors. Everything always feels so… invasive. Is this going to be uncomfortable? Because I really don’t have the patience for a lot of poking and prodding.
+DOCTOR: Just a quick look… Okay. A little redness back there, some slight swelling. No white spots that I can see. Not terrible, but definitely irritated. Have you been around anyone else who's been sick recently?
+PATIENT: Sick? Not that I know of. I mostly keep to myself. Work, home, work. People get sick all the time, though. Especially with all the dust and chemicals at the plant. It’s probably just… from the air. Is that what this is? Something from work? Honestly, it wouldn’t surprise me. Is there anything you can give me to make it stop hurting? I really need to go.
+DOCTOR: Could be irritation from the plant… alright. Given your symptoms and the short timeframe, it sounds like a viral sore throat, likely aggravated by the work environment. Nothing alarming, thankfully. I can recommend some throat lozenges and a warm saltwater gargle. Plenty of fluids, too. If it doesn’t improve in a few days, or you develop a fever, difficulty breathing, or severe pain, you'll want to come back. Does that sound alright?
+PATIENT: Lozenges… and gargle? That sounds… alright, I suppose. Is that all? I mean, will it really help? I don’t want to waste my money on something that won’t do anything. And I really don’t have time to be sick. Is there anything stronger you can prescribe?
+DOCTOR: Given it sounds viral, antibiotics won't help, and stronger pain relief isn't typically recommended for this. We want to avoid unnecessary medication. The lozenges and gargle will help soothe the throat and promote healing. I can write you a note for over-the-counter pain relievers like ibuprofen or acetaminophen, if you want. We're trying to manage the symptoms, okay?
+PATIENT: Manage the symptoms… Fine. Whatever. Just… write the note. And please hurry. I have a job to get back to. I don’t understand why everything takes so long. It’s just a sore throat. Honestly. Do I need to sign something? Just tell me what to do.
+DOCTOR: Here you go. Just show this at the pharmacy. And as I said, if things get worse, please come back. Sign here, please. It's just confirming we discussed the plan of care. And… take care of yourself, okay?
+PATIENT: Fine. Alright, I’m going now. I hope this works. And honestly, I don’t have time for follow-up appointments.
+DOCTOR: Alright. Have a good day. ...Always something.

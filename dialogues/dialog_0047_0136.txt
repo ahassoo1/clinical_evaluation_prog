@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I'm Dr. Press. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Um... it's my... belching. It's been happening a lot. It's... embarrassing, really.
+DOCTOR: Belching, alright. And how long has this been going on?
+PATIENT: Hmm... maybe a month? I don't know exactly. A little over a month, I think. It comes and goes, but lately it's been… more. More often, you know?
+DOCTOR: More often. Right. And can you describe what brings it on?
+PATIENT: That's a good question. It's hard to say... Sometimes after I eat, but not always. And sometimes... just when I'm standing. Or sitting. I don't think there's a reason, really. It just… happens.
+DOCTOR: So, it's quite random then. And is there any pain associated with it?
+PATIENT: No, no pain. Just... the noise! And it feels… bubbly, inside. Not bad, just… strange. It doesn't hurt, though. I just wish it would stop.
+DOCTOR: No pain, just… bubbly. Alright. And what about what you've been eating?
+PATIENT: Oh, um... everything, I think. I eat normal food. Rice, beans, chicken... Sometimes I have soda, but not too much. I haven't changed what I eat, not really. Maybe more fruit lately? It’s been hot, you know, and fruit is nice when it’s hot.
+DOCTOR: Fruit… Well, sometimes too much fruit can cause… issues. Do you experience any bloating or abdominal discomfort, aside from the bubbling sensation?
+PATIENT: Bloating? Hmm... sometimes. A little, after I eat. Not always, but sometimes I feel… full, even if I didn't eat much. I don't know if that's the same thing. Is that bad?
+DOCTOR: It can be. Alright. And are you experiencing any other symptoms?
+PATIENT: Other symptoms? Let me think… No… not really. I sleep okay. I go to the bathroom okay. I’m… just tired sometimes, but I work a lot. I don’t know if that counts. Everything else feels normal, I guess.
+DOCTOR: Right. And what line of work are you in, Ms. Fogelstrom?
+PATIENT: Oh! I'm an Industrial Engineering Technician. I work in a factory, mostly making sure things are running smoothly. It’s… a lot of walking and standing. And sometimes it’s noisy, so maybe that has something to do with it? I don't know.
+DOCTOR: Noisy factory… and a lot of standing. Alright, let's just listen to your abdomen. Take a few deep breaths for me, please. Nothing immediately concerning, but we'll need to rule a few things out. I'm going to listen to your heart and lungs quickly as well, just to be thorough.
+PATIENT: Okay. That’s okay. Is everything alright? It doesn’t… feel bad, but it’s weird when someone listens to you like that.
+DOCTOR: Everything sounds alright, Ms. Fogelstrom. But, honestly, it sounds like you’re probably swallowing too much air. It’s common in noisy environments, people tend to subconsciously gulp air. Have you ever considered any dietary changes to see if it helps?
+PATIENT: Dietary changes? Like… what kind of changes? I don't know much about that. I don't want to change everything I eat if it's not going to help.
+DOCTOR: Well, things like avoiding carbonated beverages, not chewing gum, eating smaller, more frequent meals… and trying to be mindful of not gulping air when you eat. It’s really a matter of trying to reduce the amount of air you swallow. Frankly, I suspect this is just a habit, and it may resolve on its own. I’m not convinced further investigation is warranted at this time.
+PATIENT: Oh. Okay. That… sounds hard. No soda, no gum… I drink a lot of water, is that okay? So, you don't think there's anything wrong with me? I just thought… it’s been happening so long.
+DOCTOR: Ms. Fogelstrom, you seem perfectly healthy. It’s highly unlikely there’s anything seriously wrong. These things happen. Water is fine, of course. I recommend trying these dietary adjustments for a couple of weeks and see if it makes a difference. If it doesn’t, then perhaps we can revisit this. I’ll print out some information on reducing gas and bloating for you. Frankly, I have other patients waiting.
+PATIENT: Oh. Okay. Thank you, Doctor. I'll try.
+DOCTOR: Here you are. That summarizes the recommendations. If it persists or worsens, and only if it worsens, you can schedule a follow-up appointment. Now, if you’ll excuse me… .
+PATIENT: Okay, thank you, Doctor. Have a good day. .

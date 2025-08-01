@@ -1,0 +1,26 @@
+DOCTOR: Alright, Mr. Ferneding, good to meet you… I guess. So, what brings you in today?
+PATIENT: Well, hello Doctor Pehrson. It’s nice to meet you too. It's… this itching. All over, really. It started a couple weeks ago, maybe a little more, and it just won’t quit. It's driving me a little crazy, to be honest. Not terrible, but… constant.
+DOCTOR: Constant itching, you say?
+PATIENT: Yeah, constant. Not like, a really bad rash or anything, just… an itch. It's hard to describe. It's everywhere – arms, legs, back, even my… well, everywhere. It doesn’t seem to be getting worse, exactly, just… always there. It's more annoying than painful, thankfully. I’ve tried a few lotions, but nothing seems to help for long.
+DOCTOR: Lotions, huh?
+PATIENT: Yeah, just the usual stuff you can get at the drugstore. You know, for dry skin, for eczema… I figured maybe it was just dry skin, with the summer heat and all. But it didn’t really do much. I used one with calamine in it, but that just made me feel sticky. Honestly, I'm starting to think it’s not just dry skin. It feels… deeper, somehow.
+DOCTOR: Deeper… Alright. Any new soaps or detergents?
+PATIENT: Hmm… that’s a good question. Let me think… No, I don’t think so. I’ve been using the same laundry detergent for years, and my bar soap is the same old Irish Spring. I haven't changed anything like that recently. Not that I can recall, anyway. I really haven't changed much in my routine, truth be told.
+DOCTOR: Alright. And any fever, chills, weight loss, fatigue?
+PATIENT: No, no fever or chills. Weight… well, I haven't weighed myself recently, but I don’t feel like I’ve lost any weight. I've maybe lost a little appetite, but that could just be… everything, you know? Just getting older. And I am a little tired sometimes, but honestly, who isn't? My wife… she passed away last year, and things haven’t been the same since. So, yeah, a little tired, but I don’t think that’s related to this itching.
+DOCTOR: Right. And any new medications?
+PATIENT: Oh, yes. That's right, I did start a new blood pressure medication about six months ago. Doctor Levin switched me over. Said the old one wasn't doing quite enough anymore. It's… Lisinopril, I think it is. Small white pill. Everything was fine for a while, but… well, now this itching. Could it be that? I hadn’t even thought of it until you asked.
+DOCTOR: Possibly. It's good you mentioned that. Let me just take a look at your EHR… Alright, Lisinopril 20mg daily… Okay. Now, I’m going to need to do a quick exam. Let's have a look at this itching. Please, have a seat on the examination table.
+PATIENT: Okay, sounds good. Examination table, right. I hope you don't mind, but I don't have the best balance these days. My wife used to say I was always clumsy…
+DOCTOR: Alright. Let’s just start with your back. Please, just relax. Breathe normally. And tell me if anything feels… unusual.
+PATIENT: Okay, relaxing… trying to relax. Feels… normal so far, Doctor. Just the coldness of the stethoscope, I guess. It doesn’t hurt or anything. I always feel a little silly when someone listens to my back. It reminds me of when I was a kid.
+DOCTOR: Alright. And now the front. Deep breaths, if you would.
+PATIENT: Okay, deep breaths. Still nothing unusual, Doctor. Just… breathing. My lungs aren't what they used to be, I suppose. I used to smoke, a long time ago. Quit thirty years ago, but… it still affects things sometimes.
+DOCTOR: Alright. And now, let’s take a look at the skin. Any visible rash, redness, anything like that?
+PATIENT: No, nothing visible, Doctor. That's the frustrating part! It’s just… itchy skin. No bumps, no redness, no peeling… It looks perfectly normal. That's why I haven't bothered anyone about it for so long. Thought it would go away on its own. You can’t see the itch, you know?
+DOCTOR: Alright. Well, given your history and the examination, it could be a number of things. The Lisinopril is a possibility – it can cause pruritus, though it’s not common. It could also be age-related skin changes, dry skin despite your best efforts, or… something else. To rule things out, I’m going to order some basic blood work. Complete blood count, metabolic panel, liver function tests… just to get a baseline.
+PATIENT: Okay, that sounds… thorough. Blood work, right. I'm not a fan of needles, but if it'll help figure out what's going on, I'm happy to do it. Where do I go to get that done? Do I need an appointment or can I just walk in?
+DOCTOR: The lab is down the hall, second door on the left. You'll need to give them your insurance information. No appointment necessary, they take walk-ins. The results should be back in a few days. We can discuss them then. Anything else?
+PATIENT: Okay, down the hall, second door. Got it. No appointment… that’s good. I think… no, I don’t think that’s everything. Just… thank you, Doctor. For listening, and for taking the time to look into this. It’s… nice to finally have some direction, you know? I've been driving myself crazy worrying about it.
+DOCTOR: Alright. You're welcome. I'll see you when the results are back. Don’t worry too much. It’s probably nothing serious. Here's the lab requisition. And… have a good day. .
+PATIENT: Okay, thank you again, Doctor. Have a good day to you too. .

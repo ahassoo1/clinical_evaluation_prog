@@ -1,0 +1,42 @@
+DOCTOR: Good morning, Jaylyne. Welcome to the clinic. I'm Dr. Sieh. It’s nice to meet you. So, what brings you in today?
+PATIENT: Morning, Doctor. Uh, it’s this ringing in my ears. It’s been… annoying me for a bit now.
+DOCTOR: Okay, ringing in the ears. That can be quite bothersome. Can you tell me a little more about it?
+PATIENT: Yeah, it is. It's not constant, like… sometimes it's really loud, other times I barely notice it. It’s like a high-pitched whine, mostly. Happens in both ears, I think. Though maybe one is worse than the other? It’s hard to tell, honestly.
+DOCTOR: Alright, so it comes and goes, a high-pitched whine, and seems to be in both ears, though perhaps more noticeable in one. How long has this been going on?
+PATIENT: Hmm… let me think. Probably… a couple of months now? Maybe three? It started after I went to that concert, but I don’t know if that’s connected. It wasn’t that loud a concert.
+DOCTOR: Okay, a couple of months, and you suspect it might have started after a concert. That's good information. Do you recall any other specific events around the time it began?
+PATIENT: Not really, no. Just… normal work stuff, you know? Waiting tables is pretty busy. Maybe a little more stressed than usual lately, with everything. But nothing major. Honestly, I just figured it would go away on its own.
+DOCTOR: Okay, so it began around the time of increased work stress and followed a concert. And you've been hoping it would resolve on its own. Have you noticed anything that makes it worse, or better?
+PATIENT: Good question. Uh… quiet places seem to make it worse, weirdly enough. Like, when it’s really quiet, I notice it more. And… I think being tired makes it worse too. When I’m stressed and tired, it’s really bad. Nothing really makes it better, unfortunately.
+DOCTOR: Okay, quiet places worsen it, and stress and fatigue exacerbate it. That's helpful. Now, let’s talk about your overall health a bit. Do you have any past medical problems that I should be aware of?
+PATIENT: Not really. I mean, I had the flu once, like everyone does. And I broke my arm when I was a kid, but that healed fine. Nothing serious, I don’t think. I generally stay pretty healthy, you know? I try to.
+DOCTOR: Alright, no significant medical history. Have you ever had any surgeries?
+PATIENT: Nope, never had surgery. Never needed it, thankfully. Is this going to take long, Doctor? I have another shift later.
+DOCTOR: No, we're getting through it. Just a few more questions, and then I’ll do a quick exam. I understand you have a shift later, so I'll be as efficient as possible. Okay, what about family history?
+PATIENT: Family history… Hmm. My dad has high blood pressure, I think. And my grandma, on my mum's side, she had some problems with her hearing when she got older, but I don’t know what exactly. Just… old age stuff, I guess. Nothing major that I know of.
+DOCTOR: Okay, so a history of high blood pressure in your father and some age-related hearing issues in your grandmother. Now, let's talk about your lifestyle. Do you smoke?
+PATIENT: No, never smoked a day in my life. And I don’t do drugs either. I drink sometimes, socially, you know? A few beers with mates on the weekend. Not a lot.
+DOCTOR: Okay, no smoking or drug use, and occasional social drinking. And do you have any allergies to medications or anything else?
+PATIENT: Nope, no allergies. I can eat anything, take any medicine… as far as I know. Never had a reaction to anything.
+DOCTOR: Alright, no allergies. And finally, are you currently taking any medications at all, including over-the-counter medications or supplements?
+PATIENT: No, nothing at all. Just… trying to get through the day, you know? Can we just… get to the ear thing now? I really need to know if there's something seriously wrong.
+DOCTOR: Okay, I understand your concern, Jaylyne. No current medications. Let's move on to the physical exam. I'm going to take a look in your ears, check your hearing a little bit, and do a quick neurological exam just to be thorough. Does that sound alright?
+PATIENT: Yeah, okay. Fine. Let’s just get it over with. The quicker the better.
+DOCTOR: Alright. I'm going to gently examine your ear canals with this instrument. It doesn't go in very far, and it shouldn't be uncomfortable, but let me know if you feel any pain. Okay, your right ear canal appears clear. There's a little bit of cerumen, or earwax, but nothing significant. Your left ear canal also appears clear, similar amount of cerumen. Can you hear me rubbing my fingers together near your right ear?
+PATIENT: Yeah, I can. It's… faint, but I can hear it.
+DOCTOR: Okay. And how about near your left ear?
+PATIENT: Yeah, same. Faint. Not super loud, but I can hear it. Is that… bad?
+DOCTOR: Okay. And can you follow a simple command?
+PATIENT: Yeah. Go ahead.
+DOCTOR: Okay. Can you follow my finger with your eyes, without moving your head?
+PATIENT: Yeah, sure. I'm following it. It's a bit blurry, but I can see it.
+DOCTOR: Okay. Your eye movements appear normal. Now, I'm going to do a quick test of your balance. Can you stand up for me?
+PATIENT: Yeah, okay. Standing. What do I do?
+DOCTOR: Okay. Please stand with your feet together and close your eyes. Try to maintain your balance for about 30 seconds. I'll be right here if you need support.
+PATIENT: Okay… trying… This is… a bit hard. Whoa…
+DOCTOR: Okay, okay, that's alright. You can sit down now. You had some difficulty with your balance, Jaylyne. Based on what you've told me and the exam findings, it sounds like you're experiencing tinnitus – ringing in your ears – likely with some mild difficulty with balance. The concert and increased stress could be contributing factors. We need to rule out a few things, though. I’d like to order an audiogram, which is a hearing test, to get a more detailed picture of your hearing. I also want to rule out any other underlying causes. I'll also send you home with a few recommendations. Would you like to know them?
+PATIENT: Yeah, please. What recommendations? And… is this serious? Like, am I going to go deaf?
+DOCTOR: Okay, let's address your concerns first. It's unlikely you're going to go deaf. Most cases of tinnitus aren't a sign of a serious underlying problem. However, it's important to get it checked out to rule out anything concerning. As for recommendations, I suggest avoiding loud noises as much as possible. If you're exposed to loud noises, wear earplugs. I also recommend managing your stress levels. Techniques like deep breathing exercises, yoga, or meditation can be helpful. Finally, make sure you're getting enough sleep. I'm going to give you a referral to an audiologist for the hearing test. They will be able to provide a more comprehensive assessment. I also want you to monitor your symptoms. If you experience any sudden changes in your hearing, dizziness, or pain in your ears, please contact me immediately. Does that sound good?
+PATIENT: Yeah, okay. That sounds… manageable. So, earplugs, less stress, more sleep. I can try that. And the hearing test… I’ll schedule it. Thanks, Doctor. I appreciate it. Can I go now? I really need to get to work.
+DOCTOR: You’re very welcome, Jaylyne. I’m glad I could help. Yes, you’re free to go. Here’s the referral to the audiologist and a handout with information about tinnitus management. Remember to contact me if you have any concerns. I'll also send a work note to your employer stating you were seen today and have a scheduled appointment for a hearing test. Drive safely, and I hope you feel better soon.
+PATIENT: .

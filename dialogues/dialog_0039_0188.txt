@@ -1,0 +1,19 @@
+DOCTOR: Hello, Criston. Welcome. I'm Dr. Kamahele. It's nice to meet you. So, what brings you in to see me today?
+PATIENT: Hello Doctor. Nice to meet you too. Um, it’s my… my pee. It’s orange. I don’t know why. It started, maybe, three days ago?
+DOCTOR: Orange urine, okay. Three days ago… Hmm. That's definitely something we should look into. Not usually a cause for major alarm, but we want to figure it out. Can you tell me a little more?
+PATIENT: Okay, good. I was a little worried. Um… I drink water, normal. Maybe a little coffee in the morning. Not too much. I eat… normal food, I think. Nothing different really. My wife says I'm drinking enough, but… I don't know. Does that make sense?
+DOCTOR: It does make sense, Criston. And it's good you're paying attention to these things. “Normal” can mean different things to everyone, though. When you say “normal food”, could you give me an example of what you typically eat in a day?
+PATIENT: Okay, okay. Let me think. Breakfast, usually bread and… jam. And coffee. Lunch, maybe a sandwich. Ham and cheese, sometimes. Or… chicken. Dinner, my wife cooks. Often tagine, with lamb or chicken. Rice, vegetables. Sometimes couscous. Not much… fast food. Maybe once a month.
+DOCTOR: That gives me a better picture, thank you. Tagine is delicious! Okay… and have you noticed any pain or burning when you urinate?
+PATIENT: No, no pain. Nothing like that. It just… the color. It’s like… orange juice, but not as bright. Just… different. And I haven't felt sick or anything, no fever. My wife asked if I was taking any new pills, but I'm not. Just the normal ones for… my blood pressure.
+DOCTOR: Okay, no pain, no fever, and you’re still taking your usual blood pressure medication. Can you tell me the name of that medication?
+PATIENT: Um… let me think. It's a white pill. Small. I think… Lisinopril? Yes, Lisinopril. That’s it. I take one every morning. It helps with… the pressure, my doctor told me.
+DOCTOR: Lisinopril, okay. And how much water would you say you drink in a typical day?
+PATIENT: Um… hard to say. Maybe two… three glasses? It's not a lot, I know. My wife always tells me to drink more. But I don't feel thirsty. And I’m not doing… much activity. I work at a desk, mostly.
+DOCTOR: Okay, Criston. I'd like to do a quick exam, just to check a few things. It's pretty straightforward. I’ll listen to your heart and lungs, and then I’ll take a quick look at your abdomen. Is that alright with you?
+PATIENT: Yes, that’s okay. Whatever you think is best, Doctor. I just want to know what’s going on with my pee.
+DOCTOR: Alright. Let's start with your heart and lungs. Take a nice, deep breath in… and out… Good. Everything sounds good so far, Criston. Heart and lungs are clear. Your abdomen feels… soft, no tenderness. I don’t feel anything unusual. Now, to be on the safe side, I'd like to order a urine sample – a urinalysis – to get a better look at what’s going on. That will help us rule out any infection or other issues. Would you be able to provide a sample for me?
+PATIENT: Yes, of course. A urine sample, okay. Where… where do I do that? Is there a… a room?
+DOCTOR: Yes, absolutely. Down the hall, second door on the left. There’s a private bathroom in there with everything you need. I’ll give you a cup, and instructions are posted on the wall. Just bring the cup back to me when you're finished. I’ll let you have a few minutes of privacy.
+PATIENT: Okay. Thank you, Doctor. I’ll go do that now.
+DOCTOR: Take your time, Criston. I’ll be right here when you get back.

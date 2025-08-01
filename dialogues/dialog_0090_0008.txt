@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. GuerreroloLopez. I'm Dr. Kur. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Uh… my ear. It feels… full. Like something’s blocking it, you know? It's been… a while, I think. Honestly, time gets away from me these days. It's just… annoying, mostly.
+DOCTOR: "Annoying" can sometimes mean something simple, and sometimes it doesn’t. "A while" isn’t very specific, unfortunately. Could you try to recall when you first noticed this fullness?
+PATIENT: Oh, goodness. When… That’s… difficult. Before… before my wife… yes, definitely before. Maybe… six months? Or was it longer? It comes and goes, so I didn't really pay much attention until recently. It's just… more constant now.
+DOCTOR: Six months, alright. And you say it comes and goes, but it’s more consistent now. Has anything specifically made it worse, or better, during those six months?
+PATIENT: Hmm… not that I recall, no. I work outside a lot, you know, agricultural inspections. So there’s… wind, sometimes. And dirt. But it doesn't seem to be… tied to that. I haven't noticed anything specific, really. It just… is.
+DOCTOR: Agricultural inspections… so you're exposed to the elements. Okay. Any pain with it?
+PATIENT: No, no pain. Just… pressure. Like when you go up high in an airplane, you know? That feeling. But it doesn’t hurt. It’s just… uncomfortable. And I feel like I can’t hear properly sometimes. Mostly muffled sounds, I guess.
+DOCTOR: Pressure, muffled sounds… and no pain. Have you experienced any dizziness, ringing in your ears, or discharge from the ear?
+PATIENT: Dizziness… no, not really. Maybe a little unsteady sometimes, but I put that down to… well, I'm not as young as I used to be. Ringing… possibly? It’s quiet most of the time. I live near a busy road, so… it’s hard to tell. And no, no discharge. Just… the fullness.
+DOCTOR: Alright. And have you tried anything to relieve it yourself?
+PATIENT: Relieve it? Not really. I mean, I’ve tried… blowing my nose, you know? Sometimes that helps with the pressure, but not usually. I don't really… take much for anything, if I can avoid it.
+DOCTOR: I see. Well, let’s take a look at the ear, shall we?
+PATIENT: Yes, please. That sounds good. I just want to get it sorted, if possible.
+DOCTOR: If you could sit here for me. I'll use the otoscope to have a look inside. It might be a little uncomfortable, but I’ll be gentle.
+PATIENT: Right. Gentle would be nice, yes. I don't like things poked at, if I'm honest.
+DOCTOR: Hmm. Okay. There’s some cerumen – earwax – present, and the canal is a bit inflamed. The eardrum itself appears intact, but it’s difficult to get a clear view with all the wax. The left ear is similar – wax and some inflammation. It's likely you have a buildup of earwax causing the blockage and inflammation. That can certainly cause the feeling of fullness and muffled hearing.
+PATIENT: Ah. Wax, you say? That makes sense, I suppose. Working outside… dirt gets everywhere. So… what do we do about it?
+DOCTOR: Well, removing the wax should alleviate your symptoms. Now, we could try irrigation, but given your… profession, I'm hesitant. We don’t want to risk pushing the wax further in or causing an infection. A more conservative approach would be earwax softening drops. Over-the-counter, readily available. You’ll need to use them for a few days, then come back and we’ll re-evaluate. I'll print you out some instructions.
+PATIENT: Drops, alright. That sounds… manageable. Better than anything being pushed in, certainly. Instructions would be good, yes. I'm not very good with remembering things, you know.
+DOCTOR: Here you are. It explains exactly how to use them, how often, and what to expect. If you experience any pain, discharge, or dizziness at all, stop using the drops immediately and contact the clinic. Do you understand those instructions?
+PATIENT: Pain, discharge, dizziness… yes, I see it. I think so. It’s a bit small print, but… yes. I’ll try my best. If I’m unsure… I’ll call, right?
+DOCTOR: Yes, Mr. GuerreroloLopez, if you’re at all unsure, call the clinic. Now, do you have any other concerns today, or are we finished?
+PATIENT: No, I think that’s all. Just… the ear. And hopefully, some drops will sort it out. Thank you, Doctor.
+DOCTOR: Very well. Follow those instructions carefully. And try to avoid getting excessive dirt in your ears in the future, if possible. Have a good day, Mr. GuerreroloLopez. .
+PATIENT: Right. I’ll try my best. Thank you again, Doctor.

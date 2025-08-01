@@ -1,0 +1,26 @@
+DOCTOR: Right. Lakiya Reihner, 42 years old. So, what brings you in today?
+PATIENT: It’s my back. It hurts. A lot. I… well, I need to get this fixed if possible. I work, you see. Fence work. Can’t do that with a bad back.
+DOCTOR: "Fence work." Right. And how long has this “lot” of back pain been bothering you?
+PATIENT: About three weeks now. Started slow, just a little ache after a long day. Now… now it’s hard to even bend over. It’s a constant pain, not just when I’m working. I tried resting, but it didn’t really help.
+DOCTOR: Three weeks. And is this pain… radiating anywhere?
+PATIENT: Radiating? You mean… going somewhere else? Yes. Down my leg. Mostly the left one. It feels… like a burning, sometimes. And numb. Not all the time, but… often enough to be annoying.
+DOCTOR: "Burning and numb." Alright. And can you describe the pain itself?
+PATIENT: It’s… a deep ache, mostly. Like something is pulled, stretched too far. And then the burning, like I said. It’s worst when I try to stand up straight. Or lift anything. Even just bending to put on my shoes is… difficult.
+DOCTOR: So, a typical musculoskeletal issue. Have you injured your back recently?
+PATIENT: No. Not that I recall. Nothing specific. Just… the work. It’s hard work, you see. Lots of lifting, bending, stretching. It’s always a strain. Maybe it just finally… gave out? I don’t know.
+DOCTOR: And what about any previous back problems?
+PATIENT: No. Never had trouble with my back before this. Not like this. Maybe a little soreness after a long day, but nothing I couldn’t work through. This is… different.
+DOCTOR: Alright. Any other medical conditions I should be aware of?
+PATIENT: No. Just… old age, I suppose. I have Medicare, if that matters. And… I’m widowed. My husband passed a few years back. Otherwise, I’m… fairly healthy.
+DOCTOR: Medicare is noted. Any allergies to medications?
+PATIENT: No. None that I know of. Never had a bad reaction to anything. I don’t take much medicine, usually. Just… what I need for a cold, maybe.
+DOCTOR: Alright. Let's have a quick physical exam. Please lie down on the examination table. We'll start with some basic range of motion tests.
+PATIENT: Fine. Just… be gentle, please. It hurts to move.
+DOCTOR: Okay. Tenderness is present along the lumbar spine, primarily on the left side. Forward flexion is limited and painful. Straight leg raise test… positive on the left side at approximately 30 degrees. That elicits pain radiating down the leg.
+PATIENT: Positive? What does that mean? Is it bad?
+DOCTOR: It indicates potential nerve compression, likely a sciatic nerve issue. It's not necessarily "bad," but it requires attention. We’ll need to rule out anything more serious. I'm ordering an X-ray to assess the spine for any structural abnormalities. I will also order an MRI to evaluate the soft tissues and confirm the nerve compression.
+PATIENT: X-ray and… MRI? That sounds expensive. Will Medicare cover that? And… how long will that take? I need to get back to work.
+DOCTOR: Medicare should cover it, but I can’t guarantee anything. The radiology department will handle the billing. As for how long… the X-ray can be done today. The MRI will take longer to schedule, possibly a week or two, depending on availability. Here’s a referral for the imaging center. In the meantime, I'm prescribing a short course of NSAIDs to help with the inflammation and pain. Take as directed. Avoid heavy lifting and strenuous activity. If the pain worsens significantly, or you experience any numbness or weakness in your legs, go to the emergency room immediately. Do you have any other questions?
+PATIENT: No. I… I think that’s all. Just… thank you. I hope this doesn’t take too long. I need to work.
+DOCTOR: Very well. Follow the instructions, and schedule those imaging tests as soon as possible. Next patient. .
+PATIENT: .

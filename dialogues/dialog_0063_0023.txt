@@ -1,0 +1,27 @@
+DOCTOR: Good morning. Dr. Jules. Please, have a seat. Mr. Bulaong, is it?
+PATIENT: Yes, that’s right. Aron Bulaong. Good morning to you too, Doctor. It’s…nice here. Quiet.
+DOCTOR: Yes, well, we are somewhat removed from the bustle of the city. Now, let’s not waste time. What brings you in today?
+PATIENT: Um… my chest. It…hurts. Not all the time, but…sometimes. It’s like a…ache. I think. It’s my breast, I mean. It’s…strange, I know.
+DOCTOR: Strange is…a matter of perspective. And you are experiencing pain in your…breast?
+PATIENT: Yes, Doctor. That's right. Pain. Not…sharp, you know? Just…sore. Like when you…work hard. But I haven't been working that hard lately. Mostly just on roofs. Not too much lifting.
+DOCTOR: Roofs, you say. And how long has this discomfort been present?
+PATIENT: Maybe…a month? It started…slowly. I didn’t really think much of it at first. Just a little ache after a long day. But it's been…staying longer now. Not going away so easy. I think it gets worse before my wife and I eat? But I don't really know.
+DOCTOR: Before meals… interesting. Have you noticed any changes to the area itself?
+PATIENT: Changes…? Like…what kind of changes? I haven’t really…looked closely, Doctor. I just…felt the pain. It doesn't…look different, I don’t think. Maybe a little…bigger? But I don’t know if that’s just me. I'm a skinny guy.
+DOCTOR: "Skinny," you say?
+PATIENT: Yes. I mean, I haven’t put on much weight in a while. I eat okay, I think. My wife cooks good food. But I’m mostly just…bones, you know? Not like…sick skinny, but…not big. Does that make sense?
+DOCTOR: Right. Well, we need to examine the area. Please, lie down on the examination table. And try not to fidget.
+PATIENT: Okay, Doctor. Is…is this going to hurt? I don’t like needles.
+DOCTOR: Needles are not necessarily involved. Just a simple physical assessment. Please, remove your shirt. And do try to relax.
+PATIENT: Okay… um… is the room soundproof? My wife is waiting outside. I don't want her worrying.
+DOCTOR: This is a medical facility, Mr. Bulaong. Basic privacy is assumed. Now, if you could lie back, please. And try to remain still. I’ll need to listen to your heart and lungs, then palpate the area of discomfort.
+PATIENT: Okay… I’m… a little cold. But it's okay. Just tell me what you're doing, Doctor.
+DOCTOR: Hmm. Tenderness is present in the left pectoral region. No palpable masses detected at this time. Skin temperature is normal. Your heart sounds are… adequate. Lungs are clear. I suspect this is muscular in origin, likely a strain. But given the… unusual presentation, and the discomfort’s persistence, we will need to rule out other possibilities.
+PATIENT: Other…possibilities? What kind of possibilities, Doctor? Is it…serious? My wife gets worried easy. I don't have insurance, so…expensive things are hard.
+DOCTOR: Mr. Bulaong, it is far too early to speculate on "serious" conditions. However, given your age and build, and the report of discomfort related to meals, a basic blood panel is warranted. To rule out hormonal imbalances, which, while rare in men, can present similarly. And just to be thorough, a mammogram—yes, a mammogram—can sometimes reveal subtle abnormalities that are not readily apparent upon physical examination. Although, frankly, I suspect it will be a waste of resources. The lab is down the hall. The technician will draw the blood. The mammogram can be scheduled at the imaging center. I will have the staff provide you with the necessary paperwork.
+PATIENT: A mammogram…? But… that's for women, right? I'm a man. Are you sure? And…hormones? What kind of hormones? This is getting… complicated. My wife isn't going to believe this.
+DOCTOR: Mr. Bulaong, I am a physician. I am suggesting these tests to rule out possibilities. It is called due diligence. Hormonal imbalances can occur in men, albeit rarely, and present with unexpected symptoms. The mammogram—while unconventional—is simply a precautionary measure. I assure you, if it reveals nothing of significance, we will not pursue it further. Do you understand?
+PATIENT: I…I guess so. But it all sounds…expensive. And scary. I don't even know what a "hormonal imbalance" is. Can’t we just…try some muscle relaxers? Or something? Maybe it really is just a strain. My wife…she worries so much. I don't want to scare her.
+DOCTOR: Very well. I will prescribe a course of ibuprofen and a mild muscle relaxant. However, should your discomfort persist beyond one week, or worsen at any time, you must return for further evaluation. And the blood panel—I insist. It is a simple precaution. The staff will provide you with information regarding cost and payment options. I trust that is clear?
+PATIENT: Yes. Clear. Ibuprofen… and muscle relaxers. And… blood tests if it doesn’t get better. Thank you, Doctor. I… appreciate you trying to help. I just hope it's nothing serious. My wife will be so worried…
+DOCTOR: .

@@ -1,0 +1,16 @@
+DOCTOR: Right. Kahrin Kovtun, 29 years old. So, what brings you in today?
+PATIENT: Just the results, please. I’m really short on time today.
+DOCTOR: The results?
+PATIENT: Yeah. That’s what the appointment was for, right? I did all the tests last week, and the scheduler said Dr. Memmolo would just go over everything with me. I have another meeting in… not a lot of time. Is everything okay?
+DOCTOR: Yes, well, I am Dr. Memmolo. And simply saying "the results" isn't particularly helpful, is it?
+PATIENT: Oh! Sorry. Bad habit, I remember details too well and sometimes skip steps explaining things. The blood work and the scan… the ones from the 29th of July? I want to know what those showed.
+DOCTOR: Right. July 29th… Let's see. Your complete blood count was… unremarkable. Slightly low Vitamin D, frankly, everyone has that these days. The scan… the abdominal CT… showed a small cyst on your left ovary.
+PATIENT: A cyst? Okay… is that… bad? I don’t really know much about any of this. What does that mean?
+DOCTOR: It’s rarely anything serious. Most ovarian cysts are functional – they form during your normal menstrual cycle and go away on their own. It's very common, honestly. This one is small… about 2 centimeters. We’ll want to monitor it, just to be sure.
+PATIENT: Monitor it how? Do I need more tests? Another scan? I really need to know how long this is going to take. And… will it hurt?
+DOCTOR: Honestly, you're asking a lot of questions without letting me finish. We'll repeat the ultrasound in three months. That’s it. As for "hurt," these functional cysts rarely cause pain. If you develop any lower abdominal pain, especially if it’s severe or accompanied by fever, then we'll discuss further imaging. Is that clear?
+PATIENT: Okay, three months. Ultrasound. Pain means more tests. Got it. Is there anything I need to do between now and then? Like, change my diet or… anything?
+DOCTOR: No. Unless you have some underlying health condition, there’s absolutely no need to alter your lifestyle. It's a small cyst. Worrying about it will do far more harm than ignoring it. We’ll see you in three months. Do you have any other questions?
+PATIENT: No, I think that covers it. Thanks, Dr. Memmolo. Three months, repeat ultrasound, pain means call. I've got it.
+DOCTOR: Good. I’ll have the scheduler send over the paperwork. Next patient.
+PATIENT: .

@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Puder. I am Dr. Jules. Now, please tell me, in your own words, what brings you in today?
+PATIENT: Morning, Doctor. Uh, my heart... it feels funny sometimes. Like it's beating too fast, but not always. It just... flutters. It's been happening for a little while now, maybe a month or so. Not every day, but enough to worry me.
+DOCTOR: A month, you say?
+PATIENT: Yeah, about a month. Maybe a little longer, hard to say exactly. It doesn’t hurt, just… feels off. Like a fish flapping, you know? Not a big problem, but my wife says I should come see someone. She gets worried easy.
+DOCTOR: Your wife is concerned, is she?
+PATIENT: Yeah, she is. She says I get quiet when it happens, and she doesn’t like that. She’s right, I guess. I don’t feel sick, just… distracted. Like I’m thinking about something else while my heart is doing its thing. It doesn’t last long, usually. Maybe a few minutes, then it stops.
+DOCTOR: Distracted, you say?
+PATIENT: Yeah. Like… when you're trying to remember something, and your mind is busy? It's a little like that. Not a bad feeling, just… not normal. I don’t know what it means. Does that make sense?
+DOCTOR: Hmm. And are you experiencing any other symptoms alongside this… “fluttering”?
+PATIENT: No, not really. No chest pain, no getting tired easy, nothing like that. Just the heart thing. Sometimes a little… lightheaded, maybe? But I think that’s just from standing up too fast. It doesn’t happen all the time.
+DOCTOR: Lightheadedness… And do you take any medications currently?
+PATIENT: No, Doctor. Nothing at all. I don't like taking pills if I can help it. I usually just drink tea when I feel bad. My wife makes a good ginger tea, helps with everything.
+DOCTOR: Ginger tea, you say?
+PATIENT: Yeah. She says it's good for everything. Stomach problems, colds, even when I'm just feeling down. She’s very good with that kind of thing. It doesn't help the heart, though, just makes me feel warmer.
+DOCTOR: Alright. Let's have a listen to your heart, shall we?
+PATIENT: Okay, Doctor. Whatever you think is best. Just tell me if it’s something serious, okay? I have work to do, and my wife… well, she worries enough as it is.
+DOCTOR: Please lie back on the examination table. And try to relax. Hmm… rate is a little elevated, but nothing alarming. Blood pressure is within normal limits. Palpable, regular rhythm. Now, take a few deep breaths for me.
+PATIENT: Okay. . Is it something bad, Doctor? My heart feels okay now, but… when it starts fluttering, it feels weird. Like it's trying to jump out of my chest.
+DOCTOR: It could be a number of things, Mr. Puder. Often, these palpitations are benign – caused by stress, caffeine, or, as you say, a bit of exertion. However, we cannot rule out more serious possibilities without further investigation. Given your… uninsured status and rural location, extensive testing may be difficult to pursue.
+PATIENT: Uninsured… yeah, that's a problem. I work hard, but the money… it doesn't go far. What kind of tests are you thinking about, Doctor? And… how much would they cost? Maybe we can figure something out. My wife… she’s good at saving money.
+DOCTOR: An electrocardiogram, perhaps. And potentially a Holter monitor to record your heart rhythm over a longer period. As for cost… it varies. I will be frank. These tests are not inexpensive. Tell you what. Let us start with lifestyle modifications. Reduce caffeine intake. Manage stress. If the palpitations persist, and you are able, we can discuss referral to a cardiologist. I am prescribing a mild anxiolytic to help with stress. It may… alleviate the symptoms.
+PATIENT: Okay. Less coffee… I can do that. I drink a lot of tea, though. Is tea okay? And… a pill for stress? I don’t really like taking pills. But… if it helps, I guess I can try it. What do I do if the fluttering doesn't stop? And how long should I try the tea and the pill before I worry again? My wife will want to know.
+DOCTOR: Tea is… permissible, in moderation. As for the medication, take as directed. If the palpitations become more frequent, prolonged, or accompanied by chest pain, dizziness, or shortness of breath, you should seek immediate medical attention. Try the lifestyle modifications and the medication for one month. If there is no improvement, then we can re-evaluate. Do you have any further questions, Mr. Puder?
+PATIENT: Okay. One month. Tea, less coffee, the pill… and watch for bad things. No, I think that’s all, Doctor. Thank you for your time. I hope it’s just stress, like you said. I have work to do, and my wife… well, she’s been worried enough. .
+DOCTOR: Very well. Good day, Mr. Puder.

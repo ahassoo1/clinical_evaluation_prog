@@ -1,0 +1,24 @@
+DOCTOR: Good afternoon, Mr. Bulaong. Welcome. I’m Dr. Fazzina. So, what brings you in today?
+PATIENT: Good afternoon, Doctor. Uh, it’s my chest. It hurts, kinda. Not all the time, but… yeah. It’s my chest.
+DOCTOR: Okay, chest pain. Can you tell me a little more about that “kinda” hurt?
+PATIENT: It’s… hard to say. It’s not like a sharp pain, more like… a full feeling. Sometimes it feels like it’s inside, you know? And it’s not always in the same spot. Mostly… on this side.
+DOCTOR: Okay, a fullness, not sharp… more on the left side. Does anything make it worse?
+PATIENT: Hmm… not really. I work on roofs, so it’s hard to tell. Everything hurts after a long day, you know? But… I think maybe when I lie down sometimes. Not always, though.
+DOCTOR: Okay… worse when lying down, potentially. And you said you work on roofs. How long have you been doing that work?
+PATIENT: About… ten years now. It’s good work, but hard. Lots of moving around. And sometimes… falling. But I haven’t fallen lately.
+DOCTOR: Ten years… and any significant injuries from those falls, even if they seemed minor at the time?
+PATIENT: Not really. Just bumps and bruises, mostly. One time I twisted my ankle, but that healed up good. Nothing I think would make my chest hurt. It’s just… been happening more lately. That’s why I came in.
+DOCTOR: Okay. And how long has this chest pain been happening more lately?
+PATIENT: Hmm… maybe a month? Two months, maybe. It comes and goes. Some days I don’t even notice it. But it’s been… more regular, I guess. And a little bit worrying. My wife told me to come see you.
+DOCTOR: Okay, so about a month or two of increasing frequency. Good on your wife for encouraging you to come in. Alright, Mr. Bulaong, I'd like to listen to your heart and lungs, and I'll also feel around your chest to see if anything feels tender. Is that alright with you?
+PATIENT: Yeah, that’s fine. Whatever you think is best, Doctor. I trust you.
+DOCTOR: Great. If you could just have a seat here and lean back. I’m going to start by listening to your heart and lungs with my stethoscope. Okay, take a nice deep breath for me… and again… good. Everything sounds clear to me so far, but I’m going to feel around your chest now. Just let me know if anything feels particularly sore. Hmm… any tenderness here?
+PATIENT: No, not really. Maybe… a little bit here. But it's not bad. Like a bruise, kinda. Like when you bump into something.
+DOCTOR: Okay, a little tenderness there. Not significant, but noted. Mr. Bulaong, do you experience any shortness of breath, nausea, sweating, or pain radiating to your arm, jaw, or back?
+PATIENT: No, none of that. Just the chest pain. Sometimes it feels a little… full, like I ate too much. That's all. I don't get sweaty or anything. And my breathing is fine. I climb all over roofs, remember?
+DOCTOR: Right, you do. Okay. Given your occupation and the intermittent nature of the pain, it could be musculoskeletal—related to the strain of your work. However, given the location and the fact that it's increasing, I want to rule out anything more serious. I'd like to get an EKG done to check your heart rhythm, and a chest X-ray to look at your lungs and rule out anything else going on. Would that be alright with you?
+PATIENT: Yeah, that sounds good, Doctor. Whatever you think is best. An EKG and… a picture of my chest? That's fine. I trust you to figure it out.
+DOCTOR: Great. Okay, I'll have the nurse come in and get you set up for the EKG, and then we'll head over to radiology for the X-ray. It shouldn't take too long. Nurse, could you please come in and start an EKG for Mr. Bulaong?
+PATIENT: Okay, thank you, Doctor.
+DOCTOR: Of course. We’ll get this sorted out. Just try to relax, and we’ll take it one step at a time. .
+PATIENT: .

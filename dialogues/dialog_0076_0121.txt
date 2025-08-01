@@ -1,0 +1,20 @@
+DOCTOR: Right, Mr. Pipolo. Let’s get this over with. So, what brings you in today?
+PATIENT: My eyes. They feel… dry. Real dry. It’s been botherin’ me for a bit now. I just want somethin’ to make ‘em feel better.
+DOCTOR: Dry eyes, huh?
+PATIENT: Yeah. Like sand. Not in ‘em, just… feelin’ like sand. Is that… normal? I don’t know nothin’ about this kinda stuff.
+DOCTOR: Normal is relative, Mr. Pipolo. You're 83, things feel different at your age. But alright, alright. Have you noticed any burning, stinging, or blurry vision with this dryness?
+PATIENT: Blurry… sometimes. Mostly just when I stare at things for too long. Like readin’ the paper. And it feels… scratchy. Not a burn, exactly. More like… annoyed. Does that make sense? I don’t know how to explain it good.
+DOCTOR: Annoyed eyes… wonderful. Okay. And how long has this been going on?
+PATIENT: Oh, geez. A while. Maybe… a month? Two? Time kinda… slips away, ya know? I didn’t think much of it at first. Figured I just needed more water. Didn’t help.
+DOCTOR: Right. And are you on any medications, Mr. Pipolo?
+PATIENT: No. Never been much for pills. Just… what I need to get by. I don't take nothin' regular.
+DOCTOR: No medications… good. Any allergies?
+PATIENT: Nope. Never had allergies. Not that I know of. I’ve lived a long time, I’d remember if I was coughin’ or swellin’ up.
+DOCTOR: Alright. Let's have a quick look. Please sit up straight and look forward. I'll need to examine your eyes. It won’t take long.
+PATIENT: Okay. Just tell me what to do. I'll try to hold still. My hands ain't as steady as they used to be.
+DOCTOR: Hmm. Conjunctiva appears a little dry, some mild injection. Pupils are equal, round, reactive to light and accommodation. Not much to report, frankly. You just have dry eyes, Mr. Pipolo. Common at your age.
+PATIENT: So… what do I do about it? Just… live with it? I was hopin’ for somethin’ to make it better. It’s real uncomfortable. Is there… eye drops or somethin’?
+DOCTOR: Eye drops, of course. Everyone wants a magic fix. Look, I can prescribe some artificial tears. Use them as needed, four times a day. But honestly, Mr. Pipolo, you're 83. Some discomfort comes with the territory. Don't overdo it, stay hydrated, and don’t stare at the paper for hours on end. That’s my advice. Any other complaints?
+PATIENT: Hydrate… I try. It's just… gets harder, ya know? Alright, eye drops. Four times a day. I can do that. No, that's… that's all. Just the eyes. Thank you, Doc. I guess.
+DOCTOR: Very well. Here’s your prescription. Next! .
+PATIENT: Okay. Thank you. .

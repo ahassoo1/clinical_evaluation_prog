@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Putney. I’m Dr. Kur. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just need this life insurance thing done. They sent me over here for a checkup, I guess. Want to get it over with quick, if that’s alright.
+DOCTOR: A life insurance physical…right. Well, we’ll certainly do our best to be efficient. But I still need to gather some information to ensure everything is accurate. It’s not just about a quick stamp of approval, you understand. Tell me, have you been feeling generally healthy lately?
+PATIENT: Yeah, mostly. A little tired sometimes, you know? Work’s been busy at the hotel. But nothing major, no sickness or anything. Just…tired. Is that okay?
+DOCTOR: “Tired.” That’s…vague, Mr. Putney. Everyone gets tired. Can you describe how tired?
+PATIENT: Just…like, when I get home, I just sit. Don't wanna do anything. Usually I'd watch TV or something, but even that feels like too much. And I wake up feelin’ kinda…not rested, even if I sleep okay. Does that make sense? I’m not a doctor, you know, hard to explain.
+DOCTOR: Alright. And how long has this been going on?
+PATIENT: Hmm… a few months, I think. Maybe since…spring? Hard to say exactly. Things kinda blend together when you're busy. It wasn't sudden, just kinda…gradual.
+DOCTOR: Gradual onset… a few months. Okay. Now, besides the fatigue, have you noticed any other changes?
+PATIENT: Let me think… my stomach’s been a little off sometimes. Not bad, just…upset. And I get kinda thirsty a lot, more than usual. That's about it, I think. Don't really have time to pay attention to much else.
+DOCTOR: “Don’t really have time to pay attention”… Mr. Putney, your health is something you should make time for. Now, this stomach upset… is it nausea?
+PATIENT: No, not sick. Just… feels kinda full after not much food. And like a little…gassy. Not a big deal. I eat a lot of… island food, you know? Maybe that's it. It’s probably nothing.
+DOCTOR: Alright. Let’s go through some basics, just to be thorough. Do you have any medical conditions – diabetes, high blood pressure, anything like that?
+PATIENT: No, not that I know of. Never been told. I have Medicare, they would’ve told me, right? I go for checkups when they tell me to. Just the usual old man stuff, you know? Aches and pains. Nothing serious.
+DOCTOR: Let me just pull up your records here… Alright, it says you had a physical in 2023, normal blood pressure and cholesterol then. No mention of diabetes. Have you ever had any surgeries?
+PATIENT: Hmm… let me see. Years ago, when I was a kid, I had my tonsils out. And I broke my arm once, when I was playin’ football. But that's it, I think. Nothing else. A long time ago.
+DOCTOR: Tonsillectomy as a child, broken arm. Good. Now, family history. Are your parents or siblings living?
+PATIENT: My mom passed away a few years back. And I have a sister, she lives over on Majuro. She’s okay, I think. Haven’t seen her in a while. She’s probably alright. Both my parents… they were okay, health-wise. Old age got ‘em, mostly. Nothing special, you know?
+DOCTOR: Alright. And do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: Smoke? No way. Never touched a cigarette in my life. Drink a little beer sometimes, with friends. Not much. And definitely no…other stuff. I'm a lodging manager, Doctor. Gotta stay respectable.
+DOCTOR: Alright. Any allergies to medications or anything else?
+PATIENT: Nope. Never had a problem with allergies. I can take most things. Don't really take much medicine anyway, unless I got a bad cold or something.
+DOCTOR: Okay. Now, I’m going to do a brief physical exam. I’ll listen to your heart and lungs, check your blood pressure, and feel your abdomen. This isn't just to satisfy the insurance company, you know. It's important to get a baseline. Please sit back and relax.
+PATIENT: Fine. Just… try to be quick, okay? I got a hotel to run. And people expect things to be done.
+DOCTOR: Alright, blood pressure is… 138 over 82. A little elevated, but not drastically so. Heart rate is regular, lungs are clear. Abdomen is…soft, some mild tenderness in the upper quadrants. Nothing alarming. Okay. I'm going to order some routine blood work. A complete blood count, a metabolic panel, and a fasting glucose test. We need to rule out any underlying issues causing your fatigue and thirst.
+PATIENT: Blood work? How long is that gonna take? I really don’t have a lot of time for this, Doctor. Is it something serious?
+DOCTOR: Mr. Putney, I’ve explained that this is standard procedure. It's a simple blood draw, it will take about 10 minutes at the lab. As for whether it’s “serious”, it’s premature to say anything until we have the results. It’s simply a precaution to ensure you are in good health, particularly given your desire for life insurance. We need to assess your glucose levels, kidney function, and overall blood count. It’s responsible medicine. I’ll give you a lab slip. Come back with the results in three days.
+PATIENT: Fine, fine. Three days. Just… try to be fast with the results, okay? I got a hotel to run, and people expect things. .
+DOCTOR: Please schedule a follow-up appointment when you have the results. And Mr. Putney, I strongly suggest you try to prioritize your health. Ignoring fatigue and thirst is not a sign of strength. .

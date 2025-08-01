@@ -1,0 +1,30 @@
+DOCTOR: Bula vinaka, Criston. It’s lovely to meet you. I'm Dr. Kimm. So, what brings you in to see me today?
+PATIENT: Hello Doctor. Nice to meet you too. Um… my pee. It’s… orange. I don’t know why. It started a few days ago.
+DOCTOR: Okay, orange urine… that’s definitely something we want to look into. A few days ago, you said?
+PATIENT: Yes. Maybe… four days? Not a long time, but it’s… strange color. I drink water, normal amount, I think. Not much coffee or anything.
+DOCTOR: Alright. And is there any pain or burning when you urinate?
+PATIENT: No, no pain. Nothing like that. Just… the color. It worries my wife. She told me to come see a doctor. She’s always right about these things.
+DOCTOR: That’s good to hear there's no pain. And it’s always wise to listen to your wife! Have you noticed any changes in your bowel movements?
+PATIENT: Bowel… you mean… poop? Um… no. Everything normal there. Same as always. Sorry. I don't understand big words sometimes.
+DOCTOR: No need to apologize at all, Criston. It's my job to make sure we're on the same page. "Bowel movements" is just a fancy way of saying poop! Okay, good. And have you noticed any changes in your skin color, or any unusual tiredness lately?
+PATIENT: Tiredness… hmm. Work is busy, so always a little tired. But not… more than usual. Skin… I don’t think so. I haven’t really looked. My wife would notice if my skin was different, right? She tells me when I need a haircut.
+DOCTOR: She sounds very observant – that’s excellent! Okay. Now, let’s talk about your medical history a little bit. Do you have any medical conditions that I should be aware of?
+PATIENT: No, nothing really. I had… the flu, maybe five years ago? And I broke my arm when I was a little boy, playing football. But that’s it. I’m usually healthy. I work with machines, so I stay busy.
+DOCTOR: Okay, no major medical problems. Good to know. And any surgeries at all, even something small?
+PATIENT: No surgeries. Never had one. I don’t like hospitals. My wife had her wisdom teeth out, but that was it.
+DOCTOR: Alright, no surgeries either. Let’s talk about your family. Is there anyone in your family – parents, siblings – with any medical conditions, like kidney problems or liver issues?
+PATIENT: Hmm. My father, he has… high blood pressure, I think. And my mother, she has… diabetes. But nothing about kidneys or… liver. I don’t think so. They live in Morocco, so it’s hard to ask sometimes. We talk on the phone.
+DOCTOR: Okay, high blood pressure and diabetes in the family. That's good to know. And do you have any allergies to any medications or anything else?
+PATIENT: No allergies. I eat everything. My wife makes good food, I try everything she cooks! No problems with medicine either, I haven't taken much. Just pain pills for my arm when I was little, I think.
+DOCTOR: Okay, no known allergies. That's helpful. And are you currently taking any medications, even over-the-counter things like vitamins or supplements?
+PATIENT: No. Nothing. I drink water, that’s it. My wife says I should take vitamins, but I forget. She buys them, they sit in the kitchen.
+DOCTOR: Alright. Now, to get a better idea of what might be going on, I’d like to do a quick physical exam. Is that okay with you?
+PATIENT: Yes, that’s okay. Whatever you need to do, Doctor. I trust you.
+DOCTOR: Great. First, I'm going to listen to your heart and lungs. Then I’ll take a look at your abdomen, just to feel for anything unusual. And finally, I'll check your skin. Heart sounds are normal. Lungs are clear. Abdomen is soft, no tenderness. Skin looks normal color, no jaundice or rashes. I don’t feel any masses or enlargement. Okay, everything seems normal on the physical exam. But to be sure, I'd like to order a urine test – a urinalysis – to check for things like infection, blood, and other abnormalities. Does that sound alright?
+PATIENT: Yes, that sounds good. A urine test. Okay. Is it… painful? My wife will be happy we’re doing something. She said I need to get it checked out.
+DOCTOR: No, it’s not painful at all, Criston. It’s just a simple sample. You’ll just need to provide a bit of urine in a cup. I’ll give you a cup and instructions. The nurse will send it to the lab, and we should have the results back within a day or two. While we wait for the results, it’s good to stay hydrated, so keep drinking plenty of water. If you notice any fever, pain in your back or side, or if the color gets significantly darker, please call us immediately. Does that all make sense?
+PATIENT: Yes, that makes sense. Drink water, and call if I feel bad. Okay. I can do that. Thank you, Doctor. You are very kind. My wife will be happy to hear this.
+DOCTOR: You're very welcome, Criston. I'm glad I could reassure you. We'll get those results back as quickly as possible. The nurse will come in shortly to collect a sample and give you some further instructions. In the meantime, do you have any other questions for me today?
+PATIENT: No, I think that’s all. Thank you again, Doctor. You’ve been very helpful. I’ll see the nurse now, I guess.
+DOCTOR: You're very welcome, Criston. It was a pleasure meeting you. Don't hesitate to call if anything changes or if you have any concerns. Have a good day, and I hope your wife is pleased to hear the plan. We'll be in touch soon with the results.
+PATIENT: Okay. Thank you Doctor. You too.

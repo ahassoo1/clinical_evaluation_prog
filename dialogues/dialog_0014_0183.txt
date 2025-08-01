@@ -1,0 +1,26 @@
+DOCTOR: Right, Mr. Grumman. So, what brings you in today?
+PATIENT: Hmm. Just... tired. Very tired. Always tired, now. Not like before. Used to be, I work hard, then tired. Now... tired just is. It’s bad. Like a weight. And the doctor before… he said something about my liver. Something not good.
+DOCTOR: Tired, you say. And this is... new, compared to just work fatigue?
+PATIENT: New? Yes. Very new. Maybe... six months now? Before that, I could push. Now... I try to lift a box, then I need to sit. A small box! My wife, she gets angry. Says I used to be strong. She is right.
+DOCTOR: Six months... and the previous doctor mentioned your liver. Hmm. Do you remember what he said about it?
+PATIENT: He said... something about it not cleaning the blood good enough? And something about... numbers. Bad numbers. I don't know about numbers, I work with cloth, not numbers. He gave me pills, but they didn't help much. Maybe a little. But mostly, I’m still just... tired. Is that bad? Because it feels bad.
+DOCTOR: Right. Okay. So, pills that didn’t do much. And this tiredness is… constant?
+PATIENT: Yes. Constant. All day. Even when I sleep. Sleep doesn’t help. It's like... trying to fill a bucket with holes. I fill it, and it leaks right out. And I wake up... still tired. My wife says I snore too. She sleeps in the other room now. She says it is… unpleasant.
+DOCTOR: Snoring… alright. And other than the tiredness and the liver issue mentioned by your previous doctor, any other symptoms?
+PATIENT: Symptoms? Let me think... My stomach feels... full, even when I don’t eat much. And sometimes… sometimes my legs are puffy. Like balloons. And I have… little spots. On my skin. Red spots. They come and go. Is that… important? I didn't think much of them. Old man things, probably.
+DOCTOR: "Old man things," huh?
+PATIENT: Well… I am not young. I work hard my whole life. With my hands. It's hard work. Maybe it's just… my body getting old. But this tiredness… it’s more than just old. It stops me from doing things.
+DOCTOR: Alright, Mr. Grumman. Let's do a quick exam. I want to check your abdomen, listen to your heart and lungs, and take a look at those spots you mentioned. And we'll need to repeat some bloodwork to see what's going on with your liver. Do you have any allergies to medications?
+PATIENT: Allergies? No. Never had any allergies. Except… sometimes my skin gets itchy when I use the new soap my wife buys. It smells like flowers. Too much flower, maybe. But that's not a real allergy. I just stop using the soap. Bloodwork… alright. Whatever you need. Just want to feel less tired.
+DOCTOR: Alright. Lie down on the table, please. I’ll listen to your heart and lungs first. Take a deep breath… and exhale.
+PATIENT: Like this? Is this alright? It’s a little cold, this table.
+DOCTOR: Abdomen is… slightly distended. Palpable, but no acute tenderness. Legs show pitting edema, bilateral. Let's take a look at these spots now. Where are they located?
+PATIENT: Here. And sometimes on my arms, but mostly here. They come and go, like I said. Sometimes they itch, sometimes they don't. My wife says they look like… little bug bites. But I haven’t been bitten by any bugs.
+DOCTOR: Hm. They appear to be petechiae, small non-blanching spots. This, combined with the edema and your liver concerns… it’s concerning. I’m going to order a complete blood count, a comprehensive metabolic panel, and a coagulation panel. We need to rule out some serious possibilities. Do you take any medications at all, Mr. Grumman?
+PATIENT: Just the pills the other doctor gave me for my liver. I stopped taking them a few weeks ago, they didn’t help. Oh! And sometimes I take something for my knees. When they hurt. But only when they really hurt. My wife buys it at the store. She remembers the name better than me. It’s… a white bottle.
+DOCTOR: A white bottle… Right. We need to get the exact name of that medication. It could be interacting with something or causing some of these symptoms. Do you have any family history of liver disease, bleeding disorders, or anything similar?
+PATIENT: Family history? Let me think… My mother, she died when I was young. From… sickness. But I don’t know what sickness. We didn’t have doctors back then, not good ones. My father… he was strong. Always working. Never sick. I don’t think.
+DOCTOR: Alright. Well, we'll proceed with the bloodwork. The results will take a few days. In the meantime, I want you to avoid any strenuous activity. And please try to remember the name of that medication for your knees. It's important. Here’s the requisition. Go to the lab downstairs, and they'll draw the blood. Once we have the results, we’ll schedule a follow-up appointment. Do you understand?
+PATIENT: Downstairs… alright. Bloodwork. I understand. Stop doing hard work. And remember the… white bottle. Yes. It's a lot to remember.
+DOCTOR: It is. But it’s important, Mr. Grumman. We need to figure out what’s going on. If you don’t remember the medication name, ask your wife. That's all for today.
+PATIENT: Alright. I'll ask my wife. Thank you… Doctor. .

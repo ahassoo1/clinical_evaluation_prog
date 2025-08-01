@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Criston. Welcome to the clinic. I'm Dr. Andraca. It’s nice to meet you. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Nice to meet you too. Um, well, my pee is… orange. It started a few days ago. It’s a little… strange. I don’t know why.
+DOCTOR: Okay, orange urine, starting a few days ago. That is a bit unusual. Can you tell me a little more about it?
+PATIENT: Yes. It's not, like, super dark orange. More… the color of orange juice, maybe? And it doesn’t hurt when I pee. Just… the color is different. I drink a lot of water, usually. I didn’t change anything, I think.
+DOCTOR: Alright, orange like orange juice, no pain with urination, and you typically drink a good amount of water. And you haven't noticed any other changes – no fever, nausea, or anything like that?
+PATIENT: No, nothing else. I feel okay. A little tired, maybe, but I work long hours. My wife said I looked a little pale, but… I think that’s just from not getting enough sun. I don't have a fever, no throwing up, nothing like that.
+DOCTOR: Okay, no fever, no vomiting, feeling generally okay aside from some tiredness. And your wife mentioned you seem a bit pale. Let’s talk a little bit more about your overall health. Do you have any medical conditions that I should be aware of?
+PATIENT: No, not really. I had my appendix out when I was a kid, but that was a long time ago. Nothing else. I haven’t been to a doctor in… a few years, to be honest. I usually just try to rest when I'm not feeling well. My wife makes me take vitamins sometimes.
+DOCTOR: Alright, appendix removed as a child, otherwise generally healthy, haven’t seen a doctor in a few years. Your wife has you taking vitamins, that’s good. Do you remember what vitamins those are?
+PATIENT: Um… I think she said they were for… energy? And maybe something for your eyes? A big bottle. They’re orange, actually. Funny, huh? Orange pee, orange vitamins… I don’t know the name, sorry. She buys them at the store.
+DOCTOR: That is a bit of a coincidence! Okay. And do you take any other medications or supplements, even over-the-counter things like pain relievers?
+PATIENT: No, nothing else. I don’t really like taking pills if I can avoid it. Sometimes I take something for a headache, but very rarely. Just… regular headache pills. Like… ibuprofen, maybe? I don’t remember the exact name. I get them at the pharmacy when I need them.
+DOCTOR: Okay, ibuprofen occasionally for headaches. And do you have any allergies to medications, food, or anything else?
+PATIENT: No allergies that I know of. My wife sometimes asks when she cooks something new, but I always say no. Never had a reaction to anything. I eat everything, pretty much. I like spicy food, though. Sometimes it makes me sweat a lot. But no allergies.
+DOCTOR: Good to know. Now, let's talk a little bit about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no smoking. I don’t like it. And I don’t drink much alcohol. Maybe a beer with my friends sometimes, on the weekend. Just one or two. And definitely no drugs. I work hard, I don’t have time for that. I like to spend time with my family, watch soccer. That’s it.
+DOCTOR: Okay, no smoking, very limited alcohol consumption, no recreational drugs. That’s helpful to know. And just to get a complete picture, can you tell me about your family’s medical history?
+PATIENT: Um… my father had high blood pressure, I think. And my mother… she had some problems with her stomach when she was older. But nothing major, I don’t think. My wife’s family is healthy, I think. She doesn’t talk about it much. I don’t know a lot about their history, sorry. It’s not something we discuss.
+DOCTOR: Okay, father with high blood pressure, mother with some stomach issues, wife’s family history unknown. Now, let's do a quick physical exam. I’m going to listen to your heart and lungs, and then I’ll take a look at your abdomen. And I'll check your skin color to see if it looks pale as your wife mentioned. Is that alright with you?
+PATIENT: Yes, that's fine. Whatever you think is best, Doctor. I trust you.
+DOCTOR: Okay. Your heart and lungs sound clear. Your abdomen is soft, no tenderness. And I do notice your skin is a little paler than I would expect, but nothing alarming. Now, I’d like to collect a urine sample just to get a better look at what’s going on. We can run some tests to see if there’s anything unusual in your urine. Would you be able to do that for me now?
+PATIENT: Yes, of course. I can do that. Where should I… go? Is there a bathroom here?
+DOCTOR: Yes, right down that hall on the left. There’s a clean room, and I’ve left a collection cup for you. Just try to collect a mid-stream sample – that means start urinating, then collect a small amount in the cup, and finish. I'll have a nurse come in when you’re finished. It should only take a few minutes. Let me know if you have any trouble.
+PATIENT: Okay, mid-stream. I think I can remember that. Thank you, Doctor. I’ll be right back.
+DOCTOR: Great. Take your time. I’ll be here when you return.
+PATIENT: .

@@ -1,0 +1,32 @@
+DOCTOR: Right. Chellsea, is it?
+PATIENT: Yes, that is correct. Chellsea Luft. It's nice to meet you, Doctor Sink.
+DOCTOR: Yes, well. Let's not waste time with pleasantries. You're here today because…?
+PATIENT: I… I was told it was about the cancer. I've been feeling… unwell. It’s been hard to keep up with everything, to be honest.
+DOCTOR: “Cancer.” Yes. Vague, isn't it?
+PATIENT: It is. I… I don’t really know much about what kind, or… what’s happening. My husband, he… he handled all the appointments and stuff before. And now… well, now it’s just me. I'm sorry, I'm not being very clear.
+DOCTOR: Your husband handled it. Right. Well, someone had to. Let’s start with the basics. When did you first notice you were feeling “unwell”?
+PATIENT: Hmm… that’s a good question. It feels like it was… maybe around spring? Things were just getting harder. More tired, mostly. And… a little bit of pain, but I thought it was just from… regular life, you know? It wasn’t anything sharp, just… a dull ache.
+DOCTOR: "Dull ache." Excellent. Vague again. Where exactly is this “ache”?
+PATIENT: It’s… mostly in my stomach. And my back. Lower back, really. It kind of… wraps around, sometimes. It's hard to pinpoint, exactly.
+DOCTOR: And has this pain been… constant?
+PATIENT: No, not constant. It comes and goes. Some days it's barely there, other days it's… harder to ignore. It seems to get worse when I try to do too much. I haven’t been doing much at all lately, though. It gets me tired very quickly.
+DOCTOR: “Gets you tired.” Of course. Alright. Let’s review some basic systems. Any changes in your bowel habits?
+PATIENT: Oh… um. Yes, actually. A little. I… haven’t been going as often. And when I do, it’s… different. Harder. I’m sorry, is this too much detail?
+DOCTOR: Details are… sometimes necessary. Harder, you say?
+PATIENT: Yes. And… smaller amounts. It’s… uncomfortable, to be honest. It wasn't like this before. It started around the same time as the tiredness, I think. Maybe a little after. It’s… embarrassing to talk about.
+DOCTOR: Any blood in your stool?
+PATIENT: Oh! Um… I… I think so. Just a little. Not a lot, and not every time. I… I noticed it a couple of times. It scared me, so I… I haven't really looked closely since. I just… tried not to think about it.
+DOCTOR: Right. This is… predictably unhelpful. Any nausea or vomiting?
+PATIENT: No, thankfully not. No vomiting. I have felt a little queasy sometimes, but it doesn't last. Just a little bit… off. It's not constant, like everything else. Mostly when I try to eat something heavy. I mostly just haven't been eating much. It feels safer that way.
+DOCTOR: And what about your weight?
+PATIENT: Oh… I haven’t weighed myself in a while. I think… I’ve lost some weight. My clothes feel… looser. My husband always made sure I was eating enough, but… now, it just doesn’t seem to appeal. It’s hard to explain. I'm not trying to lose weight, if that makes sense.
+DOCTOR: “Husband.” Alright. Let's do a quick examination. Please lie down on the examination table.
+PATIENT: Okay. Yes, of course. Is there anything specific I need to do?
+DOCTOR: Just lie flat. I'll listen to your abdomen, and then palpate it. Try to relax.
+PATIENT: Okay. Just let me know if you need anything.
+DOCTOR: Abdomen is soft… no obvious masses. Tenderness in the left lower quadrant. Mild, but present. Okay. That’s… not entirely surprising. We'll need some bloodwork, and a CT scan. I'll write the orders now.
+PATIENT: Okay. That sounds… a little scary. A CT scan. What… what are you looking for, exactly? Is it something serious?
+DOCTOR: "Something serious." Everything is potentially "serious", Ms. Luft. The bloodwork will give us a baseline. The CT scan will allow us to visualize your abdominal organs, rule out obstructions, and… assess the extent of any potential issues. It’s standard procedure. Don’t catastrophize. Take this to radiology. They'll schedule the scan.
+PATIENT: Okay. Thank you, Doctor. Is there… anything else I should be doing? Or… anything I should expect?
+DOCTOR: Stay hydrated. Avoid strenuous activity. And try not to Google your symptoms. It will only increase your anxiety. Now, if you'll excuse me, I have other patients waiting. .
+PATIENT: Okay. Yes, of course. Thank you, Doctor. .

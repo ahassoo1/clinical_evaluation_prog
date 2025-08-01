@@ -1,0 +1,30 @@
+DOCTOR: Alright, Demondre, yes. Twenty-five, right?
+PATIENT: Yeah, that’s right. Twenty-five. Just came in ‘cause… well, I was kinda curious, ya know? Never really been to a doctor before, not unless somethin’ was really wrong.
+DOCTOR: Curious?
+PATIENT: Yeah. Like, I work on the boats, keepin’ things oiled and runnin’. And I was talkin’ to some of the older guys, and they were talkin’ about check-ups and stuff. Preventin’ things before they become things, ya know? Seemed smart. I figured I should probably get checked out too, just to be safe. Is that… weird?
+DOCTOR: Not weird, precisely. Just… unusual for someone your age, to be proactive. Most people come in when something’s already bothering them. So, what specifically were you hoping I’d check?
+PATIENT: Oh. Okay, good. I didn’t wanna sound silly. Uh… honestly? I don’t really know what needs checkin’. I feel okay, mostly. Just… general stuff, I guess? Like, is my heart good? Are my lungs okay from all the… boat stuff? I dunno. Whatever you usually check for guys my age who work on boats, I guess. Does that make sense?
+DOCTOR: Right. "General stuff." Hmm. Well, let's start with the basics. Any allergies?
+PATIENT: Uh… not that I know of. Never had a reaction to nothin’. Food, pollen, animals… Nope. Not that I recall, anyway. I ate a lot of weird stuff growin’ up, though. Maybe I built up an immunity to everything.
+DOCTOR: And any medications you’re currently taking?
+PATIENT: Nope. Not a single one. I try to stay away from ‘em if I can. Mostly just drink a lot of water and get enough sleep when I can, which ain’t always easy on the boats, but I manage.
+DOCTOR: Alright. Past medical history?
+PATIENT: Uh… lemme think. I broke my arm when I was a kid, climbin’ a mango tree. Healed up fine, though. And I had the usual childhood stuff, like chickenpox, but nothin’ serious. Never been to the hospital for anything big. Just the arm, and chickenpox. That’s about it, I think.
+DOCTOR: Family history?
+PATIENT: Oh, boy. That's… kinda complicated. My mom, she… she had some heart trouble, I think. But she lived a long life, so it wasn’t too bad. My dad, he was always pretty healthy, worked outside all the time. And I got family all over, some I haven’t even met, so I don’t really know their history. It’s… not somethin’ we talked about a lot. Sorry. I wish I could give you more info.
+DOCTOR: Right. Well. Let’s just move on, then. How about your social history?
+PATIENT: Social history? Uh… what does that mean? Like, what I do for fun? I mostly just work, to be honest. Sometimes I go to the market with friends, or listen to music. I used to play soccer, but I don’t have much time for that anymore. I’m divorced, if that counts. That was… a while ago now. Not much excitement, I guess.
+DOCTOR: Do you smoke?
+PATIENT: Nope. Never touched a cigarette in my life. Smells awful, too. And my lungs are important for the job, ya know? Can’t be breathin’ in all that bad stuff.
+DOCTOR: Alright. Do you drink alcohol?
+PATIENT: Sometimes. Not a lot, though. Maybe a beer with friends on the weekend, or somethin’ stronger if there's a celebration. But I don't drink every day, definitely not. I gotta be clear-headed for work, ya know? Can’t be messin’ with that.
+DOCTOR: Okay. Well, let's do a quick physical exam. Lie back on the table, please. I’ll listen to your heart and lungs, check your blood pressure. Don’t worry, it won’t take long.
+PATIENT: Okay, sounds good. Just let me know if somethin’ feels weird, alright? I’m kinda nervous, to be honest. This is all new to me.
+DOCTOR: Heart sounds regular. Rate is within normal limits. No murmurs detected. Lungs are clear to auscultation bilaterally. No wheezing, rales, or rhonchi. Blood pressure is 130/80. Respiration rate is 16 and regular. Everything seems… unremarkable. Height is 183cm, weight is 91kg. BMI is 29.1. You're slightly overweight, but not severely.
+PATIENT: Okay… that all sounds… good, right? Unremarkable is good, isn’t it? What does BMI mean? And what about the… boat stuff? Like, is breathin' all that salty air gonna mess things up later?
+DOCTOR: BMI is your Body Mass Index. It’s just a number… indicates you could benefit from some weight loss. And yes, prolonged exposure to salt air can potentially irritate your lungs over time. We should monitor that. Do you experience any shortness of breath, coughing, or chest pain?
+PATIENT: Nah, not really. Sometimes I get a little winded climbin' the stairs, but that’s probably just 'cause I'm out of shape, ya know? And maybe from all the work. No chest pain, though. And I don’t cough much, unless I got a cold or somethin’. It’s mostly just… normal boat stuff. You get used to it, I guess.
+DOCTOR: Alright. Well, based on this limited assessment, everything seems… acceptable. We'll need to do some routine blood work to get a better picture of your overall health. Cholesterol, blood sugar, kidney function… the usual. And I recommend you schedule a follow-up appointment in six months to monitor your lung function. I’ll have the nurse draw the blood now. Is there anything else I can address?
+PATIENT: Okay, that sounds… good. Blood work and a follow-up, got it. Lung function, right. Is it somethin' I should be really worried about? And uh… no, I don’t think so. Just wanted to get checked out, like I said. You answered all my questions, I think. Thanks for not laughin’ at me bein’ a newbie.
+DOCTOR: It’s not a cause for immediate alarm. Proactive monitoring is always a good idea. The nurse will explain the blood work process. Try to lose a few pounds, and avoid excessive exposure to irritants when possible. Now, if you’ll excuse me, I have other patients waiting.
+PATIENT: Okay, will do. Thank you, Doctor Osga. I appreciate it. Have a good day.

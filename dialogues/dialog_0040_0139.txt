@@ -1,0 +1,19 @@
+DOCTOR: Right. Yamir Shanor, 31 years old. So, what brings you in today?
+PATIENT: Uh, yes. Referee… fitness check. For work. I need paper say I okay. I do sports… fixing, not playing. I fix the field.
+DOCTOR: Referee fitness check… right. So, you need a note for work stating you’re physically capable of… field maintenance?
+PATIENT: Yes. Exactly. I… carry things. Heavy things. And… walk a lot. Not fast, but… a lot. They want make sure I not… fall down. For insurance. My wife… she had insurance. Now me. Need paper.
+DOCTOR: Okay, I understand. A physical assessment for your job, to ensure you're fit for the demands of field maintenance. And it’s related to insurance coverage now. Alright. Have you had any recent injuries or illnesses?
+PATIENT: No. Not… bad ones. Old back pain sometimes. From lifting. But I take pills. And… rest. It okay now. Nothing new.
+DOCTOR: Right. Back pain, managed with medication and rest. Anything else?
+PATIENT: No. I… I think that is all. Just… want to be quick. I have work. And… it is hot today. Is okay if we just… do the check? I don't want to talk too much.
+DOCTOR: Very well. We'll keep it brief. Let’s start with your vital signs. Blood pressure, pulse… and I'll listen to your heart and lungs. Then a quick assessment of your range of motion. Just so we have something for the insurance company. Sit up straight, please.
+PATIENT: Okay. Fast is good. Just… tell me when done.
+DOCTOR: Blood pressure is 130 over 80. Heart sounds are regular. Lungs are clear. Now, can you stand up and try to touch your toes?
+PATIENT: Okay. This… not so good. Old back. I told you. Not fast bending.
+DOCTOR: Yes, limited range of motion, as expected. Now, can you walk a few steps for me?
+PATIENT: Like this. Is okay? Not running. Just… walking. For work.
+DOCTOR: Alright. That’s sufficient. It seems you have some limitations, as you stated. We’ll document “mild limitation in range of motion and gait, consistent with history of back pain.”
+PATIENT: Good. Paper? I need paper. For insurance. Fast is good. Can I go now? It is very hot.
+DOCTOR: Here. This states you are fit for duty with mild limitations, as discussed. I recommend maintaining good posture and utilizing proper lifting techniques. Don’t strain yourself. You're free to go. I have other patients waiting.
+PATIENT: Thank you. Okay. Goodbye. .
+DOCTOR: .

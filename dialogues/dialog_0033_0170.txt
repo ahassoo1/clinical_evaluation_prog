@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Mr. Putney. I’m Dr. Dechene. So, what brings you in today?
+PATIENT: Morning, Doctor. Just here for a life insurance thing. They need me to get checked out, you know? Gotta fill out some paperwork and… get poked and prodded, I guess. I'd like to get this done quickly if we can.
+DOCTOR: Right, a life insurance physical. Yes, quite common. Let’s not waste time then. Do you have any known medical conditions?
+PATIENT: Hmm… not really. I had high blood pressure a while back, but the doctor said it was okay after I lost some weight. And my knees bother me sometimes, being… well, getting older. That’s about it, I think. Nothing major.
+DOCTOR: "High blood pressure"… and when was this diagnosed, roughly?
+PATIENT: Oh, geez… let me think. Maybe… ten years ago? Around 2015? Like I said, it went down when I lost weight. I don’t take anything for it now. I haven't been to a doctor regularly since the divorce. Everything’s been okay, mostly.
+DOCTOR: Alright. Any surgeries?
+PATIENT: Nope. Never had any surgeries. Just… a lot of aches and pains, but nothing they ever needed to cut open for. Is this gonna take long?
+DOCTOR: We'll see. Family history – any significant illnesses in your parents or siblings?
+PATIENT: Well, my dad… he had diabetes, I think. And his heart wasn't so good towards the end. Mom was pretty healthy, though. Just… old age, you know? I don’t really know much about my siblings' health, haven't seen them in years. It’s a long story.
+DOCTOR: Social history – do you smoke?
+PATIENT: No, never smoked. Tried it once or twice when I was younger, didn’t like it. Don't drink much either, maybe a beer with dinner sometimes. Nothing regular.
+DOCTOR: Allergies to any medications?
+PATIENT: Nope. Never had any problems with allergies. I mean, I get a little itchy sometimes with bug bites, but that's about it. No medicine allergies that I know of. Can we hurry this up a bit? I got some things I need to do this afternoon.
+DOCTOR: Alright, let's get a quick physical done. Please, have a seat. I need to check your blood pressure, listen to your heart and lungs, and a brief abdominal exam. Don’t bother with a detailed history, it seems rather… unnecessary.
+PATIENT: Okay, fine. Whatever gets this over with faster. Just let me know if you need me to do anything.
+DOCTOR: 158 over 92. Hmm. Heart sounds… slightly irregular. Lungs are clear. Soft, non-tender. No masses. Weight is… 97 kilograms, correct?
+PATIENT: Yeah, that's right. 97. I’ve been trying to lose a bit, but it’s hard. Everything just feels… slow these days. Is that bad? The heart thing?
+DOCTOR: "Slightly irregular" is a rather vague description. We'll need an EKG to assess this properly. And your BMI is… elevated. We should also check your blood sugar and cholesterol. I'm ordering some bloodwork and an EKG. The nurse will draw your blood now. It’s standard procedure for a life insurance physical, even if it feels excessive.
+PATIENT: Ugh. More tests? Look, I just need a piece of paper saying I’m healthy enough for insurance. I don’t need a whole check-up. Can't we just skip the EKG? I don’t like those things. I already told you, I don’t have any major problems.
+DOCTOR: Mr. Putney, insurance companies have specific requirements. An EKG is required. I can't simply bypass protocol. It's a ten-minute procedure. And frankly, given your blood pressure and slightly irregular heartbeat, it’s a prudent step. The nurse will be in shortly.
+PATIENT: Fine. Whatever. Just… hurry it up, okay? I got things to do.

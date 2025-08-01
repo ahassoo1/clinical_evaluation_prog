@@ -1,0 +1,16 @@
+DOCTOR: Alright, Mr. Radillo, good to see you… I suppose. So, what brings you in today?
+PATIENT: Good day, Doctor Ruocco. It is… a problem with my ear. There is… something coming out of it. A liquid. It started, hmm… maybe three days ago? It is not painful, but… concerning.
+DOCTOR: A liquid, you say. Three days. Right. Well, these things happen. Is it… a lot of liquid?
+PATIENT: Not a great amount, no. Small. Like… when you wipe your finger and get a tiny bit on it. And it is… yellowish. Not clear. I clean it, but it comes back. It does not smell, if that is important.
+DOCTOR: Yellowish… Hmm. Have you had any fever, or any trouble hearing?
+PATIENT: No fever, Doctor. I check every morning. And my hearing… it is okay. Maybe… a little muffled, but I thought that was just because of my age, you understand? I am sixty years old now. Things… do not work like they used to.
+DOCTOR: Sixty is nothing. My grandmother was still perfectly sharp at ninety. Anyway, muffled hearing… right. Have you tried any home remedies?
+PATIENT: Home remedies? No, Doctor. I do not… I am not sure what you mean. I clean it with a tissue, that is all. I do not put anything in my ear. Is that… what you mean by remedies? I have heard stories… bad stories… about putting things in your ear.
+DOCTOR: Good. Don't put anything in your ear. That's just common sense. Let's have a look, shall we?
+PATIENT: Yes, Doctor. That sounds… sensible. Please, go ahead. I am ready when you are. It is the left ear, if that is helpful. It is… the only one with the problem.
+DOCTOR: Hmm. Yes, well. There’s some… discharge, as you said. And the canal looks a bit inflamed. Probably just an ear infection. Very common. It's likely viral, so antibiotics won't help. Just keep it dry, and it should clear up on its own. Come back if it gets worse, alright?
+PATIENT: Keep it dry… yes, I understand. But… how will I know if it gets worse? What should I look for? And… is it contagious? My daughter will be visiting next week, and I do not want to… to give it to her. It is a small thing, I know, but… she is very busy with her children.
+DOCTOR: Look, Mr. Radillo, it's an ear infection. If you get a fever, severe pain, or the discharge gets much worse – like, a lot more than a tiny bit on your finger – then come back. As for contagious… probably not, but avoid sharing ear buds or anything like that. Honestly, you’re overthinking this. Is there anything else?
+PATIENT: Sharing ear buds… no, I do not use those. That is… a modern thing. No, Doctor, I believe that is all. Just… keep it dry and watch for fever. And… avoid sharing ear buds. I will remember. Thank you for your time, Doctor Ruocco.
+DOCTOR: Right. Good. Get out of here. And try not to worry so much. .
+PATIENT: Very well, Doctor. Have a good day. Perhaps… a small written note about the signs to watch for would be helpful for next time? But thank you again.

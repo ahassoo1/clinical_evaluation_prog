@@ -1,0 +1,21 @@
+DOCTOR: Good morning, Mr. Dhanoa. I’m Dr. Paulino. So, tell me, what brings you in to see me today?
+PATIENT: Morning, Doctor. It’s… this ringing in my ears. It’s been happening for a little while now, and it’s starting to get to me.
+DOCTOR: Ringing, you say. And how long exactly is “a little while”?
+PATIENT: Hmm… maybe three, four weeks now? It comes and goes, but it’s definitely more frequent lately. It’s just… a constant ring. Sometimes it's like a high-pitched whine too, not just ringing. It’s hard to explain.
+DOCTOR: Three or four weeks. And is it in one ear, or both?
+PATIENT: Mostly my left ear, I think. It’s hard to tell sometimes, it kinda feels… all over? But yeah, if I had to pick, it’s more noticeable on the left side.
+DOCTOR: Primarily left ear, though sometimes diffuse. Has anything specific triggered it, that you’ve noticed?
+PATIENT: Not really, no. That’s the frustrating part! I haven’t been around any loud noises, haven’t had an ear infection… nothing I can put my finger on. I work as a waiter, so it can be busy, but nothing crazy loud, you know?
+DOCTOR: Right. No recent exposure to loud sounds, no illness… I see. And are you experiencing any other symptoms along with the ringing?
+PATIENT: No, not really. Just the ringing. Maybe a little tired sometimes, but I put that down to work. Nothing else… no dizziness, no headaches, nothing like that.
+DOCTOR: Alright. And have you ever had any problems with your hearing before?
+PATIENT: No, never. My hearing’s always been pretty good, as far as I know. My mum always said I could hear a pin drop.
+DOCTOR: Well, that’s good. Let’s have a quick look in your ears, just to rule out anything obvious. Open wide, please.
+PATIENT: Okay, sure.
+DOCTOR: Hmm. Tympanic membranes are clear bilaterally. No signs of infection, fluid, or cerumen impaction. Alright. Your ears appear normal on examination. Now, let's check your hearing a bit more formally. I’m going to do a quick audiometry test. It’s just a series of tones you’ll hear through headphones, and you’ll indicate when you hear them. Understand?
+PATIENT: Yeah, that sounds okay. A test is good. I just want to figure out what’s going on with this ringing, you know? So, tones through headphones… yeah, I understand.
+DOCTOR: Excellent. Please go into that booth and the technician will guide you through the test. I'll review the results when you're finished. We'll rule out some possibilities, and then we can discuss potential causes and management strategies. Don't worry, it’s often something relatively minor.
+PATIENT: Okay. Thanks, Doctor.
+DOCTOR: You're welcome. I'll be right here.
+PATIENT: .
+DOCTOR: Yes, yes. Take your time. Always something. Hopefully, it's just a minor case of tinnitus. Wouldn’t want to deal with a complex workup today.

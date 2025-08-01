@@ -1,0 +1,29 @@
+DOCTOR: Right. Ms. Julie, is it?
+PATIENT: Yes, that is correct. And please, call me Dr. Julie. Honestly, I haven’t much time for pleasantries. What exactly is this about? I have patients waiting, you know.
+DOCTOR: Yes, well, everyone has something, don’t they?
+PATIENT: I should hope so. But my time is valuable. You’ll need to be specific. What seems to be the problem, doctor? And please, don’t beat around the bush.
+DOCTOR: Alright, alright. Just…tell me what’s brought you in today. Don't start with your life story, just the main complaint. Is it a pain?
+PATIENT: Oh, it’s not pain, exactly. It’s…difficult to explain. Everything just seems…dim. And quiet. I can’t quite see things properly, and sounds are…muffled. It came on rather suddenly, just this morning, really. Honestly, it's quite unsettling. I can’t recall doing anything to cause it, of course. I’m a surgeon, you know; I'm not prone to silly accidents.
+DOCTOR: Dim, quiet…right. And you say this started this morning?
+PATIENT: Yes, precisely. This morning. Though, to be perfectly honest, I don’t recall exactly when this morning. All mornings blur together when you have my schedule, you understand. But it wasn’t yesterday, I am certain of that. I was seeing patients, as usual. Perfectly normal.
+DOCTOR: Any recent head trauma?
+PATIENT: Head trauma? Good heavens, no! Do I look like someone who's had a head trauma? I told you, I’m a surgeon! I perform procedures, I don't suffer them. Honestly, the questions…
+DOCTOR: Alright, alright. Any dizziness or nausea with this…dimness?
+PATIENT: Dizziness… well, perhaps a slight unsteadiness. But I attribute that to these ridiculous shoes. They’re terribly fashionable, you see, but not terribly practical. Nausea? No, certainly not. I have a very strong stomach. Though, I did skip breakfast. It's a new diet.
+DOCTOR: Okay. And are you having any trouble with your balance?
+PATIENT: As I said, the shoes. They make walking a bit precarious. But balance… well, I wouldn’t say trouble. More of an…adjustment. I’m a perfectly capable woman, doctor. I simply prefer elegance over practicality, occasionally. Honestly, are we getting anywhere with this?
+DOCTOR: Right. Let's check your ears. Just a quick look.
+PATIENT: Must you? I really don’t appreciate people poking around in my ears. It's rather…unhygienic. And frankly, unnecessary. I assure you, my ears are perfectly fine.
+DOCTOR: Hmm…okay. They look clear. Now, can you follow my finger?
+PATIENT: Really! Doctor, that was quite rude! No warning at all. And what exactly are you looking for? I suppose if you must… There. Happy now?
+DOCTOR: Okay. And what about smells?
+PATIENT: Smells? What a peculiar question! Of course I can smell. I have a perfectly functional nose, thank you very much. Although, this office smells rather strongly of… disinfectant. It’s quite unpleasant, actually.
+DOCTOR: Alright. Let me see if I can get a quick blood pressure and pulse reading. Just a routine check.
+PATIENT: Fine. But do hurry, I have a very important lunch reservation. Honestly, the things one has to endure to get a simple diagnosis. It’s absolutely preposterous.
+DOCTOR: 140 over 90… pulse is a little elevated… alright. Okay, let me just ask a few more questions. Any recent changes in medication?
+PATIENT: Medication? Oh dear. Let me see… I take something for my… well, it's a little embarrassing. For my nerves. The pressure of the job, you understand. And a vitamin supplement, of course. The usual. But I haven't changed anything recently, no. Absolutely not. Did you need to know the dosages?
+DOCTOR: Alright. It sounds like you’re having some sort of…temporary neurological issue. Possibly related to stress, possibly a minor vitamin deficiency. I’m going to recommend a full blood panel and a referral to a neurologist just to be safe. Don't panic, it's probably nothing.
+PATIENT: A neurologist? Good heavens. That sounds dreadfully expensive. And time-consuming. Are you certain it's necessary, doctor? I assure you, I am perfectly capable of managing my own stress. And I eat a very healthy diet. This is all rather…unnecessary.
+DOCTOR: It's standard procedure, Dr. Julie. Better safe than sorry. Here's the number for Dr. Mensah, a very good neurologist. Schedule an appointment as soon as possible. And try to get some rest, alright?
+PATIENT: Honestly! This is all quite…inconvenient. Very well. I shall consider it. But don't expect me to rearrange my entire schedule for this… possibility. And rest? I haven't had a proper rest in decades. I believe that is all. I have patients waiting, you know. .
+DOCTOR: .

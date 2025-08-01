@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Ms. Yadao. I’m Dr. Pitmon. So, what brings you in today?
+PATIENT: Good morning, Doctor. Well, it's a bit embarrassing, to be honest. I've been having trouble… going to the bathroom. It’s just… difficult to start, you know? And it takes a long time. It’s been going on for maybe a week or so now.
+DOCTOR: Difficult to start, okay. And you said about a week?
+PATIENT: Yes, about a week. Maybe a little longer, now that I think about it. It wasn’t sudden, it sort of… crept up on me. One day it was a little harder, the next a little harder still. I didn't think much of it at first, but now it’s really bothering me. I have to… push, sometimes. Which I don’t think is right.
+DOCTOR: Pushing, right. And is it painful when you do go?
+PATIENT: No, not painful, exactly. It's more… uncomfortable. A straining feeling, mostly. And it doesn’t always come out all at once, if you understand what I mean. I have to go back again sometimes. It's just… inconvenient and a little worrying. I drink plenty of water, I always have.
+DOCTOR: Plenty of water, good. And how about your bowel movements?
+PATIENT: Oh, those are… regular enough. I haven’t had any trouble with that, thankfully. Maybe a little hard sometimes, but nothing major. I eat a lot of vegetables, you see. Beets, mostly. And cabbage. Do you need to know more about that? I don’t want to be a bother.
+DOCTOR: No, no, that’s alright for now. Just trying to get a picture. Now, have you noticed any blood in your stool or urine?
+PATIENT: Oh dear, no. No blood at all. Not that I’ve seen. I always check, you know, just to be sure. Everything looks… normal, except for the difficulty going. It's really just that. I’m not normally one to complain, Doctor, but it’s getting… worrisome. Especially at my age.
+DOCTOR: Right. And are you experiencing any other symptoms?
+PATIENT: Let me think… Well, I’ve been feeling a little tired lately, but I put that down to the heat. It's been very warm, you know. And I’ve been getting up a few times at night to use the bathroom, maybe two or three times. It's not every night, but more than usual. Does that count? I haven’t noticed anything else, no fever or pain anywhere.
+DOCTOR: Okay. Two or three times a night… Alright. Now, let’s talk about your medical history. Have you been diagnosed with any conditions?
+PATIENT: Well, I had my gallbladder out years ago, maybe thirty years ago. And I have a bit of arthritis in my knees, nothing too bad. I take some over-the-counter pain relief for that sometimes. Otherwise, I’ve been quite healthy, actually. I used to be very active, you know, gardening and walking. I don’t get out as much now. And I have Medicare, of course. Is that what you need to know?
+DOCTOR: Alright. Any surgeries besides the gallbladder?
+PATIENT: No, just the gallbladder. Nothing else at all. I had a little trouble with it when I was younger, but it was sorted out quickly. I remember the doctor being very nice. And I’ve never been in the hospital for anything serious, thank goodness. I take my vitamins every day, and I try to eat a balanced diet. I really do.
+DOCTOR: And what about medications?
+PATIENT: Just the over-the-counter pain relief for my knees, when I need it. It’s ibuprofen, I think. Or naproxen. One of those. I can’t remember the exact name. And sometimes a little something for my stomach, if the ibuprofen bothers it. Just antacids. Nothing else, Doctor. I really try to avoid taking too many pills.
+DOCTOR: Alright. Now, I’m going to need to do a quick physical exam. Just a basic check. Is that alright?
+PATIENT: Yes, of course. Whatever you need. I understand. Just tell me what to do. I’m not used to all this fuss, you know, but I want to get to the bottom of it. Hopefully it’s nothing serious. Is there somewhere I can change? I don't have anything fancy, but I brought a spare pair of trousers, just in case.
+DOCTOR: Down the hall, first door on the left. There’s a gown in there. Just slip that on and come back when you're ready. We'll start with an abdominal exam.
+PATIENT: Oh, very good. Thank you, Doctor. I’ll be right back. Hopefully, it won’t be too long. And thank you for seeing me so quickly.
+DOCTOR: Right. Take your time.

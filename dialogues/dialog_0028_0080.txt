@@ -1,0 +1,27 @@
+DOCTOR: Right. Ms. Fabing, yes. So, what brings you in today?
+PATIENT: Oh, hi Dr. Memmolo. Just need to get some forms filled out, really. Medicare sent me a bunch and I figured it's easier to do it here if I have any questions.
+DOCTOR: Forms. Of course. It’s always forms. Well, I suppose I can take a quick look at them with you. Which ones are you having trouble with, specifically?
+PATIENT: Um, let me see… this one here, about my history. It asks about… well, a lot. And some of it feels kinda repetitive with the other forms. Is it okay if we just go through it together? I don’t want to mess anything up.
+DOCTOR: Repetitive is… typical. Bureaucracy. Alright, let’s see… “History.” Yes. Well, we need to be thorough, despite the… redundancies. Start with the basics. Do you have any significant past medical problems?
+PATIENT: Hmm… not really, not that I can think of. I had a pretty bad case of pneumonia when I was a kid, maybe eight or nine? But that was a long time ago, and I recovered completely. Nothing since then, knock on wood. I've been pretty lucky, health-wise.
+DOCTOR: Pneumonia as a child. Alright. And have you had any surgeries?
+PATIENT: Nope, no surgeries. Never needed any, thankfully. Just the usual things, you know? Broken bones when I was little, but they all healed up fine. Nothing major.
+DOCTOR: Good. No surgical history. Now, family history. Are there any significant illnesses that run in your family?
+PATIENT: Oh, that’s a tough one. My grandma, on my mom’s side, had diabetes. And my uncle… he had some heart trouble, I think. But other than that, not really that I know of. My mom always said our side of the family was pretty hardy. It's hard to keep track, you know? Lots of relatives scattered around.
+DOCTOR: “Diabetes, possible cardiac history.” Adequate, I suppose. And do you smoke?
+PATIENT: No, never have. My grandpa smoked for a long time, but I always thought it was a terrible habit. My husband quit years ago too. We both try to stay healthy.
+DOCTOR: Non-smoker. Good. Any alcohol use?
+PATIENT: Just a glass of wine with dinner sometimes, maybe on the weekends. Nothing regular or anything. My husband might have a beer now and then, but we don’t drink much at all, really.
+DOCTOR: Minimal alcohol use. Alright. And are you currently taking any medications?
+PATIENT: Nope, not taking anything regularly. Sometimes I’ll take ibuprofen for a headache, but that’s about it. Nothing prescribed, just over-the-counter stuff when I need it.
+DOCTOR: Very well. Now, let's do a quick physical exam, just to be thorough. Blood pressure, pulse… routine. Roll up your sleeve.
+PATIENT: Okay, sounds good. I was hoping to just get the forms done, honestly. Is the exam really necessary for this?
+DOCTOR: It’s standard procedure, Ms. Fabing. A brief examination ensures accuracy and completeness. It won’t take long. Blood pressure is 130/80. Pulse is 72 and regular. Let’s listen to your lungs, alright?
+PATIENT: Okay, if you say so. Just let me know if it’s going to be cold or anything. I always get a little jumpy when something touches my chest.
+DOCTOR: Lungs are clear to auscultation bilaterally. No wheezes, rales, or rhonchi. Heart sounds regular, no murmurs detected. Within normal limits. Now, let me just check your reflexes…
+PATIENT: Okay. Are we almost done? I'm not a big fan of hospitals, to be honest. It just... reminds me of bad things.
+DOCTOR: Reflexes are 2+ bilaterally. Now, can you tell me if you’ve been experiencing any pain anywhere?
+PATIENT: No, not really. Maybe a little ache in my lower back sometimes, but that's just from gardening, I think. Nothing serious, comes and goes. I've been spending a lot of time out in the yard lately, getting things ready for winter.
+DOCTOR: Alright. Everything appears within normal limits. We'll submit these forms with your medical record. Is there anything else I can assist you with today?
+PATIENT: No, I think that's everything. Thank you, Dr. Memmolo. I appreciate you taking the time. Hopefully, Medicare will have everything they need now.
+DOCTOR: Very well. Have a good day, Ms. Fabing. And try not to overdo it with the gardening. .

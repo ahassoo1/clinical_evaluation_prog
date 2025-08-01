@@ -1,0 +1,39 @@
+DOCTOR: Hi Lucia, good to meet you. I’m Dr. Condray. So, what brings you in to see me today?
+PATIENT: Hi Doctor. Nice to meet you too. Um... well, I keep… burping. It’s a lot. More than usual, you know? It’s embarrassing.
+DOCTOR: Okay, excessive burping, got it. And you say “more than usual”?
+PATIENT: Yes. Usually, after I eat a big meal, maybe one or two. But now… all day. Even when I haven’t eaten for a while. It’s… uncomfortable. And it smells sometimes.
+DOCTOR: Alright. And how long has this been going on for, Lucia?
+PATIENT: Hmm… maybe two weeks? I think so. It started slow, just a few extra. I didn’t think much of it at first, but it just kept getting worse. I don't really know dates, sorry. Just feels like a long time.
+DOCTOR: No worries at all about the dates, we'll figure it out. Two weeks… okay. Have you noticed anything that seems to make it worse, or better?
+PATIENT: Well… when I drink soda, it gets really bad. And sometimes, after I exercise. But… honestly, it happens even when I’m just sitting. It’s weird. I don’t know if anything makes it better, really.
+DOCTOR: Okay. Soda definitely makes it worse, and exercise can sometimes trigger it. Anything else you’ve been eating or drinking differently these past couple of weeks?
+PATIENT: Not really… I think I’ve been eating the same things. Rice, beans, chicken… maybe a little more fruit? It’s been hot, so I’ve been trying to eat lighter things. But nothing different, different.
+DOCTOR: Alright. And are you experiencing any other symptoms along with the burping?
+PATIENT: Um… sometimes my stomach feels a little bloated. Like… full of air, even when it's empty. And maybe a little bit of heartburn, but not a lot. It's not bad. Just… sometimes.
+DOCTOR: Okay, bloating and occasional heartburn. Have you had any changes in your bowel movements?
+PATIENT: Changes? I… I don't know. Everything feels normal there. Sorry, I don't really understand what you mean.
+DOCTOR: No problem at all, Lucia. I just want to get a complete picture. Let me rephrase – have you noticed any constipation, diarrhea, or changes in the color or consistency of your stool?
+PATIENT: Oh! Okay. No, nothing like that. Everything is… regular. Like always. Sorry I didn’t understand before.
+DOCTOR: No worries at all. Let's talk about your medical history a little bit. Do you have any medical conditions that you’ve been diagnosed with?
+PATIENT: No, not really. I haven’t been to a doctor in a long time. Just the usual colds, maybe. I don't think I have anything… serious. Do you need to know about allergies? I don't think I have any.
+DOCTOR: Okay, no known medical conditions or allergies. Have you had any surgeries in the past?
+PATIENT: No, never. Nothing like that. Just… regular check-ups when I was a little girl, but nothing big.
+DOCTOR: Alright. And what about your family?
+PATIENT: My family? Um… my mother has high blood pressure, I think. And my grandmother had… problems with her stomach, when she was old. But I don’t really know what kind of problems. It was a long time ago.
+DOCTOR: Okay, high blood pressure in your mother, and some stomach issues in your grandmother. Let’s talk about your lifestyle a bit. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No, no, and no. I don’t do any of those things. Never. I drink coffee sometimes, but not a lot. Just in the morning.
+DOCTOR: Okay, good to know. And what do you do for work, Lucia?
+PATIENT: I work in a factory. I’m an… an Industrial Engineering Technician. I help make things work better, you know? I check machines, make sure everything is safe. It's okay work. It’s a lot of walking, though.
+DOCTOR: Okay, so you’re an Industrial Engineering Technician, which involves a lot of walking. That's helpful information. Now, before we do a quick physical exam, are you currently taking any medications, vitamins, or supplements?
+PATIENT: No. Nothing at all. I don't like taking pills. I try to eat healthy, that’s enough for me.
+DOCTOR: Alright, no medications, vitamins, or supplements. Okay. Well, Lucia, based on what you've told me, it sounds like you’re experiencing excessive burping, some bloating, and occasional heartburn. It's good that you don't have any significant medical history, allergies, or current medications. It’s possible this is related to something simple like diet or how you’re swallowing air. I'd like to do a quick physical exam, just to listen to your stomach and make sure everything sounds okay. Is that alright with you?
+PATIENT: Yes, that’s okay. Whatever you think is best. Just… tell me if it will hurt.
+DOCTOR: Okay, it won’t hurt at all. I'm just going to listen to your stomach with my stethoscope. Okay, everything sounds pretty normal in here – good bowel sounds, no signs of anything concerning. I'm also going to listen to your heart and lungs just to get a complete picture. Heart and lungs sound good too. Now, I’d like to order a basic blood test – just to rule out anything else that might be going on, like anemia or thyroid issues. It will also help us get a baseline for your overall health. Does that sound okay?
+PATIENT: Yes, that sounds… okay. A blood test is fine. Will it be expensive? I don’t have insurance.
+DOCTOR: That’s a good question, Lucia. I understand your concern about the cost, especially without insurance. We can try to order the most basic panel to keep the cost down. I'll also ask the lab if they have any financial assistance programs or offer a discount for cash payments. We can discuss the options before you go. In the meantime, I'm going to recommend a few things you can try at home to see if it helps. First, try eating smaller, more frequent meals instead of large ones. Second, avoid carbonated beverages and foods that are known to cause gas, like beans and broccoli. And third, try to eat slowly and chew your food thoroughly. Does that sound manageable?
+PATIENT: Yes, that sounds okay. Smaller meals, no soda, and chew my food. I can try that. It's just… annoying. It makes me feel so uncomfortable. Is there anything else I should know?
+DOCTOR: I understand, it definitely sounds frustrating. As for other things, try to avoid talking while you’re eating, as that can cause you to swallow more air. Also, be mindful of chewing gum or sucking on hard candies, as those can also contribute to the problem. If your symptoms don’t improve after a week or two of trying these changes, or if they get worse, please come back to see me. We might need to consider other tests, like a stool test, or refer you to a gastroenterologist. I’m going to write down these instructions for you, as well as the order for the blood test. And I’ll make sure the lab is aware of your insurance situation. Do you have any questions for me right now?
+PATIENT: No, I think that’s everything. Thank you, Doctor. You were very helpful. And you explained everything so well. I hope the blood test is okay.
+DOCTOR: You’re very welcome, Lucia. I’m glad I could help. Don't worry about the blood test – we'll get the results back quickly, and we'll go from there. Here are the instructions and the lab order. The lab is just down the hall, and they'll be expecting you. If you have any questions or concerns after you leave, please don’t hesitate to call the office. We’re here to help. Have a good day, Lucia. And try to relax, okay?
+PATIENT: Okay, thank you, Doctor. I will. Have a good day too.
+DOCTOR: You’re very welcome. Take care, Lucia.

@@ -1,0 +1,30 @@
+DOCTOR: Hi Andrew, good to meet you. I'm Dr. Hernandez. So, tell me, what brings you in today?
+PATIENT: Well, hello Doctor. Just… my eyes. They feel real dry. Been that way a bit now. Not fun, you know? I just want to get it fixed quick if we can.
+DOCTOR: Okay, dry eyes. I understand, that can be really irritating. And I appreciate you wanting to get it sorted quickly. Let’s try to figure out what’s going on. When did you first start noticing the dryness?
+PATIENT: Hmm… let me think. It’s been… maybe a couple months now? Hard to say exactly. Time kinda… slips away when you get old, you know? It wasn’t sudden, just slowly got worse.
+DOCTOR: I completely understand that. A couple of months, gradually worsening… Okay. And is it both eyes, or just one?
+PATIENT: Both of ‘em. Not terrible all the time, but most days. Sometimes feels like there’s sand in ‘em, ya know? Especially when it’s windy.
+DOCTOR: Yes, I know exactly what you mean – that gritty feeling is common. So, both eyes, mostly every day, worse with wind. Have you noticed any other symptoms along with the dryness?
+PATIENT: Not really. Just… dry. Sometimes a little blurry, I guess, when it’s really bad. But I got old eyes anyway, so hard to tell what’s new and what's just… old.
+DOCTOR: Okay, a little blurry when it's really bad, but you attribute some of that to age, which is fair. Have you tried anything to help with the dryness so far?
+PATIENT: Nah. Never really bothered with stuff like that. Figured it’d pass. I’m not one for… fussin’ with things, ya know? Just hoped it’d go away. That's why I'm here now, I guess.
+DOCTOR: Alright, no worries at all. It's good you're coming in now. Let's do a quick exam, just to get a better look. I'll check your vision, and then take a look at the surface of your eyes. Does that sound okay?
+PATIENT: Sounds fine. Whatever you need to do. Just… try to be quick, if you could? I got some things I need to get back to.
+DOCTOR: Absolutely. I’ll be as efficient as possible. First, let's check your vision. Can you read the letters on this chart for me?
+PATIENT: Alright. <squints at the chart> Uh… okay. That first one… is that an ‘E’?
+DOCTOR: Yes, that's correct! Good. And the next one?
+PATIENT: Hmm… that one’s blurry. Is that… a ‘P’? Hard to tell. They all kinda look the same now.
+DOCTOR: Okay, that's helpful to know. We'll document that. Now, let’s take a look <I use a penlight to examine his eyes closely, noting any redness, dryness, or discharge> Your eyes are a little dry looking, some mild redness, but nothing immediately concerning. Do you have any allergies that you know of?
+PATIENT: Not that I know of. Never been bothered by pollen or… anything like that. Lived up north a long time, not much grows there anyway. Mostly just wind and snow.
+DOCTOR: Okay, no known allergies. And are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: Nah. Don’t take nothin’. Never been much for pills.
+DOCTOR: Okay, no medications. Do you have any other medical conditions like diabetes or arthritis?
+PATIENT: No, nothin’ like that. Just… old. I got aches and pains, but that’s just part of gettin’ old, right?
+DOCTOR: That's fair enough. Alright Andrew, based on what you've told me and the quick exam, it sounds like you're likely experiencing dry eye syndrome. It's very common, especially as we get older. Now, a lot of times, it can just be from environmental factors, like wind, or spending a lot of time looking at screens. But sometimes, it can be a sign of something else. Do you have any trouble with your mouth being dry as well?
+PATIENT: Nah, my mouth's okay. Always thirsty, but that's 'cause I like coffee. Doesn’t feel dry though. Just… want a cup right now, actually.
+DOCTOR: Okay, good to know. Not experiencing dry mouth. Alright. I'm going to recommend we start with some over-the-counter artificial tears. Use them as often as you need – several times a day. We can also try a lubricating eye ointment at night. If those don't provide enough relief after a week or two, we can consider a referral to an ophthalmologist for more specialized testing. Does that sound like a plan?
+PATIENT: Yeah, that sounds… okay. Artificial tears, ointment… alright. I'll try ‘em. Where can I get those? And… how often is ‘several’?
+DOCTOR: You can get those at pretty much any pharmacy – Walgreens, CVS, even most grocery stores will have them. “Several” means whenever your eyes feel dry or irritated. Start with every few hours, even if you don’t feel symptoms, just to keep them lubricated. If it helps, great! If not, we can increase the frequency. I'll write down the names of a couple of brands I recommend. Do you have any questions for me before we finish up?
+PATIENT: Nope. I think that’s all. Just… hope these drops work. Don’t want to go blind or somethin’. Thanks, Doctor.
+DOCTOR: You’re very welcome, Andrew. It’s unlikely to lead to blindness, but I understand your concern. We’re just trying to get your eyes comfortable again. If you don't see any improvement after a couple of weeks, or if you experience any changes in your vision, please don't hesitate to call the office. Here's my card with the clinic's number. Take care, and I hope you feel better soon.
+PATIENT: Alright. Thank you, Doctor. I appreciate it. <takes the card and the note, shoves them in his pocket> Bye now.

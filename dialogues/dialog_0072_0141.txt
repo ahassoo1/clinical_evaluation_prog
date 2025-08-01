@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Ferneding. I’m Dr. Hembrey. Welcome to the clinic. Now, to begin, could you tell me what brings you in today?
+PATIENT: Morning, Doctor. It’s the itching, really. Just… all over. It’s been going on for a few weeks now, and it's driving me a bit mad, to be honest. Not terrible, but constant. I figured I should get it checked out, you know? Just to be safe.
+DOCTOR: A few weeks, you say?
+PATIENT: Yep, maybe four, five weeks now? It started small, just on my arms, I thought it was dry skin at first. I put some lotion on it, but it didn’t really help. Then it spread to my legs, my back… pretty much everywhere now, except my face, thankfully.
+DOCTOR: And is it a constant itch, or does it come and go?
+PATIENT: Pretty constant, Doctor. It’s not agonizing, like, I can still sleep and go about my day. But it’s… always there. Like a little annoyance buzzing under my skin. Sometimes it’s worse after a shower, if that makes sense. Gets really red then, too.
+DOCTOR: Worse after a shower… Interesting. And have you noticed any rash accompanying the itch?
+PATIENT: Well, yes, actually. It’s not like… big, raised bumps, or anything. But my skin gets really red, like I said, especially after I shower. And there are these tiny little… spots, I guess you could call them. Really hard to see, unless you’re looking close. They don't really itch on their own, it's more the redness and the general feeling of… well, irritation.
+DOCTOR: Hmm. And have you tried any over-the-counter remedies aside from the lotion?
+PATIENT: I tried some of that anti-itch cream, the one with the hydrocortisone, you know? Didn't do much, to be honest. Put it on for a few days, but it didn't really calm anything down. Figured it was best not to keep slathering it on if it wasn’t helping. I don’t like messing with things too much, if I can avoid it.
+DOCTOR: Alright. And to get a complete picture, Mr. Ferneding, could you tell me about any other symptoms you’ve been experiencing?
+PATIENT: Let me think… nothing major, Doctor. No fever, no fatigue, no changes in my appetite. I've been sleeping okay, like I said. Maybe a little more tired than usual, but I chalked that up to just… getting older, you know? And honestly, worrying about the itching hasn’t helped with sleep either. I haven’t noticed any swelling anywhere, or any weird aches and pains. Just the itching, really.
+DOCTOR: Alright. Now, let’s go over your medical history. Do you have any known allergies, Mr. Ferneding?
+PATIENT: No, not that I’m aware of. Never had a reaction to anything, as far as I can remember. I eat pretty much everything, and haven’t had any problems with medications either. My wife, God rest her soul, she was the one with the allergies, always carrying an EpiPen. I never needed anything like that.
+DOCTOR: And are you currently taking any medications, prescription or over-the-counter, aside from what you mentioned trying for the itch?
+PATIENT: Just a little something for my blood pressure, Doctor. Lisinopril, I think it’s called. Been on it for… oh, maybe eight, ten years now. Keeps things stable, the doctor says. And that's it. Nothing else regularly. I do take an occasional aspirin if I have a headache, but that’s about it.
+DOCTOR: Alright. And have you had any significant illnesses or surgeries in the past?
+PATIENT: Let me see… I had my appendix out when I was a kid, that's about it. And a few broken bones playing hockey when I was younger, but those healed up fine. Nothing major in recent years. My wife… well, she had a bad heart, unfortunately. That was a few years back now. Apart from that, I’ve been pretty lucky, health-wise.
+DOCTOR: And regarding your family history, are there any skin conditions or allergies that run in your family?
+PATIENT: Not that I know of, Doctor. My mother had some arthritis, and my father had diabetes, but nothing skin-related. My wife’s side of the family… they had the usual things, heart problems, high blood pressure… I don’t recall anyone having eczema or psoriasis, or anything like that. I wish I could be more helpful, but my family wasn’t one for sharing much about medical history, if you know what I mean.
+DOCTOR: Alright, Mr. Ferneding. I think it's time we take a look at the skin itself. If you'll excuse me for a moment, I'm going to wash my hands and then we'll do a brief physical exam. Please disrobe to the waist and I will return shortly.
+PATIENT: Okay, Doctor. Sounds good. I’ll just… head to the back room then? I appreciate you taking the time to look into this. It's just been… annoying, to say the least.
+DOCTOR: Yes, the examination room is just down the hall on your left. Take your time. I will be right with you.
+PATIENT: Right. Thank you, Doctor.
+DOCTOR: Hmm. Diffuse erythema with scattered, subtle papules. No excoriations noted. Distribution is fairly generalized…

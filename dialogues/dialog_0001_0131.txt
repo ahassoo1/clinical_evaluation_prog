@@ -1,0 +1,30 @@
+DOCTOR: Alright, alright. So, you're Mykeisha, right?
+PATIENT: Yeah, that’s me. Mykeisha Sla-ven. It's nice to meet you, Dr. Pehrson, if I’m saying that right?
+DOCTOR: Pehrson is fine. Look, I've got a lot of patients today, so let's just get right to it. What brings you in here?
+PATIENT: Well, it’s my blood pressure. It’s been…high, I guess. The pharmacy lady, she kept telling me to come see someone, ‘cause it wasn’t coming down with just watching what I eat.
+DOCTOR: Pharmacy lady, huh?
+PATIENT: Yeah, Miss Evelyn at Johnson’s. She’s been a lifesaver for years, really. Always looks out for everyone. She said I should probably get it checked proper, you know? Not just relying on the machine at the store.
+DOCTOR: Okay, okay. So, high blood pressure… how long has this been going on?
+PATIENT: Hmm… that’s a good question. I think it started getting really noticeable maybe… three, four months ago? Before that, it was probably just normal, I never really paid attention, to be honest. I only started checking ‘cause I was feeling a bit… off, and she told me to.
+DOCTOR: And what do you mean by “off”?
+PATIENT: Like… tired, mostly. Just really, really tired, even after a full night’s sleep. And sometimes I get these headaches, right at the back of my head. Not like a pounding migraine, just… a dull ache. It’s hard to describe, really.
+DOCTOR: Okay, headaches and fatigue. Anything else?
+PATIENT: Oh! Sometimes my vision gets a bit blurry, especially when I stand up too fast. It doesn't last long, just a few seconds, but it's a little scary. I figured it was just my eyes getting old, maybe. I haven't been to the eye doctor in ages.
+DOCTOR: Blurry vision, huh?
+PATIENT: Yeah. It’s not constant, like I said. Just when I move quick. And… now that I’m thinking about it, my ankles sometimes feel kinda swollen at the end of the day. Not huge, but I noticed it a couple times. I figured it was just the heat, you know? It’s been so warm.
+DOCTOR: Okay, so fatigue, headaches, blurry vision, swollen ankles… You eat a lot of salt, do you?
+PATIENT: Hmm… not that much, I don’t think. I like a little salt on my food, but I don’t go overboard. I mostly eat fish and vegetables, trying to keep it healthy. I do like those canned soups sometimes, though...do they have a lot of salt in them? I never really check the labels.
+DOCTOR: Everything comes down to salt these days. Alright, let’s take a look at your vitals. Then we can maybe get a better idea of what’s going on. Sit up on the table.
+PATIENT: Okay, sounds good. Just let me know if you need me to do anything special. I'm not good with medical stuff, so I usually just follow directions.
+DOCTOR: 160 over 95. Not good. Pulse is… 78, regular. Lungs are clear. Let's check your reflexes.
+PATIENT: Okay… 160 over 95… is that bad? I don’t really understand those numbers. And… what does it mean my lungs are clear? Is that good or bad?
+DOCTOR: It means your blood pressure is elevated. Significantly. And clear lungs mean there's no fluid or… congestion. It's good, yes. Look, it just means we need to figure out why your pressure is so high. You're a bit overweight, aren't you?
+PATIENT: Well… I’m not skinny, no. I'm a bit bigger than I used to be, but I don’t think it’s that bad. I’m 157, and around 132. Is that… a lot overweight? I haven't really been keeping track. It's been hard to find time to exercise, with work and everything.
+DOCTOR: Alright. BMI is… 25.5. Borderline overweight. We'll need to run some bloodwork. Basic metabolic panel, lipid panel, and a complete blood count. And an EKG. Just to be safe. The nurse will get you set up.
+PATIENT: Okay, that sounds like a lot. What exactly are those things? Like, what are they checking for? I always get nervous when they start talking about bloodwork and EKGs... Is it gonna hurt?
+DOCTOR: Look, it's standard procedure. The bloodwork checks your kidney function, electrolytes, cholesterol… the EKG checks your heart rhythm. The blood draw will sting for a second. The EKG… they stick some stickers on your chest. It's not painful. The nurse will explain everything better than I will. Just… try not to worry about it. We'll get the results back in a few days.
+PATIENT: Okay… a few days. I guess I can do that. So, the nurse is going to tell me everything? Should I fast before the bloodwork? Miss Evelyn always says to fast.
+DOCTOR: Yes, fast for 12 hours before the blood draw. No food, no sugary drinks. Water is fine. And yes, the nurse will explain it. Honestly, I’m surprised you haven’t asked about medications already.
+PATIENT: Oh! That’s right! Miss Evelyn said something about pills, if the blood pressure was really high. I figured we'd talk about that after the tests. I don't like taking pills if I don’t have to, you know? Is it… bad that it’s so high? Like, am I in trouble?
+DOCTOR: Look, it's elevated. It's not an emergency, but it needs to be managed. Whether that means lifestyle changes, medication, or both… depends on the results. We’ll cross that bridge when we come to it. The nurse will be in shortly.
+PATIENT: Okay… I’ll just… wait for the nurse then. Thanks, Doctor.

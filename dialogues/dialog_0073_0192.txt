@@ -1,0 +1,33 @@
+DOCTOR: Good morning, Mr. Hartness. I'm Dr. Korrell. So, tell me, what brings you in to see me today?
+PATIENT: Morning. Right. Well, the army… they want me to get checked out. Some kinda test before they let me sign up. Don't see why they need to bother, honestly. I’ve always been a strong lad. But rules are rules, I guess.
+DOCTOR: Right. A pre-enlistment physical. I see. Well, it's good they're being thorough, even if it is a bit of a nuisance. It's important to have a baseline, you know. Just to be certain everything is as it should be. So, tell me, have you had any medical problems at all recently?
+PATIENT: Problems? No. Not really. I pulled a muscle in my back last spring, lifting some engine parts, but that healed up quick. Just a bit sore for a week or so. Aside from that… nothing. I don’t go to doctors unless I have to. Waste of time, mostly.
+DOCTOR: Alright. A muscle strain, resolved on its own. Good. And before that?
+PATIENT: Before that… hmm. Let me think. I broke my arm when I was a kid, climbing a tree. That was… a long time ago. Properly set, though. No trouble with it now. Apart from that, nothing serious. I eat good, sleep okay, keep myself busy. Not one for sitting around.
+DOCTOR: Very well. And any surgeries?
+PATIENT: Surgeries? No. Never had any surgeries. Why would I need surgeries? I don't go around getting cut open for fun. Seems… unnecessary. I take care of myself. Always have.
+DOCTOR: Alright, Mr. Hartness. Let’s talk about your family history, if you don't mind. Are there any significant illnesses that run in your family?
+PATIENT: Family history… Now that’s a question. My old man was… sturdy, like me. Worked in a factory his whole life. Died of… old age, I think. Or something. Never really talked about it much. My mother… she had a bit of trouble with her stomach when she got older, but nothing major. Everyone on both sides just… gets old and then stops, really. Not much drama.
+DOCTOR: Alright. And what about things like heart disease, diabetes, cancer… anything like that?
+PATIENT: Heart disease… hmm. My uncle Sven, on my mother’s side, had some trouble with his chest, years ago. They said it was his heart. He smoked a lot, if I remember right. Didn’t look after himself. Diabetes… not that I know of. Cancer… my aunt Ingrid, she had something, but it was a long time ago and I wasn’t really paying attention. They just… took care of it. Everyone dies of something, doesn’t it?
+DOCTOR: Yes, they do. Now, do you have any allergies to medications, foods, or anything else?
+PATIENT: Allergies? No. Not that I know of. I can eat anything, take anything. I’ve never had a reaction to anything. I’m a pretty simple man. No fancy foods, no fancy pills. Just… normal stuff. Honestly, I don’t even bother with most of that. I’ll take a bit of paracetamol if I get a headache, and that’s about it.
+DOCTOR: Very well. And are you currently taking any medications, even over-the-counter ones, or supplements?
+PATIENT: Like I said, just the paracetamol now and then. Sometimes when I’ve done a bit too much lifting. Nothing regular. No vitamins, no fancy powders, no nothing. I get everything I need from my food. A good, solid diet, that’s what you need. Not these… pills everyone's always taking these days.
+DOCTOR: Alright, Mr. Hartness. Let’s move on to a quick physical exam, shall we?
+PATIENT: Fine. Get it over with, then. I haven’t got all day, you know. I’ve got things to do.
+DOCTOR: Of course. Let's start with your height and weight. Please step on the scale.
+PATIENT: Right. Don't tell me I've lost weight. My wife will have my hide.
+DOCTOR: 187 centimeters, 53 kilograms. That's… quite lean. Now, if you'll allow me, I’d like to listen to your heart and lungs. Please take a deep breath for me.
+PATIENT: Lean? I'm solid muscle, thank you very much. I work hard! There. Happy? Don't go poking around too much, though.
+DOCTOR: Heart rate is regular, though somewhat fast. Lungs are clear to auscultation bilaterally. Any tenderness here?
+PATIENT: Tenderness? No. Not at all. I told you, I'm solid. Just muscle. Maybe a bit sore from lifting, but no tenderness.
+DOCTOR: Alright. And now, let's check your reflexes.
+PATIENT: What was that for? Don't go hitting me with that thing! I'm perfectly alright, you know.
+DOCTOR: It's a standard part of the exam, Mr. Hartness. Just checking your neurological function. Reflexes are present, but somewhat diminished. Now, if you could just rotate your arms and legs for me. Let’s check your range of motion.
+PATIENT: There. See? Perfectly fine. Strong as an ox. Don't need any fancy tests to tell you that. Can we get this over with now?
+DOCTOR: Alright, Mr. Hartness. Based on this brief examination, you appear generally healthy, though your weight is quite low for your height. Your reflexes are also diminished. I recommend we order some blood work to rule out any underlying issues. It's just a precaution. And I’d also like to see you schedule a follow-up appointment to discuss the results.
+PATIENT: Blood work? More poking and prodding? Honestly, I don’t see the point. I feel fine. Perfectly fine. But… Alright, alright. If it's what you think is best. But I expect a quick turnaround. I haven’t got time to waste. And what about this army thing? Will this blood work mess things up?
+DOCTOR: It shouldn’t mess anything up, Mr. Hartness. It’s just standard procedure. The results will give us a clearer picture of your overall health and ensure you’re fit for service, should you choose to enlist. I’ll have the lab technician draw a complete blood count and a comprehensive metabolic panel. Please take this to the lab downstairs. They’re open until 5 pm. And schedule a follow-up appointment with the receptionist before you leave. We’ll discuss the results in about a week. Do you have any other questions for me right now?
+PATIENT: A week? That's a long time. No. No more questions. Just… get it over with. And make sure they don't take too much blood. I get faint easily, you know. Right. Well, thank you… I suppose.
+DOCTOR: .

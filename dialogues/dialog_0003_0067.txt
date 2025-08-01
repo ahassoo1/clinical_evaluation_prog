@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Mr. Ruocco. I’m Dr. Yackey. So, what brings you in to see me today?
+PATIENT: Oh, good morning to you too, Doctor. Hmm... well, it’s this pain. When I take a deep breath, it hurts. It's... in my chest, I think. Honestly, my memory isn’t what it used to be. It’s been bothering me for a little while now. Not terrible, but enough to worry me.
+DOCTOR: Right. Chest pain. And you say this occurs with deep breaths?
+PATIENT: Yes, that’s right. Deep breaths… or when I try to lift something heavy sometimes. It’s not a sharp pain, more like… a dull ache. I don’t really know how to explain it. It just feels bad.
+DOCTOR: Alright. And how long has this been going on, approximately?
+PATIENT: Oh, goodness. That’s a good question. Let me think... It feels like… a few months, maybe? It comes and goes, you know? Not constant. It’s hard to say exactly. Time… it just slips away these days.
+DOCTOR: A few months. I see. And have you noticed anything else accompanying this pain?
+PATIENT: Accompanying it...? Like what do you mean? I get a little tired sometimes, but I'm eighty years old, so… that’s not really new. I don't know if that's what you mean.
+DOCTOR: Any cough?
+PATIENT: A cough? No, not really. Maybe a little one now and then, but just a normal old person cough. Nothing special.
+DOCTOR: Very well. And do you have any history of… let’s say, lung problems?
+PATIENT: Lung problems…? I don’t think so. I worked construction most of my life, so… lots of dust, I suppose. But no one ever told me I had lung problems. I smoked when I was younger, a long time ago, but I quit years and years ago.
+DOCTOR: Alright. Well, let’s do a quick examination. If you don't mind.
+PATIENT: Oh, alright. Sounds good. I just want to get this over with, if you don’t mind.
+DOCTOR: Take a deep breath in… and out… again… Deep breath… Good. Lungs sound… relatively clear, though some diminished breath sounds bilaterally. Heart rate regular, though slightly elevated. No murmurs noted. Some tenderness upon palpation, consistent with your report of pain.
+PATIENT: Diminished… what now? I don’t really understand all the doctor talk. Is something wrong? It hurts when you press there, doesn't it? I told you.
+DOCTOR: It simply means your breathing isn’t as robust as it once was, which is… not uncommon for someone of your age. It doesn't necessarily indicate a severe problem. The tenderness is likely musculoskeletal. Given your history of construction work, it’s probable you’ve simply strained a muscle. I'm not detecting anything acutely concerning at this time.
+PATIENT: Oh. Well, that’s good to hear, I guess. Strained a muscle… that makes sense. I have been lifting some things around the house lately. So… is there anything I need to do? Or… is that it?
+DOCTOR: Rest. Avoid heavy lifting for a few weeks. If the pain persists or worsens, then we'll consider further investigation. I can prescribe a mild anti-inflammatory if you'd like. It’s unlikely to be anything serious, but it’s best to err on the side of caution. Do you have any allergies to medications?
+PATIENT: Allergies…? Hmm… Not that I know of. I haven’t taken much medicine in a long time. No, I don't think so. Anti-inflammatory… alright. That sounds good. If it helps.
+DOCTOR: Alright. Here you are. Take as directed. Any other concerns?
+PATIENT: No, I think that’s everything. Thank you, Doctor. I appreciate you taking a look at me. I just… wanted to make sure it wasn't something bad.
+DOCTOR: Very well. Don’t hesitate to return if the pain significantly worsens. .
+PATIENT: .

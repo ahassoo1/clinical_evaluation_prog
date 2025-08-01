@@ -1,0 +1,23 @@
+DOCTOR: Right, so… what brings you in today?
+PATIENT: Well, thank you for seeing me, Doctor Osga. It's… it's a bit embarrassing, to be honest. I've just been… incredibly thirsty, all the time. And hungry. Even right after I eat. It’s been going on for a few weeks now, and it’s starting to worry me.
+DOCTOR: Weeks, you say?
+PATIENT: Yes, roughly three or four weeks now. It started gradually, just feeling a bit more parched than usual, needing an extra glass of water with meals. Now… now I’m constantly reaching for something to drink, and I feel like I could eat a horse, and still be peckish. It's… disruptive, to be frank.
+DOCTOR: Disruptive. Hmm. And are you… urinating more frequently as a result of all this drinking?
+PATIENT: Yes, actually. That’s another thing I hadn’t really connected until you mentioned it. I’m going to the bathroom far more often than I used to. Especially at night, which is… inconvenient, naturally. I'm usually a pretty sound sleeper, but I've been waking up a couple of times each night now.
+DOCTOR: Alright. And… any changes in your weight?
+PATIENT: That's a good question. No, not that I’ve noticed. I haven’t been weighing myself regularly, but my clothes feel… the same. I wouldn’t say I’ve lost or gained anything significant. I'm about the same as always, I suppose. Around 93 kilograms, if that's helpful.
+DOCTOR: Ninety-three… Right. And any family history of… well, anything like this?
+PATIENT: To be honest, I'm not entirely sure. My… my divorce was rather unpleasant, and I haven't spoken to my ex-wife in quite some time. She would be the one with most of that information. My parents… they both passed away several years ago. I don’t recall any specific illnesses that ran in the family, but I wasn’t particularly close to either of them. I apologize for not being more helpful. Is that… a problem?
+DOCTOR: No, no. Not ideal, certainly. Any allergies?
+PATIENT: No allergies that I'm aware of. Never had a reaction to anything. Food, pollen, animals… nothing. I'm fairly robust in that regard, thankfully. I’ve always been able to eat pretty much anything without issue. Although, I do dislike shellfish, but that’s just a matter of taste, not an allergy.
+DOCTOR: Medications?
+PATIENT: No medications at all, Doctor. Not currently, and haven’t taken any regularly in years. I had a bout of… indigestion a few months back and used some over-the-counter antacids for a few days, but that was it. Otherwise, perfectly healthy, as far as I know. Do you… need a list? I don't really have one.
+DOCTOR: No, no. Alright. Let's have a listen to your heart and lungs, and I'll take a quick look at your throat. Just routine. Sit back, please.
+PATIENT: Certainly, Doctor. Whatever you deem necessary. I’m happy to comply. I appreciate you taking the time to look into this for me. It’s… unsettling, this constant thirst.
+DOCTOR: Heart sounds… regular. Lungs are clear. Throat looks… fine. Not particularly red or swollen. Blood pressure is 130 over 85. Pulse is… normal. Have you been feeling particularly tired lately?
+PATIENT: Yes, actually. Now that you mention it… I have been feeling rather sluggish. More tired than usual, and lacking my normal energy. I put it down to stress, to be honest. Work has been… demanding recently, and I haven't been getting enough sleep, even with the frequent trips to the bathroom. It's a bit of a vicious cycle, really. I'm trying to manage it, but… it's not easy. I feel like I'm running on empty most of the time.
+DOCTOR: Right. Well. It could be a number of things. Stress, as you say. Or… it could be something else. We’ll need to rule a few things out. I'm going to order a basic blood panel and a urine test. Just to get a baseline. It’s standard procedure. The nurse will draw the blood and collect a sample when you're finished here.
+PATIENT: That… sounds sensible, Doctor. Thank you. A baseline seems… prudent. Will the results take long? I have a rather busy schedule, and I was hoping to get this sorted out as quickly as possible. Is there anything I should be doing in the meantime? Avoiding certain foods, perhaps? Or drinking more… or less water?
+DOCTOR: The lab usually takes a few days. Don't worry about the water, or the food. Just… try to get some rest, if you can. And avoid excessive caffeine. That's all. The nurse will explain everything. Any other questions?
+PATIENT: No, Doctor, I believe that's everything. Thank you for your time and attention. I appreciate you taking this seriously. I will see the nurse, then. Hopefully, we can get to the bottom of this quickly. It’s rather disruptive, as I mentioned before. Good day to you.
+DOCTOR: Right. Yes. See the nurse. .

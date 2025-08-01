@@ -1,0 +1,19 @@
+DOCTOR: Right. Zelina Ambris. Eighteen years old. So, what brings you in today?
+PATIENT: Ugh, honestly? It’s my breath. It smells…bad. Really bad. I don’t even want to talk to people. It’s embarrassing.
+DOCTOR: Bad breath. Halitosis, technically. It’s…common. How long has this been going on?
+PATIENT: Honestly, I don't really keep track of that sort of thing. A while. Maybe a few months? It comes and goes, but lately it’s been…constant. Look, is it something serious? Because I really don’t have time for this. I work, you know. Highway maintenance isn't exactly a glamorous job.
+DOCTOR: Highway maintenance. Right. Well, most of the time it’s not serious serious, but it can indicate underlying issues. Do you brush twice a day?
+PATIENT: Do I look like the kind of person who doesn’t brush their teeth? Of course I brush. And I use mouthwash sometimes. It doesn’t really help, though. It’s like a temporary fix. I'm not stupid, doctor.
+DOCTOR: I didn’t say you were stupid. Just establishing a baseline. Do you floss?
+PATIENT: Floss? Honestly…no. I mean, who has time for all that? It seems like a lot of effort for…nothing. It doesn’t really do anything, does it? I saw something online about tonsil stones once. Could it be that? Is that what's making it smell? Because I don't want to get surgery or something.
+DOCTOR: Tonsil stones are possible, but unlikely as the sole cause, especially if it’s constant. And yes, flossing does do something. It removes food particles and plaque between your teeth where your brush can’t reach. It’s… basic oral hygiene. Let’s move on. Any other symptoms?
+PATIENT: Look, I'm not here for a lecture on how to brush my teeth. I just want something to make it stop. And no, nothing else. I’m not sick or anything. Just…bad breath. Is it, like, a stomach thing? Because sometimes I get heartburn, but I just take something for that. It’s not a big deal.
+DOCTOR: Heartburn could contribute, though it’s less common. Let’s have a quick look. Please open your mouth for me. I'll just take a quick peek.
+PATIENT: Ugh, fine. Just get it over with. I have things to do, you know. This is taking way too long.
+DOCTOR: Hmm. Your gums are slightly inflamed, and there’s some build-up on your tongue. No obvious tonsil stones at a glance. Your tonsils are normal size, no visible exudate. I'm noting some minor redness in the back of your throat. Have you noticed any pain when you swallow?
+PATIENT: No. Not really. Sometimes it's a little sore, but I just figured it was from yelling at drivers on the highway all day. They're idiots, honestly. It's not like a sharp pain, just…annoying. Is this going to cost a fortune? I don't have insurance, doctor. And I really can't afford a bunch of tests or anything.
+DOCTOR: Right. No insurance. Okay. It’s unlikely to be anything requiring extensive testing at this point, but poor oral hygiene can lead to gingivitis, which explains the inflamed gums. And that can cause bad breath. It’s… manageable. We can start with a professional cleaning, and I’ll recommend a specific mouthwash. You really need to floss. It’s not optional.
+PATIENT: Ugh, fine. A cleaning, whatever. Just…how much is it going to be? And is this mouthwash expensive? Look, I’m not made of money. I’m a highway worker, not a doctor. And seriously, stop telling me to floss. I get it. I'll think about it. Can I just get something for the heartburn, too, while I'm here?
+DOCTOR: The cleaning is… let me see… $85. And the mouthwash is $12.99. Generic brand is fine. As for the heartburn, you can continue using whatever over-the-counter medication you’re currently taking. If it gets worse, then you should see a gastroenterologist. I’m writing you a note for the cleaning. Next.
+PATIENT: Ugh, great. Fine. Thanks, I guess. I really should get back to work. So…that’s it? I don’t need anything else? .
+DOCTOR: No, that’s it. And please consider the flossing. It will save you money in the long run. Next patient. .

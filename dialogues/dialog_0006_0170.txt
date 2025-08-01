@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Putney. I'm Dr. Gorga. So, what brings you in today?
+PATIENT: Oh, good morning, Doctor. Just here for a life insurance thing. They sent me, needin’ a check-up, I guess. Want to get this done quick if we can, got a lot goin’ on.
+DOCTOR: Right, life insurance... okay. Well, we can certainly try to be efficient. Just a standard check-up, then. Let’s start with why you think you need a check-up… any particular concerns at all?
+PATIENT: Concerns? Not really. I feel alright, mostly. I get a little tired, you know, workin’ long hours at the hotel, but everyone gets tired. They just want to make sure I'm not gonna drop dead on ‘em, I think. Is that… normal? For insurance to ask all this?
+DOCTOR: Yes, that's… perfectly normal, Mr. Putney. Very common, actually. They want to assess risk. Alright, so feeling tired... how long has that been going on?
+PATIENT: Oh, geez… a while. Maybe six months, seven? It comes and goes. Some days I’m fine, other days I just… drag. It's not like I can't do things, just… less enthusiastic, I guess. Is that makin’ sense?
+DOCTOR: Yes, that makes sense. Less enthusiastic… okay. And is this fatigue interfering with anything?
+PATIENT: Not really interferin’, no. Just… makes it harder to deal with the guests sometimes, you know? Hotel life. Gotta be on all the time. It's just… a bit more effort. And my wife… well, ex-wife… she always complained I slept too much when I wasn’t workin’. So, it's hard to explain.
+DOCTOR: Right, I understand. And just to clarify, you said “ex-wife”… any major life changes recently besides that?
+PATIENT: Yeah, the divorce was… about a year ago now. It’s alright. She wanted somethin’ different, I guess. And… well, my oldest daughter moved to the mainland for college. That was a bit tough, sendin' her off. Other than that… no, nothin’ major. Just work, mostly. Can we hurry this up a bit? I got a shift startin' soon.
+DOCTOR: Yes, of course. We'll try to be as quick as possible. Alright, let's do a quick run-through of some systems. Any chest pain, shortness of breath, or palpitations?
+PATIENT: No, none of that. Heart feels okay, I think. Sometimes it skips a beat, but everyone says that happens. Especially when you're tired. Nothing bad, just a little flutter sometimes.
+DOCTOR: Okay, good. No chest pain. And what about your stomach?
+PATIENT: Stomach's okay. Gets a little upset sometimes, after long shifts. Fast food, you know? Gotta eat somethin' quick. And sometimes heartburn, but I take those little antacid tablets. They help. Not a big deal.
+DOCTOR: Alright. Any trouble with urinating?
+PATIENT: Urinating? No, not really. Normal, I guess. Gotta go pretty often, maybe, but that's probably just the water I drink. Gotta stay hydrated, especially in the heat. Is this gonna take much longer?
+DOCTOR: Almost finished with the quick questions, Mr. Putney. Just a few more. Any joint pain, swelling, or stiffness?
+PATIENT: Nah, not really. Knees get a little creaky sometimes, gettin’ up and down, but that's just age, I reckon. Worked on my feet all my life, hotel stuff. Not like arthritis or nothin’. Just old bones. Still strong enough to carry luggage, thankfully.
+DOCTOR: Alright, good. Let’s do a quick physical exam, just to get a baseline. Blood pressure, pulse, listen to your heart and lungs, and just a quick look at your abdomen. Is that alright?
+PATIENT: Yeah, alright. Sounds good. Just… try to be quick, yeah? Let's get it over with.
+DOCTOR: Blood pressure is a little elevated, Mr. Putney, but not drastically so. Listening to your heart… normal S1 and S2, no murmurs, rubs, or gallops. Lungs are clear to auscultation bilaterally. Abdomen is soft and non-tender. Overall, a fairly unremarkable exam, but the blood pressure is something we should keep an eye on.
+PATIENT: Okay. Blood pressure... is that bad? I don't take anythin' for it. Never been told I had high blood pressure before. Should I be worried?
+DOCTOR: It’s not drastically high, Mr. Putney, but it's elevated. We’ll want to monitor it. It could be a one-time thing, stress from today maybe. I’d like to order a basic metabolic panel and a lipid panel, just to get a broader picture. And perhaps a repeat blood pressure check in a few weeks. Does that sound alright?
+PATIENT: Yeah, alright. Whatever you think is best, Doctor. Panels… sounds good. A few weeks… okay. As long as it doesn’t take too long. I got a schedule to keep, you know? So, am I all done here? Can I go?
+DOCTOR: Yes, I’ve ordered the labs. The requisition is here. You can go to the lab downstairs whenever you have time. I'll also send the results to your primary care physician. And a copy to you, of course. As for your insurance check-up, I think we've covered the basics. I would recommend monitoring your blood pressure at home, if possible. I'm going to write a brief note to the insurance company stating your general health status. Do you have any questions for me before you leave?
+PATIENT: No, I think that's it. Just… thanks, Doctor. I appreciate you gettin' it done quick. I gotta go. See ya.
+DOCTOR: You’re welcome, Mr. Putney. Have a good day.

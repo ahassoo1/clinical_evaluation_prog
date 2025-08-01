@@ -1,0 +1,24 @@
+DOCTOR: Right. Mr. Honcoop, is it?
+PATIENT: Yes, that's right. Honcoop. Armando Honcoop. Look, Doc, I ain't got all day. Just need somethin' signed so I can get this done. It's...a little thing.
+DOCTOR: A “little thing.” Of course. Well, “little things” still require me to understand what the thing is. So, tell me. What brings you in today?
+PATIENT: It's… well, it’s my face. I want to… tighten it up. Get rid of some… sag. You know. I seen ads. They make you look younger. I figure, at my age, why not? I don’t recall exactly what they need a doctor for, but the folks over at… uh… the place said I needed clearance. Something about my health.
+DOCTOR: Right. A cosmetic procedure. And you need my medical opinion to proceed. And you’re…uninsured. Wonderful. Let's start with the basics. Do you have any medical conditions I should be aware of?
+PATIENT: Conditions? Hmm… not that I know of. I used to get a little heartburn, but that was years ago. Mostly just…old age aches and pains. You know, knees, back… the usual. I haven’t been to a doctor in… a long time. I mostly just take some stuff for…pressure, I think? A little white pill.
+DOCTOR: “Some stuff for pressure.” Do you remember the name of this medication?
+PATIENT: No, ma’am, I do not. My neighbor, Earl, he gets all my pills for me. He knows what I need. Something for the pressure, somethin’ for…sleepin’, maybe? It’s all kinda blurry. He's a good man, Earl. Real good. I just tell him what’s botherin' me and he gets it.
+DOCTOR: Right. And do you have any allergies to medications?
+PATIENT: Allergies… Now that you mention it, I think I got a rash once. But I don't remember what caused it. Coulda been poison ivy. I was workin' on a tower outside, coulda brushed up against somethin'. It itched somethin' fierce, but it went away. Don’t think it was a pill.
+DOCTOR: Okay. And what about your family history?
+PATIENT: Family history? Now, hold on… My mama, she lived to be…old. Real old. But she didn’t have much…trouble, as far as I recall. My daddy…he smoked a lot. And he had…somethin’ with his heart, I think. But I wasn’t payin’ much attention back then. I was a young man, busy with work.
+DOCTOR: Right. And you said you’re currently taking something for “pressure.” Is your blood pressure normally high?
+PATIENT: Well, Earl says it is. He checks it when he brings my pills. He says I gotta watch it. That's why I take the little white pills. I don’t really pay attention to numbers, Doc. I just know I gotta take 'em. I ain’t a numbers man, never was. I fix towers.
+DOCTOR: Alright. Blood pressure is… elevated. 160 over 95. Pulse is regular, but a bit fast. Lungs are clear, but I hear a slight murmur…not terribly concerning, but something to note. Now, have you experienced any chest pain, shortness of breath, or dizziness recently?
+PATIENT: Dizziness? Nah, not really. Sometimes I get a little lightheaded when I'm climbin' the towers, but that’s just the height. Chest pain…well, sometimes my chest feels a little…tight. But that's probably just from all the work. I lift a lot of heavy stuff, Doc. Towers ain’t exactly easy.
+DOCTOR: Right. Well, given your elevated blood pressure and the murmur, and the fact that you're taking medication you can't even name for a condition you don't understand… I’m not comfortable signing off on a cosmetic procedure at this time. It could be… dangerous.
+PATIENT: Dangerous? But... the ad! They made it sound so easy. I just want to look a little younger. I don't wanna look old. Is there… anything you can give me? A pill, somethin'? To lower the pressure? So I can get this done?
+DOCTOR: Look, Mr. Honcoop. I'm not going to prescribe medication without knowing what you're currently taking, what your specific condition is, and a proper workup. I strongly advise you to see a cardiologist to evaluate your heart and get your blood pressure under control. Cosmetic procedures are a luxury, not a necessity, and your health is far more important. I’m going to refer you to Dr. Ramirez – he’s a good cardiologist downtown. Schedule an appointment with him before you consider any elective procedures.
+PATIENT: A cardiologist…more doctors… Look, Doc, I just wanted a little somethin' fixed. I ain't got time for all this. I got towers to climb. But… alright. Fine. Dr. Ramirez. I’ll… I’ll look into it. But I ain't makin' no promises.
+DOCTOR: Very well. Here's the referral. Follow up with Dr. Ramirez, and if your blood pressure is under control and he clears you, then you can discuss elective procedures. Now, is there anything else?
+PATIENT: No, ma'am. I guess not. Just… a waste of my time, that's all. Thank you… I think.
+DOCTOR: Alright. Have a…productive day. And please, prioritize your health. .
+PATIENT: .

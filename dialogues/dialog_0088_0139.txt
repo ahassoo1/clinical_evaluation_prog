@@ -1,0 +1,33 @@
+DOCTOR: Good afternoon, Mr. Shanor. Welcome to the clinic. I'm Dr. Piet. So, tell me, what brings you in to see me today?
+PATIENT: Uh, hello Doctor Piet. I… need checkup for… referee. For sports. They want me to be sure I'm… fit enough. I think. It's for… evaluation.
+DOCTOR: Okay, an evaluation for sports refereeing. That makes sense. So, to clarify, this is a requirement for a sports organization?
+PATIENT: Yes. Yes, that’s right. They… want to know I can… run and… not fall over. And see good. It’s… important for the games, you know? I… don’t want to mess up the calls.
+DOCTOR: Right, absolutely. Safety first for everyone. So, this is essentially a physical to ensure you're healthy enough to meet the demands of being a referee. Have you had a physical recently – within the last year, perhaps?
+PATIENT: Uh… no. Not recently. Maybe… a long time ago. Before… before my wife… I don’t really remember. Sorry. It’s been… a while.
+DOCTOR: No need to apologize at all, Mr. Shanor. Okay. Well, we'll just do a thorough checkup then. Let's start with your medical history. Have you been diagnosed with any medical conditions – things like high blood pressure, diabetes, asthma, anything like that?
+PATIENT: No. Nothing… like that. I… I eat okay. Sometimes too much salt. But… no doctor say anything bad. I… used to be okay.
+DOCTOR: Okay, good to hear. And have you ever had any surgeries or been hospitalized for anything?
+PATIENT: No surgery. Hospital… just when my wife… when she was sick. But… that wasn't for me. I was just… visiting. I haven't been sick enough to go in myself.
+DOCTOR: Alright. And what about allergies?
+PATIENT: Allergies? Um… I think I… sneeze sometimes. With dust? Or… cats? Not bad, though. Doesn’t stop me from breathing. I don’t… take any medicine for it.
+DOCTOR: Okay, so no major, life-threatening allergies. Do you currently take any medications at all – prescription, over-the-counter, vitamins, supplements?
+PATIENT: No. Nothing. Just… water. And… tea sometimes. I try to drink less sugar.
+DOCTOR: Okay, good. Let’s talk about your family history. Are there any medical conditions that run in your family – heart disease, cancer, diabetes, things like that?
+PATIENT: Um… my mother, she… had high blood pressure, I think. And… my father, he… smoked a lot. He… got sick, but I don’t remember exactly what. It was a long time ago. Nothing… with my wife’s family that I know of.
+DOCTOR: Okay, so some history of high blood pressure on your mother’s side and smoking-related illness with your father. Now, a little bit about your lifestyle. Do you smoke, drink alcohol, or use any recreational drugs?
+PATIENT: No. No smoking. Not anymore. Used to, a long time ago, when I was young and… foolish. No alcohol either. And… definitely not drugs. I… just want to pass the checkup.
+DOCTOR: Okay, that’s excellent. Alright, Mr. Shanor, it sounds like we have a pretty good picture of your medical history. Now, let's move on to a quick physical exam, if that’s alright with you?
+PATIENT: Yes. Okay. That… that’s good. Let’s… get it over with. I have things to do later.
+DOCTOR: Alright. If you could just step over here and we’ll start with your height and weight. Then I’ll listen to your heart and lungs, check your reflexes, and do a quick visual assessment. Is that alright?
+PATIENT: Okay. Yes. Sounds… quick. I… I hope it is.
+DOCTOR: Alright. Okay, you’re 174 centimeters and 134 pounds. That’s a healthy weight for your height. Take a deep breath for me… and exhale… Good. Heart sounds are regular, no murmurs. Lungs are clear. Now, let's check your reflexes. Right leg… and left leg… Good reflexes there. Now, can you follow my finger with your eyes, without moving your head?
+PATIENT: Yes. Like this? Is that… okay? It’s a little blurry sometimes.
+DOCTOR: Yes, that's fine. You mentioned it’s a little blurry sometimes. How long has that been happening?
+PATIENT: Um… a while now. Maybe… six months? A year? I… thought it was just… getting older. And tired eyes. I… work long hours. It’s… not too bad. I can still see the games. Mostly. But… sometimes things are… fuzzy.
+DOCTOR: Okay. That’s important information. It’s good you mentioned that. Since you’re noticing blurriness, and it’s been ongoing for six months to a year, I'm going to recommend you see an ophthalmologist – an eye doctor – for a comprehensive eye exam. We want to rule out any underlying issues. It could be something simple, but it’s best to get it checked out. Would you like me to provide a referral?
+PATIENT: A referral? Yes, that… that would be helpful. I… I don't know any eye doctors. I just thought I needed new glasses, maybe. But… if you think I should see a doctor… yes, please.
+DOCTOR: Alright. Here's a referral to a highly-rated ophthalmologist nearby. They’ll be able to do a full assessment and determine if you need glasses or if there’s anything else going on. In the meantime, I wouldn’t recommend refereeing games until you’ve had a chance to see them, just to be safe. We want to avoid any potential issues with your vision affecting your ability to make accurate calls. Does that sound okay to you?
+PATIENT: Yes. Okay. No games… until I see the doctor. That’s… disappointing. But… I understand. It’s… better to be safe. Thank you, Doctor Piet.
+DOCTOR: Alright. You're very welcome, Mr. Shanor. I'm glad you understand. And please, don't hesitate to call the clinic if you have any questions or concerns. We want to make sure you’re healthy and safe. As for the checkup for refereeing, we'll need the results from the ophthalmologist before we can clear you. Is there anything else I can help you with today?
+PATIENT: No. I… think that’s everything. Just… the eye doctor. And… thank you again. I… I hope I can still do the games.
+DOCTOR: You're very welcome, Mr. Shanor. I’m hopeful as well. We’ll get to the bottom of this, and hopefully, you’ll be back on the field in no time. Have a good day, and please, take care.

@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Pithan. Or… is it Pithan?
+PATIENT: Yeah, Pithan. Good morning. Look, Doc, I got things to get back to, so if we could just… get right to it, that’d be great. It's this cough, see? Been on me for a while now.
+DOCTOR: Right, a cough. Yes, of course. “A while” is… how long exactly, Mr. Pithan?
+PATIENT: Oh, jeez, I dunno. A couple months, maybe? Three, four? It comes and goes, but it always comes back. And I'm just… tired all the time. Feels like I'm fighting something, even when I'm not coughing. And my sinuses, ugh, they get plugged up constantly. Like someone stuffed cotton in 'em.
+DOCTOR: Okay, a few months, on and off…tiredness, and sinus congestion. Any fever accompanying the cough?
+PATIENT: Not really a fever, no. Maybe a little warm sometimes, but nothing that makes me feel like I gotta stay in bed. Just… achy. And really, really tired. Like, can’t-make-it-through-the-day tired. It's just wearing me down. I've tried those over-the-counter cold things, you know, the decongestants, but they don’t really do much.
+DOCTOR: Okay. Any shortness of breath, or pain in your chest with the cough?
+PATIENT: No, no shortness of breath. And my chest doesn't hurt. It's more… this feeling in my lungs, like somethin’s stuck. And the cough… it's a wet cough, if that makes sense. Lots of… stuff coming up. Sorry to be graphic.
+DOCTOR: No, no, that’s perfectly alright. Wet cough… Okay. And what about color of the… the mucus?
+PATIENT: Usually it's… kinda yellowish. Sometimes clear, but mostly yellowish. And when it's really bad, it gets… greenish, I guess. Look, I'm not a doctor, I just know what comes up. It ain't pretty. I just want to feel normal again. This is messing with my work, you know?
+DOCTOR: I understand, Mr. Pithan. And we'll figure out what's going on. Alright. Have you noticed any weight loss recently?
+PATIENT: Weight loss? Hmm... now that you mention it, my clothes have been a little looser. But I figured that was just... getting older, you know? I haven't been really paying attention. I eat okay, I guess. Not fancy, but I eat.
+DOCTOR: Alright. And do you have any history of… smoking?
+PATIENT: No, never smoked a day in my life. My grandpa tried to get me to, when I was a kid, but I didn’t take to it. Always thought it was a stupid habit.
+DOCTOR: Okay. Alright, Mr. Pithan. I'm going to listen to your lungs and check your sinuses. Would that be alright?
+PATIENT: Yeah, sure. Just… get it over with, Doc. I got things to do.
+DOCTOR: Okay. Take a deep breath in... and out. Good. And again. Alright. I hear some congestion in your lungs, a bit of wheezing on both sides. Sinuses feel pretty blocked up too. Now, can I just take your temperature?
+PATIENT: Yeah, go ahead. Temperature's fine, I reckon. Feels normal to me, but what do I know? It’s probably just this cough… It’s been hanging around forever.
+DOCTOR: Temperature is 99.2 Fahrenheit. Not a fever, as you suspected. Alright, Mr. Pithan, based on what you’ve told me and what I’m hearing… it sounds like you likely have bronchitis. It could be acute, or possibly chronic. Given the duration, we should also rule out other possibilities.
+PATIENT: Bronchitis, huh? Is that serious? Will I need… shots or somethin’? Look, Doc, I ain't got time for a long recovery. I gotta work.
+DOCTOR: It's usually not serious, but chronic bronchitis can be… persistent. Shots aren’t typically needed for bronchitis itself, but we may want to do a chest X-ray to rule out pneumonia or other underlying causes, given the length of your symptoms and the fact that you’re noticing some weight loss. Would you be agreeable to that?
+PATIENT: A chest X-ray… Ugh. Okay, fine. If you think it's necessary. But how long will that take? And what if it is somethin' serious? Look, Doc, just tell me straight. Am I gonna be okay?
+DOCTOR: Mr. Pithan, the X-ray will only take a few minutes. And I understand your concern. It’s possible it could be something more than bronchitis, which is why I want to rule things out. It's unlikely to be anything extremely serious, but the X-ray will give us a clearer picture. If it is something else, we'll discuss treatment options and a plan to get you back to work as soon as possible. I’ll also prescribe you an albuterol inhaler to help with the wheezing and congestion. I'm going to write you a referral to a pulmonologist for a full workup as well. Does that sound alright?
+PATIENT: A pulmonologist… Alright. Fine. More doctors, great. An inhaler sounds good, at least. So, X-ray, inhaler, see a lung doctor… Is that all? Look, Doc, I appreciate you tryin' to figure this out, but I really gotta get goin'. I got a shift startin' soon.
+DOCTOR: Yes, for now, that's all. The X-ray can be done here at the clinic, and the referral will allow you to schedule an appointment with the pulmonologist at your convenience. Here’s the information for the pulmonologist and some instructions on how to use the inhaler. I'll also send the X-ray results to the pulmonologist for their review. Please monitor your symptoms, and if you experience any shortness of breath, high fever, or severe chest pain, please go to the emergency room immediately. Do you have any other questions for me before you go?
+PATIENT: No, I think that’s it. Just… get this cough under control, Doc. That’s all I ask. Thanks.
+DOCTOR: You’re welcome, Mr. Pithan. We'll do our best. Get well soon.

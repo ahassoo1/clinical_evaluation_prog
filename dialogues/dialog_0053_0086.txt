@@ -1,0 +1,10 @@
+DOCTOR: Right. Kahrin Kovtun, 29 years old. So, what brings you in today?
+PATIENT: Just the results, please. I was told they'd be ready today. I don't really have time for a long chat, if that’s okay.
+DOCTOR: Yes, well, medical information requires some context, you know. But alright. Let’s see… your complete blood count is within normal limits. Basic metabolic panel is unremarkable. Thyroid stimulating hormone is also normal. Everything appears standard. Is there anything specific you were concerned about when you ordered these tests?
+PATIENT: Unremarkable is good, right? Look, I just needed to make sure everything was standard. A friend suggested I get checked, just to be safe. She worries too much. So, if it’s all normal, that’s all I needed to know.
+DOCTOR: “Normal” is… a relative term. It means there are no immediately glaring issues flagged by these basic tests. It doesn’t necessarily mean you’re in optimal health, or that nothing could develop in the future. But, fine. If you’re satisfied with that, we can leave it at that. I still think it’s prudent to discuss why your friend suggested this, and what her concerns were. But, if you insist… Do you have any allergies or are you currently taking any medications I should be aware of?
+PATIENT: No allergies. And no medications. Never have been. Look, I really appreciate you running the tests, but I'm good. I just wanted to rule things out and now I have. I'm trying to get back to work, if you don't mind.
+DOCTOR: Very well. I must advise you that preventative care and regular check-ups are crucial, even when you feel fine. These tests are a snapshot, and don’t account for everything. If you experience any changes in your health – fatigue, weight loss, fever, anything at all – you should consult a physician promptly. Do you understand?
+PATIENT: Yes, I understand. Look, I'll keep that in mind. Is there anything else? I really need to go.
+DOCTOR: No. Just… take care of yourself. And perhaps encourage your friend to direct her anxieties to a professional, rather than prompting unnecessary medical testing. Have a good day. .
+PATIENT: Okay, thanks. You too. .

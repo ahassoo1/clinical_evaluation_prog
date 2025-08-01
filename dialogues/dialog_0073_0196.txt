@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Ms. Licano. I'm Dr. Korrell. So, what brings you in to see me today?
+PATIENT: Oh, good morning, Doctor. It’s… well, it’s this tiredness. Just… always tired. It's been going on for… a while now, I guess. Honestly, it's hard to say how long. Everything feels a bit blurry these days.
+DOCTOR: "A while now," is… helpful. I understand things can be difficult to pinpoint. Let's try to narrow it down. Has this tiredness been gradually worsening, or did it come on suddenly?
+PATIENT: Gradually, I think? Yes, gradually. It wasn’t like… bam, overnight. More like… slowly fading, you know? Like a lightbulb dimming. I just… don't remember when it started dimming. Sorry. I wish I could be more precise.
+DOCTOR: It’s alright, Ms. Licano. We'll work with what we have. So, this gradual onset of tiredness… is it constant throughout the day, or are there times when it's better or worse?
+PATIENT: Worse in the afternoons, definitely. Mornings are… okay-ish. I can usually get things done. But by, oh, two or three o'clock? Forget it. I just want to sit. Or lie down. It's… frustrating. It's like someone flipped a switch.
+DOCTOR: Afternoons, you say. And how much sleep are you getting at night, Ms. Licano?
+PATIENT: Oh, sleep… well, I try to get eight hours. But I don’t always stay asleep. I wake up… a lot. I don't know why. And even when I do sleep through, I don’t feel rested. It’s… a strange feeling. Like I haven't slept at all.
+DOCTOR: Right. So, disrupted sleep, fatigue, worse in the afternoons. Have you noticed any other symptoms accompanying this tiredness?
+PATIENT: Symptoms… hmm. Let me think. I… sometimes feel a little achy. My joints, mostly. And I’ve been… forgetting things. More than usual, anyway. It’s embarrassing, really. I keep losing my keys. And names… names escape me all the time.
+DOCTOR: Achiness, forgetfulness… Anything else?
+PATIENT: Um… I’ve felt a bit… down, I suppose. Not sad, exactly. Just… not myself. Not interested in things I used to enjoy. My garden’s a mess, you know? I usually love puttering around out there. But… I just haven’t had the energy.
+DOCTOR: A lack of motivation… We’re getting somewhere. Now, Ms. Licano, have you had any recent changes in your weight?
+PATIENT: Weight… oh dear. Honestly? I haven’t really been paying attention. I think… maybe I’ve lost a little? It's hard to say. My clothes feel a bit looser, but… I don't weigh myself regularly. It's never been a big concern of mine.
+DOCTOR: Alright. And are you experiencing any difficulty with your digestion?
+PATIENT: Digestion? Not really... I mean, nothing major. Maybe a little… unsettled sometimes. But I’ve always had a sensitive stomach, so I don’t know if that’s new. It's just… uncomfortable. Nothing to write home about.
+DOCTOR: Okay. Ms. Licano, I'm going to need to do a quick physical exam. Just a basic check of your vitals, listen to your heart and lungs, and feel your abdomen. Is that alright?
+PATIENT: Oh, yes, of course. Whatever you need, Doctor. Just… try to be quick, if you wouldn't mind. I have… things to do.
+DOCTOR: Alright. Let's start with your blood pressure. Blood pressure is a little low, 110/70. Heart sounds are regular, no murmurs. Lungs are clear. Abdomen is soft, no tenderness. Nothing remarkable so far. Now, let’s run some bloodwork. A complete blood count, a metabolic panel, thyroid function tests, and a vitamin D level. That will give us a better picture of what's going on.
+PATIENT: Okay, bloodwork. Sounds… thorough. Is that going to take long? I really should be getting back… I have appointments.
+DOCTOR: The lab usually takes about an hour, Ms. Licano. We’ll get the results back as quickly as possible. In the meantime, I want you to try to get at least seven to eight hours of sleep each night, even if it means going to bed earlier. And try to incorporate some gentle exercise into your routine. Even a short walk can make a difference. We'll discuss the results when they come back, and formulate a plan from there. Does that sound acceptable?
+PATIENT: Sleep… and walking. I’ll try. It's just… hard, you know? Everything feels so… heavy. But yes, acceptable. As long as it doesn't take too long. I have… commitments.
+DOCTOR: Very well. The nurse will take you to the lab now. We'll be in touch with the results. Don't hesitate to call if anything changes. Next.
+PATIENT: Right. Thank you, Doctor. I… I think that’s all. Thank you.
+DOCTOR: .
+PATIENT: .

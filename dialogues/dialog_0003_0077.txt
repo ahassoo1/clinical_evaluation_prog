@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Mr. Bigger. I am Dr. Yackey. Now, let’s try to be efficient, shall we?
+PATIENT: Morning. Efficient is good. Don't have all day, you know. What do you want to know?
+DOCTOR: Yes, well, I need to understand why you've come to see me today. What brings you in?
+PATIENT: They sent me. Insurance people. Said I gotta come get checked 'cause of where I used to work. Underground mining. Lots of dust. But I feel fine. Always have. Don't see what the fuss is about.
+DOCTOR: Mining, you say?
+PATIENT: Yes. Years I spent down there. Hard work. Good money, though. But now they want me poked and prodded. Seems silly if you ask me. I ain't sick.
+DOCTOR: Right. Occupational history. Dust exposure, as you mentioned. And you state you feel “fine.” Can you elaborate on that?
+PATIENT: Elaborate? What more is there to say? I wake up, I eat, I sleep. I walk around. No cough, no pain, no… whatever else people complain about. I feel normal. Been like this for years, even after I stopped working in the mine. What kind of questions are these?
+DOCTOR: Very well. Let’s attempt a brief review of systems, just to be thorough, despite your… assurances. Have you noticed any shortness of breath, even with minimal exertion?
+PATIENT: Shortness of breath? No. I walk to the shops. I climb the stairs. Maybe I get a little… puffed, like anyone does. But not short of breath. That's for weak people. What does "system" even mean? You asking about my TV?
+DOCTOR: No, Mr. Bigger. A “system” refers to your body’s various functions. Your lungs, your heart… Now, concerning your lungs specifically: have you ever had a persistent cough, even if it was just for a few weeks?
+PATIENT: Persistent cough? No. I might clear my throat sometimes, you know, get a bit of dust stuck. But not a cough. Never been a smoker either, if that’s what you’re getting at. Always thought smoking was foolish. A waste of money.
+DOCTOR: Alright. And any chest pain, Mr. Bigger?
+PATIENT: Chest pain? No. I've had aches and pains, like anyone at my age. Old age, you know. But not chest pain. Nothing serious. Just… getting old. What sort of pain are you asking about? Sharp? Dull? You need to be more specific.
+DOCTOR: Hmm. Very well. Let’s proceed with a basic physical exam. I’ll listen to your lungs and heart, just to complete the preliminary assessment. Please take a deep breath for me.
+PATIENT: Fine. But I’m telling you now, you won’t find nothing wrong. There. Happy now?
+DOCTOR: Lung sounds are… clear bilaterally, though slightly diminished. Heart sounds are regular rhythm, no murmurs appreciated. I'll need to check your oxygen saturation. 94%... acceptable, but on the lower end of normal.
+PATIENT: Lower end? What does that mean? Is that bad? I told you I was fine! You’re just trying to find something to charge the insurance company for. Honestly. I need a doctor who listens to their patients, not numbers on a machine.
+DOCTOR: The oxygen saturation is within acceptable limits, but slightly reduced. It is not necessarily indicative of a problem, but given your history of dust exposure, I would like to order a chest X-ray as a precaution. It's a standard procedure in these situations. I’ll have the nurse schedule that for you.
+PATIENT: X-ray? More poking and prodding. Look, I really don’t think this is necessary. I've lived a long life, worked hard, and I feel alright. I’m not spending my afternoon in some fancy machine because of some numbers and dust from fifty years ago. No thank you. I'm leaving now.
+DOCTOR: Mr. Bigger, I strongly advise against that. Refusal of a recommended diagnostic test, particularly given your occupational history, is ill-advised. We have a responsibility to rule out potential complications. However, if you insist, I will document your refusal. Be aware that this may affect your insurance coverage for related issues in the future.
+PATIENT: Insurance coverage? That’s all you care about! Fine. Do your X-ray. But don't come back to me telling me there's something wrong when I feel perfectly good. Just get it over with. But I’m not happy about this, you know. Not happy at all.
+DOCTOR: The nurse will be with you shortly to escort you to radiology.

@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Mr. Radillo. I’m Dr. Yackey. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor Yackey. It is… a problem with my ear. There is… liquid coming out. It started, let me see… July 28th, I think. Yes, July 28th.
+DOCTOR: July 28th…right. And is this…liquid…constant, or does it come and go?
+PATIENT: It comes and goes, Doctor. Not all the time. More when I… lie down, perhaps. And sometimes when I… clean my ear. But not every time I clean my ear, you understand. It is… confusing.
+DOCTOR: Confusing, yes. Well, many things are confusing. And what color is this liquid, Mr. Radillo?
+PATIENT: It is… yellowish. Not very bright yellow, but… yellow-ish. And… a little bit… smelly. I am sorry to say that. Not a bad smell, but… not good. Like… old water, maybe? Is that a good description?
+DOCTOR: "Old water"...right. And have you experienced any pain with this?
+PATIENT: No, Doctor. No pain. Just… the liquid. And a… a feeling. Like… fullness. Not hurtful fullness, but… like something is inside. Like… a small stone, perhaps? But not hard. A soft stone.
+DOCTOR: A “soft stone”. Very well. Have you noticed any hearing loss, dizziness, or ringing in your ears, Mr. Radillo?
+PATIENT: No dizziness, Doctor. I am very sure of that. My hearing… it is maybe a little quieter in that ear. Just a little. I have to listen… very carefully when someone speaks softly. But not a big problem. No ringing, either. Just the… quietness.
+DOCTOR: Alright. And have you tried anything to remedy this yourself?
+PATIENT: Yes, Doctor. I tried… cotton. Very gently. To clean the ear. And I tried… a little warm oil. Olive oil. My wife… my former wife… she used to say it helps. It did not help much, though. It maybe made it… a little worse. That was last week.
+DOCTOR: Olive oil… predictably ineffective. Now, have you had any previous ear infections, ear surgeries, or any problems with your sinuses?
+PATIENT: No, Doctor. Never. No infections, no surgeries. My sinuses… sometimes they feel… full. But just when the weather changes. Not a big problem, either. I have always had… good health, mostly. Before this, of course. It is… worrying me a little.
+DOCTOR: Alright. Let's take a look, shall we?
+PATIENT: Yes, Doctor. That would be… good. I trust your judgment. Please be careful. My ears are… sensitive.
+DOCTOR: Hmm. Yes, there’s definite cerumen impaction… and some evidence of mild inflammation. The tympanic membrane appears intact, but slightly… obscured. I also note a small amount of purulent discharge. Yes. Cerumen and likely a mild external otitis. I’m going to recommend we irrigate the ear to remove the wax and I’ll prescribe some antibiotic ear drops.
+PATIENT: Irrigate… and ear drops. That sounds… sensible, Doctor. Is that… painful? Will I need to… stop doing anything? I have a class tomorrow morning, you see. History. I teach history.
+DOCTOR: The irrigation itself can be slightly uncomfortable, a brief sensation of fullness, but generally not painful. We’ll use body temperature water. As for your class, no restrictions. Just avoid getting water in the ear for the next 24 hours. And follow the instructions on the ear drops carefully. I'll have the nurse provide those instructions both verbally and in writing. Do you have any allergies to any medications?
+PATIENT: No allergies, Doctor. No, none at all. I am very careful what I eat. And I always tell the pharmacist… everything. I will be sure to follow your instructions… carefully. And thank you, Doctor. This… eases my mind a little.
+DOCTOR: Good. The nurse will be in shortly with the instructions and a prescription. Try to avoid cleaning your ear with cotton swabs in the future, Mr. Radillo; they tend to compact the wax further. Anything else I can assist you with today?
+PATIENT: No, Doctor. That is all. No more questions. And I will avoid the cotton. My wife… my former wife… she always told me that, too. Thank you again, Doctor Yackey. You are very… thorough. I appreciate your help.
+DOCTOR: Very well. Have a pleasant day, Mr. Radillo. And please follow up if your symptoms worsen. .
+PATIENT: .

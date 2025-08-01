@@ -1,0 +1,33 @@
+DOCTOR: Alright, Mr. Bulaong. So, what brings you in today?
+PATIENT: Uh, hi. My chest… it hurts. Not all the time, but… yeah. It hurts sometimes. Like, a dull ache. It's my breast.
+DOCTOR: Your breast hurts?
+PATIENT: Yes. I know… it sounds weird. I am a man, yes. But it hurts. It's… over here. Not like a bad injury, just… sore. Like when you get a bruise, but not really a bruise.
+DOCTOR: Right. Well, unusual, certainly. How long has this been going on?
+PATIENT: Hmm… maybe a few weeks now? I didn’t think much of it at first. Just thought I slept wrong or something. But it keeps coming back. Maybe two or three times a week? It’s hard to remember exactly.
+DOCTOR: And is it associated with any particular activity?
+PATIENT: Activity? Like… doing things? Not that I know of. I work on roofs, so I'm moving around a lot. Lifting things, walking… but it doesn’t seem to get worse from working. Just… happens. Sometimes when I'm resting too.
+DOCTOR: Roofing, you say?
+PATIENT: Yes. I am roofer. I fix roofs. It's… good job. But sometimes hard work. Does… does that have something to do with my chest?
+DOCTOR: It could. We need to rule things out. Now, has there been any change in the size or shape of the area that’s sore?
+PATIENT: Change? I… I don’t know. I don’t really look at my chest, you know? It looks the same as always. I think. Maybe a little… softer? I don't know if that's normal. I haven’t noticed anything big.
+DOCTOR: Right. And any nipple discharge, or changes to the skin around the nipple?
+PATIENT: Discharge? Oh. Uh… no. No discharge. And the skin… looks normal, I think. No bumps or anything. I… I don't check so much. Sorry. Is this… is this something I should be checking?
+DOCTOR: It's… good that you're coming in now. We need to be thorough. Now, have you noticed any other symptoms?
+PATIENT: Other symptoms? Hmm… not really. I've been a little tired lately, but that's probably just from the work. And my wife says I've been a bit grumpy, but she says that a lot. Nothing… specific to my chest, no. No fever, no weight loss… just the sore chest and being a little tired.
+DOCTOR: Alright. Let's do a quick physical exam. I'm going to listen to your heart and lungs, and then I need to examine the area you're describing. Please undress from the waist up and I’ll give you a gown.
+PATIENT: Okay. That’s… alright. Undress… from the waist up. Yes. I will do that. Where is the gown?
+DOCTOR: The changing room is just over there. Take your time. I’ll be right outside when you’re ready.
+PATIENT: Okay. Thank you.
+DOCTOR: Alright, Mr. Bulaong. Come on in when you’re ready. I'll need you to lie down on the table, face up.
+PATIENT: Okay. Ready. I think. Is… is this going to hurt?
+DOCTOR: It shouldn't. I'm just listening to your heart and lungs first. Take a deep breath… and exhale. Another one. Good. Heart sounds are normal. Lungs are clear. Now, I need to palpate the area on your chest that's been bothering you. Just relax. Is there any tenderness here?
+PATIENT: Ouch! Yes, there… that spot. It hurts a little when you push. Not a sharp pain, just… sore. Like a bruise, like I said. Is… is this normal? It feels… weird to have someone poking around. Sorry.
+DOCTOR: There is mild tenderness to palpation in the left pectoral region. No palpable masses detected. Skin is unremarkable. Hmm. It's… unusual for a man your age to present with this. Any pain or swelling in your armpits?
+PATIENT: Armpits? Ouch! That's… a little tender. Not like a big pain, just… sensitive. I didn't notice it before. Is something… wrong? Is this… serious? I don't want anything serious. My wife… she will be worried.
+DOCTOR: Mild lymphadenopathy noted in the left axilla. It's too early to say anything definitively, Mr. Bulaong. We need to run some tests. I'm going to order a complete blood count and a chest X-ray. I also want to get a mammogram. Yes, a mammogram. It's important to rule out all possibilities.
+PATIENT: A… a mammogram? But… I am a man! You want to… to do a mammogram on a man? Is that… even possible? What does that even… what will that show? And what if… what if it’s something bad?
+DOCTOR: Mr. Bulaong, tissue is tissue. And while it's uncommon, men can develop breast tissue and, yes, even breast cancer. A mammogram is the best way to get a clear picture of what's going on. It's a standard procedure. I'm scheduling the tests now. The lab and radiology center are located… You'll need to fast for eight hours before the blood work. As for the mammogram… it might be a little uncomfortable, but it’s a necessary step. We need to rule things out. Do you understand?
+PATIENT: I… I think so. Fast for eight hours… mammogram… It’s just… a lot. My wife… I need to tell her. She’s going to be very worried. And I don’t understand… why me? What if it is something bad? What… what happens then? I just want it to be nothing.
+DOCTOR: We won’t know until we get the results. It's best not to jump to conclusions. The results will be sent to my office, and I’ll call you as soon as I have them. Here are the lab requisitions and the radiology order. And here's a list of resources should you need them. Do you have any other questions?
+PATIENT: No… I don’t think so. Just… thank you, Doctor. I think I need to go home and tell my wife. .
+DOCTOR: .

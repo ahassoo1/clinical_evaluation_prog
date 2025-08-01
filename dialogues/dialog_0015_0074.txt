@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Ms. Steines. I'm Dr. Trestrail. What brings you in to see me today?
+PATIENT: Morning, Doctor. Just... my blood pressure's been acting up, I guess. My regular doctor said I oughta come get it checked, and maybe get some help with it. It just feels... high, sometimes. Makes me a little dizzy.
+DOCTOR: Alright. "Acting up" and "feels high" aren't terribly specific, Ms. Steines, but we can certainly investigate. Do you have any numbers you can share with me?
+PATIENT: Numbers? Oh, dear. Not really. I got a machine at home, one of those cuff things, but I don’t write ‘em down good. My memory ain’t what it used to be, you know. I just know when it feels bad. It's been worse lately, that's for sure.
+DOCTOR: I understand. It’s…unfortunate that you don’t have records of your readings. Knowing the numbers is very important. But we’ll do what we can. How long has this been going on – this feeling of high blood pressure?
+PATIENT: Oh, goodness. A while now, I reckon. On and off for… maybe a year? Hard to say exactly. It comes and goes. Lately, though, it's been more on than off. Especially when I'm bakin', strangely enough. All that heat, I suppose.
+DOCTOR: Baking, you say?
+PATIENT: Yes, ma'am. I own a little bakery in town. Been bakin' since I was a girl. It’s good work, usually. But standin' over that oven… makes my head swim sometimes. And my blood pressure feel awful.
+DOCTOR: Interesting. And besides the dizziness and the feeling of high blood pressure while baking, are you experiencing any other symptoms?
+PATIENT: Hmm… let me think. Sometimes my hands get kinda shaky. Not all the time, just now and then. And I get headaches, mostly in the back of my head. Not terrible headaches, just… annoying. And I get tired easier, that's for sure. Used to be I could bake all day and still have energy to quilt at night. Now… not so much.
+DOCTOR: Alright. Shaky hands, headaches, fatigue… these are all things we need to consider. Have you noticed any changes in your vision?
+PATIENT: Vision? Well… now that you mention it, things have been a little blurry sometimes. Especially when I’m readin’ recipes. I just figured it was my eyes gettin’ old. I haven’t been to the eye doctor in ages.
+DOCTOR: I see. And what about chest pain, shortness of breath, or swelling in your ankles or feet?
+PATIENT: No chest pain, thankfully. And I ain’t had no trouble breathin'. My ankles… sometimes they feel a little puffy at the end of the day, but I figured that was just from standin' so long. I wear comfy shoes, though!
+DOCTOR: Okay. Now, let's talk a little bit about your medical history. Do you have any medical conditions that you've been diagnosed with, such as diabetes, kidney problems, or heart disease?
+PATIENT: Well, my regular doctor told me I got a touch of arthritis in my hands. That's why bakin' can be hard sometimes. Other than that… nothin' much, as far as I know. I've been pretty healthy my whole life, knock on wood. Never been one for fancy medicines.
+DOCTOR: I see. And have you ever had any surgeries?
+PATIENT: Just my tonsils when I was a little girl. That was a long time ago. And a cataract in my left eye a few years back, but that's all. Real quick surgery, didn't bother me none.
+DOCTOR: Alright. What about your family?
+PATIENT: Family… My mama, she lived to be 95, but she had some heart trouble towards the end. My daddy… he passed when I was young, didn't have no real health problems that I recall. Lots of us Steines are stubborn as mules, though. And we all love our fried chicken.
+DOCTOR: I see. And what about medications?
+PATIENT: Just the arthritis cream, that's it. And sometimes I take a little somethin' for my sleep, but not every night. I don’t like takin’ pills if I can help it.
+DOCTOR: Alright. Do you have any allergies to any medications, foods, or anything else?
+PATIENT: Nope. Never been allergic to a thing. Lucky me, I guess. I can eat anything, thankfully. Love a good peach cobbler, that's for sure.
+DOCTOR: Alright, Ms. Steines. Let’s take some vital signs and do a quick physical exam, and then we can discuss some possible next steps. I'm going to listen to your heart and lungs, check your pulse, and take your blood pressure. Would that be alright?
+PATIENT: Yes, ma'am. That sounds good. Let's get it over with, then. I got pies to bake, you know.
+DOCTOR: Your blood pressure is quite elevated, 168 over 92. Your pulse is a bit rapid at 88, and your breathing sounds a little wheezy. I'm also feeling some swelling in your ankles. Your heart sounds regular, but a bit strong. I'm going to check your reflexes now. Reflexes are a little diminished.
+PATIENT: Diminished, huh? Well, that don’t sound good. Is that bad, Doctor? I'm gettin' a little worried now.
+DOCTOR: It’s not necessarily bad, Ms. Steines, but it’s something we need to investigate further. Given your elevated blood pressure, the wheezing, and the swelling in your ankles, I'm concerned about possible heart failure or kidney problems. You also mentioned fatigue and blurry vision. While I’m not prepared to give you a definitive diagnosis yet, these symptoms warrant further testing. I want to order a complete blood count, a comprehensive metabolic panel, an EKG, and a chest X-ray.
+PATIENT: Oh, goodness. All those tests… Seems like a lot. What exactly will they do? And what if somethin' is wrong? I don’t want to end up in the hospital.
+DOCTOR: The complete blood count will check for anemia and infection. The comprehensive metabolic panel will assess your kidney function, electrolyte levels, and blood sugar. The EKG will look at the electrical activity of your heart, and the chest X-ray will allow us to see the size and shape of your heart and lungs. If something is wrong, Ms. Steines, we'll discuss the best course of treatment. It's possible you may need medication, and in some cases, hospitalization may be necessary, but we'll cross that bridge when and if we come to it. I'll have the lab draw the blood now. The EKG and chest X-ray can be done here at the clinic after the bloodwork. Does that sound acceptable?
+PATIENT: Well… I reckon so. It's better to know, I suppose. Though I don't much like the sound of it. Just get it over with, then. And try not to give me too many pills, alright? I’m a simple woman, Doctor.
+DOCTOR: I understand, Ms. Steines. I will certainly keep that in mind. Let me write the orders for the lab and imaging. The nurse will take you to the lab now. After the bloodwork, she will schedule your EKG and chest X-ray. I will review the results as soon as they are available and contact you to discuss them. In the meantime, I recommend you limit your salt intake and avoid strenuous activity. Do you have any questions for me before you go?
+PATIENT: No, I don’t think so. Just… thank you, Doctor. And please, don't let it be anything too serious. I got pies to bake, remember?
+DOCTOR: Very well, Ms. Steines. I'll do my best. The nurse will be with you shortly. .

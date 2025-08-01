@@ -1,0 +1,19 @@
+DOCTOR: Right, Chelise Geho. 54. Okay. Well, let's not waste time. What brings you in today?
+PATIENT: Oh, hello Doctor. It’s the cholesterol, I think. My numbers were a little high on the last blood test. I got a letter about it. I don’t really understand it all, but I figured I should come and talk about it.
+DOCTOR: A letter, right. Everyone gets letters. Okay. And you're concerned about...high cholesterol. Did the letter specify which numbers were high?
+PATIENT: Hmm… let me think. I have it right here somewhere… Ah, yes. It says… LDL was 160, and the total cholesterol was 240. Does that mean anything to you? I just know they said it was above what it should be.
+DOCTOR: Yes, well, it means something to me. Those are… elevated. Look, frankly, people worry too much about these numbers. But okay, 160 for LDL is… not ideal. Have you been given any advice about lifestyle changes?
+PATIENT: Lifestyle changes? Not really, no. The letter just said to see a doctor. I eat pretty normal, I think. Not a lot of fast food. I like to garden, so I'm moving around a bit. My mother, she had… something with her heart, but I don’t know exactly what. Is that important?
+DOCTOR: Gardening is good, I suppose. "Pretty normal" doesn't really tell me much, does it?
+PATIENT: No, it doesn't, I guess. Well, I have chicken or fish most nights. And vegetables, when they're in season from the garden, of course. I do enjoy a piece of dark chocolate after dinner… is that bad? And maybe a glass of wine with it sometimes. I try not to overdo it, though.
+DOCTOR: Dark chocolate and wine. Right. And your mother… what exactly was this “something with her heart”?
+PATIENT: Oh dear… I'm not very good with remembering things like that. It was… something with the arteries, I think. She was in the hospital a few times. They said it was important to watch her diet. She had to take pills, I know that much. She lived to be 85, though, so… maybe it wasn’t so bad? It was a long time ago.
+DOCTOR: Look, family history is important, but vague recollections aren’t terribly helpful. Alright. Let’s do a quick exam. Just the basics. Blood pressure, listen to your heart and lungs. Don’t get your hopes up; it won't change anything dramatically. Please, have a seat.
+PATIENT: Okay, sounds good. I'm not very good with medical stuff, but I'll do my best. Lead the way.
+DOCTOR: Right. Blood pressure first. 140 over 90… not fantastic. Heart sounds regular, a little murmur, probably benign. Lungs clear. Alright. Nothing glaringly obvious. As I suspected.
+PATIENT: Okay. So, is it… bad? Should I be worried? Is this something I need to take pills for right away? My neighbor takes pills for everything, and I really don’t like the idea of being on medication.
+DOCTOR: Look, your numbers are elevated, and your blood pressure isn’t ideal. You’re not going to drop dead tomorrow. However, ignoring it isn’t a good strategy. We can try lifestyle modifications first. Diet – actually watching what you eat, not just saying you eat "normal." More exercise. I'll write you a referral to a nutritionist. And we’ll recheck your levels in three months. If they haven’t improved… then we’ll talk about medication. Understand?
+PATIENT: Yes, that sounds… reasonable. A nutritionist, okay. I can do that. Watching what I eat… more exercise. I suppose I could walk more. And less dark chocolate, maybe. Three months, right? And then we see if I need the pills? I just... I really don’t like taking pills.
+DOCTOR: Three months. And yes, I understand your reluctance regarding medication. Here's the referral. The nutritionist will give you a detailed plan. Don’t call me unless something drastic changes. Now, is there anything else?
+PATIENT: No, I think that's everything. Thank you, Doctor. You've been very… thorough. I’ll try to be good and follow the plan. I appreciate you not rushing into pills right away. That makes me feel better.
+DOCTOR: Good. Try to be. Next. .

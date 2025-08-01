@@ -1,0 +1,19 @@
+DOCTOR: Alright, Mr. Pipolo, good to meet you. So, what brings you in today?
+PATIENT: Dry eyes. Been real bad lately. Feels like sand, ya know? Hurts to blink sometimes. Just want somethin’ for it, if you got somethin’. Don't wanna sit here all day talkin’ about it.
+DOCTOR: Dry eyes, okay. "Feels like sand"... right. And it’s been worse lately… how lately are we talking?
+PATIENT: Hmm… maybe a month or so? Hard to say exactly. Time kinda… slips. It's just gettin’ worse. Especially when the wind blows. We get a lot of wind here. Makes ‘em awful.
+DOCTOR: A month…wind… yes, yes. Do you have any other symptoms?
+PATIENT: Other symptoms? Like what kinda symptoms? I just got the dry eyes. Sometimes blurry, I guess. Not all the time. I can still see to do my work, mostly. I pour cement, ya know? Gotta see straight for that.
+DOCTOR: Pour cement… right. And the blurriness, is it constant or does it come and go?
+PATIENT: Comes and goes. Mostly when they really dry out. And when it’s windy, like I said. It's just...annoying. Is there somethin’ you can give me to make it stop? I got work to do.
+DOCTOR: Okay, okay. We’ll take a look. Let’s just do a quick exam, and then we can see what we’re dealing with. Have you ever had your eyes checked before?
+PATIENT: Nope. Never had 'em checked. Always been able to see fine. 'Til lately, I mean. Just want somethin' for the dry, doc. Quick as you can, if you don't mind.
+DOCTOR: Alright, alright. Let's just have you look straight ahead… and tell me if you can see my finger clearly as I bring it into your field of vision.
+PATIENT: Okay. Yeah, I can see it. Little blurry, maybe. Like lookin’ through a dirty window. But I can see it.
+DOCTOR: Hmm. Okay. And have you noticed any redness, discharge, or pain in either eye?
+PATIENT: No, not really. Just dry. No pain. No…discharge. Just feels gritty, ya know? Like sand under your eyelids. It gets real bothersome when I’m workin’ outside. The dust, and the wind… makes it much worse.
+DOCTOR: Alright. Minimal redness observed. Lids appear normal, though slightly dry. Conjunctiva… looks okay. You said this started about a month ago?
+PATIENT: Yeah, a month or so. Maybe a little longer. Like I said, time… gets away from me sometimes. Wind's been bad too, lately. Is it somethin’ serious? I really just need somethin’ to make it stop, doc. I don’t have insurance, so… gotta be quick and cheap, if possible.
+DOCTOR: Look, it's probably just environmental dryness. Wind, dust… common. We can try some artificial tears. Over-the-counter. They won’t cure it, but they’ll give you some relief. I'll write down the name of a brand you can get at the general store. Try using them a few times a day, especially when you’re outside. Does that work for you?
+PATIENT: Yeah, that'll do. As long as it helps. Thanks. How much are those tears gonna cost, roughly? I ain't got much money to throw around. .
+DOCTOR: Honestly, I don't know. A few dollars, maybe?

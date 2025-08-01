@@ -1,0 +1,33 @@
+DOCTOR: Alright, Mr. Baide, let's get right to it. You’re 80 years old, so a lot can be going on. What brings you in today?
+PATIENT: Ugh, well, it’s this…shaking. My hand, mostly. It’s bothersome, really. Makes things difficult. I don’t know why it started, probably just old age, right? Don’t need to make a fuss over nothing.
+DOCTOR: “Right.” I say dryly. “Well, ‘probably’ doesn’t get us very far, does it?
+PATIENT: Look, I don’t remember exactly when it started, okay? A few months, maybe? Longer? It comes and goes. It’s not…constant. And honestly, doctor, I haven’t got all day to sit here reliving the last year. It’s a tremor, what more do you need to know?
+DOCTOR: A tremor, you say. Okay. Is it just your hand, or does it happen anywhere else?
+PATIENT: Just my hand, mostly. Though… now that you mention it, sometimes my leg feels a little… twitchy. But that could be anything, right? I sit a lot. Bad circulation, probably. Honestly, I’d rather not dwell on every little ache. It's just…annoying.
+DOCTOR: Okay, so hand tremor, sometimes a twitch in your leg. Does anything make it worse?
+PATIENT: Hmm…well, trying to write, that’s for sure. Makes a mess. And…when I'm nervous, I guess. Though, what’s there to be nervous about? It’s just a doctor's appointment. Don't need a whole song and dance over it.
+DOCTOR: Alright. And when you’re not nervous, or trying to write… is it constant?
+PATIENT: No, no, it’s not constant. It comes and goes, like I said. Sometimes I don’t even notice it for hours. It’s not like I’m shaking all the time, doctor! I can still manage, thank you very much.
+DOCTOR: Okay, Mr. Baide, I understand it's not constant. Let’s talk about your medical history. Have you been diagnosed with anything significant in the past?
+PATIENT: Significant? Goodness, at my age? Probably something, I don’t know. High blood pressure, maybe? The usual old man stuff. I went to doctors back in the day, but I don’t remember every detail. It was a long time ago! My wife, bless her soul, she always kept track of those things. Now… it all just blurs together.
+DOCTOR: Okay. Do you remember who your previous doctors were?
+PATIENT: Ugh, names… No, not really. Dr. something… back in the city. Before I moved here. It was a big practice, lots of doctors coming and going. I didn't bother with remembering names. Frankly, they all seemed the same to me. Just poking and prodding.
+DOCTOR: Alright. Any surgeries?
+PATIENT: Surgeries… let me think. My appendix, when I was young. And… maybe a hernia? A small one. Nothing major, nothing to write home about. It was a long time ago, doctor. Really, all these questions… are they necessary?
+DOCTOR: Okay. What about family history?
+PATIENT: Family history… my father had… something. Heart trouble, I think. And my mother… she lived to be a good age, mostly healthy. Nothing remarkable, really. We weren't a family that talked a lot about ailments. Bad luck just happens, you know?
+DOCTOR: Alright. Do you take any medications currently?
+PATIENT: Just a little something for my blood pressure, I think. A small white pill. Can’t remember the name of it. My wife always filled the prescription. I just take it every morning. Honestly, I don’t see the point in memorizing names. Does it matter what it’s called?
+DOCTOR: It does matter, Mr. Baide. It helps me ensure you’re not taking anything that could interact with other medications, or be causing other issues. Alright. Let’s do a quick physical exam. Just to get a better understanding of what’s going on. Can you hold out your hands for me?
+PATIENT: Fine, fine. Whatever you need to do. But don’t expect miracles. It’s just old age, I tell you. Here.
+DOCTOR: Okay. Your reflexes are a little sluggish, but that’s not uncommon at your age. Muscle tone seems normal. Now, can you tap your finger to your nose with both hands, alternating?
+PATIENT: See? It’s just… unsteady. I'm not as nimble as I used to be. This is pointless.
+DOCTOR: Okay. I’m going to listen to your heart and lungs now. Please take a deep breath in. Alright. And one last thing - can you stand up and walk a few steps for me?
+PATIENT: There. Happy now? It’s just… a little wobbly. I get dizzy sometimes. Old age, I tell you! This whole thing is a waste of time, honestly.
+DOCTOR: Alright, Mr. Baide. Based on what you’ve told me, and the physical exam, it's difficult to say definitively what's causing your tremor and unsteadiness. However, the findings suggest a few possibilities. It could be essential tremor, which is common in older adults, but it could also be related to other neurological conditions, or even a subtle stroke. The crackling in your lungs is also a concern. I’d like to order some blood work to rule out any underlying medical conditions, and I recommend a brain scan to get a better look at your brain. We should also consider a chest X-ray. Would you be open to that?
+PATIENT: Ugh. More tests? Honestly, doctor, I’m tired of poking and prodding. It's just old age, I tell you! I don't want to spend my remaining days in hospitals and clinics. My wife always said I hated doctors. This sounds like a lot of fuss over nothing. Is it absolutely necessary?
+DOCTOR: Mr. Baide, I understand your reluctance. But dismissing it as "just old age" without investigating could be risky. The tests will help us rule out anything serious, and if it is something more than just age-related changes, we can start treatment sooner rather than later. It's better to be safe than sorry, especially given your age and the symptoms you're experiencing. I strongly recommend the blood work, brain scan, and chest X-ray. If you’re still hesitant about the scan, we can discuss it further, but I genuinely believe it’s the most responsible course of action. Would you at least agree to the blood work?
+PATIENT: Fine. Blood work. Just… get it over with. But no fancy scans, doctor. I don't want any bright lights and machines poking around in my head. And hurry it up, will you? I have things to do. Just tell me where to go.
+DOCTOR: Alright. The lab is just down the hall to your left. They’ll draw some blood samples. It will take about 30 minutes. Once the results are back, my nurse will contact you to schedule a follow-up appointment to discuss them. In the meantime, if your symptoms worsen – if you experience any dizziness, weakness, confusion, or difficulty speaking – please go to the nearest emergency room immediately. Do you have any questions for me before you go?
+PATIENT: No. No questions. Just… get it over with. .
+DOCTOR: Alright, well, hopefully the bloodwork will shed some light on things. .

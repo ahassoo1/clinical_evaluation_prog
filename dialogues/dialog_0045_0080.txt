@@ -1,0 +1,17 @@
+DOCTOR: Alright, Ms. Fabing, have a seat. So, what brings you in today?
+PATIENT: Oh, hi Dr. Billman. Just need to get some forms filled out, really. Medicare sent me a bunch and I figured it's easier to do it here if I have questions.
+DOCTOR: Medicare paperwork, huh?
+PATIENT: Yep. It’s… a lot. I tried looking over them, but some of it doesn’t quite make sense to me. That’s why I thought I’d come in. I don’t want to mess anything up, you know?
+DOCTOR: Well, it is designed to be confusing, I suppose. They make it difficult for a reason. Let's see... Which forms are giving you trouble?
+PATIENT: Um… let me see here. This one, the one about my… benefits? And then this other one, it asks about… changes to my coverage. It just feels like a lot of legal wording. I work with my hands, not paperwork, you know?
+DOCTOR: Right. This section here just confirms your coverage details—what’s covered, your copays, that sort of thing. It's mostly just confirming what you already should know. And this other one... ...is asking if anything’s changed—new doctors, different insurance plans. Basic stuff, really. Are you seeing any other doctors besides me?
+PATIENT: No, just you, Dr. Billman. I've been coming to you for years now. I think… maybe I got confused because it asked about a “primary care physician” and I wasn’t sure if that was you or… something else? It’s silly, I know.
+DOCTOR: Well, it’s not silly. It’s their job to make it confusing. Yes, I am your primary care physician. That means I'm your main doctor. Everything goes through me. It’s just… paperwork. Don't worry about it too much. Have you had any changes in your health lately?
+PATIENT: No, nothing major. Just the usual aches and pains from work, you know? Being on my feet all day. Nothing I haven’t dealt with before. I haven’t been sick or anything. I just want to make sure these forms are right so I don’t get a big bill later.
+DOCTOR: Alright, good. So no new symptoms, no changes in medication… Let's just quickly confirm your current medications. Are you still taking anything regularly?
+PATIENT: Just an over-the-counter pain reliever when my back flares up. Ibuprofen, mostly. And sometimes I take something for sleep if I’m really sore. Nothing prescribed, just stuff I get at the store. I don’t take anything else on a regular basis, I promise. I try to avoid pills when I can.
+DOCTOR: Okay, Ibuprofen as needed, occasional sleep aid… That’s what I have on file too. Alright, I think we're good here. Just make sure you sign and date everything. Do you have any questions for me before you fill it out?
+PATIENT: No, I think you’ve covered everything, Dr. Billman. You explained it way better than those papers did! Thank you for taking the time to go over it with me. I feel a lot better now.
+DOCTOR: Alright. Just bring them to the front desk on your way out. They’ll take care of it. Don't hesitate to call if anything comes up. Have a good day, Ms. Fabing.
+PATIENT: Okay, I will. Thank you again, Dr. Billman. You have a good day too.
+DOCTOR: .

@@ -1,0 +1,24 @@
+DOCTOR: Right, yes. Margret Kilton, is it?
+PATIENT: Yes, that is correct. Margret Kilton. It is nice to meet you, Doctor… Ruocco, yes?
+DOCTOR: Just Ruocco is fine. Look, I have a very full schedule today, so let’s get straight to it. What brings you in?
+PATIENT: Oh, alright. Just Ruocco. Well, I have been… having some trouble breathing. A wheezing sound, mostly. It comes and goes, but lately it has been happening more often. It feels… tight in my chest sometimes.
+DOCTOR: Wheezing, you say?
+PATIENT: Yes. Like a… whistling sound when I breathe. Not all the time, but especially when I walk, or if I try to do something… active. I used to be very good at walking, you know. I work with athletes… or, did work with athletes. It’s harder now with this breathing.
+DOCTOR: Right. And how long has this been going on?
+PATIENT: Oh, goodness. That’s a good question. I think… maybe a few months now? It started very small, I didn’t think much of it at first. Just a little out of breath. But it’s gotten worse, slowly. I don’t keep very good track of dates, you see. My daughter usually reminds me of things like that.
+DOCTOR: Do you have any… other symptoms?
+PATIENT: Other symptoms… hmm. Sometimes I feel a little tired, more tired than usual. And I’ve been coughing a bit, mostly at night. Not a bad cough, but… it keeps me awake sometimes. No fever, though. I don’t think so. I do get a little dizzy sometimes when I stand up quickly. Is that… related?
+DOCTOR: Dizzy, you say?
+PATIENT: Yes, a little bit. Not all the time, but when I stand up too fast. It doesn't last long, just a moment. Like the room is spinning for a second. Like that. I don't fall or anything. It's just… a little bit unsettling. Is that important, Doctor?
+DOCTOR: Probably nothing. Do you smoke, or have you ever smoked?
+PATIENT: Oh, no, never! I do not smoke. My husband… he used to, a long time ago. But I always told him it was a very bad habit. A very bad habit indeed. I always liked fresh air. And being able to breathe, of course.
+DOCTOR: Right. Any family history of… lung problems?
+PATIENT: Hmm. That’s… a difficult question. My family is very big, and many live far away. I don't know much about their health, really. My mother… she had a weak chest sometimes, but I don’t know what it was. And my brother… he had a bad cough when he was young, but he got better. I'm not sure if that's helpful. It is hard to remember so far back.
+DOCTOR: Okay. Let’s just listen to your lungs, shall we?
+PATIENT: Yes, that sounds good, Doctor. I’m happy to do whatever you think is best.
+DOCTOR: Alright. Take a deep breath… and exhale. Again. Hmm. And again. I hear some wheezing, as you said. And a little… crackling. It's likely… bronchitis. Probably picked something up. Very common this time of year.
+PATIENT: Bronchitis? Oh dear. Is that… serious, Doctor? I don’t like the sound of “crackling.” Will I need… medicine? And will it stop me from walking? I do enjoy my walks, you know. Even if they are a bit harder now.
+DOCTOR: It’s usually not serious. Just inflammation of the airways. I’ll prescribe you an inhaler. Use it as directed. And… try to rest. No strenuous activity. Here. This should help. And if it doesn’t improve in a week… well, then we’ll talk. But it’s probably just bronchitis. Don't worry yourself too much about it. Next?
+PATIENT: Oh, alright. An inhaler. As directed… I will ask my daughter to help me remember. She is very good with instructions. And rest… yes, I can do that. Thank you, Doctor. And will this stop the dizziness, do you think? Or is that something else? I don't want to bother you, but…
+DOCTOR: The dizziness is probably just age. Or low blood sugar. Drink more water. Look, I have other patients waiting. I think we’ve covered everything. Unless you have any other urgent concerns…
+PATIENT: Oh. Alright. I… I don't think so. Just the breathing, and the dizziness. And I will drink more water. Thank you for your help, Doctor Ruocco. I appreciate you seeing me. I will be sure to take the inhaler as directed. .

@@ -1,0 +1,34 @@
+DOCTOR: Good morning, Ms. Queener. I’m Dr. Dechene. So, what brings you in today?
+PATIENT: Oh, good morning, Doctor. It’s… my leg, mostly. It’s been swelling up, and it started after… well, after the cancer stuff. It’s not painful, exactly, just… big. And uncomfortable.
+DOCTOR: "Cancer stuff?
+PATIENT: Oh, you know… the treatments. The radiation. They said it was to… get rid of it. I don’t remember all the big words, honestly. It was a while ago now. Is that okay? I’m not very good with remembering things.
+DOCTOR: Right. Yes, I see some records here regarding radiation therapy completed in… 2020. And you’re experiencing swelling in your leg now. Which leg, specifically?
+PATIENT: Oh, the left one! Yes, the left leg is the big one. The right one is okay, thankfully. It's just… feels heavy, you know? Like it's full of water or something.
+DOCTOR: Heavy and swollen… Alright. And has this swelling come on gradually, or was it sudden?
+PATIENT: Gradually, I think. It didn't just pop up overnight. It started small, and… it’s been getting bigger. It’s hard to say when exactly, though. Maybe a few weeks? I don’t keep very good track, sorry.
+DOCTOR: A few weeks… Do you notice it getting worse at any particular time of day?
+PATIENT: Hmm… I think it's worse in the evening, maybe? After I’ve been on my feet a lot. I like to walk, you see, but then it gets… puffier. Does that make sense?
+DOCTOR: Yes, alright. And do you have any pain with the swelling?
+PATIENT: No, not really pain. It's more like… a dull ache sometimes, if I press on it. But not sharp, or anything. Mostly just… uncomfortable. Like wearing a tight shoe all day.
+DOCTOR: Alright. Have you noticed any changes in the skin?
+PATIENT: Changes in the skin? Like… color? No, I don't think so. It looks… normal. Maybe a little dry, but that’s just me, I always have dry skin. I put lotion on it, though.
+DOCTOR: Any redness, sores, or warmth to the touch?
+PATIENT: No, no redness. No sores, thankfully. And it doesn’t feel… warm. Just… swollen and a bit heavy, like I said. I really just want to know why it’s doing this, you know? Is it the cancer coming back? Oh dear.
+DOCTOR: It’s unlikely to be the cancer returning immediately, though further investigation is warranted. Let's have a look at the leg, shall we?
+PATIENT: Oh, okay. Yes, please. That would be… good. I just want to make sure it’s not anything serious.
+DOCTOR: If you could just lie down, please. We’ll start with a visual inspection and then I’ll palpate the leg. Please let me know if anything is uncomfortable.
+PATIENT: Okay, yes. Just tell me if you see anything… strange.
+DOCTOR: Alright. There’s definite edema present, as you’ve described. No visible skin breakdown or warmth to the touch. Capillary refill is… normal. Can you flex your foot?
+PATIENT: Oh, yes. Ow. Just a little. It’s a bit stiff, you see? It doesn’t bend as easily as it used to.
+DOCTOR: Some tightness in the calf, yes. It could be related. Now, can you tell me if you have any history of blood clots?
+PATIENT: Blood clots? Oh dear, I don't think so. No, the doctor never said anything about blood clots. I had some tests after a fall a few years ago, but they didn't mention anything like that. I don't even know what a blood clot feels like!
+DOCTOR: Alright. Given your history of radiation therapy, edema, and calf tightness, and to rule out a Deep Vein Thrombosis, I'm going to order a Doppler ultrasound of your left leg. It's a non-invasive test. Would you be able to schedule that at the radiology department today?
+PATIENT: A… Doppler what-now? Oh dear. Is that… painful? And radiology? That sounds… serious. Will it take long? I was hoping to just get some cream or something.
+DOCTOR: It’s not painful, Ms. Queener. It’s just an ultrasound. It takes about thirty minutes. And it’s necessary to rule out a blood clot, which is serious. We need to be thorough. I’ll have the scheduler contact you directly to arrange an appointment. In the meantime, elevate your leg whenever possible and I’m going to prescribe you a compression stocking. Do you have any allergies to latex?
+PATIENT: Oh, okay. Thirty minutes… that’s not too bad, I suppose. No, no latex allergies. Just… worried, you know? A blood clot sounds… scary. Compression stocking? What does that do?
+DOCTOR: A compression stocking helps to reduce swelling by improving blood flow. It’s quite simple. We'll get you fitted for one at the medical supply store. I’ll write you a prescription. Now, is there anything else I can assist you with today, or shall we conclude?
+PATIENT: No, I think that's all. Just… get the swelling down, please. And thank you, Doctor. I appreciate you looking at it.
+DOCTOR: Alright. The prescription for the compression stocking is here. And I’ve ordered the Doppler ultrasound. If you experience any sudden pain, redness, or warmth in your leg before your ultrasound appointment, go to the emergency room immediately. Do you understand?
+PATIENT: Yes, yes, I understand. Sudden pain, redness… emergency room. Okay. Thank you again, Doctor. I’ll go schedule that… ultrasound thing.
+DOCTOR: Very well. Have a good day, Ms. Queener.
+PATIENT: Okay, you too, Doctor. .

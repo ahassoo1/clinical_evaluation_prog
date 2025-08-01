@@ -1,0 +1,32 @@
+DOCTOR: Alright, Ms. Queener. Good to meet you. So, what brings you in today?
+PATIENT: Oh, hello Doctor. It's... well, my leg. It's been swelling up. After the… the treatments. You know, for the cancer. It's just… puffy. And a little uncomfortable.
+DOCTOR: "Treatments," right. Cancer treatments. Look, Ms. Queener, a little swelling after something like that is common. But "uncomfortable" isn't very specific. When did you first notice this swelling?
+PATIENT: Hmm… let me think. It started, oh, maybe… a week ago? A little more than a week, I think. It wasn't bad at first, just felt a bit tight. But it's gotten bigger since then. It’s mostly in my left leg, just below the knee.
+DOCTOR: A week. Okay. And you said below the knee… is it all the way around the leg, or just on one side?
+PATIENT: Mostly on the inside, I think. Like, the side that faces the other leg. Not… not all the way around. It's hard to explain. And it feels… warm sometimes. Not a fever warm, but… warmer than my other leg.
+DOCTOR: Warm. Right. And are you experiencing any pain with it?
+PATIENT: Not really pain, no. It’s more… achey. Like when you've been standing for too long. Not sharp, just… dull. It’s annoying, mostly. Makes it hard to wear my good shoes.
+DOCTOR: Annoying. Okay. Have you noticed any redness or changes in the skin texture on your leg?
+PATIENT: Hmm… let me see. No, not really redness. The skin… feels normal, I think. Maybe a little… shiny? But that could just be… lotion. I put lotion on my legs every day.
+DOCTOR: Lotions. Right. And what about any numbness or tingling in your foot or toes?
+PATIENT: No, no tingling. Everything feels… normal down there. It's just the swelling. And the ache. I can still walk okay, but I don’t want to walk too much.
+DOCTOR: Alright. Let's take a look. Please, have a seat on the examination table. We'll need to measure the circumference of both legs to get a better idea of what we're dealing with. And I'll want to feel your pulses.
+PATIENT: Oh, okay. That sounds good, Doctor. Pulses? You mean like my heartbeat? I hope everything is alright.
+DOCTOR: No, not your heartbeat. Pulses in your leg. It’s just to check the blood flow. Now, if you could just lie back…and try to relax. We’ll get this done quickly.
+PATIENT: Oh. Pulses in my leg. Okay. I will try to relax. It's just… I don't like hospitals much. Everything feels so… cold.
+DOCTOR: Right. Well, we'll try to be quick. Now, let’s start with your right leg. I’m going to measure around the widest part of your calf. Just stay still, please. Six inches above your ankle. Let me know if this is uncomfortable.
+PATIENT: Okay, okay. Not uncomfortable yet. It feels… strange. I haven’t had anyone measure my legs before.
+DOCTOR: Alright. And now the left. Same spot. Six inches above the ankle.
+PATIENT: Okay. It feels a little tighter on this side, maybe. But it's not… pain. Just a bit more pressure.
+DOCTOR: Alright. As I suspected. There is a difference. Now, let me check your pulses…both legs. Just relax.
+PATIENT: Okay. Pulses again. Is everything okay, Doctor? They feel… a little weak, maybe? On both sides, I mean.
+DOCTOR: "Weak" is a subjective term, Ms. Queener. They are present. Reduced, perhaps, but present. Look, it seems you have some mild edema, likely a consequence of the previous treatments. It's not uncommon. We’ll need to rule out anything more serious. I'm going to order a D-dimer and a venous ultrasound to rule out deep vein thrombosis.
+PATIENT: A… a what? A D-di-mer? And… a venous ultra-sound? What are those? Is it something bad? I don't understand. Is my leg going to be alright?
+DOCTOR: Look, Ms. Queener, a D-dimer is a blood test. It checks for blood clots. A venous ultrasound is an imaging test that looks at the veins in your leg. It’s just standard procedure, alright?
+PATIENT: Oh. A blood test and a picture. To look for clots. Okay. That sounds… scary. Will it hurt? And how long will it take to get the results?
+DOCTOR: The blood test is just a needle prick. Minor discomfort. The ultrasound…well, it's painless. A technician will apply gel to your leg and move a probe around. It takes about 20 minutes. The results should be back within 24-48 hours. Take this to the lab downstairs. And try not to worry. It's likely nothing serious. Just a precaution.
+PATIENT: Okay. A needle and a… gel thing. Twenty-four to forty-eight hours. Alright. Is there anything I should do in the meantime? Like… should I stay off my leg? Or… put ice on it?
+DOCTOR: Elevate your leg when you can. That will help with the swelling. And avoid prolonged standing or sitting. No ice, it’s not necessary. And if the pain worsens, or you develop any redness or fever, go to the emergency room immediately. Do you have any other questions?
+PATIENT: No… I think that’s everything. Elevate it. No ice. And go to the emergency room if it gets worse. Thank you, Doctor.
+DOCTOR: Alright. Well, get that lab work done and we’ll go from there. Have a good day, Ms. Queener. And try not to stress.
+PATIENT: Okay. You too, Doctor. Thank you again.

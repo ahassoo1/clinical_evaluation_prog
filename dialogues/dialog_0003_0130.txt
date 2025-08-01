@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Schwer. I am Dr. Yackey. Please, have a seat. So, what brings you in today?
+PATIENT: Good morning, Doctor. Uh, well… my sister, she got sick. Real sick. And my mother, she… she had some troubles too, with her heart. I just… I want to make sure I’m okay. You know? I don't want the same thing to happen to me.
+DOCTOR: I see. So you’re here for a general check-up, proactively, due to family history?
+PATIENT: Yeah, that’s right. Proactively… is that what you call it? I just… want to be sure. I don't really… feel sick, not right now. But it makes me worry.
+DOCTOR: Alright. Well, let’s get some information down, then. Can you tell me specifically what your mother’s heart troubles were?
+PATIENT: Um… she got real tired, very easy. And her legs… they swelled up. Big time. The doctor said something about… uh… her heart not pumping right. I don't remember the name of it. It was years ago.
+DOCTOR: Congestive heart failure, likely. And your sister?
+PATIENT: Oh, my sister… she had trouble breathing. A lot of coughing. And she lost a lot of weight. The doctors… they said it was something with her lungs. But it spread… everywhere, I think. It was… quick.
+DOCTOR: I see. And how long ago was this with your sister?
+PATIENT: Uh… let me think. She… she passed away about six months ago. February, I think. It was a hard winter.
+DOCTOR: Alright. And what about you, Mr. Schwer?
+PATIENT: Me? Well… I feel okay. Mostly. I get a little tired sometimes, after I work. I’m a salesman, you see. Lots of driving. And sometimes… my ankles feel a little puffy at the end of the day. But I thought that was just from being on my feet so much.
+DOCTOR: Hmm. Any coughing, shortness of breath?
+PATIENT: No, not really. Maybe a little cough sometimes, when the dust is bad. I work with… furniture, mostly. Lots of wood dust. But nothing… bad. I can still walk a good ways, I think.
+DOCTOR: Alright. Do you have any known allergies to medications?
+PATIENT: Um… not that I know of. Never had a bad reaction to anything. I don’t take much medicine. Just… aspirin sometimes, for headaches.
+DOCTOR: And are you currently taking any other medications, even over-the-counter supplements?
+PATIENT: No, sir. Just the aspirin, when I need it. I try to stay healthy, you know? Eat right, get some sleep… well, as much sleep as a salesman can get.
+DOCTOR: Very well. I’m going to need to perform a physical examination now, Mr. Schwer. Please lie down on the examination table. We’ll listen to your heart and lungs, check your blood pressure, and take a look at your ankles.
+PATIENT: Okay. Sounds good. Which way to the table, Doctor?
+DOCTOR: Right over there, Mr. Schwer. If you'll just lie down, we can get started.
+PATIENT: Okay. Is this good? I'm not very flexible, you know.
+DOCTOR: Blood pressure is 140/90. Heart rate is regular, but slightly elevated. Lungs are clear, no wheezing or crackles noted. Now, let me take a look at those ankles. Mild edema present bilaterally, 1+ pitting edema. Nothing concerning, but worth monitoring.
+PATIENT: Okay. That doesn't sound too bad, does it? Is that… bad edema? My sister’s legs… they were much bigger.
+DOCTOR: No, Mr. Schwer, it's not significant. Yours is quite mild. Your sister’s case sounds far more severe. Now, I'm going to order a basic blood panel - a complete blood count and a metabolic panel - just to get a baseline. We’ll also do an EKG to check your heart rhythm.
+PATIENT: Okay. That sounds… thorough. Will those tests tell me if I’m going to get sick like my sister? Or my mother?
+DOCTOR: Mr. Schwer, tests can indicate potential issues, not definitively predict the future. These are preventative measures. I'll have the nurse draw blood now, and we can discuss the results when they come back. The EKG will just take a few minutes. It's about risk assessment, not prophecy.
+PATIENT: Risk assessment… right. Okay. If you say so, Doctor. When… when will I know the results?
+DOCTOR: The lab usually takes about 24 to 48 hours. The nurse will call you with the results. If anything is concerning, we’ll schedule a follow-up appointment. Now, are there any other questions you have for me at this time?
+PATIENT: No… I don’t think so. Just… thank you, Doctor. For checking me over. It makes me feel a little bit better, just knowing.
+DOCTOR: Very well. The nurse will be in shortly to draw your blood and perform the EKG. Have a good day, Mr. Schwer. .
+PATIENT: Okay. Thank you, Doctor.

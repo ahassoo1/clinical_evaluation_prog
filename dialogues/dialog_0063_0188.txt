@@ -1,0 +1,21 @@
+DOCTOR: Good morning, Mr. Secondi. I am Dr. Jules. Now, please, tell me what brings you in today. Try to be concise, if you would. My schedule is… rather full.
+PATIENT: Good morning, Doctor. It’s… my pee. It’s orange. I noticed it yesterday, and again this morning. It looks… like orange juice, but it’s not. I drink water, you know? A lot of water.
+DOCTOR: Orange urine, you say. And you are certain it’s not simply a result of something you consumed?
+PATIENT: No, Doctor. I think so. I eat normal things. Couscous, fish… sometimes tagine. Nothing orange, really. Maybe some carrots, but not a lot. I haven't eaten anything different these last few days. Just the usual.
+DOCTOR: Hmm. And how frequently are you urinating, Mr. Secondi?
+PATIENT: Normal, I think. Not more, not less. Maybe… two, three times a day. Like always. No change there. Is… is it bad? The orange color? My wife, she got worried, that’s why I come.
+DOCTOR: “Worried,” is it?
+PATIENT: Yes, Doctor. She says it could be… something serious. She read on the internet, you know? She always does that. But I don't understand what she says. Something about… the liver? But I feel fine. No pain, no… nothing. Just orange pee.
+DOCTOR: The internet. Yes, well. People seem to diagnose themselves quite readily these days. Still, we should rule things out. Have you noticed any changes in your stool?
+PATIENT: Stool? You mean… my poop? No, Doctor, not really. It's… normal color. Maybe a little hard sometimes, but that's because I don't drink enough water, I think. But color is okay. Like always. Brown.
+DOCTOR: Very well. And any discomfort when urinating?
+PATIENT: No, Doctor. None. It feels… normal. No burning, no pain, nothing like that. Just… orange. It’s just the color, you know? It’s weird. I never seen that before. I drink a lot of water, I tell you. It should be clear.
+DOCTOR: Right. And are you currently taking any medications, Mr. Secondi?
+PATIENT: No, Doctor. Nothing. I don't like taking pills. Just… sometimes I take something for my back, when it hurts. But not now. It’s okay. Just a little cream you rub on. Nothing I swallow.
+DOCTOR: Do you have any family history of liver problems or kidney issues?
+PATIENT: Um… my father, he had problems with his stomach, I think. But I don't know what kind of problems. He died a long time ago. And my mother… she was okay, I think. No problems. I don’t really know much about her family, you know? We didn't talk about that. Is it important?
+DOCTOR: It can be. Alright, Mr. Secondi. Let's have a quick look at a sample of your urine. It will help us to rule out some possibilities. Please step into the other room. I'll be right behind you.
+PATIENT: Okay, Doctor. Okay. Where is the… room? Is it far?
+DOCTOR: Just down the hall, Mr. Secondi. The usual procedure. There are instructions inside. I’ll be here when you return. And try not to make a mess.
+PATIENT: Okay. Thank you, Doctor.
+DOCTOR: Honestly, people. Orange urine... It’s always something.

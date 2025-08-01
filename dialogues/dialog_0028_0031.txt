@@ -1,0 +1,24 @@
+DOCTOR: Right. Nixon Kreckel, age 18. So, what brings you in today?
+PATIENT: Oh, hello. Well, my left leg is… quite swollen. It’s been getting bigger for a few days now, and it’s a bit uncomfortable. I also… the doctor told me a while back I have something with my heart, an irregular beat, is it? Atrial… something. I think that might be connected.
+DOCTOR: Atrial fibrillation, likely. Yes, I see a note here from… Dr. Abernathy, was it?
+PATIENT: Yes, Dr. Abernathy. He's a good doctor. He just… moved away, so I haven’t seen him in a bit. I was hoping you could have a look at my leg, and maybe… see if the heart thing is causing it? It’s mostly in my calf, I think. It feels tight, not exactly painful, but… worrying.
+DOCTOR: Right. Well, the leg is the immediate concern. Let’s start there. Any recent injury?
+PATIENT: No, no injury at all. I haven't bumped it or anything. It just… started swelling, slowly. I noticed it after I was walking home from… well, from the library, I think. A few days ago. I haven’t been doing anything different, really. Nothing to explain it.
+DOCTOR: Hmm. And you say it's mostly in the calf?
+PATIENT: Yes, mostly. It’s hard to explain… it’s not all the leg, it’s more… focused there. And it feels warmer than my other leg, if that makes sense? I haven't taken its temperature, but it feels warmer. Does that matter?
+DOCTOR: It could. Let’s have a look. Please, have a seat on the examination table. And try not to move it too much while I examine it. I need to assess the swelling and check for any… abnormalities.
+PATIENT: Oh, alright. Is it alright if I just… lie down? It might be easier. I don’t want to make it worse, if that’s possible.
+DOCTOR: Fine. Lie down, then. But keep it as still as possible. Now, tell me, is there any pain when I press here?
+PATIENT: Oh, um… yes, actually. A little. It’s not sharp pain, more… a dull ache. It’s… uncomfortable, I suppose. Not awful, but I can definitely feel it when you press. Is that… bad?
+DOCTOR: Pulses are… present, but diminished. And the swelling is quite localized, as you said. Skin temperature is indeed elevated. Have you noticed any skin changes?
+PATIENT: Skin changes? Oh… um. I hadn't really thought about it. Let me see… It looks… a little red, maybe? But I have fair skin, so it’s hard to tell. Not any blisters or anything. Just… a bit redder than usual, I think. Should I be worried? I don’t want to be a bother.
+DOCTOR: “Bother”?
+PATIENT: Oh! No, I didn't mean… I just… I don’t want to take up your time. I know you see lots of people. It’s just… I get nervous at doctors, and I’m probably not explaining things very well. Sorry.
+DOCTOR: Focus, please. Redness is a concern. Given the diminished pulses and localized swelling, we need to rule out a deep vein thrombosis. I'm going to order a Doppler ultrasound of your leg. Do you understand?
+PATIENT: A… Doppler what-now? I’m sorry. I don’t really understand. Is that a… a scan? Will it hurt? And what's a deep vein… thrombosis? Is that serious?
+DOCTOR: A thrombosis is a blood clot. A deep vein thrombosis means a blood clot in a deep vein, usually in your leg. It can be serious, yes. The ultrasound is a scan, a non-invasive test. No, it won’t hurt. It just uses sound waves to look at the blood flow in your veins. It’s to see if there’s a clot. It’s standard procedure. We will get the results back relatively quickly. Do you have any allergies to contrast dye?
+PATIENT: Contrast dye? No, I don't think so. I've never had a scan before. So… it won’t involve any injections or anything? I’m just a bit… worried about all this. A blood clot sounds… scary. Is it possible it’s just… my heart thing making my leg swell? Is there anything else it could be?
+DOCTOR: It could be related to your atrial fibrillation, but we need to rule out a DVT first. It’s the most pressing concern. I’ll have the nurse schedule the ultrasound for this afternoon. Until then… try to keep weight off your leg. And if you experience any chest pain, shortness of breath, or severe pain in your leg, go to the nearest emergency room immediately. Understand?
+PATIENT: Yes, I understand. Chest pain, shortness of breath, or worse leg pain… go to the emergency room. Right. Okay. Thank you… I think. Will the nurse tell me where to go for the… the scan? I just… I hope it’s not too serious. Is there anything I should wear for it? Or bring with me?
+DOCTOR: The nurse will provide you with detailed instructions. Wear loose-fitting clothing. And try to remain calm. It’s likely nothing, but we need to be thorough. I have other patients waiting. The nurse will be with you shortly. .
+PATIENT: Oh. Right. Okay. Thank you. .

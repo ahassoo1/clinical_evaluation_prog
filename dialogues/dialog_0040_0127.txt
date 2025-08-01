@@ -1,0 +1,34 @@
+DOCTOR: Right. Gedalya, is it?
+PATIENT: Yes, that’s correct. Gedalya Schaust. It’s… good to meet you, Doctor. I appreciate you seeing me.
+DOCTOR: Yes, well, let's not waste time. You’re 25, the chart says. Alright. What brings you in here today?
+PATIENT: Well, it’s… difficult to explain concisely. Over the past few months, I’ve been getting weaker. Just… generally. And my eyelids… they feel heavy, and they’re drooping a bit. It’s starting to make things… hard. I find myself needing to rest more, and even simple things… like lifting things… are becoming a struggle.
+DOCTOR: Weakness, heavy eyelids… Months, you say?
+PATIENT: Yes, roughly. I think it started… maybe around February? It was subtle at first, just feeling a bit more tired than usual. But it’s definitely gotten worse steadily since then. It's not like a sudden thing, more of a gradual decline. I didn't really think much of it at first, thought I was just stressed with work, but now… it's worrying me.
+DOCTOR: Stress, right. Everyone says stress. Have you had any other symptoms?
+PATIENT: Hmm… let me think. No fever, no dizziness. I haven't noticed any… rashes or anything like that. My vision’s been a bit blurry sometimes, but I wear glasses anyway, so I just assumed it was my prescription needing updating. Oh, and… sometimes I have a bit of trouble swallowing, like food gets stuck in my throat, but it doesn't happen often. Is that… relevant?
+DOCTOR: Blurry vision, trouble swallowing… It's all connected, probably. Do you smoke?
+PATIENT: No, never. I don't smoke. I don't drink much either, really. Mostly just a glass of wine with dinner occasionally. I try to eat pretty healthily, though work makes it difficult sometimes. I'm a facilities manager, so I'm often… on the go.
+DOCTOR: Right. Facilities manager. Lots of physical work, I presume?
+PATIENT: Yes, quite a bit. I'm responsible for the upkeep of several buildings – checking systems, minor repairs, things like that. It's not heavy lifting every day, but there’s a lot of bending, reaching, climbing stairs… and I’m on my feet for most of the day. I haven’t cut back on any of it yet, but… it’s becoming harder to keep up. I'm worried I will need to.
+DOCTOR: So, you’re tired and a little weak, possibly overworked. Have you had any blood tests recently?
+PATIENT: No, I haven't. I haven’t really been to a doctor in… well, it's been a while, to be honest. A check-up when I was a student, I suppose, but nothing since. I just… put things off. I’m not really one for doctors unless absolutely necessary, if that makes sense.
+DOCTOR: Right. Well, we'll have to do some, then. Let's start with a basic neurological exam, shall we?
+PATIENT: Yes, of course. That sounds… sensible. Whatever you think is best, Doctor. I’m ready when you are. Should I… lie down? Or…?
+DOCTOR: Just sit for now. Follow my finger with your eyes, don’t blink. Slowly, now.
+PATIENT: Okay, yes, I can do that. Is this… good? Should I go slower? I sometimes have trouble focusing, even with my glasses.
+DOCTOR: Hmm. Okay. Now, grip my hands. Squeeze as hard as you can. Both at the same time.
+PATIENT: Like this? Is that enough? I’m trying, but I don’t want to… overdo it. I don’t want to hurt myself. It feels… a little weaker on this side, actually.
+DOCTOR: Hmm. Weakness on the left side. Not surprising. Now, push against my hands. Both arms, at the same time. I want to see your strength.
+PATIENT: Like this? It’s… harder on this side, like I said. Is that… what you expected? It feels… tiring, quickly. I’m sorry if I’m not very good at this.
+DOCTOR: Right. Asymmetry. Predictable. Now, stand up and walk a few steps. Slowly.
+PATIENT: Like this? It feels… a bit awkward. I think I’m slightly favoring my right leg. I’m not usually this clumsy, I promise.
+DOCTOR: Hmm. Gait is… abnormal. Weakness, asymmetry. It’s… something, certainly. Now, I’m going to check your reflexes. Please sit back down.
+PATIENT: Okay. Yes, I can do that. What exactly does that involve, if you don’t mind me asking? I’m not usually very good with medical things, and I don’t want to… get in the way.
+DOCTOR: It’s simple. I’ll tap your knee with this. It’ll make your leg kick. Don't overthink it.
+PATIENT: Okay… I understand. Just… a tap on the knee? Right. I'm ready when you are, Doctor. Just… try not to hit too hard, if you wouldn't mind. I bruise easily.
+DOCTOR: Hmm. Diminished reflex. And… diminished on this side as well. Now, let's have a look at your throat. Open wide.
+PATIENT: Okay. Like this? Is there anything specific you're looking for, Doctor? It feels… a little strange having someone look at my throat. I hope I don't have anything contagious.
+DOCTOR: Throat looks… normal. Alright. I think we have enough for now. It's… something neurological, I'd say. We'll need some imaging – an MRI, most likely. And some blood work, to rule out anything else. But it's likely a nerve issue.
+PATIENT: An MRI… that sounds… serious. A nerve issue? Is it… something I should be very worried about? I mean, what could it be? Is it something treatable? I’m not very good with medical jargon, so if you could explain it in… simpler terms, that would be greatly appreciated. I understand you’re busy, but any information you could provide would be… reassuring.
+DOCTOR: Look, it could be something serious. It could be nothing. An MRI will tell us more. As for "simpler terms," it means something is pressing on a nerve. Could be a tumor, could be inflammation, could be a compressed disc. Likely treatable, if we catch it early. The blood work will rule out other things. Now, I’m writing a referral to the neurologist. He'll order the MRI and explain the results. Don't self-diagnose on the internet. It won't help. Here. Take this to Dr. Anya Sharma. She's good. Now, if you'll excuse me, I have other patients.
+PATIENT: Right. Dr. Anya Sharma… I understand. Thank you, Doctor. I… appreciate your time. And your… honesty. .

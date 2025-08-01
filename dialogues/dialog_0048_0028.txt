@@ -1,0 +1,22 @@
+DOCTOR: Right. Nadene Sadhu, 89 years old. So, what brings you in today?
+PATIENT: Oh, hello Doctor Sink. It's this cough. It just won't go away. It started a few weeks back, and it's…well, it’s tiring. Especially when I’m trying to cook. Makes it hard to catch my breath sometimes, too.
+DOCTOR: A few weeks, you say. And it’s interfering with cooking…Right. Any fever, chills, or night sweats accompanying this cough?
+PATIENT: No, no fever, chills, or anything like that. Just the cough. And the tiredness. I sleep alright, though. It’s more like… a heaviness in my chest when I cough. And sometimes when I lay down flat.
+DOCTOR: Heaviness in the chest, worse when lying flat. Hmm. Have you noticed any…discoloration of the mucus you're coughing up?
+PATIENT: Oh, goodness. Let me think… yes, sometimes. It’s not always, but sometimes it's a little… frothy. And a pale yellow color. Not bright, but definitely not clear. Does that make sense? I'm sorry, I'm not good with… describing things like that.
+DOCTOR: Pale yellow, frothy mucus. Alright. And have you had any shortness of breath at rest?
+PATIENT: At rest… hmm. Not really short of breath, but it feels like I don’t get a full breath sometimes. Like there’s something…heavy on my chest. And that makes me breathe quicker to try and get enough air. Is that what you mean? I do have a bit of trouble walking across the room sometimes, but I figured that was just getting old.
+DOCTOR: Okay. And how about any swelling in your ankles or feet?
+PATIENT: Oh! Yes, Doctor. Now that you mention it… my feet have been a bit puffy lately. Not terribly, but I’ve noticed my shoes feel a little tighter than usual. And if I press on them, it leaves a little dent. Does that…matter?
+DOCTOR: It could. Alright. Now, have you had a chest x-ray recently?
+PATIENT: Oh dear. Let me think… I had one… must have been, oh, two years ago? When I had that bad cold. Dr. Ramirez ordered it then. But I don't recall having one since. I keep all my papers at home, I suppose I could look it up, but… it's a bit of a bother.
+DOCTOR: Two years is…quite a while. Alright, well, we’re going to need to get one done today, just to be sure. I'm going to listen to your lungs now. Please take a few deep breaths for me.
+PATIENT: Alright, that’s fine. A chest x-ray is fine. I trust your judgement, Doctor. Just let me know if I need to do anything different.
+DOCTOR: Okay. I’m hearing some crackles in your lower lungs, bilaterally. And your heart sounds a bit… distant. Given your age, the cough, the frothy mucus, the swelling in your feet, and what I’m hearing, it’s looking like possible congestive heart failure. But we need that x-ray to confirm. I'm going to order that now, and we'll also do a quick EKG to get a better look at your heart rhythm.
+PATIENT: Congestive… heart failure? Oh dear. That doesn’t sound good. I… I knew something wasn’t right, but… I haven’t been feeling myself lately. The doctor at the clinic said my heart was a little weak a while back, but I thought it was just old age. What does this mean, Doctor? Will I… will I have to stay in the hospital?
+DOCTOR: Let's not jump to conclusions. It could be something else entirely. The x-ray and EKG will give us a clearer picture. If it is congestive heart failure, it’s often manageable with medication. Whether or not you need to be hospitalized depends on the severity, but we’ll discuss that after we have the results. Right now, let's just focus on getting those tests done. The nurse will take you to radiology for the x-ray, and then we’ll do the EKG right here. Do you have any allergies to medications, or are you currently taking anything?
+PATIENT: No allergies, thank goodness. And let me see… I take a small pill for my blood pressure, lisinopril, I think it’s called. And sometimes a pain reliever for my knees, ibuprofen, when they're really bothering me. That's it. Just those two. Oh, and a vitamin D supplement, the doctor said I wasn't getting enough sunshine.
+DOCTOR: Lisinopril, ibuprofen, vitamin D… alright. The nurse will be in shortly to take you for the x-ray. We'll review the results as soon as they're available. In the meantime, try to take it easy. Do you have any questions for me before we proceed?
+PATIENT: No, I think I’m alright for now. Just a little… worried, I suppose. But if you think the tests will help, then that’s good. Thank you, Doctor. And please, don’t rush on my account. I understand you're busy.
+DOCTOR: Very well. The nurse will be with you shortly. .
+PATIENT: .

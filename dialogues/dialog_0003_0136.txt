@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Fogelstrom. I’m Dr. Yackey. Please, have a seat. So, what brings you in today?
+PATIENT: Good morning, Doctor. Thank you. It’s… my stomach. I keep… belching. A lot. It’s embarrassing, really.
+DOCTOR: Belching, you say. And for how long has this been occurring?
+PATIENT: Hmm… maybe a week? A little more than a week, I think. It started… after I ate some very spicy food with friends. But it hasn't stopped, even after a few days. I thought it would go away.
+DOCTOR: Spicy food, you say. And is this belching constant, or does it come and go?
+PATIENT: It comes and goes. Not always belching, but… often. Especially after I eat. Even if it’s not spicy food! Like… after lunch, or dinner. Sometimes even with just a little bit of water. It doesn’t hurt, just… loud. And makes me feel… full, even when I’m not.
+DOCTOR: Alright. And have you noticed any other symptoms accompanying this… frequent belching?
+PATIENT: Other symptoms? Let me see… I have been a little tired, maybe. But I work long hours… so, that’s not new. Oh! And sometimes my stomach feels a little… bubbly? Like there are little bubbles moving around in there. But it doesn’t hurt. Just… feels strange. Is that important?
+DOCTOR: "Bubbly," you say. Right. Any nausea?
+PATIENT: Nausea? You mean… like wanting to… throw up? No, no throwing up. And I don't feel… sick to my stomach, not really. Just… uncomfortable. Like there's too much air inside. Is that what you mean by nausea?
+DOCTOR: No nausea. And have you experienced any changes in your bowel habits?
+PATIENT: Bowel… habits? I… I don’t really understand what you are asking, Doctor. Are you asking if I… go to the bathroom normally? I… yes, everything is normal there. Sorry. Is that okay to talk about? It’s a little… personal.
+DOCTOR: It’s necessary information, Ms. Fogelstrom. Just trying to rule things out. Alright. Let's move on. Any family history of gastrointestinal issues?
+PATIENT: Gastro… what? Oh, stomach problems? My grandmother, on my mother's side, she used to get… bad heartburn, I think. Very often. But… that's all I can remember. No one else that I know of had trouble with their stomach. Is that what you mean?
+DOCTOR: Alright. And what about your diet generally?
+PATIENT: I eat… normal things, I think. I work at the factory, so I bring a lunchbox. Sandwiches, fruit, sometimes soup. We eat rice and beans a lot at home. And… sometimes pizza, or burgers, when I have time. Nothing too fancy. I drink soda sometimes, but I’m trying not to. Is that important?
+DOCTOR: Soda. Yes. Alright. Let's do a quick examination. Please lie down on the table. I’m going to listen to your abdomen.
+PATIENT: Okay. Is it going to hurt, Doctor? I don't like when things hurt.
+DOCTOR: No, it shouldn't hurt. Just listen for sounds. Bowel sounds are present, slightly hyperactive. Abdomen is soft to palpation, no tenderness or guarding. No rebound tenderness. No acute findings.
+PATIENT: Okay. So… is everything okay? What does that mean? Hyper… active? I’m getting a little worried now.
+DOCTOR: It suggests some gas is present. It’s likely indigestion, Ms. Fogelstrom. A common issue. We can try an antacid to see if that helps. And I recommend avoiding carbonated beverages, spicy foods, and eating smaller, more frequent meals. If symptoms persist or worsen, you may want to consider a referral to a gastroenterologist.
+PATIENT: Oh. Okay. So, not something serious? Just… too much gas? Anta…cid? I can try that. And no more soda, no more spicy food. It will be hard. But I can try. Do I need a prescription for the antacid, Doctor? Or can I buy it at the store?
+DOCTOR: You can purchase an over-the-counter antacid. Look for one containing calcium carbonate or magnesium hydroxide. I'll document this in your chart. Are there any other concerns I can address today, Ms. Fogelstrom?
+PATIENT: No, I think that’s everything. Thank you, Doctor Yackey. You were very helpful. I hope the antacid works. And I will try to eat less spicy food… and no soda. Thank you again.
+DOCTOR: Very well. Avoid those triggers. If your symptoms don’t improve, schedule a follow-up, or see a specialist. Have a good day.

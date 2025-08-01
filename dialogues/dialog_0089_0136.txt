@@ -1,0 +1,27 @@
+DOCTOR: Hello Lucia, welcome to the clinic. I’m Dr. Roseburroogh. So, what brings you in today?
+PATIENT: Hi Doctor. Um, it's… the burps. I keep burping. A lot. It's a little embarrassing, but it's been happening for maybe a week now?
+DOCTOR: Okay, a week of frequent burping. That can be annoying. Can you tell me a bit more about them?
+PATIENT: Well… they just happen. Not always after I eat, sometimes it's… just when I’m standing, or walking. They don’t hurt, just… come out. I try to be polite, but it's hard.
+DOCTOR: Alright. And are they related to anything specific you’ve eaten, or any particular time of day?
+PATIENT: Hmm… I don’t think so. I eat… normal Cuban food, you know? Rice, beans, chicken. Sometimes pork. I haven’t changed what I eat, not really. And it happens all day. Not worse at night, or after breakfast. Just… random. I don't know if that helps.
+DOCTOR: Okay, random burping, all day, no obvious connection to food. And how about other symptoms?
+PATIENT: Other… symptoms? Like what kind? I feel okay, mostly. No stomach pain, or… anything feeling stuck. Not sick, not throwing up. Just the burps! Maybe a little tired, but I always am a little tired.
+DOCTOR: Alright. No pain, no nausea, no vomiting. Just the burping and a bit of fatigue. Okay. Have you noticed any bloating, or changes in your bowel movements – diarrhea, constipation, anything like that?
+PATIENT: Bloating… sometimes, yes. My belly feels… puffy, after I eat, maybe. Not always, though. And… no, nothing different with… going to the bathroom. Everything is normal there. I don’t really want to talk about that too much.
+DOCTOR: Okay, no problem at all. We don’t have to talk about anything you’re uncomfortable with. Just trying to get a full picture. Now, let's talk about medical history. Do you have any existing medical conditions?
+PATIENT: No, not really. I'm usually healthy. I had… the flu once, a long time ago. And… I broke my arm when I was a little girl, but that's it. No diabetes, no… high blood pressure, nothing like that. I haven’t been to the doctor much.
+DOCTOR: Alright, generally healthy, no chronic conditions, just a broken arm in childhood and a case of the flu. And what about any surgeries?
+PATIENT: No surgeries. Never had any. I haven't needed them, thankfully. I'm a little scared of hospitals.
+DOCTOR: Okay, no surgeries. That's good. How about your family?
+PATIENT: My family… my mama, she's okay. She has a little arthritis in her hands, but that’s it. My papa… he passed away a few years ago. He had… problems with his heart. And my sister is healthy too, she lives in Miami. No one else has… burping problems, or anything like that.
+DOCTOR: Okay, family history of some arthritis and your father’s heart condition. Do you have any allergies to medications or foods?
+PATIENT: No allergies. I can eat anything, really. And no problems with medicines, I've taken some pain pills before when I had a headache, but nothing bad happened. I don't like taking pills if I don't need them though.
+DOCTOR: Alright, no known allergies. And are you currently taking any medications at all – prescription, over-the-counter, or even vitamins?
+PATIENT: No, nothing. I don’t really believe in taking a lot of pills. Sometimes a little chamomile tea before bed, but that’s it. Not a medicine, just tea.
+DOCTOR: Okay, no medications. Good. Now, I’m going to do a quick physical exam, just listen to your heart and lungs, and feel your abdomen. Is that okay?
+PATIENT: Yes, that’s okay. Whatever you think is best, Doctor. I hope you can find out what's happening with the burps.
+DOCTOR: Okay, your heart and lungs sound clear. Your abdomen is soft, no tenderness to the touch, and I don’t feel any masses. No distension noted. It doesn't sound like anything major going on physically. Now, considering your symptoms and the lack of any significant findings, it could be something as simple as swallowing excess air – maybe eating too quickly, or drinking carbonated beverages, even chewing gum. But, to be on the safe side, I’d like to order some blood work. Just a basic panel to rule out any underlying issues like gastritis or an H. pylori infection. Would that be alright?
+PATIENT: Okay. Swallowing air… I do drink a lot of soda, sometimes. And I do eat fast when I'm hungry. Blood work… yes, that’s okay. If it makes you feel better, Doctor. Just tell me where to go, and what I have to do.
+DOCTOR: Alright. I'll give you a lab requisition with the tests. The lab is just down the hall, Room 3. They'll draw some blood, and it should take about 15-20 minutes. Please fast for eight hours before the test - that means no food or drinks except water. I’ll have the results back in a few days, and we can discuss them then. In the meantime, try to slow down while eating, and maybe cut back on the soda. If the burping gets worse, or you develop any abdominal pain, nausea, vomiting, or changes in your bowel habits, please call the office immediately. Do you have any questions for me?
+PATIENT: Okay, eight hours no food… I can do that. Room 3, down the hall. Slow down eating, less soda… I will try. No, I don't think so. Thank you, Doctor. I appreciate it. I hope it’s not anything bad.
+DOCTOR: .

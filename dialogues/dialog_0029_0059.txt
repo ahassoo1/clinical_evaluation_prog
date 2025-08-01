@@ -1,0 +1,31 @@
+DOCTOR: Good afternoon, Ms. Swaby. I'm Dr. Chora. Welcome to the clinic. So, what brings you in today?
+PATIENT: Good afternoon, Doctor. Um, well, it’s… my speech, I think. It’s been a bit off lately. Not sure when it started, exactly. It just feels…slurred, sometimes.
+DOCTOR: Okay, slurred speech. And you said “lately”?
+PATIENT: Yes, “lately.” It’s hard to pinpoint, honestly. A few weeks, maybe? It doesn’t happen all the time, which is why I waited to come in. It's just… noticeable when it does. I don't recall anything specific that started it.
+DOCTOR: Alright. A few weeks, intermittent. And you haven't had any injuries to your head or neck recently?
+PATIENT: No, sir. Not that I remember, anyway. I work in construction, so things happen, but nothing major. Just the usual bumps and scrapes, I suppose. Nothing that would…affect my speech, I wouldn’t think.
+DOCTOR: Okay, construction work… that's good to know. Any weakness in your arms or legs?
+PATIENT: Weakness? Hmm… not that I've noticed. I lift things all day, every day. Everything feels… normal, I guess. It’s hard to say if something is weaker if you’re always using it, you know? I don't think so, but I’m not certain.
+DOCTOR: Right, I understand. And have you noticed any difficulty swallowing, or changes in your vision?
+PATIENT: Difficulty swallowing… no, not really. And my vision… it seems fine. I wear glasses, but that’s just my normal eyesight being bad, not anything new. Everything looks pretty clear, as far as I can tell. I had my eyes checked last year, and they said everything was alright then.
+DOCTOR: Okay. And are you experiencing any headaches, dizziness, or any numbness or tingling anywhere?
+PATIENT: Headaches… sometimes. But I get those a lot, just from being on my feet all day. Nothing unusual. Dizziness, no, not really. And no numbness or tingling, no. Sorry, I wish I could be more helpful. Everything just feels… off with my speech, and I can't figure out why.
+DOCTOR: Alright. Let's do a quick neurological exam, if you don’t mind. Just to check a few things. Can you follow my finger with your eyes without moving your head?
+PATIENT: Yes, of course, Doctor. That’s perfectly alright. I can do that. Just let me know if you want me to stop.
+DOCTOR: Okay, good. Now, can you smile for me?
+PATIENT: Like this? Is that alright? I hope I'm doing it right. It feels a bit strange being… examined, if that makes sense.
+DOCTOR: Yes, that’s perfect. And now, can you stick your tongue out?
+PATIENT: Like this, Doctor? It feels a little silly, but… yes, here it is. Is there something wrong? It just feels a bit strange, having someone look at all this.
+DOCTOR: Okay, good. And now, I’m going to check your strength. Can you squeeze my hands as tightly as you can?
+PATIENT: Like this? Is that tight enough? I try to keep my hands strong for work, so hopefully that’s a good test.
+DOCTOR: Okay, good strength there. Now, let's check your reflexes. I'm going to tap on your knees with this little hammer. This might feel a little strange. Left leg… and now, right leg…
+PATIENT: Oh! That was a bit strange. It made my legs jump. Everything feels normal otherwise, though. I hope I’m not doing anything wrong.
+DOCTOR: Okay, reflexes are normal. One last thing, can you say "baseball" for me?
+PATIENT: Baseball. Is that alright? I… I don’t think that was slurred, was it? It’s hard to tell, honestly. I feel like I’m trying to focus on not slurring, and that makes it even harder.
+DOCTOR: Okay. And now can you say "baby hippopotamus"?
+PATIENT: Baby… hippopotamus. That was… harder. It felt a little bit slurred, actually. I… I don’t know if you could tell, but it definitely took more effort. I think that’s all, right? Do you… do you have any idea what’s going on?
+DOCTOR: Okay, thank you for that. I do hear a slight slurring when you say the longer phrase. It’s subtle, but it's there. Based on what you’ve told me and the exam, it’s difficult to pinpoint the cause right away. It could be a number of things – anything from fatigue to a neurological issue. To rule things out, I’d like to order an MRI of the brain. It’ll give us a clearer picture. I also want to check your vitamin B12 levels. Are you okay with that?
+PATIENT: An MRI… and a blood test? Yes, I… I suppose so. If it helps figure out what’s going on, then yes, that’s alright. I just… I don’t like being sick, and not knowing what it is makes me anxious. Is it something serious, Doctor?
+DOCTOR: Okay. It’s good you’re willing to do those tests. And I understand your anxiety. It’s not necessarily something serious, but it's important to rule out anything concerning. We're being proactive. The MRI and blood test will help us get a clearer picture. I'll get the orders sent to the lab and radiology department. They will contact you to schedule the appointments. In the meantime, try to avoid strenuous activity and get plenty of rest. If you experience any new symptoms—like weakness, vision changes, severe headache, or difficulty breathing—go to the emergency room immediately. Do you have any questions for me right now?
+PATIENT: No… I think I understand. Rest and… watch for new symptoms. And they’ll call me to schedule the tests. Thank you, Doctor. I appreciate you taking the time to listen. It's just… unsettling, not knowing. I don’t think I have any other questions right now.
+DOCTOR: Okay. You're very welcome, Ms. Swaby. I understand it's unsettling. We'll get to the bottom of it. I’ll have my nurse give you a handout with information about the symptoms to watch for, and a number to call if you have any concerns. Please don't hesitate to reach out. Get some rest.

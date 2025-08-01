@@ -1,0 +1,39 @@
+DOCTOR: Alright, Ms. Dudney. So, you're here today… what brings you in?
+PATIENT: High blood pressure, like the lady on the phone told you. Honestly, I don't see why I even have to explain it. It’s pretty self-explanatory.
+DOCTOR: Yes, I see a note about elevated blood pressure. But “high blood pressure” is a result, not a reason. We need to figure out why your blood pressure is high, and whether it’s a consistent problem or just a temporary fluctuation. It's important to get the full picture, even if it seems obvious. So, let’s start with when you first found out about it. Did a doctor tell you, or was it a reading at the pharmacy or something?
+PATIENT: A doctor told me. Dr. Abernathy. Back in October, I think. He said I needed to watch it, make some changes. I mostly ignored him, to be honest. I was busy.
+DOCTOR: Okay. And what, specifically, did Dr. Abernathy tell you to do?
+PATIENT: He went on and on about salt, exercise, stress... the usual. It was a lot. I remember him saying I should cut back on processed foods and walk more. He kept talking about my weight too, which was just rude.
+DOCTOR: Right. And have you made any of those changes since seeing Dr. Abernathy?
+PATIENT: A little. I switched to those low-sodium tortillas for a week, but they tasted like cardboard. And I walked around the grocery store instead of taking a cart once. It was… inconvenient. Honestly, my life is already stressful enough without having to worry about every single thing I eat and how many steps I take.
+DOCTOR: Okay. So, it sounds like maintaining those changes was difficult. Let’s talk about that stress for a moment. What’s contributing to it?
+PATIENT: Everything! Work is a mess. My husband doesn't help enough around the house. The kids are… kids. My sister keeps calling me asking for money. It's just… constant. I don't have time to sit around and relax, if that's what you're getting at.
+DOCTOR: I understand. It sounds like you're dealing with a lot. Okay, let's get some baseline information. Have you had any symptoms related to your blood pressure?
+PATIENT: Symptoms? Like what? I get headaches sometimes, but I always get headaches. And I get tired, but who doesn’t? I don’t go around looking for symptoms.
+DOCTOR: Okay. When you say headaches, are they different than your usual headaches?
+PATIENT: No. They’re just… headaches. They feel like pressure behind my eyes, mostly. Sometimes on the side of my head. They come and go. I take ibuprofen. It usually works.
+DOCTOR: Alright. And any vision changes, like blurry vision, spots, or double vision?
+PATIENT: No. My eyesight's fine. I had LASIK, remember? Several years ago. It's not like it's going to suddenly get worse because my blood pressure is a little high.
+DOCTOR: Okay. And what about chest pain, shortness of breath, or swelling in your ankles or feet?
+PATIENT: No. Look, are we getting anywhere with this? I told you I have high blood pressure. What do you need me to do? I have things to do.
+DOCTOR: Ms. Dudney, I understand you're frustrated, but simply knowing you have high blood pressure isn't enough to determine the best course of treatment. We need to rule out any underlying causes and assess your overall health. Let’s do a quick physical exam. I’ll listen to your heart and lungs, check your pulse, and take your blood pressure again. Then we can talk about some possible next steps. Does that sound okay?
+PATIENT: Fine. Just get it over with. But don’t expect me to change my whole life based on a few numbers.
+DOCTOR: Alright. Please sit back and relax. Your blood pressure is 148/92. Pulse is 82 and regular. Heart sounds are normal, lungs are clear. I'm going to palpate your abdomen now. No tenderness or masses. Now, let’s check your reflexes. Reflexes are normal. Do you have any allergies to medications?
+PATIENT: No. None. I'm pretty careful about what I put into my body.
+DOCTOR: Okay. And are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: Just ibuprofen when I need it. And sometimes a little melatonin if I can’t sleep. That’s it. Really.
+DOCTOR: Okay. Now, let's talk about your family history. Does anyone in your family have high blood pressure, heart disease, stroke, or kidney problems?
+PATIENT: My grandmother had something with her heart, I think. But she smoked like a chimney and drank a lot of coffee, so who knows. My dad’s side… I don’t really know. We don’t talk about it.
+DOCTOR: Alright. And finally, could you tell me a little bit about your lifestyle?
+PATIENT: What does that even mean? I work. I come home. I take care of my family. It’s not glamorous.
+DOCTOR: Okay. Can you estimate how much physical activity you get in a typical week?
+PATIENT: Like I said, I walk around the grocery store sometimes. And I chase the kids a little. Does that count? Look, I don’t sit on the couch all day, if that’s what you’re asking.
+DOCTOR: Okay. And what about your diet?
+PATIENT: I eat. We eat pretty normal stuff. Burgers, chicken, tacos… nothing fancy. My husband does most of the cooking.
+DOCTOR: Alright, Ms. Dudney. Based on what you’ve told me, and your blood pressure reading, it seems you have elevated blood pressure. Given your family history is unclear and you haven’t made significant lifestyle changes, I recommend further testing to rule out any underlying causes. This would include a blood test to check your kidney function, electrolytes, and cholesterol levels, and an EKG to assess your heart rhythm. Would you be willing to schedule those tests?
+PATIENT: Ugh. More tests? Fine. Whatever. Just get it done so I can go.
+DOCTOR: Alright. I'm ordering those tests for you now. They can be done at the lab across the street. You don't need an appointment. I'll also print out a requisition form for you, and a list of instructions. In the meantime, I recommend trying to reduce your stress levels as much as possible, and limiting your caffeine intake. I know it's easier said than done, but even small changes can make a difference. We'll schedule a follow-up appointment to discuss the results once they are available. Does that sound good?
+PATIENT: Whatever. Just give me the papers. I need to go.
+DOCTOR: Here you are. The lab will send the results directly to the clinic. We’ll be in touch to schedule a follow-up. Is there anything else I can help you with today?
+PATIENT: No. That’s all. Finally. .
+DOCTOR: .

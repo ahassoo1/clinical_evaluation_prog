@@ -1,0 +1,27 @@
+DOCTOR: Good afternoon, Ms. Sladen. I am Dr. Jules. Now, please, tell me, what brings you in today?
+PATIENT: Oh, hi Dr. Jules. Well, it's my blood pressure. It's been a bit high lately, and my regular doctor – he wanted me to get it checked out, just to be sure.
+DOCTOR: "A bit high," you say. Vague descriptions are…unhelpful. Can you quantify that for me?
+PATIENT: Oh, sorry! I didn't mean to be vague. It was around 140 over 90 last time I checked at the pharmacy, maybe a week ago. That's what the pharmacist said was a little high, anyway. I don't really remember the exact number, but it was definitely over 140 for the top one. I don't check it that often, usually.
+DOCTOR: Right. And have you been experiencing any symptoms with this elevated reading?
+PATIENT: Symptoms? Hmm... not really. I mean, I get headaches sometimes, but I always get headaches. They’re just…normal for me, I guess. Nothing worse than usual. No dizziness or anything like that. I feel pretty okay, to be honest. Maybe a little tired sometimes, but who isn’t these days?
+DOCTOR: Headaches…of course. Now, let's move on. Do you have any other medical conditions that I should be aware of?
+PATIENT: Not really. Just the usual aches and pains that come with getting older, I suppose. No diabetes or heart problems or anything like that. I had the flu really bad a couple years back, but I recovered from that. Oh! And I had a bad sprain in my ankle a long time ago, but that's all healed up now.
+DOCTOR: "A long time ago" is… not specific. Any surgeries, Ms. Sladen?
+PATIENT: Oh, goodness, you're right! Sorry. It was... maybe ten years ago, I broke my ankle playing volleyball. They had to put a pin in it. Just the one surgery, though. That’s it, I promise. I don't like hospitals, so I try to stay away from them!
+DOCTOR: Very well. And what about your family?
+PATIENT: My family… Hmm. My mom had high blood pressure too, when she got older. And my dad… he had heart problems. He passed away a few years back from a heart attack. My brother’s okay, as far as I know. We don’t talk that often, though.
+DOCTOR: I see. Any medications you're currently taking, Ms. Sladen?
+PATIENT: No, not really. Just a little vitamin D in the winter, when it’s really dark. Nothing regular, nothing prescribed. I try to stay away from pills if I can help it. I prefer to just try and eat healthy and get some exercise, you know?
+DOCTOR: Very well. Now, let’s get some basic measurements. Please step onto the scale for me.
+PATIENT: Okay, sure. Hope I’m not too heavy this morning! I had a bit of a sweet tooth yesterday.
+DOCTOR: One hundred and thirty-two pounds. Height, five foot one inch, correct?
+PATIENT: Yes, that's right. Five foot one. Always been a little short, unfortunately. But I make up for it in personality!
+DOCTOR: Adequate. Now, let's take your blood pressure and listen to your heart. Please extend your arm.
+PATIENT: Okay. Just let me know if it feels tight, alright? I don't like feeling squeezed.
+DOCTOR: One hundred and forty-eight over ninety-two. As expected. Heart sounds…regular, but slightly rapid. I also detect a very faint murmur. Have you been aware of a murmur?
+PATIENT: A murmur? No, never. Nobody's ever said anything about a murmur. What... what does that mean? Is that bad?
+DOCTOR: It can indicate a variety of things. It requires further investigation. Given your family history and current blood pressure, I recommend an echocardiogram and a consultation with a cardiologist. I'll write the referrals now. We must rule out anything serious.
+PATIENT: Oh. Wow. Okay. An echocardiogram… and a cardiologist. That sounds... serious. Is it definitely something I should be worried about? Like, is my heart really bad? I feel fine, mostly.
+DOCTOR: I am not suggesting anything definitive, Ms. Sladen. It is a precautionary measure. We are being thorough. I'll also order a basic metabolic panel and a lipid panel to assess your kidney function and cholesterol levels. Here are the referral forms and lab requisition. Please schedule these appointments as soon as possible. And try to reduce your sodium intake. Do you have any further questions before I conclude the consultation?
+PATIENT: Okay… sodium, right. Less salt. This is a lot. Um… what if I can’t get an appointment with the cardiologist right away? Like, how long is “right away”? And… is there anything else I should be doing besides cutting back on salt? Maybe some exercise or something? I just… I don't want anything bad to be happening.
+DOCTOR: "Right away" is a relative term, Ms. Sladen. Contact the cardiologist's office and explain the urgency. As for exercise… moderate activity is generally beneficial, but I wouldn't begin any strenuous routine until after the echocardiogram and cardiologist's assessment. I’ve addressed your concerns to the best of my ability. Please follow the referrals. If you experience chest pain, shortness of breath, or palpitations, seek immediate medical attention. I have other patients waiting.

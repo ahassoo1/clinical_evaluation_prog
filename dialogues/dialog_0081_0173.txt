@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Ms. Aslan. I'm Dr. Paulino. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, I've just been having these chills, you know? Like, not a fever, but just… cold. It's been going on for a couple of days now.
+DOCTOR: Chills, you say. And no fever that you’ve noticed?
+PATIENT: No, not a fever. I checked a couple of times. Just really shivery, even when it’s warm. It's a bit strange, actually. I thought maybe I was coming down with something, but then… nothing else really happened.
+DOCTOR: Hmm. And is this chilliness constant, or does it come and go?
+PATIENT: It comes and goes, mostly. Like, it’ll happen a few times a day, then be gone for a while. It doesn't seem to be tied to anything specific, which is weird. I mean, I haven't been extra cold or anything. Does that make sense?
+DOCTOR: It's… helpful that it’s intermittent, though admittedly, not particularly informative. Are you experiencing any other symptoms alongside these chills?
+PATIENT: Hmm… let me think. Not really, no. Maybe a little tired, but honestly, who isn't? I haven’t got a cough, no aches, no sore throat… Nothing else that I’ve noticed, anyway. I feel pretty normal other than feeling cold sometimes.
+DOCTOR: And you haven't traveled anywhere recently?
+PATIENT: Nope, haven't been anywhere. Just been working and, you know, hanging around. Staycation this summer, basically. Definitely not been on a plane or anything like that!
+DOCTOR: Alright. Let's get some basic information, then we’ll do a quick physical exam. Do you have any known medical conditions?
+PATIENT: No, not really. Just the usual, I guess? Normal blood pressure, nothing major. I had my appendix out when I was a kid, but that was ages ago. I don’t really go to the doctor unless I have to, if that makes sense.
+DOCTOR: Understandable. Any allergies to medications, food, or anything else?
+PATIENT: No allergies that I know of! I eat everything, pretty much. And I haven't had any reactions to any medicines before, as far as I remember. I’m usually pretty good.
+DOCTOR: And are you currently taking any medications, vitamins, or supplements?
+PATIENT: Just a multivitamin, to be honest. Nothing special. Doctor recommended it a while back, just to be safe. I’m not really big on taking pills if I can avoid it.
+DOCTOR: Right. Well, let’s proceed with a physical examination. If you could just sit up and I'll listen to your heart and lungs, and then I’ll take your temperature and check your lymph nodes. Please, try to relax.
+PATIENT: Okay, sounds good. I’ll try to relax. Just let me know if you need me to do anything.
+DOCTOR: Heart sounds are regular, normal rate. Lungs are clear bilaterally. Lymph nodes are… slightly palpable, but no significant enlargement or tenderness. Your temperature is 98.6 Fahrenheit. It's all rather unremarkable, frankly. I do notice you appear to be… a bit heavier than is optimal for your height. Do you have any concerns about your weight?
+PATIENT: Oh. Um… well, yeah, I guess I have put on a little weight. It's been a stressful year, with the divorce and everything. Comfort eating, I think. It's not something I'm actively trying to change right now, though. It’s just… life, you know?
+DOCTOR: Yes, “life.” I see. While the chills are currently unexplained, and your vitals are within normal parameters, I recommend a complete blood count and a basic metabolic panel to rule out any underlying issues. It’s a precaution, naturally. Do you consent to these blood tests?
+PATIENT: Yeah, that sounds sensible. A precaution is good. Yes, I consent. I'd rather just make sure everything's okay, you know? I’m happy to get it done.
+DOCTOR: Excellent. I’ll have the nurse draw the blood. Once we have the results, we can discuss them further. In the meantime, try to stay hydrated and get adequate rest. If the chills worsen or you develop any new symptoms – fever, fatigue, muscle aches – contact the office immediately. Do you understand?
+PATIENT: Yes, I understand. Stay hydrated, rest, and call if things get worse. Got it. Thank you, Doctor. I appreciate you looking into it.
+DOCTOR: Yes, well. It's my job. The nurse will be in shortly. .
+PATIENT: Okay, thank you again. I’ll wait here. .

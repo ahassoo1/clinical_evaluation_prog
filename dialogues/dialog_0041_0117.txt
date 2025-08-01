@@ -1,0 +1,29 @@
+DOCTOR: Hi Devin, good to meet you. I’m Dr. Polczynski. So, what brings you in to see me today?
+PATIENT: Uh, yeah. Good to meet you too, Doc. It's... this cough. Been coughin' up stuff. Not just regular stuff, either. There’s… red in it. Like, blood. I smoke, so… I figured I should get it checked. Don’t really remember much else about it, to be honest. It’s been goin’ on a while now, I think.
+DOCTOR: Okay, Devin. Coughing up blood is definitely something we want to take seriously, even with a smoking history. It’s good you came in. “A while now” is a bit vague, though. Can you try to remember… has it been weeks, months?
+PATIENT: Weeks, maybe? Hard to say. Time kinda… blurs together. Definitely not just a few days. Longer than that, for sure. I mostly just try not to think about it too much, y'know? Makes it worse.
+DOCTOR: I understand, Devin. It’s natural to want to avoid dwelling on things like this. Okay, weeks… that gives us a starting point. Besides the blood, is there anything else you've noticed with the cough?
+PATIENT: Hmm… let me think. It feels… deep. Like it's comin' from way down in my chest. And sometimes… sometimes I get short of breath just walkin' around. Not always, but it happens. And I get tired easy now, too. Real easy.
+DOCTOR: Okay, so deep cough, shortness of breath, and fatigue. All things we need to explore. Now, have you had any fever, chills, or night sweats along with this?
+PATIENT: Fever... I don't think so. Maybe a little warm sometimes, but nothin' like a real fever. Chills… no, can't say I've had any chills. Night sweats… huh. I have been wakin' up kinda damp a few times, now that you mention it. But I figured it was just the summer heat.
+DOCTOR: Okay, night sweats… good to know. Let's talk about your past medical history for a bit, if you don't mind. Have you ever been diagnosed with anything – like asthma, bronchitis, pneumonia, or anything else?
+PATIENT: Bronchitis… maybe? A long time ago. When I was younger, I think. Doc gave me somethin' for it, but I don’t remember the details. Everything gets kinda…fuzzy. Never had asthma or pneumonia, as far as I know. Just the usual colds, I guess.
+DOCTOR: Alright. Any surgeries, hospital stays?
+PATIENT: Nope. Never been in the hospital. Never had any surgeries. Always been pretty lucky, I guess… until this cough.
+DOCTOR: Okay, that’s helpful. How about your family?
+PATIENT: Family… hmm. My mom, she had… somethin' with her lungs. I don't remember what it was, exactly. She smoked too, for a long time. Passed away a while back. Dad was healthy as a horse, though. Never got sick a day in his life.
+DOCTOR: Okay, family history of lung issues… good to know. Now, do you currently take any medications, or have any allergies to medications?
+PATIENT: Just Medicare… that’s about it. No regular meds. Allergies… nope, don’t think so. Never had a reaction to anything. I'm pretty sure.
+DOCTOR: Alright. Now, a little bit about your lifestyle. Do you still smoke?
+PATIENT: Yeah. I do. Been smokin’ since I was a teenager, I guess. Try to cut back, but… it’s hard. Maybe a pack a day. Sometimes a little more.
+DOCTOR: Okay. And do you drink alcohol?
+PATIENT: Yeah, a little. Not much. Maybe a beer or two a week. Sometimes none at all. Mostly just when I'm watchin' the ball game.
+DOCTOR: Okay. Lastly, anything about your work or living situation that might be relevant?
+PATIENT: Work… I distribute power. Dispatchers, that’s what I do. Mostly sittin’ at a desk. Livin’ situation… just me in a small house. Quiet neighborhood. Not much dust or anything. Pretty normal, I guess. Can we just… get this figured out? I got things to do.
+DOCTOR: Okay, Devin. I understand you’d like to get this figured out, and we will. It sounds like we have a good starting point. Now, I’d like to do a quick physical exam, if that's alright. I'll listen to your lungs, check your heart rate and blood pressure, and feel your lymph nodes. Will that be okay?
+PATIENT: Yeah, sure. Just get it over with. The sooner the better.
+DOCTOR: Okay, Devin. I listened to your lungs and heart, and felt your lymph nodes. Your heart sounds regular, but your breath sounds are a little diminished in the lower parts of your lungs, and I heard some crackles. Your lymph nodes are a little enlarged, which can be a sign of infection or inflammation. Your blood pressure is 140/90, and your pulse is 88. I also noticed you look slightly pale. Given your history of smoking and the blood in your cough, I'm concerned about possible bronchitis, pneumonia, or something more serious. I think we need to get a chest X-ray to get a better look at your lungs. Would that be okay?
+PATIENT: X-ray… alright. If that’s what you think’s best. Just… don't keep me waitin' too long. I don’t like bein’ stuck in hospitals.
+DOCTOR: Okay, I understand. We'll get that ordered right away. The radiology department is just down the hall. I'll also order a complete blood count to check for infection. While we're waiting for the results, I want you to avoid strenuous activity. I’ll have the nurse come in and get you set up for the X-ray. I'll review the results as soon as they come in, and we can discuss the next steps then. Do you have any questions for me right now?
+PATIENT: No. Not really. Just… get it done. I wanna go home.
+DOCTOR: Okay, Devin. I understand. The nurse will be in shortly to take you for the X-ray. We'll do our best to get this figured out quickly for you.

@@ -1,0 +1,24 @@
+DOCTOR: Alright, Mr. Ruocco. Welcome. I'm Dr. Osterholm. So, what brings you in today?
+PATIENT: Oh, hello Doctor. It's… this pain. When I breathe deep, it hurts. It's been… a little while now, I think. Hard to say exactly how long, you know? My memory isn’t what it used to be.
+DOCTOR: Right, pain with deep breathing. It's… common, at your age. And I understand memory can be tricky. “A little while now” isn’t terribly helpful, unfortunately. Can you try to give me a ballpark?
+PATIENT: Ballpark… hmm. Maybe… a few months? Or was it longer? I did some work, construction, you see. Heavy lifting. Maybe it started then? It’s… dull mostly. Not sharp. And it feels… in my chest, I guess. Not all the time, just when I really take a breath.
+DOCTOR: Construction work… okay. Dull chest pain with deep breaths, a few months duration. Is it worse with any particular activity, besides the deep breathing?
+PATIENT: Well… climbing stairs is hard now, always has been since I got older. But the pain… no, I don’t think it's worse with stairs. It's just… everything gets harder. Coughing makes it a little worse, maybe. Not a bad cough, just… you know, an old man's cough.
+DOCTOR: An old man's cough… right. And do you have any other symptoms along with this pain?
+PATIENT: Other symptoms… let me think. I get tired easier, that’s for sure. And… sometimes my ankles swell up a bit, especially at the end of the day. But… I’ve always had that.
+DOCTOR: Swollen ankles… alright. And when you say “tired easier,” can you elaborate on that?
+PATIENT: Just… worn out, you know? I used to be able to work all day, no problem. Now I need to sit down a lot. Can’t do like I used to. Just getting old, I suppose.
+DOCTOR: Okay. Well, we need to rule a few things out. I’m going to listen to your heart and lungs, and I’d like to check your ankles. Then we'll get a chest X-ray to have a look. Do you have any allergies to medication?
+PATIENT: Allergies… no, not that I know of. I haven't taken much medicine in years, honestly. Just some stuff for… aches and pains. Oh, wait. Something once. A rash. But I don't remember what it was for. Long time ago.
+DOCTOR: Alright, possible allergy, undocumented. Let’s just proceed cautiously then. Okay, if you could sit back, please. I'm going to listen to your breathing now. Please take slow, deep breaths for me.
+PATIENT: Okay, doctor. Slow breaths. Like this? I haven’t been to a doctor in… a long time. It's a bit unsettling, being poked and prodded.
+DOCTOR: Alright. Breathing sounds… a little diminished on both sides, some mild wheezing. Heart sounds… regular rhythm, a slight murmur. Not overly concerning at this stage. Now, let me take a look at those ankles. Could you please extend your legs?
+PATIENT: Okay, doctor. Here they are. Always puff up like that by evening, you know? Doesn’t really bother me, mostly just… ugly.
+DOCTOR: Yes, significant edema. Alright, Mr. Ruocco. Given your history, the chest pain, the swelling, and the diminished breathing sounds, I’d like to order a chest X-ray and some blood work. The blood work will check your kidney function and rule out any infection. The X-ray will help us see what's going on in your lungs. Do you understand?
+PATIENT: X-ray and blood work… Sounds serious. Will it hurt? And how long will it take? I don’t like hospitals… or doctors poking around.
+DOCTOR: The X-ray won't hurt, Mr. Ruocco. You'll just stand still for a few moments while the machine takes a picture. The blood work is just a small needle prick. It will be quick. We can get this all done here in the clinic, you won't have to go to the hospital. It will take a few days to get the results back. We’ll call you as soon as we know something. Does that sound acceptable?
+PATIENT: A few days… that's okay, I suppose. Better than going to the hospital. Quick needle prick… Alright. Let’s get it over with. But you'll call me? Don’t forget. My memory… you know.
+DOCTOR: Absolutely, Mr. Ruocco. We’ll definitely call you. I'll make a note in your chart to remind us specifically. Now, let me have the nurse draw those blood samples, and then we'll get you over to X-ray. It's just routine, okay?
+PATIENT: Routine… alright. Thank you, doctor. I just want to know what’s wrong. Being in the dark is… unsettling.
+DOCTOR: I understand, Mr. Ruocco. We will get to the bottom of it, I promise. I'll be in touch as soon as the results come back, and we can discuss them thoroughly. Just let me call the nurse now to get started.
+PATIENT: Alright. Fine. Let's get it done.

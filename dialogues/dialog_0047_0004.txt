@@ -1,0 +1,22 @@
+DOCTOR: Good morning, Ms. Fornes. I’m Dr. Press. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just here for my shots, like we talked about. Routine stuff, I think? I always forget which ones I need, so figured I’d let you handle it.
+DOCTOR: Routine, yes. Though, it's always best to be certain which ones, isn't it?
+PATIENT: You’re right about that! My memory isn’t what it used to be. I know I’m due for a tetanus booster, I think. And maybe a flu shot soon, even though it’s still August? Honestly, I just want to stay healthy for my grandkids.
+DOCTOR: Well, we’ll have a look at your records. Let's not rely on 'thinking', shall we?
+PATIENT: Oh, okay. Sure, that makes sense. Records are better than my brain right now, that's for sure. I appreciate you keeping track of everything. It's good to know someone is!
+DOCTOR: Right. According to this, your last tetanus booster was… seven years ago. Just over. And you had a flu shot last October. So, we are due for another tetanus booster today. As for the flu shot, we can discuss that closer to the season, though given your… enthusiasm for preventative care, perhaps we should just go ahead and get it done now. It’s never too early.
+PATIENT: Seven years, huh? Time flies. Well, if you think it’s best to do the flu shot now, I trust your judgement. I don’t want to be sick when the grandkids are visiting, that’s for sure. I just… don't really like needles, if we're being honest. But I know it’s important.
+DOCTOR: It is important, Ms. Fornes. And frankly, a little discomfort is a small price to pay for protecting yourself. We'll start with the tetanus booster then. Roll up your sleeve. I’ll try to be quick. Now, have you had any unusual reactions to vaccines in the past?
+PATIENT: No, not really. A little soreness afterwards, like anyone, but nothing bad. Just the usual arm pain. I always feel a bit silly worrying about it, but I guess I'm just not a fan of anything poking me!
+DOCTOR: It's not a matter of silliness, Ms. Fornes, but of being thorough. A little soreness is expected. Just try to relax your arm. There. All done. Now, let’s observe you for a few minutes to ensure there's no immediate reaction.
+PATIENT: Okay… that wasn’t too bad. Thanks for being quick. Feels a little warm already, but that’s probably normal, right? I always get a little nervous. Is there anything I should watch out for after I leave? Like, if it gets really red or swollen?
+DOCTOR: Yes, a little warmth is perfectly normal. Redness and some mild swelling are also expected. If it becomes excessively painful, or if you develop a fever, rash, or difficulty breathing, you’re to go to the nearest emergency room immediately. But frankly, Ms. Fornes, you’re far more likely to be struck by lightning than have a serious reaction to a tetanus booster. Now, about that flu shot…
+PATIENT: Lightning, huh? I guess I’ll take my chances with the shot, then! Okay, let’s do the flu shot. Might as well get it over with. Is it the same kind as last year? I don't remember what kind they gave me.
+DOCTOR: It is a slightly updated version, as they change annually to reflect the most prevalent strains. But fundamentally, it’s the same principle. Now, I must ask: any allergies I should be aware of?
+PATIENT: Nope, no allergies that I know of. I eat pretty much everything. Been lucky so far, I guess! Just… not a fan of shots, that’s all. Go ahead when you’re ready. The quicker the better, in my opinion.
+DOCTOR: Done. That wasn’t so dreadful, was it?
+PATIENT: No… not too bad. Honestly, I think my worrying is worse than the actual shot. Thanks, Doctor. I appreciate you being quick about it. Is there anything special I need to do now? Like, avoid using this arm, or anything?
+DOCTOR: Just gentle use of the arm. Avoid strenuous activity for the rest of the day. And if you develop any unusual symptoms – fever, severe muscle aches, difficulty breathing – contact your primary care physician immediately. But again, Ms. Fornes, I highly doubt that will be necessary. Now, do you have any other concerns, or shall we consider this appointment concluded?
+PATIENT: No, I think that’s everything. Thanks again for taking care of me, Doctor. I really do appreciate it. I guess I'll just head home and try not to think about my arms too much! Have a good day.
+DOCTOR: Very well. Have a good day, Ms. Fornes. And please, try to remember your preventative care schedule next year. It would save us both time.
+PATIENT: .

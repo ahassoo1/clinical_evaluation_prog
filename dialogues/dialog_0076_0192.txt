@@ -1,0 +1,27 @@
+DOCTOR: Right. Mr. Hartness, yes?
+PATIENT: Yeah, that’s me. Delron Hartness. Look, I ain’t got all day, doc. Just need this done so I can get signed up. It's for the army, you know? Gotta get things moving.
+DOCTOR: Yes, yes, the army. Look, I understand you’re pressed for time, but I need to understand what’s going on with you. Just tell me, in your own words, why you’re here today. What’s been bothering you?
+PATIENT: Bothering me? Nothing's bothering me! I told the lady on the phone, it's the exam. The army exam. They want me to get checked out first. Standard stuff, I guess. Healthy as a horse, I am. Always have been. Just need a piece of paper to say so. You know, for the forms. Don't need a whole lot of fuss, really.
+DOCTOR: Right, a pre-employment physical...for the army. Fine. Let's just…get through this, shall we?
+PATIENT: See? That’s all it is. A quick look-see. I work with engines all day, you know? Keep ‘em running smooth. Requires a bit of strength, a bit of…well, everything, really. I’m not some weakling sitting around. So, what do you need to know? Let’s get this over with.
+DOCTOR: Alright, alright. Let's just go through some basic questions, then. Have you had any significant illnesses in the past?
+PATIENT: Significant illnesses? No. Not really. Had the usual childhood stuff, I suppose. Measles, mumps… nothing major. Broke my arm once falling out of a tree when I was a kid. But that healed up fine. Been perfectly healthy ever since. What do you mean by significant? Is this gonna take long?
+DOCTOR: Fine, no major illnesses. Any surgeries?
+PATIENT: Surgeries? Nope. Never had one. I’ve always been careful. Why would I need surgery? I fix things, I don’t need fixing. Look, I'm a practical man, doc. I don't go to doctors unless I absolutely have to. And this isn’t exactly ‘having to’, is it? It’s just a formality.
+DOCTOR: Family history then. Any heart disease, diabetes, cancer in your immediate family?
+PATIENT: Family history… hmm. My dad… he had some trouble with his blood pressure when he got older. Not diabetes, not cancer. He worked hard his whole life, that’s what it was. My mother… she was fine, mostly. Bit of arthritis in her hands, I think. But she lived to be eighty-five, so I don’t know if that counts as…trouble. Is that what you want to know?
+DOCTOR: Alright. And…social history. Do you smoke?
+PATIENT: Smoke? No! Good heavens, no. Never touched a cigarette in my life. Bad for the lungs, you know. I need my lungs. For…well, for everything. Working with engines, you gotta have good lungs. And good everything, really. What’s with all these questions? Are you trying to find something wrong with me?
+DOCTOR: Just standard procedure, Mr. Hartness. Alcohol use?
+PATIENT: Alcohol? A beer now and then, with dinner, maybe. Nothing crazy. A couple on a Saturday, if there's a good football match on. I'm not a drinker, you understand? Not like some of those…well, never mind. Perfectly normal, sensible drinking. Doesn’t affect my work, doesn’t affect anything. Is this all you're gonna ask? This is taking ages.
+DOCTOR: Alright. Any allergies?
+PATIENT: Allergies? Nope. Never had one. I can eat anything, touch anything, breathe anything. Perfectly fine, always have been. Dust doesn't bother me, pollen doesn't bother me... even cats don't bother me. Wait... there was that time I got stung by a wasp when I was a kid, but that's not an allergy, is it? Just a sting. A painful sting. Does that count? Honestly, I don’t understand why this is even important.
+DOCTOR: Alright. And are you currently taking any medications?
+PATIENT: Medications? No! Absolutely not. I don’t need medications. I fix things, remember? I don't get sick. I eat a good diet, get plenty of exercise. That's all I need. Are we almost done here? I have things to do. This army thing isn't going to sign itself up, you know.
+DOCTOR: Right. Well, let’s do a quick physical exam, then. Just to…confirm everything. Blood pressure first. 140 over 90. A little elevated. Not surprising given the…stress.
+PATIENT: Elevated? What's elevated? I feel perfectly fine. Blood pressure, schmood pressure. It's probably just because I'm sitting here answering a million questions. Makes a man anxious, you know? Just get it over with. What’s next? Is it gonna involve needles? I hate needles.
+DOCTOR: Heart sounds…normal, though a little fast. Probably the stress. Lungs clear…for now. Abdomen…soft, non-tender. Overall…you appear to be in…reasonable condition. But your blood pressure is slightly elevated, and your heart rate is a bit fast. We should monitor that.
+PATIENT: Monitor it? Monitor what? I told you, it’s the stress! Sitting here, waiting, answering questions... It'll go down once I get out of here and get back to work. I’m a strong, healthy man. Look, are you gonna give me the paper, or what? I need to get this signed off so I can join the army. This is ridiculous. A little elevated blood pressure and you're making a fuss? I’m perfectly fit for service.
+DOCTOR: Alright, alright. Here. I've documented the slightly elevated blood pressure and recommended follow-up with your primary care physician. This form should be sufficient for the initial stages of your enrollment. I strongly advise you to get that checked out. It's just a precaution. And try to manage your stress levels. Next patient. Honestly, some people…
+PATIENT: Follow-up? Stress levels? Bah. Fine. Whatever. Primary care physician…waste of time. They just tell you to drink more water and get more sleep. Thanks for nothing, doc.
+DOCTOR: .

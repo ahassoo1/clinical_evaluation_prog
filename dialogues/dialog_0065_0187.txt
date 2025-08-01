@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Sobkowic. I’m Dr. Duplichan. So, tell me, what brings you in to see me today?
+PATIENT: Morning. Doctor… Duplichan, yes? Chest… feels funny. Like bird flapping. And… number go up. Blood, I think. Wife say I need come. She worry too much, always.
+DOCTOR: Alright. "Chest feels funny like a bird flapping," and your wife is concerned about some numbers being elevated. Can you elaborate on those numbers, Mr. Sobkowic?
+PATIENT: She say… pressure. High. Always high. Take it at home. Machine say so. I… don't remember the number. Old man, you know. Brain… not so good anymore. But she scared. Always with the scary.
+DOCTOR: I understand. So, your blood pressure has been reading high at home, as measured by your wife. And you’re experiencing this sensation in your chest… can you describe that a little more?
+PATIENT: Like… fish. Not bird. Fish… flopping. Inside. Maybe little fast too. Not… hurt. Just… feel. Annoying. She make big deal, but I feel okay. I eat kimchi, maybe that’s it.
+DOCTOR: Okay. And when did you first start noticing this “fish flopping” sensation?
+PATIENT: Hmm… maybe… week ago? Two week? Not sure. Time… all same now. She ask me every day. “How chest?” “Feel fish?” I say no, she worry more. Very… persistent woman.
+DOCTOR: Right. And has this sensation changed at all over the past week or two?
+PATIENT: No. Same. Sometimes stronger after… spicy food. Kimchi, very spicy. But… okay. I eat it. I like kimchi. She no like. Say bad for heart.
+DOCTOR: I see. Besides the sensation in your chest, have you noticed any other symptoms at all?
+PATIENT: Hmm… maybe… little dizzy? Sometimes. When I stand up fast. Old man problem, you know? Not from… fish. Just… old.
+DOCTOR: Alright, Mr. Sobkowic. To get a better understanding of your overall health, I’m going to ask you a few questions about other parts of your body. Have you had any recent changes in your appetite?
+PATIENT: Appetite? Same. Always hungry. Wife try to stop me from eating too much. Say I get fat. She always say something.
+DOCTOR: Okay. And what about any trouble with your sleep?
+PATIENT: Sleep? Okay. I sleep. Sometimes wake up to pee. Old man problem, again. Not so good bladder. She complain I snore.
+DOCTOR: Alright. Do you have any shortness of breath, or any pain in your legs or feet?
+PATIENT: Short… breath? No. Not really. Walk a little slow, that’s all. Legs… sometimes ache. Old man legs. From… garden. I like garden.
+DOCTOR: Okay. Now, have you noticed any swelling in your ankles or feet?
+PATIENT: Swelling? Hmm… sometimes a little. After long day. Hot day. Wife say I put feet up. She very… bossy.
+DOCTOR: Alright, Mr. Sobkowic. Now I’m going to listen to your heart and lungs, and check your blood pressure. Would you mind if I did a quick physical exam?
+PATIENT: Fine. Hurry up. I got things to do. Garden need weeding.
+DOCTOR: Your blood pressure is quite elevated – 168 over 92. I hear a slight murmur when listening to your heart, which could be normal, but warrants further investigation. And I do notice some mild swelling in your ankles. Now, I’d like to order a few tests to get a better understanding of what's going on. Would you be willing to have a blood test and an EKG done?
+PATIENT: Tests? More tests? Why I need tests? I feel okay. Murmur… everyone old get murmur. And ankles… just ankles. Waste of money, all these tests.
+DOCTOR: Mr. Sobkowic, while you may feel okay, your blood pressure is significantly elevated, which puts you at risk for serious health problems like heart attack and stroke. The murmur I heard and the swelling in your ankles also require investigation. These tests will help us determine the cause of these issues and ensure you receive the appropriate treatment. It's not about wasting money, it’s about proactively protecting your health. Will you allow me to order these tests?
+PATIENT: Fine. Whatever. Do tests. But hurry up. I got tomatoes to pick. And don’t tell my wife. She’ll make a bigger deal. Just… get it over with.
+DOCTOR: Alright. I’ll order the blood test and EKG right away. The nurse will come in shortly to take a sample and do the EKG. We'll get the results as quickly as possible. In the meantime, I’m going to write you a prescription for a low-dose blood pressure medication to start while we await the results.

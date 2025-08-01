@@ -1,0 +1,20 @@
+DOCTOR: Alright, Ms. Boham. So, you’re here today… tell me, what brings you in?
+PATIENT: Oh, hello Doctor… Memmolo, yes? It’s… my sinuses. They been bothering me. A long time now, I think. It's hard to say how long, exactly. Just… not good.
+DOCTOR: “A long time now.” Right. Vague, but alright. And what specifically is “not good”?
+PATIENT: Oh… um. It feels… full. Like there’s something in there. And it hurts… when I bend over, mostly. Not all the time, but when I do. And sometimes, it’s hard to breathe through my nose. I… I don’t know if that makes sense. It’s just… uncomfortable. Very uncomfortable.
+DOCTOR: Uncomfortable is… not a diagnosis, Ms. Boham. Is there any discharge?
+PATIENT: Discharge? Oh… um. Let me think. Sometimes… yes. A little. It’s… clear, I think. Or maybe yellow? It's hard to see, Doctor. I usually just… blow my nose. A lot. Is that… bad?
+DOCTOR: Blowing your nose is a natural function, Ms. Boham. But constant blowing, with colored discharge… we need to be a bit more specific. Yellow discharge usually indicates… well, never mind. How about a fever?
+PATIENT: Fever… oh dear. I don’t think so. Not recently. I… sometimes I feel warm, but I always think that's just from working outside. It gets very hot, you know, with the… the drill. I don’t usually check my temperature. Do I need to?
+DOCTOR: Yes, Ms. Boham, a temperature reading would be… helpful. But let’s start with a basic examination. Please lie down on the examination table. I need to listen to your lungs and check your sinuses. It won’t take long.
+PATIENT: Oh… okay. Yes, of course. The table… right this way? Is it cold? I get cold easily.
+DOCTOR: Just lie down, Ms. Boham. We'll get this over with quickly. Now, breathe deeply. And try to relax.
+PATIENT: Okay… Deeply, you say? Like… this? Is that good? It feels a little strange.
+DOCTOR: Your lungs are clear, thankfully. Sinuses… tender to the touch, as expected. It appears to be a simple sinus infection. Probably viral.
+PATIENT: Oh… a simple infection? That’s… good, right? Viral? What does that mean, exactly? Do I need… medicine? I don't have insurance, Doctor, so… I worry about costs.
+DOCTOR: "Simple" does not necessarily mean pleasant, Ms. Boham. Viral means antibiotics won’t help. We treat the symptoms. Rest, fluids, over-the-counter decongestants… that’s about it. I can recommend a saline nasal spray. It's relatively inexpensive. Don’t expect a miracle. It will likely resolve on its own.
+PATIENT: Oh… I see. Rest and… spray. Okay. Saline spray. I think I can manage that. What if it… gets worse? What if it doesn’t go away? I work outside, Doctor. It’s hard to rest when you have to… work. Is there anything else I can do?
+DOCTOR: If it gets significantly worse—high fever, severe headache, vision changes—go to the emergency room. Immediately. As for “anything else”… Avoid dust, stay hydrated, and try to minimize strenuous activity. Frankly, Ms. Boham, you should be more mindful of your health. I’m writing a recommendation for the saline spray and a note for light duty for one week. That's all I can do at this time. Do you have any other questions?
+PATIENT: Oh… emergency room. Yes, I understand. And… light duty. Thank you, Doctor. No… I don’t think so. Just… thank you for seeing me. It’s… good to know what it is, even if it’s not… good. I appreciate your time.
+DOCTOR: Very well. Next patient. .
+PATIENT: Oh… alright. Goodbye, Doctor. .

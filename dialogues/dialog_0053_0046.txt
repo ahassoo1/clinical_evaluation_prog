@@ -1,0 +1,24 @@
+DOCTOR: Good morning, Ms. Creagh. I’m Dr. Pitmon. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Thank you for seeing me. I’ve been having some… pressure in my bladder, and it’s been bothering me for a little while now. It’s not painful, exactly, just… uncomfortable.
+DOCTOR: Okay, “pressure in the bladder,” not painful, just uncomfortable. And how long exactly is “a little while”?
+PATIENT: Hmm, let me think. It started… around the beginning of June, I believe. So, about two months now. It comes and goes, but it seems to be happening more frequently lately.
+DOCTOR: Two months, increasing frequency… Alright. And can you describe this pressure?
+PATIENT: Well, it feels like I need to go to the bathroom constantly, even when I don’t really need to. It's like a fullness, a heavy feeling, right there… <gestures towards lower abdomen> And sometimes, when I do go, it takes a moment to start. Does that make sense?
+DOCTOR: Yes, that does. Frequent urge, difficulty initiating… I see. And is there any burning or discomfort while you’re urinating?
+PATIENT: No, thankfully not. No burning at all, and no pain while I’m going. It’s just… the urge is strong, and sometimes it feels like it takes a little effort to actually get things going, if that makes sense. It’s not severe, just noticeable.
+DOCTOR: Not severe… Right. And have you noticed any changes in your urine itself?
+PATIENT: No, not that I've seen. The color seems normal, and… well, it smells like it usually does, I suppose. I haven’t noticed anything unusual about it, no. <pauses> I do drink a fair amount of water, so it’s usually pretty clear.
+DOCTOR: Clear urine… That’s… good. Now, have you had any fever, chills, or lower back pain accompanying this?
+PATIENT: No, Doctor, none of those. No fever, no chills, and my back feels perfectly fine. I’ve been feeling generally healthy, other than this bladder issue, of course. <smiles faintly> I’ve been a bit more tired lately, but I assumed that was just from work.
+DOCTOR: Work, yes. Always the work. Alright. Now, let's talk a bit about your medical history. Any previous urinary tract infections, or any other medical conditions I should be aware of?
+PATIENT: No, I’ve never had a urinary tract infection, thankfully. And as far as other medical conditions, I have… well, I was diagnosed with mild high blood pressure a few years ago, but it’s well-controlled with medication. Other than that, I’m pretty healthy. I have Medicare, if that’s relevant. <pauses> I do have a family history of diabetes, on my mother’s side.
+DOCTOR: Diabetes… Right. And are you currently taking any medications for this high blood pressure?
+PATIENT: Yes, I am. I take Lisinopril, 20 milligrams, once a day. And I’ve been taking it regularly, as prescribed. <looks down at hands> I’m very careful about my medications, Doctor. It’s important to me to stay healthy.
+DOCTOR: Of course. And any allergies to medications?
+PATIENT: No, no allergies that I’m aware of. I’ve never had a reaction to any medication, as far as I know. <pauses> My husband always double-checks when I get a new prescription, just to be safe. He’s very cautious.
+DOCTOR: Good. Alright, Ms. Creagh. Let's do a quick physical exam, just to get a better sense of what's going on. I'll need you to lie down on the exam table. We’ll just do a quick abdominal exam and check your reflexes.
+PATIENT: Certainly, Doctor. That sounds perfectly reasonable. <stands up slowly> I’m happy to do whatever you think is best. <walks towards the exam table> Please let me know if there’s anything I need to do to prepare.
+DOCTOR: Just lie flat on your back, and I’ll listen to your abdomen. Relax, and try to breathe normally. <begins palpating the patient's abdomen, making minimal eye contact> I’m just checking for any tenderness or masses… Hmm. Not much to note there. Bladder feels…full, naturally. Now, let's check your reflexes… <tests patient's reflexes with a small hammer> Reflexes are normal. <steps back, looking unimpressed> Everything seems… unremarkable, frankly. Still, we'll run a urine sample, just to be thorough. Could you please provide one for me?
+PATIENT: Yes, of course. That sounds sensible. A urine sample. <nods> I can do that right away. Is there a restroom nearby? And will there be specific instructions, or just a regular sample? <looks around expectantly>
+DOCTOR: Just down the hall, on the left. A regular sample will do. Try to catch the midstream—that’s what the nurse will explain. I'll have the results back within a few hours. After that, we’ll discuss our next steps. <pauses, looking impatient> Try to drink some water while you wait.
+PATIENT: Very well, Doctor. I will go and provide a sample now. Thank you for your time. <hesitates briefly> And I will drink some water as you suggested. <turns and walks towards the door indicated, a slight frown creasing her brow> I hope it’s nothing too serious. <exits the room>

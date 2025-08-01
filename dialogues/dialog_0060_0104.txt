@@ -1,0 +1,17 @@
+DOCTOR: Alright, Ms. Ottaviani. Good to meet you. So, what brings you in to see me today?
+PATIENT: Throat. It hurts. Just…hurts to swallow. I need this over with quickly, if you don't mind. I have things to do.
+DOCTOR: Alright, a sore throat. Understandable. And how long has it been hurting to swallow?
+PATIENT: Oh, goodness. A few days, I suppose. Honestly, I don’t really keep track of things like that. It just…started. And it's not getting better, that's why I’m here. Are we nearly done?
+DOCTOR: Okay. A few days. And is it just painful to swallow, or are you experiencing anything else?
+PATIENT: Just the swallowing. Maybe a little tired, but everyone’s tired these days, aren't they? It's probably just…a bug. I don’t have time for a long examination, Doctor. I really do need to be going. My husband… well, never mind. It’s just my throat.
+DOCTOR: I understand you’re busy, Ms. Ottaviani, but even a simple sore throat can sometimes be a sign of something more. To be sure, I need to ask a few more questions. Have you noticed any fever, chills, cough, or runny nose?
+PATIENT: Fever? No. Chills? No. Cough…sometimes, a little. It's just…dust. I work with machines, you know. Lots of dust. And a runny nose... perhaps. I don't pay attention to these things. Really, Doctor, are you going to look at my throat or just ask questions all day?
+DOCTOR: Alright. I will take a look at your throat. Before I do, have you had any difficulty breathing or any pain in your ears?
+PATIENT: Breathing? No. Ears…no. Honestly, I don’t understand why you need to know all this. It’s my THROAT that hurts, not my ears or my breathing. Is this going to take much longer? I’m really not feeling well enough to sit here all day.
+DOCTOR: Okay. Just a few more quick questions, then I’ll take a look. Any swollen glands in your neck?
+PATIENT: Glands? I don’t know what those are. Are you suggesting I have something…serious? Because I assure you, I don’t. Just a sore throat. This is ridiculous. Can we please just look at it? I need to get home.
+DOCTOR: Alright, Ms. Ottaviani. Let's have a look. Please open wide and say “Ah.” Hmm. Your throat is quite red, and your tonsils are a bit swollen. Do you have any allergies to medications?
+PATIENT: Allergies? No. Never had any. I've taken all sorts of things over the years. Just give me something to make it stop hurting, Doctor. This is a waste of my time. And frankly, I don’t trust these…new medicines. They never work properly.
+DOCTOR: Alright. Based on what you've told me and the examination, it appears you have a viral pharyngitis – a sore throat caused by a virus. Unfortunately, antibiotics won’t help a virus. We focus on managing the symptoms. I recommend rest, plenty of fluids, and over-the-counter pain relievers like ibuprofen or acetaminophen. A lozenge or warm salt water gargle can also help soothe your throat.
+PATIENT: Rest? Fluids? Pain relievers? That's it? I could have figured that out myself! Honestly, Doctor, I don’t think I’ve gotten anything useful out of this whole visit. It's just a waste of time and money. I'm leaving now. Don't bother sending me a bill. I’m quite finished. .
+DOCTOR: Very well, Ms. Ottaviani. I understand your frustration. However, it's important to monitor your symptoms. If you develop a high fever, difficulty breathing, or your symptoms worsen after a few days, please seek medical attention immediately. Here's some information on managing your symptoms at home.

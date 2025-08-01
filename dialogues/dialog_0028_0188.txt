@@ -1,0 +1,35 @@
+DOCTOR: Alright. So, Mr. Secondi, what brings you in today?
+PATIENT: Uh, hi Doctor. It's… my pee. It's orange. I noticed it yesterday, and it’s still like that today. It's a bit… weird.
+DOCTOR: Orange, you say?
+PATIENT: Yes. Not dark orange, you know? More… a bright orange. Like, maybe the color of… a carrot? I don't know. I just… never seen it like that before. Is that bad?
+DOCTOR: Well, it could be something. Let's not jump to conclusions. Have you been taking any new medications or vitamins recently?
+PATIENT: Um… not really. I take a multivitamin, the same one I always do. And sometimes, if my back hurts, I take something from the store, but I haven't taken that for maybe a week. It's… ibuprofen, I think? The white bottle.
+DOCTOR: And how much water do you typically drink in a day?
+PATIENT: Not… a lot. Maybe… six glasses? When I remember. I drink tea with dinner, and coffee in the morning. Is that okay? I should drink more water, I know. My wife tells me all the time.
+DOCTOR: Six glasses isn't ideal. Okay. Any pain or burning when you urinate?
+PATIENT: No, no pain. Nothing like that. Just… the color. It's just strange. And a little… worrying. I don’t have any other problems, you know? No fever or… anything. Just orange pee.
+DOCTOR: Alright. Let's take a look at your chart here…height and weight are noted. Let’s just do a quick exam, alright?
+PATIENT: Okay, sure. What do you want me to do? Is it… a blood test? I don’t like needles.
+DOCTOR: Not immediately. Just a basic physical, alright?
+PATIENT: Okay. Okay, yes. Physical is good. What do you need me to do first? Do I… lie down?
+DOCTOR: Lie down on the table, please. We’ll listen to your heart and lungs first. Then I’ll take a quick look at your abdomen. Just relax.
+PATIENT: Okay. Yes. Relaxing. Trying to relax. Is everything okay so far? I feel… a little nervous, I think.
+DOCTOR: Heart sounds are regular. Lungs are clear. Now, I'm just going to press on your abdomen, alright?
+PATIENT: Okay. Yes. Pressing… it’s okay. Just tell me if it hurts, right? I feel… okay. It doesn't hurt yet. Just a little… firm, maybe. Is that normal?
+DOCTOR: It's within normal limits. Alright. No obvious tenderness. Let's get a urine sample. I'll leave you a cup, and instructions are on the counter. Do not contaminate the sample. It’s important.
+PATIENT: Okay. Urine sample. Yes, I can do that. No… contaminate. I understand. Where is the… the cup? And the… instructions? I'll try to be very careful.
+DOCTOR: In there. On the counter. It's pretty straightforward. Don't touch the inside of the cup, and bring it right back when you're finished. I'll be waiting.
+PATIENT: Okay. Thank you. I’ll… be right back with the sample.
+DOCTOR: Patient reports orange urine. Denies pain. History unclear. Let's see what the sample says.
+PATIENT: Here you go. The… sample. I tried to be very careful. It wasn’t easy. I didn’t… touch anything. I hope it’s okay.
+DOCTOR: Alright. We'll send this off to the lab. It’ll take a few minutes to get results. In the meantime… do you have any allergies?
+PATIENT: Uh, no. Not that I know of. I eat everything. My wife… she makes a lot of different foods. I never had a problem with anything. Maybe… a little heartburn sometimes, after spicy food, but that’s it. No real allergies. Is that important?
+DOCTOR: It's standard procedure. Any current medications besides the multivitamin?
+PATIENT: No. Just the vitamin. Sometimes, like I said, ibuprofen for my back. But not right now. I haven't taken any for over a week, I think. Maybe ten days. Just the vitamin, normally. And tea. And coffee. Does that count?
+DOCTOR: No, tea and coffee don’t count. Alright, the lab results are back. It appears your urine is slightly concentrated, and there's a trace of bilirubin. Which can cause the orange discoloration. Are you experiencing any nausea, vomiting, or abdominal pain?
+PATIENT: Bilirubin? Concentrated? I… don't know what that means. No, no nausea. No vomiting. And like I said, no pain. But… what does that mean? Is it something bad? My wife… she worries a lot. I don't want to worry her.
+DOCTOR: It could indicate a mild issue with your liver or gallbladder. However, it could also be caused by dehydration. Given your low fluid intake, I suspect it's the latter. I'm going to recommend you increase your water intake significantly – at least eight glasses a day – and I’ll prescribe you a liver support supplement, just to be on the safe side. We’ll recheck your levels in a month. If it doesn’t improve, we’ll consider further investigation. Do you have any questions?
+PATIENT: Eight glasses… Okay, I can try that. Liver support supplement? What does that… do? And what kind of… investigation? Like, a scan? I don't like scans. My wife… she had a scan once, and it was… not pleasant. So, if I drink more water, it should go away? Is that what you’re saying?
+DOCTOR: The supplement provides nutrients to support liver function. And yes, if increasing your hydration resolves the issue, then no further action is needed. If it doesn’t, then we’d discuss imaging – a scan, potentially. But let's not get ahead of ourselves. Focus on the water. I’ll have the nurse print out a discharge summary with instructions and the prescription. Any other questions?
+PATIENT: No… I think that’s all. Water. And the supplement. Okay. Thank you, Doctor. I hope it’s just the water. My wife will be happy to hear that. And… I’ll try to drink more.
+DOCTOR: Alright. See you in a month. Try to stay hydrated. The nurse will be with you shortly.

@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Putney. I’m Dr. Sham. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just need to get this life insurance thing done. They sent me over here for a check-up first, I guess. Don't really know much about it, to be honest. Just want to be quick if that's alright?
+DOCTOR: Yes, alright. A pre-insurance physical. I understand wanting to be quick. Let's try to be efficient. So, generally, these check-ups cover a basic assessment of your overall health. Do you have any specific concerns you have, even if they sent you for just the insurance exam?
+PATIENT: Not really, Doctor. I’ve been feeling… okay, I guess. A little tired sometimes, but who isn’t? Nothing major. I mostly just want to get this done so I can get on with things. Is this gonna take long?
+DOCTOR: Alright. "A little tired sometimes…" Can you tell me a bit more about that tiredness?
+PATIENT: Well, it’s not like I can’t get through the day, you know? It’s just… at the end of the day, I’m wiped. More tired than I used to be, maybe. And sometimes, even in the mornings, it takes a bit to really wake up. I work at the hotel, you know? Gotta be up early. It’s just getting harder.
+DOCTOR: Hotel work… that can be demanding. And how long has this been going on – this increased tiredness?
+PATIENT: Oh, geez… I don’t know exactly. Maybe six months? A little longer, maybe? It’s kinda crept up on me, you know? Didn’t really notice it at first. Just figured I was getting older.
+DOCTOR: Okay. Six months… Alright. And have you noticed any other changes along with the tiredness?
+PATIENT: Hmm… let me think. Not really. Maybe I’m a little more… forgetful than I used to be, but honestly, that could just be stress from the divorce. It's been rough, you know? I don’t know what’s normal at my age anymore. Is that part of this exam, figuring out if I’m falling apart?
+DOCTOR: No, Mr. Putney, we’re not trying to determine if you’re “falling apart.” We’re just gathering information. The forgetfulness… is it new?
+PATIENT: Yeah, I think so. Like, I’ll go into a room and forget why I went there. Or I’ll start a task and then… lose my train of thought. Small stuff, mostly. Nothing that’s gotten me in trouble yet. It’s just… annoying, you know? Like I said, the divorce is pretty stressful.
+DOCTOR: I understand. Stress can certainly contribute to those kinds of symptoms. Okay. And besides the tiredness and forgetfulness, any other symptoms?
+PATIENT: No, not that I can think of. No chest pain, no trouble breathing, no… I don’t know, weird rashes or anything. Just tired and forgetful. I eat okay, I guess. Mostly just simple stuff. I try to stay moving at work, but that’s about it. Can we get this over with soon?
+DOCTOR: Alright. Let’s do a quick physical exam, just to get a baseline. I’ll listen to your heart and lungs, check your blood pressure, and take a look at your ears, nose, and throat. Then, I’ll want to order some basic bloodwork to rule out anything obvious. Does that sound alright?
+PATIENT: Yeah, that sounds… alright. As long as it doesn't take too long. I got things to do. Let’s just get it done, Doctor.
+DOCTOR: Alright. If you could just have a seat here, and we'll get started. First, let's take your blood pressure.
+PATIENT: Okay. Just let me know if it’s gonna be cold. I always get cold easily.
+DOCTOR: Alright, just relax your arm for me. And no, it shouldn’t be cold. Blood pressure is 142 over 90. A little elevated. Heart sounds… regular, but a little fast. Lungs are clear. Ears look normal. Throat is clear. Do you have any known allergies, Mr. Putney?
+PATIENT: No, not that I know of. Never had a problem with allergies. I eat everything. I'm Marshallese, you know, we eat a lot of fish. Never had a reaction to anything. Unless you count my ex-wife, but that wasn’t an allergy, that was just… her.
+DOCTOR: Alright, no known allergies. And are you currently taking any medications, prescription or over-the-counter?
+PATIENT: Nope. Nothing. I try to stay away from pills if I can. Always figured they just make you feel worse in the long run. Is this gonna be much longer, Doctor? My back’s starting to bother me.
+DOCTOR: Just a little longer, Mr. Putney. Alright, no medications. Now, before we order the bloodwork, could you tell me a little bit about your family history?
+PATIENT: Ugh, family history. That’s a tough one. My mom… she had high blood pressure, I think. And my dad… he had diabetes, maybe? It was a long time ago, and we didn’t really talk about health much. Mostly just fishing and stuff. Honestly, Doctor, I don’t remember a lot of details. It’s kinda blurry. Is this important? Can we just skip it?
+DOCTOR: Alright, we can skip it for now. We can always revisit it later if needed. Just high blood pressure in your mother and possible diabetes in your father. Now, do you smoke or drink alcohol, Mr. Putney?
+PATIENT: No, never smoked a day in my life. And I haven't had a drink in… oh, geez, probably ten years? After the divorce, mostly. Didn’t really need the extra trouble. Not much of a drinker anyway. So, is this it? Are we finally getting to the bloodwork?
+DOCTOR: Yes, Mr. Putney, finally. I’m going to order a complete blood count, a metabolic panel, and a thyroid stimulating hormone test. It'll give us a good baseline. I’ll have the nurse draw the blood for you now. It shouldn’t take too long. And after that, we can discuss the results when they come back. Does that sound okay?
+PATIENT: Yeah, okay. That sounds… good. As long as the nurse is quick. I really need to get going. Just… try to get it done fast, alright?
+DOCTOR: I'll let the nurse know. And, Mr. Putney, after the results are in, we can discuss a plan to address your tiredness and forgetfulness. If the bloodwork doesn’t reveal a clear cause, we may want to consider some more detailed testing.

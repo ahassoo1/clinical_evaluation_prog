@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Mr. Pipolo. I'm Dr. Press. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just… my eyes. They feel real dry. Been that way a while now, I guess. Not fun.
+DOCTOR: “A while now…” Can you be a bit more specific?
+PATIENT: Hmm… maybe six months? Hard to say exactly. Time kinda… goes. It’s just a scratchy feelin’, mostly. Like there’s sand in ‘em. And they get tired easy. I work outside, you see. Concrete. Lots of dust.
+DOCTOR: Concrete work, alright. And has anything changed in the last six months?
+PATIENT: Changed? Not… really. Same job. Same dust. Maybe hotter this summer than usual. That could be it? I dunno. I just thought I’d get it checked. It’s botherin’ me.
+DOCTOR: Alright. And do you wear glasses currently?
+PATIENT: No, never have. Eyes were always good enough. 'Til now, I guess. Seein' just fine, it's just… comfortable. Not comfortable. You know?
+DOCTOR: I understand. Any other symptoms?
+PATIENT: Not really. Just the dry, scratchy feelin’. And tired. Sometimes kinda blurry, but I blink and it goes away. I don’t… I don’t know what else to tell ya.
+DOCTOR: Alright. Let’s have a quick look. Can you follow my pen with your eyes?
+PATIENT: Sure. Go ahead. Just tell me if it’s too fast. Old eyes, you know.
+DOCTOR: Follow the pen… up and down… good. Now left to right… excellent. Pupils are equal and reactive to light, thankfully. Conjunctiva appears… slightly dry, as you mentioned. I’m going to try a quick Schirmer test to measure your tear production. It's just a little strip of paper I'll place under your lower eyelid for a moment.
+PATIENT: A… a Schirmer test? What's that gonna do? Is it gonna hurt? I don't like things poked at.
+DOCTOR: It's not poking, Mr. Pipolo. It simply measures how much your eyes are producing tears. It won't hurt, I assure you. Just relax. Hmm. Your tear production is… lower than ideal. We’ll need to rule out some other causes, but it sounds like you have dry eye disease.
+PATIENT: Dry eye… disease? Sounds serious. Is that… is that from the dust? And what do I… what do I do about it? Is there a… a medicine for it?
+DOCTOR: It’s a very common condition, Mr. Pipolo, and rarely “serious” in the way you’re thinking. The dust certainly doesn’t help. And yes, there are treatments. We can start with artificial tears – over-the-counter drops. Use them frequently, as needed. I’ll write you a prescription for a slightly more substantial lubricating drop. We should also consider a warm compress twice a day and… and frankly, better eye protection on the job. Goggles, perhaps.
+PATIENT: Goggles? On a concrete job? That’d be… uncomfortable. And those drops, are they expensive? I don’t have insurance, you see. I just wanna get this fixed, not… spend a fortune.
+DOCTOR: There are affordable options, Mr. Pipolo. Generic brands are perfectly adequate. And frankly, if you continue working in such dusty conditions without adequate protection, it will worsen. I’ll write a prescription for the lubricating drops. Try the artificial tears first, and if those don't provide enough relief, we can discuss other, more costly options. Here’s your prescription. Try these for a month, and come back if you don't see any improvement. I also recommend you look into appropriate eye protection for your work.
+PATIENT: Alright. A month. I’ll try ‘em. Thank you, Doctor. Just… try not to make it too expensive. I gotta get back to work.
+DOCTOR: Very well. Just follow the instructions on the prescription, and remember what I said about eye protection. Next!
+PATIENT: Okay. Thank you. I think that’s all I needed. I’ll be seein’ ya.
+DOCTOR: .

@@ -1,0 +1,51 @@
+DOCTOR: Good morning, Ms. Reihner. Welcome to the clinic. I'm Dr. Gegan. It’s nice to meet you. So, what brings you in to see me today?
+PATIENT: Good morning, Doctor. It’s… painful. That is why I am here. I would like to be quick, if possible.
+DOCTOR: I understand you're in pain and would like to be quick – we'll definitely try to be efficient. Can you tell me a little more about the pain?
+PATIENT: It is in my back. Lower back, mostly. It started… well, I suppose about three weeks ago. It is not… a sudden pain. It grew, slowly.
+DOCTOR: Okay, lower back pain that started gradually about three weeks ago. That’s helpful. Can you describe the pain itself?
+PATIENT: It is a… dull ache, most of the time. But sometimes, when I move… or bend… it is sharp. A real sharp pain. It makes me… stop. I work with fences, you see. Lots of bending and lifting.
+DOCTOR: Okay, a dull ache most of the time, with sharp pains when you move or bend. And you work with fences, so there’s a lot of bending and lifting involved. That gives me a better picture. Does anything relieve the pain at all?
+PATIENT: Sitting, sometimes. And… lying flat. But I can’t always be sitting or lying down, Doctor. The fences won’t build themselves.
+DOCTOR: I understand. So sitting and lying flat offer some relief, but it’s not always practical. Have you noticed anything that seems to make the pain worse besides the bending and lifting?
+PATIENT: The cold. When it is cold, it is much, much worse. Damp cold especially. And… standing for too long. That makes it ache again.
+DOCTOR: Okay, cold and damp weather, and standing for long periods seem to aggravate it. Now, have you had any pain like this before?
+PATIENT: No. Not like this. I have had aches, of course. From the work. But this… this is different. Deeper. And it does not go away with resting like the other aches did.
+DOCTOR: Okay, this is a new type of pain for you, deeper and not resolving with rest. Have you experienced any numbness, tingling, or weakness in your legs or feet?
+PATIENT: No, Doctor. No numbness. No tingling. My legs… they feel alright. They are tired, maybe. From the work, always. But not weak. Not numb.
+DOCTOR: Good. And have you noticed any changes in your bowel or bladder habits?
+PATIENT: No. Nothing like that. Everything… normal.
+DOCTOR: Alright. And just to get a more complete picture, could you tell me a little bit about your past medical history?
+PATIENT: Just the usual, Doctor. I have Medicare. I go for check-ups when they tell me to. High blood pressure, a few years back, but they gave me pills, and it’s been alright since. No surgeries. Nothing serious.
+DOCTOR: Okay, so high blood pressure that's managed with medication, and otherwise routine check-ups. Do you have any allergies to medications?
+PATIENT: No, Doctor. No allergies. I can take most anything.
+DOCTOR: And are you currently taking any medications besides the blood pressure medication?
+PATIENT: Just the pills for the blood pressure. One in the morning, one at night. That is all.
+DOCTOR: Alright. And finally, do you have any family history of back problems, arthritis, or anything similar?
+PATIENT: My mother had… trouble with her joints when she got old. Her hands, mostly. She said it was the cold. My father… he worked hard, like me. Always building things. I don’t remember him complaining about his back, but he didn’t complain much about anything.
+DOCTOR: Thank you, Ms. Reihner. That’s very helpful. Now, I’d like to do a quick physical exam to get a better understanding of what’s going on. Is that alright with you?
+PATIENT: Yes. If you think it will be quick.
+DOCTOR: Of course. First, I’m going to have you lie down on your back on the exam table. We’ll start with just some gentle range of motion tests. I’ll be feeling your back to see where it’s most tender and checking your reflexes. Please let me know immediately if anything causes sharp pain.
+PATIENT: Very well. Please be gentle.
+DOCTOR: Okay, Ms. Reihner, just tell me if anything feels particularly sore. I’m starting on the right side here… any tenderness?
+PATIENT: Yes. There. It is sore there. Not… sharp, yet. Just… a dull ache. Like it is bruised.
+DOCTOR: And on the left side?
+PATIENT: It’s… less there. Still achey, but not as bad.
+DOCTOR: And along your spine, any pain when I press here?
+PATIENT: Not… yet. It feels… firm. But no sharp pain.
+DOCTOR: Okay. Now, I’m going to have you gently bend forward, trying to touch your toes. Only go as far as you comfortably can. Let me know if you feel any shooting pain down your legs.
+PATIENT: Ow. There. It… pulls. And a little… a little pain down my right leg. Not shooting, exactly, just… achey. It is hard to bend.
+DOCTOR: Okay, good to know. Now, can you try bending backwards, gently?
+PATIENT: No. I… I can't. It hurts too much. A sharp pain if I try. I will just stay like this.
+DOCTOR: Alright, no need to force anything. That’s helpful information. Now, can you stand up slowly for me?
+PATIENT: Ow. It’s… stiff. And it aches when I stand.
+DOCTOR: Okay. And can you walk for me a few steps?
+PATIENT: It is… hard to move. My right leg feels… tight. And my back… it pulls with each step.
+DOCTOR: Alright, thank you, Ms. Reihner. That’s enough for now. Please lie back down. Based on what you’ve told me and the physical exam, it sounds like you're likely experiencing a muscle strain or sprain in your lower back, possibly aggravated by cold weather and repetitive movements. The pain radiating down your leg suggests some irritation of a nerve, but it doesn’t appear to be severe. To rule out any more serious issues, like a disc problem, I’d like to order an X-ray of your lower back. Would that be alright with you?
+PATIENT: Yes. If it will help. An X-ray is alright. I just want it to be fixed. This is… frustrating.
+DOCTOR: Okay. I'll write the order for the X-ray now. The radiology department will contact you to schedule an appointment. Once we have the results, we can discuss treatment options. In the meantime, I recommend taking over-the-counter pain relievers like ibuprofen or naproxen as directed on the label. Heat packs can also help to soothe your muscles. And try to avoid any strenuous activity that aggravates your pain. Do you have any questions for me at this point?
+PATIENT: No, Doctor. I think… that is all. Just the X-ray, then. And try to not move too much.
+DOCTOR: Okay. I'll have the nurse come in to help you up and provide you with a prescription for a muscle relaxant as well. It may help with the discomfort and muscle spasms. I’ll also provide you with a handout detailing exercises you can do after the pain subsides, to help strengthen your back and prevent future injuries. Please remember, if you experience any new or worsening symptoms, such as numbness, weakness, or loss of bowel or bladder control, please seek immediate medical attention. Do you have any difficulty getting to radiology appointments, or would you like me to connect you with resources to assist with transportation?
+PATIENT: No, Doctor. I can get there. I have… a friend who can help. I do not need any help with transport. Thank you.
+DOCTOR: Alright, Ms. Reihner. I'll let the nurse know you're ready, and she’ll be in shortly to assist you. I hope you feel better soon. Please don't hesitate to call the clinic if you have any questions or concerns.
+PATIENT: Very well, Doctor. Thank you for your time. .
+DOCTOR: .

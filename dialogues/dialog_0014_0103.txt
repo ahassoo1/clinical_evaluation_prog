@@ -1,0 +1,30 @@
+DOCTOR: Alright, Mr. Vankampen. Good to meet you. So, what brings you in today?
+PATIENT: Oh, hello Doctor… Osterholm, right? Yes, yes. It’s my back. Lower back. Been botherin’ me for… well, a while now. It just… aches. All the time, really. Not sharp, just… old. Like it’s tired, you know?
+DOCTOR: “Old,” huh?
+PATIENT: Yes, old! That's a good way to put it. I’m 77, Doctor. Things are old! But it’s been gettin’ worse lately, that's the thing. Makes it hard to… bend over, to garden. I like my garden.
+DOCTOR: Gardening, alright. And when you say “lately,” can you be a little more specific?
+PATIENT: Hmm… let me think. It really started… maybe six months ago? Not bad at first, just a little stiff in the mornings. But the last… two months, it’s been more constant. And a little more… uncomfortable. I had to ask my son to help me with the tomatoes this year. That’s when I knew somethin’ was wrong. I used to do all the heavy lifting myself.
+DOCTOR: Six months… constant for two. Alright. Any pain radiating down your legs?
+PATIENT: No, no pain in the legs. Just… in my back. Right here. It doesn’t shoot down anywhere. It’s just… there. Sometimes it feels… weak, like it’s gonna give out when I stand up too fast.
+DOCTOR: Weakness, okay. And does anything make it better?
+PATIENT: Well… sittin’ helps a little. And lyin’ down, of course. But not for long! I can't just lie in bed all day. That’s no good. A warm bath… that feels nice for a bit. But it doesn’t last. And sometimes, when I move just right… it feels a little better. But it doesn’t stay that way for long either. It’s kinda… unpredictable.
+DOCTOR: Unpredictable. Right. Have you tried anything for it?
+PATIENT: Oh, yes. My ex-wife, she always swore by heat packs. I used one for a while, but it didn't really do much. And I took some of those over-the-counter pain pills… the white ones, I think? But they upset my stomach. So I stopped those pretty quick. I don’t like takin’ pills if I can help it.
+DOCTOR: Heat packs and over-the-counter pills… figures. Alright, let’s have a look at your back. Can you stand up for me, please?
+PATIENT: Yes, yes, of course. Be careful now, I’m not as steady as I used to be.
+DOCTOR: Okay… hmm. A little tenderness here… and here. Do you feel any sharp pain when I press here?
+PATIENT: Ooh, yes. That’s… not very comfortable. Not sharp, exactly. Just… a dull ache. Like a bruise, maybe? It’s been achin’ there for a long time.
+DOCTOR: Alright. Can you bend forward for me, and touch your toes?
+PATIENT: Ooh… that’s… that’s about as far as I can go, Doctor. It’s tight. Very tight. Feels like somethin’ is blockin’ me.
+DOCTOR: Alright. And can you twist to the left and right?
+PATIENT: There we go… Left… and right… Oof. That’s… not easy. Not easy at all. It feels… stiff. Like an old door that needs oilin’.
+DOCTOR: Alright. And when you walk, do you feel any discomfort or pain?
+PATIENT: Not really pain, Doctor. But… it feels… different. Like I’m… watchin’ myself walk. I used to just walk. Now I gotta… think about it. A little shaky, maybe. It’s hard to explain.
+DOCTOR: Alright, Mr. Vankampen. Sounds like you’ve got some muscle strain and stiffness, likely aggravated by age and gardening. It doesn’t sound like anything acutely serious, but we should rule a few things out. I'm going to order some X-rays to check for any arthritis or bony changes. Also, I want to do a quick blood test to rule out anything inflammatory. Does that sound alright?
+PATIENT: X-rays and a blood test… yes, yes, that sounds… sensible. If you think it’s best, Doctor. I just want to know what’s goin’ on. And hopefully… get my garden back.
+DOCTOR: Alright. Good. The nurse will be in shortly to draw your blood and take you for the X-rays. I’ll review the results when they come back, and we’ll discuss a plan. In the meantime, avoid heavy lifting and bending. Over-the-counter ibuprofen can help with the pain, but if it bothers your stomach, stop taking it. Does that sound clear?
+PATIENT: Yes, clear. No heavy liftin’, and easy on the ibuprofen. How long do you think it will be before I get the results, Doctor?
+DOCTOR: The X-rays should be read within 24 hours. The blood test results may take a couple of days. The nurse will let you know when they're available. Don't hesitate to call if you have any sudden worsening of symptoms, like numbness or weakness in your legs. Alright?
+PATIENT: Numbness or weakness… yes, I’ll remember that. Thank you, Doctor Osterholm. I appreciate you takin’ the time. I’ll wait to hear from the nurse.
+DOCTOR: Alright. You’re welcome. The nurse will be with you shortly. Have a good day.
+PATIENT: .

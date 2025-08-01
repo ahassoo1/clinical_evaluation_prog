@@ -1,0 +1,22 @@
+DOCTOR: Alright, Ms. Queener. So, you’re here today…for what, exactly?
+PATIENT: Oh! Yes. It’s my…legs. They are swelling. After the…treatment. For the cancer. It’s been a few weeks now, and it just keeps getting worse, you know? It’s not painful, exactly, just…big. And uncomfortable.
+DOCTOR: Cancer treatment…right. What kind of treatment?
+PATIENT: Oh, um… chemo, I think? And… radiation. Yes, radiation too. It was a long time ago now, honestly. I don't remember all the details, if that’s okay. It was at the hospital in…well, the big city. Not here, for sure.
+DOCTOR: Of course. And when did you first notice this swelling?
+PATIENT: Hmm… let me think. It started… maybe a week after I finished everything? No, wait. Two weeks. Two weeks ago, maybe a little more. It was just my ankles at first, but now it’s… higher up my legs. It’s strange. It’s worse at the end of the day, if that makes sense.
+DOCTOR: Okay, okay. Two weeks… post-treatment swelling. Is it…both legs, or just one?
+PATIENT: Both! Yes, both legs. Though… the left one is a little bit worse, I think. Not much, but… yes. A little. I try to put my feet up, but… it doesn’t really help much. It’s just… heavy, you know?
+DOCTOR: Alright. Let me take a look. Yes, there’s definite edema… pitting edema, actually. How about any shortness of breath, chest pain, or dizziness?
+PATIENT: Edema? Pitting…what now? I don’t…I just know they’re swollen. No, no shortness of breath. And my chest is fine. No pain. And I haven’t felt dizzy. I get a little tired, but… I’m 59! That happens, right?
+DOCTOR: Yes, well, fatigue is…common. Let’s see. Any change in your urine output?
+PATIENT: Urine…? Oh. Um. I go to the bathroom… normally, I think? I haven't really…paid attention, to be honest. I mean, it's the same color, if that helps? Is that…important? I'm sorry. I don't usually think about these things.
+DOCTOR: It can be. Alright. And do you have any other medical problems?
+PATIENT: Oh… let me see. High blood pressure, I think the doctor told me. And… arthritis. In my hands. It doesn't bother me too much, though. Not like this swelling! I take some pills for the blood pressure, yes. A little white one. I don't remember the name. Sorry. It's been a while.
+DOCTOR: Alright. Any allergies to medications?
+PATIENT: No! No allergies. Never had any. That’s good, right? I’m very careful about what I take. I always tell the pharmacist everything. I don't want to get sick from the medicine, you know?
+DOCTOR: Okay. Look, it's likely this is related to the cancer treatment, fluid retention perhaps. We need to rule out anything more serious, though. I’m going to order some blood work – a complete blood count, a basic metabolic panel, and a liver function test. And a D-dimer, just to be safe.
+PATIENT: Oh… oh dear. That sounds like…a lot. Is it bad? Is something wrong? I just want my legs to stop swelling! How long will it take to get the results? And… will I have to come back?
+DOCTOR: It's standard procedure, Ms. Queener. The results should be back in a few days. The lab will contact you. If anything is significantly abnormal, they will contact you. If not, come back and see me next week and we can discuss further options. Perhaps compression stockings would be helpful. But we need these tests first. Do you have any questions for me?
+PATIENT: Compression stockings? Okay. That… sounds okay, I guess. No, I don’t think I have any…questions. Just… please, find out what’s wrong. I just want to be normal again. Thank you, Doctor. That’s all.
+DOCTOR: Right. The lab will contact you. Next week. That will be all. .
+PATIENT: .

@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Ms. Kilton. Dr. Mutnick. Please, have a seat. Now, let’s not waste any time. What brings you in today?
+PATIENT: Good morning, Doctor. Thank you. Well, it is my breathing. It is… difficult sometimes. Like a little whistle, you know? When I walk, or even just sit. It makes me feel… tired.
+DOCTOR: "Whistling," you say?
+PATIENT: Yes, Doctor. Like a small bird. Not a big, loud whistle, but… you can hear it. Especially at night when it is quiet. It makes me worry a little. Is it… bad?
+DOCTOR: Ms. Kilton, "worry" is unhelpful. We need specifics. When did this "whistling" begin?
+PATIENT: Oh. That is a good question. Hmm… I think… maybe three months ago? It started slowly, after I helped my grandson with moving boxes. Heavy boxes. It wasn’t so bad then, just a little puffing. But it has gotten… more now.
+DOCTOR: Moving boxes. And you are experiencing this difficulty… consistently now?
+PATIENT: Not all the time, Doctor. Some days are better than others. Today it is a little bad. When I climb the stairs in my building, for sure. And sometimes when I walk to the market. But when I am resting, I do not notice it so much. Is that important?
+DOCTOR: Everything is "important," Ms. Kilton. Do you experience any chest pain, or a feeling of tightness with this… breathing issue?
+PATIENT: No, Doctor, not pain. Not really. It feels… like my lungs are working harder, maybe? And a little bit of… squeezing, but not hurting. Like a gentle hug, almost. A tired hug. Is that… normal?
+DOCTOR: “Normal” is a subjective term. Have you been experiencing any coughing?
+PATIENT: Yes, sometimes. But not a bad cough, Doctor. Just a little tickle in my throat. It is worse in the morning, usually. And it is a dry cough, not much… anything coming up. Old people cough, you know? I think it is just the dust.
+DOCTOR: Dust is irrelevant. Do you smoke, or have you ever smoked?
+PATIENT: Oh no, Doctor. Never! My husband, he used to smoke, a long time ago. But I always told him it was very bad for him. And I have never touched a cigarette in my life. I like fresh air too much.
+DOCTOR: Very well. Let's proceed with a basic examination, shall we?
+PATIENT: Yes, Doctor. That sounds good. Whatever you think is best. I want to feel better, you know. It is hard to keep up with my grandson.
+DOCTOR: Please, take a deep breath in through your mouth, and exhale slowly. Alright. Lung sounds are… diminished bilaterally. Some mild wheezing present. I'll also check your oxygen saturation. 92%. Acceptable, but borderline.
+PATIENT: Oh. Is 92… bad, Doctor? My grandson, he always tells me to be careful. He is a very good boy. What does it mean, "diminished"? Is my lungs… small?
+DOCTOR: "Diminished" simply means your breath sounds are not as robust as they should be. And no, your lungs are not "small." It suggests some degree of airway obstruction. I suspect mild asthma, possibly exacerbated by age and exertion. We'll need to rule out other possibilities, of course.
+PATIENT: Asthma? But I never had asthma when I was young! My family, we are very healthy people. I walked all the way up to the mountains in Bhutan, you know. Many times! Is it possible… to get asthma when you are old?
+DOCTOR: It’s not uncommon for asthma to develop later in life. We’ll need to perform a spirometry test to confirm the diagnosis. I’ll write you a prescription for a bronchodilator inhaler to help open your airways in the meantime. Use it as needed, before exertion or when you experience these breathing difficulties. Do you understand?
+PATIENT: Yes, Doctor, I think so. A… bronchodilator. For my airways. And only when I feel… the whistle. Is it safe? My grandson, he worries about medicines. He reads everything on the internet. Will it make me feel… funny?
+DOCTOR: It's perfectly safe, Ms. Kilton. A standard medication. Side effects are minimal – occasional jitteriness or a slightly increased heart rate. If you experience anything concerning, discontinue use and contact my office. Here. I'll schedule you for the spirometry test next week. And please, try to limit strenuous activity until we have a definitive diagnosis. Do you have any further questions, or shall we conclude this consultation?
+PATIENT: Oh. A spirometry test. That sounds… complicated. And I will try not to climb the stairs too much. My grandson will be happy to hear that. No, Doctor. I think that is all. Thank you very much for your help. I hope I can walk to the market again soon.
+DOCTOR: Very well. The nurse will schedule the test for you on your way out. Try to rest. And please, refrain from self-diagnosing based on internet searches. That concludes our consultation. .

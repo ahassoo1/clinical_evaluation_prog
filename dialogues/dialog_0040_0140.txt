@@ -1,0 +1,22 @@
+DOCTOR: Right, yes. Antoine Schieber, is it?
+PATIENT: Yes, that is correct. And please, let’s be quick about this. I have… commitments. It’s rather inconvenient to be here, frankly.
+DOCTOR: Of course, of course. We’ll try to be brief. So, what brings you in today?
+PATIENT: It’s… something in my mouth. A white coating. It’s unpleasant. My wife suggested I come, said it looked… concerning. Honestly, I don’t usually bother with these things. It’s probably nothing.
+DOCTOR: A white coating, you say?
+PATIENT: Yes. It’s… on my tongue, mostly. And the inside of my cheeks. It’s difficult to eat. It doesn’t hurt, exactly, just… bothersome. And makes everything taste odd. Is this going to take long? I really need to be going.
+DOCTOR: Right. Odd taste… how long has this been going on?
+PATIENT: Oh, goodness. I don’t know precisely. A few days, perhaps? A week? Time gets away from me, you understand. It’s not a major issue, Doctor. I assure you. I'm a busy man.
+DOCTOR: Alright. Any other symptoms?
+PATIENT: No. Nothing else. I feel perfectly fine otherwise. I eat well, I work hard… this is just… a nuisance. Frankly, I suspect it’s something I ate. Perhaps a bad piece of fish. It shouldn’t require a doctor’s visit.
+DOCTOR: And have you noticed any fever, chills, or difficulty swallowing?
+PATIENT: No, absolutely not. I told you, I feel perfectly fine. This is… a bit excessive, don’t you think? Are you always this thorough with minor complaints? I'm a faller, you know. I don’t have time for a full medical examination over a bit of white film.
+DOCTOR: Just routine questions. Have you had any recent illnesses or been taking any medications?
+PATIENT: No illnesses. And no, I do not take medications. I pride myself on my health. A strong constitution, you see. My wife is always fussing, telling me to take vitamins, but I refuse. Waste of money, in my opinion. Now, is there a quick solution to this or not? Because I really must get back to work.
+DOCTOR: Alright. Let's just take a quick look, then. Open wide.
+PATIENT: Honestly, Doctor, I’m not sure this is necessary, but if you insist. Just be quick about it. I haven’t got all day.
+DOCTOR: Hmm. Yes, there's a whitish coating on your tongue and buccal mucosa. It’s easily scraped off, though. No obvious lesions. Blood pressure is... within normal limits, I suppose. Could be a mild case of oral thrush, or possibly just a temporary irritation.
+PATIENT: Thrush? What's thrush? Is that… serious? And how does one get thrush? I’ve never had anything like this before. I assure you, I maintain a very clean lifestyle. Is it contagious? My wife… she'd be terribly upset.
+DOCTOR: It's a fungal infection, usually harmless, though uncomfortable. More common in people with weakened immune systems, or those who've recently taken antibiotics. It's not typically serious. And it's not highly contagious, but avoid sharing utensils for now. It’s likely a simple case, nothing to be overly concerned about.
+PATIENT: Antibiotics? I haven’t taken antibiotics in… well, I don't recall ever taking antibiotics. And my immune system is perfectly fine! I work outdoors, all day, every day. It's a strenuous job. I doubt I have a weakened immune system. So, what… what do I do about it? Is there a cream or something? I really can’t be off work.
+DOCTOR: A mild antifungal mouthwash should do the trick. I can write you a prescription. Rinse twice a day for a week. If it doesn't improve, then we'll talk about further investigation. But frankly, I suspect this will resolve on its own. Avoid sugary drinks and foods for now. There. That should be all. Try to be more diligent with your oral hygiene, perhaps.
+PATIENT: Right. A mouthwash. Very well. I suppose that's… acceptable. Thank you, Doctor. Though I still maintain this is an unnecessary inconvenience. I'll be sure to… follow your instructions. .

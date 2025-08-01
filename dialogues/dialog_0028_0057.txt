@@ -1,0 +1,38 @@
+DOCTOR: Right. Chellsea, is it?
+PATIENT: Yes, that is correct. Chellsea Luft. It’s nice to meet you, Doctor… Memmolo, is it?
+DOCTOR: Yes, Memmolo. Look, I have a rather full schedule today, so if we could just get straight to why you’re here, that would be appreciated. What brings you in?
+PATIENT: Well, it’s… it’s about the cancer. I was told to come see you. My husband… he passed away a few months ago from it, and I’ve been having some tests done since, just to be safe. I guess they found something.
+DOCTOR: Cancer, you say?
+PATIENT: Yes. I don’t… I don’t know much about what kind, or where, exactly. The other doctor just said I needed a specialist’s opinion. And to come here. I have Medicare, if that helps.
+DOCTOR: Medicare… alright. Let's see what we're dealing with. Do you have the results from those tests with you?
+PATIENT: Yes, I do. Here. They gave me copies, and I brought everything they asked for. It’s a bit of a mess, I apologize. I haven’t been… very organized lately.
+DOCTOR: Hmm. Alright. Let’s start with your primary concern. You said ‘something found’… can you elaborate?
+PATIENT: Well, I’ve been… really tired. More tired than usual, and I’ve lost some weight, even though I’m trying to eat. And I have… a pain. In my side, mostly. It comes and goes, but it’s been happening more often lately. It’s not a sharp pain, just… a dull ache. I wasn’t sure if it was just stress, to be honest. After… everything.
+DOCTOR: Tired, weight loss, side pain… typical. And when did you first notice this pain?
+PATIENT: Oh… let me think. Probably about a month ago? Maybe a little longer. It started out very mild, just a little discomfort after I’d been on my feet for a long time. I work as an Occupational Therapist, so I’m moving around a lot during the day. At first I just thought it was from that. But it hasn't gone away.
+DOCTOR: Occupational Therapist… naturally. Alright, and is there anything that makes the pain better?
+PATIENT: Um… sometimes lying down helps a little. And… taking warm baths. But not much, really. It doesn’t go away completely. And it seems to be getting worse when I’m… well, when I’m stressed. Which is… most of the time, lately.
+DOCTOR: Stress… right. Have you noticed any other symptoms?
+PATIENT: Let me think… I’ve been feeling a little… bloated, sometimes. And I’ve had some trouble… with my appetite. Not that I don't feel hungry, just… I get full very quickly. And I’ve been going to the bathroom more often, I guess. That’s about it, I think. It's hard to keep track. Everything feels… fuzzy.
+DOCTOR: Bloating, appetite changes, frequent urination… This is all rather vague, isn’t it?
+PATIENT: Yes, I suppose it is. I wish I could be more specific. It just… feels like a lot of little things, all at once. I'm not sure how much of it is the cancer and how much is just… grief. It’s hard to tell, you know?
+DOCTOR: Look, we need to focus on the medical aspects. Let’s review your past medical history, if you don’t mind. Any other significant illnesses?
+PATIENT: Um… not really. I haven't been very sick, thankfully. I had chickenpox as a child, and I broke my arm once, but nothing serious. My husband… he had heart problems, that’s why he was always seeing doctors. I mostly just helped him with his appointments. I've never really needed to see a doctor much myself.
+DOCTOR: No significant medical history… fortunate. Any family history of cancer?
+PATIENT: Yes… my grandmother, on my mother's side, had breast cancer. A long time ago, though. She lived to be eighty-five, so it wasn't… fast-moving, I think. And my uncle, on my father’s side, had leukemia. But he was… young. He didn’t live very long. I'm not sure if that's relevant, though. It was a long time ago, and I don't know much about it.
+DOCTOR: Alright. And you mentioned your husband's heart problems. Were those genetic, as far as you know?
+PATIENT: Yes, I think so. He said his father and grandfather both had similar issues. He was always very careful about his diet and exercise, but… it still happened. It wasn't a surprise, really. He’d known about it for years. It just… got worse over time. He tried, he really did.
+DOCTOR: Very well. Let's move on to medications and allergies. Are you currently taking any prescriptions, over-the-counter drugs, or supplements?
+PATIENT: No, not really. Just a multivitamin, sometimes. And I take ibuprofen when I have a headache, but that's it. I don’t have any allergies, as far as I know. I’ve never had a reaction to anything. I try to stay healthy, you know? Even… even now.
+DOCTOR: Right. No significant medications or allergies. Let's proceed with a brief physical examination, shall we?
+PATIENT: Yes, that sounds… good. I'm ready, if you are. Is there anything specific I should do? Or… should I just lie down?
+DOCTOR: Just stand there for now. We'll start with abdominal palpation. Tell me if you feel any pain.
+PATIENT: Okay. That… feels a little tender, right here. It’s not sharp, just… uncomfortable. Like a dull ache. Is that what you were expecting?
+DOCTOR: Hmm. And what about here?
+PATIENT: Yes, that's a bit more… noticeable. It's not excruciating, but it's definitely there. Like… pressure. It feels a little swollen, too, maybe? I'm not sure. It's hard to tell. I've been… a little bloated lately, as I said.
+DOCTOR: Bowel sounds are present, but slightly diminished. I'll also check your vital signs. Blood pressure is 128/82, pulse is 72, temperature is 98.6. Within normal limits.
+PATIENT: Okay. Is… is that good? Are those numbers okay? I don’t want to bother you, but… what do you think is happening? I’m just… worried. It’s hard not to be, after… everything.
+DOCTOR: Look, I need to order some blood work and a CT scan. We need to investigate this further. It's impossible to make any definitive conclusions without more information. I’ll have the nurse draw some blood and schedule the scan for tomorrow. I will review the results and we'll discuss them then. Do you have any questions?
+PATIENT: No, I don’t think so. Just… when will I hear back? And… should I be doing anything in the meantime? Like… avoiding certain foods, or…? I just want to know what I should expect. It’s just… I’m a little scared.
+DOCTOR: The nurse will contact you when the results are available, likely within 24-48 hours. As for now, I recommend maintaining a healthy diet and getting adequate rest. Avoid strenuous activity. And try not to worry needlessly. We'll address this systematically. I have other patients waiting. The nurse will escort you out. .
+PATIENT: Okay. Thank you, Doctor Memmolo. .

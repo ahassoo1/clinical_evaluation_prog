@@ -1,0 +1,26 @@
+DOCTOR: Good morning, Mr. Way. I am Dr. Eaddy. Now, please tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Well, it's my back, mostly. It's been really painful lately. Not sure what I did, to be honest. Just…aching, you know? It's making it hard to even bend over.
+DOCTOR: "Aching," you say. Yes, a very common complaint. And how long has this “aching” been occurring, Mr. Way?
+PATIENT: Hmm, let me think… maybe about a week now? Started kinda gradual, just a little stiff after sitting for a while. But the last couple of days it's gotten noticeably worse. It's… hard to sleep comfortably, too.
+DOCTOR: A week. Alright. And can you describe the location of the pain precisely?
+PATIENT: Well, it's not just one spot. It's mostly lower back, right across here… … but it kinda radiates down my legs a little bit, too. Not like shooting pain, just… a dull ache that travels down. It's hard to pinpoint exactly where it's worst, to be honest.
+DOCTOR: “Radiates.” Yes, patients often misinterpret sensations. Is this pain constant, or does it come and go?
+PATIENT: It's not always there, no. It’s worse when I move, especially bending or twisting. When I’m just sitting still, it’s usually not too bad, just a little nagging feeling. But if I try to lift something… or even just get up from the sofa… oof. That's when it really flares up.
+DOCTOR: And have you experienced any numbness, tingling, or weakness in your legs or feet?
+PATIENT: No, no numbness or tingling. And my legs feel pretty strong, I think. I still walk okay, you know? No trouble with that. It’s just… the discomfort. It’s pretty annoying, honestly. I like to garden, and I haven’t been able to do much of that this week.
+DOCTOR: Alright. And are you currently taking any medications for this pain, or have you tried any treatments—heat, ice, over-the-counter remedies—anything at all?
+PATIENT: No medications, no. I haven’t taken anything. Just been trying to take it easy, mostly. My wife suggested a heating pad, but I haven't gotten around to it yet. I usually just try to tough it out, to be honest. Old habit, I guess.
+DOCTOR: “Toughing it out.” A rather… antiquated approach, Mr. Way. Very well. Let's proceed with a brief physical examination. Please lie down on the examination table for me. We'll assess your range of motion and reflexes.
+PATIENT: Okay, sure. Sounds good. … Just let me know if you need me to do anything special. My back isn't… super cooperative right now.
+DOCTOR: Simply lie flat on your stomach, Mr. Way. I will guide you through the necessary movements. Don't anticipate any… discomfort. Though, naturally, some sensation is to be expected.
+PATIENT: Alright. … Here we go. A little tender, but I'm here. Let me know what you want me to do.
+DOCTOR: Alright, Mr. Way. I’m going to press on a few areas here. Tell me if you feel any sharp pain, or just a dull ache. There is tenderness upon palpation of the lumbar vertebrae, particularly L4-L5. Noted. Now, I need you to attempt to lift your right leg, keeping it straight.
+PATIENT: Okay… … Oof, that’s… not comfortable. It’s a bit hard to lift it very high. A dull ache down the back of my leg when I try. Does that make sense?
+DOCTOR: Limited range of motion in right leg raise, with reported radicular pain. As expected. Now, please bend forward and touch your toes, if you are able. Don’t push yourself to the point of intense pain, Mr. Way. I simply need to observe your movement.
+PATIENT: … I can't quite reach my toes, Doctor. It’s pretty stiff. The lower back… it's really tight when I bend over. I can feel it pulling.
+DOCTOR: Limited forward flexion, with reported lumbar tightness. Based on my assessment, Mr. Way, it appears you are experiencing a lumbar strain, likely aggravated by… insufficient self-care. We'll need to rule out anything more serious, of course. I’m going to order a simple X-ray to assess your vertebral alignment.
+PATIENT: X-ray, okay. That sounds… thorough. Is that going to be expensive? I don’t have… insurance right now, unfortunately. I just hope it’s not something too bad, you know? Just a strain, hopefully.
+DOCTOR: The cost of the X-ray is… irrelevant at this juncture, Mr. Way. It is a necessary diagnostic step. We will discuss payment options with the billing department afterward. For now, let us focus on obtaining the information we require to ascertain the cause of your discomfort. The technician will call you when they are ready. I will review the results once they are available and we can discuss a treatment plan. In the meantime, I recommend over-the-counter pain relief, and avoid any strenuous activity. Do you have any questions?
+PATIENT: Okay… over-the-counter pain relief, no strenuous activity. Got it. … No, I don't think so, Doctor. Just… when will I hear back about the X-ray results? A day or two? And thank you, Doctor. I appreciate your help.
+DOCTOR: Typically, the results are available within 24-48 hours. The technician will contact you to schedule a follow-up appointment. Do try to adhere to my recommendations, Mr. Way. Ignoring a musculoskeletal issue rarely leads to improvement. Now, if there is nothing further, you may get dressed.
+PATIENT: .

@@ -1,0 +1,28 @@
+DOCTOR: Right. Mr. Tati, is it?
+PATIENT: Yeah, that's me. Rayshon. It's… good to meet you, Doctor. I think? I forget names easy.
+DOCTOR: Pehrson. Audel Pehrson. Look, let’s not waste time. What brings you in today?
+PATIENT: Um… the cough. It's been… a long time. And I'm always tired. Really tired. And my nose… always feels blocked, you know? Like a cold, but it never goes away. I get it a lot. My wife keeps telling me to come see someone.
+DOCTOR: A long time… how long exactly?
+PATIENT: Ugh… hard to say. Months, I think? Maybe over a year? It comes and goes, but mostly it's there. I don't keep good track of dates, sorry. It’s just… annoying. And makes me feel weak.
+DOCTOR: Okay, okay. And any fever?
+PATIENT: Fever… sometimes? Not like, really high. Just… warm. Mostly just tired and achy when it’s bad. I don't usually check my temperature or anything. Just feel bad, you know?
+DOCTOR: Right. “Feel bad.” Let’s try to be a little more specific, Mr. Tati. Any shortness of breath?
+PATIENT: Shortness of breath… not really. Maybe when I climb a lot of stairs, but I don’t do that much. I work with tires all day, so… mostly bending and lifting. It's not like running or anything. I don't think so.
+DOCTOR: Alright. Any chest pain?
+PATIENT: Chest pain… no. Not really. Sometimes a little ache after lifting heavy tires, but that's just… muscle pain, I think. From work. Not like a sickness pain.
+DOCTOR: Any allergies?
+PATIENT: Allergies… hmm. I don’t know. Maybe dust? I work with tires, it’s pretty dusty. Does that count? I don’t get itchy or anything, just… sometimes I sneeze.
+DOCTOR: Medications?
+PATIENT: Uh… no. Not really. Just… sometimes I take something for headaches. From the work, again. Like Panadol, or something. But not every day. Just when I need it. I don't like taking pills if I can help it.
+DOCTOR: Alright. Let’s have a listen to your chest, then. Please, take a deep breath for me.
+PATIENT: Okay. Like this? Is that good?
+DOCTOR: Hmm. There’s some wheezing. And… slightly diminished breath sounds on both sides. Alright, Mr. Tati, I’m going to listen to your back now. Take deep breaths again.
+PATIENT: Okay. Like this, Doctor? Is it okay? I'm a bit nervous, sorry.
+DOCTOR: Alright. It’s probably just bronchitis. You likely need to stop working with those tires for a while, and I can prescribe you an inhaler. But frankly, that job isn't doing you any favors.
+PATIENT: Stop working? But… that's my job. I need the money. What… what will I do? My wife… she’ll worry. Will the inhaler… fix it?
+DOCTOR: Look, I’m a doctor, not a financial advisor. The inhaler will help with the breathing, but you need to address the underlying cause. Constant exposure to dust and whatever else is in those tires is clearly making you sick. I can write you a note saying you need to limit strenuous activity. That’s the best I can do.
+PATIENT: Okay… okay. A note. That's… something. Will it last long? The… the needing to stop? My wife… she does all the cooking. I need to help.
+DOCTOR: Look, Mr. Tati, I can't predict the future. We'll see how you respond to the inhaler. I'll write you a prescription and a note for limited activity for two weeks. If things don’t improve, you’ll need to come back, and we may need to consider a chest X-ray. Here. Is there anything else?
+PATIENT: A chest… X-ray? That sounds… scary. Two weeks… okay. Thank you, Doctor. I think… that’s all. I just… hope it gets better soon. My wife is going to worry so much.
+DOCTOR: Alright. Well, try to rest, and avoid that dust. Next patient! .
+PATIENT: .

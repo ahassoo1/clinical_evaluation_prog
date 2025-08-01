@@ -1,0 +1,17 @@
+DOCTOR: Good morning, Mr. Pipolo. I'm Dr. Murtic. So, what brings you in today?
+PATIENT: Morning, Doctor. Just… my eyes. They feel real dry. Been that way a bit now. Don’t like it.
+DOCTOR: “Real dry,” alright. And how long exactly is “a bit now,” Mr. Pipolo?
+PATIENT: Oh… geez. Hard to say. Maybe… a month? Two? Time kinda slips away, you know? I mostly just try to blink more. Doesn't help much.
+DOCTOR: Blinking more. Right. And is it constant dryness, or does it come and go?
+PATIENT: It’s… most of the time. Worse when it’s windy. We get a lot of wind here, you know? Living by the ocean. Makes everything dry. Even my skin. But the eyes… that’s the worst part.
+DOCTOR: Alright, Mr. Pipolo. And do you experience any pain with the dryness?
+PATIENT: Pain… not really pain. More like… gritty. Like sand in ‘em. And they get tired. Real tired. Especially when I’m workin’. Cement dust, I guess. It can’t be good.
+DOCTOR: Cement dust, yes. And what do you do, Mr. Pipolo?
+PATIENT: I work with cement. Mason work. Concrete. Been doin’ it a long time. Since I was a young man. It’s hard work. But it pays the bills. Is that what you needed to know?
+DOCTOR: Yes, that’s helpful. And do you wear any eye protection when you’re working with the cement?
+PATIENT: Eye protection? Sometimes. I got some goggles. But they fog up. And they’re kinda uncomfortable. I usually just… try to shield my eyes with my hand. Not the best, I know. But it’s faster. Gotta keep workin’.
+DOCTOR: Faster isn't always better, Mr. Pipolo. Alright. Let's have a look at your eyes. Please, sit back and keep them open for me.
+PATIENT: Okay. Whatever you need. Just… try to be quick, if you can. Got things to do.
+DOCTOR: Right eye… hmm. Some mild injection, a little dryness of the conjunctiva. Left eye is similar. And your tear ducts seem a little… constricted. Have you noticed any changes in your vision lately?
+PATIENT: Vision…? Not really. Everything’s kinda blurry sometimes, but that’s just from bein’ old, I figure. It’s always been that way, a little. Never needed glasses. Never could get used to ‘em. .
+DOCTOR: Alright. It's likely you have dry eye syndrome, exacerbated by your work environment and lack of proper eye protection. It's a common issue, especially with outdoor labor. We can try some lubricating eye drops—artificial tears—to see if that provides some relief.

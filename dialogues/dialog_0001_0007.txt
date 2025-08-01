@@ -1,0 +1,26 @@
+DOCTOR: Alright, Lakiya, good to see you… sort of. Look, I'm pretty backed up today, so let's just get right to it. What brings you in today?
+PATIENT: Good day, Doctor Pehrson. It is… painful. That is why I am here. It has been going on for some time now.
+DOCTOR: “Painful,” huh?
+PATIENT: Yes. In my back, mostly. Lower back. It makes it hard to… well, to work, which is a problem. I erect fences, you see. It requires… lifting. A good deal of it.
+DOCTOR: Fences, right. Okay. And how long has this “pain” been going on?
+PATIENT: Approximately… six months now, Doctor. It started slowly, a little ache after a long day. But it has gotten… worse steadily. Now it is hard to even stand for long without it hurting.
+DOCTOR: Six months… alright. Is it constant, or does it come and go?
+PATIENT: It is… mostly constant now. There are moments, when I am resting, that it is less bad. But even then, it is there. Like a dull weight. When I move… that is when it is truly painful.
+DOCTOR: Dull weight… Okay. Any numbness or tingling in your legs or feet?
+PATIENT: No, Doctor. Not that I have noticed. Just… pain. And stiffness. Especially in the mornings. It takes a while to… loosen up. Is that important?
+DOCTOR: Stiffness… Look, a lot of people come in here with back pain. It's usually just a strain. We'll do a quick exam, and then we'll see. Stand up for me, if you would. Let’s see what you’re working with.
+PATIENT: Very well, Doctor. Is there a particular way you would like me to stand? I don't wish to cause… difficulty.
+DOCTOR: Just… normal. Let me see your back. Okay, now bend forward… gently. Don’t push it. Tell me when you feel pain.
+PATIENT: It… it hurts right here. About halfway down. It is a sharp pain, not a dull ache like usual. I think… I think I will stop there. It feels unwise to continue.
+DOCTOR: Alright, alright. Don't strain yourself. Now, back up straight. Okay, good. Any tenderness here?
+PATIENT: Yes! Right there. That is… quite tender. Like a bruise, almost. Not on the surface, but… deep inside. Is that bad, Doctor?
+DOCTOR: Look, everything feels bad when you’re in pain. Now, let me check your reflexes. Left side… and right side. Okay. Both seem… normal. Do you have any history of… falls?
+PATIENT: No, Doctor. No recent falls. I have not fallen in… many years. I am careful. Though, I did… slip on some ice last winter. But I did not fall. I caught myself. It was… unsettling, but I was unharmed. I believe.
+DOCTOR: Alright. And your work… is it particularly strenuous?
+PATIENT: Yes, Doctor. Erecting fences… it involves digging post holes, setting posts, stretching wire… a lot of lifting and bending, as I said. And sometimes the ground is uneven. It can be… hard on the body. It is honest work, but it is not… gentle work.
+DOCTOR: Look, it sounds like you've got a pretty demanding job. It's probably just a muscle strain. We'll get some X-rays just to rule anything serious out, but I’m willing to bet it’s nothing major. I’ll have the nurse get the order for those. In the meantime, I want you to take some ibuprofen, 600 milligrams three times a day. Don't exceed that, understand?
+PATIENT: Yes, Doctor. I understand. Ibuprofen, 600 milligrams, three times a day. X-rays as well. That… sounds acceptable. Thank you. Will the X-rays tell us if it is… something worse? I do not want to… delay treatment if it is a serious injury.
+DOCTOR: Look, it's unlikely. But we have to be thorough. The nurse will explain the process. Now, is there anything else I should know?
+PATIENT: No, Doctor. I do not believe so. I have told you everything I can think of. Just the pain in my back… and the difficulty with work. I wish to return to work as soon as is safely possible. It is… important to me. I suppose that is all. Are we finished, then? I understand you are very busy.
+DOCTOR: Yes, alright. Nurse will be in shortly. Avoid heavy lifting until we have the X-ray results. And take the ibuprofen. Don't hesitate to call if things get significantly worse, but honestly, it sounds like a simple strain. .
+PATIENT: .

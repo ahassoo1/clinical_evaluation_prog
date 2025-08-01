@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Tomassoni. I’m Dr. Nestingen. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Well, it’s… a bit difficult to explain, truthfully. I’ve noticed some swelling, and I wanted to have it checked out. It’s been happening for a little while now, but I haven't been able to pinpoint exactly when it started, if that makes sense.
+DOCTOR: Swelling, alright. And you say it's been going on for a while… roughly how long would you estimate?
+PATIENT: Hmm… that’s the frustrating part. It feels like weeks, maybe a month or two? Honestly, my memory isn't the best. It’s not a sudden thing, it just… gradually appeared. I wish I could be more precise. Is that okay?
+DOCTOR: It’s alright, Mr. Tomassoni. These things happen. Vague recollections are…common. Where is the swelling located, specifically?
+PATIENT: Oh, good. I was worried I was being unhelpful. It’s… mostly in my ankles, I think. And sometimes my feet feel a bit puffy too. It seems to be worse at the end of the day, if that gives you any clue.
+DOCTOR: Ankles and feet, worse at the end of the day… Any pain associated with the swelling?
+PATIENT: No, thankfully not. It's not painful, just… uncomfortable. Like they’re a bit heavy, you know? And they look different, of course. A bit… larger than usual. It doesn’t stop me from doing things, but it’s definitely noticeable.
+DOCTOR: I see. And have you noticed any changes in your urine output – more or less than usual?
+PATIENT: Oh, that’s… a good question. I honestly haven’t paid much attention to that. I suppose I haven't noticed anything different. I’d have to think about it. Is that something I should be paying attention to?
+DOCTOR: It’s good to be aware of. Okay. And are there any other symptoms you’ve experienced alongside the swelling?
+PATIENT: Let me see… other symptoms… I’ve been a bit more tired than usual, I suppose. But I always chalk that up to work. No shortness of breath, no chest pain, no… anything else really. It’s mostly just the swelling and the fatigue. It hasn’t been terribly disruptive, but it’s enough to make me want to get it checked out, you know?
+DOCTOR: Fatigue alongside the swelling. Alright. Do you have any existing medical conditions?
+PATIENT: No, not that I'm aware of. I've always been pretty healthy, thankfully. I don't take any regular medication, either. I had a minor injury a few years back – a sprained wrist – but that’s long healed. I haven’t been to the doctor much, honestly.
+DOCTOR: Any family history of heart problems, kidney disease, or diabetes?
+PATIENT: That’s a good question… Let me think. My father had high blood pressure, I believe, but nothing major. My mother was healthy as a horse, as far as I know. No diabetes or kidney problems on either side, to the best of my recollection. It’s hard to say definitively, though, it’s been a while since I spoke to relatives about those things.
+DOCTOR: Alright. And could you describe your typical diet?
+PATIENT: Oh, um… well, it’s probably not the best. I work long hours, so it tends to be a lot of takeout, I'm afraid. A lot of pasta, rice… not enough vegetables, definitely. I try to drink plenty of water, but I probably don’t get enough exercise. I'm aware I could improve.
+DOCTOR: I see. Well, that’s helpful to know. Now, I’d like to do a quick physical exam, if you don’t mind. I’ll need to check your heart, lungs, and, of course, your ankles and feet. Is that alright?
+PATIENT: Yes, absolutely. That sounds perfectly fine. Please, go ahead. I'm happy to do whatever you need.
+DOCTOR: Alright. Deep breaths, please. Heart sounds are within normal limits. Lungs are clear. Now, let's take a look at your ankles and feet. Yes, there is definite pitting edema in both ankles… and some mild swelling in the feet as well. I’m noting 2+ pitting edema bilaterally. Blood pressure is 138/88. Pulse is 72 and regular. We'll need to run some tests to determine the cause of this swelling. I'm going to order a complete blood count, a comprehensive metabolic panel, and a urinalysis. We'll also want to check your kidney function.
+PATIENT: Okay, that sounds… thorough. I appreciate that. Tests are fine, absolutely. Whatever you think is best. Are those things done here, or do I need to go somewhere else?
+DOCTOR: They can be done right here in the clinic, Mr. Tomassoni. I’ll write you a requisition form for the lab. They’ll draw some blood and you’ll need to provide a urine sample. It shouldn’t take too long. Once the results are back, we can schedule a follow-up appointment to discuss them. In the meantime, I recommend elevating your legs whenever possible, especially at the end of the day, and limiting your salt intake. Here is the lab requisition. Do you have any questions before I let you go?
+PATIENT: Okay, that sounds manageable. Elevate my legs and less salt… I can definitely try that. No, I think that answers everything for now. Thank you, Doctor Nestingen. I appreciate you taking the time to look into this. I'll go get the tests done right away.
+DOCTOR: Very well, Mr. Tomassoni. We'll be in touch when the results are available. Don't hesitate to call if you experience any worsening symptoms. And try to improve your diet, it will make a difference.
+PATIENT: Okay, I will. Thank you again, Doctor. Have a good day.
+DOCTOR: You too. Next.

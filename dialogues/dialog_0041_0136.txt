@@ -1,0 +1,32 @@
+DOCTOR: Hi Lucia, good to meet you. I'm Dr. Polczynski. So, what brings you in to see me today?
+PATIENT: Hi Doctor. Good to meet you too. Um… it’s my… burps. I keep burping. It’s been happening for a little while now. It’s… embarrassing.
+DOCTOR: Okay, burping. It can be a little disruptive, definitely. And it’s good you came in to get it checked out. “A little while” – can you give me a sense of how long we’re talking?
+PATIENT: Hmm… maybe… two weeks? A little more than two weeks, I think. Not every day, but… most days. Sometimes a lot, sometimes just a few. It doesn’t hurt or anything, just… loud.
+DOCTOR: Alright, two weeks or so, intermittent. And no pain, just the burping itself is the issue. Do you notice anything that seems to trigger them?
+PATIENT: Trigger? Like… make them happen more? Let me think… Sometimes after I eat a big meal. And… carbonated drinks. Soda, you know? Definitely soda. And sometimes… when I'm nervous? I think so.
+DOCTOR: Okay, big meals, carbonated drinks, and possibly when you’re feeling anxious. That’s helpful. When you say “big meal,” what kind of foods are we talking about?
+PATIENT: Oh, um… anything lots of? Like… yesterday I had a big plate of rice and beans and pork. And a little salad. But mostly the rice and beans and pork was a lot. Normal food, just… a lot of it.
+DOCTOR: Okay, larger portions of typical foods. And do you find the burping happens soon after you eat, or is there a delay?
+PATIENT: Hmm… not right away. Maybe an hour or two after. Sometimes longer. It's not like… immediately after the food goes down. It kind of builds up, I think.
+DOCTOR: Okay, building up over an hour or two after eating. Do you experience any other symptoms along with the burping?
+PATIENT: Other symptoms… let me think… sometimes my stomach feels a little… full? But I always eat a lot, so I don’t know if that’s new. And sometimes… a little bit of gas. But not always.
+DOCTOR: Alright, feeling full and some gas occasionally. Noted. Let’s talk about some other things. Do you have any heartburn or indigestion?
+PATIENT: Heartburn…? Um… sometimes. Not a lot. Like, a little burning in my chest. But not every day. And I can usually take something for it. It's not bad, really.
+DOCTOR: Okay, occasional heartburn that you manage with something. Do you happen to know what you take for it?
+PATIENT: Um… oh, I get it at the corner store. The little pink tablets. It says… looks around as if trying to remember the brand… I think it says Tums? Maybe. They help.
+DOCTOR: Okay, Tums for the heartburn. Good to know. Have you noticed any changes in your weight recently?
+PATIENT: No, no changes in my weight. I'm… usually about the same. Maybe a little up, maybe a little down, but nothing big.
+DOCTOR: Alright, weight stable. And what about your diet in general?
+PATIENT: Um… I eat pretty normal, I think. Rice and beans a lot, because that’s Cuban food. Pork, chicken, sometimes fish. Salad, fruits. I don't eat too much junk food, but I like a little soda sometimes. Like we said.
+DOCTOR: Okay, generally a normal diet with a preference for Cuban cuisine and occasional soda. Just trying to get a full picture here. Do you have any allergies to any foods or medications?
+PATIENT: No allergies, I don’t think. I’ve eaten lots of different foods. Never had a problem. And I don’t take any medications, unless you count the Tums.
+DOCTOR: Okay, no known allergies and only Tums as needed. Alright, let’s do a quick physical exam. I'm going to listen to your stomach sounds and feel your abdomen. Is that alright with you?
+PATIENT: Yes, that’s okay. I don't mind.
+DOCTOR: Okay. Your abdomen is soft, not tender to the touch. I’m hearing some normal bowel sounds, maybe a little bit more active than usual, but nothing alarming. And no signs of any masses or enlargement. Let me listen to your chest, just to be thorough. Everything sounds clear there as well. Based on what you’ve told me, and this brief exam, it sounds like you might be experiencing some trapped gas, possibly related to your diet or anxiety. It’s not anything serious, but it can definitely be uncomfortable.
+PATIENT: Oh, that’s good to hear it's not serious! Trapped gas… that makes sense. I do eat a lot of beans! And I… get nervous sometimes, yes.
+DOCTOR: Right, and beans can certainly contribute. The anxiety could also be playing a role. To start, I recommend trying to reduce the amount of gas-producing foods you eat – beans, carbonated drinks – and see if that helps. Smaller meals might also be beneficial. We can also try an over-the-counter medication called simethicone – it helps break up gas bubbles. Do you want me to write you a note for that?
+PATIENT: Yes, a note for that would be good, please. So, less beans, less soda… and that medicine. Simethicone. Okay. Is there anything else I should do?
+DOCTOR: Alright, let me write this note for the simethicone. Besides that, just try to be mindful of your stress levels. If you find yourself getting anxious, try some relaxation techniques – deep breathing exercises, meditation, whatever works for you. If the symptoms don’t improve after a week or two of trying these things, or if you develop any new symptoms – like abdominal pain, nausea, vomiting, or changes in your bowel habits – please come back and see me, and we can consider further testing. Does that sound good?
+PATIENT: Yes, that sounds good. Less beans, simethicone, try to relax. And come back if it gets worse. Okay. Thank you, Doctor. You’ve been very helpful.
+DOCTOR: You’re very welcome, Lucia. I'm glad I could help. Here's that note for the simethicone. Don’t hesitate to come back if you have any concerns. Have a good day, and try to enjoy your meals!
+PATIENT: Thank you. You too.

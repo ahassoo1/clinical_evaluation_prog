@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Puder. I'm Dr. Kur. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. My heart… it feels funny sometimes. Like it’s flapping. Not always, but… yeah, flapping. It scares my wife. She tell me come see you.
+DOCTOR: "Flapping," alright. And how long has your heart been doing this "flapping," as you put it?
+PATIENT: Hmm… maybe… two months? Maybe a little more. It started slow. Just once in a while when I work. Now… maybe two, three times a week? When I push hard at the plant. Not when I rest.
+DOCTOR: You work at a plant… physically demanding work, I presume?
+PATIENT: Yeah. Chemical plant. I check the machines, make sure everything is okay. Lots of lifting, climbing… hot work sometimes. It’s… not easy. But it’s work. I need work.
+DOCTOR: Right. And when this “flapping” happens, does it come on suddenly, or does it build up?
+PATIENT: Sudden. Very sudden. One minute okay, next minute… flap flap flap. Then maybe it stop after a few minutes. Sometimes longer. I don’t know. It’s hard to tell time when you scared.
+DOCTOR: I see. And do you feel anything else when this happens?
+PATIENT: Sometimes… I feel tired. Not like normal tired, but… weak. And a little… dizzy. Not fall-down dizzy, just… whoo. Like the room move. And my chest… feel tight. Like someone sitting on it. But not always. Just sometimes with the flapping.
+DOCTOR: Alright. And have you noticed anything that stops it?
+PATIENT: Hmmm… nothing really. I try to sit down. That help a little. And my wife… she give me tea. Sweet tea. That make me feel better, but I don’t know if the tea stop it, or just make me calm. It's hard to say.
+DOCTOR: Tea, yes. Well, let’s get some actual information, shall we?
+PATIENT: Actual information? What kind of information? I tell you what happen. Flapping, tired, dizzy… what more you need? You think I make it up? It scares my wife, you know. I don't want this.
+DOCTOR: Now, now, Mr. Puder, I didn’t say you were making anything up. But “flapping” isn’t a medical term, and we need to understand what is causing this. Have you ever been diagnosed with anything before?
+PATIENT: Diagnosed? I don't know… maybe when I was little? I sick a lot. But just normal sick. Fever, cough… nothing big. I don’t go to doctor much. No money. And… I work. Always work. No time for doctors. Never need them before. This… this is new.
+DOCTOR: Alright. And what about your family?
+PATIENT: My family? My father… he have problems with his… breathing. Old age. He cough a lot. My mother… she okay. Still alive, still cooking. But she old too. No one in my family have heart problems. Not that I know. We don’t talk about these things. It's bad luck.
+DOCTOR: Alright. And do you smoke?
+PATIENT: No. Never smoke. My wife… she would kill me. And it’s bad for you. I know that. I drink sometimes. Just beer. Not every day. When I finish work, sometimes I have one or two with my friends. But not much.
+DOCTOR: Okay. And are you currently taking any medications, even over-the-counter ones?
+PATIENT: No. Nothing. I take pain pills sometimes for my back. From lifting at the plant. But just when I really need them. Not every day. Just… when it hurt too much to move. Paracetamol, I think it’s called. The white pills.
+DOCTOR: Alright. Let’s do a quick physical exam. I want to listen to your heart and lungs, and check your blood pressure. Please lie down on the examination table.
+PATIENT: Okay. Is something bad wrong, Doctor? You look… serious.
+DOCTOR: We're just gathering information, Mr. Puder. It's standard procedure. Now, please lie flat and try to relax. Take a deep breath for me… and exhale. Blood pressure is a bit elevated… 140/90. Pulse is irregular, rapid at 98. Lungs are clear, but you're breathing is somewhat labored. Irregular heartbeat, elevated blood pressure. We'll need to run some tests. I'm going to order an EKG and some bloodwork. That will give us a better idea of what's going on.
+PATIENT: EKG? Bloodwork? What… what is wrong with me, Doctor? Is it my heart? Will I… will I have to stop working? My wife… she need me. We have bills.
+DOCTOR: Mr. Puder, please. Let’s not jump to conclusions. These tests are routine. We need to rule things out. It could be something simple. Stress, dehydration… or it could be something more. The EKG will check your heart’s electrical activity, and the bloodwork will tell us about your overall health. It’s likely nothing serious, but we need to be thorough. I’ll have the nurse draw the blood now. Order EKG and CBC. Rule out stress/dehydration. Do you have any allergies to medication?
+PATIENT: Allergies? No… I don’t think so. Never take much medicine. Maybe… a little itchy sometimes after the pain pills. But not bad. Just a little rash. Nothing serious. My wife… she give me tea when I itchy. That help. Will these tests take long, Doctor? I need to go back to work soon. The foreman… he will be angry.
+DOCTOR: The tests will take some time, Mr. Puder. The bloodwork will be sent to the lab, and the EKG technician will need to do their work. I can’t give you an exact time. And frankly, your work schedule is not my primary concern right now. Your health is. Possible mild reaction to paracetamol. I will have the nurse explain the process, and then we can discuss the results when they are available. For now, try to relax. If you experience any chest pain or severe shortness of breath, go to the nearest emergency room immediately. Do you understand?
+PATIENT: Yes, Doctor. I understand. Chest pain… emergency room. Thank you. I think… I think I need to sit down. It's… a lot. Will you tell me what it could be? Even just a little bit? Before… before I start to panic.
+DOCTOR: Mr. Puder, I understand you're anxious, but I'm not going to speculate without the test results. It could be a number of things. An arrhythmia, perhaps. Or it could be related to stress and fatigue. It's also possible your blood pressure is contributing to these symptoms. We need concrete data before we can say anything definitive. The nurse will be in shortly to take your blood and explain the EKG procedure. Until then, try to remain calm. Honestly, worrying yourself won't help. I have other patients waiting. .
+PATIENT: Okay, Doctor. Thank you. .

@@ -1,0 +1,20 @@
+DOCTOR: Alright, Mr. Withycombe. So, what brings you in today?
+PATIENT: Oh, hello Doctor. It’s… the flushing. My face gets very red. It started, hmm… maybe three weeks ago? Not every day, but often enough to worry me. It feels warm, you know? Like a hot flash, but just on my face.
+DOCTOR: Three weeks, okay. And it’s… just your face?
+PATIENT: Yes, just my face. And sometimes my neck a little. Not my chest, not my arms… just up here. <points to his face and neck> It doesn't hurt, it just… feels warm and looks red. My wife… she would always notice it, but… she’s not here anymore. That’s why I came. I thought maybe it was something new.
+DOCTOR: Right. And have you been… stressed lately?
+PATIENT: Stressed? Hmm. Well, losing my wife was very hard, of course. That was… six months ago now. <pauses, looks down at his hands> I try not to let it bother me too much. I keep busy. Garden, mostly. And I help at the temple sometimes. But… yes, I think maybe a little stressed. Is that what causes this flushing? I don’t know much about these things.
+DOCTOR: Look, it could be stress. Lots of things cause flushing. But we need to rule out other possibilities. Any other symptoms?
+PATIENT: Other symptoms… Let me think. <taps chin> No, not really. I sleep okay. I eat… normal food. Maybe a little tired sometimes, but who isn’t? No cough, no fever, no… nothing else really. Just the red face. It happens when I’m… I don’t know. Sometimes when I talk to people, sometimes when I’m just sitting. It’s very strange.
+DOCTOR: Hmm. Alright. Let's do a quick exam. Blood pressure, pulse… just to get a baseline. And I'll take a look at your face, of course. Don't get your hopes up, it's probably nothing. If you could just sit up there for me?
+PATIENT: Okay, Doctor. Whatever you think is best. I hope it isn't anything too serious. I don’t have… insurance, you see. So, big bills are… difficult.
+DOCTOR: 140/90. Pulse is… regular. Skin appears… normal. Some mild redness, as you described. No obvious lesions or anything. Have you noticed any itching?
+PATIENT: No, no itching at all. Just the warmth and the red color. And it comes and goes, you know? It's not always there. Sometimes I look in the mirror and I look perfectly normal. Then, suddenly, whoosh, red face. It's very confusing. Is this… common? Do other people get this?
+DOCTOR: It's not uncommon. Could be a number of things. Rosacea, for one. Or maybe just sensitive skin. Sometimes it’s hard to say. Any allergies to medications?
+PATIENT: Oh, allergies. Hmm. Let me think… No, I don’t think so. I haven’t taken much medicine in years. Just… pain relievers sometimes for my back, but nothing regularly. I don't think I've ever had a bad reaction to anything. My wife always handled the medicine, so I don’t really keep track. She knew everything. <pauses, looks down again> Sorry. Just… thinking out loud.
+DOCTOR: Okay. Alright. I'm going to write you a prescription for a cream. It's a mild topical steroid. Try applying it to your face twice a day when you notice the redness. If it doesn't improve in a month, come back and we'll… discuss other options. Understand?
+PATIENT: A cream? Twice a day? Yes, I understand. And… if it doesn’t work, I come back? What “other options” are there, Doctor? Is it something serious? I worry sometimes, you see. Old men… we get all sorts of things.
+DOCTOR: Look, it’s probably just a skin irritation. Don't get ahead of yourself. If the cream doesn’t work, we can talk about a referral to a dermatologist. But honestly, that’s likely unnecessary. Just try the cream first. And try to manage your stress. Gardening is good. I'll have the nurse print out the prescription for you. Do you have any other questions?
+PATIENT: Oh. A dermatologist. That sounds… expensive. No, I think that’s all for now, Doctor. Just the cream, and try not to worry. Is that right? Thank you for seeing me. I appreciate it. I'll try my best.
+DOCTOR: Right. You’re welcome. The nurse will be with you shortly. Have a good day. And try not to overthink it.
+PATIENT: .

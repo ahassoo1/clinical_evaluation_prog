@@ -1,0 +1,25 @@
+DOCTOR: Alright, Ms. Meigs. So, what brings you in today?
+PATIENT: Oh, hello Doctor Pehrson. My back… it’s been really bad. Worse than usual. It started maybe a week ago, but now… now it’s hard to even get out of bed.
+DOCTOR: Okay, “back pain.” A week, you say?
+PATIENT: Yes. About a week. Maybe a little more. It’s… it’s hard to remember exactly. But it’s definitely gotten much worse the last few days. Like something is… stuck. And it hurts to breathe sometimes, if I move the wrong way.
+DOCTOR: Alright. And… where exactly is the pain?
+PATIENT: It's… low, in my back. Right across here. But it feels like it goes around, you know? Not just right there. It makes my hips ache too, sometimes. And like I said, it feels… tight. Like a knot.
+DOCTOR: Okay, okay. So, lower back radiating... typical. Have you done anything to aggravate it?
+PATIENT: Aggravate…? You mean, did I do something? Hmm… Not really. I was gardening, maybe? A few days ago. But I garden all the time, usually it doesn’t bother me. Just the normal bending and stuff. Nothing heavy. And I haven't fallen or anything.
+DOCTOR: Gardening… Right. And any numbness or tingling in your legs?
+PATIENT: No, no numbness. Not really. Sometimes my legs feel… weak, maybe? But I think that’s just from not moving much because my back hurts so bad. It's hard to explain. It’s not like a pins and needles feeling, just… tired.
+DOCTOR: Tired… Okay. Any fever, chills, or weight loss?
+PATIENT: No, no fever. And I haven't lost any weight. I think maybe I've gained a little, if anything, because I haven't been able to get out and do much. I haven’t been feeling hungry, but that's probably just from worrying about my back.
+DOCTOR: Alright. Let's just do a quick exam. If you could lie down on the table over there, please. I need to check your reflexes and range of motion. Don't expect miracles, though. It's probably just a strain.
+PATIENT: Okay, yes, that’s fine. It feels… hard to move. You’re right, probably just a strain, I hope. I really don’t want it to be something… worse.
+DOCTOR: Alright. Lie flat, face down. Arms at your sides. And try to relax. I’m going to palpate your spine and muscles… and then we’ll check your reflexes. Don't flinch. It’ll help me figure out what we're dealing with.
+PATIENT: Okay, okay. I'm trying to relax… it's just… hard when it hurts. And… you know… with everything.
+DOCTOR: Okay… tenderness here. And here. Patellar reflex… diminished on the right. Achilles… also diminished on the right. Range of motion… limited in flexion and extension. Hmm. There’s some muscle spasm, definitely.
+PATIENT: Diminished… what does that mean, exactly? Is that bad? And the muscle spasm… is that what's making it so hard to move? It feels like it’s locking everything up. I'm sorry if I'm asking too many questions. It's just… I get worried.
+DOCTOR: It means… your nerves aren’t firing quite as strongly as they should on that side. Could be from the spasm, could be something else. Look, it's likely a pretty standard lumbar strain, aggravated by… whatever you’ve been doing. I'm going to order some X-rays just to rule out anything serious, but I doubt it’s anything major. Don't jump to conclusions. It’s probably just a bad flare-up.
+PATIENT: X-rays… okay. That sounds… good. I mean, it’s good to check, right? It just… with the cancer and everything, I always worry it's something… more. You think the pain medication will help in the meantime? Something for the muscle spasms? It’s really hard to get comfortable.
+DOCTOR: Yes, I'll write you a prescription for a muscle relaxant and some ibuprofen. Take it as directed. If it doesn't improve in a week, or if the pain gets worse, you need to come back. And, you know, try to rest. Don't overdo it. I'll have the X-ray order sent to the imaging center down the hall. They can get you in today. Here. And, to be clear, this is probably just a muscle strain. Don't worry yourself sick over it.
+PATIENT: Okay. Thank you, Doctor. Rest… and not worry. I’ll try. Do you think… is there anything I should be specifically watching for? Besides getting worse, I mean. Like, anything that would mean I need to come back right away?
+DOCTOR: Look, if you develop any numbness or tingling in your legs, or if you have any trouble controlling your bladder or bowels, go to the emergency room immediately. Otherwise, just follow up in a week. I've got other patients waiting. Here’s a discharge sheet outlining the instructions. Have a good day.
+PATIENT: Okay, numbness… or trouble with… bladder. I understand. Thank you, Doctor. Have a good day to you too. And… thank you again for seeing me.
+DOCTOR: .

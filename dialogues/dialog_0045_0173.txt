@@ -1,0 +1,23 @@
+DOCTOR: Alright, Jailenne, have a seat. So, what brings you in today?
+PATIENT: Hi Dr. Billman. Thanks for seeing me. I've just been getting the chills, you know? Like, not a fever, just…cold. It started a couple of days ago, and it hasn't really gone away.
+DOCTOR: "Just cold," huh?
+PATIENT: Yeah, exactly. It's weird because I don't feel sick, if that makes sense. No sore throat, no cough, nothing like that. Just…shivering, even when it's warm. It's a bit annoying, honestly.
+DOCTOR: Right. Well, people get chills. It’s summer, you’re probably just a little run down. Any other complaints?
+PATIENT: Um… not really. I mean, I've been a little tired, but I always am, to be honest. Divorces are exhausting, you know? But no, nothing else feels off. I just wanted to check about the chills because they're… persistent.
+DOCTOR: A divorce, huh?
+PATIENT: Yeah, it finalized about six months ago. It was…a lot. But I'm doing okay, mostly. Just trying to get back to normal, I guess. Anyway, sorry for rambling. Back to the chills – is there anything that could cause them without having other symptoms? I just want to rule anything serious out, you know?
+DOCTOR: Look, sometimes the body just…does things. Stress can manifest in a lot of ways. It could be anxiety, it could be…well, honestly, it's probably just your system readjusting. What's your typical daily routine like?
+PATIENT: Oh, okay. Well, I work as a health education specialist, so I’m on my feet a bit, doing workshops and stuff. I try to go for a walk most evenings, but sometimes I’m just too tired. I eat pretty healthy, I think – lots of veggies, lean protein. Nothing too crazy. I don't drink or smoke. And I get, you know, a normal amount of sleep, usually. Maybe a little less than I should, now that I think about it.
+DOCTOR: So, healthy lifestyle, stressful life event... Alright. Any family history of, say, thyroid problems?
+PATIENT: Hmm, that’s a good question. I don’t think so. My mom had high blood pressure, and my grandma had diabetes, but I don’t remember anyone ever mentioning thyroid issues. I’d have to ask my aunt, she’s the family historian, really. Would that even cause chills? I'm just trying to understand what you're looking for.
+DOCTOR: Thyroid problems can cause a whole host of issues. Fatigue, chills, weight changes… It's something we rule out. Let’s just do a quick exam, alright?
+PATIENT: Okay, yeah, that makes sense. Ruling things out is smart. Whatever you think is best, Dr. Billman. I’m happy to do whatever tests you need. Where should I start?
+DOCTOR: Alright. Just lie back. I'll listen to your heart and lungs, check your reflexes, and feel your thyroid. Don't worry, it'll be quick.
+PATIENT: Okay, sounds good. Let me know if anything feels… weird.
+DOCTOR: Heart rate is normal. Lungs are clear. Thyroid feels… a little enlarged. Not dramatically, but noticeable. Reflexes are normal. Alright. We'll need to run some blood work. Thyroid panel, complete blood count… maybe a vitamin D level, just to be thorough.
+PATIENT: Okay, that sounds… thorough, yeah. Vitamin D makes sense. Is the enlarged thyroid something to worry about immediately? Or is it just something we need to investigate with the blood work? I get a little anxious about stuff like this.
+DOCTOR: Look, don't jump to conclusions. "Enlarged" is a relative term. It could be nothing. But we need to rule out any underlying issues. It’s standard procedure. The blood work will give us a clearer picture. I’ll have the nurse draw some samples. You’ll get the results in a few days. Try not to stress about it.
+PATIENT: Okay, okay, you're right. Don't jump to conclusions. I just… I guess I’m always worried about something being seriously wrong. A few days, okay. Where should I go to get the blood work done? Is it here at the clinic? And do I need to fast beforehand?
+DOCTOR: The nurse will give you a lab slip. It’s just down the hall, first door on the left. And yes, you do need to fast for at least eight hours beforehand. No food or drinks besides water. Anything else?
+PATIENT: No, I think that’s everything. Eight hours fasting, got it. Thank you, Dr. Billman. I appreciate you checking things out. Hopefully it’s just… stress. .
+DOCTOR: Right. Stress. The nurse will be in shortly. .

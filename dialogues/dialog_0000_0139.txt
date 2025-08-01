@@ -1,0 +1,25 @@
+DOCTOR: Well, Mr. Shanor, good to meet you. So, what brings you in today?
+PATIENT: Uh, yes. Doctor Batara, right? I… I need check for… for referee. For fitness. I want to be sure I am okay to do it. It’s… important.
+DOCTOR: Referee?
+PATIENT: Yes. Basketball. I referee games. They want… evaluation. For health, you know? To make sure old man can still run. It’s for the league. They have rules now.
+DOCTOR: Right. A physical for basketball refereeing. That’s… good they’re doing that. So, you're concerned about being physically fit enough to keep up with the games. Tell me, how many games a week are you typically doing?
+PATIENT: Usually… two. Sometimes three if playoffs. It’s a lot of running, stopping, starting. Not like… professional, but still. High school games. Lots of teenagers. They are fast. Sometimes I feel it after.
+DOCTOR: Okay. And when you say “feel it,” what exactly do you mean?
+PATIENT: Uh… tired. Very tired. And… sometimes my chest… feels tight. Not always, but after a really fast game, yes. Like… hard to breathe for a little bit. It goes away, but… it’s there.
+DOCTOR: Tightness in the chest after exertion… Alright. Have you ever had that checked out before, Mr. Shanor?
+PATIENT: No. Never. This… new. Only last few months. I thought… just old man getting old. My wife… she would have made me go. But… she is gone now. So… I just try to ignore it.
+DOCTOR: I see. Well, ignoring chest tightness isn’t something I recommend. We need to rule out anything serious. Do you have any history of asthma, or heart problems in your family?
+PATIENT: Uh… asthma, no. My… my father, he had… high blood pressure, I think. And… his brother, maybe something with his heart. But I don't know much. We didn't talk about it much. It was long time ago.
+DOCTOR: Alright. And what about any other medical conditions you have?
+PATIENT: No. Nothing. Just… a little bit of back pain sometimes. From… bending over at work. I fix… the insides of furnaces. It’s… hard work. Not important, I think.
+DOCTOR: Okay. Any allergies to medications?
+PATIENT: No. None that I know of. I… I don’t take much medicine. Just… pain pills sometimes for my back. Nothing regular.
+DOCTOR: Alright. And are you currently taking any medications at all, even over-the-counter things?
+PATIENT: No! No medicine. Sorry. Just… sometimes I take a vitamin. For old people. It’s… a multivitamin. That's all. I promise. I just want to see if I can still referee. That’s it.
+DOCTOR: Okay, Mr. Shanor. We'll get to that. But first, we need to do a proper examination to make sure it’s safe for you to be running up and down a basketball court. Let's start with your blood pressure and heart rate. Then I'll listen to your lungs and heart. Is that alright?
+PATIENT: Yes. Okay. Blood pressure is… good. I think. I had it checked at work. But… you check anyway. That is good. Let’s just get it done. I have things to do.
+DOCTOR: Blood pressure is 148 over 92. A little elevated. Heart sounds… slightly irregular. Lungs are clear, but your breathing is a little rapid. Mr. Shanor, your heart isn’t quite as strong as it should be, and this irregularity needs to be investigated. I’m going to order an EKG and some blood work. We need to rule out any underlying heart condition before you continue refereeing.
+PATIENT: Uh… EKG? Blood work? That sounds… bad. Can’t I just… stop running so much? Maybe just do easier games? I really need to know if I can still do this. It’s important to me. Is it… is it serious?
+DOCTOR: “Just stop running so much” isn’t a medical diagnosis, Mr. Shanor. You’re experiencing chest tightness and have an irregular heartbeat. Ignoring these symptoms could lead to something very serious. The EKG will check your heart’s electrical activity, and the blood work will give us a clearer picture of your overall health. I'm also going to order a chest X-ray just to be thorough. We need to rule out anything concerning before you put any strain on your heart. I'll have the lab draw the blood now, and then we can schedule the EKG and X-ray. Do you have any questions?
+PATIENT: No… no questions. Just… how long will this take? I… I need to know if I can referee the league finals. They are next month. It's… important. .
+DOCTOR: Mr. Shanor, I understand it’s important to you, but we need to prioritize your health. The tests will take a few days to schedule and process. I can’t give you a definitive answer about the finals until we have the results. Right now, I advise you not to referee any more games until we get these tests back. Here’s a requisition form for the blood work. The lab is just down the hall. Please schedule the EKG and X-ray with the receptionist on your way out. We will call you with the results as soon as they are available. And frankly, you should consider a referral to a cardiologist. Next!

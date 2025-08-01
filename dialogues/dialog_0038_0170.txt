@@ -1,0 +1,32 @@
+DOCTOR: Good morning, Mr. Putney. Welcome to the clinic. I'm Dr. Auelua. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just here for a life insurance thing. They need me to get checked out. Want to get it over with if we can, you know?
+DOCTOR: Right, a life insurance check-up. Understandable. We can certainly get that done for you. Just to start, can you tell me a bit about your general health?
+PATIENT: Eh, it's okay, I guess. I'm… not as young as I used to be. A little bit of everything aches, if I’ve been on my feet a lot with work. I manage a few hotels, so it keeps me moving. Nothing major, though. No big problems. I have Medicare, so they keep an eye on things.
+DOCTOR: That's good to hear you're generally okay, and it's helpful to know about the hotel management – that does sound physically demanding. And having Medicare is great. Let's just go through a few things to get a better picture. Have you been diagnosed with any medical conditions – things like high blood pressure, diabetes, or heart problems?
+PATIENT: Nope, nothing like that. Doctors have checked me over a few times, regular stuff, and said I was alright. Blood pressure was a little high once, but it went back down after a few months. They didn't say it was anything to worry about. I don’t really keep track of all that, honestly.
+DOCTOR: Okay, that’s good to know. And you said it went back down – did they recommend any lifestyle changes or medication at the time?
+PATIENT: No, not really. Just told me to watch my salt, I think. I try to, but with the hotels… lots of quick meals, you know? It's hard. Nothing they made me take or anything. Just… advice.
+DOCTOR: Alright, that's helpful. Have you ever had any surgeries?
+PATIENT: No, never. Nope. Not a fan of hospitals if I can avoid ‘em.
+DOCTOR: Good to know. Now, thinking about your family… are there any medical conditions that run in your family – things like heart disease, cancer, diabetes, or anything else that's common?
+PATIENT: Um… my mom, she had some problems with her heart when she got older. Not sure exactly what. And my uncle, on my dad’s side, he had… cancer, I think. Lung cancer. But that was a long time ago. I don’t really know much about it, to be honest. Family doesn’t talk about that stuff much.
+DOCTOR: Okay, that’s alright. Knowing about the heart problems and cancer is a good starting point. And you mentioned not much discussion around medical history - that’s fairly common. Just to get a complete picture, could you tell me about any medications you’re currently taking – prescription or over-the-counter?
+PATIENT: Not really. Just… sometimes I take something for aches and pains. Like ibuprofen, if I've been on my feet all day. Nothing regularly. Just when I need it.
+DOCTOR: Alright, ibuprofen as needed for aches and pains. And do you have any allergies to any medications or anything else – like food or pollen?
+PATIENT: Nope. Not that I know of. Never had a reaction to anything. I eat pretty much whatever. No problems there.
+DOCTOR: Okay, good. That’s helpful. Now, just a couple of quick questions about your lifestyle. Do you smoke, or have you smoked in the past?
+PATIENT: No, never. Nope. Don't like it. Makes me cough just thinking about it. Hotels get enough smoke from other people.
+DOCTOR: That’s good to hear. And how about alcohol?
+PATIENT: Um… I have a beer sometimes. Maybe a couple on a weekend. Nothing big. Not every week, even. Just when I’m relaxing, you know?
+DOCTOR: Alright, a couple of beers occasionally. That’s good to know. And finally, do you do any regular exercise?
+PATIENT: Eh, not really “exercise.” I'm on my feet all day at work. That’s enough, I figure. Lots of walking, checking things, dealing with… people. That’s exercise enough for me. It's tiring, let me tell you.
+DOCTOR: Alright, that gives me a good overview of your health history. Now, I’d like to do a quick physical exam, if that’s okay with you. Just listen to your heart and lungs, check your blood pressure, and a quick look at your throat and ears. Standard stuff for the insurance check-up. It won’t take long. Would that be alright?
+PATIENT: Yeah, sure. Let’s just get it over with, huh? The sooner done, the better. I got things to do.
+DOCTOR: Sounds good. If you could just sit up there for me, we'll get started. First, I'm going to check your blood pressure. Okay, your blood pressure is a little elevated today – 142 over 88. We’ll keep an eye on that. Now let’s listen to your heart and lungs. Lungs sound clear, and your heart sounds regular. Now, can you open your mouth for me?
+PATIENT: Alright. Just let me know when it's done. I don't like having things poked around in there.
+DOCTOR: Everything looks good in your throat. Now, just leaning your head back a little… let me take a quick look in your ears. Ears look clear as well. Okay, that completes the physical exam. I'm going to order some blood work just to get a more detailed picture of your overall health – cholesterol, blood sugar, and a complete blood count. It’s standard for this type of check-up. Would that be alright?
+PATIENT: Yeah, sure. Whatever they need. Just tell me where to go to get it done. Hopefully it won't take too long. I got things I need to be doing.
+DOCTOR: Alright. There’s a lab just across the street – I'll write you a requisition. It should only take about 30 minutes. We'll get the results back in a few days, and I'll give you a call to discuss them. In the meantime, I recommend keeping an eye on your salt intake and trying to get a little more activity if you can. It doesn't have to be strenuous - even a short walk each day can make a difference. Do you have any questions for me at this point?
+PATIENT: Nope. Don’t think so. Just hoping everything’s okay so I can get this insurance sorted out. Thanks, Doctor. That’s all. I guess I’ll head to the lab now.
+DOCTOR: Alright, Mr. Putney. We’ll be in touch once the results are back. It was nice meeting you. Don't hesitate to call the clinic if you have any questions before then. Have a good day.
+PATIENT: Yeah, you too.

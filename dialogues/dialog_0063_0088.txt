@@ -1,0 +1,27 @@
+DOCTOR: Good morning, Mr. Dhanoa. I am Dr. Jules. Now, let’s not waste time. What brings you in today?
+PATIENT: Morning, Doctor. It’s this ringing in my ears. It's been happening for a bit now, and it’s… annoying, to say the least. I just want to figure out what it is, if that makes sense.
+DOCTOR: Annoying is… a rather subjective term, wouldn't you agree?
+PATIENT: Yeah, okay. But it is pretty distracting. Like, a constant… buzzing. It makes it hard to concentrate, you know? Especially at work. It’s just… there. All the time.
+DOCTOR: Very well. And when did this… “buzzing” begin?
+PATIENT: Hmm… let me think. It started… probably around three weeks ago, I’d say? Maybe a little longer. It was gradual, not like it just popped up one day. I figured it'd go away on its own, but it hasn’t.
+DOCTOR: Three weeks…gradual onset. And has anything specific triggered it?
+PATIENT: Triggered? Not that I can think of, honestly. Nothing big. I was at a wedding a couple of weeks ago – it was pretty loud, lots of music – but I’ve been to loud places before. Work's pretty noisy too, you know, a busy restaurant. But…no, nothing specific.
+DOCTOR: A restaurant, you say?
+PATIENT: Yeah. I’m a waiter. Lots of chatter, clanging dishes… it’s a pretty lively place. I’m on my feet all day, running around. It's not the quietest job, that’s for sure. Is that… relevant? I'm not sure what you’re getting at.
+DOCTOR: I assure you, I am getting somewhere. Now, tell me about any other symptoms. Headaches?
+PATIENT: Headaches… not really. Not with this, anyway. Maybe a little tired sometimes, but that's just from work, you know? Long shifts on my feet. No dizziness or anything like that. Just… the ringing. It's the main thing. And it's… it’s in both ears, actually. Not just one. Does that matter?
+DOCTOR: Both ears. Bilateral. Hmm. And any history of… exposure to loud noises outside of work?
+PATIENT: Not really. Like I said, the wedding was a bit loud, but I go to the occasional concert, nothing crazy. I used to listen to music fairly loud on headphones, I guess, but I’ve cut back on that a lot recently. It hasn’t been a habit for years. Is that what you’re thinking? The headphones? I can't remember exactly when I stopped using them much.
+DOCTOR: I am attempting to establish a pattern, Mr. Dhanoa. Now, let’s move on. Any family history of hearing problems?
+PATIENT: Hmm… that’s a good question. My grandfather on my mum’s side… I think he had trouble hearing towards the end of his life. But he was really old, you know? Like, in his nineties. And he never really took care of himself, if that makes sense. It's hard to say if it was… genetics or just old age. No one else that I can think of. Why? Is that important?
+DOCTOR: It is all relevant, Mr. Dhanoa. Now, and I trust you will be concise… any medications you are currently taking?
+PATIENT: Just… allergy pills. Sometimes. When the pollen count's bad. Nothing else. Standard stuff. And I haven’t been sick or had any serious illnesses recently, if that matters. Honestly, I just want to know what’s causing the ringing, and if there’s anything I can do about it. I'm a bit stressed with work as it is.
+DOCTOR: Very well. I will need to conduct a brief examination. Please sit forward. And refrain from speaking unless prompted.
+PATIENT: Alright. Whatever you need. Let’s just get it done.
+DOCTOR: External auditory canals appear clear bilaterally. Tympanic membranes are… unremarkable. Weber is midline. Rinne is positive bilaterally. Hearing appears grossly intact. Do you experience any dizziness or vertigo?
+PATIENT: No, Doctor. None at all. Not even a little bit. Just…the ringing. It’s constant, but it’s not…spinning, or anything like that. Just a buzzing in my ears. It gets louder sometimes, quieter other times. But it’s always there. Is this… normal? Like, is there nothing actually wrong with my ears?
+DOCTOR: “Normal” is a rather… broad term, Mr. Dhanoa. Based on my limited examination, there is no obvious external cause. It is… likely tinnitus. Stress and noise exposure are common culprits. I recommend reducing your exposure to loud sounds and managing your stress levels. I will provide a referral to an audiologist for a comprehensive hearing evaluation. Do you have any further questions?
+PATIENT: So… it’s just… in my head? Because of stress and work? That’s it? I mean, I get that's probably true, but… is there nothing else? No medicine or anything? And an audiologist? That sounds expensive. Is it covered by insurance? I… just feel a bit…disappointed. I thought there’d be something more… concrete. I just want it to stop.
+DOCTOR: Mr. Dhanoa, I am a physician, not a magician. Tinnitus is often idiopathic. An audiologist can assess your hearing levels and rule out other potential causes. Insurance coverage is… beyond my purview. I will provide you with the referral information. Reduce your stress. Limit noise exposure. That is my recommendation. Do you require anything further?
+PATIENT: No, I… I guess not. Thank you, Doctor. I'll… see what the audiologist says. .
+DOCTOR: .

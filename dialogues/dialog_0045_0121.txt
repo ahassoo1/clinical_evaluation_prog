@@ -1,0 +1,24 @@
+DOCTOR: Alright, Mr. Pipolo, have a seat. So, what brings you in today?
+PATIENT: Dry eyes. They just… feel dry. All the time now, it seems. Hurts to blink sometimes. Don't know what to do about it.
+DOCTOR: Dry eyes, huh?
+PATIENT: Yeah. Been happenin' for… oh, I dunno, maybe a month or so? Longer? Time gets away from me, you know. It's just annoying. Makes it hard to see good when I'm workin'.
+DOCTOR: Right, "time gets away from you". Well, a month or longer is long enough to get it checked out. Do you have any other symptoms along with the dryness?
+PATIENT: Other… symptoms? Hmm. Not really. Just dry. Sometimes feels kinda gritty, like sand in 'em. And I gotta blink a lot. That's about it. I don't see blurry or nothin'.
+DOCTOR: Gritty… okay. And is this in both eyes, or just one?
+PATIENT: Both, I think. Hard to tell sometimes. They both feel the same, mostly. Not one worse than the other. I ain't paid much attention, to be honest. Just wanted 'em to stop feelin' so… scratchy.
+DOCTOR: Alright. Now, are you on any medications currently?
+PATIENT: Medications? No. Never been on any. Just… old. That's it. I don't take pills or nothin'.
+DOCTOR: Alright. And any allergies to anything?
+PATIENT: Allergies? Not that I know of. Never had trouble with pollen or cats or… anything. I work with cement all day, that's about it. Gets dusty, but I'm used to it.
+DOCTOR: Cement dust… that could be contributing, certainly. Now, let’s talk about your medical history. Have you ever been diagnosed with anything serious?
+PATIENT: Serious…? Not really. Had the flu a few times, maybe. Broke my arm when I was a kid, fell outta a tree. But nothin' a doctor ever had to look at for long. I’m a tough old bird.
+DOCTOR: Right. And what about your family?
+PATIENT: Family…? Most of 'em are gone now. My brother, he had… somethin' with his heart, I think. Long time ago. Mom and Dad, they just… got old. Nothin’ special that I remember. They weren't sick folks.
+DOCTOR: Alright. Well, let's take a quick look at your eyes. I just want to check the surface and see if there’s any irritation. If you could sit here and look straight ahead for me?
+PATIENT: Okay. Hurry it up, would ya? Got work to get back to.
+DOCTOR: Hmm. A little dryness, as you said. Some mild punctate staining on both corneas – that’s just tiny scratches, likely from the irritation. Not too concerning at this point. Eyelids look normal. Tear production seems a bit low, but not dramatically so. Alright. It seems you have moderate dry eye. This is common, especially with age and exposure to dust. We can try some over-the-counter artificial tears. Use them frequently – four to six times a day. If those don’t help, we can talk about prescription options, but let's start simple.
+PATIENT: Artificial tears? Like… eye drops? You sell 'em here? I ain't lookin' for nothin' fancy, just somethin' to make 'em stop burnin'. And how much are these gonna cost me?
+DOCTOR: Yes, eye drops. Several brands. They're over-the-counter, so you can get them at any pharmacy. I don't know the exact cost, it varies. Here’s a recommendation for a brand that’s generally well-tolerated. And look, I'm not going to get into a discussion about prices. They’re eye drops. If the over-the-counter ones don't work, then we’ll talk about more expensive options. But let's try this first. And try to avoid getting dust in your eyes if possible. Easier said than done, I know. Any questions?
+PATIENT: No. Just… eye drops. Okay. Thanks, I guess. Can I go now?
+DOCTOR: Yes, you can go. Follow up with me in a month if there's no improvement. And try not to rub your eyes. It'll only make it worse. .
+PATIENT: Alright. Rubbin' my eyes… like that’s gonna help. Waste of time, this whole thing.

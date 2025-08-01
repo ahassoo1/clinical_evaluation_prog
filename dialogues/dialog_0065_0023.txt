@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Mr. Bulaong. I’m Dr. Duplichan. So, tell me, what brings you in to see me today?
+PATIENT: Good morning, Doctor. Uh, my chest… it hurts. Not all the time, but it does hurt. Like… a pain, you know? In my breast.
+DOCTOR: A pain in your chest, alright. And when you say “chest,” are you referring to your… pectoral muscle area, or are you feeling it more internally?
+PATIENT: Um… inside. Not the muscle. It’s… here. Like… in the breast part. It's hard to explain. Not like a muscle ache, for sure.
+DOCTOR: “Breast part,” you say. And is this pain constant, or does it come and go?
+PATIENT: It comes and goes. Mostly… when I move around a lot. Like, when I’m on the roof at work. But sometimes… even when I’m just sitting. It’s not always there, you know? It just… happens.
+DOCTOR: Alright. And how would you describe the pain?
+PATIENT: Hmm… It’s not a sharp pain. More like… a heavy ache. Like something’s… pressing. Not really bad, but… noticeable. It’s not like a stabbing, or anything. Just… heavy. Sometimes it feels kinda… sensitive, you know? Like if I touch it. But not always.
+DOCTOR: Sensitive to the touch. And when did this start?
+PATIENT: Maybe… a month ago? I don't really remember exactly. It started slow, just a little bit. I didn't think much of it at first. Just figured I worked too hard. But it hasn't gone away.
+DOCTOR: A month ago, gradually worsening. Have you noticed any other symptoms accompanying this pain?
+PATIENT: No… not really. Nothing I can think of. No… lumps, or anything. No changes in my skin, I don't think. Just the pain. And… maybe a little tired, but I always tired after work. It’s hard work, you know?
+DOCTOR: Right. And do you have any significant past medical history?
+PATIENT: No. Not really. I haven't been to the doctor in… a long time. Maybe… a broken arm when I was a kid? But that was a long time ago. Nothing else. I’m usually… pretty healthy.
+DOCTOR: Any family history of… heart problems, or cancer?
+PATIENT: Hmm… that’s a good question. My mom… she had some problems with her heart, I think. Old age, mostly. But… cancer? Not that I know of. Nobody talked about it much. My wife might know more.
+DOCTOR: Alright. And what sort of work do you do?
+PATIENT: I’m a roofer. I put roofs on houses. It’s… hard work. A lot of lifting, climbing… walking on the roof. It's good money, but hard on the body.
+DOCTOR: Roofing. And are you currently taking any medications, vitamins, or supplements?
+PATIENT: No. Nothing. I don’t take anything. Just… water. And sometimes coffee, but that’s it. I try to stay away from pills if I can.
+DOCTOR: Very well. I’d like to perform a physical exam now. Please lie down on the examination table. We'll start with listening to your heart and lungs, and then I’ll need to palpate your chest area. Do you have any allergies I should be aware of?
+PATIENT: No allergies. Okay, I can lie down. Is… is something wrong, Doctor? You look a little worried.
+DOCTOR: Mr. Bulaong, I'm simply being thorough. It's my job to assess all possibilities. Now, please remove your shirt and lie flat on the table. I need to listen to your lungs and heart first.
+PATIENT: Okay. It’s kinda cold in here.
+DOCTOR: Alright. Take a deep breath in… and exhale slowly. Another deep breath… and exhale. Your heart rate is slightly elevated, but that could be from the physical exertion of your job. Lungs are clear bilaterally. Now, I'm going to palpate your chest area. Please let me know if anything feels particularly tender.
+PATIENT: Okay… Ow. Right there. That hurts a little. Not bad, but… yeah. It’s kinda sensitive.
+DOCTOR: Hmm. There appears to be some tenderness to palpation in the left pectoral region. No palpable masses at this time. It's difficult to determine the source of this pain without further investigation. Given your age, occupation, and description of the pain, several possibilities exist. It could be musculoskeletal in nature – a strained muscle or inflammation of the cartilage in the rib cage. However, we cannot rule out other, more serious causes without further workup. I recommend a chest X-ray to rule out any underlying lung or heart abnormalities. Additionally, I’d like to order blood work to check for inflammation and rule out any cardiac enzymes.
+PATIENT: X-ray? Blood work? Is it… serious, Doctor? I don’t have insurance, you know.
+DOCTOR: Mr. Bulaong, I understand your concern about the cost. However, it’s my professional responsibility to conduct a thorough evaluation to determine the cause of your pain and ensure it’s not something serious. While it may not be serious, we cannot know that without these tests. As for the cost, I can see if the clinic has any financial assistance programs available. We can also discuss options for a more affordable payment plan. Ignoring this pain will not make it go away, and could potentially lead to more significant complications down the line. We'll start with the X-ray. I’ll write you a referral. Do you have any questions at this point?
+PATIENT: Okay… financial assistance… that would be good. X-ray… alright. Will it hurt? And… how long will it take? I have to work, you know. I can't be missing too many days.
+DOCTOR: The X-ray itself is painless, Mr. Bulaong. You'll simply stand or lie down while a machine takes an image of your chest. It should only take about ten to fifteen minutes. The results, however, will take a little longer. Usually, we receive them within twenty-four to forty-eight hours. We can schedule a follow-up appointment to discuss the results as soon as they are available. In the meantime, avoid any strenuous activity that exacerbates the pain. If the pain worsens significantly, or you experience any shortness of breath, dizziness, or sweating, please go to the nearest emergency room immediately. Do you understand?
+PATIENT: Okay… no lifting… got it. Shortness of breath… alright. Thank you, Doctor. I hope it’s nothing… serious.
+DOCTOR: We'll know more once we have the X-ray results. I’ve also included a list of local imaging centers that accept self-pay patients. Here’s my card; please contact the clinic if you have any questions before your follow-up appointment. Is there anything else I can assist you with today, Mr. Bulaong?
+PATIENT: No… I think that’s all. Thank you, Doctor. I’ll… I’ll schedule the X-ray.
+DOCTOR: Very well. Get it done as soon as possible and schedule a follow up appointment with the clinic. Have a good day, Mr. Bulaong. .

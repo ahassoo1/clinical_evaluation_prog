@@ -1,0 +1,36 @@
+DOCTOR: Alright, Mr. Bigger, good to see you. Or... good to meet you. I’m Dr. Gorga. Now, what brings you in today?
+PATIENT: Hmph. Good to meet you too, I suppose. They told me to come. Something about the mine. Been working there a long time, you know. Long time. They say I need to be checked 'cause of... the air? I don’t feel nothing wrong. Nothing at all.
+DOCTOR: Right, the mine. Yes, yes. Occupational health check-up. Air quality... hmm. Well, that's good you're not feeling anything specifically. Still best to be thorough, you know?
+PATIENT: Thorough? They waste good money on this thoroughness. I been down in that hole for forty years! Forty years breathing that air! If something was gonna happen, it would have happened already, wouldn’t it?
+DOCTOR: That's... a fair point, Mr. Bigger. Forty years is a long time. But things can develop slowly, you see?
+PATIENT: Slowly? Like what? Like I’ll wake up one day with… what? Feathers? I’m a strong man! Used to carry twice my weight, I tell you. Twice! And I eat good food. Good Nigerian food. Not this… this fancy stuff they try to give you in hospitals.
+DOCTOR: No, not feathers, Mr. Bigger. Not at all. We're looking for things like... changes in your lung function, maybe. Just to make sure everything’s still in working order. It’s a routine check. Now, let’s just go through a few questions, alright?
+PATIENT: Lung function? You think my lungs are broken? I told you, I been down there forty years! They’d be broken a long time ago if they were gonna break! Questions? What kind of questions? About the mine? I know that mine inside and out, boy.
+DOCTOR: No, not broken, Mr. Bigger. Just… assessing. And not specifically about the mine, no. More about you. Have you had any cough recently?
+PATIENT: Cough? Hmph. A little one sometimes, in the mornings. Old man cough, you know? Everyone gets one. Nothing to worry about. Dust, probably. Always dust down there. It's a mine! You expect flowers?
+DOCTOR: Right, a morning cough. And how long have you had this cough, Mr. Bigger?
+PATIENT: Oh, I don't know. Years! Always been a little one. Like I said, old man cough. Comes and goes. Never bothered me none. You try breathing rock dust for forty years and see if you don't get a cough.
+DOCTOR: Alright. And has that cough been getting worse recently?
+PATIENT: Worse? No. Maybe a little more sometimes in the winter. Cold air, you know? Makes everything tighter. But it goes away when it warms up. Look, are you gonna poke me with needles or something? Because I don't like needles.
+DOCTOR: No needles yet, Mr. Bigger. We'll start with just listening to your lungs, alright?
+PATIENT: Listening? You want to listen to my lungs? What are you, a doctor or a mechanic? You think you can tell something’s wrong just by listening? Hmph. Fine. But don't go poking around too much. And make it quick, I haven’t got all day.
+DOCTOR: Alright. Just breathe normally, Mr. Bigger. Deep breaths in and out. Hmm... and again, please. I'm just checking for anything unusual.
+PATIENT: In… out… like this? You hear anything? Probably just the sound of a strong man's lungs, I reckon. Forty years, remember? You don't get lungs like these just sitting around!
+DOCTOR: Alright. I do hear some… mild wheezing, Mr. Bigger. Nothing too concerning at this point, but it's good we're checking it out. Have you ever been diagnosed with asthma or bronchitis?
+PATIENT: Asthma? Bron… what? No! I’m a strong man! Strong Nigerian man! Never been sick a day in my life! Well, maybe a little fever when I was a boy, but that was a long time ago. Wheezing? What's wheezing? Sounds like one of those fancy hospital words.
+DOCTOR: Wheezing is just a whistling sound when you breathe, Mr. Bigger. It can happen with… irritation in the airways. Now, have you noticed any shortness of breath, even when you’re not doing anything strenuous?
+PATIENT: Shortness of breath? When I'm climbing that hill to get to the mine? Of course! That hill is steep! But when I'm sitting? No. Never. I can sit for hours, telling stories. A strong man can do anything.
+DOCTOR: Alright. And do you smoke, Mr. Bigger?
+PATIENT: Smoke? Hmph. I used to, back in Nigeria. When I was a young man. But that was a long time ago. Stopped when I came here. Bad for you, you know. Waste of good money.
+DOCTOR: Alright. Good. Now, let’s talk about any other medical problems you might have had. Any trouble with your heart, diabetes, high blood pressure...?
+PATIENT: Heart? Strong as a lion! Never had trouble with my heart. Diabetes? What's that? Some kind of sugar sickness? I eat good food, like I said. And high blood pressure? I don't go around shouting all the time! A calm man, that's me. Never had problems with any of that fancy stuff.
+DOCTOR: Alright. Well, we've got your height and weight recorded, and you mentioned stopping smoking. Let’s just do a quick blood pressure check, just to be sure, alright?
+PATIENT: Blood pressure? Again? I told you, I don’t shout! Fine. But make it quick. I’m starting to get a headache with all these questions. And don't poke me too hard.
+DOCTOR: Okay. Blood pressure is a little elevated, 142/90. Nothing terribly concerning, but we'll want to monitor it. Do you know your cholesterol numbers?
+PATIENT: Cholesterol? What in the world is cholesterol? Sounds like one of those things they put in fancy food. I eat Nigerian food, you know. Good food. Not that… that fancy stuff. I don't go around looking at numbers, I go around working.
+DOCTOR: Alright, Mr. Bigger. We can order some blood work to check your cholesterol and other levels, just to get a baseline. It’ll give us a better picture of your overall health. Would that be alright?
+PATIENT: Blood work? More poking and prodding? Look, I came here 'cause they told me to come. I don't like needles, and I don't like all this fuss. But if you have to, fine. Get it over with. Just tell me when it’s done. And no surprises, you hear?
+DOCTOR: Alright, Mr. Bigger. We'll get the blood work ordered. It will be a standard panel. The nurse will come in shortly to draw it. It’ll just be a few vials. In the meantime, I recommend you continue to eat a healthy diet, and try to get regular, moderate exercise. We’ll schedule a follow-up appointment to discuss the results in a week or two. Does that sound acceptable?
+PATIENT: A week or two? Humph. More waiting around. Fine. But don't expect me to be changing my diet. I eat good food. Nigerian food. And exercise? Working in that mine is exercise enough! A strong man doesn't need more exercise. Get it over with. Just tell the nurse not to poke too hard.
+DOCTOR: Alright, Mr. Bigger. I understand. The nurse will be in shortly. We'll take it from there. Thank you for coming in today. If you experience any new symptoms, such as severe shortness of breath or chest pain, please come back immediately, or go to the nearest emergency room.
+PATIENT: Hmph. Emergency room! As if! Fine. Just… get it over with. And don't bother me with any fancy talk. .

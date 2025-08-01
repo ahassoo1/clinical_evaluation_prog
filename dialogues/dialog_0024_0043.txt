@@ -1,0 +1,37 @@
+DOCTOR: Good morning, Mr. Gibbel. I am Dr. Mutnick. Now, please, tell me – in as concise a manner as possible – what brings you in to see me today?
+PATIENT: Morning, Doctor. Percell Gibbel, that's me. Well, it's this headache. Right in the back of my head, kinda feels like a tight band squeezing. Been botherin' me for… oh, maybe a week now? Not constant, comes and goes, but when it’s here, it's a real nuisance.
+DOCTOR: A week, you say?
+PATIENT: Yep, about a week. Maybe a little longer, hard to say exactly. I don't usually bother with things unless they really get bad, you know? But this one... it just wouldn't quit. It’s not the worst pain, but it's there, and that’s what’s got me worried. It's a new kind of ache, if that makes sense.
+DOCTOR: New, you say. And can you describe the pain a little more precisely?
+PATIENT: Well, it's not sharp, not like a stabbing thing. More... dull. Like a pressure. And it feels kinda… spread out? Not just one spot, but across the whole back of my head and sometimes a little bit at the base of my neck. It doesn’t really throb, just… is. Does that make any sense? I’m not very good at explainin’ these things.
+DOCTOR: It's… adequate. And does anything make it worse?
+PATIENT: Hmm… let me think. Bright lights don't seem to bother it, and neither does loud noise, thankfully. I noticed it gets a little worse when I'm lookin’ down for a long time, like when I'm workin' on someone's finances. And… maybe a bit when I’m stressed? But honestly, who isn't stressed these days? It’s hard to tell if that’s it, or just a coincidence.
+DOCTOR: Finances, you say. And are you experiencing any other symptoms alongside this headache?
+PATIENT: No, not really. No fever, no blurry vision, no dizziness. Not nauseous or anything like that. Just the headache. I sleep alright, eat alright... well, as alright as an old man can, ha! I've been a little more tired lately, but I figured that's just gettin' older. Everything aches a little more when you hit eighty-four, you know?
+DOCTOR: “As alright as an old man can.” Right. Let's move on to your medical history. Have you been diagnosed with any significant conditions previously?
+PATIENT: Well, nothing major. High blood pressure, years ago, but it was pretty well controlled with medication for a long time. Doctor took me off of it a few years back, said my numbers were good enough. Had some arthritis in my knees, but that's just the usual wear and tear. I've been pretty lucky, honestly. Never had any serious illnesses or anything like that. Just the usual aches and pains of gettin' old, ha!
+DOCTOR: And any surgeries, Mr. Gibbel?
+PATIENT: Let me think… Oh! Years ago, when I was still workin' in the fields, I cut my arm pretty bad. Had to get stitches, but it wasn't anything big. And… I had my appendix out when I was a boy, but that was a long, long time ago. Other than that, nothin'. I've always been careful, tried to avoid things that might need a doctor's attention, ha!
+DOCTOR: Family history?
+PATIENT: Hmm… that’s a tricky one. My parents… they passed away when I was young, before a lot of these modern tests. My mother… she had headaches sometimes, I remember that. But they didn’t seem like these kinds of headaches. My father… he was a strong man, but he had heart trouble later in life. And my siblings… well, we were a big family, scattered all over. I haven't kept track of everyone's medical problems, if I'm honest. It’s hard to keep up.
+DOCTOR: Allergies?
+PATIENT: No allergies that I know of. Never had a reaction to any medicine or anything like that. I can eat anything, thankfully. My wife… she was allergic to peanuts, but that wasn't me. I've always been pretty lucky that way, ha!
+DOCTOR: And are you currently taking any medications, prescriptions or over-the-counter?
+PATIENT: Nope. Not a single one. I try to avoid 'em if I can. Always figured too much medicine can't be good for ya. Just a little ibuprofen now and then for my knees, if they're really botherin’ me, but that’s it. I like to keep things natural, if possible.
+DOCTOR: Alright. Please lie down on the examination table. I’ll need to do a brief neurological examination.
+PATIENT: Okay, Doctor. Sounds good. Just let me know if you need me to do anything special. Getting a little old to be doin’ acrobatics, ha!
+DOCTOR: Now, follow my finger with your eyes. Do not move your head. And tell me when you can no longer see it.
+PATIENT: Okay, I'm followin' it... Still seein' it... Yep, still there... Uh... I think I see it... just barely... Oh, now I lost it. Right about… there.
+DOCTOR: Good. Now, squeeze my hands as tightly as you can.
+PATIENT: Like this, Doctor? I'm tryin' not to break anything, ha! Not as strong as I used to be, but I'm still got some grip left.
+DOCTOR: Adequate. Now, I want you to close your eyes and tell me if I’m touching your skin.
+PATIENT: Okay, eyes closed. Go ahead, Doctor. Yep… I feel that. Right there on my arm. And… now my leg. Yep, feel that one too. Still feelin' 'em both.
+DOCTOR: And finally, let me check your reflexes. Hmm.
+PATIENT: Oh! That tickles a bit, ha! Feels alright though. Not much of a reaction, but… I ain’t as young as I used to be, Doctor. Is everything okay?
+DOCTOR: Your neurological examination is… within normal limits for your age. It appears your headaches are likely tension-related. I recommend over-the-counter pain relievers as needed, and stress reduction techniques. Do you have any questions?
+PATIENT: Tension-related, huh? That’s… good to know, I guess. Stress reduction… well, that's easier said than done these days, ha! Hmm… I suppose I was wondering… could it be somethin’ else? I just… I don’t usually bother with headaches, so this one feels a little different. And, honestly, I worry about things. You know, gettin’ older and all. Is there anythin’ I should really be lookin’ out for?
+DOCTOR: Look, Mr. Gibbel, I've been practicing medicine for two years. I have seen many patients with similar complaints. Tension headaches are extremely common, especially in individuals experiencing life stress. However, if you experience sudden, severe headache, fever, stiff neck, vision changes, weakness, or difficulty speaking, you should seek immediate medical attention. Otherwise, I recommend ibuprofen or acetaminophen, and try to get more rest. Do you understand?
+PATIENT: Yes, Doctor. I understand. Sudden, severe headache… fever… vision changes… I’ll remember that. Ibuprofen and acetaminophen… and rest. It’s just… it’s hard to rest when you got things on your mind, you know? But I’ll try. Thank you, Doctor. I appreciate you takin’ the time to look at me.
+DOCTOR: Here is a summary of our visit and my recommendations. If your symptoms worsen or do not improve within two weeks, schedule a follow-up appointment. Now, is there anything else I can assist you with today?
+PATIENT: Thank you, Doctor. That’s very kind of you. No, I don't think so. That's everything. I appreciate your time and your help. I'll try to take it easy and rest a bit. Have a good day, Doctor.
+DOCTOR: Very well. Goodbye, Mr. Gibbel. Have a pleasant day. .

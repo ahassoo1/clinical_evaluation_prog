@@ -1,0 +1,38 @@
+DOCTOR: Right then. Cleo Rover, is it?
+PATIENT: Yep, that's me. Cleo Rover. Though… folks just call me Cleo, usually. It’s been a while since anyone used the full name, to be honest.
+DOCTOR: Well, Mr. Rover, I prefer formality. Now, what brings you in today?
+PATIENT: Oh. Right, sorry. Mr. Rover it is. Um… well, it’s about… long-term care. My wife… she, uh… she had some stuff going on, and now… well, I’m lookin’ into things, just in case. It’s kinda hard to explain, honestly. Things are… fuzzy.
+DOCTOR: "Fuzzy," you say?
+PATIENT: Yeah. Fuzzy. Like… I know I need to think about what happens if I… can’t take care of things myself anymore. But remembering all the details… what she did, what the doctors said… it’s like tryin’ to hold water in my hands. Slippin’ away.
+DOCTOR: Right. Let's try to be specific, shall we?
+PATIENT: Okay. Specific… Hmm. Well, my wife, Elsie… she got sick a few years back. Real sick. Had to go to a place… a nice place, but still. Not home. I took care of her as long as I could, but… it got too hard. She needed… more help than I could give.
+DOCTOR: And what was the illness, Mr. Rover?
+PATIENT: That's… that’s the fuzzy part. I think it was somethin’ with her… mind? She’d forget things, get confused. And then… she just got weaker. I remember doctors and… pills. Lots of pills. They said a name… somethin’ long… starts with an 'A', maybe? I really can’t say for sure. It was a long time ago.
+DOCTOR: “Somethin’ long, starts with an ‘A’”?
+PATIENT: Yeah… That’s all I got, I swear. Maybe Alzheimer’s? Was that it? It sounds right, but… I just don’t know. I was mostly just tryin’ to be there for her, not keep track of medical terms.
+DOCTOR: Alright. Assuming it was Alzheimer’s—and we’ll need to confirm this with records, naturally—and given that you are now considering long-term care planning for yourself, we need to establish a baseline. Have you been experiencing any memory loss or cognitive difficulties, Mr. Rover?
+PATIENT: Well… now that you mention it… I do forget things more than I used to. Little things, mostly. Where I put my keys, what I had for breakfast… But everyone does that, right? I just figured it was gettin’ old. But… sometimes it feels like there's a blank spot. Like a piece of the day is just… gone.
+DOCTOR: “A blank spot,” you say. Can you describe that further?
+PATIENT: It’s… hard to explain. Like I’m walkin’ through a room, and then suddenly I’m somewhere else, and I don’t remember how I got there. Or I’ll be talkin’ to someone, and the thought just… vanishes. It doesn’t happen all the time, but it's enough to worry me, I guess. It's why I'm here, right?
+DOCTOR: Alright. Before we jump to conclusions, let's review your past medical history. Have you been diagnosed with any other conditions—high blood pressure, diabetes, heart disease, anything at all?
+PATIENT: Hmm… Let me see. I had a bad back for a long time, from all the liftin’ at work. And the doctor told me my cholesterol was a little high once. But… that was years ago. I don’t think I’ve been to a doctor regular since Elsie… passed. I try to stay active, you know? Work keeps me movin'.
+DOCTOR: And what is your current occupation, Mr. Rover?
+PATIENT: Oh. Right. I… I move stuff. Freight, mostly. Whatever needs gettin’ from one place to another. Dock work, sometimes. Just… laborer stuff, really. Stock, material… hand work, you know? I ain't fancy.
+DOCTOR: Alright. And are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: Just some aspirin now and then, for my back. And… Elsie used to give me some vitamins, thought I wasn't eatin’ right. But I think I stopped takin’ those after… well, after she was gone. I don't really keep track of that stuff, to be honest.
+DOCTOR: Very well. We need to conduct a basic cognitive assessment, Mr. Rover. And I'll need to order some blood work. Just a standard panel to rule out any underlying medical issues that could be contributing to your symptoms. It’s unlikely, given your… history, but one must be thorough.
+PATIENT: Okay. That… that sounds alright. Whatever you think is best. Blood work… and the… assessment? I just want to be sure, you know? Make sure I'm… okay.
+DOCTOR: Alright then. Let’s begin. I'm going to ask you a few simple questions. Please answer to the best of your ability. First, what is today’s date?
+PATIENT: Uh… today… Hmm. August… the second? Is it? Yeah, I think it's August 2nd. 2025, right? I think I remember seein’ it on the paper this mornin’.
+DOCTOR: Alright. And can you tell me where we are right now, Mr. Rover?
+PATIENT: Uh… This is… a doctor’s office, right? Pinky… Pinky Batara’s office? You said your name was Pinky, didn't you? It’s… a nice office. Seems clean. Suburban, you said? Somewhere outside of town, I reckon.
+DOCTOR: Alright. Can you repeat these three words for me?
+PATIENT: Three words? Now hold on… Which three words? I don't remember any words.
+DOCTOR: Clearly, a more thorough evaluation is required. Mr. Rover, I am concerned about your cognitive function, and I recommend a referral to a neurologist immediately. This is not something we can simply dismiss. Do you have a preferred neurologist, or would you like me to provide a list of specialists?
+PATIENT: A… neurologist? That sounds… serious. I don’t have a neurologist. I haven't seen a doctor in years, like I said. A list would be… good. That would be real good, thank you. I just… I just want to know what's goin’ on.
+DOCTOR: Very well. Here is a list of specialists in the area. I strongly advise you to schedule an appointment as soon as possible. In the meantime, I will order the blood work, and we will discuss the results when they are available. But do not delay seeking further evaluation. Now, do you have any allergies or medications we haven’t discussed?
+PATIENT: No… no allergies that I know of. And… no, I don't think so. We covered the aspirin, right? That's all I take. Elsie… Elsie had some allergies, but I don't remember what they were. It’s been a long time.
+DOCTOR: Alright. Let’s proceed with the blood work. The nurse will be in shortly to draw the samples. I will need you to sign this consent form, acknowledging the procedure. And, Mr. Rover, please do not hesitate to contact the office if you experience any changes in your condition. And I strongly encourage you to have a family member accompany you to your neurology appointment.
+PATIENT: Alright… here you go. Family member… Well, I don't have anyone anymore. Just me. But I'll… I'll try to get someone to come with me if I can. Thank you, Dr. Batara. I appreciate your help.
+DOCTOR: Very well. The nurse will be with you shortly. We've covered the essentials. Please wait here.
+PATIENT: .

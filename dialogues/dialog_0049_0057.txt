@@ -1,0 +1,35 @@
+DOCTOR: Good morning, Chellsea. I'm Dr. Nestingen. So, tell me, what brings you in today?
+PATIENT: Good morning, Doctor. Well, it’s… about the cancer. I was told to come speak with you. It's been… hard to think about everything.
+DOCTOR: Cancer… Yes, I see a note here about a recent diagnosis. Could you tell me a little more about which cancer, and when you were diagnosed?
+PATIENT: Um… I think it was in my… chest? They did a lot of scans. It was maybe… two months ago? I’m sorry, it’s all a bit fuzzy. My husband, he usually kept track of dates and things.
+DOCTOR: Two months ago… alright. And who made the diagnosis?
+PATIENT: It was Doctor… Ramirez, I believe. At the hospital in town. He sent me here, actually. Said you could… help me understand things better.
+DOCTOR: Doctor Ramirez… yes, I recall the name. Let’s see… Ah, here we are. Stage IV Hodgkin's Lymphoma. Is that what you were told?
+PATIENT: Hodgkin’s… Lymphoma? I… I think so. That sounds right. It was a lot of big words, and I didn’t really… understand everything he said. What does that mean exactly?
+DOCTOR: Well, lymphoma simply means a cancer of the lymphatic system – think of it as part of your body’s defense network. Stage IV indicates that it has spread beyond the original site. It's… serious, naturally. Do you recall any specific details about where it had spread to?
+PATIENT: Um… he said something about my lungs? And… maybe my liver? I honestly don’t remember much beyond that. He talked about… treatment, and options, but I was… very upset. I’m sorry, Doctor.
+DOCTOR: Lungs and liver. Alright. And has treatment been started yet?
+PATIENT: No. Not yet. He wanted me to get a second opinion, and… and that’s why I’m here. He said you were very good with… explaining things.
+DOCTOR: Very well. I see. Let's do a brief physical exam, just to get a baseline. I'll listen to your lungs, feel your lymph nodes… standard procedure. Then we can discuss treatment options, prognosis, and I’ll explain everything in as much detail as I can. Do you have any allergies I should be aware of?
+PATIENT: No, I don’t think so. No allergies. Just… I get nervous at doctors. It makes my heart race. But no allergies, no.
+DOCTOR: Alright. Let's start with your lungs then. Take a deep breath for me… and exhale slowly. Sounds are slightly diminished on the lower lobes bilaterally. I'll also palpate your lymph nodes now. Slightly enlarged nodes in the cervical and axillary regions. Nothing significantly alarming, but consistent with the diagnosis. I'm noting everything, of course.
+PATIENT: Okay… That doesn’t… sound good, does it? What does ‘diminished’ mean? And what about the nodes? Are they… bad?
+DOCTOR: Diminished simply means the sounds are softer than they should be. It could be due to a number of things, and the lymphoma is certainly a consideration. As for the nodes, enlargement is… typical with lymphoma. It doesn’t necessarily mean they’re ‘bad,’ but we need to investigate further. I'm going to order a full blood panel and a CT scan of your chest, abdomen, and pelvis to get a better understanding of the extent of the disease. Does that sound alright?
+PATIENT: Yes… that sounds alright. Whatever you think is best, Doctor. A scan and blood work… okay. Will it… will it hurt?
+DOCTOR: The blood work is a standard draw, so a little pinch, perhaps. The CT scan is non-invasive – you'll lie on a table and a machine takes images. No pain involved, though you may need to drink a contrast dye beforehand, which some people find unpleasant tasting. We'll explain everything in detail before each procedure, of course. I'm putting the orders in now. The lab is just down the hall. And the scan will be scheduled for tomorrow morning. Does that work for you?
+PATIENT: Tomorrow… yes, that should be fine. I can get someone to drive me. Thank you, Doctor. It… it helps to know what’s happening. Even if it's… scary.
+DOCTOR: You're welcome. It is a daunting diagnosis, and it's perfectly natural to be frightened. We will do everything we can to manage this. I’ll also have a nurse come in to discuss some resources available for patients and families dealing with cancer. Now, regarding your medications… are you currently taking anything?
+PATIENT: Just… some vitamins. Nothing for any… illness. Just a multivitamin, and sometimes something for my… joints. They ache sometimes.
+DOCTOR: Vitamins and something for your joints. Do you remember the name of the medication for your joints?
+PATIENT: Um… I think it’s… Ibuprofen? Sometimes. Or… maybe Naproxen? It's over-the-counter. My husband usually gets it for me. I don’t pay much attention to the names.
+DOCTOR: Ibuprofen or Naproxen, alright. Non-steroidal anti-inflammatory drugs. It's important to be aware of those, as they can have interactions with certain treatments. I'll make a note of that as well. Now, let's discuss your social history briefly. Do you smoke?
+PATIENT: No. Never have. My husband… he tried once, a long time ago, but he quit quickly. He didn't like it.
+DOCTOR: Very good. And do you drink alcohol?
+PATIENT: No, not really. Just… sometimes a small glass of wine with dinner. On special occasions. Nothing often.
+DOCTOR: Occasional wine. Alright. And what about work?
+PATIENT: I'm an Occupational Therapist. I help people… recover from injuries, and things. It’s… it’s a good job. I haven't been able to go to work lately, though.
+DOCTOR: Occupational Therapist… and currently unable to work. I can provide a note for your employer, if needed. Now, one final question: any family history of cancer?
+PATIENT: Um… my grandmother, on my mother’s side, had… breast cancer, I think. A long time ago. And… my uncle, maybe? It’s… I don’t really know much about it. We didn’t talk about it much.
+DOCTOR: Alright. That's all the information I need for now. The nurse will be in shortly to discuss resources and schedule the blood work and scan. I will review the results as soon as they are available and we’ll schedule a follow-up appointment to discuss treatment options in detail. Do you have any questions for me before I leave?
+PATIENT: No… I think that’s all. You’ve explained everything very clearly, Doctor. Thank you. I… I guess I’ll just wait for the nurse then.
+DOCTOR: Very well. .

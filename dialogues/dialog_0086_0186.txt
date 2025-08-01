@@ -1,0 +1,25 @@
+DOCTOR: Good morning, Mr. Kingan. I’m Dr. Murtic. So, tell me, what brings you in today?
+PATIENT: Right, Dr. Murtic. Good morning. Well, I’m trying out for a… a sports team. Need a check-up to make sure I’m fit enough, I guess. It’s just a formality, really. Hope it doesn’t take too long.
+DOCTOR: A sports team?
+PATIENT: Yeah. It’s… well, it’s a bit of a long story. A local team. I used to play a lot, getting back into it. Mostly just want to make sure nothing’s gonna… you know… happen during tryouts. I’m not getting any younger.
+DOCTOR: Right. Well, even formalities require a proper assessment, Mr. Kingan. At your age, it's certainly wise to be cautious. Let’s start with a little history. Have you been feeling generally healthy?
+PATIENT: Generally? Yeah, I think so. No major complaints. A little stiff in the mornings, you know, getting old. But nothing I haven’t dealt with before. I haven't been to a doctor in… a while. Honestly. Is there a form I need to fill out or something? Because I didn’t see one.
+DOCTOR: We’ll get to the paperwork, Mr. Kingan. But first, I need you to tell me what's going on. “A little stiff” is rather vague. Where exactly are you stiff?
+PATIENT: Mostly my knees, Dr. Murtic. And my back. Lower back, mostly. Nothing terrible, just… aches. It’s worse after I’ve been sitting for a bit, then I get up. Like I need to… work them loose. Does that make sense? I don’t know medical terms, sorry.
+DOCTOR: It’s… adequate. When did this start?
+PATIENT: Hmm. When did it start… that's a good question. Probably… a few years ago, honestly. It comes and goes. Worse in the winter, I think. I didn't really pay much attention to it until I started training again for the tryouts. Now I notice it more. You know?
+DOCTOR: Training?
+PATIENT: Yeah, training. A little running, some stretching, trying to get back into shape. Not anything too intense, Dr. Murtic. Mostly just trying to build up my stamina. I wouldn’t call it serious training. It’s mostly just… showing up and trying not to pull a muscle. Is that a problem? Should I have told someone before I started? I didn’t think it was that important.
+DOCTOR: Of course it’s a problem, Mr. Kingan. You begin a physical regimen without a baseline assessment?
+PATIENT: Look, I'm sorry, okay? I didn't think it was a big deal. It's not like I'm trying to run a marathon. Just a local sports team. I just wanted to see if I was still able to, you know… play. I didn’t want to bother anyone with it. It seemed a bit… excessive. Is this going to disqualify me from the tryouts?
+DOCTOR: Disqualify you?
+PATIENT: I… I don't know! That's what I'm asking you. I just want to know if I'm healthy enough to participate. I'm not trying to be difficult, Dr. Murtic. I just… I need to know. And honestly, I have other things to do today. This is taking a while.
+DOCTOR: Very well, Mr. Kingan. Let’s get a basic physical exam done, then. Please lie down on the examination table. I need to listen to your heart and lungs, and I’ll check your range of motion. And please don’t tell me it’s going to take too long.
+PATIENT: Okay, fine. Whatever you need. Just… try to be quick, alright? I have… things.
+DOCTOR: Heart sounds are… within normal limits, though slightly rapid. Lungs are clear to auscultation. Abdomen is soft, non-tender. Now, let’s check your reflexes. Patellar reflexes are… 2+ bilaterally. Grip strength is adequate. Now, can you stand up and bend over and touch your toes?
+PATIENT: Oof. That’s… about as far as I can go, Dr. Murtic. It’s a little tight. Like I said, the back. It's not bad, just… uncomfortable. Does that help? Should I try harder?
+DOCTOR: “Uncomfortable” is putting it mildly, Mr. Kingan. Your range of motion is significantly limited, and you exhibit discomfort with even minimal flexion. Tenderness to palpation in the lumbar spine. Now, let's try some straight leg raises. Lie back down, please.
+PATIENT: Okay, okay. This is… getting a bit much, Dr. Murtic. Straight leg raises? What does that even… Never mind. Just tell me if I’m going to break something. Just do it quickly, please.
+DOCTOR: Positive straight leg raise on the right side at approximately 30 degrees. Negative on the left. Hmm. This is… concerning, Mr. Kingan. Your examination reveals limited range of motion, lumbar tenderness, and a positive straight leg raise, suggestive of… potential nerve impingement.
+PATIENT: Nerve… what now? Impingement? What does that mean? Am I… seriously hurt? Look, I just want to play a little sports, Dr. Murtic, not end up in a wheelchair. Can you just tell me in plain English if I can try out or not? This is getting ridiculous. .
+DOCTOR: Mr. Kingan, I need to be frank. Based on this preliminary examination, I strongly advise against participating in any strenuous activity until further investigation. A positive straight leg raise indicates possible sciatic nerve compression, which could be due to a herniated disc or spinal stenosis. Trying out for a sports team in this condition could exacerbate the issue and lead to significant, long-term complications. .

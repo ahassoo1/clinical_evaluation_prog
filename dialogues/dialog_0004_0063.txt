@@ -1,0 +1,53 @@
+DOCTOR: Good morning, Ms. Meigs. I’m Dr. Deschane. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. It’s my back. It’s been… really bad lately. Much worse than usual.
+DOCTOR: Hmm. “Really bad.” Can you elaborate on that for me?
+PATIENT: Okay… well, it’s like… a sharp pain. Not just a dull ache, you know? It shoots down my leg sometimes, too. Makes it hard to even stand up straight. I had cancer before, and they said sometimes things can hurt after… after treatment. Is this… is this that?
+DOCTOR: I see. You’ve had a history of cancer and are concerned this might be related to past treatment. That’s certainly something we need to consider. When you say “lately,” how long exactly has this been going on?
+PATIENT: Maybe… three weeks? It started kinda slow, just a little bit of a twinge here and there. But the last week it’s gotten a lot worse. I tried to just push through it, but it’s not working anymore. It wakes me up at night now, too.
+DOCTOR: And where exactly is the pain located?
+PATIENT: Right here… …and it goes down the back of my leg, all the way to my foot sometimes. Not always, but when it’s really bad. It feels like… like someone is sticking needles in me, you know? It’s hard to explain. But mostly here, in my lower back.
+DOCTOR: Right. And is it constant pain, or does it come and go?
+PATIENT: It comes and goes. But it's getting to where it's more come than go, if that makes sense? Like, I might have a few minutes where it's okay, but then it flares up again. When I move, it’s worse. Even just sitting is hard now.
+DOCTOR: Alright. And have you tried anything to relieve the pain?
+PATIENT: Yes. I took some of the pain pills the doctor gave me before, but they don't seem to be helping much this time. And I've been trying to rest, but it's still hurting. I put a warm pack on it sometimes, but it doesn’t last long.
+DOCTOR: Alright. And just to clarify, this doctor who prescribed the pain pills… was that your primary care physician, or a specialist?
+PATIENT: Oh, that was Doctor Hemmings. He was… my cancer doctor. He gave me those when I was first done with everything. He's retired now, though. I haven't seen him in a while. I've been seeing Doctor Reyes for check-ups since then. She didn't give me anything new for the pain, just said to try and stay active. But I can't really be active when my back hurts this bad.
+DOCTOR: I see. So, you’re currently under the care of Doctor Reyes, and this pain is a new development since being seen by her. Let's move on to some other questions. Do you have any numbness or tingling in your legs or feet?
+PATIENT: Sometimes. Mostly in my foot, that same one the pain goes down to. It feels… kind of prickly. Not all the time, though. More when I’m walking. It’s hard to explain. It doesn’t feel completely numb, just… funny. Like pins and needles.
+DOCTOR: Okay. And have you noticed any weakness in your legs?
+PATIENT: Um… not really weakness, exactly. But it feels… heavy sometimes. Like it takes more effort to lift my foot. It's hard to get up from a chair, and I stumble a little when I walk. It's not a big stumble, but I feel unsteady.
+DOCTOR: Alright. Now, let’s talk about your past medical history. Besides the cancer, do you have any other medical conditions?
+PATIENT: Let me think… No, not really. I had high blood pressure for a little while, but the doctor got it under control with pills. Other than that, just the usual aches and pains from getting old, I guess. Nothing serious. The cancer was the big thing. It was in my… my stomach. They got it all out, they said.
+DOCTOR: Okay. And have you had any surgeries other than the one for your stomach cancer?
+PATIENT: Just my gallbladder, a long time ago. When I was… maybe thirty? It didn't feel like a big deal. And… no, nothing else. Just the cancer surgery and my gallbladder.
+DOCTOR: Alright. And what about family history?
+PATIENT: Hm… my mother had arthritis, bad arthritis in her hands. And my father… he had heart trouble. He died when he was pretty young, I think. Not from the heart trouble, though. Accident. Other than that, I don't really know much about my family history. We didn't talk about those things much. I’m not sure it mattered much back then.
+DOCTOR: I see. And what about your current medications?
+PATIENT: I take a pill for my blood pressure, Lisinopril, I think it’s called. And I take a vitamin D supplement. That's it. Oh, and sometimes I take Tylenol for the pain, but it doesn’t really help much. That's all I take.
+DOCTOR: Okay. And do you have any allergies to medications?
+PATIENT: No, not that I know of. They gave me lots of things when I was sick with the cancer, and I didn't have a reaction to any of them. I’m pretty sure I don’t have any allergies.
+DOCTOR: Alright. Now, a few questions about your lifestyle. Do you smoke?
+PATIENT: No, never have. My husband used to, but he quit a long time ago. I always hated the smell of it. No, I don’t smoke.
+DOCTOR: Alright. And how much alcohol do you drink?
+PATIENT: Oh, not much. Maybe a glass of wine with dinner sometimes, on a special occasion. Nothing every day. I don’t really like it much, to be honest. Just a little bit now and then.
+DOCTOR: Alright. And what is your occupation, and what does it involve?
+PATIENT: I work at the factory. I... I help put things together. It's mostly standing, but sometimes I have to lift boxes. Not too heavy, usually. It's not a hard job, but it can be tiring. It's… production work. I've been doing it for a long time now.
+DOCTOR: Alright. Okay, Ms. Meigs. We’ve covered a lot of information. To get a better understanding of what’s going on, I’m going to need to do a physical exam. I’ll check your reflexes, strength, and range of motion, and then I'll palpate your back to see where the pain is most intense. Is that alright with you?
+PATIENT: Yes, that’s fine. Whatever you think is best. I just want to know what's wrong and how to make it stop hurting.
+DOCTOR: Alright. If you could lie down on the table for me, please. We'll start with your reflexes. Please relax, and let me know if anything feels uncomfortable. Okay, and that leg... good. Now, can you squeeze my hands as tightly as you can?
+PATIENT: Okay. Like this? Is that good? It feels a little weak, if that makes sense. Not as strong as it used to be.
+DOCTOR: Alright. And now can you lift your legs, one at a time, while lying flat?
+PATIENT: This one… okay. It feels kinda heavy. This one is harder. It feels… tighter. It's hard to lift it all the way up. It feels like I’m working harder than I should be.
+DOCTOR: Alright. And now I'm going to feel along your back. Let me know if you feel any pain in a specific spot. Does that hurt?
+PATIENT: Ooh! Yes. Right there! That’s where it hurts the most. And… if you press a little harder… …yeah, that’s really sore. It feels like a sharp pain when you press on it. That's definitely the spot.
+DOCTOR: Okay. And what about bending forward?
+PATIENT: Ooh, no. Don't make me do that! It hurts too much. Even just this little bit. It feels like something is going to snap. I can’t bend over like I used to. I used to be able to bend all the way down, but not now. It's really painful.
+DOCTOR: Alright. Based on your history and the physical exam, it seems likely that you have a lumbar strain, possibly with some nerve impingement given the pain radiating down your leg and the tingling you're experiencing. However, given your history of cancer, we need to rule out other possibilities. I’m going to order some imaging – an MRI of your lumbar spine – to get a clearer picture of what's going on. I'll also order blood work to rule out any inflammatory conditions. Does that sound alright?
+PATIENT: That sounds… good. Whatever you need to do to find out what’s wrong. The pain is just… awful. I just want it to stop. MRI and blood work… okay. Will that take a long time? And… will it show if the cancer came back? That's what I'm really scared of.
+DOCTOR: It's understandable to be concerned about that, Ms. Meigs. The MRI will help us assess the structures in your spine – the discs, the nerves, and the surrounding tissues. While it can detect recurrence of cancer, it's important to remember that most back pain is not due to cancer, especially with the physical findings we observed. The blood work will help rule out other causes of inflammation. It typically takes a few days to schedule the MRI and a couple more days for the results to come back. I’ll call you as soon as I have them. In the meantime, I can prescribe you a muscle relaxant to help with the spasms and some stronger pain medication to manage the discomfort. We'll also schedule a follow-up appointment to discuss the results and create a treatment plan. Does that sound acceptable?
+PATIENT: That sounds… okay. Muscle relaxant and stronger pain pills… that would be good. Thank you. I just want to feel better. And… will the muscle relaxant make me sleepy? I need to be able to work. I can’t afford to lose my job.
+DOCTOR: It's a valid concern, Ms. Meigs. Some muscle relaxants can cause drowsiness, but it varies from person to person. I’ll prescribe one with a lower risk of sedation, and we can adjust the dosage if you experience any unwanted side effects. If you find it’s making you too sleepy, you can reduce the dose or stop taking it altogether. We can also explore other options for pain management if necessary. I’ll write the prescriptions now. And yes, I understand needing to work. We will consider that when discussing the treatment plan. Here are your prescriptions. I’ll also give you a referral for physical therapy. They can teach you exercises to strengthen your back and improve your range of motion once the pain subsides. Does that sound good?
+PATIENT: That sounds… good. Physical therapy. Okay. Thank you, Doctor. You’ve been very helpful. I feel… a little bit better just knowing what’s going on. I’ll schedule the MRI and get the blood work done as soon as I can. Thank you again.
+DOCTOR: You’re welcome, Ms. Meigs. I’m glad I could provide some clarity. Don't hesitate to call the office if you have any questions or concerns before your follow-up appointment. We'll get to the bottom of this. And remember, if you experience any new or worsening symptoms – such as weakness in your legs, loss of bowel or bladder control, or a high fever – please go to the emergency room immediately. Do you have any questions for me before we finish today?
+PATIENT: No, I think that’s all. You explained everything very well. Thank you again, Doctor. I appreciate your time. I’m going to go get this MRI scheduled now.
+DOCTOR: Alright. You take care, Ms. Meigs. And please don’t hesitate to reach out if you need anything. Have a good day.

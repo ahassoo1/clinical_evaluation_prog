@@ -1,0 +1,28 @@
+DOCTOR: Right. Mr. Way, yes?
+PATIENT: Yes, that’s me. Michael Way. Good to meet you, Doctor… Osga, is it?
+DOCTOR: Osga is fine. Look, I have a lot of patients today, so let's try to be quick. What brings you in?
+PATIENT: Oh, okay, Osga. Right. Well, it’s my back, mostly. It’s been… painful, for a little while now. Not all the time, but enough to bother me.
+DOCTOR: "Painful back"... How long exactly is "a little while"?
+PATIENT: Hmm, let me think… maybe three, four weeks now? It started kinda slow, just a little ache after I’d been standing for a long time. Now it’s… well, it’s more than a little ache, if you know what I mean.
+DOCTOR: And where, specifically, is the pain?
+PATIENT: It’s… lower back, mostly. Right across here. Sometimes it feels like it shoots down my leg a little, but not always. Mostly just right here.
+DOCTOR: Radiating pain…typical. Okay, and what makes it worse?
+PATIENT: Oh, lots of things, honestly. Bending over is bad. Lifting anything… forget about it. And sitting for too long doesn’t help either. Standing isn't great, but sitting is the worst.
+DOCTOR: And what about better?
+PATIENT: Well, lying down helps. Especially on my side, with a pillow between my knees. And… walking a little bit, gently, seems to loosen it up a bit. Not much, but a little. Nothing really makes it better, just less bad for a little while.
+DOCTOR: Okay. Any fever, weakness in your legs, or trouble controlling your bladder or bowels?
+PATIENT: No, no fever. And my legs feel fine, thank you. No trouble with… well, you know. Everything’s working like it should down there. Nothing like that at all.
+DOCTOR: Good. Any history of falls or injuries?
+PATIENT: No, not really. I mean, I've tripped a couple of times over the years, but nothing major. Never broken anything, never been in a car accident… just regular old clumsy stuff. Nothing that would explain this back pain.
+DOCTOR: Alright. Let's have you lie down on the exam table, and I'll take a quick look.
+PATIENT: Okay, sounds good. Just let me know if you need me to do anything special. Old bones, you know.
+DOCTOR: Just lie flat. Hmm. Tenderness is present on palpation, bilaterally, but no muscle spasm noted. Straight leg raise…negative. Reflexes 2+ bilaterally. Gait appears normal. No neurological deficits observed.
+PATIENT: So… is it bad? What do you think it is? I’m not really good at understanding all the… the things you just said. I just want to know if I need to worry.
+DOCTOR: Look, it's probably just a strain. You're not exactly a spring chicken, are you?
+PATIENT: Well, no, I guess not. So, a strain... What does that mean? Like, how do I fix it? Do I need… medicine or something? I don't really like taking pills if I can avoid it.
+DOCTOR: Here. This is a standard handout on lower back pain. Take it easy, ice it for 20 minutes at a time, several times a day. If it doesn't improve in a week, then we can talk about other options. But honestly?
+PATIENT: Honestly what? Honestly what should I expect? A week sounds like a long time to be uncomfortable. And... are there exercises I should be doing? Anything I can do besides just sitting around with an ice pack? I like to keep busy, you see.
+DOCTOR: Look, I have other patients. Mild stretching, if you absolutely must. But don't overdo it. And if you’re still complaining in a week, then maybe we'll consider an X-ray. Now, is there anything else?
+PATIENT: Well… no, I guess not. Just… a week, you said? Okay. Thank you, Doctor. I appreciate your time. I hope it gets better soon.
+DOCTOR: Right. Next patient. .
+PATIENT: .

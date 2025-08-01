@@ -1,0 +1,28 @@
+DOCTOR: Good morning, Mr. Bulaong. I am Dr. Eaddy. Now, I understand you’ve come in for a consultation today. Perhaps you could begin by telling me what brings you in?
+PATIENT: Good morning, Doctor. Um… my chest hurts. Not all the time, but… it hurts. It’s in my… breast. I don't know why. It’s been maybe… a week now?
+DOCTOR: Hmm. “Breast,” you say?
+PATIENT: Yes. Sorry, maybe that sounds… strange? I mean, I’m a man, but… the pain is there. It’s like… a sore muscle, but inside. Not on the outside. Does that make sense?
+DOCTOR: Yes, well, anatomy is… occasionally imprecise. A week, you said?
+PATIENT: Yes, about a week. Maybe a little longer. It comes and goes. Sometimes it's just a little ache, and other times… it really hurts. Especially if I… move around too much. Like when I'm working on the roof. It’s hard to explain.
+DOCTOR: You mentioned working on a roof. And the pain is exacerbated by movement?
+PATIENT: Yes, Doctor. Roofs. It’s my job. And yes, moving… like climbing, lifting… anything that makes me… stretch or push… makes it worse. It’s in my chest, like… right here. It doesn’t feel like a muscle though. More… deep inside.
+DOCTOR: Alright. I see. And are you experiencing any other symptoms alongside this discomfort?
+PATIENT: Um… no, not really. I’m tired sometimes, but that’s just from work, you know? And my wife says I've been a little grumpy, but she says that a lot. Nothing else… no fever, no… anything coming out, nothing like that. Just the pain.
+DOCTOR: Grumpiness is not a medical symptom, Mr. Bulaong. Let us focus on the physical complaints. Have you noticed any changes to the skin in the area, any lumps, redness, or discharge from any… nipples?
+PATIENT: Oh. No, Doctor. No lumps. The skin looks normal, I think. I haven't seen any redness. And… no, nothing coming out. Nipples are… fine. I haven't really… checked much before, to be honest. Sorry. Is that… important?
+DOCTOR: It is pertinent information, Mr. Bulaong. It is simply part of a thorough examination. Now, have you had any recent injuries to your chest?
+PATIENT: No, Doctor. No injuries. I mean, I fall sometimes when I’m on the roof, but nothing… serious. Just bumps and bruises. Not where the pain is. This pain… it feels different. It's not a… sharp pain, it's more like… a constant ache, and it comes and goes. I don’t know if that helps.
+DOCTOR: Let us proceed with a physical examination then, shall we?
+PATIENT: Okay, Doctor. Whatever you think is best. I just… I want to know what's going on. It worries me, a little. I have to work, you know? I have a family.
+DOCTOR: Of course. Please lie down on the examination table. We will begin with auscultation of your chest. And perhaps palpation. Remove your shirt, please.
+PATIENT: Oh. Okay. Um… here? This feels… strange. Is it… cold in here?
+DOCTOR: Breathe deeply, Mr. Bulaong. And again. I am listening for any adventitious sounds. Lungs are clear bilaterally. Now, let me palpate the area. Any tenderness here?
+PATIENT: Yes. There. That hurts. Not a lot, but… yeah, that's where the pain is. It feels… deeper when you press like that. Is that… bad?
+DOCTOR: It appears to be localized tenderness. No obvious masses detected, but the area is sensitive. And are you experiencing any pain radiating to your shoulder or arm?
+PATIENT: No, Doctor. Not my shoulder or arm. Just… right here. Sometimes it feels… like a tightness too. Like something is… squeezing. But not all the time. Mostly when I'm working. It's hard to explain. I just want it to go away.
+DOCTOR: The presentation is… atypical, Mr. Bulaong. Given your occupation and the localized tenderness, a musculoskeletal origin is the most probable cause. However, given the vague nature of the symptoms, and the… discomfort you describe, we should rule out other possibilities. We will need to order some basic blood work, including a complete blood count and inflammatory markers.
+PATIENT: Okay, Doctor. Whatever you think is best. Blood work… is that… expensive? I don’t have… insurance. I just want to know what's wrong, but I don't want to get into too much trouble with money, you know?
+DOCTOR: The cost will depend on the laboratory, Mr. Bulaong. I will write the order, and you can inquire about the pricing directly with the lab. It is standard procedure. We also may consider a chest X-ray to fully evaluate the area, but let us begin with the blood work for now. Take this to the lab, and they will draw your blood. Please schedule a follow-up appointment in one week so we can discuss the results.
+PATIENT: Okay, Doctor. One week… I will try to get it done. Thank you. Is there anything else I should do? Like… rest? Or… is there something I can take for the pain?
+DOCTOR: Over-the-counter analgesics such as ibuprofen or naproxen may provide some symptomatic relief. However, I would advise against prolonged use without further evaluation. And refrain from strenuous activity until we have a clearer understanding of the cause of your discomfort. Is that understood?
+PATIENT: Yes, Doctor. Okay. No… hard work. And ibuprofen. I understand. Thank you. I will… see you next week then. Thank you for… trying to help. .

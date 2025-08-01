@@ -1,0 +1,24 @@
+DOCTOR: Right. Carla Cassimatis, 70 years old. So, what brings you in today?
+PATIENT: Oh, hello Doctor Sink. It’s this…itchiness, really. It’s been bothering me for a little while now. Not terrible, but enough to make me uncomfortable, you know? It’s all over, really. Arms, legs…even my back.
+DOCTOR: All over…right. And how long has this “itchiness” been going on?
+PATIENT: Hmm, let me think… probably a couple of weeks, maybe three? It started off just a little bit, and I thought it was just dry skin, you know, with the summer heat and all. But it hasn’t gone away, and it seems to be getting…more noticeable, I guess you could say. It’s not like a rash, just…itchy.
+DOCTOR: A couple of weeks. And have you tried anything for it?
+PATIENT: Oh yes, of course. I put some lotion on it, regular lotion. And then I tried some of that…Eucerin, I think it was? The kind for dry skin. Didn’t really do much, to be honest. That’s why I thought I should come in. It’s just…persistent.
+DOCTOR: Regular lotion…Eucerin. Alright. Any other symptoms accompanying the itchiness?
+PATIENT: No, not really. No bumps, no redness…nothing like that. Just…the itch. Sometimes it feels a little worse at night, if that makes sense. Hard to sleep when you’re constantly scratching.
+DOCTOR: Worse at night... Hmm. Any changes in your diet recently?
+PATIENT: Oh, goodness, let me see… not really, no. I eat pretty much the same things I always do. Rice, beans, a little bit of chicken sometimes… I’ve been trying to eat more fruit, but that’s about it. Nothing new that I can think of.
+DOCTOR: Alright. And any known allergies?
+PATIENT: No, not that I know of. Never been allergic to anything, not that I've ever noticed. I eat shellfish, peanuts, everything. I used to help my grandmother make pasteles, and those have everything in them, you know? Never had a reaction.
+DOCTOR: Pasteles…right. Any medications you’re currently taking?
+PATIENT: Oh, just a little something for my blood pressure. Lisinopril, I think it’s called. Been on it for years, though. And sometimes I take Tylenol for aches and pains, but that’s only when I really need it.
+DOCTOR: Lisinopril… Alright. Let’s have a look at your skin. Please, have a seat on the examination table.
+PATIENT: Okay, sounds good. It’s a little high, but I’ll manage.
+DOCTOR: Hmm. Not much to see, really. No obvious rash, no lesions. Skin appears…generally normal. Blood pressure is… elevated, as expected. Let’s rule out some common causes. I'm going to order a CBC and a basic metabolic panel. And just to be safe, a liver function test. It's probably nothing, but we need to check.
+PATIENT: Oh, okay. Tests… That sounds alright. What exactly are those tests for? I don’t want to sound silly, but I always get a little nervous when they talk about tests. Is it something serious, Doctor?
+DOCTOR: The CBC checks your blood count, the metabolic panel checks your kidney function and electrolytes, and the liver function tests…well, it checks your liver. It's standard procedure when someone presents with an unexplained itch. It's unlikely to be anything serious, but we need to be thorough. The lab results will take a few days. I'll have the nurse draw the blood now.
+PATIENT: Oh, I see. So, it’s just to make sure everything inside is okay? That makes sense. A few days… alright. Thank you, Doctor. I appreciate you checking everything out. The nurse will draw blood, you said? Okay, I’m ready when she is.
+DOCTOR: Yes, the nurse will be in shortly. We’ll get this sorted out. Don't worry too much. It's most likely just dry skin or a mild allergic reaction, but it’s best to rule things out. Anything else I can address today?
+PATIENT: No, I think that’s everything. Just the itch, really. Thank you for seeing me, Doctor. I hope the tests don’t take too long. I appreciate you explaining everything.
+DOCTOR: Alright. The nurse will be with you soon. I’ll review the results when they come back. Have a good day. .
+PATIENT: Okay, thank you, Doctor. You too.

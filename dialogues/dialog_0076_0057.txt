@@ -1,0 +1,26 @@
+DOCTOR: Right, Chellsea, is it?
+PATIENT: Yes, that is correct. Chellsea Luft. It’s nice to meet you, Doctor… Ruocco, was it?
+DOCTOR: Ruocco, yes. Look, I’m a bit behind schedule, so let’s just get straight to it. What brings you in today?
+PATIENT: Well, it’s… about the cancer. I was told to come see you. It’s been… difficult. I don’t really know where to start, to be honest.
+DOCTOR: Cancer, right. Vague, very vague. Okay. Let’s start with which cancer. And when were you told?
+PATIENT: Oh. Um… it was… last month, I think? Maybe a little longer. It’s in my… well, the paperwork says “lymphoma.” Is that right? I don’t… I didn’t really ask a lot of questions, I was… scared.
+DOCTOR: Lymphoma. Okay. And where in your lymph nodes?
+PATIENT: Honestly, I’m not sure. The doctor… he showed me pictures, I think. It was… around my neck, mostly. And… under my arm? It was all very fast. I just remember he said it was… aggressive. I’m sorry, I wish I could be more helpful.
+DOCTOR: Aggressive. Yes, those can be… problematic. Alright. And have you had any treatment yet?
+PATIENT: Yes, a little. They started me on… pills. Chemo pills, I think they said. It made me very tired, and… sick to my stomach. I stopped taking them a week ago, because it was just… too much. I couldn't even get out of bed.
+DOCTOR: Right. Stopped the chemo. Not ideal. Any other symptoms?
+PATIENT: Well… I’ve been losing weight. Even though I’m trying to eat. And I get… night sweats. Like, really bad. I have to change my clothes sometimes. And… I’m always tired, even when I’ve slept. Does that make sense?
+DOCTOR: Weight loss, night sweats, fatigue. Common enough. Let’s have a quick look at you. Please, step onto the scale. And then we'll listen to your heart and lungs, just to rule things out. Don't get your hopes up, it's probably nothing.
+PATIENT: Okay. Is there anything specific you're looking for? I’m a little worried, if you don't mind me saying.
+DOCTOR: Worried is a given, isn't it?
+PATIENT: Yes, I suppose it is. Is everything alright? The number seemed… low. I haven't weighed this little in a long time.
+DOCTOR: Yes, well, you did mention weight loss. 112 pounds, 5’10”. Not ideal, certainly. Alright, let’s listen to your chest. Take a deep breath for me.
+PATIENT: Like this? Is it okay? I haven’t been to a doctor in a while, so I’m not sure I’m doing it right.
+DOCTOR: Lungs are clear. Heart sounds… normal. Palpating your lymph nodes now. Yes, there’s some… enlargement here. As expected.
+PATIENT: Okay. That… wasn’t very comfortable. Are they… very swollen? Is it bad? I'm sorry to ask so many questions, but it’s hard not to worry when you don’t understand what’s happening.
+DOCTOR: Look, it's lymphoma. It's going to require further investigation. I'm going to order a CT scan to see how widespread it is. And a blood test to check your counts. Don't jump to conclusions. It's not always as bad as it seems. But we need to know what we're dealing with. I’ll have the nurse schedule those for you. Any allergies to contrast dye?
+PATIENT: Contrast dye? I… I don’t think so. I’ve never had a CT scan before. I don’t know what that is, to be honest. Should I be worried about the dye? Is it… dangerous? I just want to know what’s going to happen.
+DOCTOR: It's a dye they inject to help us see the images better. Some people have reactions, but it’s rare. The nurse will ask you about your medical history. Look, I have other patients waiting. We’ll get the results back in a few days. Then we'll decide on a treatment plan. And frankly, with your age and… frankly, your physique, this is something we need to address swiftly. I’ll have my nurse explain everything in detail. Any questions for me specifically?
+PATIENT: Um… just… what kind of treatment plan? Is it… is it going to make me sick again? Like the pills did? And… is there anything I can do? Besides just… wait for the results? I feel… helpless.
+DOCTOR: Look, chemotherapy has side effects. It's unavoidable. But we manage them. As for what you can do... try to eat. Try to rest. Frankly, your overall condition isn't helping things. I'll order a nutritional consult. As for anything else...don’t research on the internet. It'll just scare you. Now, I really must get to my next patient. The nurse will take it from here. Have a good day.
+PATIENT: Oh. Okay. Try to eat… try to rest… .

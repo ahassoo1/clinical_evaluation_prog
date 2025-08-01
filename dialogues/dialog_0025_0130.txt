@@ -1,0 +1,13 @@
+DOCTOR: Alright, Mr. Schwer, have a seat. So, what brings you in to see me today?
+PATIENT: Uh, yes. Thank you. Well, it’s my family, you see. Lots of… trouble with the heart. My mother, she… gone too early. And my brother, he always complaining. I just… want to be sure I am okay. You know? Just peace of mind.
+DOCTOR: “Peace of mind,” right. Well, that's… sensible, I suppose. Though frankly, most people don’t need a doctor to tell them when everything is fine. Still. Your mother had heart problems, you said?
+PATIENT: Yes. She… I think it was something with the… the pumping. She got tired very fast. And then… chest pain. Lots of chest pain. I was just a boy then, so I don't remember exactly. My brother… he has high blood pressure, the doctor tells him. He doesn’t listen, though. Eats too much salt, he does.
+DOCTOR: Chest pain, and your brother with the high blood pressure… and he’s not compliant with treatment, naturally. Alright. And you?
+PATIENT: Me? I feel… okay. Mostly. Sometimes, when I walk up hills, I get a little… short of breath. But I live on a hill! So, maybe it's just the hill. I don't… I don’t have chest pain. Not yet. I eat… I try to eat healthy. Not much salt, I think. Does that make sense?
+DOCTOR: “Try to eat healthy.” Right. Vague. And shortness of breath, even if it’s just on hills, isn’t nothing. Especially with your family history. Let’s do a quick physical exam, just to get a baseline. I need to listen to your heart and lungs. Then we'll talk about some basic bloodwork. Don't get worried, Mr. Schwer. It’s just standard procedure.
+PATIENT: Bloodwork? Oh. Is it… expensive? I have Medicare, but… sometimes they don't cover everything. And I don’t have much extra money. Just… how much will it cost?
+DOCTOR: Look, Mr. Schwer, let's not get ahead of ourselves. It's a routine blood panel, and Medicare should cover it. If there are any costs you're concerned about, we can discuss it with the billing department after the exam. Right now, I need to assess your condition. Do you want me to proceed with the physical exam, or would you prefer to leave without any testing?
+PATIENT: Okay. Yes. Do it. The exam. I… I want to know. I just… don’t want a big bill. Just… be gentle?
+DOCTOR: Alright. Undress down to your waist, and I’ll come back when you’re ready. And don’t worry, I'm not a barbarian. "Family history…" Always the family history.
+PATIENT: Okay. Thank you. I’ll be right back.
+DOCTOR: Alright, lie back. I'm going to listen to your heart and lungs first. Take deep breaths. Alright. Heart sounds… a little muffled, but not alarming. Lungs are clear. Blood pressure is… 145 over 90. A bit elevated, but not critical. Now, let's check your reflexes.

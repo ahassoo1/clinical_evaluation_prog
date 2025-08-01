@@ -1,0 +1,30 @@
+DOCTOR: Alright, Mr. Ruocco, good to meet you. I'm Dr. Donate. So, tell me, what brings you in to see me today?
+PATIENT: Oh… hello Doctor. Yes. Well, it’s my chest. Hurts when I… when I breathe deep. It’s been… a little while now. Not sure how long, exactly. Things aren't so clear these days, you know? Just… hurts to take a good breath.
+DOCTOR: Okay, “chest pain with deep breaths.” And you said it’s been going on for “a little while.” Can you try to be a little more specific?
+PATIENT: Specific… hmm. Maybe… a few months? Or was it longer? I did some work with my son, building a fence, maybe around springtime? It started around then, I think. It’s hard to say for sure. It comes and goes, not all the time.
+DOCTOR: Right. A few months, possibly related to some physical work. Does the pain feel sharp, dull, aching?
+PATIENT: It’s… more of an ache, I think. Not a real sharp pain, more like a tightness. And it feels… deep. Not right on the surface. Like it’s inside, you know? Makes me not want to… push myself too hard.
+DOCTOR: Okay, deep ache, tightness. And it limits your activity. Does anything specifically make it worse, besides just exertion?
+PATIENT: Hmm. Being cold, maybe? Or when I have to… lift something heavy. Like carrying wood, or… well, I don't lift much anymore. It’s just… easier to avoid it. And sometimes, when I lay down flat. That makes it… noticeable.
+DOCTOR: Alright. So cold, lifting, and lying flat seem to aggravate it. Have you had any coughing, fever, or shortness of breath along with this pain?
+PATIENT: No coughing, no fever. I… breathe okay, I guess. Not like I'm struggling or anything. It’s just… this ache. It's annoying, that's all. I don't remember being sick with a cough or anything like that.
+DOCTOR: Okay. Let's talk about your medical history for a moment. Do you have any other health problems that I should be aware of?
+PATIENT: Oh boy… medical history. Not much, really. I used to be strong, you know? Construction work. But things… wear you down. My wife… she took care of most of that stuff. I had my gallbladder out a long time ago. And… well, she's gone now. I don’t remember much about what doctors told me back then. It was… a while ago.
+DOCTOR: Alright. Gallbladder surgery in the past. And you mentioned your wife handled most of your medical care. Do you know if she ever told you about any other conditions you might have, like high blood pressure or diabetes?
+PATIENT: Diabetes… no, I don’t think so. She always made sure I ate… reasonably well. High blood pressure… maybe? She did worry about my salt intake. She used to say something about my blood pressure, but I don’t recall being on any medicine for it. I really don't remember. It was a long time.
+DOCTOR: Okay. Possible history of monitored blood pressure, but no clear diagnosis or treatment. Do you have any allergies to any medications?
+PATIENT: No, I don’t think so. Never really had to take much. A little pain reliever now and then, but nothing regularly. Never had a bad reaction to anything, as far as I know.
+DOCTOR: Alright. And are you currently taking any medications, even over-the-counter ones?
+PATIENT: Let me see… no. Not really. Just… sometimes I take something for my knees. They bother me when the weather’s bad. But that’s it. Just a little something from the store. I don't remember the name.
+DOCTOR: Okay. Now, let's do a quick physical exam. I'm going to listen to your lungs and heart, and I'll feel around your chest. Just breathe normally.
+PATIENT: Alright… fine. Go ahead, Doctor. Just… be gentle, okay? My ribs aren't what they used to be.
+DOCTOR: Take a deep breath in… and out… again… Okay. Your breathing sounds a little diminished on the left side, but no wheezing or crackling that I can hear right now. Your heart rate is regular, but a little slow. Any pain here?
+PATIENT: Ouch… yes. There. It’s not… sharp, but… uncomfortable. Feels… tight. Like a dull ache. It’s the same feeling as when I breathe deep.
+DOCTOR: Okay. Tenderness to palpation on the left chest wall. It's possible you're experiencing costochondritis - inflammation of the cartilage in your rib cage. It can cause chest pain that worsens with deep breathing or movement. But given your age and lack of other information, we need to rule out other possibilities. I'm going to order a chest x-ray to get a better look at your lungs and rule out anything more serious. Does that sound alright?
+PATIENT: X-ray… Is it… is it safe? I don’t like… radiation. I’ve heard things… But… if you think it’s best… alright. Do what you think is right, Doctor. I just want this pain to go away.
+DOCTOR: It's a very low dose of radiation, Mr. Ruocco, and the benefits of ruling out anything serious far outweigh the risks. We'll get the results quickly. In the meantime, I'm going to prescribe you some ibuprofen to help with the pain and inflammation. And I'll give you a referral to a local specialist who can assess the results and provide further guidance. Does that sound acceptable?
+PATIENT: Ibuprofen… okay. A specialist… more doctors… Fine. Just… please hurry. This pain is… getting old. And… just make sure it's nothing serious, okay?
+DOCTOR: Alright. I’ll get the orders sent to the radiology department and the referral to the specialist, Dr. Yang. She's good, very thorough. The radiology department will contact you to schedule the X-ray. I'll also have the nurse print out a paper with instructions for the ibuprofen dosage and some information about costochondritis. I'll schedule a follow-up appointment with you for a week from today to discuss the results. Does that work?
+PATIENT: A week… yes, that’s fine. Just… thank you, Doctor. I appreciate… you looking into this. I just want to be able to… breathe again.
+DOCTOR: Alright, Mr. Ruocco. I'll have the nurse come in and go over everything with you. Take it easy, and try to avoid any activities that worsen the pain. .
+PATIENT: Okay. Thank you, Doctor. I will. Goodbye. .

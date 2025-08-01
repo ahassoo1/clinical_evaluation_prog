@@ -1,0 +1,29 @@
+DOCTOR: Good morning, Mr. Tati. I am Dr. Blim. I see here you are a new patient. Let’s get straight to it, shall we?
+PATIENT: Morning, Doctor. Yes, new here. Uh… cough is bad. Been a long time, I think. Feels like always got something stuck. And tired… so tired all the time.
+DOCTOR: “A long time,” you say. Could you be more specific, please?
+PATIENT: Specific… uh… hmm. Maybe… six months? Or more? It’s hard to say, Doctor. Things kinda… blur together, you know? I keep getting sick, too. Like, my nose gets all blocked up, then runny. Happens a lot.
+DOCTOR: Blocked and runny nose… along with the persistent cough and fatigue. And how often is “a lot”, Mr. Tati?
+PATIENT: Uh… maybe every month? Sometimes two times a month. It’s… annoying. Have to blow my nose all the time. And then the cough starts again. My wife… she gets mad ‘cause I wake her up at night. She says I sound like a… like a frog.
+DOCTOR: Right. And have you noticed anything else accompanying these episodes, Mr. Tati?
+PATIENT: Else…? Like… with the cough and nose? Uh… sometimes my head hurts. Like… pressure, behind my eyes. And… I don’t know… feel a bit warm sometimes. Not really sick warm, just… kinda flushed. I don't know if that makes sense.
+DOCTOR: Flushed, you say. And this headache – is it constant, or does it come and go with these… episodes?
+PATIENT: Comes and goes, Doctor. Definitely with the nose and cough. When I feel the nose getting blocked, then the head starts to hurt. Not all the time though. Just… when it’s bad. I try to drink water, but… doesn’t always help.
+DOCTOR: Alright. Let’s move on to some basic history. Do you have any known allergies – to medications, foods, anything like that?
+PATIENT: Allergies… hmm. I don’t think so. Never been told I am. Maybe… dust? Sometimes I sneeze when I’m cleaning. But everyone does, right? I don’t get… like, really bad rashes or anything. My wife is the one with allergies. Pollen, she says. She takes pills.
+DOCTOR: Very well. And are you currently taking any medications at all, Mr. Tati?
+PATIENT: No, Doctor. Nothing. I try to avoid pills if I can. Just… drink water and rest. My wife sometimes gives me… cough syrup, but it doesn’t really do much. Makes me sleepy, that’s all.
+DOCTOR: And your past medical history, Mr. Tati?
+PATIENT: Past… uh… hmm. I… I don't really remember much. I was sick when I was a kid, I think. Usual kid stuff. But… nothing serious. Never been to the hospital. Never had… operations or anything like that. I work, you know? Tire repair. Not much time for doctors.
+DOCTOR: Alright. And family history?
+PATIENT: Family… uh… my father, he had… I think he had high blood pressure. My mother… she was okay, mostly. Just old age, you know? She got… weak. I don't really know much about their illnesses, Doctor. We didn't really talk about it much.
+DOCTOR: Very well. Let’s move on to your social history. Do you smoke, drink alcohol, or use any recreational drugs, Mr. Tati?
+PATIENT: No, Doctor. No smoking. I tried it once, didn't like it. Sometimes I drink a little beer with my friends, on the weekend. Not much. And no… no drugs. I need to be awake for work, you know? Tires are dangerous.
+DOCTOR: Alright, Mr. Tati. Let's have a listen to your lungs. Please remove your shirt and I’ll auscultate your chest.
+PATIENT: Okay, Doctor. Sure. This is… cold.
+DOCTOR: Alright. Your lungs are clear bilaterally, but I detect some mild wheezing. Your respiratory rate is slightly elevated, but not concerning at the moment. Your heart sounds are regular. Now, let’s take your temperature and blood pressure.
+PATIENT: Okay, Doctor. Whatever you need. I just want to feel better, you know? This cough is… tiring. It makes it hard to work.
+DOCTOR: Your blood pressure is slightly elevated – 140/90 – and your temperature is normal. Based on your history and this brief examination, it appears you are suffering from a likely case of allergic rhinitis with a secondary bronchitis. This is quite common, especially given your occupation. Dust and particulate matter can certainly exacerbate these symptoms.
+PATIENT: Allergic… what-itis? And… what does that mean? The dust from the tires? I… I try to wear a mask, but it gets hot. Is it bad? Do I need… a lot of pills?
+DOCTOR: It means your allergies are causing inflammation in your nasal passages, leading to the cough and congestion. The dust is likely a trigger. We can try an over-the-counter antihistamine to manage the symptoms. Something like loratadine or cetirizine. Avoid strenuous activity when symptoms are bad. And please, make a better effort to wear a properly fitted mask. It's a simple precaution. Here is a prescription for a nasal steroid spray to reduce inflammation. Use it twice daily. If symptoms persist after two weeks, return for a follow-up. Do you have any questions?
+PATIENT: Okay… antihistamine… and the… spray. Twice a day. And wear a better mask. What… what if it doesn’t work? What if it gets worse? Is… is it contagious? My wife… she doesn’t want to get sick. And… how much does all this cost? .
+DOCTOR: Mr. Tati, with all due respect, you are asking a great deal of questions for a relatively straightforward condition. It is not contagious. As for the cost, I cannot provide you with an exact figure; you will need to check with your pharmacy. If the symptoms worsen despite these measures, then, and only then, we will consider further investigation. But frankly, with a bit of diligence and the medication I’ve prescribed, you should see improvement. I have other patients waiting, so I must ask you to excuse me. .

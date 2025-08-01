@@ -1,0 +1,26 @@
+DOCTOR: Good afternoon, Ms. MacVittie. I’m Dr. Cumper. So, what brings you in to see me today?
+PATIENT: Good afternoon, Doctor. Well, it’s… rather embarrassing, actually. I’ve been going to the restroom quite a lot lately. More than usual, definitely. It's just… frequent, you see. I don't really know why it's happening, and it's becoming a bit disruptive.
+DOCTOR: Okay, I understand. Frequent urination can be disruptive, and it's good you’re getting it checked out. Let’s try to figure out what might be going on. When you say “a lot,” can you give me a rough estimate of how often you’re going to the bathroom during the day?
+PATIENT: Oh, goodness. That’s… a tricky question. I don’t really count, you see. But… probably every hour or two, at least. Maybe even more often if I’m drinking a lot of water. It’s hard to say precisely. I wish I was better at keeping track! It just feels like… constantly needing to go.
+DOCTOR: Okay, every hour or two, perhaps more with increased fluid intake. And is it just frequency – needing to go often – or are you experiencing any urgency – a sudden, strong need to go right now?
+PATIENT: Yes… yes, there is a bit of urgency. Not always, but… often when I feel like I need to go, it’s quite… sudden. It's not a gradual feeling, if that makes sense. It just… comes on quickly, and I have to go immediately. It’s a bit unsettling, to be honest.
+DOCTOR: Okay, so increased frequency and urgency. Have you noticed any pain or burning sensation when you urinate?
+PATIENT: Hmm… no, not really pain. No burning, either. It doesn't hurt to go, thankfully. It's just… the need to go is the problem, not the act itself. Though… sometimes, after I go, there’s a little bit of… discomfort, a sort of empty feeling, but it’s not painful. It’s hard to describe.
+DOCTOR: Okay, no pain or burning with urination, just a bit of discomfort afterward, a feeling of emptiness. Do you notice any change in the color or smell of your urine?
+PATIENT: Oh dear. I... I honestly can’t say, Doctor. I don't usually… pay attention to that sort of thing. I know that sounds silly, doesn’t it? It’s probably a foolish thing to admit, but I haven’t been looking. I’m sorry.
+DOCTOR: It’s alright, Ms. MacVittie, no need to apologize. A lot of people don't routinely check those things. Okay. Have you been drinking more fluids than usual lately?
+PATIENT: No, I don't think so. I mean, it's been quite warm, so perhaps a little more water, but nothing drastic. I haven’t changed my habits particularly. I have my usual morning coffee, and I try to drink water throughout the day, but it’s been a pretty normal summer, I think.
+DOCTOR: Okay, normal fluid intake. Now, have you experienced any fever, chills, or back pain?
+PATIENT: No fever, no chills. And… no, not back pain either. Well, sometimes I get a little ache in my lower back after a long day, but that’s just my age, I think. Nothing specific related to… this.
+DOCTOR: Alright. And are you sexually active?
+PATIENT: Oh. Well… I am divorced, Doctor. I… I haven't been active for quite some time. Not currently, no.
+DOCTOR: Okay, thank you for sharing that. Now, let's talk a little bit about your medical history. Have you ever been diagnosed with diabetes or any urinary tract infections?
+PATIENT: Diabetes… no, I don't believe so. I've never been told I have diabetes. My mother had it, though… but I don't remember ever being tested myself. As for… urinary tract infections… I think I had one once, a long time ago, when I was younger. But it was so long ago, I honestly don’t recall the details. It wasn’t particularly severe, I don't think.
+DOCTOR: Okay, mother with diabetes, possible UTI in the past. Do you have any allergies to any medications?
+PATIENT: No, not that I'm aware of. I don’t take any regular medication at all, so I haven’t had much opportunity to have an allergic reaction. I’ve had the occasional antibiotic, I suppose, but I don’t recall any problems with those.
+DOCTOR: Alright. And just to be thorough, are you currently taking any vitamins or herbal supplements?
+PATIENT: Hmm… let me see. Just… a multivitamin, occasionally. Nothing regularly. My friend recommended it for… energy. But I’ve been a bit lax with it lately, to be honest. I don't think it’s making any difference either way.
+DOCTOR: Okay, occasional multivitamin. Now, I’d like to do a quick physical exam if that’s alright. I’ll listen to your abdomen, and I’ll do a quick neurological check. Then, I’d like to take a urine sample to test for infection and sugar. Does that sound okay?
+PATIENT: Yes, that sounds perfectly alright, Doctor. I trust your judgment completely. Whatever you think is best. I just want to figure out what’s going on. A urine sample… yes, I can manage that.
+DOCTOR: Okay, excellent. If you'll excuse me for a moment, I’ll set up the computer and get some supplies ready. Please use the bathroom over there, and I’ve left a specimen cup. Try to collect a mid-stream sample – that means start urinating, then collect a sample about halfway through. And please let me know when you're finished. I'll be right back.
+PATIENT: Very well, Doctor. Thank you. .

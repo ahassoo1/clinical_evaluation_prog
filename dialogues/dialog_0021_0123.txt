@@ -1,0 +1,29 @@
+DOCTOR: Right. Well, Mrs. Cassimatis, have a seat. So, what brings you in today?
+PATIENT: Oh, thank you, dear. It's this itch... everywhere, really. It's been driving me crazy for a few weeks now. Not like a bug bite, just... constant. It's worse at night, I think.
+DOCTOR: Everywhere, you say?
+PATIENT: Yes, pretty much. Arms, legs, back... even my tummy. It’s not red or bumpy, not usually anyway. Sometimes it looks a little dry, but mostly it just…feels like ants marching under my skin, you know? It’s hard to explain.
+DOCTOR: Hmm. And has anything changed recently?
+PATIENT: Let me think... not really. I mean, the usual aches and pains of getting older, ha! No new soaps or lotions, no new foods… I’ve been cooking the same things for years, pretty much. Oh! Wait… I did start using a new laundry detergent a few weeks ago, right around when this started. It's supposed to be good for sensitive skin, but… maybe it’s not? I don't know.
+DOCTOR: Laundry detergent…right. And how’s your sleep been?
+PATIENT: Oh, not great, dear. Not great at all. The itching keeps me up, of course. I toss and turn. I used to be a sound sleeper, but now… I wake up a few times a night, and sometimes I just can't get back to sleep. It’s frustrating.
+DOCTOR: Alright. And do you have any other skin conditions, like eczema or psoriasis?
+PATIENT: No, nothing like that. Never had anything like eczema or… what was it, psoriasis? No, I’ve always just had normal skin, you know? A little dry in the winter, but nothing serious. My mother had good skin, and I always thought I inherited that. This is just…weird.
+DOCTOR: Any known allergies?
+PATIENT: Not that I know of. I eat everything. I’ve never had a reaction to anything, not food, not plants… nothing. I used to garden a lot, and never had a problem with poison ivy or anything like that. Oh! Except for dust. I’m a little sensitive to dust, makes me sneeze, but that’s it.
+DOCTOR: And are you currently taking any medications?
+PATIENT: Just a little something for my blood pressure. It's been a little high, the doctor told me to take a small pill every day. That's it. Nothing else. See? Just this little one.
+DOCTOR: Right. And what about your family history?
+PATIENT: Oh, goodness. Let me think. My mother, she lived to be 85, very healthy. My father… he had diabetes, I think. And my brother, he had heart trouble. Not much in the way of skin problems, though, as far as I know. It’s hard to remember, you know? It was a long time ago. Everyone always just worried about heart problems and things like that.
+DOCTOR: Okay. Let's have a look at your skin. If you don’t mind.
+PATIENT: Oh, yes, of course. Go ahead, dear. It’s probably not much to see, just…dryness, maybe? But you take a look.
+DOCTOR: Hm. Not much redness, as you said. No visible rash or lesions. Skin feels…slightly dry, but not significantly. Let me check your back. Could you lean forward for me?
+PATIENT: Yes, of course. It’s a little hard to bend like this, my back isn't what it used to be, but I can manage. Go ahead, dear.
+DOCTOR: Still no rash. Some dryness. It's hard to say. It sounds like it could be a simple case of dry skin, exacerbated by stress or…perhaps the detergent. We can try a topical steroid cream. Nothing strong, just for a week or so. And a good moisturizer. Cetaphin or Eucerin, something like that.
+PATIENT: Oh. Well, that sounds…reasonable. A cream, alright. I suppose I can try that. And you think it could be the detergent, even though it’s supposed to be gentle? I hate to think it’s something I’m using.
+DOCTOR: It's possible. These things happen. Sometimes “sensitive skin” formulas just don’t agree with people. I’ll write you a prescription for the cream, and you should see some improvement in a few days. If it doesn't clear up, or gets worse, then we can consider other possibilities.
+PATIENT: Alright. And the moisturizer... you said Cetaphin or… something? How often should I put it on? And is there anything else I should be doing? Anything I should avoid?
+DOCTOR: Twice a day. After you shower, and before bed. Avoid hot water. It dries out your skin. And… avoid scratching, if you can. Common sense, really. Here. This will have instructions. Anything else?
+PATIENT: Oh. No, I don't think so. Just…thank you, dear. I appreciate you looking at it. I hope this cream works. It’s just so uncomfortable.
+DOCTOR: Right. Well, if it doesn't improve, come back and see me. Have a good day.
+PATIENT: Yes, alright. You too. Have a good day. .
+DOCTOR: .

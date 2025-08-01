@@ -1,0 +1,30 @@
+DOCTOR: Good morning, Ms. McConnon. I’m Dr. Versace. What brings you in to see me today?
+PATIENT: Oh, hello Doctor. It’s… well, my tummy feels big. Bigger than usual, you know? And I don’t want much to eat these days. Not like before. It just… doesn’t feel right.
+DOCTOR: "Bigger than usual," you say. And a decreased appetite. How long has your tummy been feeling this way, Ms. McConnon?
+PATIENT: Oh dear… how long? That’s a good question. It feels like… a little while now. Maybe a few weeks? Time… it goes so fast, you know. I’m not good with remembering dates anymore. It’s just been getting… more noticeable.
+DOCTOR: A few weeks, alright. And would you describe this as discomfort, pain, or just… fullness?
+PATIENT: Hmm… not really pain, no. More… uncomfortable. Like it’s full of air maybe? And heavy. It’s not a sharp feeling, just… there. A dull feeling. Does that make sense?
+DOCTOR: Yes, that does make sense. And have you noticed any changes in your bowel habits, Ms. McConnon?
+PATIENT: Bowel… habits? Oh, goodness. Well… I go to the bathroom, yes. Like everyone does. Has it been… different? I don’t really… pay much attention, to be honest. Maybe not as often? But I’m not sure. Old age, you know… things change.
+DOCTOR: Alright. And have you experienced any nausea, vomiting, or changes in your weight recently?
+PATIENT: Oh, no vomiting, thankfully. I haven’t been sick like that. And weight… well, I don’t have a scale. I think I’m… the same? Maybe a little thinner, but that could just be… me getting older. I haven't really noticed a big change.
+DOCTOR: Alright. And are you experiencing any fatigue, or shortness of breath?
+PATIENT: Fatigue… oh, yes. A little tired, yes. But I'm ninety years old, Doctor! I get tired just thinking sometimes. Is that what you mean? Shortness of breath… not really. I walk to the store sometimes, and I get a little winded, but that’s always been the case. It’s probably just… my age.
+DOCTOR: I understand. Let's move on to some other questions. Do you have any known allergies to medications, food, or anything else?
+PATIENT: Oh, allergies… hmm. Not that I know of. I eat most things. I used to be allergic to dust, I think, when I was a little girl, but I haven’t had a problem with it for… well, a very long time. No, I don't think I have any allergies.
+DOCTOR: Alright. And are you currently taking any medications, including over-the-counter drugs or supplements?
+PATIENT: Oh, no. No pills, no nothing. I don’t like taking medicine if I don’t have to. My daughter used to try to give me vitamins, but I didn’t like them. I just… don’t take anything.
+DOCTOR: Very well. Now, Ms. McConnon, I’m going to need to examine your abdomen. Please lie down on the examination table for me. I'll need you to bend your knees.
+PATIENT: Oh, alright. On the table, you say? My bones aren't what they used to be, Doctor. Is this alright?
+DOCTOR: Yes, that’s perfect, Ms. McConnon. Just relax. I’m going to listen to your abdomen with my stethoscope, and then I’ll gently press on your tummy to feel for any tenderness. It may be a little uncomfortable, but please let me know if you experience any pain. I’m hearing normal bowel sounds... somewhat hypoactive, but not alarming. Now, I’m going to gently palpate your abdomen. Any discomfort here?
+PATIENT: Oh, that's… a little pushy. Not pain, exactly, but… yes, I feel it. A little pressure. It’s not… sharp. Just… there. Like a full feeling. A bit uncomfortable.
+DOCTOR: Alright. And what about here?
+PATIENT: Oh… that’s a little more… noticeable. Not bad, but… yes. A bit tender. Like a dull ache. But not a sharp pain, Doctor. Just… discomfort.
+DOCTOR: Alright. I’m noticing some mild tenderness in both the right and left lower quadrants, and a slight fullness to your abdomen. Given your age and symptoms, and the absence of fever or vomiting, my initial concern is either constipation or a possible fecal impaction. However, to rule out other possibilities, I would like to order a complete blood count and a basic metabolic panel. And, if you’re able, a stool sample would be helpful. Do you have any difficulty providing a stool sample?
+PATIENT: Oh dear… a stool sample? That sounds… unpleasant. I don’t think I’ve ever had to do one of those before. I can… try, I suppose. It’s just… a bit embarrassing, isn't it? And difficult at my age. But if it helps, I can try.
+DOCTOR: I understand it’s not pleasant, Ms. McConnon. We’ll provide you with the necessary container and instructions. The lab will give you detailed information on how to collect the sample. It’s important to get a good sample so we can rule out any other issues. I’m also going to write you a prescription for a mild stool softener to help with any potential constipation. Please start taking that tonight. We’ll schedule a follow-up appointment in one week to discuss the lab results and see how you're feeling. Does that sound alright?
+PATIENT: A stool softener… alright. That sounds… better than nothing. A week… yes, that’s good. I’ll try my best with the sample, Doctor. I don’t want to cause any trouble. A week sounds fine for a check-up. Thank you.
+DOCTOR: Excellent. Here’s your prescription for the stool softener, and this is the lab order for the complete blood count, basic metabolic panel and stool sample. The lab is located just down the street. Please take these with you. The staff there will assist you with everything. Now, is there anything else I can help you with today, Ms. McConnon?
+PATIENT: Oh, no, I think that’s all. You’ve been very kind, Doctor. A little embarrassed about the sample, but… I appreciate you looking after me. And thank you for explaining everything so clearly. Old age… it's a bit of a bother sometimes.
+DOCTOR: You're very welcome, Ms. McConnon. It's my pleasure. Please don’t hesitate to call the office if you have any questions or concerns before your follow-up appointment. Take care of yourself.
+PATIENT: Alright, Doctor. I will. Thank you again. Goodbye now. .

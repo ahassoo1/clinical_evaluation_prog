@@ -1,0 +1,23 @@
+DOCTOR: Good morning, Mr. Kingan. I'm Dr. Burlingham. So, what brings you in to see me today?
+PATIENT: Morning, Doctor. Just need a check-up for… well, a sports team tryout. Gotta make sure I’m not too old to be running around, I guess.
+DOCTOR: A tryout, you say?
+PATIENT: Yeah. Local team. Doesn’t pay much, but keeps me moving. I’m… uh… what sport did I tell you? It's on the tip of my tongue. Soccer. That's it. Soccer.
+DOCTOR: Soccer. Right. And you’re… how old did you say again?
+PATIENT: Sixty-two. Not exactly a spring chicken, I know. But I keep myself in shape. Mostly. Look, can we just get this over with? I got things to do.
+DOCTOR: Yes, well. Sixty-two is a bit advanced for competitive sports, wouldn't you agree?
+PATIENT: It is what it is. I’m still pretty fast, though. And I can still kick the ball. We'll see what the doctor says, right? Just need a thumbs-up, that's all.
+DOCTOR: A “thumbs-up,” as you say. Very well. Let’s start with a basic examination, shall we?
+PATIENT: Sounds good. Whatever gets it done faster.
+DOCTOR: If you’ll just have a seat. I’m going to listen to your heart and lungs first, then check your reflexes and blood pressure. It’s standard procedure.
+PATIENT: Alright, alright. Let’s get this over with. Just… try to be quick, okay?
+DOCTOR: Take a deep breath for me… and exhale. Again. Any history of shortness of breath, Mr. Kingan?
+PATIENT: Not really. Maybe after I run a lot, but who doesn't get winded after running? I don't have asthma or anything. Never smoked either.
+DOCTOR: Good. And any chest pain?
+PATIENT: Nah, no chest pain. Just… old man aches, you know? Happens when you get to be my age. Is that a problem? Can soccer cause that?
+DOCTOR: We’ll determine that as we go along. Now, have you noticed any swelling in your ankles or feet?
+PATIENT: Hmm… not really. I mean, sometimes they feel a little puffy after a long day, but nothing major. Maybe just from standing too long. I don’t think so. I usually wear good socks. Does that count?
+DOCTOR: Socks are… helpful. Now, I'm going to take your blood pressure. Remain still, please. 140 over 90. A bit elevated.
+PATIENT: Elevated? Is that… bad? I don’t usually go to doctors, so I don’t know these numbers. Does that mean I can’t play soccer?
+DOCTOR: It means we need to investigate further. It's not ideal for strenuous activity, Mr. Kingan. We’ll need to run some tests to rule out any underlying issues. Before we proceed, do you have any known allergies?
+PATIENT: Allergies? Not that I know of. Maybe a little sniffly when the pollen's bad, but nothing serious. No bee stings, no peanuts, nothing like that. I eat pretty much anything. .
+DOCTOR: And are you currently taking any medications?

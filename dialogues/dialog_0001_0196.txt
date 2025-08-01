@@ -1,0 +1,23 @@
+DOCTOR: Alright, Ms. Licano. So, what brings you in today?
+PATIENT: Oh, um… it’s this tiredness. Just… always tired. I don't even know when it started, really. A long time ago, I guess. It’s just… draining. Is that what you wanted to know?
+DOCTOR: Draining, right. Okay. "A long time ago" isn't terribly helpful, unfortunately. Can you try to be more specific?
+PATIENT: Ugh, specifics… See, that’s the problem. It’s… blurry. Maybe… after my husband passed? It got worse then, definitely. Before that, I just thought I was… getting older. You know? Normal tired. But now… it’s different. Does that help at all? I really wish I could remember better.
+DOCTOR: Okay, after your husband's passing. And you'd say it's more than just typical aging?
+PATIENT: Yes! Definitely more. Like… I can sleep all night, even ten hours, and still feel like I haven’t slept a wink. And I just… don’t have the energy to do anything. Even things I used to enjoy. It’s just… awful. I don't know what to tell you. It’s just… a lot.
+DOCTOR: Right, "a lot." Okay. And besides the tiredness, are you experiencing anything else?
+PATIENT: Hmm… let me think. My bones ache sometimes. Not all the time, but… yeah, aches. And I get headaches, but I get those a lot, even before. So… maybe not. I’m really not sure. I just feel… worn out. Is this going to be a long appointment? I have… things to do.
+DOCTOR: We'll try to be quick. Okay, aches and frequent headaches. Any changes in your appetite?
+PATIENT: Appetite… Not really. I eat, I think. Sometimes I don’t feel like eating, but I force myself. My daughter worries about me, she says I’m too thin. But I haven't really noticed a big change, you know? I just… don't have much energy to cook fancy things anymore. Simple is best. Does that make sense?
+DOCTOR: Right. So, eating normally, though you force yourself sometimes. Any trouble with your bowel movements?
+PATIENT: Oh… um. Well, yes, a little. Things are… slower, if you know what I mean. But honestly, who doesn’t have trouble with that sometimes? It can’t be that important, can it? I’m just tired, remember? That’s the main thing.
+DOCTOR: Okay, constipation. Anything else at all?
+PATIENT: Ugh… honestly? I just feel… foggy. Like my brain isn't working right. I forget things… a lot. I already said that, didn't I? It's… frustrating. I can't even keep track of what I’ve told you! Is there a test for being… foggy? I just want to know what’s wrong, you know?
+DOCTOR: Foggy… right. We’ll see. Let's do a quick physical exam, alright?
+PATIENT: Okay, fine. But please be quick. I really need to get going after this. I have an appointment with the pharmacy later, and I don't want to be late. Is this going to be one of those where you poke me all over?
+DOCTOR: Just a basic check. Let's start with your blood pressure. And I'll listen to your heart and lungs. Then we'll check your reflexes. It shouldn’t take long. Roll up your sleeve.
+PATIENT: Okay, okay. Here. Just… try not to poke too hard, alright? My bones are a little sensitive. And please tell me if you find anything… important. I really don’t want to be here all day.
+DOCTOR: 140 over 88. A little elevated, but not alarming. Heart sounds… regular. Lungs… clear. Reflexes… slightly diminished. Not terribly concerning. Anything else you haven't told me?
+PATIENT: No! No, I think that’s everything. Honestly, it’s just this tiredness. I keep telling you. Is it… something serious? Are you going to give me a bunch of pills? I already take enough, you know. I just want to feel normal again. Can you just… tell me what's wrong?
+DOCTOR: Well, frankly, Ms. Licano, it could be a number of things. Your symptoms are… vague. Fatigue is common. We’ll run some basic bloodwork – check your thyroid, vitamin levels, rule out anemia. I’m ordering a Complete Blood Count, a Thyroid Stimulating Hormone test, and a Vitamin D level. I'll also order a CMP to check your electrolytes. That's standard procedure. Go to the lab downstairs. We'll review the results when they come back. Don't get your hopes up, it's likely nothing serious. Is there anything else?
+PATIENT: Oh. Okay. A lot of things… I don't even know what half of those are. And… "don't get my hopes up?" That’s not very reassuring. Will they call me when the results are ready? I really don’t want to have to keep coming back here. This is all very… stressful. .
+DOCTOR: They’ll call you. Probably in a week. We can discuss it then. Next!

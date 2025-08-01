@@ -1,0 +1,26 @@
+DOCTOR: Right. Mr. Pithan, is it?
+PATIENT: Yeah, that’s me. Gerardo Pithan. Look, doc, I don’t usually get sick this bad, and it’s been going on for a while now. I just want to figure out what’s wrong so I can get back to work.
+DOCTOR: “A while now…” Could you be a little more specific, please?
+PATIENT: Hmm… let’s see. It started… maybe three, four months ago? Started with just a little cough, figured it was a cold. But it hasn’t really gone away. Just… keeps hanging on. And the sinus stuff started maybe a month or so after that. It’s just… annoying. And tiring. I get real wore out with it.
+DOCTOR: Alright. Cough and sinus issues for approximately three to four months. Any fever associated with this?
+PATIENT: Not really a fever, no. Maybe a little warm sometimes, but nothing I’ve bothered to check with a thermometer or anything. Just… generally feeling crummy. Like I got the flu, but not as bad, and it just won’t quit. Is that… helpful?
+DOCTOR: It’s… information. Have you noticed any changes in your cough?
+PATIENT: Changes? Well… it’s mostly a wet cough now. Used to be dry, scratchy. Now it’s… I gotta cough stuff up, you know? And it seems worse in the mornings, always. And when it's really bad, it makes my chest hurt a little. Not bad bad, just… uncomfortable.
+DOCTOR: Alright. Wet cough, worse in the mornings, associated chest discomfort. Do you smoke, Mr. Pithan?
+PATIENT: No, doc. Never have. My grandpa smoked a pipe, but I always steered clear of it. Bad habit, as far as I’m concerned.
+DOCTOR: Any shortness of breath?
+PATIENT: Not… really. Unless I'm really pushing myself. Like, climbing a lot of stairs, or walking up a hill. Then I get winded pretty quick. But just normal walking around, no. Not really.
+DOCTOR: Alright. Take a deep breath for me, please. And another… Good. Sounds a bit congested. Anything else you haven't mentioned?
+PATIENT: Well… sometimes my head feels real full, like pressure behind my eyes. And I’ve been sleeping kinda poorly. Tossin’ and turnin’ a lot. Doesn’t feel like a restful sleep, if that makes sense. And I’ve lost a bit of my appetite. Not much, but… less than usual.
+DOCTOR: Sinuses are tender to the touch. Alright. And any changes in your sense of smell or taste?
+PATIENT: Hmm… Now that you mention it… things don't taste quite as strong as they used to. Not gone, but… muted, I guess. Like someone turned the volume down a little. Smell is probably the same, haven't really paid attention.
+DOCTOR: Okay. Muted sense of taste. Any known allergies?
+PATIENT: Not really. I mean, I get a little hay fever in the spring, but nothing serious. Just a little snifflin’ and sneezin’. Nothing that keeps me up at night or anything. My mother was allergic to cats, but I'm fine around them.
+DOCTOR: And are you currently taking any medications, Mr. Pithan?
+PATIENT: Just some ibuprofen now and then, for the aches. Nothing regular, doc. I try to avoid taking pills if I can. They never seem to really fix anything, just cover it up.
+DOCTOR: Alright. No regular medications. Given your symptoms and the duration, it sounds like you might have a chronic sinus infection, potentially with some bronchitis. But we need to rule out other possibilities. I’m going to order a chest X-ray and some blood work to be on the safe side.
+PATIENT: X-ray and blood work, huh? Alright. Whatever you think is best, doc. Just want to get this sorted out. How long 'til I can get those done? And will that tell us what’s causing it?
+DOCTOR: The lab and radiology center are both on Elm Street. The slip has the addresses and phone numbers. Blood work usually takes a couple of days for results, and the X-ray report will be sent to my office within 24 hours. Once I have those results, we can discuss treatment options. It should narrow down the cause, but it’s not always definitive. Is there anything else?
+PATIENT: Elm Street, got it. Okay, that’s… helpful. No, I guess not. Just… get those done, and I'll wait to hear from you. Thanks, doc. I appreciate it. I should probably get going then.
+DOCTOR: Alright. The nurse will schedule a follow-up appointment once the results are in. Have a good day, Mr. Pithan.
+PATIENT: .

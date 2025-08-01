@@ -1,0 +1,22 @@
+DOCTOR: Right. Mr. Bulaong, yes. So, what brings you in today?
+PATIENT: Um... my chest hurts. Not all the time, but... sometimes. It's in my breast.
+DOCTOR: "Sometimes." Right. And how long has this "sometimes" been going on?
+PATIENT: Maybe... two, three weeks? I don't keep good track of dates. It comes and goes. Not every day.
+DOCTOR: And can you describe the pain?
+PATIENT: Uh... it's not a sharp pain. More like... a dull ache? Sometimes it feels full, like it's heavy. Not really bad bad, just... uncomfortable.
+DOCTOR: “Heavy,” alright. And does anything make it worse?
+PATIENT: Hmm... I think when I'm working on the roof, if I move my arms a lot... it feels more sore. But I always move my arms at work.
+DOCTOR: The roof, you say?
+PATIENT: Yes. I’m a roofer. It's hard work, you know? Lots of lifting and reaching.
+DOCTOR: Well, naturally it's going to ache if you’re doing manual labor. Let’s just… see. I’m going to listen to your heart and lungs, and then I’ll feel around. Try to relax.
+PATIENT: Okay. Sounds good.
+DOCTOR: Alright. Heart sounds are… normal. Lungs are clear. Chest wall feels… tender, as expected. You’re a thin young man, doing strenuous work. Probably just muscle strain.
+PATIENT: Strain? You mean... like I pulled something?
+DOCTOR: Precisely. A common occurrence with your line of work. I’m going to recommend you take some over-the-counter ibuprofen, 600 milligrams every six to eight hours as needed for pain. And try to… pace yourself. Do you have any allergies to medications?
+PATIENT: Um... no, I don't think so. My wife usually gets the medicine. I just take what she gives me.
+DOCTOR: Right. Well, if you develop a rash or difficulty breathing, stop taking the ibuprofen immediately and go to the emergency room. Otherwise, monitor it for a week. If it doesn’t improve, or gets worse… then, I suppose, you can come back. Do you have any other concerns?
+PATIENT: No... I guess not. Just... it worried me, you know? Because... it's in my chest. Men don't usually get chest pain, right?
+DOCTOR: Men do get chest pain, Mr. Bulaong. It's just… less common for it to be a serious issue. But you're young and otherwise healthy. Muscle strain is the most likely explanation. Now, if you'll excuse me, I have other patients waiting. I’m going to print out a discharge summary for you.
+PATIENT: Okay. Thank you, Doctor.
+DOCTOR: There. Take it easy, and try not to overdo it. Next! .
+PATIENT: Alright. Thank you. .

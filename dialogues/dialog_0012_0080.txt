@@ -1,0 +1,37 @@
+DOCTOR: Hi Thyra, welcome to the clinic. I'm Dr. Yoshino. It’s good to meet you. So, what brings you in today?
+PATIENT: Hi Dr. Yoshino, it’s good to meet you too. I'm just here to get some forms filled out, if that’s alright. Nothing major, just need to get it done.
+DOCTOR: Absolutely, that's perfectly alright. We can definitely get that taken care of. Just so I have a good understanding – are these forms for a specific purpose, like a new job, school, or something else?
+PATIENT: Oh, um… it’s for a new job, actually. Control and valve stuff, you know? They need a bunch of paperwork before I can start. It’s all pretty standard, I think.
+DOCTOR: Okay, control and valve work – sounds interesting! And yes, a lot of employers require detailed medical forms these days. We’ll just go through them systematically. Do you have a copy of the forms with you, or should I print them out now?
+PATIENT: I don’t have a copy with me, if you could print them out, that would be great. I figured you’d have the right ones here. Thanks!
+DOCTOR: No problem at all. Here you go. We typically use these forms for employment physicals. Take your time, and let me know if you have any questions as you fill them out. We'll start with your medical history. Anything you're unsure about, just ask. Would you like a pen and a clipboard?
+PATIENT: Yes, please! A pen and a clipboard would be perfect. Thank you so much for being so helpful. It always feels a little overwhelming with all this paperwork.
+DOCTOR: You're very welcome! It is a lot, and it's completely understandable to feel overwhelmed. That's what I'm here for. We’ll take it one step at a time. While you’re working on that, just so I have a complete picture, can you confirm your date of birth for me?
+PATIENT: Sure. It’s January 15th, 1990.
+DOCTOR: Great, thank you. And just to double-check – are you currently experiencing any health problems at all?
+PATIENT: No, not really. I feel pretty good, actually. Just the usual aches and pains from working with my hands all day, but nothing major. I try to stay active when I can, you know? Walk with my husband when we have time.
+DOCTOR: That's good to hear! Staying active is important. And those aches and pains from work are pretty common. We'll definitely want to note those down. Have you been diagnosed with any medical conditions in the past, like high blood pressure, diabetes, or asthma?
+PATIENT: No, nothing like that. I’ve been pretty lucky, health-wise. I had a bad flu a couple of years ago, but that was it. No long-term stuff, thankfully.
+DOCTOR: That's wonderful! It sounds like you've been taking good care of yourself. Have you ever had any surgeries or been hospitalized for anything?
+PATIENT: Nope, never. No surgeries, no hospital stays. I’ve managed to avoid all that so far, knock on wood.
+DOCTOR: That’s excellent! That's good to know. Now, thinking about your family – are there any significant medical conditions that run in your family, like heart disease, cancer, or diabetes?
+PATIENT: Hmm… let me think. My grandma on my mom’s side had diabetes, I think. And my dad’s side… there's been some heart trouble, yeah, a couple of uncles. But nothing major for a lot of them, if that makes sense. It’s not like everyone in the family has it, just… a few here and there.
+DOCTOR: That's helpful information, thank you. It's good to know even if it's not everyone. Okay, and just to finish up with the medical background, do you have any allergies to medications, food, or anything else?
+PATIENT: Nope, no allergies at all. I can eat pretty much anything, and I haven’t ever had a reaction to any medicine. I'm pretty boring that way, I guess!
+DOCTOR: That’s actually great! No allergies simplifies things a lot. Okay, so, no current medical problems, no past surgeries or hospitalizations, a bit of family history of diabetes and heart trouble, and no allergies. That’s a good start. Now, are you currently taking any medications at all, including over-the-counter ones, vitamins, or supplements?
+PATIENT: Nope, nothing. I try to eat healthy and get enough sleep, so I haven’t needed anything. Just the usual coffee in the morning to get me going!
+DOCTOR: Coffee doesn't count! That’s good, no medications to worry about. Okay, well, that covers a lot of the important background information. Now, before we move on to the physical exam portion, is there anything specific you're concerned about or any reason you wanted to get checked out while you're here?
+PATIENT: No, not really. Like I said, I'm just here for the forms. The job requires a physical, so I figured I’d get it done. I feel fine, honestly. Just want to make sure I’m healthy enough for the work, you know? It can be pretty physical lifting and moving stuff around.
+DOCTOR: That makes perfect sense. A pre-employment physical is a smart idea, especially with the physical demands of the job. Okay, let's go ahead and do a quick physical exam then. We'll just check your vital signs – blood pressure, heart rate, temperature – and then listen to your heart and lungs, and do a brief examination of your joints and muscles. Does that sound alright?
+PATIENT: Yes, that sounds fine. Whatever you need to do. I'm ready when you are.
+DOCTOR: Great. Let’s start with your blood pressure. Could you please sit comfortably with your feet flat on the floor and your arms relaxed at your sides?
+PATIENT: Okay, sure.
+DOCTOR: Okay… your blood pressure is 122/78. That’s within the normal range. Now, I’m going to listen to your heart and lungs. Please take a deep breath in… and out… again… deep breath in… and out… Everything sounds clear and regular. Heart rate is 72 and steady. Now, I'm going to check your temperature. Temperature is 98.6, normal. Now, just to get a better idea of your overall health, could you stand up for me?
+PATIENT: Okay, sure.
+DOCTOR: Okay, good. And how does that feel?
+PATIENT: It feels fine. No pain or anything. Just a little stiff maybe, but I work with my hands all day, so that’s to be expected.
+DOCTOR: Okay, that's good to know. A little stiffness is understandable with your work. Now, just a quick look at your reflexes… Reflexes are normal and symmetrical. Overall, everything looks good. No obvious concerns. I'm going to document these findings. Okay, I've documented all the findings from the physical exam. Everything appears normal. Do you have any questions for me at this point?
+PATIENT: No, I don't think so. Everything seems pretty straightforward. I appreciate you taking the time to do all this. I guess I just need you to sign off on the forms, right? So I can take them to my new job?
+DOCTOR: Exactly. I'm happy to sign off on the forms. Here you go. All signed and dated. Everything looks great, and you should be good to go for your new job. Congratulations! Just remember to listen to your body and take breaks when you need them. Do you need a copy of these forms for your records?
+PATIENT: Yes, please, a copy would be great. Thank you so much, Dr. Yoshino! I really appreciate your help.
+DOCTOR: You're very welcome, Thyra! I'm glad I could help. I've just emailed you a copy for your records. If you have any questions or concerns in the future, don't hesitate to reach out. Best of luck with your new job! .

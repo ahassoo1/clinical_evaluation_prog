@@ -1,0 +1,26 @@
+DOCTOR: Well, Ms. Queener, let’s get right to it. You’re here today because…?
+PATIENT: Oh, hello Doctor. Yes, well… it’s my leg. It’s been swelling, you see? After… after the treatment. It’s just… puffy. And a little bit sore, sometimes. Not all the time, thankfully.
+DOCTOR: “The treatment.” Right. And what was this treatment, Ms. Queener?
+PATIENT: Oh, um… for the cancer. A few years ago now. They… they did things with machines. And pills, of course. A lot of pills. It was at the big hospital in… in the city. I don't really remember all the names, to be honest. It was a long time ago, and I was… not feeling well, you understand.
+DOCTOR: Yes, well, naturally. So, this swelling…when did you first notice it?
+PATIENT: Hmm… let me think. It started… maybe a month ago? No, a little longer. Six weeks, maybe? It was small at first, just a little bigger than usual. I thought it was just from walking too much, you know? But it hasn’t gone down. It’s… still there.
+DOCTOR: Alright. And is it one leg or both?
+PATIENT: Just the left one. The left leg is the problem. The right one is… fine. Perfectly normal, thankfully! It’s only this one that feels… off.
+DOCTOR: And is there any pain with it?
+PATIENT: Like I said, sometimes. It's not bad pain, you understand? More like a… ache. And it’s worse if I stand for too long. Or if it’s very warm out. But mostly it just… feels heavy.
+DOCTOR: Alright. Let’s take a look. If you don’t mind, please lie down on the table, and we’ll get a better assessment of what’s going on with that leg.
+PATIENT: Oh, yes, of course. Be gentle, please? It feels… tender.
+DOCTOR: Alright. There’s definitely some swelling present in the lower left leg, as you mentioned. And…yes, it’s warmer to the touch than your right leg. The circumference is about two centimeters larger at the calf. Any history of blood clots?
+PATIENT: Blood clots? Oh dear. No, I don't think so. They didn't say anything about that. I… I had a lot of tests when I was sick, you understand. Many, many tests. But nobody ever mentioned a clot. Is that… bad?
+DOCTOR: Well, it can be. We need to rule things out, naturally. Have you noticed any changes in the color of your skin?
+PATIENT: Color…? Hmm. No, I don't think so. It looks… normal, I suppose? Maybe a little paler than usual, now that you mention it, but that's probably just… me. I'm not very good at noticing these things.
+DOCTOR: The pulses feel a bit diminished on the left side. And there is some pitting edema present. Alright. I’m going to order a D-dimer test, just to be on the safe side. And an ultrasound of your leg to visualize the blood flow. We'll need to rule out deep vein thrombosis.
+PATIENT: Oh, my goodness. That sounds… serious. Deep vein… what was it? Is that… very bad? I just want my leg to stop swelling, you understand.
+DOCTOR: It can be serious, Ms. Queener, which is why we’re taking precautions. Deep vein thrombosis – DVT – is a blood clot in a deep vein, usually in your leg. If it breaks loose, it can travel to your lungs, causing a pulmonary embolism. That is serious. But we’re not jumping to conclusions. We’re getting tests to rule it out. The lab will call you with the results. If it comes back positive, we'll need to start you on blood thinners immediately. Do you have any allergies to medications?
+PATIENT: Oh, dear me. That sounds… frightening. I… I don't think so. No allergies that I know of. They gave me so many pills when I was sick, you understand? Many, many pills. I don’t think I reacted to any of them. But it was a long time ago… I forget.
+DOCTOR: Alright. I will order the D-dimer and ultrasound. In the meantime, try to elevate your leg as much as possible, and avoid prolonged standing. If you experience any shortness of breath, chest pain, or sudden worsening of the pain in your leg, go to the nearest emergency room immediately. Understand?
+PATIENT: Yes, Doctor, I understand. Elevate… and no standing. And… emergency room if it gets worse. Shortness of breath…chest pain. It’s just… all a bit much, you understand?
+DOCTOR: It's standard procedure, Ms. Queener. We need to be thorough. The lab will contact you to schedule the tests. The results will be sent to me, and we’ll discuss them once they’re available. Is there anything else?
+PATIENT: No… I don’t think so. Just… thank you, Doctor. I appreciate you looking at it. I hope it’s nothing too serious, you understand. I just want to get back to my garden.
+DOCTOR: Alright. We'll know more once the tests come back. Have a good day, Ms. Queener. .
+PATIENT: .

@@ -1,0 +1,24 @@
+DOCTOR: Right. Jahaad Tomassoni, 25 years old. So, what brings you in today?
+PATIENT: Good morning. Well, it’s a bit… difficult to explain precisely. I’ve noticed some swelling, yes. It’s not terribly painful, but it’s definitely… there. I'm not quite sure when it started, to be honest. My memory isn't what it used to be.
+DOCTOR: Swelling… where, exactly?
+PATIENT: Oh, um… Mostly around here, I think. My neck, and… my cheeks, maybe? It’s hard to pinpoint. It feels… sort of all over, but more noticeable in those areas. It’s not like a sudden thing, it’s just… gradually gotten bigger, I suppose. I hope that makes sense.
+DOCTOR: “Gradually.” Right. And how long ago would you say this “gradual” process began?
+PATIENT: That’s… a tricky question. Weeks, perhaps? Maybe a month or two? It’s frustrating, I really wish I could give you a more precise answer. I just… don’t recall exactly when I first noticed it. It wasn’t dramatic, so I didn’t really pay much attention at first. I apologize for being so vague.
+DOCTOR: Weeks to months. Alright. Any associated symptoms?
+PATIENT: Associated symptoms… Hmm. Let me think. No pain, as I mentioned. No fever, no difficulty breathing. I haven’t noticed any changes in my voice, and I haven’t been feeling particularly tired. It doesn't feel hot to the touch, either. Honestly, it’s just… the swelling itself. I suppose my skin feels a little tighter in those areas, but that could just be my imagination. Is that helpful?
+DOCTOR: Alright. And any recent illnesses?
+PATIENT: Recent illnesses… Not that I recall. I had a bit of a cold last winter, I think, but that was months ago. Nothing serious. No hospital visits, no surgeries… I generally try to stay healthy, but, again, my memory is… unreliable. I haven't been feeling sick recently, no. Would anything specific trigger a recollection, perhaps?
+DOCTOR: Allergies?
+PATIENT: Allergies… I think I have seasonal allergies, yes. Mostly pollen, I believe. It makes my eyes itchy sometimes, and I occasionally sneeze, but I haven’t taken anything for it this year. I just usually try to avoid being outside when it’s particularly bad. Could that be related? Is that common?
+DOCTOR: Family history of… anything like this?
+PATIENT: Family history… That’s a good question. My mother… she had some thyroid issues, I believe. But I don’t know the specifics, and I’m not sure if that’s relevant. My father was generally very healthy, as far as I know. No history of swelling or anything similar on his side, at least to my knowledge. It’s difficult, because I didn’t spend much time discussing medical things with either of them, truthfully.
+DOCTOR: Alright. Let's have a quick look. Please sit up straight. I'm just checking for any… irregularities.
+PATIENT: Certainly. Please, take your time. I'm happy to cooperate in any way I can. Just let me know if you need me to do anything specific. It's… a little unnerving, having someone examine me, but I understand it’s necessary.
+DOCTOR: There is some mild tenderness to palpation along the submandibular glands, bilaterally. No palpable lymphadenopathy. Skin is taut, as you mentioned. No erythema or warmth. I'm not detecting anything particularly concerning at this point. But we should rule out a few possibilities.
+PATIENT: That… sounds complicated. “Not particularly concerning” is good, I suppose. What possibilities are we ruling out? And… what does that involve? Is it… painful? I apologize for asking so many questions, I just… like to be prepared.
+DOCTOR: We'll need to order some blood work. A complete blood count, thyroid panel, and inflammatory markers. It’s standard procedure. The blood draw itself is… a minor discomfort. I doubt it will be painful, but you may feel a slight prick. It's to rule out infection, thyroid issues, and any autoimmune causes. I’m writing the order now. Do you have any known allergies to latex or other materials?
+PATIENT: No, no allergies to latex or anything like that, as far as I’m aware. Blood work sounds… manageable. I’m happy to do whatever’s necessary. And the prick… I can handle a little prick. Thank you for explaining everything so thoroughly. It really helps to know what's going on. When would I be able to get that done?
+DOCTOR: Here. You can get this done at the lab across the hall. They’re open until 5 PM today. Once you've had the blood work done, they will send the results to my office. It typically takes 24-48 hours for the results to come back. Once I review them, I will contact you to schedule a follow-up appointment to discuss the findings. Do you have any questions before you go?
+PATIENT: Excellent. 24-48 hours, right. I will go across the hall immediately. Thank you so much for your time and patience, Dr. Sink. I truly appreciate it. No, I don’t believe I have any further questions at the moment. I'll see you when the results are in. Have a good day.
+DOCTOR: Very well. You'll be contacted. Next. .
+PATIENT: .

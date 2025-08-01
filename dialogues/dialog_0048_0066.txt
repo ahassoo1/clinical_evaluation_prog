@@ -1,0 +1,26 @@
+DOCTOR: Right. Mr. Mastrantonio, yes?
+PATIENT: Yes, that’s me. Thank you for seeing me, Doctor Sink. It’s… well, it’s a bit odd to explain, but I’ve been having this sensation in my back.
+DOCTOR: "A sensation." Yes, well, most people come in with something specific. Could you be a little more precise?
+PATIENT: Certainly. It’s… a popping, or clicking, really. I feel it when I move, mostly when I twist or bend. It doesn’t hurt, exactly, but it’s… noticeable. It started maybe a week or so ago. I was lifting some boxes in the garage, nothing too heavy, and it just… began.
+DOCTOR: “Popping.” Right. And this doesn’t impede your daily activities?
+PATIENT: No, not at all. I’ve been able to do everything as usual – work, chores around the house… I’m an electrical installer, so I’m on my feet and moving a lot, and it hasn’t stopped me from doing my job. It's just… unsettling, you know? I've never experienced anything like it before.
+DOCTOR: Electrical installer. So, physical job. Have you had any back injuries previously?
+PATIENT: No, never. Not that I recall, anyway. I've always been pretty careful, and I try to lift things properly. I stretch before work most days, too. Nothing serious, no falls or anything like that. Just the usual aches and pains from a long day, but nothing that would qualify as an injury.
+DOCTOR: And any family history of…back problems?
+PATIENT: That’s a good question. Let me think… My father had some issues with his lower back when he got older, mostly arthritis, I believe. My mother was generally quite healthy, no real complaints about her back. Nothing that I’m aware of in terms of… specific conditions that might be relevant. Would arthritis be something to consider?
+DOCTOR: Possibly. Although, at your age… it's less likely. Any numbness, tingling, or weakness in your legs or feet?
+PATIENT: No, none at all. Everything feels perfectly normal, as far as I can tell. Full range of motion, no pain radiating down my legs, no pins and needles… just this clicking sensation in my back. It’s more of an audible thing, if that makes sense. I can sometimes feel it, but mostly I just hear it.
+DOCTOR: Alright. Let's just have a quick look, shall we?
+PATIENT: Yes, of course. Whatever you think is best, Doctor. Please let me know if there's anything specific I should be doing or avoiding while you examine me.
+DOCTOR: Just lie flat on your stomach for me, please. I'll palpate your spine and check your range of motion. Try to relax. Now, can you twist to your right?
+PATIENT: Certainly. There. Does that help you determine anything? I felt a small… pop there, just like usual. It doesn’t cause me pain, but it’s definitely noticeable.
+DOCTOR: Hmm. Limited crepitus noted upon spinal palpation. Range of motion within normal limits, although slight discomfort reported with twisting. No signs of acute inflammation. Now, let's check your reflexes…
+PATIENT: Okay. Please let me know if anything feels unusual. Is there anything specific I should be thinking about during this part of the examination?
+DOCTOR: Reflexes are normal bilaterally. Look, Mr. Mastrantonio, this sounds like a benign mechanical issue. Probably some minor facet joint irritation. It’s unlikely to be anything serious.
+PATIENT: That’s… reassuring to hear, Doctor. So, is there anything I should do about it? Like, stretches, or avoiding certain movements? Would physical therapy be a good idea, just to be on the safe side? I wouldn’t want it to worsen or become a chronic issue.
+DOCTOR: Honestly?
+PATIENT: Yes?
+DOCTOR: Honestly, I doubt it will become anything. But… fine. Over-the-counter anti-inflammatories as needed. And if it doesn't resolve in a few weeks, then consider physical therapy. I'm not convinced it's necessary right now. Do you have any other concerns?
+PATIENT: I suppose not. That sounds reasonable. So, over-the-counter anti-inflammatories and monitor it. Thank you, Doctor Sink. I appreciate your time and expertise. I was just worried about it, being a new sensation. Should I schedule a follow-up appointment, or just contact you if it worsens?
+DOCTOR: Contact me if it worsens. No need to waste both our time with a follow-up unless absolutely necessary. Here’s a printout summarizing my recommendations. Next patient, please.
+PATIENT: Thank you again, Doctor. Have a good day.
